@@ -19,7 +19,7 @@ $ pip install fire requests lxml
 
 不是很会写异步代码，所以目前还是同步版本的脚本。使用多线程加速，速度有点慢。
 
-第一个参数是需要抓取的页面id（按照评价排名的编号，比如第二页就是 https://bgm.tv/anime/browser?sort=rank&page=2）列表，比如我要用 10 个线程抓取前 100 页：
+第一个参数是需要抓取的页面id（按照评价排名的编号，比如第二页就是 `https://bgm.tv/anime/browser?sort=rank&page=2`）列表，比如我要用 10 个线程抓取前 100 页：
 
 ```bash
 $ python bgm.py $(seq 1 100 | tr '\n' ',') --workers 10
