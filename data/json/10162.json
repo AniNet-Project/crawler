@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3348",
+        "label": "野田恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/3c/3348_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3348",
+        "categorie": "person"
+      },
+      {
+        "id": "3362",
+        "label": "千秋真一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/cd/3362_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3362",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

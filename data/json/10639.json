@@ -1,0 +1,333 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "273",
+        "label": "阿尔托莉雅·潘德拉贡",
+        "info": "身長150cm程と一見して小柄だが、最も優れたサーヴァントと言われる「セイバー」の名にふさわしい能力を備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/58/273_crt_IMrqS.jpg?r=1559445536",
+        "link": "https://bgm.tv/character/273",
+        "categorie": "person"
+      },
+      {
+        "id": "3221",
+        "label": "卫宫切嗣",
+        "info": "Fate/Zero 中Saber的Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/8e/3221_crt_Rz66r.jpg?r=1499148483",
+        "link": "https://bgm.tv/character/3221",
+        "categorie": "person"
+      },
+      {
+        "id": "12328",
+        "label": "爱丽丝菲尔·冯·爱因兹贝伦",
+        "info": "Fate/Zero中Saber的代理Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/b2/12328_crt_LadeA.jpg?r=1421388043",
+        "link": "https://bgm.tv/character/12328",
+        "categorie": "person"
+      },
+      {
+        "id": "12331",
+        "label": "远坂时臣",
+        "info": "《Fate/Zero》中第四次圣杯战争Archer的Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/89/12331_crt_z24re.jpg",
+        "link": "https://bgm.tv/character/12331",
+        "categorie": "person"
+      },
+      {
+        "id": "1227",
+        "label": "吉尔伽美什",
+        "info": "号称拥有最强宝具的Servant，将其他所有人都蔑称为“杂种”的傲慢的王者。其真身乃是人类最古老的英灵——英雄王吉尔伽美什。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ca/1227_crt_Dq9kZ.jpg?r=1498989532",
+        "link": "https://bgm.tv/character/1227",
+        "categorie": "person"
+      },
+      {
+        "id": "3220",
+        "label": "言峰绮礼",
+        "info": "此次的圣杯战争担任监督的神父，也是教会的“代行者（Executer）”，有着言行复杂常人不能理解的地方。曾参加过上次（第四次）的圣杯战争。远坂凛的监护人及师兄，爱吃麻婆豆腐，虽是代行者，本作中并未使用过圣典（于HF线中绮礼曾提到若想与从者对战取得胜利，必须配备代行者专用武器-圣典，关于圣典使用者，可参照月姬中埋葬机关的代行者－希耶尔（Ciel（シエル））。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/3220_crt_0bm1O.jpg?r=1514751314",
+        "link": "https://bgm.tv/character/3220",
+        "categorie": "person"
+      },
+      {
+        "id": "15123",
+        "label": "百貌的哈桑",
+        "info": "出典：中東、山の老翁",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/75/15123_crt_jXHQh.jpg",
+        "link": "https://bgm.tv/character/15123",
+        "categorie": "person"
+      },
+      {
+        "id": "15073",
+        "label": "肯尼斯·艾尔梅洛伊·阿奇博尔德",
+        "info": "肯尼斯是延续了九代的魔术师家系——阿奇博尔德家的家主，是功绩卓越的天才魔术师。他在统率全世界魔术师的魔术协会总部（通称“时钟塔”）担任降灵科的一级讲师，并与降灵科部长的女儿索拉·娜泽莱·索非亚莉订有婚约。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/23/15073_crt_z7uul.jpg?r=1498990364",
+        "link": "https://bgm.tv/character/15073",
+        "categorie": "person"
+      },
+      {
+        "id": "15072",
+        "label": "迪尔姆德·奥迪那",
+        "info": "真实身份为爱尔兰神话英雄迪尔姆德·奥迪那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e2/15072_crt_beWB2.jpg?r=1421291401",
+        "link": "https://bgm.tv/character/15072",
+        "categorie": "person"
+      },
+      {
+        "id": "14149",
+        "label": "韦伯·维尔维特",
+        "info": "Rider的Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/90/14149_crt_Ply41.jpg?r=1498933130",
+        "link": "https://bgm.tv/character/14149",
+        "categorie": "person"
+      },
+      {
+        "id": "13731",
+        "label": "伊斯坎达尔",
+        "info": "真实身份为征服王伊斯坎达尔（イスカンダル），史称为亚历山大大帝。是一名可用“豪放不羁”形容的男人，身高更高达2m。性格是典型的豪杰型，完全欠缺从者与御主关系的常识。想要征服世界，圣杯只是他长远计划的一环。在战斗中途甚至招募其他从者作为手下，共同征服世界，还可以讨论待遇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/c8/13731_crt_DMUcd.jpg?r=1477830784",
+        "link": "https://bgm.tv/character/13731",
+        "categorie": "person"
+      },
+      {
+        "id": "14214",
+        "label": "雨生龍之介",
+        "info": "Caster的Master",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/ff/14214_crt_7K59g.jpg",
+        "link": "https://bgm.tv/character/14214",
+        "categorie": "person"
+      },
+      {
+        "id": "15077",
+        "label": "吉尔·德·雷",
+        "info": "15世纪法国的贵族。在自己的领地反复实施着将附近的少年接二连三地绑架并加以凌辱、残杀的恶行，作为后世的童话“蓝胡子”的原型而为人所知。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c7/15077_crt_7ia30.jpg?r=1498933149",
+        "link": "https://bgm.tv/character/15077",
+        "categorie": "person"
+      },
+      {
+        "id": "15131",
+        "label": "间桐雁夜",
+        "info": "Berserker的Master，『Fate/stay night』中间桐慎二的叔父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/c3/15131_crt_FBiDS.jpg?r=1498990345",
+        "link": "https://bgm.tv/character/15131",
+        "categorie": "person"
+      },
+      {
+        "id": "15076",
+        "label": "兰斯洛特",
+        "info": "被讴歌为圆桌骑士中最强者的“湖之骑士”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/82/15076_crt_J9jCW.jpg?r=1568190509",
+        "link": "https://bgm.tv/character/15076",
+        "categorie": "person"
+      },
+      {
+        "id": "12329",
+        "label": "久宇舞弥",
+        "info": "卫宫切嗣的女助手，年幼时被切嗣在战场中救出的少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/8f/12329_crt_jRWMs.jpg?r=1392191382",
+        "link": "https://bgm.tv/character/12329",
+        "categorie": "person"
+      },
+      {
+        "id": "3218",
+        "label": "伊莉雅斯菲尔·冯·爱因兹贝伦",
+        "info": "サーヴァント・バーサーカーのマスターとして聖杯戦争に参加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c1/3218_crt_FqI3U.jpg?r=1566383322",
+        "link": "https://bgm.tv/character/3218",
+        "categorie": "person"
+      },
+      {
+        "id": "10596",
+        "label": "远坂凛",
+        "info": "穂群原学園2年A組に通う女生徒で、魔術師。魔術の名門、遠坂家の後継者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f0/10596_crt_Y5u47.jpg?r=1559445518",
+        "link": "https://bgm.tv/character/10596",
+        "categorie": "person"
+      },
+      {
+        "id": "3215",
+        "label": "间桐樱",
+        "info": "過去のちょっとしたきっかけから、主人公や藤村先生とは家族同然の付き合いを続けている一学年下の後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a0/3215_crt_76333.jpg?r=1526789646",
+        "link": "https://bgm.tv/character/3215",
+        "categorie": "person"
+      },
+      {
+        "id": "12333",
+        "label": "远坂葵",
+        "info": "远坂时臣的妻子、远坂凛与远坂樱的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/ba/12333_crt_NT572.jpg?r=1421387998",
+        "link": "https://bgm.tv/character/12333",
+        "categorie": "person"
+      },
+      {
+        "id": "15074",
+        "label": "索拉·娜泽莱·索非亚莉",
+        "info": "英国人。时钟塔降灵科部长的女儿。对Lancer有爱慕之情，即使自身具有抵御魔貌的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a8/15074_crt_7CCP2.jpg?r=1421291265",
+        "link": "https://bgm.tv/character/15074",
+        "categorie": "person"
+      },
+      {
+        "id": "15078",
+        "label": "言峰璃正",
+        "info": "言峰绮礼的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/8f/15078_crt_YNnIP.jpg?r=1421387949",
+        "link": "https://bgm.tv/character/15078",
+        "categorie": "person"
+      },
+      {
+        "id": "15132",
+        "label": "间桐脏砚",
+        "info": "\"五百多年——呵。回想起来，只是瞬间即逝的宿愿。\"",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/21/15132_crt_b90g7.jpg?r=1560504010",
+        "link": "https://bgm.tv/character/15132",
+        "categorie": "person"
+      },
+      {
+        "id": "3239",
+        "label": "圣堂教会",
+        "info": "「普遍的な」意味を持つ一大宗教。その裏側に存在する組織。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/78/3239_crt_TRS8z.jpg",
+        "link": "https://bgm.tv/character/3239",
+        "categorie": "person"
+      },
+      {
+        "id": "15137",
+        "label": "娜塔莉亚·卡明斯基",
+        "info": "魔术师赏金猎人，先祖是梦魔，因此可能拥有“吸精”的能力。在螃蟹岛遇到切嗣后将其当作助手带在身边，并传授他“狩猎”的技术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/38/15137_crt_6H2Ht.jpg",
+        "link": "https://bgm.tv/character/15137",
+        "categorie": "person"
+      },
+      {
+        "id": "15539",
+        "label": "小林",
+        "info": "热血突进却成为海怪食物的炮灰B。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/25/15539_crt_SIWA5.jpg",
+        "link": "https://bgm.tv/character/15539",
+        "categorie": "person"
+      },
+      {
+        "id": "15538",
+        "label": "仰木",
+        "info": "深刻理解光之战士精髓的炮灰A。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/39/15538_crt_P4HkA.jpg",
+        "link": "https://bgm.tv/character/15538",
+        "categorie": "person"
+      },
+      {
+        "id": "15136",
+        "label": "夏莉",
+        "info": "住在螃蟹岛的才华洋溢的少女，年纪比切嗣大四岁。与切嗣关系很好。因私自使用卫宫矩贤的研究物，变成死徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/db/15136_crt_n5uwN.jpg",
+        "link": "https://bgm.tv/character/15136",
+        "categorie": "person"
+      },
+      {
+        "id": "15134",
+        "label": "卫宫矩贤",
+        "info": "切嗣の父で衛宮家五代目の魔術師。小因果における時間操作の魔術を究めることで根源へ到達しようとした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/47/15134_crt_rTuPa.jpg",
+        "link": "https://bgm.tv/character/15134",
+        "categorie": "person"
+      },
+      {
+        "id": "15969",
+        "label": "奥多·波尔扎克",
+        "info": "魔蜂使，娜塔莉亚所追讨的最后一个猎物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ed/15969_crt_TWkZP.jpg",
+        "link": "https://bgm.tv/character/15969",
+        "categorie": "person"
+      },
+      {
+        "id": "15133",
+        "label": "间桐鹤野",
+        "info": "間桐雁夜の兄で慎二の父。（名目上の）間桐家現頭主。臓硯の命令で桜を間桐の魔術に染めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/fc/15133_crt_MMWmo.jpg",
+        "link": "https://bgm.tv/character/15133",
+        "categorie": "person"
+      },
+      {
+        "id": "65682",
+        "label": "尤布斯塔库哈依德·冯·爱因兹贝伦",
+        "info": "爱因兹贝伦家族第八代族长“阿哈德”。率领过爱因兹贝伦家族参与第三次圣杯战争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/65/65682_crt_fTBbg.jpg?r=1568190526",
+        "link": "https://bgm.tv/character/65682",
+        "categorie": "person"
+      },
+      {
+        "id": "27912",
+        "label": "阿萨辛派",
+        "info": "阿萨辛派属于伊斯兰教伊斯玛仪派支系尼查里派的异端，以里海南岸山区为根据地。“阿萨辛派”在中国古籍中被称为木剌夷，木罗夷或木乃奚。英语单词“assassin（暗杀）”的词源便是由教派之名而来。他们因各种不同的政治或宗教目的而受雇于人，约活跃在公元8世纪到14世纪，专门对阿拔斯王朝的精英进行恐怖主义式的大胆处决或政治性的暗杀，是一个激进好战的组织。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/29/27912_crt_5Z857.jpg",
+        "link": "https://bgm.tv/character/27912",
+        "categorie": "person"
+      },
+      {
+        "id": "50611",
+        "label": "芬恩·麦克库尔",
+        "info": "出典：ケルト神話",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/de/50611_crt_sXf8P.jpg?r=1485490382",
+        "link": "https://bgm.tv/character/50611",
+        "categorie": "person"
+      },
+      {
+        "id": "3214",
+        "label": "卫宫士郎",
+        "info": "穗群原学园（Homurabara）高中部二年级学生及见习中的魔术师、10年前冬木市（Fuyuki）大火中的少数生还者之一。被身为魔术师的卫宫切嗣所救并收养，受卫宫切嗣的影响，是个英雄迷，并发誓长大之后一定要成为“正义的伙伴”拯救所有受到苦难的人们。所以只要是他人的请求他从不会拒绝。擅长分析物件构造（可以解析眼中所见的任何东西的构造）和修理电器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ca/3214_crt_8GtBn.jpg?r=1492257195",
+        "link": "https://bgm.tv/character/3214",
+        "categorie": "person"
+      },
+      {
+        "id": "3238",
+        "label": "魔术协会",
+        "info": "国籍・ジャンルを問わず魔術師たちによって作られた自衛・管理団体。魔術を管理し、隠匿し、その発展を使命とする。（無論、名目上ではある）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/4d/3238_crt_Jm1eS.jpg?r=1421298239",
+        "link": "https://bgm.tv/character/3238",
+        "categorie": "person"
+      },
+      {
+        "id": "4238",
+        "label": "柯尼勒斯·阿鲁巴",
+        "info": "“红色魔术师”。修本海姆修道院的下任院长。和荒耶宗莲和苍崎橙子在学徒时代有着类似于朋友的关系。研究目标和橙子相似，一样专长於伦文字（Rune）和人偶制作，但橙子在这两方面都后来居上。以苍崎橙子的性命为代价答应了荒耶宗莲的协助请托，对于橙子似乎抱有着夹杂着嫉妒和爱慕的复杂感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/0e/4238_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4238",
+        "categorie": "person"
+      },
+      {
+        "id": "15691",
+        "label": "贞德",
+        "info": "筋力B 耐久B 敏捷A 魔力A 幸运C 宝具A++ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/57/15691_crt_79XPx.jpg?r=1498932582",
+        "link": "https://bgm.tv/character/15691",
+        "categorie": "person"
+      },
+      {
+        "id": "15075",
+        "label": "藤村大河",
+        "info": "月世界最强的三人之一，具有制造圣杯并发动圣杯战争的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/7d/15075_crt_tCJww.jpg?r=1410079521",
+        "link": "https://bgm.tv/character/15075",
+        "categorie": "person"
+      },
+      {
+        "id": "14757",
+        "label": "时钟塔",
+        "info": "　　魔術協会三大部門の一角。倫敦は大英博物館にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/5d/14757_crt_VbBb7.jpg",
+        "link": "https://bgm.tv/character/14757",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

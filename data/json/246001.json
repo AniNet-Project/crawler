@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75801",
+        "label": "章北海",
+        "info": "在小说初登场时与吴岳搭档任在建的“唐”号航空母舰的政委与舰长，三体危机后被调至中国太空军政治部，在工作会议中指出失败主义的存在。后来自愿加入“增援未来”计划而冬眠。苏醒后成为“自然选择”号执行舰长并结识东方延绪，之后劫持“自然选择”号战舰并远离太阳系，使得这五艘舰船在“ 水滴 ”全面击溃地球太空舰队的战争中幸免于难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/b6/75801_crt_TazfI.jpg",
+        "link": "https://bgm.tv/character/75801",
+        "categorie": "person"
+      },
+      {
+        "id": "61265",
+        "label": "丁仪",
+        "info": "《三体》小说内诺贝尔物理学奖获得者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/bb/61265_crt_a1NB7.jpg",
+        "link": "https://bgm.tv/character/61265",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52763",
+        "label": "安洁",
+        "info": "芸術的な手腕をもつ天才スパイ。無口で無愛想な性格で、よく突拍子もない嘘をついては、周囲を困惑させている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/56/52763_crt_Hz58v.jpg?r=1490326392",
+        "link": "https://bgm.tv/character/52763",
+        "categorie": "person"
+      },
+      {
+        "id": "52764",
+        "label": "公主",
+        "info": "アルビオン王国のプリンセス。おっとりとしているがとても芯が強く、国民からの人気は高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/bf/52764_crt_XfB5F.jpg?r=1490326492",
+        "link": "https://bgm.tv/character/52764",
+        "categorie": "person"
+      },
+      {
+        "id": "52765",
+        "label": "多萝西",
+        "info": "アンジェの相棒で、チームをまとめるリーダー的存在。車の運転技術などに長け、射撃の腕は超一流。色仕掛けも得意だが、意外と純情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/4d/52765_crt_b9LEL.jpg?r=1490326581",
+        "link": "https://bgm.tv/character/52765",
+        "categorie": "person"
+      },
+      {
+        "id": "52766",
+        "label": "比阿特丽斯",
+        "info": "常にプリンセスの側に付き添う、貴族の少女。小さいころにプリンセスに助けてもらったこともあり、彼女を心から敬愛している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/89/52766_crt_6hHZE.jpg?r=1490326713",
+        "link": "https://bgm.tv/character/52766",
+        "categorie": "person"
+      },
+      {
+        "id": "52767",
+        "label": "千世",
+        "info": "留学生としてやってきた日本人。小さいながらも剣術は達人級の腕前。西洋の文化にも慣れていないため、時折世間知らずな言動をしてしまうこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/47/52767_crt_ddeN0.jpg?r=1490326830",
+        "link": "https://bgm.tv/character/52767",
+        "categorie": "person"
+      },
+      {
+        "id": "54944",
+        "label": "L",
+        "info": "王国に潜伏する共和国側のスパイ組織・コントロールのリーダー。口数が少なく、いつも冷静にアンジェたちに指示を出している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/25/54944_crt_vHL95.jpg?r=1497194643",
+        "link": "https://bgm.tv/character/54944",
+        "categorie": "person"
+      },
+      {
+        "id": "54945",
+        "label": "7",
+        "info": "情報を整理し報告する分析官。私情を挟むことはせず、不測の事態にも淡々と対処できる、優秀な女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/58/54945_crt_Y1A55.jpg?r=1497195017",
+        "link": "https://bgm.tv/character/54945",
+        "categorie": "person"
+      },
+      {
+        "id": "54946",
+        "label": "大佐",
+        "info": "調整官としてコントロールに派遣された軍人。軍こそ表の力であると考えており、裏の力であるスパイをどこか下に見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/87/54946_crt_ZEPYO.jpg?r=1497195111",
+        "link": "https://bgm.tv/character/54946",
+        "categorie": "person"
+      },
+      {
+        "id": "54947",
+        "label": "诺曼底公",
+        "info": "アルビオン王国で内務卿を務める公爵。公安や警察組織に影響力があり、女王に意見できる数少ない人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/49/54947_crt_RgjRR.jpg?r=1497195277",
+        "link": "https://bgm.tv/character/54947",
+        "categorie": "person"
+      },
+      {
+        "id": "54948",
+        "label": "嘉赛尔",
+        "info": "ノルマンディー公の秘書。美しい容姿だが、任務に関しては忠実で冷酷。自ら任務に赴くこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/54/54948_crt_MtIjX.jpg?r=1505056654",
+        "link": "https://bgm.tv/character/54948",
+        "categorie": "person"
+      },
+      {
+        "id": "57609",
+        "label": "リリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/95/57609_crt_MZaXU.jpg",
+        "link": "https://bgm.tv/character/57609",
+        "categorie": "person"
+      },
+      {
+        "id": "57760",
+        "label": "委員長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/50/57760_crt_Voud5.jpg",
+        "link": "https://bgm.tv/character/57760",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

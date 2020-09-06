@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13382",
+        "label": "田劲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/4c/13382_crt_u33TY.jpg",
+        "link": "https://bgm.tv/character/13382",
+        "categorie": "person"
+      },
+      {
+        "id": "13760",
+        "label": "多吉雍直",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/02/13760_crt_fjMZ3.jpg",
+        "link": "https://bgm.tv/character/13760",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

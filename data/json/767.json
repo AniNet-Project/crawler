@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "10722",
+        "label": "浅上藤乃",
+        "info": "荒耶宗莲为了得到两仪式而利用的三个祭品中的一人。“接触死亡而快乐的存在不适合者（原文引用）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ae/10722_crt_pF32m.jpg",
+        "link": "https://bgm.tv/character/10722",
+        "categorie": "person"
+      },
+      {
+        "id": "10902",
+        "label": "黑桐干也",
+        "info": "《空之境界》男主角。看似没有任何特异能力以及潮流感的男人，除了人缘好之外似乎没有其他特点，然而却意外的有着连橙子也为之惊讶的资料搜查能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e4/10902_crt_6bkUi.jpg",
+        "link": "https://bgm.tv/character/10902",
+        "categorie": "person"
+      },
+      {
+        "id": "3205",
+        "label": "苍崎橙子",
+        "info": "　　奈须小说《空之境界》中的最高位的人形使，整部《空之境界》的故事导向者。礼园女学院的校友，被魔术协会制定封印的人偶师。个性独特，二十多岁就升到支配者层级，有魔眼，拥有魔术回路二十左右。虽身为魔术师却有接近魔法使的实力。在魔术协会学习期间以追求肉体的原型为目标，结识了同样研究卢文字和人偶制作的柯尼勒斯·阿鲁巴和追求魂之原型的荒耶宗莲，对荒耶有着相当复杂的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/1d/3205_crt_41oeX.jpg?r=1498990565",
+        "link": "https://bgm.tv/character/3205",
+        "categorie": "person"
+      },
+      {
+        "id": "4237",
+        "label": "荒耶宗莲",
+        "info": "外表45岁左右的男性。魔术师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/e7/4237_crt_XxkoN.jpg",
+        "link": "https://bgm.tv/character/4237",
+        "categorie": "person"
+      },
+      {
+        "id": "15995",
+        "label": "凑启太",
+        "info": "黒桐干也的后辈，作为不良少年一直与另外四人暴力对待浅上藤乃，因为藤乃的无痛症，他们对待藤乃的方式已经达到了非人的程度。在又一次过火的凌虐而使藤乃的起源觉醒后，他成为了唯一的幸存者而一直被藤乃追杀。干也在受到学人的委托后，将他带到橙子的工房保护了起来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/25/15995_crt_miCNN.jpg",
+        "link": "https://bgm.tv/character/15995",
+        "categorie": "person"
+      },
+      {
+        "id": "15996",
+        "label": "学人",
+        "info": "与黒桐幹也一同成长的高校時代的友人。柔道部所属。看起来像个不良且人脉很广，曾委托干也搜寻凑启太。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a4/15996_crt_J5NQ7.jpg",
+        "link": "https://bgm.tv/character/15996",
+        "categorie": "person"
+      },
+      {
+        "id": "15997",
+        "label": "昭野",
+        "info": "与凑启太相识的少年，浅上藤乃所杀害的第五人，被一边询问着凑的下落一边扭曲而死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/a0/15997_crt_22AzV.jpg",
+        "link": "https://bgm.tv/character/15997",
+        "categorie": "person"
+      },
+      {
+        "id": "15999",
+        "label": "康平",
+        "info": "凑启太相识的少年，喜欢随便约女人出去玩的小混混，被藤乃所杀死的第六人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/c6/15999_crt_822yX.jpg",
+        "link": "https://bgm.tv/character/15999",
+        "categorie": "person"
+      },
+      {
+        "id": "16001",
+        "label": "浅上 麻雪",
+        "info": "浅上藤乃的母亲，因浅神家的衰落而被迫改嫁于分家的浅上康藏，知道藤乃患有无痛症这一事实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ec/16001_crt_OLjqa.jpg",
+        "link": "https://bgm.tv/character/16001",
+        "categorie": "person"
+      },
+      {
+        "id": "16000",
+        "label": "高木彰一",
+        "info": "路过的司机，被浅上藤乃杀害的第七人。与凑启太毫无关系的普通人，是藤乃在无意识中杀害的无辜者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/ee/16000_crt_13G3w.jpg",
+        "link": "https://bgm.tv/character/16000",
+        "categorie": "person"
+      },
+      {
+        "id": "8184",
+        "label": "秋巳大辅",
+        "info": "黒桐幹也的从兄、警視庁捜査一課的警察。因为在警视厅工作因此可以说是干也的情报来源之一，与橙子也相识，欲同橙子交往但没太大的机会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/1a/8184_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8184",
+        "categorie": "person"
+      },
+      {
+        "id": "16005",
+        "label": "浅上康蔵",
+        "info": "浅上藤乃的继父，大资产家。知道浅上藤乃的能力，在杀人事件发生后，委托橙子将她当作“怪物”一样杀死。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/16005",
+        "categorie": "person"
+      },
+      {
+        "id": "16006",
+        "label": "浅神羽舟",
+        "info": "浅上藤乃的亲生父亲，浅神家当主，无法阻止自己家族的衰落。为了封印藤乃的能力而使她丧失了感觉，但这实际上反而加强了她的能力。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/16006",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

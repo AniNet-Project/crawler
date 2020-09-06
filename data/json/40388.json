@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8752",
+        "label": "父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/4e/8752_crt_vy9KT.jpg",
+        "link": "https://bgm.tv/character/8752",
+        "categorie": "person"
+      },
+      {
+        "id": "8753",
+        "label": "母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/f3/8753_crt_G4E9f.jpg",
+        "link": "https://bgm.tv/character/8753",
+        "categorie": "person"
+      },
+      {
+        "id": "77550",
+        "label": "立花みかん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/d0/77550_crt_L5Ylo.jpg?r=1591626729",
+        "link": "https://bgm.tv/character/77550",
+        "categorie": "person"
+      },
+      {
+        "id": "77551",
+        "label": "立花ユズヒコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/da/77551_crt_A9F79.jpg?r=1591626755",
+        "link": "https://bgm.tv/character/77551",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

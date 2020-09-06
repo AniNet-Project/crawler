@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67039",
+        "label": "国宝宪一",
+        "info": "国宝家大儿子，因为父亲失手丢入河中，流落森林。从小被玄米茶流空手道高手玄米茶师父收养，练就了惊人的武力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/93/67039_crt_f666B.jpg",
+        "link": "https://bgm.tv/character/67039",
+        "categorie": "person"
+      },
+      {
+        "id": "67040",
+        "label": "国宝雪绘​",
+        "info": "宪一的妹妹，代替已逝的母亲料理家务的善良女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/97/67040_crt_fYYLN.jpg?r=1541252396",
+        "link": "https://bgm.tv/character/67040",
+        "categorie": "person"
+      },
+      {
+        "id": "67041",
+        "label": "火堂害",
+        "info": "暴力团火堂组第3代少爷，表面看起来很穷凶极恶的样子，但实际上是个极其遵守“仁义之道”的黑社会少主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ed/67041_crt_jdeCg.jpg",
+        "link": "https://bgm.tv/character/67041",
+        "categorie": "person"
+      },
+      {
+        "id": "67042",
+        "label": "羽田洛基",
+        "info": "菲律宾人和日本人的混血儿（不是瞎掰，日文介绍确实这么写）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/78/67042_crt_70Bnz.jpg?r=1541253886",
+        "link": "https://bgm.tv/character/67042",
+        "categorie": "person"
+      },
+      {
+        "id": "67043",
+        "label": "国宝宪吉",
+        "info": "宪一、雪绘和宪二的的老爸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/55/67043_crt_ZzZv3.jpg?r=1541254156",
+        "link": "https://bgm.tv/character/67043",
+        "categorie": "person"
+      },
+      {
+        "id": "67044",
+        "label": "不知火明",
+        "info": "卡内奇隔壁班的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/4a/67044_crt_ij9eo.jpg",
+        "link": "https://bgm.tv/character/67044",
+        "categorie": "person"
+      },
+      {
+        "id": "67045",
+        "label": "枫",
+        "info": "宪一在山上时的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/0b/67045_crt_C4uM0.jpg",
+        "link": "https://bgm.tv/character/67045",
+        "categorie": "person"
+      },
+      {
+        "id": "67047",
+        "label": "玄米茶",
+        "info": "卡内奇的养父，糙米茶流空手道的高手。跟在宪一后面下山，就这样在国宝家安居了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/c2/67047_crt_1ZQ1B.jpg?r=1541254753",
+        "link": "https://bgm.tv/character/67047",
+        "categorie": "person"
+      },
+      {
+        "id": "67049",
+        "label": "小山内文子",
+        "info": "卡内奇的班主任，有超乎常人的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/38/67049_crt_ezM5G.jpg",
+        "link": "https://bgm.tv/character/67049",
+        "categorie": "person"
+      },
+      {
+        "id": "67050",
+        "label": "绫小路小百合",
+        "info": "卡内奇和瑜珈的同班同学，是瑜珈（雪绘）的好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/68/67050_crt_X644x.jpg",
+        "link": "https://bgm.tv/character/67050",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

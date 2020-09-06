@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18254",
+        "label": "別府勇午",
+        "info": "彼の職業は交渉人(ネゴシエーター)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e6/18254_crt_mJiPf.jpg",
+        "link": "https://bgm.tv/character/18254",
+        "categorie": "person"
+      },
+      {
+        "id": "18255",
+        "label": "小暮蛉一",
+        "info": "勇午の友人で協力者。無線通信等のプロフェッショナルで各種工学系の知識に精通、日本から交渉の手助けをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/d5/18255_crt_A4CGr.jpg",
+        "link": "https://bgm.tv/character/18255",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8297",
+        "label": "哈利·迈克道韦尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8a/8297_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8297",
+        "categorie": "person"
+      },
+      {
+        "id": "8298",
+        "label": "布兰登·希特",
+        "info": "ミレニオンに狙われていたミカを守るために13年の眠りから目覚めた死人。ガングレイヴシリーズの主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/27/8298_crt_kBEEQ.jpg",
+        "link": "https://bgm.tv/character/8298",
+        "categorie": "person"
+      },
+      {
+        "id": "8299",
+        "label": "浅葱マリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ef/8299_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8299",
+        "categorie": "person"
+      },
+      {
+        "id": "8300",
+        "label": "Dr.T",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/40/8300_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8300",
+        "categorie": "person"
+      },
+      {
+        "id": "8301",
+        "label": "ケニー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/79/8301_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8301",
+        "categorie": "person"
+      },
+      {
+        "id": "31278",
+        "label": "贝尔・沃肯",
+        "info": "ミレニオン四天王の一人。ビッグダディの忠臣で、ブランドンにとっては師匠とでも言うべき男。妻を早くから亡くし、男手一つで娘のシェリーを育ててきたため、自分の娘のことをとても大切に思っている。打算からシェリーに近づいてきたハリーを警戒するものの、彼に何かを感じ取り支援者となる。ビッグダディの死後も、ミレニオンを守るという意思からハリーの側近として組織に残った。刀を使った剣術を得意とし、その剣技はグレイヴの銃弾を真正面から斬り落とすほど。スペリオール化により無数の腕を操るようになる。日本文化を好み、侘・寂の精神を大切にしている。好物は寿司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/1a/31278_crt_C00J7.jpg",
+        "link": "https://bgm.tv/character/31278",
+        "categorie": "person"
+      },
+      {
+        "id": "46500",
+        "label": "九头文治",
+        "info": "ミレニオン四天王の一人。もとは「マッドネス文治」と呼ばれた一匹狼の殺し屋だったがブランドンの心意気に惚れ込み舎弟になる。ブランドンやハリーのことを「兄貴」と呼ぶ。彼の死後は自らの腕一本で四天王の座まで伸し上がり、ハリーの右腕として頭角を現す。無口で無愛想で無表情、自分の下に就いた部下を使えないという理由で殺すなど、四天王となった後はまさに冷酷非情の殺戮者であるが、それでもなお心中ではブランドンに対する友情とわだかまりが渦巻いている。ブランドンと同じく二丁の銃と素早い体捌きを駆使した戦法が得意。スペリオール化でグレイヴ以上の再生能力を得る。『O.D.』では再登場を果たした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/f6/46500_crt_YA4zy.jpg",
+        "link": "https://bgm.tv/character/46500",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

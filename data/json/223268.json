@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39469",
+        "label": "天濑冬马",
+        "info": "17岁／属性：Physical型／生日：3月3日（双鱼座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/2c/39469_crt_k547w.jpg?r=1530316251",
+        "link": "https://bgm.tv/character/39469",
+        "categorie": "person"
+      },
+      {
+        "id": "39471",
+        "label": "伊集院北斗",
+        "info": "20岁／属性：Intellectual型／生日：2月14日（水瓶座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/fe/39471_crt_AkbSb.jpg?r=1530316574",
+        "link": "https://bgm.tv/character/39471",
+        "categorie": "person"
+      },
+      {
+        "id": "39470",
+        "label": "御手洗翔太",
+        "info": "14岁／属性：Mental型／生日：4月20日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/b9/39470_crt_SQ5u5.jpg?r=1530316353",
+        "link": "https://bgm.tv/character/39470",
+        "categorie": "person"
+      },
+      {
+        "id": "5922",
+        "label": "天海春香",
+        "info": "偶像大师系列游戏与动画的第一主角，属于Vocal阵营。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/c6/5922_crt_GZv8r.jpg?r=1507817334",
+        "link": "https://bgm.tv/character/5922",
+        "categorie": "person"
+      },
+      {
+        "id": "39628",
+        "label": "天道辉",
+        "info": "28岁／属性：Physical型／生日：2月23日（双鱼座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/12/39628_crt_xn3Kg.jpg?r=1530317113",
+        "link": "https://bgm.tv/character/39628",
+        "categorie": "person"
+      },
+      {
+        "id": "39629",
+        "label": "樱庭薰",
+        "info": "26岁／属性：Intellectual型／生日：9月24日（天秤座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/5d/39629_crt_lRzjQ.jpg?r=1530316963",
+        "link": "https://bgm.tv/character/39629",
+        "categorie": "person"
+      },
+      {
+        "id": "39631",
+        "label": "柏木翼",
+        "info": "24岁／属性：Mental型／生日：6月2日（双子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/e8/39631_crt_GOKV7.jpg?r=1530317064",
+        "link": "https://bgm.tv/character/39631",
+        "categorie": "person"
+      },
+      {
+        "id": "51280",
+        "label": "斋藤孝司",
+        "info": "315Pro代表取缔役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/05/51280_crt_4N9uU.jpg?r=1486820920",
+        "link": "https://bgm.tv/character/51280",
+        "categorie": "person"
+      },
+      {
+        "id": "51279",
+        "label": "山村贤",
+        "info": "？？岁／生日：7月2日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/8f/51279_crt_eH2C5.jpg?r=1530640314",
+        "link": "https://bgm.tv/character/51279",
+        "categorie": "person"
+      },
+      {
+        "id": "39472",
+        "label": "黑井崇男",
+        "info": "961プロの社長。旧知の間柄である高木社長に対して対抗意識を持っており、頭角を現してきた765プロを追い落とそうとして妨害工作を繰り返す。高木社長と同じく、視聴者に素顔を明かさない描写がされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/82/39472_crt_H4FLK.jpg",
+        "link": "https://bgm.tv/character/39472",
+        "categorie": "person"
+      },
+      {
+        "id": "58050",
+        "label": "善泽记者",
+        "info": "报道艺能界新闻的记者，高木顺二朗社长的老朋友，常常出入于765Pro的事务所。除了765Pro的偶像们，在#25中也对876Pro的爱、绘理、凉进行了采访。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/b7/58050_crt_0nV99.jpg?r=1506361074",
+        "link": "https://bgm.tv/character/58050",
+        "categorie": "person"
+      },
+      {
+        "id": "58365",
+        "label": "石川P",
+        "info": "「THE IDOL M@STER」系列游戏中「制作人」是作为玩家的分身的主人公角色。游戏内能以「〜〜〜P」的形式用喜欢的名字作为设定名，游戏内的角色们则是以“写作「〜〜〜P」、读作「制作人」(等)”来称呼玩家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/05/58365_crt_Nw9nM.jpg?r=1507394972",
+        "link": "https://bgm.tv/character/58365",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

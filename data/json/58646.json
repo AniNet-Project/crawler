@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25227",
+        "label": "优优",
+        "info": "魔の国に住む絵本級の大魔法使い。妹のネネと共に、のろい屋を営む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/1b/25227_crt_7ue07.jpg?r=1401438758",
+        "link": "https://bgm.tv/character/25227",
+        "categorie": "person"
+      },
+      {
+        "id": "25228",
+        "label": "宁宁",
+        "info": "最優秀お手本級魔法使い。ヨヨの妹で、15歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/71/25228_crt_Y7VnZ.jpg?r=1401439000",
+        "link": "https://bgm.tv/character/25228",
+        "categorie": "person"
+      },
+      {
+        "id": "25229",
+        "label": "孝洋",
+        "info": "ヨヨが迷い込んだ世界の住人。まっすぐな性格の小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/21/25229_crt_1ln4y.jpg?r=1401439584",
+        "link": "https://bgm.tv/character/25229",
+        "categorie": "person"
+      },
+      {
+        "id": "25230",
+        "label": "健生",
+        "info": "孝洋の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/30/25230_crt_Dt0b5.jpg?r=1401439792",
+        "link": "https://bgm.tv/character/25230",
+        "categorie": "person"
+      },
+      {
+        "id": "25231",
+        "label": "亜紀",
+        "info": "孝洋と健生の親戚の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/76/25231_crt_QJ2z7.jpg?r=1401439908",
+        "link": "https://bgm.tv/character/25231",
+        "categorie": "person"
+      },
+      {
+        "id": "25232",
+        "label": "ニルス",
+        "info": "魔の国の近くにある剣の国の兵隊。ネネを慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/56/25232_crt_e68Dq.jpg?r=1401440797",
+        "link": "https://bgm.tv/character/25232",
+        "categorie": "person"
+      },
+      {
+        "id": "25233",
+        "label": "ビハク",
+        "info": "おヨミの使い魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/50/25233_crt_9Boqs.jpg",
+        "link": "https://bgm.tv/character/25233",
+        "categorie": "person"
+      },
+      {
+        "id": "25234",
+        "label": "樹老長",
+        "info": "ヨヨとネネがのろい屋を構える森の長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/8b/25234_crt_qLmFP.jpg",
+        "link": "https://bgm.tv/character/25234",
+        "categorie": "person"
+      },
+      {
+        "id": "25235",
+        "label": "おヨネ",
+        "info": "終言級超特大魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/70/25235_crt_BnTsr.jpg?r=1401440379",
+        "link": "https://bgm.tv/character/25235",
+        "categorie": "person"
+      },
+      {
+        "id": "25236",
+        "label": "おヨミ",
+        "info": "世界最高の死霊使い。おヨネの双子の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/34/25236_crt_vdX0x.jpg?r=1401440507",
+        "link": "https://bgm.tv/character/25236",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

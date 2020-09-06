@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2729",
+        "label": "艾克蕾尔",
+        "info": "主人公。明るい性格のCクラスESメンバー。ブラウンの髪と瞳を持つ。普段はGOTT本局の受付嬢を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/f1/2729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2729",
+        "categorie": "person"
+      },
+      {
+        "id": "2730",
+        "label": "琉美艾尔",
+        "info": "エクレールのパートナー。落ち着いた性格のCクラスESメンバー。OP･EDや番宣などでは長い銀髪をよく右頭部分でカールに結っているのが見られる。瞳の色も銀色。エクレールと同じく、普段はGOTT本局の受付嬢を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/1b/2730_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2730",
+        "categorie": "person"
+      },
+      {
+        "id": "6786",
+        "label": "エクリプス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/4f/6786_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6786",
+        "categorie": "person"
+      },
+      {
+        "id": "8741",
+        "label": "アールヴ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/09/8741_crt_PB9GO.jpg",
+        "link": "https://bgm.tv/character/8741",
+        "categorie": "person"
+      },
+      {
+        "id": "9577",
+        "label": "ドヴェルグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ae/9577_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9577",
+        "categorie": "person"
+      },
+      {
+        "id": "9578",
+        "label": "アームブラスト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/d5/9578_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9578",
+        "categorie": "person"
+      },
+      {
+        "id": "9919",
+        "label": "エイオウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/81/9919_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9919",
+        "categorie": "person"
+      },
+      {
+        "id": "10225",
+        "label": "シニストラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/a0/10225_crt_2d2dU.jpg",
+        "link": "https://bgm.tv/character/10225",
+        "categorie": "person"
+      },
+      {
+        "id": "10226",
+        "label": "デクステラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/12/10226_crt_aVaUg.jpg",
+        "link": "https://bgm.tv/character/10226",
+        "categorie": "person"
+      },
+      {
+        "id": "10227",
+        "label": "シザーリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/33/10227_crt_H5UOu.jpg",
+        "link": "https://bgm.tv/character/10227",
+        "categorie": "person"
+      },
+      {
+        "id": "10228",
+        "label": "ヴァイオラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/03/10228_crt_cPpaX.jpg",
+        "link": "https://bgm.tv/character/10228",
+        "categorie": "person"
+      },
+      {
+        "id": "9527",
+        "label": "トゥイードゥルダム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/56/9527_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9527",
+        "categorie": "person"
+      },
+      {
+        "id": "9920",
+        "label": "アンオウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/96/9920_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9920",
+        "categorie": "person"
+      },
+      {
+        "id": "6769",
+        "label": "銀河通商関税機構",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/38/6769_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6769",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17253",
+        "label": "押本百合",
+        "info": "在被愚笨的前辈们折腾的途中变成了吐槽立场的后辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/6b/17253_crt_iRzpj.jpg?r=1430571391",
+        "link": "https://bgm.tv/character/17253",
+        "categorie": "person"
+      },
+      {
+        "id": "17252",
+        "label": "新庄佳苗",
+        "info": "明明是网球部的一员却完全不会打网球的笨蛋2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/17252_crt_0dRf5.jpg?r=1429831189",
+        "link": "https://bgm.tv/character/17252",
+        "categorie": "person"
+      },
+      {
+        "id": "17254",
+        "label": "高宫茄乃",
+        "info": "不管什么都用金钱来解决的、充满谜团的天然大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/a3/17254_crt_ZJZOx.jpg?r=1429057521",
+        "link": "https://bgm.tv/character/17254",
+        "categorie": "person"
+      },
+      {
+        "id": "17255",
+        "label": "板东鞠萌",
+        "info": "完全无法预料的关西风大变态2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ac/17255_crt_99H11.jpg?r=1428453975",
+        "link": "https://bgm.tv/character/17255",
+        "categorie": "person"
+      },
+      {
+        "id": "31912",
+        "label": "托麻里",
+        "info": "来自O-12星团的外星人，由于乘坐的宇宙飞船发生故障而降落在藻家。在经过简单的修理之后再次坠落，开始在鞠萌家居住。平时拟态成少女的样子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/15/31912_crt_2nC3G.jpg?r=1501764590",
+        "link": "https://bgm.tv/character/31912",
+        "categorie": "person"
+      },
+      {
+        "id": "22268",
+        "label": "近藤乌冬子",
+        "info": "14话初次登场，龟井户高校新闻部的一年级学生，擅长写作八卦新闻。家里经营一家乌冬面店，因此让百合等人称呼自己“乌冬子”（非本名）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/2d/22268_crt_DDdYc.jpg?r=1456686902",
+        "link": "https://bgm.tv/character/22268",
+        "categorie": "person"
+      },
+      {
+        "id": "32808",
+        "label": "近藤阿嫩寇芙",
+        "info": "4巻第33面で初登場した僧侶。容姿はポニーテールの髪型と全身浅黒い肌に豹柄ワンピースを着たギャルで、言動も見た目そのままだが、確かな眼力と一流の除霊技術を持つ。ユリのおじの葬儀で彼女と出会い、6巻第43面ではうどん子の姉として再登場した。アニメ3期第33面でのクレジットは「ギャル坊主」となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/fc/32808_crt_qWiWw.jpg?r=1458169247",
+        "link": "https://bgm.tv/character/32808",
+        "categorie": "person"
+      },
+      {
+        "id": "31911",
+        "label": "押本阳太",
+        "info": "百合的弟弟，中学二年级，在高宫家担任茄乃的随身侍从。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/27/31911_crt_w3rYy.jpg?r=1501765001",
+        "link": "https://bgm.tv/character/31911",
+        "categorie": "person"
+      },
+      {
+        "id": "56843",
+        "label": "香苗的外婆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/db/56843_crt_r17j5.jpg",
+        "link": "https://bgm.tv/character/56843",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

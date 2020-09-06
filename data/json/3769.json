@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36013",
+        "label": "不吉波普／宫下藤花",
+        "info": "世界の危機に関わる異変を察知した時に、自動的に現れる宮下藤花の別人格。一人称は「僕」。竹田啓司は「彼」を最初「変身ヒーロー」と連想していた。「ブギーポップ（不気味な泡）」という名前は、世界の危機をきっかけにして無意識下から自動的に現れるその性質を、水底から水面へ浮かび上がる泡に喩えた自称。また「死神」や「世界の敵の敵」などとも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/65/36013_crt_5llc0.jpg?r=1554734251",
+        "link": "https://bgm.tv/character/36013",
+        "categorie": "person"
+      },
+      {
+        "id": "61554",
+        "label": "雾间凪",
+        "info": "「炎の魔女」と呼ばれる女子高校生。いわゆる“正義の味方”を目指し、それに伴った活動をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/d3/61554_crt_7wRTw.jpg?r=1520652048",
+        "link": "https://bgm.tv/character/61554",
+        "categorie": "person"
+      },
+      {
+        "id": "67489",
+        "label": "早乙女正美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/08/67489_crt_ohppH.jpg",
+        "link": "https://bgm.tv/character/67489",
+        "categorie": "person"
+      },
+      {
+        "id": "67491",
+        "label": "百合原美奈子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/52/67491_crt_89FJe.jpg",
+        "link": "https://bgm.tv/character/67491",
+        "categorie": "person"
+      },
+      {
+        "id": "67492",
+        "label": "共鸣者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/5d/67492_crt_sFvK2.jpg",
+        "link": "https://bgm.tv/character/67492",
+        "categorie": "person"
+      },
+      {
+        "id": "67496",
+        "label": "安能慎二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/23/67496_crt_qP0g7.jpg",
+        "link": "https://bgm.tv/character/67496",
+        "categorie": "person"
+      },
+      {
+        "id": "67498",
+        "label": "スプーキーE",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/f1/67498_crt_gJc6j.jpg",
+        "link": "https://bgm.tv/character/67498",
+        "categorie": "person"
+      },
+      {
+        "id": "68187",
+        "label": "木下京子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/a1/68187_crt_0Txxq.jpg",
+        "link": "https://bgm.tv/character/68187",
+        "categorie": "person"
+      },
+      {
+        "id": "68708",
+        "label": "来生真希子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ef/68708_crt_1jE2Q.jpg",
+        "link": "https://bgm.tv/character/68708",
+        "categorie": "person"
+      },
+      {
+        "id": "66600",
+        "label": "末真和子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/e5/66600_crt_6lHbO.jpg",
+        "link": "https://bgm.tv/character/66600",
+        "categorie": "person"
+      },
+      {
+        "id": "68706",
+        "label": "黑田慎平／稻草人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/0d/68706_crt_ZQBz0.jpg",
+        "link": "https://bgm.tv/character/68706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

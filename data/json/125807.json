@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "84",
+        "label": "草薙素子",
+        "info": "自卫军出身,军衔三佐.",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/7b/84_crt_xc45y.jpg?r=1587737580",
+        "link": "https://bgm.tv/character/84",
+        "categorie": "person"
+      },
+      {
+        "id": "3002",
+        "label": "巴特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/95/3002_crt_DyxyG.jpg",
+        "link": "https://bgm.tv/character/3002",
+        "categorie": "person"
+      },
+      {
+        "id": "3006",
+        "label": "荒卷大辅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/07/3006_crt_zLPL5.jpg",
+        "link": "https://bgm.tv/character/3006",
+        "categorie": "person"
+      },
+      {
+        "id": "3010",
+        "label": "户草",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a0/3010_crt_aH961.jpg",
+        "link": "https://bgm.tv/character/3010",
+        "categorie": "person"
+      },
+      {
+        "id": "3018",
+        "label": "斋藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/b3/3018_crt_V24Z5.jpg?r=1587802358",
+        "link": "https://bgm.tv/character/3018",
+        "categorie": "person"
+      },
+      {
+        "id": "3046",
+        "label": "帕兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/a6/3046_crt_oBq1L.jpg?r=1587721595",
+        "link": "https://bgm.tv/character/3046",
+        "categorie": "person"
+      },
+      {
+        "id": "20336",
+        "label": "逻辑克马",
+        "info": "２０２２年に製造され、コンテナ内部に武器や弾薬などを収容する熱光学迷彩装備の歩兵兵站用輸送支援車両である。ロジスティクス・コンベイヤー・マシンの略称でもある。型番はＬＣＭ２２。指揮官を識別し自律支援する程度の発展型の人工知能は持ち合わせている。公安９課に試験配属されており、搭乗スペースは未搭載。装備拡張が許可され腕部パーツの取付が行われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/8d/20336_crt_W9WRJ.jpg?r=1372170925",
+        "link": "https://bgm.tv/character/20336",
+        "categorie": "person"
+      },
+      {
+        "id": "31635",
+        "label": "博马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/1b/31635_crt_oZ7k0.jpg?r=1587802373",
+        "link": "https://bgm.tv/character/31635",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73433",
+        "label": "詹姆斯·P·“萨利”·萨利文",
+        "info": "萨利是一只体型庞大并长满蓝色长毛，头上有两个尖角，身上有紫色斑块，心地善良友好的怪兽。虽然他在工作上非常擅长（吓唬孩子），但本质上却很善良和体贴。萨利的个性外向，乐观。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/65/73433_crt_4BP9K.jpg?r=1574494952",
+        "link": "https://bgm.tv/character/73433",
+        "categorie": "person"
+      },
+      {
+        "id": "73434",
+        "label": "麦克尔·“麦克”·沃佐斯基",
+        "info": "麦克看上去就像是一只长有手脚的巨大眼睛，他的全身都是绿色的，手和脚都很细。他和萨利是室友，两“兽”是最好的朋友，工作上他则是萨利的助手。麦克正与怪物公司的接线员西莉亚·美约会，性格外向的他很容易满足，例如在广告和杂志封面上，自己的脸完全被挡住。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/02/73434_crt_8zttn.jpg",
+        "link": "https://bgm.tv/character/73434",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

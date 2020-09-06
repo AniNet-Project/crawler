@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15420",
+        "label": "美利坚合众国",
+        "info": "在二次元出现得最频繁的国家之一，其统治者有着大总统的头衔，给人以霸气、富有和国力强悍的印象；然而无论作为正义的伙伴还是敌方的幕后，实战起来通常不堪一击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/fd/15420_crt_VeCju.jpg",
+        "link": "https://bgm.tv/character/15420",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

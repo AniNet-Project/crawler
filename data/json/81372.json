@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26140",
+        "label": "赤红",
+        "info": "《紅／綠／藍／皮卡丘》和《火紅／葉綠》",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/e5/26140_crt_VVWh1.jpg",
+        "link": "https://bgm.tv/character/26140",
+        "categorie": "person"
+      },
+      {
+        "id": "3227",
+        "label": "坂木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c6/3227_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3227",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "21618",
+        "label": "青绿",
+        "info": "青绿是神奇宝贝 THE ORIGIN的角色。他是小智的劲敌。是以神奇宝贝红绿蓝版和神奇宝贝火红叶绿版的劲敌为基础所创作的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/2c/21618_crt_mCZGg.jpg?r=1380960677",
+        "link": "https://bgm.tv/character/21618",
+        "categorie": "person"
+      },
+      {
+        "id": "65974",
+        "label": "马志士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/42/65974_crt_5tvTM.jpg",
+        "link": "https://bgm.tv/character/65974",
+        "categorie": "person"
+      },
+      {
+        "id": "66618",
+        "label": "莉佳",
+        "info": "玉虹道馆的道馆馆主，擅长草属性，在战斗中战胜她的训练家能获得到彩虹徽章。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/99/66618_crt_OWPhW.jpg?r=1582458068",
+        "link": "https://bgm.tv/character/66618",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

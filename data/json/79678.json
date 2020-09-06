@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12423",
+        "label": "杨文里",
+        "info": "　　黑发，黑眼睛，中等身材。喜欢掺白兰地的红茶，讨厌咖啡，酒量不小。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/68/12423_crt_7OXpx.jpg?r=1524744346",
+        "link": "https://bgm.tv/character/12423",
+        "categorie": "person"
+      },
+      {
+        "id": "2524",
+        "label": "让·罗贝尔·拉普",
+        "info": "少校。杨就读军官学校时的同窗好友，个性认真且颇具人情味，亦具备军事方面的才能，被杨视为未来的将才，但因病而延缓了晋升。因上司的无能而战死，令杨惋惜不已；未婚妻洁西卡更因此开始推展反战运动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/c9/2524_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2524",
+        "categorie": "person"
+      },
+      {
+        "id": "2526",
+        "label": "达斯提·亚典波罗",
+        "info": "中将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/48/2526_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2526",
+        "categorie": "person"
+      },
+      {
+        "id": "2529",
+        "label": "西德尼·席特列",
+        "info": "衔至元帅。军方开明派代表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/ca/2529_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2529",
+        "categorie": "person"
+      },
+      {
+        "id": "2530",
+        "label": "亚列克斯·卡介伦",
+        "info": "杨威利的好友，伊谢尔伦要塞事务总监负责要塞管理防御工事等大小事情，当杨威利不在要塞时防卫的指挥权更全落在他身上。在要塞对要塞的第八次伊谢尔伦攻防战中，由于杨威利身陷审查会，因而独当一面指挥防御，成功坚守到杨威利归来。虽不擅长指挥战斗，但在后勤、营运、事务处理方面，有过人的才能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/a9/2530_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2530",
+        "categorie": "person"
+      },
+      {
+        "id": "2537",
+        "label": "姆莱",
+        "info": "杨威利的参谋长衔至中将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c4/2537_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2537",
+        "categorie": "person"
+      },
+      {
+        "id": "2558",
+        "label": "亚历山大·比克古",
+        "info": "生于宇宙历726年，死于宇宙历800年，享年74。出身行伍的同盟将领，官至宇宙舰队司令长官，衔至元帅。在故事早期，帝国入侵自由行星同盟的作战“诸神的黄昏”，兰提马利欧星域作战中，为了承担战败责任而自杀，但被邱吾权阻止下来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/88/2558_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2558",
+        "categorie": "person"
+      },
+      {
+        "id": "2578",
+        "label": "派特里契夫",
+        "info": "杨威利的副参谋，衔至少将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/57/2578_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2578",
+        "categorie": "person"
+      },
+      {
+        "id": "62477",
+        "label": "布鲁斯·阿修比",
+        "info": "同盟军“730年党”的领袖。宇宙历745年第二次迪亚马特星域会战时的自由行星同盟宇宙舰队司令长官。在该战役中阵亡，追封元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/de/62477_crt_NwWde.jpg",
+        "link": "https://bgm.tv/character/62477",
+        "categorie": "person"
+      },
+      {
+        "id": "62480",
+        "label": "阿尔弗雷德·罗察士",
+        "info": "同盟军上将，730年党之一。长期担任阿修比的参谋长，擅长协调筹划，宇宙历745年就任宇宙舰队总参谋长。宇宙历788年误服过量安眠药身亡，死后追授元帅。是最后一位离世的730年党成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/1c/62480_crt_vRdyR.jpg?r=1523108495",
+        "link": "https://bgm.tv/character/62480",
+        "categorie": "person"
+      },
+      {
+        "id": "62481",
+        "label": "弗雷德里克·贾斯帕",
+        "info": "同盟军上将，730年党之一。绰号“进行曲贾斯帕”。第二次迪亚马特会战担任第四舰队司令官。宇宙历750年晋升上将，宇宙历753年至770年就任宇宙舰队司令官，宇宙历770年至771年就任统合作战本部本部长，退休后携妻子在旅行途中遭遇空难身亡。死后追授元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/c3/62481_crt_q58OO.jpg?r=1523108670",
+        "link": "https://bgm.tv/character/62481",
+        "categorie": "person"
+      },
+      {
+        "id": "62482",
+        "label": "沃里斯.渥里克",
+        "info": "同盟军元帅，730年党之一。绰号“男爵”，精通扑克牌占卜，西洋棋，飞镖，滑雪和演奏小号吉他。第二次迪亚马特会战担任第五舰队司令官。宇宙历750年晋升上将。就任宇宙舰队司令长官至宇宙历753年，后从政，760年就任自由行星同盟最高评议会国防委员长，并晋升元帅.后因丑闻下台，病逝于海尼森的寓所。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/12/62482_crt_gfCPh.jpg",
+        "link": "https://bgm.tv/character/62482",
+        "categorie": "person"
+      },
+      {
+        "id": "62483",
+        "label": "方秋林",
+        "info": "同盟军元帅，730年党之一。第二次迪亚马特会战任第八舰队司令。宇宙历750年晋升上将。就任统合作战本部本部长（宇宙历755—761），761年晋升元帅后退役.宇宙历773年病逝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/34/62483_crt_dstdT.jpg?r=1523109699",
+        "link": "https://bgm.tv/character/62483",
+        "categorie": "person"
+      },
+      {
+        "id": "62484",
+        "label": "维克托利·迪·贝尔迪尼",
+        "info": "同盟军中将，730年党之一。第二次迪亚马特会战任第九舰队司令官。在战斗中阵亡，追授元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/35/62484_crt_3llLx.jpg?r=1523109881",
+        "link": "https://bgm.tv/character/62484",
+        "categorie": "person"
+      },
+      {
+        "id": "62485",
+        "label": "约翰·多林克·柯布",
+        "info": "同盟军上将，730年党之一。第二次迪亚马特会战任第十一舰队司令。后任宇宙舰队副司令。宇宙历751年战殁，所部惨败，30万人战死。追授元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/13/62485_crt_O05re.jpg?r=1523110044",
+        "link": "https://bgm.tv/character/62485",
+        "categorie": "person"
+      },
+      {
+        "id": "62486",
+        "label": "米莉亚姆·罗察士",
+        "info": "罗察士提督的孙女，起初把杨威利当做宪兵有所敌视。后来了解杨的真实目的后和解，并对杨威利有好感",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/15/62486_crt_luxa1.jpg?r=1523110508",
+        "link": "https://bgm.tv/character/62486",
+        "categorie": "person"
+      },
+      {
+        "id": "2631",
+        "label": "杨泰隆",
+        "info": "杨威利父亲，宇宙商人，喜好收藏古董，因飞船事故早逝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/13/2631_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2631",
+        "categorie": "person"
+      },
+      {
+        "id": "62491",
+        "label": "马尔科姆·怀特伯恩",
+        "info": "杨威利在军校的同期生。是同级中的首席毕业生，却在模拟战斗中败给了杨威利但是不服气。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/91/62491_crt_vZfD7.jpg",
+        "link": "https://bgm.tv/character/62491",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

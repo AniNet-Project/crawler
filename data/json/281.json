@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6443",
+        "label": "文伽",
+        "info": "以将死者的信息“死后文”送到活人手中为工作的“死后文送信人”的不可思议的少女。平时口气粗野，但只要事情关系到送达死后文的工作时就会变得认真起来。偶尔还会认真到过头的地步，真实身分为文歌的另一个人格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/3a/6443_crt_anidb.jpg?r=1408118149",
+        "link": "https://bgm.tv/character/6443",
+        "categorie": "person"
+      },
+      {
+        "id": "22689",
+        "label": "美川文歌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/4c/22689_crt_2928r.jpg",
+        "link": "https://bgm.tv/character/22689",
+        "categorie": "person"
+      },
+      {
+        "id": "13844",
+        "label": "卡娜卡",
+        "info": "芙蜜卡一直带在身边的巨大手杖。会说人话，负责辅助芙蜜卡死后文送信人”的工作。所有的“死后文送信人”都带着同一款样式的手杖。性别为女性。和主人比起来，能说会道，不过有些孩子气的感觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/70/13844_crt_8V8su.jpg?r=1408118298",
+        "link": "https://bgm.tv/character/13844",
+        "categorie": "person"
+      },
+      {
+        "id": "13845",
+        "label": "野岛要",
+        "info": "文歌国中时期的同学，曾跟文歌告白，但是被拒绝了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/84/13845_crt_237A6.jpg?r=1408118244",
+        "link": "https://bgm.tv/character/13845",
+        "categorie": "person"
+      },
+      {
+        "id": "13846",
+        "label": "野岛辰巳",
+        "info": "野岛要的父亲。职业是刑警。俗称ノジ先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8c/13846_crt_11UiU.jpg?r=1408118229",
+        "link": "https://bgm.tv/character/13846",
+        "categorie": "person"
+      },
+      {
+        "id": "23951",
+        "label": "清澄千章",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/79/23951_crt_s4vcM.jpg?r=1408117861",
+        "link": "https://bgm.tv/character/23951",
+        "categorie": "person"
+      },
+      {
+        "id": "23952",
+        "label": "マトマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/f6/23952_crt_qjZyV.jpg?r=1408118288",
+        "link": "https://bgm.tv/character/23952",
+        "categorie": "person"
+      },
+      {
+        "id": "23953",
+        "label": "葛西春乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/b6/23953_crt_B1O8n.jpg?r=1408118095",
+        "link": "https://bgm.tv/character/23953",
+        "categorie": "person"
+      },
+      {
+        "id": "23954",
+        "label": "葛西夏香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/59/23954_crt_PwaL2.jpg?r=1408118067",
+        "link": "https://bgm.tv/character/23954",
+        "categorie": "person"
+      },
+      {
+        "id": "23955",
+        "label": "美川キラメキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/55/23955_crt_nZrsG.jpg?r=1408118193",
+        "link": "https://bgm.tv/character/23955",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

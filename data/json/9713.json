@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9046",
+        "label": "阿尔法",
+        "info": "一个A7M2型机器人，属于「量產試作機」，总共只生产了三台的其中之一。紫色眼眸，绿发。经营由“主人”留给她的Café Alpha。阿尔法个性愉快且善能思考，虽然本性并不特别外向，但喜欢与难得上门的顾客交谈。虽说她身为一个实现量产的机器人系列的原型机，在故事开端的时候却只认识非常少数的几个人，不认识任何机器人。随着剧情发展，她逐渐变得更加自信大方，与外界的接触更加频繁，甚至在外旅行一整年。阿尔法非常珍视友情，即使与友人分隔两地长年不见也不会疏远。她擅弹月琴，喜欢雕刻与鱼有关的工艺品，时常骑乘一辆小绵羊外出巡游，寻访人类文明鼎盛时期留下的痕迹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e9/9046_crt_PdB4R.jpg",
+        "link": "https://bgm.tv/character/9046",
+        "categorie": "person"
+      },
+      {
+        "id": "9048",
+        "label": "高广",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/22/9048_crt_59ZPP.jpg?r=1568130329",
+        "link": "https://bgm.tv/character/9048",
+        "categorie": "person"
+      },
+      {
+        "id": "12259",
+        "label": "菜心",
+        "info": "一个A7M3量产型的机器人，在东京都武藏野市的“武藏野快递公司”做快递员。绿色眼眸，紫发。是阿尔法认识的第一个机器人。她受阿尔法的主人所托，给阿尔法送来一台相机以及口信。二人很快成为挚友，甚至发展出超越友情的感情。菜心文静、知性且羞涩，但因为是快递员，社会经验却超过阿尔法。在遇见阿尔法之前很在意自己像不像人类，但看到阿尔法的完美榜样后不再在意这个问题。她一直在致力于查清A7系列机器人的设计、制造历史。结局时，似乎成了Café Alpha的店员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/c1/12259_crt_XQmMm.jpg",
+        "link": "https://bgm.tv/character/12259",
+        "categorie": "person"
+      },
+      {
+        "id": "9047",
+        "label": "運転手",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/56/9047_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9047",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

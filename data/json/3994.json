@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11399",
+        "label": "梶原空",
+        "info": "主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/ac/11399_crt_KmmG9.jpg",
+        "link": "https://bgm.tv/character/11399",
+        "categorie": "person"
+      },
+      {
+        "id": "11400",
+        "label": "麻生夏海",
+        "info": "和空同个美术部的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/b4/11400_crt_8zIT6.jpg",
+        "link": "https://bgm.tv/character/11400",
+        "categorie": "person"
+      },
+      {
+        "id": "11401",
+        "label": "鸟饲叶月",
+        "info": "和空同个美术部的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/36/11401_crt_Sd55n.jpg",
+        "link": "https://bgm.tv/character/11401",
+        "categorie": "person"
+      },
+      {
+        "id": "11402",
+        "label": "春日野日和",
+        "info": "是美术教师及美术部顾问。性格开朗又爱说爱笑，但对教育不怎么热心。养了一只叫小P的公鸡，而且还带过去学校。又将电视、冰箱等各种各样的私物拿进美术准备室。虽然有时会在剧情中驾车出场，如拉起了手煞车来行走等，驾驶技术相当马虎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/c4/11402_crt_pu622.jpg",
+        "link": "https://bgm.tv/character/11402",
+        "categorie": "person"
+      },
+      {
+        "id": "11411",
+        "label": "须尧雨情",
+        "info": "3年7组的学生。美术部的部长，也是部内唯一有常识的人。多对部员们或先生有个性的言行做反应的一方。不太会笑，但一摸到可爱的猫咪时就会表现出灿烂的微笑。有很广的知识，有可以跟凯特以英文对话般程度的英语会话能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/e1/11411_crt_h4W0j.jpg",
+        "link": "https://bgm.tv/character/11411",
+        "categorie": "person"
+      },
+      {
+        "id": "11403",
+        "label": "空闲木阴",
+        "info": "2年10组的学生。被称呼“空閑っち”。虽然基本上是扑克脸，常常以眼的变化来表现感情之外，被真砂说指不会笑而接受过特训后，好像变得会笑了。平时很少说话，对人说话时多半是说故弄玄虚的说话。最怕伯劳和心灵现象之类，在说这种话题的人前表情会变怪。养了一只名叫“小汤”的猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/46/11403_crt_Z8vVm.jpg",
+        "link": "https://bgm.tv/character/11403",
+        "categorie": "person"
+      },
+      {
+        "id": "11407",
+        "label": "根岸大地",
+        "info": "性格相对爽朗，但是相当小气易怒。一次又一次地成为木阴和朝霞开玩笑或恶作戏的对象。喜欢怪兽，常想出原创的怪兽。虽然害怕狗，某日在美术部的室外活动时由于被野狗缠着，养了那只狗并起名叫“犬男”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/21/11407_crt_a8YA0.jpg",
+        "link": "https://bgm.tv/character/11407",
+        "categorie": "person"
+      },
+      {
+        "id": "11405",
+        "label": "佐佐木树树",
+        "info": "性格健忘，是跟空不同的另一种“天然呆”，但没什么这方面的自觉，会严肃地露出糊涂的一面。兴趣是音乐，擅长弹结他，尤好小调。与渚关系特别好。最害怕毛虫。偶尔会跟渚一起煮咖喱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/f3/11405_crt_A3zaZ.jpg",
+        "link": "https://bgm.tv/character/11405",
+        "categorie": "person"
+      },
+      {
+        "id": "11404",
+        "label": "栗原渚",
+        "info": "喜欢大自然，常在山水之间游历。还有丰富的动植物知识，对记载了实地考察资料图鉴上的时大概都会了解。但是，以学生来说对实际接触动植物的经验有限，也曾在图鉴里没记载过的初次遇到的昆虫前感到困惑。除了大自然之外，亦有丰富的常识。与树树关系特别好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b7/11404_crt_zJ2IT.jpg",
+        "link": "https://bgm.tv/character/11404",
+        "categorie": "person"
+      },
+      {
+        "id": "11406",
+        "label": "神谷朝霞",
+        "info": "2年2组的学生。喜欢做手工，可以用在身边的任何东西来做些有的没的。性格开朗，喜欢恶作剧。虽然个子小，但拥有无视部长的胆色。没有双亲，与哥哥雷火和姊姊雪花三人住在一起。负责购买神谷家晚餐等事务。包括家人在内对何人都惯用敬语。骑单车上学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/10/11406_crt_TtU1w.jpg",
+        "link": "https://bgm.tv/character/11406",
+        "categorie": "person"
+      },
+      {
+        "id": "4758",
+        "label": "凯特",
+        "info": "1年10组的学生。在空她们入部一段时间后才加入美术部。性格开朗率直，某些时候会露出相当糊涂的一面。虽然是加拿大出身的外国人，但懂一定程度的日文，也有一部份的日文甚至比日本人更了解。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/fc/4758_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4758",
+        "categorie": "person"
+      },
+      {
+        "id": "11408",
+        "label": "田边凉",
+        "info": "2年1组的学生。与风的样子相似，瞳色是茶色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/7c/11408_crt_Zt8FF.jpg?r=1592827149",
+        "link": "https://bgm.tv/character/11408",
+        "categorie": "person"
+      },
+      {
+        "id": "11409",
+        "label": "冰室风",
+        "info": "2年1组的学生。与凉的样子相似，瞳色是黑色。最初是用博多腔来说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/2c/11409_crt_1bT1I.jpg",
+        "link": "https://bgm.tv/character/11409",
+        "categorie": "person"
+      },
+      {
+        "id": "11412",
+        "label": "大庭月夜",
+        "info": "美术部前辈。二年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/0c/11412_crt_s4v99.jpg",
+        "link": "https://bgm.tv/character/11412",
+        "categorie": "person"
+      },
+      {
+        "id": "11413",
+        "label": "梶原青",
+        "info": "空的弟弟。13岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/37/11413_crt_77J6W.jpg",
+        "link": "https://bgm.tv/character/11413",
+        "categorie": "person"
+      },
+      {
+        "id": "77813",
+        "label": "根岸水面",
+        "info": "自己紹介スケブコメント:「わふっ(犬男のあんまりうまくない絵) 根岸みなも」",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/d9/77813_crt_j8GUj.jpg",
+        "link": "https://bgm.tv/character/77813",
+        "categorie": "person"
+      },
+      {
+        "id": "11414",
+        "label": "米奇",
+        "info": "野猫，叫声微弱。眼神凶狠，操踪著附近的野猫们。猫与猫之间对话时说日本猫语的博多腔。懂得咬著麦克笔来写平假名和汉字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/be/11414_crt_0JMEj.jpg",
+        "link": "https://bgm.tv/character/11414",
+        "categorie": "person"
+      },
+      {
+        "id": "11415",
+        "label": "小心",
+        "info": "深色眼睛。虽然怕高但最近克服了。猫之间说话时会说付以“にゃ”语尾的日本猫语和外国猫语，可以跟波波以外国猫语沟通地精通双语。与米奇相比显得举止冷静。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/45/11415_crt_oUQcR.jpg",
+        "link": "https://bgm.tv/character/11415",
+        "categorie": "person"
+      },
+      {
+        "id": "11418",
+        "label": "波波",
+        "info": "说外国猫语。经常迷路，正找寻前往金田町（注意日语中“金田”与“加拿大”发音相近，而主人凯特又刚好来自加拿大）的路中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/1f/11418_crt_an8Vn.jpg",
+        "link": "https://bgm.tv/character/11418",
+        "categorie": "person"
+      },
+      {
+        "id": "11417",
+        "label": "熊熊",
+        "info": "由于头大五官又集中在中间，虽然外貌非常突出但也只不过是猫（由于毛非常长所以看起来头很大）。万事通而又自大。与体型不符地身体比三毛还轻快。懂得咬著麦克笔来写平假名和汉字。憧憬著被人著收养，说是“想戴上时髦的项圈”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/74/11417_crt_eOoO1.jpg",
+        "link": "https://bgm.tv/character/11417",
+        "categorie": "person"
+      },
+      {
+        "id": "11416",
+        "label": "小灰",
+        "info": "虽然是野猫，但也有戴上过项圈的时候。会靠近人类，但不算经常。由于还幼比其他猫来说身体有点小。猫之间对话时只会说“にゃあ”，虽然会写字但也是只会写“にゃあ”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/9f/11416_crt_nd4Mr.jpg",
+        "link": "https://bgm.tv/character/11416",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3348",
+        "label": "野田恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/3c/3348_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3348",
+        "categorie": "person"
+      },
+      {
+        "id": "3362",
+        "label": "千秋真一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/cd/3362_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3362",
+        "categorie": "person"
+      },
+      {
+        "id": "3574",
+        "label": "セバスチャーノ・ヴィエラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/14/3574_crt_Cuyt6.jpg",
+        "link": "https://bgm.tv/character/3574",
+        "categorie": "person"
+      },
+      {
+        "id": "3594",
+        "label": "フランツ・フォン・シュトレーゼマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/d8/3594_crt_d4CNd.jpg",
+        "link": "https://bgm.tv/character/3594",
+        "categorie": "person"
+      },
+      {
+        "id": "3602",
+        "label": "峰龍太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/3a/3602_crt_7970X.jpg",
+        "link": "https://bgm.tv/character/3602",
+        "categorie": "person"
+      },
+      {
+        "id": "3603",
+        "label": "三木清良",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/80/3603_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3603",
+        "categorie": "person"
+      },
+      {
+        "id": "3612",
+        "label": "黒木泰則",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/e3/3612_crt_m958v.jpg",
+        "link": "https://bgm.tv/character/3612",
+        "categorie": "person"
+      },
+      {
+        "id": "3613",
+        "label": "奥山真澄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/d5/3613_crt_8FQF8.jpg",
+        "link": "https://bgm.tv/character/3613",
+        "categorie": "person"
+      },
+      {
+        "id": "3614",
+        "label": "多賀谷彩子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/dd/3614_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3614",
+        "categorie": "person"
+      },
+      {
+        "id": "3615",
+        "label": "江藤耕造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/c9/3615_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3615",
+        "categorie": "person"
+      },
+      {
+        "id": "3627",
+        "label": "菊地亨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/f2/3627_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3627",
+        "categorie": "person"
+      },
+      {
+        "id": "3628",
+        "label": "谷岡肇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/52/3628_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3628",
+        "categorie": "person"
+      },
+      {
+        "id": "3707",
+        "label": "鈴木萌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/d9/3707_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3707",
+        "categorie": "person"
+      },
+      {
+        "id": "3708",
+        "label": "鈴木薫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/ff/3708_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3708",
+        "categorie": "person"
+      },
+      {
+        "id": "3729",
+        "label": "桃平美奈子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/16/3729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3729",
+        "categorie": "person"
+      },
+      {
+        "id": "3731",
+        "label": "カイ・ドゥーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c3/3731_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3731",
+        "categorie": "person"
+      },
+      {
+        "id": "3732",
+        "label": "佐久間学",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/23/3732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3732",
+        "categorie": "person"
+      },
+      {
+        "id": "3733",
+        "label": "河野けえ子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/d5/3733_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3733",
+        "categorie": "person"
+      },
+      {
+        "id": "3734",
+        "label": "大川総太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/75/3734_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3734",
+        "categorie": "person"
+      },
+      {
+        "id": "3736",
+        "label": "田中真紀子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/19/3736_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3736",
+        "categorie": "person"
+      },
+      {
+        "id": "3738",
+        "label": "江藤かおり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/73/3738_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3738",
+        "categorie": "person"
+      },
+      {
+        "id": "3739",
+        "label": "峰龍見",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/88/3739_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3739",
+        "categorie": "person"
+      },
+      {
+        "id": "3742",
+        "label": "木村智仁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/72/3742_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3742",
+        "categorie": "person"
+      },
+      {
+        "id": "8612",
+        "label": "玉木圭司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/79/8612_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8612",
+        "categorie": "person"
+      },
+      {
+        "id": "8613",
+        "label": "橋本洋平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/8e/8613_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8613",
+        "categorie": "person"
+      },
+      {
+        "id": "8614",
+        "label": "井上由貴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/7a/8614_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8614",
+        "categorie": "person"
+      },
+      {
+        "id": "8650",
+        "label": "石川伶奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/3a/8650_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8650",
+        "categorie": "person"
+      },
+      {
+        "id": "3629",
+        "label": "佐久桜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/05/3629_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3629",
+        "categorie": "person"
+      },
+      {
+        "id": "3639",
+        "label": "シャルル・オクレール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/31/3639_crt_T7pck.jpg",
+        "link": "https://bgm.tv/character/3639",
+        "categorie": "person"
+      },
+      {
+        "id": "3647",
+        "label": "エリーゼ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/e4/3647_crt_8UKo4.jpg",
+        "link": "https://bgm.tv/character/3647",
+        "categorie": "person"
+      },
+      {
+        "id": "3649",
+        "label": "野田洋子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/c0/3649_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3649",
+        "categorie": "person"
+      },
+      {
+        "id": "3654",
+        "label": "野田辰男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/88/3654_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3654",
+        "categorie": "person"
+      },
+      {
+        "id": "3655",
+        "label": "野田佳孝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/0c/3655_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3655",
+        "categorie": "person"
+      },
+      {
+        "id": "3656",
+        "label": "野田喜三郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/67/3656_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3656",
+        "categorie": "person"
+      },
+      {
+        "id": "3657",
+        "label": "野田静代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/2d/3657_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3657",
+        "categorie": "person"
+      },
+      {
+        "id": "3661",
+        "label": "三善征子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/f4/3661_crt_F39iS.jpg",
+        "link": "https://bgm.tv/character/3661",
+        "categorie": "person"
+      },
+      {
+        "id": "3665",
+        "label": "千秋雅之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a6/3665_crt_RBqX0.jpg",
+        "link": "https://bgm.tv/character/3665",
+        "categorie": "person"
+      },
+      {
+        "id": "3666",
+        "label": "三善竹彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/4c/3666_crt_uSOvA.jpg",
+        "link": "https://bgm.tv/character/3666",
+        "categorie": "person"
+      },
+      {
+        "id": "3667",
+        "label": "三善俊彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f5/3667_crt_IglR9.jpg",
+        "link": "https://bgm.tv/character/3667",
+        "categorie": "person"
+      },
+      {
+        "id": "3668",
+        "label": "三善由衣子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/1b/3668_crt_1Z3VQ.jpg",
+        "link": "https://bgm.tv/character/3668",
+        "categorie": "person"
+      },
+      {
+        "id": "3669",
+        "label": "三善誠一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/22/3669_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3669",
+        "categorie": "person"
+      },
+      {
+        "id": "3723",
+        "label": "ニナ・ルッツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/ea/3723_crt_E5nLN.jpg",
+        "link": "https://bgm.tv/character/3723",
+        "categorie": "person"
+      },
+      {
+        "id": "3730",
+        "label": "桃平沙夜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/c2/3730_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3730",
+        "categorie": "person"
+      },
+      {
+        "id": "3735",
+        "label": "瀬川悠人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/0c/3735_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3735",
+        "categorie": "person"
+      },
+      {
+        "id": "3737",
+        "label": "菅沼沙也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/b1/3737_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3737",
+        "categorie": "person"
+      },
+      {
+        "id": "3741",
+        "label": "高橋紀之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/ce/3741_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3741",
+        "categorie": "person"
+      },
+      {
+        "id": "4639",
+        "label": "オリバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/27/4639_crt_p0Ajh.jpg",
+        "link": "https://bgm.tv/character/4639",
+        "categorie": "person"
+      },
+      {
+        "id": "8598",
+        "label": "大河内守",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/61/8598_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8598",
+        "categorie": "person"
+      },
+      {
+        "id": "8599",
+        "label": "ごろ太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/74/8599_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8599",
+        "categorie": "person"
+      },
+      {
+        "id": "8600",
+        "label": "プリリン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/84/8600_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8600",
+        "categorie": "person"
+      },
+      {
+        "id": "8601",
+        "label": "カズオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/ab/8601_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8601",
+        "categorie": "person"
+      },
+      {
+        "id": "8602",
+        "label": "リオナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/c5/8602_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8602",
+        "categorie": "person"
+      },
+      {
+        "id": "8603",
+        "label": "マイケル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/bc/8603_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8603",
+        "categorie": "person"
+      },
+      {
+        "id": "8604",
+        "label": "佐久日出美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/96/8604_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8604",
+        "categorie": "person"
+      },
+      {
+        "id": "8605",
+        "label": "金城静香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/1e/8605_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8605",
+        "categorie": "person"
+      },
+      {
+        "id": "8606",
+        "label": "小田切次郎",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8606",
+        "categorie": "person"
+      },
+      {
+        "id": "8608",
+        "label": "中村みどり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/77/8608_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8608",
+        "categorie": "person"
+      },
+      {
+        "id": "8609",
+        "label": "キーヨ・ブスコビッチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/53/8609_crt_anidb.jpg?r=1415133293",
+        "link": "https://bgm.tv/character/8609",
+        "categorie": "person"
+      },
+      {
+        "id": "8611",
+        "label": "山本",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b7/8611_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8611",
+        "categorie": "person"
+      },
+      {
+        "id": "8623",
+        "label": "坂田千代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/c5/8623_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8623",
+        "categorie": "person"
+      },
+      {
+        "id": "8624",
+        "label": "ギャート・フィッシャー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/c0/8624_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8624",
+        "categorie": "person"
+      },
+      {
+        "id": "8640",
+        "label": "ゆうじくん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/af/8640_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8640",
+        "categorie": "person"
+      },
+      {
+        "id": "8642",
+        "label": "美加",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/12/8642_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8642",
+        "categorie": "person"
+      },
+      {
+        "id": "8645",
+        "label": "岩井一志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/de/8645_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8645",
+        "categorie": "person"
+      },
+      {
+        "id": "8651",
+        "label": "いずみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/16/8651_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8651",
+        "categorie": "person"
+      },
+      {
+        "id": "8652",
+        "label": "ユッコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/49/8652_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8652",
+        "categorie": "person"
+      },
+      {
+        "id": "8654",
+        "label": "ハンス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/11/8654_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8654",
+        "categorie": "person"
+      },
+      {
+        "id": "8657",
+        "label": "坪井隆ニ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/33/8657_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8657",
+        "categorie": "person"
+      },
+      {
+        "id": "8658",
+        "label": "松田幸久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/31/8658_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8658",
+        "categorie": "person"
+      },
+      {
+        "id": "8660",
+        "label": "瀬川百合枝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/27/8660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8660",
+        "categorie": "person"
+      },
+      {
+        "id": "8661",
+        "label": "片山智治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/9d/8661_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8661",
+        "categorie": "person"
+      },
+      {
+        "id": "8662",
+        "label": "相沢舞子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/7f/8662_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8662",
+        "categorie": "person"
+      },
+      {
+        "id": "8663",
+        "label": "花桜先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/97/8663_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8663",
+        "categorie": "person"
+      },
+      {
+        "id": "3727",
+        "label": "学校法人桃ヶ丘音楽学園",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3727",
+        "categorie": "person"
+      },
+      {
+        "id": "8607",
+        "label": "教授トリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/11/8607_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8607",
+        "categorie": "person"
+      },
+      {
+        "id": "8641",
+        "label": "Sオケ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/fd/8641_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8641",
+        "categorie": "person"
+      },
+      {
+        "id": "8655",
+        "label": "R☆Sオーケストラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/9f/8655_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8655",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

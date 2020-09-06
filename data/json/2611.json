@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6169",
+        "label": "桑雷德",
+        "info": "英雄。喜欢玩弹珠机，和女朋友内田加代子住在一起。没有工作，也没有手机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/da/6169_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6169",
+        "categorie": "person"
+      },
+      {
+        "id": "6172",
+        "label": "班普将军",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/ef/6172_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6172",
+        "categorie": "person"
+      },
+      {
+        "id": "6173",
+        "label": "兔哥茲",
+        "info": "兔子玩偶形态的怪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/cb/6173_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6173",
+        "categorie": "person"
+      },
+      {
+        "id": "6224",
+        "label": "天井裏の住人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/78/6224_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6224",
+        "categorie": "person"
+      },
+      {
+        "id": "6243",
+        "label": "地狱狼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/ed/6243_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6243",
+        "categorie": "person"
+      },
+      {
+        "id": "59902",
+        "label": "ナイトール",
+        "info": "必殺技 - ナイトフラッシャー",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/0a/59902_crt_TAkkZ.jpg",
+        "link": "https://bgm.tv/character/59902",
+        "categorie": "person"
+      },
+      {
+        "id": "6206",
+        "label": "恶魔猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/84/6206_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6206",
+        "categorie": "person"
+      },
+      {
+        "id": "6207",
+        "label": "小P·改",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/db/6207_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6207",
+        "categorie": "person"
+      },
+      {
+        "id": "6242",
+        "label": "天气蓝",
+        "info": "原气象战队的一员，现役牛郎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/2a/6242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6242",
+        "categorie": "person"
+      },
+      {
+        "id": "6256",
+        "label": "动物战队",
+        "info": "由兔哥茲、恶魔猫、小P·改以及地狱狼所组成的怪人（卖萌）小分队，隶属弗洛夏姆川崎支部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/7c/6256_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6256",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

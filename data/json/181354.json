@@ -1,0 +1,565 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27115",
+        "label": "齐木楠雄",
+        "info": "髪はピンク色で頭部に不思議な装置をつけ、緑色のレンズのメガネという特徴的な容姿の高校生。テレパシー、サイコキネシス、透視、予知、瞬間移動、千里眼などなど…様々な超能力を操ることができる。幼少期の経験から人前で超能力を使うことを避けるようになり、それを人に知られないように周囲から適度な距離をおきながら暮らしている。スイーツが好物で、特にコーヒーゼリーに目がない。また虫が嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/b6/27115_crt_0zrIB.jpg?r=1473606934",
+        "link": "https://bgm.tv/character/27115",
+        "categorie": "person"
+      },
+      {
+        "id": "41167",
+        "label": "燃堂力",
+        "info": "不良のような容姿で、言動もいい加減なため、クラスの中で避けられている。普段から何も考えず行動している通称・ミステリアスバカのため、楠雄が思考を読むことができない稀有な存在である。楠雄のことを「相棒」と呼び、よくラーメンを食べに誘うが、半ば鬱陶しく思われている。しかし自分では気づいていない…。義理人情に厚く友達思いであり、相手のことを第一に考え弱い者を助けるような優しい性格である。子供の頃の夢は大工さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ea/41167_crt_jJSq6.jpg?r=1473606951",
+        "link": "https://bgm.tv/character/41167",
+        "categorie": "person"
+      },
+      {
+        "id": "41168",
+        "label": "海藤瞬",
+        "info": "誰もが認める中二病。秘密結社「ダークリユニオン」と戦う自称・漆黒の翼。普段から空気を読まずに大仰な台詞を吐いて目立とうとするため、クラスの中では浮いた存在。 引っ込み思案な性格なため中二キャラを維持しきれないこともしばしば。また純粋な性格で騙されることも多いが、逆に正義感に後押しされ思わず身を挺して他人を助けようとすることもある。華奢な体のため運動が苦手だが、親の影響で勉強は多少できる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/8a/41168_crt_pP281.jpg?r=1473606975",
+        "link": "https://bgm.tv/character/41168",
+        "categorie": "person"
+      },
+      {
+        "id": "41924",
+        "label": "灰吕杵志",
+        "info": "クラスの学級委員。どんなことでも全力で熱心に取り組む熱血さわやかBOY。その真面目で正直な姿勢にクラスメイトからの人望も厚いが、時々行き過ぎた根性論が暑苦しい。 文武両道で誰にでも友好的に接するクラスのリーダー的存在である。驚異の身体能力を持つ燃堂をライバル視している。テニス部所属。なにかにつけて尻が出がち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/ce/41924_crt_RHkd1.jpg?r=1473606992",
+        "link": "https://bgm.tv/character/41924",
+        "categorie": "person"
+      },
+      {
+        "id": "41925",
+        "label": "鸟束零太",
+        "info": "子供の頃から幽霊を見たり、幽霊と話すことができる煩悩だらけの霊能力者。超能力をマスターしてやりたい放題生きるため、楠雄に弟子入りを志願する。 見た目は悪くないが自分の欲望に忠実に行動するため周囲の人から引かれがち。女の子が大好きな澄んだ目をしたクズ。初恋の相手はミヨちゃん（幽霊）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/dd/41925_crt_7xjKm.jpg?r=1473607028",
+        "link": "https://bgm.tv/character/41925",
+        "categorie": "person"
+      },
+      {
+        "id": "41748",
+        "label": "照桥心美",
+        "info": "すれ違う人すべてが振り返る美貌を持つ完璧美少女。どんな人に対しても愛想よく振る舞うため、ほとんどの異性から好かれている。「完璧な美少女」として見られるための努力は惜しまない。彼女に会った男性は誰でも「おっふ！？」せざるをえない…、究極絶対最強愛されガール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/b3/41748_crt_t4B47.jpg?r=1522401109",
+        "link": "https://bgm.tv/character/41748",
+        "categorie": "person"
+      },
+      {
+        "id": "41749",
+        "label": "梦原知予",
+        "info": "夢見がちでロマンチストな乙女。心変わりが激しく過去様々な男子生徒との恋愛経験を持つ。自分が主人公の自作小説サイトを中学三年間運営していた（閉鎖済み）黒歴史を持つ。恋話が好きな比較的普通（？）の女子",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/3e/41749_crt_qv43Q.jpg?r=1473607014",
+        "link": "https://bgm.tv/character/41749",
+        "categorie": "person"
+      },
+      {
+        "id": "42727",
+        "label": "目良千里",
+        "info": "楠雄のクラスメイトの悲運な貧乏少女。失踪した父親に変わりに家計を支えるため数々のアルバイトを掛け持ちしている。日々節制をしているため食べ物に目がない。 主食はもやしやパンの耳。巨乳のドジっ娘。よく見るとメガネの片方にしかレンズが入っていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ba/42727_crt_i4e3y.jpg?r=1473607097",
+        "link": "https://bgm.tv/character/42727",
+        "categorie": "person"
+      },
+      {
+        "id": "42728",
+        "label": "洼谷须亚莲",
+        "info": "楠雄のクラスに転入してきたメガネの真面目君。その正体はかつて「炎栖覇（えすぱー）」というチームの頭を務めていた元ヤンキー。両親も元ヤンだったため、当然グレるし襟足も伸ばされていた。転校を機にヤンキーを卒業しようと思い、今に至る。昔の通名は「修羅中の殺戮兵器」、「鬼殺しの窪谷須」、「襟足の亜蓮」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/c4/42728_crt_jqWc2.jpg?r=1473607112",
+        "link": "https://bgm.tv/character/42728",
+        "categorie": "person"
+      },
+      {
+        "id": "42729",
+        "label": "照桥信",
+        "info": "心美の兄。心美も認めるほどのイケメンで、若手トップアイドル俳優の六神通として芸能界で活躍している。人当たりもよく男女問わず人気がある。しかし本性は極度のシスコンで、妹に近づく男は誰であっても許さない。夢は妹のお婿さんになるという変態である。『すこやか戦隊スペシャライザー』の実写版の主演を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/91/42729_crt_YDv5D.jpg?r=1473607125",
+        "link": "https://bgm.tv/character/42729",
+        "categorie": "person"
+      },
+      {
+        "id": "42730",
+        "label": "蝶野雨绿",
+        "info": "異色の若手イリュージョニスト。某一流出版社を突然解雇され、無職になり奥さんにも愛想をつかされ離婚。貯金も底を尽き、住んでいた家も追い出されホームレス生活に。全てを失った時にイリュージョニストになることを決意する。「アメージング！」が決め台詞。本名は中西宏太。楠雄を師と仰いでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/03/42730_crt_9WJzX.jpg?r=1473607081",
+        "link": "https://bgm.tv/character/42730",
+        "categorie": "person"
+      },
+      {
+        "id": "41169",
+        "label": "齐木国春",
+        "info": "楠雄の父親。いい加減でだらしなく、すぐ楠雄に泣きつく事が多いため呆れられている。上司の靴をペロペロするのが得意なダメリーマン。普段から久留美と脳天気バカップル状態であるため、楠雄が超能力を持って生まれて来たときも順応し自宅で普通に育て続けた。職業は漫画編集者。特技は上司へのヨイショ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/79/41169_crt_udUfw.jpg?r=1473607041",
+        "link": "https://bgm.tv/character/41169",
+        "categorie": "person"
+      },
+      {
+        "id": "41170",
+        "label": "齐木久留美",
+        "info": "楠雄の母親。とても穏やかで優しい性格。夫と子供をとても愛している。楠雄が能力を悪用するような人間に育たなかったのは彼女の影響が大きい。また度が過ぎるほどの天然なので詐欺の格好の餌食になることも多い。ごくたまにキレると非常に恐ろしく、最強の力を持つ楠雄も少し恐怖を覚えるくらいである。職業は専業主婦。夢は世界平和。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/8a/41170_crt_um8eP.jpg?r=1473607061",
+        "link": "https://bgm.tv/character/41170",
+        "categorie": "person"
+      },
+      {
+        "id": "46910",
+        "label": "齐木熊五郎",
+        "info": "楠雄の祖父。ツンデレおじいちゃん。老齢のくせに極度のツンデレ体質で、ツンとデレのそれぞれの振れ幅はとんでもない。ただし娘の夫・國春にはツンのみ。楠雄の超能力のことは知らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/09/46910_crt_bbFF8.jpg?r=1518867732",
+        "link": "https://bgm.tv/character/46910",
+        "categorie": "person"
+      },
+      {
+        "id": "46911",
+        "label": "齐木久美",
+        "info": "楠雄の祖母。イケイケおばあちゃん。何か注入しているのか？と不思議＆不安になるぐらい外見が若い。と同時に、ギャル語に敏感で覚えたらすぐに使いたがるなど内面も若い。祖父同様、楠雄の超能力のことは知らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/32/46911_crt_6zncv.jpg?r=1518867740",
+        "link": "https://bgm.tv/character/46911",
+        "categorie": "person"
+      },
+      {
+        "id": "47332",
+        "label": "齐木空助",
+        "info": "楠雄の兄にしてIQ218の天才発明家。生後一ヶ月で言葉を発した天才だったが、弟が天才をも超える超能力者だったという劣等感から、家を飛び出しロンドンへ留学した過去を持つ。“弟”に激しいコンプレックスを持つ彼にとって、弟の話題は厳禁。その裏に隠された、弟への想い…とは！？",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/45/47332_crt_TrJZB.jpg?r=1518867752",
+        "link": "https://bgm.tv/character/47332",
+        "categorie": "person"
+      },
+      {
+        "id": "47333",
+        "label": "才虎芽斗吏",
+        "info": "鳥束、窪谷須に続く3人目の転校生。俺様気質で超プライドが高い、才虎財閥の御曹司。欲しいものは全て秘書が手配し、なんでもかんでもお金で解決できると思い込んでいる。札束風呂を好むが、お札の角が肌にあたって傷が絶えないらしい。お金では解決できない事態にぶつかった時、彼にも変化が…起こるのか！？",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/fa/47333_crt_Bsudf.jpg?r=1518867762",
+        "link": "https://bgm.tv/character/47333",
+        "categorie": "person"
+      },
+      {
+        "id": "43471",
+        "label": "高桥",
+        "info": "緑色のアフロヘアとタラコ唇が特徴の男子生徒。没個性なためモブ扱いされることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/b3/43471_crt_2wk64.jpg?r=1468837303",
+        "link": "https://bgm.tv/character/43471",
+        "categorie": "person"
+      },
+      {
+        "id": "43472",
+        "label": "松崎老师",
+        "info": "金剛の恩師である男性教師。体育と生活指導担当。常にジャージを着ており、竹刀を持っている時もある。髭は濃い目で、絶えず剃った跡がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/7a/43472_crt_sFvV1.jpg?r=1468838448",
+        "link": "https://bgm.tv/character/43472",
+        "categorie": "person"
+      },
+      {
+        "id": "61153",
+        "label": "神田品助",
+        "info": "声 - 野瀬育二",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/a6/61153_crt_jLc9d.jpg",
+        "link": "https://bgm.tv/character/61153",
+        "categorie": "person"
+      },
+      {
+        "id": "43474",
+        "label": "篠田武瑠",
+        "info": "顔立ちは端正で、左目の下の泣きボクロが特徴の男子生徒。夢原の元恋人の1人。エターナルダイヤモンドベロニカのギター担当。鳥束からは名前を「篠原」と勘違いされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/26/43474_crt_NOO8Z.jpg?r=1476765959",
+        "link": "https://bgm.tv/character/43474",
+        "categorie": "person"
+      },
+      {
+        "id": "43473",
+        "label": "金刚刚",
+        "info": "三年级的学生。留级多年，暴力学生。曾被漥谷须＂教训＂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/90/43473_crt_oZPa7.jpg?r=1468839179",
+        "link": "https://bgm.tv/character/43473",
+        "categorie": "person"
+      },
+      {
+        "id": "47131",
+        "label": "索尔贝",
+        "info": "黒人のような容姿の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/f3/47131_crt_63Ncc.jpg?r=1475493439",
+        "link": "https://bgm.tv/character/47131",
+        "categorie": "person"
+      },
+      {
+        "id": "43475",
+        "label": "畠山老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/23/43475_crt_U2sQd.jpg?r=1468839336",
+        "link": "https://bgm.tv/character/43475",
+        "categorie": "person"
+      },
+      {
+        "id": "43645",
+        "label": "池见华寿弥",
+        "info": "蝶野の助手。老人のような容姿の男性。年齢は30代。通称イケさん（仕事中はマイケルとも呼ばれる）。読切版から登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/7f/43645_crt_V6CkX.jpg?r=1469461208",
+        "link": "https://bgm.tv/character/43645",
+        "categorie": "person"
+      },
+      {
+        "id": "43646",
+        "label": "眼镜男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/be/43646_crt_tPJC6.jpg?r=1469462183",
+        "link": "https://bgm.tv/character/43646",
+        "categorie": "person"
+      },
+      {
+        "id": "47486",
+        "label": "前田孝之",
+        "info": "タケルの友人である男子生徒。エターナルダイヤモンドベロニカのベース担当しかしギターとベースの違いがわからない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/dd/47486_crt_115U1.jpg?r=1476766142",
+        "link": "https://bgm.tv/character/47486",
+        "categorie": "person"
+      },
+      {
+        "id": "44124",
+        "label": "杉山春夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/65/44124_crt_H1Guh.jpg?r=1470624513",
+        "link": "https://bgm.tv/character/44124",
+        "categorie": "person"
+      },
+      {
+        "id": "44127",
+        "label": "谷原健二",
+        "info": "体育祭で2年□組のリーダーを務める男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/b5/44127_crt_1r1nK.jpg?r=1470624708",
+        "link": "https://bgm.tv/character/44127",
+        "categorie": "person"
+      },
+      {
+        "id": "44126",
+        "label": "松田一平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/47/44126_crt_UhQ4J.jpg?r=1470624688",
+        "link": "https://bgm.tv/character/44126",
+        "categorie": "person"
+      },
+      {
+        "id": "44125",
+        "label": "泽北幸辉",
+        "info": "男子生徒。ここみんズの8代目会長（会員No.592）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/23/44125_crt_pvH39.jpg?r=1470624586",
+        "link": "https://bgm.tv/character/44125",
+        "categorie": "person"
+      },
+      {
+        "id": "44549",
+        "label": "透视☆魅希呼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/40/44549_crt_Kc7g5.jpg?r=1471569505",
+        "link": "https://bgm.tv/character/44549",
+        "categorie": "person"
+      },
+      {
+        "id": "44547",
+        "label": "清美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/57/44547_crt_1zsSQ.jpg",
+        "link": "https://bgm.tv/character/44547",
+        "categorie": "person"
+      },
+      {
+        "id": "44550",
+        "label": "拉面店店长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/9e/44550_crt_jOMJO.jpg?r=1471569688",
+        "link": "https://bgm.tv/character/44550",
+        "categorie": "person"
+      },
+      {
+        "id": "44555",
+        "label": "おじさん霊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/86/44555_crt_M0LKh.jpg?r=1471570326",
+        "link": "https://bgm.tv/character/44555",
+        "categorie": "person"
+      },
+      {
+        "id": "44556",
+        "label": "おじいさん霊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/cf/44556_crt_GqbFP.jpg?r=1471570370",
+        "link": "https://bgm.tv/character/44556",
+        "categorie": "person"
+      },
+      {
+        "id": "44553",
+        "label": "おにいさん霊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a5/44553_crt_mV1mm.jpg?r=1471570164",
+        "link": "https://bgm.tv/character/44553",
+        "categorie": "person"
+      },
+      {
+        "id": "44411",
+        "label": "自大猫",
+        "info": "斉木家の近所で暮らす雄猫。命名は國春。36χから登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/73/44411_crt_gg7F7.jpg?r=1472701748",
+        "link": "https://bgm.tv/character/44411",
+        "categorie": "person"
+      },
+      {
+        "id": "45424",
+        "label": "猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/b1/45424_crt_d88R7.jpg?r=1472701773",
+        "link": "https://bgm.tv/character/45424",
+        "categorie": "person"
+      },
+      {
+        "id": "45425",
+        "label": "毒岛进",
+        "info": "集英健康食品（悪徳企業）に勤める悪徳商売人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ce/45425_crt_Uhn3f.jpg?r=1472713018",
+        "link": "https://bgm.tv/character/45425",
+        "categorie": "person"
+      },
+      {
+        "id": "45741",
+        "label": "教师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/35/45741_crt_nn9nH.jpg?r=1473055536",
+        "link": "https://bgm.tv/character/45741",
+        "categorie": "person"
+      },
+      {
+        "id": "45742",
+        "label": "緑(イメージ)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/cd/45742_crt_D5CQI.jpg?r=1473055688",
+        "link": "https://bgm.tv/character/45742",
+        "categorie": "person"
+      },
+      {
+        "id": "46008",
+        "label": "普希",
+        "info": "アンプに好意を寄せられ、サイの協力でアンプは彼女にアプローチを試みる。しかし変質者と間違われた挙句、誤ってサイに突き飛ばせれ失敗。そして彼女はサイに好意を持つようになり、以降はアンプと共に斉木家周辺に出没するようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/48/46008_crt_MtmWT.jpg?r=1473659800",
+        "link": "https://bgm.tv/character/46008",
+        "categorie": "person"
+      },
+      {
+        "id": "46004",
+        "label": "汤姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/23/46004_crt_ZvZVo.jpg?r=1473659163",
+        "link": "https://bgm.tv/character/46004",
+        "categorie": "person"
+      },
+      {
+        "id": "46005",
+        "label": "海藤的母亲",
+        "info": "眼鏡をかけた理知的な女性。年齢は40代。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/94/46005_crt_vxq8A.jpg?r=1473659355",
+        "link": "https://bgm.tv/character/46005",
+        "categorie": "person"
+      },
+      {
+        "id": "46007",
+        "label": "板野依子",
+        "info": "52χに登場する女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/73/46007_crt_I844I.jpg?r=1473659813",
+        "link": "https://bgm.tv/character/46007",
+        "categorie": "person"
+      },
+      {
+        "id": "46485",
+        "label": "横田邪我",
+        "info": "高橋の友人の1人である男子生徒。オールバックが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/50/46485_crt_LimSs.jpg?r=1474859280",
+        "link": "https://bgm.tv/character/46485",
+        "categorie": "person"
+      },
+      {
+        "id": "46489",
+        "label": "入达游太",
+        "info": "斉木家の隣に住んでいる少年。常にかぶっている帽子が特徴。『改造人間サイダーマン2号』のファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/38/46489_crt_ZduyQ.jpg",
+        "link": "https://bgm.tv/character/46489",
+        "categorie": "person"
+      },
+      {
+        "id": "46486",
+        "label": "村田修二",
+        "info": "高橋の友人の1人である男子生徒。IT関連や情報収集が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/9f/46486_crt_whrWS.jpg?r=1474859287",
+        "link": "https://bgm.tv/character/46486",
+        "categorie": "person"
+      },
+      {
+        "id": "46490",
+        "label": "游太的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/f2/46490_crt_h0mlD.jpg?r=1474350733",
+        "link": "https://bgm.tv/character/46490",
+        "categorie": "person"
+      },
+      {
+        "id": "46484",
+        "label": "改造人汽水侠2号",
+        "info": "子供達に人気の正義のヒーロー番組及びその主人公（声 - 柳田淳一）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/25/46484_crt_VLo1F.jpg?r=1474349823",
+        "link": "https://bgm.tv/character/46484",
+        "categorie": "person"
+      },
+      {
+        "id": "46487",
+        "label": "司机",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/99/46487_crt_Ltmg0.jpg?r=1474350384",
+        "link": "https://bgm.tv/character/46487",
+        "categorie": "person"
+      },
+      {
+        "id": "46488",
+        "label": "警察",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/81/46488_crt_Bj36h.jpg?r=1474350397",
+        "link": "https://bgm.tv/character/46488",
+        "categorie": "person"
+      },
+      {
+        "id": "46844",
+        "label": "神",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ee/46844_crt_kKk63.jpg?r=1474862014",
+        "link": "https://bgm.tv/character/46844",
+        "categorie": "person"
+      },
+      {
+        "id": "46845",
+        "label": "机长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/6a/46845_crt_Mm6G2.jpg?r=1474862003",
+        "link": "https://bgm.tv/character/46845",
+        "categorie": "person"
+      },
+      {
+        "id": "62683",
+        "label": "才虎的父亲",
+        "info": "芽斗吏の父親。才虎財閥の総帥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/6e/62683_crt_9D2Ry.jpg?r=1566534010",
+        "link": "https://bgm.tv/character/62683",
+        "categorie": "person"
+      },
+      {
+        "id": "47331",
+        "label": "魔美的店长",
+        "info": "目良の雇い主。47χから登場。美味しいコーヒーゼリーを作る技術を持ち、斉木も高く評価している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a9/47331_crt_14GGO.jpg?r=1476117827",
+        "link": "https://bgm.tv/character/47331",
+        "categorie": "person"
+      },
+      {
+        "id": "47487",
+        "label": "蓝泽总司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/34/47487_crt_2pTJN.jpg?r=1476766387",
+        "link": "https://bgm.tv/character/47487",
+        "categorie": "person"
+      },
+      {
+        "id": "47713",
+        "label": "中丸工作",
+        "info": "研修4ヶ月の新米家電量販店員。腹黒い性格で、テレビを買いに勤める店に訪れた斉木に対してしつこくキャッチセールスを当たる。以前は亀有に勤めていたが、眉毛の繋がった警官による巧みな値引き交渉に大敗し、その悔しさをバネに4ヶ月間の修行を積み現在に至る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/54/47713_crt_B00mN.jpg?r=1477386189",
+        "link": "https://bgm.tv/character/47713",
+        "categorie": "person"
+      },
+      {
+        "id": "47710",
+        "label": "山岸健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/2b/47710_crt_lM5Hb.jpg?r=1477385939",
+        "link": "https://bgm.tv/character/47710",
+        "categorie": "person"
+      },
+      {
+        "id": "47711",
+        "label": "健太的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/d7/47711_crt_23202.jpg?r=1477386001",
+        "link": "https://bgm.tv/character/47711",
+        "categorie": "person"
+      },
+      {
+        "id": "47714",
+        "label": "女孩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/96/47714_crt_hdca3.jpg",
+        "link": "https://bgm.tv/character/47714",
+        "categorie": "person"
+      },
+      {
+        "id": "47867",
+        "label": "百鬼丸学长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/85/47867_crt_05i7I.jpg?r=1477893872",
+        "link": "https://bgm.tv/character/47867",
+        "categorie": "person"
+      },
+      {
+        "id": "62663",
+        "label": "万城乃亚梨栖",
+        "info": "1年生の女子。オカルト部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/42/62663_crt_qMEIE.jpg",
+        "link": "https://bgm.tv/character/62663",
+        "categorie": "person"
+      },
+      {
+        "id": "64298",
+        "label": "迈克尔·斯科菲尔德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/8e/64298_crt_JkA99.jpg",
+        "link": "https://bgm.tv/character/64298",
+        "categorie": "person"
+      },
+      {
+        "id": "64300",
+        "label": "真锅梅久",
+        "info": "7月12日生まれ、血液型B型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/40/64300_crt_88f19.jpg",
+        "link": "https://bgm.tv/character/64300",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

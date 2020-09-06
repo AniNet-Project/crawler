@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13304",
+        "label": "阿丽埃蒂",
+        "info": "阿丽埃蒂（アリエッティ，声优：志田未来）",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/0a/13304_crt_oYT79.jpg",
+        "link": "https://bgm.tv/character/13304",
+        "categorie": "person"
+      },
+      {
+        "id": "13305",
+        "label": "翔",
+        "info": "翔（翔，声优：神木隆之介（日本）、张裕东（香港））",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/01/13305_crt_duA6c.jpg",
+        "link": "https://bgm.tv/character/13305",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

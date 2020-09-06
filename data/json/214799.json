@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57221",
+        "label": "磷叶石",
+        "info": "燐葉石。愛称「フォス」。硬度三半、靭性最下級。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/73/57221_crt_l1Fx4.jpg?r=1507436429",
+        "link": "https://bgm.tv/character/57221",
+        "categorie": "person"
+      },
+      {
+        "id": "57222",
+        "label": "辰砂",
+        "info": "辰砂。硬度二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/2e/57222_crt_0Jv46.jpg?r=1555157755",
+        "link": "https://bgm.tv/character/57222",
+        "categorie": "person"
+      },
+      {
+        "id": "57223",
+        "label": "钻石",
+        "info": "ダイヤモンド属。愛称「ダイヤ」。硬度十、靭性2級。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/75/57223_crt_PIbpA.jpg?r=1508583628",
+        "link": "https://bgm.tv/character/57223",
+        "categorie": "person"
+      },
+      {
+        "id": "57224",
+        "label": "圆粒金刚石",
+        "info": "カーボナード。ダイヤモンド属。硬度十、靭性特級。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/8f/57224_crt_RtOvW.jpg?r=1574243726",
+        "link": "https://bgm.tv/character/57224",
+        "categorie": "person"
+      },
+      {
+        "id": "57225",
+        "label": "摩根石",
+        "info": "緑柱石の一種モルガナイト。愛称「モルガ」。硬度七半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/73/57225_crt_aMmKR.jpg?r=1555596221",
+        "link": "https://bgm.tv/character/57225",
+        "categorie": "person"
+      },
+      {
+        "id": "57226",
+        "label": "透绿柱石",
+        "info": "緑柱石の一種ゴーシェナイト。愛称「ゴーシェ」。硬度七半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/4b/57226_crt_dkh9c.jpg?r=1555596181",
+        "link": "https://bgm.tv/character/57226",
+        "categorie": "person"
+      },
+      {
+        "id": "57227",
+        "label": "金红石",
+        "info": "金紅石。硬度六。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/7b/57227_crt_6ldyG.jpg?r=1555597955",
+        "link": "https://bgm.tv/character/57227",
+        "categorie": "person"
+      },
+      {
+        "id": "57230",
+        "label": "翡翠",
+        "info": "ヒスイ。硬度七。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/bf/57230_crt_pij1e.jpg?r=1555599853",
+        "link": "https://bgm.tv/character/57230",
+        "categorie": "person"
+      },
+      {
+        "id": "58360",
+        "label": "红色线柱石",
+        "info": "硬度七半。服飾担当。宝石たちの衣服を全て作っており、生地制作からデザインまで無限の情熱をささげている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/aa/58360_crt_W7uY0.jpg?r=1555765627",
+        "link": "https://bgm.tv/character/58360",
+        "categorie": "person"
+      },
+      {
+        "id": "58361",
+        "label": "紫水晶84·紫水晶33",
+        "info": "硬度七。右がエイティーフォー、左がサーティースリー。双子ならではの息の合った戦い方をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/53/58361_crt_58i5c.jpg?r=1507387093",
+        "link": "https://bgm.tv/character/58361",
+        "categorie": "person"
+      },
+      {
+        "id": "58362",
+        "label": "蓝锥矿",
+        "info": "硬度六半。常識的でまじめな性格。巻き込まれ体質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/bf/58362_crt_2WIRw.jpg?r=1507386987",
+        "link": "https://bgm.tv/character/58362",
+        "categorie": "person"
+      },
+      {
+        "id": "57233",
+        "label": "海王石",
+        "info": "海王石。愛称「ネプちー」。硬度五半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/44/57233_crt_H8Ff0.jpg?r=1507387034",
+        "link": "https://bgm.tv/character/57233",
+        "categorie": "person"
+      },
+      {
+        "id": "57231",
+        "label": "锆石",
+        "info": "ジルコン。硬度七半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a3/57231_crt_KkcCU.jpg?r=1503495130",
+        "link": "https://bgm.tv/character/57231",
+        "categorie": "person"
+      },
+      {
+        "id": "58363",
+        "label": "黑曜石",
+        "info": "硬度五。武器制作担当。ハードな業務の割にノリは軽い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/5a/58363_crt_qFLlB.jpg?r=1507387063",
+        "link": "https://bgm.tv/character/58363",
+        "categorie": "person"
+      },
+      {
+        "id": "57232",
+        "label": "黄钻",
+        "info": "ダイヤモンド属。硬度十。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/0e/57232_crt_DJLh8.jpg?r=1503495282",
+        "link": "https://bgm.tv/character/57232",
+        "categorie": "person"
+      },
+      {
+        "id": "57229",
+        "label": "蓝柱石",
+        "info": "ユークレース。硬度七半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/50/57229_crt_kqZ9P.jpg?r=1503494827",
+        "link": "https://bgm.tv/character/57229",
+        "categorie": "person"
+      },
+      {
+        "id": "57228",
+        "label": "金绿石",
+        "info": "月人研究マニア。通常は青に近い色をしているが、月人をみると半分の確率で色が赤くなり暴走する（そのまま気絶することもある）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/4a/57228_crt_Jdjly.jpg?r=1503494706",
+        "link": "https://bgm.tv/character/57228",
+        "categorie": "person"
+      },
+      {
+        "id": "57234",
+        "label": "金刚老师",
+        "info": "硬度不明。宝石たちの先生。あらゆる知識と、月人を一撃で追い払う力を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/c9/57234_crt_SaF9v.jpg?r=1507387054",
+        "link": "https://bgm.tv/character/57234",
+        "categorie": "person"
+      },
+      {
+        "id": "58368",
+        "label": "榍石",
+        "info": "硬度：五",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/21/58368_crt_UB14G.jpg",
+        "link": "https://bgm.tv/character/58368",
+        "categorie": "person"
+      },
+      {
+        "id": "58369",
+        "label": "橄榄石",
+        "info": "硬度：六半",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58369",
+        "categorie": "person"
+      },
+      {
+        "id": "58370",
+        "label": "西瓜电气石",
+        "info": "硬度：七半",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/cb/58370_crt_53O1K.jpg",
+        "link": "https://bgm.tv/character/58370",
+        "categorie": "person"
+      },
+      {
+        "id": "58371",
+        "label": "异极矿",
+        "info": "硬度：五",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/fd/58371_crt_n8jX1.jpg",
+        "link": "https://bgm.tv/character/58371",
+        "categorie": "person"
+      },
+      {
+        "id": "58811",
+        "label": "温特利克斯斯",
+        "info": "かつて海にすんでいたアドミラビリス族の族長。月に捕らわれていたが、弟のアクレアツスと引き換えに宝石を引き渡す命令を受けていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/63/58811_crt_r121p.jpg?r=1509847136",
+        "link": "https://bgm.tv/character/58811",
+        "categorie": "person"
+      },
+      {
+        "id": "58903",
+        "label": "阿克雷亚兹",
+        "info": "ウェントリコススの弟。フォスと引き換えの取引によって、ウェントリコススの元へ戻ることができた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/24/58903_crt_r2bnD.jpg?r=1509847122",
+        "link": "https://bgm.tv/character/58903",
+        "categorie": "person"
+      },
+      {
+        "id": "59266",
+        "label": "南极石",
+        "info": "硬度三。宝石たちが冬眠する冬を一人で担当している。夏は液状で眠っているが、気温が下がる冬になると結晶化する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/83/59266_crt_ejcmd.jpg?r=1513164329",
+        "link": "https://bgm.tv/character/59266",
+        "categorie": "person"
+      },
+      {
+        "id": "59708",
+        "label": "帕德玛",
+        "info": "硬度九。生まれつき体に穴が開いている特異体質で、ルチルが改造することで支えていたが現在は眠りについている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/1b/59708_crt_Y5oD6.jpg?r=1513477298",
+        "link": "https://bgm.tv/character/59708",
+        "categorie": "person"
+      },
+      {
+        "id": "59816",
+        "label": "金绿柱石",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/59816",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

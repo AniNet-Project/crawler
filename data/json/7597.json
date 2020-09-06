@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9831",
+        "label": "ソラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/2d/9831_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9831",
+        "categorie": "person"
+      },
+      {
+        "id": "8173",
+        "label": "鳥居耀蔵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/a2/8173_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8173",
+        "categorie": "person"
+      },
+      {
+        "id": "9832",
+        "label": "銀次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/87/9832_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9832",
+        "categorie": "person"
+      },
+      {
+        "id": "9833",
+        "label": "天鳳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/74/9833_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9833",
+        "categorie": "person"
+      },
+      {
+        "id": "9834",
+        "label": "赤井西之介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/53/9834_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9834",
+        "categorie": "person"
+      },
+      {
+        "id": "9835",
+        "label": "おりく",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/55/9835_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9835",
+        "categorie": "person"
+      },
+      {
+        "id": "9836",
+        "label": "遠山金四郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/9e/9836_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9836",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

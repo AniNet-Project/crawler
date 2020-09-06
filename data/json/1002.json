@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19166",
+        "label": "巳真兔季子",
+        "info": "主人公。通称は「キィ」。祖父・武羅尾に作られた女子型ロボットで、製造から17年経過している（と本人は信じ込んでいる）。外見は小柄で痩せ型の、普通の少女。極度な無表情と抑揚のない喋り方が特徴を持つが、時折、周囲の想いをもらうことで内に秘めた人間らしい豊かな感情がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/c5/19166_crt_W6RR5.jpg?r=1362629748",
+        "link": "https://bgm.tv/character/19166",
+        "categorie": "person"
+      },
+      {
+        "id": "25067",
+        "label": "厨川樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/6a/25067_crt_H6xAi.jpg",
+        "link": "https://bgm.tv/character/25067",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

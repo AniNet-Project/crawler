@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4036",
+        "label": "伊藤伸惠",
+        "info": "原作では16歳の高校1年生、アニメ・ゲームでは20歳の短大生（設定年齢の違いは後述）。10月17日生[3]。A型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/ce/4036_crt_c2rJ8.jpg",
+        "link": "https://bgm.tv/character/4036",
+        "categorie": "person"
+      },
+      {
+        "id": "4037",
+        "label": "伊藤千佳",
+        "info": "12歳の小学6年生。5月11日生。身長145cm。A型。伸恵の妹。体重は35kg（アニメ版）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/1e/4037_crt_8vP6M.jpg",
+        "link": "https://bgm.tv/character/4037",
+        "categorie": "person"
+      },
+      {
+        "id": "4038",
+        "label": "松冈美羽",
+        "info": "千佳の同級生で、同じく12歳の小学6年生。9月8日生。身長144cm。B型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a5/4038_crt_5253X.jpg",
+        "link": "https://bgm.tv/character/4038",
+        "categorie": "person"
+      },
+      {
+        "id": "4039",
+        "label": "樱木茉莉",
+        "info": "伊藤家の近所に住む11歳の小学5年生。1月25日生。O型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/a1/4039_crt_cBdPI.jpg",
+        "link": "https://bgm.tv/character/4039",
+        "categorie": "person"
+      },
+      {
+        "id": "16351",
+        "label": "安娜·柯普拉",
+        "info": "跟茉莉同年的英國人，老家是在英國康威爾，6 月18日生，AB型。金色長髮藍眼像洋娃娃一 樣，除了外觀跟姓名外都很日本的英國小女孩，很不幸的名字跟日語眼窩洞（穴（あな））同音，所以很忌諱別人拿名字開玩笑，但是冒失的美羽從沒顧忌這點，（更曾因為這樣而弄得安娜大哭一頓）。儘管表面上嘗試像英國人一般地生活，卻無法掩飾自身對日本文化的了解與喜好。 日語流利，卻幾乎不會英文，處處依賴茉莉學習英語。家裡養著一隻大型犬福爾西安堤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/8d/16351_crt_u91Un.jpg?r=1571892004",
+        "link": "https://bgm.tv/character/16351",
+        "categorie": "person"
+      },
+      {
+        "id": "22384",
+        "label": "笹冢",
+        "info": "茉莉とアナの同級生。名前は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/9a/22384_crt_5OVpV.jpg",
+        "link": "https://bgm.tv/character/22384",
+        "categorie": "person"
+      },
+      {
+        "id": "22498",
+        "label": "5-2担任",
+        "info": "茉莉、アナ、笹塚の担任教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/42/22498_crt_Pr3M3.jpg",
+        "link": "https://bgm.tv/character/22498",
+        "categorie": "person"
+      },
+      {
+        "id": "22690",
+        "label": "6-2担任",
+        "info": "千佳、美羽の担任教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/d1/22690_crt_6zOhF.jpg?r=1388187240",
+        "link": "https://bgm.tv/character/22690",
+        "categorie": "person"
+      },
+      {
+        "id": "23047",
+        "label": "老爷爷",
+        "info": "千佳達の通学路の辺にある文房具屋（あるいは駄菓子屋）「明文堂」の主人。俳句を詠んだ際に明文（あきふみ）という名が判明したが、これが本名なのか俳号なのかは不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/12/23047_crt_9rI4t.jpg?r=1389828794",
+        "link": "https://bgm.tv/character/23047",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

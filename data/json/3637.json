@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5150",
+        "label": "兜甲儿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c0/5150_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5150",
+        "categorie": "person"
+      },
+      {
+        "id": "5500",
+        "label": "弓さやか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/92/5500_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5500",
+        "categorie": "person"
+      },
+      {
+        "id": "5502",
+        "label": "Dr.ヘル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d4/5502_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5502",
+        "categorie": "person"
+      },
+      {
+        "id": "5517",
+        "label": "ボス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/7c/5517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5517",
+        "categorie": "person"
+      },
+      {
+        "id": "5518",
+        "label": "せわし",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/5518",
+        "categorie": "person"
+      },
+      {
+        "id": "5519",
+        "label": "錦織つばさ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/69/5519_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5519",
+        "categorie": "person"
+      },
+      {
+        "id": "5520",
+        "label": "安",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/57/5520_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5520",
+        "categorie": "person"
+      },
+      {
+        "id": "5521",
+        "label": "暗黒寺刑事",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/94/5521_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5521",
+        "categorie": "person"
+      },
+      {
+        "id": "5525",
+        "label": "ロール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/b0/5525_crt_WgyeF.jpg",
+        "link": "https://bgm.tv/character/5525",
+        "categorie": "person"
+      },
+      {
+        "id": "5522",
+        "label": "鉄仮面兵士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/2d/5522_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5522",
+        "categorie": "person"
+      },
+      {
+        "id": "5507",
+        "label": "魔神Z",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/e5/5507_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5507",
+        "categorie": "person"
+      },
+      {
+        "id": "5511",
+        "label": "ガラダＫ７",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/c6/5511_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5511",
+        "categorie": "person"
+      },
+      {
+        "id": "5515",
+        "label": "ホバーパイルダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/c1/5515_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44953",
+        "label": "北条铃",
+        "info": "生于广岛市江波的女性，旧姓浦野。非常喜欢画画。幼年时曾有过遇到座敷童子等妖怪的不可思议的经历。二战末期，18岁的她来到吴市，嫁给北条家的长男周作，开始了以婆家北条家为中心的新生活。在战争中失去了一只手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/a2/44953_crt_Zfdf3.jpg",
+        "link": "https://bgm.tv/character/44953",
+        "categorie": "person"
+      },
+      {
+        "id": "44954",
+        "label": "北条周作",
+        "info": "すずの夫。呉鎮守府の軍法会議録事（事務官）。幼い頃に一度だけすずに会ったことがあり、それをきっかけに見初めた愛妻家である。生真面目な性格で親族等周囲から「暗い」と言われるのを気にしている。すずを愛し彼女のささやかな絵描きの趣味にも理解を持っているが、すずが幼なじみの哲に淡い想いを抱いていたことにうすうす気づいている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/f7/44954_crt_C556b.jpg",
+        "link": "https://bgm.tv/character/44954",
+        "categorie": "person"
+      },
+      {
+        "id": "44955",
+        "label": "黑村径子",
+        "info": "周作の姉。元モダンガール。結婚して家を出ていたが、時計屋であった夫の病死後、嫁ぎ先と折り合いが悪くなり、黒村家が下関に引っ越したのを機に離縁し、娘ともども北條家に戻ってきた。嫁ぎ先に残してきた息子のことを気にかけている。はっきりものを言う性格で、しばしばすずに厳しい態度で当たるが、すずを嫌っているわけではなく、頼りない妹のように接することが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/c5/44955_crt_888E9.jpg",
+        "link": "https://bgm.tv/character/44955",
+        "categorie": "person"
+      },
+      {
+        "id": "44956",
+        "label": "黑村晴美",
+        "info": "径子的女儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/06/44956_crt_Er65W.jpg",
+        "link": "https://bgm.tv/character/44956",
+        "categorie": "person"
+      },
+      {
+        "id": "44959",
+        "label": "北条元太郎",
+        "info": "周作的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/31/44959_crt_SEujV.jpg",
+        "link": "https://bgm.tv/character/44959",
+        "categorie": "person"
+      },
+      {
+        "id": "44960",
+        "label": "北条杉",
+        "info": "周作的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1c/44960_crt_M38wr.jpg",
+        "link": "https://bgm.tv/character/44960",
+        "categorie": "person"
+      },
+      {
+        "id": "44957",
+        "label": "水原哲",
+        "info": "铃的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/c1/44957_crt_9JhOJ.jpg",
+        "link": "https://bgm.tv/character/44957",
+        "categorie": "person"
+      },
+      {
+        "id": "48477",
+        "label": "白木玲",
+        "info": "花街的游女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/5b/48477_crt_Eph93.jpg",
+        "link": "https://bgm.tv/character/48477",
+        "categorie": "person"
+      },
+      {
+        "id": "44958",
+        "label": "浦野澄",
+        "info": "すずの妹。女子挺身隊員として陸軍の軍需工場に勤労動員されている。おっとりものの姉すずよりしっかり者であるが、実は年齢差は一歳しかない。すみ自身は姉のすずを非常に慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/75/44958_crt_itZYt.jpg",
+        "link": "https://bgm.tv/character/44958",
+        "categorie": "person"
+      },
+      {
+        "id": "54424",
+        "label": "浦野十郎",
+        "info": "铃的父亲。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54424",
+        "categorie": "person"
+      },
+      {
+        "id": "54425",
+        "label": "浦野キセノ",
+        "info": "铃的母亲。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54425",
+        "categorie": "person"
+      },
+      {
+        "id": "48478",
+        "label": "森田イト",
+        "info": "すずの祖母。すずの叔父たち一家とともに広島の草津に住み、海苔業を営む。すずが子どもの頃、毎年夏になると着物を仕立ててくれた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/88/48478_crt_t9S14.jpg",
+        "link": "https://bgm.tv/character/48478",
+        "categorie": "person"
+      },
+      {
+        "id": "54429",
+        "label": "小林的伯父",
+        "info": "円太郎の姉夫妻で周作にとっては伯父・伯母。すずと周作の仲人を務めた。昭和19年10月に物資の疎開のために北條家を訪れ、径子に仕事の紹介をした。昭和20年7月1日の空襲で自宅が全焼したため、円太郎を頼りに北條家に同居することになる。原爆投下後に夫婦で広島に出向き、放射能の影響で病気がちになる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54429",
+        "categorie": "person"
+      },
+      {
+        "id": "54430",
+        "label": "小林的伯母",
+        "info": "円太郎の姉夫妻で周作にとっては伯父・伯母。すずと周作の仲人を務めた。昭和19年10月に物資の疎開のために北條家を訪れ、径子に仕事の紹介をした。昭和20年7月1日の空襲で自宅が全焼したため、円太郎を頼りに北條家に同居することになる。原爆投下後に夫婦で広島に出向き、放射能の影響で病気がちになる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54430",
+        "categorie": "person"
+      },
+      {
+        "id": "54431",
+        "label": "知多",
+        "info": "近所の主婦で北條家と同じ隣組。背が高く痩せている。刈谷とは仲が悪いが何かといつも近くにおり、戦況が悪化するにつれて徐々に関係は修復していく。かつて看護婦を務めていた。入市被爆の影響で白内障を患う。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54431",
+        "categorie": "person"
+      },
+      {
+        "id": "54432",
+        "label": "刈谷",
+        "info": "北条家的邻居。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54432",
+        "categorie": "person"
+      },
+      {
+        "id": "54433",
+        "label": "堂本",
+        "info": "北条家的邻居。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54433",
+        "categorie": "person"
+      },
+      {
+        "id": "54426",
+        "label": "浦野要一",
+        "info": "すずの兄。すずのみならず腕白な哲ら男子からも怖れられる、通称「鬼（おに）いちゃん」。陸軍軍人としてニューギニアに出征していたが戦死の知らせが届く。しかし戦死の報告とともに届いたものは石ころ一つしかなく、浦野家の人々は彼の死を実感できずにいる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54426",
+        "categorie": "person"
+      },
+      {
+        "id": "54427",
+        "label": "マリナ",
+        "info": "すずの叔母。母と同居し夫妻で草津で海苔梳き業を営んでいる。夫（森田の叔父）は10年8月を最後に登場しない。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54427",
+        "categorie": "person"
+      },
+      {
+        "id": "54428",
+        "label": "森田千鹤子",
+        "info": "森田夫妻の娘（すずの従妹）。晴美より少し年上。すずの胴長靴の着こなしを「父親似」と評している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54428",
+        "categorie": "person"
+      },
+      {
+        "id": "54434",
+        "label": "ばけもん",
+        "info": "短編『冬の記憶』に登場。篭を背負った人食い鬼。幼少時に広島の街中（中島本町）へとおつかいに出たすずと周作をさらって食べようとしたが、すずの機転で逃げられる。このエピソードはどこからがすずの想像で、どこまでが実話であるのか曖昧な描写になっており、正体は不明。物語の結末で再登場し、相生橋で当時のことを思い返していたすずと周作とすれ違う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/75/54434_crt_5RqF6.jpg",
+        "link": "https://bgm.tv/character/54434",
+        "categorie": "person"
+      },
+      {
+        "id": "54435",
+        "label": "宪兵",
+        "info": "高台にある畑で停泊中の軍艦をスケッチしていたすずを「間諜行為」と叱責し、すずが愛用するスケッチブックを押収する。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/54435",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

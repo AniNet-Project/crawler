@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2101",
+        "label": "大白",
+        "info": "原本只是一个医疗机器人，被小宏改造为超级英雄",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/be/2101_crt_xt9Zx.jpg?r=1426000995",
+        "link": "https://bgm.tv/character/2101",
+        "categorie": "person"
+      },
+      {
+        "id": "30797",
+        "label": "小宏",
+        "info": "机器人学神童，“超能陆战队”的队长",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/f6/30797_crt_HqK8K.jpg",
+        "link": "https://bgm.tv/character/30797",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

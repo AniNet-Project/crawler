@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23054",
+        "label": "森泽优",
+        "info": "1973年（昭和48年）10月10日生まれで、年齢について公式サイトでは10歳とされている。私立セントレミー学園小等部（小学4〜5年生）。血液型はB型。両親は東京都国立市のくりみヶ丘でクレープ屋「クリィミー（Creamy）」を経営しており、自身も店を手伝っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/1c/23054_crt_H1012.jpg?r=1389911347",
+        "link": "https://bgm.tv/character/23054",
+        "categorie": "person"
+      },
+      {
+        "id": "33557",
+        "label": "小甜甜",
+        "info": "優が魔法で変身した姿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/1c/33557_crt_dQHd0.jpg",
+        "link": "https://bgm.tv/character/33557",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

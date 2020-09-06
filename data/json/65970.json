@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31657",
+        "label": "卡莲·约书亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/7f/31657_crt_SOByH.jpg",
+        "link": "https://bgm.tv/character/31657",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

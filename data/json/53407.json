@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16408",
+        "label": "芜罗亭魔梨威",
+        "info": "女子落語家。高座名の由来は「ブラッディ・マリー」。周囲からは「マリーさん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/73/16408_crt_13Lrj.jpg",
+        "link": "https://bgm.tv/character/16408",
+        "categorie": "person"
+      },
+      {
+        "id": "16409",
+        "label": "波浪浮亭木胡桃",
+        "info": "女子落語家。高座名の由来は「ハローキティ」と「着ぐるみ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/39/16409_crt_i3iWf.jpg",
+        "link": "https://bgm.tv/character/16409",
+        "categorie": "person"
+      },
+      {
+        "id": "16410",
+        "label": "防波亭手寅",
+        "info": "女子落語家。高座名の由来は「防波堤」と「テトラポッド」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/c1/16410_crt_xT9yW.jpg",
+        "link": "https://bgm.tv/character/16410",
+        "categorie": "person"
+      },
+      {
+        "id": "16411",
+        "label": "空琉美游亭丸京",
+        "info": "女子落语演员。高座名的来源是“cool beauty”和“眼镜”的谐音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/08/16411_crt_tRPof.jpg",
+        "link": "https://bgm.tv/character/16411",
+        "categorie": "person"
+      },
+      {
+        "id": "16412",
+        "label": "暗落亭苦来",
+        "info": "女子落語家。高座名の由来は「暗くて暗い」（「安楽死」と「（首を）括る」、「アンラッキー」と「暗い」という説もある）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/8e/16412_crt_0dV0w.jpg",
+        "link": "https://bgm.tv/character/16412",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

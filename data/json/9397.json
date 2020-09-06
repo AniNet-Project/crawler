@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20703",
+        "label": "虎水银太",
+        "info": "风吕轮中学二年级生，体育超烂，是一个运动白痴与视力超烂的迷糊小孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/55/20703_crt_2mn4s.jpg?r=1375755188",
+        "link": "https://bgm.tv/character/20703",
+        "categorie": "person"
+      },
+      {
+        "id": "20704",
+        "label": "巴波",
+        "info": "外形像剑玉的拥有独立人格并能利用魔石创造特殊能力的稀罕ARM。由魔法之国卡鲁帝亚创造，8年前被戴安娜偷走。原为Chess兵队领队－魅影所持有，在第1次MÄR Heaven战争结束后被艾伦所封印，之后封印被银太解开，并被银太所持有。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/9e/20704_crt_jss7H.jpg",
+        "link": "https://bgm.tv/character/20704",
+        "categorie": "person"
+      },
+      {
+        "id": "20705",
+        "label": "白雪",
+        "info": "14岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c7/20705_crt_ymhG2.jpg?r=1375755217",
+        "link": "https://bgm.tv/character/20705",
+        "categorie": "person"
+      },
+      {
+        "id": "20714",
+        "label": "桃乐丝",
+        "info": "魔法之国卡鲁帝亚出身，其地位相当于卡鲁帝亚的公主。MÄR Heaven恶名昭彰的魔女。Chess兵队皇后－戴安娜的妹妹。银太在MAR-HEVEN世界第一个遇见的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f4/20714_crt_1fNbG.jpg?r=1375755235",
+        "link": "https://bgm.tv/character/20714",
+        "categorie": "person"
+      },
+      {
+        "id": "20715",
+        "label": "阿尔维斯",
+        "info": "原十字军的成员，拥有媲美骑士级实力的少年，16岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/1a/20715_crt_c2Olh.jpg?r=1375755266",
+        "link": "https://bgm.tv/character/20715",
+        "categorie": "person"
+      },
+      {
+        "id": "20716",
+        "label": "魅影",
+        "info": "CHESS兵队最强的骑士。出身于卡鲁帝亚。因为僵尸刺青的缘故，拥有永恒的生命，同时也是把僵尸刺青留在阿尔维斯身上的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/42/20716_crt_y2G3s.jpg",
+        "link": "https://bgm.tv/character/20716",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

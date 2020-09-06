@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27415",
+        "label": "东乡美森",
+        "info": "友奈的同级生和好友，也是能理解她的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/be/27415_crt_QQPxl.jpg?r=1527848825",
+        "link": "https://bgm.tv/character/27415",
+        "categorie": "person"
+      },
+      {
+        "id": "28259",
+        "label": "乃木园子",
+        "info": "本作前传《鹫尾须美是勇者》中的上代勇者，14岁。家族在大赦中拥有相当的发言权。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/32/28259_crt_9q4Jl.jpg?r=1535569231",
+        "link": "https://bgm.tv/character/28259",
+        "categorie": "person"
+      },
+      {
+        "id": "28496",
+        "label": "三之轮银",
+        "info": "神树馆6年1组学生，12岁，性格很有朝气且十分有冲劲，往往想到什么就马上付诸行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/de/28496_crt_4xx32.jpg?r=1527786344",
+        "link": "https://bgm.tv/character/28496",
+        "categorie": "person"
+      },
+      {
+        "id": "52653",
+        "label": "安艺老师",
+        "info": "大赦の人間。勇者をサポートするため、神樹館で須美達の担任教師をしている。クールで厳しいが生徒への愛情はあるため、怖がられてはいるが、嫌われてはいない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/39/52653_crt_7QAsf.jpg?r=1528195736",
+        "link": "https://bgm.tv/character/52653",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

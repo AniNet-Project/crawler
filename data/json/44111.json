@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15943",
+        "label": "星空幸／快乐天使",
+        "info": "七色丘中学的转学生，现读二年二班，14岁，加入了学校啦啦队。个性开朗活泼，积极正面并勇于尝试。性格冒失天真，但紧要关头总能拉人一把。兴趣是吃蛋糕和看绘本。口头禅是“超级快乐（Ultra Happy）！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/77/15943_crt_BQ05w.jpg?r=1575051630",
+        "link": "https://bgm.tv/character/15943",
+        "categorie": "person"
+      },
+      {
+        "id": "26809",
+        "label": "妮可",
+        "info": "「絵本の世界」に住んでいる少女。白銀色の髪が特徴で、黒いドレスをまとっている。また、絵本を携帯している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/57/26809_crt_DlfNf.jpg",
+        "link": "https://bgm.tv/character/26809",
+        "categorie": "person"
+      },
+      {
+        "id": "15944",
+        "label": "日野茜／晴朗天使",
+        "info": "七色丘中学二年二班学生，隶属排球部。大阪出生，操一口关西腔，为一年级时转学至七色丘，第一人称是“うち”。个性热心、很喜欢及擅长搞笑，班上的欢乐制造者，私下则努力想成为社团内的王牌。不时在家里的御好烧店帮忙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/ba/15944_crt_AkkQ0.jpg?r=1575205641",
+        "link": "https://bgm.tv/character/15944",
+        "categorie": "person"
+      },
+      {
+        "id": "26808",
+        "label": "糖糖",
+        "info": "「童話國度」的精靈女孩，負責來人間尋找五名光之美少女及收集魔法果實。做事有點失方寸，喜歡可愛的東西及打扮，圓形的耳朵可任意擺動，可以變出魔法果實幫助光之美少女使出必殺技。語尾習慣加上「～咕嚕（～クル）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/06/26808_crt_Bpvil.jpg",
+        "link": "https://bgm.tv/character/26808",
+        "categorie": "person"
+      },
+      {
+        "id": "15945",
+        "label": "黄濑弥生／和平天使",
+        "info": "七色丘中学二年二班学生，隶属漫画研究社。性格软弱爱哭，但老实安分，意志力坚强。在班上没什么存在感，给人印象如妹妹一般，但家政上是个妈妈般的角色。热爱漫画、立志成为漫画家，由于个性害羞而很少将自己作品分享他人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/5e/15945_crt_jcrYR.jpg?r=1575207784",
+        "link": "https://bgm.tv/character/15945",
+        "categorie": "person"
+      },
+      {
+        "id": "15946",
+        "label": "绿川直／旋风天使",
+        "info": "七色丘中学二年二班学生，隶属足球社。男性化的女孩，非常受同性欢迎，但也有少女的一面。性格强硬，运动万能，非常讨厌不择手段的对手。家里是六姊弟的老大，因此个性认真负责，对漫画及潮流等事毫无兴趣，最怕虫和惧高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/1f/15946_crt_1loO2.jpg?r=1575209558",
+        "link": "https://bgm.tv/character/15946",
+        "categorie": "person"
+      },
+      {
+        "id": "15947",
+        "label": "青木丽华／美丽天使",
+        "info": "七色丘中学二年二班学生，任职学生会副会长，参与美术社与弓道部。出身自古风世家，多才多艺、形象优雅，善于赋诗，有如大和抚子一般。性格和善、理智，但被逼到极限时生气起来十分恐怖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/8b/15947_crt_m6899.jpg?r=1576430019",
+        "link": "https://bgm.tv/character/15947",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

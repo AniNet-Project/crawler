@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1228",
+        "label": "塞巴斯蒂安·米卡利斯",
+        "info": "凡多姆海威家的执事，与夏尔订下了契约。他真正身份是恶魔。品格、修养、知识、样貌都是完美，是真正完美的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/9b/1228_crt_66huh.jpg",
+        "link": "https://bgm.tv/character/1228",
+        "categorie": "person"
+      },
+      {
+        "id": "1229",
+        "label": "夏尔·凡多姆海威",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/68/1229_crt_ii44s.jpg?r=1422632634",
+        "link": "https://bgm.tv/character/1229",
+        "categorie": "person"
+      },
+      {
+        "id": "18445",
+        "label": "菲尼安",
+        "info": "通稱「菲尼」，凡多姆海伍家的園丁。男性。個性爽朗但迷糊非凡的年輕人，為最典型的笨蛋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/e4/18445_crt_8925c.jpg?r=1455808052",
+        "link": "https://bgm.tv/character/18445",
+        "categorie": "person"
+      },
+      {
+        "id": "26344",
+        "label": "格雷尔·沙多克里夫",
+        "info": "バーネット邸の執事にして死神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ed/26344_crt_nP73Z.jpg",
+        "link": "https://bgm.tv/character/26344",
+        "categorie": "person"
+      },
+      {
+        "id": "26675",
+        "label": "梅琳",
+        "info": "ファントムハイヴ家の家女中。眼鏡をかけた極度のドジ。極度の遠視。「～ですだよ」など訛りの入った口調で話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/a1/26675_crt_kfha1.jpg",
+        "link": "https://bgm.tv/character/26675",
+        "categorie": "person"
+      },
+      {
+        "id": "26676",
+        "label": "巴鲁托",
+        "info": "ファントムハイヴ家の料理人。だがいつも料理は黒こげで、今までまともな料理を作ったことは一度もない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/2f/26676_crt_B466z.jpg",
+        "link": "https://bgm.tv/character/26676",
+        "categorie": "person"
+      },
+      {
+        "id": "26677",
+        "label": "田中",
+        "info": "ファントムハイヴ家の家令。シエルの父の代からファントムハイヴ家に仕えている。時にリアルな姿となることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/26/26677_crt_wp076.jpg",
+        "link": "https://bgm.tv/character/26677",
+        "categorie": "person"
+      },
+      {
+        "id": "26678",
+        "label": "葬仪屋",
+        "info": "シエルの知人で、度々情報を提供している。情報料として「極上の笑い」を要求するお笑いマニアでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/56/26678_crt_Ffp3M.jpg",
+        "link": "https://bgm.tv/character/26678",
+        "categorie": "person"
+      },
+      {
+        "id": "26679",
+        "label": "刘",
+        "info": "貿易会社「崑崙」支店長だが、実は上海マフィア「青幇(チンパン)」の幹部で裏社会にも詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/e1/26679_crt_xN6JC.jpg?r=1410583498",
+        "link": "https://bgm.tv/character/26679",
+        "categorie": "person"
+      },
+      {
+        "id": "26680",
+        "label": "阿格尼",
+        "info": "仕事、人柄共によく出来た、ソーマに付き従う執事。神の右手を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/7a/26680_crt_8W8wx.jpg",
+        "link": "https://bgm.tv/character/26680",
+        "categorie": "person"
+      },
+      {
+        "id": "26681",
+        "label": "蓝猫",
+        "info": "劉(ラウ)の側にいつも寄り添う義妹。無表情で寡黙だが、チャイナ服が似合う美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/63/26681_crt_RHXC6.jpg?r=1425878970",
+        "link": "https://bgm.tv/character/26681",
+        "categorie": "person"
+      },
+      {
+        "id": "26682",
+        "label": "维多利亚女王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/df/26682_crt_95R1f.jpg?r=1410583603",
+        "link": "https://bgm.tv/character/26682",
+        "categorie": "person"
+      },
+      {
+        "id": "26702",
+        "label": "索玛·阿斯曼·加达尔",
+        "info": "ベンガル藩王国第26王子。英国人にさらわれた自分の乳母を連れ戻すため、渡英してきたインドの王子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/4a/26702_crt_A0efq.jpg",
+        "link": "https://bgm.tv/character/26702",
+        "categorie": "person"
+      },
+      {
+        "id": "26706",
+        "label": "威廉·T·史皮尔斯",
+        "info": "死神派遣協会管理課の死神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/db/26706_crt_DsRHY.jpg",
+        "link": "https://bgm.tv/character/26706",
+        "categorie": "person"
+      },
+      {
+        "id": "26729",
+        "label": "弗瑞德·阿巴莱茵",
+        "info": "スコットランドヤード(ロンドン警察庁)の警部補でランドル卿の部下。幼いシエルを気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/11/26729_crt_d0onm.jpg?r=1410583572",
+        "link": "https://bgm.tv/character/26729",
+        "categorie": "person"
+      },
+      {
+        "id": "26730",
+        "label": "安洁莉娜·达雷斯",
+        "info": "前拜尼特男爵夫人，因为经常穿着红色的衣服，所以通称“红夫人”（Madam Red / マダム・レッド）。夏尔的阿姨，瑞秋的妹妹。王立伦敦医院女医生。黄腔高手（漫画及动画中被消音），喜欢摸赛巴斯钦的屁股（辩称是：“哎呀！又不小心帮人触诊了，这是当医生的职业病啊……”）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/bb/26730_crt_UFoQC.jpg?r=1410583553",
+        "link": "https://bgm.tv/character/26730",
+        "categorie": "person"
+      },
+      {
+        "id": "26731",
+        "label": "伊丽莎白·米多福特",
+        "info": "シエルのいとこにあたる許婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/b2/26731_crt_DNKgN.jpg",
+        "link": "https://bgm.tv/character/26731",
+        "categorie": "person"
+      },
+      {
+        "id": "32491",
+        "label": "阿雷斯特·钱帕",
+        "info": "プラチナブロンドの髪をもつ美男子で、美と食と芸術の愛好家。医大を卒業しているが、病院への勤務や開業はしていない。ウェストン校の卒業生で、エドガーの叔父でもある。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/25/32491_crt_x1oco.jpg",
+        "link": "https://bgm.tv/character/32491",
+        "categorie": "person"
+      },
+      {
+        "id": "58272",
+        "label": "宝拉",
+        "info": "伊丽莎白的贴身女仆。总是带着两串铃铛。在《Ciel in wonderland》（夏尔仙境奇遇）饰演渡渡鸟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/ed/58272_crt_D2ywn.jpg",
+        "link": "https://bgm.tv/character/58272",
+        "categorie": "person"
+      },
+      {
+        "id": "26732",
+        "label": "文森特·凡多姆海威",
+        "info": "前任凡多姆海威伯爵。夏尔的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/b5/26732_crt_jjc1I.jpg?r=1410584219",
+        "link": "https://bgm.tv/character/26732",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

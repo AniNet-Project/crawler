@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6599",
+        "label": "猿渡吾郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/b1/6599_crt_1NssI.jpg",
+        "link": "https://bgm.tv/character/6599",
+        "categorie": "person"
+      },
+      {
+        "id": "6600",
+        "label": "罗斯特曼",
+        "info": "この物語のもう1人の主人公。アメリカ人。親友の吾郎と共に5大陸の最高峰を制した後、米軍に入隊し海軍所属の戦闘機のエースパイロットからNASA入りする。軍に籍を置いていたころから徐々に頭角を表し、やがて政治的権力を手中に収めながら月の覇権を握る戦いへ身を投じてゆく。飛行機宇宙船の操縦技術はピカイチで人類初の宇宙戦闘経験者となる。吾郎とは逆に己の野心を実現すべくあえて孤高の存在として振舞っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/44/6600_crt_4P5xW.jpg",
+        "link": "https://bgm.tv/character/6600",
+        "categorie": "person"
+      },
+      {
+        "id": "6601",
+        "label": "池内理代子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/59/6601_crt_3hvE5.jpg",
+        "link": "https://bgm.tv/character/6601",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

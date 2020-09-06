@@ -1,0 +1,325 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3797",
+        "label": "兰顿·萨斯顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2f/3797_crt_02Z0C.jpg?r=1469283816",
+        "link": "https://bgm.tv/character/3797",
+        "categorie": "person"
+      },
+      {
+        "id": "13282",
+        "label": "优莱卡",
+        "info": "年龄不明，高性能LFO \"Nirvash\"尼尔瓦修 的驾驶员，从外表上看是个留有青色头发的15、16岁少女。优莱卡是由珊瑚岩产生的与人类以同等形态交流的媒介，最初本身并没有任何感情。由于能够良好的驾驭LFO并听从命令，最初被作为军队的杀人工具。但她在与人类的接触中逐渐学习到了情感，在一次屠杀行动中收留了三个家人被自己杀死的孤儿。后脱离军队加入了月光号，偶然认识兰顿后，对自己的存在感产生疑惑，并出现了情绪不稳定的状况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/f1/13282_crt_K1g56.jpg?r=1469283769",
+        "link": "https://bgm.tv/character/13282",
+        "categorie": "person"
+      },
+      {
+        "id": "3796",
+        "label": "安妮莫奈",
+        "info": "交響詩篇エウレカセブン",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/02/3796_crt_ZYOA4.jpg?r=1469283732",
+        "link": "https://bgm.tv/character/3796",
+        "categorie": "person"
+      },
+      {
+        "id": "3798",
+        "label": "塔荷",
+        "info": "月光号の操舵士。26歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/72/3798_crt_hmMvM.jpg?r=1469283857",
+        "link": "https://bgm.tv/character/3798",
+        "categorie": "person"
+      },
+      {
+        "id": "3816",
+        "label": "梅蒂儿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/57/3816_crt_64Mwa.jpg?r=1469283890",
+        "link": "https://bgm.tv/character/3816",
+        "categorie": "person"
+      },
+      {
+        "id": "3819",
+        "label": "霍兰德·诺瓦克",
+        "info": "月光州舰长，29岁。因为成为世界滑空大赛史上最年轻的冠军而一举成名，成为无数年轻人的偶像。同时也是前军队的成员，优秀的LFO驾驶员，驾驶著909，并且在领导能力、战术安排、战斗力上都有着过人的能力。表面上对人对事漫不经心，实际上非常重视船上的每一个成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/96/3819_crt_lfLgL.jpg?r=1469283925",
+        "link": "https://bgm.tv/character/3819",
+        "categorie": "person"
+      },
+      {
+        "id": "3821",
+        "label": "希尔达",
+        "info": "月光号のLFOライダー、射撃が得意な後衛担当。25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/4c/3821_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3821",
+        "categorie": "person"
+      },
+      {
+        "id": "3826",
+        "label": "建吾",
+        "info": "月光号の砲術士。45歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/92/3826_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3826",
+        "categorie": "person"
+      },
+      {
+        "id": "3831",
+        "label": "公济",
+        "info": "月光号に乗り込んでいる謎の老人。年齢は不明。占い師らしく、その占いはよく当たるのでメンバーには好評。神出鬼没でいつも艦内の何処かしらでお茶を淹れては飲んでいる。リンク曰く、ゴンジイの淹れたお茶は「どぶ色ですっごく苦い」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/c8/3831_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3831",
+        "categorie": "person"
+      },
+      {
+        "id": "3833",
+        "label": "沃兹",
+        "info": "月光号のレーダー士でソフトウェア担当のエンジニア。33歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/b1/3833_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3833",
+        "categorie": "person"
+      },
+      {
+        "id": "3834",
+        "label": "莉杰特",
+        "info": "月光号の通信士。15歳。緊急時には索敵も担当する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/3b/3834_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3834",
+        "categorie": "person"
+      },
+      {
+        "id": "3835",
+        "label": "杜伊·诺瓦克",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/66/3835_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3835",
+        "categorie": "person"
+      },
+      {
+        "id": "3836",
+        "label": "玛利亚·施耐德",
+        "info": "イズモ隊旗艦イズモ副長、のちにユルゲンス隊旗艦スーパーイズモ副長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2e/3836_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3836",
+        "categorie": "person"
+      },
+      {
+        "id": "3839",
+        "label": "查尔斯·比姆斯",
+        "info": "塔州連邦軍遊撃部隊所属フリーランサー。元塔州連邦軍SOF第2機動部隊部隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/2f/3839_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3839",
+        "categorie": "person"
+      },
+      {
+        "id": "3840",
+        "label": "提普特里",
+        "info": "大地を信仰する宗教、ヴォダラクの信者。柔らかな物腰の老婆だが、年寄りとは思えない華麗な身のこなしでゲッコーステイトと激しい追跡劇を演じた。ホランド達は軍から彼女がテロリストだと聞かされていたが、テロリストではない。しかし一方で、ヴォダラク教徒の一部過激派が都市部などでテロを行っており、ヴォダラクをテロ集団と信じている者も多い。かつてのホランドもその一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/a0/3840_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3840",
+        "categorie": "person"
+      },
+      {
+        "id": "3841",
+        "label": "格雷格·艾岗",
+        "info": "世界中の科学者から崇拝を集めるアーキタイプ研究の第一人者。Dr.ベアという愛称のとおり極度の肥満体型で、いつもキャンディーを食べている。ニルヴァーシュのスペックアップに際して助言を与えた。また彼の計算によると、この星における知的生命体の総量は情報量子学で予言される限界値を既に超えており、「クダンの限界」と呼ばれる知的活動の局地的飽和が物理宇宙の崩壊を引き起こす可能性があるという。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/a1/3841_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3841",
+        "categorie": "person"
+      },
+      {
+        "id": "3842",
+        "label": "戴安·萨斯顿",
+        "info": "レントンの姉。早くに両親を亡くしたレントンは彼女を母親のように慕っていた。ホランドの初恋の相手であり、元恋人。ホランドの口添えにより軍へ入隊した後は、父アドロックの研究を引き継ぎ働いていたが、レントンが幼少の頃に突然消息を絶った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a2/3842_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3842",
+        "categorie": "person"
+      },
+      {
+        "id": "3843",
+        "label": "咲夜",
+        "info": "ヴォダラク教徒から聖者と呼ばれる、エウレカによく似た少女。現在は蓮の花に姿を変え、ヴォダラクの総本山ヴォダラ宮を結界により守護している。最愛の人はノルブ。聖人として祭り上げられていたため人間らしい感情をほとんど持たなかったが、一人の人間として接してくるノルブとの交流を経て年頃の少女らしくなっていく。およそ40年前、ふたりは未知の空間へと繋がる次元の歪み、グレートウォールの突破を試みるも成功しなかった。しかしそのゾーンの中で彼が名前を呼んでくれたとき、一つになれた気がして嬉しかったと彼女は語った。エウレカとレントンをグレートウォールの彼方へと送るため、二人は超常現象ポロロッカを起こす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ac/3843_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3843",
+        "categorie": "person"
+      },
+      {
+        "id": "3854",
+        "label": "古里佛",
+        "info": "アネモネのペット。モラー目モラー科に属する。顔と手足の先端は黒く、全身を白色の体毛に覆われている。糞を連続的に飛ばす。嫌悪感を示す相手に対して体重が重くなる。ワルサワ行きの辞令を受けたドミニクのもとへ何故か届けられ、彼のベッドから動こうとはしないなど、アネモネの胸中を察するかのような行動を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/c0/3854_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3854",
+        "categorie": "person"
+      },
+      {
+        "id": "13295",
+        "label": "多米尼克·索莱尔",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/67/13295_crt_Kff2J.jpg",
+        "link": "https://bgm.tv/character/13295",
+        "categorie": "person"
+      },
+      {
+        "id": "37379",
+        "label": "林克",
+        "info": "月光号に同乗しているの孤児。泣き虫だが我慢強く、その歳にして「忍耐」の意味を知っている黒人の幼子がリンク（3歳）",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/2f/37379_crt_UM8Mu.jpg?r=1450243913",
+        "link": "https://bgm.tv/character/37379",
+        "categorie": "person"
+      },
+      {
+        "id": "37380",
+        "label": "摩利斯",
+        "info": "月光号に同乗しているの孤児。口数は少ない人見知りだが、洞察力が良く鋭い意見を言うアジア系の少年がモーリス（5歳）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/21/37380_crt_84fF5.jpg?r=1450244099",
+        "link": "https://bgm.tv/character/37380",
+        "categorie": "person"
+      },
+      {
+        "id": "37381",
+        "label": "史托纳",
+        "info": "ゲッコーステイトに同行しているフリーカメラマン。30歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/e9/37381_crt_Gw7RG.jpg?r=1450244377",
+        "link": "https://bgm.tv/character/37381",
+        "categorie": "person"
+      },
+      {
+        "id": "37382",
+        "label": "马修",
+        "info": "月光号のLFOライダー、前衛担当。25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/d5/37382_crt_rPvRy.jpg?r=1450244528",
+        "link": "https://bgm.tv/character/37382",
+        "categorie": "person"
+      },
+      {
+        "id": "37383",
+        "label": "哈普",
+        "info": "ゲッコーステイトの副リーダー。29歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/76/37383_crt_CcPRo.jpg?r=1450244670",
+        "link": "https://bgm.tv/character/37383",
+        "categorie": "person"
+      },
+      {
+        "id": "37384",
+        "label": "姆达吉",
+        "info": "ゲッコーステイトのメンバー。16歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/c8/37384_crt_AOC4w.jpg?r=1450244902",
+        "link": "https://bgm.tv/character/37384",
+        "categorie": "person"
+      },
+      {
+        "id": "37385",
+        "label": "乔布斯",
+        "info": "月光号の主任機関士でハードウェア担当のメカニック。33歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/bb/37385_crt_Urb40.jpg?r=1450245176",
+        "link": "https://bgm.tv/character/37385",
+        "categorie": "person"
+      },
+      {
+        "id": "37386",
+        "label": "米莎",
+        "info": "月光号の専属医師。40歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/2d/37386_crt_292F2.jpg?r=1450245349",
+        "link": "https://bgm.tv/character/37386",
+        "categorie": "person"
+      },
+      {
+        "id": "37387",
+        "label": "阿克塞尔·萨斯顿",
+        "info": "レントンの祖父。「（有）サーストン工業 ガレヱジ・サーストン」を営むメカニック屋の頑固爺。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/fb/37387_crt_kxBKh.jpg?r=1450245602",
+        "link": "https://bgm.tv/character/37387",
+        "categorie": "person"
+      },
+      {
+        "id": "37601",
+        "label": "蕾·比姆斯",
+        "info": "チャールズの妻。塔州連邦軍遊撃部隊所属フリーランサー。元塔州連邦軍SOF第2機動部隊隊員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/58/37601_crt_zjrDB.jpg?r=1450848466",
+        "link": "https://bgm.tv/character/37601",
+        "categorie": "person"
+      },
+      {
+        "id": "37905",
+        "label": "诺布鲁",
+        "info": "ヴォダラク教の高僧。惨劇の地シウダデス・デル・シエロでホランドにこの世界の真実を教え、ゲッコーステイト設立のきっかけを与えた。その胸にはコンパク・ドライヴが埋め込まれ、超自然的な力を持つ。ホランド達はその隠された目的を果たすため、彼の居所を探していた。理由は語られないが40年来の風呂嫌いで、過度のマヨラー。その昔、高僧会による満場一致の推挙を受けて聖者サクヤの世話係となるが、感情を示さない彼女を笑わそうとあれこれ気配りをするうち、彼女を一人の少女として意識するようになり恋に落ちた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/12/37905_crt_6eKkE.jpg?r=1451969602",
+        "link": "https://bgm.tv/character/37905",
+        "categorie": "person"
+      },
+      {
+        "id": "3855",
+        "label": "タミナスR606号機",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/8f/3855_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3855",
+        "categorie": "person"
+      },
+      {
+        "id": "3856",
+        "label": "タミナスR909号機",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/2e/3856_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3856",
+        "categorie": "person"
+      },
+      {
+        "id": "3857",
+        "label": "スピアヘッドSH-101",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/69/3857_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3857",
+        "categorie": "person"
+      },
+      {
+        "id": "3858",
+        "label": "ニルヴァーシュtypetheEND",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/dd/3858_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3858",
+        "categorie": "person"
+      },
+      {
+        "id": "3859",
+        "label": "ニルヴァーシュtypeZERO spec2",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/71/3859_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3859",
+        "categorie": "person"
+      },
+      {
+        "id": "3860",
+        "label": "Gekko State",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/5e/3860_crt_anidb.jpg?r=1450278983",
+        "link": "https://bgm.tv/character/3860",
+        "categorie": "person"
+      },
+      {
+        "id": "16435",
+        "label": "月光号",
+        "info": "神出鬼没的反体制组织月光州的母舰，是大约三年前从塔州连邦军叛逃的霍兰德等人夺取的军队巡洋舰SL-1200系列的二号舰，船体外表是白底和黄绿色。月光号本是军队上层秘密开发，作为特殊部队用的最新型飞船，装备了火箭助推器，可以在大气层外高速航行以及弹道飞行；高性能雷达和隐形装置CIF等特殊装置。武装有三筒激光加农炮X2，24筒导弹垂直发射器X4，大型导弹发射器X2。以搭载LFO的大型舰来说具有极高的机动性，在战斗中由主舵手调整速度角度等可以做出侧滚翻、翻跟斗等机动动作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/3b/16435_crt_8mIMu.jpg",
+        "link": "https://bgm.tv/character/16435",
+        "categorie": "person"
+      },
+      {
+        "id": "16441",
+        "label": "尼尔瓦修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/04/16441_crt_MvDqW.jpg",
+        "link": "https://bgm.tv/character/16441",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

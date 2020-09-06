@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6018",
+        "label": "ロラン・セアック",
+        "info": "所属：ムーンレィス（地球に帰化、イングレッサ・ミリシャ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/2a/6018_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6018",
+        "categorie": "person"
+      },
+      {
+        "id": "6020",
+        "label": "キエル・ハイム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/85/6020_crt_zPp55.jpg",
+        "link": "https://bgm.tv/character/6020",
+        "categorie": "person"
+      },
+      {
+        "id": "6023",
+        "label": "ハリー・オード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/4d/6023_crt_GZprc.jpg",
+        "link": "https://bgm.tv/character/6023",
+        "categorie": "person"
+      },
+      {
+        "id": "6025",
+        "label": "リリ・ボルジャーノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/51/6025_crt_QXWUw.jpg",
+        "link": "https://bgm.tv/character/6025",
+        "categorie": "person"
+      },
+      {
+        "id": "6027",
+        "label": "ヤーニ・オビュス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/3f/6027_crt_PbcVc.jpg",
+        "link": "https://bgm.tv/character/6027",
+        "categorie": "person"
+      },
+      {
+        "id": "6028",
+        "label": "ジョゼフ・ヨット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/45/6028_crt_Errrb.jpg",
+        "link": "https://bgm.tv/character/6028",
+        "categorie": "person"
+      },
+      {
+        "id": "6029",
+        "label": "ラダラム・クン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/4c/6029_crt_1rx07.jpg",
+        "link": "https://bgm.tv/character/6029",
+        "categorie": "person"
+      },
+      {
+        "id": "6031",
+        "label": "ヤコップ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/8c/6031_crt_zEOmF.jpg",
+        "link": "https://bgm.tv/character/6031",
+        "categorie": "person"
+      },
+      {
+        "id": "6033",
+        "label": "マリガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/d2/6033_crt_u6Mzi.jpg",
+        "link": "https://bgm.tv/character/6033",
+        "categorie": "person"
+      },
+      {
+        "id": "6034",
+        "label": "エイムズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/ae/6034_crt_HhLl2.jpg",
+        "link": "https://bgm.tv/character/6034",
+        "categorie": "person"
+      },
+      {
+        "id": "6040",
+        "label": "ウィル・ゲイム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/33/6040_crt_ODUpQ.jpg",
+        "link": "https://bgm.tv/character/6040",
+        "categorie": "person"
+      },
+      {
+        "id": "6036",
+        "label": "ハイム夫人",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6036",
+        "categorie": "person"
+      },
+      {
+        "id": "6038",
+        "label": "キャハラン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6038",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

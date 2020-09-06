@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21131",
+        "label": "罗杰·史密斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/1e/21131_crt_DDNBn.jpg",
+        "link": "https://bgm.tv/character/21131",
+        "categorie": "person"
+      },
+      {
+        "id": "21132",
+        "label": "R·多洛茜·薇恩莱特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/5d/21132_crt_400RZ.jpg",
+        "link": "https://bgm.tv/character/21132",
+        "categorie": "person"
+      },
+      {
+        "id": "21133",
+        "label": "诺曼·博格",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/50/21133_crt_Z7hXZ.jpg",
+        "link": "https://bgm.tv/character/21133",
+        "categorie": "person"
+      },
+      {
+        "id": "21134",
+        "label": "ダン・ダストン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/30/21134_crt_B7Wcz.jpg",
+        "link": "https://bgm.tv/character/21134",
+        "categorie": "person"
+      },
+      {
+        "id": "21135",
+        "label": "安琪儿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/3c/21135_crt_rwtKV.jpg",
+        "link": "https://bgm.tv/character/21135",
+        "categorie": "person"
+      },
+      {
+        "id": "76988",
+        "label": "鑑識员",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76988",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

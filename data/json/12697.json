@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11337",
+        "label": "柯蕾特·布鲁尼",
+        "info": "和洛伊德是青梅竹马，玛那一族的末裔，为了拯救席瓦蓝特的再生神子。平常做事笨手笨脚，拥有超乎常人的力气，知道至今800年间所有再生神子至今没有人成功过，纵使内心如此的不安。依旧接受神谕而展开世界再生之旅，身上戴著作为神子证据的库希斯辉石“クルシスの輝石”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/ba/11337_crt_5xLj8.jpg",
+        "link": "https://bgm.tv/character/11337",
+        "categorie": "person"
+      },
+      {
+        "id": "17581",
+        "label": "罗伊德·埃尔文",
+        "info": "本作的主人公，自幼失去母亲，童年生活在森林中，由矮人族养父戴克抚养长大，并且继承了养父的精湛艺。典型热血笨蛋，学习成绩很糟。因为受到1+1=2的启发而练习双剑，口中经常念叨“双剑二倍强！”却不知道利用双剑的速度优势。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/84/17581_crt_uZVj0.jpg?r=1594786878",
+        "link": "https://bgm.tv/character/17581",
+        "categorie": "person"
+      },
+      {
+        "id": "10741",
+        "label": "ゼロス・ワイルダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/e2/10741_crt_YNEE8.jpg",
+        "link": "https://bgm.tv/character/10741",
+        "categorie": "person"
+      },
+      {
+        "id": "38992",
+        "label": "库拉托斯·奥隆",
+        "info": "自らを傭兵と名乗る謎の剣士。剣の実力は超一流であり、その腕を見込まれ、コレットの世界再生の旅に用心棒的な役割を担い、共をすることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/87/38992_crt_c5yHt.jpg",
+        "link": "https://bgm.tv/character/38992",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

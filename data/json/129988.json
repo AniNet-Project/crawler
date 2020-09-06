@@ -1,0 +1,437 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22789",
+        "label": "夜斗",
+        "info": "祀られる社もないマイナーで無名な神。自称「デリバリーゴッド」。武神だが、八百万の神の中でも末端の末端の存在。あらゆるものを斬る能力を持つ。かつては人斬りも行っており、禍事を好む卑しい禍津神として知られていた。神器の名前には「音」の一文字を入れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/73/22789_crt_YV6yA.jpg",
+        "link": "https://bgm.tv/character/22789",
+        "categorie": "person"
+      },
+      {
+        "id": "22790",
+        "label": "一岐日和",
+        "info": "良家の令嬢で15歳の中学3年生→高校1年生。隠れ格闘技好きで、蟷野という選手のファン。父親が医者。母親は古風でやや口うるさい。なお、母親は、酔っていても夜トなど狭間の存在に気付く鋭さを持っている。また、年の離れた兄がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/46/22790_crt_O7DsZ.jpg",
+        "link": "https://bgm.tv/character/22790",
+        "categorie": "person"
+      },
+      {
+        "id": "22816",
+        "label": "雪音",
+        "info": "夜トに拾われ”神器（しんき）”となる少年。名前を呼ばれて”雪器（せっき）”となれば、剣と化す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/96/22816_crt_5Yioo.jpg?r=1389082899",
+        "link": "https://bgm.tv/character/22816",
+        "categorie": "person"
+      },
+      {
+        "id": "22819",
+        "label": "毗沙门",
+        "info": "七福神の一柱。多くの神器で武装している最強の武神。夜トを仇敵と狙っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/ef/22819_crt_27JHH.jpg?r=1444178303",
+        "link": "https://bgm.tv/character/22819",
+        "categorie": "person"
+      },
+      {
+        "id": "22820",
+        "label": "兆麻",
+        "info": "神器型态：耳饰",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b1/22820_crt_mRRsR.jpg?r=1447002123",
+        "link": "https://bgm.tv/character/22820",
+        "categorie": "person"
+      },
+      {
+        "id": "22817",
+        "label": "小福",
+        "info": "エビスと名乗る神様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/c3/22817_crt_78288.jpg",
+        "link": "https://bgm.tv/character/22817",
+        "categorie": "person"
+      },
+      {
+        "id": "22818",
+        "label": "大黑",
+        "info": "小福の神器。名は「黒」。 いかつい外見をしているが、実は子供好きで、家庭的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/72/22818_crt_7GjaQ.jpg?r=1389083207",
+        "link": "https://bgm.tv/character/22818",
+        "categorie": "person"
+      },
+      {
+        "id": "22821",
+        "label": "天神",
+        "info": "神格：天神、雷神、学问之神、梅花树之神",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/8b/22821_crt_BP91s.jpg?r=1389083480",
+        "link": "https://bgm.tv/character/22821",
+        "categorie": "person"
+      },
+      {
+        "id": "22822",
+        "label": "野良",
+        "info": "不特定多数の神に仕える神器。夜トと謎の過去をもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/e6/22822_crt_SDY23.jpg?r=1389083563",
+        "link": "https://bgm.tv/character/22822",
+        "categorie": "person"
+      },
+      {
+        "id": "24534",
+        "label": "真喻",
+        "info": "神器型态：烟斗",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/ee/24534_crt_2QJIy.jpg",
+        "link": "https://bgm.tv/character/24534",
+        "categorie": "person"
+      },
+      {
+        "id": "24535",
+        "label": "梅雨",
+        "info": "天神旁随从般的女性，其实是1000年以前追随道真的梅树精，不是神器。拥有能够与树木对话的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/e0/24535_crt_J03uX.jpg",
+        "link": "https://bgm.tv/character/24535",
+        "categorie": "person"
+      },
+      {
+        "id": "24536",
+        "label": "萩原学",
+        "info": "ひよりの中学の後輩。いじめに遭い夜トに助けを求めた。アニメ版では「おぎわら」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/74/24536_crt_daddk.jpg",
+        "link": "https://bgm.tv/character/24536",
+        "categorie": "person"
+      },
+      {
+        "id": "35998",
+        "label": "囷巴",
+        "info": "毘沙门的神器。名为“囷”。髭面的壮年男性。可以变成狮子姿态的骑兽，并靠着嗅觉追踪敌人。称呼毘沙门为“小姐（お嬢）”。与夜斗的战斗中右眼负伤，因此右眼带着眼罩，很受同为神器的小孩子喜爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/71/35998_crt_sTTNG.jpg?r=1444178339",
+        "link": "https://bgm.tv/character/35998",
+        "categorie": "person"
+      },
+      {
+        "id": "35999",
+        "label": "铃巴",
+        "info": "毘沙门的神器。名为“铃”。短发少年，兴趣为园艺，不知道夜斗是主人的仇敌而和雪音成为朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/7b/35999_crt_KFRw4.jpg",
+        "link": "https://bgm.tv/character/35999",
+        "categorie": "person"
+      },
+      {
+        "id": "36000",
+        "label": "陆巴",
+        "info": "毘沙门的神器。名为“陆”。有着黑色的大眼睛。对植物方面的知识非常了解，平常也会教授其知识给其他的神器，是铃巴的师父，更是毘沙门的御用药师。有时会因为工作而前往人间，但大多留在高天原。神器的形状是天秤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/e0/36000_crt_8ws1f.jpg?r=1444178351",
+        "link": "https://bgm.tv/character/36000",
+        "categorie": "person"
+      },
+      {
+        "id": "36001",
+        "label": "蓝巴",
+        "info": "毘沙门的神器。名为“蓝”。神器形状是附长裙的西洋铠甲。因为拥有高防御力，半世纪以来都作为毘沙门的神衣在前线战斗，后来这个任务被晚辈绍巴抢走，现在大多都被留在高天原。虽然想得到毘沙门的注意，但几乎都没被呼唤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/3f/36001_crt_HGZKQ.jpg?r=1444178371",
+        "link": "https://bgm.tv/character/36001",
+        "categorie": "person"
+      },
+      {
+        "id": "36002",
+        "label": "惠比寿",
+        "info": "神格：福神、财神",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/dd/36002_crt_COdxN.jpg?r=1444178381",
+        "link": "https://bgm.tv/character/36002",
+        "categorie": "person"
+      },
+      {
+        "id": "36003",
+        "label": "纴巴",
+        "info": "毘沙门的神器。名为“纴”。长发的女性。神器形状为长鞭。大家都以“お紝さん”称呼她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a9/36003_crt_T776p.jpg",
+        "link": "https://bgm.tv/character/36003",
+        "categorie": "person"
+      },
+      {
+        "id": "36004",
+        "label": "绍巴",
+        "info": "毘沙门的神器。名为“绍”。虽然是新人，但毘沙门前往人界时会带着她，因此被同为神衣的前辈蓝巴欺负。一开始绑着圆髻，但后来被蓝巴剪断头发。神器形状是外套、内衣与短裙一组的神衣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/3a/36004_crt_KK2xP.jpg",
+        "link": "https://bgm.tv/character/36004",
+        "categorie": "person"
+      },
+      {
+        "id": "36005",
+        "label": "岭巴",
+        "info": "毘沙门的神器。名为“岭”。在成为死灵被妖袭击时为毘沙门所救，并被收做神器。但因为灵魂损伤而无法成为真正的神器，其形状为碎裂之镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/7b/36005_crt_8ItjJ.jpg",
+        "link": "https://bgm.tv/character/36005",
+        "categorie": "person"
+      },
+      {
+        "id": "36090",
+        "label": "文巴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/99/36090_crt_5666a.jpg",
+        "link": "https://bgm.tv/character/36090",
+        "categorie": "person"
+      },
+      {
+        "id": "36091",
+        "label": "智子",
+        "info": "发现了照料花朵的铃巴的存在，两人约定明年要再相见，然而每年过去铃巴都会被她遗忘，也因如此两人之间的对话也几乎每年都是一样。到了最后女孩长大了，再也不曾出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/da/36091_crt_12aHx.jpg?r=1444516628",
+        "link": "https://bgm.tv/character/36091",
+        "categorie": "person"
+      },
+      {
+        "id": "36438",
+        "label": "刈巴",
+        "info": "毘沙门的神器。名为“刈”。马尾少女。神器形状为左轮手枪。威力极高，但不擅于瞄准，必须由兆麻进行归零调整。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a8/36438_crt_eUAuQ.jpg",
+        "link": "https://bgm.tv/character/36438",
+        "categorie": "person"
+      },
+      {
+        "id": "36439",
+        "label": "数巴",
+        "info": "毘沙门的神器。名为“数”。年幼少年。神器形状为自动式手枪。跟刈巴同样不擅于瞄准，因为有兆麻的辅佐才能在第一线战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/e4/36439_crt_xFxQq.jpg",
+        "link": "https://bgm.tv/character/36439",
+        "categorie": "person"
+      },
+      {
+        "id": "36440",
+        "label": "秋巴",
+        "info": "毘沙门的神器。名为“秋”。留着条码头、戴圆眼镜的矮小大叔。神器的形状为小刀。兴趣是围棋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/f2/36440_crt_jl5Ji.jpg",
+        "link": "https://bgm.tv/character/36440",
+        "categorie": "person"
+      },
+      {
+        "id": "36441",
+        "label": "靫巴",
+        "info": "毘沙门的神器。名为“靫”。神器形状为单刃大剑。不擅长“画线”，会连现世的物品都一起砍断，必须由兆麻控制力道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/7a/36441_crt_hTrq1.jpg?r=1445630652",
+        "link": "https://bgm.tv/character/36441",
+        "categorie": "person"
+      },
+      {
+        "id": "36442",
+        "label": "道司",
+        "info": "毗沙门的神器，麻之一族时期的道标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/0d/36442_crt_5foFJ.jpg",
+        "link": "https://bgm.tv/character/36442",
+        "categorie": "person"
+      },
+      {
+        "id": "36443",
+        "label": "询麻",
+        "info": "毘沙门的神器“麻”的一族。名为“询”。外型是年幼的黑发少女，神器形状为锅盖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/94/36443_crt_mnC84.jpg",
+        "link": "https://bgm.tv/character/36443",
+        "categorie": "person"
+      },
+      {
+        "id": "36709",
+        "label": "山下晶",
+        "info": "一歧日和的朋友，视觉系乐团“百鬼夜行”的粉丝，昵称为“小山”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/f4/36709_crt_qTtuy.jpg",
+        "link": "https://bgm.tv/character/36709",
+        "categorie": "person"
+      },
+      {
+        "id": "36710",
+        "label": "田端爱美",
+        "info": "一歧日和的朋友，偶像团体Zonnys的粉丝，其爱犬的名字与该偶像团体的Group Leader(椎名)同名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/10/36710_crt_zcsz4.jpg",
+        "link": "https://bgm.tv/character/36710",
+        "categorie": "person"
+      },
+      {
+        "id": "36714",
+        "label": "望喻",
+        "info": "天神の神器。自分達のことを「天神シスターズ」と名乗っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/12/36714_crt_eHhOH.jpg?r=1447037182",
+        "link": "https://bgm.tv/character/36714",
+        "categorie": "person"
+      },
+      {
+        "id": "37301",
+        "label": "大国主命",
+        "info": "豪爽的中年大叔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/be/37301_crt_EDKKQ.jpg",
+        "link": "https://bgm.tv/character/37301",
+        "categorie": "person"
+      },
+      {
+        "id": "37302",
+        "label": "岩弥",
+        "info": "惠比寿的神器与道标。侍奉过许多代主人，唯一的目的是让前代主人的遗志传承下去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/44/37302_crt_TwtCc.jpg?r=1449912866",
+        "link": "https://bgm.tv/character/37302",
+        "categorie": "person"
+      },
+      {
+        "id": "37303",
+        "label": "邦弥",
+        "info": "神器型态：西装",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/7c/37303_crt_OwCPT.jpg",
+        "link": "https://bgm.tv/character/37303",
+        "categorie": "person"
+      },
+      {
+        "id": "37309",
+        "label": "截弥",
+        "info": "惠比寿的神器之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/ee/37309_crt_m4X5C.jpg",
+        "link": "https://bgm.tv/character/37309",
+        "categorie": "person"
+      },
+      {
+        "id": "37310",
+        "label": "唱弥",
+        "info": "惠比寿的神器之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/28/37310_crt_CrmC3.jpg",
+        "link": "https://bgm.tv/character/37310",
+        "categorie": "person"
+      },
+      {
+        "id": "37311",
+        "label": "建御雷",
+        "info": "神格：天之神、雷神",
+        "image": "https:",
+        "link": "https://bgm.tv/character/37311",
+        "categorie": "person"
+      },
+      {
+        "id": "37312",
+        "label": "藤崎浩人",
+        "info": "在日和上高中时，转学进来的高三学长。原本住在乡下，父亲单身赴任来此，因姐姐带了孩子回家而弄得不清静，所以拜托父亲跟了过来。在游乐园约会时，亲吻了日和。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/3a/37312_crt_4jbZz.jpg?r=1449942056",
+        "link": "https://bgm.tv/character/37312",
+        "categorie": "person"
+      },
+      {
+        "id": "37314",
+        "label": "雏巴",
+        "info": "毗沙门的神器之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/78/37314_crt_2xe4f.jpg?r=1449942979",
+        "link": "https://bgm.tv/character/37314",
+        "categorie": "person"
+      },
+      {
+        "id": "37325",
+        "label": "伊邪那美",
+        "info": "黄泉女王。是抛弃了惠比寿的母亲。会化作面前之人最亲近女性的容貌，本体为腐尸之面容，身体四处会爬出许多虫。身处“无法触及的远方”，所以神器的攻击无法伤到她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/d5/37325_crt_qL6lJ.jpg?r=1450021051",
+        "link": "https://bgm.tv/character/37325",
+        "categorie": "person"
+      },
+      {
+        "id": "37326",
+        "label": "弁财天",
+        "info": "女性，头发上梳结髻。没男友，当寿老人交到女友时非常愤怒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/e5/37326_crt_XNx9R.jpg",
+        "link": "https://bgm.tv/character/37326",
+        "categorie": "person"
+      },
+      {
+        "id": "37327",
+        "label": "布袋",
+        "info": "体型肥胖的男性。在神议上听广播，觉得什么事都很麻烦的举止十分显眼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/f1/37327_crt_0UUOR.jpg",
+        "link": "https://bgm.tv/character/37327",
+        "categorie": "person"
+      },
+      {
+        "id": "37328",
+        "label": "福禄寿",
+        "info": "极高礼帽下脑袋也很长，当大国主暴走时被其他七福神一致推去当祭品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/08/37328_crt_oIiiI.jpg",
+        "link": "https://bgm.tv/character/37328",
+        "categorie": "person"
+      },
+      {
+        "id": "37329",
+        "label": "寿老人",
+        "info": "老态龙钟的老人。在短篇里年轻女友曝光而暂时脱离七福神，后来因为谎报年龄的事情被发现而回锅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ec/37329_crt_11O1A.jpg",
+        "link": "https://bgm.tv/character/37329",
+        "categorie": "person"
+      },
+      {
+        "id": "37330",
+        "label": "关",
+        "info": "藤崎浩人带来与山下晶、田端爱美以及日和三重约会的男生之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/dc/37330_crt_s2Pp5.jpg",
+        "link": "https://bgm.tv/character/37330",
+        "categorie": "person"
+      },
+      {
+        "id": "37331",
+        "label": "阿部",
+        "info": "藤崎浩人带来与山下晶、田端爱美以及日和三重约会的男生之一。与山下晶一样是地下视觉系乐队“百鬼夜行”的粉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/03/37331_crt_UZQVG.jpg",
+        "link": "https://bgm.tv/character/37331",
+        "categorie": "person"
+      },
+      {
+        "id": "37332",
+        "label": "天守三役奥司",
+        "info": "天の神器「天つ守」の一人。女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/79/37332_crt_D16sa.jpg",
+        "link": "https://bgm.tv/character/37332",
+        "categorie": "person"
+      },
+      {
+        "id": "37882",
+        "label": "琉巴",
+        "info": "毘沙门的神器，穿和服的老人，赐名瑠，神器形态为马头刀柄的生锈长刀，随毘沙门一同斩杀已经妖化的神器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ea/37882_crt_xIpfH.jpg",
+        "link": "https://bgm.tv/character/37882",
+        "categorie": "person"
+      },
+      {
+        "id": "40075",
+        "label": "一岐高将",
+        "info": "日和、将臣的父亲，自家医院一歧综合医院的院长，同时作为外科医生医术也很高超，责任心很强。自家医院发生病人暴乱后受到了极大的经济损失与社会舆论压力，目前正想办法与太太小百合共度难关。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/59/40075_crt_Z38I8.jpg",
+        "link": "https://bgm.tv/character/40075",
+        "categorie": "person"
+      },
+      {
+        "id": "40076",
+        "label": "一歧小百合",
+        "info": "日和、将臣的母亲，比较传统的日本女性，对日和的管教也比较严格，由于娘家人的遗传体质，也能够稍微感知到彼岸的世界（夜斗来到她家时有一点感知）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/40/40076_crt_eL88n.jpg",
+        "link": "https://bgm.tv/character/40076",
+        "categorie": "person"
+      },
+      {
+        "id": "36711",
+        "label": "步喻",
+        "info": "天神的神器之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/76/36711_crt_n55uM.jpg?r=1447035825",
+        "link": "https://bgm.tv/character/36711",
+        "categorie": "person"
+      },
+      {
+        "id": "36712",
+        "label": "南喻",
+        "info": "天神的神器之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/26/36712_crt_16Jqi.jpg?r=1447036031",
+        "link": "https://bgm.tv/character/36712",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

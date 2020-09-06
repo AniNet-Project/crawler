@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16343",
+        "label": "泽口麻衣",
+        "info": "二年级学生，学习成绩和运动神经都相当不错，也擅长做家务，不是学生委员却非常有号召力，成为被大家像大姐姐一样依靠的人气焦点，连身为会长的松原优菜也很重视她，但她总是以生活在普通家庭中的“庶民”自嘲。因为帮助难以适应班级生活的玲绪而与她日渐亲密。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/09/16343_crt_UlZnJ.jpg",
+        "link": "https://bgm.tv/character/16343",
+        "categorie": "person"
+      },
+      {
+        "id": "16344",
+        "label": "川村玲绪",
+        "info": "二年级学生，因为母亲离婚而转校。身材矮小，面貌也很像小学生。家境优越并且备受溺爱，性格傲娇并且叛逆，做事冒失，因此与同学关系不佳而被孤立。自称接受过知名声乐教师的指导，因此很擅长唱歌。在受到麻衣的帮助后变得越来越在意她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/71/16344_crt_3b0qk.jpg",
+        "link": "https://bgm.tv/character/16344",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

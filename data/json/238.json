@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3002",
+        "label": "巴特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/95/3002_crt_DyxyG.jpg",
+        "link": "https://bgm.tv/character/3002",
+        "categorie": "person"
+      },
+      {
+        "id": "3008",
+        "label": "公安9課",
+        "info": "概要",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c8/3008_crt_ftTsK.jpg",
+        "link": "https://bgm.tv/character/3008",
+        "categorie": "person"
+      },
+      {
+        "id": "84",
+        "label": "草薙素子",
+        "info": "自卫军出身,军衔三佐.",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/7b/84_crt_xc45y.jpg?r=1587737580",
+        "link": "https://bgm.tv/character/84",
+        "categorie": "person"
+      },
+      {
+        "id": "3006",
+        "label": "荒卷大辅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/07/3006_crt_zLPL5.jpg",
+        "link": "https://bgm.tv/character/3006",
+        "categorie": "person"
+      },
+      {
+        "id": "3010",
+        "label": "户草",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a0/3010_crt_aH961.jpg",
+        "link": "https://bgm.tv/character/3010",
+        "categorie": "person"
+      },
+      {
+        "id": "3013",
+        "label": "石川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/6b/3013_crt_Nt55I.jpg?r=1587740410",
+        "link": "https://bgm.tv/character/3013",
+        "categorie": "person"
+      },
+      {
+        "id": "31636",
+        "label": "金",
+        "info": "黑客高手，巴特的旧识。帮助巴特黑入玩偶制造厂系统时被烧掉了电子脑，ghost毁灭身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/b8/31636_crt_Tktk6.jpg",
+        "link": "https://bgm.tv/character/31636",
+        "categorie": "person"
+      },
+      {
+        "id": "31638",
+        "label": "哈勒维法医",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/e6/31638_crt_lLoT3.jpg",
+        "link": "https://bgm.tv/character/31638",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

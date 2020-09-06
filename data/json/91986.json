@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27195",
+        "label": "法瓦罗·雷欧涅",
+        "info": "その日暮らしの賞金稼ぎ。盗賊だった父を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/96/27195_crt_33Z69.jpg?r=1413907924",
+        "link": "https://bgm.tv/character/27195",
+        "categorie": "person"
+      },
+      {
+        "id": "27196",
+        "label": "凯撒·利德法尔德",
+        "info": "元は騎士の家系だが、今は没落して賞金稼ぎに身をやつしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/f5/27196_crt_rznaQ.jpg?r=1413907979",
+        "link": "https://bgm.tv/character/27196",
+        "categorie": "person"
+      },
+      {
+        "id": "27197",
+        "label": "阿米拉",
+        "info": "空より舞い落ちた少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1c/27197_crt_Oo9QL.jpg?r=1413908034",
+        "link": "https://bgm.tv/character/27197",
+        "categorie": "person"
+      },
+      {
+        "id": "27205",
+        "label": "莉塔",
+        "info": "ネブルビルで暮らす町医者の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/55/27205_crt_Z779M.jpg?r=1413908516",
+        "link": "https://bgm.tv/character/27205",
+        "categorie": "person"
+      },
+      {
+        "id": "27198",
+        "label": "拉瓦雷",
+        "info": "オルレアン騎士団の副官を務める騎士。冷静な判断力、正確な決断力を兼ね備え、王命にも忠実な騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/45/27198_crt_HGR0T.jpg?r=1413908108",
+        "link": "https://bgm.tv/character/27198",
+        "categorie": "person"
+      },
+      {
+        "id": "27199",
+        "label": "贞德",
+        "info": "动画：",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/12/27199_crt_ZWqt4.jpg?r=1538828510",
+        "link": "https://bgm.tv/character/27199",
+        "categorie": "person"
+      },
+      {
+        "id": "27200",
+        "label": "巴克科斯",
+        "info": "飲んだくれの神様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/df/27200_crt_wyGF1.jpg?r=1413908242",
+        "link": "https://bgm.tv/character/27200",
+        "categorie": "person"
+      },
+      {
+        "id": "27201",
+        "label": "汉萨",
+        "info": "バッカスと共に行動するアヒル、ではなく神様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/6b/27201_crt_0255R.jpg?r=1413908293",
+        "link": "https://bgm.tv/character/27201",
+        "categorie": "person"
+      },
+      {
+        "id": "27202",
+        "label": "阿萨谢尔",
+        "info": "四本の角と、黒い翼を持つ堕天使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/97/27202_crt_4dXl9.jpg?r=1413908352",
+        "link": "https://bgm.tv/character/27202",
+        "categorie": "person"
+      },
+      {
+        "id": "27203",
+        "label": "刻耳柏洛斯",
+        "info": "両手に犬のぬいぐるみを付けた犬耳の女悪魔。アザゼルと共に”神の鍵”を奪った女を捜索している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/61/27203_crt_gG3I9.jpg?r=1413908403",
+        "link": "https://bgm.tv/character/27203",
+        "categorie": "person"
+      },
+      {
+        "id": "27204",
+        "label": "帕祖祖",
+        "info": "様々な獣を取り込んだ巨躯の悪魔。アザゼルと共に“神の鍵”を奪った女を捜索している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/1c/27204_crt_26K96.jpg?r=1413908452",
+        "link": "https://bgm.tv/character/27204",
+        "categorie": "person"
+      },
+      {
+        "id": "27206",
+        "label": "加百列",
+        "info": "言葉を司る四大天使の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/64/27206_crt_6UwLt.jpg?r=1413908585",
+        "link": "https://bgm.tv/character/27206",
+        "categorie": "person"
+      },
+      {
+        "id": "27207",
+        "label": "米迦勒",
+        "info": "戦いを司る四大天使の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/3c/27207_crt_1Gj9z.jpg?r=1413908664",
+        "link": "https://bgm.tv/character/27207",
+        "categorie": "person"
+      },
+      {
+        "id": "27208",
+        "label": "拉斐尔",
+        "info": "癒しを司る四大天使の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/45/27208_crt_K2i0e.jpg?r=1413908715",
+        "link": "https://bgm.tv/character/27208",
+        "categorie": "person"
+      },
+      {
+        "id": "27209",
+        "label": "乌列尔",
+        "info": "愛情を司る四大天使の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/05/27209_crt_CG29K.jpg?r=1413908761",
+        "link": "https://bgm.tv/character/27209",
+        "categorie": "person"
+      },
+      {
+        "id": "28133",
+        "label": "シャリオス13世",
+        "info": "王都アナティを治める13代国王。神と交信できる権限を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/94/28133_crt_jHHjw.jpg?r=1416973741",
+        "link": "https://bgm.tv/character/28133",
+        "categorie": "person"
+      },
+      {
+        "id": "28134",
+        "label": "马鲁奇内",
+        "info": "ベルゼビュートにつき従う悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/ab/28134_crt_T1wRe.jpg?r=1416973989",
+        "link": "https://bgm.tv/character/28134",
+        "categorie": "person"
+      },
+      {
+        "id": "28197",
+        "label": "路西法",
+        "info": "６枚の羽を持つ堕天使の長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/54/28197_crt_AE8e4.jpg?r=1417507225",
+        "link": "https://bgm.tv/character/28197",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

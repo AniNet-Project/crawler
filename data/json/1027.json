@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5678",
+        "label": "鸨羽舞衣",
+        "info": "本动画之主角。15岁，生日为7/22，O型，身长157cm，体重46公斤，鸨羽巧海的姊姊。认真且责任感强，擅长料理，常常到处打工赚取所需花费。与菊川雪之、原田千绘、日暮茜、瀬能葵等为同班同学，室友为美袋命。她以迦具土身体抵挡爱莉莎•西亚斯子兽Artemis的射击，从而使迦具土变为新型迦具土。后半部一直想阻止HiME之间的战斗，但因目睹弟弟鸨羽巧海及楯祐一的消失，使情绪多次崩溃，甚至曾对失控的美袋命产生厌恶感。虽然鸨羽舞衣个人战斗能力一般，但其子兽迦具土却是众多子兽中最强最具破坏力，总括而言是实力首三位的HiME之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/4a/5678_crt_75533.jpg?r=1497802753",
+        "link": "https://bgm.tv/character/5678",
+        "categorie": "person"
+      },
+      {
+        "id": "10467",
+        "label": "玖我夏树",
+        "info": "经常驾驶机车，個性看似倔強，其實非常率直，容易被人猜中心意。由於懷疑母親玖我紗江子的死與一番地有關，所以不斷的查探其秘密及戰鬥。愛好收集內衣、打電動和賽馬，在游戏中还有害怕幽灵这一特征。喜歡的食物是美乃滋（就算即食麵也喜歡加進去）；和鴇羽為隔壁班同學，和學生會長藤乃靜留關係曖昧，和初中部的結城奈緒之間有點過節，二人只要見面就會發生爭執；子獸為迪蘭（デュラン）（狼型態。攻擊技有裝填鉻彈（火）/銀彈（冰）），元素武具為雙槍（銃型のエレメント）。开始时带着很小的迪兰满处走的样子很萌哦。在结尾处驾驭巨大化迪兰与静留双飘，并于最终话复生。最重要的人是藤乃靜留。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/45/10467_crt_jhOQu.jpg?r=1398389400",
+        "link": "https://bgm.tv/character/10467",
+        "categorie": "person"
+      },
+      {
+        "id": "48197",
+        "label": "美袋命",
+        "info": "中等部3-G組在籍。14歳。舞衣のルームメイト。いつも腹を空かせている大食漢で、舞衣の作る料理が大好物。特にラーメンがお気に入りの様子。野生児と言ってもよい少女で、舞衣にはまるでペットのように懐いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/3d/48197_crt_n3jFX.jpg?r=1495560461",
+        "link": "https://bgm.tv/character/48197",
+        "categorie": "person"
+      },
+      {
+        "id": "5679",
+        "label": "神崎黎人",
+        "info": "高等部生徒会副会長。眉目秀麗・文武両道・品行方正と四字熟語の似合う男。全学園女子の憧れの的で、舞衣も彼に惹かれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/b0/5679_crt_W2xHX.jpg?r=1586106338",
+        "link": "https://bgm.tv/character/5679",
+        "categorie": "person"
+      },
+      {
+        "id": "5680",
+        "label": "藤乃静留",
+        "info": "抜群の容姿に、高等部の生徒会長を務める才媛ぶりで、全学園の憧れのお姉様。柔らかな京都弁も人気の秘密だが、ときおり鋭すぎる舌鋒も見せる。なつきのほぼ唯一の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/d6/5680_crt_lL0Q0.jpg?r=1586106395",
+        "link": "https://bgm.tv/character/5680",
+        "categorie": "person"
+      },
+      {
+        "id": "5681",
+        "label": "深优·葛利亚",
+        "info": "教会のグリーア神父の娘(養女)。無口で物静かであり、とっつきにくいが、ハーフらしい容貌に密かに憧れる男子生徒多数。舞衣のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/5c/5681_crt_hvdod.jpg?r=1586106435",
+        "link": "https://bgm.tv/character/5681",
+        "categorie": "person"
+      },
+      {
+        "id": "5682",
+        "label": "日暮茜",
+        "info": "明るく気さくな性格で、舞衣のバイト仲間でもある。彼氏の和也とはまだ初々しいお付き合いだが、周囲も公認の幸せなカップル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/c0/5682_crt_G8M9g.jpg?r=1586110043",
+        "link": "https://bgm.tv/character/5682",
+        "categorie": "person"
+      },
+      {
+        "id": "5684",
+        "label": "菊川雪之",
+        "info": "珠洲城家に代々仕える執事の娘。人前に出るのが苦手で「私なんか…」が口癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/85/5684_crt_Z51Gz.jpg?r=1586722003",
+        "link": "https://bgm.tv/character/5684",
+        "categorie": "person"
+      },
+      {
+        "id": "5687",
+        "label": "结城奈绪",
+        "info": "中等部の一番人気の少女で、高等部男子にもファンは多い。が天然なのか計算なのか、",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/37/5687_crt_dCEUP.jpg?r=1586723097",
+        "link": "https://bgm.tv/character/5687",
+        "categorie": "person"
+      },
+      {
+        "id": "5688",
+        "label": "尾久崎晶",
+        "info": "中等部の一年生。舞衣の弟、巧海とは寮で同室になりトラブル多発。硬派で軟弱を嫌う性格は巧海とは相容れないのだが…",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/02/5688_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5688",
+        "categorie": "person"
+      },
+      {
+        "id": "5689",
+        "label": "鴇羽巧海",
+        "info": "舞衣の弟。明るく素直でかなり誰からも好かれる性格の持ち主。だが、身体が弱く常に体育は見学している。舞衣がバイトに明け暮れる理由も、そのあたりにあるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/a6/5689_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5689",
+        "categorie": "person"
+      },
+      {
+        "id": "5690",
+        "label": "風花真白",
+        "info": "前理事長の孫で、若干11歳にて学園の理事長を務める。飛び級で海外の大学を卒業したとの噂もあるが、真偽は不明。常に車椅子に乗っている理由も含め、謎の多い少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/ea/5690_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5690",
+        "categorie": "person"
+      },
+      {
+        "id": "5692",
+        "label": "鷺澤陽子",
+        "info": "風華学園の校医。サッパリした包容力があり、生徒たちのいい相談相手として人気が高い。 趣味は車で、ハンドルを握ると人格が変わるとの噂も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/97/5692_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5692",
+        "categorie": "person"
+      },
+      {
+        "id": "5693",
+        "label": "真田紫子",
+        "info": "学園内の教会にいるシスター。カウンセラー兼任で、その聖母の微笑みはすさんだ心を一撃で癒すという。だが、男性恐怖症気味であるため、こと恋愛の相談では、全くの役立たずとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/a4/5693_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5693",
+        "categorie": "person"
+      },
+      {
+        "id": "11385",
+        "label": "愛莉莎·西亞斯",
+        "info": "西亚斯（Searrs）财团的女儿，因歌声有让人洗涤心灵的感觉而被称为黄金天使，有些害怕与不熟悉的人接触，相当信任深优，不过真实身分是‘人工 HiME’能力是HIME（高次物质化能力）可以拿来召唤弃兽（ORPHAN）或是控制ARTEMIS（艾莉莎的子兽，是一座人工卫星，攻击时直接从高空对地面射击）",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/39/11385_crt_UuV43.jpg",
+        "link": "https://bgm.tv/character/11385",
+        "categorie": "person"
+      },
+      {
+        "id": "34114",
+        "label": "杉浦碧",
+        "info": "于动画首次出场是与鸨羽舞衣、日暮茜和仓内和也在餐厅打工，随后神社事件展露其HiME能力后，转往风华学园任教日本史。实际是24岁，经常以17岁自称；是个热血教师，常常把“正义必胜”放在嘴上。当击败西亚斯（Searrs）财团后，希望建立HiME战队，从而自己可以专注去完成自己的论文而不用对付无依者（Orphan）。与保健老师鹭沢阳子关系良好，对于自己的大学教授－佐佐木教授有特殊感情存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1d/34114_crt_INSis.jpg",
+        "link": "https://bgm.tv/character/34114",
+        "categorie": "person"
+      },
+      {
+        "id": "52670",
+        "label": "楯祐一",
+        "info": "舞衣のクラスメイトであり、喧嘩相手。中等部では剣道部に所属していたが、怪我で退部して以来、色々なことに冷めてしまっている。だが、基本は真っ直ぐな少年であり、イザという時の実行力も持ち合わせている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/b6/52670_crt_zW16i.jpg",
+        "link": "https://bgm.tv/character/52670",
+        "categorie": "person"
+      },
+      {
+        "id": "52671",
+        "label": "珠洲城遥",
+        "info": "秩序を重んじる、風華学園生徒会執行部長。権力に対するコンプレックスが高く、静留をライバル視、というよりむしろ敵視している。雪之とは「お譲様と召使」の関係。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/c7/52671_crt_b7x35.jpg",
+        "link": "https://bgm.tv/character/52671",
+        "categorie": "person"
+      },
+      {
+        "id": "52672",
+        "label": "宗像诗帆",
+        "info": "近所の祐一を「お兄ちゃん」と慕う少女。家は神社で、アルバイト巫女をすることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/08/52672_crt_KaQmB.jpg?r=1497802901",
+        "link": "https://bgm.tv/character/52672",
+        "categorie": "person"
+      },
+      {
+        "id": "52673",
+        "label": "炎凪",
+        "info": "舞衣になにかにつけ絡んでくる美少年。訳知り顔でなまいきな口を利き、舞衣をおこらせるのが得意。だが、口だけでなく実際に色々なことを知っているらしい。その素性、真意は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/9e/52673_crt_X9l71.jpg",
+        "link": "https://bgm.tv/character/52673",
+        "categorie": "person"
+      },
+      {
+        "id": "5683",
+        "label": "瀬能葵",
+        "info": "高等部1年で舞衣のクラスメイト。原田千絵と仲良し。3人でお昼を一緒に食べたりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/db/5683_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5683",
+        "categorie": "person"
+      },
+      {
+        "id": "5685",
+        "label": "倉内和也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b0/5685_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5685",
+        "categorie": "person"
+      },
+      {
+        "id": "5686",
+        "label": "太田弥生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/bb/5686_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5686",
+        "categorie": "person"
+      },
+      {
+        "id": "5691",
+        "label": "姬野二三",
+        "info": "学園の理事長、真白の秘書兼世話役。普段はホンワカした天然風味だが、真白の為には我身をも省みない強さを見せることも。なお、メイドの衣装は彼女が自分の好みで着ている物らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/78/5691_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5691",
+        "categorie": "person"
+      },
+      {
+        "id": "5694",
+        "label": "石上亘",
+        "info": "美術科の講師として働いている大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/d6/5694_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5694",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

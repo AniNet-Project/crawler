@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12708",
+        "label": "卡滋",
+        "info": "バクバク谷に住むオオカミ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/a1/12708_crt_92bl8.jpg",
+        "link": "https://bgm.tv/character/12708",
+        "categorie": "person"
+      },
+      {
+        "id": "12712",
+        "label": "羊咩",
+        "info": "サワサワ山に住むヤギ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/71/12712_crt_p7Irv.jpg",
+        "link": "https://bgm.tv/character/12712",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

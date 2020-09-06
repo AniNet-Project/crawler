@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3796",
+        "label": "安妮莫奈",
+        "info": "交響詩篇エウレカセブン",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/02/3796_crt_ZYOA4.jpg?r=1469283732",
+        "link": "https://bgm.tv/character/3796",
+        "categorie": "person"
+      },
+      {
+        "id": "13282",
+        "label": "优莱卡",
+        "info": "年龄不明，高性能LFO \"Nirvash\"尼尔瓦修 的驾驶员，从外表上看是个留有青色头发的15、16岁少女。优莱卡是由珊瑚岩产生的与人类以同等形态交流的媒介，最初本身并没有任何感情。由于能够良好的驾驭LFO并听从命令，最初被作为军队的杀人工具。但她在与人类的接触中逐渐学习到了情感，在一次屠杀行动中收留了三个家人被自己杀死的孤儿。后脱离军队加入了月光号，偶然认识兰顿后，对自己的存在感产生疑惑，并出现了情绪不稳定的状况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/f1/13282_crt_K1g56.jpg?r=1469283769",
+        "link": "https://bgm.tv/character/13282",
+        "categorie": "person"
+      },
+      {
+        "id": "13295",
+        "label": "多米尼克·索莱尔",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/67/13295_crt_Kff2J.jpg",
+        "link": "https://bgm.tv/character/13295",
+        "categorie": "person"
+      },
+      {
+        "id": "3797",
+        "label": "兰顿·萨斯顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2f/3797_crt_02Z0C.jpg?r=1469283816",
+        "link": "https://bgm.tv/character/3797",
+        "categorie": "person"
+      },
+      {
+        "id": "3835",
+        "label": "杜伊·诺瓦克",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/66/3835_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3835",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

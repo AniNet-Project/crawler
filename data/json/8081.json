@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10678",
+        "label": "市之宫行",
+        "info": "【原文：】リク、リクルート",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/0d/10678_crt_PLlXa.jpg",
+        "link": "https://bgm.tv/character/10678",
+        "categorie": "person"
+      },
+      {
+        "id": "11561",
+        "label": "小珊/妮诺",
+        "info": "【原文：】ニノ、ニノさん",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/18/11561_crt_GeYem.jpg",
+        "link": "https://bgm.tv/character/11561",
+        "categorie": "person"
+      },
+      {
+        "id": "11645",
+        "label": "修女",
+        "info": "穿成修女样子的倔强男人，逢星期日在荒川的教会举行数秒弥撒。修道服下是军服，29岁，国籍是英国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/f7/11645_crt_50fFO.jpg",
+        "link": "https://bgm.tv/character/11645",
+        "categorie": "person"
+      },
+      {
+        "id": "13437",
+        "label": "村长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/58/13437_crt_D2190.jpg",
+        "link": "https://bgm.tv/character/13437",
+        "categorie": "person"
+      },
+      {
+        "id": "13438",
+        "label": "星星",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/cd/13438_crt_6e6W6.jpg",
+        "link": "https://bgm.tv/character/13438",
+        "categorie": "person"
+      },
+      {
+        "id": "13439",
+        "label": "小白",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/cf/13439_crt_Gd236.jpg",
+        "link": "https://bgm.tv/character/13439",
+        "categorie": "person"
+      },
+      {
+        "id": "13440",
+        "label": "P子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/75/13440_crt_cMV55.jpg",
+        "link": "https://bgm.tv/character/13440",
+        "categorie": "person"
+      },
+      {
+        "id": "13441",
+        "label": "史黛拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/56/13441_crt_3o3ZG.jpg",
+        "link": "https://bgm.tv/character/13441",
+        "categorie": "person"
+      },
+      {
+        "id": "13442",
+        "label": "玛利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/31/13442_crt_ffj4w.jpg",
+        "link": "https://bgm.tv/character/13442",
+        "categorie": "person"
+      },
+      {
+        "id": "13443",
+        "label": "末代武士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/ce/13443_crt_FKgH4.jpg",
+        "link": "https://bgm.tv/character/13443",
+        "categorie": "person"
+      },
+      {
+        "id": "13444",
+        "label": "比利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/86/13444_crt_hY3z3.jpg",
+        "link": "https://bgm.tv/character/13444",
+        "categorie": "person"
+      },
+      {
+        "id": "13445",
+        "label": "贾桂琳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/1e/13445_crt_xIkkk.jpg",
+        "link": "https://bgm.tv/character/13445",
+        "categorie": "person"
+      },
+      {
+        "id": "13446",
+        "label": "铁人兄弟铁雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/01/13446_crt_fO70d.jpg",
+        "link": "https://bgm.tv/character/13446",
+        "categorie": "person"
+      },
+      {
+        "id": "13447",
+        "label": "铁人兄弟铁郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/5b/13447_crt_RDzaX.jpg",
+        "link": "https://bgm.tv/character/13447",
+        "categorie": "person"
+      },
+      {
+        "id": "13449",
+        "label": "高井照正",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/33/13449_crt_2G320.jpg",
+        "link": "https://bgm.tv/character/13449",
+        "categorie": "person"
+      },
+      {
+        "id": "13450",
+        "label": "岛崎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/d0/13450_crt_CjvcI.jpg",
+        "link": "https://bgm.tv/character/13450",
+        "categorie": "person"
+      },
+      {
+        "id": "13451",
+        "label": "地球防卫军队长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/58/13451_crt_ElMXB.jpg",
+        "link": "https://bgm.tv/character/13451",
+        "categorie": "person"
+      },
+      {
+        "id": "13452",
+        "label": "亚马逊女战士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/83/13452_crt_93Z4q.jpg",
+        "link": "https://bgm.tv/character/13452",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

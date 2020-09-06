@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "86",
+        "label": "爱德华·艾尔利克",
+        "info": "通称爱德。为了寻找贤者之石与弟弟一起旅行。性格有很冲动的一面，很容易暴走。对自己比较矮小的身高非常在意，当听到“小豆丁”、“矮子”等字眼便会暴走。年幼时，母亲不幸因流行病死去，为了能再看见母亲的微笑，爱德与弟弟进行人体链成，结果失败，爱德失去左脚、弟弟失去整个身体，为保住弟弟，爱德用右手换取弟弟的灵魂，并将弟弟的灵魂附着于盔甲上。爱德失去的肢体后用机械铠替代。为了知道贤者之石的秘密及得到相关资料，决心成为国家炼金术师，在12岁成功考取，成为军属，得到了“钢”的称号。他不喜欢喝牛奶，但却非常喜欢喝含有牛奶的炖蔬菜汤。打斗时会将右手的机械铠链成带有刀刃的形式。在进行人体链成时打开了真理之门，因此链成时无须画链成阵。身上的银怀表是身为国家炼金术师的证明，但是被他利用炼金术封住，盖子内刻有兄弟两烧毁住处离开家乡的日期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/50/86_crt_op5nr.jpg",
+        "link": "https://bgm.tv/character/86",
+        "categorie": "person"
+      },
+      {
+        "id": "87",
+        "label": "阿尔芬斯·艾尔利克",
+        "info": "在钢铁铠甲中有颗善良的心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/b3/87_crt_DaRIi.jpg?r=1378928233",
+        "link": "https://bgm.tv/character/87",
+        "categorie": "person"
+      },
+      {
+        "id": "88",
+        "label": "温莉·洛克贝尔",
+        "info": "机械铠装备师。大陆历1899年出生，故事中段年龄15-16岁，淡金色马尾的美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/fe/88_crt_Lz1IA.jpg?r=1378928455",
+        "link": "https://bgm.tv/character/88",
+        "categorie": "person"
+      },
+      {
+        "id": "527",
+        "label": "罗伊·马斯坦古",
+        "info": "别名“焰之炼金术师”的国家炼金术师。国军大佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/f9/527_crt_TjATX.jpg?r=1444712439",
+        "link": "https://bgm.tv/character/527",
+        "categorie": "person"
+      },
+      {
+        "id": "5675",
+        "label": "格拉托尼",
+        "info": "属于人造人七宗罪之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/57/5675_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5675",
+        "categorie": "person"
+      },
+      {
+        "id": "6086",
+        "label": "莉莎·霍克艾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/e1/6086_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6086",
+        "categorie": "person"
+      },
+      {
+        "id": "6088",
+        "label": "亚历克斯·路易斯·阿姆斯壮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/bc/6088_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6088",
+        "categorie": "person"
+      },
+      {
+        "id": "6091",
+        "label": "恩维",
+        "info": "恩维，日本漫画家荒川弘著作的漫画《钢之炼金术师》中登场的虚拟人物，为“烧瓶小人”分离出的七种情绪中的嫉妒所制作的人造人，原型为七宗罪中的嫉妒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/e8/6091_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6091",
+        "categorie": "person"
+      },
+      {
+        "id": "6876",
+        "label": "冯·霍恩海姆",
+        "info": "被时间遗忘的炼金术师，爱德和阿尔的父亲。心中怀着深沉的过去离开自己所深爱的家人。当他看到自己所追寻的愿望时，却发现已失去与自己立下的重要约定和自己最珍惜的人。与黑暗势力有着深切的关系，并且知道一切内幕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/39/6876_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6876",
+        "categorie": "person"
+      },
+      {
+        "id": "8349",
+        "label": "マリア・ロス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/5c/8349_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8349",
+        "categorie": "person"
+      },
+      {
+        "id": "8350",
+        "label": "デニー・ブロッシュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/d7/8350_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8350",
+        "categorie": "person"
+      },
+      {
+        "id": "8351",
+        "label": "杰西卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/9a/8351_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8351",
+        "categorie": "person"
+      },
+      {
+        "id": "8354",
+        "label": "席古·卡迪斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6d/8354_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8354",
+        "categorie": "person"
+      },
+      {
+        "id": "8806",
+        "label": "瓦特·法尔曼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ee/8806_crt_3P6po.jpg",
+        "link": "https://bgm.tv/character/8806",
+        "categorie": "person"
+      },
+      {
+        "id": "11135",
+        "label": "约翰·哈博克",
+        "info": "阶级：少尉",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/89/11135_crt_I1h7B.jpg?r=1514638208",
+        "link": "https://bgm.tv/character/11135",
+        "categorie": "person"
+      },
+      {
+        "id": "11212",
+        "label": "海曼斯·普雷达",
+        "info": "阶级：少尉",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/be/11212_crt_DH4Z0.jpg",
+        "link": "https://bgm.tv/character/11212",
+        "categorie": "person"
+      },
+      {
+        "id": "21322",
+        "label": "罗赛",
+        "info": "リオールに住む少女。レト教の信者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ec/21322_crt_C2d4a.jpg?r=1534400139",
+        "link": "https://bgm.tv/character/21322",
+        "categorie": "person"
+      },
+      {
+        "id": "23558",
+        "label": "凯恩·菲利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/8c/23558_crt_gFxgX.jpg",
+        "link": "https://bgm.tv/character/23558",
+        "categorie": "person"
+      },
+      {
+        "id": "53148",
+        "label": "阿尔冯斯·海因里希",
+        "info": "ロケットの製作を夢見る17歳のドイツ人青年。金髪碧眼とアーリア人らしい特徴を持つが、その容貌はアルと瓜二つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/18/53148_crt_TaB35.jpg",
+        "link": "https://bgm.tv/character/53148",
+        "categorie": "person"
+      },
+      {
+        "id": "53149",
+        "label": "诺亚",
+        "info": "帰るべき祖国を持たず、各地を放浪して異端視される人々「ロマ」の少女。千里眼という能力（本作では「他人の心を読める能力」を指す）を持っているため、輪を掛けて異端視されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/3c/53149_crt_BmFPX.jpg",
+        "link": "https://bgm.tv/character/53149",
+        "categorie": "person"
+      },
+      {
+        "id": "53150",
+        "label": "狄特里希·埃卡特",
+        "info": "トゥーレ協会の会長を務める女性。魔術の研究を独自に進めており、体術にも長ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/2f/53150_crt_YMUV8.jpg",
+        "link": "https://bgm.tv/character/53150",
+        "categorie": "person"
+      },
+      {
+        "id": "59918",
+        "label": "拉斯",
+        "info": "03版的Wrath",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e1/59918_crt_m7t7H.jpg?r=1514751000",
+        "link": "https://bgm.tv/character/59918",
+        "categorie": "person"
+      },
+      {
+        "id": "59943",
+        "label": "卡尔·豪斯霍弗尔",
+        "info": "歴史上、実在した人物。本編最後に登場した他、劇場版にも登場する。ホーエンハイムを「博士」と呼び、トゥーレ教会にて錬金世界と現実世界を繋ぐ実験を行っている模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/29/59943_crt_nOuf5.jpg",
+        "link": "https://bgm.tv/character/59943",
+        "categorie": "person"
+      },
+      {
+        "id": "1969",
+        "label": "阿道夫·希特勒",
+        "info": "奥地利裔德籍政治家，演说家和军事统帅，国家社会主义德国工人党（纳粹党）党魁。1933年被任命为德国总理，1934年至1945年为德国元首，第二次世界大战期间兼任德国武装力量最高统帅。公认为二战的主要发动者与负责人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/85/1969_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1969",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

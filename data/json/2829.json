@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11130",
+        "label": "樱井雪乃",
+        "info": "高校2年級，游泳部。櫻井奏的雙生姐姐。平時有點呆滯，但學業成績優異。每天都要惹怒櫻井奏一次。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/21/11130_crt_X2w2f.jpg",
+        "link": "https://bgm.tv/character/11130",
+        "categorie": "person"
+      },
+      {
+        "id": "11131",
+        "label": "樱井奏",
+        "info": "高校2年級，美術部。櫻井雪乃的雙生妹妹。從小便對雪乃有着姐妹以上的曖昧情感。為了上學而來到東京，居住於學生宿舍。想入讀美術大學卻不想與雪乃分開，因此正在糾結中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ac/11131_crt_wZx6N.jpg",
+        "link": "https://bgm.tv/character/11131",
+        "categorie": "person"
+      },
+      {
+        "id": "14399",
+        "label": "神山咲夜",
+        "info": "高校1年生、水泳部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c8/14399_crt_SraVR.jpg",
+        "link": "https://bgm.tv/character/14399",
+        "categorie": "person"
+      },
+      {
+        "id": "14400",
+        "label": "樱井雫",
+        "info": "中学1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/ba/14400_crt_WoSuE.jpg",
+        "link": "https://bgm.tv/character/14400",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

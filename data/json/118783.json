@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35210",
+        "label": "犀川创平",
+        "info": "国立那古野大学工学部建筑学科准教授。对于事物的兴趣程度很极端，对于无必要且无兴趣的事情毫不关心。恩师的女儿、同时也是他学生的萌绘对他怀有好感，但本人却并不留意。虽然有着超群的头脑，却有着远离尘世的一面，不关心时尚。非常喜欢香烟和咖啡，讨厌西瓜、豆馅和黄豆粉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/52/35210_crt_k3m4A.jpg?r=1441041449",
+        "link": "https://bgm.tv/character/35210",
+        "categorie": "person"
+      },
+      {
+        "id": "35211",
+        "label": "西之园萌绘",
+        "info": "国立那古野大学工学部建筑学科1年生。引人注目的美少女，对犀川寄托着感情。父亲是犀川的恩师，那古野大学前校长。叔父是爱知县警部长，叔母是县知事夫人，可谓是超级大小姐。拥有优秀的洞察力和观察力，以及惊人的计算能力，但也有思考偶尔会飞跃到极端的这一特征。喜欢的东西是汽车引擎的声音以及推理小说。讨厌的东西是干香菇（不过由于相信它对于贫血有好处而每天忍耐着吃下去）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/a2/35211_crt_XV0BR.jpg?r=1441041239",
+        "link": "https://bgm.tv/character/35211",
+        "categorie": "person"
+      },
+      {
+        "id": "35212",
+        "label": "真贺田四季",
+        "info": "被评价为“人类中最接近神”的天才程序员。14岁时由于涉嫌杀害双亲而被逮捕，但被认定为当时处于精神失常状态而成为无罪。那以后，在位于孤岛·妃真加岛上的私立研究所中度过着被隔离的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/bd/35212_crt_8W6bb.jpg?r=1441041415",
+        "link": "https://bgm.tv/character/35212",
+        "categorie": "person"
+      },
+      {
+        "id": "35561",
+        "label": "进藤清二",
+        "info": "真賀田研究所の所長。四季の叔父にあたる。ヘリコプターの操縦が趣味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/55/35561_crt_cD0Xc.jpg",
+        "link": "https://bgm.tv/character/35561",
+        "categorie": "person"
+      },
+      {
+        "id": "35562",
+        "label": "进藤裕见子",
+        "info": "新藤清二の妻。四季の幼少期を知る人物。お菓子作りが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/99/35562_crt_5Ap4S.jpg",
+        "link": "https://bgm.tv/character/35562",
+        "categorie": "person"
+      },
+      {
+        "id": "35563",
+        "label": "山根幸宏",
+        "info": "真賀田研究所の副所長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/7d/35563_crt_I3Z7X.jpg",
+        "link": "https://bgm.tv/character/35563",
+        "categorie": "person"
+      },
+      {
+        "id": "35564",
+        "label": "弓永富彦",
+        "info": "真賀田研究所在住の医師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/c5/35564_crt_1I1fP.jpg",
+        "link": "https://bgm.tv/character/35564",
+        "categorie": "person"
+      },
+      {
+        "id": "35565",
+        "label": "水谷主税",
+        "info": "真賀田研究所所員。研究所創立時から在籍する数少ない所員の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/af/35565_crt_1eLEf.jpg",
+        "link": "https://bgm.tv/character/35565",
+        "categorie": "person"
+      },
+      {
+        "id": "35566",
+        "label": "岛田文子",
+        "info": "真賀田研究所所員。プログラマ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/34/35566_crt_8v55p.jpg",
+        "link": "https://bgm.tv/character/35566",
+        "categorie": "person"
+      },
+      {
+        "id": "35567",
+        "label": "望月俊树",
+        "info": "真賀田研究所の警備員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/be/35567_crt_lI7FF.jpg",
+        "link": "https://bgm.tv/character/35567",
+        "categorie": "person"
+      },
+      {
+        "id": "35568",
+        "label": "长谷部聪",
+        "info": "真賀田研究所の警備員。趣味はマリンバの演奏。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/56/35568_crt_1FY3G.jpg",
+        "link": "https://bgm.tv/character/35568",
+        "categorie": "person"
+      },
+      {
+        "id": "35569",
+        "label": "真贺田未来",
+        "info": "四季の妹。アメリカの親戚の元で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/15/35569_crt_B1wSo.jpg",
+        "link": "https://bgm.tv/character/35569",
+        "categorie": "person"
+      },
+      {
+        "id": "35570",
+        "label": "国枝桃子",
+        "info": "国立那古野大学工学部建築学科で犀川の講座の助教。中性的な外見でストレートな発言から、学生からは怖がられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/6b/35570_crt_dLHKO.jpg",
+        "link": "https://bgm.tv/character/35570",
+        "categorie": "person"
+      },
+      {
+        "id": "35571",
+        "label": "滨中深志",
+        "info": "国立那古野大学の学生。犀川研に所属。ゼミ旅行の幹事を任され、思いがけず真賀田研究所のある妃真賀島でキャンプをすることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/b6/35571_crt_wVS9t.jpg",
+        "link": "https://bgm.tv/character/35571",
+        "categorie": "person"
+      },
+      {
+        "id": "35572",
+        "label": "仪同世津子",
+        "info": "雑誌の記者。色白の美女。犀川があんこを嫌いなことを知っていたり、「創平君」と呼ぶなど、犀川とは親しい間柄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/5d/35572_crt_KsSv9.jpg",
+        "link": "https://bgm.tv/character/35572",
+        "categorie": "person"
+      },
+      {
+        "id": "35573",
+        "label": "诹访野",
+        "info": "西之園家に長年仕える執事。萌絵の身の回りの世話をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/cb/35573_crt_b5Plp.jpg",
+        "link": "https://bgm.tv/character/35573",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

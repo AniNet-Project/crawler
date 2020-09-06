@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7",
+        "label": "藤林杏",
+        "info": "主人公と同じ学校の３年生。口が悪くおおざっぱな性格をしているけど、面倒見のいい女の子。隣のクラスで委員長をしている。２年の時は、主人公と同じクラスだった。内緒で校則違反となるバイク通学中。おとなしい妹の椋とはちがい、活発なキャラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/93/7_crt_k8abL.jpg",
+        "link": "https://bgm.tv/character/7",
+        "categorie": "person"
+      },
+      {
+        "id": "1007",
+        "label": "冈崎朋也",
+        "info": "故事的主人公。作为不良少年而为全校闻名的高三学生，经常迟到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/2b/1007_crt_ZLqlZ.jpg",
+        "link": "https://bgm.tv/character/1007",
+        "categorie": "person"
+      },
+      {
+        "id": "1013",
+        "label": "藤林椋",
+        "info": "藤林杏的双胞胎妹妹，就读某高中3年D班，朋也班上的班长。和姊姊相反，个性稳重较内向，不太擅长料理。兴趣是进行占卜。最常使用的占卜用具是扑克牌，但她用扑克牌进行占卜结果却不知为何绝对和真正的结果相反，因此意外的成为了另一种准确的指标，每日都有人排队找她占卜。从游戏剧情展开前就暗恋朋也，这一点也是受姐姐杏的影响。志向是成为一名护士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/95/1013_crt_Rpy01.jpg",
+        "link": "https://bgm.tv/character/1013",
+        "categorie": "person"
+      },
+      {
+        "id": "1014",
+        "label": "春原阳平",
+        "info": "爱逞能、好色，本作的搞笑角色。作为体育推荐生入学，而后又因为一些原因被迫退出了足球部。自那以后就一直过着懒散的生活。与和他境况相似的朋也是挚友……虽然他是这么认为的，（事实上他被朋也像奴仆一样的对待）是个内心很阳光的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/08/1014_crt_HO05Z.jpg?r=1499737306",
+        "link": "https://bgm.tv/character/1014",
+        "categorie": "person"
+      },
+      {
+        "id": "41985",
+        "label": "牡丹",
+        "info": "Clannad动漫和游戏中藤林杏的宠物，被冈崎朋也认为是小野猪。对任何人都有极高的亲进度，但死活不愿意跟藤林杏的妹妹藤林椋在一起，原因只是因为一次藤林椋给牡丹洗澡时水温调高了，牡丹以为藤林椋要煮了它……",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/50/41985_crt_WUbxQ.jpg",
+        "link": "https://bgm.tv/character/41985",
+        "categorie": "person"
+      },
+      {
+        "id": "4",
+        "label": "古河渚",
+        "info": "就读某高中的3年B班，比朋也大一岁，因为久病重读一年，对于将面对新的环境而在往校门前的坡道上不敢前行，也因此和朋也相遇并熟识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/cf/4_crt_f11eW.jpg?r=1560006952",
+        "link": "https://bgm.tv/character/4",
+        "categorie": "person"
+      },
+      {
+        "id": "6",
+        "label": "伊吹风子",
+        "info": "独自在旧校舍的空教室里不断地雕刻着木片做的海星的古怪的女孩。性情虽然十分孩子气，但却好像一直认为自己具备了“成人的风格”。她有一个比她年长不少的姐姐，在那木片之中，饱含了风子对她姐姐的深情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8f/6_crt_FsUsI.jpg",
+        "link": "https://bgm.tv/character/6",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

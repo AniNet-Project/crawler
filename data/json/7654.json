@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27052",
+        "label": "炎魔",
+        "info": "摆脱了黑暗的“魔术师”来到人类世界的侦探，是阎魔大王的侄子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/8d/27052_crt_p11SK.jpg?r=1412013473",
+        "link": "https://bgm.tv/character/27052",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

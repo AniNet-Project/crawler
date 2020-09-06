@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8879",
+        "label": "热气·巴萨拉",
+        "info": "マクロス 7男主角，吉他手，是乐团Fire Bomber的主唱之一。初登场时21岁，擅长驾驶Valkyrie，并且试图用歌声来感动巴洛塔人（又译为“原始恶魔”），座机为VF-19改热气巴萨拉专用机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/8d/8879_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8879",
+        "categorie": "person"
+      },
+      {
+        "id": "11192",
+        "label": "米莲·吉纳斯",
+        "info": "マクロス 7女主角，担任贝斯手，也是乐团Fire Bomber的主唱之一。生于 2031 年，初登场时14岁，是地球人（麦克斯.吉纳斯）舰长与杰特拉帝人（米莉亚.法莉娜.吉纳斯）市长所生的第七个孩子；个性完全遗传至她的母亲米莉亚，常跟巴萨拉吵架，也似乎因为父母都是天才驾驶员对驾驶Valkyrie也很有一套。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/d6/11192_crt_G5oLV.jpg",
+        "link": "https://bgm.tv/character/11192",
+        "categorie": "person"
+      },
+      {
+        "id": "55948",
+        "label": "エルマ・ホイリー",
+        "info": "父グラハムと暮らす陽気なゾラ人の少女。亡き母マリア・ベラスケス・ホイリーのような歌手になることを志望しており、偶然出会ったバサラに弟子入り志願する。共生するキャットスネーキーの名前はキャピー。水陸両用のオート三輪車に乗り、カラオケ番組でバサラの歌をゾラ語で歌うことを日課としている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f6/55948_crt_M9m4E.jpg",
+        "link": "https://bgm.tv/character/55948",
+        "categorie": "person"
+      },
+      {
+        "id": "11190",
+        "label": "Fire Bomber",
+        "info": "　　FIRE BOMBER，是出现在超时空要塞MACROSS系列1994年的TV作品《マクロス 7》（MACROSS7，超时空要塞7），剧场版《マクロス 7 银河がオレを呼んでいる!》（超时空要塞7剧场版）及OVA作品《Macross Dynamite 7》（通译《超时空要塞7 宇宙鲸鱼》）中的一支流行乐队",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/29/11190_crt_8z48R.jpg",
+        "link": "https://bgm.tv/character/11190",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9396",
+        "label": "夏侯惇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/f9/9396_crt_TR8yp.jpg",
+        "link": "https://bgm.tv/character/9396",
+        "categorie": "person"
+      },
+      {
+        "id": "9397",
+        "label": "曹仁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/f4/9397_crt_RVKRQ.jpg",
+        "link": "https://bgm.tv/character/9397",
+        "categorie": "person"
+      },
+      {
+        "id": "9398",
+        "label": "曹洪",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9398",
+        "categorie": "person"
+      },
+      {
+        "id": "9399",
+        "label": "白蓮",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9399",
+        "categorie": "person"
+      },
+      {
+        "id": "9400",
+        "label": "卞玲瓏",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9400",
+        "categorie": "person"
+      },
+      {
+        "id": "9405",
+        "label": "許褚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/f8/9405_crt_7fDFK.jpg",
+        "link": "https://bgm.tv/character/9405",
+        "categorie": "person"
+      },
+      {
+        "id": "9404",
+        "label": "曹丕",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9404",
+        "categorie": "person"
+      },
+      {
+        "id": "9414",
+        "label": "張譲",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9414",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7201",
+        "label": "野原新之助",
+        "info": "野原新之助是日本漫画家臼井仪人的漫画作品《蜡笔小新》中的主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/8f/7201_crt_RwG32.jpg",
+        "link": "https://bgm.tv/character/7201",
+        "categorie": "person"
+      },
+      {
+        "id": "7203",
+        "label": "野原美冴",
+        "info": "野原美冴（のはら みさえ）是臼井仪人的漫画作品‘蜡笔小新’中登场的一个虚构角色。动画版声优为ならはしみき。是主角野原新之助的母亲。熊本县アソ市出身（现实中在2005年市町村合并后，熊本县有一个阿苏市，但美冴出生时并没有名阿苏市（アソ市）的自治体）出身。29岁。专业主妇（曾经在超市打过一天工，但因无法忍受上司的恶劣态度辞职）。在原作中是10月10日生，不过在动画版中变为9月21日生。星座天秤座。母为小山ひさえ、父为小山よし治。还有一姐真冴及妹妹丽冴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/73/7203_crt_D011r.jpg",
+        "link": "https://bgm.tv/character/7203",
+        "categorie": "person"
+      },
+      {
+        "id": "7205",
+        "label": "野原广志",
+        "info": "野原广志（日语：のはら ひろし），臼井仪人的漫画《蜡笔小新》中登场的虚构人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/ae/7205_crt_iX1mX.jpg",
+        "link": "https://bgm.tv/character/7205",
+        "categorie": "person"
+      },
+      {
+        "id": "7207",
+        "label": "野原向日葵",
+        "info": "野原向日葵（日语：野原ひまわり，平假名：のはら ひまわり）是臼井仪人的漫画作品《蜡笔小新》中的人物。是该漫画主角野原新之助的妹妹。TV版配音演员是兴梠里美。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/18/7207_crt_99p3q.jpg",
+        "link": "https://bgm.tv/character/7207",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10599",
+        "label": "熊吉",
+        "info": "《名侦探兔美》篇的登场角色，是个变态痴汉，总是骚扰喵美。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c5/10599_crt_RFf0B.jpg",
+        "link": "https://bgm.tv/character/10599",
+        "categorie": "person"
+      },
+      {
+        "id": "10601",
+        "label": "兔美",
+        "info": "《名侦探兔美》篇的主角，在有灵感的时候目光会变得犀利起来，这是兔美灵感泉涌的表现，因为这个特征，兔美还有一个外号叫做“杀人眼光兔美”（兔美的眼光好差），从来没有犯人能逃过这个眼光。紧接着兔美酱就会出现名推理（但其实这些都是熊吉的台词）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/23/10601_crt_k6O8O.jpg?r=1438598857",
+        "link": "https://bgm.tv/character/10601",
+        "categorie": "person"
+      },
+      {
+        "id": "10613",
+        "label": "河合曾良",
+        "info": "松尾芭蕉的弟子，平日道貌岸然，然而对待老师芭蕉十分凶残，具有S倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/fa/10613_crt_8RhWs.jpg",
+        "link": "https://bgm.tv/character/10613",
+        "categorie": "person"
+      },
+      {
+        "id": "10617",
+        "label": "松尾芭蕉",
+        "info": "日本历史上有名的俳圣，曾良的老师，常被曾良欺压，却又离不开他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/f8/10617_crt_MG2Bv.jpg",
+        "link": "https://bgm.tv/character/10617",
+        "categorie": "person"
+      },
+      {
+        "id": "10605",
+        "label": "平田平男",
+        "info": "第三季第一集《平田の世界》的主角，某一天突然意识到自己是漫画里的角色，一旦接受了这个设定的话……",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ed/10605_crt_HsgF2.jpg",
+        "link": "https://bgm.tv/character/10605",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

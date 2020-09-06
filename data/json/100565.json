@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24165",
+        "label": "功夫兔",
+        "info": "主人笔下诞生的兔子，将主人的房间视为自己的游乐场，是主人和菜包狗最头疼的对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/ef/24165_crt_ZGJTc.jpg",
+        "link": "https://bgm.tv/character/24165",
+        "categorie": "person"
+      },
+      {
+        "id": "24166",
+        "label": "菜包狗",
+        "info": "主人笔下诞生的狗，守护主人，完成任务是他的生存信条，虽然在抓兔子的行动中一次次被打败，但是屡败屡战，永不放弃！",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/84/24166_crt_HHFH8.jpg",
+        "link": "https://bgm.tv/character/24166",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

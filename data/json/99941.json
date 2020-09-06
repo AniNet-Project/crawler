@@ -1,0 +1,541 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9530",
+        "label": "塞尔提·史特路尔森",
+        "info": "デュラララ!!の主人公。「首なしライダー」と呼ばれる、池袋の生きた都市伝説。その正体はデュラハンと呼ばれる欧州（アイルランド）の妖精の一種で、性別は女性。服装から男性と誤解されるが、ファッションモデルのようなスタイルを持つ。一部を除く周りの人には化け物扱いされる。岸谷新羅には一女性として愛されている。最も常識外れなその存在に反して、極めて常識的な性格。また、お人よしで面倒見がいい一面もある。趣味はネットとテレビとDVD鑑賞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/19/9530_crt_kxKpN.jpg",
+        "link": "https://bgm.tv/character/9530",
+        "categorie": "person"
+      },
+      {
+        "id": "10936",
+        "label": "龙峰帝人",
+        "info": "第一部の狂言回し的存在。非日常に憧れを抱く男子高校生。一見平凡な人間で、普段は内向的な性格だが、それゆえ非日常の刺激に対して渇望とも言える深い欲求を抱いている。危機的状況下に際して無意識に笑みを浮かべることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/cf/10936_crt_q481L.jpg",
+        "link": "https://bgm.tv/character/10936",
+        "categorie": "person"
+      },
+      {
+        "id": "9531",
+        "label": "纪田正臣",
+        "info": "居住在日本池袋的少年，是竜之峰帝人的小学同学。他邀请帝人来池袋一起读高中。就读于来良学院。兴趣是搞笑，但通常都是冷笑话。对池袋十分熟悉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/60/9531_crt_PE7Bk.jpg",
+        "link": "https://bgm.tv/character/9531",
+        "categorie": "person"
+      },
+      {
+        "id": "10996",
+        "label": "园原杏里",
+        "info": "帝人のクラスメイト。眼鏡をかけた地味な風貌だが、どこか浮世離れした美少女で、来良学園でベスト3に入る巨乳の持ち主。加えて成績優秀で、体育も含め通知票はオール10。両親はおらず、一人暮らしをしている。料理は全く出来ないらしく、料理の点数は30点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/ee/10996_crt_Ku3MH.jpg",
+        "link": "https://bgm.tv/character/10996",
+        "categorie": "person"
+      },
+      {
+        "id": "10630",
+        "label": "折原临也",
+        "info": "新宿を拠点に活動する有力な情報屋。本編の多くの事件の黒幕的存在。眉目秀麗という言葉を具現化したような痩身の美青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/dd/10630_crt_7dhvq.jpg",
+        "link": "https://bgm.tv/character/10630",
+        "categorie": "person"
+      },
+      {
+        "id": "10631",
+        "label": "平和岛静雄",
+        "info": "常時バーテン服にサングラスがトレードマークの金髪の青年。「池袋最強の男」「絶対に喧嘩を売ってはいけない人間」「池袋の自動喧嘩人形」と呼ばれ数多の伝説を持ち、“池袋で絶対に敵に回してはいけない人間”として、彼を知るあらゆる人物・勢力から恐れられている。常時バーテン服なのは、過去にバーテンダーのバイトをしていた際に弟が「今度こそ辞めないように」と20着もバーテン服を送ってきたため。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/19/10631_crt_8s768.jpg",
+        "link": "https://bgm.tv/character/10631",
+        "categorie": "person"
+      },
+      {
+        "id": "9532",
+        "label": "岸谷新罗",
+        "info": "池袋に居を構える闇医者（もぐりの医者）。セルティと同棲している。眼鏡を着用し、白衣姿でインドア派。住むマンションの真下の部屋には「相模原」という人物が住む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1f/9532_crt_V8QuZ.jpg",
+        "link": "https://bgm.tv/character/9532",
+        "categorie": "person"
+      },
+      {
+        "id": "11602",
+        "label": "门田京平",
+        "info": "昵称“小田田”，命名者是折原临也，虽然不喜欢这个昵称，但是周遭的人却无法停止“小田田”这种叫法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/35/11602_crt_S6GQ5.jpg",
+        "link": "https://bgm.tv/character/11602",
+        "categorie": "person"
+      },
+      {
+        "id": "10356",
+        "label": "游马崎沃克",
+        "info": "曾和门田他们一样隶属蓝色平方，现在则是DOLLARS的一员。门田京平等人的朋友，与门田京平、狩沢绘理华、渡草三郎四个人常常一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/48/10356_crt_5zoD3.jpg",
+        "link": "https://bgm.tv/character/10356",
+        "categorie": "person"
+      },
+      {
+        "id": "11603",
+        "label": "狩泽绘理华",
+        "info": "“DOLLARS”的一员。热爱电击文库，御宅族两人组之一。将所有自己看不顺眼的东西都视为“非现实”，会轻易做出一般人无法做出的事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/28/11603_crt_pwWpH.jpg",
+        "link": "https://bgm.tv/character/11603",
+        "categorie": "person"
+      },
+      {
+        "id": "26613",
+        "label": "渡草三郎",
+        "info": "喜欢的食物：拉面",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/42/26613_crt_eY8Y0.jpg",
+        "link": "https://bgm.tv/character/26613",
+        "categorie": "person"
+      },
+      {
+        "id": "28262",
+        "label": "黑沼青叶",
+        "info": "新入生として来良学園に入学してきた少年。九瑠璃のクラスメイト。「ダラーズ」の一員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/2c/28262_crt_4W6J6.jpg",
+        "link": "https://bgm.tv/character/28262",
+        "categorie": "person"
+      },
+      {
+        "id": "28329",
+        "label": "梵萝娜",
+        "info": "便利屋を営む謎のロシア美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f7/28329_crt_d17Mw.jpg",
+        "link": "https://bgm.tv/character/28329",
+        "categorie": "person"
+      },
+      {
+        "id": "28332",
+        "label": "六条千景",
+        "info": "埼玉の暴走族“To羅丸”総長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/35/28332_crt_UwG5U.jpg",
+        "link": "https://bgm.tv/character/28332",
+        "categorie": "person"
+      },
+      {
+        "id": "28335",
+        "label": "赤林海月",
+        "info": "目出井組系粟楠会の幹部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/d2/28335_crt_jh155.jpg",
+        "link": "https://bgm.tv/character/28335",
+        "categorie": "person"
+      },
+      {
+        "id": "28337",
+        "label": "折原九琉璃",
+        "info": "来良学園の新入生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ca/28337_crt_ri676.jpg",
+        "link": "https://bgm.tv/character/28337",
+        "categorie": "person"
+      },
+      {
+        "id": "28338",
+        "label": "折原舞流",
+        "info": "来良学園の新入生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/1c/28338_crt_Y0ewy.jpg",
+        "link": "https://bgm.tv/character/28338",
+        "categorie": "person"
+      },
+      {
+        "id": "11066",
+        "label": "平和岛幽",
+        "info": "好物は自家製カレーライス、プリン、乳製品など。捨てるタイミングがわからないためにガムを嫌っている。猫派。噂だけで人を決めつける人が嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/9e/11066_crt_y4ydq.jpg",
+        "link": "https://bgm.tv/character/11066",
+        "categorie": "person"
+      },
+      {
+        "id": "11067",
+        "label": "圣边琉璃",
+        "info": "好物はレバ刺しや鉄分の多いもの。ニンニク料理が嫌い。猫派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/11/11067_crt_Ax4nc.jpg",
+        "link": "https://bgm.tv/character/11067",
+        "categorie": "person"
+      },
+      {
+        "id": "25864",
+        "label": "岸谷森严",
+        "info": "岸谷新罗的父亲，平时总是带着防毒面具，穿着研究员袍。热衷于研究各种奇怪的东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/fe/25864_crt_m2fzr.jpg",
+        "link": "https://bgm.tv/character/25864",
+        "categorie": "person"
+      },
+      {
+        "id": "24930",
+        "label": "矢雾诚二",
+        "info": "位于池袋的矢雾制药公司的社长的侄子。从小爱着赛尔提的‘头颅’。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/21/24930_crt_JC2Sb.jpg",
+        "link": "https://bgm.tv/character/24930",
+        "categorie": "person"
+      },
+      {
+        "id": "10354",
+        "label": "矢雾波江",
+        "info": "帝人的同班同学－矢雾 诚二的姐姐。对自己的弟弟有着扭曲的爱意。冷酷的女强人，除了弟弟不管他人死活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7f/10354_crt_1Jz0C.jpg",
+        "link": "https://bgm.tv/character/10354",
+        "categorie": "person"
+      },
+      {
+        "id": "25860",
+        "label": "张间美香",
+        "info": "成绩优秀，家世有钱，现在与帝人、杏里是同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/22/25860_crt_tz121.jpg",
+        "link": "https://bgm.tv/character/25860",
+        "categorie": "person"
+      },
+      {
+        "id": "25859",
+        "label": "三岛沙树",
+        "info": "纪田正臣的女友。监护人为折原临也。是折原临也的信徒一样的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a4/25859_crt_22crF.jpg",
+        "link": "https://bgm.tv/character/25859",
+        "categorie": "person"
+      },
+      {
+        "id": "25861",
+        "label": "田中汤姆",
+        "info": "静雄的上司，本作少数可以跟静雄和平相处的人之一，曾经是静雄中学的前辈，在静雄中学的时候帮助过静雄摆脱受“暴力”困扰的生活。目前一直和静雄一起行动，四处讨债。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0a/25861_crt_33uDz.jpg",
+        "link": "https://bgm.tv/character/25861",
+        "categorie": "person"
+      },
+      {
+        "id": "25869",
+        "label": "四木春也",
+        "info": "黑社会组织粟楠会中的一名干部。在粟楠会年纪轻轻就当上了干部实际执行事务，跟临也、新罗、塞尔提进行事务联系和委托的人。平时是个严肃冷静的人，有着细长凌厉的双眼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b4/25869_crt_fsOiO.jpg",
+        "link": "https://bgm.tv/character/25869",
+        "categorie": "person"
+      },
+      {
+        "id": "25863",
+        "label": "葛原金之助",
+        "info": "为了与塞尔提对抗而特地请来的交警探员，是个经常因为把人逼得太紧而被警告的问题警官。动漫第十三话中带了十辆左右的交警摩托和警车，把塞尔提逼到角落，自称是“强大的存在”，对塞尔提宣言“怪物，别小看交通警察”，被塞尔提称为“好可怕，最近的警察真是怪物啊，是我自大了，我以后会老老实实的，对不起对不起对不起……”敢于在赛尔提伸出的影子上开车。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/44/25863_crt_Q6QXh.jpg",
+        "link": "https://bgm.tv/character/25863",
+        "categorie": "person"
+      },
+      {
+        "id": "10355",
+        "label": "赛门·布里兹涅夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/2e/10355_crt_iGb7Y.jpg",
+        "link": "https://bgm.tv/character/10355",
+        "categorie": "person"
+      },
+      {
+        "id": "28341",
+        "label": "Max Sandshelt",
+        "info": "幽の所属事務所“ジャックランタン・ジャパン”社長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/fd/28341_crt_VVoBm.jpg",
+        "link": "https://bgm.tv/character/28341",
+        "categorie": "person"
+      },
+      {
+        "id": "28342",
+        "label": "粟楠茜",
+        "info": "目出井组系粟楠会的少主・干弥的女儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/2c/28342_crt_cGgc6.jpg",
+        "link": "https://bgm.tv/character/28342",
+        "categorie": "person"
+      },
+      {
+        "id": "28343",
+        "label": "粟楠干弥",
+        "info": "目出井組系粟楠会の若頭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/da/28343_crt_kA5DN.jpg",
+        "link": "https://bgm.tv/character/28343",
+        "categorie": "person"
+      },
+      {
+        "id": "28344",
+        "label": "粟楠道元",
+        "info": "目出井組系粟楠会の会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/86/28344_crt_0yU12.jpg",
+        "link": "https://bgm.tv/character/28344",
+        "categorie": "person"
+      },
+      {
+        "id": "28345",
+        "label": "叶戈尔",
+        "info": "「哲学する殺人機械」と称される、ロシアから来た殺し屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f5/28345_crt_Y44wy.jpg",
+        "link": "https://bgm.tv/character/28345",
+        "categorie": "person"
+      },
+      {
+        "id": "28346",
+        "label": "史隆",
+        "info": "ヴァローナと行動をともにする大男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/77/28346_crt_NBVbI.jpg",
+        "link": "https://bgm.tv/character/28346",
+        "categorie": "person"
+      },
+      {
+        "id": "28347",
+        "label": "艾蜜莉亚",
+        "info": "森厳の再婚相手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/d1/28347_crt_6M6s8.jpg",
+        "link": "https://bgm.tv/character/28347",
+        "categorie": "person"
+      },
+      {
+        "id": "28348",
+        "label": "青崎柊",
+        "info": "目出井組系粟楠会の幹部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/18/28348_crt_Kk7kF.jpg",
+        "link": "https://bgm.tv/character/28348",
+        "categorie": "person"
+      },
+      {
+        "id": "58689",
+        "label": "福见",
+        "info": "小説：4巻、アニメ：承1話。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58689",
+        "categorie": "person"
+      },
+      {
+        "id": "58690",
+        "label": "ヨシキリ",
+        "info": "ブルースクウェアの中で一二を争う猛者。「殺す」が口癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b8/58690_crt_MlvHH.jpg",
+        "link": "https://bgm.tv/character/58690",
+        "categorie": "person"
+      },
+      {
+        "id": "58691",
+        "label": "月山",
+        "info": "小説：4巻、アニメ：承2話。声：巽悠衣子",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58691",
+        "categorie": "person"
+      },
+      {
+        "id": "51266",
+        "label": "丹尼斯",
+        "info": "俄罗斯籍白人，“露西亚”寿司店的店长，原前苏联特殊部队成员，白刃战专家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e0/51266_crt_q2VD7.jpg?r=1486750778",
+        "link": "https://bgm.tv/character/51266",
+        "categorie": "person"
+      },
+      {
+        "id": "58692",
+        "label": "唯我独尊丸",
+        "info": "平和島幽の飼い猫。スコティッシュフォールドの子猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/0c/58692_crt_H5Woz.jpg",
+        "link": "https://bgm.tv/character/58692",
+        "categorie": "person"
+      },
+      {
+        "id": "58693",
+        "label": "风本隆秋",
+        "info": "粟楠会幹部。組織内ではインサイダー取引等を担当。聖辺ルリのファン。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58693",
+        "categorie": "person"
+      },
+      {
+        "id": "58694",
+        "label": "猫",
+        "info": "Blue Square的成员。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58694",
+        "categorie": "person"
+      },
+      {
+        "id": "58695",
+        "label": "ノン",
+        "info": "六条千景の彼女のひとり。神近莉緒の中学時代の友人。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58695",
+        "categorie": "person"
+      },
+      {
+        "id": "58723",
+        "label": "カナ",
+        "info": "六条千景的女友之一。动画第二季第5话、第26话登场。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58723",
+        "categorie": "person"
+      },
+      {
+        "id": "58724",
+        "label": "キヨミン",
+        "info": "六条千景的女友之一。动画第二季第5话、第26话登场。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58724",
+        "categorie": "person"
+      },
+      {
+        "id": "58725",
+        "label": "マナカ",
+        "info": "六条千景的女友之一。动画第二季第5话、第26话登场。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58725",
+        "categorie": "person"
+      },
+      {
+        "id": "34851",
+        "label": "淀切阵内",
+        "info": "表向きは芸能事務所「澱切シャイニング・コーポレーション」の社長だが、その実態は芸能事務所を隠れ蓑にして人間、そして妖精・妖怪などの人ならざる「異形」の存在を売買するブローカー。また、業界内での表の評判も悪いものであった。会う人間ごとに、顔も声も全くの別人となっている謎の人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/b9/34851_crt_KtY9K.jpg?r=1438947520",
+        "link": "https://bgm.tv/character/34851",
+        "categorie": "person"
+      },
+      {
+        "id": "58717",
+        "label": "リンギーリン・ドグラニコフ",
+        "info": "サイモンらがかつて所属していた武器商社の社長。40歳前後の白人の男。大雑把な性格で細かいことはあまり考えず、ヴァローナ達が商社を裏切ったことも特に気にしていない。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58717",
+        "categorie": "person"
+      },
+      {
+        "id": "58696",
+        "label": "ドラコン",
+        "info": "武器商社の副社長でヴァローナの父。システマ（格闘技）の熟練者。「ドラコン（竜）」はコードネームで本名は不明。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58696",
+        "categorie": "person"
+      },
+      {
+        "id": "58697",
+        "label": "ミツクリ",
+        "info": "Blue Square的成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/c7/58697_crt_rHHVH.jpg",
+        "link": "https://bgm.tv/character/58697",
+        "categorie": "person"
+      },
+      {
+        "id": "58698",
+        "label": "ニタリ兄",
+        "info": "蓝色平方的成员。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58698",
+        "categorie": "person"
+      },
+      {
+        "id": "58699",
+        "label": "ニタリ弟",
+        "info": "Blue Square的成员。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58699",
+        "categorie": "person"
+      },
+      {
+        "id": "58700",
+        "label": "ギン",
+        "info": "Blue Square的成员。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58700",
+        "categorie": "person"
+      },
+      {
+        "id": "38229",
+        "label": "神近莉绪",
+        "info": "来良学园1年B班学生，入学第二年后与杏里同班。动画原创角色，后逆输入小说原作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/cf/38229_crt_e77aA.jpg?r=1486750789",
+        "link": "https://bgm.tv/character/38229",
+        "categorie": "person"
+      },
+      {
+        "id": "58701",
+        "label": "浅沼",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c3/58701_crt_uw3m3.jpg",
+        "link": "https://bgm.tv/character/58701",
+        "categorie": "person"
+      },
+      {
+        "id": "58703",
+        "label": "森田",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/f4/58703_crt_mfuVy.jpg",
+        "link": "https://bgm.tv/character/58703",
+        "categorie": "person"
+      },
+      {
+        "id": "58705",
+        "label": "金泽",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/9e/58705_crt_MbFpr.jpg",
+        "link": "https://bgm.tv/character/58705",
+        "categorie": "person"
+      },
+      {
+        "id": "58707",
+        "label": "ヒロシ",
+        "info": "アニメ1期3話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/ac/58707_crt_pA9m2.jpg?r=1508701199",
+        "link": "https://bgm.tv/character/58707",
+        "categorie": "person"
+      },
+      {
+        "id": "41614",
+        "label": "奈仓",
+        "info": "临也与新罗的同级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/f1/41614_crt_8S80s.jpg?r=1463056054",
+        "link": "https://bgm.tv/character/41614",
+        "categorie": "person"
+      },
+      {
+        "id": "10745",
+        "label": "DOLLARS",
+        "info": "DOLLARS没有规则，没有拘束。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/76/10745_crt_yHgc2.jpg",
+        "link": "https://bgm.tv/character/10745",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "3578",
+        "label": "月咏小萌",
+        "info": "上条的班导（所教的科目是化学）。外表怎么看都是个小学生（身高135厘米），实际是二十岁以上、早已大学毕业的成人，被誉为学院都市七大不可思议事件之一。喜欢抽烟喝酒，被黄泉川称为“堆积如山的人体烟灰缸”，酒量非常好，能轻松饮最少5升的酒。主要教授的科目是化学，喜欢照顾别人，兴趣是保护离家出走的少女，因本人精通社会心理学、环境心理学、行动心理学及交通心理学，所以经常出现在离家出走的少女的场所，找到离家出走的少女就会去帮助。一般的车脚踩不到油门和煞车，只能开残障者用车。非常喜欢教导学生，失去教学机会时会相当难过。上条曰：“越看到坏孩子就越开心”。经常和黄泉川和铁装一起去澡堂以及去酒会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/ff/3578_crt_7kULQ.jpg?r=1582964037",
+        "link": "https://bgm.tv/character/3578",
+        "categorie": "person"
+      },
+      {
+        "id": "21646",
+        "label": "司波深雪",
+        "info": "本作的女主角，主角司波达也的亲妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/8b/21646_crt_kL02o.jpg",
+        "link": "https://bgm.tv/character/21646",
+        "categorie": "person"
+      },
+      {
+        "id": "22029",
+        "label": "羽佐间正义",
+        "info": "男性ファッション誌のモデルをしている青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/93/22029_crt_bZQyG.jpg",
+        "link": "https://bgm.tv/character/22029",
+        "categorie": "person"
+      },
+      {
+        "id": "22030",
+        "label": "后藤英德",
+        "info": "交番勤務の警察官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/1a/22030_crt_J5sSe.jpg?r=1404910911",
+        "link": "https://bgm.tv/character/22030",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

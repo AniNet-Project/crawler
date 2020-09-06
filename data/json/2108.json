@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3096",
+        "label": "根岸崇一/约翰内斯·克劳萨二世",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/1a/3096_crt_PMn88.jpg?r=1516389683",
+        "link": "https://bgm.tv/character/3096",
+        "categorie": "person"
+      },
+      {
+        "id": "7785",
+        "label": "相川由利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/fd/7785_crt_fbhXx.jpg",
+        "link": "https://bgm.tv/character/7785",
+        "categorie": "person"
+      },
+      {
+        "id": "7788",
+        "label": "カミュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/6c/7788_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7788",
+        "categorie": "person"
+      },
+      {
+        "id": "7789",
+        "label": "アレキサンダー・ジャギ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/97/7789_crt_IsRkv.jpg",
+        "link": "https://bgm.tv/character/7789",
+        "categorie": "person"
+      },
+      {
+        "id": "7791",
+        "label": "デスレコーズ社長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/24/7791_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7791",
+        "categorie": "person"
+      },
+      {
+        "id": "59589",
+        "label": "梨元圭介",
+        "info": "デスレコーズに雇われたライブ時のサポートメンバー。鳥取県出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/3c/59589_crt_yg4Yz.jpg",
+        "link": "https://bgm.tv/character/59589",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

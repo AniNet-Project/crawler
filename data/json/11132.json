@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6867",
+        "label": "羽丘芽美",
+        "info": "神秘的「圣少女」名叫羽丘芽美。她是位个性活泼开朗、很有主见的女孩,就读圣波利亚学院的二年级。每当芽美听了她的好友——见习修女圣泉叙边那些来教堂祈求上帝帮助的人们的遭遇后,就会在夜晚变为「圣少女」来帮助解救这些人。「圣少女」借着各种千奇百怪的魔法,每一次都顺利的完成任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/d7/6867_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6867",
+        "categorie": "person"
+      },
+      {
+        "id": "14027",
+        "label": "飞鸟大贵/飞鸟二世",
+        "info": "飞鸟二世是《圣少女》的男主角，因为他的爸爸是一个警察所以他也很想当一名好警察，并立志抓住圣少女但他并不知道一直和自己斗嘴的比丘芽美就是圣少女因为尽管为了抓住圣少女他费尽心机可没次还是无功而返。其实内心常常会因为太在乎芽美而吃醋导致自己胡言乱语，他心里暗暗地喜欢羽丘芽美。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/61/14027_crt_dsLvl.jpg",
+        "link": "https://bgm.tv/character/14027",
+        "categorie": "person"
+      },
+      {
+        "id": "62396",
+        "label": "佐渡真人",
+        "info": "佐渡真人长的很帅，所以在学校很受女生们的欢迎，而他也因此觉得很自豪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/cc/62396_crt_OaSOm.jpg",
+        "link": "https://bgm.tv/character/62396",
+        "categorie": "person"
+      },
+      {
+        "id": "62397",
+        "label": "深森圣良",
+        "info": "圣良是芽美的同班同学，也是芽美的好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/16/62397_crt_Ar7w3.jpg?r=1587733404",
+        "link": "https://bgm.tv/character/62397",
+        "categorie": "person"
+      },
+      {
+        "id": "62398",
+        "label": "高宫丽娜",
+        "info": "芽美達のクラスにやって来た転校生。聖華市長の姪。将来の夢は婦人警官。アスカJr.とはゲーセンで出会って以来の縁でアスカJr.に想いを寄せる芽美の恋敵。アスカJr.よりも背が高く、モデル並みの抜群のプロポーションを誇る。正義感が強く大胆な性格で、思ったことはズケズケ言うタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/22/62398_crt_PJZjW.jpg",
+        "link": "https://bgm.tv/character/62398",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

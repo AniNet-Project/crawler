@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1961",
+        "label": "鸭儿",
+        "info": "元気で明るい。が、忘れっぽくて早とちり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/a6/1961_crt_H55Qm.jpg?r=1401283753",
+        "link": "https://bgm.tv/character/1961",
+        "categorie": "person"
+      },
+      {
+        "id": "1962",
+        "label": "法基亚",
+        "info": "普段冷静だが、カッとなると激しい感情を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/42/1962_crt_8EKUt.jpg",
+        "link": "https://bgm.tv/character/1962",
+        "categorie": "person"
+      },
+      {
+        "id": "17832",
+        "label": "鸟棠",
+        "info": "物静かで神秘的な少年。どことなく哀しみを秘めた瞳を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/c6/17832_crt_10vAC.jpg",
+        "link": "https://bgm.tv/character/17832",
+        "categorie": "person"
+      },
+      {
+        "id": "17834",
+        "label": "露伊",
+        "info": "大人びた性格と物腰で、女の子の憧れの的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/85/17834_crt_Msszn.jpg",
+        "link": "https://bgm.tv/character/17834",
+        "categorie": "person"
+      },
+      {
+        "id": "1963",
+        "label": "多罗斯玛亚",
+        "info": "謎の紳士。いつも街のどこかで笑っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/cc/1963_crt_j33V3.jpg?r=1401283785",
+        "link": "https://bgm.tv/character/1963",
+        "categorie": "person"
+      },
+      {
+        "id": "1965",
+        "label": "艾德露",
+        "info": "手回しオルガンを鳴らしながら現れる不思な女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/f5/1965_crt_sNU9C.jpg",
+        "link": "https://bgm.tv/character/1965",
+        "categorie": "person"
+      },
+      {
+        "id": "1966",
+        "label": "比姬",
+        "info": "あひるの親友。惚れっぽくて涙もろい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/2b/1966_crt_AfQrf.jpg",
+        "link": "https://bgm.tv/character/1966",
+        "categorie": "person"
+      },
+      {
+        "id": "23420",
+        "label": "猫老师",
+        "info": "厳しく、クールな紳士だが、結婚したがっているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/48/23420_crt_aJ9yl.jpg",
+        "link": "https://bgm.tv/character/23420",
+        "categorie": "person"
+      },
+      {
+        "id": "24524",
+        "label": "莉莉嘉",
+        "info": "あひるの親友｡毒舌家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/e1/24524_crt_2A233.jpg",
+        "link": "https://bgm.tv/character/24524",
+        "categorie": "person"
+      },
+      {
+        "id": "38635",
+        "label": "乌兹拉",
+        "info": "法基亚的养父用艾德露（伊蝶尔）自焚剩下的木材制造的小孩状木偶。知道的事全是法基亚（华亚）告知。与艾德露（伊蝶尔）不同，她是有感情的木偶。喜欢看鸭儿（小鸭）变来变去的样子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/8b/38635_crt_S9YEx.jpg",
+        "link": "https://bgm.tv/character/38635",
+        "categorie": "person"
+      },
+      {
+        "id": "38636",
+        "label": "阿柯多瓦",
+        "info": "金冠学园音乐学院修习钢琴的学生，说话刻薄。从第15话开始，出现的神秘人物，直到第21话，法基亚注意到他，本人才正式登场，帮助法基亚找回能力。对於多洛麻西亚的所有一切感到十分有兴趣，甚至为此调查而制作出他的族谱，也因此得知法奇亚为其直系子孙。名字「Autor」为德语中「作家」之意。自称是托洛麻西亚的远亲子孙、听得到橡树的叹息声，但未被证实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/5b/38636_crt_l5i70.jpg",
+        "link": "https://bgm.tv/character/38636",
+        "categorie": "person"
+      },
+      {
+        "id": "38637",
+        "label": "卡隆",
+        "info": "法基亚的养父，经营古董店(打铁铺)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/de/38637_crt_x1dVX.jpg",
+        "link": "https://bgm.tv/character/38637",
+        "categorie": "person"
+      },
+      {
+        "id": "38638",
+        "label": "大乌鸦",
+        "info": "从《王子与乌鸦》里跑出来如魔王的反派角色，想要吃掉王子的心脏，王子的敌人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/44/38638_crt_B3BB6.jpg",
+        "link": "https://bgm.tv/character/38638",
+        "categorie": "person"
+      },
+      {
+        "id": "8238",
+        "label": "えびね",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/60/8238_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8238",
+        "categorie": "person"
+      },
+      {
+        "id": "8265",
+        "label": "パウラモニ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/2b/8265_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8265",
+        "categorie": "person"
+      },
+      {
+        "id": "8275",
+        "label": "パウロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/43/8275_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8275",
+        "categorie": "person"
+      },
+      {
+        "id": "9002",
+        "label": "まれん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/95/9002_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9002",
+        "categorie": "person"
+      },
+      {
+        "id": "9003",
+        "label": "山羊老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/24/9003_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9003",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

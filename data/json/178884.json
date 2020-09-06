@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12280",
+        "label": "星野梦美",
+        "info": "星野梦美是在无人都市中，废弃的“花菱百货屋顶天象馆”里近30年间一直等待着客人来访的少女型接待机器人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/d8/12280_crt_0jj8a.jpg",
+        "link": "https://bgm.tv/character/12280",
+        "categorie": "person"
+      },
+      {
+        "id": "40550",
+        "label": "废墟猎人",
+        "info": "姓名不明。年龄没有表明，猜测是二三十岁。30年前的大战，在荒废的世界里从化作废墟的城市回收贵重资源。靠贩卖这些来生活的青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/7f/40550_crt_7J89J.jpg?r=1460716982",
+        "link": "https://bgm.tv/character/40550",
+        "categorie": "person"
+      },
+      {
+        "id": "51900",
+        "label": "レビ",
+        "info": "星の人が辿りついた集落で暮らす女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/aa/51900_crt_zj33p.jpg",
+        "link": "https://bgm.tv/character/51900",
+        "categorie": "person"
+      },
+      {
+        "id": "51901",
+        "label": "ヨブ",
+        "info": "星の人が辿りついた集落で暮らす男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b1/51901_crt_6IzkS.jpg",
+        "link": "https://bgm.tv/character/51901",
+        "categorie": "person"
+      },
+      {
+        "id": "51902",
+        "label": "ルツ",
+        "info": "星の人が辿りついた集落で暮らす男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/5e/51902_crt_b93za.jpg",
+        "link": "https://bgm.tv/character/51902",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

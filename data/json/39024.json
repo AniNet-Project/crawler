@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32032",
+        "label": "成龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/67/32032_crt_IPhnF.jpg",
+        "link": "https://bgm.tv/character/32032",
+        "categorie": "person"
+      },
+      {
+        "id": "40750",
+        "label": "小玉",
+        "info": "Jade is the deuteragonist of Jackie Chan Adventures. She is Jackie's 12-year-old niece from Hong Kong whom he never knew existed",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/96/40750_crt_9B14F.jpg",
+        "link": "https://bgm.tv/character/40750",
+        "categorie": "person"
+      },
+      {
+        "id": "56733",
+        "label": "黑虎阿福",
+        "info": "阿福是《成龙历险记》中的角色，瓦龙的手下。武艺精湛，其实力足可同成龙抗衡，也在一直追求力量。阿福体格十分强壮，对特鲁都可以轻而易举的打败，曾变过黑暗杀手（山），会很多功夫，每个招式都有名字，记恨成龙，但在大结局时为了拯救地球帮助成龙等人对付恶魔小龙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/e3/56733_crt_287h8.jpg?r=1559366019",
+        "link": "https://bgm.tv/character/56733",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

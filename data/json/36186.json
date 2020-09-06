@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39473",
+        "label": "蛋生",
+        "info": "袁公用法术从天鹅蛋中孕育出一个男孩，取名蛋生。为争夺回天书，一路追踪三只狐精行踪，最后在皇宫与狐精斗法，最终和师傅袁公一起消灭了狐精，夺回了天书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/e5/39473_crt_1Ym78.jpg",
+        "link": "https://bgm.tv/character/39473",
+        "categorie": "person"
+      },
+      {
+        "id": "39474",
+        "label": "袁公",
+        "info": "天宫的值班仙人，主人公蛋生的师傅。从天界盗取天书，传授人间，后被玉帝发现，带回天庭责罚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/48/39474_crt_x1k1F.jpg",
+        "link": "https://bgm.tv/character/39474",
+        "categorie": "person"
+      },
+      {
+        "id": "39475",
+        "label": "老狐精",
+        "info": "美女狐精和瘸腿狐精的领头。带领两只狐精盗取天书，学习天书法术，勾结官府，祸害百姓。最终在皇宫与蛋生使徒的较量中失败，遭到应有的惩罚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/88/39475_crt_fFGgN.jpg",
+        "link": "https://bgm.tv/character/39475",
+        "categorie": "person"
+      },
+      {
+        "id": "39478",
+        "label": "美女狐精",
+        "info": "狐狸幻化为人形的妖精。同老狐精以及瘸腿狐精一起盗得天书，学习天书法术，危害四方百姓，最后被袁公和蛋生处置。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/3d/39478_crt_gMD9G.jpg",
+        "link": "https://bgm.tv/character/39478",
+        "categorie": "person"
+      },
+      {
+        "id": "39479",
+        "label": "独脚狐精",
+        "info": "跟随老狐精修行天书法术，帮助老狐精危害百姓。后在于蛋生的斗法中失去一条腿，最终被蛋生打败，在山洞的坍塌中丧生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ea/39479_crt_VuDx1.jpg",
+        "link": "https://bgm.tv/character/39479",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

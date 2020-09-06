@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "255",
+        "label": "娜乌西卡",
+        "info": "动画版：",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/fe/255_crt_mOuf7.jpg?r=1573972845",
+        "link": "https://bgm.tv/character/255",
+        "categorie": "person"
+      },
+      {
+        "id": "60205",
+        "label": "库夏娜",
+        "info": "动画版：",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/a4/60205_crt_01ufz.jpg?r=1515664189",
+        "link": "https://bgm.tv/character/60205",
+        "categorie": "person"
+      },
+      {
+        "id": "6891",
+        "label": "ユパ",
+        "info": "动画版：腐海第一剑客，娜乌西卡的剑术师傅。见识广博，富正义感。在娜乌西卡失去冷静或陷入危机时总是给予帮助。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/4b/6891_crt_fZ73A.jpg?r=1452023130",
+        "link": "https://bgm.tv/character/6891",
+        "categorie": "person"
+      },
+      {
+        "id": "6892",
+        "label": "阿斯贝鲁",
+        "info": "动画版：培吉特市的王子，拉丝黛的哥哥。精通维修及操作机件，性格勇敢机灵，决心向多鲁美奇亚报仇。伏击库夏娜时为娜乌西卡所救，在腐海底部发现腐海的秘密。故事最后与娜乌西卡众人一同在风之谷生活。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/be/6892_crt_JJcRF.jpg",
+        "link": "https://bgm.tv/character/6892",
+        "categorie": "person"
+      },
+      {
+        "id": "17948",
+        "label": "巨神兵",
+        "info": "巨神兵（きょしんへい）は、宮崎駿の漫画『風の谷のナウシカ』および劇場版アニメ『風の谷のナウシカ』、実写特撮映画『巨神兵東京に現わる』に登場する架空の巨大人工生命体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/ed/17948_crt_0ZZle.jpg",
+        "link": "https://bgm.tv/character/17948",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

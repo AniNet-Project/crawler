@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "227",
+        "label": "濑户灿",
+        "info": "濑户内鱼类联合濑户组组长的独生女兼本作的女主角。3月3日出生，是本作唯一有设定生日的角色。特征是浅褐色的长发与双眼，人鱼姿态下，鱼尾是桃红色。发现并救助在海中溺水的永澄，而且决定与其结婚的少女。原居于濑户内海，之后前往琦玉，在永澄的家中一起生活。平时如同一般的少女，加上她天然呆及友善待人的性格，吸引了不少人。但由于是黑道中人的关系，她对于“仁侠”十分执著，偶尔会进入称为仁侠模式的性格，出现自己饰演黑道女人的场面，拥有双重人格。名字的由来是Sun＝太阳。此外由于日文中“灿”的读音与数字“3”完全相同，因此常有误叫名字的情况，本人对此也非常敏感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/e9/227_crt_pM9ZS.jpg",
+        "link": "https://bgm.tv/character/227",
+        "categorie": "person"
+      },
+      {
+        "id": "2993",
+        "label": "江户前",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/aa/2993_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2993",
+        "categorie": "person"
+      },
+      {
+        "id": "14641",
+        "label": "莎旦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/da/14641_crt_3EJ2c.jpg",
+        "link": "https://bgm.tv/character/14641",
+        "categorie": "person"
+      },
+      {
+        "id": "14642",
+        "label": "天王山",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14642",
+        "categorie": "person"
+      },
+      {
+        "id": "14643",
+        "label": "猿飞悟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/70/14643_crt_2Vvby.jpg",
+        "link": "https://bgm.tv/character/14643",
+        "categorie": "person"
+      },
+      {
+        "id": "2987",
+        "label": "满潮的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/1d/2987_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2987",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

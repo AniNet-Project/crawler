@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6784",
+        "label": "鲁邦三世",
+        "info": "亚森·罗苹（法国作家莫理斯·卢布朗所创造的绅士怪盗，即鲁邦一世）之孙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/4e/6784_crt_bQQph.jpg?r=1446820910",
+        "link": "https://bgm.tv/character/6784",
+        "categorie": "person"
+      },
+      {
+        "id": "6975",
+        "label": "次元大介",
+        "info": "鲁邦的好朋友兼最佳伙伴。超一流的职业枪手，拔枪射击的速度只需0.3秒。曾经作为职业杀手，为了和鲁邦对决背叛了组织，后来和鲁邦成为搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/f2/6975_crt_KwU3M.jpg?r=1446818861",
+        "link": "https://bgm.tv/character/6975",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

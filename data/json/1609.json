@@ -1,0 +1,245 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "790",
+        "label": "不动游星",
+        "info": "头脑非常好，一眼看上去是个爱装酷的人，其实是个很关心朋友，拥有火热之心的青年。能很灵巧地亲自组装「D轮(D・ホイール)」。而且机器和电脑等方面也十分精通。自从跟杰克一战之后手臂出现「龙之痣」，成为「龙印人(シグナー)」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/5f/790_crt_jJ3Xv.jpg",
+        "link": "https://bgm.tv/character/790",
+        "categorie": "person"
+      },
+      {
+        "id": "791",
+        "label": "杰克·阿特拉斯",
+        "info": "「王者只需一个(キングは１人でいい)」为口头禅，有着任何时候都想着自己是顶点这样傲慢性格的人。对游星来说是宿敌那样的存在。以冠军身份君临骑乘决斗界。手臂上的「龙之痣」从出生之时就已经存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/7f/791_c11PO.jpg",
+        "link": "https://bgm.tv/character/791",
+        "categorie": "person"
+      },
+      {
+        "id": "792",
+        "label": "十六夜秋",
+        "info": "拥有随着决斗的进行而引起物理性破坏的「超能力」，因而极力避开与人接触的少女。认为自己的力量都是讨厌的「龙之痣」造成的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/ea/792_Zq88L.jpg",
+        "link": "https://bgm.tv/character/792",
+        "categorie": "person"
+      },
+      {
+        "id": "793",
+        "label": "龙亚",
+        "info": "双子兄妹的哥哥。活泼且冒失鬼的性格。十分好强，一旦决斗输了马上就会落泪。希望能绝对守护体弱多病的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/8c/793_Q69m6.jpg",
+        "link": "https://bgm.tv/character/793",
+        "categorie": "person"
+      },
+      {
+        "id": "794",
+        "label": "龙可",
+        "info": "双子兄妹的妹妹。非常老实，但总会对轻率的龙亚做出激烈的吐槽。能感受到卡之精灵的话语。每次决斗后都会感到筋疲力尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/48/794_TZ8nm.jpg",
+        "link": "https://bgm.tv/character/794",
+        "categorie": "person"
+      },
+      {
+        "id": "795",
+        "label": "克罗・霍根",
+        "info": "很为孩子们着想，拥有口恶心善的性格之人。虽然是小偷但是一个为贫穷的孩子们而偷盗的义贼。和游星他们是老朋友，与游星一样是个很为同伴着想的热血男儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/59/795_fN3pH.jpg",
+        "link": "https://bgm.tv/character/795",
+        "categorie": "person"
+      },
+      {
+        "id": "796",
+        "label": "卡莉渚",
+        "info": "离开家乡梦想能走向成功的新闻记者。有点冒失，但是个性格非常积极的努力家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/cf/796_glFbI.jpg",
+        "link": "https://bgm.tv/character/796",
+        "categorie": "person"
+      },
+      {
+        "id": "6558",
+        "label": "ラリー・ドーソン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/39/6558_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6558",
+        "categorie": "person"
+      },
+      {
+        "id": "6559",
+        "label": "牛尾哲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/36/6559_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6559",
+        "categorie": "person"
+      },
+      {
+        "id": "6560",
+        "label": "イェーガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/bb/6560_crt_aWajt.jpg?r=1427916068",
+        "link": "https://bgm.tv/character/6560",
+        "categorie": "person"
+      },
+      {
+        "id": "6569",
+        "label": "ブリッツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/27/6569_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6569",
+        "categorie": "person"
+      },
+      {
+        "id": "6576",
+        "label": "タカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/27/6576_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6576",
+        "categorie": "person"
+      },
+      {
+        "id": "6848",
+        "label": "マーサ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/51/6848_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6848",
+        "categorie": "person"
+      },
+      {
+        "id": "6849",
+        "label": "氷室仁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b9/6849_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6849",
+        "categorie": "person"
+      },
+      {
+        "id": "6850",
+        "label": "雑賀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/ec/6850_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6850",
+        "categorie": "person"
+      },
+      {
+        "id": "7954",
+        "label": "ルドガー・ゴドウィン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c3/7954_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7954",
+        "categorie": "person"
+      },
+      {
+        "id": "7955",
+        "label": "鬼柳京介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/34/7955_crt_2VPgu.jpg?r=1494966019",
+        "link": "https://bgm.tv/character/7955",
+        "categorie": "person"
+      },
+      {
+        "id": "7958",
+        "label": "ディヴァイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/b3/7958_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7958",
+        "categorie": "person"
+      },
+      {
+        "id": "6591",
+        "label": "瓜生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/6f/6591_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6591",
+        "categorie": "person"
+      },
+      {
+        "id": "7952",
+        "label": "炎城ムクロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/16/7952_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7952",
+        "categorie": "person"
+      },
+      {
+        "id": "7953",
+        "label": "フランク博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/7d/7953_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7953",
+        "categorie": "person"
+      },
+      {
+        "id": "7957",
+        "label": "ディック・ピット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/63/7957_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7957",
+        "categorie": "person"
+      },
+      {
+        "id": "9173",
+        "label": "ゴースト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/09/9173_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9173",
+        "categorie": "person"
+      },
+      {
+        "id": "9175",
+        "label": "パティ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/63/9175_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9175",
+        "categorie": "person"
+      },
+      {
+        "id": "36641",
+        "label": "黑魔导女孩",
+        "info": "黑魔导女孩是漫画《游戏王》主人公武藤游戏的代表性怪兽卡之一，也是黑魔导的弟子。在武藤游戏与潘多拉决斗时首次出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/05/36641_crt_Zt9hT.jpg",
+        "link": "https://bgm.tv/character/36641",
+        "categorie": "person"
+      },
+      {
+        "id": "7960",
+        "label": "ダーク・シグナー",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7960",
+        "categorie": "person"
+      },
+      {
+        "id": "7964",
+        "label": "Arcadia Movement",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7964",
+        "categorie": "person"
+      },
+      {
+        "id": "7965",
+        "label": "Sector Security",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7965",
+        "categorie": "person"
+      },
+      {
+        "id": "7966",
+        "label": "Yliaster",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7966",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

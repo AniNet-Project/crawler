@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17398",
+        "label": "火風紺",
+        "info": "現代から異世界ミラへと召喚されたゲーム好きの少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/cd/17398_crt_S6206.jpg?r=1477055137",
+        "link": "https://bgm.tv/character/17398",
+        "categorie": "person"
+      },
+      {
+        "id": "17399",
+        "label": "エカルラート・ジュピトリス・セントピリア",
+        "info": "セントピリア帝国皇女。皇位継承権は３６番目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/b3/17399_crt_4CB40.jpg?r=1477055116",
+        "link": "https://bgm.tv/character/17399",
+        "categorie": "person"
+      },
+      {
+        "id": "17400",
+        "label": "セングレン",
+        "info": "屈強な肉体に大剣を背負うセントピリア帝国の騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/41/17400_crt_09Y32.jpg",
+        "link": "https://bgm.tv/character/17400",
+        "categorie": "person"
+      },
+      {
+        "id": "17401",
+        "label": "玛利安戴尔",
+        "info": "姫専属の侍女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/98/17401_crt_XM9CG.jpg?r=1427269023",
+        "link": "https://bgm.tv/character/17401",
+        "categorie": "person"
+      },
+      {
+        "id": "17402",
+        "label": "ペット",
+        "info": "マリアンに拾われて紺たちの一行に加わることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/84/17402_crt_6d7yz.jpg",
+        "link": "https://bgm.tv/character/17402",
+        "categorie": "person"
+      },
+      {
+        "id": "17403",
+        "label": "埃里克派尔 迪卡基斯",
+        "info": "通称ＥＤ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/f6/17403_crt_Lsg2N.jpg?r=1427269054",
+        "link": "https://bgm.tv/character/17403",
+        "categorie": "person"
+      },
+      {
+        "id": "17404",
+        "label": "巴利亚西恩",
+        "info": "マリアンに拾われて紺たちの一行に加わることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/a1/17404_crt_jTeeT.jpg",
+        "link": "https://bgm.tv/character/17404",
+        "categorie": "person"
+      },
+      {
+        "id": "17405",
+        "label": "雷欧",
+        "info": "クールな外見から冷静沈着なイメージを与えるインコグニート幹部のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/90/17405_crt_eeaEu.jpg",
+        "link": "https://bgm.tv/character/17405",
+        "categorie": "person"
+      },
+      {
+        "id": "17406",
+        "label": "ギュスターヴ",
+        "info": "軽妙な性格と臨機応変さを兼ね備えた周囲のまとめ役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/30/17406_crt_9FQzN.jpg",
+        "link": "https://bgm.tv/character/17406",
+        "categorie": "person"
+      },
+      {
+        "id": "17407",
+        "label": "KT",
+        "info": "華麗な佇まいと中性的な雰囲気を持つ美形だが、会話の中にも乙女チックな発言が目立つ草食系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/7b/17407_crt_ndg1D.jpg",
+        "link": "https://bgm.tv/character/17407",
+        "categorie": "person"
+      },
+      {
+        "id": "17408",
+        "label": "謎の女",
+        "info": "アルマエネルギーを自在に操ることができるイクシオン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c3/17408_crt_XZvx8.jpg",
+        "link": "https://bgm.tv/character/17408",
+        "categorie": "person"
+      },
+      {
+        "id": "30974",
+        "label": "ウルベリオン指揮官",
+        "info": "第24話登場。ウルガ教団のウルベリオン指揮官。台詞の冒頭に「クックックッ」と付けたがる。紺達を妨害するためにウルベリオンを従えて立ち塞がるが、助太刀に入ったエレクに撃退された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/f4/30974_crt_Jn2nN.jpg?r=1426151723",
+        "link": "https://bgm.tv/character/30974",
+        "categorie": "person"
+      },
+      {
+        "id": "11546",
+        "label": "羊驼",
+        "info": "在那荒茫美丽马勒戈壁 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/52/11546_crt_FlzuU.jpg",
+        "link": "https://bgm.tv/character/11546",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

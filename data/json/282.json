@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1976",
+        "label": "赫萝",
+        "info": "外表是拥有狼耳与尾巴的少女，但实际上是神话中被称为神明的巨狼。自称为贤狼赫萝，寄宿在帕斯罗村的麦子中带来长期丰收。在帕斯罗村的庆典中从帕斯罗村的仓库逃入罗伦斯马车上的麦子(因为赫萝可以从小把的麦逃到大把的麦中,村民也有说过:「如果收割太贪心的话,丰收之神赫萝会逃走的」这句话)，与罗伦斯一同行商，想回到遥远北方的出生故乡“约伊兹森林”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/bf/1976_crt_j8bq9.jpg",
+        "link": "https://bgm.tv/character/1976",
+        "categorie": "person"
+      },
+      {
+        "id": "3762",
+        "label": "克拉福·罗伦斯",
+        "info": "旅行各地经商维生的25岁商人。与有“贤狼”之名的少女赫萝相遇，改变了他原本孤独的经商生活。第一次看见赫萝的一只手变成狼手时惊讶的说不出话来。他常常被赫萝狡猾的言论捉弄，言语交流与共同经历的事件让他与赫萝的羁绊越来越深，渐渐露出除了“善于计算的商人”外的另一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/7c/3762_crt_SSn6o.jpg?r=1422592897",
+        "link": "https://bgm.tv/character/3762",
+        "categorie": "person"
+      },
+      {
+        "id": "3763",
+        "label": "库洛艾",
+        "info": "帕斯洛耶村村长之女，动画版原创角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a6/3763_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3763",
+        "categorie": "person"
+      },
+      {
+        "id": "50773",
+        "label": "诺儿菈·艾伦",
+        "info": "于小说第二集登场，住在教会都市留宾海根的牧羊人，手持着顶端附有铃铛的等身杖的金发美少女，带著名为“艾尼克”的牧羊犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/5c/50773_crt_8t7QQ.jpg?r=1485857510",
+        "link": "https://bgm.tv/character/50773",
+        "categorie": "person"
+      },
+      {
+        "id": "50774",
+        "label": "列支敦·马贺特",
+        "info": "在港口城市帕兹欧中的第三号大的商行，米隆商行帕兹欧支店的支店长。接受了罗伦斯提出的崔尼银币交易，并且非常周到的配合计划。外表沉着冷静，谨慎使用遣词用句的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/8d/50774_crt_1K4Uo.jpg",
+        "link": "https://bgm.tv/character/50774",
+        "categorie": "person"
+      },
+      {
+        "id": "50775",
+        "label": "杰廉",
+        "info": "在旅途中罗伦斯寄宿于教会时遇见的谜之商人。并且在教会透露银币价值上升的消息。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/63/50775_crt_s4224.jpg",
+        "link": "https://bgm.tv/character/50775",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

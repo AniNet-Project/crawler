@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "305",
+        "label": "远野贵树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6e/305_qM2Rs.jpg",
+        "link": "https://bgm.tv/character/305",
+        "categorie": "person"
+      },
+      {
+        "id": "307",
+        "label": "澄田花苗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/98/307_LV6Zr.jpg",
+        "link": "https://bgm.tv/character/307",
+        "categorie": "person"
+      },
+      {
+        "id": "306",
+        "label": "篠原明里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/eb/306_89izW.jpg",
+        "link": "https://bgm.tv/character/306",
+        "categorie": "person"
+      },
+      {
+        "id": "80871",
+        "label": "水野理纱",
+        "info": "与贵树交往了三年的女性。因为贵树辞职等的理由，向他发了最后一份短讯“但我认为即使互通了一千条短信，大概我们的心也只能拉近一厘米而已”而分手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e6/80871_crt_4ZXCc.jpg",
+        "link": "https://bgm.tv/character/80871",
+        "categorie": "person"
+      },
+      {
+        "id": "22070",
+        "label": "卓比",
+        "info": "经常出现在新海诚作品中的猫。女朋友是咪咪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/af/22070_crt_LcuLb.jpg?r=1384674770",
+        "link": "https://bgm.tv/character/22070",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

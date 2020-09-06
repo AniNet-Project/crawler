@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36489",
+        "label": "宇佐美瑞希",
+        "info": "美術部で唯一まともな2年生。内巻くんの二次元趣味に呆れつつも、彼のことが気になっている。空回りしがちな振り回され系女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/7b/36489_crt_tnC1t.jpg?r=1464323005",
+        "link": "https://bgm.tv/character/36489",
+        "categorie": "person"
+      },
+      {
+        "id": "36490",
+        "label": "内卷昴",
+        "info": "絵の才能に恵まれながらも、「理想の二次元嫁」を描くためだけに美術部に在籍する２年生。そして、三次元にはまったく興味がない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/3d/36490_crt_77c7e.jpg?r=1464323088",
+        "link": "https://bgm.tv/character/36490",
+        "categorie": "person"
+      },
+      {
+        "id": "36492",
+        "label": "柯莱特",
+        "info": "美術部唯一の1年生で、自由奔放な言動が目立つオデコ系ガール。日本に来て6～7年になる外国人で、在住歴は長い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/d9/36492_crt_EZ2qx.jpg?r=1464323175",
+        "link": "https://bgm.tv/character/36492",
+        "categorie": "person"
+      },
+      {
+        "id": "39499",
+        "label": "伊万莉麻里亚",
+        "info": "内巻くんのクラスに転校してくる、謎（？）の美少女。男子からの人気は高いのだが、中二病をこじらせ気味の一面もあり……？",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/0e/39499_crt_tO4QT.jpg?r=1464323414",
+        "link": "https://bgm.tv/character/39499",
+        "categorie": "person"
+      },
+      {
+        "id": "36491",
+        "label": "部长",
+        "info": "読んで字のごとく、美術部の部長。こう見えて3年生。いつも部室で寝ており、やる気がないが、年上らしいアドバイスをしてくれることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/6d/36491_crt_Q74Qq.jpg?r=1464323241",
+        "link": "https://bgm.tv/character/36491",
+        "categorie": "person"
+      },
+      {
+        "id": "36493",
+        "label": "立花梦子",
+        "info": "豊満なボディを持つ美術部顧問で天然。「夢子せんせい」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/dd/36493_crt_X0XVu.jpg?r=1464328083",
+        "link": "https://bgm.tv/character/36493",
+        "categorie": "person"
+      },
+      {
+        "id": "44360",
+        "label": "诸星老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/fb/44360_crt_5DtuO.jpg",
+        "link": "https://bgm.tv/character/44360",
+        "categorie": "person"
+      },
+      {
+        "id": "42001",
+        "label": "小山老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/ee/42001_crt_s72Xk.jpg?r=1467985900",
+        "link": "https://bgm.tv/character/42001",
+        "categorie": "person"
+      },
+      {
+        "id": "41995",
+        "label": "绫濑香织",
+        "info": "ハイテンションで表情豊かな女の子。片思い中の宇佐美さんを「淫乱」呼ばわりするなど、いつもからかって遊んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/4f/41995_crt_3mZEG.jpg?r=1552810276",
+        "link": "https://bgm.tv/character/41995",
+        "categorie": "person"
+      },
+      {
+        "id": "41996",
+        "label": "本多沙耶香",
+        "info": "新聞部に所属する背の小さい女の子。校内新聞の記者で、真実しか書かないらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/33/41996_crt_N6ONB.jpg",
+        "link": "https://bgm.tv/character/41996",
+        "categorie": "person"
+      },
+      {
+        "id": "41997",
+        "label": "国川凉子",
+        "info": "長身のメガネ女子。３人のなかでは一番大人な雰囲気をもっていて、かおりの暴走をたしなめる一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/67/41997_crt_cs1cM.jpg",
+        "link": "https://bgm.tv/character/41997",
+        "categorie": "person"
+      },
+      {
+        "id": "41998",
+        "label": "萌香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/1c/41998_crt_SjM50.jpg?r=1468641648",
+        "link": "https://bgm.tv/character/41998",
+        "categorie": "person"
+      },
+      {
+        "id": "42000",
+        "label": "静香",
+        "info": "萌香の母",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/7a/42000_crt_bneBh.jpg",
+        "link": "https://bgm.tv/character/42000",
+        "categorie": "person"
+      },
+      {
+        "id": "42002",
+        "label": "Magical Ribbon",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/bf/42002_crt_wfq6S.jpg?r=1467987708",
+        "link": "https://bgm.tv/character/42002",
+        "categorie": "person"
+      },
+      {
+        "id": "43723",
+        "label": "瑞希的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/24/43723_crt_W97Wq.jpg?r=1469772077",
+        "link": "https://bgm.tv/character/43723",
+        "categorie": "person"
+      },
+      {
+        "id": "43415",
+        "label": "小枝木由佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/41/43415_crt_WaFfl.jpg",
+        "link": "https://bgm.tv/character/43415",
+        "categorie": "person"
+      },
+      {
+        "id": "43416",
+        "label": "小枝木千佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/b5/43416_crt_bBLbZ.jpg",
+        "link": "https://bgm.tv/character/43416",
+        "categorie": "person"
+      },
+      {
+        "id": "43590",
+        "label": "柯莱特的爸爸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/26/43590_crt_EKA5e.jpg",
+        "link": "https://bgm.tv/character/43590",
+        "categorie": "person"
+      },
+      {
+        "id": "44593",
+        "label": "二年男子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/d4/44593_crt_TXtU0.jpg?r=1471671008",
+        "link": "https://bgm.tv/character/44593",
+        "categorie": "person"
+      },
+      {
+        "id": "44594",
+        "label": "受付嬢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/00/44594_crt_0U1N3.jpg",
+        "link": "https://bgm.tv/character/44594",
+        "categorie": "person"
+      },
+      {
+        "id": "45927",
+        "label": "武田老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/1d/45927_crt_6Jzk6.jpg?r=1473419403",
+        "link": "https://bgm.tv/character/45927",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "17960",
+        "label": "北白川玉子",
+        "info": "主人公。高中一年级生，家里在兔子山商店街经营饼类小吃店“玉屋”。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/08/17960_crt_FQhbh.jpg?r=1462841721",
+        "link": "https://bgm.tv/character/17960",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

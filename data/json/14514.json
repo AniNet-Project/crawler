@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12598",
+        "label": "阿萨谢尔笃史",
+        "info": "職能：淫奔—自由控制人體荷爾蒙的分泌，使對方性無能或性高漲，也能看出女性生理期的來潮與否",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/77/12598_crt_74WCC.jpg?r=1396886928",
+        "link": "https://bgm.tv/character/12598",
+        "categorie": "person"
+      },
+      {
+        "id": "12599",
+        "label": "芥边",
+        "info": "芥边侦探事务所的所长，是个能够召唤并驱使恶魔的“恶魔侦探”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/6a/12599_crt_NcGc9.jpg?r=1396886955",
+        "link": "https://bgm.tv/character/12599",
+        "categorie": "person"
+      },
+      {
+        "id": "12600",
+        "label": "佐隈玲子",
+        "info": "在芥边侦探事务所打工的女大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/e5/12600_crt_83U00.jpg",
+        "link": "https://bgm.tv/character/12600",
+        "categorie": "person"
+      },
+      {
+        "id": "12601",
+        "label": "贝西卜931世·贝西卜优一",
+        "info": "職能：暴露—從眼睛發出光線，讓對方主動暴露出骯髒醜陋的本性，或是迫使對方說出真心話，另一作用可以驅動生物排泄的本能",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/32/12601_crt_4U52g.jpg",
+        "link": "https://bgm.tv/character/12601",
+        "categorie": "person"
+      },
+      {
+        "id": "12602",
+        "label": "摩洛克义伸",
+        "info": "外表是一隻角套著金環的牛，在人間界的外型則是穿著乳牛裝的牛布偶，阿撒茲勒常稱呼祂為「摩摩」，性格粗暴，什麼事都想用暴力來解決，曾建議阿撒茲勒把芥邊幹掉，因為是牛的緣故，所以不能吃有牛肉的食品，曾因為不肯吃佐隈準備的咖哩，讓佐隈差點被魔導書懲罰。在原作第10話中被芥邊從地球的另一頭執行任務時順便帶了回來，芥邊也提到祂比任何惡魔（特別是阿撒茲勒和貝西卜）都還要來得可靠許多，後因為其魔導書被天使沙利葉搶走，之後便在阿撒茲勒等人的面前消失（魔導書一旦被收回天界，惡魔的靈魂將會消失並且永不再復甦）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/2a/12602_crt_b85vb.jpg",
+        "link": "https://bgm.tv/character/12602",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21080",
+        "label": "リウ・ソーマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/51/21080_crt_CbWTc.jpg",
+        "link": "https://bgm.tv/character/21080",
+        "categorie": "person"
+      },
+      {
+        "id": "21081",
+        "label": "ハリエット・バーソロミュー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/53/21081_crt_JeAuq.jpg",
+        "link": "https://bgm.tv/character/21081",
+        "categorie": "person"
+      },
+      {
+        "id": "9045",
+        "label": "マキ・アガタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/b1/9045_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9045",
+        "categorie": "person"
+      },
+      {
+        "id": "9083",
+        "label": "ダン・シモンズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/4b/9083_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9083",
+        "categorie": "person"
+      },
+      {
+        "id": "9084",
+        "label": "ギネビア・グリーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/2f/9084_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9084",
+        "categorie": "person"
+      },
+      {
+        "id": "9086",
+        "label": "マイケル・ハートランド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/85/9086_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9086",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "9085",
+        "label": "Walton",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/c6/9085_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9085",
+        "categorie": "person"
+      },
+      {
+        "id": "10408",
+        "label": "MORGUE",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/10408",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

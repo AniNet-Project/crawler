@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51538",
+        "label": "麦兜",
+        "info": "麦兜（Mcdull）是中国香港在全球知名的卡通动漫形象。这一只可爱的卡通小猪，由麦家碧绘画创造，由谢立文撰写故事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bd/51538_crt_8BPqt.jpg",
+        "link": "https://bgm.tv/character/51538",
+        "categorie": "person"
+      },
+      {
+        "id": "51539",
+        "label": "麦太",
+        "info": "麦太，是出自《麦兜系列动画》的人物。麦太是个单亲妈妈，但却活得一点不哀怨，她勇敢告诉小麦兜，“你那个臭老爸，嗝屁了！”她还是一个女超人(zhu)，外号“家居万能侠”，厨艺了得，想跟麦太学两招一定要往下看。麦太不止是个家庭主妇，她也可以和麦兜从诗词歌赋谈到人生哲学呢，说英语都行哦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/32/51539_crt_ArAre.jpg",
+        "link": "https://bgm.tv/character/51539",
+        "categorie": "person"
+      },
+      {
+        "id": "51540",
+        "label": "校长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/2b/51540_crt_C6Y5z.jpg",
+        "link": "https://bgm.tv/character/51540",
+        "categorie": "person"
+      },
+      {
+        "id": "51544",
+        "label": "陈老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/3c/51544_crt_IyQ2s.jpg?r=1487481203",
+        "link": "https://bgm.tv/character/51544",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

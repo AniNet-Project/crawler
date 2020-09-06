@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4545",
+        "label": "阿姆罗·雷",
+        "info": "U.C.0079年：15～16岁。出生在地球，幼年时随父亲移民到宇宙，在殖民卫星Side 7生活，喜欢研究机械。由于追随地球联邦战舰白色基地号而来的吉恩军入侵Side 7，被卷入了战斗，偶然之间搭乘了父亲制造的机动战士，成为地球联邦军的士兵参加敖德萨战役、星一号战役和阿·堡瓦·库战役，并且在战争中得知了自己可能是“新人类”（Newtype、NT）这一事实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a2/4545_crt_zAgpC.jpg",
+        "link": "https://bgm.tv/character/4545",
+        "categorie": "person"
+      },
+      {
+        "id": "13245",
+        "label": "夏亚·阿兹纳布",
+        "info": "宇宙世纪（U.C.）一世纪末期杰出的军事家、政治家、演说家及王牌驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/47/13245_crt_Ag8BX.jpg?r=1416820329",
+        "link": "https://bgm.tv/character/13245",
+        "categorie": "person"
+      },
+      {
+        "id": "4333",
+        "label": "布莱德·诺亚",
+        "info": "《机动战士高达》宇宙世纪系列动画中出场作品数最多的，贯穿U.C.一世纪末吉恩独立战争到二世纪初马赫迪叛乱其间近30年历史的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/83/4333_crt_1HeIG.jpg",
+        "link": "https://bgm.tv/character/4333",
+        "categorie": "person"
+      },
+      {
+        "id": "7694",
+        "label": "塞拉·玛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/fb/7694_crt_Yifem.jpg?r=1428257571",
+        "link": "https://bgm.tv/character/7694",
+        "categorie": "person"
+      },
+      {
+        "id": "8845",
+        "label": "米莱·八岛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/82/8845_crt_anidb.jpg?r=1428257901",
+        "link": "https://bgm.tv/character/8845",
+        "categorie": "person"
+      },
+      {
+        "id": "8851",
+        "label": "德金·索德·扎比",
+        "info": "吉恩公国公王。吉恩·奥姆·戴肯死后成为吉恩共和国领导人，将共和体制改为君主体制。由于与儿子基连·扎比激进的政见相左，一直处于隐居状态，吉恩实权由基连掌握。旗舰是格瓦金级宇宙战舰一号舰“伟大德金号”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/b0/8851_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8851",
+        "categorie": "person"
+      },
+      {
+        "id": "31653",
+        "label": "拉拉·辛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/58/31653_crt_6qE66.jpg",
+        "link": "https://bgm.tv/character/31653",
+        "categorie": "person"
+      },
+      {
+        "id": "8843",
+        "label": "保政·良",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/e6/8843_crt_anidb.jpg?r=1428257689",
+        "link": "https://bgm.tv/character/8843",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

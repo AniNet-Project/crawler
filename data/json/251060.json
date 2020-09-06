@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62438",
+        "label": "凡田夏之介",
+        "info": "プロとしてはギリギリの位置にいる選手であるため引退後の生活に不安を持っており、常に「カネ」のことが頭から離れない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/e0/62438_crt_Ixc2d.jpg",
+        "link": "https://bgm.tv/character/62438",
+        "categorie": "person"
+      },
+      {
+        "id": "62439",
+        "label": "ユキ",
+        "info": "恵比寿の食堂「キッチン味平」で働く看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d7/62439_crt_5yaYi.jpg",
+        "link": "https://bgm.tv/character/62439",
+        "categorie": "person"
+      },
+      {
+        "id": "62440",
+        "label": "田辺",
+        "info": "神宮スパイダース監督。夏之介を重用している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/44/62440_crt_WEI9O.jpg",
+        "link": "https://bgm.tv/character/62440",
+        "categorie": "person"
+      },
+      {
+        "id": "62441",
+        "label": "迫田",
+        "info": "神宮スパイダースブルペンコーチ。かなりの強面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/36/62441_crt_mQ7Ym.jpg",
+        "link": "https://bgm.tv/character/62441",
+        "categorie": "person"
+      },
+      {
+        "id": "62442",
+        "label": "小里",
+        "info": "神宮スパイダース1軍ピッチングコーチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/e2/62442_crt_fE8k7.jpg",
+        "link": "https://bgm.tv/character/62442",
+        "categorie": "person"
+      },
+      {
+        "id": "62443",
+        "label": "徳永",
+        "info": "野球解説者。3年前に引退した元神宮スパイダースの投手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/15/62443_crt_2Yysd.jpg",
+        "link": "https://bgm.tv/character/62443",
+        "categorie": "person"
+      },
+      {
+        "id": "62444",
+        "label": "涩谷",
+        "info": "神宮スパイダースの先発投手。夏之介のよき同僚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/7b/62444_crt_g6pU0.jpg",
+        "link": "https://bgm.tv/character/62444",
+        "categorie": "person"
+      },
+      {
+        "id": "62445",
+        "label": "松本アナ",
+        "info": "オトワラジオのアナウンサー。作中で実在の人物と明言されており、モデルはフリーアナウンサーの松本秀夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/e0/62445_crt_10UD1.jpg",
+        "link": "https://bgm.tv/character/62445",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22953",
+        "label": "伦伦·弗劳沃",
+        "info": "花の精の血をひく（花の子）、12歳の女の子。七色の花をさがす旅に出る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/17/22953_crt_0F8xf.jpg?r=1389466869",
+        "link": "https://bgm.tv/character/22953",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

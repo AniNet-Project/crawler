@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73304",
+        "label": "鱼住陆生",
+        "info": "大学を卒業するが就職はせず、コンビニでアルバイトをしながら生き方を模索中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/18/73304_crt_SPSPm.jpg?r=1574325379",
+        "link": "https://bgm.tv/character/73304",
+        "categorie": "person"
+      },
+      {
+        "id": "73305",
+        "label": "野中晴",
+        "info": "カラスを連れた不思議な雰囲気の女の子。リクオのバイト先を頻繁に訪れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d4/73305_crt_F9rOO.jpg?r=1586211732",
+        "link": "https://bgm.tv/character/73305",
+        "categorie": "person"
+      },
+      {
+        "id": "73306",
+        "label": "森之目榀子",
+        "info": "リクオの大学の同級生。卒業後は地元で非常勤講師をしていたが、東京に戻ってきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/52/73306_crt_c9V9e.jpg?r=1574325466",
+        "link": "https://bgm.tv/character/73306",
+        "categorie": "person"
+      },
+      {
+        "id": "73307",
+        "label": "早川浪",
+        "info": "美大を目指し予備校に通う高校３年生。榀子のことを幼少期から知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c1/73307_crt_DH6mP.jpg?r=1574325508",
+        "link": "https://bgm.tv/character/73307",
+        "categorie": "person"
+      },
+      {
+        "id": "9991",
+        "label": "凑航一",
+        "info": "以成为摄影师为目标的大学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e7/9991_crt_2uFUF.jpg?r=1592887847",
+        "link": "https://bgm.tv/character/9991",
+        "categorie": "person"
+      },
+      {
+        "id": "9994",
+        "label": "柚原千佳",
+        "info": "陆生高中2年级时的女友。不过只交往4个月就分手了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/33/9994_crt_ELkKV.jpg?r=1592887843",
+        "link": "https://bgm.tv/character/9994",
+        "categorie": "person"
+      },
+      {
+        "id": "10092",
+        "label": "狭山杏子",
+        "info": "MILK HAL咖啡厅／酒吧的店长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/9f/10092_crt_jGAOl.jpg?r=1592887837",
+        "link": "https://bgm.tv/character/10092",
+        "categorie": "person"
+      },
+      {
+        "id": "77950",
+        "label": "福田孝则",
+        "info": "鱼住、榀子在大学时代的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/80/77950_crt_44bB1.jpg?r=1593352992",
+        "link": "https://bgm.tv/character/77950",
+        "categorie": "person"
+      },
+      {
+        "id": "77951",
+        "label": "杜田",
+        "info": "榀子が勤務する高校の同僚",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/03/77951_crt_r786R.jpg?r=1593352976",
+        "link": "https://bgm.tv/character/77951",
+        "categorie": "person"
+      },
+      {
+        "id": "77953",
+        "label": "宽佑",
+        "info": "ハルが飼っているカラス",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3c/77953_crt_sJP92.jpg?r=1594567657",
+        "link": "https://bgm.tv/character/77953",
+        "categorie": "person"
+      },
+      {
+        "id": "78883",
+        "label": "木下",
+        "info": "魚住在便利商店打工的同事。有一個妹妹和一個弟弟，其中弟弟在本作作者的另一部漫畫《羔羊之歌》中登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/d1/78883_crt_9kH22.jpg",
+        "link": "https://bgm.tv/character/78883",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

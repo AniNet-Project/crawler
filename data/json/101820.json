@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26306",
+        "label": "梅利奥达斯",
+        "info": "「七つの大罪」の一人にして団長。通称「憤怒の罪（ドラゴン・シン）(Dragon's Sin)のメリオダス」。印となる獣は龍。手配書の人相書きは無精髭をたくわえた男だが、実際には年端もいかない少年の姿をしており、10年前から容姿が変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/4a/26306_crt_iU6Iu.jpg",
+        "link": "https://bgm.tv/character/26306",
+        "categorie": "person"
+      },
+      {
+        "id": "26480",
+        "label": "伊丽莎白·里昂尼丝",
+        "info": "リオネス王国第3王女。聖騎士のクーデターを憂い、王都奪還の助力を七つの大罪に乞うためにメリオダスと同行する。七つの大罪と同行しているため、彼ら共々指名手配にされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/03/26480_crt_DXuAZ.jpg",
+        "link": "https://bgm.tv/character/26480",
+        "categorie": "person"
+      },
+      {
+        "id": "26481",
+        "label": "霍克",
+        "info": "人語を解する豚。メリオダスの友人。残飯処理などを請け負う、酒樽を担いで商売をすることもある。母親の超巨大豚ホークママの頭に「豚の帽子亭」が乗っており、酒場が移動するのは彼女の力のお蔭である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/fc/26481_crt_kSvv6.jpg",
+        "link": "https://bgm.tv/character/26481",
+        "categorie": "person"
+      },
+      {
+        "id": "26571",
+        "label": "班",
+        "info": "「強欲の罪（フォックス・シン）(Fox's Sin)のバン」。印となる獣は狐。刺青の位置は左の脇腹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/2c/26571_crt_CtmD3.jpg",
+        "link": "https://bgm.tv/character/26571",
+        "categorie": "person"
+      },
+      {
+        "id": "26570",
+        "label": "金",
+        "info": "「怠惰の罪（グリズリー・シン）(Grizzly's Sin)のキング」。印となる獣は熊。刺青の位置は左の脹脛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8d/26570_crt_74u4j.jpg",
+        "link": "https://bgm.tv/character/26570",
+        "categorie": "person"
+      },
+      {
+        "id": "26572",
+        "label": "黛安",
+        "info": "「嫉妬の罪（サーペント・シン）のディアンヌ」。印となる獣は蛇。刺青の位置は左の太腿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/9c/26572_crt_LJrNq.jpg?r=1426527849",
+        "link": "https://bgm.tv/character/26572",
+        "categorie": "person"
+      },
+      {
+        "id": "29253",
+        "label": "高瑟",
+        "info": "「色欲の罪（ゴート・シン）(Goat's Sin)のゴウセル」。印となる獣は山羊。刺青の位置は右胸。手配書では巨大な鎧巨人（アーマージャイアント）の姿で描かれるが、本体はメガネをかけた中性的な美少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/87/29253_crt_881N9.jpg",
+        "link": "https://bgm.tv/character/29253",
+        "categorie": "person"
+      },
+      {
+        "id": "30070",
+        "label": "玛琳",
+        "info": "“七大罪”之一，被称为“暴食之罪”(Boar's Sin)。纹身为“野猪”，位于脖子左侧。 外表为穿着暴露的美女。亚瑟王的师傅兼好友。罪状不明。被团长称为“布列塔利亚第一魔术师”，拥有空间转移的能力，还会制作各式各样的魔法道具和药品，例如霍克的“巴洛魔的魔眼”和黛安的变小魔药逆向版。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/03/30070_crt_BeUHH.jpg",
+        "link": "https://bgm.tv/character/30070",
+        "categorie": "person"
+      },
+      {
+        "id": "28137",
+        "label": "伊莱恩",
+        "info": "妖精族の姫で、キングことハーレクインの妹。生命の泉の番人を任されていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/fc/28137_crt_kxxZc.jpg",
+        "link": "https://bgm.tv/character/28137",
+        "categorie": "person"
+      },
+      {
+        "id": "31260",
+        "label": "弗利吉亞",
+        "info": "「怪誕之牙」一員，唯一女性，手持雙頭鞭，魔力是能控制蟲子。被黛安擊敗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/37/31260_crt_i8yDS.jpg?r=1427039871",
+        "link": "https://bgm.tv/character/31260",
+        "categorie": "person"
+      },
+      {
+        "id": "63316",
+        "label": "利兹",
+        "info": "利兹，《七大罪》中的角色。梅利奥达斯的前女友。利兹只是爱称，原名叫做伊丽莎白。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/76/63316_crt_rWvyD.jpg",
+        "link": "https://bgm.tv/character/63316",
+        "categorie": "person"
+      },
+      {
+        "id": "63317",
+        "label": "オスロー",
+        "info": "キングが連れている黒妖犬（ブラックハウンド）の僅かな生き残りの一匹。異次元を移動したり飲み込んだ物を別の場所に転送する不思議な力を持っている。聖戦時からゲラードに付き従っており、現在はキングの護衛を命じられている。警戒度によって体のサイズが伸縮するその正体は「どんな姿になってもゲラードを守る」という贖罪のために転生した聖痕の戦士の裏切り者「ロウ」。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/8d/63317_crt_95322.jpg",
+        "link": "https://bgm.tv/character/63317",
+        "categorie": "person"
+      },
+      {
+        "id": "63329",
+        "label": "米多",
+        "info": "いたずら好きな少年。〈七つの大罪〉の友達を自称する。バーニャエールを馬鹿にしたギルサンダーにいたずらを仕掛け、村の水脈を止められる事態を引き起こすが、メリオダスによって事なきを得た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b9/63329_crt_J7CXf.jpg",
+        "link": "https://bgm.tv/character/63329",
+        "categorie": "person"
+      },
+      {
+        "id": "63332",
+        "label": "ダナ",
+        "info": "ダルマリーの村の医者。セネットの父親。娘を〈不気味な牙〉に人質に取られ、負傷したメリオダスに服毒させた。後にゴルギウスに口封じのため襲われ瀕死の重傷を負うが、エリザベスの魔力によって蘇生し、自分の罪を問わなかったメリオダスに信頼の情を寄せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/52/63332_crt_BoG0U.jpg",
+        "link": "https://bgm.tv/character/63332",
+        "categorie": "person"
+      },
+      {
+        "id": "63333",
+        "label": "セネット",
+        "info": "ダナの娘。バステ監獄に幽閉された時にバンに助けられるものの、父が護身用に持たせた母の形見のダガーを奪われてしまう（ダガーは後にメリオダスが返却されている）。〈七つの大罪〉のせいで父が脅迫されたと憤るが、父にメリオダスたちのような勇敢なものはいないと諭される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/08/63333_crt_2q5P8.jpg",
+        "link": "https://bgm.tv/character/63333",
+        "categorie": "person"
+      },
+      {
+        "id": "63334",
+        "label": "タイズー",
+        "info": "元盗賊にして豪商。バイゼル喧嘩祭りの主催者でもある。第三回まで主催の大会で連覇していた腕っ節の持ち主だが、魔力を扱わないハウザーと抗戦した末に敗北している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/4b/63334_crt_GjrEJ.jpg",
+        "link": "https://bgm.tv/character/63334",
+        "categorie": "person"
+      },
+      {
+        "id": "28138",
+        "label": "霍克妈妈",
+        "info": "霍克的妈妈，一头浑身绿色的大猪，体型巨大。背上驮着猪帽子亭，酒馆营业时钻入地下休息，酒馆地点转移时才会出现。不会说话，但能理解人类语言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/68/28138_crt_vIUAQ.jpg",
+        "link": "https://bgm.tv/character/28138",
+        "categorie": "person"
+      },
+      {
+        "id": "30089",
+        "label": "巴尔托拉·里昂尼丝",
+        "info": "里昂尼丝王国的国王，被亨德里克森软禁在【完美无缺的立方体】内，后被七原罪等人救出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/af/30089_crt_0NiQe.jpg?r=1425278791",
+        "link": "https://bgm.tv/character/30089",
+        "categorie": "person"
+      },
+      {
+        "id": "30090",
+        "label": "玛格丽特·里昂尼丝",
+        "info": "リオネス第一王女。ベロニカの姉でエリザベスの義姉。穏やかな雰囲気を漂わせる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/60/30090_crt_Fr05k.jpg?r=1493474701",
+        "link": "https://bgm.tv/character/30090",
+        "categorie": "person"
+      },
+      {
+        "id": "30087",
+        "label": "维罗妮卡·里昂尼丝",
+        "info": "リオネス第二王女にしてエリザベスの義姉。小柄な体型とつり目が特徴。お転婆な性格で剣を振るう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/c2/30087_crt_PrOBB.jpg?r=1425279459",
+        "link": "https://bgm.tv/character/30087",
+        "categorie": "person"
+      },
+      {
+        "id": "30088",
+        "label": "德雷弗斯",
+        "info": "現在の聖騎士たちを取りまとめている二大聖騎士長のひとり。先代聖騎士長ザラトラスの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/3a/30088_crt_toiE1.jpg",
+        "link": "https://bgm.tv/character/30088",
+        "categorie": "person"
+      },
+      {
+        "id": "26737",
+        "label": "吉尔桑达",
+        "info": "ドレファス派の聖騎士のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/38/26737_crt_awadR.jpg",
+        "link": "https://bgm.tv/character/26737",
+        "categorie": "person"
+      },
+      {
+        "id": "30082",
+        "label": "豪泽尔",
+        "info": "ドレファス派の聖騎士のひとりで、金剛に次ぐ白金（プラチナ）の称号を持つ。螺旋形の剣を持つ青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/87/30082_crt_VxX07.jpg",
+        "link": "https://bgm.tv/character/30082",
+        "categorie": "person"
+      },
+      {
+        "id": "30086",
+        "label": "古里亚莫尔",
+        "info": "父亲是圣骑士长德弗雷斯。作为维尔妮卡的侍卫，现在与幼驯染的吉尔桑达、豪泽尔共同行动。对为了维尔妮卡锻炼的肌肉感到自豪。在伊丝塔尔的修炼窟里，因为某些原因变成了小孩儿体型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f2/30086_crt_Ba4G4.jpg",
+        "link": "https://bgm.tv/character/30086",
+        "categorie": "person"
+      },
+      {
+        "id": "30084",
+        "label": "亨德里克森",
+        "info": "ドレファスと並ぶ二大聖騎士長のひとり。短髪と整えたあごひげが特徴の理知的な男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bc/30084_crt_75cUH.jpg?r=1425279082",
+        "link": "https://bgm.tv/character/30084",
+        "categorie": "person"
+      },
+      {
+        "id": "30083",
+        "label": "海尔布拉姆",
+        "info": "枢機卿位に就く高位の聖騎士。眼帯をつけた髭面の老人だが、正体はキングと同じく妖精族で、本来は少年の姿（普段は隠している）。バイゼル喧嘩祭りでは審判のラブヘルムとして姿を変えていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/48/30083_crt_fq7rA.jpg",
+        "link": "https://bgm.tv/character/30083",
+        "categorie": "person"
+      },
+      {
+        "id": "28136",
+        "label": "杰莉卡",
+        "info": "「新世代」の一人。元々はバステ監獄の守護を任された聖騎士見習い。体型はグラマーで、男勝りな性格の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/e9/28136_crt_EMJjj.jpg",
+        "link": "https://bgm.tv/character/28136",
+        "categorie": "person"
+      },
+      {
+        "id": "28135",
+        "label": "基娜",
+        "info": "「新世代」の一人。長い黒髪で細目が特徴の少女。平民出身で、父親が反逆行為ののち行方不明となったため周囲から疎んじられていた。弟のジールを守るために聖騎士を目指し、「新世代」となった。魔神の血による破壊衝動によって無辜の民を殺害、冷徹に任務をこなしていたが、本来は情に厚い性格。そこをゴウセルに付け込まれて操られてしまったこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f8/28135_crt_C98I0.jpg",
+        "link": "https://bgm.tv/character/28135",
+        "categorie": "person"
+      },
+      {
+        "id": "31712",
+        "label": "古斯塔夫",
+        "info": "海爾布萊姆手下的聖騎士，又名「古斯塔夫爵士」，傑莉卡的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/77/31712_crt_pr38M.jpg",
+        "link": "https://bgm.tv/character/31712",
+        "categorie": "person"
+      },
+      {
+        "id": "32421",
+        "label": "薇薇安",
+        "info": "為七大罪暴食之罪瑪琳的徒弟，喜歡吉爾桑達，將長公主瑪格莉特作為人質威脅吉爾桑達聽命於她與韓德利克森。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/17/32421_crt_brFFf.jpg?r=1493439700",
+        "link": "https://bgm.tv/character/32421",
+        "categorie": "person"
+      },
+      {
+        "id": "63242",
+        "label": "ゴルギウス",
+        "info": "慇懃な物腰だが、ゼネットを人質にダナに対して脅迫するなど、冷酷非情で独善的な聖騎士。主に切っ先が三つに分かれた剣を使って戦い、三日月型の暗器を飛び道具として使用する。メリオダスと対峙したときに退散し、バステ監獄に来たメリオダスを封印しようとするが、脱獄したバンとメリオダスの腕相撲で難なく破壊される。その後は姿を消していたが、〈十戒〉への恐怖で暴徒と化した市民に殺されかけるも、豚の帽子亭に逃げ込み、エリザベスに介抱され、感謝を述べてからどこかへ旅立つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/e2/63242_crt_0GRLq.jpg",
+        "link": "https://bgm.tv/character/63242",
+        "categorie": "person"
+      },
+      {
+        "id": "63243",
+        "label": "ルイン",
+        "info": "ローブのような鎧に身を包み、鈴の付いた錫杖を持つ聖騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/04/63243_crt_0cSXh.jpg",
+        "link": "https://bgm.tv/character/63243",
+        "categorie": "person"
+      },
+      {
+        "id": "31258",
+        "label": "裘德",
+        "info": "「怪誕之牙」一員，鄙視著班，帶著能取下的尖刺盾牌，魔力未知。被班殺死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/c3/31258_crt_b2027.jpg",
+        "link": "https://bgm.tv/character/31258",
+        "categorie": "person"
+      },
+      {
+        "id": "32422",
+        "label": "史雷达",
+        "info": "生日4月4日，「破曉之咆哮」的隊長。由於巴爾托拉·里歐涅絲國王對其有恩，因此對國王非常盡忠，其名字也是國王取的。武器為一把鋸齒刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/22/32422_crt_k2Mc3.jpg",
+        "link": "https://bgm.tv/character/32422",
+        "categorie": "person"
+      },
+      {
+        "id": "63244",
+        "label": "サイモン",
+        "info": "長髪の少年聖騎士。身長を超える日本刀を振るう少年。血気盛んな性格をスレイダーに諌められることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/cb/63244_crt_Scj0C.jpg",
+        "link": "https://bgm.tv/character/63244",
+        "categorie": "person"
+      },
+      {
+        "id": "63245",
+        "label": "ヒューゴ",
+        "info": "全身を鎧で覆った聖騎士。丁寧語で喋る。二本一対の斧のような武器を扱う。鎧巨人との戦いの際に片腕を喪った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/fe/63245_crt_H6583.jpg",
+        "link": "https://bgm.tv/character/63245",
+        "categorie": "person"
+      },
+      {
+        "id": "63246",
+        "label": "ワインハイト",
+        "info": "弓兵。幻影を囮に別の場所へ潜伏しての奇襲を得手とする。魔力を込めた矢の破壊力は絶大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/b6/63246_crt_dX8Fk.jpg",
+        "link": "https://bgm.tv/character/63246",
+        "categorie": "person"
+      },
+      {
+        "id": "63247",
+        "label": "ジリアン",
+        "info": "〈暁闇の咆哮〉唯一の女性。フランベルジュを扱う。また魔力の縄により敵を拘束することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/6b/63247_crt_2R2r4.jpg",
+        "link": "https://bgm.tv/character/63247",
+        "categorie": "person"
+      },
+      {
+        "id": "30091",
+        "label": "亚瑟·潘德拉刚",
+        "info": "新興国キャメロットにおいて、突如出現した大岩に刺さっていた剣を引き抜いたことから王座に就いた新王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/08/30091_crt_MPy20.jpg",
+        "link": "https://bgm.tv/character/30091",
+        "categorie": "person"
+      },
+      {
+        "id": "60626",
+        "label": "ジール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/d2/60626_crt_G3vQZ.jpg?r=1519635805",
+        "link": "https://bgm.tv/character/60626",
+        "categorie": "person"
+      },
+      {
+        "id": "32420",
+        "label": "茨威格",
+        "info": "生日2月15日，為狙擊伊麗莎白而襲擊「移動酒館－豬帽子亭」的見習聖騎士。口頭禪是「決定了！」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/a3/32420_crt_obFep.jpg?r=1431251523",
+        "link": "https://bgm.tv/character/32420",
+        "categorie": "person"
+      },
+      {
+        "id": "30085",
+        "label": "ケイン・バルザド",
+        "info": "バイゼル喧嘩祭りに参加していた酔っぱらいの老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/47/30085_crt_r9XT9.jpg",
+        "link": "https://bgm.tv/character/30085",
+        "categorie": "person"
+      },
+      {
+        "id": "32419",
+        "label": "萨拉特拉斯",
+        "info": "生日7月14日，前代聖騎士長。為森林賢者(德魯伊)的後代。吉爾桑達的父親。10年前疑為被七大罪殺害，導致七大罪被定下了顛覆王國的反叛罪名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/d1/32419_crt_0QGwq.jpg",
+        "link": "https://bgm.tv/character/32419",
+        "categorie": "person"
+      },
+      {
+        "id": "63336",
+        "label": "アンナ",
+        "info": "グリアモールの母親。ドレファスの回想で登場し、料理が非常に得意らしい。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/63336",
+        "categorie": "person"
+      },
+      {
+        "id": "63312",
+        "label": "デール",
+        "info": "ヘンドリクセンの「聖騎士魔人化計画」の実験に自ら志願した聖騎士。ギーラとジールの父親。聖騎士と赤き魔神の配合は強力な怪物を生み出したが、その力に自我を飲み込まれ暴走した。実験の失敗後、デールは王都から逃走。オ―ダンで暴走し森の熊を虐殺している最中にゴウセルと出会う。その際ゴウセルの鎧を着せられたため鎧巨人（アーマージャイアント）と呼ばれるようになった。以後山から凶暴な獣が消えたためオーダンの村人は山神様と呼んでいた。マーリン特製の鎧で魔力を抑制しても騎士団を壊滅させるのは造作でもなかった。メリオダスの剣で行動不能となり、バンに核を潰され、バンに呟くように感謝の言葉を述べたあと涙を流して死亡する。ギーラたちには任務中の不祥事による事件で行方を眩ませたと伝えられていた。魔神族の血を取り込んでいるため、邪悪な魔力と複数の心臓を持つ性質など、魔神族と多くの共通点を持つ。魔神化し怪物となった状態では右上の顔は噛みつき、右下の顔は毒吐き、左上の顔からは呪いの声、左下の顔からは氷結攻撃など多彩な攻撃を行う。 魔力「沈黙（ミュート）」詳細不明。「氷結停止（フローズンブレス）」左下の顔から冷気を吐く。「絶望の毒（デスペアー・ヴェノム）」右下の顔から触れた物を溶かす毒を吐く。「毒唾（ヴェノムスピッド）」右下の顔から毒の玉を吐き出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/81/63312_crt_IcIbS.jpg",
+        "link": "https://bgm.tv/character/63312",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

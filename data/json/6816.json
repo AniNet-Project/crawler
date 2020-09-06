@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13869",
+        "label": "小霞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/7c/13869_crt_VUKQX.jpg?r=1407455262",
+        "link": "https://bgm.tv/character/13869",
+        "categorie": "person"
+      },
+      {
+        "id": "13870",
+        "label": "マルコ・オーエン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/fc/13870_crt_bv0yJ.jpg?r=1407455409",
+        "link": "https://bgm.tv/character/13870",
+        "categorie": "person"
+      },
+      {
+        "id": "13871",
+        "label": "小雫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/e1/13871_crt_KcSV9.jpg?r=1391185488",
+        "link": "https://bgm.tv/character/13871",
+        "categorie": "person"
+      },
+      {
+        "id": "13872",
+        "label": "ローラ・オーエン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/4d/13872_crt_GvClf.jpg?r=1407455215",
+        "link": "https://bgm.tv/character/13872",
+        "categorie": "person"
+      },
+      {
+        "id": "13873",
+        "label": "ロン・ポートマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/f9/13873_crt_JhLQC.jpg?r=1407455397",
+        "link": "https://bgm.tv/character/13873",
+        "categorie": "person"
+      },
+      {
+        "id": "13874",
+        "label": "キャサリン・ターナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/a9/13874_crt_dRmfA.jpg?r=1407455225",
+        "link": "https://bgm.tv/character/13874",
+        "categorie": "person"
+      },
+      {
+        "id": "13875",
+        "label": "ティム（ティモシー･レイゼンバッハ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/e8/13875_crt_FB3TR.jpg?r=1407455382",
+        "link": "https://bgm.tv/character/13875",
+        "categorie": "person"
+      },
+      {
+        "id": "13876",
+        "label": "アレッサンドロ・ペッチノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/d2/13876_crt_blBy9.jpg?r=1407455240",
+        "link": "https://bgm.tv/character/13876",
+        "categorie": "person"
+      },
+      {
+        "id": "13877",
+        "label": "ピーター・スティーブンス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/5e/13877_crt_Im85I.jpg?r=1407455199",
+        "link": "https://bgm.tv/character/13877",
+        "categorie": "person"
+      },
+      {
+        "id": "13878",
+        "label": "アイヴァン・コラル・ヴェガ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/85/13878_crt_4m6Ts.jpg?r=1407455253",
+        "link": "https://bgm.tv/character/13878",
+        "categorie": "person"
+      },
+      {
+        "id": "13879",
+        "label": "ウォルター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/a9/13879_crt_G5e1P.jpg?r=1407455165",
+        "link": "https://bgm.tv/character/13879",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

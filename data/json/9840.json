@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13277",
+        "label": "蛮吉",
+        "info": "没心没肺的热血少年，他的身世是一个谜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c6/13277_crt_61c41.jpg",
+        "link": "https://bgm.tv/character/13277",
+        "categorie": "person"
+      },
+      {
+        "id": "13278",
+        "label": "蛮大人",
+        "info": "中二有志青年，理想主义者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/c9/13278_crt_0hQqJ.jpg",
+        "link": "https://bgm.tv/character/13278",
+        "categorie": "person"
+      },
+      {
+        "id": "13279",
+        "label": "阿离公主",
+        "info": "为人任性，却对蛮吉非常疼爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/4d/13279_crt_vOcE3.jpg",
+        "link": "https://bgm.tv/character/13279",
+        "categorie": "person"
+      },
+      {
+        "id": "13280",
+        "label": "卡拉肖克·潘",
+        "info": "重情重义的“长脸大哥哥”，史上最有实力的富二代。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e8/13280_crt_qQjDB.jpg",
+        "link": "https://bgm.tv/character/13280",
+        "categorie": "person"
+      },
+      {
+        "id": "13281",
+        "label": "雪伦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/eb/13281_crt_V11MP.jpg",
+        "link": "https://bgm.tv/character/13281",
+        "categorie": "person"
+      },
+      {
+        "id": "14490",
+        "label": "镜心",
+        "info": "镜心是一名天神，而天神的社会是一个绝对理性统治的社会。在那里，个体知识、能力和责任高度统一、有能力的人才能掌握高深的知识，而掌握高深的知识就必然意味着对社会的负责和回报。在魁拔复活，威胁宇宙之际，镜心从魁拔司（一个专门处理魁拔问题的组织）考试中脱颖而出，成了掌握天神绝密武器的魁拔司成员。她独自携带能够摧毁魁拔的武器来到地界，准备消除这个恶魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/2a/14490_crt_pOg6p.jpg?r=1402240880",
+        "link": "https://bgm.tv/character/14490",
+        "categorie": "person"
+      },
+      {
+        "id": "14619",
+        "label": "狄秋",
+        "info": "神圣联军第一联队护军教官，神圣树国禁军都尉，辉妖族妖侠纹耀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/a5/14619_crt_EeFVC.jpg",
+        "link": "https://bgm.tv/character/14619",
+        "categorie": "person"
+      },
+      {
+        "id": "24164",
+        "label": "泱澈",
+        "info": "天界水系主神。长于科技。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ff/24164_crt_vgNnv.jpg",
+        "link": "https://bgm.tv/character/24164",
+        "categorie": "person"
+      },
+      {
+        "id": "18268",
+        "label": "谷鸡泰",
+        "info": "口头语：",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/68/18268_crt_lKjUg.jpg",
+        "link": "https://bgm.tv/character/18268",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

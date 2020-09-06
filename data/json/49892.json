@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11833",
+        "label": "松前绪花",
+        "info": "在单亲家庭长大的女孩，由于母亲和欠了一屁股债的男朋友跑路，于是一个人被流放到乡下外婆经营的旅店“喜翠庄”打工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/20/11833_crt_EqQs0.jpg",
+        "link": "https://bgm.tv/character/11833",
+        "categorie": "person"
+      },
+      {
+        "id": "11834",
+        "label": "鹤来民子",
+        "info": "为了追求厨艺秘诀而离家出走（？），在喜翠庄寄宿打工，绪花的室友。暗恋作为师傅的宫岸徹。原先的口头禅是“西奈”，应绪花的要求更改为“毛蛋”（ホビロン）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/18/11834_crt_s5R9F.jpg",
+        "link": "https://bgm.tv/character/11834",
+        "categorie": "person"
+      },
+      {
+        "id": "11835",
+        "label": "押水菜子",
+        "info": "在喜翠庄打工的女孩，非常害羞，特长是游泳，不喜欢吃芋头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/68/11835_crt_5dtlG.jpg",
+        "link": "https://bgm.tv/character/11835",
+        "categorie": "person"
+      },
+      {
+        "id": "11847",
+        "label": "和仓结名",
+        "info": "大酒店“福屋”的老板娘的独生女儿，虽然是喜翠庄的竞争对手，但是与绪花等人关系不错。特长是“倒口”",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/d7/11847_crt_ld72z.jpg",
+        "link": "https://bgm.tv/character/11847",
+        "categorie": "person"
+      },
+      {
+        "id": "12784",
+        "label": "松前皋月",
+        "info": "38岁。绪花之母，翠的女儿。丈夫于15年前过世。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/fb/12784_crt_ZKkRL.jpg",
+        "link": "https://bgm.tv/character/12784",
+        "categorie": "person"
+      },
+      {
+        "id": "11848",
+        "label": "轮岛巴",
+        "info": "喜翠庄的客服部主管（仲居頭），单身大龄女青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ed/11848_crt_Wf5Ft.jpg",
+        "link": "https://bgm.tv/character/11848",
+        "categorie": "person"
+      },
+      {
+        "id": "71702",
+        "label": "松前绫人",
+        "info": "绪花的父亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/c0/71702_crt_cp77F.jpg",
+        "link": "https://bgm.tv/character/71702",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

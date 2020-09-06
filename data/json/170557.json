@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35411",
+        "label": "灰熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/d1/35411_crt_nkxWQ.jpg",
+        "link": "https://bgm.tv/character/35411",
+        "categorie": "person"
+      },
+      {
+        "id": "35412",
+        "label": "熊猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/29/35412_crt_EiY2W.jpg",
+        "link": "https://bgm.tv/character/35412",
+        "categorie": "person"
+      },
+      {
+        "id": "35413",
+        "label": "白熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/5d/35413_crt_7KV7V.jpg",
+        "link": "https://bgm.tv/character/35413",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

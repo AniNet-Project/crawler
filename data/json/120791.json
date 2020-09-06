@@ -1,0 +1,349 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "85",
+        "label": "坂田银时",
+        "info": "江戸はかぶき町にて万事屋（何でも屋）を営む侍。ドSだが打たれ弱く、マイペースだが決めるところはビシッと決める本作の主人公にして万事屋のオーナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/95/85_crt_mnnRv.jpg?r=1532144893",
+        "link": "https://bgm.tv/character/85",
+        "categorie": "person"
+      },
+      {
+        "id": "250",
+        "label": "志村新八",
+        "info": "* 本作唯一的正常人(沒有誤)，特徵是眼鏡和大眾臉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/a9/250_crt_7Ifw5.jpg?r=1531611155",
+        "link": "https://bgm.tv/character/250",
+        "categorie": "person"
+      },
+      {
+        "id": "229",
+        "label": "神乐",
+        "info": "本作的女主角(自称)，可是JUMP里有这种没形象而且身分低劣的女主角吗！？ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/23/229_crt_I73MP.jpg?r=1532064353",
+        "link": "https://bgm.tv/character/229",
+        "categorie": "person"
+      },
+      {
+        "id": "9713",
+        "label": "吉田松阳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/77/9713_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9713",
+        "categorie": "person"
+      },
+      {
+        "id": "25248",
+        "label": "胧",
+        "info": "天照院奈落の首領格の男。普段は天導衆の命により、徳川定々の警護を担当している。天道衆からは八咫烏と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/9d/25248_crt_hkhwM.jpg",
+        "link": "https://bgm.tv/character/25248",
+        "categorie": "person"
+      },
+      {
+        "id": "2747",
+        "label": "土方十四郎",
+        "info": "　　表面上是“青光眼，性格暴躁,动不动就砍人，让人切腹,流氓老大、蛋黄酱OTAKU”，但实际上土方为人正直认真，头脑也很好，可以说是「真选组」中的「智将」！也可以说是个疑似中二病患者。虽然嘴上说东说西，但对于近藤的信赖非常深厚，只要是为了大将任何任务都不会有异议。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/8b/2747_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2747",
+        "categorie": "person"
+      },
+      {
+        "id": "2748",
+        "label": "冲田总悟",
+        "info": "真选组一番队队长，组内首屈一指的剑术高手，但却很少用剑战斗，多用枪械及大炮。天使外貌，恶魔心肠，外表清秀，但为人阴险，非常腹黑。某程度上有颇强的正义感。觊觎著副长之位，因此经常做出想杀害土方的举动，往往功亏一篑。有虐待倾向（S）。经常在工作时偷懒，十分贪睡。与姐姐冲田三叶相貌酷似，感情很好，对姐姐唯命是从。虽然知道土方拒绝三叶表白的真正原因，但感觉仍然无法原谅土方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/06/2748_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2748",
+        "categorie": "person"
+      },
+      {
+        "id": "3053",
+        "label": "长谷川泰三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/75/3053_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3053",
+        "categorie": "person"
+      },
+      {
+        "id": "253",
+        "label": "桂小太郎",
+        "info": "银时以前的盟友，攘夷志士中的幸存者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/28/253_crt_4I5Hd.jpg",
+        "link": "https://bgm.tv/character/253",
+        "categorie": "person"
+      },
+      {
+        "id": "252",
+        "label": "伊丽莎白",
+        "info": "桂小太郎从坂本辰马得来的宠物，内容物不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/db/252_crt_JWQ38.jpg",
+        "link": "https://bgm.tv/character/252",
+        "categorie": "person"
+      },
+      {
+        "id": "254",
+        "label": "志村妙",
+        "info": "18岁，新八的姐姐，通称“阿妙（お妙）”。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/94/254_crt_1Yyju.jpg",
+        "link": "https://bgm.tv/character/254",
+        "categorie": "person"
+      },
+      {
+        "id": "3056",
+        "label": "山崎退",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/6e/3056_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3056",
+        "categorie": "person"
+      },
+      {
+        "id": "3064",
+        "label": "柳生九兵卫",
+        "info": "名门剑豪柳生家的千金，柳生家的下任当家，身材矮小，擅长过肩摔。因为母亲生产后去世，家族又习惯让男孩当家，父亲和祖父决定将她当成男孩般哺养，平时做男装打扮。童年时常受到青梅竹马阿妙的保护与开导，因为和来志村家讨债的流氓打架，左眼失明，之后一直佩带眼罩，为此苦修剑术，剑术突飞猛进。原本想要将阿妙娶进柳生家，但后来因为新八、近藤等人的行动作罢。实对人情世故很不熟悉，会做出很天真的行动（天然呆）。对情敌近藤抱有杀意。要是有男性碰到她会被用过肩摔甩出去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/52/3064_crt_4x0IN.jpg",
+        "link": "https://bgm.tv/character/3064",
+        "categorie": "person"
+      },
+      {
+        "id": "3059",
+        "label": "高杉晋助",
+        "info": "日本动漫作品《银魂》（作者：空知英秋）中的人物。标志形象是长枪烟斗、左眼绷带和绣着金蝶的紫色和服。被称为“攘夷浪士中最过激、最危险的男人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/43/3059_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3059",
+        "categorie": "person"
+      },
+      {
+        "id": "3071",
+        "label": "坂本辰马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/17/3071_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3071",
+        "categorie": "person"
+      },
+      {
+        "id": "3049",
+        "label": "猿飞菖蒲",
+        "info": "忍者，原御庭番众的精英，现在为自由雇用杀手，昵称“小猿”（港译“小幸”）。任务中偶然闯入万事屋，疯狂迷恋上坂田银时，其跟踪狂的程度不下于近藤。是个超级被虐狂（M）。喜欢纳豆。严重近视，没有眼镜就什么都看不见，甚至影响其他感官。与阿妙互为天敌，两人经常有恶言与肢体冲突。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/37/3049_crt_1tdtj.jpg",
+        "link": "https://bgm.tv/character/3049",
+        "categorie": "person"
+      },
+      {
+        "id": "3051",
+        "label": "登势",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/b1/3051_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3051",
+        "categorie": "person"
+      },
+      {
+        "id": "3055",
+        "label": "近藤勋",
+        "info": "近藤勋出自空知英秋原作人气动漫《银魂》，一手创建了真选组（历史原形新选组），职位是局长，别名为“大猩猩”。 剑术虽然高超，却深藏不露。经常犯二，被志村妙列为头号必须杀掉的人，目前依旧在追着志村妙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/36/3055_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3055",
+        "categorie": "person"
+      },
+      {
+        "id": "3074",
+        "label": "平贺源外",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/9d/3074_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3074",
+        "categorie": "person"
+      },
+      {
+        "id": "6899",
+        "label": "小玉",
+        "info": "スナックお登勢の従業員。林流山が病弱で孤独だった娘・芙蓉のために造ったプロトタイプの美少女型からくり人形。殺人犯の濡れ衣を着せられて逃げていたところ、ボディを壊され、首だけになってゴミ捨て場に転がっていたところを神楽が持ち帰ったことで、万事屋と関わるようになった。「たま」（漢字表示は卵）の名付け親も神楽。原動力はオイルと電気[3]。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/67/6899_crt_5oWRr.jpg",
+        "link": "https://bgm.tv/character/6899",
+        "categorie": "person"
+      },
+      {
+        "id": "9277",
+        "label": "月咏",
+        "info": "吉原自卫队“百华”的现任首领，主要保护日轮和吉原的艺妓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/51/9277_crt_XXRXn.jpg",
+        "link": "https://bgm.tv/character/9277",
+        "categorie": "person"
+      },
+      {
+        "id": "8502",
+        "label": "武市变平太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/20/8502_crt_vcV12.jpg?r=1431591770",
+        "link": "https://bgm.tv/character/8502",
+        "categorie": "person"
+      },
+      {
+        "id": "9276",
+        "label": "日轮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/89/9276_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9276",
+        "categorie": "person"
+      },
+      {
+        "id": "9281",
+        "label": "晴太",
+        "info": "初登场在吉原炎上篇，养母是吉原第一名妓日轮，但事实上日轮不是晴太的亲生母亲，晴太真正的母亲在生下晴太之后就衰弱而死了，日轮只是很舍不得这孩子，所以自己扮演着母亲的角色。为见母亲与万事屋等人相识，最后从夜王凤仙手中救出日轮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/55/9281_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9281",
+        "categorie": "person"
+      },
+      {
+        "id": "25249",
+        "label": "今井信女",
+        "info": "赤目で黒髪(アニメでは紺色)の見廻組女副長。暗殺部隊『天照院奈落』から引き抜かれた「殺しのエリート」で、その腕前は近藤に「暗殺剣」と言わしめるほどのもの。確実に相手の息の根を止めることに念頭を置いて攻撃を行う。人を斬ることを趣味のように好んでいるらしく、そよ姫との缶蹴りの際は「自分が鬼になって見つけた人を斬っていく」と危険なルール変更を申し出ていた。声帯模写も出来る様子。異三郎曰く飽き性な性格とのこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/05/25249_crt_82OK6.jpg",
+        "link": "https://bgm.tv/character/25249",
+        "categorie": "person"
+      },
+      {
+        "id": "34192",
+        "label": "池田夜右卫門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/f4/34192_crt_w44E2.jpg",
+        "link": "https://bgm.tv/character/34192",
+        "categorie": "person"
+      },
+      {
+        "id": "34193",
+        "label": "池田 朝右衛門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/44/34193_crt_B3gyc.jpg",
+        "link": "https://bgm.tv/character/34193",
+        "categorie": "person"
+      },
+      {
+        "id": "34386",
+        "label": "一桥喜喜",
+        "info": "茂々や定々を追い落とし、新政権の樹立を目論む一橋派の筆頭である人物。端正な顔立ちをした青年。普段は紳士的に振る舞っているものの、自分に従わない者や気に入らない者は容赦なく始末しようとするなど定々以上に傍若無人な一面もある。しかし独裁者だった定々と違い、彼の場合はあくまで世間知らずから来るものである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/70/34386_crt_267eP.jpg",
+        "link": "https://bgm.tv/character/34386",
+        "categorie": "person"
+      },
+      {
+        "id": "36397",
+        "label": "齐藤终",
+        "info": "真選組三番隊は他の隊とは違い、不逞浪士の取締まりや江戸の治安維持が任務ではない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/43/36397_crt_zsCC4.jpg?r=1445441542",
+        "link": "https://bgm.tv/character/36397",
+        "categorie": "person"
+      },
+      {
+        "id": "38075",
+        "label": "六転舞蔵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/3c/38075_crt_IxFXw.jpg",
+        "link": "https://bgm.tv/character/38075",
+        "categorie": "person"
+      },
+      {
+        "id": "38076",
+        "label": "脇薫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/94/38076_crt_knbBk.jpg",
+        "link": "https://bgm.tv/character/38076",
+        "categorie": "person"
+      },
+      {
+        "id": "38077",
+        "label": "百地乱破",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/d1/38077_crt_rv0R0.jpg",
+        "link": "https://bgm.tv/character/38077",
+        "categorie": "person"
+      },
+      {
+        "id": "38078",
+        "label": "藤林鎧門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/76/38078_crt_8fOr7.jpg",
+        "link": "https://bgm.tv/character/38078",
+        "categorie": "person"
+      },
+      {
+        "id": "14967",
+        "label": "德川茂茂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/86/14967_crt_lcbXR.jpg",
+        "link": "https://bgm.tv/character/14967",
+        "categorie": "person"
+      },
+      {
+        "id": "9418",
+        "label": "高屋八兵卫",
+        "info": "4月10日生まれ。身長167cm、体重57kg。16歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/6d/9418_crt_anidb.jpg?r=1430410606",
+        "link": "https://bgm.tv/character/9418",
+        "categorie": "person"
+      },
+      {
+        "id": "33238",
+        "label": "大司教",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/93/33238_crt_LAF9S.jpg?r=1434128887",
+        "link": "https://bgm.tv/character/33238",
+        "categorie": "person"
+      },
+      {
+        "id": "33800",
+        "label": "黒子野太助",
+        "info": "銀時・桂・坂本・高杉らの攘夷戦争時代の同士。桂曰く「徹底的に黒子に徹し、自分は表に出ることなくバックアップを主に行った」人物である。徹底した黒子ぶりから影が薄く、黒子野の名前で主催された同窓会が開かれるまで、銀時たちはその存在を完全に忘れていた。その同窓会は、実は武市とまた子による銀時たちをおびきだして殺害するための謀略であったが、黒子野は武市らの謀略を見抜いており、また子に「僕が本物の鬼になる前にさっさと立ち去った方がいい」と忠告して、謀略に参加した鬼兵隊のメンバーを撤退させた。銀時だけは睡眠ガスを吸わされて眠らされた時に、黒子野が銀時たちの部隊から立ち去る時に会話をしたことを思い出し、その顔を思い出した様子。黒子野本人もかつて銀時達と戦ってきただけあり、鬼兵隊の隊士数人をあっさりと倒すなど高い実力を持つ。顔は非公開である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/04/33800_crt_4hKq3.jpg",
+        "link": "https://bgm.tv/character/33800",
+        "categorie": "person"
+      },
+      {
+        "id": "33807",
+        "label": "いずみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/25/33807_crt_fZYzq.jpg",
+        "link": "https://bgm.tv/character/33807",
+        "categorie": "person"
+      },
+      {
+        "id": "33808",
+        "label": "いずみの兄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/86/33808_crt_1L14S.jpg",
+        "link": "https://bgm.tv/character/33808",
+        "categorie": "person"
+      },
+      {
+        "id": "33812",
+        "label": "寺子屋の先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/4a/33812_crt_qQPq3.jpg",
+        "link": "https://bgm.tv/character/33812",
+        "categorie": "person"
+      },
+      {
+        "id": "34194",
+        "label": "先代夜右衛門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/94/34194_crt_lwWfk.jpg",
+        "link": "https://bgm.tv/character/34194",
+        "categorie": "person"
+      },
+      {
+        "id": "35952",
+        "label": "千鳥第二師団団長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/78/35952_crt_kASN1.jpg",
+        "link": "https://bgm.tv/character/35952",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

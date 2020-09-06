@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58851",
+        "label": "哈库梅伊",
+        "info": "外はねくせっ毛の元気な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/53/58851_crt_wNlLQ.jpg",
+        "link": "https://bgm.tv/character/58851",
+        "categorie": "person"
+      },
+      {
+        "id": "58850",
+        "label": "蜜珂析",
+        "info": "黒髪ストレートの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/5d/58850_crt_3hwB0.jpg",
+        "link": "https://bgm.tv/character/58850",
+        "categorie": "person"
+      },
+      {
+        "id": "59608",
+        "label": "康居",
+        "info": "マキナタに住む吟遊詩人の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/e5/59608_crt_J1EHo.jpg",
+        "link": "https://bgm.tv/character/59608",
+        "categorie": "person"
+      },
+      {
+        "id": "59609",
+        "label": "千",
+        "info": "マキナタの東の沼に住む研究者の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a7/59609_crt_8SO35.jpg",
+        "link": "https://bgm.tv/character/59609",
+        "categorie": "person"
+      },
+      {
+        "id": "61379",
+        "label": "鰯谷",
+        "info": "ニホンイタチの大工。32歳の男性。出身地はヒノチ。通称「イワシ」。こびとと比べると体が非常に大きい。頭にタオルを巻いて咥えタバコが基本スタイル。ハクメイの師匠的な存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/97/61379_crt_zT55I.jpg?r=1519631084",
+        "link": "https://bgm.tv/character/61379",
+        "categorie": "person"
+      },
+      {
+        "id": "61383",
+        "label": "マヤ",
+        "info": "港町アラビの積み木市場にある喫茶店兼呑み屋「ポートラウンジ小骨」の三代目マスター。33歳の女性。出身地はヒノチ。先代のマスターは彼女の母親。丸メガネにバンダナ、襟元にスカーフ。ミコチはこの店の常連。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/58/61383_crt_1DCRY.jpg?r=1519631782",
+        "link": "https://bgm.tv/character/61383",
+        "categorie": "person"
+      },
+      {
+        "id": "61385",
+        "label": "伽达",
+        "info": "美容師。30歳女性。出身地はハルハン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/57/61385_crt_TktIh.jpg?r=1519632391",
+        "link": "https://bgm.tv/character/61385",
+        "categorie": "person"
+      },
+      {
+        "id": "62461",
+        "label": "亚由音",
+        "info": "ミコチの実姉。28歳。出身地はケイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/6f/62461_crt_tWCT4.jpg?r=1523088163",
+        "link": "https://bgm.tv/character/62461",
+        "categorie": "person"
+      },
+      {
+        "id": "62462",
+        "label": "緑尾老",
+        "info": "ヤシロ地方の商人たちで構成されたキャラバン（隊商兼治安部隊）の総隊長。年齢不詳。性別は女性。出身地はヒノチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/57/62462_crt_coYMt.jpg?r=1523088031",
+        "link": "https://bgm.tv/character/62462",
+        "categorie": "person"
+      },
+      {
+        "id": "61381",
+        "label": "ハクヨ",
+        "info": "ナライの奥さん。40歳女性で、出身地はムカク。ちょっとそそっかしいが、ミコチが感心するほどの料理上手。ナライも頭が上がらない。石貫會で一番怖い人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/7c/61381_crt_KTy5p.jpg?r=1519631364",
+        "link": "https://bgm.tv/character/61381",
+        "categorie": "person"
+      },
+      {
+        "id": "61382",
+        "label": "カテン",
+        "info": "ハクビシンで、43歳男性。出身地はケイの外れ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/3c/61382_crt_3TvTr.jpg?r=1519631525",
+        "link": "https://bgm.tv/character/61382",
+        "categorie": "person"
+      },
+      {
+        "id": "61380",
+        "label": "ナライ",
+        "info": "大工組合「石貫會（いわぬきかい）」の会長。50歳男性で、出身地はケイの外れ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/45/61380_crt_DZdd5.jpg?r=1519631242",
+        "link": "https://bgm.tv/character/61380",
+        "categorie": "person"
+      },
+      {
+        "id": "61378",
+        "label": "美美",
+        "info": "ミツユビトビネズミで、旅のカメラマン。21歳女性で、出身地はカナンカ。被写体がカメラを意識しない自然な写真を撮るスタイル。笑いながらミコチ達と一緒に写った写真は、本人曰く｢失敗｣作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/21/61378_crt_7311R.jpg?r=1519633130",
+        "link": "https://bgm.tv/character/61378",
+        "categorie": "person"
+      },
+      {
+        "id": "61377",
+        "label": "小春",
+        "info": "雌のコクワガタ。16歳女性。出身地はヒノチ。左側の触角にリボンを結んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/92/61377_crt_86TM6.jpg?r=1519630536",
+        "link": "https://bgm.tv/character/61377",
+        "categorie": "person"
+      },
+      {
+        "id": "61386",
+        "label": "ライカ",
+        "info": "24歳の女性。出身地ムカク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/f8/61386_crt_S4UV9.jpg?r=1519632625",
+        "link": "https://bgm.tv/character/61386",
+        "categorie": "person"
+      },
+      {
+        "id": "61768",
+        "label": "飞垣",
+        "info": "蜂蜜館の館守（やかたもり）で2代目主人。最古参の一人。72歳男性で、出身地はカナンカ。ウカイの残したジュレップのレシピの再現をミコチに依頼する。口髭も埋まるほど豊かなアフロヘアの持主。若い頃は一人称で「僕」と言っていたが、館守になってからは主に「私」と言うようになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/ed/61768_crt_aEON5.jpg?r=1520931200",
+        "link": "https://bgm.tv/character/61768",
+        "categorie": "person"
+      },
+      {
+        "id": "61769",
+        "label": "旋毛丸",
+        "info": "トカゲ（レインボーアガマ）で蜂蜜館の住人。35歳男性で、出身地はヒノチ。ウカイを知る数少ない古参の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/8f/61769_crt_5T3bV.jpg?r=1520931326",
+        "link": "https://bgm.tv/character/61769",
+        "categorie": "person"
+      },
+      {
+        "id": "62463",
+        "label": "トレモ",
+        "info": "マキナタ市街の雨乞い通りにある古着屋【リ・ルナ】の店長。37歳、キイロマングースの男性。出身地はカナンカ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/d1/62463_crt_9GP96.jpg?r=1523088101",
+        "link": "https://bgm.tv/character/62463",
+        "categorie": "person"
+      },
+      {
+        "id": "67783",
+        "label": "美鞠",
+        "info": "「呑戸屋」を姉のシナトと共に営む22歳女性。出身地はガダイ。出身地がシナトと違うのは、シナト誕生後に一家が引っ越した為[14]。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/15/67783_crt_744Mb.jpg",
+        "link": "https://bgm.tv/character/67783",
+        "categorie": "person"
+      },
+      {
+        "id": "67784",
+        "label": "科户",
+        "info": "田楽・炉端焼きの店「呑戸屋（どんどや）」を妹のミマリと共に営む28歳の女性。出身地はケイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/de/67784_crt_4xcI0.jpg?r=1545016666",
+        "link": "https://bgm.tv/character/67784",
+        "categorie": "person"
+      },
+      {
+        "id": "61384",
+        "label": "先代のマスタ",
+        "info": "マヤの母親",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/fc/61384_crt_CG89J.jpg?r=1519632047",
+        "link": "https://bgm.tv/character/61384",
+        "categorie": "person"
+      },
+      {
+        "id": "61387",
+        "label": "谬尔图里加内装店员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/46/61387_crt_29E7S.jpg?r=1519632966",
+        "link": "https://bgm.tv/character/61387",
+        "categorie": "person"
+      },
+      {
+        "id": "61770",
+        "label": "宇海",
+        "info": "なんでもありの集合住宅「蜂蜜館」の初代主人で、既に故人。出身地はカナンカ。享年57歳。酒で財をなした富豪で享楽家。死ぬまで楽しく生きるために蜂蜜館を作って美術家や無法者を囲い込んだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/6f/61770_crt_4XwOo.jpg?r=1520931551",
+        "link": "https://bgm.tv/character/61770",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

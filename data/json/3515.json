@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6009",
+        "label": "ゲデヒトニス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/d7/6009_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6009",
+        "categorie": "person"
+      },
+      {
+        "id": "12456",
+        "label": "多罗丝赛露",
+        "info": "ウラノス国テンペスト領を統治する、白く輝く最新型のハイペリオン。亡き父ヴィントシュトレ卿が遺した膨大な遺産により、世界の仕組みを学習してゆく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c1/12456_crt_UJsjY.jpg",
+        "link": "https://bgm.tv/character/12456",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65377",
+        "label": "索菲·特瓦伊莱特",
+        "info": "吸血鬼の少女。約360歳。町の洋館で生活している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/5d/65377_crt_GXZ6c.jpg?r=1539279381",
+        "link": "https://bgm.tv/character/65377",
+        "categorie": "person"
+      },
+      {
+        "id": "65378",
+        "label": "天野灯",
+        "info": "人形が好きな少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/68/65378_crt_61iS2.jpg?r=1539459125",
+        "link": "https://bgm.tv/character/65378",
+        "categorie": "person"
+      },
+      {
+        "id": "65379",
+        "label": "夏木日向",
+        "info": "灯の親友。快活な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/ad/65379_crt_Wvfwo.jpg?r=1540223413",
+        "link": "https://bgm.tv/character/65379",
+        "categorie": "person"
+      },
+      {
+        "id": "65380",
+        "label": "艾莉",
+        "info": "ソフィーと同じく吸血鬼で、昔からの友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/2f/65380_crt_rjQUr.jpg?r=1534323513",
+        "link": "https://bgm.tv/character/65380",
+        "categorie": "person"
+      },
+      {
+        "id": "65381",
+        "label": "仓井朔夜",
+        "info": "灯のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/4a/65381_crt_TO5ZH.jpg?r=1534323495",
+        "link": "https://bgm.tv/character/65381",
+        "categorie": "person"
+      },
+      {
+        "id": "65382",
+        "label": "青木夕",
+        "info": "灯のクラスメイト。朔夜の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/7b/65382_crt_0tU0C.jpg?r=1533831571",
+        "link": "https://bgm.tv/character/65382",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

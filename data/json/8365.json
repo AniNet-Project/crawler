@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8306",
+        "label": "蓮川一也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/c9/8306_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8306",
+        "categorie": "person"
+      },
+      {
+        "id": "8307",
+        "label": "池田光流",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/0f/8307_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8307",
+        "categorie": "person"
+      },
+      {
+        "id": "8329",
+        "label": "蓮川一弘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/b6/8329_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8329",
+        "categorie": "person"
+      },
+      {
+        "id": "8332",
+        "label": "美佐子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/51/8332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8332",
+        "categorie": "person"
+      },
+      {
+        "id": "8339",
+        "label": "如月麗名",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/33/8339_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8339",
+        "categorie": "person"
+      },
+      {
+        "id": "8311",
+        "label": "男D",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/f9/8311_crt_lXEzZ.jpg",
+        "link": "https://bgm.tv/character/8311",
+        "categorie": "person"
+      },
+      {
+        "id": "8312",
+        "label": "男B",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/46/8312_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8312",
+        "categorie": "person"
+      },
+      {
+        "id": "8330",
+        "label": "Tochizawa",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/dd/8330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8330",
+        "categorie": "person"
+      },
+      {
+        "id": "8336",
+        "label": "古沢進一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/b6/8336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8336",
+        "categorie": "person"
+      },
+      {
+        "id": "8338",
+        "label": "渡辺由樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/78/8338_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8338",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

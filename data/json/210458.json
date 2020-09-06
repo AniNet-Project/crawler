@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38324",
+        "label": "橘晶",
+        "info": "橘あきら。17歳。高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/29/38324_crt_wflFF.jpg?r=1515748125",
+        "link": "https://bgm.tv/character/38324",
+        "categorie": "person"
+      },
+      {
+        "id": "59767",
+        "label": "近藤正己",
+        "info": "『ガーデン』で店長を務める45歳の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/62/59767_crt_shgfi.jpg?r=1517641675",
+        "link": "https://bgm.tv/character/59767",
+        "categorie": "person"
+      },
+      {
+        "id": "59783",
+        "label": "喜屋武遥",
+        "info": "喜屋武はるか（17）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a4/59783_crt_9iA8i.jpg?r=1517313009",
+        "link": "https://bgm.tv/character/59783",
+        "categorie": "person"
+      },
+      {
+        "id": "59784",
+        "label": "西田唯",
+        "info": "西田ユイ（17）",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/97/59784_crt_4kLgz.jpg?r=1516427541",
+        "link": "https://bgm.tv/character/59784",
+        "categorie": "person"
+      },
+      {
+        "id": "60180",
+        "label": "吉泽高志",
+        "info": "あきらのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/42/60180_crt_E6xR7.jpg?r=1518244699",
+        "link": "https://bgm.tv/character/60180",
+        "categorie": "person"
+      },
+      {
+        "id": "60181",
+        "label": "加濑亮介",
+        "info": "ファミレス「ガーデン」でキッチンのバイトをしている大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/1b/60181_crt_8a1ye.jpg?r=1519451276",
+        "link": "https://bgm.tv/character/60181",
+        "categorie": "person"
+      },
+      {
+        "id": "61620",
+        "label": "久保佳代子",
+        "info": "『ガーデン』で働くウェイトレスの女性。口が悪く気の強い性格をしており、近藤は彼女にあまり頭が上がらない様子。近藤のことは情けなく頼りない上司だと思っており、あきらにもよく彼の愚痴をこぼしている。その反面、近藤の息子である勇斗には優しく接している。ユイの送別会では彼女が辞めることを寂しがっていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/8e/61620_crt_85The.jpg?r=1520695554",
+        "link": "https://bgm.tv/character/61620",
+        "categorie": "person"
+      },
+      {
+        "id": "61622",
+        "label": "大塚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/7f/61622_crt_q0kl0.jpg",
+        "link": "https://bgm.tv/character/61622",
+        "categorie": "person"
+      },
+      {
+        "id": "61625",
+        "label": "勇斗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/72/61625_crt_Psa1I.jpg?r=1522428968",
+        "link": "https://bgm.tv/character/61625",
+        "categorie": "person"
+      },
+      {
+        "id": "61628",
+        "label": "橘晶的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/a5/61628_crt_5MHM0.jpg",
+        "link": "https://bgm.tv/character/61628",
+        "categorie": "person"
+      },
+      {
+        "id": "61631",
+        "label": "喜屋武翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/96/61631_crt_AZojO.jpg",
+        "link": "https://bgm.tv/character/61631",
+        "categorie": "person"
+      },
+      {
+        "id": "61634",
+        "label": "九条千寻",
+        "info": "売れっ子の小説家。近藤の早稲田大学在学中時代の旧友で、長髪で眼鏡の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d2/61634_crt_Brg8b.jpg?r=1522601875",
+        "link": "https://bgm.tv/character/61634",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

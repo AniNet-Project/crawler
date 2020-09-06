@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57376",
+        "label": "艾玛",
+        "info": "　　孤儿院最年长铁三角之一，生于2034年，11岁的女孩，身高145cm，脖子上的编号为63194。是个有着一头橘色头发的活泼女孩，秉性乐观而天真，喜欢妈妈和孤儿院的一切，将孤儿院的大伙视为自己的家人。考试分数为300分级别，拥有力压诺曼的体能与卓越的反射神经。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/8c/57376_crt_g8Mmm.jpg?r=1503813993",
+        "link": "https://bgm.tv/character/57376",
+        "categorie": "person"
+      },
+      {
+        "id": "57377",
+        "label": "诺曼",
+        "info": "　　孤儿院最年长铁三角之一，生于2034年，11岁的男孩，身高145cm，脖子上的编号为22194。稳重而温柔，喜欢艾玛，并相当崇拜艾玛无私而天真的个性。头脑灵活，考试分数为300分级别，虽然体能不如艾玛，却总能以谋略弥补其不足。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/de/57377_crt_H44FA.jpg?r=1503814011",
+        "link": "https://bgm.tv/character/57377",
+        "categorie": "person"
+      },
+      {
+        "id": "57378",
+        "label": "雷",
+        "info": "　　孤儿院最年长铁三角之一，生于2034年1月15日，11岁的男孩，身高150cm，脖子上的编号为81194。为人理性而固执，当下了决定之后便不轻易改变自己的意志。表面上冷静沉稳，但是心里其实十分重视艾玛和诺曼。读过相当多的书，有着诺曼和艾玛望尘莫及的的知识量。考试分数亦为300分级别。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/ec/57378_crt_d3jt7.jpg?r=1503814027",
+        "link": "https://bgm.tv/character/57378",
+        "categorie": "person"
+      },
+      {
+        "id": "57379",
+        "label": "伊莎贝拉",
+        "info": "　　31岁，身高170cm。史上最年轻的孤儿院妈妈，养成的高品值数量是全“GF”历届第一。称自己的孩子是“最特别的”。全身上下几乎毫无弱点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/82/57379_crt_A5woC.jpg?r=1554276777",
+        "link": "https://bgm.tv/character/57379",
+        "categorie": "person"
+      },
+      {
+        "id": "57382",
+        "label": "克洛涅",
+        "info": "来到孤儿院当妈妈助手的人，目标是自己当上“妈妈”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/6e/57382_crt_Gf7bb.jpg",
+        "link": "https://bgm.tv/character/57382",
+        "categorie": "person"
+      },
+      {
+        "id": "67352",
+        "label": "柯尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/57/67352_crt_Kg12n.jpg?r=1542786314",
+        "link": "https://bgm.tv/character/67352",
+        "categorie": "person"
+      },
+      {
+        "id": "57380",
+        "label": "冬",
+        "info": "　　生于2035年，10岁的男孩，身高155cm，脖子上的编号为16194。为人直爽、性情中人，考试分数为200分级别，略低于吉尔达。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/bd/57380_crt_8thyV.jpg",
+        "link": "https://bgm.tv/character/57380",
+        "categorie": "person"
+      },
+      {
+        "id": "57381",
+        "label": "吉尔达",
+        "info": "　　生于2035年，10岁的女孩，身高138cm，脖子上的编号为65194。个性恬静而敏感，sister卡罗露对她捉迷藏的能力有不差的评价，与艾玛有着不错的交情，考试分数为200分级别。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f7/57381_crt_P8ydl.jpg",
+        "link": "https://bgm.tv/character/57381",
+        "categorie": "person"
+      },
+      {
+        "id": "67351",
+        "label": "安娜",
+        "info": "9歳の女の子。認識番号は48194。身長135cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/3d/67351_crt_OGJC6.jpg?r=1542786255",
+        "link": "https://bgm.tv/character/67351",
+        "categorie": "person"
+      },
+      {
+        "id": "67349",
+        "label": "奈特",
+        "info": "9歳の男の子。認識番号は30294。身長133cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/d2/67349_crt_iY4PY.jpg?r=1542786097",
+        "link": "https://bgm.tv/character/67349",
+        "categorie": "person"
+      },
+      {
+        "id": "67348",
+        "label": "托马斯",
+        "info": "7歳の男の子。認識番号は55294。身長123cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/66/67348_crt_5fm7k.jpg?r=1542785995",
+        "link": "https://bgm.tv/character/67348",
+        "categorie": "person"
+      },
+      {
+        "id": "67350",
+        "label": "拉尼恩",
+        "info": "7歳の男の子。認識番号は54294。身長125cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/85/67350_crt_k3255.jpg?r=1542786181",
+        "link": "https://bgm.tv/character/67350",
+        "categorie": "person"
+      },
+      {
+        "id": "67347",
+        "label": "菲尔",
+        "info": "4歳の男の子。認識番号は34394。身長100cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/b2/67347_crt_sA2pS.jpg?r=1542785646",
+        "link": "https://bgm.tv/character/67347",
+        "categorie": "person"
+      },
+      {
+        "id": "68832",
+        "label": "雪莉",
+        "info": "4岁，编号74394，常找诺曼玩，在听闻他要离开孤儿院时，震惊大哭，爱漂亮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/08/68832_crt_Zr0QT.jpg",
+        "link": "https://bgm.tv/character/68832",
+        "categorie": "person"
+      },
+      {
+        "id": "68833",
+        "label": "马克",
+        "info": "5岁，编号79294，很喜欢吃饭，与奈拉的交情很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/09/68833_crt_6oWMS.jpg",
+        "link": "https://bgm.tv/character/68833",
+        "categorie": "person"
+      },
+      {
+        "id": "68834",
+        "label": "奈拉",
+        "info": "4岁，编号53394，与马克的交情很好，任性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/02/68834_crt_xnEOs.jpg",
+        "link": "https://bgm.tv/character/68834",
+        "categorie": "person"
+      },
+      {
+        "id": "68839",
+        "label": "雷斯利",
+        "info": "イザベラが子供の頃、同じプラントにいた少年。認識番号は71584。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b1/68839_crt_zu77k.jpg",
+        "link": "https://bgm.tv/character/68839",
+        "categorie": "person"
+      },
+      {
+        "id": "68835",
+        "label": "克里斯提",
+        "info": "5岁，编号70394，好奇心旺盛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/92/68835_crt_KVBbv.jpg",
+        "link": "https://bgm.tv/character/68835",
+        "categorie": "person"
+      },
+      {
+        "id": "68836",
+        "label": "雅莉西亚",
+        "info": "5岁，编号71394，很顽皮，很像啦啦队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/34/68836_crt_FpeG8.jpg",
+        "link": "https://bgm.tv/character/68836",
+        "categorie": "person"
+      },
+      {
+        "id": "68837",
+        "label": "洁米玛",
+        "info": "5岁，编号31394，很认真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/4f/68837_crt_TVza5.jpg",
+        "link": "https://bgm.tv/character/68837",
+        "categorie": "person"
+      },
+      {
+        "id": "68838",
+        "label": "卡洛",
+        "info": "1岁，编号53494，作为补充的食用儿（替补柯妮），刚来到GF不久的婴儿，艾玛从她的左耳发现发信器。她在艾玛逃出后，暂时被留在GF的年幼孩子之一，后被送往GF的其他养育场，目前与菲尔生活在一起,正在学说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/47/68838_crt_BbzuS.jpg",
+        "link": "https://bgm.tv/character/68838",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

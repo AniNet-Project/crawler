@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16906",
+        "label": "平賀＝奇頓・太一",
+        "info": "動物學家父親太平，與英國康瓦爾郡名門望族奇頓家的女兒派翠西亞，所生的日英混血兒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/80/16906_crt_vOvEA.jpg",
+        "link": "https://bgm.tv/character/16906",
+        "categorie": "person"
+      },
+      {
+        "id": "32684",
+        "label": "平贺太平",
+        "info": "太一的父亲，是个动物学者，也是百合子的爷爷。与派翠西亚结婚，有了儿子太一后不久离婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/7a/32684_crt_vWV8v.jpg?r=1436280800",
+        "link": "https://bgm.tv/character/32684",
+        "categorie": "person"
+      },
+      {
+        "id": "32685",
+        "label": "平贺百合子",
+        "info": "太一的女儿，也是太平的孙女。首次登场是个国中生。对于爸爸和妈妈离婚，还有爷爷和奶奶离婚的事情不能苟同。有与妈妈和奶奶保持着联系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/72/32685_crt_PKPsF.jpg",
+        "link": "https://bgm.tv/character/32685",
+        "categorie": "person"
+      },
+      {
+        "id": "32686",
+        "label": "查理・查普曼",
+        "info": "太一的儿时玩伴，也是个名侦探。意大利人。在工作上视太一为对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/20/32686_crt_lmImi.jpg",
+        "link": "https://bgm.tv/character/32686",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

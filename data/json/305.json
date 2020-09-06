@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14327",
+        "label": "琪琪",
+        "info": "魔女と普通の人間の間に生まれた少女。10歳を過ぎた頃に魔女として生きることを決意したため、しきたりに則って13歳のある満月の夜、魔女の住んでいない町で独り立ちすべく相棒のジジと共に旅立った。最初に着いたコリコの町で人々の魔女に対する反応が冷たいことに戸惑うが、ふとしたきっかけから定住を決め、その後「魔女の宅急便」を開業。様々な出来事を経験しながら魔女として、1人の少女として成長していく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d2/14327_crt_6wYN3.jpg",
+        "link": "https://bgm.tv/character/14327",
+        "categorie": "person"
+      },
+      {
+        "id": "10360",
+        "label": "ジジ",
+        "info": "キキの相棒の黒猫。年齢はキキと同じく13歳。一人称は「ぼく」で少し生意気な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/26/10360_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10360",
+        "categorie": "person"
+      },
+      {
+        "id": "68216",
+        "label": "トンボ / コポリ",
+        "info": "空に憧れ、飛行クラブに所属する丸メガネの少年｡「トンボ」は愛称で、本名はコポリ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/d7/68216_crt_E0k64.jpg",
+        "link": "https://bgm.tv/character/68216",
+        "categorie": "person"
+      },
+      {
+        "id": "68217",
+        "label": "先輩魔女",
+        "info": "キキが魔女として初めて旅立った際に会った魔女。額を見せた茶髪のツインテールに紫の服を着用し、金のハートのイヤリングを付けている。ジジに似た黒猫を連れている。占いが得意で近頃は恋占いもやっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/0c/68217_crt_u4Im4.jpg",
+        "link": "https://bgm.tv/character/68217",
+        "categorie": "person"
+      },
+      {
+        "id": "68218",
+        "label": "おソノ",
+        "info": "キキの居候先のパン屋「グーチョキパン店」の親切なおかみさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/ea/68218_crt_b6OdD.jpg",
+        "link": "https://bgm.tv/character/68218",
+        "categorie": "person"
+      },
+      {
+        "id": "68219",
+        "label": "おソノの夫（フクオ）",
+        "info": "無口で寡黙だが心優しいパン職人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/14/68219_crt_4YYaq.jpg",
+        "link": "https://bgm.tv/character/68219",
+        "categorie": "person"
+      },
+      {
+        "id": "68220",
+        "label": "ウルスラ",
+        "info": "森の中の小屋で絵を描くことに没頭する画家の少女。19歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/ec/68220_crt_50sS5.jpg",
+        "link": "https://bgm.tv/character/68220",
+        "categorie": "person"
+      },
+      {
+        "id": "68222",
+        "label": "マキ",
+        "info": "パン屋の近所に住んでいるファッションデザイナーで、白猫リリーの飼い主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/ce/68222_crt_5TKkB.jpg",
+        "link": "https://bgm.tv/character/68222",
+        "categorie": "person"
+      },
+      {
+        "id": "68224",
+        "label": "ケット",
+        "info": "マキの甥っ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/9e/68224_crt_tW0vl.jpg",
+        "link": "https://bgm.tv/character/68224",
+        "categorie": "person"
+      },
+      {
+        "id": "68214",
+        "label": "コキリ",
+        "info": "キキの母親で魔女。魔女としての力は優れているものの､使える魔法は「空を飛ぶ魔法」と「薬草から薬を作る魔法」しか使えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/63/68214_crt_I7TTG.jpg",
+        "link": "https://bgm.tv/character/68214",
+        "categorie": "person"
+      },
+      {
+        "id": "68221",
+        "label": "ドーラ",
+        "info": "キキの母コキリにリウマチに効く魔法の薬を作ってもらう老女",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/06/68221_crt_ox7F1.jpg",
+        "link": "https://bgm.tv/character/68221",
+        "categorie": "person"
+      },
+      {
+        "id": "68215",
+        "label": "オキノ",
+        "info": "キキの父親",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/3c/68215_crt_2C1PM.jpg",
+        "link": "https://bgm.tv/character/68215",
+        "categorie": "person"
+      },
+      {
+        "id": "68223",
+        "label": "リリー",
+        "info": "マキが飼っているメスの白猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/eb/68223_crt_OiwyH.jpg",
+        "link": "https://bgm.tv/character/68223",
+        "categorie": "person"
+      },
+      {
+        "id": "68225",
+        "label": "ジェフ",
+        "info": "ケットの家で飼われている大型犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/7a/68225_crt_9239B.jpg",
+        "link": "https://bgm.tv/character/68225",
+        "categorie": "person"
+      },
+      {
+        "id": "68226",
+        "label": "老婦人",
+        "info": "青い屋根の家に住んでいる婦人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/a3/68226_crt_C7Y8I.jpg",
+        "link": "https://bgm.tv/character/68226",
+        "categorie": "person"
+      },
+      {
+        "id": "68227",
+        "label": "バーサ",
+        "info": "老婦人に仕えている使用人の老婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/d0/68227_crt_0k5Kz.jpg",
+        "link": "https://bgm.tv/character/68227",
+        "categorie": "person"
+      },
+      {
+        "id": "68228",
+        "label": "孫娘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/39/68228_crt_6pMMR.jpg",
+        "link": "https://bgm.tv/character/68228",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

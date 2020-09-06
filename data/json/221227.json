@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61166",
+        "label": "罗辑",
+        "info": "罗辑，刘慈欣长篇科幻小说《三体》系列人物，《三体2：黑暗森林》的主角和《三体3：死神永生》的线索角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/48/61166_crt_9fHWm.jpg",
+        "link": "https://bgm.tv/character/61166",
+        "categorie": "person"
+      },
+      {
+        "id": "61167",
+        "label": "史强",
+        "info": "史强，是中国科幻小说《三体》三部曲第一部和第二部中的人物。警察、地球防务安全部情报人员。在《三体1地球往事》提出古筝行动，攻击“审判日”号 ，使伊文斯死亡。在《三体2黑暗森林》中负责保护罗辑，帮助罗辑找到庄颜，在危机纪元后期主动保护了罗辑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/46/61167_crt_uOaBu.jpg",
+        "link": "https://bgm.tv/character/61167",
+        "categorie": "person"
+      },
+      {
+        "id": "61264",
+        "label": "联合舰队主席",
+        "info": "统帅《三体》小说内由亚洲舰队、欧洲舰队和北美舰队组成的太阳系太阳系联合舰队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/80/61264_crt_wJ22c.jpg",
+        "link": "https://bgm.tv/character/61264",
+        "categorie": "person"
+      },
+      {
+        "id": "61265",
+        "label": "丁仪",
+        "info": "《三体》小说内诺贝尔物理学奖获得者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/bb/61265_crt_a1NB7.jpg",
+        "link": "https://bgm.tv/character/61265",
+        "categorie": "person"
+      },
+      {
+        "id": "61266",
+        "label": "萨伊",
+        "info": "《三体》小说人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/8b/61266_crt_w66Gw.jpg",
+        "link": "https://bgm.tv/character/61266",
+        "categorie": "person"
+      },
+      {
+        "id": "61267",
+        "label": "坎特",
+        "info": "《三体》小说人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/c0/61267_crt_4PiYa.jpg",
+        "link": "https://bgm.tv/character/61267",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

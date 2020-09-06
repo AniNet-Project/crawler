@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39177",
+        "label": "她",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/2a/39177_crt_I1OJJ.jpg",
+        "link": "https://bgm.tv/character/39177",
+        "categorie": "person"
+      },
+      {
+        "id": "39178",
+        "label": "黑猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/07/39178_crt_8iK7z.jpg",
+        "link": "https://bgm.tv/character/39178",
+        "categorie": "person"
+      },
+      {
+        "id": "22070",
+        "label": "卓比",
+        "info": "经常出现在新海诚作品中的猫。女朋友是咪咪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/af/22070_crt_LcuLb.jpg?r=1384674770",
+        "link": "https://bgm.tv/character/22070",
+        "categorie": "person"
+      },
+      {
+        "id": "39179",
+        "label": "友人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/37/39179_crt_Aq4aN.jpg",
+        "link": "https://bgm.tv/character/39179",
+        "categorie": "person"
+      },
+      {
+        "id": "39180",
+        "label": "母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/37/39180_crt_eDGPo.jpg",
+        "link": "https://bgm.tv/character/39180",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

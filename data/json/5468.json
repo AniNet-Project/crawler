@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8617",
+        "label": "鬼丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/68/8617_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8617",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

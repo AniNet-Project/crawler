@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2751",
+        "label": "洛克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/0e/2751_crt_anidb.jpg?r=1426958547",
+        "link": "https://bgm.tv/character/2751",
+        "categorie": "person"
+      },
+      {
+        "id": "12856",
+        "label": "莱薇",
+        "info": "美籍华人，本名蕾贝卡。擅长使用双枪攻击，绰号“双枪手”（Two-Hand）。她在纽约贫民区长大，童年生活黑暗，热衷于暴力和枪械，遭到FBI和NYPD27局的通缉，后来为船长达奇所救，加入了黑礁商会。惯用的枪为贝瑞塔M92的定制改装版。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/f1/12856_crt_BBDpf.jpg?r=1426310656",
+        "link": "https://bgm.tv/character/12856",
+        "categorie": "person"
+      },
+      {
+        "id": "6863",
+        "label": "ラグーン商会",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ed/6863_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6863",
+        "categorie": "person"
+      },
+      {
+        "id": "2755",
+        "label": "バラライカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/69/2755_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2755",
+        "categorie": "person"
+      },
+      {
+        "id": "24173",
+        "label": "张维新",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/16/24173_crt_B5aGZ.jpg",
+        "link": "https://bgm.tv/character/24173",
+        "categorie": "person"
+      },
+      {
+        "id": "27880",
+        "label": "仙华",
+        "info": "三合會僱用的女殺手以及逃亡專家，信奉道教，來自台灣，英語由於帶有口音常被萊薇調侃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/1a/27880_crt_ZzZJZ.jpg?r=1415642253",
+        "link": "https://bgm.tv/character/27880",
+        "categorie": "person"
+      },
+      {
+        "id": "27882",
+        "label": "罗贝尔特",
+        "info": "堪稱是萊薇他們目前為止遇過最強的恐怖對手，她一向以戴眼鏡的傳統女僕形象現身，但是身上卻攜帶可以毀滅一整座大樓的火力，從手榴彈到穿甲彈不等。她為了追擊對手可以不計任何代價，包含自己的生命在內，只為了緊咬住對方不放。被洛克稱為「來自未來的殺手機器人」，而她超乎常人的運動能力以及耐力似乎也有參考電影「魔鬼終結者2」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/12/27882_crt_1965l.jpg?r=1415644290",
+        "link": "https://bgm.tv/character/27882",
+        "categorie": "person"
+      },
+      {
+        "id": "7941",
+        "label": "ヨランダ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/c7/7941_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7941",
+        "categorie": "person"
+      },
+      {
+        "id": "7940",
+        "label": "The Church of Violence",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/de/7940_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7940",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

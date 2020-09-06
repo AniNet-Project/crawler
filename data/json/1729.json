@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1196",
+        "label": "山口如月",
+        "info": "GA1年级女学生。官方介绍时通称“如月（キサラギ）”，作品中常用汉字表示。水渊叫她“小如（如ちゃん）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/de/1196_QXCoe.jpg",
+        "link": "https://bgm.tv/character/1196",
+        "categorie": "person"
+      },
+      {
+        "id": "1200",
+        "label": "野田美希",
+        "info": "GA一年级女学生。官方介绍时通称“野田美希（ノダミキ）”，周围的人称呼她“野田（ノダ）”或“公主（姫）”。给人的印象色彩为亮色系，特别是黄色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/2d/1200_6dr6R.jpg",
+        "link": "https://bgm.tv/character/1200",
+        "categorie": "person"
+      },
+      {
+        "id": "1198",
+        "label": "友兼",
+        "info": "GA一年级女学生。官方介绍时通称“友兼（トモカネ）”。友兼为姓，五人组当中只有她的名字不明。给人的色彩印象为深色系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/4e/1198_xjpVT.jpg",
+        "link": "https://bgm.tv/character/1198",
+        "categorie": "person"
+      },
+      {
+        "id": "1197",
+        "label": "大道雅",
+        "info": "GA一年级女学生。官方介绍时通称“教授（キョージュ）”，奈三子和她的母亲则称呼她“小雅（マサちゃん，发音不同）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/5e/1197_ZefEl.jpg",
+        "link": "https://bgm.tv/character/1197",
+        "categorie": "person"
+      },
+      {
+        "id": "1199",
+        "label": "野崎奈三子",
+        "info": "GA一年级女学生。官方介绍时通称“奈三子（ナミコさん）”。给人的色彩印象是灰色系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/2e/1199_HHFEi.jpg",
+        "link": "https://bgm.tv/character/1199",
+        "categorie": "person"
+      },
+      {
+        "id": "1201",
+        "label": "芦原千佳子",
+        "info": "GA三年级女学生。美术社社长，水渊称呼他为“小芦（あーさん）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/01/1201_n1Qlm.jpg",
+        "link": "https://bgm.tv/character/1201",
+        "categorie": "person"
+      },
+      {
+        "id": "1202",
+        "label": "水渊",
+        "info": "GA三年级女学生。校园生活环境社社长兼唯一社员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/77/1202_40xhA.jpg",
+        "link": "https://bgm.tv/character/1202",
+        "categorie": "person"
+      },
+      {
+        "id": "1203",
+        "label": "鱼住",
+        "info": "普通科特别升学班（FA）三年级学生，美术社副社长，个性冷静，充满知性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/14/1203_LmcKa.jpg",
+        "link": "https://bgm.tv/character/1203",
+        "categorie": "person"
+      },
+      {
+        "id": "1204",
+        "label": "保村",
+        "info": "就读工业科汽车整备班（J）二年级男学生。被芦原拉进美术社。个性热血。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/2f/1204_zJGjI.jpg",
+        "link": "https://bgm.tv/character/1204",
+        "categorie": "person"
+      },
+      {
+        "id": "1205",
+        "label": "外间巧真",
+        "info": "GA一年级的级任老师，男性。喜欢喝咖啡，喝的量很多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/71/1205_W1uKB.jpg",
+        "link": "https://bgm.tv/character/1205",
+        "categorie": "person"
+      },
+      {
+        "id": "1207",
+        "label": "笹本辛",
+        "info": "GA三年级级任老师，女性。美术社与学园生活环境社顾问。美术社社员称呼她为“殿”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/4e/1207_03wv0.jpg",
+        "link": "https://bgm.tv/character/1207",
+        "categorie": "person"
+      },
+      {
+        "id": "1206",
+        "label": "宇佐美真由实",
+        "info": "GA一年级的副级任老师，女性。GA三年级的学生称呼她为“さめちゃん先生”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/b2/1206_crt_zvxHA.jpg",
+        "link": "https://bgm.tv/character/1206",
+        "categorie": "person"
+      },
+      {
+        "id": "70745",
+        "label": "吉川",
+        "info": "GA1年の女子生徒。ミキからは「吉川っち」と呼ばれている。おっとりとした雰囲気で、ショートヘアと温和そうな垂れ目が特徴だが、創作意欲を刺激されると筆を取りたくなる性分があり、作法の授業の茶道の最中に懐紙でデッサンを取ろうとして咎められたり、野球部の試合の応援にて対戦相手側のベンチ裏までスケッチに赴くといった場面がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/6c/70745_crt_80ZIW.jpg?r=1579965913",
+        "link": "https://bgm.tv/character/70745",
+        "categorie": "person"
+      },
+      {
+        "id": "70744",
+        "label": "素猫",
+        "info": "友兼が「素描（そびょう）」を「素猫（すねこ）」と読み間違えたことをきっかけに、如月が発想した猫のキャラクター。本作のマスコットキャラクター的存在でありアニメ版の公式ウェブサイトや番組宣伝、オープニングなどにも登場する。種類は毛の色だけでも白、茶色、薄茶色とさまざま。巻いているしっぽ、和み系の顔が特徴。またバリエーションとして、劇中劇「えがいてあそぼ!」に登場する茶色の素猫（ミキが動かすパペット）も存在する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/23/70744_crt_JCSFd.jpg",
+        "link": "https://bgm.tv/character/70744",
+        "categorie": "person"
+      },
+      {
+        "id": "68981",
+        "label": "小黑",
+        "info": "穿黑衣、戴黑帽、戴眼镜、身背棺材的旅行者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/35/68981_crt_1nRWT.jpg?r=1554972943",
+        "link": "https://bgm.tv/character/68981",
+        "categorie": "person"
+      },
+      {
+        "id": "69688",
+        "label": "阿千",
+        "info": "小黑的旅伴。外表是蝙蝠，会说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/bf/69688_crt_9tU69.jpg?r=1554985318",
+        "link": "https://bgm.tv/character/69688",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16201",
+        "label": "坂井和奏",
+        "info": "土産物屋の娘。母の存命中は音楽科に籍を置いていたが、彼女が他界した事により音楽と決別を果たした。家族構成は父圭介とオス猫のドラ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/3a/16201_crt_9K6tz.jpg?r=1364087030",
+        "link": "https://bgm.tv/character/16201",
+        "categorie": "person"
+      },
+      {
+        "id": "16202",
+        "label": "宫本来夏",
+        "info": "歌が好きなこともあって声楽部に所属している。性格は前向き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/53/16202_crt_KDU8k.jpg?r=1364087025",
+        "link": "https://bgm.tv/character/16202",
+        "categorie": "person"
+      },
+      {
+        "id": "16203",
+        "label": "冲田纱羽",
+        "info": "和奏的同班同学，弓箭部所属的少女。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/fc/16203_crt_0ECZ7.jpg?r=1592101145",
+        "link": "https://bgm.tv/character/16203",
+        "categorie": "person"
+      },
+      {
+        "id": "16204",
+        "label": "田中大智",
+        "info": "年齢：高校3年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/e9/16204_crt_0Sx0s.jpg?r=1364086995",
+        "link": "https://bgm.tv/character/16204",
+        "categorie": "person"
+      },
+      {
+        "id": "16205",
+        "label": "维也纳/前田敦博",
+        "info": "年齢：高校3年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/73/16205_crt_U7a4n.jpg?r=1427919243",
+        "link": "https://bgm.tv/character/16205",
+        "categorie": "person"
+      },
+      {
+        "id": "16733",
+        "label": "高桥智子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/0d/16733_crt_ydDWU.jpg?r=1364087107",
+        "link": "https://bgm.tv/character/16733",
+        "categorie": "person"
+      },
+      {
+        "id": "16734",
+        "label": "坂井圭介",
+        "info": "和奏の父親。土産物屋「こかげや」を経営している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/41/16734_crt_gV3hR.jpg",
+        "link": "https://bgm.tv/character/16734",
+        "categorie": "person"
+      },
+      {
+        "id": "16735",
+        "label": "高仓直子",
+        "info": "教頭。声楽部の顧問を担当。生徒の前では感情的な言動を抑制するように努めている。合唱部を良く思っておらず、特に来夏には厳しく当たり、活動の妨害を試みる言動も多い。和奏とは、まひるの思い出話を通じてしばしば話をすることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/93/16735_crt_84UBm.jpg?r=1364087113",
+        "link": "https://bgm.tv/character/16735",
+        "categorie": "person"
+      },
+      {
+        "id": "16736",
+        "label": "冲田志保",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e4/16736_crt_Gp1Yq.jpg?r=1364087100",
+        "link": "https://bgm.tv/character/16736",
+        "categorie": "person"
+      },
+      {
+        "id": "16737",
+        "label": "池崎赖",
+        "info": "校長。バロック時代の音楽家のような特徴的なヘアスタイルをしている。温厚な性格だが押しに弱い。音叉の音を好み、ストレスを感じるようなことがあると音叉を鳴らして心を落ち着けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/de/16737_crt_sssBP.jpg?r=1364087040",
+        "link": "https://bgm.tv/character/16737",
+        "categorie": "person"
+      },
+      {
+        "id": "50318",
+        "label": "坂井真昼",
+        "info": "和奏の母親。和奏の高校受験と時を同じくして病気で亡くなり、物語開始時点で既に故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/34/50318_crt_Tt4t4.jpg?r=1485045729",
+        "link": "https://bgm.tv/character/50318",
+        "categorie": "person"
+      },
+      {
+        "id": "50319",
+        "label": "冲田正一",
+        "info": "紗羽の父親で住職。頑固だが、娘のことを気にする親バカな性格でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a2/50319_crt_woveb.jpg?r=1485045894",
+        "link": "https://bgm.tv/character/50319",
+        "categorie": "person"
+      },
+      {
+        "id": "50320",
+        "label": "田中晴香",
+        "info": "大智の姉。大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/20/50320_crt_SE6i7.jpg?r=1485046011",
+        "link": "https://bgm.tv/character/50320",
+        "categorie": "person"
+      },
+      {
+        "id": "50321",
+        "label": "宫本诚",
+        "info": "来夏の弟。普通科。生徒会副書記。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/49/50321_crt_57W6r.jpg?r=1485046225",
+        "link": "https://bgm.tv/character/50321",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

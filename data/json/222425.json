@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57668",
+        "label": "ソード",
+        "info": "鋼の肉体を持つタフガイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/95/57668_crt_1W15a.jpg?r=1504715935",
+        "link": "https://bgm.tv/character/57668",
+        "categorie": "person"
+      },
+      {
+        "id": "57669",
+        "label": "ソフィ",
+        "info": "行方不明の兄を探す少女。身寄りがなくなり、今は孤児院に居る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/f3/57669_crt_gLR4Z.jpg?r=1504715954",
+        "link": "https://bgm.tv/character/57669",
+        "categorie": "person"
+      },
+      {
+        "id": "57670",
+        "label": "ルーク",
+        "info": "常に沈着冷静。言葉数は少ないがソードと絡むとペースを崩す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/e7/57670_crt_Q6zWg.jpg?r=1504716301",
+        "link": "https://bgm.tv/character/57670",
+        "categorie": "person"
+      },
+      {
+        "id": "57671",
+        "label": "ジーナ",
+        "info": "謎多き美女。ソードやルークとは馴染みらしいが、繋がりは不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/31/57671_crt_6UuUD.jpg?r=1504716185",
+        "link": "https://bgm.tv/character/57671",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

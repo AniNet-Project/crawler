@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9026",
+        "label": "三桥廉",
+        "info": "西浦のエース。自分に自信がなくオドオドしがちだが、投げることへの熱意は人一倍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/29/9026_crt_Lqqq0.jpg?r=1398188556",
+        "link": "https://bgm.tv/character/9026",
+        "categorie": "person"
+      },
+      {
+        "id": "10832",
+        "label": "阿部隆也",
+        "info": "三橋とバッテリーを組む強気な頭脳派捕手。基本的に冷静だが、イライラすると大声に。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a9/10832_crt_fwnNI.jpg?r=1398188532",
+        "link": "https://bgm.tv/character/10832",
+        "categorie": "person"
+      },
+      {
+        "id": "10833",
+        "label": "花井梓",
+        "info": "面倒見のいい頼れる主将。田島にライバル意識がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/56/10833_crt_c3K5c.jpg",
+        "link": "https://bgm.tv/character/10833",
+        "categorie": "person"
+      },
+      {
+        "id": "10836",
+        "label": "田岛悠一郎",
+        "info": "無邪気で野球センス抜群。「一試合やって打てなかった球はない」という４番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/af/10836_crt_YGTzt.jpg?r=1398188576",
+        "link": "https://bgm.tv/character/10836",
+        "categorie": "person"
+      },
+      {
+        "id": "10837",
+        "label": "冲一利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/89/10837_crt_hpypn.jpg",
+        "link": "https://bgm.tv/character/10837",
+        "categorie": "person"
+      },
+      {
+        "id": "10838",
+        "label": "荣口勇人",
+        "info": "細やかな気配りのできる優しい性格の副主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/5f/10838_crt_a83QO.jpg",
+        "link": "https://bgm.tv/character/10838",
+        "categorie": "person"
+      },
+      {
+        "id": "10840",
+        "label": "巢山尚志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/7c/10840_crt_PTWek.jpg",
+        "link": "https://bgm.tv/character/10840",
+        "categorie": "person"
+      },
+      {
+        "id": "13108",
+        "label": "水谷文贵",
+        "info": "時々見せる間の抜けた言動やプレーは愛きょうか。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/fe/13108_crt_v8mkw.jpg",
+        "link": "https://bgm.tv/character/13108",
+        "categorie": "person"
+      },
+      {
+        "id": "13109",
+        "label": "泉孝介",
+        "info": "クールな言動が目立つが内には秘めたる闘志が。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/71/13109_crt_1AaA1.jpg",
+        "link": "https://bgm.tv/character/13109",
+        "categorie": "person"
+      },
+      {
+        "id": "28442",
+        "label": "西广辰太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/26/28442_crt_8KhoN.jpg",
+        "link": "https://bgm.tv/character/28442",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

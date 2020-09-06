@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12944",
+        "label": "小野寺律",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/ab/12944_crt_8ddY8.jpg?r=1489513145",
+        "link": "https://bgm.tv/character/12944",
+        "categorie": "person"
+      },
+      {
+        "id": "12945",
+        "label": "高野政宗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/e9/12945_crt_XhI99.jpg",
+        "link": "https://bgm.tv/character/12945",
+        "categorie": "person"
+      },
+      {
+        "id": "12946",
+        "label": "羽鸟芳雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/37/12946_crt_7C96B.jpg",
+        "link": "https://bgm.tv/character/12946",
+        "categorie": "person"
+      },
+      {
+        "id": "12947",
+        "label": "吉野千秋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/c8/12947_crt_KZZlZ.jpg",
+        "link": "https://bgm.tv/character/12947",
+        "categorie": "person"
+      },
+      {
+        "id": "12948",
+        "label": "木佐翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/66/12948_crt_Dhw9m.jpg",
+        "link": "https://bgm.tv/character/12948",
+        "categorie": "person"
+      },
+      {
+        "id": "12949",
+        "label": "雪名皇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ef/12949_crt_CafO9.jpg",
+        "link": "https://bgm.tv/character/12949",
+        "categorie": "person"
+      },
+      {
+        "id": "7975",
+        "label": "井坂龙一郎",
+        "info": "纯情误会（純情ミステイク）主角。丸川书店现任社长（纯情罗曼史三期）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/f0/7975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7975",
+        "categorie": "person"
+      },
+      {
+        "id": "13002",
+        "label": "柳濑优",
+        "info": "千秋のチーフアシスタント。漫画家のプロアシスタントであり、基本的には少年漫画を担当。技術が高く、いつもあちこちに引っ張りだこだが、常に千秋のアシスタントを最優先にしている。中1の秋、隣席になった千秋に教科書を見せてもらって以来、彼が好き。よく千秋をデッサンモデルにする。トリとも中学からの知り合いで、犬猿の仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/fb/13002_crt_RNIU0.jpg",
+        "link": "https://bgm.tv/character/13002",
+        "categorie": "person"
+      },
+      {
+        "id": "34858",
+        "label": "横泽隆史",
+        "info": "6月18日生まれ。仕事をきっちりこなす、強面な営業社員。異名は暴れグマ。政宗とは大学の同級生兼親友であり、勢いで何度か関係を持っていた。ソラ太を可愛がっている。面倒見が良く、子供と動物からは懐かれている。 政宗に振られたその日の晩、自棄酒を呷っていた時に桐嶋禅と出会い、徐々に彼を意識しつつある。現在ひよの子守りを名目に、桐嶋家に通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/fb/34858_crt_336fw.jpg?r=1438957469",
+        "link": "https://bgm.tv/character/34858",
+        "categorie": "person"
+      },
+      {
+        "id": "35256",
+        "label": "美浓奏",
+        "info": "エメラルド編集部の編集者。周期明けとその前の差が激しいが、どんな時でも笑顔を絶やさない。怒らせてはいけない男（政宗談）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ae/35256_crt_9mHsd.jpg",
+        "link": "https://bgm.tv/character/35256",
+        "categorie": "person"
+      },
+      {
+        "id": "7976",
+        "label": "朝比奈薫",
+        "info": "纯情误会（純情ミステイク）主角。井坂龙一郎的青梅竹马，现秘书兼恋人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/bc/7976_crt_328i7.jpg",
+        "link": "https://bgm.tv/character/7976",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

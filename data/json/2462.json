@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2359",
+        "label": "罗罗诺亚·索隆",
+        "info": "佐罗有着一头绿色短发、左臂绑着深绿色头巾（全力战斗时会把它系在头上）、绿色肚兜和左耳的三只水滴状耳环，自第二部开始左眼多了一条伤痕。其流派是自创的“三刀流”，双手持刀之外，口中再咬着一把刀。目前的佩刀为“和道一文字”、“三代鬼彻”和“秋水”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/9a/2359_crt_uxOIM.jpg",
+        "link": "https://bgm.tv/character/2359",
+        "categorie": "person"
+      },
+      {
+        "id": "3310",
+        "label": "蒙奇·D·卡普",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/38/3310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3310",
+        "categorie": "person"
+      },
+      {
+        "id": "4492",
+        "label": "センゴク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f0/4492_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4492",
+        "categorie": "person"
+      },
+      {
+        "id": "2396",
+        "label": "マキノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/f6/2396_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2396",
+        "categorie": "person"
+      },
+      {
+        "id": "2397",
+        "label": "ウープ・スラップ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/8d/2397_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2397",
+        "categorie": "person"
+      },
+      {
+        "id": "2403",
+        "label": "Koshiro",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/7d/2403_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2403",
+        "categorie": "person"
+      },
+      {
+        "id": "2449",
+        "label": "にんじん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/d7/2449_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2449",
+        "categorie": "person"
+      },
+      {
+        "id": "2450",
+        "label": "たまねぎ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/d4/2450_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2450",
+        "categorie": "person"
+      },
+      {
+        "id": "2451",
+        "label": "ピーマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/bf/2451_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2451",
+        "categorie": "person"
+      },
+      {
+        "id": "2455",
+        "label": "パティ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/27/2455_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2455",
+        "categorie": "person"
+      },
+      {
+        "id": "2456",
+        "label": "カルネ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/f6/2456_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2456",
+        "categorie": "person"
+      },
+      {
+        "id": "2457",
+        "label": "ゲンゾウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/05/2457_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2457",
+        "categorie": "person"
+      },
+      {
+        "id": "2459",
+        "label": "Dr.ナコー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/db/2459_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2459",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

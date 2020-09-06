@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13312",
+        "label": "黑猫警长",
+        "info": "眼睛瞪得象铜铃 射出闪电般的精明",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/a3/13312_crt_03frE.jpg",
+        "link": "https://bgm.tv/character/13312",
+        "categorie": "person"
+      },
+      {
+        "id": "39489",
+        "label": "白猫班长",
+        "info": "黑猫警长的助手，帮助黑猫警长打击森林犯罪，最终被一只耳娘舅吃猫鼠迫害，英勇牺牲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/d8/39489_crt_jdECv.jpg",
+        "link": "https://bgm.tv/character/39489",
+        "categorie": "person"
+      },
+      {
+        "id": "13321",
+        "label": "一只耳",
+        "info": "经典动画片《黑猫警长》中的经典反派角色。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/ba/13321_crt_RctVt.jpg",
+        "link": "https://bgm.tv/character/13321",
+        "categorie": "person"
+      },
+      {
+        "id": "39491",
+        "label": "红裤兔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/bb/39491_crt_8KJ82.jpg?r=1568955665",
+        "link": "https://bgm.tv/character/39491",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

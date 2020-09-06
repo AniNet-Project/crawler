@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22029",
+        "label": "羽佐间正义",
+        "info": "男性ファッション誌のモデルをしている青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/93/22029_crt_bZQyG.jpg",
+        "link": "https://bgm.tv/character/22029",
+        "categorie": "person"
+      },
+      {
+        "id": "22030",
+        "label": "后藤英德",
+        "info": "交番勤務の警察官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/1a/22030_crt_J5sSe.jpg?r=1404910911",
+        "link": "https://bgm.tv/character/22030",
+        "categorie": "person"
+      },
+      {
+        "id": "22031",
+        "label": "真野真理",
+        "info": "三人組アイドルグループ“ミネラル★ミラクル★ミューズ”でセンターを務め、作詞作曲も手がける才女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0f/22031_crt_HS6ll.jpg",
+        "link": "https://bgm.tv/character/22031",
+        "categorie": "person"
+      },
+      {
+        "id": "22032",
+        "label": "三泽瑞希",
+        "info": "“ミネラル★ミラクル★ミューズ”のリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/a0/22032_crt_b00ay.jpg",
+        "link": "https://bgm.tv/character/22032",
+        "categorie": "person"
+      },
+      {
+        "id": "22033",
+        "label": "森田萌",
+        "info": "“ミネラル★ミラクル★ミューズ”のメンバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/a9/22033_crt_Q2oqk.jpg",
+        "link": "https://bgm.tv/character/22033",
+        "categorie": "person"
+      },
+      {
+        "id": "22034",
+        "label": "要丈治",
+        "info": "往年のヒーロー番組「レッドアックス」で主役を務めたアクション俳優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/56/22034_crt_PqlHt.jpg",
+        "link": "https://bgm.tv/character/22034",
+        "categorie": "person"
+      },
+      {
+        "id": "22035",
+        "label": "原冢淳",
+        "info": "大手文具メーカー・モンスターズステーショナリーの",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/b8/22035_crt_MnnXq.jpg",
+        "link": "https://bgm.tv/character/22035",
+        "categorie": "person"
+      },
+      {
+        "id": "22036",
+        "label": "石原澄",
+        "info": "芸能プロダクション・シーザープロの敏腕マネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/98/22036_crt_LfAvf.jpg",
+        "link": "https://bgm.tv/character/22036",
+        "categorie": "person"
+      },
+      {
+        "id": "22037",
+        "label": "今野明",
+        "info": "Webニュースサイト“HIGH ROLLERS HI!”を運営する男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/60/22037_crt_24r50.jpg",
+        "link": "https://bgm.tv/character/22037",
+        "categorie": "person"
+      },
+      {
+        "id": "22500",
+        "label": "国王Torture",
+        "info": "邪恶组织“Torture”的首领，全心全意贯彻怪人的邪恶之道，并最终如同特摄片中的反派boss一般壮烈死去的名副其实的反派Boss。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/96/22500_crt_Qs79d.jpg",
+        "link": "https://bgm.tv/character/22500",
+        "categorie": "person"
+      },
+      {
+        "id": "22529",
+        "label": "断头台猩猩",
+        "info": "キング・トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/f2/22529_crt_yZO77.jpg",
+        "link": "https://bgm.tv/character/22529",
+        "categorie": "person"
+      },
+      {
+        "id": "22530",
+        "label": "悬空鸢",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/cf/22530_crt_IY3c7.jpg",
+        "link": "https://bgm.tv/character/22530",
+        "categorie": "person"
+      },
+      {
+        "id": "22531",
+        "label": "煮刑犀牛",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/4b/22531_crt_hchh0.jpg",
+        "link": "https://bgm.tv/character/22531",
+        "categorie": "person"
+      },
+      {
+        "id": "22532",
+        "label": "三角木马",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/7d/22532_crt_vE9Tf.jpg",
+        "link": "https://bgm.tv/character/22532",
+        "categorie": "person"
+      },
+      {
+        "id": "22556",
+        "label": "车轮大蛇",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/94/22556_crt_4z4P8.jpg",
+        "link": "https://bgm.tv/character/22556",
+        "categorie": "person"
+      },
+      {
+        "id": "22557",
+        "label": "烙铁食人鱼",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c7/22557_crt_49kXK.jpg",
+        "link": "https://bgm.tv/character/22557",
+        "categorie": "person"
+      },
+      {
+        "id": "22559",
+        "label": "青岛苍一",
+        "info": "サムライベース-BLUE，原RED。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/e2/22559_crt_ffYFf.jpg",
+        "link": "https://bgm.tv/character/22559",
+        "categorie": "person"
+      },
+      {
+        "id": "22560",
+        "label": "绿川碧",
+        "info": "サムライベース-Green，原Red。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b0/22560_crt_rgZAx.jpg",
+        "link": "https://bgm.tv/character/22560",
+        "categorie": "person"
+      },
+      {
+        "id": "22561",
+        "label": "黑木暗儿",
+        "info": "サムライベース-Black，原Red。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/36/22561_crt_smsMR.jpg",
+        "link": "https://bgm.tv/character/22561",
+        "categorie": "person"
+      },
+      {
+        "id": "22562",
+        "label": "桃井樱",
+        "info": "サムライベース-Pink，原Red。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/83/22562_crt_U3qW7.jpg",
+        "link": "https://bgm.tv/character/22562",
+        "categorie": "person"
+      },
+      {
+        "id": "23189",
+        "label": "毒毒毒",
+        "info": "魔人四天王之一，浑身是毒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/d6/23189_crt_1fZu1.jpg",
+        "link": "https://bgm.tv/character/23189",
+        "categorie": "person"
+      },
+      {
+        "id": "23190",
+        "label": "MMM34",
+        "info": "魔人四天王之一，与其说是一个人，不如说是一个团体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/d8/23190_crt_tRWJ3.jpg",
+        "link": "https://bgm.tv/character/23190",
+        "categorie": "person"
+      },
+      {
+        "id": "23238",
+        "label": "致命玩笑",
+        "info": "魔人四天王之一，与MMM34一同致力于将街道超冷冻化的作战",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/81/23238_crt_D8CP1.jpg",
+        "link": "https://bgm.tv/character/23238",
+        "categorie": "person"
+      },
+      {
+        "id": "23239",
+        "label": "烈焰魔人",
+        "info": "魔人四天王之一，北海道热带化计划的执行人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/08/23239_crt_cBE5B.jpg",
+        "link": "https://bgm.tv/character/23239",
+        "categorie": "person"
+      },
+      {
+        "id": "24046",
+        "label": "泽田灰司",
+        "info": "友人達と夜間に出歩いていたことで、“サムライフラメンコ”に注意を受けた中学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/95/24046_crt_nT6i6.jpg?r=1394783241",
+        "link": "https://bgm.tv/character/24046",
+        "categorie": "person"
+      },
+      {
+        "id": "24187",
+        "label": "奥崎・F・真太郎",
+        "info": "日本史上最强（最弱）总理大臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/8d/24187_crt_gpRor.jpg?r=1396258459",
+        "link": "https://bgm.tv/character/24187",
+        "categorie": "person"
+      },
+      {
+        "id": "24189",
+        "label": "迈阿密芭蕾",
+        "info": "优雅美丽的怪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b4/24189_crt_4piPb.jpg?r=1396412088",
+        "link": "https://bgm.tv/character/24189",
+        "categorie": "person"
+      },
+      {
+        "id": "24190",
+        "label": "切腹Sunshine",
+        "info": "他们真的曾经战斗过！",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/cf/24190_crt_Ic8xY.jpg",
+        "link": "https://bgm.tv/character/24190",
+        "categorie": "person"
+      },
+      {
+        "id": "24306",
+        "label": "女番长月亮",
+        "info": "他们真的曾经战斗过！",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/41/24306_crt_868Z9.jpg",
+        "link": "https://bgm.tv/character/24306",
+        "categorie": "person"
+      },
+      {
+        "id": "24307",
+        "label": "魔人弗拉明戈",
+        "info": "以武士弗拉明戈为原型进化的魔人，是6万5千活魔人全体意识的对外接口，与武士弗拉明戈有着在本质上相同的坚持。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/a5/24307_crt_BTQbV.jpg",
+        "link": "https://bgm.tv/character/24307",
+        "categorie": "person"
+      },
+      {
+        "id": "24318",
+        "label": "巨斧女士",
+        "info": "红色巨斧的妻子，同时也是事务所的所长，在要丈治的身边完美地扮演着正妻的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/18/24318_crt_9TS6L.jpg",
+        "link": "https://bgm.tv/character/24318",
+        "categorie": "person"
+      },
+      {
+        "id": "24356",
+        "label": "弗拉明戈星人",
+        "info": "50亿弗拉明戈星人的共同意识集合体，以进化的名义对其他的星球实施侵略。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/3a/24356_crt_IlDJL.jpg",
+        "link": "https://bgm.tv/character/24356",
+        "categorie": "person"
+      },
+      {
+        "id": "24394",
+        "label": "宇宙意志",
+        "info": "在战斗终结后，指引英雄前路方向的宇宙意识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/f3/24394_crt_pZ985.jpg",
+        "link": "https://bgm.tv/character/24394",
+        "categorie": "person"
+      },
+      {
+        "id": "22558",
+        "label": "笞型海象",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/5a/22558_crt_n2O5v.jpg",
+        "link": "https://bgm.tv/character/22558",
+        "categorie": "person"
+      },
+      {
+        "id": "24156",
+        "label": "胳肢喵人",
+        "info": "トーチャー万歳！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/f9/24156_crt_cAZcJ.jpg",
+        "link": "https://bgm.tv/character/24156",
+        "categorie": "person"
+      },
+      {
+        "id": "24319",
+        "label": "后藤的女友",
+        "info": "后藤英德的女朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/dc/24319_crt_tntTb.jpg?r=1397121280",
+        "link": "https://bgm.tv/character/24319",
+        "categorie": "person"
+      },
+      {
+        "id": "24395",
+        "label": "弗拉明戈机器人",
+        "info": "弗拉明者所驾驶的机体合体而成的巨大机器人，使用剑、钻头、猛蹴等经典招式对敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/f2/24395_crt_5LeEr.jpg",
+        "link": "https://bgm.tv/character/24395",
+        "categorie": "person"
+      },
+      {
+        "id": "24396",
+        "label": "弗拉明飞鸟号",
+        "info": "弗拉明者1号机，由弗拉明红驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/25/24396_crt_KJ5K7.jpg?r=1397538334",
+        "link": "https://bgm.tv/character/24396",
+        "categorie": "person"
+      },
+      {
+        "id": "24398",
+        "label": "弗拉明隼号",
+        "info": "弗拉明者4号机，由弗拉明绿驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/1c/24398_crt_nvoRc.jpg?r=1397539429",
+        "link": "https://bgm.tv/character/24398",
+        "categorie": "person"
+      },
+      {
+        "id": "24426",
+        "label": "弗拉明蛇号",
+        "info": "弗拉明者5号机，由弗拉明黑驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/c2/24426_crt_s9RcN.jpg?r=1397811512",
+        "link": "https://bgm.tv/character/24426",
+        "categorie": "person"
+      },
+      {
+        "id": "24427",
+        "label": "弗拉明象号",
+        "info": "弗拉明者3号机，由弗拉明粉红驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/17/24427_crt_WxZnp.jpg",
+        "link": "https://bgm.tv/character/24427",
+        "categorie": "person"
+      },
+      {
+        "id": "24428",
+        "label": "弗拉明鹰号",
+        "info": "弗拉明者2号机，由弗拉明蓝驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/79/24428_crt_A4GJq.jpg",
+        "link": "https://bgm.tv/character/24428",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

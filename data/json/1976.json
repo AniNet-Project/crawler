@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7436",
+        "label": "巴尔莎",
+        "info": "“守护者系列”的主角，故事开始时为30岁。使用短枪的女保镖，随着旅行商队的警卫工作而在各国到处旅行。出生于北方国家冈巴鲁。虽为女性，却因使用精湛的短枪武艺而以“短枪使巴尔莎”为闻名。孩提时期时，母亲在巴尔莎五岁时死亡，父亲卡鲁那·伊翁萨是王的主治医生，却因为卷入政权问题而被谋杀，当巴尔莎也因为封口而在被杀前，父亲的友人吉古罗·穆萨（ジグロ·ムサ）帮助巴尔莎逃往国外。在各国逃亡的途中看出她有武术的才能而教导她短枪武艺。吉古罗因病去逝后，她因活用短枪而开始以保镖为业。在吉古罗共事的陀珞烗家中与汤达成为青梅竹马，只要受伤就会请他治疗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/69/7436_crt_BrBmz.jpg?r=1476503113",
+        "link": "https://bgm.tv/character/7436",
+        "categorie": "person"
+      },
+      {
+        "id": "7437",
+        "label": "查穆",
+        "info": "新龙勾皇国的第二皇子，年龄11岁。本来为见识浅薄、年纪轻轻的少年，却因各种怪奇的经验而使精神年龄急速上升，以名君的气势发言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a8/7437_crt_anidb.jpg?r=1449817785",
+        "link": "https://bgm.tv/character/7437",
+        "categorie": "person"
+      },
+      {
+        "id": "7438",
+        "label": "汤达",
+        "info": "流着亚空人血脉的药草师，故事开始为28岁。为陀珞烗的弟子，目前正在修习咒术。以药草治疗为长项，为老好人的性格，巴尔莎的青梅竹马，非常重视巴尔莎，不管她受伤多少次都会为她治疗。从小看到人死去的模样后，为了寻找灵魂而开始观看鸟兽，亲兄弟都把他当作怪人对待。亚空人的血有1/4（母系）、龙勾人的血有3/4。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/8b/7438_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7438",
+        "categorie": "person"
+      },
+      {
+        "id": "7439",
+        "label": "陀珞烗",
+        "info": "当代亚空的咒术师，使用咒术便能看到亚空所称“拿龙古”的精灵世界。故事开始为70岁，但还拥有很多气力体力，看起来似乎还很健壮，好酒的先住民亚空人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/31/7439_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7439",
+        "categorie": "person"
+      },
+      {
+        "id": "8693",
+        "label": "托亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/e1/8693_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8693",
+        "categorie": "person"
+      },
+      {
+        "id": "8694",
+        "label": "萨亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/7a/8694_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8694",
+        "categorie": "person"
+      },
+      {
+        "id": "8697",
+        "label": "修伽",
+        "info": "新龙勾皇国里“星之宫”的占星术师，20岁。在圣导师下学习，有着优异的头脑，被称为“星之宫的天才”。兼职二之宫·二皇子查穆的教导者，私下秘密学习陀珞烗所属亚空人特有的咒术及世界观。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/34/8697_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8697",
+        "categorie": "person"
+      },
+      {
+        "id": "7441",
+        "label": "吉古罗·穆萨",
+        "info": "与巴尔莎有着深切关系的短枪使，是巴尔莎父亲卡鲁那·伊翁萨的友人，也是巴尔莎的救命恩人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/af/7441_crt_8IQvx.jpg",
+        "link": "https://bgm.tv/character/7441",
+        "categorie": "person"
+      },
+      {
+        "id": "8695",
+        "label": "二ノ妃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/04/8695_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8695",
+        "categorie": "person"
+      },
+      {
+        "id": "8696",
+        "label": "ガカイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/0c/8696_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8696",
+        "categorie": "person"
+      },
+      {
+        "id": "8698",
+        "label": "モン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/bd/8698_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8698",
+        "categorie": "person"
+      },
+      {
+        "id": "8699",
+        "label": "ジン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/49/8699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8699",
+        "categorie": "person"
+      },
+      {
+        "id": "8700",
+        "label": "ゼン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/03/8700_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8700",
+        "categorie": "person"
+      },
+      {
+        "id": "8701",
+        "label": "ユン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/8c/8701_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8701",
+        "categorie": "person"
+      },
+      {
+        "id": "8702",
+        "label": "聖導師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/7a/8702_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8702",
+        "categorie": "person"
+      },
+      {
+        "id": "8705",
+        "label": "帝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/a0/8705_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8705",
+        "categorie": "person"
+      },
+      {
+        "id": "8707",
+        "label": "タンダの伯父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ba/8707_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8707",
+        "categorie": "person"
+      },
+      {
+        "id": "8708",
+        "label": "ヤーサム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/42/8708_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8708",
+        "categorie": "person"
+      },
+      {
+        "id": "8709",
+        "label": "ヤーサムの父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/42/8709_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8709",
+        "categorie": "person"
+      },
+      {
+        "id": "8710",
+        "label": "カルボ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/58/8710_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8710",
+        "categorie": "person"
+      },
+      {
+        "id": "8711",
+        "label": "ギョプサル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/9e/8711_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8711",
+        "categorie": "person"
+      },
+      {
+        "id": "8712",
+        "label": "セーナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/34/8712_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8712",
+        "categorie": "person"
+      },
+      {
+        "id": "8713",
+        "label": "タンドル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/84/8713_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8713",
+        "categorie": "person"
+      },
+      {
+        "id": "8730",
+        "label": "ヒョク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/43/8730_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8730",
+        "categorie": "person"
+      },
+      {
+        "id": "8731",
+        "label": "ライ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/a9/8731_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8731",
+        "categorie": "person"
+      },
+      {
+        "id": "8732",
+        "label": "スン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/6e/8732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8732",
+        "categorie": "person"
+      },
+      {
+        "id": "8733",
+        "label": "タガ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/2c/8733_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8733",
+        "categorie": "person"
+      },
+      {
+        "id": "8735",
+        "label": "ソウヤ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/13/8735_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8735",
+        "categorie": "person"
+      },
+      {
+        "id": "8736",
+        "label": "ニムカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/ef/8736_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8736",
+        "categorie": "person"
+      },
+      {
+        "id": "8737",
+        "label": "ニムカの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/b7/8737_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8737",
+        "categorie": "person"
+      },
+      {
+        "id": "8739",
+        "label": "一ノ妃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/8f/8739_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8739",
+        "categorie": "person"
+      },
+      {
+        "id": "8743",
+        "label": "カルナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1b/8743_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8743",
+        "categorie": "person"
+      },
+      {
+        "id": "8744",
+        "label": "タグル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/5e/8744_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8744",
+        "categorie": "person"
+      },
+      {
+        "id": "8703",
+        "label": "サグム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/2a/8703_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8703",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

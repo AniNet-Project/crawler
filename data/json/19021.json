@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14656",
+        "label": "姐姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/6e/14656_crt_4HhNJ.jpg",
+        "link": "https://bgm.tv/character/14656",
+        "categorie": "person"
+      },
+      {
+        "id": "14657",
+        "label": "妹妹头",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/7e/14657_crt_z23yY.jpg",
+        "link": "https://bgm.tv/character/14657",
+        "categorie": "person"
+      },
+      {
+        "id": "14658",
+        "label": "卷卷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/00/14658_crt_Tu6GA.jpg",
+        "link": "https://bgm.tv/character/14658",
+        "categorie": "person"
+      },
+      {
+        "id": "14659",
+        "label": "美丽的人",
+        "info": "「美しさ」を極めた謎の女生徒。3年。12月24日生まれ。妹がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/4e/14659_crt_iDiQq.jpg",
+        "link": "https://bgm.tv/character/14659",
+        "categorie": "person"
+      },
+      {
+        "id": "32205",
+        "label": "国木",
+        "info": "初登場：第1冊第5話",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/3b/32205_crt_qH3yp.jpg?r=1429889585",
+        "link": "https://bgm.tv/character/32205",
+        "categorie": "person"
+      },
+      {
+        "id": "32208",
+        "label": "真田",
+        "info": "初登場：第1冊第11話",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/34/32208_crt_06y4L.jpg?r=1429890195",
+        "link": "https://bgm.tv/character/32208",
+        "categorie": "person"
+      },
+      {
+        "id": "32209",
+        "label": "水野老师",
+        "info": "初登場：第3冊第47話",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/99/32209_crt_pvEP2.jpg?r=1429890485",
+        "link": "https://bgm.tv/character/32209",
+        "categorie": "person"
+      },
+      {
+        "id": "32211",
+        "label": "右乃",
+        "info": "初登場：第1冊第10話",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/49/32211_crt_l3YE8.jpg?r=1429890692",
+        "link": "https://bgm.tv/character/32211",
+        "categorie": "person"
+      },
+      {
+        "id": "32212",
+        "label": "左乃",
+        "info": "初登場：第1冊第10話",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/0f/32212_crt_444qh.jpg?r=1429890812",
+        "link": "https://bgm.tv/character/32212",
+        "categorie": "person"
+      },
+      {
+        "id": "32213",
+        "label": "シンディ",
+        "info": "初登場：第1冊第10話",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/03/32213_crt_vM42Q.jpg?r=1429890958",
+        "link": "https://bgm.tv/character/32213",
+        "categorie": "person"
+      },
+      {
+        "id": "32215",
+        "label": "战车兵",
+        "info": "初登場：第1冊第4話",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/dd/32215_crt_BqTXk.jpg?r=1429891436",
+        "link": "https://bgm.tv/character/32215",
+        "categorie": "person"
+      },
+      {
+        "id": "32218",
+        "label": "花ちゃん",
+        "info": "初登場：第3冊第59話",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/cf/32218_crt_HEE91.jpg?r=1429892373",
+        "link": "https://bgm.tv/character/32218",
+        "categorie": "person"
+      },
+      {
+        "id": "32207",
+        "label": "多田",
+        "info": "初登場：第1冊第4話",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/45/32207_crt_mmUK3.jpg?r=1429889980",
+        "link": "https://bgm.tv/character/32207",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

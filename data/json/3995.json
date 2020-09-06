@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2352",
+        "label": "卡米那",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/04/2352_crt_anidb.jpg?r=1471348661",
+        "link": "https://bgm.tv/character/2352",
+        "categorie": "person"
+      },
+      {
+        "id": "2353",
+        "label": "西蒙",
+        "info": "王都テッペリン改めカミナシティに設立された新政府の総司令官に就任。公務に忙殺される日々をおくる。気弱で幼かった少年の面影は残しつつも、表情や外見は男らしく成長している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/af/2353_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2353",
+        "categorie": "person"
+      },
+      {
+        "id": "2354",
+        "label": "优子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/f5/2354_crt_yz7d0.jpg?r=1519295412",
+        "link": "https://bgm.tv/character/2354",
+        "categorie": "person"
+      },
+      {
+        "id": "2355",
+        "label": "妮亚",
+        "info": "本作に登場するもう1人のヒロイン。彼女は「主人公の相手役」という役割のヒロインである。第2部より登場。名の由来は英語の「Near（近い）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/9a/2355_crt_wdgd9.jpg?r=1527184797",
+        "link": "https://bgm.tv/character/2355",
+        "categorie": "person"
+      },
+      {
+        "id": "2975",
+        "label": "奇雅鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f3/2975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2975",
+        "categorie": "person"
+      },
+      {
+        "id": "3001",
+        "label": "Dai-Gurren-Dan",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/70/3001_crt_8bb2I.jpg",
+        "link": "https://bgm.tv/character/3001",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

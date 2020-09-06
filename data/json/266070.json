@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56775",
+        "label": "各务原抚子",
+        "info": "リンとの湖畔での出会いからキャンプに惹かれ、",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/59/56775_crt_DSljQ.jpg?r=1515151818",
+        "link": "https://bgm.tv/character/56775",
+        "categorie": "person"
+      },
+      {
+        "id": "56777",
+        "label": "大垣千明",
+        "info": "キャンプ場所、道具えらび、",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/27/56777_crt_dj6Su.jpg?r=1575538592",
+        "link": "https://bgm.tv/character/56777",
+        "categorie": "person"
+      },
+      {
+        "id": "56778",
+        "label": "犬山葵",
+        "info": "関西なまりで話すおっとり系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/d2/56778_crt_NwwJ6.jpg?r=1518344781",
+        "link": "https://bgm.tv/character/56778",
+        "categorie": "person"
+      },
+      {
+        "id": "56776",
+        "label": "志摩凛",
+        "info": "お爺ちゃんの影響でキャンプを始めたソロキャンパー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/38/56776_crt_hPmCK.jpg?r=1515932913",
+        "link": "https://bgm.tv/character/56776",
+        "categorie": "person"
+      },
+      {
+        "id": "56779",
+        "label": "齐藤惠那",
+        "info": "リンの友達。マイペースな自由人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/f6/56779_crt_00K4z.jpg?r=1576895423",
+        "link": "https://bgm.tv/character/56779",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "61104",
+        "label": "志摩咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/9f/61104_crt_1nXbf.jpg",
+        "link": "https://bgm.tv/character/61104",
+        "categorie": "person"
+      },
+      {
+        "id": "61445",
+        "label": "犬山明里",
+        "info": "あおいの妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/ba/61445_crt_n5rvi.jpg",
+        "link": "https://bgm.tv/character/61445",
+        "categorie": "person"
+      },
+      {
+        "id": "61106",
+        "label": "志摩凛的外祖父",
+        "info": "リンの母方の祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/fa/61106_crt_R54T4.jpg",
+        "link": "https://bgm.tv/character/61106",
+        "categorie": "person"
+      },
+      {
+        "id": "61103",
+        "label": "鸟羽美波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/88/61103_crt_wj459.jpg?r=1583074373",
+        "link": "https://bgm.tv/character/61103",
+        "categorie": "person"
+      },
+      {
+        "id": "61105",
+        "label": "鸟羽凉子",
+        "info": "原作第11話（テレビアニメ版では第7話）に姉の鳥羽美波と共に登場。キャンプ場で居合わせた際、備長炭の点火に苦労するリンを助け、なでしこに「必殺火熾し人」と言われる。中性的な容姿で、原作第11話で登場して原作第23話で性別が明かされるまでは、リンやなでしこからは鳥羽の「彼氏」と誤認されていた",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/8d/61105_crt_eRsSe.jpg",
+        "link": "https://bgm.tv/character/61105",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

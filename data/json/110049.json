@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19546",
+        "label": "利威尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/b3/19546_crt_aDdZA.jpg?r=1373284119",
+        "link": "https://bgm.tv/character/19546",
+        "categorie": "person"
+      },
+      {
+        "id": "19633",
+        "label": "艾尔文·史密斯",
+        "info": "调查军团分队长→调查兵团第13任团长",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c5/19633_crt_8hFNc.jpg?r=1410321853",
+        "link": "https://bgm.tv/character/19633",
+        "categorie": "person"
+      },
+      {
+        "id": "28281",
+        "label": "法兰·乔治",
+        "info": "リヴァイのゴロツキ時代の仲間の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/2a/28281_crt_obTjb.jpg",
+        "link": "https://bgm.tv/character/28281",
+        "categorie": "person"
+      },
+      {
+        "id": "28282",
+        "label": "伊莎贝尔·马格诺利亚",
+        "info": "リヴァイのゴロツキ時代の仲間の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/ec/28282_crt_bql5m.jpg",
+        "link": "https://bgm.tv/character/28282",
+        "categorie": "person"
+      },
+      {
+        "id": "26899",
+        "label": "韩吉·佐伊",
+        "info": "调查兵团第四分队长→调查兵团第14任团长。对巨人有着意外的热忱。有着强烈的热情及好奇心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/db/26899_crt_9Nrrt.jpg",
+        "link": "https://bgm.tv/character/26899",
+        "categorie": "person"
+      },
+      {
+        "id": "28274",
+        "label": "莫布里特·柏纳",
+        "info": "调查兵团第四分队副分队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/8f/28274_crt_uyxsl.jpg",
+        "link": "https://bgm.tv/character/28274",
+        "categorie": "person"
+      },
+      {
+        "id": "28276",
+        "label": "基斯·沙迪斯",
+        "info": "训练兵团第104期的教官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/4f/28276_crt_CcVdf.jpg",
+        "link": "https://bgm.tv/character/28276",
+        "categorie": "person"
+      },
+      {
+        "id": "28283",
+        "label": "米可·萨卡利亚斯",
+        "info": "调查兵团第二分队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8a/28283_crt_b6lhK.jpg",
+        "link": "https://bgm.tv/character/28283",
+        "categorie": "person"
+      },
+      {
+        "id": "46920",
+        "label": "尼古拉斯·罗博福",
+        "info": "议员，与为宪兵团提供物资的朗格商会有所来往，为了把预算调往那边，反对调查兵团的壁外调查。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/b6/46920_crt_pAKKp.jpg",
+        "link": "https://bgm.tv/character/46920",
+        "categorie": "person"
+      },
+      {
+        "id": "46921",
+        "label": "杨",
+        "info": "利威尔与法兰在地下时的队友，腿脚不好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/02/46921_crt_77uuU.jpg",
+        "link": "https://bgm.tv/character/46921",
+        "categorie": "person"
+      },
+      {
+        "id": "46922",
+        "label": "夫拉贡",
+        "info": "利威尔及法兰、伊莎贝尔加入调查军团时所属的分队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/88/46922_crt_7k7Jl.jpg",
+        "link": "https://bgm.tv/character/46922",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

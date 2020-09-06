@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26072",
+        "label": "无名",
+        "info": "一个舍弃名字，拥有一流剑术的无名氏浪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/bd/26072_crt_00P2z.jpg",
+        "link": "https://bgm.tv/character/26072",
+        "categorie": "person"
+      },
+      {
+        "id": "7078",
+        "label": "仔太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c3/7078_crt_anidb.jpg?r=1413817061",
+        "link": "https://bgm.tv/character/7078",
+        "categorie": "person"
+      },
+      {
+        "id": "40080",
+        "label": "罗狼",
+        "info": "白鸞に従う武装集団最強の剣士。武装集団の次席的立場で集団を束ねる事がある。西洋系の金髪碧眼の異人。強き者と闘うことを求めている。武器は倭刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/02/40080_crt_2YQk1.jpg",
+        "link": "https://bgm.tv/character/40080",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

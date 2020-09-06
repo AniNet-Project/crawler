@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1724",
+        "label": "葛修·史威德",
+        "info": "（也叫 高修）主人公的引导者，18岁。一名优秀的信蜂，貌似很厉害的样子。在十二年前人工太阳的一次闪耀中丧失了对其母亲的所有记忆，似乎是想要补偿一样，十分爱自己的妹妹。三年后因不明原因再次失去记忆且成为了与“信蜂”敌对的神秘组织成员“掠夺者”，现在在拉格的努力下被带回蜂巢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/88/1724_K40Rz.jpg",
+        "link": "https://bgm.tv/character/1724",
+        "categorie": "person"
+      },
+      {
+        "id": "1725",
+        "label": "拉格·辛谷",
+        "info": "一名拥有琥珀之眼的优秀信蜂",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/7e/1725_53xA1.jpg",
+        "link": "https://bgm.tv/character/1725",
+        "categorie": "person"
+      },
+      {
+        "id": "1726",
+        "label": "妮琦",
+        "info": "妮琦是摩柯之子，",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/56/1726_EjaE0.jpg",
+        "link": "https://bgm.tv/character/1726",
+        "categorie": "person"
+      },
+      {
+        "id": "10862",
+        "label": "肉扒",
+        "info": "从杂技团“Love Someone Down”跟着妮绮来的宠物兼后备食粮，整个身体都是嘴巴，有一个[黑桃]型的尾部。他是一种被认为已经名叫“Kapellmeister”的动物，是在远古时代能与“精灵虫”维持最佳关系的一个种族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7e/10862_crt_11WL1.jpg",
+        "link": "https://bgm.tv/character/10862",
+        "categorie": "person"
+      },
+      {
+        "id": "11464",
+        "label": "拉路歌·莱特",
+        "info": "已退役的信蜂，蜂巢的馆长。性格飘忽难以触摸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/00/11464_crt_wSpPG.jpg",
+        "link": "https://bgm.tv/character/11464",
+        "categorie": "person"
+      },
+      {
+        "id": "11465",
+        "label": "艾莉亚·林格",
+        "info": "与格修自少青梅竹马，亦互好意的女性。为了庆祝晋升到“亚卡兹克”的格修而送礼物给他。已退役的信蜂，现在是蜂巢的副馆长。她没有心弹枪，而是使用小提琴型的乐器，她的心弹为精神回复心弹“管弦乐组曲第三号（G线上的艾莉亚）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/c1/11465_crt_0WWKk.jpg",
+        "link": "https://bgm.tv/character/11465",
+        "categorie": "person"
+      },
+      {
+        "id": "11466",
+        "label": "丝露贝蒂·史威度",
+        "info": "格修的妹妹，与拉古同为12岁。与在“亚卡兹克”工作的哥哥分离地生活在“尤沙里”，母亲在她出生时死去，天生脚部不能自由活动，自称为“轮椅的女豹”。四年前格修失踪后，就独个儿居住。现在则与拉古及妮芝一起居住。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/05/11466_crt_58DJo.jpg",
+        "link": "https://bgm.tv/character/11466",
+        "categorie": "person"
+      },
+      {
+        "id": "11467",
+        "label": "柯那・告鲁夫",
+        "info": "送拉古往信蜂面接的青年，从外型一眼看出他是个贪吃的胖子。他没有心弹枪，使用的心弹为心地雷，是“食欲”的碎片，名为“黄爆”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/bc/11467_crt_rC410.jpg",
+        "link": "https://bgm.tv/character/11467",
+        "categorie": "person"
+      },
+      {
+        "id": "11468",
+        "label": "札吉",
+        "info": "拉古的审查监察员，他的心弹枪是“暴风雨第三乐章”，心弹为“青棘”，是其对铠虫充满憎恨的碎片。由于双亲被铠虫杀害，其他信蜂一致认为他把杀害铠虫放在送递邮件的工作之上，但其实还是把递送邮件摆在第一。个性口硬心软。非常喜欢猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/b7/11468_crt_A1vQA.jpg",
+        "link": "https://bgm.tv/character/11468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

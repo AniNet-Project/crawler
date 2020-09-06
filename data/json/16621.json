@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28036",
+        "label": "斯坦·马希",
+        "info": "斯坦利·兰德尔·“斯坦”·马希（英语：Stanley Randall \"Stan\" Marsh，港译粉肠，台译屎蛋），是动画片《南方公园》的四名主角之一，英文版由特雷·帕克配音，这一角色的特点亦基本来自于特雷·帕克。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/94/28036_crt_4AzrJ.jpg",
+        "link": "https://bgm.tv/character/28036",
+        "categorie": "person"
+      },
+      {
+        "id": "29350",
+        "label": "肯尼·麦克康米克",
+        "info": "阿尼在南方公園中最著名的一點就是他的家庭最有問題。父親史杜特是個酒鬼，因為沒有工作使得一家人相當的貧苦，要靠著社會救濟金過日子，阿尼也因此常常被卡特曼所取笑。阿尼還有兩個兄弟姐妹：哥哥Kevin和妹妹Karen。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fa/29350_crt_Dg1c7.jpg",
+        "link": "https://bgm.tv/character/29350",
+        "categorie": "person"
+      },
+      {
+        "id": "1996",
+        "label": "蓝迪·马许",
+        "info": "35岁，斯坦的父亲。是位地质学家，虽然得过诺贝尔奖，但是不务正业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e7/1996_crt_0S4s3.jpg",
+        "link": "https://bgm.tv/character/1996",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

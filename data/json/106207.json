@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "156",
+        "label": "银古",
+        "info": "故事的主角，是一位虫师。因为有招来虫的体质，不能久留在一个地方而四处游历。经常抽的烟是有驱虫作用的虫烟草。小时候叫做阿善（YOKI），因为虫（银蛊）的关系失去记忆和左眼，剩下的右眼变成绿色，头发则变成白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/91/156_crt_SWfqY.jpg?r=1444714628",
+        "link": "https://bgm.tv/character/156",
+        "categorie": "person"
+      },
+      {
+        "id": "68293",
+        "label": "タキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/c6/68293_crt_J7B2b.jpg",
+        "link": "https://bgm.tv/character/68293",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

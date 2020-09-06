@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16619",
+        "label": "ジョセフ・ジョブスン",
+        "info": "デモニアックを狩り続けるハンター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/50/16619_crt_cxQZ9.jpg",
+        "link": "https://bgm.tv/character/16619",
+        "categorie": "person"
+      },
+      {
+        "id": "16622",
+        "label": "アマンダ・ウェルナー",
+        "info": "XAT第2班に所属する女性。前所属はヘルマンと同じく交通機動隊で、同期であるがXAT着任はヘルマンに先を越されてしまった。担当はアタッカー。ピンク色のストレートヘア（勤務中はアップヘアにしている）と、グラマーな肢体が特徴（後者に関しては、XATの制服に胸囲と合うものが無く無理に着込んでいるため、胸元はほぼ常時開放されたままである）。叔母が経営していた孤児院にいたマレクを引き取り、弟として育てているが、最近はデモニアックの対応に追われ、私生活ですれ違いが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e8/16622_crt_LlooS.jpg",
+        "link": "https://bgm.tv/character/16622",
+        "categorie": "person"
+      },
+      {
+        "id": "16625",
+        "label": "エレア",
+        "info": "ガルムに搭載されている端末を介してジョセフに付き纏う、黒い妖精のような姿の少女。美しさを重視する気位の高い性格で、「美しくないわ」が口癖（ただし、強壮で禍々しいブラスレイターを美しいと表するなど、特異な美的感覚を持つ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/05/16625_crt_ftfGt.jpg",
+        "link": "https://bgm.tv/character/16625",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "3098",
+        "label": "Xenogenesis Assault Team",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3098",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

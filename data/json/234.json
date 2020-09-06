@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52",
+        "label": "国崎往人",
+        "info": "Kunisaki Yukito",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/11/52_fYX72.jpg",
+        "link": "https://bgm.tv/character/52",
+        "categorie": "person"
+      },
+      {
+        "id": "53",
+        "label": "神尾观铃",
+        "info": "故事的女主角，国崎往人在海边小镇的堤防上遇到的第一位女孩。和母亲晴子两人一起生活。性格很坚强，天真可爱也很喜欢帮助别人，可奇怪的是她没有一个朋友，很喜欢吃武田商店的自动贩卖机售的「粘稠浓厚桃子味」果汁，家务方面则非常擅长，酷爱恐龙,小时候曾把小鸡当成恐龙的孩子，口头禅是喜欢学恐龙叫：“嘎（GAO）…嘎哦（GAO）…！”有时会有的V字手势配上声音也是她的一大萌点所在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/89/53_crt_x0x0c.jpg?r=1488788739",
+        "link": "https://bgm.tv/character/53",
+        "categorie": "person"
+      },
+      {
+        "id": "57",
+        "label": "雾岛佳乃",
+        "info": "国崎往人在桥上追赶“土豆”时遇到的第二位女孩。右手上系著黄色丝带的开朗少女，她相信这样长大后就能使用魔法了。从小父母双亡，与在镇上开诊所的姐姐雾岛 圣一起生活。性格很单纯，也很开朗，自称是“空闲空闲星人一号！”（所以初见面就命名往人为“空闲空闲星人二号！”）是个动物爱好者，在学校是饲养委员，不善长做料理，跟流浪狗“土豆”十分友好，听得懂它说的话，最喜欢抱着“土豆”一起去散步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/dd/57_crt_shVhz.jpg?r=1488788993",
+        "link": "https://bgm.tv/character/57",
+        "categorie": "person"
+      },
+      {
+        "id": "58",
+        "label": "远野美凪",
+        "info": "国崎往人在旧车站遇到的第三位女孩。她与观铃是同班同学。身高1.69M，总是和好友小满在一起很文静的女孩子，经常为小满做便当。外表看不出是什么性格，看上去有点天然呆，说话也是慢吞吞，不过十分擅长料理及裁缝，学习成绩拔尖，还是学校天文部的部长，不过天文部其实只有她一人而已，她说那叫“少数精英”。还有一个特别的地方，美凪对米饭特别喜欢，经常随身携带很多的米券。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/4f/58_crt_N4uSv.jpg?r=1488788969",
+        "link": "https://bgm.tv/character/58",
+        "categorie": "person"
+      },
+      {
+        "id": "65",
+        "label": "神奈备命",
+        "info": "1000年前平安时代正历末期最后的“翼人”，传说中被守护的“公主”，被对翼人抱有恐惧感的人类软禁着。别人称呼中的“备命”据说实属后缀或官名，不属于自己的名字之内，呼常用古代男性对自己称呼“余”一辞来称呼自己。在后来与柳也里叶等人逃脱后的一段日子里我们渐渐发现她的性格：十分心慈，即使是追兵也不许柳也杀生；虽然稍微带点“公主”的傲慢性格，却也意外地有着一颗十足散发着少女气息的纤细的心。不服输，略显缺乏常识，活泼明朗，隐隐透着娇蛮少女的性格，但在面对严肃的事情时显得十分勇敢。最终在目睹母亲死去之后，被追兵包围，无路可走的情况下为了保护柳也和里叶，飞上了月夜的天空，为保护柳也而牺牲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/b8/65_crt_uL7D7.jpg?r=1488788781",
+        "link": "https://bgm.tv/character/65",
+        "categorie": "person"
+      },
+      {
+        "id": "59",
+        "label": "神尾晴子",
+        "info": "观铃的“母亲”，操著一口关西腔，而且十分爱喝酒，拥有跟观铃完全不同的豪爽性格。事实上不是观铃的亲生母亲，虽然仍然十分关心观铃，但刻意与她保持距离，整天都在外面，开始看起来很不负责任的“母亲”，和女儿在一起的时间都非常少，对観铃的事也几乎不闻不问，甚至连生日也从不给女儿过。每晚回来就只有喝酒，所以自从往人住在她家后就成了她的陪酒客了。驾驶技术十分糟糕，经常超速驾驶，似乎只有撞击才能使她停止下来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/79/59_crt_pWkdg.jpg",
+        "link": "https://bgm.tv/character/59",
+        "categorie": "person"
+      },
+      {
+        "id": "60",
+        "label": "雾岛圣",
+        "info": "雾岛诊所的女医生，佳乃的姐姐，经营雾岛诊疗所。性格冷静沉着，不过却是个“暴力”女性，手术刀经常拿在手里晃来晃去，是个“危险”人物。对唯一的家人佳乃已到了溺爱的程度，不管有什么要求她都会答应，为了妹妹可以牺牲一切。平常穿着上面写著“通天阁”三个大字的便服。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/08/988_i37qq.jpg",
+        "link": "https://bgm.tv/character/60",
+        "categorie": "person"
+      },
+      {
+        "id": "61",
+        "label": "小满",
+        "info": "みちる：",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/14/989_GCtcC.jpg",
+        "link": "https://bgm.tv/character/61",
+        "categorie": "person"
+      },
+      {
+        "id": "62",
+        "label": "土豆",
+        "info": "被国崎往人称之为“白色的谜之生命体”的流浪狗。叫声非常奇怪—“ぴこ（Piko）、ぴこ（Piko）”，有时也发出“pika”或“pikori”，佳乃家附近一条“野狗”，佳乃的好友，不过似乎佳乃可以和它沟通的样子，佳乃称它“空闲空闲星人三号”土豆对往人表演用的人偶非常感兴趣，看着看着就把人偶抢跑了。其超强的回家的本能及强韧的生命力让男主角十分惊讶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/ac/990_x4nNG.jpg",
+        "link": "https://bgm.tv/character/62",
+        "categorie": "person"
+      },
+      {
+        "id": "63",
+        "label": "橘敬介",
+        "info": "观铃的亲生父亲，晴子的姊夫。往人在镇上表演人偶剧的时候，他是唯一给了报酬（生日蛋糕）的人。因为担心观铃的病而把她寄养在晴子家里，偶尔在观铃生日的时候回来看他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/2f/991_kGVt2.jpg",
+        "link": "https://bgm.tv/character/63",
+        "categorie": "person"
+      },
+      {
+        "id": "64",
+        "label": "小空/小天",
+        "info": "そら：",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/8f/64_crt_yFlQW.jpg",
+        "link": "https://bgm.tv/character/64",
+        "categorie": "person"
+      },
+      {
+        "id": "66",
+        "label": "柳也",
+        "info": "被派去守护、监督翼人的随侍，在这段过程中渐渐培养起与神奈的感情，职位是卫门正八位大志，希望神奈能过上普通女孩一样的生活，所以带着她，于里叶一同逃跑前去寻找神奈的母亲。带有超脱传统印象中武士的冷静与帅气，心海也是波涛汹涌的一般，却也在与神奈逃亡的过程中展现了自己平易近人与充满童真的一面，一直在强调着“家”这个词，使得身边的人都被围上了一层“家”的暖意……这些要点都使得他的身上充斥着迷人的色彩。最后和里叶结婚，成了国崎往人的祖先。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/48/994_qWa3Y.jpg",
+        "link": "https://bgm.tv/character/66",
+        "categorie": "person"
+      },
+      {
+        "id": "67",
+        "label": "里叶",
+        "info": "陪同着柳也神奈逃出的，也是守护侍候着神奈的一位女性。为人能干并且处事谨慎，温柔和蔼可亲可人这些词都可以加在她的身上，然而呢，虽然偶尔也是有着一些小不正经的性格，常常弄得柳也与“小孩子般的”神奈满头雾水（她个人的戏份也大多是动画的风趣之处所在），可是相较之下并不平常的是，她跟柳也一样，在平和的外表下有着一颗不平静的心，拥有着泰山崩于面前也能毫不动容的冷静与坚毅。据神奈的母亲说她的身上具有“方术”这样的能力，最终与柳也共结连理，因练有法术而世代传承下来，国崎往人的能力便是来自于此。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/ca/995_KH003.jpg",
+        "link": "https://bgm.tv/character/67",
+        "categorie": "person"
+      },
+      {
+        "id": "68",
+        "label": "志野彩香",
+        "info": "しのさいか：",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/8a/68_crt_9y0BL.jpg",
+        "link": "https://bgm.tv/character/68",
+        "categorie": "person"
+      },
+      {
+        "id": "71",
+        "label": "美凪的母亲",
+        "info": "在一次流产之中受到极大打击，于是便陷入了自欺欺人的梦境之中，将长女美凪当作了未能出生的次女“小满”，一次的梦境之中，梦见了次女流产的景象，在接受了次女流产的事实之后，却也跟着怀疑了长女的存在，变成了没有女儿的人，经由往人的协助，终于和长女相认，也和由羽毛化成的次女相识。 ",
+        "image": "https:",
+        "link": "https://bgm.tv/character/71",
+        "categorie": "person"
+      },
+      {
+        "id": "72",
+        "label": "往人的母亲",
+        "info": "一样有世代传承著操控人偶的能力，并且从小赋予往人找寻天空女孩的使命。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/72",
+        "categorie": "person"
+      },
+      {
+        "id": "73",
+        "label": "八百比丘尼",
+        "info": "翼人之一，有“八百比丘尼”的称号。在跟随神奈备命、柳也和里叶逃出灵山的过程中被乱箭射杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/23/73_crt_V3VcV.jpg",
+        "link": "https://bgm.tv/character/73",
+        "categorie": "person"
+      },
+      {
+        "id": "69",
+        "label": "白穗",
+        "info": "しらは：",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/0a/69_crt_qI0ZD.jpg",
+        "link": "https://bgm.tv/character/69",
+        "categorie": "person"
+      },
+      {
+        "id": "70",
+        "label": "八云",
+        "info": "やくも：",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/b7/70_crt_4kLiu.jpg",
+        "link": "https://bgm.tv/character/70",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

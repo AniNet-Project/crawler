@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14505",
+        "label": "桃果",
+        "info": "十五岁，口是心非，被母亲卖给人贩子，被安叔买来，一直觉得自己没有价值。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/4e/14505_crt_kSW96.jpg",
+        "link": "https://bgm.tv/character/14505",
+        "categorie": "person"
+      },
+      {
+        "id": "14507",
+        "label": "婶娘",
+        "info": "安叔的媳妇，无口。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/32/14507_crt_Ydq8B.jpg",
+        "link": "https://bgm.tv/character/14507",
+        "categorie": "person"
+      },
+      {
+        "id": "14504",
+        "label": "分贝",
+        "info": "十五岁，住在亲戚家，和父母一年见一次面，喜欢捡怪东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/f5/14504_crt_xjMuU.jpg",
+        "link": "https://bgm.tv/character/14504",
+        "categorie": "person"
+      },
+      {
+        "id": "14506",
+        "label": "安叔",
+        "info": "三十六岁的大叔，饲养分贝和桃果，超级啰嗦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ca/14506_crt_9492Y.jpg",
+        "link": "https://bgm.tv/character/14506",
+        "categorie": "person"
+      },
+      {
+        "id": "14503",
+        "label": "小叶子",
+        "info": "被分贝捡回来的东西，胸前挂着一片叶子，不会说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/05/14503_crt_ENHqI.jpg",
+        "link": "https://bgm.tv/character/14503",
+        "categorie": "person"
+      },
+      {
+        "id": "14508",
+        "label": "安小树",
+        "info": "安叔和婶娘的亲生女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/04/14508_crt_1nu8T.jpg",
+        "link": "https://bgm.tv/character/14508",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

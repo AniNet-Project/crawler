@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71194",
+        "label": "弘树",
+        "info": "金魚の「イメージ」を持つ記憶操作能力者。司の「ペット」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/ce/71194_crt_BV8Wk.jpg?r=1564967034",
+        "link": "https://bgm.tv/character/71194",
+        "categorie": "person"
+      },
+      {
+        "id": "71195",
+        "label": "司",
+        "info": "水の「イメージ」を持つ記憶操作能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/b9/71195_crt_b8TOo.jpg?r=1564967093",
+        "link": "https://bgm.tv/character/71195",
+        "categorie": "person"
+      },
+      {
+        "id": "71196",
+        "label": "悟",
+        "info": "ドアの「イメージ」を持つ記憶操作能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e4/71196_crt_ZDHFH.jpg?r=1564967165",
+        "link": "https://bgm.tv/character/71196",
+        "categorie": "person"
+      },
+      {
+        "id": "71197",
+        "label": "林",
+        "info": "風の「イメージ」を持つ記憶操作能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/a6/71197_crt_PxrhH.jpg?r=1564967241",
+        "link": "https://bgm.tv/character/71197",
+        "categorie": "person"
+      },
+      {
+        "id": "73320",
+        "label": "桂木",
+        "info": "「会社」の社員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/2e/73320_crt_cV29G.jpg?r=1574470047",
+        "link": "https://bgm.tv/character/73320",
+        "categorie": "person"
+      },
+      {
+        "id": "73321",
+        "label": "晶",
+        "info": "社長の姪。「イメージ」は持っていないが、「潰し屋」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/8b/73321_crt_99jYO.jpg?r=1574469981",
+        "link": "https://bgm.tv/character/73321",
+        "categorie": "person"
+      },
+      {
+        "id": "73322",
+        "label": "龙",
+        "info": "社長の甥。「イメージ」を持っていない「潰し屋」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/5b/73322_crt_DZcSQ.jpg?r=1574470021",
+        "link": "https://bgm.tv/character/73322",
+        "categorie": "person"
+      },
+      {
+        "id": "73323",
+        "label": "社长",
+        "info": "「会社」と呼ばれる中国マフィア組織のトップ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/5b/73323_crt_Lc0nD.jpg?r=1574470027",
+        "link": "https://bgm.tv/character/73323",
+        "categorie": "person"
+      },
+      {
+        "id": "74784",
+        "label": "美玲",
+        "info": "林に「ヤマ」を分けられたものの、鍵の作り方を教えられなかったため外部とまともなコミュニケーションが取れない状態になっている。会社の言うことを聞く良い子という意味で「ベビー」と呼称されている。イメージを持たない潰し屋が、彼女の「イメージ」を利用してターゲットの記憶操作を行うことが可能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/6f/74784_crt_NMJqM.jpg",
+        "link": "https://bgm.tv/character/74784",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

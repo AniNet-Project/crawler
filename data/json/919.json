@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35897",
+        "label": "道子·马朗多洛",
+        "info": "An independent woman who has just recently escaped one of the most heavily guarded prisons in existence for at least the fourth time. Michiko rescues Hana from her abusive foster parents and claims to know her father, who, according to her, was a good man and \"made her fall in love with him right away\". Both she and Hana embark on a journey to find him while on the run from the law as well. They become a bickering pair, but soon come to realize how much they truly need each other.",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/6d/35897_crt_8L7S9.jpg",
+        "link": "https://bgm.tv/character/35897",
+        "categorie": "person"
+      },
+      {
+        "id": "6486",
+        "label": "花儿·莫雷诺斯",
+        "info": "道子恋慕的男人的女儿，本名“花儿(hana)·莫雷诺斯”。在伪善的神父家庭被当作牛马使唤的佣人少女，内心坚强。一直想着能从虐待养父母那里逃出来。期盼着能有一天能有一个人来接走她。道子突然出现在了她的面前，带给她了自由和冒险的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/ff/6486_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6486",
+        "categorie": "person"
+      },
+      {
+        "id": "51659",
+        "label": "浩司·莫雷诺斯",
+        "info": "道子的逃亡恋人，哈金的父亲。对谁都无比温柔，而这也屡次成为事件的起因。另外经常犯些错误，然而朋友们却仍很喜欢他也没有人对他有仇恨。在公交车爆炸事件中死去，然而……",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/c4/51659_crt_mFvYq.jpg",
+        "link": "https://bgm.tv/character/51659",
+        "categorie": "person"
+      },
+      {
+        "id": "6485",
+        "label": "淳子·杰克逊",
+        "info": "道子的青梅竹马，虽是这么说，小时候却经常被道子来回差遣。某天发誓为了使道子拜倒其下而成为警察。为了能看到被投入监狱后道子痛苦的样子而高兴，然而却屡次被道子逃脱，开始追逐于道子身后，最后放走了道子……",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3f/6485_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6485",
+        "categorie": "person"
+      },
+      {
+        "id": "6483",
+        "label": "シンスケ・サッセ・ロドリゲス",
+        "info": "『モンストロ・プレット』のNo.2を務める男性。日本人と白人のハーフ。サトシが表に出ない為、代わりに自身が部下に指示を出しており、実質彼が組織の主導権を持っている。 常にヘラヘラとしており軽い性格だが、非道な行動が目立つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/59/6483_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6483",
+        "categorie": "person"
+      },
+      {
+        "id": "6484",
+        "label": "リカルド",
+        "info": "アツコの部下で、彼女と共にミチコを捜査する刑事。白人と黒人のハーフで、所帯持ちの男性。アツコより年上であるにも関わらず、彼女にこき使われており、捜査も嫌々付き合っている模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a4/6484_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6484",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9188",
+        "label": "湧太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/1b/9188_crt_3C3Qb.jpg",
+        "link": "https://bgm.tv/character/9188",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

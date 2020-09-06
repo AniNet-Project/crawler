@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1772",
+        "label": "诺诺",
+        "info": "本編の主人公。「努力と根性でがんばります！」がモットーの、",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/f7/1772_crt_0j45E.jpg",
+        "link": "https://bgm.tv/character/1772",
+        "categorie": "person"
+      },
+      {
+        "id": "7752",
+        "label": "拉璐可·梅鲁克·玛尔",
+        "info": "隶属「Fraternity（フラタニティ）」，是最强的「Topless（トップレス）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c5/7752_crt_yz2u1.jpg",
+        "link": "https://bgm.tv/character/7752",
+        "categorie": "person"
+      },
+      {
+        "id": "14087",
+        "label": "蛇纹石双胞胎姊妹　",
+        "info": "【性別:女 / 年齢：自称18歳 / 血液型：B型 / 好物：タイタン蟹 / 備考：秘密サークル「蛇の池」メンバー】",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/f6/14087_crt_jtIjD.jpg",
+        "link": "https://bgm.tv/character/14087",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

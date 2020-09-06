@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68773",
+        "label": "爱丽丝",
+        "info": "帝諜13課所属のエージェントであり、薫のパートナー。米陸軍が開発した軍用アンドロイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/5a/68773_crt_LG38P.jpg",
+        "link": "https://bgm.tv/character/68773",
+        "categorie": "person"
+      },
+      {
+        "id": "68774",
+        "label": "御子神卫",
+        "info": "薫の実妹。公安の捜査官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a9/68774_crt_s7j6L.jpg",
+        "link": "https://bgm.tv/character/68774",
+        "categorie": "person"
+      },
+      {
+        "id": "68775",
+        "label": "多岐川加奈子",
+        "info": "帝諜のエンジニア",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c7/68775_crt_N00Mb.jpg",
+        "link": "https://bgm.tv/character/68775",
+        "categorie": "person"
+      },
+      {
+        "id": "68776",
+        "label": "御子神薰",
+        "info": "本作の主人公。帝室国家安全調査室特務課謀報局（通称：帝諜）の第13課所属のエージェント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/27/68776_crt_6nT6K.jpg",
+        "link": "https://bgm.tv/character/68776",
+        "categorie": "person"
+      },
+      {
+        "id": "68777",
+        "label": "真由美",
+        "info": "男主的幼驯染，已是故人（？）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c3/68777_crt_5AAT5.jpg",
+        "link": "https://bgm.tv/character/68777",
+        "categorie": "person"
+      },
+      {
+        "id": "68778",
+        "label": "威兹玛博士",
+        "info": "真由美的父亲。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/68778",
+        "categorie": "person"
+      },
+      {
+        "id": "69710",
+        "label": "戴茵·怀斯曼",
+        "info": "デジタルデマンド社の女社長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/00/69710_crt_v1RR0.jpg",
+        "link": "https://bgm.tv/character/69710",
+        "categorie": "person"
+      },
+      {
+        "id": "69711",
+        "label": "山下圣香",
+        "info": "男主认识的情报贩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/16/69711_crt_5wAET.jpg",
+        "link": "https://bgm.tv/character/69711",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

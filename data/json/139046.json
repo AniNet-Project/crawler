@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "546",
+        "label": "结城理",
+        "info": "本作主角、高校2年生。于4月转学到「月光馆学园高等学校」的17岁少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/ca/546_crt_2QGv9.jpg?r=1483747920",
+        "link": "https://bgm.tv/character/546",
+        "categorie": "person"
+      },
+      {
+        "id": "75745",
+        "label": "榊贵隆也",
+        "info": "隆也是史特雷加最自信和魅力的年轻领袖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/6d/75745_crt_c9EC4.jpg",
+        "link": "https://bgm.tv/character/75745",
+        "categorie": "person"
+      },
+      {
+        "id": "75747",
+        "label": "白户阵",
+        "info": "阵是隆也的忠实得力助手，担任他的战术顾问，“复仇请求”的网站管理员并偶尔出声以防止隆也作出愚蠢的选择。在战斗中他使用手榴弹和炸弹，亦是一个熟练的电脑黑客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/23/75747_crt_3xQiT.jpg",
+        "link": "https://bgm.tv/character/75747",
+        "categorie": "person"
+      },
+      {
+        "id": "75749",
+        "label": "望月绫时",
+        "info": "剧情一开始他是在影时间里，在主角身边出现，身穿囚衣的小孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/07/75749_crt_BtfzF.jpg",
+        "link": "https://bgm.tv/character/75749",
+        "categorie": "person"
+      },
+      {
+        "id": "21489",
+        "label": "伊格尔",
+        "info": "Arcana【0 - 愚者】",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c0/21489_crt_hvPy5.jpg",
+        "link": "https://bgm.tv/character/21489",
+        "categorie": "person"
+      },
+      {
+        "id": "22266",
+        "label": "伊丽莎白",
+        "info": "天鹅绒房间的带路人。一身电梯女孩的打扮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/df/22266_crt_9Rks4.jpg?r=1483748592",
+        "link": "https://bgm.tv/character/22266",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

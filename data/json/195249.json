@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47496",
+        "label": "凛",
+        "info": "17歳の女の子。孤独の世界を退屈に感じ、外の世界を知りたいと思うようになる。そしてどうして自分はひとりなんだろうと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/d1/47496_crt_9fddu.jpg?r=1477076621",
+        "link": "https://bgm.tv/character/47496",
+        "categorie": "person"
+      },
+      {
+        "id": "47599",
+        "label": "茂",
+        "info": "日本人科学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/e2/47599_crt_A9btt.jpg",
+        "link": "https://bgm.tv/character/47599",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

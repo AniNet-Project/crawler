@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5090",
+        "label": "NERV",
+        "info": "GOD'S IN HIS HEAVEN. ALL'S RIGHT WITH THE WORLD.",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ee/5090_crt_RwO42.jpg?r=1428580024",
+        "link": "https://bgm.tv/character/5090",
+        "categorie": "person"
+      },
+      {
+        "id": "55755",
+        "label": "亚当",
+        "info": "亚当是造成“第二次浩劫”的原因之一。在南极出现的发光的巨人就是他的姿态，外形上与EVA极为相似，有着巨大的光之翼。于2000年在南极冰层发现时，其胸部叉有朗基奴斯之枪，当枪被拔除后苏醒并暴走。之后被SEELE还原成最初的胚胎型凝固在树脂中，由加持良治携带随二号机与明日香一同由德国NERV支部返回第三新东京市，后被碇源堂移植到右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e8/55755_crt_g400v.jpg",
+        "link": "https://bgm.tv/character/55755",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

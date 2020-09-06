@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72497",
+        "label": "クマタ",
+        "info": "モフルンが連れ去られた先の不思議な森にひとりぼっちで住む、首に赤いスカーフを巻いた黒いクマの男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/02/72497_crt_9qT3t.jpg?r=1571870478",
+        "link": "https://bgm.tv/character/72497",
+        "categorie": "person"
+      },
+      {
+        "id": "37904",
+        "label": "朝日奈未来／奇迹天使",
+        "info": "もうすぐ中学２年生になる１３歳の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/de/37904_crt_6769M.jpg?r=1452005778",
+        "link": "https://bgm.tv/character/37904",
+        "categorie": "person"
+      },
+      {
+        "id": "37913",
+        "label": "十六夜莉可／魔力天使",
+        "info": "「魔法学校」に通う女の子。みらいと同じ１３歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/4a/37913_crt_dz8E3.jpg?r=1452006200",
+        "link": "https://bgm.tv/character/37913",
+        "categorie": "person"
+      },
+      {
+        "id": "37914",
+        "label": "莫夫伦",
+        "info": "みらいが小さいころに、おばあちゃんのかの子にもらったぬいぐるみ。みらいはとっても大切にしていて、どこに行くのもモフルンと一緒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/4c/37914_crt_6Tt1h.jpg?r=1452006996",
+        "link": "https://bgm.tv/character/37914",
+        "categorie": "person"
+      },
+      {
+        "id": "39105",
+        "label": "花海言叶／幸福天使",
+        "info": "普通的妖精女孩子，后长大、成长为继承了未来的好奇心和莉可的努力之处等的少女。成为了第三人的光之美少女——『幸福天使（Cure Felice）』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/b5/39105_crt_UbUee.jpg?r=1455885509",
+        "link": "https://bgm.tv/character/39105",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

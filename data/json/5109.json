@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "951",
+        "label": "夏娜",
+        "info": "继承了第一代“炎发灼眼的杀手”的火雾战士，作品的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/d6/951_crt_68tGo.jpg",
+        "link": "https://bgm.tv/character/951",
+        "categorie": "person"
+      },
+      {
+        "id": "952",
+        "label": "坂井悠二",
+        "info": "御崎高中一年二班的学生，故事的开始时遇到封绝，在封绝中被磷子发现自身为内有宝具的密斯提斯因而被牵扯进了磷子与夏娜的战斗，也开始了身为体内藏有宝具“零时迷子”的“密斯提斯”的命运。其实真正的人类悠二早已被吞灭其存在之力，在故事一开始他就只是一个“火炬”，却在不明的情况下得到“零时迷子”且可以在封绝中自由行动，因此严格上他并非人类。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/cb/952_wndKG.jpg?r=1571382465",
+        "link": "https://bgm.tv/character/952",
+        "categorie": "person"
+      },
+      {
+        "id": "953",
+        "label": "吉田一美",
+        "info": "御崎高中一年二班的学生，内向且可爱的女生，在受过悠二和夏娜的帮助之后对他产生了好感，本片第二个女主角。面对的是最具压迫感的情敌，固执起来也是很可怕。其身材在同学之间闻名（主要可见于动画第一季OVA）。曾帮助过“调音师”卡姆辛。她有饲养一只名叫“艾卡特利娜”的小狗；自己也有一个名叫“小健”的弟弟（以上情节有在漫画版、动画版第一季提及）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/32/953_KXw6L.jpg",
+        "link": "https://bgm.tv/character/953",
+        "categorie": "person"
+      },
+      {
+        "id": "964",
+        "label": "威尔艾米娜·卡梅尔",
+        "info": "和红世魔王“梦幻冠带”契约，通称为“万条巧手”的火雾战士。为实现先代“炎发灼眼的杀手”的遗愿，于“天道宫”上培育夏娜成为现任“炎发灼眼的杀手”，为构成夏娜个性及回忆的要人之一，其角色地位相当于夏娜的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/7e/964_crt_JDj62.jpg",
+        "link": "https://bgm.tv/character/964",
+        "categorie": "person"
+      },
+      {
+        "id": "2412",
+        "label": "三千院凪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/6f/2412_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2412",
+        "categorie": "person"
+      },
+      {
+        "id": "2629",
+        "label": "茵蒂克斯",
+        "info": "隶属于英国清教第零圣堂区“必要之恶教会”的修女。正式名称为“Index-Librorum-Prohibitorum”（禁书目录），年龄约14-15岁，外表是12-13岁的幼儿体型。平常穿着有金色刺绣的纯白修女服。描写时经常使用纯白修女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ff/2629_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2629",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

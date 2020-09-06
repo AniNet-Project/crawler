@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3582",
+        "label": "草壁メイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/68/3582_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3582",
+        "categorie": "person"
+      },
+      {
+        "id": "35245",
+        "label": "草壁五月",
+        "info": "故事的主角，为一名11岁就读小学四年级的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c9/35245_crt_AEP5s.jpg",
+        "link": "https://bgm.tv/character/35245",
+        "categorie": "person"
+      },
+      {
+        "id": "70027",
+        "label": "龙猫",
+        "info": "森林里的精灵，以橡子为食物",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/6b/70027_crt_9cbSz.jpg",
+        "link": "https://bgm.tv/character/70027",
+        "categorie": "person"
+      },
+      {
+        "id": "3581",
+        "label": "草壁タツオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/e2/3581_crt_QD4Xf.jpg",
+        "link": "https://bgm.tv/character/3581",
+        "categorie": "person"
+      },
+      {
+        "id": "6690",
+        "label": "猫巴士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/50/6690_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6690",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

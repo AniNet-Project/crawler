@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6981",
+        "label": "小日向七夏",
+        "info": "15歳。高校通学のため、耕四郎の家に同居した。兄を慕う行動が、猜疑心を持つ耕四郎には誤解され衝突しているが耕四郎の不器用な優しさや本当の自分を理解してくれる姿に惹かれてゆく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/e7/6981_crt_d2DZH.jpg",
+        "link": "https://bgm.tv/character/6981",
+        "categorie": "person"
+      },
+      {
+        "id": "27649",
+        "label": "佐伯耕四郎",
+        "info": "人生、何事にも冷めた感がありつつ無難にやり過ごしてきた結婚相談所に勤める会社員。こと恋愛に関しては、恋人であった宵子にも「耕四郎って心の底から誰かを恋しいとおもったことあるのかしら？」と見限られた揚げ句、失恋。それに動じないように振る舞いながらもやけ酒で朝を迎える、そんな素直になれない28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/65/27649_crt_hQssh.jpg?r=1478684996",
+        "link": "https://bgm.tv/character/27649",
+        "categorie": "person"
+      },
+      {
+        "id": "6982",
+        "label": "小日向梢绘",
+        "info": "耕四郎と七夏の母。美容院を営んでいる。二人の持っている熊のぬいぐるみは彼女の手作り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/1b/6982_crt_rZc26.jpg",
+        "link": "https://bgm.tv/character/6982",
+        "categorie": "person"
+      },
+      {
+        "id": "6984",
+        "label": "小田切圭",
+        "info": "23歳。耕四郎の同僚で、妹大好き男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/0c/6984_crt_e1tHq.jpg",
+        "link": "https://bgm.tv/character/6984",
+        "categorie": "person"
+      },
+      {
+        "id": "6994",
+        "label": "環央子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/78/6994_crt_A9oAk.jpg",
+        "link": "https://bgm.tv/character/6994",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

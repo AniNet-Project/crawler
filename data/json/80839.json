@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14682",
+        "label": "索妮雅",
+        "info": "某杀手组织的少女，出身外国。金发双马尾。有因为感到害羞而傲娇的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/b4/14682_crt_ns1ZI.jpg?r=1563687040",
+        "link": "https://bgm.tv/character/14682",
+        "categorie": "person"
+      },
+      {
+        "id": "14683",
+        "label": "折部安奈",
+        "info": "自称索妮雅的朋友。黑色短发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/a5/14683_crt_z4HoU.jpg?r=1563687058",
+        "link": "https://bgm.tv/character/14683",
+        "categorie": "person"
+      },
+      {
+        "id": "14684",
+        "label": "吴织亚切",
+        "info": "和索妮雅同组织的忍者。黑色长发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/34/14684_crt_5k42S.jpg?r=1563687029",
+        "link": "https://bgm.tv/character/14684",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

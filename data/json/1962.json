@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11864",
+        "label": "孙悟空",
+        "info": "原典：天产石猴，为求长生不老游历四方，师从菩提祖师，后因故遭驱逐，返回花果山后凭借过人法力成为一方妖王。因强取东海定海神针及修改地府生死簿为天庭所注意，接受招安，先后受封弼马温及齐天大圣，然皆为闲职。大闹天宫后为西方如来佛祖降服，压制于五指山下。五百年后由金蝉子转世的僧人唐玄奘所解救，护其西天取经，历九九八十一难功德圆满，加封斗战胜佛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/aa/11864_crt_W0033.jpg?r=1365259891",
+        "link": "https://bgm.tv/character/11864",
+        "categorie": "person"
+      },
+      {
+        "id": "39517",
+        "label": "二郎神",
+        "info": "玉皇大帝的外甥，玉鼎真人的徒弟，也是三圣母的哥哥。曾劈山救母，被玉帝封为显圣二郎真君和司法天神。居于灌江口，与梅山六兄弟为伴，掌管一千二百草头神，会地煞七十二变，使三尖两刃刀为兵器，额头中间多生了一只慧眼，身边有神狗哮天犬（啸天犬）跟随。“听调不听宣”，平常不听天庭命令，但危急时会接受天庭的派遣。反对妹妹三圣母与刘彦昌相爱，并出手阻挠外甥沉香救母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/0b/39517_crt_58oaO.jpg",
+        "link": "https://bgm.tv/character/39517",
+        "categorie": "person"
+      },
+      {
+        "id": "39410",
+        "label": "敖广",
+        "info": "东海龙王敖广为龙王之首。神话传说中在水里统领水族的王，掌管兴云降雨，与诸天龙王等宣扬正法，普救众生，大雨洪流，应时甘润。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/e1/39410_crt_BRNVC.jpg",
+        "link": "https://bgm.tv/character/39410",
+        "categorie": "person"
+      },
+      {
+        "id": "39411",
+        "label": "玉皇大帝",
+        "info": "道教中的众神之王。妙相庄严，统御诸天，综领万圣，主宰宇宙，布天之德，造化万物，济度群生，权衡三界，统御万灵，而无量度人，为天界至尊之神，万天帝王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/56/39411_crt_7oyL0.jpg",
+        "link": "https://bgm.tv/character/39411",
+        "categorie": "person"
+      },
+      {
+        "id": "39412",
+        "label": "太白金星",
+        "info": "神仙中知名度最高的神之一。经常奉玉皇大帝之命监察人间善恶，被称为西方巡使，和孙悟空关系较好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/ed/39412_crt_5S8UQ.jpg",
+        "link": "https://bgm.tv/character/39412",
+        "categorie": "person"
+      },
+      {
+        "id": "80874",
+        "label": "托塔李天王",
+        "info": "此为上海美术电影制片厂制作动画电影的出场人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/51/80874_crt_ISz6B.jpg",
+        "link": "https://bgm.tv/character/80874",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

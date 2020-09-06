@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22255",
+        "label": "铃木结爱",
+        "info": "桃成高校3年生，探索部部长。归国子女，早年教育是在波兰完成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/dc/22255_crt_77x1P.jpg?r=1428847477",
+        "link": "https://bgm.tv/character/22255",
+        "categorie": "person"
+      },
+      {
+        "id": "22256",
+        "label": "佐藤阳菜",
+        "info": "桃成高校3年生，探索部副部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/00/22256_crt_I5gga.jpg?r=1430547586",
+        "link": "https://bgm.tv/character/22256",
+        "categorie": "person"
+      },
+      {
+        "id": "22257",
+        "label": "高桥葵",
+        "info": "桃成高校2年生。探索部部员，典型的现代少女，但对于现代的事物总有着非典型的偏见。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/8c/22257_crt_yBYvD.jpg?r=1430323923",
+        "link": "https://bgm.tv/character/22257",
+        "categorie": "person"
+      },
+      {
+        "id": "22258",
+        "label": "田中心春",
+        "info": "桃成高校1年生，探索部部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/9d/22258_crt_kkJAB.jpg?r=1430547610",
+        "link": "https://bgm.tv/character/22258",
+        "categorie": "person"
+      },
+      {
+        "id": "22259",
+        "label": "园田萌舞子",
+        "info": "桃成高校3年生。作为18个多胞胎姐妹的长女，每天过着自己玩自己的幸福生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/73/22259_crt_2K5ep.jpg",
+        "link": "https://bgm.tv/character/22259",
+        "categorie": "person"
+      },
+      {
+        "id": "22274",
+        "label": "园田萌舞恵",
+        "info": "原田家十八胞胎之二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/3e/22274_crt_7sOwe.jpg",
+        "link": "https://bgm.tv/character/22274",
+        "categorie": "person"
+      },
+      {
+        "id": "22275",
+        "label": "园田萌舞美",
+        "info": "园田家十八胞胎之三。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/5f/22275_crt_z3P8o.jpg",
+        "link": "https://bgm.tv/character/22275",
+        "categorie": "person"
+      },
+      {
+        "id": "22276",
+        "label": "园田萌舞代",
+        "info": "园田家十八胞胎之四。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/f1/22276_crt_69MF5.jpg",
+        "link": "https://bgm.tv/character/22276",
+        "categorie": "person"
+      },
+      {
+        "id": "22277",
+        "label": "园田萌舞乃",
+        "info": "园田家十八胞胎之五。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/74/22277_crt_hb6zg.jpg",
+        "link": "https://bgm.tv/character/22277",
+        "categorie": "person"
+      },
+      {
+        "id": "22278",
+        "label": "园田萌舞穗",
+        "info": "园田家十八胞胎之六。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/e3/22278_crt_cHGgR.jpg",
+        "link": "https://bgm.tv/character/22278",
+        "categorie": "person"
+      },
+      {
+        "id": "22489",
+        "label": "校长",
+        "info": "桃城高校的校长，会因为怕冷而穿泡泡袜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/ad/22489_crt_EEVPZ.jpg",
+        "link": "https://bgm.tv/character/22489",
+        "categorie": "person"
+      },
+      {
+        "id": "22490",
+        "label": "笛吹太郎",
+        "info": "桃成高校？年生。张眉喜色地舔着心春儿长笛的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/1f/22490_crt_5r7rZ.jpg",
+        "link": "https://bgm.tv/character/22490",
+        "categorie": "person"
+      },
+      {
+        "id": "22784",
+        "label": "主人公",
+        "info": "桃城高校的男学生，拥有主人公的气质和外形。虽然每次体检时听力测验都合格，然而一旦女生对他说些什么重要事情的时候，却总是会不可抑制地听不到或听不清楚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/f4/22784_crt_r4GPg.jpg",
+        "link": "https://bgm.tv/character/22784",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

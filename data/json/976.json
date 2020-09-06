@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10453",
+        "label": "卖药郎",
+        "info": "持有退魔之剑，以“形”、“真”、“理”之名斩杀妖怪的神秘男子，通常的职业是卖药人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/94/10453_crt_BJj7b.jpg",
+        "link": "https://bgm.tv/character/10453",
+        "categorie": "person"
+      },
+      {
+        "id": "53828",
+        "label": "民谷伊右卫门",
+        "info": "原来是个武士。因为赤穗家遭到抄家而成为浪人。和阿岩互相喜欢彼此，但受到阿岩的父亲－左门的怀疑而被迫分手。后来杀了左门，他也因此顺利和阿岩复合，但在阿岩生下孩子后而冷落了她，甚至最后抛弃她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/c4/53828_crt_8nWi8.jpg",
+        "link": "https://bgm.tv/character/53828",
+        "categorie": "person"
+      },
+      {
+        "id": "53829",
+        "label": "民谷岩",
+        "info": "在产下伊右卫门的孩子后，也还是不发牢骚地过着贫困的生活。但由于伊藤家的阴谋，而遭到下毒。因而在留下恨意后而愤死并且成为怨灵，对伊右卫门和他周围的人一个一个进行报复……",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/95/53829_crt_0rZ7S.jpg",
+        "link": "https://bgm.tv/character/53829",
+        "categorie": "person"
+      },
+      {
+        "id": "53843",
+        "label": "姬川图书之助",
+        "info": "为武田播磨守的鹰匠。为了找回失踪的老鹰小次郎而在森林迷路，因此来到了白鹭城附近的池子。在这池子旁宿命地遇到了白鹭城里的富姬，结果渐渐地爱上了她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/44/53843_crt_rUFp6.jpg",
+        "link": "https://bgm.tv/character/53843",
+        "categorie": "person"
+      },
+      {
+        "id": "53844",
+        "label": "富姬",
+        "info": "身为忘却之神的美丽公主。住在白鹭城的天守阁上。以前，她的母亲爱上了人类，结果却被抛弃而死于非命。她也与母亲走上同样的命运。在与图书之助恋爱时，同时体会到了喜悦与悲伤的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/5d/53844_crt_V548k.jpg",
+        "link": "https://bgm.tv/character/53844",
+        "categorie": "person"
+      },
+      {
+        "id": "53870",
+        "label": "猫",
+        "info": "声优：藤本たかひろ、回忆画面的幼猫：野上尤加奈",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/ab/53870_crt_0eix8.jpg",
+        "link": "https://bgm.tv/character/53870",
+        "categorie": "person"
+      },
+      {
+        "id": "53830",
+        "label": "鹤屋南北",
+        "info": "江户时代的文学家、四谷怪谈的原作者。讲述这次故事的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/0a/53830_crt_XSpN5.jpg",
+        "link": "https://bgm.tv/character/53830",
+        "categorie": "person"
+      },
+      {
+        "id": "53831",
+        "label": "四谷袖",
+        "info": "阿岩的小姨子。为了帮被认为死亡的与茂七报仇，而与直助成为暂时的夫妻。但实际上与茂七却依然活着……",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/c2/53831_crt_lLJm0.jpg",
+        "link": "https://bgm.tv/character/53831",
+        "categorie": "person"
+      },
+      {
+        "id": "53832",
+        "label": "四谷左门",
+        "info": "お岩とお袖の父。伊右衛門の不正を発見したため、お岩と離縁させる。落ちぶれ不逞浪人に身をやつした後でも、伊右衛門からの復縁願いを頑なに拒否していた。その結果、彼の手により辻斬りの仕業に見せかけて謀殺されてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/1b/53832_crt_824aK.jpg",
+        "link": "https://bgm.tv/character/53832",
+        "categorie": "person"
+      },
+      {
+        "id": "53833",
+        "label": "伊藤梅",
+        "info": "武士的女儿。在见到伊右卫门后，明知他有妻子却还依然想要与他交往。是一位任性刻薄又凶残的女人，为了要与伊右卫门成亲，与父亲喜兵卫策画了毒害阿岩的诡计。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/02/53833_crt_S4Ry9.jpg",
+        "link": "https://bgm.tv/character/53833",
+        "categorie": "person"
+      },
+      {
+        "id": "53834",
+        "label": "伊藤喜兵卫",
+        "info": "伊藤家当主で、お梅の祖父。かわいい孫娘の縁談を成就すべく毒薬を用意させるなど、お岩を排除するための残酷な姦計に手を貸す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/aa/53834_crt_3jh3g.jpg",
+        "link": "https://bgm.tv/character/53834",
+        "categorie": "person"
+      },
+      {
+        "id": "53835",
+        "label": "お槙",
+        "info": "伊藤家の使用人。喜兵衛の遣いとして、お岩の出産祝いを持参し伊右衛門宅に来訪、毒薬を気付け薬と偽って伊右衛門に手渡した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/61/53835_crt_4wk54.jpg",
+        "link": "https://bgm.tv/character/53835",
+        "categorie": "person"
+      },
+      {
+        "id": "53836",
+        "label": "直助权兵卫",
+        "info": "以前在四谷家帮佣的男人。为了能够对阿袖横刀夺爱，杀了与茂七，并借口要帮与茂七报仇为借口而与她成为夫妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/68/53836_crt_5z8Xg.jpg",
+        "link": "https://bgm.tv/character/53836",
+        "categorie": "person"
+      },
+      {
+        "id": "53837",
+        "label": "佐藤与茂七",
+        "info": "和阿袖订婚的浪人。因为曾经打伤权兵卫而得罪了他，结果他和左门一起遭到谋害，而被认为已经死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/79/53837_crt_UItU7.jpg",
+        "link": "https://bgm.tv/character/53837",
+        "categorie": "person"
+      },
+      {
+        "id": "53838",
+        "label": "宅悦",
+        "info": "表面为按摩师。但实际上是地狱宿（女郎屋）的店主。在成为伊右卫门的小弟后而知道他的阴谋，由于害怕而向阿岩毫不保留的说出真相。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/80/53838_crt_mj20M.jpg",
+        "link": "https://bgm.tv/character/53838",
+        "categorie": "person"
+      },
+      {
+        "id": "53839",
+        "label": "小佛小平",
+        "info": "经由宅悦的介绍，在伊右卫门家服务。为了治好原来主人的病，而偷了叫作ソウキセイ的药，结果被发现而惨遭杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/25/53839_crt_35Fe1.jpg",
+        "link": "https://bgm.tv/character/53839",
+        "categorie": "person"
+      },
+      {
+        "id": "53841",
+        "label": "阿熊",
+        "info": "伊右卫门的母亲。由于赤穗家遭到抄家，而成为到敌人吉良家服务的佛孙兵卫的后妻，并且虐待小平的孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/45/53841_crt_O6232.jpg",
+        "link": "https://bgm.tv/character/53841",
+        "categorie": "person"
+      },
+      {
+        "id": "53842",
+        "label": "源四郎",
+        "info": "伊右衛門の父。元赤穂家の家臣。主家の仇討ちを志すも、災禍無きようにと離縁した妻はよりにもよって敵方の吉良家へ奉公に赴き、結婚したはずの息子も不正の疑いから離縁させられているなど、身内の引き起こした醜態に頭を悩ませている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/2f/53842_crt_qV5DS.jpg",
+        "link": "https://bgm.tv/character/53842",
+        "categorie": "person"
+      },
+      {
+        "id": "53845",
+        "label": "长舌姥姥",
+        "info": "住在白鹭城中的忘却之神的一人，并且养育富姬长大。也担任富姬母亲的监察人。在知道富姬与图书之助恋爱以后，而非常害怕忘却之神一族的神力因此而消失。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/ff/53845_crt_Vh55W.jpg",
+        "link": "https://bgm.tv/character/53845",
+        "categorie": "person"
+      },
+      {
+        "id": "53847",
+        "label": "桔梗",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/f2/53847_crt_9gfgm.jpg",
+        "link": "https://bgm.tv/character/53847",
+        "categorie": "person"
+      },
+      {
+        "id": "53849",
+        "label": "抚子",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/9f/53849_crt_Zvv87.jpg",
+        "link": "https://bgm.tv/character/53849",
+        "categorie": "person"
+      },
+      {
+        "id": "53850",
+        "label": "薄",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/43/53850_crt_bP6y2.jpg?r=1494038803",
+        "link": "https://bgm.tv/character/53850",
+        "categorie": "person"
+      },
+      {
+        "id": "53851",
+        "label": "女郎花",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/53851",
+        "categorie": "person"
+      },
+      {
+        "id": "53854",
+        "label": "奇奇丸",
+        "info": "有着山鸡外型的妖怪，以藏在白鹭城的财宝为目标，因此与图书之助联手进入城中找寻财宝。为了收集情报，而变装前往人类住的地方访查。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/5b/53854_crt_65O7Z.jpg",
+        "link": "https://bgm.tv/character/53854",
+        "categorie": "person"
+      },
+      {
+        "id": "53855",
+        "label": "怪怪丸",
+        "info": "奇奇丸的搭档。有着蟾蜍外型的妖怪，以拥有能够挥舞巨锤的怪力而自豪。要袭击遇见富姬的图书之助时，被富姬给打倒而逃之么夭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/99/53855_crt_WLNhP.jpg",
+        "link": "https://bgm.tv/character/53855",
+        "categorie": "person"
+      },
+      {
+        "id": "53856",
+        "label": "阿静",
+        "info": "人类女性。个性认真，和图书之助是一对恋人。在和图书之助结婚后，由于意识到他的心已经不在她的身上，而赌上了自己身为女性的自尊展开行动，要把图书之助给唤回来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/4d/53856_crt_0zLQ8.jpg",
+        "link": "https://bgm.tv/character/53856",
+        "categorie": "person"
+      },
+      {
+        "id": "53857",
+        "label": "武田播磨守",
+        "info": "物語の舞台となる地を治める領主。上様へ献上するための上質な鷹狩り用の鷹の雛（後の小次郎）を図書之助に預け、調教を依頼した。温厚そうな風を装っているが、その本性は好色家かつ残忍な人物であり、家臣や使用人にも恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/5c/53857_crt_38fE8.jpg",
+        "link": "https://bgm.tv/character/53857",
+        "categorie": "person"
+      },
+      {
+        "id": "53858",
+        "label": "坂井伊显",
+        "info": "坂井家的次男。从伊行家过继过来继承坂井家，由于性格懦弱而被妻子水江压得死死的。因为不擅长经营财务，所以造成家里的经济出现赤字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/e8/53858_crt_Qi7e8.jpg",
+        "link": "https://bgm.tv/character/53858",
+        "categorie": "person"
+      },
+      {
+        "id": "53859",
+        "label": "坂井水江",
+        "info": "伊显的妻子、真央的母亲。因为女儿死在自己面前，而卧病在床。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/e3/53859_crt_Y133a.jpg?r=1494040140",
+        "link": "https://bgm.tv/character/53859",
+        "categorie": "person"
+      },
+      {
+        "id": "53860",
+        "label": "坂井真央",
+        "info": "伊显和水江的女儿。为了能够支撑家里的家境，在要嫁入盐野家时而离奇横死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/e9/53860_crt_Dw0wW.jpg?r=1494039916",
+        "link": "https://bgm.tv/character/53860",
+        "categorie": "person"
+      },
+      {
+        "id": "53861",
+        "label": "坂井伊国",
+        "info": "坂井家的长男。因为喜欢喝酒，所以性格不好而且不太有人望。因为如此，所以才让伊显继承坂井家家督之位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/bd/53861_crt_GGaan.jpg",
+        "link": "https://bgm.tv/character/53861",
+        "categorie": "person"
+      },
+      {
+        "id": "53862",
+        "label": "坂井伊行",
+        "info": "声优：大冢周夫、年轻时：佐佐木诚二",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/ad/53862_crt_146Ju.jpg",
+        "link": "https://bgm.tv/character/53862",
+        "categorie": "person"
+      },
+      {
+        "id": "53863",
+        "label": "胜山",
+        "info": "坂井家的家臣。个性老实。和笹冈虽然处不来，但却很聊得来。属于伊显派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/5a/53863_crt_D0b0r.jpg",
+        "link": "https://bgm.tv/character/53863",
+        "categorie": "person"
+      },
+      {
+        "id": "53864",
+        "label": "笹冈",
+        "info": "坂井家的家臣。和胜山虽然处不来，但却很聊得来。与胜山不同的是相当冷静也很冷酷。属于伊国派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/b4/53864_crt_6666e.jpg",
+        "link": "https://bgm.tv/character/53864",
+        "categorie": "person"
+      },
+      {
+        "id": "53865",
+        "label": "小田岛",
+        "info": "坂井家的侍卫，性格认真负责。对于卖药郎所做的奇怪行为不但会加以顶嘴，而且也很不信任。但由于他的认真，也让卖药郎燃起热情而振奋起来与妖怪战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/0c/53865_crt_1LXuz.jpg",
+        "link": "https://bgm.tv/character/53865",
+        "categorie": "person"
+      },
+      {
+        "id": "53866",
+        "label": "阿里婶",
+        "info": "坂井家的女管家。对待加世相当严格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/10/53866_crt_haegP.jpg?r=1494039526",
+        "link": "https://bgm.tv/character/53866",
+        "categorie": "person"
+      },
+      {
+        "id": "53867",
+        "label": "加世",
+        "info": "坂井家的女佣。很中意卖药郎的风趣，并且帮助他击退引发这次事件的妖怪。在她的左眼有着一个小黑痣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/2c/53867_crt_wo503.jpg",
+        "link": "https://bgm.tv/character/53867",
+        "categorie": "person"
+      },
+      {
+        "id": "53868",
+        "label": "弥平",
+        "info": "坂井家的老佣人，负责整修老树。为了去叫医生而走出卖药郎设的结界之外，而被妖猫杀死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/51/53868_crt_3wvZM.jpg",
+        "link": "https://bgm.tv/character/53868",
+        "categorie": "person"
+      },
+      {
+        "id": "53869",
+        "label": "珠生",
+        "info": "过去出嫁时在路上遭到伊行绑架，而住在密室的年轻女性。与引发这次事件的妖怪有很大的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/62/53869_crt_AbzB3.jpg",
+        "link": "https://bgm.tv/character/53869",
+        "categorie": "person"
+      },
+      {
+        "id": "53846",
+        "label": "萩",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/53846",
+        "categorie": "person"
+      },
+      {
+        "id": "53848",
+        "label": "葛",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/53848",
+        "categorie": "person"
+      },
+      {
+        "id": "53852",
+        "label": "蜻蛉",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/53852",
+        "categorie": "person"
+      },
+      {
+        "id": "53853",
+        "label": "鬼灯",
+        "info": "白鷺城に棲む忘れ神たち。全員が青白い肌に美しい女の姿をし、雅な着物に身を包んでいる。一様に不老不死かつ常人を遥かに凌駕する身体能力を有し、さらに不可思議な妖術を駆使するため、その戦闘力は非常に高い。白鷺城への侵入者は主に彼女らが対処している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/53853",
+        "categorie": "person"
+      },
+      {
+        "id": "53840",
+        "label": "秋山长兵卫",
+        "info": "和伊右卫门在浪人时是好同伴。帮助他弃置阿岩的尸体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/11/53840_crt_G0IW3.jpg",
+        "link": "https://bgm.tv/character/53840",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

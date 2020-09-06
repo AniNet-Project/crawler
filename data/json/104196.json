@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16703",
+        "label": "小野寺小咲",
+        "info": "本作のヒロイン。楽と千棘のクラスメイト。黒髪で、アシンメトリーな髪型も特徴である。実家は和菓子屋「おのでら」を経営している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/f1/16703_crt_z3L5y.jpg?r=1511248926",
+        "link": "https://bgm.tv/character/16703",
+        "categorie": "person"
+      },
+      {
+        "id": "16704",
+        "label": "桐崎千棘",
+        "info": "本作のヒロイン。金髪ロング。アメリカからの転校生。ギャング「ビーハイブ」のボスの娘で、アメリカ人の父と日本人の母のハーフ。ビーハイブと集英組との抗争を鎮めるため、一条楽と恋人を演じる事になってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/09/16704_crt_EEaFu.jpg?r=1511248768",
+        "link": "https://bgm.tv/character/16704",
+        "categorie": "person"
+      },
+      {
+        "id": "16705",
+        "label": "一条乐",
+        "info": "本作の主人公。ヤクザ「集英組」の組長の一人息子。10年前に約束した女の子と再会するのを心待ちにしていたが、集英組とギャング「ビーハイブ」との諍いを鎮めるため、ビーハイブのボスの娘である桐崎千棘の恋人役を演じる事になってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/74/16705_crt_9WbrR.jpg?r=1511248864",
+        "link": "https://bgm.tv/character/16705",
+        "categorie": "person"
+      },
+      {
+        "id": "20643",
+        "label": "鸫诚士郎",
+        "info": "绰号“黑虎”的职业杀手，从小被克劳德训练成杀手，奉命来保护千棘的女孩，也被奉命要来查清乐的真面目，对千棘小时候的暗恋对象似乎有印象。容易被误解是男生，克劳德似乎还是认为她是男生。喜欢一条乐。学业成绩非常好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/4f/20643_crt_6gb6F.jpg?r=1511248888",
+        "link": "https://bgm.tv/character/20643",
+        "categorie": "person"
+      },
+      {
+        "id": "22398",
+        "label": "橘万里花",
+        "info": "本作のヒロインの一人。警視総監の娘。栗色の長髪で花の形をした髪飾りを付けている。楽の婚約者で千棘・小咲同様に鍵を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/82/22398_crt_2Z99O.jpg?r=1511248671",
+        "link": "https://bgm.tv/character/22398",
+        "categorie": "person"
+      },
+      {
+        "id": "20642",
+        "label": "宫本琉璃",
+        "info": "小野寺的好友，极力协助小野寺的恋情。经常殴打集。没戴眼镜时视力极差，会看不清门口而撞上门框，走路会跌倒，认错一直在身边的人，但在这情况下拳头仍能准确击中集。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/c1/20642_crt_7A4fc.jpg?r=1511249678",
+        "link": "https://bgm.tv/character/20642",
+        "categorie": "person"
+      },
+      {
+        "id": "22399",
+        "label": "克劳德·林格哈特",
+        "info": "ビーハイブの幹部。眼鏡を掛けた男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/3c/22399_crt_r8Fyh.jpg?r=1386688639",
+        "link": "https://bgm.tv/character/22399",
+        "categorie": "person"
+      },
+      {
+        "id": "22400",
+        "label": "舞子集",
+        "info": "楽の親友である眼鏡を掛けた男子。洞察力が鋭く、楽とは対称的に恋愛関係に関しては非常に目ざとい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/fd/22400_crt_v11EX.jpg?r=1511249629",
+        "link": "https://bgm.tv/character/22400",
+        "categorie": "person"
+      },
+      {
+        "id": "25102",
+        "label": "奏仓羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/ab/25102_crt_iP8Wy.jpg",
+        "link": "https://bgm.tv/character/25102",
+        "categorie": "person"
+      },
+      {
+        "id": "27074",
+        "label": "小野寺春",
+        "info": "小野寺小咲的妹妹。跟姐姐不同，擅长料理，不过水平仍逊于一条乐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/bb/27074_crt_ClTWI.jpg?r=1412232199",
+        "link": "https://bgm.tv/character/27074",
+        "categorie": "person"
+      },
+      {
+        "id": "27076",
+        "label": "宝拉·马可伊",
+        "info": "绰号“白牙”的职业杀手，极度崇拜身为杀手的鸫诚士郎，由于不满鸫没有以前凶恶的表现而从美国过来挑战鸫，结果失败，后来暂住在鸫的出租屋并就读于凡矢理高中。相当孩子气，被乐知道可以用甜点来诱惑她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/1a/27076_crt_pG3gO.jpg?r=1429270767",
+        "link": "https://bgm.tv/character/27076",
+        "categorie": "person"
+      },
+      {
+        "id": "27077",
+        "label": "彩风凉",
+        "info": "春的好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/ee/27077_crt_3ni41.jpg?r=1412233875",
+        "link": "https://bgm.tv/character/27077",
+        "categorie": "person"
+      },
+      {
+        "id": "31937",
+        "label": "本田曜子",
+        "info": "橘万里花的女监护（监视者），个性冷酷，很在意万里花的身体状况，原因不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/94/31937_crt_0853L.jpg?r=1428825908",
+        "link": "https://bgm.tv/character/31937",
+        "categorie": "person"
+      },
+      {
+        "id": "31941",
+        "label": "相叶右助",
+        "info": "警察机动队第一部队长，与帮派分子水火不容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/44/31941_crt_fe91a.jpg?r=1428828463",
+        "link": "https://bgm.tv/character/31941",
+        "categorie": "person"
+      },
+      {
+        "id": "31946",
+        "label": "夜",
+        "info": "羽的随扈兼助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/2a/31946_crt_S6ULr.jpg?r=1428829959",
+        "link": "https://bgm.tv/character/31946",
+        "categorie": "person"
+      },
+      {
+        "id": "31943",
+        "label": "蜂巢",
+        "info": "来自美国的黑帮，由阿德鲁托·桐崎·沃格那所创立的黑帮组织，和各地的黑帮往来频繁，经常和其他帮派发生火拼，成员估计有上百人，和集英组经常发生火拼，因此阿德鲁托·桐崎·沃格那和乐的父亲让桐崎千棘跟一条乐伪装成情侣求和。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/ba/31943_crt_Oelzo.jpg?r=1581945898",
+        "link": "https://bgm.tv/character/31943",
+        "categorie": "person"
+      },
+      {
+        "id": "31944",
+        "label": "集英组",
+        "info": "由一条乐的父亲所创立的黑道组织，是当地赫赫有名的混混，经常和其他帮派发生火拼，成员估计有上百人，而成员们的伙食都由乐负责，和蜂巢经常发生火拼，因此阿德鲁托·桐崎·沃格那和乐的父亲让桐崎千棘跟一条乐伪装成情侣求和。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/d5/31944_crt_bZ9Ai.jpg?r=1428829467",
+        "link": "https://bgm.tv/character/31944",
+        "categorie": "person"
+      },
+      {
+        "id": "31945",
+        "label": "ぼんやり高校",
+        "info": "漫画《伪恋》及其衍生的小说、动画、游戏等作品中的一所虚构的高中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/6a/31945_crt_obEbT.jpg?r=1428829576",
+        "link": "https://bgm.tv/character/31945",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

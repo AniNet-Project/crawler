@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75730",
+        "label": "因幡良",
+        "info": "ペナソニックの闘技者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/3a/75730_crt_w55s4.jpg",
+        "link": "https://bgm.tv/character/75730",
+        "categorie": "person"
+      },
+      {
+        "id": "75731",
+        "label": "英初",
+        "info": "帝都大学の闘技者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/2f/75731_crt_cLU9M.jpg",
+        "link": "https://bgm.tv/character/75731",
+        "categorie": "person"
+      },
+      {
+        "id": "75732",
+        "label": "泽田庆三郎",
+        "info": "マーダーミュージックの闘技者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/4a/75732_crt_o8GIS.jpg",
+        "link": "https://bgm.tv/character/75732",
+        "categorie": "person"
+      },
+      {
+        "id": "75733",
+        "label": "桐生刹那",
+        "info": "皇桜学園グループの闘技者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/f3/75733_crt_fXenF.jpg",
+        "link": "https://bgm.tv/character/75733",
+        "categorie": "person"
+      },
+      {
+        "id": "75734",
+        "label": "今井小宇宙",
+        "info": "西品治警備保障の闘技者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/1e/75734_crt_OTuia.jpg",
+        "link": "https://bgm.tv/character/75734",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

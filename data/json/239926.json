@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16891",
+        "label": "狡啮慎也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/83/16891_crt_5wglE.jpg?r=1411138115",
+        "link": "https://bgm.tv/character/16891",
+        "categorie": "person"
+      },
+      {
+        "id": "68362",
+        "label": "登津·旺楚克",
+        "info": "狡噛に命を助けられた難民の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a1/68362_crt_K6UPQ.jpg?r=1555211580",
+        "link": "https://bgm.tv/character/68362",
+        "categorie": "person"
+      },
+      {
+        "id": "68361",
+        "label": "花城芙蕾德莉卡",
+        "info": "外务省行动课长。36岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/4e/68361_crt_0xrIM.jpg?r=1573978977",
+        "link": "https://bgm.tv/character/68361",
+        "categorie": "person"
+      },
+      {
+        "id": "68363",
+        "label": "金雷·道尔吉",
+        "info": "チベット・ヒマラヤ同盟王国軍の兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/60/68363_crt_sl64R.jpg?r=1555211476",
+        "link": "https://bgm.tv/character/68363",
+        "categorie": "person"
+      },
+      {
+        "id": "68364",
+        "label": "吉列尔莫·加西亚",
+        "info": "傭兵団「停戦監視団」の団長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/20/68364_crt_XI3NH.jpg?r=1555211507",
+        "link": "https://bgm.tv/character/68364",
+        "categorie": "person"
+      },
+      {
+        "id": "68365",
+        "label": "策林·古隆",
+        "info": "傭兵団「停戦監視団」の兵士。ガルシアの部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/94/68365_crt_lr99s.jpg?r=1555211529",
+        "link": "https://bgm.tv/character/68365",
+        "categorie": "person"
+      },
+      {
+        "id": "68366",
+        "label": "让·马塞尔·贝尔蒙多",
+        "info": "政府軍の戦力が低下したことに付け込み、過激な活動をしている武装ゲリラ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/8d/68366_crt_JGCQr.jpg?r=1555211552",
+        "link": "https://bgm.tv/character/68366",
+        "categorie": "person"
+      },
+      {
+        "id": "17000",
+        "label": "槙岛圣护",
+        "info": "数々の事件の裏で暗躍する謎の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e2/17000_crt_ImbSW.jpg?r=1411138093",
+        "link": "https://bgm.tv/character/17000",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

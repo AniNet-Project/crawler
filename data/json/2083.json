@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13148",
+        "label": "迪恩·德·波蒙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/93/13148_crt_PcC8W.jpg",
+        "link": "https://bgm.tv/character/13148",
+        "categorie": "person"
+      },
+      {
+        "id": "38384",
+        "label": "丽雅·德·波蒙",
+        "info": "デオンの姉。序盤で何者かに殺害される。殺害された後もその魂は彷徨い続け、デオンを魂の器として現世に再び現れる。剣の達人であり、同時に強力な詩人でもある。詩篇を無効化する力を行使できる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/16/38384_crt_dr336.jpg?r=1453646747",
+        "link": "https://bgm.tv/character/38384",
+        "categorie": "person"
+      },
+      {
+        "id": "38385",
+        "label": "杜兰",
+        "info": "リアを知る青年。軽薄に見えて切れ者。懐中時計と彼の体の一部には\"nqm\"が刻まれている。登場人物の中では珍しく、スモールソードの他にマンゴーシュを使用する（左手にマンゴーシュを持つ剣術は16世紀から17世紀に全盛であった）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ad/38385_crt_0miGt.jpg?r=1453647024",
+        "link": "https://bgm.tv/character/38385",
+        "categorie": "person"
+      },
+      {
+        "id": "38386",
+        "label": "罗宾",
+        "info": "マリーに拾われた少年。武器は銃。未熟な面もあるが才覚は確かで、仲間たちからの信頼は厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/f3/38386_crt_nuzW5.jpg?r=1453647168",
+        "link": "https://bgm.tv/character/38386",
+        "categorie": "person"
+      },
+      {
+        "id": "38387",
+        "label": "特拉戈里",
+        "info": "ボーモン姉弟の剣の師匠。ルイ14世の時代からフランス宮廷に仕えている。一連の騒動においてデオンから協力を依頼され、旅に同行する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/9a/38387_crt_XxXLW.jpg?r=1453648029",
+        "link": "https://bgm.tv/character/38387",
+        "categorie": "person"
+      },
+      {
+        "id": "38388",
+        "label": "马克西米利安·罗伯斯皮耶",
+        "info": "革命教団に属している強力な詩人。元はデュランとリアと同じくルイ15世に仕えていた機密局の一員だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ea/38388_crt_CzirE.jpg?r=1453648140",
+        "link": "https://bgm.tv/character/38388",
+        "categorie": "person"
+      },
+      {
+        "id": "38389",
+        "label": "路易十五世",
+        "info": "フランス国王。国民からは「最愛王」と呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/f5/38389_crt_1XANh.jpg?r=1453648381",
+        "link": "https://bgm.tv/character/38389",
+        "categorie": "person"
+      },
+      {
+        "id": "38390",
+        "label": "安娜",
+        "info": "デオンの許婚にしてオーギュストの侍女。彼の事を常に気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/53/38390_crt_U1Twx.jpg?r=1453651112",
+        "link": "https://bgm.tv/character/38390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

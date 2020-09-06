@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14660",
+        "label": "沙条绫香",
+        "info": "『Fate/Prototype』の主人公。セイバーのマスター。眼鏡をかけた未熟な魔術師。マスター階梯は最低の第七位・権天使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/7b/14660_crt_My656.jpg",
+        "link": "https://bgm.tv/character/14660",
+        "categorie": "person"
+      },
+      {
+        "id": "19548",
+        "label": "亚瑟·潘德拉贡",
+        "info": "亚瑟·潘德拉贡是《Fate/Prototype》及前传《Fate/Prototype 苍银的碎片》中登场的从者Saber。有着成熟的价值观与正义感。弃恶扬善，惩奸除恶，赏心悦目的英雄形象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/b0/19548_crt_w3b7m.jpg",
+        "link": "https://bgm.tv/character/19548",
+        "categorie": "person"
+      },
+      {
+        "id": "19549",
+        "label": "吉尔伽美什",
+        "info": "弓兵のサーヴァント。黄金の鎧を纏った青年。サーヴァント階位は第三位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/4b/19549_crt_2LLde.jpg?r=1436876718",
+        "link": "https://bgm.tv/character/19549",
+        "categorie": "person"
+      },
+      {
+        "id": "19550",
+        "label": "玲珑馆美沙夜",
+        "info": "ランサーのマスター。由緒正しき家に生まれたお嬢様。マスター階梯は第二位・智天使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/4c/19550_crt_9d4N0.jpg",
+        "link": "https://bgm.tv/character/19550",
+        "categorie": "person"
+      },
+      {
+        "id": "19551",
+        "label": "库·丘林",
+        "info": "在凯尔特、阿尔斯特传说中存在的无双的大英雄，既是接受太阳神鲁格之血的“光之御子”，也别名为库兰的猎犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/58/19551_crt_M7MDZ.jpg?r=1498989820",
+        "link": "https://bgm.tv/character/19551",
+        "categorie": "person"
+      },
+      {
+        "id": "19552",
+        "label": "珀耳修斯",
+        "info": "マスター不在のサーヴァント。一般学生の装いをした美男子。サーヴァント階級は第五位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/58/19552_crt_elzP4.jpg",
+        "link": "https://bgm.tv/character/19552",
+        "categorie": "person"
+      },
+      {
+        "id": "19553",
+        "label": "桑格雷德·法恩",
+        "info": "バーサーカーのマスター。特徴のない風貌のアメリカ人僧侶。マスター階梯は番外位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/9e/19553_crt_Hu066.jpg",
+        "link": "https://bgm.tv/character/19553",
+        "categorie": "person"
+      },
+      {
+        "id": "19554",
+        "label": "沙条爱歌",
+        "info": "沙条綾香の姉。故人。マスター階梯は第一位・熾天使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/e5/19554_crt_z9t3i.jpg",
+        "link": "https://bgm.tv/character/19554",
+        "categorie": "person"
+      },
+      {
+        "id": "33476",
+        "label": "伊势三杏路",
+        "info": "外表约10岁身患重病的的男孩。御主阶位为第三位・座天使。Rider的御主。令咒的位置在左手掌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f1/33476_crt_gi6mi.jpg?r=1434859494",
+        "link": "https://bgm.tv/character/33476",
+        "categorie": "person"
+      },
+      {
+        "id": "33477",
+        "label": "沙条广树",
+        "info": "沙条綾香と愛歌の父。故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/c4/33477_crt_eDJV5.jpg",
+        "link": "https://bgm.tv/character/33477",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

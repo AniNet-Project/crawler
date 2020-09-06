@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72282",
+        "label": "战部渡",
+        "info": "《魔神英雄传》系列的共通主角、龙神丸的操作者。实际上是出生于天神界拳龙族，继承传说中一千年才会出现一次、作为救世者凭证的“拳龙之勾玉”(拳龙分娩时流下的眼泪变成，亦具有封印神部界地底地狱之门的能力。)、以及拳龙继承者的名称“Adaru”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/e9/72282_crt_GDNzI.jpg",
+        "link": "https://bgm.tv/character/72282",
+        "categorie": "person"
+      },
+      {
+        "id": "72336",
+        "label": "龙神号",
+        "info": "战部渡操控的魔神，是龙神根据被渡挂上勾玉的黏土机器人，使之变成魔神外壳而成。与其他魔神不同，是透过渡站在龙神头上，透过互相合作共同控制。擅长猜拳和精通创界山各地的语言。第四星界中受重伤，龙神化成龙玉，后来与被击落的空神丸结合灵魂，进化成龙王丸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/63/72336_crt_y773Y.jpg",
+        "link": "https://bgm.tv/character/72336",
+        "categorie": "person"
+      },
+      {
+        "id": "72333",
+        "label": "渡部古拉玛",
+        "info": "由于居住的小村被魔界力影响，连同古拿马在内、全部村民变成鸟型，不得已成为恶魔首领的间谋，因而连性格亦错一度受扭曲。不过在接近战部渡等人后，逐渐受他们重视友情的态度，有所改变，最后更成为救世主一行成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/a6/72333_crt_r0PPX.jpg",
+        "link": "https://bgm.tv/character/72333",
+        "categorie": "person"
+      },
+      {
+        "id": "72334",
+        "label": "忍部火美子",
+        "info": "极度天真烂漫，甚至没有令她害怕的东西，因为乐天的性格，脸上经常挂著笑脸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/9e/72334_crt_18P0S.jpg?r=1573104918",
+        "link": "https://bgm.tv/character/72334",
+        "categorie": "person"
+      },
+      {
+        "id": "72335",
+        "label": "剑部武一郎",
+        "info": "剑部一族的剑术高手，也是战部渡的大师，擅长使用双刀，脸很大，据说和河马是远亲。性格豪放磊落，但另一方面却经常轻易堕进敌人简单而粗疏的陷阱，而陷入困境。由于身为救世主一行人唯一成年人，熟悉剑术而被战部渡称为“师傅”，被渡部黑间称为“先生”，对他相当信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/12/72335_crt_w4km5.jpg",
+        "link": "https://bgm.tv/character/72335",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

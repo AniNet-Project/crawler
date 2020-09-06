@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "85",
+        "label": "坂田银时",
+        "info": "江戸はかぶき町にて万事屋（何でも屋）を営む侍。ドSだが打たれ弱く、マイペースだが決めるところはビシッと決める本作の主人公にして万事屋のオーナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/95/85_crt_mnnRv.jpg?r=1532144893",
+        "link": "https://bgm.tv/character/85",
+        "categorie": "person"
+      },
+      {
+        "id": "250",
+        "label": "志村新八",
+        "info": "* 本作唯一的正常人(沒有誤)，特徵是眼鏡和大眾臉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/a9/250_crt_7Ifw5.jpg?r=1531611155",
+        "link": "https://bgm.tv/character/250",
+        "categorie": "person"
+      },
+      {
+        "id": "229",
+        "label": "神乐",
+        "info": "本作的女主角(自称)，可是JUMP里有这种没形象而且身分低劣的女主角吗！？ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/23/229_crt_I73MP.jpg?r=1532064353",
+        "link": "https://bgm.tv/character/229",
+        "categorie": "person"
+      },
+      {
+        "id": "9277",
+        "label": "月咏",
+        "info": "吉原自卫队“百华”的现任首领，主要保护日轮和吉原的艺妓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/51/9277_crt_XXRXn.jpg",
+        "link": "https://bgm.tv/character/9277",
+        "categorie": "person"
+      },
+      {
+        "id": "9276",
+        "label": "日轮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/89/9276_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9276",
+        "categorie": "person"
+      },
+      {
+        "id": "254",
+        "label": "志村妙",
+        "info": "18岁，新八的姐姐，通称“阿妙（お妙）”。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/94/254_crt_1Yyju.jpg",
+        "link": "https://bgm.tv/character/254",
+        "categorie": "person"
+      },
+      {
+        "id": "3064",
+        "label": "柳生九兵卫",
+        "info": "名门剑豪柳生家的千金，柳生家的下任当家，身材矮小，擅长过肩摔。因为母亲生产后去世，家族又习惯让男孩当家，父亲和祖父决定将她当成男孩般哺养，平时做男装打扮。童年时常受到青梅竹马阿妙的保护与开导，因为和来志村家讨债的流氓打架，左眼失明，之后一直佩带眼罩，为此苦修剑术，剑术突飞猛进。原本想要将阿妙娶进柳生家，但后来因为新八、近藤等人的行动作罢。实对人情世故很不熟悉，会做出很天真的行动（天然呆）。对情敌近藤抱有杀意。要是有男性碰到她会被用过肩摔甩出去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/52/3064_crt_4x0IN.jpg",
+        "link": "https://bgm.tv/character/3064",
+        "categorie": "person"
+      },
+      {
+        "id": "3055",
+        "label": "近藤勋",
+        "info": "近藤勋出自空知英秋原作人气动漫《银魂》，一手创建了真选组（历史原形新选组），职位是局长，别名为“大猩猩”。 剑术虽然高超，却深藏不露。经常犯二，被志村妙列为头号必须杀掉的人，目前依旧在追着志村妙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/36/3055_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3055",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

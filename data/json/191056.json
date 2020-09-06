@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49500",
+        "label": "岸井野野子",
+        "info": "この物語の主人公である15歳の少女。美味しいご飯がお腹いっぱい食べられると聞いて受けた試験で、龍に選ばれ「龍の歯医者」となった。まだ新米ではあるが、その仕事•使命についてはよく理解しており、後輩となったベルの面倒をみることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/ae/49500_crt_013nF.jpg",
+        "link": "https://bgm.tv/character/49500",
+        "categorie": "person"
+      },
+      {
+        "id": "49501",
+        "label": "ベルナール・オクタビアス",
+        "info": "敵国・セルペナーダの良家に育ち、予科士官学校を経て従軍することとなった17歳の少年。「黄泉帰り（よみがえり）」と呼ばれる奇異な現象によって龍の歯から出現し、野ノ子たちと出会う。通称・ベル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/66/49501_crt_jgY1q.jpg",
+        "link": "https://bgm.tv/character/49501",
+        "categorie": "person"
+      },
+      {
+        "id": "49502",
+        "label": "悟堂ヨ世夫",
+        "info": "長年にわたり「龍の歯医者」を務めてきた野ノ子の直接の先輩。柴名と並ぶ一番の古株で、現在のリーダー格。達観したかのような柔和な態度が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/59/49502_crt_j2jRT.jpg",
+        "link": "https://bgm.tv/character/49502",
+        "categorie": "person"
+      },
+      {
+        "id": "49503",
+        "label": "夏目柴名",
+        "info": "悟堂に次ぐベテラン歯医者の一人。周りからは「柴名姐さん」と呼ばれる。12年前の「天狗虫事件」で、恋い慕っていた先輩歯医者・竹本を失う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fc/49503_crt_G9Xcx.jpg",
+        "link": "https://bgm.tv/character/49503",
+        "categorie": "person"
+      },
+      {
+        "id": "49504",
+        "label": "サルバトール・ブランコ",
+        "info": "セルペナーダ軍に雇われた傭兵部隊の隊長。大胆不敵で、銃弾の飛び交う激しい戦場でも異常とも思えるほど剛胆に振る舞う。いつも不機嫌そうな様子である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/9c/49504_crt_z2RDR.jpg",
+        "link": "https://bgm.tv/character/49504",
+        "categorie": "person"
+      },
+      {
+        "id": "49505",
+        "label": "有栖川カンネ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/2a/49505_crt_HDlLQ.jpg",
+        "link": "https://bgm.tv/character/49505",
+        "categorie": "person"
+      },
+      {
+        "id": "51521",
+        "label": "佐藤修三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/b1/51521_crt_OidIj.jpg",
+        "link": "https://bgm.tv/character/51521",
+        "categorie": "person"
+      },
+      {
+        "id": "51523",
+        "label": "家村宗达",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/2a/51523_crt_i1ZIe.jpg",
+        "link": "https://bgm.tv/character/51523",
+        "categorie": "person"
+      },
+      {
+        "id": "51524",
+        "label": "小泽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/02/51524_crt_b5u4C.jpg",
+        "link": "https://bgm.tv/character/51524",
+        "categorie": "person"
+      },
+      {
+        "id": "51526",
+        "label": "ギレリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/3f/51526_crt_NojJJ.jpg",
+        "link": "https://bgm.tv/character/51526",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3673",
+        "label": "万次",
+        "info": "自らの主君と追っ手百人を殺した罪で追われる隻眼の侍。謎の老婆、八百比丘尼に究極の延命術・血仙蟲を埋め込まれ、不死の身体となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/82/3673_crt_I3444.jpg?r=1565262864",
+        "link": "https://bgm.tv/character/3673",
+        "categorie": "person"
+      },
+      {
+        "id": "3674",
+        "label": "浅野凛",
+        "info": "江戸最強と謳われていた、無天一流浅野道場統主・復讐のため一人で修業をしていたところ、八百比丘尼から薦められ、万次を用心棒として雇う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/42/3674_crt_ES7M9.jpg?r=1565262908",
+        "link": "https://bgm.tv/character/3674",
+        "categorie": "person"
+      },
+      {
+        "id": "54606",
+        "label": "天津影久",
+        "info": "逸刀流二代目統主。幼少期から、無天一流を破門された祖父・天津三郎に厳しい修行を施されており、天才的な剣の腕前を持つ。国中の流派を逸刀流のもとに統一するため、黒衣や凶たちと行動を始め、数多くの道場を配下におさめている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/96/54606_crt_1cg96.jpg?r=1566617866",
+        "link": "https://bgm.tv/character/54606",
+        "categorie": "person"
+      },
+      {
+        "id": "3675",
+        "label": "凶戴斗",
+        "info": "逸刀流の剣士。幼い頃に妹を侍に殺されたことから、武士階級に憎しみを抱くようになる。相手の手の先を読むことに長け、智略に富んだ戦いを得意とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/27/3675_crt_s6OKg.jpg?r=1566617941",
+        "link": "https://bgm.tv/character/3675",
+        "categorie": "person"
+      },
+      {
+        "id": "3676",
+        "label": "黑衣鲭人",
+        "info": "鎧兜を身にまとい長刀を操る巨漢の逸刀流剣士。二年前の浅野道場襲来の際、凜の父である浅野虎厳を殺害した。天津影久が幼い頃からの知己であり、現在の逸刀流のなかでは古参に属する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/96/3676_crt_K6zrA.jpg?r=1566617981",
+        "link": "https://bgm.tv/character/3676",
+        "categorie": "person"
+      },
+      {
+        "id": "71452",
+        "label": "闲马永空",
+        "info": "戦国時代、八百比丘尼と思われる老婆に血仙蟲を埋め込まれ、不死の体となった侍。戦で主君を失ってからは各地を放浪し、やがて天津影久率いる逸刀流に身を寄せるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/e0/71452_crt_2wZmI.jpg?r=1566617830",
+        "link": "https://bgm.tv/character/71452",
+        "categorie": "person"
+      },
+      {
+        "id": "54607",
+        "label": "乙橘槙绘",
+        "info": "逸刀流統主の天津影久が、「この世でただひとり自分を倒すことの出来る剣人」と認めた女剣士。遊女として小さな遊郭に勤めているが、天津影久に身請けされ、逸刀流の刺客となる。類まれなる剣の腕を持ちながら、女であるがゆえに運命を狂わされた哀しき女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/fa/54607_crt_djqc7.jpg?r=1566618015",
+        "link": "https://bgm.tv/character/54607",
+        "categorie": "person"
+      },
+      {
+        "id": "71451",
+        "label": "阿叶山宗介",
+        "info": "逸刀流の剣士で天津影久の後見人。そのため、影久不在の際には統主代行を務める。右腕を失い、左腕のみの隻腕の侍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/23/71451_crt_917Pd.jpg?r=1566617802",
+        "link": "https://bgm.tv/character/71451",
+        "categorie": "person"
+      },
+      {
+        "id": "71788",
+        "label": "天津三郎",
+        "info": "かつては無天一流に属する剣豪だったが、流派の教えにない剣技を振るったため破門された。その恨みを晴らすために独自の流派、逸刀流を創始する。気性は極めて激しく、侍としての誇りや体面に子こだわる一方で、屈辱を受けた相手に対する憎しみを忘れない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/fa/71788_crt_9g977.jpg?r=1568411554",
+        "link": "https://bgm.tv/character/71788",
+        "categorie": "person"
+      },
+      {
+        "id": "3677",
+        "label": "川上新夜",
+        "info": "二年前、浅野道場を襲撃し、凜の母を凌辱した逸刀流のひとり。そのかたわら、自作の面を売る面屋を営む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/22/3677_crt_R4WBY.jpg?r=1568411642",
+        "link": "https://bgm.tv/character/3677",
+        "categorie": "person"
+      },
+      {
+        "id": "3679",
+        "label": "吐钩群",
+        "info": "逸刀流に接近してきた幕府の役人。その一方で逸刀流剣士を次々狩っている偽一や百琳とも繋がる謎多き人物。その立ち振る舞いは、物静かだが威厳に満ちている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/c7/3679_crt_z990f.jpg?r=1568411711",
+        "link": "https://bgm.tv/character/3679",
+        "categorie": "person"
+      },
+      {
+        "id": "54608",
+        "label": "百琳",
+        "info": "偽一や尸良とともに、逸刀流を抹殺していく謎の人物。万次に興味を持ち、自分たちの仲間に引き入れることを目論む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/df/54608_crt_Tt57D.jpg?r=1568411778",
+        "link": "https://bgm.tv/character/54608",
+        "categorie": "person"
+      },
+      {
+        "id": "54609",
+        "label": "伪一",
+        "info": "百琳たちとともに逸刀流を狩る謎の剣士。常に冷静かつ寡黙な男で、与えられた任務を確実にこなしていく。剣士としても群を抜いた腕前を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/58/54609_crt_L0Ea0.jpg?r=1568411846",
+        "link": "https://bgm.tv/character/54609",
+        "categorie": "person"
+      },
+      {
+        "id": "3678",
+        "label": "尸良",
+        "info": "偽一、百琳と行動をともにする謎の人物。万次を自らの同類と見なすなど、その言葉や表情の端々から残虐な行いを好むふしが見られる。狂気と異様な雰囲気を感じさせる人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/9f/3678_crt_2zbVc.jpg?r=1568411415",
+        "link": "https://bgm.tv/character/3678",
+        "categorie": "person"
+      },
+      {
+        "id": "8356",
+        "label": "真理路",
+        "info": "偽一たちの仲間で、百琳の補佐役。仲間内では新参にあたり、周囲に気を配ることを忘れない。しばしば百琳の怒りをかったり、呆れさせたりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/9f/8356_crt_1K1pG.jpg?r=1568411892",
+        "link": "https://bgm.tv/character/8356",
+        "categorie": "person"
+      },
+      {
+        "id": "71789",
+        "label": "宗理",
+        "info": "凜の父親である浅野虎厳の幼なじみの町絵師。芸術に対して異様ともいえる貪欲さを有しており、作品を完成させるためであれば人血を用いることも辞さない。万次からは「先生」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/ca/71789_crt_RH2Eg.jpg?r=1568412043",
+        "link": "https://bgm.tv/character/71789",
+        "categorie": "person"
+      },
+      {
+        "id": "8007",
+        "label": "八百比丘尼",
+        "info": "万次に血仙蟲の秘術を施した謎の老婆。その名のとおり八百年の月日を生きていると言う。墓前で逸刀流への仇討ちを願っていた凜に万次を用心棒に雇うよう助言する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/1a/8007_crt_yGKO4.jpg?r=1568411940",
+        "link": "https://bgm.tv/character/8007",
+        "categorie": "person"
+      },
+      {
+        "id": "74266",
+        "label": "吉乃瞳阿",
+        "info": "逸刀流の少女剣士。同じく逸刀流の夷作と行動を共にする。俊敏な動きで敵を翻弄することが得意。宿を求めて夷作と共に無天一流道場に現れ、凜と出会う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/0e/74266_crt_8cRC3.jpg?r=1577437970",
+        "link": "https://bgm.tv/character/74266",
+        "categorie": "person"
+      },
+      {
+        "id": "74267",
+        "label": "八苑狼夷作",
+        "info": "瞳阿と行動を共にする大男。巨体に似合わず、素朴な人柄で、無鉄砲な瞳阿に振り回されながら世話をする。宿を求めて、瞳阿と共に無天一流道場に現れ、凜と出会う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/46/74267_crt_lMtUr.jpg?r=1577438000",
+        "link": "https://bgm.tv/character/74267",
+        "categorie": "person"
+      },
+      {
+        "id": "74268",
+        "label": "马絽祐实",
+        "info": "顔に横真一文字の傷がある逸刀流剣士。武器として長刀を使用する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/b0/74268_crt_0KPkI.jpg?r=1577438115",
+        "link": "https://bgm.tv/character/74268",
+        "categorie": "person"
+      },
+      {
+        "id": "74269",
+        "label": "果心居士",
+        "info": "江戸で薬屋を営んでいる逸刀流の老人。剣を使用することはないが、地の利を活かした戦いを得意とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/b4/74269_crt_1Cl88.jpg?r=1577439266",
+        "link": "https://bgm.tv/character/74269",
+        "categorie": "person"
+      },
+      {
+        "id": "74270",
+        "label": "绫目步兰人",
+        "info": "異国で医術を学んだ医師。帰国後、吐により捕らえられた万次の不死を解明することを命じられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/22/74270_crt_NTfXd.jpg?r=1577439287",
+        "link": "https://bgm.tv/character/74270",
+        "categorie": "person"
+      },
+      {
+        "id": "74271",
+        "label": "杣燎",
+        "info": "六鬼団に所属している女。吐と深い関係があり、わけあって六鬼団に所属することになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/76/74271_crt_0zAJ9.jpg?r=1577439307",
+        "link": "https://bgm.tv/character/74271",
+        "categorie": "person"
+      },
+      {
+        "id": "74272",
+        "label": "目黑",
+        "info": "たんぽぽと共に六鬼団と共に行動するくノ一。宗理のことを慕っており、弟子になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/9c/74272_crt_FnWE4.jpg?r=1577439354",
+        "link": "https://bgm.tv/character/74272",
+        "categorie": "person"
+      },
+      {
+        "id": "74274",
+        "label": "蒲公英",
+        "info": "目黒と共に六鬼団と行動するくノ一。宗理の弟子になり絵を習っているが、目黒と違って絵心がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e0/74274_crt_rm4R1.jpg?r=1577439372",
+        "link": "https://bgm.tv/character/74274",
+        "categorie": "person"
+      },
+      {
+        "id": "74273",
+        "label": "御岳",
+        "info": "六鬼団に所属する一人。吐の腹心であり、不死実験の補佐や逸刀流討伐に従う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/e6/74273_crt_zCGWY.jpg?r=1577438041",
+        "link": "https://bgm.tv/character/74273",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

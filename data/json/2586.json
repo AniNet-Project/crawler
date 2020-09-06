@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "327",
+        "label": "藤井冬弥",
+        "info": "本作的主人公，是平凡的大學生。對周圍的人守著秘密，與明星由綺交往。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/3a/327_pANqK.jpg",
+        "link": "https://bgm.tv/character/327",
+        "categorie": "person"
+      },
+      {
+        "id": "328",
+        "label": "森川由绮",
+        "info": "一年前にデビューした新進気鋭の人気歌手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/16/328_crt_vbz8P.jpg",
+        "link": "https://bgm.tv/character/328",
+        "categorie": "person"
+      },
+      {
+        "id": "329",
+        "label": "绪方理奈",
+        "info": "由綺と同じ芸能プロダクションの先輩にあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/df/329_crt_1jJNz.jpg",
+        "link": "https://bgm.tv/character/329",
+        "categorie": "person"
+      },
+      {
+        "id": "330",
+        "label": "观月真名",
+        "info": "ふとしたことで主人公と知り合う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/e4/330_crt_rnfGU.jpg",
+        "link": "https://bgm.tv/character/330",
+        "categorie": "person"
+      },
+      {
+        "id": "331",
+        "label": "泽仓美咲",
+        "info": "主人公達とは高校時代から付き合いがあり、",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/6d/331_crt_L26N7.jpg",
+        "link": "https://bgm.tv/character/331",
+        "categorie": "person"
+      },
+      {
+        "id": "332",
+        "label": "河岛遥",
+        "info": "主人公とは実家が近所で、幼稚園以来、",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/d8/332_crt_vYYpb.jpg",
+        "link": "https://bgm.tv/character/332",
+        "categorie": "person"
+      },
+      {
+        "id": "333",
+        "label": "筱冢弥生",
+        "info": "由綺のマネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/82/333_crt_89Lj0.jpg",
+        "link": "https://bgm.tv/character/333",
+        "categorie": "person"
+      },
+      {
+        "id": "334",
+        "label": "七濑彰",
+        "info": "冬彌的好友。對美咲有好感，但並沒有讓對方知道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/2b/334_hBZVZ.jpg",
+        "link": "https://bgm.tv/character/334",
+        "categorie": "person"
+      },
+      {
+        "id": "14216",
+        "label": "绪方英二",
+        "info": "理奈的兄长，是为多才多艺的才子，但似乎在追逐某位女性的影子.......。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/2a/14216_crt_yoOYi.jpg",
+        "link": "https://bgm.tv/character/14216",
+        "categorie": "person"
+      },
+      {
+        "id": "63800",
+        "label": "松山玛瑙",
+        "info": "アニメ版オリジナルキャラクター。25歳。M&Mミュージック所属のミュージシャン。樹の長女でマナの姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/7e/63800_crt_N5313.jpg",
+        "link": "https://bgm.tv/character/63800",
+        "categorie": "person"
+      },
+      {
+        "id": "63801",
+        "label": "夏子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/53/63801_crt_VojNZ.jpg",
+        "link": "https://bgm.tv/character/63801",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

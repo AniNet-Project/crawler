@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32369",
+        "label": "春风DoReMi",
+        "info": "春风doremi——主色为粉红色，热情开朗，做事错漏百出，善解人意，重视友情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/40/32369_crt_NwWKm.jpg?r=1474245744",
+        "link": "https://bgm.tv/character/32369",
+        "categorie": "person"
+      },
+      {
+        "id": "46450",
+        "label": "春风泡泡",
+        "info": "DoReMi的妹妹，不过比DoReMi能干。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/be/46450_crt_AJAAr.jpg?r=1474248563",
+        "link": "https://bgm.tv/character/46450",
+        "categorie": "person"
+      },
+      {
+        "id": "46451",
+        "label": "卷机山花",
+        "info": "本作品女主角之一。喜欢作品中的角色之一:迪加大叔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d2/46451_crt_H17E9.jpg?r=1474248979",
+        "link": "https://bgm.tv/character/46451",
+        "categorie": "person"
+      },
+      {
+        "id": "47945",
+        "label": "魔女莉卡",
+        "info": "どれみたちの住む街で、店を開いていたが、どれみに正体を見破られたために魔女ガエルになってしまっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/84/47945_crt_358zf.jpg?r=1478256397",
+        "link": "https://bgm.tv/character/47945",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

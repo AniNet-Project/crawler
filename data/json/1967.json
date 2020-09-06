@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4699",
+        "label": "エイジ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/72/4699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4699",
+        "categorie": "person"
+      },
+      {
+        "id": "19558",
+        "label": "ディアネイラ・イ・ライシャ・アルトリア・オル・ユーノス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/99/19558_crt_cYOH1.jpg",
+        "link": "https://bgm.tv/character/19558",
+        "categorie": "person"
+      },
+      {
+        "id": "4700",
+        "label": "アネーシャ・オル・メガーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/41/4700_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4700",
+        "categorie": "person"
+      },
+      {
+        "id": "4701",
+        "label": "テイル・オル・メヒリム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/ad/4701_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4701",
+        "categorie": "person"
+      },
+      {
+        "id": "4702",
+        "label": "パエトー・オー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/fd/4702_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4702",
+        "categorie": "person"
+      },
+      {
+        "id": "4703",
+        "label": "プロメ・オー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/43/4703_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4703",
+        "categorie": "person"
+      },
+      {
+        "id": "4704",
+        "label": "カルキノス・ルーカン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b4/4704_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4704",
+        "categorie": "person"
+      },
+      {
+        "id": "4705",
+        "label": "レクティ・レクゥ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/31/4705_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4705",
+        "categorie": "person"
+      },
+      {
+        "id": "4706",
+        "label": "メレアグロス・エ・ライシャ・アルトリア・オズ・ユーノス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/ad/4706_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

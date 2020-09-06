@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7972",
+        "label": "高橋美咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/50/7972_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7972",
+        "categorie": "person"
+      },
+      {
+        "id": "7983",
+        "label": "上條弘樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/46/7983_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7983",
+        "categorie": "person"
+      },
+      {
+        "id": "7984",
+        "label": "草間野分",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/70/7984_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7984",
+        "categorie": "person"
+      },
+      {
+        "id": "7985",
+        "label": "宮城庸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/f7/7985_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7985",
+        "categorie": "person"
+      },
+      {
+        "id": "8000",
+        "label": "高槻忍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/ff/8000_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8000",
+        "categorie": "person"
+      },
+      {
+        "id": "34006",
+        "label": "宇佐见秋彦",
+        "info": "愛称はウサギ（さん）。3月3日生まれ。旧財閥宇佐見グループの次男にして、10歳までイギリスで育った帰国子女である。T大（アニメ版では帝都大学）法学部を現役合格&首席卒業し、直森賞&菊川賞&国際文学芸術賞大賞を受賞した人気作家でもある。上條弘樹とは実家が向かい同士の幼馴染（※しかも同い年）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/77/34006_crt_LhUxW.jpg?r=1436414615",
+        "link": "https://bgm.tv/character/34006",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

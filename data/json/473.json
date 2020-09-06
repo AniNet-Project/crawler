@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7259",
+        "label": "野比大雄",
+        "info": "原作为小学4年级的学生，动画版为小学5年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/4c/7259_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7259",
+        "categorie": "person"
+      },
+      {
+        "id": "7312",
+        "label": "刚田武",
+        "info": "大雄的同学。身强力壮。擅长运动。喜欢唱歌和烹饪，水平极差却不自觉。尢其是唱歌，没有人受得了。有严重自我中心，经常欺负人（尤其大雄），并袒护自己的妹妹。优点是勇敢、有正义感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/3e/7312_crt_F745q.jpg",
+        "link": "https://bgm.tv/character/7312",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

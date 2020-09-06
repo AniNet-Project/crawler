@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18577",
+        "label": "岸边露伴",
+        "info": "杜王町に住む人気漫画家。1979年生まれの20歳（初登場時、1999年時点）。独身。B型。代表作は16歳の時より『週刊少年ジャンプ』にて連載しているデビュー作「ピンクダークの少年」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/c8/18577_crt_KDaYB.jpg",
+        "link": "https://bgm.tv/character/18577",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

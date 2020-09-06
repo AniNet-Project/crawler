@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13003",
+        "label": "金田一一",
+        "info": "名侦探金田一耕助的孙子，智商高达180。以第一名的成绩考入不动高中，但高中的学习成绩一直在补考线上挣扎，还经常翘课。自从歌剧院事间后似乎就被杀人事件所包围，现今已解决了不少案件。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/85/13003_crt_rJGZo.jpg",
+        "link": "https://bgm.tv/character/13003",
+        "categorie": "person"
+      },
+      {
+        "id": "13009",
+        "label": "七濑美雪",
+        "info": "和金田一的母亲很和得来，幼稚园时曾和金田一一起洗澡，现在却死不承认。上中学后，由于性格开朗颇受欢迎，每个礼拜最少收到两封情书。中学二年级是剪掉长发，原因不明。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/82/13009_crt_oCFCF.jpg",
+        "link": "https://bgm.tv/character/13009",
+        "categorie": "person"
+      },
+      {
+        "id": "13013",
+        "label": "剑持勇",
+        "info": "出生于长野县排行老大，高中毕业后进入警校。初恋情人是巽紫乃，最近于飞驿机关宅邸杀人事件中和紫乃再次相会。和妻子是在击退流氓时认识结婚的。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/b2/13013_crt_Xisms.jpg",
+        "link": "https://bgm.tv/character/13013",
+        "categorie": "person"
+      },
+      {
+        "id": "13014",
+        "label": "明智健悟",
+        "info": "国立高中毕业后就读于东京大学，之后在警视厅工作，也曾在洛杉矶做过几年市警，和FBI有过合作关系。二十八岁，是警视总监奖的最年轻保持者。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/31/13014_crt_yvwHi.jpg",
+        "link": "https://bgm.tv/character/13014",
+        "categorie": "person"
+      },
+      {
+        "id": "13015",
+        "label": "金田一二三",
+        "info": "金田一一的堂妹。金田一丙助的女儿，金田一丙助是金田一耕助的儿子，金田一二三也是金田一耕助的孙子。喜好存款，用猪只造型的存钱筒，不过里面全是一元日币的硬币。表面可爱乖巧，但实际上个性自大狡猾奸诈，正所谓‘ぶりっ子’（中译：甲醇，假装纯洁的意思）,后来更被剑持戏称为\"小鬼金\",以作弄金田一一为乐事。正义感不低于金田一一，也有亲自解决的杀人事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/7f/13015_crt_Fhz17.jpg",
+        "link": "https://bgm.tv/character/13015",
+        "categorie": "person"
+      },
+      {
+        "id": "40523",
+        "label": "高远遥一",
+        "info": "別名「地獄の傀儡師」。天才マジシャンにして「犯罪芸術家」を自称する連続殺人犯にして脱獄常習犯。一の宿敵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/48/40523_crt_aXHx9.jpg",
+        "link": "https://bgm.tv/character/40523",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

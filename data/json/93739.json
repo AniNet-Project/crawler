@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23120",
+        "label": "星野裕",
+        "info": "右ペンホルダー 前陣速攻型",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/28/23120_crt_Yey01.jpg?r=1390458298",
+        "link": "https://bgm.tv/character/23120",
+        "categorie": "person"
+      },
+      {
+        "id": "23121",
+        "label": "月本诚",
+        "info": "右シェークハンド カット主戦型",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3e/23121_crt_ffM61.jpg?r=1390458522",
+        "link": "https://bgm.tv/character/23121",
+        "categorie": "person"
+      },
+      {
+        "id": "23122",
+        "label": "孔文革",
+        "info": "右中国式ペンホルダー ドライブ主戦型",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/c2/23122_crt_Rfvbr.jpg?r=1390458783",
+        "link": "https://bgm.tv/character/23122",
+        "categorie": "person"
+      },
+      {
+        "id": "23123",
+        "label": "佐久间学",
+        "info": "右ペンホルダー 前陣速攻型",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/e9/23123_crt_7v4lk.jpg?r=1390458993",
+        "link": "https://bgm.tv/character/23123",
+        "categorie": "person"
+      },
+      {
+        "id": "23124",
+        "label": "风间龙一",
+        "info": "右シェークハンド(映画ピンポンでは左)オールラウンド",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/7f/23124_crt_4CYFG.jpg?r=1390460337",
+        "link": "https://bgm.tv/character/23124",
+        "categorie": "person"
+      },
+      {
+        "id": "23125",
+        "label": "小泉丈",
+        "info": "右ペンホルダー 両ハンド攻撃型",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/7e/23125_crt_YuQUu.jpg?r=1390462615",
+        "link": "https://bgm.tv/character/23125",
+        "categorie": "person"
+      },
+      {
+        "id": "23126",
+        "label": "田村",
+        "info": "タムラ卓球場を経営している。星野・月本・佐久間が小学生の頃から彼らを指導してきた。指導は厳しいが選手に対しては本人曰く「手前の下の世話させるくらいの」愛を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/22/23126_crt_NDaMA.jpg?r=1390462648",
+        "link": "https://bgm.tv/character/23126",
+        "categorie": "person"
+      },
+      {
+        "id": "24377",
+        "label": "孔的教练",
+        "info": "教练，也为孔文革作日语翻译，翻译自带圆场模式。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/93/24377_crt_NLrzn.jpg?r=1397330327",
+        "link": "https://bgm.tv/character/24377",
+        "categorie": "person"
+      },
+      {
+        "id": "25508",
+        "label": "江上",
+        "info": "大鵬高校3年生　１年のインターハイ予選のスマイルの対戦相手。３年最後の卓球で意気込んでいたが、スマイルの速攻戦法に敗北する。 原作では脇役だが、アニメ版ではその後のストーリーにも登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/36/25508_crt_78Q3e.jpg",
+        "link": "https://bgm.tv/character/25508",
+        "categorie": "person"
+      },
+      {
+        "id": "33512",
+        "label": "大田",
+        "info": "片瀬高校2→3年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f4/33512_crt_1IQ4W.jpg",
+        "link": "https://bgm.tv/character/33512",
+        "categorie": "person"
+      },
+      {
+        "id": "33513",
+        "label": "真田昌幸",
+        "info": "右シェークハンド",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/32/33513_crt_3HEv7.jpg?r=1434968963",
+        "link": "https://bgm.tv/character/33513",
+        "categorie": "person"
+      },
+      {
+        "id": "33514",
+        "label": "猫田修二",
+        "info": "海王学園高校卓球部部員",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/58/33514_crt_zRH6n.jpg",
+        "link": "https://bgm.tv/character/33514",
+        "categorie": "person"
+      },
+      {
+        "id": "33515",
+        "label": "风间龙",
+        "info": "海王学園理事長。竜一の祖父。アニメ版オリジナルキャラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/f1/33515_crt_Z4OlC.jpg",
+        "link": "https://bgm.tv/character/33515",
+        "categorie": "person"
+      },
+      {
+        "id": "33516",
+        "label": "風間卓",
+        "info": "海王学園卓球部顧問。アニメ版では風間理事長の息子で、竜一の叔父にあたる。原作ではこの設定は付けられていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/d3/33516_crt_OzbQ5.jpg",
+        "link": "https://bgm.tv/character/33516",
+        "categorie": "person"
+      },
+      {
+        "id": "33517",
+        "label": "田村道夫",
+        "info": "オババの息子。藤沢農業大学卓球部（アニメ版では日本代表育成センター）のコーチをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/d9/33517_crt_zvnLN.jpg",
+        "link": "https://bgm.tv/character/33517",
+        "categorie": "person"
+      },
+      {
+        "id": "33523",
+        "label": "風間百合枝",
+        "info": "風間卓の娘。短大生。アニメ版オリジナルキャラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f7/33523_crt_OE9xC.jpg?r=1434969709",
+        "link": "https://bgm.tv/character/33523",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

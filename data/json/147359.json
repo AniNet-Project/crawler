@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19243",
+        "label": "埼玉",
+        "info": "本作主角。25岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/e6/19243_crt_oBuev.jpg?r=1599062038",
+        "link": "https://bgm.tv/character/19243",
+        "categorie": "person"
+      },
+      {
+        "id": "19671",
+        "label": "杰诺斯",
+        "info": "19岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/92/19671_crt_T5Iz2.jpg?r=1599062164",
+        "link": "https://bgm.tv/character/19671",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

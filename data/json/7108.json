@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11299",
+        "label": "国见比吕",
+        "info": "千川高校3年（開始当時：千川高校1年）。投手。右投げ・右打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ad/11299_crt_H0Zc0.jpg",
+        "link": "https://bgm.tv/character/11299",
+        "categorie": "person"
+      },
+      {
+        "id": "19987",
+        "label": "雨宫雅玲",
+        "info": "比呂と野田の幼馴染。中学時代に比呂の紹介で英雄と付き合うようになった。明和第一高校では弓道部に所属。一時は野球部にも籍を置いていた。ミス明和に選ばれていて、成績も優秀で家事も万能。英雄とは誰もがうらやむ仲となっているが、そう見られていることに違和感を覚えてもいる。将来の夢はスポーツ記者になること。幼い頃は、比呂とよく行動を共にし、よくキャッチボールの相手をしていた。当時は比呂より背が高かった事から比呂の姉と間違われていた。母親が他界するも気丈に振舞っていたが、比呂とキャッチボールをしていた時、母親の事を思い出し涙を流した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/e4/19987_crt_fZVa3.jpg",
+        "link": "https://bgm.tv/character/19987",
+        "categorie": "person"
+      },
+      {
+        "id": "19988",
+        "label": "橘英雄",
+        "info": "明和第一高校3年（開始当時：明和第一高校1年）。三塁手。右投げ・右打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/24/19988_crt_X2zS0.jpg",
+        "link": "https://bgm.tv/character/19988",
+        "categorie": "person"
+      },
+      {
+        "id": "19989",
+        "label": "古贺春华",
+        "info": "千川高校3年（開始当時：千川高校1年）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/92/19989_crt_VNZ1A.jpg",
+        "link": "https://bgm.tv/character/19989",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

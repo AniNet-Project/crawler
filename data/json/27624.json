@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10452",
+        "label": "初音未来",
+        "info": "初音ミク是CRYPTON FUTURE MEDIA以Yamaha的VOCALOID 2语音合成引擎为基础，开发贩售的虚拟女性歌手软件，角色主唱系列的第一作、VSTi规格的电子乐器；或此软件的印象角色（这只是软件的象征，不会在实际使用时出现）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/71/10452_crt_jXH73.jpg?r=1525139804",
+        "link": "https://bgm.tv/character/10452",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

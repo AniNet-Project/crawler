@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3651",
+        "label": "笠原郁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/03/3651_crt_anidb.jpg?r=1364401449",
+        "link": "https://bgm.tv/character/3651",
+        "categorie": "person"
+      },
+      {
+        "id": "18794",
+        "label": "堂上笃",
+        "info": "図書特殊部隊・堂上班班長。熱く激しい心を持つが、郁が関わった検閲事件後、冷静な性格になるよう努力している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/89/18794_crt_qQJ3J.jpg",
+        "link": "https://bgm.tv/character/18794",
+        "categorie": "person"
+      },
+      {
+        "id": "10994",
+        "label": "柴崎麻子",
+        "info": "年龄：22",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/1a/10994_crt_oc4Cx.jpg?r=1394007833",
+        "link": "https://bgm.tv/character/10994",
+        "categorie": "person"
+      },
+      {
+        "id": "3652",
+        "label": "小牧干久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/02/3652_crt_anidb.jpg?r=1394007806",
+        "link": "https://bgm.tv/character/3652",
+        "categorie": "person"
+      },
+      {
+        "id": "18795",
+        "label": "手冢光",
+        "info": "真面目で努力家。堂上を慕うあまり、郁が目障りだったが、いつしか同志の気持ちを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/25/18795_crt_TQFo6.jpg?r=1394007848",
+        "link": "https://bgm.tv/character/18795",
+        "categorie": "person"
+      },
+      {
+        "id": "3653",
+        "label": "玄田龙助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/a6/3653_crt_anidb.jpg?r=1394007869",
+        "link": "https://bgm.tv/character/3653",
+        "categorie": "person"
+      },
+      {
+        "id": "48598",
+        "label": "稻岭和市",
+        "info": "关东图书馆基地司令、特等图书监（茨城县展事件后辞去司令一职，经由新任司令彦江光正的邀请成为图书馆特别顾问，退休前特别让玄田跳级晋升）。图书队制度的创始人，表面上是个平静优雅的老人，但性格坚毅，和玄田一样敢于让部下自由行动。正化11年2月7日发生“日野之恶梦”事件时，是日野图书馆的馆长，在袭击中受严重枪伤，失去了右脚与妻子，从此在轮椅上生活，但在公开活动中以义肢步行。轮椅经图书队改装，可以收藏枪支，在《图书馆革命》中就曾用来独自制止良化队员行动（原著中是跟爱妻一起射飞碟运动用的二管霰弹枪，动画剧场版中换成有激光瞄准器的SIG P220手枪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/ff/48598_crt_vUbGp.jpg?r=1479358917",
+        "link": "https://bgm.tv/character/48598",
+        "categorie": "person"
+      },
+      {
+        "id": "49007",
+        "label": "绪形明也",
+        "info": "防卫部图书特殊部队副队长，一等图书正（后来晋升为三等图书监）。原媒体良化队成员，平日是特殊部队中举止最成熟的人物。在《别册图书馆战争II》中，他是因为身为公务员的父母期望他也晋身国家公务员行列，而加入媒体良化队，后来因此与兼职作家的女朋友分手。绪形感到内疚而立志加入图书队防卫部，稻岭司令和玄田都不介意他身为良化队员的经历而录用他，但他初时被其他队员（如进藤）怀疑有贰心。以射击能力知名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/27/49007_crt_4TLGb.jpg",
+        "link": "https://bgm.tv/character/49007",
+        "categorie": "person"
+      },
+      {
+        "id": "18796",
+        "label": "手冢慧",
+        "info": "『未来企画』の会長。神奈川県内の図書館員。一等図書正。手塚光の兄。原作『図書館内乱』から登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/86/18796_crt_4S75i.jpg",
+        "link": "https://bgm.tv/character/18796",
+        "categorie": "person"
+      },
+      {
+        "id": "49005",
+        "label": "折口真纪",
+        "info": "杂志“新世相”的编辑主任，中年美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/4b/49005_crt_36QIb.jpg",
+        "link": "https://bgm.tv/character/49005",
+        "categorie": "person"
+      },
+      {
+        "id": "49539",
+        "label": "彦江光正",
+        "info": "关东图书基地副司令，一等图书监（后来替补司令一职，升为特等图书监）。防卫部出身的行政派，稻岭辞职后成为司令，为人公正、评价亦不错，但因为曾是调查笠原的委员会主席，所以笠原还是不喜欢他。背后被玄田批评个性死板不知变通。因为发型和眼神尖锐的缘故，被笠原和玄田形容为“秃鹫”。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/49539",
+        "categorie": "person"
+      },
+      {
+        "id": "49537",
+        "label": "中泽球江",
+        "info": "小牧干久青梅竹马的邻居，比小牧干久小十岁。于《图书馆内乱》和TVSP（第5.5话）中登场，就读国中时患上了突发性的听力受损，右耳完全失聪，左耳也要依靠助听器才听得到。因为无法听到自己的声音，为怕声浪过大不敢出声。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/4a/49537_crt_TQk1w.jpg?r=1482341740",
+        "link": "https://bgm.tv/character/49537",
+        "categorie": "person"
+      },
+      {
+        "id": "18797",
+        "label": "儿岛清花",
+        "info": "郁の前に現われた謎の女性。堂上の過去を知る人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/fe/18797_crt_p1UpT.jpg",
+        "link": "https://bgm.tv/character/18797",
+        "categorie": "person"
+      },
+      {
+        "id": "18798",
+        "label": "当麻藏人",
+        "info": "小説家。テロの手口に似た小説を書いたとして作家狩りに遭い、図書隊と行動を共にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/38/18798_crt_kKkKI.jpg",
+        "link": "https://bgm.tv/character/18798",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

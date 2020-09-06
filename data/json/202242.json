@@ -1,0 +1,541 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "2610",
+        "label": "凤王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/59/2610_crt_KP95K.jpg",
+        "link": "https://bgm.tv/character/2610",
+        "categorie": "person"
+      },
+      {
+        "id": "53315",
+        "label": "玛夏多",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/82/53315_crt_qhFlo.jpg",
+        "link": "https://bgm.tv/character/53315",
+        "categorie": "person"
+      },
+      {
+        "id": "53317",
+        "label": "诚子",
+        "info": "诚子是一个充满元气的假小子训练家少女，很喜欢冒险的乐趣。她跟宗次陪著小智前往凤王居住的天青山。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/27/53317_crt_qdl1p.jpg",
+        "link": "https://bgm.tv/character/53317",
+        "categorie": "person"
+      },
+      {
+        "id": "53316",
+        "label": "爽志",
+        "info": "目标是成为宝可梦博士的少年训练家，口癖是“给你忠告—”。他跟麻琴陪著小智前往凤王居住的天圣山。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/32/53316_crt_4Fve1.jpg",
+        "link": "https://bgm.tv/character/53316",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "3658",
+        "label": "小次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/06/3658_crt_Ce2Gz.jpg?r=1472497255",
+        "link": "https://bgm.tv/character/3658",
+        "categorie": "person"
+      },
+      {
+        "id": "9779",
+        "label": "大木雪成",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/58/9779_crt_GPXdr.jpg",
+        "link": "https://bgm.tv/character/9779",
+        "categorie": "person"
+      },
+      {
+        "id": "16702",
+        "label": "波加曼",
+        "info": "波加曼（日文：ポッチャマ，英文：Piplup）是水系神奇宝贝，是第四世代中登场的精灵之一。波加曼的民间常用译名是圆企鹅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/df/16702_crt_Jil3o.jpg",
+        "link": "https://bgm.tv/character/16702",
+        "categorie": "person"
+      },
+      {
+        "id": "30463",
+        "label": "路卡利欧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/8d/30463_crt_SD9C8.jpg",
+        "link": "https://bgm.tv/character/30463",
+        "categorie": "person"
+      },
+      {
+        "id": "30814",
+        "label": "绿毛虫",
+        "info": "绿毛虫是毛毛虫外表的宝可梦。它背面是绿色，腹部是白色。它最显著的特征是头部的Y字形红色触角。绿毛虫有两对腹足，上面有吸盘能吸附在树上，身体两侧有黄色环形斑纹。它长着黑色的大圆眼睛，黄色纺锤状的尾巴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/9a/30814_crt_3Tt7f.jpg",
+        "link": "https://bgm.tv/character/30814",
+        "categorie": "person"
+      },
+      {
+        "id": "53318",
+        "label": "梵爷",
+        "info": "梵爷是长久以来一直追随着凤王的研究者。是《凤王正是我的人生》一书作者。他帮助小智一行人来到天圣山，寻找居住在那里的凤王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/13/53318_crt_HJqjU.jpg",
+        "link": "https://bgm.tv/character/53318",
+        "categorie": "person"
+      },
+      {
+        "id": "53319",
+        "label": "克罗斯",
+        "info": "克罗斯是坚信强大即为一切，立志成为最强训练家的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/e5/53319_crt_nVqY6.jpg",
+        "link": "https://bgm.tv/character/53319",
+        "categorie": "person"
+      },
+      {
+        "id": "53320",
+        "label": "乔伊",
+        "info": "乔伊小姐是在世界各地的宝可梦中心工作的护士，以宝可梦中心护士为原型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/18/53320_crt_fgwvw.jpg?r=1526649198",
+        "link": "https://bgm.tv/character/53320",
+        "categorie": "person"
+      },
+      {
+        "id": "66618",
+        "label": "莉佳",
+        "info": "玉虹道馆的道馆馆主，擅长草属性，在战斗中战胜她的训练家能获得到彩虹徽章。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/99/66618_crt_OWPhW.jpg?r=1582458068",
+        "link": "https://bgm.tv/character/66618",
+        "categorie": "person"
+      },
+      {
+        "id": "1987",
+        "label": "小火龙",
+        "info": "小火龙是两足爬行动物形态的宝可梦，有一些恐龙的特征，类似于兽脚亚目食肉恐龙。小火龙周身呈橙色，肚子和尾巴下方是奶油色的。可以看见有四颗小小的牙齿分立在它的上下颚。小火龙眼睛呈蓝色。它拥有较短的四肢，并且有四根极短的手指和三根脚爪。它最显着的特点是它的尾巴尖在出生时就有燃烧着的火焰。火焰反映了它的健康状况和心情：身体健康时火焰变旺，虚弱时火焰变弱，开心时火焰左右摇摆，愤怒时火焰剧烈燃烧。据说，如果火焰熄灭这只宝可梦就会死亡，虽然这从来没有在动画、漫画或游戏中发生过。但有时在动画中，的确会以尾巴火焰的强弱来表示小火龙（或其进化形）身体状况的好坏。尾巴上的火焰就算碰到水也不会消失，只要活著就会继续燃烧。小火龙的身体与心情状况反映尾巴的火焰情况，并不是由火焰的变化决定小火龙的生命。因其设定的缘故，部分人容易误会成“只要将尾巴的火焰熄灭就能令其死亡”，例如用水扑灭尾巴的火焰就能令小火龙死亡（在同人上也很常使用这个梗）。实际上并不会成功，只要小火龙的身体依然健康，火焰就算进入水中也不会消失（但水对于小火龙的身体确实会有坏影响）。因此，在动画中小火龙其进化型的喷火龙跳入了水中时，大部分的观众都会调侃这一行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ae/1987_crt_be0bK.jpg",
+        "link": "https://bgm.tv/character/1987",
+        "categorie": "person"
+      },
+      {
+        "id": "1989",
+        "label": "喷火龙",
+        "info": "喷火龙是双足行走的具有西方龙特点的宝可梦。皮肤主要为橙色，颜色比火恐龙要稍浅，从腹部至尾巴尖端以及脚底是奶油色的。它长着短而粗壮的下肢和相对细小的上肢，上肢有着三根锐利的爪子同时脚上也长着三颗尖爪。与它进化之前不同，喷火龙背后长有可以用来飞翔的巨大翅膀。翅膀的内侧呈蓝绿色，第三个关节处长着角状的突起。它有着长长的脖子，蓝色的小眼睛，后脑勺上长着两个角状突起。与它进化前一样，它长长的尾巴末端燃烧着火焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ba/1989_crt_xoKWB.jpg",
+        "link": "https://bgm.tv/character/1989",
+        "categorie": "person"
+      },
+      {
+        "id": "1995",
+        "label": "巴大蝶",
+        "info": "巴大蝶在蝴蝶的外型基础上加上了拟人化的外貌特征。巴大蝶的身体呈深蓝紫色，身后长着有黑色脉纹的巨大白色翅膀，通过脉纹可以识别巴大蝶的性别。 与真实存在的昆虫不同，巴大蝶只有四条腿，而且还是粉青色的。另外它的头部还有一个同样是粉青色的，类似于鼻子的器官。巴大蝶的眼睛是淡红色的复眼。与其他鳞翅目的昆虫一样，巴大蝶的翅膀上覆盖着细密的鳞片，腿上也覆盖着细毛以便采蜜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/e3/1995_crt_wcYjy.jpg",
+        "link": "https://bgm.tv/character/1995",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2331",
+        "label": "拉普拉斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/34/2331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2331",
+        "categorie": "person"
+      },
+      {
+        "id": "30813",
+        "label": "铁甲蛹",
+        "info": "铁甲蛹是绿色的虫蛹外形的宝可梦。它的身体呈新月状，尾部分节。前端也有分节，看上去像它的五官。背后有一个小突起。它长着经常半张半闭的眼睛，眼珠是黑色。虽然外壳十分坚硬，但其内部的身体很柔软。遭到了强烈的攻击的话，里面的身体可能会掉出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/08/30813_crt_8r8fq.jpg",
+        "link": "https://bgm.tv/character/30813",
+        "categorie": "person"
+      },
+      {
+        "id": "30818",
+        "label": "火恐龙",
+        "info": "火恐龙体态上和小火龙类似。火恐龙的前肢、后肢都比小火龙更长，而爪子也变得更长。头部有了一个角状凸起，尾巴也变长了。身体的红色也变得更深。尾部依然有火焰。嘴变的有些像鸟喙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/c5/30818_crt_AQWSn.jpg",
+        "link": "https://bgm.tv/character/30818",
+        "categorie": "person"
+      },
+      {
+        "id": "46243",
+        "label": "武藏的果然翁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/0e/46243_crt_UOp4M.jpg?r=1473945314",
+        "link": "https://bgm.tv/character/46243",
+        "categorie": "person"
+      },
+      {
+        "id": "49535",
+        "label": "炽焰咆哮虎",
+        "info": "炽焰咆哮虎的斗争心增强时，在体内制造的火焰将从肚脐及其周围喷出。该火焰看起来像 冠军腰带，因此被称为火焰腰带。 使用火焰的招式是透过这个火焰腰带所发出的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/00/49535_crt_kb1E4.jpg",
+        "link": "https://bgm.tv/character/49535",
+        "categorie": "person"
+      },
+      {
+        "id": "30506",
+        "label": "伦琴猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/2b/30506_crt_xFDgq.jpg",
+        "link": "https://bgm.tv/character/30506",
+        "categorie": "person"
+      },
+      {
+        "id": "1990",
+        "label": "杰尼龟",
+        "info": "杰尼龟是以双足行走为主的乌龟外形的宝可梦。其身体呈亮蓝色，圆形的头部可以提高杰尼龟游泳的速度。眼睛是紫色的。前后肢都有是三趾，而且很短。它长有小型波浪状的尾巴。杰尼龟的躯干藏在龟壳里。龟壳的背面是褐色的，腹部的龟壳为淡黄色，两部分之间有着白色的波浪型边缘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/5f/1990_crt_QAGZn.jpg",
+        "link": "https://bgm.tv/character/1990",
+        "categorie": "person"
+      },
+      {
+        "id": "1992",
+        "label": "水箭龟",
+        "info": "水箭龟是两足行走为主，体型巨大的龟形态宝可梦，它有时也会用四足行走。水箭龟身体呈深蓝色。它的前后肢短而粗壮，因关节而分成一节一节的并且都长有三趾。尾巴不再像海浪，而变成了粗短的蓝色尾巴。它的下颚是奶白色的。耳朵是三角形的。它的躯干被覆盖在巨大且厚重的龟壳中，龟壳背部为褐色，腹部淡黄色，之间有白色的边缘。在龟壳的前端伸出了两门水炮。水炮可以缩进龟壳里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/68/1992_crt_W1XMj.jpg",
+        "link": "https://bgm.tv/character/1992",
+        "categorie": "person"
+      },
+      {
+        "id": "1999",
+        "label": "波波",
+        "info": "波波的外形形似某些小型鸟类。它的羽毛颜色很不起眼，脸部，腹部和翅膀末端的羽毛是奶油色的，其他部位是褐色的。在它黑色的眼睛周围是黑色。喙和爪子是紫色的，爪子有三个趾，两根朝前，一根朝后。头顶上有三簇毛，两边的毛是白色的，中间是褐色的，这使它看起来有点严肃。尾羽由三簇褐色羽毛组成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/cf/1999_crt_m5Se7.jpg",
+        "link": "https://bgm.tv/character/1999",
+        "categorie": "person"
+      },
+      {
+        "id": "2006",
+        "label": "烈雀",
+        "info": "烈雀是一种鸟类。烈雀背上为黑色，整个胸腹部为米色且有细条纹。它的头上有蓬乱的褐色羽冠。鸟喙形状类似猛禽，是短但有钩的。 烈雀的浅粉红色的脚有三个爪子。它的翅膀为粉红色，边缘为浅粉色的。 有3个褐色的尾羽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/3c/2006_crt_RuX0B.jpg",
+        "link": "https://bgm.tv/character/2006",
+        "categorie": "person"
+      },
+      {
+        "id": "2251",
+        "label": "ベトベター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e2/2251_crt_anidb.jpg?r=1480704438",
+        "link": "https://bgm.tv/character/2251",
+        "categorie": "person"
+      },
+      {
+        "id": "2256",
+        "label": "ゴース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/c7/2256_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2256",
+        "categorie": "person"
+      },
+      {
+        "id": "2257",
+        "label": "ゴースト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/28/2257_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2257",
+        "categorie": "person"
+      },
+      {
+        "id": "2259",
+        "label": "ゲンガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/ad/2259_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2259",
+        "categorie": "person"
+      },
+      {
+        "id": "2284",
+        "label": "ラッキー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/53/2284_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2284",
+        "categorie": "person"
+      },
+      {
+        "id": "2311",
+        "label": "モンジャラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/6d/2311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2311",
+        "categorie": "person"
+      },
+      {
+        "id": "2322",
+        "label": "ストライク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/8b/2322_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2322",
+        "categorie": "person"
+      },
+      {
+        "id": "2330",
+        "label": "ギャラドス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/92/2330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2330",
+        "categorie": "person"
+      },
+      {
+        "id": "2342",
+        "label": "プテラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/21/2342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2342",
+        "categorie": "person"
+      },
+      {
+        "id": "2344",
+        "label": "フリーザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/28/2344_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2344",
+        "categorie": "person"
+      },
+      {
+        "id": "2345",
+        "label": "サンダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/b0/2345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2345",
+        "categorie": "person"
+      },
+      {
+        "id": "2346",
+        "label": "ファイヤー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/76/2346_crt_anidb.jpg?r=1421030999",
+        "link": "https://bgm.tv/character/2346",
+        "categorie": "person"
+      },
+      {
+        "id": "2436",
+        "label": "河马王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/14/2436_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2436",
+        "categorie": "person"
+      },
+      {
+        "id": "2608",
+        "label": "エンテイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/56/2608_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2608",
+        "categorie": "person"
+      },
+      {
+        "id": "2609",
+        "label": "洛奇亚",
+        "info": "洛奇亚的肚子、眼睛周围像面罩一样的物体、背上的突起是蓝色的,其余部分均为白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/23/2609_crt_aZVtt.jpg",
+        "link": "https://bgm.tv/character/2609",
+        "categorie": "person"
+      },
+      {
+        "id": "12814",
+        "label": "小霞",
+        "info": "小霞（英文：Misty，日文：カスミ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪》的女主角。她的梦想是成为世界上最伟大的口袋妖怪水系训练家。她拥有海星星、波克基古及太阳珊瑚等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/29/12814_crt_ARhGn.jpg?r=1582457732",
+        "link": "https://bgm.tv/character/12814",
+        "categorie": "person"
+      },
+      {
+        "id": "12815",
+        "label": "小遥",
+        "info": "小遥（英文：May，日文：ハルカ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪超世代》的女主角。梦想是成为世界上最伟大的口袋妖怪协调训练家。并拥有火焰鸡、妙蛙花及卡咪龟等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f3/12815_crt_zXUlV.jpg?r=1402295247",
+        "link": "https://bgm.tv/character/12815",
+        "categorie": "person"
+      },
+      {
+        "id": "12816",
+        "label": "小光",
+        "info": "小光（英文：Dawn，日文：ヒカリ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪钻石珍珠》的女主角。她的梦想是成为世界上最伟大的口袋妖怪协调训练家。她拥有圆企鹅、帕奇利兹及象牙猪等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/fe/12816_crt_5S5GE.jpg",
+        "link": "https://bgm.tv/character/12816",
+        "categorie": "person"
+      },
+      {
+        "id": "14222",
+        "label": "艾莉丝",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ba/14222_crt_mMrs4.jpg",
+        "link": "https://bgm.tv/character/14222",
+        "categorie": "person"
+      },
+      {
+        "id": "14223",
+        "label": "天桐",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/90/14223_crt_8iiEl.jpg",
+        "link": "https://bgm.tv/character/14223",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "14548",
+        "label": "小建",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/1a/14548_crt_SXxXS.jpg",
+        "link": "https://bgm.tv/character/14548",
+        "categorie": "person"
+      },
+      {
+        "id": "14549",
+        "label": "小胜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/11/14549_crt_AtQLA.jpg",
+        "link": "https://bgm.tv/character/14549",
+        "categorie": "person"
+      },
+      {
+        "id": "14550",
+        "label": "大木茂",
+        "info": "小智的劲敌，同是出身于真新镇，是大木博士的孙子，全名为大木茂。动画版小智的对手。原来的目标是成为神奇宝贝大师。小茂之后改变志向，换为成为神奇宝贝研究者，到现在主要在神奥地方进行研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/63/14550_crt_a2cDf.jpg",
+        "link": "https://bgm.tv/character/14550",
+        "categorie": "person"
+      },
+      {
+        "id": "21953",
+        "label": "希特隆",
+        "info": "《神奇宝贝XY》的主角，米亚雷市的道馆馆长。擅长发明，在背着的背包中装备着自豪的长尾怪手手臂。受到小智热爱神奇宝贝的心情而感动，决定带着妹妹尤莉卡和小智一起旅行，但起先没把馆主身分透露给他人知道。虽然有时后发明的东西可以帮助小智他们，但最后总是会爆炸或出问题。造型范本为3DS X、Y版米亚雷市的道馆馆长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/a2/21953_crt_yIDu6.jpg?r=1471929475",
+        "link": "https://bgm.tv/character/21953",
+        "categorie": "person"
+      },
+      {
+        "id": "21954",
+        "label": "柚丽嘉",
+        "info": "《神奇宝贝XY》的主角，希特隆的妹妹。非常喜欢神奇宝贝。也和小智一起旅行。在她成为正式的神奇宝贝训练家之前，西特隆替她保管她的神奇宝贝，目前希特隆替她保管的神奇宝贝只有电电鼠。常对希特隆的发明造成麻烦感到愤怒，也烦恼哥哥未来讨不到新娘。造型范本与3DS X、Y版同为希特隆的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/1d/21954_crt_x1S1O.jpg",
+        "link": "https://bgm.tv/character/21954",
+        "categorie": "person"
+      },
+      {
+        "id": "21955",
+        "label": "莎莉娜",
+        "info": "《神奇宝贝XY》的主角，来自卡洛斯地方、热衷于时尚的长发女孩，佩戴毛毡帽，中期随著剧情的发展将头发剪成了短发并换了套新的服装。自小被要求练习骑铁甲犀牛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/d2/21955_crt_9oQkF.jpg?r=1582456635",
+        "link": "https://bgm.tv/character/21955",
+        "categorie": "person"
+      },
+      {
+        "id": "30516",
+        "label": "帝王拿波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/4f/30516_crt_ovG0w.jpg",
+        "link": "https://bgm.tv/character/30516",
+        "categorie": "person"
+      },
+      {
+        "id": "30663",
+        "label": "水君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/06/30663_crt_n7764.jpg",
+        "link": "https://bgm.tv/character/30663",
+        "categorie": "person"
+      },
+      {
+        "id": "30665",
+        "label": "雷公",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/d3/30665_crt_j8i76.jpg",
+        "link": "https://bgm.tv/character/30665",
+        "categorie": "person"
+      },
+      {
+        "id": "30769",
+        "label": "凯西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/a1/30769_crt_iDaYD.jpg",
+        "link": "https://bgm.tv/character/30769",
+        "categorie": "person"
+      },
+      {
+        "id": "30785",
+        "label": "派拉斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/23/30785_crt_P0m4e.jpg",
+        "link": "https://bgm.tv/character/30785",
+        "categorie": "person"
+      },
+      {
+        "id": "30792",
+        "label": "胖丁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/41/30792_crt_dZf65.jpg",
+        "link": "https://bgm.tv/character/30792",
+        "categorie": "person"
+      },
+      {
+        "id": "30819",
+        "label": "妙蛙花",
+        "info": "妙蛙花的体型比它的进化前要大的多。其身体呈蓝绿色，并且没有了进化前的深色斑块，取而代之的是类似蟾蜍背上的疙瘩。妙蛙花的头顶有一对耳朵，耳朵内部为红色的，眼睛呈橘红色，嘴里有牙。它背上的花蕾现在盛开成一朵巨大的红色花朵，一个褐色的类似褐榈树的树干状物支持著这朵有六片带著白色斑点的巨大花瓣的花朵。其爪子上有三个趾，腿也变得更粗。尽管妙蛙花仍然是四足行走，在战斗之外它比其进化前身移动得更慢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/cb/30819_crt_71N5r.jpg",
+        "link": "https://bgm.tv/character/30819",
+        "categorie": "person"
+      },
+      {
+        "id": "49534",
+        "label": "狙射树枭",
+        "info": "狙射树枭把藏在翅膀里的羽毛箭像弓箭一样发射。由拔箭到发射为止的时间。 只需0.1秒左右。 狙射树枭拥有即使在1公里以外的目标也能准确无误地射中的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/0c/49534_crt_YRQ5y.jpg",
+        "link": "https://bgm.tv/character/49534",
+        "categorie": "person"
+      },
+      {
+        "id": "49536",
+        "label": "西狮海壬",
+        "info": "西狮海壬会一边跳舞一边向周围放出水气球，透过歌声的音波来操纵。 凭著那动人的姿态，西狮海壬被冠以歌姬的美誉。 特别是反射了月光后闪闪发光的气球，像幻想的舞台般优美。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/fd/49536_crt_32LQW.jpg",
+        "link": "https://bgm.tv/character/49536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

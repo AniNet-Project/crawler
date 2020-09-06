@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43776",
+        "label": "小美",
+        "info": "“我们的世界值得我们奋斗。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e7/43776_crt_DE0aI.jpg?r=1488020808",
+        "link": "https://bgm.tv/character/43776",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

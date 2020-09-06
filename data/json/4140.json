@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9314",
+        "label": "聖誕",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/fe/9314_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9314",
+        "categorie": "person"
+      },
+      {
+        "id": "25092",
+        "label": "天箕暗",
+        "info": "本作の主人公。ボーイッシュな外見が特徴。12歳の誕生日に父・天箕博士の研究所にいた際、突如発生したリナクスに触れたことでリナクス人間となる。それから10年後はエージェントとなり、業界では「危険な仕事を好む女」と評判になるが、リナクスのことは隠している。当初は、クールな性格だったが、クリスマスが生まれてからは、温かみが生まれ、危険な仕事は引き受けないことにした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/a6/25092_crt_q2MJR.jpg?r=1400184476",
+        "link": "https://bgm.tv/character/25092",
+        "categorie": "person"
+      },
+      {
+        "id": "54846",
+        "label": "天箕創",
+        "info": "クラウの父親であり、次世代エネルギーの研究者。西暦２１００年に起きた実験事故により娘「天箕クラウ」がリナクスの人格に変貌してしまったことに衝撃を受ける。初めはリナクスになったクラウを受け入れることが出来ずに苦悩するが、徐々に愛情が芽生えていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bd/54846_crt_s2IYe.jpg?r=1496769412",
+        "link": "https://bgm.tv/character/54846",
+        "categorie": "person"
+      },
+      {
+        "id": "54847",
+        "label": "達古",
+        "info": "身長１９０cm非常に大柄で優秀な「エージェント」。別居中の妻子あり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/be/54847_crt_wxI7X.jpg?r=1496769793",
+        "link": "https://bgm.tv/character/54847",
+        "categorie": "person"
+      },
+      {
+        "id": "54848",
+        "label": "綾香",
+        "info": "ＧＰＯに属し、クラウを捕らえようと必死になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/5b/54848_crt_z63Au.jpg?r=1496769807",
+        "link": "https://bgm.tv/character/54848",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

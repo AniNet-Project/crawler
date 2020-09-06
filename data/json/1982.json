@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6537",
+        "label": "亚伯·奈特罗德",
+        "info": "ナイトロード3兄妹の第2子である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ca/6537_crt_U16e7.jpg?r=1372333775",
+        "link": "https://bgm.tv/character/6537",
+        "categorie": "person"
+      },
+      {
+        "id": "20344",
+        "label": "艾丝缇·布兰雪",
+        "info": "紅茶のような色合いの赤毛と、青金石色の瞳をした美貌のシスター。アルビオン王国（現在のイギリス）の出身である。実は、女王ブリジットII世の息子にして次期国王になる筈だったギルバート王太子と正妻ヴィクトリア妃の間に生まれた王女エスター・ブランシェットである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/c5/20344_crt_14lns.jpg?r=1372334005",
+        "link": "https://bgm.tv/character/20344",
+        "categorie": "person"
+      },
+      {
+        "id": "20345",
+        "label": "托雷士·伊库斯",
+        "info": "Axの派遣執行官。コードネームは「ガンスリンガー」（拳銃使いの意）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/b9/20345_crt_IQiyT.jpg?r=1372334250",
+        "link": "https://bgm.tv/character/20345",
+        "categorie": "person"
+      },
+      {
+        "id": "20346",
+        "label": "卡特琳娜·丝佛札",
+        "info": "教皇庁国務聖省長官を務める、黄金色の巻き毛と剃刀色（灰色）の瞳をした美貌の枢機卿。アベル達Axの上司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/89/20346_crt_2CDZ9.jpg?r=1372334489",
+        "link": "https://bgm.tv/character/20346",
+        "categorie": "person"
+      },
+      {
+        "id": "20347",
+        "label": "威廉·渥特·华兹华斯",
+        "info": "Axの派遣執行官。コードネームは「プロフェッサー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/a1/20347_crt_6M60w.jpg?r=1372334930",
+        "link": "https://bgm.tv/character/20347",
+        "categorie": "person"
+      },
+      {
+        "id": "20348",
+        "label": "凯特·史考特",
+        "info": "Axの派遣執行官。コードネームは「アイアンメイデン」（鉄の処女の意）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/a4/20348_crt_LuBlQ.jpg?r=1372335333",
+        "link": "https://bgm.tv/character/20348",
+        "categorie": "person"
+      },
+      {
+        "id": "20349",
+        "label": "里昂·迦西亚·德·艾斯杜利亚",
+        "info": "Axの派遣執行官。コードネームは「ダンディライオン」（「ライオンの牙」の意）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/42/20349_crt_SSUnj.jpg?r=1372335555",
+        "link": "https://bgm.tv/character/20349",
+        "categorie": "person"
+      },
+      {
+        "id": "20350",
+        "label": "瓦茨拉夫·哈维尔",
+        "info": "Axの派遣執行官。コードネームは「ノーフェイス」（「顔なし」と「信仰を知る者」のダブルミーニング）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/de/20350_crt_UQS6q.jpg?r=1372336146",
+        "link": "https://bgm.tv/character/20350",
+        "categorie": "person"
+      },
+      {
+        "id": "20351",
+        "label": "诺耶·宝儿",
+        "info": "Axの派遣執行官。コードネームは「ミストレス」（女主人の意）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/d2/20351_crt_TgCQN.jpg?r=1372336448",
+        "link": "https://bgm.tv/character/20351",
+        "categorie": "person"
+      },
+      {
+        "id": "20352",
+        "label": "塞特·奈特罗德",
+        "info": "ナイトロード3兄妹の末子で、アベルの妹。癖のある黒髪に、翡翠色の瞳をした自称”通りすがりの美少女”。”クルースニク03”を宿している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/75/20352_crt_bbi2B.jpg?r=1372336736",
+        "link": "https://bgm.tv/character/20352",
+        "categorie": "person"
+      },
+      {
+        "id": "20353",
+        "label": "亚丝塔洛雪·爱斯兰",
+        "info": "真人類帝国直轄監察官、オデッサ子爵→キエフ侯爵。象牙色に脱色した長髪（額にかかる一房は赤く染めている）と琥珀色の瞳を持つ長身の美女で短気直情型の性格。アベルを「我が相棒（トヴァラシュ）よ」と呼び信頼している。またアベルからは「アスト」という通称で呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/c8/20353_crt_3aOPq.jpg?r=1372337128",
+        "link": "https://bgm.tv/character/20353",
+        "categorie": "person"
+      },
+      {
+        "id": "20354",
+        "label": "以恩·法透纳",
+        "info": "真人類帝国帝剣護持官、モルドヴァ公子メンフィス伯爵。皇帝ヴラディカの勅使としてカテリーナと接触を図るが、副使として同行していた相棒ラドゥの裏切りに逢う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/10/20354_crt_zznIw.jpg?r=1372337429",
+        "link": "https://bgm.tv/character/20354",
+        "categorie": "person"
+      },
+      {
+        "id": "20355",
+        "label": "该隐·奈特罗德",
+        "info": "ナイトロード3兄妹の長子で、アベルの双児の兄。金髪の温厚そうな青年だが、彼こそがアベル達と敵対する組織”薔薇十字騎士団（ローゼンクロイツ・オルデン）”の首魁。位階は10=1（イプシシマス）。「我が君（マイン・ヘル）」「あの方」などと呼ばれている首領にして「クルースニク01」。アベルやセスと異なり”クルースニク”と精神面も含めて完全に融合している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/48/20355_crt_jJZDS.jpg?r=1372337652",
+        "link": "https://bgm.tv/character/20355",
+        "categorie": "person"
+      },
+      {
+        "id": "20356",
+        "label": "狄特里希·冯·洛恩葛林",
+        "info": "鳶色の髪と鳶色の瞳、端正な美貌を備えたゲルマニクス王国（現在のドイツ）出身の青年。クラッキングや遺失技術の復元に長けた天才電脳調律師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/4e/20356_crt_zMGSF.jpg?r=1372338128",
+        "link": "https://bgm.tv/character/20356",
+        "categorie": "person"
+      },
+      {
+        "id": "16766",
+        "label": "修格·度·瓦特",
+        "info": "Axの派遣執行官。コードネームは「ソードダンサー」。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/a2/16766_crt_gBH2b.jpg?r=1372338280",
+        "link": "https://bgm.tv/character/16766",
+        "categorie": "person"
+      },
+      {
+        "id": "6571",
+        "label": "AX",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/0f/6571_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6571",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

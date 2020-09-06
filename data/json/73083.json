@@ -1,0 +1,517 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21678",
+        "label": "泽村荣纯",
+        "info": "出生地：长野县",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/6e/21678_crt_j25z3.jpg?r=1397061220",
+        "link": "https://bgm.tv/character/21678",
+        "categorie": "person"
+      },
+      {
+        "id": "21679",
+        "label": "御幸一也",
+        "info": "出生地：东京都",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/7d/21679_crt_wAp2i.jpg?r=1397061430",
+        "link": "https://bgm.tv/character/21679",
+        "categorie": "person"
+      },
+      {
+        "id": "21680",
+        "label": "降谷晓",
+        "info": "投手、左外野手。右投右打。一年级。背号11号。O型。身材纤长。北海道苫小牧中学出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/49/21680_crt_5dW5D.jpg?r=1397061628",
+        "link": "https://bgm.tv/character/21680",
+        "categorie": "person"
+      },
+      {
+        "id": "21681",
+        "label": "小凑春市",
+        "info": "出身地：神奈川县",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/aa/21681_crt_smTsS.jpg?r=1397061730",
+        "link": "https://bgm.tv/character/21681",
+        "categorie": "person"
+      },
+      {
+        "id": "21682",
+        "label": "仓持洋一",
+        "info": "游擊手、左右手皆可使用（基本上是右投）右投兩打。二年級。背號6號。A型。千葉縣出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/f7/21682_crt_oZ179.jpg?r=1397061850",
+        "link": "https://bgm.tv/character/21682",
+        "categorie": "person"
+      },
+      {
+        "id": "21683",
+        "label": "结城哲也",
+        "info": "一壘手。右投右打。三年級。背號3號。O型。東京出身。棒球社隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f1/21683_crt_HhS8g.jpg?r=1397061981",
+        "link": "https://bgm.tv/character/21683",
+        "categorie": "person"
+      },
+      {
+        "id": "24280",
+        "label": "伊佐敷纯",
+        "info": "中坚手。右投右打。三年级。背号8号。A型。神奈川县出身。棒球社副队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/e3/24280_crt_8ni82.jpg?r=1397063862",
+        "link": "https://bgm.tv/character/24280",
+        "categorie": "person"
+      },
+      {
+        "id": "24308",
+        "label": "泷川·克里斯·优",
+        "info": "捕手。右投右打。三年级。B型。东京丸龟少棒出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/ba/24308_crt_b8Zbb.jpg?r=1397062561",
+        "link": "https://bgm.tv/character/24308",
+        "categorie": "person"
+      },
+      {
+        "id": "24309",
+        "label": "丹波光一郎",
+        "info": "投手、右投右打。三年级。背号1号。A型。身高185cm。东京出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/46/24309_crt_9oFSZ.jpg?r=1397062715",
+        "link": "https://bgm.tv/character/24309",
+        "categorie": "person"
+      },
+      {
+        "id": "24310",
+        "label": "小凑亮介",
+        "info": "二垒手。右投左打。三年级。背号4号。B型。神奈川县出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cc/24310_crt_Q8o8n.jpg?r=1397062864",
+        "link": "https://bgm.tv/character/24310",
+        "categorie": "person"
+      },
+      {
+        "id": "24311",
+        "label": "増子透",
+        "info": "三垒手。右投右打。三年级。背号5号。O型。东京埼玉中学出身。棒球社副队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/d9/24311_crt_v9Pwo.jpg?r=1397063025",
+        "link": "https://bgm.tv/character/24311",
+        "categorie": "person"
+      },
+      {
+        "id": "24312",
+        "label": "川上宪史",
+        "info": "投手。右投右打。二年级。背号10号。A型。埼玉县出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/43/24312_crt_4Iycz.jpg?r=1397063151",
+        "link": "https://bgm.tv/character/24312",
+        "categorie": "person"
+      },
+      {
+        "id": "31415",
+        "label": "片冈铁心",
+        "info": "青道高校野球部監督。元投手。右投げ右打ち。東京都出身。184cm、77kg。O型。12月25日生まれ。サングラスがトレードマークの強面だが、まだ30代。遠投は100mを超え、一人で3年生相手に日が暮れるまでノックをしたり、バッティングピッチャーとして140km/h前後の球を200球近く投げるなど、身体能力は底が見えず衰えていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/6f/31415_crt_UMa6b.jpg",
+        "link": "https://bgm.tv/character/31415",
+        "categorie": "person"
+      },
+      {
+        "id": "35294",
+        "label": "大前隆广",
+        "info": "市大三高3年。三塁手。キャプテンで4番。右投げ右打ち。背番号5。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/b3/35294_crt_1apxd.jpg",
+        "link": "https://bgm.tv/character/35294",
+        "categorie": "person"
+      },
+      {
+        "id": "35295",
+        "label": "枡伸一郎",
+        "info": "捕手。2年生→3年生。右投げ左打ち。背番号2。主将。打順は1番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/95/35295_crt_525ja.jpg",
+        "link": "https://bgm.tv/character/35295",
+        "categorie": "person"
+      },
+      {
+        "id": "48566",
+        "label": "吉泽秀明",
+        "info": "稲城実業3年。三塁手。右投げ右打ち。背番号5（3夏）、打順は3番（3夏）。シャープな打撃でチャンスメークができる選手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/eb/48566_crt_pAAno.jpg",
+        "link": "https://bgm.tv/character/48566",
+        "categorie": "person"
+      },
+      {
+        "id": "48670",
+        "label": "杨舜臣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/b4/48670_crt_j34Dq.jpg?r=1479465892",
+        "link": "https://bgm.tv/character/48670",
+        "categorie": "person"
+      },
+      {
+        "id": "52493",
+        "label": "金丸信二",
+        "info": "出生地：东京都",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/8a/52493_crt_lvD09.jpg",
+        "link": "https://bgm.tv/character/52493",
+        "categorie": "person"
+      },
+      {
+        "id": "52495",
+        "label": "前园健太",
+        "info": "守备位置 ：一垒手",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/9c/52495_crt_3lmoq.jpg",
+        "link": "https://bgm.tv/character/52495",
+        "categorie": "person"
+      },
+      {
+        "id": "52496",
+        "label": "白州健二郎",
+        "info": "出生地：东京都",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/0b/52496_crt_8E3YY.jpg",
+        "link": "https://bgm.tv/character/52496",
+        "categorie": "person"
+      },
+      {
+        "id": "52497",
+        "label": "樋笠昭二",
+        "info": "守备位置 ：三垒手",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/2b/52497_crt_UUpu9.jpg",
+        "link": "https://bgm.tv/character/52497",
+        "categorie": "person"
+      },
+      {
+        "id": "52498",
+        "label": "麻生尊",
+        "info": "守备位置 ：外野手",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/48/52498_crt_k33T3.jpg",
+        "link": "https://bgm.tv/character/52498",
+        "categorie": "person"
+      },
+      {
+        "id": "52499",
+        "label": "太田一义",
+        "info": "青道高中棒球社部长。留有鬓角，外型微胖，个性有些颤颤兢兢地容易害怕。 对片冈教练的战术常有意见，但又不敢反抗。 一开始不太信任泽村，比较喜欢川上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/f1/52499_crt_s7sF6.jpg",
+        "link": "https://bgm.tv/character/52499",
+        "categorie": "person"
+      },
+      {
+        "id": "52500",
+        "label": "高岛礼",
+        "info": "青道高中棒球社副社长。理事长的女儿。26歳。 挖掘泽村、将泽村带进青道的美女。 戴眼镜、巨乳。 对棒球很有热情，对球队的事也不遗馀力。 第一个肯定了御幸的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/45/52500_crt_cuKi8.jpg",
+        "link": "https://bgm.tv/character/52500",
+        "categorie": "person"
+      },
+      {
+        "id": "52501",
+        "label": "落合博光",
+        "info": "来自名校的新任教练。目前正在检视每位选手的特性。并不看好泽村，觉得他再怎么努力也只能是中继选手，无法成为王牌投手，与其让他这样下去不如直接让他放弃，这也是种温柔，原本觉得片冈教练是将泽村作为让降谷努力进步的动力而利用泽村的，后来为了让泽村放弃而教他变速球，但没想到泽村在比赛中学会了，明白了片冈教练无法放弃泽村的原因。被泽村称为「军曹」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/74/52501_crt_m6fki.jpg",
+        "link": "https://bgm.tv/character/52501",
+        "categorie": "person"
+      },
+      {
+        "id": "52502",
+        "label": "吉川春乃",
+        "info": "球队经理。一年级。与泽村荣纯同班级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/31/52502_crt_jr6UR.jpg",
+        "link": "https://bgm.tv/character/52502",
+        "categorie": "person"
+      },
+      {
+        "id": "52503",
+        "label": "藤原贵子",
+        "info": "球队经理。三年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e4/52503_crt_q0dnZ.jpg",
+        "link": "https://bgm.tv/character/52503",
+        "categorie": "person"
+      },
+      {
+        "id": "52504",
+        "label": "梅本幸子",
+        "info": "球队经理。二年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/2a/52504_crt_Zwcd2.jpg",
+        "link": "https://bgm.tv/character/52504",
+        "categorie": "person"
+      },
+      {
+        "id": "52505",
+        "label": "夏川唯",
+        "info": "球队经理。二年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/d9/52505_crt_rVK49.jpg",
+        "link": "https://bgm.tv/character/52505",
+        "categorie": "person"
+      },
+      {
+        "id": "53347",
+        "label": "狩场航",
+        "info": "捕手、二軍。右投げ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/d1/53347_crt_fZ1zn.jpg",
+        "link": "https://bgm.tv/character/53347",
+        "categorie": "person"
+      },
+      {
+        "id": "53348",
+        "label": "金田忠大",
+        "info": "投手・外野手、二軍（ - 1夏）→背番号19（1秋）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/6b/53348_crt_Yh10f.jpg?r=1492170753",
+        "link": "https://bgm.tv/character/53348",
+        "categorie": "person"
+      },
+      {
+        "id": "53349",
+        "label": "关直道",
+        "info": "外野手。二軍( - 2夏）→背番号13（2秋）。秋に一軍昇格し、ベンチ入りとなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/6d/53349_crt_R6i5c.jpg?r=1492171074",
+        "link": "https://bgm.tv/character/53349",
+        "categorie": "person"
+      },
+      {
+        "id": "53350",
+        "label": "中田中",
+        "info": "遊撃手。右投げ左打ち。二軍（ -2 夏）→背番号11（2秋）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/59/53350_crt_8ve57.jpg",
+        "link": "https://bgm.tv/character/53350",
+        "categorie": "person"
+      },
+      {
+        "id": "53351",
+        "label": "小野弘",
+        "info": "捕手。二軍（ - 2夏）→背番号12（2秋）。右投げ右打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/e4/53351_crt_kxxyg.jpg",
+        "link": "https://bgm.tv/character/53351",
+        "categorie": "person"
+      },
+      {
+        "id": "53352",
+        "label": "宫内启介",
+        "info": "捕手、背番号12（ - 3夏）。右投げ右打ち。一軍の二番手キャッチャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/56/53352_crt_0402s.jpg",
+        "link": "https://bgm.tv/character/53352",
+        "categorie": "person"
+      },
+      {
+        "id": "53353",
+        "label": "坂井一郎",
+        "info": "左翼手、背番号7（ - 3夏）、打順は8番（準決勝からは7番）。右投げ右打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/13/53353_crt_xJrGp.jpg",
+        "link": "https://bgm.tv/character/53353",
+        "categorie": "person"
+      },
+      {
+        "id": "53354",
+        "label": "门田将明",
+        "info": "右翼手、背番号13（ - 3夏）。右投げ右打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/95/53354_crt_k2AWa.jpg?r=1492174798",
+        "link": "https://bgm.tv/character/53354",
+        "categorie": "person"
+      },
+      {
+        "id": "53743",
+        "label": "田中晋",
+        "info": "背番号16（ - 3夏）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/6a/53743_crt_PpKIV.jpg?r=1493602130",
+        "link": "https://bgm.tv/character/53743",
+        "categorie": "person"
+      },
+      {
+        "id": "53744",
+        "label": "山崎邦夫",
+        "info": "背番号18（ - 3夏）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/67/53744_crt_G0gYE.jpg",
+        "link": "https://bgm.tv/character/53744",
+        "categorie": "person"
+      },
+      {
+        "id": "53745",
+        "label": "田原利彦",
+        "info": "市大三高監督。「○○ボーイ」、「○○ハイスクール」など、英語交じりで話す。中学時代の御幸をスカウトしており、春の青道戦で御幸が入学しなかったことを惜しんでいた。また、丹波のこともスカウトしており、いずれは真中との二枚看板にするつもりだった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5b/53745_crt_77rIR.jpg",
+        "link": "https://bgm.tv/character/53745",
+        "categorie": "person"
+      },
+      {
+        "id": "53746",
+        "label": "天久光圣",
+        "info": "市大三高2年→3年。投手。右投げ右打ち。背番号1。真中からエースナンバーを引き継いだ男。田原監督からは「ジーニアス」と称される。強力なスライダーを決め球に、キレのあるカーブやフォーク、ストレートで押していくスタイル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/80/53746_crt_8XIQ9.jpg",
+        "link": "https://bgm.tv/character/53746",
+        "categorie": "person"
+      },
+      {
+        "id": "53747",
+        "label": "星田守",
+        "info": "市大三高2年→3年。一塁手。左投げ左打ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/75/53747_crt_jw5BK.jpg",
+        "link": "https://bgm.tv/character/53747",
+        "categorie": "person"
+      },
+      {
+        "id": "53748",
+        "label": "真中要",
+        "info": "市大三高3年→OB。投手。右投げ右打ち。背番号1。高速スライダーがウイニングショットのエース。丹波とは家が近く幼馴染で、同じ中学だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/8b/53748_crt_9C9H3.jpg?r=1493603148",
+        "link": "https://bgm.tv/character/53748",
+        "categorie": "person"
+      },
+      {
+        "id": "53749",
+        "label": "国友广重",
+        "info": "稲城実業監督。常に仏頂面で目つきが鋭く、迫力がある。栃木の馬原高校をわずか5年で甲子園ベスト8にまで導いた。その実績を買われ、10年前に母校である稲城実業の監督に就任。春夏通算14回の甲子園出場実績を誇る。チームを甲子園に連れて行くために雇われた職業監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/0f/53749_crt_MxqUb.jpg?r=1493603533",
+        "link": "https://bgm.tv/character/53749",
+        "categorie": "person"
+      },
+      {
+        "id": "53750",
+        "label": "成宫鸣",
+        "info": "稲城実業2年→3年。投手。左翼手。左投げ左打ち。背番号1（2夏-）。打順は5番（2夏-）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/28/53750_crt_5qgw0.jpg?r=1493603679",
+        "link": "https://bgm.tv/character/53750",
+        "categorie": "person"
+      },
+      {
+        "id": "53751",
+        "label": "神谷カルロス俊樹",
+        "info": "稲城実業2年→3年。中堅手。右投げ右打ち。背番号8（2夏-）、打順は1番（2夏-）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/83/53751_crt_66gby.jpg?r=1493604360",
+        "link": "https://bgm.tv/character/53751",
+        "categorie": "person"
+      },
+      {
+        "id": "53752",
+        "label": "白河胜之",
+        "info": "稲城実業2年→3年。遊撃手。右投げ右打ち。背番号6（2夏-）。打順は2番（2夏-）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/ec/53752_crt_SOxTs.jpg",
+        "link": "https://bgm.tv/character/53752",
+        "categorie": "person"
+      },
+      {
+        "id": "53753",
+        "label": "山冈陆",
+        "info": "稲城実業2年→3年。一塁手。右投げ右打ち。背番号3（2夏-）打順は6番（2夏-）→4番（2秋）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a9/53753_crt_Rk7BI.jpg",
+        "link": "https://bgm.tv/character/53753",
+        "categorie": "person"
+      },
+      {
+        "id": "53754",
+        "label": "矢部浩二",
+        "info": "稲城実業2年→3年。三塁手。右投げ右打ち。背番号15（2夏）→5（2秋）。打順は6番（2秋）→3番（3春）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/03/53754_crt_FjYF8.jpg",
+        "link": "https://bgm.tv/character/53754",
+        "categorie": "person"
+      },
+      {
+        "id": "53755",
+        "label": "多田野树",
+        "info": "稲城実業1年→2年。捕手。右投げ。背番号2（1秋-）。打順は6番。新チームの正捕手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/a0/53755_crt_7Z3yE.jpg",
+        "link": "https://bgm.tv/character/53755",
+        "categorie": "person"
+      },
+      {
+        "id": "53756",
+        "label": "原田雅功",
+        "info": "稲城実業3年→OB。捕手。右投げ右打ち。背番号2（3夏）、打順は4番（3夏）。チームの元主将。愛称は「雅（さん）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ee/53756_crt_N60Bd.jpg?r=1493605074",
+        "link": "https://bgm.tv/character/53756",
+        "categorie": "person"
+      },
+      {
+        "id": "53757",
+        "label": "尾形一成",
+        "info": "明川学園監督。「てゆっか」が口癖。誰にでも丁寧な口調で話す。楊からは「日本の父」と慕われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/93/53757_crt_O0wF0.jpg",
+        "link": "https://bgm.tv/character/53757",
+        "categorie": "person"
+      },
+      {
+        "id": "53758",
+        "label": "轰雷藏",
+        "info": "薬師高校監督。雷市の父親。40歳まで社会人野球の現役選手だったが引退後会社を辞め無職に。その間、河原で子供達に野球を教えていた。昨年から野球部監督に就任し、翌年には長年打撃指導してきた1年生3人を加え、チームをベスト8まで押し上げた。無職の期間中に借金を抱えて妻には逃げられ、現在でも食事に肉を用意することすらままならない極貧状態にある。性格的には豪快の一語に尽き、「自分を甲子園に連れて行け」という型破りな就任挨拶をしている。反面、「練習は厳しく真面目にするが試合は選手たちが楽しむもの、グラウンドの中では選手たちが自分で考えるべき」という野球観を持つ。本作の作者である寺嶋の過去の読みきり漫画「橋の下のバットマン」では実働2年で65勝を挙げた元プロ野球投手（しかし賭博容疑で球界永久追放）という設定になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/d9/53758_crt_tzyOq.jpg",
+        "link": "https://bgm.tv/character/53758",
+        "categorie": "person"
+      },
+      {
+        "id": "53759",
+        "label": "轰雷市",
+        "info": "三塁手。投手。右投げ左打ち。1年生→2年生。背番号20（1夏）→5（1秋-）。打順は4番。夏の青道戦では1番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/8a/53759_crt_qW0iI.jpg",
+        "link": "https://bgm.tv/character/53759",
+        "categorie": "person"
+      },
+      {
+        "id": "56351",
+        "label": "福井健斗",
+        "info": "稲城実業2年→3年。新チーム主将。通称福ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/d1/56351_crt_Ac52N.jpg",
+        "link": "https://bgm.tv/character/56351",
+        "categorie": "person"
+      },
+      {
+        "id": "56352",
+        "label": "三岛优太",
+        "info": "一塁手。投手。捕手。三塁手。右投げ右打ち。1年生→2年生。背番号17（1夏）→3（1秋-）。打順は3番。夏の青道戦でも3番を任されていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/98/56352_crt_TJBem.jpg",
+        "link": "https://bgm.tv/character/56352",
+        "categorie": "person"
+      },
+      {
+        "id": "56353",
+        "label": "秋叶一真",
+        "info": "左翼手。捕手。投手。右投げ左打ち。1年生→2年生。背番号19（1夏）→2（1秋-）。打順は5番(1夏)→1番(1秋-)。夏の青道戦では2番を任されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/c1/56353_crt_88MXX.jpg",
+        "link": "https://bgm.tv/character/56353",
+        "categorie": "person"
+      },
+      {
+        "id": "56354",
+        "label": "真田俊平",
+        "info": "投手。一塁手。右投げ右打ち。2年生→3年生。背番号18（2夏）→1（2秋-）。打順は6番(2夏)→5番(2秋-)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/bf/56354_crt_S2XCx.jpg",
+        "link": "https://bgm.tv/character/56354",
+        "categorie": "person"
+      },
+      {
+        "id": "56360",
+        "label": "鹈饲一良",
+        "info": "仙泉学園高校監督。全国各地の高校を渡り歩き、監督業を始めて40年になる。地味ながらも堅実なチーム作りには実績がある名将。ボヤくのが特徴。青道戦では選手達に自信を教えて上げられなかったことが敗北につながったと感じ、まだまだだなと実感している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/52/56360_crt_S8Bcp.jpg",
+        "link": "https://bgm.tv/character/56360",
+        "categorie": "person"
+      },
+      {
+        "id": "56361",
+        "label": "真木洋介",
+        "info": "投手。右投げ右打ち。背番号1。2年生→3年生。1年生の頃からエースナンバーを背負い、長身から繰り出される威力があるボールが決め球。カーブは日本一の高さから放たれると言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/1c/56361_crt_NZVF9.jpg",
+        "link": "https://bgm.tv/character/56361",
+        "categorie": "person"
+      },
+      {
+        "id": "56362",
+        "label": "菊川早苗",
+        "info": "桜沢高校監督。生徒達からは教授と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/37/56362_crt_JiZ8o.jpg",
+        "link": "https://bgm.tv/character/56362",
+        "categorie": "person"
+      },
+      {
+        "id": "56363",
+        "label": "长绪明",
+        "info": "投手。右投げ右打ち。背番号1。3年生→OB。ナックルボーラーであり、桜沢高校のエース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/09/56363_crt_6DBMJ.jpg?r=1501161170",
+        "link": "https://bgm.tv/character/56363",
+        "categorie": "person"
+      },
+      {
+        "id": "40591",
+        "label": "苍月若菜",
+        "info": "三好高校1年。長野県出身。沢村の幼馴染。中学時代は同じ野球部に選手として所属し、クラスも一緒だった模様。寮生活の沢村とは携帯電話のメールで時折連絡を取り合っている。準決勝、決勝は東京まで応援に来ている。稲実との決勝では涙を見せる場面も。倉持からは沢村の彼女と疑われているが、沢村本人はさらりと否定している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/42/40591_crt_00ylT.jpg",
+        "link": "https://bgm.tv/character/40591",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

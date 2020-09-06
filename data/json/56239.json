@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1988",
+        "label": "凯尔·布罗福洛夫斯基",
+        "info": "四人组中的犹太人(台湾翻成客家人)，常与阿ㄆ一ㄚˇ发生冲突，但有时会受阿ㄆ一ㄚˇ影响一起闹事，当他受影响时常会闹出天大的灾难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/68/1988_crt_8sxoL.jpg",
+        "link": "https://bgm.tv/character/1988",
+        "categorie": "person"
+      },
+      {
+        "id": "28036",
+        "label": "斯坦·马希",
+        "info": "斯坦利·兰德尔·“斯坦”·马希（英语：Stanley Randall \"Stan\" Marsh，港译粉肠，台译屎蛋），是动画片《南方公园》的四名主角之一，英文版由特雷·帕克配音，这一角色的特点亦基本来自于特雷·帕克。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/94/28036_crt_4AzrJ.jpg",
+        "link": "https://bgm.tv/character/28036",
+        "categorie": "person"
+      },
+      {
+        "id": "29350",
+        "label": "肯尼·麦克康米克",
+        "info": "阿尼在南方公園中最著名的一點就是他的家庭最有問題。父親史杜特是個酒鬼，因為沒有工作使得一家人相當的貧苦，要靠著社會救濟金過日子，阿尼也因此常常被卡特曼所取笑。阿尼還有兩個兄弟姐妹：哥哥Kevin和妹妹Karen。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fa/29350_crt_Dg1c7.jpg",
+        "link": "https://bgm.tv/character/29350",
+        "categorie": "person"
+      },
+      {
+        "id": "30262",
+        "label": "艾瑞克·西欧多·卡特曼",
+        "info": "埃里克·西奥多·卡特曼（英语：Eric Theodore Cartman，港译蛋散，台译阿ㄆㄧㄚˇ）是美国动画电视剧集《南方公园》的四名主要角色之一，由该剧集创作人之一的特雷·帕克配音。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/04/30262_crt_KUMHz.jpg",
+        "link": "https://bgm.tv/character/30262",
+        "categorie": "person"
+      },
+      {
+        "id": "1996",
+        "label": "蓝迪·马许",
+        "info": "35岁，斯坦的父亲。是位地质学家，虽然得过诺贝尔奖，但是不务正业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e7/1996_crt_0S4s3.jpg",
+        "link": "https://bgm.tv/character/1996",
+        "categorie": "person"
+      },
+      {
+        "id": "30804",
+        "label": "莉安·卡特曼",
+        "info": "Cartman的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/da/30804_crt_be0d5.jpg",
+        "link": "https://bgm.tv/character/30804",
+        "categorie": "person"
+      },
+      {
+        "id": "41921",
+        "label": "温蒂·泰斯伯格",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/54/41921_crt_0h1R1.jpg",
+        "link": "https://bgm.tv/character/41921",
+        "categorie": "person"
+      },
+      {
+        "id": "41922",
+        "label": "贝蓓·斯蒂文斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/fe/41922_crt_IIbbv.jpg",
+        "link": "https://bgm.tv/character/41922",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

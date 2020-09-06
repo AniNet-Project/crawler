@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12653",
+        "label": "渡久地东亚",
+        "info": "　　《ONE OUTS~Nobody wins but I!（超智游戏）》的主角，赌徒，原埼京彩珠Lycaons队员，投手， 右投右打，背号77号。棒球场上鬼一般的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/62/12653_crt_ZFeue.jpg",
+        "link": "https://bgm.tv/character/12653",
+        "categorie": "person"
+      },
+      {
+        "id": "44820",
+        "label": "兒島弘道",
+        "info": "背號9號。Lycaons當家第四棒，日本的國民英雄，被稱之為「不走運的天才打者」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/3d/44820_crt_TvvGV.jpg",
+        "link": "https://bgm.tv/character/44820",
+        "categorie": "person"
+      },
+      {
+        "id": "3642",
+        "label": "彩川恒雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/0d/3642_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3642",
+        "categorie": "person"
+      },
+      {
+        "id": "3644",
+        "label": "出口智志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/05/3644_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3644",
+        "categorie": "person"
+      },
+      {
+        "id": "9386",
+        "label": "三原雄三郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/9b/9386_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9386",
+        "categorie": "person"
+      },
+      {
+        "id": "26614",
+        "label": "河中纯一",
+        "info": "背番号18。投手。左投げ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/85/26614_crt_JboOf.jpg",
+        "link": "https://bgm.tv/character/26614",
+        "categorie": "person"
+      },
+      {
+        "id": "77445",
+        "label": "冴岛明夫",
+        "info": "Lycaons投手教练。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/f1/77445_crt_U9Pcb.jpg",
+        "link": "https://bgm.tv/character/77445",
+        "categorie": "person"
+      },
+      {
+        "id": "77446",
+        "label": "今井建一",
+        "info": "背号15号。队伍当家三垒手和游击手。情绪波动较大，喜怒形如色。曾在对Eagles比赛中独自取得三重杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/7b/77446_crt_q00Xx.jpg",
+        "link": "https://bgm.tv/character/77446",
+        "categorie": "person"
+      },
+      {
+        "id": "77447",
+        "label": "及川满夫",
+        "info": "球团的行销部长，看不惯彩川会长的做法，会暗中帮助渡久地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/e5/77447_crt_ssyTf.jpg",
+        "link": "https://bgm.tv/character/77447",
+        "categorie": "person"
+      },
+      {
+        "id": "77448",
+        "label": "丹尼斯‧强森",
+        "info": "背号99号。新洋将，城丘于美国田径锦标赛上发现了这名顶尖的选手。由于从三垒到本垒仅2.6秒，号称世界上最快的代跑跑者。城丘用来对付渡久地的秘密武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/a4/77448_crt_5aQqG.jpg",
+        "link": "https://bgm.tv/character/77448",
+        "categorie": "person"
+      },
+      {
+        "id": "78060",
+        "label": "木野崎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/88/78060_crt_WQs7C.jpg",
+        "link": "https://bgm.tv/character/78060",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

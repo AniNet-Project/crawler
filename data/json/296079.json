@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70412",
+        "label": "丹帝",
+        "info": "丹帝是伽勒尔地区的现任冠军，拥有正式对战全胜的惊人记录，再加上他的品格，使他受到广大支持，是宝可梦训练家憧憬的对象，是伽勒尔地区名副其实的“最强”训练家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/cd/70412_crt_gy45f.jpg",
+        "link": "https://bgm.tv/character/70412",
+        "categorie": "person"
+      },
+      {
+        "id": "70413",
+        "label": "赫普",
+        "info": "丹帝的弟弟，同时也是主角的劲敌。以成为像哥哥一样的冠军为目标，每天认真投入在宝可梦对战的练习，和邻居的主角在同一天踏上了冒险的旅程。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/31/70413_crt_c83l7.jpg",
+        "link": "https://bgm.tv/character/70413",
+        "categorie": "person"
+      },
+      {
+        "id": "70415",
+        "label": "索妮亚",
+        "info": "木兰博士的孙女兼助手，丹帝的青梅竹马。拥有丰富的知识，会给予主角冒险的建议。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/49/70415_crt_IYIY0.jpg",
+        "link": "https://bgm.tv/character/70415",
+        "categorie": "person"
+      },
+      {
+        "id": "70416",
+        "label": "亚洛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/bf/70416_crt_6Xb36.jpg",
+        "link": "https://bgm.tv/character/70416",
+        "categorie": "person"
+      },
+      {
+        "id": "73469",
+        "label": "欧尼奥",
+        "info": "擅长使用幽灵属性宝可梦，年纪小小就担任道馆馆主的优秀训练家。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/5c/73469_crt_hil7P.jpg?r=1574531377",
+        "link": "https://bgm.tv/character/73469",
+        "categorie": "person"
+      },
+      {
+        "id": "73479",
+        "label": "玛俐",
+        "info": "小时候是个爱哭鬼，但在和哥哥送的宝可梦玩耍的过程中变得乐观了起来。宝可梦训练家的才能也开始大幅地发掘了出来。本来是为了逐渐萧条的城镇而来参加道馆挑战，结果却对都市的时装店等产生了兴趣。在老家尖钉镇是名人气偶像，但本人并不想出名。不过似乎觉得有呐喊队这样的助威团在会很安心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/a5/73479_crt_PM38c.jpg",
+        "link": "https://bgm.tv/character/73479",
+        "categorie": "person"
+      },
+      {
+        "id": "75706",
+        "label": "小优",
+        "info": "小優是一名少女訓練家，以成為憧憬的冠軍為目標踏上冒險旅程。冒險中她遇到很多不同的人和寶可夢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/74/75706_crt_D3K82.jpg?r=1582456981",
+        "link": "https://bgm.tv/character/75706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

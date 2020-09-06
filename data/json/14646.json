@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24946",
+        "label": "彗星",
+        "info": "口琴星国的公主。为了寻找逃到地球的铃鼓星国王子的下落，在地球遇上一个叫三岛佳佑的少年，深深被他吸引著。平时能够利用星星力量施展星云的魔法，后来因小波波（小皮球）的缘故，升级得可以用恋爱力量。名字来自英语中的comet。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/33/24946_crt_zoO4S.jpg?r=1399930715",
+        "link": "https://bgm.tv/character/24946",
+        "categorie": "person"
+      },
+      {
+        "id": "29570",
+        "label": "流星",
+        "info": "响板星国的公主。跟彗星一样到地球找寻王子，因为以前在幼稚园的小事而对彗星十分讨厌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/37/29570_crt_xCaEa.jpg",
+        "link": "https://bgm.tv/character/29570",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

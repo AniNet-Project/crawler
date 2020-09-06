@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10532",
+        "label": "镝木·T·虎彻",
+        "info": "正义感强，坚持信念，行动常不经过大脑，总体而言是个热血男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/c2/10532_crt_cf3hA.jpg",
+        "link": "https://bgm.tv/character/10532",
+        "categorie": "person"
+      },
+      {
+        "id": "10533",
+        "label": "巴纳比·布鲁克斯·Jr",
+        "info": "给人好青年的印象，认为工作就是工作、讨厌多余行动的理想主义者，为了某个目的而直接使用本名行动并公开真实相貌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/24/10533_crt_5uUzO.jpg",
+        "link": "https://bgm.tv/character/10533",
+        "categorie": "person"
+      },
+      {
+        "id": "12401",
+        "label": "HERO TV",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/a3/12401_crt_aEz40.jpg",
+        "link": "https://bgm.tv/character/12401",
+        "categorie": "person"
+      },
+      {
+        "id": "10535",
+        "label": "卡莉娜·莱尔",
+        "info": "当超级英雄时按公司要求以冷艳性感的女王形象示人，平常其实是个活泼开朗的普通女高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/fc/10535_crt_f8pPF.jpg",
+        "link": "https://bgm.tv/character/10535",
+        "categorie": "person"
+      },
+      {
+        "id": "12504",
+        "label": "安东尼奥·洛佩兹",
+        "info": "虎彻的老友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fe/12504_crt_11571.jpg",
+        "link": "https://bgm.tv/character/12504",
+        "categorie": "person"
+      },
+      {
+        "id": "12506",
+        "label": "基思·古德曼",
+        "info": "Poseidon Line所属超级英雄，能力是操纵风，称号是Wind Wizard，NC1977年度King of Hero，广受男女老少欢迎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/31/12506_crt_R8qeD.jpg",
+        "link": "https://bgm.tv/character/12506",
+        "categorie": "person"
+      },
+      {
+        "id": "12507",
+        "label": "黄宝铃",
+        "info": "オデュッセウスコミュニケーションに所属するヒーロー。キャッチコピーは「稲妻カンフーマスター」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/be/12507_crt_dgZG0.jpg?r=1469391553",
+        "link": "https://bgm.tv/character/12507",
+        "categorie": "person"
+      },
+      {
+        "id": "12510",
+        "label": "伊万·卡列林",
+        "info": "英雄学校的毕业生，拥有与外表相反的老成性格，日本迷，喜欢忍者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ba/12510_crt_tyCHX.jpg",
+        "link": "https://bgm.tv/character/12510",
+        "categorie": "person"
+      },
+      {
+        "id": "12651",
+        "label": "内森·西摩尔",
+        "info": "Helios Energy公司所属的超级英雄，同时也是公司的老板，能力是操纵火焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/c7/12651_crt_O535L.jpg",
+        "link": "https://bgm.tv/character/12651",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

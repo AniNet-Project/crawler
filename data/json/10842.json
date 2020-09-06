@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12971",
+        "label": "紫苑",
+        "info": "本作品的主人公。9月7日生。16歲。市民編號Qw-55142。擁有带紫的黑色瞳孔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/37/12971_crt_PP873.jpg",
+        "link": "https://bgm.tv/character/12971",
+        "categorie": "person"
+      },
+      {
+        "id": "12972",
+        "label": "鼠",
+        "info": "本名不詳。擁有灰色的瞳孔，在動畫裡留著可以紮起來的長髮，小說裡則是正好能蓋住耳朵的短髮。有中性的美貌和美妙的歌声。在西區的劇場從事舞台演員的工作，有相對多的粉絲[來源請求]，藝名是“伊夫（イヴ）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/e7/12972_crt_s8Ur2.jpg",
+        "link": "https://bgm.tv/character/12972",
+        "categorie": "person"
+      },
+      {
+        "id": "14456",
+        "label": "借狗人",
+        "info": "西区的居民。年齢、本名不明。身高145cm。体重38㎏。O型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/71/14456_crt_8Os13.jpg",
+        "link": "https://bgm.tv/character/14456",
+        "categorie": "person"
+      },
+      {
+        "id": "14457",
+        "label": "力河",
+        "info": "西区的居民，酒精中毒的原新闻记者，现在在西区出版色情杂志。秘密的与No.6的高官从事某些交易。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/51/14457_crt_fH3JQ.jpg",
+        "link": "https://bgm.tv/character/14457",
+        "categorie": "person"
+      },
+      {
+        "id": "14458",
+        "label": "沙布",
+        "info": "身高155cm。体重45㎏。B型。生日是2001年6月12日。市民编号SSC-00124GJ",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/dd/14458_crt_3CX79.jpg",
+        "link": "https://bgm.tv/character/14458",
+        "categorie": "person"
+      },
+      {
+        "id": "14459",
+        "label": "火蓝",
+        "info": "紫苑的母亲。一人将紫苑带大。在紫苑藏匿鼠的事件之后移居到下城，经营着一家很受欢迎的面包店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/6b/14459_crt_9Kurh.jpg",
+        "link": "https://bgm.tv/character/14459",
+        "categorie": "person"
+      },
+      {
+        "id": "14460",
+        "label": "莉莉",
+        "info": "下城的居民，恋香和翠风的女儿。火蓝的面包店常客，与火蓝感情很好。察觉到了继父月薬的可疑行动而感到不安。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/44/14460_crt_Xe3zS.jpg",
+        "link": "https://bgm.tv/character/14460",
+        "categorie": "person"
+      },
+      {
+        "id": "14461",
+        "label": "杨眠",
+        "info": "个子高大，有着白发的中年男性（动画是黑发）。恋香的哥哥，莉莉的舅舅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/73/14461_crt_6qZjC.jpg",
+        "link": "https://bgm.tv/character/14461",
+        "categorie": "person"
+      },
+      {
+        "id": "14681",
+        "label": "老",
+        "info": "矫正设施地下洞窟里的白髪男人，也是给老鼠取名并给予教育之人。自称是“寄生蜂第一个宿主”与“残存者”。脚由于寄生蜂的影响而坏死并被切掉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/15/14681_crt_ZJ6k3.jpg",
+        "link": "https://bgm.tv/character/14681",
+        "categorie": "person"
+      },
+      {
+        "id": "18718",
+        "label": "爱丽乌丽亚斯",
+        "info": "与森之民生活，并拥有比人类还高的智慧。寄身在有大脑的生物中（人类最好），有着像蜂的外观。被森之民以“神”称之。因为她的力量、引发了NO.6的“大虐杀”。矫正施设也为了做实验而成立。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/d2/18718_crt_Xk5UP.jpg?r=1384745138",
+        "link": "https://bgm.tv/character/18718",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

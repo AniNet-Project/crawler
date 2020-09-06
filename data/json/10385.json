@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10532",
+        "label": "镝木·T·虎彻",
+        "info": "正义感强，坚持信念，行动常不经过大脑，总体而言是个热血男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/c2/10532_crt_cf3hA.jpg",
+        "link": "https://bgm.tv/character/10532",
+        "categorie": "person"
+      },
+      {
+        "id": "10533",
+        "label": "巴纳比·布鲁克斯·Jr",
+        "info": "给人好青年的印象，认为工作就是工作、讨厌多余行动的理想主义者，为了某个目的而直接使用本名行动并公开真实相貌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/24/10533_crt_5uUzO.jpg",
+        "link": "https://bgm.tv/character/10533",
+        "categorie": "person"
+      },
+      {
+        "id": "12401",
+        "label": "HERO TV",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/a3/12401_crt_aEz40.jpg",
+        "link": "https://bgm.tv/character/12401",
+        "categorie": "person"
+      },
+      {
+        "id": "10535",
+        "label": "卡莉娜·莱尔",
+        "info": "当超级英雄时按公司要求以冷艳性感的女王形象示人，平常其实是个活泼开朗的普通女高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/fc/10535_crt_f8pPF.jpg",
+        "link": "https://bgm.tv/character/10535",
+        "categorie": "person"
+      },
+      {
+        "id": "12504",
+        "label": "安东尼奥·洛佩兹",
+        "info": "虎彻的老友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fe/12504_crt_11571.jpg",
+        "link": "https://bgm.tv/character/12504",
+        "categorie": "person"
+      },
+      {
+        "id": "12506",
+        "label": "基思·古德曼",
+        "info": "Poseidon Line所属超级英雄，能力是操纵风，称号是Wind Wizard，NC1977年度King of Hero，广受男女老少欢迎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/31/12506_crt_R8qeD.jpg",
+        "link": "https://bgm.tv/character/12506",
+        "categorie": "person"
+      },
+      {
+        "id": "12507",
+        "label": "黄宝铃",
+        "info": "オデュッセウスコミュニケーションに所属するヒーロー。キャッチコピーは「稲妻カンフーマスター」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/be/12507_crt_dgZG0.jpg?r=1469391553",
+        "link": "https://bgm.tv/character/12507",
+        "categorie": "person"
+      },
+      {
+        "id": "12508",
+        "label": "阿涅斯·茹贝尔",
+        "info": "HERO TV的制片人，收视率至上主义，是个性格强势的职业女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/68/12508_crt_b00tp.jpg",
+        "link": "https://bgm.tv/character/12508",
+        "categorie": "person"
+      },
+      {
+        "id": "12509",
+        "label": "阿尔伯特·马弗里克",
+        "info": "APOLLON MEDIA的CEO，HERO TV的创始人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/59/12509_crt_z3xgP.jpg",
+        "link": "https://bgm.tv/character/12509",
+        "categorie": "person"
+      },
+      {
+        "id": "12510",
+        "label": "伊万·卡列林",
+        "info": "英雄学校的毕业生，拥有与外表相反的老成性格，日本迷，喜欢忍者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ba/12510_crt_tyCHX.jpg",
+        "link": "https://bgm.tv/character/12510",
+        "categorie": "person"
+      },
+      {
+        "id": "12651",
+        "label": "内森·西摩尔",
+        "info": "Helios Energy公司所属的超级英雄，同时也是公司的老板，能力是操纵火焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/c7/12651_crt_O535L.jpg",
+        "link": "https://bgm.tv/character/12651",
+        "categorie": "person"
+      },
+      {
+        "id": "12652",
+        "label": "斋藤",
+        "info": "APOLLON MEDIA的技术人员，负责开发超级英雄的装备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/95/12652_crt_X8dtT.jpg",
+        "link": "https://bgm.tv/character/12652",
+        "categorie": "person"
+      },
+      {
+        "id": "12982",
+        "label": "镝木枫",
+        "info": "虎彻的独生女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/59/12982_crt_YVsAv.jpg",
+        "link": "https://bgm.tv/character/12982",
+        "categorie": "person"
+      },
+      {
+        "id": "12983",
+        "label": "亚历山大·劳埃德",
+        "info": "虎彻和巴纳比的上司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/be/12983_crt_iDoXz.jpg",
+        "link": "https://bgm.tv/character/12983",
+        "categorie": "person"
+      },
+      {
+        "id": "12984",
+        "label": "尤里·佩特洛夫",
+        "info": "Stern Bild市司法局英雄管理者兼裁判官，负责仲裁针对HERO TV超级英雄破坏器物、公共设施等的赔偿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/dd/12984_crt_7107P.jpg?r=1469391911",
+        "link": "https://bgm.tv/character/12984",
+        "categorie": "person"
+      },
+      {
+        "id": "13163",
+        "label": "杰克·马丁内斯",
+        "info": "关在Abas的牢房，刑期250年的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/65/13163_crt_mVdMJ.jpg",
+        "link": "https://bgm.tv/character/13163",
+        "categorie": "person"
+      },
+      {
+        "id": "13164",
+        "label": "克里姆",
+        "info": "「ウロボロス」を名乗る、NEXT能力者。シュテルンビルト市民を人質に、アッバス刑務所に投獄されているジェイクの解放を要求した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/72/13164_crt_65br2.jpg",
+        "link": "https://bgm.tv/character/13164",
+        "categorie": "person"
+      },
+      {
+        "id": "13407",
+        "label": "莱昂内尔·霍克",
+        "info": "以前在HeroTV的打工仔，是NEXT。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/53/13407_crt_PDwzZ.jpg",
+        "link": "https://bgm.tv/character/13407",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

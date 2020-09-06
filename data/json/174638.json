@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74",
+        "label": "夏目贵志",
+        "info": "玲子的孙子，是稀有的拥有妖力的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/dd/74_crt_QFbqf.jpg",
+        "link": "https://bgm.tv/character/74",
+        "categorie": "person"
+      },
+      {
+        "id": "75",
+        "label": "喵先生/斑",
+        "info": "喵先生/斑（井上和彦）：斑本来拥有着优美的外型，却被封入了一只招财猫中，平时总是用那个摆着奇怪笑容的招财猫外型出现。和夏目约定，如果他死了就能得到友人帐。现在则作为夏目的保镖而做为家猫和夏目一起生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/9b/75_41544a3365a46c9077ebb5e35c3_AIWOG.jpg",
+        "link": "https://bgm.tv/character/75",
+        "categorie": "person"
+      },
+      {
+        "id": "76",
+        "label": "夏目玲子",
+        "info": "贵志的祖母，好象在很年轻的时候就去世了，但不知道详细的情形。是个就连妖怪们也无法移开视线的美貌与妖力共存的女子。但也正因为如此，而被人类厌弃。收集妖怪们的名字来制作友人帐的元凶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/d7/76_39d674997cdb4692d34de8633c4_Lm1KJ.jpg",
+        "link": "https://bgm.tv/character/76",
+        "categorie": "person"
+      },
+      {
+        "id": "3149",
+        "label": "笹田純",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/b3/3149_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3149",
+        "categorie": "person"
+      },
+      {
+        "id": "4351",
+        "label": "多轨透",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/a4/4351_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4351",
+        "categorie": "person"
+      },
+      {
+        "id": "4425",
+        "label": "西村悟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d4/4425_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4425",
+        "categorie": "person"
+      },
+      {
+        "id": "4426",
+        "label": "藤原塔子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/5c/4426_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4426",
+        "categorie": "person"
+      },
+      {
+        "id": "4427",
+        "label": "藤原滋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/8d/4427_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4427",
+        "categorie": "person"
+      },
+      {
+        "id": "24932",
+        "label": "田沼要",
+        "info": "与父亲一同住在八原寺庙的孩子，内心温柔善良，心思细腻，与夏目是同年级不同班的同学。擅长将棋",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/57/24932_crt_wwKBf.jpg",
+        "link": "https://bgm.tv/character/24932",
+        "categorie": "person"
+      },
+      {
+        "id": "37211",
+        "label": "名取周一",
+        "info": "人気俳優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/f6/37211_crt_98sbU.jpg",
+        "link": "https://bgm.tv/character/37211",
+        "categorie": "person"
+      },
+      {
+        "id": "37212",
+        "label": "的场静司",
+        "info": "妖祓い屋の的場一門頭首。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/0e/37212_crt_ttOVv.jpg",
+        "link": "https://bgm.tv/character/37212",
+        "categorie": "person"
+      },
+      {
+        "id": "41162",
+        "label": "北本笃史",
+        "info": "夏目的朋友。性格认真稳重，但对西村的吐槽总是不留情面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/37/41162_crt_3dnv3.jpg?r=1462173570",
+        "link": "https://bgm.tv/character/41162",
+        "categorie": "person"
+      },
+      {
+        "id": "65341",
+        "label": "丙",
+        "info": "精通符咒的强大妖怪，拥有强大的妖力，曾经多次帮助过夏目，初登场于第一季第十二话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/22/65341_crt_4Nd8N.jpg",
+        "link": "https://bgm.tv/character/65341",
+        "categorie": "person"
+      },
+      {
+        "id": "47430",
+        "label": "少女妖怪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/ad/47430_crt_GXFA9.jpg?r=1476593323",
+        "link": "https://bgm.tv/character/47430",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

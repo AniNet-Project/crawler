@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6325",
+        "label": "柔泽十",
+        "info": "　　染著金发不良少年，就读樱雾高中二年十三班。由于小时候环境的影响，他选择扮演不良少年想过著堕落的生活，然而其实他并没有办法真的成为不良少年，故十极度厌恶自己半调子的个性。自幼因为常和有如鬼神般强大的母亲打架，故练成耐打的身体而且有惊人的回复力。虽然个性有点别扭但是实际上却正直又充满正义感。被堕花雨宣示效忠后开始遇上许多奇异的事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/c0/6325_crt_ip8Cx.jpg",
+        "link": "https://bgm.tv/character/6325",
+        "categorie": "person"
+      },
+      {
+        "id": "12586",
+        "label": "堕花雨",
+        "info": "　　就读樱雾高中二年级，因为成绩优异被编在升学班。深信自己前世和十有羁绊而向他宣示效忠，开始时受到十严重抗拒，后来渐渐被接受而允许她伴随身旁。喜欢动画和漫画，可以说是御宅族。虽然只要关系到十就变得像是个不可理喻的电波女，然而充满理性和智慧的表现也使得十变得越来越依赖她。对任何事物都抱持淡薄的感情，对于十也没有很明显表现出恋爱或是嫉妒的感情。但是从十骗她说和雪姬交往时的失望和后来知道真相后的放心态度来看，至少还是有着相当的感情。她的姓氏“堕花”虽然是作者的另一作品“红”中出现的“里十三家”其中之一，但堕花雨本人和“里十三家”的关系不明。个子虽然娇小，但是却是个靠着自学的防身术将大部分对手不花力气解决的高手。平常留着超长浏海将脸(特别是眼睛)遮住，拨开浏海后的相貌却是让十极度惊叹的美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/5d/12586_crt_TUCfF.jpg?r=1445619567",
+        "link": "https://bgm.tv/character/12586",
+        "categorie": "person"
+      },
+      {
+        "id": "6326",
+        "label": "賀来羅清",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/b6/6326_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6326",
+        "categorie": "person"
+      },
+      {
+        "id": "10298",
+        "label": "白石香里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/e7/10298_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10298",
+        "categorie": "person"
+      },
+      {
+        "id": "10299",
+        "label": "円堂円",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e8/10299_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10299",
+        "categorie": "person"
+      },
+      {
+        "id": "12026",
+        "label": "斩岛雪姫",
+        "info": "就读私立光云高中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/7e/12026_crt_z4ZBB.jpg",
+        "link": "https://bgm.tv/character/12026",
+        "categorie": "person"
+      },
+      {
+        "id": "22955",
+        "label": "纱月美夜",
+        "info": "ジュウのクラスメート。性格は明るくクラスでも男女を問わず人気者。クラスの中で唯一1人ジュウに親しい存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/cf/22955_crt_jJZxx.jpg",
+        "link": "https://bgm.tv/character/22955",
+        "categorie": "person"
+      },
+      {
+        "id": "10300",
+        "label": "広瀬奈緒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/26/10300_crt_ic7d2.jpg",
+        "link": "https://bgm.tv/character/10300",
+        "categorie": "person"
+      },
+      {
+        "id": "10301",
+        "label": "暗木一夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/f1/10301_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10301",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

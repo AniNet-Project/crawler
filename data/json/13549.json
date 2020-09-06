@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3420",
+        "label": "森里萤一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/4f/3420_crt_x79hp.jpg?r=1466142986",
+        "link": "https://bgm.tv/character/3420",
+        "categorie": "person"
+      },
+      {
+        "id": "3434",
+        "label": "贝露丹蒂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/c8/3434_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3434",
+        "categorie": "person"
+      },
+      {
+        "id": "3436",
+        "label": "ウルド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/f2/3436_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3436",
+        "categorie": "person"
+      },
+      {
+        "id": "3439",
+        "label": "斯库鲁德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/a9/3439_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3439",
+        "categorie": "person"
+      },
+      {
+        "id": "6352",
+        "label": "三岛沙夜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/16/6352_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6352",
+        "categorie": "person"
+      },
+      {
+        "id": "6724",
+        "label": "长谷川空",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/f9/6724_crt_WNlZ6.jpg",
+        "link": "https://bgm.tv/character/6724",
+        "categorie": "person"
+      },
+      {
+        "id": "13827",
+        "label": "玛拉",
+        "info": "1級魔非限定",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/53/13827_crt_6R6ot.jpg",
+        "link": "https://bgm.tv/character/13827",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

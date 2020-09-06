@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26369",
+        "label": "永井圭",
+        "info": "全国模拟考试中取得第一位的天才、拥有看到的东西大部分都能记住的可怕的记忆力。幼年时亚人的特殊能力「黑色幽灵」就发现可以使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/c3/26369_crt_p0JF1.jpg?r=1447318790",
+        "link": "https://bgm.tv/character/26369",
+        "categorie": "person"
+      },
+      {
+        "id": "26370",
+        "label": "海斗",
+        "info": "永井圭年幼时的朋友，为人重情重义，在圭被通缉时帮助其逃亡，目前行踪不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/f0/26370_crt_6zoRT.jpg?r=1447318862",
+        "link": "https://bgm.tv/character/26370",
+        "categorie": "person"
+      },
+      {
+        "id": "34559",
+        "label": "佐藤",
+        "info": "ハンチング帽をかぶった糸目の男。戸崎や研究機関からは「帽子」と呼ばれている。本名は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/c9/34559_crt_CgqCW.jpg?r=1447318925",
+        "link": "https://bgm.tv/character/34559",
+        "categorie": "person"
+      },
+      {
+        "id": "34560",
+        "label": "户崎优",
+        "info": "厚生労働省から派遣された亜人担当の職員。ミントのタブレットを常に持ち歩いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/2b/34560_crt_z213y.jpg?r=1447318982",
+        "link": "https://bgm.tv/character/34560",
+        "categorie": "person"
+      },
+      {
+        "id": "34561",
+        "label": "下村泉",
+        "info": "户崎的下属，年轻娇小的女性，亚人。亚人身份因户崎包庇而保密，交换条件则是自亚人的威胁中保护户崎。幽灵的特征为三角锥的头部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ae/34561_crt_V1STs.jpg?r=1447319055",
+        "link": "https://bgm.tv/character/34561",
+        "categorie": "person"
+      },
+      {
+        "id": "34562",
+        "label": "田中功次",
+        "info": "2番目に日本国内で確認された亜人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/7a/34562_crt_Z3MwQ.jpg?r=1447319099",
+        "link": "https://bgm.tv/character/34562",
+        "categorie": "person"
+      },
+      {
+        "id": "34563",
+        "label": "永井慧理子",
+        "info": "圭の妹。病弱で、病院で療養中だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/57/34563_crt_ibhW7.jpg?r=1451149795",
+        "link": "https://bgm.tv/character/34563",
+        "categorie": "person"
+      },
+      {
+        "id": "34564",
+        "label": "小仓郁也",
+        "info": "生物物理学者。アメリカに渡り、亜人研究に携わっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/e2/34564_crt_yc7Cu.jpg?r=1451149775",
+        "link": "https://bgm.tv/character/34564",
+        "categorie": "person"
+      },
+      {
+        "id": "39805",
+        "label": "高马陆佐",
+        "info": "陆上自卫队干部，负责对亚人的作战及“对亚人特战部队”的指挥官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/50/39805_crt_9z1A2.jpg",
+        "link": "https://bgm.tv/character/39805",
+        "categorie": "person"
+      },
+      {
+        "id": "39806",
+        "label": "女播报员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/6e/39806_crt_ezAoa.jpg",
+        "link": "https://bgm.tv/character/39806",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76633",
+        "label": "风铃儿",
+        "info": "女主角，来历不明，性格有点小傲娇的女飞贼。因某次行窃失利被白钰袖发现，并与其交手，但不敌白钰袖而落败，两人不打不相识结为好友，共同结伴行走江湖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/44/76633_crt_65seT.jpg",
+        "link": "https://bgm.tv/character/76633",
+        "categorie": "person"
+      },
+      {
+        "id": "76634",
+        "label": "白钰袖",
+        "info": "女主角，商贾之女，拥有深不可测的家族背景，虽然是吃货但武功奇高的大小姐。与风铃儿不打不相识，喜欢跟风铃儿卖萌撒娇，现与风铃儿一起闯荡江湖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/77/76634_crt_6jUCu.jpg",
+        "link": "https://bgm.tv/character/76634",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

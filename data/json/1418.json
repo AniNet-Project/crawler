@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "473",
+        "label": "玛德拉丝",
+        "info": "本作品的主角。卡萨索尼卡最优秀的雇用暗杀特务，任务成功完成率为98%。和玛格丽特一样，玛德拉丝也不记得12年前发生过的事情。枪法百发百中，主要武器是SIG P210。“玛德拉丝(Madlax)”是她的代号。在现实世界似乎无法被杀死。前期有较高的子弹回避率，后期得知自己的真相后拥有无穷的子弹回避率。最终因玛格丽特・巴顿的愿望而存在于真实世界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/92/473_crt_9R6Y6.jpg?r=1518531901",
+        "link": "https://bgm.tv/character/473",
+        "categorie": "person"
+      },
+      {
+        "id": "474",
+        "label": "マーガレット・バートン",
+        "info": "本作品另外一位主角，17岁的女学生。过去的事情完全记不起来。拥有资质和改变现实的能力。她持有的绘本叫“Secondary”（セカンダリ），是神秘的三本册子（三冊の本）之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/58/474_crt_31Ev1.jpg",
+        "link": "https://bgm.tv/character/474",
+        "categorie": "person"
+      },
+      {
+        "id": "475",
+        "label": "エリノア・ベイカー",
+        "info": "待在玛格丽特身旁的女仆兼护卫。竭尽全力照顾玛格丽特及保护她的安全。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/31/475_crt_VF8fV.jpg",
+        "link": "https://bgm.tv/character/475",
+        "categorie": "person"
+      },
+      {
+        "id": "476",
+        "label": "ヴァネッサ・レネ",
+        "info": "玛格丽特的邻居和辅导教师。她的目标是揭露卡萨索尼卡内战的真正起因。被神秘组织安纺追杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/3c/476_crt_osy6s.jpg",
+        "link": "https://bgm.tv/character/476",
+        "categorie": "person"
+      },
+      {
+        "id": "477",
+        "label": "カロッスア・ドゥーン",
+        "info": "安纺的高级特务，弗莱迪・曼迪的左右手。他和玛德拉丝、玛格丽特一样记不起12年前的一切。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/77/477_crt_mrzw0.jpg",
+        "link": "https://bgm.tv/character/477",
+        "categorie": "person"
+      },
+      {
+        "id": "478",
+        "label": "リメルダ・ユルグ",
+        "info": "卡萨索尼卡军亲卫队女性军官，中尉。她是卡萨索尼卡仅次于玛德拉丝的狙击手。在玛德拉丝成功暗杀由其负责保护的陆军司令之后决心追杀玛德拉丝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/02/478_crt_QsS8S.jpg",
+        "link": "https://bgm.tv/character/478",
+        "categorie": "person"
+      },
+      {
+        "id": "479",
+        "label": "フライデー・マンデー",
+        "info": "安纺的真面目。几年前打开真实之门，引起内乱的幕后黑手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/0d/479_crt_PL9kq.jpg",
+        "link": "https://bgm.tv/character/479",
+        "categorie": "person"
+      },
+      {
+        "id": "480",
+        "label": "クアンジッタ・マリスン",
+        "info": "圣地的神官。知道真实的门的线索的人。第三本册子“Thirdly/Thirstari”（サースタリ）的拥有者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/90/480_crt_G4c0u.jpg",
+        "link": "https://bgm.tv/character/480",
+        "categorie": "person"
+      },
+      {
+        "id": "481",
+        "label": "レティシア",
+        "info": "神秘的女孩子，存在于圣都。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/b5/481_crt_MTEZ5.jpg",
+        "link": "https://bgm.tv/character/481",
+        "categorie": "person"
+      },
+      {
+        "id": "484",
+        "label": "スリースピード",
+        "info": "给玛德拉丝工作的特务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/4f/484_crt_74o4N.jpg?r=1394116125",
+        "link": "https://bgm.tv/character/484",
+        "categorie": "person"
+      },
+      {
+        "id": "482",
+        "label": "プゥペ",
+        "info": "在蕾迪西雅一旁的神秘少年，无法离开圣都。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/a1/482_crt_0g0PY.jpg",
+        "link": "https://bgm.tv/character/482",
+        "categorie": "person"
+      },
+      {
+        "id": "483",
+        "label": "ナハル",
+        "info": "神官关姬塔的侍从。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/1e/483_crt_b70uV.jpg",
+        "link": "https://bgm.tv/character/483",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

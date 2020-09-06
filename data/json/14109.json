@@ -1,0 +1,237 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1735",
+        "label": "皆城总士",
+        "info": "一骑的挚友，皆城公藏与鞘的孩子。妹妹·乙姬沉睡于岛中的“女神的岩窟”中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/22/1735_crt_07a7a.jpg?r=1419778221",
+        "link": "https://bgm.tv/character/1735",
+        "categorie": "person"
+      },
+      {
+        "id": "1734",
+        "label": "真壁一骑",
+        "info": "原只是一位普通的运动神经极好的海岛少年，直到入侵者侵入了岛的那一天——",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/83/1734_crt_1PRy8.jpg?r=1419778052",
+        "link": "https://bgm.tv/character/1734",
+        "categorie": "person"
+      },
+      {
+        "id": "28549",
+        "label": "来主操",
+        "info": "沉眠于漂流至龙宫岛的军舰内部的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c0/28549_crt_4ULiK.jpg?r=1419782181",
+        "link": "https://bgm.tv/character/28549",
+        "categorie": "person"
+      },
+      {
+        "id": "1736",
+        "label": "远见真矢",
+        "info": "一骑的青梅竹马。与母亲、姐姐一同生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/b6/1736_crt_bmuLd.jpg?r=1419778361",
+        "link": "https://bgm.tv/character/1736",
+        "categorie": "person"
+      },
+      {
+        "id": "1738",
+        "label": "春日井甲洋",
+        "info": "家里开着喫茶店·乐园。父母因他被选上成为驾驶员感到光荣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4e/1738_crt_joY5Q.jpg?r=1419778955",
+        "link": "https://bgm.tv/character/1738",
+        "categorie": "person"
+      },
+      {
+        "id": "1742",
+        "label": "皆城乙姬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/e4/1742_crt_d72Aa.jpg?r=1419779486",
+        "link": "https://bgm.tv/character/1742",
+        "categorie": "person"
+      },
+      {
+        "id": "28532",
+        "label": "羽佐间卡农",
+        "info": "原新国连人类军所属、Fafner驾驶者的少女。爱尔兰 都柏林出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/24/28532_crt_dzGM6.jpg?r=1421420524",
+        "link": "https://bgm.tv/character/28532",
+        "categorie": "person"
+      },
+      {
+        "id": "1740",
+        "label": "近藤剑司",
+        "info": "不太可靠的学生会会长。由于喜欢咲良，因此常找一骑比试。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/9b/1740_crt_ac6Z4.jpg?r=1419779358",
+        "link": "https://bgm.tv/character/1740",
+        "categorie": "person"
+      },
+      {
+        "id": "1739",
+        "label": "要咲良",
+        "info": "要诚一郎与澄美的孩子。家中开道场，因此也练得一身好功夫，表明喜欢比自己强的男孩子。因父亲于第一集被 Festum杀死,故立志消灭所有来袭的Festum。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/a5/1739_crt_b4WtX.jpg?r=1419779101",
+        "link": "https://bgm.tv/character/1739",
+        "categorie": "person"
+      },
+      {
+        "id": "29500",
+        "label": "堂马广登",
+        "info": "竜宮島で暮らす少年。家は定食屋・堂馬食堂。姉がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/9f/29500_crt_S1K3g.jpg?r=1423393351",
+        "link": "https://bgm.tv/character/29500",
+        "categorie": "person"
+      },
+      {
+        "id": "28533",
+        "label": "西尾里奈",
+        "info": "比一骑们小一岁的后辈。在零式法芙娜的启动实验的事故中失去了双亲，自此与祖母·行美、双胞胎弟弟·晖相依为命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/26/28533_crt_MzZKC.jpg",
+        "link": "https://bgm.tv/character/28533",
+        "categorie": "person"
+      },
+      {
+        "id": "28552",
+        "label": "西尾晖",
+        "info": "比一骑们小一岁的后辈。在零式法芙娜的启动实验的事故中失去了双亲，自此与祖母·行美、双胞胎姐姐·里奈相依为命。因为失去双亲的影响而患上了失语症。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b4/28552_crt_tQ3Yr.jpg",
+        "link": "https://bgm.tv/character/28552",
+        "categorie": "person"
+      },
+      {
+        "id": "28534",
+        "label": "立上芹",
+        "info": "比一骑小一岁的后辈，喜欢昆虫，对生命的感受性非常强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/e4/28534_crt_0T10V.jpg?r=1421422981",
+        "link": "https://bgm.tv/character/28534",
+        "categorie": "person"
+      },
+      {
+        "id": "28542",
+        "label": "真壁史彦",
+        "info": "一骑的父亲，接替殉职的皆城公藏成为了Alvis总司令。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/ac/28542_crt_g1M78.jpg",
+        "link": "https://bgm.tv/character/28542",
+        "categorie": "person"
+      },
+      {
+        "id": "28544",
+        "label": "沟口恭介",
+        "info": "春日井夫妇被驱逐出岛后，接下了“乐园”，成为了“乐园”的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/1b/28544_crt_sAAd5.jpg?r=1419781478",
+        "link": "https://bgm.tv/character/28544",
+        "categorie": "person"
+      },
+      {
+        "id": "36717",
+        "label": "西尾行美",
+        "info": "里奈·晖的祖母，经营着粗点心店·西尾商店的老太太。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/44/36717_crt_1aLk1.jpg?r=1447051736",
+        "link": "https://bgm.tv/character/36717",
+        "categorie": "person"
+      },
+      {
+        "id": "28545",
+        "label": "远见千鹤",
+        "info": "弓子、真矢的母亲，美羽的外婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/8d/28545_crt_3Fb2L.jpg?r=1419781647",
+        "link": "https://bgm.tv/character/28545",
+        "categorie": "person"
+      },
+      {
+        "id": "28546",
+        "label": "远见弓子",
+        "info": "真矢的姐姐。为了让真矢不驾驶法芙娜甚至不惜冒着可能被驱逐出岛的惩罚的危险，改动了真矢的个人数据。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/6b/28546_crt_3AYGa.jpg?r=1419782562",
+        "link": "https://bgm.tv/character/28546",
+        "categorie": "person"
+      },
+      {
+        "id": "28537",
+        "label": "要澄美",
+        "info": "咲良的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/68/28537_crt_25eSE.jpg?r=1419780429",
+        "link": "https://bgm.tv/character/28537",
+        "categorie": "person"
+      },
+      {
+        "id": "28535",
+        "label": "羽佐间容子",
+        "info": "翔子、卡农的养母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/c5/28535_crt_RdD73.jpg?r=1419780209",
+        "link": "https://bgm.tv/character/28535",
+        "categorie": "person"
+      },
+      {
+        "id": "28539",
+        "label": "小楯保",
+        "info": "卫的父亲。Alvis的主机械师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/4e/28539_crt_UFQqw.jpg?r=1419780790",
+        "link": "https://bgm.tv/character/28539",
+        "categorie": "person"
+      },
+      {
+        "id": "36718",
+        "label": "伊安·康普",
+        "info": "被伯恩斯舍弃在岛上的人类军兵士的其中一人，现在作为Alvis的机械师工作着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/bd/36718_crt_MnGcc.jpg?r=1447051888",
+        "link": "https://bgm.tv/character/36718",
+        "categorie": "person"
+      },
+      {
+        "id": "36775",
+        "label": "洁蕾米·李·玛茜",
+        "info": "原人类军，与伊安相同，感恩着岛的接纳。现在作为CDC的操作员工作着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/4f/36775_crt_w4l4e.jpg?r=1447166779",
+        "link": "https://bgm.tv/character/36775",
+        "categorie": "person"
+      },
+      {
+        "id": "68072",
+        "label": "贵志晶",
+        "info": "EXODUS：曾经所属于人类军的原法芙娜驾驶员，现就职于CDC。最近与在Alvis结识的男性结了婚的模样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ab/68072_crt_1UFv1.jpg?r=1546097417",
+        "link": "https://bgm.tv/character/68072",
+        "categorie": "person"
+      },
+      {
+        "id": "68071",
+        "label": "贝拉·德尔尼尼",
+        "info": "EXODUS：与晶晶、奥尔嘉同样，曾经所属于人类军的原法芙娜驾驶员，现就职于CDC。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/e6/68071_crt_WjwJ8.jpg",
+        "link": "https://bgm.tv/character/68071",
+        "categorie": "person"
+      },
+      {
+        "id": "36719",
+        "label": "奥尔嘉·卡缇娜·彼得连科",
+        "info": "EXODUS：俄罗斯出身，曾经所属于人类军的原法芙娜驾驶员，现就职于CDC→与沟口的岛外派遣部队同行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/8c/36719_crt_QC7iZ.jpg?r=1447052230",
+        "link": "https://bgm.tv/character/36719",
+        "categorie": "person"
+      },
+      {
+        "id": "28550",
+        "label": "日野美羽",
+        "info": "道夫·弓子的孩子，有着能够理解异界体的语言的“世界语者”的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/54/28550_crt_SxqT7.jpg",
+        "link": "https://bgm.tv/character/28550",
+        "categorie": "person"
+      },
+      {
+        "id": "28551",
+        "label": "真壁红音",
+        "info": "真壁一騎的母親，已故。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/38/28551_crt_2I8IM.jpg?r=1429206865",
+        "link": "https://bgm.tv/character/28551",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

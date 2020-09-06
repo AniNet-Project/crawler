@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14579",
+        "label": "海绵宝宝",
+        "info": "年龄10岁（7月14日出生、巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/2c/14579_crt_z919y.jpg",
+        "link": "https://bgm.tv/character/14579",
+        "categorie": "person"
+      },
+      {
+        "id": "31286",
+        "label": "凯伦",
+        "info": "原文名字為Karen，皮老闆的電腦妻子，個性相當嘮叨，很有自己的想法，對於皮老闆一再的失敗已經見怪不怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/09/31286_crt_3cb4b.jpg?r=1427178407",
+        "link": "https://bgm.tv/character/31286",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

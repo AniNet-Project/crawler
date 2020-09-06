@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6394",
+        "label": "雾亥",
+        "info": "人間が再びネットスフィアにアクセスする鍵となる「ネット端末遺伝子」を求め、巨大な階層都市を旅する探索者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/1d/6394_crt_73EZE.jpg?r=1487862582",
+        "link": "https://bgm.tv/character/6394",
+        "categorie": "person"
+      },
+      {
+        "id": "24877",
+        "label": "西波",
+        "info": "かつて栄えていた街・塊都（かいと）の主任科学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/d0/24877_crt_GhGLp.jpg?r=1487862696",
+        "link": "https://bgm.tv/character/24877",
+        "categorie": "person"
+      },
+      {
+        "id": "51662",
+        "label": "祖鲁",
+        "info": "電基漁師たちが住む村の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/9c/51662_crt_ti88T.jpg?r=1487862602",
+        "link": "https://bgm.tv/character/51662",
+        "categorie": "person"
+      },
+      {
+        "id": "51663",
+        "label": "师父",
+        "info": "電基漁師たちの頭領。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/b5/51663_crt_45k78.jpg?r=1487862828",
+        "link": "https://bgm.tv/character/51663",
+        "categorie": "person"
+      },
+      {
+        "id": "51664",
+        "label": "舍造",
+        "info": "屈強で、おやっさんの右腕を務める村の若頭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/86/51664_crt_Gl3dv.jpg?r=1487862870",
+        "link": "https://bgm.tv/character/51664",
+        "categorie": "person"
+      },
+      {
+        "id": "51665",
+        "label": "塔也",
+        "info": "電基漁師。づるの親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/7f/51665_crt_aIY3V.jpg?r=1487862960",
+        "link": "https://bgm.tv/character/51665",
+        "categorie": "person"
+      },
+      {
+        "id": "51666",
+        "label": "福萨塔",
+        "info": "電基漁師。タエに思いを寄せている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/fd/51666_crt_9TNqD.jpg?r=1487863048",
+        "link": "https://bgm.tv/character/51666",
+        "categorie": "person"
+      },
+      {
+        "id": "51667",
+        "label": "敦士",
+        "info": "電基漁師。村へ続く階段上のやぐらで、見張り役を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/ae/51667_crt_pgGhe.jpg?r=1487863119",
+        "link": "https://bgm.tv/character/51667",
+        "categorie": "person"
+      },
+      {
+        "id": "52768",
+        "label": "莎娜可",
+        "info": "上位クラスのセーフガード。凄まじい戦闘能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/36/52768_crt_Lz0G0.jpg?r=1495632658",
+        "link": "https://bgm.tv/character/52768",
+        "categorie": "person"
+      },
+      {
+        "id": "77311",
+        "label": "东亚重工",
+        "info": "东亚重工（日语：東亜重工，英语：TOA Heavy Industries）为弐瓶勉作品《BLAME!》《BIOMEGA》《希德尼娅的骑士》中登场的架空重工业企业/组织。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/44/77311_crt_qO830.jpg",
+        "link": "https://bgm.tv/character/77311",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

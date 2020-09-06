@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "15914",
+        "label": "胭条巴",
+        "info": "由于忍受不了的原因，杀害了自己双亲的少年。怕事情暴露而想逃跑，结果遇到了两仪式，与两仪式一起进行了为期一个多月的同居生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e8/15914_crt_3uYUa.jpg?r=1423145647",
+        "link": "https://bgm.tv/character/15914",
+        "categorie": "person"
+      },
+      {
+        "id": "3205",
+        "label": "苍崎橙子",
+        "info": "　　奈须小说《空之境界》中的最高位的人形使，整部《空之境界》的故事导向者。礼园女学院的校友，被魔术协会制定封印的人偶师。个性独特，二十多岁就升到支配者层级，有魔眼，拥有魔术回路二十左右。虽身为魔术师却有接近魔法使的实力。在魔术协会学习期间以追求肉体的原型为目标，结识了同样研究卢文字和人偶制作的柯尼勒斯·阿鲁巴和追求魂之原型的荒耶宗莲，对荒耶有着相当复杂的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/1d/3205_crt_41oeX.jpg?r=1498990565",
+        "link": "https://bgm.tv/character/3205",
+        "categorie": "person"
+      },
+      {
+        "id": "4237",
+        "label": "荒耶宗莲",
+        "info": "外表45岁左右的男性。魔术师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/e7/4237_crt_XxkoN.jpg",
+        "link": "https://bgm.tv/character/4237",
+        "categorie": "person"
+      },
+      {
+        "id": "10902",
+        "label": "黑桐干也",
+        "info": "《空之境界》男主角。看似没有任何特异能力以及潮流感的男人，除了人缘好之外似乎没有其他特点，然而却意外的有着连橙子也为之惊讶的资料搜查能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e4/10902_crt_6bkUi.jpg",
+        "link": "https://bgm.tv/character/10902",
+        "categorie": "person"
+      },
+      {
+        "id": "4238",
+        "label": "柯尼勒斯·阿鲁巴",
+        "info": "“红色魔术师”。修本海姆修道院的下任院长。和荒耶宗莲和苍崎橙子在学徒时代有着类似于朋友的关系。研究目标和橙子相似，一样专长於伦文字（Rune）和人偶制作，但橙子在这两方面都后来居上。以苍崎橙子的性命为代价答应了荒耶宗莲的协助请托，对于橙子似乎抱有着夹杂着嫉妒和爱慕的复杂感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/0e/4238_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4238",
+        "categorie": "person"
+      },
+      {
+        "id": "8243",
+        "label": "胭条孝之",
+        "info": "臙条巴的父亲，原本是一家的顶梁柱，却因为交通事故而被免职。为了逃避邻居的非议而搬迁至小川公寓，顺理成章地变得精神异常及家庭暴力，最终被自己的妻子所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/ca/8243_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8243",
+        "categorie": "person"
+      },
+      {
+        "id": "15915",
+        "label": "胭条枫",
+        "info": "臙条巴的母亲，原本是勇敢追求真爱的富家小姐，应该有着幸福的结局。不过在孝之遭遇事故后，却不得不向叛离的娘家低头以求得援助，同时也从事着自身不擅长的兼职工作以支撑家计。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/f2/15915_crt_777Xj.jpg",
+        "link": "https://bgm.tv/character/15915",
+        "categorie": "person"
+      },
+      {
+        "id": "8184",
+        "label": "秋巳大辅",
+        "info": "黒桐幹也的从兄、警視庁捜査一課的警察。因为在警视厅工作因此可以说是干也的情报来源之一，与橙子也相识，欲同橙子交往但没太大的机会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/1a/8184_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8184",
+        "categorie": "person"
+      },
+      {
+        "id": "8204",
+        "label": "巫条雾绘",
+        "info": "由于长期卧病在床无法行动，所能见到的只有从病房窗外看出去的景色，对于只能俯瞰却无法亲身接触到的窗外事物感到厌恶和憎恨，但仍然渴望去到外界、希望拥有能自由行动的身体。这因为这一点而被荒耶宗莲利用，成为了高中女生连续跳楼自杀事件的始作俑者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/8f/8204_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8204",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

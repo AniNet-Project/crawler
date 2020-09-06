@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2765",
+        "label": "木之本樱",
+        "info": "登场年龄为10岁，就读私立友枝小学四年级，在学校是啦啦队的队员之一，与知世是非常要好的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/9b/2765_crt_Vrv50.jpg?r=1512017848",
+        "link": "https://bgm.tv/character/2765",
+        "categorie": "person"
+      },
+      {
+        "id": "7998",
+        "label": "大道寺知世",
+        "info": "小樱的好朋友，是少有的知道小樱是魔法使的人。喜欢摄影，对做衣服、唱歌和做甜点非常擅长，不大擅长运动。性格早熟，最喜欢小樱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/a0/7998_crt_Yszs4.jpg?r=1517820508",
+        "link": "https://bgm.tv/character/7998",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

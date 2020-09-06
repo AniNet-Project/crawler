@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20480",
+        "label": "大宫忍",
+        "info": "艾莉丝在日本寄宿家庭的女儿。绰号“小忍”。国中时曾寄住在艾莉丝家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/ec/20480_crt_zJVKb.jpg?r=1428346169",
+        "link": "https://bgm.tv/character/20480",
+        "categorie": "person"
+      },
+      {
+        "id": "20481",
+        "label": "艾莉丝·卡达列特",
+        "info": "来自英国的留学少女，从忍到英国留学时开始就很仰慕她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/9d/20481_crt_Zyvha.jpg?r=1428972968",
+        "link": "https://bgm.tv/character/20481",
+        "categorie": "person"
+      },
+      {
+        "id": "20482",
+        "label": "小路绫",
+        "info": "忍的同班同学，发型绑成黑发双马尾。穿制服的时候会多加一件黑色毛衣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/ad/20482_crt_CC1gr.jpg?r=1431395830",
+        "link": "https://bgm.tv/character/20482",
+        "categorie": "person"
+      },
+      {
+        "id": "20483",
+        "label": "猪熊阳子",
+        "info": "忍的同班同学，留着茶色短发。穿制服时不穿西装外套，也没有打领结。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/df/20483_crt_bHJVp.jpg?r=1430356121",
+        "link": "https://bgm.tv/character/20483",
+        "categorie": "person"
+      },
+      {
+        "id": "20484",
+        "label": "九条可怜",
+        "info": "艾莉丝的青梅竹马，追着艾莉丝来到日本留学，和忍与艾莉丝就读同一间学校，但班级不同。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/1d/20484_crt_BrU2k.jpg?r=1429642378",
+        "link": "https://bgm.tv/character/20484",
+        "categorie": "person"
+      },
+      {
+        "id": "20485",
+        "label": "大宫勇",
+        "info": "忍的姐姐，有在当时装模特。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/5f/20485_crt_n0706.jpg?r=1433292801",
+        "link": "https://bgm.tv/character/20485",
+        "categorie": "person"
+      },
+      {
+        "id": "20486",
+        "label": "乌丸樱",
+        "info": "教英文的女教师，是忍等人的级任老师，带着眼镜，昵称为“小乌”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/ac/20486_crt_YM35e.jpg?r=1432939837",
+        "link": "https://bgm.tv/character/20486",
+        "categorie": "person"
+      },
+      {
+        "id": "29808",
+        "label": "松原穗乃花",
+        "info": "右单边辫子与小蝴蝶结，可怜座位右邻的同学，常常以文静的客串身份出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/22/29808_crt_Bj7ad.jpg?r=1431396091",
+        "link": "https://bgm.tv/character/29808",
+        "categorie": "person"
+      },
+      {
+        "id": "20665",
+        "label": "艾莉丝的妈妈",
+        "info": "アリス・カータレットの母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/38/20665_crt_rggxM.jpg?r=1432086058",
+        "link": "https://bgm.tv/character/20665",
+        "categorie": "person"
+      },
+      {
+        "id": "64495",
+        "label": "白川凑",
+        "info": "勇在高中时的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/27/64495_crt_114P1.jpg",
+        "link": "https://bgm.tv/character/64495",
+        "categorie": "person"
+      },
+      {
+        "id": "29810",
+        "label": "猪熊美月",
+        "info": "猪熊阳子的妹妹，和空太是双胞胎。小学4年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/c5/29810_crt_JE578.jpg?r=1424688701",
+        "link": "https://bgm.tv/character/29810",
+        "categorie": "person"
+      },
+      {
+        "id": "29809",
+        "label": "猪熊空太",
+        "info": "猪熊阳子的弟弟，和美月是双胞胎。小学4年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/7a/29809_crt_Q6xnM.jpg",
+        "link": "https://bgm.tv/character/29809",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "19663",
+        "label": "野野原柚子",
+        "info": "情报处理部的气氛制造者。爱恶作剧的性格，总是在说一些想要逗缘和唯开心的话，不过意外地有着认真的一面。实际上成绩很优秀。有一个妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/13/19663_crt_GZ1Z0.jpg",
+        "link": "https://bgm.tv/character/19663",
+        "categorie": "person"
+      },
+      {
+        "id": "19664",
+        "label": "栎井唯",
+        "info": "情报处理部的成员，5月1日出生，A型血，独生女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/4a/19664_crt_0yHCH.jpg",
+        "link": "https://bgm.tv/character/19664",
+        "categorie": "person"
+      },
+      {
+        "id": "19665",
+        "label": "日向缘",
+        "info": "情报处理部的部长。11月11日出生，O型血。有一个哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/47/19665_crt_HivLC.jpg",
+        "link": "https://bgm.tv/character/19665",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

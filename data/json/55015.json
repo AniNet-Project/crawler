@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6784",
+        "label": "鲁邦三世",
+        "info": "亚森·罗苹（法国作家莫理斯·卢布朗所创造的绅士怪盗，即鲁邦一世）之孙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/4e/6784_crt_bQQph.jpg?r=1446820910",
+        "link": "https://bgm.tv/character/6784",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

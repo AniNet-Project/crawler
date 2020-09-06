@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6646",
+        "label": "鲇川圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/0f/6646_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6646",
+        "categorie": "person"
+      },
+      {
+        "id": "6645",
+        "label": "春日恭介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fd/6645_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6645",
+        "categorie": "person"
+      },
+      {
+        "id": "6663",
+        "label": "桧山光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/f4/6663_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6663",
+        "categorie": "person"
+      },
+      {
+        "id": "6931",
+        "label": "ジンゴロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/03/6931_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6931",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

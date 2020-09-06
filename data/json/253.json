@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77",
+        "label": "史派克·斯皮格尔",
+        "info": "本作的主人公。体型消瘦，留着一头类似爆炸头的头发，是Bebop号上的最早成员之一。在赏金猎人的工作中，因为懂得类似李小龙截拳道的武术，常担任战斗前线的罪犯逮捕工作，在驾驶经过改装的红色高速战机「剑鱼II」（ソードフィッシュII）时也表现出了过人的水准，喜欢使用的手枪是经过改造的Jericho941。以李小龙为偶像的斯派克自己也是截拳道的高手。三年前为了离开黑社会组织「红龙」曾经一度游走在生死边缘。现在和杰特一起乘坐着「比博普」号，过着穷困潦倒的日子。对于自己的过去，斯派克不愿意对别人详细提起。虽然已经从黑道引退却仍然过着吊儿郎当的生活。以前的经历使得他总是过分自信，老是做一些火中取栗的事情，屡次身陷险境。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/e3/77_crt_r11wF.jpg?r=1489157445",
+        "link": "https://bgm.tv/character/77",
+        "categorie": "person"
+      },
+      {
+        "id": "78",
+        "label": "杰特·布莱克",
+        "info": "史派克的搭档，「比博普」号的主人，原来是太阳系刑事警察机构的刑警。爱机是用掘土机改造的「榔头」，爱用的手枪是Walther P99。杰特以前作为ISSP(太阳系刑警警察机构)的警官在木卫三工作，有着「黑狗」的绰号。以一次事故为契机，辞去警察工作，凭借着之前的人际关系，成为了一名星际牛仔。那次事故让杰特失去了左手，虽然以当时的医疗技术可以移植一条有机手臂，不过他却选择了机械手臂，似乎是为了纪念什么。星际飞船「比博普」是他用一艘二手渔船改造成的。兴趣有盆栽、宇宙赛马、读书和料理，「没有肉丝的特制的青椒肉丝」是他的拿手好戏。因为没有女人缘而一直未婚的杰特是一位十足的家庭妇男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/e6/78_crt_VV28f.jpg",
+        "link": "https://bgm.tv/character/78",
+        "categorie": "person"
+      },
+      {
+        "id": "79",
+        "label": "菲·瓦伦丁",
+        "info": "曾经被悬赏的赏金猎人，原来是一名以诈骗和偷窃为生的美艳女郎，在一次赌场的犯罪中卷入了Bebop号的成员而入伙。性格上是个嗜财如命、非常开放的女人，可以为了钱不择手段。爱机是拥有2个火力口的「红尾」，爱枪是Glock 30。因为好赌和长达54年的冷冻睡眠的医疗费用使得菲背负着天文数字的债务。也许因为这个原因，菲对金钱的执着是斯派克和杰特无法相比的。在赌博时总是耍老千，和斯派克初次相遇时谎称自己是吉普塞人(流浪者)。事实上，漫长的睡眠使得她失去了之前的一切记忆，连名字也是醒来之后取的。失忆的她脾气非常火爆，然而菲也一直为失忆前的自己深深的烦恼着。菲寻找自我的旅行也正是故事的主线之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2a/79_crt_ZIF2u.jpg",
+        "link": "https://bgm.tv/character/79",
+        "categorie": "person"
+      },
+      {
+        "id": "80",
+        "label": "艾德",
+        "info": "拥有男性名字的13岁地球少女，曾经被称作激进爱德华的天才黑客。因为父亲专注于记录陨石的掉落地点的工作，而连她是女孩这个事实都没弄清楚。惯用的电脑「番茄」是她自己制造的。从小就到处流浪，不喜欢待在同一个地方，是个电脑天才，几乎可以侵入任何安全系统，但在日常生活与人际关系上的常识，却有微妙程度的缺乏，言行举止有些微幼儿化。平时性格异常开朗，和资料犬爱因关系很好。虽然年纪小，但是心中也有自己对生活的看法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/6e/80_crt_T8DMp.jpg",
+        "link": "https://bgm.tv/character/80",
+        "categorie": "person"
+      },
+      {
+        "id": "81",
+        "label": "爱因",
+        "info": "爱因表面上是一只雄性威尔士矮脚狗，然而实际上是一只被研究机关开发的，在狂热者(怎样的狂热者？)之间以天文价格交易的数据狗。因为本来是某实验机构的试验品（“Ein”在德语里是“一”的意思），而这里Ein的意思就是大科学家爱因斯坦的名字缩写，暗示该犬超级高智商，它比一般的狗拥有高出许多的智商，不但拥有资讯处理能力，也可以理解并在一定程度上与人类交流。但尽管拥有非常出众的智力，但是斯派克他们根本没察觉。其实没人看见的时候它甚至会去玩电脑…",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/7d/81_crt_nIRs9.jpg",
+        "link": "https://bgm.tv/character/81",
+        "categorie": "person"
+      },
+      {
+        "id": "2297",
+        "label": "ビシャス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/69/2297_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2297",
+        "categorie": "person"
+      },
+      {
+        "id": "61523",
+        "label": "茱莉亚",
+        "info": "史派克從前的恋人，原本是威夏斯的女友。但因为于史派克相恋，並帮助他脱离组织后，就一直在躲避威夏斯的追杀，虽然在片中出场机会和对她的描述都不多，但卻是牵动整个主线剧情发展的重要人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/55/61523_crt_5MEke.jpg",
+        "link": "https://bgm.tv/character/61523",
+        "categorie": "person"
+      },
+      {
+        "id": "21926",
+        "label": "ロコ",
+        "info": "出现于Cowboy Bebop第八话，为了给妹妹Stella治疗眼睛而试图盗取价值几千万的Grey Ash。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/1e/21926_crt_uBfof.jpg",
+        "link": "https://bgm.tv/character/21926",
+        "categorie": "person"
+      },
+      {
+        "id": "21927",
+        "label": "ステラ",
+        "info": "Roco的妹妹，失明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/51/21927_crt_HpyJ4.jpg",
+        "link": "https://bgm.tv/character/21927",
+        "categorie": "person"
+      },
+      {
+        "id": "21929",
+        "label": "アリサ",
+        "info": "出现于Cowboy Bebop第10话，Jet曾经的恋人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/70/21929_crt_9b99t.jpg",
+        "link": "https://bgm.tv/character/21929",
+        "categorie": "person"
+      },
+      {
+        "id": "21930",
+        "label": "リンド",
+        "info": "出现于Cowboy Bebop第10话，Arisa现在的恋人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/5e/21930_crt_9mve6.jpg",
+        "link": "https://bgm.tv/character/21930",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "8376",
+        "label": "Bebop Crew",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/1c/8376_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8376",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

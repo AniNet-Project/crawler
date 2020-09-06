@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7774",
+        "label": "高桥启介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/db/7774_crt_9HT96.jpg?r=1485955747",
+        "link": "https://bgm.tv/character/7774",
+        "categorie": "person"
+      },
+      {
+        "id": "28770",
+        "label": "藤原拓海",
+        "info": "身高174cm，体重58kg。18岁（Project D编中途后19岁）1月1日生，高中3年级。毕业后于运输公司工作（运输公司工作前，于加油站打工）。这个作品男主角，父亲・文太的爱车（之后让给拓海）AE86被很多的对手挑战、挑衅、很多的比赛也胜利了。那么强和少见而被称为“秋名的86”。为“Project D”的Double Ace（双王牌）之一，主要负责下坡路段。TRUENO是初期型1983年式GT-APEX，但是，仪表板内的模拟仪表已改为早期型数字仪表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/ea/28770_crt_z8Khc.jpg",
+        "link": "https://bgm.tv/character/28770",
+        "categorie": "person"
+      },
+      {
+        "id": "7775",
+        "label": "高桥凉介",
+        "info": "本作第三男主角，群马Project D和前赤城RedSuns的队长，就读于群马大学医学系，家里是高崎市的某大医院。刚出道时，独自一人不参加任何车队连战连胜，被称为赤城的白色彗星，后来则组织赤城Red Suns(红日队)，与弟弟高桥启介两人被称为高桥兄弟闻名，常被汽车杂志报道。擅长于分析，靠着电脑解析就可做出公路最快理论。在与拓海之战失败后退居幕后，之后为了击溃须藤京一和唤醒学长北条凛而复出过两次，后击败京一，并击败学长北条凛之死神GTR并救之一命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/bb/7775_crt_0RQXz.jpg?r=1485955771",
+        "link": "https://bgm.tv/character/7775",
+        "categorie": "person"
+      },
+      {
+        "id": "7776",
+        "label": "武内树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/52/7776_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7776",
+        "categorie": "person"
+      },
+      {
+        "id": "7783",
+        "label": "池谷 浩一郎",
+        "info": "Akina SpeedStar车队队长，和拓海在同一间加油站工作(正式员工)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/4c/7783_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7783",
+        "categorie": "person"
+      },
+      {
+        "id": "28771",
+        "label": "茂木夏树",
+        "info": "第一到三部的女主角。拓海的前任女朋友，有相当长的时间从事援助交际。高一时认识，拓海曾因同社团的学长御木对夏树不雅的话而揍他，因为误会两人保持距离一段时间，直到高三夏树了解详情才恢复。但后来援交的事情被拓海知道，两人关系遂降至冰点。夏树亦因此决定脱离与MR.X的援交关系，并且在漫画中前往拓海的油站做过兼职(动画第二部和第三部则在快餐店)。虽因御木绑架未遂事件后两人感情稍微回温，但毕业后两人选择分手，夏树往东京发展进修。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/72/28771_crt_qu6oU.jpg?r=1490024198",
+        "link": "https://bgm.tv/character/28771",
+        "categorie": "person"
+      },
+      {
+        "id": "50823",
+        "label": "藤原文太",
+        "info": "搭乗車種…AE86 スプリンタートレノ GT-APEX 3door（前期型） → GC8 インプレッサ WRX STi Version V",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/18/50823_crt_fN8gn.jpg?r=1485937626",
+        "link": "https://bgm.tv/character/50823",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

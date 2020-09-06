@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4948",
+        "label": "天野銀次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/bb/4948_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4948",
+        "categorie": "person"
+      },
+      {
+        "id": "16648",
+        "label": "美堂蛮",
+        "info": "美堂蛮，出自日本动漫《闪灵二人组》。具有可以让人看见一分钟幻觉的「邪眼」，以及可用200公斤握力撕裂对手的「蛇咬（snake bite）」两项特殊能力。然而最强之处还在于曾受到奶奶的调教，可以向星座请受近乎深不可测的力量，这使他在无限城中击败了雷帝身份的银次。多才多艺，会拉小提琴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/60/16648_crt_EOS8s.jpg",
+        "link": "https://bgm.tv/character/16648",
+        "categorie": "person"
+      },
+      {
+        "id": "4950",
+        "label": "風鳥院花月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/a4/4950_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4950",
+        "categorie": "person"
+      },
+      {
+        "id": "18856",
+        "label": "赤尸 藏人",
+        "info": "通称「Dr.ジャッカル」（映画「ジャッカルの日」から取られている）。史上最低・最悪の運び屋。常に黒衣を纏った謎の男。体の中にメスを隠し持ち、自身が望むと瞬時に手の中に現れる。放出したメスを回収する能力も併せ持ち、人を切り刻むのが趣味。強敵に出会うと己の限界を知る為にも興味を示しバトルを挑む。銀次の天敵（1人目）。銀次を気に入り、彼が怖がるのを承知の上で弄ってからかったりするなど[5]、意外とお茶目（?）。自分の血が混じればどんな物でも武器になる特異体質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/80/18856_crt_H19Hz.jpg?r=1427918470",
+        "link": "https://bgm.tv/character/18856",
+        "categorie": "person"
+      },
+      {
+        "id": "18857",
+        "label": "工藤卑弥呼",
+        "info": "运送专家。跟以前去世的哥哥邪马人还有阿蛮一起干抢夺专家。用“毒香水”来攻击敌人。有几百种之多，但在战斗时，只佩带七种。一直在追寻哥哥去世的真正原因，跟邪馬人一樣是巫毒之子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/57/18857_crt_W0r1x.jpg?r=1427918507",
+        "link": "https://bgm.tv/character/18857",
+        "categorie": "person"
+      },
+      {
+        "id": "18858",
+        "label": "海温",
+        "info": "波霸美女，经常被美堂蛮“偷袭”。有愛爾蘭人血統，是咖啡店的常客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/c8/18858_crt_9RsGs.jpg",
+        "link": "https://bgm.tv/character/18858",
+        "categorie": "person"
+      },
+      {
+        "id": "18859",
+        "label": "冬木士度",
+        "info": "魔裡人四木族冬木的後代，有把動物的能力移到自己身上的「百獸擬態」的能力。可以很快控制動物。能夠召喚動物來幫忙作戰。美堂給他的綽號是「耍猴的」，兩人的關係非常差。其四木族的力量是「覺醒」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/76/18859_crt_YvyCi.jpg",
+        "link": "https://bgm.tv/character/18859",
+        "categorie": "person"
+      },
+      {
+        "id": "18860",
+        "label": "马克贝斯",
+        "info": "是由銀次在無限城中撿到的棄嬰。長大後，透過藥店阿健的啟發，成為電腦天才。在銀次離開無限城後成為無限城下層世界的統治者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/78/18860_crt_Lw7RQ.jpg",
+        "link": "https://bgm.tv/character/18860",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

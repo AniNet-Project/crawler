@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35808",
+        "label": "雨宫美沙子",
+        "info": "旧姓不详，雨宫洋介的妻子；同时亦为雨宫一彦的继母，有一个妹妹悦美子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/66/35808_crt_2ekm1.jpg?r=1443371375",
+        "link": "https://bgm.tv/character/35808",
+        "categorie": "person"
+      },
+      {
+        "id": "35809",
+        "label": "悦美子",
+        "info": "姓氏不详，美沙子的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/f2/35809_crt_oi1rx.jpg?r=1443371486",
+        "link": "https://bgm.tv/character/35809",
+        "categorie": "person"
+      },
+      {
+        "id": "35810",
+        "label": "雨宫一彦",
+        "info": "洋介の息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/09/35810_crt_RgU01.jpg",
+        "link": "https://bgm.tv/character/35810",
+        "categorie": "person"
+      },
+      {
+        "id": "35821",
+        "label": "雨宮洋介",
+        "info": "雨宮洋介（あまみやようすけ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d3/35821_crt_kIl2K.jpg",
+        "link": "https://bgm.tv/character/35821",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3376",
+        "label": "后藤优",
+        "info": "ハルカの同級生で幼馴染。幼い頃は元気で明るかったが、東京の私立中学受験を強要する母親のため、暗く沈みこむことが多くなってしまった。母親としっくりいかず、ハルカと共に家出をしようとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/e4/3376_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3376",
+        "categorie": "person"
+      },
+      {
+        "id": "3380",
+        "label": "鸦",
+        "info": "ラクリマ時空界侵食を目論むシャングリラ時空界と戦う兵士、“竜騎兵”の一人。ユウの15年後の成人した姿。ラクリマ時空界を救うといわれる“龍のトルク”奪取の命を受け、現代にやってくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/bf/3380_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3380",
+        "categorie": "person"
+      },
+      {
+        "id": "16032",
+        "label": "上乃木遥",
+        "info": "函館に住む12歳の少女。幼いときに両親が離婚し、母親と二人暮し。東京に住む父とも定期的に交流を持っている。一見普通の明るい女の子だが、時空と次元に影響を与える特殊な能力、“龍のトルク”としての力をもつ。その能力は次第に増大していく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/32/16032_crt_tZ9vB.jpg",
+        "link": "https://bgm.tv/character/16032",
+        "categorie": "person"
+      },
+      {
+        "id": "3374",
+        "label": "上乃木明日香",
+        "info": "ハルカの母親。絵本作家。離婚以来函館に住んでいる。明るくポジティブな性格。幼い頃は、ユウの母・美有樹と親友同士だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/34/3374_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3374",
+        "categorie": "person"
+      },
+      {
+        "id": "3375",
+        "label": "黛拓也",
+        "info": "ハルカの父親。ハルカが七つの時、妻の明日香と離婚。親権は母親の明日香が持ったため、ハルカとは離ればなれになる。しかし一ヶ月に一度、娘に会う事を認められ、しばしば住まいの東京から函館にハルカに会いに行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/9b/3375_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3375",
+        "categorie": "person"
+      },
+      {
+        "id": "3377",
+        "label": "长谷部爱",
+        "info": "ハルカの友達。スレンダーな少女。女子サッカー部員で、彼女のおかげで決勝進出は確実と言われるほどの腕前。勝ち気な性格ゆえにイサミとやりあうことも多いが、本当はイサミのことが気になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/b4/3377_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3377",
+        "categorie": "person"
+      },
+      {
+        "id": "3378",
+        "label": "二条雪惠",
+        "info": "ハルカたちのクラス担任であり、よき理解者。ハルカたちとは友達付き合いのようになっており、「雪恵ちゃん」などど呼ばれている。見かけに似合わず、峠を車で攻めるのが趣味。運転技術はかなりのもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/2c/3378_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3378",
+        "categorie": "person"
+      },
+      {
+        "id": "3379",
+        "label": "郡山京司",
+        "info": "警察から内閣調査室に出向している。武術、射撃術に精通。涼子の運転手も兼ねている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/85/3379_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3379",
+        "categorie": "person"
+      },
+      {
+        "id": "3381",
+        "label": "长尾林鸮",
+        "info": "ラクリマ時空界の竜騎兵の一人。カラスの親友でありよき理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/16/3381_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3381",
+        "categorie": "person"
+      },
+      {
+        "id": "3382",
+        "label": "燕雀",
+        "info": "ラクリマ時空界の竜騎兵。残忍な性格で、カラスのことを嫌っていて、ことあるごとに対立する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/dd/3382_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3382",
+        "categorie": "person"
+      },
+      {
+        "id": "3383",
+        "label": "黑鸢",
+        "info": "竜騎兵の一人。科学技術師官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/68/3383_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3383",
+        "categorie": "person"
+      },
+      {
+        "id": "3384",
+        "label": "莉莉",
+        "info": "上層一般居住区（上層スラム）に住む七歳の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/17/3384_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3384",
+        "categorie": "person"
+      },
+      {
+        "id": "16033",
+        "label": "藤原勇",
+        "info": "ユウの幼馴染で親友。怖いもの知らずの物怖じしない性格だが、幽霊はちょっと苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/cd/16033_crt_O7Y0O.jpg",
+        "link": "https://bgm.tv/character/16033",
+        "categorie": "person"
+      },
+      {
+        "id": "16034",
+        "label": "向井美穗",
+        "info": "メガネがトレードマークの一見文学少女。実は、母娘そろって、大の占い好きのオカルトマニア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/38/16034_crt_adtiL.jpg",
+        "link": "https://bgm.tv/character/16034",
+        "categorie": "person"
+      },
+      {
+        "id": "16035",
+        "label": "后藤美有树",
+        "info": "ユウの母親。ユウを東京の私立中学に入学させようと、ユウを縛り付けて、ハルカたちと付き合わないようにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/5e/16035_crt_E7x3k.jpg",
+        "link": "https://bgm.tv/character/16035",
+        "categorie": "person"
+      },
+      {
+        "id": "16036",
+        "label": "内田凉子",
+        "info": "量子物理学の科学者。時空の歪みを調査するため、函館にやって来た。政府の機関“絶対臨界阻止委員会”のメンバーでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/35/16036_crt_h5hUB.jpg",
+        "link": "https://bgm.tv/character/16036",
+        "categorie": "person"
+      },
+      {
+        "id": "16037",
+        "label": "筱原真琴",
+        "info": "新進の情報通信システム会社の社長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/57/16037_crt_y6AaG.jpg",
+        "link": "https://bgm.tv/character/16037",
+        "categorie": "person"
+      },
+      {
+        "id": "16038",
+        "label": "秧鸡",
+        "info": "竜騎兵の指揮官。高い戦闘能力を誇る。長引くシャングリラとの戦いに厭世的な気分を密かに抱いている。竜騎兵たちはお互いを鳥の名前のコードネームで呼び合う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/df/16038_crt_VYEpW.jpg",
+        "link": "https://bgm.tv/character/16038",
+        "categorie": "person"
+      },
+      {
+        "id": "16039",
+        "label": "鹭",
+        "info": "竜騎兵の一人。竜騎兵の参謀的な役割を果たす。普段は冷静で勝気な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/54/16039_crt_mXwip.jpg",
+        "link": "https://bgm.tv/character/16039",
+        "categorie": "person"
+      },
+      {
+        "id": "16040",
+        "label": "红交嘴雀",
+        "info": "竜騎兵の一人。巨大な体躯で、無口、暗殺術のプロ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/1f/16040_crt_C3We3.jpg",
+        "link": "https://bgm.tv/character/16040",
+        "categorie": "person"
+      },
+      {
+        "id": "16041",
+        "label": "阿玛米库",
+        "info": "ラクリマ時空界、執政局救済委員会の幹部。 救済委員会とはシャングリラ時空界による浸食を防ぐためレイズシュミレーターにより形成される時空間防御壁 『リメス』の維持を任務としている。 ”アマミク”は救済委員会の幹部メンバーになったとき与えられたコードネーム。 ラクリマ時空界で十五年後の長谷部アイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/13/16041_crt_E0M3N.jpg",
+        "link": "https://bgm.tv/character/16041",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

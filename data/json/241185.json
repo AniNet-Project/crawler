@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77739",
+        "label": "缇亚拉",
+        "info": "いつも前向きなムードメーカー。立派な魔女になるため、ウェールランドの第二王女という身分を隠してフローラ女学院に入学。幼なじみのロゼッタが所属する班に加わる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/a6/77739_crt_86tg2.jpg?r=1592642830",
+        "link": "https://bgm.tv/character/77739",
+        "categorie": "person"
+      },
+      {
+        "id": "77740",
+        "label": "洛赛塔",
+        "info": "クールで委員長気質な優等生。ウェールランドでも有数の貴族家系の生まれだが、やや貧乏性な一面を持つ。ティアラとは幼なじみのため、学院ではルームメイトとしてサポートする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/5d/77740_crt_3q3BJ.jpg?r=1594788287",
+        "link": "https://bgm.tv/character/77740",
+        "categorie": "person"
+      },
+      {
+        "id": "77741",
+        "label": "拉薇",
+        "info": "自称“学院のエース”。勉強は苦手だが、スポーツは何でも器用にこなす。お調子者なため真面目なアシュレイと反目し合うこともあるが、それでも仲のいい親友同士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/76/77741_crt_omHM3.jpg?r=1595780039",
+        "link": "https://bgm.tv/character/77741",
+        "categorie": "person"
+      },
+      {
+        "id": "77742",
+        "label": "艾什莉",
+        "info": "騎士道を重んじる生真面目な少女。偉大な騎士の父に憧れ同じ道を歩もうとするが、彼の勧めによって魔女の修行中。服飾職人の母親の影響で、かわいいものには目がない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/17/77742_crt_B33jk.jpg?r=1595779998",
+        "link": "https://bgm.tv/character/77742",
+        "categorie": "person"
+      },
+      {
+        "id": "77744",
+        "label": "莉奈特",
+        "info": "魔導書の蒐集家である祖母の影響で、大の本好きとして育った図書委員。内気で控えめな性格だが、裏ではさまざまな妄想を抱く。人前で輝く魔女に憧れており、魔女オタクでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/f2/77744_crt_wmMqj.jpg?r=1596388435",
+        "link": "https://bgm.tv/character/77744",
+        "categorie": "person"
+      },
+      {
+        "id": "77745",
+        "label": "艾米莉亚",
+        "info": "IV KLOREのリーダー。スタイル抜群のサキュバスで、高飛車な性格をしたお嬢様。あるふぁとは幼いころから主従関係であるが、メイドである彼女にからかわれることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/19/77745_crt_5P755.jpg?r=1597173801",
+        "link": "https://bgm.tv/character/77745",
+        "categorie": "person"
+      },
+      {
+        "id": "77746",
+        "label": "埃尔法",
+        "info": "魔律人形と呼ばれる、魔法仕掛けの機械。エミリアを主として慕っており、彼女のメイドとして学院にやってきた。本人曰く「言語システムに欠陥があるため」やや毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/da/77746_crt_Zfglp.jpg?r=1597575471",
+        "link": "https://bgm.tv/character/77746",
+        "categorie": "person"
+      },
+      {
+        "id": "77747",
+        "label": "赛露莎",
+        "info": "陽気で人懐っこい陸上部のエース。人狼の血を引いておりスポーツ全般、特に走ることが得意で、怪力の持ち主でもある。ユニットは違うが、カエデとは同い年で大の仲良し。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/c2/77747_crt_p3850.jpg?r=1592645577",
+        "link": "https://bgm.tv/character/77747",
+        "categorie": "person"
+      },
+      {
+        "id": "77748",
+        "label": "嘉奈特",
+        "info": "黒髪の幽霊。ただし常に実体化しているせいか、自分が幽霊だと気づいておらず、むしろオバケが大の苦手。壁抜けなど幽霊らしいこともできるが、本人は魔法だと信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/db/77748_crt_HtHj9.jpg?r=1599093103",
+        "link": "https://bgm.tv/character/77748",
+        "categorie": "person"
+      },
+      {
+        "id": "77766",
+        "label": "抚子",
+        "info": "この花は乙女のリーダー。ヤマトからやってきた三姉妹の次女で、天然気味な大和撫子。異国の文化である“ろっく”がお気に入りで、口癖は挨拶代わりの「ろっくんろー♪」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/80/77766_crt_kz69M.jpg?r=1592730263",
+        "link": "https://bgm.tv/character/77766",
+        "categorie": "person"
+      },
+      {
+        "id": "77767",
+        "label": "椿",
+        "info": "ヤマトから留学してきた三姉妹の長女。おしとやかな見た目に反して、他人をからかって楽しむのが好き。ふたりの妹を溺愛するあまり、奇行に走ってカエデから叱られることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/72/77767_crt_a4B61.jpg?r=1592730500",
+        "link": "https://bgm.tv/character/77767",
+        "categorie": "person"
+      },
+      {
+        "id": "77768",
+        "label": "枫",
+        "info": "三姉妹の三女ながら一番のしっかり者で、この花は乙女のツッコミ役。姉たちが変わり者なせいか、頼りになる年上の人に憧れている。占い研究会に所属する占いマニア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/01/77768_crt_yzjjz.jpg?r=1592730920",
+        "link": "https://bgm.tv/character/77768",
+        "categorie": "person"
+      },
+      {
+        "id": "77769",
+        "label": "菈图菈",
+        "info": "シュガーポケッツのリーダーで、裕福な家に生まれたセレブギャル。ただしシツケが厳しくお小遣いが少ないため、アルバイトに励んでいる。重度の魔女オタクでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/37/77769_crt_cmY2r.jpg?r=1592731658",
+        "link": "https://bgm.tv/character/77769",
+        "categorie": "person"
+      },
+      {
+        "id": "77770",
+        "label": "香蓓",
+        "info": "愛らしい見た目と甘え上手な性格で、おもに年上からかわいがられる少女。所属するキャバレ〜部では指名本数ナンバーワン。その愛されぶりから“全校生徒の妹”を自称する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/f5/77770_crt_VMzyU.jpg?r=1592732313",
+        "link": "https://bgm.tv/character/77770",
+        "categorie": "person"
+      },
+      {
+        "id": "77771",
+        "label": "玛莉贝丽",
+        "info": "頭脳明晰で、特にマジックアイテム作りに関しては天才的な腕前を持つ。ただし極度の人見知りのため、普段はベリーボードというマジックアイテムを使って会話することが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/72/77771_crt_nsNRS.jpg?r=1592732663",
+        "link": "https://bgm.tv/character/77771",
+        "categorie": "person"
+      },
+      {
+        "id": "77772",
+        "label": "安吉莉卡",
+        "info": "Sadistic★Candyのリーダー。正体は伝説的なユニット・Rayでロリ魔女として活躍した“あんじぇ”。身長が大幅に伸びてしまったが、魔女としての実力は変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/ba/77772_crt_GrW5B.jpg?r=1592732924",
+        "link": "https://bgm.tv/character/77772",
+        "categorie": "person"
+      },
+      {
+        "id": "77773",
+        "label": "露西菲尔",
+        "info": "高い魔法の才能を持ち、学院の隠れた実力者とウワサされる少女。性格は傲岸不遜で、ボードゲームが大好き。アンジェリカとはケンカすることも多いが、彼女を相棒として認めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/00/77773_crt_ZdmmJ.jpg?r=1592733171",
+        "link": "https://bgm.tv/character/77773",
+        "categorie": "person"
+      },
+      {
+        "id": "77774",
+        "label": "月",
+        "info": "学院のトップユニット、supernovaのリーダー。誰に対してもそっけなく、ティアラに対しては特に厳しい態度を取る。リュウトという国の王女であり、学院随一の歌唱力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/8c/77774_crt_IN6f5.jpg?r=1592733426",
+        "link": "https://bgm.tv/character/77774",
+        "categorie": "person"
+      },
+      {
+        "id": "77775",
+        "label": "米露菲",
+        "info": "女神のような包容力を持ち、誰彼構わず世話を焼きたがる学院のお姉さん的存在。料理が得意で、料理研究会に所属している。いつものほほんとしているが、ダンスの腕前は一級品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/dd/77775_crt_7nL4w.jpg?r=1592733605",
+        "link": "https://bgm.tv/character/77775",
+        "categorie": "person"
+      },
+      {
+        "id": "77776",
+        "label": "费奥娜",
+        "info": "体育会系気質の美術部員。画家を志しており、新たなインスピレーションを得るため学院にやってきた。熱く明るい性格だが、絵画のモデルにしようと生徒に熱っぽく迫るのが玉に瑕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/5b/77776_crt_Zp1ga.jpg?r=1592734068",
+        "link": "https://bgm.tv/character/77776",
+        "categorie": "person"
+      },
+      {
+        "id": "80850",
+        "label": "エリザ",
+        "info": "『真紅の歌姫』と呼ばれたウェールランドの第一王女。現役時代は世界一の魔女として名を馳せていた。明るく大人びた性格で、ティアラとも仲の良い姉妹だったが、なぜか最近は彼女を突き放すような態度を取って……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/96/80850_crt_5aZno.jpg",
+        "link": "https://bgm.tv/character/80850",
+        "categorie": "person"
+      },
+      {
+        "id": "80856",
+        "label": "クロエ",
+        "info": "学院の理事長で、自ら教壇にも立つ女教師。『Ray』での実績を買われ、異例の若さでフローラ女学院のトップに抜擢された。クールな性格だと思われがちだが、実際は生徒や同僚への気配りを忘れない優しい先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/18/80856_crt_Y2Wgi.jpg",
+        "link": "https://bgm.tv/character/80856",
+        "categorie": "person"
+      },
+      {
+        "id": "80857",
+        "label": "あんじぇ",
+        "info": "神童と呼ばれた天才児。アンジェリカの3年ほど前の姿。すさまじくピュアで天真爛漫な性格をしており、『小さな大天使』とも呼ばれていたが、当時の彼女は数年後の自分がどうなるかなど知るよしもなかった……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/1d/80857_crt_4KKtM.jpg",
+        "link": "https://bgm.tv/character/80857",
+        "categorie": "person"
+      },
+      {
+        "id": "80858",
+        "label": "カミラ",
+        "info": "吸血鬼の貴族の令嬢で、『純潔の貴公子』と呼ばれたトップ魔女。多くの女性ファンを持つが、性格は基本的に傲慢で、他者を虜にすることに快感を覚えるドS。ヤマト文化が大好きで、血よりも湯呑みで飲む緑茶を好む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/33/80858_crt_abbyA.jpg",
+        "link": "https://bgm.tv/character/80858",
+        "categorie": "person"
+      },
+      {
+        "id": "80859",
+        "label": "ユズリハ",
+        "info": "“優艶なる舞姫”と呼ばれたヤマトのお姫様で異国文化を愛している。外見はおしとやかな大和撫子だが、極度の女好き。元Rayメンバーでキャバレ〜部の創設者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/9e/80859_crt_TPcXB.jpg",
+        "link": "https://bgm.tv/character/80859",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

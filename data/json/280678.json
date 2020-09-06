@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76068",
+        "label": "鹤木阳渚",
+        "info": "本作の主人公。高校1年生。内向的で運動神経に恵まれない。生き物全般が苦手で、手や足に触れただけで激しく取り乱し、露出した蛸の内臓やマゴチの姿料理を見ただけで失神する。しかし、手先の器用さは引き摺り込まれた「ていぼう部」でも役立っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/75/76068_crt_g4N4F.jpg?r=1586277211",
+        "link": "https://bgm.tv/character/76068",
+        "categorie": "person"
+      },
+      {
+        "id": "76070",
+        "label": "帆高夏海",
+        "info": "陽渚の小学校時代の友達。高校1年生。どういう経緯でか彼女と同じ学校に入り「ていぼう部」の部員に収まっている。毎年、夏は日に焼けているらしい。陽渚とは対照的に陽気で順応力が高く、部活に馴染んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/4e/76070_crt_lP2Po.jpg?r=1586947176",
+        "link": "https://bgm.tv/character/76070",
+        "categorie": "person"
+      },
+      {
+        "id": "76069",
+        "label": "黑岩悠希",
+        "info": "「ていぼう部」部長。高校3年生。気だるげで飄々とした態度が目立つが、陽渚を勧誘した張本人であり、それなりに遣り手な性格が窺える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/31/76069_crt_Ki00N.jpg?r=1595689009",
+        "link": "https://bgm.tv/character/76069",
+        "categorie": "person"
+      },
+      {
+        "id": "76071",
+        "label": "大野真",
+        "info": "「ていぼう部」部員。高校2年生。眼鏡をかけた口数の少ない大柄な女子で、一見近寄り難い雰囲気を醸し出しているが、大人しく真面目な常識人。家は鮮魚店で、釣りだけでなく調理も得意であるが、実はカナヅチである。巨乳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/24/76071_crt_0h4Z8.jpg?r=1586277294",
+        "link": "https://bgm.tv/character/76071",
+        "categorie": "person"
+      },
+      {
+        "id": "78882",
+        "label": "小谷沙耶香",
+        "info": "「ていぼう部」顧問。養護教諭。自前の自動車（5人乗りピックアップトラック）で部員をサポートする一方で、部員が釣った魚等を肴に部室で酒を飲み、酔って部員に絡む悪癖がある。自分で釣りはしないが、わな猟専門の猟師をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/43/78882_crt_CwbCB.jpg?r=1596811949",
+        "link": "https://bgm.tv/character/78882",
+        "categorie": "person"
+      },
+      {
+        "id": "79522",
+        "label": "阳渚的母亲",
+        "info": "阳渚的妈妈",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/fb/79522_crt_3MyMv.jpg?r=1597333214",
+        "link": "https://bgm.tv/character/79522",
+        "categorie": "person"
+      },
+      {
+        "id": "80849",
+        "label": "夏海的母亲",
+        "info": "夏海的妈妈",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/20/80849_crt_IU3xK.jpg?r=1597826754",
+        "link": "https://bgm.tv/character/80849",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

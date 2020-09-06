@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34441",
+        "label": "阳向",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/a5/34441_crt_6rrI3.jpg",
+        "link": "https://bgm.tv/character/34441",
+        "categorie": "person"
+      },
+      {
+        "id": "34442",
+        "label": "时雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/29/34442_crt_j55Ky.jpg",
+        "link": "https://bgm.tv/character/34442",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

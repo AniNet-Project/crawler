@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37904",
+        "label": "朝日奈未来／奇迹天使",
+        "info": "もうすぐ中学２年生になる１３歳の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/de/37904_crt_6769M.jpg?r=1452005778",
+        "link": "https://bgm.tv/character/37904",
+        "categorie": "person"
+      },
+      {
+        "id": "37913",
+        "label": "十六夜莉可／魔力天使",
+        "info": "「魔法学校」に通う女の子。みらいと同じ１３歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/4a/37913_crt_dz8E3.jpg?r=1452006200",
+        "link": "https://bgm.tv/character/37913",
+        "categorie": "person"
+      },
+      {
+        "id": "37914",
+        "label": "莫夫伦",
+        "info": "みらいが小さいころに、おばあちゃんのかの子にもらったぬいぐるみ。みらいはとっても大切にしていて、どこに行くのもモフルンと一緒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/4c/37914_crt_6Tt1h.jpg?r=1452006996",
+        "link": "https://bgm.tv/character/37914",
+        "categorie": "person"
+      },
+      {
+        "id": "39105",
+        "label": "花海言叶／幸福天使",
+        "info": "普通的妖精女孩子，后长大、成长为继承了未来的好奇心和莉可的努力之处等的少女。成为了第三人的光之美少女——『幸福天使（Cure Felice）』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/b5/39105_crt_UbUee.jpg?r=1455885509",
+        "link": "https://bgm.tv/character/39105",
+        "categorie": "person"
+      },
+      {
+        "id": "39106",
+        "label": "校长",
+        "info": "「魔法学校」の校長先生。「魔法界」の偉大な魔法つかい。年齢はナゾ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/d7/39106_crt_ohpq7.jpg?r=1455885667",
+        "link": "https://bgm.tv/character/39106",
+        "categorie": "person"
+      },
+      {
+        "id": "39107",
+        "label": "副校长",
+        "info": "魔法学校の教頭先生。学校の規律と校則を第一に考える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/73/39107_crt_A0WWN.jpg?r=1455885779",
+        "link": "https://bgm.tv/character/39107",
+        "categorie": "person"
+      },
+      {
+        "id": "39108",
+        "label": "朝日奈今日子",
+        "info": "みらいの母親。パワーストーンのショップを営んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ee/39108_crt_jBz27.jpg?r=1455886315",
+        "link": "https://bgm.tv/character/39108",
+        "categorie": "person"
+      },
+      {
+        "id": "39109",
+        "label": "结希彼乃子",
+        "info": "みらいの祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ee/39109_crt_nFboW.jpg?r=1455886329",
+        "link": "https://bgm.tv/character/39109",
+        "categorie": "person"
+      },
+      {
+        "id": "39110",
+        "label": "巴迪",
+        "info": "「ドクロクシー」の手下。ドクロクシーによって生み出されたコウモリ男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/36/39110_crt_fzNGM.jpg?r=1455887982",
+        "link": "https://bgm.tv/character/39110",
+        "categorie": "person"
+      },
+      {
+        "id": "39111",
+        "label": "贪心鬼",
+        "info": "ドクロクシーの手下たちが使う闇の魔法によって合成された怪物。２つのモノを合わせて作り出される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/59/39111_crt_32EZl.jpg?r=1455888222",
+        "link": "https://bgm.tv/character/39111",
+        "categorie": "person"
+      },
+      {
+        "id": "39414",
+        "label": "丽兹",
+        "info": "リコの姉。魔法学校を主席で卒業し、魔法学校の先生を目指している。現在は教育実習生として魔法学校で生徒の指導にあたっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/0f/39414_crt_TehDK.jpg?r=1457756098",
+        "link": "https://bgm.tv/character/39414",
+        "categorie": "person"
+      },
+      {
+        "id": "39415",
+        "label": "斯巴尔达",
+        "info": "「ドクロクシー」の手下。ドクロクシーによって生み出されたクモ女。「リンクルストーン・エメラルド』を手に入れるために、罠をしかけたり、プリキュアをおとしいれる策士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/b0/39415_crt_81xKk.jpg",
+        "link": "https://bgm.tv/character/39415",
+        "categorie": "person"
+      },
+      {
+        "id": "39416",
+        "label": "魔法水晶",
+        "info": "校長先生の持つ水晶玉。気分屋で高飛車なところもあるが、校長のよき理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/3f/39416_crt_929iD.jpg",
+        "link": "https://bgm.tv/character/39416",
+        "categorie": "person"
+      },
+      {
+        "id": "72466",
+        "label": "ドクロクシー",
+        "info": "闇の魔法つかいをひきいる首領で、配下からは「偉大な闇の魔法つかい」と慕われている。ドクロのような身体が特徴。一人称は「われ」で、老人のような口調で話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/68/72466_crt_705bR.jpg",
+        "link": "https://bgm.tv/character/72466",
+        "categorie": "person"
+      },
+      {
+        "id": "72469",
+        "label": "ガメッツ",
+        "info": "ドクロクシーに仕えるカメを素体とした男性怪人。瞳がない橙色の目と水色の肌をしており、カメの甲羅のような背中が特徴。一人称は「われ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/1f/72469_crt_LLyyc.jpg",
+        "link": "https://bgm.tv/character/72469",
+        "categorie": "person"
+      },
+      {
+        "id": "72470",
+        "label": "ジュン",
+        "info": "魔法学校の生徒。13歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/7e/72470_crt_CibOI.jpg",
+        "link": "https://bgm.tv/character/72470",
+        "categorie": "person"
+      },
+      {
+        "id": "72471",
+        "label": "ケイ",
+        "info": "魔法学校の生徒。13歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/a1/72471_crt_Fn7A6.jpg",
+        "link": "https://bgm.tv/character/72471",
+        "categorie": "person"
+      },
+      {
+        "id": "72472",
+        "label": "エミリー",
+        "info": "魔法学校の生徒。13歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/71/72472_crt_II8ez.jpg",
+        "link": "https://bgm.tv/character/72472",
+        "categorie": "person"
+      },
+      {
+        "id": "72473",
+        "label": "勝木かな",
+        "info": "みらいとリコが魔法を使うところをたまたま見てしまい、",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/a2/72473_crt_cPhNI.jpg",
+        "link": "https://bgm.tv/character/72473",
+        "categorie": "person"
+      },
+      {
+        "id": "72474",
+        "label": "長瀬まゆみ",
+        "info": "みらいと仲の良い友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/62/72474_crt_hy7Ff.jpg",
+        "link": "https://bgm.tv/character/72474",
+        "categorie": "person"
+      },
+      {
+        "id": "72476",
+        "label": "大野壮太",
+        "info": "みらいとは小学校から一緒の男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/a1/72476_crt_HacZB.jpg",
+        "link": "https://bgm.tv/character/72476",
+        "categorie": "person"
+      },
+      {
+        "id": "72477",
+        "label": "並木ゆうと",
+        "info": "みらいのクラスメイト。メガネをかけた理系男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/59/72477_crt_Y3134.jpg",
+        "link": "https://bgm.tv/character/72477",
+        "categorie": "person"
+      },
+      {
+        "id": "72478",
+        "label": "アイザック",
+        "info": "魔法学校の先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/5c/72478_crt_aTVad.jpg",
+        "link": "https://bgm.tv/character/72478",
+        "categorie": "person"
+      },
+      {
+        "id": "72479",
+        "label": "フランソワ",
+        "info": "魔法商店街の服屋さん。腕はいいがちょっとお節介。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/dd/72479_crt_trXXX.jpg",
+        "link": "https://bgm.tv/character/72479",
+        "categorie": "person"
+      },
+      {
+        "id": "72480",
+        "label": "グスタフ",
+        "info": "魔法商店街のほうき屋の主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/62/72480_crt_thZmT.jpg",
+        "link": "https://bgm.tv/character/72480",
+        "categorie": "person"
+      },
+      {
+        "id": "72481",
+        "label": "トッド",
+        "info": "青果店で働く青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/44/72481_crt_c0mmr.jpg",
+        "link": "https://bgm.tv/character/72481",
+        "categorie": "person"
+      },
+      {
+        "id": "72482",
+        "label": "フック",
+        "info": "伝説好きのおじいさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/31/72482_crt_lYHjx.jpg",
+        "link": "https://bgm.tv/character/72482",
+        "categorie": "person"
+      },
+      {
+        "id": "72483",
+        "label": "ロレッタ",
+        "info": "人魚の里に住む、とても美しい声をもつ人魚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/5c/72483_crt_I5YFx.jpg",
+        "link": "https://bgm.tv/character/72483",
+        "categorie": "person"
+      },
+      {
+        "id": "72484",
+        "label": "朝日奈大吉",
+        "info": "みらいの父親。家電メーカーに勤めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/ab/72484_crt_tbMyy.jpg",
+        "link": "https://bgm.tv/character/72484",
+        "categorie": "person"
+      },
+      {
+        "id": "72485",
+        "label": "高木",
+        "info": "みらいとリコのクラスの担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/2f/72485_crt_yyTjR.jpg",
+        "link": "https://bgm.tv/character/72485",
+        "categorie": "person"
+      },
+      {
+        "id": "72486",
+        "label": "リアン",
+        "info": "リコの父親。魔法界の考古学者。校長先生の依頼で、よみがえるとされる「災い」の手がかりを求め、世界各地を調査している。少しズレたところも？",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/9e/72486_crt_50z9z.jpg",
+        "link": "https://bgm.tv/character/72486",
+        "categorie": "person"
+      },
+      {
+        "id": "72487",
+        "label": "リリア",
+        "info": "リコの母親。料理研究家で、ナシマホウ界の料理番組にレギュラーをもつ。毎年、リコの誕生日には魔法界に伝わるおとぎ話を読み聞かせてあげていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/d3/72487_crt_foX4o.jpg",
+        "link": "https://bgm.tv/character/72487",
+        "categorie": "person"
+      },
+      {
+        "id": "72488",
+        "label": "ドロシー",
+        "info": "人魚の里に住む子供の人魚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/df/72488_crt_0pP54.jpg",
+        "link": "https://bgm.tv/character/72488",
+        "categorie": "person"
+      },
+      {
+        "id": "72489",
+        "label": "ナンシー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/39/72489_crt_7NW64.jpg",
+        "link": "https://bgm.tv/character/72489",
+        "categorie": "person"
+      },
+      {
+        "id": "72490",
+        "label": "シシー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/bc/72490_crt_3Jr2x.jpg",
+        "link": "https://bgm.tv/character/72490",
+        "categorie": "person"
+      },
+      {
+        "id": "72491",
+        "label": "チクルン",
+        "info": "花の里の妖精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/84/72491_crt_Z0BMb.jpg",
+        "link": "https://bgm.tv/character/72491",
+        "categorie": "person"
+      },
+      {
+        "id": "72492",
+        "label": "ヤモー",
+        "info": "「ドクロクシー」の側近。ドクロクシーによって生み出されたヤモリ男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/ac/72492_crt_4fW7Z.jpg",
+        "link": "https://bgm.tv/character/72492",
+        "categorie": "person"
+      },
+      {
+        "id": "72493",
+        "label": "ラブー",
+        "info": "ナシマホウ界の遺跡で見つかったランプから目覚めた怪物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/e6/72493_crt_71Khd.jpg",
+        "link": "https://bgm.tv/character/72493",
+        "categorie": "person"
+      },
+      {
+        "id": "72494",
+        "label": "シャーキンス",
+        "info": "石像から目覚めた怪物。終わりなき混沌・デウスマストの眷属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/d8/72494_crt_Xn44q.jpg",
+        "link": "https://bgm.tv/character/72494",
+        "categorie": "person"
+      },
+      {
+        "id": "72495",
+        "label": "ベニーギョ",
+        "info": "ラブーにおくれて土偶のような土器から目覚めた怪物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/5c/72495_crt_xkKp5.jpg",
+        "link": "https://bgm.tv/character/72495",
+        "categorie": "person"
+      },
+      {
+        "id": "72496",
+        "label": "オルーバ",
+        "info": "ラブー、シャーキンス、ベニーギョとは別に目覚めていた、",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/29/72496_crt_AKYRF.jpg",
+        "link": "https://bgm.tv/character/72496",
+        "categorie": "person"
+      },
+      {
+        "id": "49925",
+        "label": "宇佐美一花／奶油天使",
+        "info": "スイーツが大好きな、明るくお調子者の中学2年生。感受性豊かで、うれしいと跳びはねるクセがあるところはまるで「うさぎ」のよう。いつも失敗ばかりだが…スイーツデコレーションには自信あり！？直感とひらめきを活かしたアニマルスイーツを次々に生み出す！うさぎショートケーキのプリキュア「キュアホイップ」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/11/49925_crt_Ef6FA.jpg?r=1492648292",
+        "link": "https://bgm.tv/character/49925",
+        "categorie": "person"
+      },
+      {
+        "id": "72464",
+        "label": "ソルシエール",
+        "info": "本作品の事件の首謀者である、強大な魔力をもつ18歳の魔女。赤紫色のロングヘアに色白の肌が特徴。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/4c/72464_crt_5UB59.jpg?r=1571850076",
+        "link": "https://bgm.tv/character/72464",
+        "categorie": "person"
+      },
+      {
+        "id": "72497",
+        "label": "クマタ",
+        "info": "モフルンが連れ去られた先の不思議な森にひとりぼっちで住む、首に赤いスカーフを巻いた黒いクマの男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/02/72497_crt_9qT3t.jpg?r=1571870478",
+        "link": "https://bgm.tv/character/72497",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

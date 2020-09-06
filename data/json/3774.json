@@ -1,0 +1,493 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "466",
+        "label": "平泽唯",
+        "info": "主人公。轻音部主唱，同时兼任吉他手，因误解而加入轻音部，刚入轻音部时是位连乐谱也看不懂的新人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/ad/466_crt_88PiY.jpg?r=1559158639",
+        "link": "https://bgm.tv/character/466",
+        "categorie": "person"
+      },
+      {
+        "id": "467",
+        "label": "秋山澪",
+        "info": "秋山 澪（日语：秋山 澪，あきやま みお，Akiyama Mio）是《轻音少女》（K-ON!）的女主角之一。轻音部的电贝斯手及合唱（有时也会担任主唱）。会写出很肉麻、可爱、甜蜜的歌词，学习一级棒（曾被律视为考试时的救星），唱歌（被许多人夸声音非常优美）。是一个左撇子，眼角稍稍挑起，有着到腰长度的黑发。是轻音部中唯一有后援会的部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/b7/467_crt_zkqLQ.jpg?r=1594919600",
+        "link": "https://bgm.tv/character/467",
+        "categorie": "person"
+      },
+      {
+        "id": "468",
+        "label": "田井中律",
+        "info": "轻音部的部长及鼓手。有着茶色的头发，且用发箍把额前的浏海箍起，露出额头。冬季制服为解开外套的衣钮，且不把袖衫的末端放进裙筒内。夏季时也是一样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/86/468_crt_7Ufpp.jpg?r=1559158708",
+        "link": "https://bgm.tv/character/468",
+        "categorie": "person"
+      },
+      {
+        "id": "469",
+        "label": "琴吹䌷",
+        "info": "轻音部的电子琴手。眉毛很粗，有着天然卷的长至腰的头发。发色是浅啡色，瞳孔是深青色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/14/469_crt_KbXGS.jpg?r=1559158816",
+        "link": "https://bgm.tv/character/469",
+        "categorie": "person"
+      },
+      {
+        "id": "604",
+        "label": "中野梓",
+        "info": "轻音部的第二电吉他手，有着身材短小的体格，稍稍青色的黑发并扎成双马尾。瞳孔的颜色是茶红色，与澪的相似度高达了九成。一年级时听了轻音部于去年学园祭表演的录音，崇拜负责吉他的小唯，加入轻音部，被律任命为书记。升上三年级之后成为轻音部的社长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/89/604_crt_UzSPf.jpg?r=1559158855",
+        "link": "https://bgm.tv/character/604",
+        "categorie": "person"
+      },
+      {
+        "id": "470",
+        "label": "山中佐和子",
+        "info": "樱丘高中的音乐教师，同时为管乐社及轻音部的顾问。年龄没有明确提及（大概25岁），但在隐藏性格被揭开后的回想确定了学生时期是8年前的事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/24/470_crt_1O5m2.jpg?r=1559158882",
+        "link": "https://bgm.tv/character/470",
+        "categorie": "person"
+      },
+      {
+        "id": "471",
+        "label": "真锅和",
+        "info": "有着深红棕色的短发，动画中配戴着红色的无顶框眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/7d/471_crt_qXgtQ.jpg?r=1559158926",
+        "link": "https://bgm.tv/character/471",
+        "categorie": "person"
+      },
+      {
+        "id": "472",
+        "label": "平泽忧",
+        "info": "唯的妹妹。与姐姐也是有着强烈对比的性格，认真、懂礼仪及常常为姐姐处理家头细务等事；但也有部分性格和姊姊完全一样。在漫画第2卷及动画第1季第8话进入了樱丘高中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/90/472_crt_c3Wd8.jpg?r=1559158968",
+        "link": "https://bgm.tv/character/472",
+        "categorie": "person"
+      },
+      {
+        "id": "23843",
+        "label": "铃木纯",
+        "info": "忧的朋友，和忧就读于同一所初中，后来与忧一同考入樱丘高中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/e3/23843_crt_zV2n1.jpg?r=1559159026",
+        "link": "https://bgm.tv/character/23843",
+        "categorie": "person"
+      },
+      {
+        "id": "42543",
+        "label": "田井中聪",
+        "info": "律の弟で、中学生。姉の律との姉弟関係は良好である。（律によると）「反抗期」の中学生らしく、姉の友人（軽音部）が全員で家を訪問した際はトイレに隠れた。姉と幼なじみである澪とは面識があり、「よっ、聡!」と親しく呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/8b/42543_crt_JMHCM.jpg",
+        "link": "https://bgm.tv/character/42543",
+        "categorie": "person"
+      },
+      {
+        "id": "42546",
+        "label": "川上小姐",
+        "info": "放課後ティータイムが初参加したライブハウスのマネージャー。口元にホクロがある。さわ子の同級生であり、彼女もまた元軽音部員であった。愛称は「ジャニス」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/c2/42546_crt_oB5Rl.jpg?r=1466007045",
+        "link": "https://bgm.tv/character/42546",
+        "categorie": "person"
+      },
+      {
+        "id": "43806",
+        "label": "若王子一恋",
+        "info": "3年2班的学生，体操部部长。双螺旋式的栗色发型，洋娃娃一般的容貌，是大家公认的美少女。被田井中律评价为：长得像公主一样可爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/f2/43806_crt_lz9Yj.jpg?r=1470102183",
+        "link": "https://bgm.tv/character/43806",
+        "categorie": "person"
+      },
+      {
+        "id": "43807",
+        "label": "泷绘理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/18/43807_crt_8NEfF.jpg",
+        "link": "https://bgm.tv/character/43807",
+        "categorie": "person"
+      },
+      {
+        "id": "43808",
+        "label": "佐佐木曜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/b2/43808_crt_Hs5YC.jpg",
+        "link": "https://bgm.tv/character/43808",
+        "categorie": "person"
+      },
+      {
+        "id": "43809",
+        "label": "木村文惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/2f/43809_crt_V4SpX.jpg",
+        "link": "https://bgm.tv/character/43809",
+        "categorie": "person"
+      },
+      {
+        "id": "43810",
+        "label": "清水响子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/35/43810_crt_yVCoE.jpg",
+        "link": "https://bgm.tv/character/43810",
+        "categorie": "person"
+      },
+      {
+        "id": "43811",
+        "label": "立花姬子",
+        "info": "坐在平泽唯邻座的女孩子，垒球校队的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/9f/43811_crt_71hnX.jpg",
+        "link": "https://bgm.tv/character/43811",
+        "categorie": "person"
+      },
+      {
+        "id": "43814",
+        "label": "松本美冬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/b0/43814_crt_783MS.jpg",
+        "link": "https://bgm.tv/character/43814",
+        "categorie": "person"
+      },
+      {
+        "id": "43815",
+        "label": "冈田春菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/e7/43815_crt_e67C1.jpg?r=1470119900",
+        "link": "https://bgm.tv/character/43815",
+        "categorie": "person"
+      },
+      {
+        "id": "43825",
+        "label": "佐藤茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/dd/43825_crt_67E4G.jpg?r=1470124520",
+        "link": "https://bgm.tv/character/43825",
+        "categorie": "person"
+      },
+      {
+        "id": "43828",
+        "label": "高桥风子",
+        "info": "3年2班的班长，动画原创角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/76/43828_crt_oXZeh.jpg",
+        "link": "https://bgm.tv/character/43828",
+        "categorie": "person"
+      },
+      {
+        "id": "43830",
+        "label": "卷上纪美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/5e/43830_crt_2fbt6.jpg?r=1470127165",
+        "link": "https://bgm.tv/character/43830",
+        "categorie": "person"
+      },
+      {
+        "id": "43831",
+        "label": "饭田庆子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/17/43831_crt_c0XFn.jpg?r=1470138443",
+        "link": "https://bgm.tv/character/43831",
+        "categorie": "person"
+      },
+      {
+        "id": "43839",
+        "label": "中岛信代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/fa/43839_crt_Zm7k7.jpg",
+        "link": "https://bgm.tv/character/43839",
+        "categorie": "person"
+      },
+      {
+        "id": "43848",
+        "label": "宫本哲世",
+        "info": "头发为深绿色，是一个扎着马尾发型的眼镜少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/cd/43848_crt_lhv06.jpg",
+        "link": "https://bgm.tv/character/43848",
+        "categorie": "person"
+      },
+      {
+        "id": "43849",
+        "label": "小矶司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/5b/43849_crt_Zs2O3.jpg",
+        "link": "https://bgm.tv/character/43849",
+        "categorie": "person"
+      },
+      {
+        "id": "43852",
+        "label": "佐伯三花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/43/43852_crt_5Pn9I.jpg",
+        "link": "https://bgm.tv/character/43852",
+        "categorie": "person"
+      },
+      {
+        "id": "43853",
+        "label": "岛千鹤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/44/43853_crt_Hyiw4.jpg",
+        "link": "https://bgm.tv/character/43853",
+        "categorie": "person"
+      },
+      {
+        "id": "43869",
+        "label": "樱井夏香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/f0/43869_crt_Bh8o2.jpg?r=1470208289",
+        "link": "https://bgm.tv/character/43869",
+        "categorie": "person"
+      },
+      {
+        "id": "43870",
+        "label": "太田潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/ec/43870_crt_DnrWK.jpg?r=1470208485",
+        "link": "https://bgm.tv/character/43870",
+        "categorie": "person"
+      },
+      {
+        "id": "43875",
+        "label": "野岛千佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ac/43875_crt_UociX.jpg?r=1470215340",
+        "link": "https://bgm.tv/character/43875",
+        "categorie": "person"
+      },
+      {
+        "id": "43877",
+        "label": "近田春子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/8c/43877_crt_w7I1j.jpg?r=1470215869",
+        "link": "https://bgm.tv/character/43877",
+        "categorie": "person"
+      },
+      {
+        "id": "43878",
+        "label": "木下静香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/b0/43878_crt_8Nl9P.jpg?r=1470216236",
+        "link": "https://bgm.tv/character/43878",
+        "categorie": "person"
+      },
+      {
+        "id": "43879",
+        "label": "砂原佳美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/49/43879_crt_rQ50Z.jpg",
+        "link": "https://bgm.tv/character/43879",
+        "categorie": "person"
+      },
+      {
+        "id": "43880",
+        "label": "佐野圭子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/66/43880_crt_B78Ee.jpg?r=1470216658",
+        "link": "https://bgm.tv/character/43880",
+        "categorie": "person"
+      },
+      {
+        "id": "43881",
+        "label": "柴矢俊美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/53/43881_crt_5ZZQp.jpg",
+        "link": "https://bgm.tv/character/43881",
+        "categorie": "person"
+      },
+      {
+        "id": "43889",
+        "label": "崛迂老师",
+        "info": "樱丘高中的古文老师，戴假发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/26/43889_crt_9902l.jpg?r=1470670885",
+        "link": "https://bgm.tv/character/43889",
+        "categorie": "person"
+      },
+      {
+        "id": "42581",
+        "label": "小豚",
+        "info": "为了升上高二后没有后辈的梓，以佐和子的旧吉他所换购的钱而买的猪鼻龟(其实梓根本没想要，唯自己认为梓想要)，养于社团内的水族箱，平时由梓照顾，非常受唯喜爱。是轻音部大家的重要朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1a/42581_crt_5b5Ut.jpg?r=1474112428",
+        "link": "https://bgm.tv/character/42581",
+        "categorie": "person"
+      },
+      {
+        "id": "43847",
+        "label": "远藤未知子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c7/43847_crt_cCo81.jpg?r=1470141565",
+        "link": "https://bgm.tv/character/43847",
+        "categorie": "person"
+      },
+      {
+        "id": "42567",
+        "label": "柔道部部長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e9/42567_crt_gttlk.jpg?r=1466069777",
+        "link": "https://bgm.tv/character/42567",
+        "categorie": "person"
+      },
+      {
+        "id": "42582",
+        "label": "摄影师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/0a/42582_crt_OGSm6.jpg?r=1466089974",
+        "link": "https://bgm.tv/character/42582",
+        "categorie": "person"
+      },
+      {
+        "id": "42583",
+        "label": "巫女さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/8f/42583_crt_IFj0C.jpg?r=1466093401",
+        "link": "https://bgm.tv/character/42583",
+        "categorie": "person"
+      },
+      {
+        "id": "42584",
+        "label": "父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/43/42584_crt_z6BSS.jpg",
+        "link": "https://bgm.tv/character/42584",
+        "categorie": "person"
+      },
+      {
+        "id": "43427",
+        "label": "曾我部恵",
+        "info": "樱丘高中的前学生会长（在唯她们2年级的时候），言谈有礼，与和同样地拥有聪明的外表，不过其实是澪的爱好者，并是唯她们1年级的学园祭后所建立的澪后援会的会长。对于轻音部部员放学后经常喝茶及其质量，以及对轻音部的详细资料也了解。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/07/43427_crt_7H1sA.jpg",
+        "link": "https://bgm.tv/character/43427",
+        "categorie": "person"
+      },
+      {
+        "id": "43428",
+        "label": "一文字富",
+        "info": "平泽家的邻居婆婆，有着非常温和的性格，从平泽姐妹与和儿时就很照顾她们。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/bb/43428_crt_ZP5uL.jpg",
+        "link": "https://bgm.tv/character/43428",
+        "categorie": "person"
+      },
+      {
+        "id": "43429",
+        "label": "河口纪美",
+        "info": "当时轻音部的乐团“DEATH DEVIL”成员之一，昵称Christina。曾拜托轻音部说服佐和子为高中同学婚礼演出。吉他技术与佐和子不相上下。性格幽默，爱开玩笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/fa/43429_crt_5N7LY.jpg?r=1468682414",
+        "link": "https://bgm.tv/character/43429",
+        "categorie": "person"
+      },
+      {
+        "id": "43722",
+        "label": "天気キャスター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/53/43722_crt_wtQ1D.jpg?r=1469765291",
+        "link": "https://bgm.tv/character/43722",
+        "categorie": "person"
+      },
+      {
+        "id": "43787",
+        "label": "店员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/6c/43787_crt_k2P4o.jpg?r=1470038956",
+        "link": "https://bgm.tv/character/43787",
+        "categorie": "person"
+      },
+      {
+        "id": "43850",
+        "label": "土屋爱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/22/43850_crt_NR1kg.jpg",
+        "link": "https://bgm.tv/character/43850",
+        "categorie": "person"
+      },
+      {
+        "id": "43867",
+        "label": "女性職員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/1f/43867_crt_sxl7M.jpg?r=1470156356",
+        "link": "https://bgm.tv/character/43867",
+        "categorie": "person"
+      },
+      {
+        "id": "43884",
+        "label": "启介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b8/43884_crt_4Bk26.jpg?r=1470218881",
+        "link": "https://bgm.tv/character/43884",
+        "categorie": "person"
+      },
+      {
+        "id": "43885",
+        "label": "冲山阳二",
+        "info": "樱丘高中的校长。有着一头白色的烫卷式头发，相貌看起来和善，且是刚进入老年的男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/f4/43885_crt_fZsXP.jpg?r=1470219290",
+        "link": "https://bgm.tv/character/43885",
+        "categorie": "person"
+      },
+      {
+        "id": "43786",
+        "label": "店长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/e7/43786_crt_Bo6eH.jpg?r=1470038924",
+        "link": "https://bgm.tv/character/43786",
+        "categorie": "person"
+      },
+      {
+        "id": "43816",
+        "label": "三浦一子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/4e/43816_crt_rzxnc.jpg",
+        "link": "https://bgm.tv/character/43816",
+        "categorie": "person"
+      },
+      {
+        "id": "43827",
+        "label": "和岛真希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/0b/43827_crt_2mLQy.jpg",
+        "link": "https://bgm.tv/character/43827",
+        "categorie": "person"
+      },
+      {
+        "id": "43829",
+        "label": "菊池多惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/7a/43829_crt_3n41J.jpg",
+        "link": "https://bgm.tv/character/43829",
+        "categorie": "person"
+      },
+      {
+        "id": "43851",
+        "label": "矢田真澄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/ea/43851_crt_64al8.jpg",
+        "link": "https://bgm.tv/character/43851",
+        "categorie": "person"
+      },
+      {
+        "id": "43876",
+        "label": "佐久间英子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/34/43876_crt_YcyCt.jpg",
+        "link": "https://bgm.tv/character/43876",
+        "categorie": "person"
+      },
+      {
+        "id": "43882",
+        "label": "中西敏美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/40/43882_crt_gDiiB.jpg",
+        "link": "https://bgm.tv/character/43882",
+        "categorie": "person"
+      },
+      {
+        "id": "43886",
+        "label": "米山康太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/96/43886_crt_Cf8Lu.jpg?r=1470219954",
+        "link": "https://bgm.tv/character/43886",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

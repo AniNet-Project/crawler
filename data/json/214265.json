@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64712",
+        "label": "爱城华恋",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号1番",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/09/64712_crt_4JDnU.jpg?r=1531722744",
+        "link": "https://bgm.tv/character/64712",
+        "categorie": "person"
+      },
+      {
+        "id": "64713",
+        "label": "神乐光",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号29番（転入）",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/81/64713_crt_WirqV.jpg?r=1531722895",
+        "link": "https://bgm.tv/character/64713",
+        "categorie": "person"
+      },
+      {
+        "id": "64714",
+        "label": "天堂真矢",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号18番",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/f6/64714_crt_PLL77.jpg?r=1531647875",
+        "link": "https://bgm.tv/character/64714",
+        "categorie": "person"
+      },
+      {
+        "id": "64715",
+        "label": "星见纯那",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号25番",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/8f/64715_crt_Bv1Tx.jpg?r=1533455105",
+        "link": "https://bgm.tv/character/64715",
+        "categorie": "person"
+      },
+      {
+        "id": "64716",
+        "label": "露崎真昼",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号17番",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/a0/64716_crt_KkkSk.jpg?r=1533455428",
+        "link": "https://bgm.tv/character/64716",
+        "categorie": "person"
+      },
+      {
+        "id": "64717",
+        "label": "大场奈奈",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号15番",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/bf/64717_crt_N8kbI.jpg?r=1534512781",
+        "link": "https://bgm.tv/character/64717",
+        "categorie": "person"
+      },
+      {
+        "id": "64718",
+        "label": "西条克洛迪娜",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号11番",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/52/64718_crt_PN11l.jpg?r=1535709608",
+        "link": "https://bgm.tv/character/64718",
+        "categorie": "person"
+      },
+      {
+        "id": "64719",
+        "label": "石动双叶",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号2番",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/8a/64719_crt_wIuPB.jpg?r=1535713801",
+        "link": "https://bgm.tv/character/64719",
+        "categorie": "person"
+      },
+      {
+        "id": "64720",
+        "label": "花柳香子",
+        "info": "聖翔音楽学園　99期　俳優育成科　出席番号22番",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/d7/64720_crt_5oG86.jpg?r=1536329297",
+        "link": "https://bgm.tv/character/64720",
+        "categorie": "person"
+      },
+      {
+        "id": "65745",
+        "label": "长颈鹿",
+        "info": "地上で最も背が高く、首の長い草食動物。偶蹄目キリン科キリン属。わかります。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/a3/65745_crt_PYzpn.jpg",
+        "link": "https://bgm.tv/character/65745",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

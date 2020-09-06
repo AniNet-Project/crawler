@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49600",
+        "label": "莉可",
+        "info": "居住于贝尔切罗孤儿院，向往深渊阿比斯的新手探窟家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/b1/49600_crt_up2e4.jpg?r=1515127883",
+        "link": "https://bgm.tv/character/49600",
+        "categorie": "person"
+      },
+      {
+        "id": "49601",
+        "label": "雷格",
+        "info": "登场于第2话。身份不明，自己也失去记忆的机器人，被莉可命名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/dc/49601_crt_PfqEH.jpg?r=1515128242",
+        "link": "https://bgm.tv/character/49601",
+        "categorie": "person"
+      },
+      {
+        "id": "55960",
+        "label": "奥森",
+        "info": "白笛。不动卿，不动如山的奥森。于第10话被第一次提及。长期驻扎于深界二层的监视基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/87/55960_crt_I94Jy.jpg?r=1502596425",
+        "link": "https://bgm.tv/character/55960",
+        "categorie": "person"
+      },
+      {
+        "id": "56783",
+        "label": "玛露露库",
+        "info": "登场于第12话。奥森的弟子，和奥森一同驻扎在监视基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/f7/56783_crt_Z3p3E.jpg",
+        "link": "https://bgm.tv/character/56783",
+        "categorie": "person"
+      },
+      {
+        "id": "56839",
+        "label": "纳特",
+        "info": "登场于第1话。贝尔切罗孤儿院的孩子，莉可的好友，出身于奥斯南区岸壁街的贫民窟。梦想是成为月笛，在贫民窟建立孤儿院。有一个姐姐，长得很像莉可，但已经去世。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/f1/56839_crt_S8Y0m.jpg?r=1515129154",
+        "link": "https://bgm.tv/character/56839",
+        "categorie": "person"
+      },
+      {
+        "id": "30757",
+        "label": "西奇",
+        "info": "登场于第1话。贝尔切罗孤儿院的孩子，莉可的好友，莉可称他“明明很聪明，但是最喜欢搞恶作剧”。领队看到莉可等人用来复苏雷格的装置时，一眼就看出是他的手笔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/be/30757_crt_wMIqh.jpg",
+        "link": "https://bgm.tv/character/30757",
+        "categorie": "person"
+      },
+      {
+        "id": "57753",
+        "label": "几维",
+        "info": "登场于第16话。贝尔切罗孤儿院的幼儿，经常和莉可等人在一起。在莉可和雷格潜入阿比斯的时间点前后身体状况开始变坏，疑似得了“死于生日的怪病”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/82/57753_crt_VuUlj.jpg",
+        "link": "https://bgm.tv/character/57753",
+        "categorie": "person"
+      },
+      {
+        "id": "57752",
+        "label": "吉鲁欧",
+        "info": "登场于第1话。隶属于贝尔切罗孤儿院，莉可等人的领队。莱萨的弟子，十年前被莱萨托付照顾莉可。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/b6/57752_crt_e9q5B.jpg",
+        "link": "https://bgm.tv/character/57752",
+        "categorie": "person"
+      },
+      {
+        "id": "59996",
+        "label": "院长",
+        "info": "登场于第1话。贝尔切罗孤儿院的院长，本名未知。对孤儿院的小孩相当严格，把他们当作赚钱的工具，不过并不算是坏人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/09/59996_crt_EQ8o8.jpg",
+        "link": "https://bgm.tv/character/59996",
+        "categorie": "person"
+      },
+      {
+        "id": "59981",
+        "label": "哈勃尔格",
+        "info": "登場於第4話。通稱「哈勃」。和莉可等人關係很好，被納特和西奇拜託護送莉可和雷格到達深界二層。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/db/59981_crt_70czM.jpg",
+        "link": "https://bgm.tv/character/59981",
+        "categorie": "person"
+      },
+      {
+        "id": "59985",
+        "label": "耶鲁美",
+        "info": "月笛 登場於第16話。「野探窟家」，隸屬於奧森的探窟隊，和奧森一同駐紮在監視基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/02/59985_crt_w86hz.jpg",
+        "link": "https://bgm.tv/character/59985",
+        "categorie": "person"
+      },
+      {
+        "id": "59986",
+        "label": "扎波老头",
+        "info": "月笛 登場於第16話。「野探窟家」，隸屬於奧森的探窟隊，和奧森一同駐紮在監視基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/f8/59986_crt_zxnY3.jpg",
+        "link": "https://bgm.tv/character/59986",
+        "categorie": "person"
+      },
+      {
+        "id": "59987",
+        "label": "西姆雷多",
+        "info": "黑笛 登場於第16話。「野探窟家」，隸屬於奧森的探窟隊，和奧森一同駐紮在監視基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/de/59987_crt_70BT3.jpg",
+        "link": "https://bgm.tv/character/59987",
+        "categorie": "person"
+      },
+      {
+        "id": "59995",
+        "label": "托卡",
+        "info": "黑笛。于第16话首次被提起。莉可的父亲，莱萨的丈夫，隶属于莱萨的小队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/8a/59995_crt_3nCi3.jpg",
+        "link": "https://bgm.tv/character/59995",
+        "categorie": "person"
+      },
+      {
+        "id": "7036",
+        "label": "莱莎",
+        "info": "歼灭卿，歼灭的莱萨。于第4话第一次被提及。莉可的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/1b/7036_crt_a6N2H.jpg",
+        "link": "https://bgm.tv/character/7036",
+        "categorie": "person"
+      },
+      {
+        "id": "54943",
+        "label": "娜娜奇",
+        "info": "登场于第19话。居住于深界四层的半人半兔的生骸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d8/54943_crt_4l3di.jpg?r=1515128458",
+        "link": "https://bgm.tv/character/54943",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

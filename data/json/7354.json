@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8686",
+        "label": "坂下柚夜",
+        "info": "结平的表妹，五岁父亲已经去世，并且母亲行踪不明，在亲戚的共同决定下，来到片仓家，由结平来照顾。平时为了不给其他人麻烦，常把难过的事放在心里，不过终就是小孩子，还是希望受到别人的关注。喜欢结平。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/41/8686_crt_anidb.jpg?r=1580024657",
+        "link": "https://bgm.tv/character/8686",
+        "categorie": "person"
+      },
+      {
+        "id": "23530",
+        "label": "德永心",
+        "info": "本作のもう一人のヒロイン。結平の恋人でクラスメイト。母親が6歳の時に亡くなっており、父親の再婚のため、半ば追い出される形で1人暮らしをしていた。心身の過労で体調を崩していたが、結平の計らいで片倉家に居候している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/b1/23530_crt_qDEXq.jpg",
+        "link": "https://bgm.tv/character/23530",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

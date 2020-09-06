@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27248",
+        "label": "赫尔曼·路易斯",
+        "info": "絶影騎士・ゾロに変身して戦う壮年の男性。暴走しがちなレオンを父としての立場から見守り育てると同時に、魔戒騎士の修行を付けてきた師匠でもある。自身は豪放磊落で女好き。しばしば「破戒」的な行動を取ることもあるが、キメる時はキメる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/4e/27248_crt_TaK75.jpg?r=1413330869",
+        "link": "https://bgm.tv/character/27248",
+        "categorie": "person"
+      },
+      {
+        "id": "27382",
+        "label": "雷恩·路易斯",
+        "info": "黄金騎士・ガロとなって戦う17歳の魔戒騎士。かつて魔戒法師であった母・アンナが炎に焼かれながら産み落とした。「炎の記憶」は生きる原動力であると同時に、怒りと復讐が混じりあった黒い感情の源泉でもある。そのため、時に我を忘れて暴走する危険を常に孕んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/d0/27382_crt_7339j.jpg?r=1413330658",
+        "link": "https://bgm.tv/character/27382",
+        "categorie": "person"
+      },
+      {
+        "id": "27383",
+        "label": "阿方索·圣·瓦里安蒂",
+        "info": "ヴァリアンテの王子だった20歳の青年。メンドーサに祖国を追われたことをきっかけとして、「光の騎士」を捜すことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/0f/27383_crt_8Rii6.jpg?r=1413330536",
+        "link": "https://bgm.tv/character/27383",
+        "categorie": "person"
+      },
+      {
+        "id": "27384",
+        "label": "艾玛·古斯曼",
+        "info": "女魔戒法師。他人にはわからない秘めた理由から常に単独行動を取る。魔戒騎士を嫌気し、レオンやヘルマンと衝突する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/3b/27384_crt_z322N.jpg?r=1413330760",
+        "link": "https://bgm.tv/character/27384",
+        "categorie": "person"
+      },
+      {
+        "id": "40365",
+        "label": "撒拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/3a/40365_crt_Ss0KO.jpg",
+        "link": "https://bgm.tv/character/40365",
+        "categorie": "person"
+      },
+      {
+        "id": "40366",
+        "label": "达里奥·蒙托亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/73/40366_crt_FZn6h.jpg",
+        "link": "https://bgm.tv/character/40366",
+        "categorie": "person"
+      },
+      {
+        "id": "40617",
+        "label": "罗伯特·路易斯",
+        "info": "レオンの弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/c7/40617_crt_lCcT8.jpg",
+        "link": "https://bgm.tv/character/40617",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

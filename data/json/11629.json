@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "10902",
+        "label": "黑桐干也",
+        "info": "《空之境界》男主角。看似没有任何特异能力以及潮流感的男人，除了人缘好之外似乎没有其他特点，然而却意外的有着连橙子也为之惊讶的资料搜查能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e4/10902_crt_6bkUi.jpg",
+        "link": "https://bgm.tv/character/10902",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

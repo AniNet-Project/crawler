@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4129",
+        "label": "娜迪",
+        "info": "女主角，實力高強的賞金獵人，紅髮、小麥色皮膚的修長美少女，既直率又溫柔的樂觀主義者，相當有人情味。經常穿著帶有民族色彩的披風，有著小時候村落被滅亡而倖存的悲慘過去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/a3/4129_crt_jaDtd.jpg?r=1514279630",
+        "link": "https://bgm.tv/character/4129",
+        "categorie": "person"
+      },
+      {
+        "id": "51320",
+        "label": "爱丽丝",
+        "info": "因涉嫌杀害物理学家海因茨·修奈达而遭到通缉的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/e8/51320_crt_PafwJ.jpg?r=1583099932",
+        "link": "https://bgm.tv/character/51320",
+        "categorie": "person"
+      },
+      {
+        "id": "4130",
+        "label": "ジョディ・ヘイワード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/29/4130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4130",
+        "categorie": "person"
+      },
+      {
+        "id": "4131",
+        "label": "ハインリク・シュナイダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/14/4131_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4131",
+        "categorie": "person"
+      },
+      {
+        "id": "4132",
+        "label": "リカルド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d8/4132_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4132",
+        "categorie": "person"
+      },
+      {
+        "id": "11826",
+        "label": "L·A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/4a/11826_crt_v25tX.jpg",
+        "link": "https://bgm.tv/character/11826",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

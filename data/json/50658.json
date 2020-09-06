@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49602",
+        "label": "卡轟",
+        "info": "2012年所推出的射擊遊戲《英雄使命》中的女上士隊長，負責引導玩家進行遊戲。背景故事設定過去是個普通的女軍人，原本與戀人相愛並舉行婚禮，但婚禮當天自己的伴侶卻被突然闖入的機器飛蛾吃掉，從此便封印自己的感情並以殲滅機器飛蛾為工作。她也是破壞王雷夫在《英雄使命》的上司，對下屬極為嚴厲，只要達不到要求的都會被她痛毆。之後為了追逐逃出遊戲的機器飛蛾，而與阿修合作，前進《甜蜜衝刺》的世界。原本對阿修極為厭惡，但後來的行動中漸漸對他心動，最終兩人有情人終成眷屬，成為一對夫妻（結婚當天也有充足戒備防止機器飛蛾再度來襲）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/bb/49602_crt_Mt8EQ.jpg",
+        "link": "https://bgm.tv/character/49602",
+        "categorie": "person"
+      },
+      {
+        "id": "10321",
+        "label": "春丽",
+        "info": "春丽（チュン・リー）是卡普空出品的街头霸王系列中的一个人物，也是全世界格斗游戏中第一个登场的女性人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/45/10321_crt_aBxIM.jpg?r=1532042808",
+        "link": "https://bgm.tv/character/10321",
+        "categorie": "person"
+      },
+      {
+        "id": "75332",
+        "label": "索尼克",
+        "info": "Sonic The Hedgehog（索尼克，人称音速小子）是全系列游戏《刺猬索尼克》的主人公，同时也是世嘉公司的吉祥物。是个急性子，但也有着对于陷入困难的人不会置之不理的温柔一面 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/48/75332_crt_d04ZO.jpg",
+        "link": "https://bgm.tv/character/75332",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

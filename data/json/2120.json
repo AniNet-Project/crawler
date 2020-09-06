@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4582",
+        "label": "桜庭葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/29/4582_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4582",
+        "categorie": "person"
+      },
+      {
+        "id": "4583",
+        "label": "花菱薫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/80/4583_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4583",
+        "categorie": "person"
+      },
+      {
+        "id": "4584",
+        "label": "神楽崎雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/a1/4584_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4584",
+        "categorie": "person"
+      },
+      {
+        "id": "4585",
+        "label": "ティナ・フォスター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/cf/4585_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4585",
+        "categorie": "person"
+      },
+      {
+        "id": "4586",
+        "label": "水無月妙子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/c4/4586_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4586",
+        "categorie": "person"
+      },
+      {
+        "id": "4587",
+        "label": "水無月ちか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/c5/4587_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4587",
+        "categorie": "person"
+      },
+      {
+        "id": "4767",
+        "label": "小宫夏树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/f6/4767_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4767",
+        "categorie": "person"
+      },
+      {
+        "id": "50946",
+        "label": "相泽千鹤",
+        "info": "ちかの高校のクラスメート。ちかと同じ水泳部に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/88/50946_crt_VR3oU.jpg",
+        "link": "https://bgm.tv/character/50946",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3589",
+        "label": "梅德尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/85/3589_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3589",
+        "categorie": "person"
+      },
+      {
+        "id": "9844",
+        "label": "星野铁郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/8d/9844_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9844",
+        "categorie": "person"
+      },
+      {
+        "id": "3335",
+        "label": "キャプテンハーロック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/91/3335_crt_hZswh.jpg",
+        "link": "https://bgm.tv/character/3335",
+        "categorie": "person"
+      },
+      {
+        "id": "9845",
+        "label": "車掌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/06/9845_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9845",
+        "categorie": "person"
+      },
+      {
+        "id": "9846",
+        "label": "エメラルダス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/2b/9846_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9846",
+        "categorie": "person"
+      },
+      {
+        "id": "9850",
+        "label": "トチローの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/f3/9850_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9850",
+        "categorie": "person"
+      },
+      {
+        "id": "53359",
+        "label": "克莱雅",
+        "info": "９９９号の食堂車のウエイトレス。母親の見栄で、クリスタルガラスの体にされたが、人間の体を買い戻すために働いている。鉄郎を愛する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/e8/53359_crt_y0JuU.jpg",
+        "link": "https://bgm.tv/character/53359",
+        "categorie": "person"
+      },
+      {
+        "id": "9848",
+        "label": "シャドー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/35/9848_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9848",
+        "categorie": "person"
+      },
+      {
+        "id": "9849",
+        "label": "ドクターバン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ad/9849_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9849",
+        "categorie": "person"
+      },
+      {
+        "id": "9851",
+        "label": "アルカディア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/5b/9851_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9851",
+        "categorie": "person"
+      },
+      {
+        "id": "9852",
+        "label": "スリーナイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/be/9852_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9852",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

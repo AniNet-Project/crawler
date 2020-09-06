@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24322",
+        "label": "日向翔阳",
+        "info": "幼いころ見た“小さな巨人”の姿に憧れ、烏野高校の門を叩いた。 類稀な瞬発力、跳躍力、そしてどんな時でも諦めない強い心を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/78/24322_crt_zuFs2.jpg?r=1411356315",
+        "link": "https://bgm.tv/character/24322",
+        "categorie": "person"
+      },
+      {
+        "id": "24323",
+        "label": "影山飞雄",
+        "info": "圧倒的センスでコートを支配する、人呼んで“コート上の王様”。 中学時代はその厳しい姿勢からチーム内で孤立していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/0a/24323_crt_z77p4.jpg?r=1411356359",
+        "link": "https://bgm.tv/character/24323",
+        "categorie": "person"
+      },
+      {
+        "id": "24324",
+        "label": "泽村大地",
+        "info": "烏野高校主将にして、プレー面でも精神面でもチームの支柱となる不動の大黒柱。 スパイカーながら守備にも優れ、攻撃面に傾きがちなチームを支えている。 ただし怒ると本当に怖い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/f5/24324_crt_8dKKR.jpg?r=1414390742",
+        "link": "https://bgm.tv/character/24324",
+        "categorie": "person"
+      },
+      {
+        "id": "24325",
+        "label": "菅原孝支",
+        "info": "澤村と共にチームをまとめ、日向・影山の入学前から部員の厚い信頼を集めるセッター!! 非常に温和な性格でチームの調整役でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/39/24325_crt_RdHR9.jpg?r=1414390699",
+        "link": "https://bgm.tv/character/24325",
+        "categorie": "person"
+      },
+      {
+        "id": "24326",
+        "label": "田中龙之介",
+        "info": "ガッツ溢れるプレーが持ち味の、烏野高校が誇る切り込み隊長!! 見た目は怖いが、義理人情に厚く、面倒見のいい兄貴肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/10/24326_crt_pgTYS.jpg?r=1414390443",
+        "link": "https://bgm.tv/character/24326",
+        "categorie": "person"
+      },
+      {
+        "id": "24327",
+        "label": "东峰旭",
+        "info": "普段は気弱でヘタレ。しかし一度コートに立てばどんなボールでも圧倒的パワーで打ち抜く、心優しき烏野の絶対的エース!! しかし、日向たちが入学した際には、過去の試合の因縁で部には姿を見せず―。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9c/24327_crt_8ie8J.jpg?r=1414390515",
+        "link": "https://bgm.tv/character/24327",
+        "categorie": "person"
+      },
+      {
+        "id": "24328",
+        "label": "西谷夕",
+        "info": "チーム最少の身長ながら、コート上では絶対的な信頼を一身に受けるまさに“烏野の守護神”！ 日向たちの入学時には、東峰との確執で部から離れているようだが―。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6e/24328_crt_H0fRu.jpg?r=1414390569",
+        "link": "https://bgm.tv/character/24328",
+        "categorie": "person"
+      },
+      {
+        "id": "24329",
+        "label": "月岛萤",
+        "info": "前のめりな性格が多い烏野高校1年の中でも特に異彩を放つ、クレバーブロッカー。 皮肉屋な一面もあり、日向や影山と衝突することも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/d8/24329_crt_XfpZ4.jpg?r=1414390625",
+        "link": "https://bgm.tv/character/24329",
+        "categorie": "person"
+      },
+      {
+        "id": "24330",
+        "label": "山口忠",
+        "info": "派手さはないが、仲間と共に地道に練習を重ねるブロッカー。 月島と行動を共にする事が多く、一日のうち最も多く発する言葉はおそらく「ツッキー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/24/24330_crt_5625l.jpg?r=1414390395",
+        "link": "https://bgm.tv/character/24330",
+        "categorie": "person"
+      },
+      {
+        "id": "24332",
+        "label": "武田一铁",
+        "info": "烏野排球部の顧問にして監督。バレ—は未経験だが、技術指導以外の部分で烏野を全力でサポートしている。担当教科は現代文。そのせいか、若干言葉選びはポエミー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/9c/24332_crt_VU2zZ.jpg?r=1414390799",
+        "link": "https://bgm.tv/character/24332",
+        "categorie": "person"
+      },
+      {
+        "id": "25117",
+        "label": "黑尾铁朗",
+        "info": "音駒高校3年5組。バレー部主将。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/47/25117_crt_bw1BN.jpg?r=1414391119",
+        "link": "https://bgm.tv/character/25117",
+        "categorie": "person"
+      },
+      {
+        "id": "35981",
+        "label": "缘下力",
+        "info": "その名の通り、烏野の縁の下の力持ち。 派手さはないものの攻撃から守備までをそつ無くこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/9e/35981_crt_115X4.jpg?r=1448380792",
+        "link": "https://bgm.tv/character/35981",
+        "categorie": "person"
+      },
+      {
+        "id": "35982",
+        "label": "谷地仁花",
+        "info": "ビビリで引っ込み思案な、烏野高校１年生。 清水からマネージャーとして勧誘を受け、烏野排球部に姿を見せるのだがーー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/bf/35982_crt_M5xmg.jpg?r=1470047033",
+        "link": "https://bgm.tv/character/35982",
+        "categorie": "person"
+      },
+      {
+        "id": "35985",
+        "label": "木兔光太郎",
+        "info": "梟谷バレーボール部主将にして、全国で5本の指に入るスパイカー。ムラのある性格だが、試合では多彩な攻撃と気迫あふれるプレーを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/90/35985_crt_IjvBJ.jpg?r=1448381352",
+        "link": "https://bgm.tv/character/35985",
+        "categorie": "person"
+      },
+      {
+        "id": "35986",
+        "label": "赤苇京治",
+        "info": "梟谷バレーボール部副主将。冷静沈着な性格で、試合の流れを的確に読む梟谷の司令塔。チーム内では、暴走しがちの木兎のツッコミ役でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/ca/35986_crt_xGhhG.jpg?r=1448381298",
+        "link": "https://bgm.tv/character/35986",
+        "categorie": "person"
+      },
+      {
+        "id": "37019",
+        "label": "田中冴子",
+        "info": "烏野高校卒業生。現在は大学生。田中の姉。21歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/2f/37019_crt_IJ20I.jpg?r=1448382164",
+        "link": "https://bgm.tv/character/37019",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

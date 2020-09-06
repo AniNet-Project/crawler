@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2354",
+        "label": "优子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/f5/2354_crt_yz7d0.jpg?r=1519295412",
+        "link": "https://bgm.tv/character/2354",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

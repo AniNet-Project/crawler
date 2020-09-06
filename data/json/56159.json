@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19683",
+        "label": "天谷奏香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/27/19683_crt_7LeOu.jpg",
+        "link": "https://bgm.tv/character/19683",
+        "categorie": "person"
+      },
+      {
+        "id": "19685",
+        "label": "上原步子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/4e/19685_crt_Qou44.jpg",
+        "link": "https://bgm.tv/character/19685",
+        "categorie": "person"
+      },
+      {
+        "id": "19686",
+        "label": "岩泽彩生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/45/19686_crt_3mMJY.jpg",
+        "link": "https://bgm.tv/character/19686",
+        "categorie": "person"
+      },
+      {
+        "id": "20060",
+        "label": "天谷飒太",
+        "info": "奏香家能干的弟弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/45/20060_crt_F1gGm.jpg",
+        "link": "https://bgm.tv/character/20060",
+        "categorie": "person"
+      },
+      {
+        "id": "20061",
+        "label": "山下寿美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/6a/20061_crt_4tNiW.jpg",
+        "link": "https://bgm.tv/character/20061",
+        "categorie": "person"
+      },
+      {
+        "id": "20191",
+        "label": "若月美鈴",
+        "info": "英語担当の教師。１年１組（２年次は２年１組）の担任でもある。30歳であるがとてもそうは見えないほどの若作り。しかも普段から女子の制服を着ているため生徒にしか見えず、休み時間には自然と紛れてガールズトークに花を咲かせている。漫画好きであり、歩子の姉が描く「マジカルスレイヤーみよ子」のファン。名前の由来は、「若すぎ三十路」から。(12/9/27の作者の生放送lv109551512での発言から)",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/ee/20191_crt_FmZGC.jpg?r=1370384887",
+        "link": "https://bgm.tv/character/20191",
+        "categorie": "person"
+      },
+      {
+        "id": "47235",
+        "label": "簗濑芽依",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/43/47235_crt_IxScX.jpg?r=1475768714",
+        "link": "https://bgm.tv/character/47235",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

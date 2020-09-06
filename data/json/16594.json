@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70294",
+        "label": "亚风炉照美",
+        "info": "優雅な立ち振る舞いの中に力強さを秘めた世宇子のキャブテン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/fb/70294_crt_5XZtN.jpg?r=1559311182",
+        "link": "https://bgm.tv/character/70294",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

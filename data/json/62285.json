@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29835",
+        "label": "小鸟游音羽",
+        "info": "14歳のフェミニン系の女の子。中学二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/fd/29835_crt_UkF2y.jpg?r=1595351626",
+        "link": "https://bgm.tv/character/29835",
+        "categorie": "person"
+      },
+      {
+        "id": "29830",
+        "label": "彩濑奈留",
+        "info": "14歳のラブリー系の女の子。中学二年生。デコるのがものすごく得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/03/29830_crt_D7bOO.jpg?r=1593983696",
+        "link": "https://bgm.tv/character/29830",
+        "categorie": "person"
+      },
+      {
+        "id": "29831",
+        "label": "福原杏",
+        "info": "14歳のポップ系の女の子。中学二年生。明るく前向きな性格で、スイーツ大好きっ娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/26/29831_crt_2y9x5.jpg?r=1593984419",
+        "link": "https://bgm.tv/character/29831",
+        "categorie": "person"
+      },
+      {
+        "id": "29832",
+        "label": "凉野弦",
+        "info": "14歳のクール系の女の子。中学二年生。コスメの知識が豊富。個人主義でチームが性に合わないため、当初はなるやあんとぶつかる事も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/f3/29832_crt_4n41V.jpg?r=1593983759",
+        "link": "https://bgm.tv/character/29832",
+        "categorie": "person"
+      },
+      {
+        "id": "29833",
+        "label": "荆铃音",
+        "info": "見た目は14、5歳。記憶を持たない女の子。無表情、無感動。話す言葉も極短い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/24/29833_crt_9hFd5.jpg?r=1599169419",
+        "link": "https://bgm.tv/character/29833",
+        "categorie": "person"
+      },
+      {
+        "id": "29834",
+        "label": "莲城寺贝儿",
+        "info": "14歳のセクシー系の女の子。中学二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/15/29834_crt_5bWPi.jpg?r=1593985526",
+        "link": "https://bgm.tv/character/29834",
+        "categorie": "person"
+      },
+      {
+        "id": "29836",
+        "label": "森园若菜",
+        "info": "14歳のエスニック系の女の子。中学二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/8d/29836_crt_MHhhQ.jpg",
+        "link": "https://bgm.tv/character/29836",
+        "categorie": "person"
+      },
+      {
+        "id": "53047",
+        "label": "天羽茱奈",
+        "info": "弱冠13歳で前人未到の4連続プリズムジャンプを成功させた伝説的プリズムスター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/89/53047_crt_mAkoZ.jpg?r=1490883445",
+        "link": "https://bgm.tv/character/53047",
+        "categorie": "person"
+      },
+      {
+        "id": "58000",
+        "label": "DJ.COO／黑川冷",
+        "info": "8月8日生まれ。O型。右利き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/7d/58000_crt_S1mm8.jpg?r=1506166959",
+        "link": "https://bgm.tv/character/58000",
+        "categorie": "person"
+      },
+      {
+        "id": "37349",
+        "label": "神滨幸司",
+        "info": "天才作詞作曲家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/eb/37349_crt_MDHmt.jpg?r=1450160304",
+        "link": "https://bgm.tv/character/37349",
+        "categorie": "person"
+      },
+      {
+        "id": "37350",
+        "label": "速水广",
+        "info": "女性から圧倒的な人気を誇る、絶対アイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/ff/37350_crt_6gziJ.jpg?r=1450160371",
+        "link": "https://bgm.tv/character/37350",
+        "categorie": "person"
+      },
+      {
+        "id": "37351",
+        "label": "仁科一月",
+        "info": "ストリートのカリスマ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/98/37351_crt_Jf8Z4.jpg?r=1450160441",
+        "link": "https://bgm.tv/character/37351",
+        "categorie": "person"
+      },
+      {
+        "id": "37362",
+        "label": "法月仁",
+        "info": "シュワルツローズ主宰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/98/37362_crt_gbCOj.jpg?r=1450161052",
+        "link": "https://bgm.tv/character/37362",
+        "categorie": "person"
+      },
+      {
+        "id": "55950",
+        "label": "冰室圣",
+        "info": "11月23日生まれ。B型。右利き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/e4/55950_crt_aZ158.jpg?r=1500050104",
+        "link": "https://bgm.tv/character/55950",
+        "categorie": "person"
+      },
+      {
+        "id": "37358",
+        "label": "凉野结",
+        "info": "“HAPPY RAIN♪”成员之一凉野弦的弟弟。从前与妈妈住在北海道，个性有点害羞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/76/37358_crt_7SmZ6.jpg?r=1556938636",
+        "link": "https://bgm.tv/character/37358",
+        "categorie": "person"
+      },
+      {
+        "id": "49493",
+        "label": "赤井眼镜姐",
+        "info": "シーズン1の時点からゲームに登場しており、プリズムストーンを手渡してくれる赤いフレームの眼鏡をかけた女性。ゲームでは当日のランキング1位を獲得したプレイヤーと同じコーデで登場する。当初は名前が公表されず「店長さん」などと呼ばれていたが[15][3]、AD第8話で「赤井さん」と言う名前が判明した。テレビ東京の番組情報ではキャスト欄に「赤井めが姉ぇ」と記載されており[16]、ぷっちぐみ版2012年1月号で登場した際もそう名乗っているが「めが」が名前で「めがお姉さん」を略して「めが姉ぇ」なのか、或いは「めが姉ぇ」自体が名前なのかは不明である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/6a/49493_crt_uq3e4.jpg?r=1482233454",
+        "link": "https://bgm.tv/character/49493",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

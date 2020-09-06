@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21412",
+        "label": "伊万里胡桃",
+        "info": "本作のヒロイン。右サイドポニーの髪型が特徴。縞パンを好んで穿く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/3c/21412_crt_n8fg7.jpg?r=1403777281",
+        "link": "https://bgm.tv/character/21412",
+        "categorie": "person"
+      },
+      {
+        "id": "49722",
+        "label": "高城宽子",
+        "info": "学園の美術教師。水無瀬と伊万里の所属する美術部の顧問を務めている。その容姿と良い性格から、女子からも男子からも人望が厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/31/49722_crt_zznE7.jpg",
+        "link": "https://bgm.tv/character/49722",
+        "categorie": "person"
+      },
+      {
+        "id": "49723",
+        "label": "北见丽华",
+        "info": "学園の保健医。水無瀬が苦手とする教師。その経歴には謎が多い。その妖しい色気からか、あまり良い噂は聞こえてこない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/55/49723_crt_FtwMf.jpg",
+        "link": "https://bgm.tv/character/49723",
+        "categorie": "person"
+      },
+      {
+        "id": "49725",
+        "label": "白木里香",
+        "info": "学園で生徒会長を務める美少女。男子の人気も高く、水無瀬などには縁の遠い存在。親は大手電子機器メーカーで重役を勤めており、正真正銘のお嬢様である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8a/49725_crt_ZZXy4.jpg",
+        "link": "https://bgm.tv/character/49725",
+        "categorie": "person"
+      },
+      {
+        "id": "81222",
+        "label": "水无濑多喜",
+        "info": "本作男主，平凡的高中生，无意中发现了黑暗圣经。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/27/81222_crt_9mmYS.jpg",
+        "link": "https://bgm.tv/character/81222",
+        "categorie": "person"
+      },
+      {
+        "id": "49724",
+        "label": "佐伯香织",
+        "info": "水無瀬達のクラスメイト。オカルトヲタクで、１２年前の学生達を模したカルトサークルを作り、意欲的な活動をしている。黒魔術にも詳しく、彼女の占いはかなりの評判である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b0/49724_crt_Qaiha.jpg",
+        "link": "https://bgm.tv/character/49724",
+        "categorie": "person"
+      },
+      {
+        "id": "49726",
+        "label": "栗本真紀",
+        "info": "佐伯の魔術サークルの一員。水無瀬とは別の学園の為に面識は無い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/85/49726_crt_bQVLI.jpg",
+        "link": "https://bgm.tv/character/49726",
+        "categorie": "person"
+      },
+      {
+        "id": "49727",
+        "label": "野々草美由紀",
+        "info": "水泳部の一員、水無瀬とは昔同じクラスになったことがある。同じ部の仲間には、その才能を妬んでいる者も多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/15/49727_crt_Z0x89.jpg",
+        "link": "https://bgm.tv/character/49727",
+        "categorie": "person"
+      },
+      {
+        "id": "49728",
+        "label": "小林忍",
+        "info": "水泳部の一員。現部長で、自分よりも目立つ野々草を煙たがっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/0c/49728_crt_YoZgS.jpg",
+        "link": "https://bgm.tv/character/49728",
+        "categorie": "person"
+      },
+      {
+        "id": "49729",
+        "label": "美树本",
+        "info": "水泳部の一員。小林の取り巻きの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/3c/49729_crt_qRYz0.jpg",
+        "link": "https://bgm.tv/character/49729",
+        "categorie": "person"
+      },
+      {
+        "id": "49730",
+        "label": "水无濑由起子",
+        "info": "水無瀬の姉。気が強く、水無瀬をいじめるのを趣味としている。大学でラテン語やフランス語を修得している為、魔導書の翻訳に役だってくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/a3/49730_crt_wO3so.jpg",
+        "link": "https://bgm.tv/character/49730",
+        "categorie": "person"
+      },
+      {
+        "id": "49731",
+        "label": "伊藤美香",
+        "info": "水無瀬のクラスメイトで、佐伯の取り巻きの一人。佐伯の事を馬鹿にする水無瀬につっかかってくる。魔導書の最初の犠牲者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/29/49731_crt_4O4TP.jpg",
+        "link": "https://bgm.tv/character/49731",
+        "categorie": "person"
+      },
+      {
+        "id": "49732",
+        "label": "村井亚由美",
+        "info": "水無瀬のクラスメイトで、佐伯の取り巻きの一人。水無瀬が黒魔術を使うことを知り、まじないの依頼をしてくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a8/49732_crt_47J19.jpg",
+        "link": "https://bgm.tv/character/49732",
+        "categorie": "person"
+      },
+      {
+        "id": "81322",
+        "label": "小園ナミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/5b/81322_crt_T6W1Z.jpg",
+        "link": "https://bgm.tv/character/81322",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

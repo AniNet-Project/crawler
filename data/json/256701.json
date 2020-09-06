@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42208",
+        "label": "张灵玉",
+        "info": "龙虎山正一派天师的关门弟子，天师候选人，张楚岚的竞争对手之一，阴五雷使用者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/fd/42208_crt_A4XR1.jpg",
+        "link": "https://bgm.tv/character/42208",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9567",
+        "label": "奥利佛·麦",
+        "info": "603技术试验部队所属的技术军官，军衔为技术中尉。国立兹姆工业大学毕业后分配到吉恩公国军技术总部技术试验课，负责对603部队的试验兵器提供技术支持及测试报告。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/df/9567_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9567",
+        "categorie": "person"
+      },
+      {
+        "id": "9568",
+        "label": "莫妮卡·凯迪拉克",
+        "info": "吉恩公国总帅府直属机构“佩内明德”（ペーネミュンデ，Peenemünde）的女性军官，军衔是“特务大尉”，相当于正规军的中佐，军装与基连总帅的秘书塞西莉亚·艾琳一样是红色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/1d/9568_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9568",
+        "categorie": "person"
+      },
+      {
+        "id": "9569",
+        "label": "马丁·普罗赫诺",
+        "info": "技术支援舰“约森海姆号”舰长，军衔相当于中佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/0f/9569_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9569",
+        "categorie": "person"
+      },
+      {
+        "id": "13355",
+        "label": "亚历山大·亨梅",
+        "info": "603试验部队炮术长，军衔为大尉。有着20多年从军经验的精英炮手，因为被配属到缺乏武器的“约森海姆号”而不满。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/13355",
+        "categorie": "person"
+      },
+      {
+        "id": "13362",
+        "label": "迪米吉埃尔·宋南",
+        "info": "吉恩公国军坦克兵，军衔为少佐。原为坦克教导团的优秀教官，由于时代的变迁，部下纷纷转学机动战士而失落。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/02/13362_crt_OPEQO.jpg",
+        "link": "https://bgm.tv/character/13362",
+        "categorie": "person"
+      },
+      {
+        "id": "3625",
+        "label": "スチュアート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/79/3625_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3625",
+        "categorie": "person"
+      },
+      {
+        "id": "13354",
+        "label": "阿尔伯特·夏哈特",
+        "info": "吉恩公国军总司令部技术部部长，军衔为少将。奥利佛的直属上司，向603试验部队下达了各种测试试验兵器的任务。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/13354",
+        "categorie": "person"
+      },
+      {
+        "id": "13361",
+        "label": "鹫谷秀人",
+        "info": "603部队所属的测试驾驶员，军衔是中尉。希望成为机动战士驾驶员而进入了军官学校，由于偏科过于严重而被分配到了603部队。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/13361",
+        "categorie": "person"
+      },
+      {
+        "id": "31489",
+        "label": "基连·扎比",
+        "info": "自護公國軍總帥，階級為大將。也是湯金薩比的長男。UC0044年生，35歲(0079當時)，身高190cm。自少年時代即參與政治，在湯金薩比退隱之後實際上成為公國最高領導者。在UC GUNDAM世界的故事中他的觀念為後世帶來了巨大的影響，甚至波及到下一個世代。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/ae/31489_crt_58V59.jpg?r=1428013069",
+        "link": "https://bgm.tv/character/31489",
+        "categorie": "person"
+      },
+      {
+        "id": "3544",
+        "label": "吉翁公国",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7e/3544_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3544",
+        "categorie": "person"
+      },
+      {
+        "id": "3563",
+        "label": "地球連邦軍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/b7/3563_crt_Mo97b.jpg",
+        "link": "https://bgm.tv/character/3563",
+        "categorie": "person"
+      },
+      {
+        "id": "8877",
+        "label": "ボール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/0e/8877_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8877",
+        "categorie": "person"
+      },
+      {
+        "id": "8929",
+        "label": "扎古Ⅱ",
+        "info": "U.C.0079年1月31日，吉翁与联邦签订了南极条约。条约明文禁止了核生化兵器的使用，因此去除了核装备、由C型改良而来的MS-06F 扎古Ⅱ就成为吉翁军的主力MS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/c6/8929_crt_WaWC7.jpg",
+        "link": "https://bgm.tv/character/8929",
+        "categorie": "person"
+      },
+      {
+        "id": "9570",
+        "label": "ヨーツンヘイム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/8b/9570_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9570",
+        "categorie": "person"
+      },
+      {
+        "id": "13245",
+        "label": "夏亚·阿兹纳布",
+        "info": "宇宙世纪（U.C.）一世纪末期杰出的军事家、政治家、演说家及王牌驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/47/13245_crt_Ag8BX.jpg?r=1416820329",
+        "link": "https://bgm.tv/character/13245",
+        "categorie": "person"
+      },
+      {
+        "id": "15743",
+        "label": "阿纳海姆",
+        "info": "阿纳海姆公司（Anaheim）是作品《机动战士高达》中出现MS（Mobile Suit ）制造公司，立场为中立，向联邦军及吉恩军，这战争双方提供MS资源。因为不论是军方、恐怖份子，只要付款，阿纳海姆就给予相应的货物，因此也被称为“死亡商人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/92/15743_crt_tgu1T.jpg",
+        "link": "https://bgm.tv/character/15743",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

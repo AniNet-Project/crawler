@@ -1,0 +1,261 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1007",
+        "label": "冈崎朋也",
+        "info": "故事的主人公。作为不良少年而为全校闻名的高三学生，经常迟到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/2b/1007_crt_ZLqlZ.jpg",
+        "link": "https://bgm.tv/character/1007",
+        "categorie": "person"
+      },
+      {
+        "id": "4",
+        "label": "古河渚",
+        "info": "就读某高中的3年B班，比朋也大一岁，因为久病重读一年，对于将面对新的环境而在往校门前的坡道上不敢前行，也因此和朋也相遇并熟识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/cf/4_crt_f11eW.jpg?r=1560006952",
+        "link": "https://bgm.tv/character/4",
+        "categorie": "person"
+      },
+      {
+        "id": "1063",
+        "label": "冈崎汐",
+        "info": "朋也和渚所生的女儿，受外公古河秋生及外婆古河早苗扶养，小小年纪便养成坚强的个性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/96/1063_crt_iPpId.jpg",
+        "link": "https://bgm.tv/character/1063",
+        "categorie": "person"
+      },
+      {
+        "id": "1020",
+        "label": "古河早苗",
+        "info": "渚的母亲，和女儿比起来，爱哭的程度是有过之而无不及，但她的内心十分坚强，引导着尚未成熟的朋也他们向着正确的方向前进。虽然做家务和工作都很得心应手，但不知为何完全没有做面包的天分。秋生说，她做的那些暗藏着地雷般破坏力的面包，几乎就没有人会试着买回去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/58/1020_crt_0L8ha.jpg?r=1444814912",
+        "link": "https://bgm.tv/character/1020",
+        "categorie": "person"
+      },
+      {
+        "id": "1019",
+        "label": "古河秋生",
+        "info": "渚的父亲，嘴上总是叼着一根烟。他与妻子早苗一同经营着面包店。有着为了女儿而放弃了自己的梦想的过去。非常喜欢开心的事情，但也因此会搞突然失踪而让早苗为难，他就是这么个奔放的人。一旦闲下来，就会召集附近的孩子们一起去公园打棒球。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/56/1019_crt_6aFs7.jpg",
+        "link": "https://bgm.tv/character/1019",
+        "categorie": "person"
+      },
+      {
+        "id": "1024",
+        "label": "冈崎直幸",
+        "info": "朋也的父亲。妻子（朋也的母亲）因事故去世后，含辛茹苦一手把儿子抚养成人，但在那之后他失去了一切，堕落而颓废地生活着。内心还是很关心朋也的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e0/1024_crt_hUNUt.jpg",
+        "link": "https://bgm.tv/character/1024",
+        "categorie": "person"
+      },
+      {
+        "id": "5954",
+        "label": "幻想世界的少女",
+        "info": "幻想世界唯一的人，创造了拥有机器人外表的，在幻想世界以第一人称出现的“我”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/39/5954_crt_010XX.jpg?r=1465127608",
+        "link": "https://bgm.tv/character/5954",
+        "categorie": "person"
+      },
+      {
+        "id": "1021",
+        "label": "芳野佑介",
+        "info": "从广受欢迎的音乐人摇身一变成为了一个电工的青年。不过，当时的摇滚之心依然未曾消亡，有时会平静地说出一些像是情歌歌词般的陈词滥调。朋也高中毕业后，和他在同一公司任职，作为朋也可以信赖的前辈，他以严格而温和的态度照料着朋也。与相乐美佐枝是高中同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/66/1021_crt_e5sB3.jpg",
+        "link": "https://bgm.tv/character/1021",
+        "categorie": "person"
+      },
+      {
+        "id": "1022",
+        "label": "伊吹公子",
+        "info": "风子的姊姊，曾任某高中的美术教师。个性温柔稳重，渚的恩师，也经常光顾古河面包店。和曾是自己学生的芳野祐介有婚约。在剧场版动画中有修炼合气道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/d6/1022_E8sq8.jpg",
+        "link": "https://bgm.tv/character/1022",
+        "categorie": "person"
+      },
+      {
+        "id": "8",
+        "label": "坂上智代",
+        "info": "朋也的后辈……虽说应当是如此，说起话来的口气却像是个前辈一样。她待人很好，又有领导才能，因此在她的身边很自然地就聚集起了许多人。她的目标是成为学生会的会长，但这却成为了她与朋也之间的鸿沟……",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/96/8_crt_1L1cI.jpg",
+        "link": "https://bgm.tv/character/8",
+        "categorie": "person"
+      },
+      {
+        "id": "7",
+        "label": "藤林杏",
+        "info": "主人公と同じ学校の３年生。口が悪くおおざっぱな性格をしているけど、面倒見のいい女の子。隣のクラスで委員長をしている。２年の時は、主人公と同じクラスだった。内緒で校則違反となるバイク通学中。おとなしい妹の椋とはちがい、活発なキャラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/93/7_crt_k8abL.jpg",
+        "link": "https://bgm.tv/character/7",
+        "categorie": "person"
+      },
+      {
+        "id": "1013",
+        "label": "藤林椋",
+        "info": "藤林杏的双胞胎妹妹，就读某高中3年D班，朋也班上的班长。和姊姊相反，个性稳重较内向，不太擅长料理。兴趣是进行占卜。最常使用的占卜用具是扑克牌，但她用扑克牌进行占卜结果却不知为何绝对和真正的结果相反，因此意外的成为了另一种准确的指标，每日都有人排队找她占卜。从游戏剧情展开前就暗恋朋也，这一点也是受姐姐杏的影响。志向是成为一名护士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/95/1013_crt_Rpy01.jpg",
+        "link": "https://bgm.tv/character/1013",
+        "categorie": "person"
+      },
+      {
+        "id": "6",
+        "label": "伊吹风子",
+        "info": "独自在旧校舍的空教室里不断地雕刻着木片做的海星的古怪的女孩。性情虽然十分孩子气，但却好像一直认为自己具备了“成人的风格”。她有一个比她年长不少的姐姐，在那木片之中，饱含了风子对她姐姐的深情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8f/6_crt_FsUsI.jpg",
+        "link": "https://bgm.tv/character/6",
+        "categorie": "person"
+      },
+      {
+        "id": "5",
+        "label": "一之濑琴美",
+        "info": "总是在图书室读着书，有些奇怪的女孩。虽然头脑非常好，但她那奇特的言行每每让周围的人们感到不安与混乱。她有时候会用剪刀去剪下书页，而在这奇特的行为的背后更隐藏着一个大秘密……",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ff/5_crt_MPEQN.jpg",
+        "link": "https://bgm.tv/character/5",
+        "categorie": "person"
+      },
+      {
+        "id": "1015",
+        "label": "宫泽有纪宁",
+        "info": "朋也的后辈，拥有着一颗能毫无隔阂地接待任何人的温柔的心。由于对于那样的有纪宁的仰慕，在她的身边聚集起了许多的朋友……（不知为何都是些可怕的人物）。兴趣是念咒语，而且咒语百发百中。（春原 阳平是个例外）",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/65/1015_crt_OWv0W.jpg",
+        "link": "https://bgm.tv/character/1015",
+        "categorie": "person"
+      },
+      {
+        "id": "1016",
+        "label": "相乐美佐枝",
+        "info": "学校男生宿舍的管理员。她是个值得信赖的大姐，男生和女生都愿意来和她商量事情。其实她也毕业于这所学校，当时担任学生会的会长。她所创造的“全校学生无迟到周”，被当作传说中的事迹广为流传。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/35/1016_crt_DCUCc.jpg?r=1422879186",
+        "link": "https://bgm.tv/character/1016",
+        "categorie": "person"
+      },
+      {
+        "id": "1014",
+        "label": "春原阳平",
+        "info": "爱逞能、好色，本作的搞笑角色。作为体育推荐生入学，而后又因为一些原因被迫退出了足球部。自那以后就一直过着懒散的生活。与和他境况相似的朋也是挚友……虽然他是这么认为的，（事实上他被朋也像奴仆一样的对待）是个内心很阳光的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/08/1014_crt_HO05Z.jpg?r=1499737306",
+        "link": "https://bgm.tv/character/1014",
+        "categorie": "person"
+      },
+      {
+        "id": "1018",
+        "label": "春原芽衣",
+        "info": "春原阳平的妹妹。因为担心着放弃了自己唯一的特长——足球的老哥的生活状况而独自从乡下来到了小镇上。和春原正相反，是个完全正常的人。虽然拜无能的老哥所赐，从小就不得不替他担各种心，但在她眼里，她的哥哥却是任何人都无法替代的。很喜欢芳野佑介的音乐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/f4/1018_crt_u929H.jpg",
+        "link": "https://bgm.tv/character/1018",
+        "categorie": "person"
+      },
+      {
+        "id": "10330",
+        "label": "小机器人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/16/10330_crt_1qz1C.jpg?r=1465905271",
+        "link": "https://bgm.tv/character/10330",
+        "categorie": "person"
+      },
+      {
+        "id": "41985",
+        "label": "牡丹",
+        "info": "Clannad动漫和游戏中藤林杏的宠物，被冈崎朋也认为是小野猪。对任何人都有极高的亲进度，但死活不愿意跟藤林杏的妹妹藤林椋在一起，原因只是因为一次藤林椋给牡丹洗澡时水温调高了，牡丹以为藤林椋要煮了它……",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/50/41985_crt_WUbxQ.jpg",
+        "link": "https://bgm.tv/character/41985",
+        "categorie": "person"
+      },
+      {
+        "id": "14217",
+        "label": "志麻贺津纪",
+        "info": "曾经带过朋也进入他和美佐枝故事的梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/65/14217_crt_5HFnR.jpg",
+        "link": "https://bgm.tv/character/14217",
+        "categorie": "person"
+      },
+      {
+        "id": "1023",
+        "label": "幸村俊夫",
+        "info": "古文老师，在来到光阪高等学校任教之前，曾是个擅于驯服不良学生的热血教师，现在则是个非常和蔼的老教师，差不多快退休了。退休前最挂心的是朋也和春原，也因为有幸村老师在，两人才能结识并免于退学，得以完成高中三年的学业毕业。伊吹公子也是他的学生之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/4e/1023_crt_2XD82.jpg",
+        "link": "https://bgm.tv/character/1023",
+        "categorie": "person"
+      },
+      {
+        "id": "14218",
+        "label": "冈崎史乃",
+        "info": "朋也的奶奶，也是直幸的母亲，也是汐的祖奶奶。她与古河渚的父母认识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5a/14218_crt_8m9s0.jpg",
+        "link": "https://bgm.tv/character/14218",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "10327",
+        "label": "佐佐木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/b3/10327_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10327",
+        "categorie": "person"
+      },
+      {
+        "id": "10328",
+        "label": "杉坂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/60/10328_crt_8cmJJ.jpg?r=1465128383",
+        "link": "https://bgm.tv/character/10328",
+        "categorie": "person"
+      },
+      {
+        "id": "15998",
+        "label": "面包",
+        "info": "所谓面包，就是以黑麦、小麦等粮食作物为基本原料，先磨成粉，再加水、盐、酵母等和面并制成面团坯料，然后再以烘、烤、蒸或煎等方式加热制成的食品。面包有时候也含有其他成分，例如牛奶、鸡蛋、糖、香料、水果、果仁等等。面包是最古老的人造食物之一，在新石器时代已经出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/49/15998_crt_kK2F7.jpg",
+        "link": "https://bgm.tv/character/15998",
+        "categorie": "person"
+      },
+      {
+        "id": "1017",
+        "label": "仁科理惠",
+        "info": "光坂高等学校2年级学生，合唱部部长。曾经拉小提琴并得过奖，但是因为不明的原因失去了这个才能。在一之濑琴美的相关剧情中教授她演奏小提琴，并把社团活动时存放的旧琴赠送给她。与古河渚争夺幸村老师作为自己社团的指导老师，最后成为朋友。毕业后一起在家庭餐厅打过工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/29/1017_crt_Iaal0.jpg",
+        "link": "https://bgm.tv/character/1017",
+        "categorie": "person"
+      },
+      {
+        "id": "10331",
+        "label": "A組担任",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/71/10331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10331",
+        "categorie": "person"
+      },
+      {
+        "id": "10329",
+        "label": "勇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/12/10329_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10329",
+        "categorie": "person"
+      },
+      {
+        "id": "42290",
+        "label": "原田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/0c/42290_crt_3586v.jpg?r=1465128726",
+        "link": "https://bgm.tv/character/42290",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17764",
+        "label": "花野堇",
+        "info": "かるた部部員。学年は千早の１つ下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/4b/17764_crt_kjQWt.jpg?r=1575108012",
+        "link": "https://bgm.tv/character/17764",
+        "categorie": "person"
+      },
+      {
+        "id": "13414",
+        "label": "绫濑千早",
+        "info": "主人公。小学6年生の時に新と出会い、かるたの世界へ導かれる。後に都立瑞沢高校へ進学し競技かるた部を設立、キャプテンに就任する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/e2/13414_crt_vHVUs.jpg?r=1567356180",
+        "link": "https://bgm.tv/character/13414",
+        "categorie": "person"
+      },
+      {
+        "id": "13419",
+        "label": "真岛太一",
+        "info": "千早の幼馴染。負けず嫌いな性格で、かるたを通じて千早と親しくなった新への対抗意識でかるたを始める。小学校卒業後、開明成付属中学（通学片道1時間半）へ進学したため千早とは疎遠になっていたが、瑞沢高校へ進学し千早と再会する。千早に片想いをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/e4/13419_crt_58dhu.jpg?r=1567853823",
+        "link": "https://bgm.tv/character/13419",
+        "categorie": "person"
+      },
+      {
+        "id": "13420",
+        "label": "大江奏",
+        "info": "会計。呉服屋の娘で和服をこよなく愛している。また、かなりの古典おたくで、百人一首や歌に関して造詣が深い。元々は和服を着たいがために弓道部に所属していたが、袴でランニングをすることに耐えられず、試合時に袴を着用することを条件にかるた部へ転部する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/8f/13420_crt_Sd0I6.jpg?r=1567870081",
+        "link": "https://bgm.tv/character/13420",
+        "categorie": "person"
+      },
+      {
+        "id": "13421",
+        "label": "西田优征",
+        "info": "機器・道具管理。小学校6年生の時に千早と対戦したことがあり、それが縁でかるた部に入部する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/68/13421_crt_Cy81U.jpg?r=1567952742",
+        "link": "https://bgm.tv/character/13421",
+        "categorie": "person"
+      },
+      {
+        "id": "13422",
+        "label": "驹野勉",
+        "info": "書記・対戦記録管理。瑞沢高校では太一にこそ及ばないものの好成績の秀才であり、常に机に噛り付いて勉強していることから、クラスメイトからは「机くん」と呼ばれており、かるた部でも太一を除いた部員からそう呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/32/13422_crt_dhsa6.jpg?r=1567971827",
+        "link": "https://bgm.tv/character/13422",
+        "categorie": "person"
+      },
+      {
+        "id": "17763",
+        "label": "筑波秋博",
+        "info": "かるた部部員。学年は千早の１つ下。細目を見開いたときに舌をペコちゃんのように出す癖があり、その際の顔が不気味だと恐れられている。年子の弟が3人いる。時にオーダーを勝手に書き換えてでも団体戦に出場しようとし周囲に窘められるが、弟に活躍するところを見せたいという思いからである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/9e/17763_crt_ZyzDW.jpg?r=1575111537",
+        "link": "https://bgm.tv/character/17763",
+        "categorie": "person"
+      },
+      {
+        "id": "13418",
+        "label": "绵谷新",
+        "info": "小学生の時に福井から東京へ転校し、千早と太一をかるたの世界へ引き込んだ少年。永世名人を祖父に持ち、本人も小学校1年生から6年生まで全国大会の学年別で毎年優勝してきた実力の持ち主。千早からはかるたの神様だと尊敬されている。小学校時代の師匠原田先生には「めがねくん」と呼ばれている。遺伝的に視力が悪く、3歳からメガネ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/64/13418_crt_rPv5V.jpg?r=1567356104",
+        "link": "https://bgm.tv/character/13418",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

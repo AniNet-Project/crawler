@@ -1,0 +1,565 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2353",
+        "label": "西蒙",
+        "info": "王都テッペリン改めカミナシティに設立された新政府の総司令官に就任。公務に忙殺される日々をおくる。気弱で幼かった少年の面影は残しつつも、表情や外見は男らしく成長している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/af/2353_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2353",
+        "categorie": "person"
+      },
+      {
+        "id": "2352",
+        "label": "卡米那",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/04/2352_crt_anidb.jpg?r=1471348661",
+        "link": "https://bgm.tv/character/2352",
+        "categorie": "person"
+      },
+      {
+        "id": "2354",
+        "label": "优子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/f5/2354_crt_yz7d0.jpg?r=1519295412",
+        "link": "https://bgm.tv/character/2354",
+        "categorie": "person"
+      },
+      {
+        "id": "2355",
+        "label": "妮亚",
+        "info": "本作に登場するもう1人のヒロイン。彼女は「主人公の相手役」という役割のヒロインである。第2部より登場。名の由来は英語の「Near（近い）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/9a/2355_crt_wdgd9.jpg?r=1527184797",
+        "link": "https://bgm.tv/character/2355",
+        "categorie": "person"
+      },
+      {
+        "id": "2356",
+        "label": "罗修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/20/2356_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2356",
+        "categorie": "person"
+      },
+      {
+        "id": "2392",
+        "label": "奇坦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/54/2392_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2392",
+        "categorie": "person"
+      },
+      {
+        "id": "2398",
+        "label": "奇农",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/50/2398_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2398",
+        "categorie": "person"
+      },
+      {
+        "id": "2945",
+        "label": "维拉鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/2c/2945_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2945",
+        "categorie": "person"
+      },
+      {
+        "id": "2972",
+        "label": "达莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/21/2972_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2972",
+        "categorie": "person"
+      },
+      {
+        "id": "2974",
+        "label": "吉米",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/88/2974_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2974",
+        "categorie": "person"
+      },
+      {
+        "id": "2975",
+        "label": "奇雅鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f3/2975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2975",
+        "categorie": "person"
+      },
+      {
+        "id": "2976",
+        "label": "奇优",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/09/2976_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2976",
+        "categorie": "person"
+      },
+      {
+        "id": "2977",
+        "label": "达雅卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/d2/2977_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2977",
+        "categorie": "person"
+      },
+      {
+        "id": "2981",
+        "label": "阿蒂尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/f0/2981_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2981",
+        "categorie": "person"
+      },
+      {
+        "id": "2982",
+        "label": "古阿姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/1c/2982_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2982",
+        "categorie": "person"
+      },
+      {
+        "id": "2985",
+        "label": "西托曼多拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/5d/2985_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2985",
+        "categorie": "person"
+      },
+      {
+        "id": "2986",
+        "label": "奇米洛夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/96/2986_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2986",
+        "categorie": "person"
+      },
+      {
+        "id": "2988",
+        "label": "罗杰罗姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a2/2988_crt_VrMtR.jpg?r=1363933062",
+        "link": "https://bgm.tv/character/2988",
+        "categorie": "person"
+      },
+      {
+        "id": "2999",
+        "label": "利珑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/6e/2999_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2999",
+        "categorie": "person"
+      },
+      {
+        "id": "3159",
+        "label": "可可爷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/ef/3159_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3159",
+        "categorie": "person"
+      },
+      {
+        "id": "3161",
+        "label": "反螺旋族",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/53/3161_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3161",
+        "categorie": "person"
+      },
+      {
+        "id": "3162",
+        "label": "蕾蒂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/06/3162_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3162",
+        "categorie": "person"
+      },
+      {
+        "id": "3163",
+        "label": "玛肯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/4d/3163_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3163",
+        "categorie": "person"
+      },
+      {
+        "id": "3164",
+        "label": "佐西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b1/3164_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3164",
+        "categorie": "person"
+      },
+      {
+        "id": "3165",
+        "label": "艾拉克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/99/3165_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3165",
+        "categorie": "person"
+      },
+      {
+        "id": "3166",
+        "label": "基德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6d/3166_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3166",
+        "categorie": "person"
+      },
+      {
+        "id": "3167",
+        "label": "乔刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/c8/3167_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3167",
+        "categorie": "person"
+      },
+      {
+        "id": "3168",
+        "label": "巴林波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/39/3168_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3168",
+        "categorie": "person"
+      },
+      {
+        "id": "3169",
+        "label": "阿滕伯勒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/98/3169_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3169",
+        "categorie": "person"
+      },
+      {
+        "id": "3170",
+        "label": "铁匠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/e5/3170_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3170",
+        "categorie": "person"
+      },
+      {
+        "id": "3171",
+        "label": "伽巴路",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/6a/3171_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3171",
+        "categorie": "person"
+      },
+      {
+        "id": "3172",
+        "label": "西蓓拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/5c/3172_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3172",
+        "categorie": "person"
+      },
+      {
+        "id": "3173",
+        "label": "金伯雷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/25/3173_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3173",
+        "categorie": "person"
+      },
+      {
+        "id": "3365",
+        "label": "卜塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/45/3365_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3365",
+        "categorie": "person"
+      },
+      {
+        "id": "9950",
+        "label": "美姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d4/9950_crt_1q35r.jpg",
+        "link": "https://bgm.tv/character/9950",
+        "categorie": "person"
+      },
+      {
+        "id": "2933",
+        "label": "グレンラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/76/2933_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2933",
+        "categorie": "person"
+      },
+      {
+        "id": "2934",
+        "label": "グレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/c1/2934_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2934",
+        "categorie": "person"
+      },
+      {
+        "id": "2935",
+        "label": "ラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/61/2935_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2935",
+        "categorie": "person"
+      },
+      {
+        "id": "2944",
+        "label": "アークグレンラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/1c/2944_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2944",
+        "categorie": "person"
+      },
+      {
+        "id": "2946",
+        "label": "アークグレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/ef/2946_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2946",
+        "categorie": "person"
+      },
+      {
+        "id": "2948",
+        "label": "超銀河グレンラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c0/2948_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2948",
+        "categorie": "person"
+      },
+      {
+        "id": "2952",
+        "label": "天元突破グレンラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/79/2952_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2952",
+        "categorie": "person"
+      },
+      {
+        "id": "2971",
+        "label": "キングキタン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/44/2971_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2971",
+        "categorie": "person"
+      },
+      {
+        "id": "2978",
+        "label": "ダイグレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/dc/2978_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2978",
+        "categorie": "person"
+      },
+      {
+        "id": "2979",
+        "label": "ダヤッカイザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/71/2979_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2979",
+        "categorie": "person"
+      },
+      {
+        "id": "2980",
+        "label": "超銀河ダイグレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/6b/2980_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2980",
+        "categorie": "person"
+      },
+      {
+        "id": "3001",
+        "label": "Dai-Gurren-Dan",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/70/3001_crt_8bb2I.jpg",
+        "link": "https://bgm.tv/character/3001",
+        "categorie": "person"
+      },
+      {
+        "id": "3003",
+        "label": "エンキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/38/3003_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3003",
+        "categorie": "person"
+      },
+      {
+        "id": "3004",
+        "label": "エンキドゥ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/47/3004_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3004",
+        "categorie": "person"
+      },
+      {
+        "id": "3005",
+        "label": "エンキドゥドゥ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/61/3005_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3005",
+        "categorie": "person"
+      },
+      {
+        "id": "3028",
+        "label": "シュザック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/df/3028_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3028",
+        "categorie": "person"
+      },
+      {
+        "id": "3029",
+        "label": "ゲンバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/ba/3029_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3029",
+        "categorie": "person"
+      },
+      {
+        "id": "3030",
+        "label": "セイルーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/95/3030_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3030",
+        "categorie": "person"
+      },
+      {
+        "id": "3031",
+        "label": "ビャコウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/d6/3031_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3031",
+        "categorie": "person"
+      },
+      {
+        "id": "3033",
+        "label": "ラゼンガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2e/3033_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3033",
+        "categorie": "person"
+      },
+      {
+        "id": "3045",
+        "label": "ダイガンザン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/bf/3045_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3045",
+        "categorie": "person"
+      },
+      {
+        "id": "3077",
+        "label": "グレンラガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/3f/3077_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3077",
+        "categorie": "person"
+      },
+      {
+        "id": "3151",
+        "label": "デカブツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/c3/3151_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3151",
+        "categorie": "person"
+      },
+      {
+        "id": "3152",
+        "label": "ダイガンカイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/cb/3152_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3152",
+        "categorie": "person"
+      },
+      {
+        "id": "3153",
+        "label": "ダイガンテン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/ea/3153_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3153",
+        "categorie": "person"
+      },
+      {
+        "id": "3154",
+        "label": "ダイガンド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/bd/3154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3154",
+        "categorie": "person"
+      },
+      {
+        "id": "3155",
+        "label": "キヤルンガ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/2b/3155_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3155",
+        "categorie": "person"
+      },
+      {
+        "id": "3156",
+        "label": "スペースキングキタン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/27/3156_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3156",
+        "categorie": "person"
+      },
+      {
+        "id": "3157",
+        "label": "スペースダヤッカイザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/45/3157_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3157",
+        "categorie": "person"
+      },
+      {
+        "id": "3158",
+        "label": "グランゼボーア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/d9/3158_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3158",
+        "categorie": "person"
+      },
+      {
+        "id": "6016",
+        "label": "秋姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/39/6016_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6016",
+        "categorie": "person"
+      },
+      {
+        "id": "9949",
+        "label": "ツーマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/fb/9949_crt_bBaQY.jpg",
+        "link": "https://bgm.tv/character/9949",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      },
+      {
+        "id": "20960",
+        "label": "月球",
+        "info": "再....再怎么看我，你也不会变身的！",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c7/20960_crt_7WnuC.jpg?r=1452729795",
+        "link": "https://bgm.tv/character/20960",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

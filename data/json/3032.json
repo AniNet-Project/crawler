@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12816",
+        "label": "小光",
+        "info": "小光（英文：Dawn，日文：ヒカリ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪钻石珍珠》的女主角。她的梦想是成为世界上最伟大的口袋妖怪协调训练家。她拥有圆企鹅、帕奇利兹及象牙猪等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/fe/12816_crt_5S5GE.jpg",
+        "link": "https://bgm.tv/character/12816",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2421",
+        "label": "皮丘",
+        "info": "皮丘是一个浅黄色的小老鼠宝可梦，它耳朵被黑色物体围住，颈部也有一些黑色物，它的尾巴也是黑色的。它的脸颊中有粉红色的蓄电箱，是一个很可爱的宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/04/2421_crt_5y7pd.jpg",
+        "link": "https://bgm.tv/character/2421",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

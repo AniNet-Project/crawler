@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19535",
+        "label": "金姆",
+        "info": "英文常用的称呼包括Kim、Kim Possible和KP。台湾版将Kim称为金姆，而Kim Possible称为麻辣女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c9/19535_crt_O2dsS.jpg",
+        "link": "https://bgm.tv/character/19535",
+        "categorie": "person"
+      },
+      {
+        "id": "19536",
+        "label": "冲不停",
+        "info": "英文一般称为Ron或Stoppable。台湾版除了在《Bueno Nacho》用过荣恩冲不停的称呼，其余一律使用冲不停。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/0a/19536_crt_RK27I.jpg",
+        "link": "https://bgm.tv/character/19536",
+        "categorie": "person"
+      },
+      {
+        "id": "19537",
+        "label": "伟德",
+        "info": "年仅10岁便修完大学课程的天才儿童。管理金姆的网站，通知金姆需要出任务的状况并给予支援，也帮金姆制作出任务的用具。足不出户，仅靠电脑网络或自制通讯器与金姆互动。金姆和冲不停有几次以为可以和他本人见面，但是最后出现的是通讯机器人或电脑。在第二季《A Sitch in Time》金姆和冲不停因为时空旅行遇到未来的伟德，到第三季《Team Impossible》金姆和冲不停首度遇到现在的伟德。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/36/19537_crt_i99YM.jpg",
+        "link": "https://bgm.tv/character/19537",
+        "categorie": "person"
+      },
+      {
+        "id": "19538",
+        "label": "席果",
+        "info": "杜肯的跟班，冷艳的女恶徒，被11个国家通缉。淡绿皮肤，穿着绿、黑双色不对称的连身衣裤。武功高强，性好逞凶斗狠，主要的工作是代替毫无战斗能力的杜肯与人打斗，常与金姆杀得难分难解。虽然是杜肯的手下，但比杜肯凶悍得多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/f8/19538_crt_44C7G.jpg",
+        "link": "https://bgm.tv/character/19538",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

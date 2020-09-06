@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11193",
+        "label": "永井笃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/17/11193_crt_RIHr1.jpg",
+        "link": "https://bgm.tv/character/11193",
+        "categorie": "person"
+      },
+      {
+        "id": "11194",
+        "label": "本田贤三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/70/11194_crt_2GKhu.jpg",
+        "link": "https://bgm.tv/character/11194",
+        "categorie": "person"
+      },
+      {
+        "id": "11195",
+        "label": "齐藤寿久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/70/11195_crt_GGwLW.jpg",
+        "link": "https://bgm.tv/character/11195",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

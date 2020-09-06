@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65980",
+        "label": "巽幸太郎",
+        "info": "神秘的偶像经纪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/db/65980_crt_eg9Mh.jpg?r=1536563157",
+        "link": "https://bgm.tv/character/65980",
+        "categorie": "person"
+      },
+      {
+        "id": "65981",
+        "label": "源樱",
+        "info": "长发上佩戴着水珠花纹绸带是其魅力点的僵尸1号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/17/65981_crt_eGeOV.jpg?r=1539418849",
+        "link": "https://bgm.tv/character/65981",
+        "categorie": "person"
+      },
+      {
+        "id": "65982",
+        "label": "二阶堂咲",
+        "info": "金发马尾，闪着锐利眼神的僵尸2号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/32/65982_crt_czZTY.jpg?r=1544204008",
+        "link": "https://bgm.tv/character/65982",
+        "categorie": "person"
+      },
+      {
+        "id": "65985",
+        "label": "水野爱",
+        "info": "黑色短发上戴着黄色花瓣发饰的僵尸3号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/02/65985_crt_Pdi63.jpg?r=1541221186",
+        "link": "https://bgm.tv/character/65985",
+        "categorie": "person"
+      },
+      {
+        "id": "65986",
+        "label": "绀野纯子",
+        "info": "有着通透肌肤、忧郁表情的美人僵尸4号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/45/65986_crt_4cre2.jpg?r=1542780355",
+        "link": "https://bgm.tv/character/65986",
+        "categorie": "person"
+      },
+      {
+        "id": "65987",
+        "label": "夕雾",
+        "info": "束起长发，装容妖艳的魅力僵尸5号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/f1/65987_crt_8lz8z.jpg?r=1536564488",
+        "link": "https://bgm.tv/character/65987",
+        "categorie": "person"
+      },
+      {
+        "id": "65988",
+        "label": "星川莉莉",
+        "info": "双马尾和头上的星形发饰为特征的僵尸6号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/d6/65988_crt_D7bBT.jpg?r=1545298208",
+        "link": "https://bgm.tv/character/65988",
+        "categorie": "person"
+      },
+      {
+        "id": "65989",
+        "label": "山田多惠",
+        "info": "黑色长发的僵尸0号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/8c/65989_crt_VvL6k.jpg?r=1536564713",
+        "link": "https://bgm.tv/character/65989",
+        "categorie": "person"
+      },
+      {
+        "id": "65990",
+        "label": "警察官A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/39/65990_crt_foUSg.jpg?r=1536564783",
+        "link": "https://bgm.tv/character/65990",
+        "categorie": "person"
+      },
+      {
+        "id": "65991",
+        "label": "罗梅罗",
+        "info": "幸太郎养的僵尸狗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/54/65991_crt_aA08W.jpg?r=1536564878",
+        "link": "https://bgm.tv/character/65991",
+        "categorie": "person"
+      },
+      {
+        "id": "67215",
+        "label": "死金大叔A",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67215",
+        "categorie": "person"
+      },
+      {
+        "id": "67216",
+        "label": "死金大叔B",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67216",
+        "categorie": "person"
+      },
+      {
+        "id": "67413",
+        "label": "久中制药广报部长",
+        "info": "佐賀県屈指の架空の大手製薬会社、久中製薬の広報部長で、フランシュシュに嬉野の温泉旅館で行われる営業のピンチヒッターを依頼した。フランシュシュの自社製品のPRも盛り込んだパフォーマンスに大変に満足していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/59/67413_crt_4viW6.jpg",
+        "link": "https://bgm.tv/character/67413",
+        "categorie": "person"
+      },
+      {
+        "id": "67026",
+        "label": "“DriveIn鸟”社长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/b1/67026_crt_qSwJJ.jpg?r=1543461547",
+        "link": "https://bgm.tv/character/67026",
+        "categorie": "person"
+      },
+      {
+        "id": "67027",
+        "label": "大古场新太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/53/67027_crt_exxXg.jpg",
+        "link": "https://bgm.tv/character/67027",
+        "categorie": "person"
+      },
+      {
+        "id": "67028",
+        "label": "犬走",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/7b/67028_crt_6Q8jM.jpg",
+        "link": "https://bgm.tv/character/67028",
+        "categorie": "person"
+      },
+      {
+        "id": "67412",
+        "label": "诗织",
+        "info": "アイアンフリルの2018年現在のメンバーの1人で、センターボーカルを務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/13/67412_crt_3RrbL.jpg?r=1542983791",
+        "link": "https://bgm.tv/character/67412",
+        "categorie": "person"
+      },
+      {
+        "id": "67411",
+        "label": "豪刚雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/02/67411_crt_O7yEE.jpg?r=1542975362",
+        "link": "https://bgm.tv/character/67411",
+        "categorie": "person"
+      },
+      {
+        "id": "67500",
+        "label": "天本",
+        "info": "豪剛雄の会社の同僚。剛雄がテレビを観られなくなった事情を知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/07/67500_crt_yY1hm.jpg",
+        "link": "https://bgm.tv/character/67500",
+        "categorie": "person"
+      },
+      {
+        "id": "67501",
+        "label": "天吹丽子",
+        "info": "サキが生前所属していた暴走族「怒羅美」の仲間であり、初代総長。現在では母親となり、娘の万梨阿の身を案じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/ac/67501_crt_mVO4v.jpg",
+        "link": "https://bgm.tv/character/67501",
+        "categorie": "person"
+      },
+      {
+        "id": "67502",
+        "label": "天吹万梨阿",
+        "info": "麗子の一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/11/67502_crt_BsSbs.jpg",
+        "link": "https://bgm.tv/character/67502",
+        "categorie": "person"
+      },
+      {
+        "id": "67503",
+        "label": "东鹤美沙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/00/67503_crt_K0diD.jpg",
+        "link": "https://bgm.tv/character/67503",
+        "categorie": "person"
+      },
+      {
+        "id": "67691",
+        "label": "老板",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67691",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

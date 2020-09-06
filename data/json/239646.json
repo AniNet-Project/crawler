@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66549",
+        "label": "矢逆一稀",
+        "info": "中学2年生。かつてはサッカーが好きな明るい少年だったが、今は「あること」に夢中である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/33/66549_crt_ovAfD.jpg?r=1541926842",
+        "link": "https://bgm.tv/character/66549",
+        "categorie": "person"
+      },
+      {
+        "id": "66991",
+        "label": "久慈悠",
+        "info": "一稀のクラスに転校してきた少年。悪い噂があり、クラスでも孤立している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/a8/66991_crt_DLV7d.jpg?r=1541926942",
+        "link": "https://bgm.tv/character/66991",
+        "categorie": "person"
+      },
+      {
+        "id": "66992",
+        "label": "阵内燕太",
+        "info": "一稀の幼なじみ。一稀がサッカー部にいたころ、2人は“ゴールデンコンビ”だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/ef/66992_crt_Btxmc.jpg?r=1541926862",
+        "link": "https://bgm.tv/character/66992",
+        "categorie": "person"
+      },
+      {
+        "id": "66993",
+        "label": "ケッピ",
+        "info": "カッパ王国第１王位継承者を自称する謎のカッパ型生命体。人間の尻子玉を抜いてカッパにしてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/b8/66993_crt_Kjk93.jpg",
+        "link": "https://bgm.tv/character/66993",
+        "categorie": "person"
+      },
+      {
+        "id": "66897",
+        "label": "新星玲央",
+        "info": "交番に勤務する警官で、真武の相棒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/6f/66897_crt_f3ILa.jpg?r=1541926807",
+        "link": "https://bgm.tv/character/66897",
+        "categorie": "person"
+      },
+      {
+        "id": "66898",
+        "label": "阿久津真武",
+        "info": "交番に勤務する警官で、玲央の相棒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b2/66898_crt_3Yu1y.jpg?r=1541926814",
+        "link": "https://bgm.tv/character/66898",
+        "categorie": "person"
+      },
+      {
+        "id": "68915",
+        "label": "吾妻沙罗",
+        "info": "浅草のローカル番組「サクササラテレビ」のMCを務めるご当地アイドル",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/58/68915_crt_vKEjC.jpg?r=1557296201",
+        "link": "https://bgm.tv/character/68915",
+        "categorie": "person"
+      },
+      {
+        "id": "69135",
+        "label": "久慈誓",
+        "info": "悠の兄。悪いことを生業としており、常に危険な状態に身をさらしている。今は悠とは離れて暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/47/69135_crt_xbd66.jpg?r=1552007138",
+        "link": "https://bgm.tv/character/69135",
+        "categorie": "person"
+      },
+      {
+        "id": "69692",
+        "label": "矢逆春河",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/bf/69692_crt_WyL6j.jpg?r=1555674816",
+        "link": "https://bgm.tv/character/69692",
+        "categorie": "person"
+      },
+      {
+        "id": "69693",
+        "label": "阵内音宁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/d5/69693_crt_YI4RI.jpg?r=1555674515",
+        "link": "https://bgm.tv/character/69693",
+        "categorie": "person"
+      },
+      {
+        "id": "69694",
+        "label": "ゾンビ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/69694",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

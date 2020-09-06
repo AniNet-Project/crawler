@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21634",
+        "label": "社清春",
+        "info": "关西棋院的职业棋士，大胆、敢于尝试研究未完全的新下法，例如初手天元、初手五五等。和亮、光在北斗杯中均为日本代表，两场都担任三将，惨遭二连败。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/8d/21634_crt_CN12p.jpg?r=1380978083",
+        "link": "https://bgm.tv/character/21634",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

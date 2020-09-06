@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17198",
+        "label": "美夕",
+        "info": "監視者として神魔を狩るヴァンパイア。普通の人間である父と先代の監視者である母との間に生まれた。伝説上の吸血鬼とは違って日中でも平然と活動し、十字架や聖水も受け付けない。美夕に血を吸われた者は幸福感の中で永遠の時を生きる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/84/17198_crt_WeGKy.jpg",
+        "link": "https://bgm.tv/character/17198",
+        "categorie": "person"
+      },
+      {
+        "id": "17199",
+        "label": "拉法",
+        "info": "美夕の忠実なしもべである西洋神魔。黒いマントで体を覆い、素顔は仮面で隠されている。武器は鋭い爪。監視者として目覚める前の美夕を始末するため日本にやってくるが、美夕に血を吸われ、罰として言葉と顔を奪われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/54/17199_crt_yIAjj.jpg",
+        "link": "https://bgm.tv/character/17199",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

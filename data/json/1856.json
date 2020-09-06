@@ -1,0 +1,573 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1985",
+        "label": "中岛阳子",
+        "info": "景王 赤子，生于现代日本（蓬莱）的高中生，原名中岛阳子，为胎果。庆国麒麟景麒从常世（十二国的世界）远渡而来寻找国王，从她身上感到王气所在，并把她带回庆国。在延王的协助下推翻伪王，成为庆国的新君主，年号赤乐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/36/1985_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1985",
+        "categorie": "person"
+      },
+      {
+        "id": "11246",
+        "label": "景麒",
+        "info": "《十二国记》人物。庆国的麒麟，雄性（雄为麒，雌为麟），外表是普通的金发。性格内向，不善于表达自己的感情，表情变化也不丰富。寡言，但在督促中岛阳子的事情上却是非常的殷勤，（阳子语：\"麒麟都是这么喜欢唠叨的吗？\"）总之是乍看之下很不好相处的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/8a/11246_crt_Sp6H4.jpg",
+        "link": "https://bgm.tv/character/11246",
+        "categorie": "person"
+      },
+      {
+        "id": "55097",
+        "label": "尚隆",
+        "info": "雁州国国主，延。姓小松，名三郎，字尚隆。胎果生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e8/55097_crt_P1JEz.jpg",
+        "link": "https://bgm.tv/character/55097",
+        "categorie": "person"
+      },
+      {
+        "id": "5059",
+        "label": "六太",
+        "info": "雁国的麒麟，雁国的宰辅，同时也是首都州靖州的州侯。胎果生，字马鹿(因尚隆说麒麟是介于马和鹿之间的生物，同时马鹿的日文发音有“笨蛋”的意思。)",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/11/5059_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5059",
+        "categorie": "person"
+      },
+      {
+        "id": "5061",
+        "label": "泰麒",
+        "info": "出生于蓬莱，姓高里、名要，现任的泰麒，为百年难得一见、传说出现时天下必有大吉(或大凶)之事的黑麒麟，有着钢色的鬣毛。和延麒同为胎果，蒿里为主君骁宗根据其姓所赐的字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/66/5061_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5061",
+        "categorie": "person"
+      },
+      {
+        "id": "11876",
+        "label": "乐俊",
+        "info": "本名张清，乐俊为字，为半兽，兽形为老鼠，人类外表则为面目清秀的青年，个性好学同时善解人意。初遇阳子时为22岁，因为巧国歧视半兽的政策，加上想帮助阳子，而像母亲告别与阳子一同前往雁国，阳子也因为他而知道十二国的世界架构和制度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/66/11876_crt_23JYN.jpg",
+        "link": "https://bgm.tv/character/11876",
+        "categorie": "person"
+      },
+      {
+        "id": "5060",
+        "label": "苍猿",
+        "info": "水禺刀剑鞘，只有阳子才看得见他。用某些方法让阳子正视自己心中的不安与疑惑。水禺刀可使主人随意看见过去与未来，但若主人意志不够坚定，则会映照出主人内心所不愿见到的事物或故意忽视的事实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/74/5060_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5060",
+        "categorie": "person"
+      },
+      {
+        "id": "60130",
+        "label": "白汕子",
+        "info": "在泰果(泰麒的卵果)遭蚀卷走之际，直到泰麒自蓬莱被接回为止的十年之间，皆没有说过一句话，对泰麒有着深刻的母爱，也因此和服侍、关照泰麒起居的女仙蓉可较有交情。透过廉麟运用宝重‧吴刚环蛇将泰麒自蓬莱接回(泰麒的“神隐”事件的原因)，之后便随侍在泰麒之侧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/86/60130_crt_0t60S.jpg",
+        "link": "https://bgm.tv/character/60130",
+        "categorie": "person"
+      },
+      {
+        "id": "5064",
+        "label": "大木铃",
+        "info": "大木玲是随蚀而漂流到十二国世界的海客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/74/5064_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5064",
+        "categorie": "person"
+      },
+      {
+        "id": "11301",
+        "label": "祥琼",
+        "info": "姓孙、名昭，原芳国冽王(仲鞑)公主，在十三岁时因父亲与峰麟誓约为王而升仙(王的直系亲属可以随王登基而拥有仙的身分)入鹰隼宫，在父亲执政的三十年间被如同掌上明珠般养育在深宫之中，人称“鹰隼有一琼(宝玉)”即是指这位公主。但在不知世情的情况下成长，对自己做为王的亲族的责任无所自觉，因此在父亲实行暴政时没有做到劝谏父王的职责。当仲鞑、佳花夫妇被惠州侯月溪斩首时，祥琼的仙籍也一并被月溪除去，直到与乐俊相遇、体认到自己过去的失职前都对月溪抱持深刻的恨意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/b3/11301_crt_KSH9m.jpg",
+        "link": "https://bgm.tv/character/11301",
+        "categorie": "person"
+      },
+      {
+        "id": "60085",
+        "label": "浩瀚",
+        "info": "元・麦州侯。松塾出身。舒栄を偽王と断じて抵抗するも、陽子率いる偽王討伐兵がそれを聞いて駆けつけた時には既に偽王軍に捕らえられた後だった。唯一偽王に下らなかった州候で、それを逆手に靖共によって謀反の疑惑をかけられ、国外追放に処され、移送中に靖共の手下に襲われるも桓魋達によって難を逃れる。和州の乱後には潔白が証明され、六官の長である冢宰に就任。有能で怜悧な人物。見た目は30歳前後。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60085",
+        "categorie": "person"
+      },
+      {
+        "id": "60087",
+        "label": "桓魋",
+        "info": "姓名は青辛（せいしん）。浩瀚の部下で元・麦州師左将軍。浩瀚の救助と呀峰の悪行を朝廷に知らしめるために明郭で反乱軍を結成していた。武官に追われていた祥瓊を助け仲間に引き込む。熊の半獣であり、華奢な見た目以上の怪力を持つ。殊恩党が起こした止水郷襲撃を利用して和州州都・明郭を配下の兵士に襲撃させる。和州の乱後は禁軍左将軍を務める。人員不足のため下位の兵士の訓練にも将軍である彼が駆り出されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/6e/60087_crt_IrjMw.jpg",
+        "link": "https://bgm.tv/character/60087",
+        "categorie": "person"
+      },
+      {
+        "id": "5070",
+        "label": "虎啸",
+        "info": "夕辉的哥哥，拓峰起义的发起者。身材粗犷力气大，为人古道热肠，一开始怀疑阳子为呀峰等人的间谍而和她冲突不断，后来得知阳子要救远甫而站在同一阵线，最终在得知阳子真实身份为景王后呆若木鸡，在和州乱事平定后进入金波宫作为大仆供职，保护阳子的安全。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/74/5070_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5070",
+        "categorie": "person"
+      },
+      {
+        "id": "60089",
+        "label": "夕晖",
+        "info": "虎啸之弟，天资聪颖，在松塾被烧毁之前曾向远甫求教。在上庠的成绩优秀，但因户籍在和州，成为官吏也就意味着得当呀峰的走狗，而撕毁了录取通知书。在和州之乱中作为叛军的谋士，之后进入瑛州的少学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/1b/60089_crt_Rzz5l.jpg",
+        "link": "https://bgm.tv/character/60089",
+        "categorie": "person"
+      },
+      {
+        "id": "60090",
+        "label": "远甫",
+        "info": "姓名为乙悦（おつえつ），出身麦州产县支锦(现称支松)。罕见的靠己力升仙的飞仙，号老松。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/b7/60090_crt_E0Nff.jpg",
+        "link": "https://bgm.tv/character/60090",
+        "categorie": "person"
+      },
+      {
+        "id": "5068",
+        "label": "苏兰桂",
+        "info": "兰玉的弟弟，昵称桂桂，年幼便失去父母。个性活泼亲人，聪明能干，兰玉深深引以为傲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/47/5068_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5068",
+        "categorie": "person"
+      },
+      {
+        "id": "60092",
+        "label": "苏兰玉",
+        "info": "桂桂的姐姐，因予王下令驱逐所有女性，不得不带着弟弟东躲西藏。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60092",
+        "categorie": "person"
+      },
+      {
+        "id": "5067",
+        "label": "清秀",
+        "info": "有着一头蜜柑色头发的少年，出身庆国南方边境。开朗勤快，讨人喜欢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/04/5067_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5067",
+        "categorie": "person"
+      },
+      {
+        "id": "60091",
+        "label": "玉叶",
+        "info": "负责照顾阳子的女官，对于礼制相当熟悉，阳子曾想将她荐入春官机构，但遭靖共派的官员反对，是和州之乱前阳子在金波宫中除了景麒外唯一能信任的人。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60091",
+        "categorie": "person"
+      },
+      {
+        "id": "60093",
+        "label": "舒觉",
+        "info": "字恩幸（おんこう），执政时年号予青。性格温柔内向、心思细腻。原本出身于庆国一介商人的家庭，对未来仅抱持着相夫教子、平静生活的微薄梦想，但是因为身负王气而与景麒誓约登基。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60093",
+        "categorie": "person"
+      },
+      {
+        "id": "60097",
+        "label": "舒荣",
+        "info": "字花丽，舒觉之妹，自小就以美貌和才气而闻名并庇护着没有自信、内向的姐姐恩幸。在景麒到来时深信下一任王就是自己，但是被选上的却是姐姐，因此对姐姐抱持复杂的感情。在舒觉即位以后，因为其不堪孤独而让妹妹升仙入宫，在一段时间中为逃避现实的姐姐代行政务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/c6/60097_crt_JNn8J.jpg",
+        "link": "https://bgm.tv/character/60097",
+        "categorie": "person"
+      },
+      {
+        "id": "60098",
+        "label": "昇纮",
+        "info": "原庆国和州止水乡乡长，唯一有办法完成收七成税的乡长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/82/60098_crt_FiqL8.jpg",
+        "link": "https://bgm.tv/character/60098",
+        "categorie": "person"
+      },
+      {
+        "id": "5069",
+        "label": "呀峰",
+        "info": "原庆国和州州侯，向予王献上庭园而受到予王信任，被任命为和州侯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/9c/5069_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5069",
+        "categorie": "person"
+      },
+      {
+        "id": "60099",
+        "label": "靖共",
+        "info": "原庆国冢宰，后被贬为天官长。在伪王时期指使呀峰烧毁私塾，阳子即位后害怕罪行被发现，劫持远甫。在和州之乱时擅自调动禁军，而被降罪。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60099",
+        "categorie": "person"
+      },
+      {
+        "id": "60113",
+        "label": "杨朱衡",
+        "info": "雁国的官吏，原为内史中的下官。在尚隆刚即位时，曾问“复兴雁的兴王和毁灭雁的灭王，您喜欢哪个做自己的谥号”，因而被赐别字无谋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/e7/60113_crt_6CkK7.jpg",
+        "link": "https://bgm.tv/character/60113",
+        "categorie": "person"
+      },
+      {
+        "id": "60114",
+        "label": "帷湍",
+        "info": "雁国的官吏，在尚隆即位时为地官田猎。在延王尚隆即位的祭典上，抓着一本户口簿丢到尚隆的脚下大喊，指责尚隆因迟迟未登基而死去了多少百姓，因而被赐别字猪突。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/8e/60114_crt_1bPQn.jpg",
+        "link": "https://bgm.tv/character/60114",
+        "categorie": "person"
+      },
+      {
+        "id": "60115",
+        "label": "成笙",
+        "info": "雁国禁军将军，在枭王时代担任左将军一职。曾向枭王进言而惹怒王，但因枭王不忍杀之而被监禁于狱中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/50/60115_crt_3CQQA.jpg",
+        "link": "https://bgm.tv/character/60115",
+        "categorie": "person"
+      },
+      {
+        "id": "60116",
+        "label": "壁落人",
+        "info": "芳陵城中少学的教师。出生于静冈县的海客，年轻时曾参与东大安田讲堂事件，偶然从扭曲的空间来到十二国后从庆国流亡到雁国，在芳陵担任教师后开始做关于海客的研究，阳子曾为了搞清楚自己的身份而像他寻求协助，动画版点出阳子身份为新任景王的关键角色，亦曾收留杉本，并劝杉本回到日本后和家人好好沟通。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/de/60116_crt_NuPj0.jpg",
+        "link": "https://bgm.tv/character/60116",
+        "categorie": "person"
+      },
+      {
+        "id": "60119",
+        "label": "斡由",
+        "info": "元州侯元魁之子，已死亡。姓名为接祐（せつゆう），氏元。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c0/60119_crt_Gb0jC.jpg",
+        "link": "https://bgm.tv/character/60119",
+        "categorie": "person"
+      },
+      {
+        "id": "60120",
+        "label": "驳更夜",
+        "info": "是个被父母抛弃的男孩，被妖魔养大，并叫妖魔大家伙。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60120",
+        "categorie": "person"
+      },
+      {
+        "id": "5072",
+        "label": "骊媚",
+        "info": "原为刑司的官员，后受延王信任，出任元州牧伯，元州叛乱时，解开六太额头上的封印而死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/e8/5072_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5072",
+        "categorie": "person"
+      },
+      {
+        "id": "60129",
+        "label": "乍骁宗",
+        "info": "姓朴、名综，字骁宗，戴国委州出身，于戴国先王‧骄王时代拜禁军左军将军，封乍县，以领地名为氏。为现任泰王(但现在行踪不明)，年号弘始。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/5a/60129_crt_uogxU.jpg",
+        "link": "https://bgm.tv/character/60129",
+        "categorie": "person"
+      },
+      {
+        "id": "5063",
+        "label": "李斋",
+        "info": "姓刘、名紫，原属戴国承州师，与骁宗相同为泰麒升麒麟旗后第一批昇山者，于昇山仪式中与泰麒、骁宗相识，为骁宗赏识其人品及才能，在其即位后调任首都瑞州师中军将军(直属于王的六军之一)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/a0/5063_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5063",
+        "categorie": "person"
+      },
+      {
+        "id": "11595",
+        "label": "珠晶",
+        "info": "原名蔡晶，字珠晶，年仅12，曾是恭国首富的小女儿，怀有一颗正义感过剩的半大童心，偷跑出家去升山，并在途中显出领袖潜力和魄力，最终得到供麒认可成为同代中的“罗莉王”，其故事“图南之翼”未动画化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/f4/11595_crt_kh4ke.jpg",
+        "link": "https://bgm.tv/character/11595",
+        "categorie": "person"
+      },
+      {
+        "id": "60138",
+        "label": "供麒",
+        "info": "现任供麒。恭国的宰辅和纬州侯。麒麟化人型的的样子都大多是纤瘦细长(像是景骐和采麟)，然而供麒的身型却是一幅虎背熊腰的模样，发色为金中带铜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/4b/60138_crt_pTFVa.jpg",
+        "link": "https://bgm.tv/character/60138",
+        "categorie": "person"
+      },
+      {
+        "id": "60143",
+        "label": "鸭世卓",
+        "info": "现任廉王，治世约30年左右，农民出身。初敕为“所有人民都健康”。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60143",
+        "categorie": "person"
+      },
+      {
+        "id": "60144",
+        "label": "廉麟",
+        "info": "现任涟极国麒麟，外表为18岁。发色为明亮的金。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/6b/60144_crt_W85B5.jpg",
+        "link": "https://bgm.tv/character/60144",
+        "categorie": "person"
+      },
+      {
+        "id": "60145",
+        "label": "错王",
+        "info": "塙王，已驾崩。治世50年，与舜国关系良好。姓张，原为地方士兵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/a0/60145_crt_gHZhF.jpg",
+        "link": "https://bgm.tv/character/60145",
+        "categorie": "person"
+      },
+      {
+        "id": "60146",
+        "label": "塙和",
+        "info": "塙麟，已亡。外表约26~27岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/86/60146_crt_4uj43.jpg",
+        "link": "https://bgm.tv/character/60146",
+        "categorie": "person"
+      },
+      {
+        "id": "60149",
+        "label": "达姐",
+        "info": "陽子（アニメでは杉本と浅野も）が巧国を彷徨う中、生きるのに困って押し入った家主。青い目で大柄の中年女性。歳の離れた夫とは子供を亡くした後に別れた。夫の服を陽子に与えるなど陽子に優しく接するが、本当は町で娼館を営む母のもとに売り飛ばそうとしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/94/60149_crt_nsdo3.jpg",
+        "link": "https://bgm.tv/character/60149",
+        "categorie": "person"
+      },
+      {
+        "id": "60150",
+        "label": "松山诚三",
+        "info": "居于巧国的海客，对于阳子能够跟十二国的人们沟通感到心理不平衡，后出卖阳子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/7c/60150_crt_uT2d8.jpg",
+        "link": "https://bgm.tv/character/60150",
+        "categorie": "person"
+      },
+      {
+        "id": "5058",
+        "label": "浅野郁也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/fb/5058_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5058",
+        "categorie": "person"
+      },
+      {
+        "id": "5062",
+        "label": "蓉可",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/c7/5062_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5062",
+        "categorie": "person"
+      },
+      {
+        "id": "5065",
+        "label": "梨耀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/0b/5065_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5065",
+        "categorie": "person"
+      },
+      {
+        "id": "5066",
+        "label": "采王黄姑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/b3/5066_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5066",
+        "categorie": "person"
+      },
+      {
+        "id": "5071",
+        "label": "更夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/57/5071_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5071",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "60079",
+        "label": "白芥瑚",
+        "info": "景麒的女怪名叫白芥瑚（一般都称芥瑚，省略掉姓）。有白色羽毛的鸟女。翅膀像手臂一样，背上有金茶色的条纹，脚上的羽毛能覆盖到身体，长长的尾巴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/73/60079_crt_1JMBS.jpg",
+        "link": "https://bgm.tv/character/60079",
+        "categorie": "person"
+      },
+      {
+        "id": "60080",
+        "label": "冗佑",
+        "info": "宾满，是一种水妖，可以变化，进入人体后可以控制人的行动，但如果人闭上眼睛它就不能行动了。感觉上是最实用的妖魔，它让不会武术的女主角阳子能够使用剑术，因此阳子多次死里逃生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/19/60080_crt_Pp1qJ.jpg",
+        "link": "https://bgm.tv/character/60080",
+        "categorie": "person"
+      },
+      {
+        "id": "60081",
+        "label": "班渠",
+        "info": "像棕褐色大型犬的兽。据考证为【犭也】狼。（《山海经·中山经·蛇山》中述：有兽焉，其状如狐，而白尾长耳，名【犭也】狼，见则国内有兵。）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/35/60081_crt_7t2eN.jpg",
+        "link": "https://bgm.tv/character/60081",
+        "categorie": "person"
+      },
+      {
+        "id": "60082",
+        "label": "骠骑",
+        "info": "暗红色的豹，其实是穷奇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/03/60082_crt_8DD5R.jpg",
+        "link": "https://bgm.tv/character/60082",
+        "categorie": "person"
+      },
+      {
+        "id": "60083",
+        "label": "重朔",
+        "info": "与狒狒相似的兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/a2/60083_crt_CtgJt.jpg?r=1515542488",
+        "link": "https://bgm.tv/character/60083",
+        "categorie": "person"
+      },
+      {
+        "id": "60084",
+        "label": "雀胡",
+        "info": "飞鼠，是一种很小的妖魔，基本上属于人畜无害的那种。是教导泰麒时景麒收下的使令。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/09/60084_crt_p06Lm.jpg",
+        "link": "https://bgm.tv/character/60084",
+        "categorie": "person"
+      },
+      {
+        "id": "60086",
+        "label": "柴望",
+        "info": "浩瀚の部下で、元・麦州州宰。浩瀚が冢宰に任じられると同時に和州侯に任じられる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60086",
+        "categorie": "person"
+      },
+      {
+        "id": "60088",
+        "label": "劳蕃生",
+        "info": "发色为斑驳的茶色。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60088",
+        "categorie": "person"
+      },
+      {
+        "id": "60094",
+        "label": "秋官长",
+        "info": "姓名不明，庆国的秋官长。三公被指控叛乱时被任命为三公(实为贬官，因为三公并无实权)在阳子不在玉座时，贿赂靖共，复予原职。动画版属于靖共一派(原作则不明)，和州之乱后侥幸保住官位，但被阳子警告必须公正处置靖共等人。原作中并未对其外貌多做描述，动画中外貌为三十岁上下的女性。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60094",
+        "categorie": "person"
+      },
+      {
+        "id": "60095",
+        "label": "夏官长",
+        "info": "姓名不明，原庆国夏官长，对靖共言听计从。动画版属于靖共一派(原作则不明)，动画中外貌为三十岁上下的男性。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60095",
+        "categorie": "person"
+      },
+      {
+        "id": "60096",
+        "label": "迅雷",
+        "info": "原庆国禁军将军左将军，和州之乱时受靖共之命出兵拓峰，被阳子知道后与禁军中、右将军三人一同请辞。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60096",
+        "categorie": "person"
+      },
+      {
+        "id": "60100",
+        "label": "小司马",
+        "info": "和州止水郷に属する、夏官府を統轄する武官。もとは一介の流賊だったが、かつて松塾を焼き討ちにした報酬として、官職を得る。小説版では陽子たちの会話で登場する。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60100",
+        "categorie": "person"
+      },
+      {
+        "id": "60111",
+        "label": "白沃飞",
+        "info": "六太的女怪",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60111",
+        "categorie": "person"
+      },
+      {
+        "id": "60112",
+        "label": "俐角",
+        "info": "种族为锖翡（しょうひ)。拥有浓密灰毛，以及三条尾巴的狼。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60112",
+        "categorie": "person"
+      },
+      {
+        "id": "60117",
+        "label": "鸣贤",
+        "info": "楽俊の大学での友人。『書簡』の時点で26歳。半獣であるがゆえに差別を受ける楽俊を庇い、世話を焼く。鳴賢は別字で、成年になる前に入学する者は珍しい大学に19歳で入って来たことから「賢さが鳴り響く」意味で名付けられた。最近、落ちこぼれつつある。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60117",
+        "categorie": "person"
+      },
+      {
+        "id": "60118",
+        "label": "蛛枕",
+        "info": "楽俊の大学での友人。本来の字は進達だが、誰もこの名では呼ばない。名前の由来は「勉学熱心で眠らないあまり枕に蜘蛛の巣がかかるほどだ」という風評から。妻帯者。8年間大学に在籍した後に学業不振による除籍から逃れるため[20]と経済的困窮から大学を自主退学、楽俊に自分の資料を譲った。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60118",
+        "categorie": "person"
+      },
+      {
+        "id": "60121",
+        "label": "亦信",
+        "info": "梟王の時代には、成笙の束ねる軍の麾兵であったため、かなりの手練の兵士だった。更夜を連れて街に出た六太を小臣として護衛した際、六太を脅して連れ去ろうとした更夜を阻もうとして「ろくた」が呼び寄せた妖魔に殺された。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60121",
+        "categorie": "person"
+      },
+      {
+        "id": "60122",
+        "label": "院白泽",
+        "info": "原雁国元州州宰、斡由的臣下。现为雁国冢宰。外表约五十岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/87/60122_crt_xuSAk.jpg",
+        "link": "https://bgm.tv/character/60122",
+        "categorie": "person"
+      },
+      {
+        "id": "60123",
+        "label": "毛旋",
+        "info": "元は成笙の師帥。元州の乱の頃には小臣として尚隆の出奔を嫌々ながら手引きしていた。元州の乱の際に一時的に大司馬に抜擢される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/b1/60123_crt_H3Huv.jpg",
+        "link": "https://bgm.tv/character/60123",
+        "categorie": "person"
+      },
+      {
+        "id": "60124",
+        "label": "元魁",
+        "info": "梟王の治世から元州の乱の時の元州候。しかし、保身のために梟王に言われるがままに、やむなく罪の無い民も罪人として処罰するなど民を虐げた為、息子の斡由によって梟王の時代に州城の地下牢の奥に幽閉される。その後は、わずかな地下水と牢に生えた苔で飢えと渇きをしのいでいた。自分が幽閉された後、斡由は老人を父の影武者として立てたが、彼もまた影武者を辞めた際に斡由によって舌を切られて地下牢に閉じ込められ放置されていた。斡由の過去や本性を六太に教えた。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60124",
+        "categorie": "person"
+      },
+      {
+        "id": "60131",
+        "label": "傲滥",
+        "info": "泰麒所降伏的使令，种族为饕餮，原是一般麒麟所无法收为使令、能够转变(转化型体为他种生物)的强大妖魔，但泰麒当时为了保护骁宗而被收服。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/38/60131_crt_P2uQ5.jpg",
+        "link": "https://bgm.tv/character/60131",
+        "categorie": "person"
+      },
+      {
+        "id": "60147",
+        "label": "白尹洒",
+        "info": "塙麟的女怪。全身被毛所覆盖，手足有豹纹，但却有猫的爪子，背部则有大片翅膀。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60147",
+        "categorie": "person"
+      },
+      {
+        "id": "60148",
+        "label": "杵隗",
+        "info": "种族为饥饥（きき）。黑色犬型妖魔。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60148",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1777",
+        "label": "尼克",
+        "info": "男主角。被称为光明的人，从小接受父亲的勇者训练，实际是杂耍训练，不擅用剑但身手灵活。自称勇者，但性格好色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d8/1777_crt_xDW2K.jpg?r=1510698543",
+        "link": "https://bgm.tv/character/1777",
+        "categorie": "person"
+      },
+      {
+        "id": "1778",
+        "label": "柯柯丽",
+        "info": "女主角。黑暗族裔米古米古的最后遗裔，能使用咕噜咕噜魔法，但记性差，常画出错误魔法阵，使勇者尼克身陷险境。喜欢尼克。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/9b/1778_crt_sn1zr.jpg?r=1510698290",
+        "link": "https://bgm.tv/character/1778",
+        "categorie": "person"
+      },
+      {
+        "id": "1779",
+        "label": "艾特柏杰·安德鲁",
+        "info": "上身赤裸、下身着草裙的老伯，特点是脚毛长。曾是吉它村的村长，惟一的绝技是跳吉它吉它舞。经常缠着尼克和柯柯丽，四处寻找传人。可惜因形象问题，普通人已经避之则吉，根本没有人愿意学。惟一的用处是作为主角的挡箭牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/0b/1779_crt_L6So4.jpg?r=1510698701",
+        "link": "https://bgm.tv/character/1779",
+        "categorie": "person"
+      },
+      {
+        "id": "1780",
+        "label": "吉布尔",
+        "info": "风之精灵，与尼克与柯柯丽同行，并兼职向导。对“肉麻”非常敏感。身穿的长袍能变成帐幕。每次遇到危险就第一时间消失，当有“肉麻”的场面和说话出现时，会自己跳出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/d2/1780_crt_JpPkk.jpg?r=1510698921",
+        "link": "https://bgm.tv/character/1780",
+        "categorie": "person"
+      },
+      {
+        "id": "1781",
+        "label": "朱朱",
+        "info": "修行村巫女（圣女），实为战斗魔法师，11岁，有着能被神明上身的能力，协助尼克和柯柯丽的旅行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/ce/1781_crt_9Tvt6.jpg?r=1510699024",
+        "link": "https://bgm.tv/character/1781",
+        "categorie": "person"
+      },
+      {
+        "id": "1782",
+        "label": "伦伦",
+        "info": "黑魔法组织的魔女，常协助仁杰与柯柯丽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/e9/1782_crt_GgRor.jpg?r=1510699102",
+        "link": "https://bgm.tv/character/1782",
+        "categorie": "person"
+      },
+      {
+        "id": "1783",
+        "label": "黑暗魔法组织总裁",
+        "info": "外表为贵妇狗，由于被魔王施咒而变成狗，常与伦伦一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/95/1783_crt_iOtfT.jpg?r=1510699231",
+        "link": "https://bgm.tv/character/1783",
+        "categorie": "person"
+      },
+      {
+        "id": "54977",
+        "label": "多玛",
+        "info": "いつか立派な僧侶になることを夢見ているキタの町の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/d4/54977_crt_Y3u92.jpg?r=1510699408",
+        "link": "https://bgm.tv/character/54977",
+        "categorie": "person"
+      },
+      {
+        "id": "59196",
+        "label": "雷德",
+        "info": "魔界のプリンスと呼ばれる魔族の少年。強力な魔法を使いこなす闇魔法の使い手だが、呪文の詠唱が衝撃を受けるほど格好悪く、本人もそれをとても気にしている。自信過剰で基本的にナルシスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/29/59196_crt_9BGRn.jpg?r=1510699503",
+        "link": "https://bgm.tv/character/59196",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

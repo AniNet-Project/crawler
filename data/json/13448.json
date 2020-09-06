@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10721",
+        "label": "奇诺",
+        "info": "声 - 前田愛 / 悠木碧 / 久川綾（ラジオドラマ・電撃FC）",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/65/10721_crt_d72zI.jpg",
+        "link": "https://bgm.tv/character/10721",
+        "categorie": "person"
+      },
+      {
+        "id": "52330",
+        "label": "汉密斯",
+        "info": "声 - 相ヶ瀬龍史 / 斉藤壮馬 / 野田順子（ラジオドラマ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/7e/52330_crt_Z0T18.jpg",
+        "link": "https://bgm.tv/character/52330",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

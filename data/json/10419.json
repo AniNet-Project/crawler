@@ -1,0 +1,749 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1958",
+        "label": "鹰村守",
+        "info": "鴨川ボクシングジム所属のミドル級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/7f/1958_crt_anidb.jpg?r=1416731695",
+        "link": "https://bgm.tv/character/1958",
+        "categorie": "person"
+      },
+      {
+        "id": "1971",
+        "label": "幕之内一步",
+        "info": "本作の主人公。鴨川ボクシングジム所属のフェザー級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/73/1971_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1971",
+        "categorie": "person"
+      },
+      {
+        "id": "1972",
+        "label": "宫田一郎",
+        "info": "川原ボクシングジム所属のフェザー級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/de/1972_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1972",
+        "categorie": "person"
+      },
+      {
+        "id": "2002",
+        "label": "鸭川源二",
+        "info": "鸭川拳击馆会长，拥有日本优胜冠军的鸭川拳击馆的经营者。虽然他的训练非常严格，却能发掘一步与鹰村的素质，扩展其技术，在他的恰当指导下，引导他们走上冠军之路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c2/2002_crt_7FPpd.jpg",
+        "link": "https://bgm.tv/character/2002",
+        "categorie": "person"
+      },
+      {
+        "id": "2047",
+        "label": "青木胜",
+        "info": "鴨川ボクシングジム所属のライト級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/01/2047_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2047",
+        "categorie": "person"
+      },
+      {
+        "id": "2048",
+        "label": "木村达也",
+        "info": "鴨川ボクシングジム所属のジュニアライト級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/19/2048_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2048",
+        "categorie": "person"
+      },
+      {
+        "id": "2051",
+        "label": "间柴久美",
+        "info": "一歩と同い年で、現役看護師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/81/2051_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2051",
+        "categorie": "person"
+      },
+      {
+        "id": "2052",
+        "label": "间柴了",
+        "info": "現・日本ジュニアライト級チャンピオン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4b/2052_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2052",
+        "categorie": "person"
+      },
+      {
+        "id": "2056",
+        "label": "宮田の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/6d/2056_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2056",
+        "categorie": "person"
+      },
+      {
+        "id": "2058",
+        "label": "アレクサンドル・ヴォルグ・ザンギエフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c2/2058_crt_DnRIU.jpg",
+        "link": "https://bgm.tv/character/2058",
+        "categorie": "person"
+      },
+      {
+        "id": "2064",
+        "label": "幕之内宽子",
+        "info": "一歩の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/bf/2064_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2064",
+        "categorie": "person"
+      },
+      {
+        "id": "2306",
+        "label": "梅泽正彦",
+        "info": "一歩の高校時代の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/76/2306_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2306",
+        "categorie": "person"
+      },
+      {
+        "id": "2310",
+        "label": "ジェイソン・尾妻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/c0/2310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2310",
+        "categorie": "person"
+      },
+      {
+        "id": "2316",
+        "label": "千堂武士",
+        "info": "なにわ拳闘会所属のフェザー級プロボクサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/86/2316_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2316",
+        "categorie": "person"
+      },
+      {
+        "id": "2649",
+        "label": "小田祐介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/f8/2649_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2649",
+        "categorie": "person"
+      },
+      {
+        "id": "2650",
+        "label": "三上玲子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/bf/2650_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2650",
+        "categorie": "person"
+      },
+      {
+        "id": "2651",
+        "label": "三上トレーナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/82/2651_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2651",
+        "categorie": "person"
+      },
+      {
+        "id": "2652",
+        "label": "藤原義男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/21/2652_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2652",
+        "categorie": "person"
+      },
+      {
+        "id": "2653",
+        "label": "幕之内一男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/72/2653_crt_088Wm.jpg?r=1485172070",
+        "link": "https://bgm.tv/character/2653",
+        "categorie": "person"
+      },
+      {
+        "id": "2656",
+        "label": "速水龙一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/80/2656_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2656",
+        "categorie": "person"
+      },
+      {
+        "id": "2657",
+        "label": "小橋健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/96/2657_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2657",
+        "categorie": "person"
+      },
+      {
+        "id": "9700",
+        "label": "竹村",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/c7/9700_crt_hkS99.jpg",
+        "link": "https://bgm.tv/character/9700",
+        "categorie": "person"
+      },
+      {
+        "id": "9701",
+        "label": "松田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/2f/9701_crt_a1OJi.jpg",
+        "link": "https://bgm.tv/character/9701",
+        "categorie": "person"
+      },
+      {
+        "id": "9783",
+        "label": "山口智子",
+        "info": "大人の色気をもつ女性接骨医。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/85/9783_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9783",
+        "categorie": "person"
+      },
+      {
+        "id": "9799",
+        "label": "伊达英二",
+        "info": "元・日本フェザー級チャンピオン。チャンピオン当時、",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/52/9799_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9799",
+        "categorie": "person"
+      },
+      {
+        "id": "9819",
+        "label": "沖田佳吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/3c/9819_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9819",
+        "categorie": "person"
+      },
+      {
+        "id": "9837",
+        "label": "冴木卓麻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/15/9837_crt_8i2Io.jpg?r=1485171900",
+        "link": "https://bgm.tv/character/9837",
+        "categorie": "person"
+      },
+      {
+        "id": "9910",
+        "label": "猫田银八",
+        "info": "山奥にあるペンションで、白犬のハチと暮らしているいたずら好きで元気なおじいさん。 鴨川ジムのボクサーのために上京するが、よく騒動を引き起こす。 現在からは想像できないが、ボクサーとしての現役時代は相当の実力者だった。鴨川とは現役時代からの親友で、今でもライバル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/16/9910_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9910",
+        "categorie": "person"
+      },
+      {
+        "id": "10027",
+        "label": "茂田晃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/82/10027_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10027",
+        "categorie": "person"
+      },
+      {
+        "id": "9671",
+        "label": "愛川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/72/9671_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9671",
+        "categorie": "person"
+      },
+      {
+        "id": "9690",
+        "label": "スミレ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/60/9690_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9690",
+        "categorie": "person"
+      },
+      {
+        "id": "9691",
+        "label": "アケミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/31/9691_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9691",
+        "categorie": "person"
+      },
+      {
+        "id": "9696",
+        "label": "太田博之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/10/9696_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9696",
+        "categorie": "person"
+      },
+      {
+        "id": "9703",
+        "label": "高田照彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/8f/9703_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9703",
+        "categorie": "person"
+      },
+      {
+        "id": "9704",
+        "label": "安田トレーナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/08/9704_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9704",
+        "categorie": "person"
+      },
+      {
+        "id": "9752",
+        "label": "シュガーレイのママ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/a0/9752_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9752",
+        "categorie": "person"
+      },
+      {
+        "id": "9756",
+        "label": "東邦ジム会長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/6b/9756_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9756",
+        "categorie": "person"
+      },
+      {
+        "id": "9763",
+        "label": "会長の奥さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/fd/9763_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9763",
+        "categorie": "person"
+      },
+      {
+        "id": "9781",
+        "label": "田中運輸社長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/3d/9781_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9781",
+        "categorie": "person"
+      },
+      {
+        "id": "9784",
+        "label": "柳岡トレーナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/aa/9784_crt_lgRZD.jpg?r=1485172246",
+        "link": "https://bgm.tv/character/9784",
+        "categorie": "person"
+      },
+      {
+        "id": "9793",
+        "label": "小森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/7a/9793_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9793",
+        "categorie": "person"
+      },
+      {
+        "id": "9796",
+        "label": "石野ジム会長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/a8/9796_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9796",
+        "categorie": "person"
+      },
+      {
+        "id": "9821",
+        "label": "鈴木利雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/30/9821_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9821",
+        "categorie": "person"
+      },
+      {
+        "id": "9825",
+        "label": "チャナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/16/9825_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9825",
+        "categorie": "person"
+      },
+      {
+        "id": "9827",
+        "label": "ジミー・シスファー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/58/9827_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9827",
+        "categorie": "person"
+      },
+      {
+        "id": "9828",
+        "label": "ハデー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/e4/9828_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9828",
+        "categorie": "person"
+      },
+      {
+        "id": "9829",
+        "label": "森田クミコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/9829_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9829",
+        "categorie": "person"
+      },
+      {
+        "id": "9838",
+        "label": "河合ジム会長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/1c/9838_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9838",
+        "categorie": "person"
+      },
+      {
+        "id": "9839",
+        "label": "ルスラン・ラムダ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/a9/9839_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9839",
+        "categorie": "person"
+      },
+      {
+        "id": "9840",
+        "label": "鈴木のセコンド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/30/9840_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9840",
+        "categorie": "person"
+      },
+      {
+        "id": "9853",
+        "label": "ヴォルグの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/69/9853_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9853",
+        "categorie": "person"
+      },
+      {
+        "id": "9854",
+        "label": "れー子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/9c/9854_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9854",
+        "categorie": "person"
+      },
+      {
+        "id": "9859",
+        "label": "玉置厚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/c7/9859_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9859",
+        "categorie": "person"
+      },
+      {
+        "id": "9892",
+        "label": "木村の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/6b/9892_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9892",
+        "categorie": "person"
+      },
+      {
+        "id": "9893",
+        "label": "ミユキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/e6/9893_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9893",
+        "categorie": "person"
+      },
+      {
+        "id": "9899",
+        "label": "神谷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/54/9899_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9899",
+        "categorie": "person"
+      },
+      {
+        "id": "10026",
+        "label": "新日本ジム会長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/1e/10026_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10026",
+        "categorie": "person"
+      },
+      {
+        "id": "10028",
+        "label": "伊藤貴明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/21/10028_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10028",
+        "categorie": "person"
+      },
+      {
+        "id": "10029",
+        "label": "ネフマ・オズカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/72/10029_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10029",
+        "categorie": "person"
+      },
+      {
+        "id": "10030",
+        "label": "ボーイ・アラーテ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d5/10030_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10030",
+        "categorie": "person"
+      },
+      {
+        "id": "10066",
+        "label": "千堂的祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/5f/10066_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10066",
+        "categorie": "person"
+      },
+      {
+        "id": "10074",
+        "label": "浪速会長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/0f/10074_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10074",
+        "categorie": "person"
+      },
+      {
+        "id": "10077",
+        "label": "佐倉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/80/10077_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10077",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "9708",
+        "label": "吉田満男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/82/9708_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9708",
+        "categorie": "person"
+      },
+      {
+        "id": "9709",
+        "label": "矢島吉秋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/6e/9709_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9709",
+        "categorie": "person"
+      },
+      {
+        "id": "9710",
+        "label": "安川和仁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/0a/9710_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9710",
+        "categorie": "person"
+      },
+      {
+        "id": "9755",
+        "label": "東邦ボクシングジム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/fa/9755_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9755",
+        "categorie": "person"
+      },
+      {
+        "id": "9759",
+        "label": "音羽ボクシングジム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/a5/9759_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9759",
+        "categorie": "person"
+      },
+      {
+        "id": "9764",
+        "label": "大滝ボクシングジム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a2/9764_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9764",
+        "categorie": "person"
+      },
+      {
+        "id": "9765",
+        "label": "河合ボクシングジム",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9765",
+        "categorie": "person"
+      },
+      {
+        "id": "9766",
+        "label": "西川ボクシングジム",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9766",
+        "categorie": "person"
+      },
+      {
+        "id": "9767",
+        "label": "前田ボクシングジム",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9767",
+        "categorie": "person"
+      },
+      {
+        "id": "9782",
+        "label": "なにわ拳闘会",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/bd/9782_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9782",
+        "categorie": "person"
+      },
+      {
+        "id": "9795",
+        "label": "石野ボクシングジム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/0f/9795_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9795",
+        "categorie": "person"
+      },
+      {
+        "id": "9800",
+        "label": "仲代ボクシングジム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/bc/9800_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9800",
+        "categorie": "person"
+      },
+      {
+        "id": "9824",
+        "label": "パヤオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/24/9824_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9824",
+        "categorie": "person"
+      },
+      {
+        "id": "9856",
+        "label": "めぐみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/18/9856_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9856",
+        "categorie": "person"
+      },
+      {
+        "id": "9870",
+        "label": "李鐘弼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/4c/9870_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9870",
+        "categorie": "person"
+      },
+      {
+        "id": "9889",
+        "label": "スネーク・トーマス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/f9/9889_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9889",
+        "categorie": "person"
+      },
+      {
+        "id": "9890",
+        "label": "ポーン・モロコット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/11/9890_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9890",
+        "categorie": "person"
+      },
+      {
+        "id": "9891",
+        "label": "ポンチャイ・チュワタナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/1d/9891_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9891",
+        "categorie": "person"
+      },
+      {
+        "id": "9901",
+        "label": "平野和彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/5c/9901_crt_DFpKX.jpg",
+        "link": "https://bgm.tv/character/9901",
+        "categorie": "person"
+      },
+      {
+        "id": "9902",
+        "label": "岩河清家",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/29/9902_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9902",
+        "categorie": "person"
+      },
+      {
+        "id": "9905",
+        "label": "神崎慎治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ae/9905_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9905",
+        "categorie": "person"
+      },
+      {
+        "id": "9906",
+        "label": "アルマン・ガルシア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/38/9906_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9906",
+        "categorie": "person"
+      },
+      {
+        "id": "9907",
+        "label": "ボンチャイ・チュワタナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/28/9907_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9907",
+        "categorie": "person"
+      },
+      {
+        "id": "9908",
+        "label": "ルンサク・パウディ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/e2/9908_crt_V9T9G.jpg",
+        "link": "https://bgm.tv/character/9908",
+        "categorie": "person"
+      },
+      {
+        "id": "9909",
+        "label": "れーコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/80/9909_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9909",
+        "categorie": "person"
+      },
+      {
+        "id": "10025",
+        "label": "新日本ボクシングジム",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/10025",
+        "categorie": "person"
+      },
+      {
+        "id": "10075",
+        "label": "とら",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/50/10075_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10075",
+        "categorie": "person"
+      },
+      {
+        "id": "10090",
+        "label": "汪步",
+        "info": "猫田が飼っているハチの子供。その子犬を一歩が譲り受けた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/92/10090_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10090",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

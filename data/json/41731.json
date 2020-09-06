@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13128",
+        "label": "基里科·丘比",
+        "info": "吉路加美什军士兵，配属“美鲁基亚”方面军，军衔为曹长（相当于上士）。曾配属于第24美鲁基亚方面軍战略机甲兵团特殊任务班X-1（通称“血色肩膀”，人称“吸血部队”）。没有10岁以前的清晰记忆，由于持续的激烈战斗，逐渐失去了作为人的情感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/02/13128_crt_5ne5p.jpg",
+        "link": "https://bgm.tv/character/13128",
+        "categorie": "person"
+      },
+      {
+        "id": "13134",
+        "label": "伊普西龙",
+        "info": "秘密结社创造的完美士兵（PS）。作为PS，自我意识过剩是个弱点，也算是残次品。对于夺走原型一号的基里科有着强烈的羡慕嫉妒恨，从库门王国内战开始三番五次与基里科交战，在行星珊萨的最终对决中败北，留下遗言感慨基里科能够与使用专用AT的PS抗衡绝非一般人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/8d/13134_crt_1mXlo.jpg",
+        "link": "https://bgm.tv/character/13134",
+        "categorie": "person"
+      },
+      {
+        "id": "13142",
+        "label": "ATM-09-ST",
+        "info": "吉路加美什军开发的量产型AT。适应能力极高，上身背部可更换多种背包，适应各种不同的环境，包括宇宙降下用的“伞兵背包”(Parachute)，宇宙空间战斗用的“圆形移动背包”（Round Mover）以及长距离行军用的“任务背包”（Mission Pack）等多种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/24/13142_crt_4IT99.jpg",
+        "link": "https://bgm.tv/character/13142",
+        "categorie": "person"
+      },
+      {
+        "id": "13129",
+        "label": "菲娅娜",
+        "info": "吉路加美什军创造的“完美士兵”（PS）之一，年龄不明的神秘女性。军方称其为“原型一号”（Proto One）或“素体”，TV版中段开始基里科称其为“菲娅娜”，此名源于“火焰”（Fire），与主题歌“炎之命运”相照应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/7b/13129_crt_N1bLY.jpg",
+        "link": "https://bgm.tv/character/13129",
+        "categorie": "person"
+      },
+      {
+        "id": "13136",
+        "label": "塞尔吉·波罗",
+        "info": "秘密结社骨干成员，原美鲁基亚军情报部少佐。菲娅娜称其为“波罗神甫”，似乎是属于某种宗教团体的感觉。监视着菲娅娜和伊普西龙，在乌多篇和库门篇中追杀基里科。在库门篇的最后，被倒塌的建筑物砸死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/5f/13136_crt_Ak3N5.jpg",
+        "link": "https://bgm.tv/character/13136",
+        "categorie": "person"
+      },
+      {
+        "id": "13130",
+        "label": "布鲁斯·高特",
+        "info": "在乌多市与基里科相识的中间商，为了得到金钱什么都卖，但本质还是善良的。最初与基里科在一起是因为见到他的AT驾驶技术高超，而希望让他参加角斗表演，后来被卷入了基里科与治安警察的战斗，由于乌多市的崩坏，买卖也不能继续做了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d3/13130_crt_mM5PX.jpg",
+        "link": "https://bgm.tv/character/13130",
+        "categorie": "person"
+      },
+      {
+        "id": "13131",
+        "label": "可可娜",
+        "info": "战争孤儿，在乌多市靠“敲诈勒索”为生的少女，跟着基里科与高特等人一起行动。TV版开始的时候是16岁。在乌多篇中，多次说服高特和巴尼拉帮助基里科，起了非常重要的作用。在库门篇中成为了酒吧歌手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/c9/13131_crt_q1nHM.jpg",
+        "link": "https://bgm.tv/character/13131",
+        "categorie": "person"
+      },
+      {
+        "id": "13132",
+        "label": "巴尼拉·巴特拉",
+        "info": "与高特一同行动的乐观男人，原为美鲁基亚军士兵，是名优秀的直升机驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/16/13132_crt_Us2HW.jpg",
+        "link": "https://bgm.tv/character/13132",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

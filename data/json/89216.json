@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23474",
+        "label": "宇佐和成",
+        "info": "親の転勤の都合で河合荘で下宿することになった",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/1a/23474_crt_E4egA.jpg?r=1473664955",
+        "link": "https://bgm.tv/character/23474",
+        "categorie": "person"
+      },
+      {
+        "id": "23475",
+        "label": "河合律",
+        "info": "宇佐と同じ高校の２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/aa/23475_crt_ha1kz.jpg?r=1404370509",
+        "link": "https://bgm.tv/character/23475",
+        "categorie": "person"
+      },
+      {
+        "id": "23476",
+        "label": "城崎",
+        "info": "宇佐のルームメイトでニックネームは「シロ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/6c/23476_crt_OoiIM.jpg?r=1404370536",
+        "link": "https://bgm.tv/character/23476",
+        "categorie": "person"
+      },
+      {
+        "id": "23477",
+        "label": "锦野麻弓",
+        "info": "巨乳美人メガネOL。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/a1/23477_crt_0Qn4i.jpg?r=1404370473",
+        "link": "https://bgm.tv/character/23477",
+        "categorie": "person"
+      },
+      {
+        "id": "23478",
+        "label": "渡边彩花",
+        "info": "一見カワイイ女子大生だが、男の扱いについて狡猾な一面も見せる腹黒さもあり、真弓の「ダメ男キャッチャー」ぶりを的確に批判する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/57/23478_crt_rhc8R.jpg?r=1404370549",
+        "link": "https://bgm.tv/character/23478",
+        "categorie": "person"
+      },
+      {
+        "id": "23479",
+        "label": "河合住子",
+        "info": "河合荘の管理人で、みんなの食事や生活の世話などをしている。律は姪孫にあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/80/23479_crt_y6rpr.jpg?r=1411154979",
+        "link": "https://bgm.tv/character/23479",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

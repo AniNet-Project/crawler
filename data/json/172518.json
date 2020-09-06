@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35872",
+        "label": "羽鸟智世",
+        "info": "本作主角。有着红色头发的日本少女，15岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/7c/35872_crt_0i9hH.jpg?r=1505401732",
+        "link": "https://bgm.tv/character/35872",
+        "categorie": "person"
+      },
+      {
+        "id": "42871",
+        "label": "三浦理一",
+        "info": "幼少期のチセが出逢う謎の青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/c3/42871_crt_4gGdL.jpg?r=1508614903",
+        "link": "https://bgm.tv/character/42871",
+        "categorie": "person"
+      },
+      {
+        "id": "42870",
+        "label": "雨果",
+        "info": "水の妖精（ヴォジャノーイ）。アンジェリカの使い魔（ファミリア）で悪戯好きな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/7d/42870_crt_QvDR5.jpg?r=1473921977",
+        "link": "https://bgm.tv/character/42870",
+        "categorie": "person"
+      },
+      {
+        "id": "35873",
+        "label": "艾利亚斯·恩滋华斯",
+        "info": "本作主角之一。非人类的兽骨头异类魔法使。有着“影之荆棘”的称呼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/ff/35873_crt_R7b7b.jpg?r=1508006860",
+        "link": "https://bgm.tv/character/35873",
+        "categorie": "person"
+      },
+      {
+        "id": "39351",
+        "label": "路兹",
+        "info": "“我的耳朵、我的鼻子、我的眼睛、我的手脚，全部为你所用。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/76/39351_crt_T5ZtT.jpg?r=1508684088",
+        "link": "https://bgm.tv/character/39351",
+        "categorie": "person"
+      },
+      {
+        "id": "35874",
+        "label": "嘉儿琦",
+        "info": "居住在艾利亚斯家的妖精，原先是名报丧女妖，之后在一次偶然的机缘下被转化成了“白丝侍女”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/a6/35874_crt_NM9w5.jpg?r=1509458203",
+        "link": "https://bgm.tv/character/35874",
+        "categorie": "person"
+      },
+      {
+        "id": "39353",
+        "label": "安洁莉卡·巴蕾",
+        "info": "魔法機構（マギウス・クラフト）の技師。父親の代からエリアスと取引がある、男勝りの面倒見の良い女性。アルシアという娘がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/4a/39353_crt_l7xx8.jpg?r=1509988633",
+        "link": "https://bgm.tv/character/39353",
+        "categorie": "person"
+      },
+      {
+        "id": "46175",
+        "label": "少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ca/46175_crt_0VPr1.jpg?r=1473922059",
+        "link": "https://bgm.tv/character/46175",
+        "categorie": "person"
+      },
+      {
+        "id": "61755",
+        "label": "羽鳥智花",
+        "info": "チセの母。物語開始以前に投身自殺しており、劇中では故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/6f/61755_crt_zDOL8.jpg?r=1520927851",
+        "link": "https://bgm.tv/character/61755",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

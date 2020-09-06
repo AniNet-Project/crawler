@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27013",
+        "label": "青木新子",
+        "info": "个性活泼的少女，头上有一尾翘毛。喜欢听爷爷说的故事，还爱梦想千年前的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/3e/27013_crt_0iv02.jpg?r=1411638277",
+        "link": "https://bgm.tv/character/27013",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

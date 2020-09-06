@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62361",
+        "label": "九月",
+        "info": "活了两百年而已的九尾狐，白发齐肩的少女，喜欢白色T恤下身裤子，有些男孩子气，没入宅以前形象是普通的黑长直少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/b1/62361_crt_iST92.jpg",
+        "link": "https://bgm.tv/character/62361",
+        "categorie": "person"
+      },
+      {
+        "id": "62362",
+        "label": "敖烈",
+        "info": "西海龙王三太子，龙二代一枚，当年的唐僧坐骑，依旧怀着【师父请你再骑骑我】的奇怪属性，由于龙族对哪吒的心理阴影，患有严重的哪吒恐惧症，时常被哪吒定死认定为宠物一般的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/e2/62362_crt_xQi3H.jpg",
+        "link": "https://bgm.tv/character/62362",
+        "categorie": "person"
+      },
+      {
+        "id": "62363",
+        "label": "小玉",
+        "info": "嫦娥的第一只玉兔，称号“玉”，目前掌握着月球八千多万只兔子的总管，人称“玉总”，受憧憬的对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/0a/62363_crt_NHY5g.jpg",
+        "link": "https://bgm.tv/character/62363",
+        "categorie": "person"
+      },
+      {
+        "id": "62364",
+        "label": "哪吒",
+        "info": "三无正太哪吒，可爱的面容下隐藏着一颗熊孩子的心，目前正在行小学，十分爱捣蛋，被李靖托付给观音大士，住在观音大士的家中。喜欢各种各样的龙，时常说出一些恐怖的话，让烈烈瑟瑟发抖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/76/62364_crt_565hz.jpg?r=1522553920",
+        "link": "https://bgm.tv/character/62364",
+        "categorie": "person"
+      },
+      {
+        "id": "62365",
+        "label": "精卫",
+        "info": "神鸟精卫，因为不甘心被海水淹死，每天都在收集石子，想要完成自己的填海大业。头上顶着的海燕是她的老公，两人非常恩爱。有非常例会的填海强迫症，看到有水的地方都想要拿着石子塞满。是一个然人看不透的人妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/a6/62365_crt_wAm53.jpg?r=1522554117",
+        "link": "https://bgm.tv/character/62365",
+        "categorie": "person"
+      },
+      {
+        "id": "62366",
+        "label": "刑天",
+        "info": "被黄帝砍掉脑袋的战神，以乳为目，以脐为口，是个看起来有点凶恶的人。但实际上是个精致男子，会敷面膜，带美容眼罩，和九月在一家公司上班，和精卫一样，身上充满了谜团",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/3a/62366_crt_XXhAX.jpg?r=1522554283",
+        "link": "https://bgm.tv/character/62366",
+        "categorie": "person"
+      },
+      {
+        "id": "62367",
+        "label": "观音",
+        "info": "哪吒的监护人，公司的领导之一。喜欢坐着坐莲兜风，拿着星X克的杯子，实际上是玉净瓶。脑后的大光是四次元口袋，喜欢马和各种神奇生物。因为员工经常闯祸而头疼，惩罚人的方式是把他/她变成马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/4d/62367_crt_gOzO0.jpg?r=1522554620",
+        "link": "https://bgm.tv/character/62367",
+        "categorie": "person"
+      },
+      {
+        "id": "62368",
+        "label": "哮天犬",
+        "info": "二郎神杨戬的忠实伙伴哮天犬，九月的同事、高中同学和曾经的暗恋对象。典型的犬系男子，非常活泼，令人担心他的智力是不是不太高，但凶起来可是能连熊都吓退哦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/4b/62368_crt_c0cBA.jpg?r=1522554571",
+        "link": "https://bgm.tv/character/62368",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

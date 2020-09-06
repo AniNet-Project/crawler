@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "335",
+        "label": "佐藤达广",
+        "info": "本作的主角，故事开始时为22岁，4年前被大学开除，不经不觉间当了四年的家里蹲，很容易陷入自己的妄想之中，特别是性幻想，靠着跟老家伸手住在出租屋过日子。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/b9/335_G4FaK.jpg",
+        "link": "https://bgm.tv/character/335",
+        "categorie": "person"
+      },
+      {
+        "id": "336",
+        "label": "中原岬",
+        "info": "家庭背景不明的神秘美少女，自称从事义工性质的工作要负责协助达广，常常在达广身边突然出现，并且帮他打理一些日常琐事。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/e5/336_crt_qUGuD.jpg?r=1425214631",
+        "link": "https://bgm.tv/character/336",
+        "categorie": "person"
+      },
+      {
+        "id": "337",
+        "label": "山崎薫",
+        "info": "佐藤的学弟。由于其眼神在生气时非常凶狠，所以他在高中时经常被人欺负。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/7a/337_W7gCV.jpg",
+        "link": "https://bgm.tv/character/337",
+        "categorie": "person"
+      },
+      {
+        "id": "338",
+        "label": "柏瞳",
+        "info": "佐藤高中时代的学姊。有药物成瘾。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/9f/338_wLN6t.jpg",
+        "link": "https://bgm.tv/character/338",
+        "categorie": "person"
+      },
+      {
+        "id": "339",
+        "label": "小林恵",
+        "info": "佐藤高中时代的同班同学。小说版中未登场。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/65/339_crt_Y575a.jpg",
+        "link": "https://bgm.tv/character/339",
+        "categorie": "person"
+      },
+      {
+        "id": "340",
+        "label": "torotoro／小林友一",
+        "info": "小林惠的哥哥。漫画版中为四郎。小说版并未登场。 ",
+        "image": "https:",
+        "link": "https://bgm.tv/character/340",
+        "categorie": "person"
+      },
+      {
+        "id": "341",
+        "label": "绿川七菜子",
+        "info": "漫画版里为菜菜子。小说中并未登场（只有名称出现）。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/c4/341_crt_2pL4I.jpg?r=1544839916",
+        "link": "https://bgm.tv/character/341",
+        "categorie": "person"
+      },
+      {
+        "id": "343",
+        "label": "城崎彰",
+        "info": "瞳的丈夫，漫画中是一名心理医生，动画中则是IT产业的工程师，但是与瞳的关系好像不太好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/a3/343_crt_i7vb7.jpg",
+        "link": "https://bgm.tv/character/343",
+        "categorie": "person"
+      },
+      {
+        "id": "342",
+        "label": "废材星人",
+        "info": "漫画、动画版的吉祥物。有着紫色的外表。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/cb/342_crt_9DdQC.jpg",
+        "link": "https://bgm.tv/character/342",
+        "categorie": "person"
+      },
+      {
+        "id": "6873",
+        "label": "Purin",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/df/6873_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6873",
+        "categorie": "person"
+      },
+      {
+        "id": "13048",
+        "label": "佐藤シヅエ",
+        "info": "佐藤达广的妈妈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/4b/13048_crt_PM2xH.jpg",
+        "link": "https://bgm.tv/character/13048",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

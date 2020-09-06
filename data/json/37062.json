@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7747",
+        "label": "罗赛塔·帕赛尔",
+        "info": "13岁比利时人，天才扯铃少女，连续4年拿到世界冠军。自尊心强、待人冷漠，却也被空的表演打动，两人交情逐渐热络，找回失去的笑容。后加入万花筒剧团，为与空一同演出“梦幻绝技”而努力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/f2/7747_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7747",
+        "categorie": "person"
+      },
+      {
+        "id": "6513",
+        "label": "苗木野空",
+        "info": "主角，16岁的日本女孩。年幼时父母因车祸双亡，由苗木野夫妇收养、后来妹妹梦出生。只身赴美加入万花筒剧团，在大家不看好下，凭著不断地努力跟毅力克服难关得到认同，不仅与蕾拉合力完成梦幻绝技，也成功诠释心目中天使的技巧，超越蕾拉成长为真正的百变之星。其后又原创新生黄金火凤凰之技，终能实现自己与蕾拉的梦想。感情方面迟钝，肯对她的告白总是没成功。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/a4/6513_crt_lZ5R8.jpg",
+        "link": "https://bgm.tv/character/6513",
+        "categorie": "person"
+      },
+      {
+        "id": "7136",
+        "label": "肯·罗宾斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/f3/7136_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7136",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "302",
+        "label": "碇真嗣",
+        "info": "本故事的主角，有着极端内向的性格，极其害怕与陌生人接触，不知如何和别人相处而感到害怕，一直只是照着别人的要求而生活，之后慢慢地敞開了心扉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/af/302_crt_KFsZV.jpg",
+        "link": "https://bgm.tv/character/302",
+        "categorie": "person"
+      },
+      {
+        "id": "304",
+        "label": "惣流·明日香·兰格雷",
+        "info": "简称为明日香，作为第二适格者驾驶EVA贰号机。角色名［明日香］来源于和田慎二的漫画的主角，姓氏［惣流］和［兰格雷 (Langley)］分别来自于第二次世界大战时的日本航空母舰苍龙号（日语同音Sōryū）和美国航空母舰兰利号（Langley）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/f7/304_crt_q6Bs8.jpg?r=1520696076",
+        "link": "https://bgm.tv/character/304",
+        "categorie": "person"
+      },
+      {
+        "id": "6965",
+        "label": "渚薰",
+        "info": "TV ep.24",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/60/6965_crt_w2NTt.jpg",
+        "link": "https://bgm.tv/character/6965",
+        "categorie": "person"
+      },
+      {
+        "id": "5088",
+        "label": "葛城美里",
+        "info": "葛城美里（日语：葛城 ミサト、英语：Katsuragi Misato）是日本动画《新世纪福音战士》当中人物。她是NERV的指挥官，军衔最初为大尉，TV动画第12话时晋升为少佐，在新剧场版中则为中佐。她在NERV的任务包括指挥及监视EVA驾驶员、构思及发布攻击策略，与赤木律子协调EVA技术支援及测试也是她的工作，她同时也是碇真嗣与惣流·明日香·兰格雷的监护人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/fc/5088_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5088",
+        "categorie": "person"
+      },
+      {
+        "id": "5089",
+        "label": "赤木律子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b6/5089_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5089",
+        "categorie": "person"
+      },
+      {
+        "id": "6380",
+        "label": "伊吹摩耶",
+        "info": "动漫作品《新世纪福音战士》中的角色。NERV总部技术局一课所属，阶级为中尉，直属上司赤木律子，通常担任EVA驾驶员同步状况调查及系统操作的任务，也是战况转播员。她操作机器的技术似乎是直接传自于赤木，又同时身兼赤木的部下和学妹，因此对赤木相当尊敬。她的个性文静乖巧，有洁癖，是EVA系列中颇受欢迎的女性之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/63/6380_crt_anidb.jpg?r=1361631529",
+        "link": "https://bgm.tv/character/6380",
+        "categorie": "person"
+      },
+      {
+        "id": "7378",
+        "label": "冬月耕造",
+        "info": "冬月耕造是NERV的副司令，常常在碇源度不在时代替他指挥本部的工作，是源度得力的左右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/cf/7378_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7378",
+        "categorie": "person"
+      },
+      {
+        "id": "7392",
+        "label": "日向诚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/1d/7392_crt_anidb.jpg?r=1421387487",
+        "link": "https://bgm.tv/character/7392",
+        "categorie": "person"
+      },
+      {
+        "id": "7393",
+        "label": "青叶茂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/fb/7393_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7393",
+        "categorie": "person"
+      },
+      {
+        "id": "12479",
+        "label": "碇源堂",
+        "info": "NERV司令官，碇真嗣的父亲。他原姓六分仪，和碇唯结婚后改姓碇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/ab/12479_crt_ZHwXz.jpg?r=1361631562",
+        "link": "https://bgm.tv/character/12479",
+        "categorie": "person"
+      },
+      {
+        "id": "12702",
+        "label": "真希波·玛丽·伊兰崔亚斯",
+        "info": "福音战士新剧场版：破中的出场人物，棕色的双马尾（最初人设是紫红色头发），蓝绿色双瞳，带着红框板材眼镜，发带是A10神经连接端口。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/6c/12702_crt_2Az63.jpg?r=1438524810",
+        "link": "https://bgm.tv/character/12702",
+        "categorie": "person"
+      },
+      {
+        "id": "17836",
+        "label": "アヤナミレイ(仮称)",
+        "info": "前作において初号機のコアに取り込まれたレイとは異なる、三人目のユイのクローンとなる「アヤナミレイ（仮称）」が登場。EVANGERION Mark.09に搭乗し、着用するプラグスーツの色は、白を基調としていた綾波レイとは対照的に、黒を基調としたものになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/43/17836_crt_ySuw9.jpg",
+        "link": "https://bgm.tv/character/17836",
+        "categorie": "person"
+      },
+      {
+        "id": "17837",
+        "label": "铃原樱",
+        "info": "铃原トウジ的妹妹。真嗣的主治医师。少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/97/17837_crt_91v1I.jpg",
+        "link": "https://bgm.tv/character/17837",
+        "categorie": "person"
+      },
+      {
+        "id": "17838",
+        "label": "北上ミドリ",
+        "info": "AAAヴンダー操作员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/80/17838_crt_bNADb.jpg",
+        "link": "https://bgm.tv/character/17838",
+        "categorie": "person"
+      },
+      {
+        "id": "32707",
+        "label": "高雄耕史",
+        "info": "AAAヴンダーのオペレータ。加持リョウジとは旧知の間柄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/db/32707_crt_v1NKt.jpg?r=1431785641",
+        "link": "https://bgm.tv/character/32707",
+        "categorie": "person"
+      },
+      {
+        "id": "32708",
+        "label": "多摩ヒデキ",
+        "info": "AAAヴンダーのオペレータ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/3f/32708_crt_WuACs.jpg?r=1431786644",
+        "link": "https://bgm.tv/character/32708",
+        "categorie": "person"
+      },
+      {
+        "id": "32709",
+        "label": "長良スミレ",
+        "info": "AAAヴンダーのオペレータ（なお、大原は『序』『破』でもオペレータの声優として参加している）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/e2/32709_crt_HvVvn.jpg?r=1431786584",
+        "link": "https://bgm.tv/character/32709",
+        "categorie": "person"
+      },
+      {
+        "id": "42273",
+        "label": "基路·洛仑兹",
+        "info": "作为人类补完委员会的中心人物，在幕后操纵着NERV，是德意志的雅利安系人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c1/42273_crt_TZ446.jpg?r=1465039464",
+        "link": "https://bgm.tv/character/42273",
+        "categorie": "person"
+      },
+      {
+        "id": "5090",
+        "label": "NERV",
+        "info": "GOD'S IN HIS HEAVEN. ALL'S RIGHT WITH THE WORLD.",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ee/5090_crt_RwO42.jpg?r=1428580024",
+        "link": "https://bgm.tv/character/5090",
+        "categorie": "person"
+      },
+      {
+        "id": "17835",
+        "label": "Will-E",
+        "info": "部分前NERV成员集结组成的反NERV组织“ヴィレ”，对NERV的EVA进行歼灭行动。ヴィレ所属EVA改2号机（搭乘者：式波・明日香・ラングレー）和8号机（搭乘者：真希波・真理・イラストリアス）在卫星轨道上对被NERV封印的初号机进行夺回作战“US作战”，并成功。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/87/17835_crt_2x9fA.jpg",
+        "link": "https://bgm.tv/character/17835",
+        "categorie": "person"
+      },
+      {
+        "id": "42379",
+        "label": "碇唯",
+        "info": "主人公碇シンジの母にして、碇ゲンドウの妻。物語の秘密部分の鍵を握るキーパーソンである。容姿は綾波レイに酷似している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/7c/42379_crt_75zpe.jpg?r=1465479816",
+        "link": "https://bgm.tv/character/42379",
+        "categorie": "person"
+      },
+      {
+        "id": "55755",
+        "label": "亚当",
+        "info": "亚当是造成“第二次浩劫”的原因之一。在南极出现的发光的巨人就是他的姿态，外形上与EVA极为相似，有着巨大的光之翼。于2000年在南极冰层发现时，其胸部叉有朗基奴斯之枪，当枪被拔除后苏醒并暴走。之后被SEELE还原成最初的胚胎型凝固在树脂中，由加持良治携带随二号机与明日香一同由德国NERV支部返回第三新东京市，后被碇源堂移植到右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e8/55755_crt_g400v.jpg",
+        "link": "https://bgm.tv/character/55755",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

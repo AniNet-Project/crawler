@@ -1,0 +1,293 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7321",
+        "label": "大神信",
+        "info": "中学2年生。拝み屋の「大神拝霊会」の長男。父親は11年前の誘拐事件の後に自殺、母親はいつ頃からか家を出ている。祖母が古森姉弟の監禁場所を指摘したことから、祖母あるいは父親が事件に関わっていたのではないかと疑問を抱いている。学校には気が向いた時以外殆ど通うことなく、友人もほぼ皆無。ギターを弾くことが唯一の趣味で、フィガリングの練習中に体外離脱を体験する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/d9/7321_crt_Sv1fV.jpg?r=1431365255",
+        "link": "https://bgm.tv/character/7321",
+        "categorie": "person"
+      },
+      {
+        "id": "7322",
+        "label": "駒玖珠都",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/2b/7322_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7322",
+        "categorie": "person"
+      },
+      {
+        "id": "32590",
+        "label": "古森太郎",
+        "info": "本作の主人公。中学2年生。「古森酒造」の長男だが、過去にいたずらで酒を盗んで飲んで気持ち悪くなったという経験から、家業を継ぐことはあまり乗り気でない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/f5/32590_crt_hAPRO.jpg?r=1431364510",
+        "link": "https://bgm.tv/character/32590",
+        "categorie": "person"
+      },
+      {
+        "id": "32591",
+        "label": "中嶋匡幸",
+        "info": "東京から水天町に引っ越してきた中学2年生。信のクラスメート。父親は「大日本バイオインダストリーズ」で代表的な立場にいる。自他ともに「ウザい」と認める性格で、執拗に太郎や信から11年前の事件について聞き出そうとしていた。転校前にいた学校で男子生徒の一人を苛めていたことがあったが、彼が学校の屋上から投身自殺を図ったことで罪悪感から高所恐怖症に陥る。彼の持つバーチャルリアリティのゲーム機はその治療も兼ねているのだという。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/e7/32591_crt_4gB22.jpg?r=1431365037",
+        "link": "https://bgm.tv/character/32591",
+        "categorie": "person"
+      },
+      {
+        "id": "32592",
+        "label": "駒玖珠孝仁",
+        "info": "亀岩神社の宮司で、都の父。妻綾とは離婚しており、男手一つで都を育てている。東京の大学で民俗学の助教授を務めていたことがある。それ故か、宮司の割りに理屈っぽいところがあり、彼自身もお払いなどによる効果を期待しておらず、形式的に職務を行っている。酒好きで、都の目を盗んでは酒を飲むが、結局のところ都に抜け目なく注意を受ける。本人は男が子供を育てることを心配しているが、面倒見がよく、魂抜けする3人とも深く関わる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/5d/32592_crt_B160O.jpg",
+        "link": "https://bgm.tv/character/32592",
+        "categorie": "person"
+      },
+      {
+        "id": "32605",
+        "label": "古森良弥",
+        "info": "古森酒造の蔵元で、太郎の父。趣味はジャズ鑑賞でレコード盤を多数書斎に保管している。妻美樹の体調を気にかけている。また大神信とも親身に接する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/df/32605_crt_1o2Qw.jpg?r=1431422014",
+        "link": "https://bgm.tv/character/32605",
+        "categorie": "person"
+      },
+      {
+        "id": "32608",
+        "label": "平田篤司",
+        "info": "東京から太郎のカウンセリングのために訪れている臨床心理士、心理学者。体質的に酒に弱く、酔ったこともないが、太郎や水天町と関わりを深めていくうちに自身も、幻覚などの変性意識状態を体験していくことになる。眉間を指でたたくようにするのが癖。また体力が比較的無いらしく、亀岩神社の石段ではあえぐように上ってくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/99/32608_crt_RZRRr.jpg?r=1431422378",
+        "link": "https://bgm.tv/character/32608",
+        "categorie": "person"
+      },
+      {
+        "id": "32604",
+        "label": "石見綾",
+        "info": "都の母。登場回数はとても少ない。国土交通省に勤務しており、都の身の振り方について父考仁の手が及ばなくなった際に動く。しかしそう動くように仕向けた圧力があることを示唆する描写がある。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32604",
+        "categorie": "person"
+      },
+      {
+        "id": "32606",
+        "label": "古森美树",
+        "info": "良弥の妻。東京から水天町の古森家に嫁ぎ、瑞香と太郎の二児をもうける。娘の死から立ち直っておらず、PTSDを発症している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/bd/32606_crt_OkKlh.jpg",
+        "link": "https://bgm.tv/character/32606",
+        "categorie": "person"
+      },
+      {
+        "id": "32607",
+        "label": "瘧師慧",
+        "info": "古森酒造杜氏。久間田が実家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/b7/32607_crt_SihBg.jpg",
+        "link": "https://bgm.tv/character/32607",
+        "categorie": "person"
+      },
+      {
+        "id": "32609",
+        "label": "鳳麗華",
+        "info": "大日本バイオインダストリーズ研究員。久間田の病院で脳外科医としても勤務している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32609",
+        "categorie": "person"
+      },
+      {
+        "id": "32610",
+        "label": "古沢裕",
+        "info": "大日本バイオインダストリーズ研究員。鳳の助手で、染めた髪やピアスが特徴である。ほとんど無口でワープロに主張を打ち続ける。露出の多い鳳に比べ防寒着を着込んでいながら寒がっている。マウスを使った行動実験をしている。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32610",
+        "categorie": "person"
+      },
+      {
+        "id": "32611",
+        "label": "星野道男",
+        "info": "太郎や匡幸らと同じ中学の同級生。よく匡幸とつるんでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/5a/32611_crt_X1q0P.jpg?r=1431422570",
+        "link": "https://bgm.tv/character/32611",
+        "categorie": "person"
+      },
+      {
+        "id": "32612",
+        "label": "大神姫子",
+        "info": "信の祖母で、大神拝霊会で巫女をつとめる。数十年前に人気全盛のころ、政界関係者と強いパイプを築く。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32612",
+        "categorie": "person"
+      },
+      {
+        "id": "32613",
+        "label": "加畑憲子",
+        "info": "審神者（サニワ）。姫子に引き取られた元巫女。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32613",
+        "categorie": "person"
+      },
+      {
+        "id": "32614",
+        "label": "中嶋康弘",
+        "info": "匡幸の父親。大日本バイオインダストリーズ主任研究員。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32614",
+        "categorie": "person"
+      },
+      {
+        "id": "32615",
+        "label": "中嶋智香",
+        "info": "匡幸の母親。専業主婦のようであるが水天町に転居してからはゲームとアルコールばかりに熱中しているようだ。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32615",
+        "categorie": "person"
+      },
+      {
+        "id": "32617",
+        "label": "田辺早苗",
+        "info": "信の母親。夫である英夫の死後、大神の家を出て、直人とともに暮らしている。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32617",
+        "categorie": "person"
+      },
+      {
+        "id": "32618",
+        "label": "貝原直人",
+        "info": "久間田の自宅で早苗の面倒を見る。慧の同級生。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32618",
+        "categorie": "person"
+      },
+      {
+        "id": "32619",
+        "label": "鈴木誠一",
+        "info": "フリーライターを装い、水天町で活動をしている法務省公安調査員。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32619",
+        "categorie": "person"
+      },
+      {
+        "id": "32620",
+        "label": "猿田彦麿",
+        "info": "全国の山を巡る人物。本人曰く生まれは千葉の港町とのこと。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32620",
+        "categorie": "person"
+      },
+      {
+        "id": "32621",
+        "label": "塩田千帆",
+        "info": "都の親友。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32621",
+        "categorie": "person"
+      },
+      {
+        "id": "32622",
+        "label": "矢崎基",
+        "info": "水天町町長。町長選挙では対抗候補2人を振り切り三選を果たしている。大神秀夫・田辺早苗・駒玖珠孝仁の3人とは友人関係にあった。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32622",
+        "categorie": "person"
+      },
+      {
+        "id": "32623",
+        "label": "大矢栄一",
+        "info": "廃墟のパチンコ店で肝試しをしていた高校生4人グループの一人。メンバーからの呼び名は「えーちゃん」が多い。肝試しの出来事以来神霊がみられるようになったらしく、不意にコンビニで魂抜けした匡幸の姿を見て動転してしまう。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32623",
+        "categorie": "person"
+      },
+      {
+        "id": "32624",
+        "label": "川村浩幸",
+        "info": "高校生4人グループの一人。コンビニで動転した栄一をなだめようとする。最終話では紺色の雨合羽を着用している。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32624",
+        "categorie": "person"
+      },
+      {
+        "id": "32625",
+        "label": "小木ナミエ",
+        "info": "高校生4人グループの一人。明るい茶髪でツインテールが特徴。グループの中では最も背が低い。最終話では台風で風雨が強まる中、ピンクの上着と青いスカート姿で登場。肩を組んでくる大矢に甲斐甲斐しく傘を差してあげている。登場するときの服装はピンクの上着ばかりである。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32625",
+        "categorie": "person"
+      },
+      {
+        "id": "32626",
+        "label": "岩崎佳美",
+        "info": "高校生4人グループの一人。暗い茶色の髪でウェーブがかかっているのが特徴。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32626",
+        "categorie": "person"
+      },
+      {
+        "id": "32627",
+        "label": "楡誉",
+        "info": "工事家と呼ばれる非合法な事柄を扱う工作員の一人。信を警棒で脅す武闘派。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32627",
+        "categorie": "person"
+      },
+      {
+        "id": "32628",
+        "label": "竹葉昌照",
+        "info": "工事家と呼ばれる非合法な事柄を扱う工作員の一人。信の指紋がついたナイフを持ち出して脅す。サングラスをかけ右目下に特徴的なほくろがある。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32628",
+        "categorie": "person"
+      },
+      {
+        "id": "32629",
+        "label": "富岡眞",
+        "info": "鈴木誠一の所属する組織の上司。鈴木から課長と呼ばれていた。登場時間は短いが事件の背景をにおわせる重要な情報を鈴木に伝える。ヘビースモーカー。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32629",
+        "categorie": "person"
+      },
+      {
+        "id": "32630",
+        "label": "井沢常治",
+        "info": "町役所前にある居酒屋「千歳」の主人。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32630",
+        "categorie": "person"
+      },
+      {
+        "id": "32632",
+        "label": "インスペック",
+        "info": "変性意識状態のなかで太郎に語りかけ太郎を導く謎の存在。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32632",
+        "categorie": "person"
+      },
+      {
+        "id": "32633",
+        "label": "警備ロボット",
+        "info": "大日本バイオインダストリーズ内を巡回する警備ロボット。アニメ内の描写では1m四方の丸みを持った四角いボディー。対角上に４脚の動輪付き脚を持ち、直進・後退・停止・方向転換・回転など多彩な運動能力を持つ。ボディーカラーは黄色を主体に塗装されている。4面のうちの1面に上下方向へ向けられる光学ズーム機能付き動画監視カメラを搭載し、施設の固定カメラと協調して生体認証を行っている。本体上部の中央に突起があり、走行中に上下に伸び縮みする。巡回警備中時には幼児の喃語のような音声を発し、破壊されると「ふぅーん」といううなり声を出す。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32633",
+        "categorie": "person"
+      },
+      {
+        "id": "32631",
+        "label": "井沢芳江",
+        "info": "町役所前にある居酒屋「千歳」の女将。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32631",
+        "categorie": "person"
+      },
+      {
+        "id": "32616",
+        "label": "大神英夫",
+        "info": "信の父親。12年前の誘拐事件直後不可解な自殺を遂げる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32616",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

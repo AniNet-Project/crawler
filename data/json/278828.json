@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72281",
+        "label": "狮子",
+        "info": "分類：食肉目ネコ科ヒョウ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/82/72281_crt_4zLp0.jpg",
+        "link": "https://bgm.tv/character/72281",
+        "categorie": "person"
+      },
+      {
+        "id": "72272",
+        "label": "蜥蜴",
+        "info": "分類：有鱗目ヨロイトカゲ科 Smaug 属",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/f0/72272_crt_78B76.jpg",
+        "link": "https://bgm.tv/character/72272",
+        "categorie": "person"
+      },
+      {
+        "id": "72273",
+        "label": "巨嘴鸟",
+        "info": "分類：キツツキ目オオハシ科オオハシ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/c3/72273_crt_t7ql4.jpg",
+        "link": "https://bgm.tv/character/72273",
+        "categorie": "person"
+      },
+      {
+        "id": "72275",
+        "label": "杀伤仓鼠",
+        "info": "分類：ネズミ目キヌゲネズミ科ゴールデンハムスター属",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/ec/72275_crt_hh646.jpg",
+        "link": "https://bgm.tv/character/72275",
+        "categorie": "person"
+      },
+      {
+        "id": "72274",
+        "label": "乌龟社长",
+        "info": "分類：爬虫綱カメ目リクガメ科リクガメ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/72/72274_crt_Hz040.jpg",
+        "link": "https://bgm.tv/character/72274",
+        "categorie": "person"
+      },
+      {
+        "id": "72276",
+        "label": "シシ村",
+        "info": "分類：食肉目ネコ科ヒョウ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/a3/72276_crt_Tn43e.jpg",
+        "link": "https://bgm.tv/character/72276",
+        "categorie": "person"
+      },
+      {
+        "id": "72277",
+        "label": "ゴリ美",
+        "info": "分類：霊長目ヒト科ゴリラ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/7f/72277_crt_0dxuX.jpg",
+        "link": "https://bgm.tv/character/72277",
+        "categorie": "person"
+      },
+      {
+        "id": "72278",
+        "label": "カラカル",
+        "info": "分類：食肉目ネコ科カラカル属",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/fd/72278_crt_1NniN.jpg",
+        "link": "https://bgm.tv/character/72278",
+        "categorie": "person"
+      },
+      {
+        "id": "72279",
+        "label": "ラーテル",
+        "info": "分類：食肉目イタチ科ラーテル属",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/f7/72279_crt_wUqW0.jpg",
+        "link": "https://bgm.tv/character/72279",
+        "categorie": "person"
+      },
+      {
+        "id": "72280",
+        "label": "ミツオシエ",
+        "info": "分類：キツツキ目ミツオシエ科ミツオシエ属",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/73/72280_crt_8IuU5.jpg",
+        "link": "https://bgm.tv/character/72280",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

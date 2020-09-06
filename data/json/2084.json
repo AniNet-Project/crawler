@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12156",
+        "label": "小夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/d8/12156_crt_t70UP.jpg",
+        "link": "https://bgm.tv/character/12156",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

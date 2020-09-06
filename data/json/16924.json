@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15846",
+        "label": "卡门",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/c5/15846_crt_wu1CW.jpg",
+        "link": "https://bgm.tv/character/15846",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12816",
+        "label": "小光",
+        "info": "小光（英文：Dawn，日文：ヒカリ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪钻石珍珠》的女主角。她的梦想是成为世界上最伟大的口袋妖怪协调训练家。她拥有圆企鹅、帕奇利兹及象牙猪等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/fe/12816_crt_5S5GE.jpg",
+        "link": "https://bgm.tv/character/12816",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "14541",
+        "label": "小茂",
+        "info": "小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak）是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，在神奥地区进行化石宝可梦的相关研究，梦想是成为像他爷爷一样的宝可梦博士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/e9/14541_crt_kUPKu.jpg",
+        "link": "https://bgm.tv/character/14541",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2646",
+        "label": "毒粉蛾",
+        "info": "毒粉蛾的身体呈紫色，黄色的复眼上均有三个黑点，触角为金黄的椭圆形，两对足呈深粉色，有绿色的翅膀。它虽不美丽，但能和自然融为一体，翅膀上红色的环状花纹也为它增添了点色彩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/44/2646_crt_LsQ3E.jpg",
+        "link": "https://bgm.tv/character/2646",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "3658",
+        "label": "小次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/06/3658_crt_Ce2Gz.jpg?r=1472497255",
+        "link": "https://bgm.tv/character/3658",
+        "categorie": "person"
+      },
+      {
+        "id": "16702",
+        "label": "波加曼",
+        "info": "波加曼（日文：ポッチャマ，英文：Piplup）是水系神奇宝贝，是第四世代中登场的精灵之一。波加曼的民间常用译名是圆企鹅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/df/16702_crt_Jil3o.jpg",
+        "link": "https://bgm.tv/character/16702",
+        "categorie": "person"
+      },
+      {
+        "id": "18984",
+        "label": "帅哥",
+        "info": "声 - てらそままさき",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d9/18984_crt_qt9D6.jpg",
+        "link": "https://bgm.tv/character/18984",
+        "categorie": "person"
+      },
+      {
+        "id": "30458",
+        "label": "不良蛙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/0e/30458_crt_16aM6.jpg",
+        "link": "https://bgm.tv/character/30458",
+        "categorie": "person"
+      },
+      {
+        "id": "30718",
+        "label": "长尾怪手",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/8b/30718_crt_EN654.jpg",
+        "link": "https://bgm.tv/character/30718",
+        "categorie": "person"
+      },
+      {
+        "id": "43873",
+        "label": "竹兰",
+        "info": "竹兰是神奥地方的冠军，首次登场于精灵宝可梦钻石珍珠版。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a1/43873_crt_Wl6lC.jpg",
+        "link": "https://bgm.tv/character/43873",
+        "categorie": "person"
+      },
+      {
+        "id": "53320",
+        "label": "乔伊",
+        "info": "乔伊小姐是在世界各地的宝可梦中心工作的护士，以宝可梦中心护士为原型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/18/53320_crt_fgwvw.jpg?r=1526649198",
+        "link": "https://bgm.tv/character/53320",
+        "categorie": "person"
+      },
+      {
+        "id": "62896",
+        "label": "真鸟",
+        "info": "坂木的秘书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/7f/62896_crt_3P469.jpg",
+        "link": "https://bgm.tv/character/62896",
+        "categorie": "person"
+      },
+      {
+        "id": "2707",
+        "label": "小火焰猴",
+        "info": "小火焰猴是一只似猴子的宝可梦。其色彩以橙色为主，而脸孔、外耳、腹下、手掌及脚掌则以浅黄色为主色调。小火焰猴背面的火焰而由燃烧胃内的气体而产生的。与小火龙不同，小火焰猴背部的火焰并不会在雨中熄灭，但却会在睡眠的时候熄灭。由于背部火焰的缘故，小火焰猴背上，一个细小且呈红色的圆块是难以引人注目的。再者，与头的大小相比下，小火焰猴有一双大耳朵，其内而红色的。小火焰猴的眼睛上方及外面有红色的花纹，而在其胸口上则有一个漩涡状的标记。小火焰猴每只手上有五根手指，而每只脚掌上则有三根脚趾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/e9/2707_crt_BfLnf.jpg",
+        "link": "https://bgm.tv/character/2707",
+        "categorie": "person"
+      },
+      {
+        "id": "2764",
+        "label": "巨蔓藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d8/2764_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2764",
+        "categorie": "person"
+      },
+      {
+        "id": "3680",
+        "label": "ジュピター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/93/3680_crt_wwFEs.jpg",
+        "link": "https://bgm.tv/character/3680",
+        "categorie": "person"
+      },
+      {
+        "id": "46229",
+        "label": "皮卡丘",
+        "info": "皮卡丘独有的能力是在紧张时通过它脸上的电气袋释放电气。这个电能可用各种方式操纵，常被用在对战中，不过有时它也被皮卡丘用来烤树果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/20/46229_crt_d5DRl.jpg?r=1525315776",
+        "link": "https://bgm.tv/character/46229",
+        "categorie": "person"
+      },
+      {
+        "id": "12815",
+        "label": "小遥",
+        "info": "小遥（英文：May，日文：ハルカ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪超世代》的女主角。梦想是成为世界上最伟大的口袋妖怪协调训练家。并拥有火焰鸡、妙蛙花及卡咪龟等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f3/12815_crt_zXUlV.jpg?r=1402295247",
+        "link": "https://bgm.tv/character/12815",
+        "categorie": "person"
+      },
+      {
+        "id": "14550",
+        "label": "大木茂",
+        "info": "小智的劲敌，同是出身于真新镇，是大木博士的孙子，全名为大木茂。动画版小智的对手。原来的目标是成为神奇宝贝大师。小茂之后改变志向，换为成为神奇宝贝研究者，到现在主要在神奥地方进行研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/63/14550_crt_a2cDf.jpg",
+        "link": "https://bgm.tv/character/14550",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "2421",
+        "label": "皮丘",
+        "info": "皮丘是一个浅黄色的小老鼠宝可梦，它耳朵被黑色物体围住，颈部也有一些黑色物，它的尾巴也是黑色的。它的脸颊中有粉红色的蓄电箱，是一个很可爱的宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/04/2421_crt_5y7pd.jpg",
+        "link": "https://bgm.tv/character/2421",
+        "categorie": "person"
+      },
+      {
+        "id": "3223",
+        "label": "火箭队",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/73/3223_crt_AxCA8.jpg",
+        "link": "https://bgm.tv/character/3223",
+        "categorie": "person"
+      },
+      {
+        "id": "3224",
+        "label": "ポケダンズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/35/3224_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3224",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

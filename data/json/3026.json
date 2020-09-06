@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12814",
+        "label": "小霞",
+        "info": "小霞（英文：Misty，日文：カスミ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪》的女主角。她的梦想是成为世界上最伟大的口袋妖怪水系训练家。她拥有海星星、波克基古及太阳珊瑚等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/29/12814_crt_ARhGn.jpg?r=1582457732",
+        "link": "https://bgm.tv/character/12814",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2706",
+        "label": "拉帝亚斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/cf/2706_crt_1GXLb.jpg",
+        "link": "https://bgm.tv/character/2706",
+        "categorie": "person"
+      },
+      {
+        "id": "3662",
+        "label": "リオン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/34/3662_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3662",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

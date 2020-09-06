@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5142",
+        "label": "阿艾尔",
+        "info": "17岁，身高150厘米。深受祖父影响，原来是无法成为西贝拉的南部农民出身的训练生。因为驾驶SIMOUN技术一流，后来配属进“暴风组”。渴望成为奈比利尔的伙伴。笑容开朗，手上总是拿着爷爷送的风琴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/22/5142_crt_72OJI.jpg?r=1489258287",
+        "link": "https://bgm.tv/character/5142",
+        "categorie": "person"
+      },
+      {
+        "id": "27015",
+        "label": "奈比利尔",
+        "info": "コール・テンペストのシムーン・シヴュラ。コール全体を統括するレギーナでもある。司政官であるハルコンフの子で、他のシヴュラや国民からシヴュラ・アウレアと呼ばれ尊敬される容姿端麗な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/20/27015_crt_kUxiO.jpg?r=1451671974",
+        "link": "https://bgm.tv/character/27015",
+        "categorie": "person"
+      },
+      {
+        "id": "5143",
+        "label": "凯姆",
+        "info": "年齢16歳、身長156センチメートル、B・W・H / 78 (A) ・56・80、足のサイズ23センチメートル、血液型A型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/97/5143_crt_anidb.jpg?r=1456883794",
+        "link": "https://bgm.tv/character/5143",
+        "categorie": "person"
+      },
+      {
+        "id": "5145",
+        "label": "里莫奈",
+        "info": "暴风组第一批新进成员，天才儿童，史上年纪最小的西贝拉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/4b/5145_crt_anidb.jpg?r=1454728336",
+        "link": "https://bgm.tv/character/5145",
+        "categorie": "person"
+      },
+      {
+        "id": "5146",
+        "label": "摩利娜斯",
+        "info": "與阿艾爾、里莫奈同樣是暴風組的第一批新進成員，和阿艾爾相同，對「巫女」的身份沒什麼自覺，因為喜歡Simoun才跑來巫女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/77/5146_crt_anidb.jpg?r=1454205248",
+        "link": "https://bgm.tv/character/5146",
+        "categorie": "person"
+      },
+      {
+        "id": "5147",
+        "label": "古拉基埃弗",
+        "info": "デュクスと呼ばれるアルクス・プリーマに所属する全てのコールを統括している人物。シヴュラの世話係であり、副艦長的な立場でもある。かつては自身もシムーン・シヴュラ・サジッタであった。アヌビトゥフとはシヴュラ時代、パルだった（西田亜沙子の非公式命名では、少女時代の名は「グラキーア」）。現在の長身とは裏腹に、少女時代は非常に小柄だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/1e/5147_crt_nSJ9S.jpg?r=1489258337",
+        "link": "https://bgm.tv/character/5147",
+        "categorie": "person"
+      },
+      {
+        "id": "5148",
+        "label": "奥纳西亚",
+        "info": "最高位の巫女である大宮煌（だいきゅうこう）。かつてコール・デクストラに所属していた元シムーン・シヴュラ。泉で性別を選ばず、永遠の少女でいることを望んだ為に罪を背負う。その後、同じ過ちを犯す者が無いよう番人となり、泉を訪れるものを見守り続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/2d/5148_crt_anidb.jpg?r=1452960175",
+        "link": "https://bgm.tv/character/5148",
+        "categorie": "person"
+      },
+      {
+        "id": "27016",
+        "label": "芭拉耶特",
+        "info": "ネヴィリルとは子供の時からの幼なじみ。常日頃からネヴィリルに付き添い、傍で支えてあげている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/84/27016_crt_n1rtN.jpg?r=1458513375",
+        "link": "https://bgm.tv/character/27016",
+        "categorie": "person"
+      },
+      {
+        "id": "27017",
+        "label": "アルティ",
+        "info": "同コールのカイムは自身の姉である。カイムに恋愛にも似た感情を抱いており、常にカイムのためを思って行動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/10/27017_crt_09y9V.jpg",
+        "link": "https://bgm.tv/character/27017",
+        "categorie": "person"
+      },
+      {
+        "id": "27018",
+        "label": "ロードレアモン",
+        "info": "過去に多くのシムーン・シヴュラを輩出した名家の出身で、周囲のシヴュラからは「お嬢様」と呼ばれている。おっとりとした臆病な性格、そばかすの目立つ顔に三つ編みも相まって、17才にしては子供っぽい印象がある。毒舌にも似た直球な発言をするが、本人に相手を傷つける意志はない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/0a/27018_crt_8FZVu.jpg",
+        "link": "https://bgm.tv/character/27018",
+        "categorie": "person"
+      },
+      {
+        "id": "27019",
+        "label": "ドミヌーラ",
+        "info": "コールの統率がパライエッタだけでは不足とされたのか、テンペストに補充人員として配属されて来た。19才とテンペストのシヴュラの中でも最年長で、何所か不思議な雰囲気を持つ。コール中、一番の長身で髪形の縦ロールが外見的特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/80/27019_crt_1WptZ.jpg",
+        "link": "https://bgm.tv/character/27019",
+        "categorie": "person"
+      },
+      {
+        "id": "27020",
+        "label": "アムリア",
+        "info": "ネヴィリルの最愛のバル",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/00/27020_crt_Y0KE8.jpg",
+        "link": "https://bgm.tv/character/27020",
+        "categorie": "person"
+      },
+      {
+        "id": "27021",
+        "label": "アヌビトゥフ",
+        "info": "空中母艦「アルクス・プリーマ」の艦長。ニヒルな風格を漂わせる美丈夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/fb/27021_crt_Fx3nx.jpg",
+        "link": "https://bgm.tv/character/27021",
+        "categorie": "person"
+      },
+      {
+        "id": "27022",
+        "label": "マミーナ",
+        "info": "補充人員としてユンと共にアルクス・ニゲルのコール・イグニスよりコール・テンペストへ転属して来たシヴュラ。アーエルと同じく身分が低く、本来シヴュラになれない家系だったが、故郷の村が攻撃された際の戦闘を契機にその能力を開花させることとなった。幼いころ、両親がロードレアモン家で使用人として務めており、ロードレアモンに対して、身分の差から複雑な感情を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/f9/27022_crt_zHw1w.jpg",
+        "link": "https://bgm.tv/character/27022",
+        "categorie": "person"
+      },
+      {
+        "id": "27023",
+        "label": "ユン",
+        "info": "補充人員としてマミーナと共にアルクス・ニゲルのコール・イグニスから転属して来た。同志であるシヴュラの死を多く見届けてきたこともあり、シヴュラに対して追悼の念が強い。非常に正義感が強く、戦争を嫌っている反面、散って行った仲間達への申し訳なさからの義務感でシムーンに乗っている。そのため「誰と組んでも変わりない」と本人も語るほど、あまりパルが一定していない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/6e/27023_crt_ijJoI.jpg",
+        "link": "https://bgm.tv/character/27023",
+        "categorie": "person"
+      },
+      {
+        "id": "27024",
+        "label": "ワポーリフ",
+        "info": "アルクス・プリーマの整備士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/9d/27024_crt_LteXT.jpg",
+        "link": "https://bgm.tv/character/27024",
+        "categorie": "person"
+      },
+      {
+        "id": "5144",
+        "label": "芙罗耶",
+        "info": "淘氣且健談的性格，對於戰鬥十分樂衷，對所愛更是勇於追求。有點喜歡阿艾爾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/31/5144_crt_anidb.jpg?r=1455474365",
+        "link": "https://bgm.tv/character/5144",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

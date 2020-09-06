@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9160",
+        "label": "ケロロ軍曹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/12/9160_crt_22xJk.jpg",
+        "link": "https://bgm.tv/character/9160",
+        "categorie": "person"
+      },
+      {
+        "id": "13208",
+        "label": "日向冬树",
+        "info": "Keroro所寓居之日向家中的长子，排行第二；母亲是日向秋，日向夏美则是他的姊姊，同时也是Keroro的最佳伙伴兼好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/71/13208_crt_XXPHA.jpg",
+        "link": "https://bgm.tv/character/13208",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

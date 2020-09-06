@@ -1,0 +1,261 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6014",
+        "label": "小此木优子",
+        "info": "线圈电脑侦探局编号八号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/55/6014_crt_VvpuM.jpg",
+        "link": "https://bgm.tv/character/6014",
+        "categorie": "person"
+      },
+      {
+        "id": "11900",
+        "label": "天泽勇子",
+        "info": "从金泽转来的转学生，在优子转学的隔日出现在学校，大黑市立第三小学六年三班所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/42/11900_crt_ZDF6f.jpg",
+        "link": "https://bgm.tv/character/11900",
+        "categorie": "person"
+      },
+      {
+        "id": "6015",
+        "label": "小此木京子",
+        "info": "优子的妹妹。好奇心旺盛、喜爱恶作剧。常对电助和大智做出过度激烈的恶作剧，令优子烦恼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/3e/6015_crt_LEz46.jpg",
+        "link": "https://bgm.tv/character/6015",
+        "categorie": "person"
+      },
+      {
+        "id": "7272",
+        "label": "原川研一",
+        "info": "线圈电脑侦探局编号五号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/a1/7272_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7272",
+        "categorie": "person"
+      },
+      {
+        "id": "3007",
+        "label": "桥本文恵",
+        "info": "线圈电脑侦探局编号七号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/24/3007_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3007",
+        "categorie": "person"
+      },
+      {
+        "id": "54075",
+        "label": "泽口大智",
+        "info": "大黑黑客俱乐部的创始人与头目（后被勇子取代），大黑市立第三小学六年三班所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/07/54075_crt_0CqEC.jpg",
+        "link": "https://bgm.tv/character/54075",
+        "categorie": "person"
+      },
+      {
+        "id": "54073",
+        "label": "小此木早苗",
+        "info": "线圈电脑侦探局编号零号，线圈电脑侦探局的头目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b7/54073_crt_A3t0C.jpg",
+        "link": "https://bgm.tv/character/54073",
+        "categorie": "person"
+      },
+      {
+        "id": "54084",
+        "label": "原川玉子",
+        "info": "线圈电脑侦探局编号二号。（小说版的编号是四号）",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/88/54084_crt_YQVEe.jpg",
+        "link": "https://bgm.tv/character/54084",
+        "categorie": "person"
+      },
+      {
+        "id": "54079",
+        "label": "桥本亮",
+        "info": "大黑骇客俱乐部男成员。大黑市立第三小学四年级。生物部成员。文惠的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/6b/54079_crt_ryyrs.jpg",
+        "link": "https://bgm.tv/character/54079",
+        "categorie": "person"
+      },
+      {
+        "id": "54077",
+        "label": "电波",
+        "info": "大黑骇客俱乐部男成员。大黑市立第三小学六年一班所属。生物部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ff/54077_crt_788eh.jpg",
+        "link": "https://bgm.tv/character/54077",
+        "categorie": "person"
+      },
+      {
+        "id": "54078",
+        "label": "加查吉利",
+        "info": "大黑骇客俱乐部男成员。大黑市立第三小学六年一班所属。生物部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/09/54078_crt_cVdCV.jpg",
+        "link": "https://bgm.tv/character/54078",
+        "categorie": "person"
+      },
+      {
+        "id": "54076",
+        "label": "滑滑",
+        "info": "大黑骇客俱乐部男成员。大黑市立第三小学六年三班所属。生物部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/b5/54076_crt_sLUt1.jpg",
+        "link": "https://bgm.tv/character/54076",
+        "categorie": "person"
+      },
+      {
+        "id": "54069",
+        "label": "电助",
+        "info": "优子的电脑宠物，雄性犬形。作为爷爷的礼物被送来时还是幼犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d6/54069_crt_Y9vH7.jpg",
+        "link": "https://bgm.tv/character/54069",
+        "categorie": "person"
+      },
+      {
+        "id": "54070",
+        "label": "老头子",
+        "info": "文惠的电脑宠物，有着扭曲的人形。比一般电脑宠物更能适应古旧空间。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/ac/54070_crt_sm2zs.jpg",
+        "link": "https://bgm.tv/character/54070",
+        "categorie": "person"
+      },
+      {
+        "id": "54085",
+        "label": "小此木一郎",
+        "info": "线圈电脑侦探局编号壹号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/d7/54085_crt_6ijsI.jpg",
+        "link": "https://bgm.tv/character/54085",
+        "categorie": "person"
+      },
+      {
+        "id": "54082",
+        "label": "小此木静江",
+        "info": "优子与京子的母亲。四十二岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/4e/54082_crt_R5x5L.jpg",
+        "link": "https://bgm.tv/character/54082",
+        "categorie": "person"
+      },
+      {
+        "id": "54081",
+        "label": "爱子",
+        "info": "大黑市立第三小学六年三班所属。生物部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/5b/54081_crt_WbcIB.jpg",
+        "link": "https://bgm.tv/character/54081",
+        "categorie": "person"
+      },
+      {
+        "id": "54068",
+        "label": "舞子老师",
+        "info": "大黑市立第三小学六年三班的女班级导师。生物部顾问。未婚，因此被大智等学生所戏弄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/98/54068_crt_n1qGF.jpg",
+        "link": "https://bgm.tv/character/54068",
+        "categorie": "person"
+      },
+      {
+        "id": "54144",
+        "label": "猫目宗助",
+        "info": "线圈电脑侦探局编号三号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/24/54144_crt_CuRd6.jpg",
+        "link": "https://bgm.tv/character/54144",
+        "categorie": "person"
+      },
+      {
+        "id": "54145",
+        "label": "猫目健",
+        "info": "优子在车站对面遇见的少年。大黑市立第一小学的六年级生。猫目宗助的弟弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/4f/54145_crt_551Gy.jpg",
+        "link": "https://bgm.tv/character/54145",
+        "categorie": "person"
+      },
+      {
+        "id": "54143",
+        "label": "沙奇",
+        "info": "正式名称：“Search Mutton（サーチマトン）”。大黑市空间管理室引进的强力防毒程式，邮政局所管辖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/fb/54143_crt_reeaN.jpg",
+        "link": "https://bgm.tv/character/54143",
+        "categorie": "person"
+      },
+      {
+        "id": "54071",
+        "label": "球球",
+        "info": "大黑市的安全管理程式。经由“电脑眼镜”的视觉化、看上去犹如排球大小的球体，因此在小孩子之间被取作这个名称。母体为沙奇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/3d/54071_crt_Z0My1.jpg",
+        "link": "https://bgm.tv/character/54071",
+        "categorie": "person"
+      },
+      {
+        "id": "54072",
+        "label": "毛球",
+        "info": "勇子的电脑宠物。有茶色的身躯、眼睛、细毛状的手和一根天线。一共八只，被勇子分别以号码叫唤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/4d/54072_crt_NT660.jpg",
+        "link": "https://bgm.tv/character/54072",
+        "categorie": "person"
+      },
+      {
+        "id": "54243",
+        "label": "苇原观奈",
+        "info": "原研的青梅竹马，大黑市立第三小学五年一班所属（事故当时）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/5f/54243_crt_MzmOz.jpg",
+        "link": "https://bgm.tv/character/54243",
+        "categorie": "person"
+      },
+      {
+        "id": "54135",
+        "label": "大智的父亲",
+        "info": "大智的父亲。担任町内事务会长一职。柔道黑带、有着原桌球部的军人作风式热血。受邀参与生物部的合宿，却误以为是桌球部的强化集训。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f3/54135_crt_Ezf2k.jpg",
+        "link": "https://bgm.tv/character/54135",
+        "categorie": "person"
+      },
+      {
+        "id": "54080",
+        "label": "内久根老师",
+        "info": "大黑市立第三小学六年一班的班级导师。单恋舞子老师中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/2d/54080_crt_sScRP.jpg",
+        "link": "https://bgm.tv/character/54080",
+        "categorie": "person"
+      },
+      {
+        "id": "54134",
+        "label": "教务主任",
+        "info": "大黑市立第三小学的教务主任。男性。拥有“柔道三段”的特技。受邀参与生物部的合宿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/74/54134_crt_Q08SE.jpg",
+        "link": "https://bgm.tv/character/54134",
+        "categorie": "person"
+      },
+      {
+        "id": "54120",
+        "label": "观奈的母亲",
+        "info": "经由警方归还的观奈的眼镜，得知其内存在着锁起来的资料，并委托原研调查之中被留下的线索。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/08/54120_crt_3tkyK.jpg",
+        "link": "https://bgm.tv/character/54120",
+        "categorie": "person"
+      },
+      {
+        "id": "54083",
+        "label": "户芽奶奶",
+        "info": "和眼镜婆婆住在同町里的奶奶。养著仓鼠型的电脑宠物“Manta”。超级健忘、总问眼镜婆婆“你是谁？”",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/c1/54083_crt_tLrId.jpg",
+        "link": "https://bgm.tv/character/54083",
+        "categorie": "person"
+      },
+      {
+        "id": "54242",
+        "label": "2.0",
+        "info": "外观为黑色立方体的自动机械。电脑局所管辖。出现时形成“法”字的章样法阵。拥有特别许可，能进入神社和民宅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/55/54242_crt_esxbs.jpg",
+        "link": "https://bgm.tv/character/54242",
+        "categorie": "person"
+      },
+      {
+        "id": "68292",
+        "label": "道子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/c7/68292_crt_377dB.jpg",
+        "link": "https://bgm.tv/character/68292",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

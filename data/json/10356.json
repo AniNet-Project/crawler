@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6497",
+        "label": "杰·富力士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/c9/6497_crt_0XOoy.jpg",
+        "link": "https://bgm.tv/character/6497",
+        "categorie": "person"
+      },
+      {
+        "id": "6550",
+        "label": "奇犽·揍敌客",
+        "info": "猎人。第288期猎人试验唯一合格者。变化系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ae/6550_crt_raIg7.jpg",
+        "link": "https://bgm.tv/character/6550",
+        "categorie": "person"
+      },
+      {
+        "id": "6551",
+        "label": "酷拉皮卡",
+        "info": "猎人。第287期猎人试验合格者。平时为具现化系能力者，当眼睛呈火红色时为特质系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/24/6551_crt_1jOw1.jpg",
+        "link": "https://bgm.tv/character/6551",
+        "categorie": "person"
+      },
+      {
+        "id": "14097",
+        "label": "雷欧力",
+        "info": "《全职猎人》主角之一，虽然个性冲莽撞，有时会斤斤计较，其实心地却很善良、重情义，外表看起来比实际年龄老许多。他生病的朋友皮耶多因手术费用太高而无法就医，最后病死。为了有钱当上医生且免费医好那些和他朋友生同样病的人，雷欧力参加猎人试验成为猎人，与一同参加试验的小杰、酷拉皮卡、奇犽成为朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/fc/14097_crt_cv0s1.jpg",
+        "link": "https://bgm.tv/character/14097",
+        "categorie": "person"
+      },
+      {
+        "id": "5073",
+        "label": "西索",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/24/5073_crt_lzlSg.jpg",
+        "link": "https://bgm.tv/character/5073",
+        "categorie": "person"
+      },
+      {
+        "id": "36965",
+        "label": "库洛洛·鲁西鲁",
+        "info": "幻影旅团团长（创立者）。团员号码不详。特质系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/76/36965_crt_Ec96C.jpg",
+        "link": "https://bgm.tv/character/36965",
+        "categorie": "person"
+      },
+      {
+        "id": "65699",
+        "label": "派克诺妲",
+        "info": "幻影旅团团员，团员编号No.9。特质系能力者。身高182cm，体重52kg，血型O型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/5e/65699_crt_Zoz6I.jpg",
+        "link": "https://bgm.tv/character/65699",
+        "categorie": "person"
+      },
+      {
+        "id": "65700",
+        "label": "信长·哈查马",
+        "info": "幻影旅团团员，团员编号No.1。强化系能力者。31岁，身高183cm，体重75kg，血型B型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/48/65700_crt_ndNnU.jpg?r=1535004893",
+        "link": "https://bgm.tv/character/65700",
+        "categorie": "person"
+      },
+      {
+        "id": "65703",
+        "label": "伊路米·揍敌客",
+        "info": "揍敌客家五兄弟排行老大、席巴的长子。职业猎人。操作系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/65/65703_crt_t919u.jpg",
+        "link": "https://bgm.tv/character/65703",
+        "categorie": "person"
+      },
+      {
+        "id": "75584",
+        "label": "妮翁‧诺斯拉",
+        "info": "特质系能力者。黑帮諾斯拉家族的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/79/75584_crt_B2BPF.jpg",
+        "link": "https://bgm.tv/character/75584",
+        "categorie": "person"
+      },
+      {
+        "id": "75588",
+        "label": "旋律",
+        "info": "諾斯拉保镖成员。放出系能力者。音乐猎人，具有非凡听力，能从心跳声判断他人内心，也可用于远距离侦察。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/a0/75588_crt_VrQZN.jpg",
+        "link": "https://bgm.tv/character/75588",
+        "categorie": "person"
+      },
+      {
+        "id": "75591",
+        "label": "史库瓦拉",
+        "info": "諾斯拉保镖成员。操作系能力者。饲养著多种类的犬只。没有猎人执照。跟妮翁的侍女亚里沙是一对恋人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/29/75591_crt_8mGF7.jpg",
+        "link": "https://bgm.tv/character/75591",
+        "categorie": "person"
+      },
+      {
+        "id": "75664",
+        "label": "飞坦·博通",
+        "info": "幻影旅团团员，团员编号No.2。变化系能力者。28岁，身高155cm，体重45kg，血型不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/58/75664_crt_7xPB7.jpg",
+        "link": "https://bgm.tv/character/75664",
+        "categorie": "person"
+      },
+      {
+        "id": "75667",
+        "label": "玛奇·柯玛琪娜",
+        "info": "幻影旅团团员，团员编号No.3。变化系能力者。身高159cm，体重48kg，血型A型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/3f/75667_crt_7fjtD.jpg",
+        "link": "https://bgm.tv/character/75667",
+        "categorie": "person"
+      },
+      {
+        "id": "75672",
+        "label": "芬克斯·马格加布",
+        "info": "幻影旅团团员，团员编号No.5。强化系能力者。身高185cm，体重85kg，血型AB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/7a/75672_crt_U4kSA.jpg",
+        "link": "https://bgm.tv/character/75672",
+        "categorie": "person"
+      },
+      {
+        "id": "75676",
+        "label": "侠客",
+        "info": "幻影旅团团员，团员编号No.6。操作系能力者。身高180cm，体重72kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b0/75676_crt_1P1kH.jpg",
+        "link": "https://bgm.tv/character/75676",
+        "categorie": "person"
+      },
+      {
+        "id": "75680",
+        "label": "小滴·紫",
+        "info": "幻影旅团团员，团员编号No.8。具现化系能力者。身高160cm，体重45kg，血型O型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/1b/75680_crt_VIsei.jpg",
+        "link": "https://bgm.tv/character/75680",
+        "categorie": "person"
+      },
+      {
+        "id": "75683",
+        "label": "库哔",
+        "info": "幻影旅团团员，团员编号No.12。具现化系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/31/75683_crt_XilVl.jpg",
+        "link": "https://bgm.tv/character/75683",
+        "categorie": "person"
+      },
+      {
+        "id": "75679",
+        "label": "富兰克林·博尔多",
+        "info": "幻影旅团团员，团员编号No.7。放出系能力者。身高219cm，体重225kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/93/75679_crt_jIiLa.jpg",
+        "link": "https://bgm.tv/character/75679",
+        "categorie": "person"
+      },
+      {
+        "id": "75589",
+        "label": "芭蕉",
+        "info": "职业猎人，諾斯拉保镖成员。具现化系能力者。性格似乎较大剌剌，不拘小节。擅长使用祖国的“俳句”来当武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/5c/75589_crt_5y1EP.jpg",
+        "link": "https://bgm.tv/character/75589",
+        "categorie": "person"
+      },
+      {
+        "id": "75585",
+        "label": "亚理沙",
+        "info": "妮翁的年轻女性近侍，史庫瓦拉的恋人。在史庫瓦拉遭幻影旅团的信长杀害后，情绪几近崩溃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/27/75585_crt_0o7rs.jpg",
+        "link": "https://bgm.tv/character/75585",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

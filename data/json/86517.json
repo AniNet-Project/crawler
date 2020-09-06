@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29453",
+        "label": "昴",
+        "info": "喜欢星星的少女，粉红色头发、天然呆，动作迟钝（来自葵的评价）。驾驶杆代表的车型是力狮",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c9/29453_crt_8744I.jpg?r=1428630688",
+        "link": "https://bgm.tv/character/29453",
+        "categorie": "person"
+      },
+      {
+        "id": "29689",
+        "label": "葵",
+        "info": "昴琉的好友，戴着眼镜蓝发的少女。驾驶杆代表的车型是翼豹Impreza",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/fc/29689_crt_rGHgg.jpg?r=1429224499",
+        "link": "https://bgm.tv/character/29689",
+        "categorie": "person"
+      },
+      {
+        "id": "29693",
+        "label": "树",
+        "info": "黑发、性格温和的少女。驾驶杆代表的车型是森林人Forester",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/f0/29693_crt_fpx8F.jpg?r=1430526922",
+        "link": "https://bgm.tv/character/29693",
+        "categorie": "person"
+      },
+      {
+        "id": "29692",
+        "label": "光",
+        "info": "橘发、充满活力的少女。驾驶杆代表的车型是Trezia",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/99/29692_crt_55he6.jpg?r=1429835459",
+        "link": "https://bgm.tv/character/29692",
+        "categorie": "person"
+      },
+      {
+        "id": "29695",
+        "label": "奈奈子",
+        "info": "紫发少女，平常的穿着是魔女帽和披风，能翻译会长的语言。驾驶杆代表的车型是Exiga",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/67/29695_crt_lSz52.jpg?r=1431215110",
+        "link": "https://bgm.tv/character/29695",
+        "categorie": "person"
+      },
+      {
+        "id": "32683",
+        "label": "昴宿星团人",
+        "info": "すばる達から「会長」とよばれる宇宙人。事故でバラバラになった恒星間宇宙船のカケラ「エンジン」を集めるために、すばる達に魔法の杖「シャフト」を与え魔法少女にする。いつもななこの頭の上にいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e2/32683_crt_DBS8d.jpg?r=1431621862",
+        "link": "https://bgm.tv/character/32683",
+        "categorie": "person"
+      },
+      {
+        "id": "32373",
+        "label": "凑",
+        "info": "すばるが展望台に行こうとして不思議な空間に入ったときに出会った謎の人物。会長が集めだす前からエンジンのカケラを集めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/49/32373_crt_73G7I.jpg",
+        "link": "https://bgm.tv/character/32373",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

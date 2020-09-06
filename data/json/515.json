@@ -1,0 +1,493 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2914",
+        "label": "天河明人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/eb/2914_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2914",
+        "categorie": "person"
+      },
+      {
+        "id": "2915",
+        "label": "御统百合香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/24/2915_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2915",
+        "categorie": "person"
+      },
+      {
+        "id": "2913",
+        "label": "星野琉璃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/1d/2913_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2913",
+        "categorie": "person"
+      },
+      {
+        "id": "2916",
+        "label": "惠丽奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/0a/2916_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2916",
+        "categorie": "person"
+      },
+      {
+        "id": "2917",
+        "label": "伊涅斯·弗雷珊久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/b8/2917_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2917",
+        "categorie": "person"
+      },
+      {
+        "id": "2918",
+        "label": "昴凉子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/c9/2918_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2918",
+        "categorie": "person"
+      },
+      {
+        "id": "2919",
+        "label": "遥凑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/71/2919_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2919",
+        "categorie": "person"
+      },
+      {
+        "id": "2920",
+        "label": "葵纯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/56/2920_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2920",
+        "categorie": "person"
+      },
+      {
+        "id": "2921",
+        "label": "真木泉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/d8/2921_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2921",
+        "categorie": "person"
+      },
+      {
+        "id": "2922",
+        "label": "天野光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/19/2922_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2922",
+        "categorie": "person"
+      },
+      {
+        "id": "2923",
+        "label": "山田二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/66/2923_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2923",
+        "categorie": "person"
+      },
+      {
+        "id": "2924",
+        "label": "明月永",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/53/2924_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2924",
+        "categorie": "person"
+      },
+      {
+        "id": "2925",
+        "label": "ホウメイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/34/2925_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2925",
+        "categorie": "person"
+      },
+      {
+        "id": "2926",
+        "label": "プロスペクター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/c8/2926_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2926",
+        "categorie": "person"
+      },
+      {
+        "id": "2927",
+        "label": "エリナ・キンジョウ・ウォン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/64/2927_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2927",
+        "categorie": "person"
+      },
+      {
+        "id": "2928",
+        "label": "ゴート・ホーリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/87/2928_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2928",
+        "categorie": "person"
+      },
+      {
+        "id": "2929",
+        "label": "瓜畑星矢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/6b/2929_crt_anidb.jpg?r=1580225318",
+        "link": "https://bgm.tv/character/2929",
+        "categorie": "person"
+      },
+      {
+        "id": "9387",
+        "label": "瓢仁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/52/9387_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9387",
+        "categorie": "person"
+      },
+      {
+        "id": "9388",
+        "label": "宗竹贞明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/8c/9388_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9388",
+        "categorie": "person"
+      },
+      {
+        "id": "73235",
+        "label": "白鸟雪奈",
+        "info": "白鳥九十九の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/86/73235_crt_pbJ6M.jpg",
+        "link": "https://bgm.tv/character/73235",
+        "categorie": "person"
+      },
+      {
+        "id": "9389",
+        "label": "ミスマル・コウイチロウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/47/9389_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9389",
+        "categorie": "person"
+      },
+      {
+        "id": "9390",
+        "label": "サイゾウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/71/9390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9390",
+        "categorie": "person"
+      },
+      {
+        "id": "9391",
+        "label": "アイの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/12/9391_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9391",
+        "categorie": "person"
+      },
+      {
+        "id": "9392",
+        "label": "アイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/b7/9392_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9392",
+        "categorie": "person"
+      },
+      {
+        "id": "9454",
+        "label": "天空ケン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/0b/9454_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9454",
+        "categorie": "person"
+      },
+      {
+        "id": "9455",
+        "label": "海燕ジョー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/08/9455_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9455",
+        "categorie": "person"
+      },
+      {
+        "id": "9456",
+        "label": "大地アキラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/04/9456_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9456",
+        "categorie": "person"
+      },
+      {
+        "id": "9457",
+        "label": "国分寺ナナコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/bb/9457_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9457",
+        "categorie": "person"
+      },
+      {
+        "id": "9458",
+        "label": "ジュンペイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/ec/9458_crt_anidb.jpg?r=1559203504",
+        "link": "https://bgm.tv/character/9458",
+        "categorie": "person"
+      },
+      {
+        "id": "9459",
+        "label": "国分寺博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/62/9459_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9459",
+        "categorie": "person"
+      },
+      {
+        "id": "9462",
+        "label": "アカラ王子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/af/9462_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9462",
+        "categorie": "person"
+      },
+      {
+        "id": "9463",
+        "label": "地球連合総司令官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/e3/9463_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9463",
+        "categorie": "person"
+      },
+      {
+        "id": "9466",
+        "label": "秘書官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/17/9466_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9466",
+        "categorie": "person"
+      },
+      {
+        "id": "9470",
+        "label": "タナカ・サブロー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a3/9470_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9470",
+        "categorie": "person"
+      },
+      {
+        "id": "10003",
+        "label": "ウエムラ・エリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/df/10003_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10003",
+        "categorie": "person"
+      },
+      {
+        "id": "10004",
+        "label": "テラサキ・サユリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/83/10004_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10004",
+        "categorie": "person"
+      },
+      {
+        "id": "10005",
+        "label": "ミズハラ・ジュンコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/b8/10005_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10005",
+        "categorie": "person"
+      },
+      {
+        "id": "10006",
+        "label": "タナカ・ハルミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/b1/10006_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10006",
+        "categorie": "person"
+      },
+      {
+        "id": "10013",
+        "label": "サトウ・ミカコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/23/10013_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10013",
+        "categorie": "person"
+      },
+      {
+        "id": "2970",
+        "label": "ナデシコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a2/2970_crt_T7867.jpg",
+        "link": "https://bgm.tv/character/2970",
+        "categorie": "person"
+      },
+      {
+        "id": "9450",
+        "label": "エステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/35/9450_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9450",
+        "categorie": "person"
+      },
+      {
+        "id": "9451",
+        "label": "エステバリス2",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/5b/9451_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9451",
+        "categorie": "person"
+      },
+      {
+        "id": "9452",
+        "label": "トビウメ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/af/9452_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9452",
+        "categorie": "person"
+      },
+      {
+        "id": "9453",
+        "label": "ゲキ・ガンガー3",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/c9/9453_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9453",
+        "categorie": "person"
+      },
+      {
+        "id": "9460",
+        "label": "リクガンガー",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9460",
+        "categorie": "person"
+      },
+      {
+        "id": "9461",
+        "label": "ウミガンガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f7/9461_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9461",
+        "categorie": "person"
+      },
+      {
+        "id": "9464",
+        "label": "地球極東",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/f8/9464_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9464",
+        "categorie": "person"
+      },
+      {
+        "id": "9465",
+        "label": "アメリカ代表",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/14/9465_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9465",
+        "categorie": "person"
+      },
+      {
+        "id": "9467",
+        "label": "中国代表",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/aa/9467_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9467",
+        "categorie": "person"
+      },
+      {
+        "id": "9468",
+        "label": "共同代表",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/50/9468_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9468",
+        "categorie": "person"
+      },
+      {
+        "id": "9469",
+        "label": "インド代表",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d3/9469_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9469",
+        "categorie": "person"
+      },
+      {
+        "id": "9475",
+        "label": "Lily",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/df/9475_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9475",
+        "categorie": "person"
+      },
+      {
+        "id": "9728",
+        "label": "エステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/65/9728_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9728",
+        "categorie": "person"
+      },
+      {
+        "id": "9729",
+        "label": "エステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/a8/9729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9729",
+        "categorie": "person"
+      },
+      {
+        "id": "9730",
+        "label": "エステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/a9/9730_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9730",
+        "categorie": "person"
+      },
+      {
+        "id": "9731",
+        "label": "エステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/5b/9731_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9731",
+        "categorie": "person"
+      },
+      {
+        "id": "9732",
+        "label": "デビルエステバリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/03/9732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9732",
+        "categorie": "person"
+      },
+      {
+        "id": "10014",
+        "label": "右",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/9d/10014_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10014",
+        "categorie": "person"
+      },
+      {
+        "id": "10015",
+        "label": "左",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/2b/10015_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10015",
+        "categorie": "person"
+      },
+      {
+        "id": "10303",
+        "label": "ヒナギク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/8b/10303_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10303",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

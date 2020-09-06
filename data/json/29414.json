@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25120",
+        "label": "帕特玛",
+        "info": "地下集落の長の娘／子供時代に両親は亡くなり、長代理であるジィに育てられている。地下世界の住民皆に愛されている天真爛漫で活発な女の子。ジィからは「地下世界の掟」を厳しく教え込まれているが、最近は「掟」で立入りを禁止された「危険地域」でも探検をしている。その動機は、今は行方不明になっているラゴスがパテマに示した「まだ見ぬ世界」への強い好奇心とラゴスがそこに暮らしているかもしれぬという希望であった。ある日、危険地域にある巨大な縦穴が拡がる空間で、コウモリ人間に襲われ無限の闇に落ちてしまう。奇跡的に命拾いをしたパテマであったが、そこは想像を絶するサカサマの世界であった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/63/25120_crt_5wX1n.jpg?r=1409321990",
+        "link": "https://bgm.tv/character/25120",
+        "categorie": "person"
+      },
+      {
+        "id": "25121",
+        "label": "英治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/db/25121_crt_466Tx.jpg",
+        "link": "https://bgm.tv/character/25121",
+        "categorie": "person"
+      },
+      {
+        "id": "25118",
+        "label": "拉格斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/c7/25118_crt_4u9Qu.jpg",
+        "link": "https://bgm.tv/character/25118",
+        "categorie": "person"
+      },
+      {
+        "id": "25122",
+        "label": "波尔塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/8e/25122_crt_qMp4V.jpg",
+        "link": "https://bgm.tv/character/25122",
+        "categorie": "person"
+      },
+      {
+        "id": "25123",
+        "label": "カホ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/2b/25123_crt_jE1El.jpg",
+        "link": "https://bgm.tv/character/25123",
+        "categorie": "person"
+      },
+      {
+        "id": "25124",
+        "label": "ジィ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/aa/25124_crt_qSt4L.jpg",
+        "link": "https://bgm.tv/character/25124",
+        "categorie": "person"
+      },
+      {
+        "id": "25125",
+        "label": "ジャク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/dc/25125_crt_jMArz.jpg",
+        "link": "https://bgm.tv/character/25125",
+        "categorie": "person"
+      },
+      {
+        "id": "25126",
+        "label": "イザムラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/9d/25126_crt_BO5LM.jpg",
+        "link": "https://bgm.tv/character/25126",
+        "categorie": "person"
+      },
+      {
+        "id": "25119",
+        "label": "エイイチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/dd/25119_crt_O0772.jpg",
+        "link": "https://bgm.tv/character/25119",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

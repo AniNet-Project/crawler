@@ -1,0 +1,429 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39628",
+        "label": "天道辉",
+        "info": "28岁／属性：Physical型／生日：2月23日（双鱼座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/12/39628_crt_xn3Kg.jpg?r=1530317113",
+        "link": "https://bgm.tv/character/39628",
+        "categorie": "person"
+      },
+      {
+        "id": "39629",
+        "label": "樱庭薰",
+        "info": "26岁／属性：Intellectual型／生日：9月24日（天秤座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/5d/39629_crt_lRzjQ.jpg?r=1530316963",
+        "link": "https://bgm.tv/character/39629",
+        "categorie": "person"
+      },
+      {
+        "id": "39631",
+        "label": "柏木翼",
+        "info": "24岁／属性：Mental型／生日：6月2日（双子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/e8/39631_crt_GOKV7.jpg?r=1530317064",
+        "link": "https://bgm.tv/character/39631",
+        "categorie": "person"
+      },
+      {
+        "id": "39469",
+        "label": "天濑冬马",
+        "info": "17岁／属性：Physical型／生日：3月3日（双鱼座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/2c/39469_crt_k547w.jpg?r=1530316251",
+        "link": "https://bgm.tv/character/39469",
+        "categorie": "person"
+      },
+      {
+        "id": "39470",
+        "label": "御手洗翔太",
+        "info": "14岁／属性：Mental型／生日：4月20日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/b9/39470_crt_SQ5u5.jpg?r=1530316353",
+        "link": "https://bgm.tv/character/39470",
+        "categorie": "person"
+      },
+      {
+        "id": "39471",
+        "label": "伊集院北斗",
+        "info": "20岁／属性：Intellectual型／生日：2月14日（水瓶座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/fe/39471_crt_AkbSb.jpg?r=1530316574",
+        "link": "https://bgm.tv/character/39471",
+        "categorie": "person"
+      },
+      {
+        "id": "39632",
+        "label": "鹰城恭二",
+        "info": "20岁／属性：Intellectual型／生日：2月2日（水瓶座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/82/39632_crt_7y1YG.jpg?r=1530318697",
+        "link": "https://bgm.tv/character/39632",
+        "categorie": "person"
+      },
+      {
+        "id": "39633",
+        "label": "皮埃尔",
+        "info": "15岁／属性：Mental型／生日：8月1日（狮子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/b8/39633_crt_4m4sF.jpg?r=1530318796",
+        "link": "https://bgm.tv/character/39633",
+        "categorie": "person"
+      },
+      {
+        "id": "39635",
+        "label": "渡边稔",
+        "info": "31岁／属性：Physical型／生日：3月22日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/27/39635_crt_zwB9W.jpg?r=1530318876",
+        "link": "https://bgm.tv/character/39635",
+        "categorie": "person"
+      },
+      {
+        "id": "39649",
+        "label": "硲道夫",
+        "info": "32岁／属性：Intellectual型／生日：1月13日（摩羯座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/f4/39649_crt_yJyra.jpg?r=1530320036",
+        "link": "https://bgm.tv/character/39649",
+        "categorie": "person"
+      },
+      {
+        "id": "39650",
+        "label": "舞田类",
+        "info": "23岁／属性：Mental型／生日：8月8日（狮子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/c9/39650_crt_4RtfQ.jpg?r=1530320097",
+        "link": "https://bgm.tv/character/39650",
+        "categorie": "person"
+      },
+      {
+        "id": "39651",
+        "label": "山下次郎",
+        "info": "30岁／属性：Intellectual型／生日：9月1日（处女座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/de/39651_crt_b2Q0p.jpg?r=1530320158",
+        "link": "https://bgm.tv/character/39651",
+        "categorie": "person"
+      },
+      {
+        "id": "39637",
+        "label": "秋山隼人",
+        "info": "17岁／属性：Physical型／生日：11月22日（天蝎座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/7e/39637_crt_1FUSN.jpg?r=1530319494",
+        "link": "https://bgm.tv/character/39637",
+        "categorie": "person"
+      },
+      {
+        "id": "39639",
+        "label": "冬美旬",
+        "info": "16岁／属性：Intellectual型／生日：1月2日（摩羯座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/12/39639_crt_VIaeR.jpg?r=1530319626",
+        "link": "https://bgm.tv/character/39639",
+        "categorie": "person"
+      },
+      {
+        "id": "39640",
+        "label": "榊夏来",
+        "info": "17岁／属性：Intellectual型／生日：6月18日（双子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/21/39640_crt_0o3c5.jpg?r=1530319683",
+        "link": "https://bgm.tv/character/39640",
+        "categorie": "person"
+      },
+      {
+        "id": "39638",
+        "label": "若里春名",
+        "info": "18岁／属性：Mental型／生日：3月30日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/90/39638_crt_E4EEe.jpg?r=1530319570",
+        "link": "https://bgm.tv/character/39638",
+        "categorie": "person"
+      },
+      {
+        "id": "39636",
+        "label": "伊濑谷四季",
+        "info": "16岁／属性：Physical型／生日：4月12日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/58/39636_crt_YC9zj.jpg?r=1530319098",
+        "link": "https://bgm.tv/character/39636",
+        "categorie": "person"
+      },
+      {
+        "id": "39647",
+        "label": "苍井悠介",
+        "info": "18岁／属性：Mental型／生日：7月7日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/6d/39647_crt_Tl6r7.jpg?r=1530319818",
+        "link": "https://bgm.tv/character/39647",
+        "categorie": "person"
+      },
+      {
+        "id": "39648",
+        "label": "苍井享介",
+        "info": "18岁／属性：Intellectual型／生日：7月7日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/cf/39648_crt_QUOQe.jpg?r=1530319867",
+        "link": "https://bgm.tv/character/39648",
+        "categorie": "person"
+      },
+      {
+        "id": "58365",
+        "label": "石川P",
+        "info": "「THE IDOL M@STER」系列游戏中「制作人」是作为玩家的分身的主人公角色。游戏内能以「〜〜〜P」的形式用喜欢的名字作为设定名，游戏内的角色们则是以“写作「〜〜〜P」、读作「制作人」(等)”来称呼玩家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/05/58365_crt_Nw9nM.jpg?r=1507394972",
+        "link": "https://bgm.tv/character/58365",
+        "categorie": "person"
+      },
+      {
+        "id": "41880",
+        "label": "圆城寺道流",
+        "info": "24岁／属性：Physical型／生日：9月14日（处女座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/c8/41880_crt_SC5Bo.jpg?r=1530321544",
+        "link": "https://bgm.tv/character/41880",
+        "categorie": "person"
+      },
+      {
+        "id": "39807",
+        "label": "握野英雄",
+        "info": "23岁／属性：Intellectual型／生日：3月7日（双鱼座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/81/39807_crt_150qr.jpg?r=1530321061",
+        "link": "https://bgm.tv/character/39807",
+        "categorie": "person"
+      },
+      {
+        "id": "39808",
+        "label": "木村龙",
+        "info": "20岁／属性：Physical型／生日：5月5日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/80/39808_crt_39KDV.jpg?r=1530321011",
+        "link": "https://bgm.tv/character/39808",
+        "categorie": "person"
+      },
+      {
+        "id": "39809",
+        "label": "信玄诚司",
+        "info": "31岁／属性：Mental型／生日：12月24日（摩羯座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/e8/39809_crt_rNiRP.jpg?r=1530320903",
+        "link": "https://bgm.tv/character/39809",
+        "categorie": "person"
+      },
+      {
+        "id": "44071",
+        "label": "冈村直央",
+        "info": "11岁／属性：Intellectual型／生日：3月25日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/b3/44071_crt_JUDug.jpg?r=1530322386",
+        "link": "https://bgm.tv/character/44071",
+        "categorie": "person"
+      },
+      {
+        "id": "44072",
+        "label": "橘志狼",
+        "info": "11岁／属性：Physical型／生日：4月22日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/3f/44072_crt_Ga554.jpg?r=1530322484",
+        "link": "https://bgm.tv/character/44072",
+        "categorie": "person"
+      },
+      {
+        "id": "44073",
+        "label": "姬野嘉音",
+        "info": "9岁／属性：Mental型／生日：2月10日（水瓶座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/dc/44073_crt_ZJwif.jpg?r=1530322538",
+        "link": "https://bgm.tv/character/44073",
+        "categorie": "person"
+      },
+      {
+        "id": "1876",
+        "label": "秋月凉",
+        "info": "【Dearly Stars】",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/e0/1876_crt_73S4a.jpg?r=1530638543",
+        "link": "https://bgm.tv/character/1876",
+        "categorie": "person"
+      },
+      {
+        "id": "39652",
+        "label": "华村翔真",
+        "info": "27岁／属性：Mental型／生日：8月24日（处女座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/b6/39652_crt_OS5CH.jpg?r=1530324163",
+        "link": "https://bgm.tv/character/39652",
+        "categorie": "person"
+      },
+      {
+        "id": "39653",
+        "label": "猫柳桐生",
+        "info": "18岁／属性：Intellectual型／生日：11月12日（天蝎座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/37/39653_crt_4ZCTa.jpg?r=1530324045",
+        "link": "https://bgm.tv/character/39653",
+        "categorie": "person"
+      },
+      {
+        "id": "39654",
+        "label": "清澄九郎",
+        "info": "19岁／属性：Mental型／生日：7月3日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/a2/39654_crt_6SiYT.jpg?r=1530324067",
+        "link": "https://bgm.tv/character/39654",
+        "categorie": "person"
+      },
+      {
+        "id": "39810",
+        "label": "红井朱雀",
+        "info": "16岁／属性：Physical型／生日：4月4日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/7f/39810_crt_Jt4lm.jpg?r=1530321346",
+        "link": "https://bgm.tv/character/39810",
+        "categorie": "person"
+      },
+      {
+        "id": "39811",
+        "label": "黑野玄武",
+        "info": "17岁／属性：Intellectual型／生日：7月22日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/59/39811_crt_6BOB6.jpg?r=1530321406",
+        "link": "https://bgm.tv/character/39811",
+        "categorie": "person"
+      },
+      {
+        "id": "41879",
+        "label": "大河猛",
+        "info": "17岁／属性：Physical型／生日：12月21日（射手座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ff/41879_crt_JjN0R.jpg?r=1530321531",
+        "link": "https://bgm.tv/character/41879",
+        "categorie": "person"
+      },
+      {
+        "id": "41881",
+        "label": "牙崎涟",
+        "info": "18岁／属性：Physical型／生日：5月14日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/e2/41881_crt_TZq1e.jpg?r=1530321560",
+        "link": "https://bgm.tv/character/41881",
+        "categorie": "person"
+      },
+      {
+        "id": "41878",
+        "label": "神乐丽",
+        "info": "16岁／属性：Intellectual型／生日：6月17日（双子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/09/41878_crt_pPb9f.jpg?r=1530321190",
+        "link": "https://bgm.tv/character/41878",
+        "categorie": "person"
+      },
+      {
+        "id": "41877",
+        "label": "都筑圭",
+        "info": "？？岁／属性：Mental型／生日：4月2日（白羊座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/f2/41877_crt_yhWc5.jpg?r=1530321161",
+        "link": "https://bgm.tv/character/41877",
+        "categorie": "person"
+      },
+      {
+        "id": "44077",
+        "label": "北村想乐",
+        "info": "19岁／属性：Mental型／生日：11月28日（天蝎座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/97/44077_crt_22qH7.jpg?r=1530322622",
+        "link": "https://bgm.tv/character/44077",
+        "categorie": "person"
+      },
+      {
+        "id": "44075",
+        "label": "九十九一希",
+        "info": "19岁／属性：Intellectual型／生日：10月13日（天秤座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/7c/44075_crt_gd4T6.jpg?r=1530323892",
+        "link": "https://bgm.tv/character/44075",
+        "categorie": "person"
+      },
+      {
+        "id": "44078",
+        "label": "古论克里斯",
+        "info": "29岁／属性：Intellectual型／生日：10月11日（天秤座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/98/44078_crt_JUR18.jpg?r=1530322711",
+        "link": "https://bgm.tv/character/44078",
+        "categorie": "person"
+      },
+      {
+        "id": "44074",
+        "label": "兜大吾",
+        "info": "14岁／属性：Physical型／生日：5月20日（金牛座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/61/44074_crt_22KJ2.jpg?r=1530323814",
+        "link": "https://bgm.tv/character/44074",
+        "categorie": "person"
+      },
+      {
+        "id": "39813",
+        "label": "神谷幸广",
+        "info": "21岁／属性：Mental型／生日：1月17日（摩羯座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/d3/39813_crt_kL3ko.jpg?r=1530323254",
+        "link": "https://bgm.tv/character/39813",
+        "categorie": "person"
+      },
+      {
+        "id": "39814",
+        "label": "东云庄一郎",
+        "info": "21岁／属性：Intellectual型／生日：11月8日（天蝎座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/58/39814_crt_1mWWN.jpg?r=1530323438",
+        "link": "https://bgm.tv/character/39814",
+        "categorie": "person"
+      },
+      {
+        "id": "39815",
+        "label": "阿斯兰·别西卜二世",
+        "info": "26岁／属性：Physical型／生日：玛雅历5174年10月9日（天秤座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/d5/39815_crt_SJYS8.jpg?r=1530323586",
+        "link": "https://bgm.tv/character/39815",
+        "categorie": "person"
+      },
+      {
+        "id": "39816",
+        "label": "卯月卷绪",
+        "info": "18岁／属性：Mental型／生日：12月12日（射手座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/59/39816_crt_MZRr6.jpg?r=1530323642",
+        "link": "https://bgm.tv/character/39816",
+        "categorie": "person"
+      },
+      {
+        "id": "39817",
+        "label": "水岛咲",
+        "info": "18岁／属性：Physical型／生日：8月19日（狮子座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/a1/39817_crt_F5r4A.jpg?r=1530323707",
+        "link": "https://bgm.tv/character/39817",
+        "categorie": "person"
+      },
+      {
+        "id": "44076",
+        "label": "葛之叶雨彦",
+        "info": "30岁／属性：Intellectual型／生日：10月31日（天蝎座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/90/44076_crt_g7S0G.jpg?r=1530322588",
+        "link": "https://bgm.tv/character/44076",
+        "categorie": "person"
+      },
+      {
+        "id": "51279",
+        "label": "山村贤",
+        "info": "？？岁／生日：7月2日（巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/8f/51279_crt_eH2C5.jpg?r=1530640314",
+        "link": "https://bgm.tv/character/51279",
+        "categorie": "person"
+      },
+      {
+        "id": "51280",
+        "label": "斋藤孝司",
+        "info": "315Pro代表取缔役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/05/51280_crt_4N9uU.jpg?r=1486820920",
+        "link": "https://bgm.tv/character/51280",
+        "categorie": "person"
+      },
+      {
+        "id": "58050",
+        "label": "善泽记者",
+        "info": "报道艺能界新闻的记者，高木顺二朗社长的老朋友，常常出入于765Pro的事务所。除了765Pro的偶像们，在#25中也对876Pro的爱、绘理、凉进行了采访。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/b7/58050_crt_0nV99.jpg?r=1506361074",
+        "link": "https://bgm.tv/character/58050",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      },
+      {
+        "id": "59817",
+        "label": "樱庭的姐姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/f1/59817_crt_1o7On.jpg",
+        "link": "https://bgm.tv/character/59817",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71998",
+        "label": "珂赛特",
+        "info": "コゼット　（声：名塚佳織／3才・松元環季）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/0b/71998_crt_14PQ0.jpg?r=1569644590",
+        "link": "https://bgm.tv/character/71998",
+        "categorie": "person"
+      },
+      {
+        "id": "3864",
+        "label": "冉·阿让",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/8b/3864_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3864",
+        "categorie": "person"
+      },
+      {
+        "id": "3865",
+        "label": "芳汀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/6d/3865_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3865",
+        "categorie": "person"
+      },
+      {
+        "id": "3866",
+        "label": "ガヴローシュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/df/3866_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3866",
+        "categorie": "person"
+      },
+      {
+        "id": "3867",
+        "label": "エポニーヌ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/54/3867_crt_anidb.jpg?r=1597496608",
+        "link": "https://bgm.tv/character/3867",
+        "categorie": "person"
+      },
+      {
+        "id": "3868",
+        "label": "おかみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/16/3868_crt_anidb.jpg?r=1432134213",
+        "link": "https://bgm.tv/character/3868",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

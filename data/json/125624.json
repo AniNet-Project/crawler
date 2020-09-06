@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32009",
+        "label": "迈克尔",
+        "info": "日本料理に魅せられたイギリス人のフード・ライター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/d5/32009_crt_77L04.jpg",
+        "link": "https://bgm.tv/character/32009",
+        "categorie": "person"
+      },
+      {
+        "id": "37298",
+        "label": "埃米尔",
+        "info": "次男。音楽をこよなく愛し、どんな状況にあっても常にマイペース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/97/37298_crt_vEy88.jpg",
+        "link": "https://bgm.tv/character/37298",
+        "categorie": "person"
+      },
+      {
+        "id": "37299",
+        "label": "リスン",
+        "info": "マイケルの最愛の妻であり、二人の息子のよき母。おおらかな性格だが夫以上に好奇心が旺盛な側面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/89/37299_crt_ZOhh4.jpg",
+        "link": "https://bgm.tv/character/37299",
+        "categorie": "person"
+      },
+      {
+        "id": "37300",
+        "label": "アスガー",
+        "info": "長男。父親譲りの理論派。鋭い舌鋒でマイケルをやり込めることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/ab/37300_crt_MtNmK.jpg",
+        "link": "https://bgm.tv/character/37300",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

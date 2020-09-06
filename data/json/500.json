@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9313",
+        "label": "月岛雫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/e2/9313_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9313",
+        "categorie": "person"
+      },
+      {
+        "id": "18248",
+        "label": "天泽圣司",
+        "info": "故事的男主角，年龄是十五岁。梦想成为一个出色的小提琴名匠，因而决定中学毕业后到意大利从事深造。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/bb/18248_crt_OXACM.jpg",
+        "link": "https://bgm.tv/character/18248",
+        "categorie": "person"
+      },
+      {
+        "id": "75910",
+        "label": "巴隆",
+        "info": "猫咪事务所的巴隆男爵。被赋予灵魂的陶瓷猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/2b/75910_crt_xYLxi.jpg",
+        "link": "https://bgm.tv/character/75910",
+        "categorie": "person"
+      },
+      {
+        "id": "75911",
+        "label": "ムタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/04/75911_crt_xX3S3.jpg",
+        "link": "https://bgm.tv/character/75911",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "352",
+        "label": "刹那·F·清英",
+        "info": "期盼着一个没有战争的世界，对地球联邦的独立部队A-Laws之做法抱有怀疑，4年间一直独自进行调查。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/52/352_crt_J92kE.jpg?r=1504037995",
+        "link": "https://bgm.tv/character/352",
+        "categorie": "person"
+      },
+      {
+        "id": "13527",
+        "label": "洛克昂·斯特拉托斯",
+        "info": "力天使高达（Dynames）驾驶员，爱好体育射击，因狙击能力优秀被天人选中。除了年龄不详的提耶利亚外是天人所有高达驾驶员里最年长的，类似队长的人物。与托勒密的船员菲尔特有淡淡的恋情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/99/13527_crt_qXLgQ.jpg?r=1504037949",
+        "link": "https://bgm.tv/character/13527",
+        "categorie": "person"
+      },
+      {
+        "id": "353",
+        "label": "阿雷路亚·哈普提兹姆",
+        "info": "4年前与联合国军一战遭联合国军俘虏后（但主天使高达的GN-Drive已先被天使的冯恩·史帕克回收），一直被囚禁于前人革联掌管之反政府势力收监设施内。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/cc/353_crt_zOz5S.jpg?r=1504037961",
+        "link": "https://bgm.tv/character/353",
+        "categorie": "person"
+      },
+      {
+        "id": "355",
+        "label": "提耶利亚·厄德",
+        "info": "重装型MS“炽天使高达（GN-008 Seravee Gundam）”之驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/2b/355_crt_w28G2.jpg?r=1504037974",
+        "link": "https://bgm.tv/character/355",
+        "categorie": "person"
+      },
+      {
+        "id": "3400",
+        "label": "玛丽娜·伊斯梅尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/4d/3400_crt_6447l.jpg?r=1504037814",
+        "link": "https://bgm.tv/character/3400",
+        "categorie": "person"
+      },
+      {
+        "id": "3401",
+        "label": "菲尔特·格雷斯",
+        "info": "第一季介绍：",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/cc/3401_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3401",
+        "categorie": "person"
+      },
+      {
+        "id": "3402",
+        "label": "皇·李·诺列加",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/d0/3402_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3402",
+        "categorie": "person"
+      },
+      {
+        "id": "3405",
+        "label": "里西典达尔·杰利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/1b/3405_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3405",
+        "categorie": "person"
+      },
+      {
+        "id": "3406",
+        "label": "拉塞·艾恩",
+        "info": "第一季介绍：",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/fd/3406_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3406",
+        "categorie": "person"
+      },
+      {
+        "id": "3407",
+        "label": "克里斯蒂娜·雪拉",
+        "info": "托勒密的战况管制员，拥有高超的操作技术，其坦率的性格深得同伴信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/b4/3407_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3407",
+        "categorie": "person"
+      },
+      {
+        "id": "3408",
+        "label": "王留美",
+        "info": "第一季介绍：",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/4e/3408_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3408",
+        "categorie": "person"
+      },
+      {
+        "id": "3409",
+        "label": "红龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/12/3409_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3409",
+        "categorie": "person"
+      },
+      {
+        "id": "3410",
+        "label": "利冯兹·阿尔马克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f7/3410_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3410",
+        "categorie": "person"
+      },
+      {
+        "id": "3412",
+        "label": "伊奥利亚·修罕贝格",
+        "info": "原型为康斯坦丁·齐奥尔科夫斯基。亦也有指与苏联建立者伊里奇·列宁相似。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/f1/3412_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3412",
+        "categorie": "person"
+      },
+      {
+        "id": "3413",
+        "label": "玛丽·帕法希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/19/3413_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3413",
+        "categorie": "person"
+      },
+      {
+        "id": "3414",
+        "label": "谢尔盖·斯米尔诺夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/a7/3414_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3414",
+        "categorie": "person"
+      },
+      {
+        "id": "3415",
+        "label": "帕特里克·葛拉索瓦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d9/3415_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3415",
+        "categorie": "person"
+      },
+      {
+        "id": "3416",
+        "label": "格拉汉姆·艾卡",
+        "info": "第一季介绍：",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/ff/3416_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3416",
+        "categorie": "person"
+      },
+      {
+        "id": "3417",
+        "label": "比利·片桐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/1c/3417_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3417",
+        "categorie": "person"
+      },
+      {
+        "id": "3421",
+        "label": "席琳·巴弗提亚尔",
+        "info": "アザディスタン王国の王宮で、皇女マリナ・イスマイールの側近を勤めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/46/3421_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3421",
+        "categorie": "person"
+      },
+      {
+        "id": "3422",
+        "label": "阿里·阿尔·萨切斯",
+        "info": "南欧莫拉利亚共和国民间军事公司的雇佣兵。格斗、射击等战斗相关的技能非常全面，MS驾驶技术水平也相当高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e5/3422_crt_VVQJB.jpg?r=1504037867",
+        "link": "https://bgm.tv/character/3422",
+        "categorie": "person"
+      },
+      {
+        "id": "3423",
+        "label": "卡蒂·马妮金",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/32/3423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3423",
+        "categorie": "person"
+      },
+      {
+        "id": "3424",
+        "label": "霍华德·梅森",
+        "info": "“高达调查临时队”新加入成员，军阶准尉，跟艾卡等一起在MSWAD服役，第一季第14话起与艾卡一同被编入新成立的Union最精英部队“Over Flags”。被米海尔驾驶的GN尖牙刺穿机体各部分，战死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/a5/3424_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3424",
+        "categorie": "person"
+      },
+      {
+        "id": "3425",
+        "label": "ミン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/21/3425_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3425",
+        "categorie": "person"
+      },
+      {
+        "id": "3428",
+        "label": "沙慈·克罗斯洛德",
+        "info": "居住于经济特区东京，宇宙工程学学生。由于性格温厚而经常被女朋友路易丝·哈勒维戏弄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/00/3428_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3428",
+        "categorie": "person"
+      },
+      {
+        "id": "3429",
+        "label": "露易丝·哈勒维",
+        "info": "居住于经济特区东京的海外留学生（原籍隶属于AEU的西班牙），家族拥有庞大之企业，沙慈的女朋友，同为宇宙工程学的学生，性格很任性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a2/3429_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3429",
+        "categorie": "person"
+      },
+      {
+        "id": "3430",
+        "label": "妮娜·崔尼蒂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/2c/3430_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3430",
+        "categorie": "person"
+      },
+      {
+        "id": "3431",
+        "label": "ミハエル・トリニティ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/c2/3431_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3431",
+        "categorie": "person"
+      },
+      {
+        "id": "10196",
+        "label": "乔伊斯·莫雷诺",
+        "info": "プトレマイオスの医師として、乗組員の治療にあたる。イアンとは親友同士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/33/10196_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10196",
+        "categorie": "person"
+      },
+      {
+        "id": "49234",
+        "label": "绢江·克洛斯罗德",
+        "info": "沙慈の姉。報道機関JNNに勤務し、ソレスタルビーイングについての取材に熱を注ぐ。リニアトレイン公社総帥ラグナとCBの関係にまでたどり着くが、サーシェスによって殺害される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/1d/49234_crt_Vwd6D.jpg",
+        "link": "https://bgm.tv/character/49234",
+        "categorie": "person"
+      },
+      {
+        "id": "50360",
+        "label": "拉斐尔·爱夫曼",
+        "info": "オーバーフラッグスの技術主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/5d/50360_crt_BNiEY.jpg",
+        "link": "https://bgm.tv/character/50360",
+        "categorie": "person"
+      },
+      {
+        "id": "50361",
+        "label": "达利尔·道奇",
+        "info": "オーバーフラッグスの構成メンバーのひとり。闘志を前面に出して戦うタイプで、攻撃方法も豪胆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/f1/50361_crt_afSfv.jpg",
+        "link": "https://bgm.tv/character/50361",
+        "categorie": "person"
+      },
+      {
+        "id": "50362",
+        "label": "约翰·崔尼帝",
+        "info": "スローネアインを駆るガンダムマイスター。兄妹の中では、もっとも冷静な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/6a/50362_crt_VEvwL.jpg",
+        "link": "https://bgm.tv/character/50362",
+        "categorie": "person"
+      },
+      {
+        "id": "3411",
+        "label": "亚历杭德罗·科纳",
+        "info": "ユニオン所属国の国連大使でありながら、ソレスタルビーイングの監視者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/d0/3411_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3411",
+        "categorie": "person"
+      },
+      {
+        "id": "7687",
+        "label": "哈罗",
+        "info": "拥有穿越时空之能力的球型机器人，操纵敢达世界的幕后黑手，出现在各个时空的战场中，目的不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/db/7687_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7687",
+        "categorie": "person"
+      },
+      {
+        "id": "3418",
+        "label": "ガンダムデュナメス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/94/3418_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3418",
+        "categorie": "person"
+      },
+      {
+        "id": "3541",
+        "label": "ガンダムキュリオス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/f5/3541_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3541",
+        "categorie": "person"
+      },
+      {
+        "id": "3542",
+        "label": "GN-005 德天使高达",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/87/3542_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3542",
+        "categorie": "person"
+      },
+      {
+        "id": "7274",
+        "label": "AEU-09Y812/A サーシェス専用AEUイナクトカスタム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/01/7274_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7274",
+        "categorie": "person"
+      },
+      {
+        "id": "7275",
+        "label": "GNW-002 ガンダムスローネツヴァイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/92/7275_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7275",
+        "categorie": "person"
+      },
+      {
+        "id": "7280",
+        "label": "Ptolemaios",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/5b/7280_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7280",
+        "categorie": "person"
+      },
+      {
+        "id": "7326",
+        "label": "Trinity Mothership",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/33/7326_crt_W2YT8.jpg",
+        "link": "https://bgm.tv/character/7326",
+        "categorie": "person"
+      },
+      {
+        "id": "7342",
+        "label": "人类革新联盟",
+        "info": "人类革新联盟是日本动画《机动战士高达00》中虚构的国际政治组织。该组织于公元2297年创立，是以亚洲的国家群为中心组成的组织，包括中国、俄罗斯、印度等35个成员国(孟加拉、尼泊尔、不丹、部分中亚国家——除阿富汗和巴基斯坦、蒙古、东南亚国家联盟成员国、东帝汶、巴布亚新几内亚、朝鲜半岛、台澎金马等地区)，首都上海，国家主席办事处坐落在中国境内。是以亚洲的国家群为中心组成的组织，国内实行全民皆兵制度。其中掌握主导权的，是负责政治面的中国，在技术面领先的印度，以及俄罗斯这个大国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/12/7342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7342",
+        "categorie": "person"
+      },
+      {
+        "id": "7343",
+        "label": "新ヨーロッパ共同体",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/4f/7343_crt_YzIdt.jpg",
+        "link": "https://bgm.tv/character/7343",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

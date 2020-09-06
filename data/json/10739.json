@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "780",
+        "label": "桂木桂马",
+        "info": "外号“攻陷之神（落とし神）”的Galgame达人高中生。到目前为止已攻下10000名女角，玩的游戏接近5000部。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/33/780_crt_FtRvo.jpg?r=1378924028",
+        "link": "https://bgm.tv/character/780",
+        "categorie": "person"
+      },
+      {
+        "id": "11257",
+        "label": "艾利由西亚·D·鲁德·伊玛",
+        "info": "新恶魔，隶属于地狱的冥界法治省极东支局的“驱魂队”，阶级为三等公务魔。在进入驱魂队之前当了300年的地狱扫除人员，目前是驱魂队的新人。头上戴有骷髅的发饰，这个发饰也是驱魂探测器，身上缠着的羽衣可以变化成各种东西，覆盖自己可以隐藏气息不让他人查觉。总是随身带着一把扫把，因为一旦离开身边会感到不自在。300年的扫除经验让艾鲁西会习惯性的打扫且技术非常完美。有着傻乎乎的性格，既冒失有时候还是个爱哭鬼，令桂马曾对恶魔有很强烈的误解，桂马将她称为“BUG恶魔”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a2/11257_crt_ZbdIO.jpg?r=1378924067",
+        "link": "https://bgm.tv/character/11257",
+        "categorie": "person"
+      },
+      {
+        "id": "13331",
+        "label": "哈克雅·杜·罗德·赫尔梅尼姆",
+        "info": "新恶魔，地狱的冥界法治省极东支局驱魂队讨伐队极东支部第32地区长，阶级为一等公务魔，和艾鲁西是学生时代的同学兼密友。全学年第一名的天才，手上拿的大镰刀是学年第一名毕业的象征“证明之镰”。能使用窥视过去或同时压制复数对象等艾鲁西做不到的羽衣使用法，在学生时代经常帮艾鲁西，而艾鲁西也相当尊敬她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/56/13331_crt_XnnzZ.jpg?r=1378921597",
+        "link": "https://bgm.tv/character/13331",
+        "categorie": "person"
+      },
+      {
+        "id": "14039",
+        "label": "春日楠",
+        "info": "舞岛学园高中3年A组，古式武术春日流罗新活杀术的传承者。桂马在现实世界的第五个攻略对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/5b/14039_crt_t4Az1.jpg?r=1378924227",
+        "link": "https://bgm.tv/character/14039",
+        "categorie": "person"
+      },
+      {
+        "id": "14040",
+        "label": "小阪千寻",
+        "info": "舞岛学园高中2年B组女生。桂马在现实世界的第六个攻略对象。步美的好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/7b/14040_crt_Yvk4m.jpg?r=1378923886",
+        "link": "https://bgm.tv/character/14040",
+        "categorie": "person"
+      },
+      {
+        "id": "14041",
+        "label": "长濑纯",
+        "info": "桂马在现实世界的第七个攻略对象。舞岛高中的实习女老师，为了梦想而相当热血，但不太被学生接受。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/08/14041_crt_6k5C0.jpg?r=1378924109",
+        "link": "https://bgm.tv/character/14041",
+        "categorie": "person"
+      },
+      {
+        "id": "11258",
+        "label": "高原步美",
+        "info": "陸上部でハードル走を種目とする明るく活発な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/18/11258_crt_Z8cUx.jpg?r=1378923920",
+        "link": "https://bgm.tv/character/11258",
+        "categorie": "person"
+      },
+      {
+        "id": "17176",
+        "label": "桂木麻里",
+        "info": "桂馬の母親。自宅を兼ねた喫茶店「カフェ・グランパ」を経営している。一児の母とは思えない程スタイルが良い。姑との関係は良好だが、舅との関係は悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/16/17176_crt_r8vFA.jpg",
+        "link": "https://bgm.tv/character/17176",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

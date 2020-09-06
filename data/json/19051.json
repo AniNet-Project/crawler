@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73143",
+        "label": "ネロ・ダース",
+        "info": "主人公。幼くして両親を亡くし、祖父のジェハンと2人で生活している10歳の少年。ジェハンに似て心が優しく、素直で正直な働き者である。瀕死のパトラッシュを助け、以後一緒に生活する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/3e/73143_crt_1U12X.jpg",
+        "link": "https://bgm.tv/character/73143",
+        "categorie": "person"
+      },
+      {
+        "id": "73144",
+        "label": "アロア・コゼツ",
+        "info": "白い三角巾を被った8歳の少女。勝ち気で天真爛漫な性格をしている。とてもネロを信頼しており、仲が良くいつも一緒に遊んでいる。好奇心旺盛で、ネロが何かをしていると自分もやりたがり、ネロの心配をよそに「へいきよ～」と少々危なっかしい行動をすることも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/6d/73144_crt_eLAX8.jpg",
+        "link": "https://bgm.tv/character/73144",
+        "categorie": "person"
+      },
+      {
+        "id": "73145",
+        "label": "ジェハン・ダース",
+        "info": "ネロの祖父。ネロの両親が亡くなった後、ネロを引き取って共に生活している。アントワープまでの牛乳運びと庭で育てている薬草の販売のわずかな収入で生活を営んでいる。ネロの良き理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/29/73145_crt_G88gQ.jpg",
+        "link": "https://bgm.tv/character/73145",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

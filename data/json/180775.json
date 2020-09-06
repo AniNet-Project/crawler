@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65865",
+        "label": "宁远",
+        "info": "顶级逃生魔术师，头脑清醒，思维敏捷。游戏刚开始为救苏瑾而落水失忆，仅有五年级记忆仍成为队伍的核心，在后续剧情当中起着决定性的作用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/b3/65865_crt_C5K30.jpg",
+        "link": "https://bgm.tv/character/65865",
+        "categorie": "person"
+      },
+      {
+        "id": "65866",
+        "label": "何志扬",
+        "info": "原香港黑社会益东联社团干部，脾气暴躁，对局势认识非常清晰，能屈能伸，重义气，战斗力极高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/63/65866_crt_3T26y.jpg",
+        "link": "https://bgm.tv/character/65866",
+        "categorie": "person"
+      },
+      {
+        "id": "65867",
+        "label": "苏瑾",
+        "info": "医学院学生，善良胆小的单纯少女，苗医传人，医术高超。因宁远的挺身相救和高智商而喜欢上他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/80/65867_crt_R5357.jpg",
+        "link": "https://bgm.tv/character/65867",
+        "categorie": "person"
+      },
+      {
+        "id": "65869",
+        "label": "安德烈·伊万诺夫",
+        "info": "自称佣兵，隶属于以色列某军事组织，特种兵出身，体格健壮，战斗力极高，为人非常正直。与女性相处非常羞涩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/1c/65869_crt_2Id9v.jpg",
+        "link": "https://bgm.tv/character/65869",
+        "categorie": "person"
+      },
+      {
+        "id": "65870",
+        "label": "石垣川",
+        "info": "日本人，资本家，擅长并且喜欢担任团队的领导者，居上位者特有的心计和领导力，是团队的另一部分势力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/36/65870_crt_K2I24.jpg",
+        "link": "https://bgm.tv/character/65870",
+        "categorie": "person"
+      },
+      {
+        "id": "65872",
+        "label": "迪奥 ·吉罗",
+        "info": "法国人，考古学教授，队伍中的信息提供者，心思缜密，立场理智客观，一般维持中立。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/65/65872_crt_2Ii1u.jpg",
+        "link": "https://bgm.tv/character/65872",
+        "categorie": "person"
+      },
+      {
+        "id": "65873",
+        "label": "区文祥",
+        "info": "台湾人，准职业篮球运动员。性格温和，充当和事老的角色，容易被人影响立场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/4c/65873_crt_4ujDn.jpg",
+        "link": "https://bgm.tv/character/65873",
+        "categorie": "person"
+      },
+      {
+        "id": "65868",
+        "label": "翠西·坎迪",
+        "info": "自称L.A.警察，队伍里的执法者，身手矫健，战斗力高，隐藏着不为人知的秘密。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/f9/65868_crt_h3XeD.jpg",
+        "link": "https://bgm.tv/character/65868",
+        "categorie": "person"
+      },
+      {
+        "id": "65871",
+        "label": "罗密欧·艾贝尔",
+        "info": "英国人，模特出身，胆小怕事，自私自利，自我中心，为何志扬所厌恶，两人之间关系恶劣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/c8/65871_crt_b1L8h.jpg",
+        "link": "https://bgm.tv/character/65871",
+        "categorie": "person"
+      },
+      {
+        "id": "65874",
+        "label": "丁鹤春",
+        "info": "天津相声演员，胆小怕事，善良懦弱。体型原因，体力不足，但毅力超人，坚忍不拔，求生意志非常强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/d7/65874_crt_LHOsC.jpg",
+        "link": "https://bgm.tv/character/65874",
+        "categorie": "person"
+      },
+      {
+        "id": "65875",
+        "label": "莉卡·谢蕊儿",
+        "info": "柔弱纤细的新西兰家庭主妇，怯懦胆小。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/50/65875_crt_oodYI.jpg",
+        "link": "https://bgm.tv/character/65875",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13734",
+        "label": "大江锦太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/a2/13734_crt_UV3fu.jpg",
+        "link": "https://bgm.tv/character/13734",
+        "categorie": "person"
+      },
+      {
+        "id": "13735",
+        "label": "女社长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/ea/13735_crt_dsDUt.jpg",
+        "link": "https://bgm.tv/character/13735",
+        "categorie": "person"
+      },
+      {
+        "id": "13736",
+        "label": "胜田奈绪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/54/13736_crt_Wn3kB.jpg",
+        "link": "https://bgm.tv/character/13736",
+        "categorie": "person"
+      },
+      {
+        "id": "13737",
+        "label": "纪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/ab/13737_crt_z5QuM.jpg?r=1476333425",
+        "link": "https://bgm.tv/character/13737",
+        "categorie": "person"
+      },
+      {
+        "id": "13738",
+        "label": "速水鲇子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/11/13738_crt_257R6.jpg",
+        "link": "https://bgm.tv/character/13738",
+        "categorie": "person"
+      },
+      {
+        "id": "13739",
+        "label": "寺山丽子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/b6/13739_crt_68zgP.jpg",
+        "link": "https://bgm.tv/character/13739",
+        "categorie": "person"
+      },
+      {
+        "id": "13740",
+        "label": "知绘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/de/13740_crt_Tyt4Z.jpg",
+        "link": "https://bgm.tv/character/13740",
+        "categorie": "person"
+      },
+      {
+        "id": "13741",
+        "label": "神崎ゆか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/89/13741_crt_7w1F0.jpg",
+        "link": "https://bgm.tv/character/13741",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "6282",
+        "label": "タルるート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/07/6282_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6282",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

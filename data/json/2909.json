@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17332",
+        "label": "里奇",
+        "info": "黑发，黑瞳。生活在Slum ( 贫民窟) ——Ceres ( 凯雷斯) 中的杂种。有着桀骜不逊的独特个性，既不向权力屈服也不谄媚逢迎，只向伴侣Guy敞开心扉。在贫民窟所向披靡，曾是Bison ( 帮派——拜森，又译作野牛帮) 的首领。在前往繁华都市Midas ( 米达斯) 后，意外邂逅Blondy ( 金发贵族) 统治者——Iason，并成为其宠物。在与Iason爱恨交织的情感纠葛中一步步走向迷幻、毁灭的深渊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/58/17332_crt_IE22g.jpg",
+        "link": "https://bgm.tv/character/17332",
+        "categorie": "person"
+      },
+      {
+        "id": "17334",
+        "label": "伊亚索",
+        "info": "行星Amoi上的都市Tanagura(塔纳古拉)的「Blondy ( 金发贵族)」中的一员。IQ300 以上的人工智能人，素有\"美神\"之称。除大脑外，身体其余部分均为人造体。能以冷静的态度从容处理任何事件或冲突，将Tanagura的统治体制维护得坚不可摧。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a3/17334_crt_kLBSS.jpg?r=1426175421",
+        "link": "https://bgm.tv/character/17334",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

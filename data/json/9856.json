@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10903",
+        "label": "水岛朝",
+        "info": "东校二年级，游泳部。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/ba/10903_crt_FToja.jpg",
+        "link": "https://bgm.tv/character/10903",
+        "categorie": "person"
+      },
+      {
+        "id": "31693",
+        "label": "最所弌",
+        "info": "东校2年生的主人公。游泳部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/d2/31693_crt_WJLZV.jpg?r=1428353763",
+        "link": "https://bgm.tv/character/31693",
+        "categorie": "person"
+      },
+      {
+        "id": "31694",
+        "label": "空山菜摘芽",
+        "info": "东校2年生，女主角之一。花卉园艺部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/bb/31694_crt_855F5.jpg?r=1428354049",
+        "link": "https://bgm.tv/character/31694",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

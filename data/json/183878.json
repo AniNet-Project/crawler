@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37344",
+        "label": "薇尔莉特·伊芙加登",
+        "info": "隶属C·H邮政公司的“自动记忆人偶”少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/03/37344_crt_QeHnZ.jpg?r=1515695817",
+        "link": "https://bgm.tv/character/37344",
+        "categorie": "person"
+      },
+      {
+        "id": "38323",
+        "label": "基尔伯特·布甘比利亚",
+        "info": "莱丁谢夫特里希国陆军军人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/25/38323_crt_FbUSl.jpg?r=1453465684",
+        "link": "https://bgm.tv/character/38323",
+        "categorie": "person"
+      },
+      {
+        "id": "38322",
+        "label": "克劳迪亚·霍金斯",
+        "info": "原是莱丁谢夫特里希国的军人，现任C·H邮政公司的社长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/71/38322_crt_6OozU.jpg?r=1453465426",
+        "link": "https://bgm.tv/character/38322",
+        "categorie": "person"
+      },
+      {
+        "id": "49046",
+        "label": "嘉德丽雅·波德莱尔",
+        "info": "CH郵便社に務める自動手記人形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/75/49046_crt_8YUQA.jpg?r=1481125729",
+        "link": "https://bgm.tv/character/49046",
+        "categorie": "person"
+      },
+      {
+        "id": "49045",
+        "label": "贝内迪克特·布卢",
+        "info": "CH郵便社に務める配達員（ポストマン）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d5/49045_crt_B5pg6.jpg?r=1481125630",
+        "link": "https://bgm.tv/character/49045",
+        "categorie": "person"
+      },
+      {
+        "id": "58744",
+        "label": "艾丽卡·布朗",
+        "info": "アイリスよりも少し先輩の自動手記人形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c7/58744_crt_BB1bq.jpg?r=1511638752",
+        "link": "https://bgm.tv/character/58744",
+        "categorie": "person"
+      },
+      {
+        "id": "58745",
+        "label": "爱丽丝·卡娜莉",
+        "info": "CH郵便社に務める新人の自動手記人形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/58/58745_crt_s3JgM.jpg?r=1511638803",
+        "link": "https://bgm.tv/character/58745",
+        "categorie": "person"
+      },
+      {
+        "id": "60172",
+        "label": "蒂法尼·伊芙加登",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/3f/60172_crt_J8ZBN.jpg?r=1515675258",
+        "link": "https://bgm.tv/character/60172",
+        "categorie": "person"
+      },
+      {
+        "id": "60173",
+        "label": "奥利弗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/ba/60173_crt_y1xy3.jpg",
+        "link": "https://bgm.tv/character/60173",
+        "categorie": "person"
+      },
+      {
+        "id": "60174",
+        "label": "莉莉安",
+        "info": "C·H邮政公司的接待员。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60174",
+        "categorie": "person"
+      },
+      {
+        "id": "60175",
+        "label": "内丽内",
+        "info": "C·H邮政公司的接待员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/43/60175_crt_jl852.jpg?r=1578658561",
+        "link": "https://bgm.tv/character/60175",
+        "categorie": "person"
+      },
+      {
+        "id": "60308",
+        "label": "迪特福利特·布甘比利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/71/60308_crt_AHp0y.jpg",
+        "link": "https://bgm.tv/character/60308",
+        "categorie": "person"
+      },
+      {
+        "id": "60309",
+        "label": "罗兰德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/53/60309_crt_IQZtG.jpg",
+        "link": "https://bgm.tv/character/60309",
+        "categorie": "person"
+      },
+      {
+        "id": "60310",
+        "label": "布里奇特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/05/60310_crt_HHn5g.jpg",
+        "link": "https://bgm.tv/character/60310",
+        "categorie": "person"
+      },
+      {
+        "id": "60422",
+        "label": "露库莉娅·马尔博罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/2f/60422_crt_nMmj2.jpg",
+        "link": "https://bgm.tv/character/60422",
+        "categorie": "person"
+      },
+      {
+        "id": "3038",
+        "label": "斯宾塞·马尔博罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/1b/3038_crt_gLsNE.jpg",
+        "link": "https://bgm.tv/character/3038",
+        "categorie": "person"
+      },
+      {
+        "id": "60446",
+        "label": "罗丹丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/d7/60446_crt_JtJ1J.jpg",
+        "link": "https://bgm.tv/character/60446",
+        "categorie": "person"
+      },
+      {
+        "id": "60448",
+        "label": "布鲁贝尔·尤诺阿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/05/60448_crt_OYpWi.jpg",
+        "link": "https://bgm.tv/character/60448",
+        "categorie": "person"
+      },
+      {
+        "id": "60449",
+        "label": "伊贝莉丝·此上",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/27/60449_crt_W02pL.jpg",
+        "link": "https://bgm.tv/character/60449",
+        "categorie": "person"
+      },
+      {
+        "id": "60676",
+        "label": "爱丽丝的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/37/60676_crt_Z8otF.jpg",
+        "link": "https://bgm.tv/character/60676",
+        "categorie": "person"
+      },
+      {
+        "id": "60677",
+        "label": "爱丽丝的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/0c/60677_crt_m3MSS.jpg",
+        "link": "https://bgm.tv/character/60677",
+        "categorie": "person"
+      },
+      {
+        "id": "60678",
+        "label": "埃蒙·斯诺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/ef/60678_crt_yO2mv.jpg",
+        "link": "https://bgm.tv/character/60678",
+        "categorie": "person"
+      },
+      {
+        "id": "60755",
+        "label": "夏洛特·爱贝尔弗蕾亚·德罗塞尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/99/60755_crt_TKO1B.jpg?r=1518025717",
+        "link": "https://bgm.tv/character/60755",
+        "categorie": "person"
+      },
+      {
+        "id": "60805",
+        "label": "达米安·巴尔杜尔·弗吕格尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/fc/60805_crt_77O8I.jpg",
+        "link": "https://bgm.tv/character/60805",
+        "categorie": "person"
+      },
+      {
+        "id": "60806",
+        "label": "艾伯塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/bc/60806_crt_LcUZc.jpg",
+        "link": "https://bgm.tv/character/60806",
+        "categorie": "person"
+      },
+      {
+        "id": "61122",
+        "label": "里昂·斯蒂法诺提斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/62/61122_crt_V4l1M.jpg",
+        "link": "https://bgm.tv/character/61122",
+        "categorie": "person"
+      },
+      {
+        "id": "61123",
+        "label": "勒贝利耶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e3/61123_crt_XySPm.jpg",
+        "link": "https://bgm.tv/character/61123",
+        "categorie": "person"
+      },
+      {
+        "id": "61124",
+        "label": "凯尔·塞利格",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/cf/61124_crt_SQTC2.jpg",
+        "link": "https://bgm.tv/character/61124",
+        "categorie": "person"
+      },
+      {
+        "id": "61244",
+        "label": "奥斯卡·韦伯斯特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/7e/61244_crt_AI1NH.jpg?r=1519300328",
+        "link": "https://bgm.tv/character/61244",
+        "categorie": "person"
+      },
+      {
+        "id": "61198",
+        "label": "奥利维亚·韦伯斯特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e2/61198_crt_juMKj.jpg?r=1519274576",
+        "link": "https://bgm.tv/character/61198",
+        "categorie": "person"
+      },
+      {
+        "id": "61425",
+        "label": "奶妈",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61425",
+        "categorie": "person"
+      },
+      {
+        "id": "61787",
+        "label": "安妮·马格诺利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f2/61787_crt_AqXQZ.jpg?r=1521049618",
+        "link": "https://bgm.tv/character/61787",
+        "categorie": "person"
+      },
+      {
+        "id": "61788",
+        "label": "克拉拉·马格诺利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/65/61788_crt_SzKiZ.jpg?r=1521049724",
+        "link": "https://bgm.tv/character/61788",
+        "categorie": "person"
+      },
+      {
+        "id": "61793",
+        "label": "艾莉丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/3a/61793_crt_lS2SS.jpg",
+        "link": "https://bgm.tv/character/61793",
+        "categorie": "person"
+      },
+      {
+        "id": "61910",
+        "label": "艾丹·菲尔德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/de/61910_crt_lm7yx.jpg",
+        "link": "https://bgm.tv/character/61910",
+        "categorie": "person"
+      },
+      {
+        "id": "61911",
+        "label": "伊莱亚斯·梵德尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/e0/61911_crt_9LAL2.jpg",
+        "link": "https://bgm.tv/character/61911",
+        "categorie": "person"
+      },
+      {
+        "id": "61912",
+        "label": "托比·塞尔文",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/ec/61912_crt_f1qt7.jpg",
+        "link": "https://bgm.tv/character/61912",
+        "categorie": "person"
+      },
+      {
+        "id": "61913",
+        "label": "林赛·尼克斯军士长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/73/61913_crt_2aa8l.jpg",
+        "link": "https://bgm.tv/character/61913",
+        "categorie": "person"
+      },
+      {
+        "id": "61915",
+        "label": "拉塞尔·拜利",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61915",
+        "categorie": "person"
+      },
+      {
+        "id": "61916",
+        "label": "米哈伊尔·卢森特",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61916",
+        "categorie": "person"
+      },
+      {
+        "id": "61914",
+        "label": "耶尔·科斯塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/7f/61914_crt_gTt33.jpg",
+        "link": "https://bgm.tv/character/61914",
+        "categorie": "person"
+      },
+      {
+        "id": "61917",
+        "label": "乔纳斯·格雷厄姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/68/61917_crt_mmLKK.jpg",
+        "link": "https://bgm.tv/character/61917",
+        "categorie": "person"
+      },
+      {
+        "id": "61918",
+        "label": "伊西多尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/8a/61918_crt_wek2k.jpg",
+        "link": "https://bgm.tv/character/61918",
+        "categorie": "person"
+      },
+      {
+        "id": "61919",
+        "label": "玛利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/38/61919_crt_czdK6.jpg",
+        "link": "https://bgm.tv/character/61919",
+        "categorie": "person"
+      },
+      {
+        "id": "62308",
+        "label": "梅尔库洛夫准将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/1c/62308_crt_6DnHx.jpg",
+        "link": "https://bgm.tv/character/62308",
+        "categorie": "person"
+      },
+      {
+        "id": "62309",
+        "label": "艾克哈尔特·明特尔中将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/08/62309_crt_hM7v8.jpg",
+        "link": "https://bgm.tv/character/62309",
+        "categorie": "person"
+      },
+      {
+        "id": "62417",
+        "label": "布甘比利亚夫人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/f4/62417_crt_ebc2D.jpg",
+        "link": "https://bgm.tv/character/62417",
+        "categorie": "person"
+      },
+      {
+        "id": "66649",
+        "label": "厄玛·菲利切",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/21/66649_crt_bwULX.jpg",
+        "link": "https://bgm.tv/character/66649",
+        "categorie": "person"
+      },
+      {
+        "id": "66650",
+        "label": "奥尔多·莫里尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/3a/66650_crt_fBz0u.jpg",
+        "link": "https://bgm.tv/character/66650",
+        "categorie": "person"
+      },
+      {
+        "id": "66651",
+        "label": "雨果·莫里尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/6c/66651_crt_Sus9u.jpg",
+        "link": "https://bgm.tv/character/66651",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

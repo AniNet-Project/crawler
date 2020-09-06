@@ -1,0 +1,477 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50576",
+        "label": "特别周",
+        "info": "从北海道的乡下上京而来的元气马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/fd/50576_crt_6B4rf.jpg?r=1522681572",
+        "link": "https://bgm.tv/character/50576",
+        "categorie": "person"
+      },
+      {
+        "id": "50577",
+        "label": "无声铃鹿",
+        "info": "话不多。有着不可思议的透明感与些许忧郁气质的冰山美少女。对奔跑以外的事都没什么兴趣，全身心投入于练习之中的她，宛如就是那悲剧中的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/61/50577_crt_49RdD.jpg?r=1522905509",
+        "link": "https://bgm.tv/character/50577",
+        "categorie": "person"
+      },
+      {
+        "id": "61476",
+        "label": "训练员",
+        "info": "<Spica(角宿一)>组的训练员，随性且八面玲珑的人。他的指导方针看起来比较随意草率，实际上他是比任何人都对<Twinkle系列>灌注着热情、比谁都真挚地考虑着马娘们的事。与<Rigil(南门二)>组的训练员·华是老朋友。事出有因要暂时离开训练员业的样子…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/b2/61476_crt_30145.jpg?r=1520093364",
+        "link": "https://bgm.tv/character/61476",
+        "categorie": "person"
+      },
+      {
+        "id": "50580",
+        "label": "伏特加",
+        "info": "第一人称是俺(Ore)的男孩子气女孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/09/50580_crt_imrFa.jpg?r=1523895316",
+        "link": "https://bgm.tv/character/50580",
+        "categorie": "person"
+      },
+      {
+        "id": "50594",
+        "label": "大和赤骥",
+        "info": "谁都不会否认她的美貌的拔群美少女，在学园中有着偶像性的人气的优等生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/00/50594_crt_73qXS.jpg?r=1524673160",
+        "link": "https://bgm.tv/character/50594",
+        "categorie": "person"
+      },
+      {
+        "id": "50588",
+        "label": "黄金船",
+        "info": "有着一头美丽的银灰色长发、还有着拔群的身材比例与神级美貌的超级马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/f4/50588_crt_2333h.jpg?r=1547270927",
+        "link": "https://bgm.tv/character/50588",
+        "categorie": "person"
+      },
+      {
+        "id": "50578",
+        "label": "东海帝皇",
+        "info": "在周围的期待与艳羡下长大的精英马娘，她的母亲是被称为“皇帝”的传说中的马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/83/50578_crt_N0PZ0.jpg?r=1523559056",
+        "link": "https://bgm.tv/character/50578",
+        "categorie": "person"
+      },
+      {
+        "id": "50600",
+        "label": "目白麦昆",
+        "info": "马娘界屈指的名家——“目白家”的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/17/50600_crt_a0Z6b.jpg?r=1526571895",
+        "link": "https://bgm.tv/character/50600",
+        "categorie": "person"
+      },
+      {
+        "id": "50585",
+        "label": "神鹰",
+        "info": "从美国回来的归国子女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/a3/50585_crt_0mylT.jpg?r=1525090168",
+        "link": "https://bgm.tv/character/50585",
+        "categorie": "person"
+      },
+      {
+        "id": "50587",
+        "label": "草上飞",
+        "info": "出生于美国的归国子女。说着一口流畅的日语、柔和的待人处事，基本上没什么外国人的感觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/06/50587_crt_M9796.jpg?r=1527011957",
+        "link": "https://bgm.tv/character/50587",
+        "categorie": "person"
+      },
+      {
+        "id": "23243",
+        "label": "星云天空",
+        "info": "随心任意地过着每一天的我行我素马娘。性格就像是那青空中漂浮着的白云一样自由，练习也常常翘班。不过只要有了干劲就能够发挥出令人惊异的实力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/2e/23243_crt_zRKv8.jpg?r=1518337721",
+        "link": "https://bgm.tv/character/23243",
+        "categorie": "person"
+      },
+      {
+        "id": "60527",
+        "label": "春丽",
+        "info": "失败了多少次也不气馁，优点是元气与干劲的元气标签马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/e6/60527_crt_9fyGi.jpg?r=1517061044",
+        "link": "https://bgm.tv/character/60527",
+        "categorie": "person"
+      },
+      {
+        "id": "50598",
+        "label": "富士奇迹",
+        "info": "以生涯中战绩全胜为傲的实力派马娘。马娘中的最大势力“SS一族(王朝)”之中的大姐兼家长的位置。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/a7/50598_crt_565sG.jpg?r=1485452913",
+        "link": "https://bgm.tv/character/50598",
+        "categorie": "person"
+      },
+      {
+        "id": "50584",
+        "label": "气槽",
+        "info": "被称为“女帝”的马娘。有着最高等级的实力与实绩与拔群的赛跑素质。擅长于令人惊叹的冲线(末脚)技巧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/12/50584_crt_YpY0t.jpg?r=1485446311",
+        "link": "https://bgm.tv/character/50584",
+        "categorie": "person"
+      },
+      {
+        "id": "50597",
+        "label": "亚马逊",
+        "info": "被称为“女杰”，有着一流实力的马娘之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/1c/50597_crt_2bgyP.jpg?r=1485452701",
+        "link": "https://bgm.tv/character/50597",
+        "categorie": "person"
+      },
+      {
+        "id": "50592",
+        "label": "鲁铎象征",
+        "info": "被称呼为“皇帝”。史上屈指的马娘的其中一人，训中学园的学生会会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/06/50592_crt_jAk4D.jpg?r=1485450083",
+        "link": "https://bgm.tv/character/50592",
+        "categorie": "person"
+      },
+      {
+        "id": "68395",
+        "label": "帝王光辉",
+        "info": "不服输的大小姐赛马娘。嫉妒心重、心高气傲。有着为了胜利的话什么都会去做的策略家的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/eb/68395_crt_jTbA8.jpg?r=1547559861",
+        "link": "https://bgm.tv/character/68395",
+        "categorie": "person"
+      },
+      {
+        "id": "50593",
+        "label": "大树快车",
+        "info": "美国·肯塔基州出生的牛仔妹。有着少见的闪耀着金色光泽的“尾花栗毛”发质的美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/cd/50593_crt_lDZUX.jpg?r=1485450437",
+        "link": "https://bgm.tv/character/50593",
+        "categorie": "person"
+      },
+      {
+        "id": "50599",
+        "label": "丸善斯基",
+        "info": "继承了英国的名门马娘一族的血统的名家才女。性格明快、深受大家爱戴的漂亮姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/42/50599_crt_jHJvV.jpg?r=1485453145",
+        "link": "https://bgm.tv/character/50599",
+        "categorie": "person"
+      },
+      {
+        "id": "50595",
+        "label": "好歌剧",
+        "info": "自称“世界最强·最快且有着最完美的美貌的天才马娘”（不过是自称）",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/10/50595_crt_0vUuJ.jpg?r=1485452198",
+        "link": "https://bgm.tv/character/50595",
+        "categorie": "person"
+      },
+      {
+        "id": "61482",
+        "label": "骏川手纲",
+        "info": "训中学园的理事长秘书。是前来辅助新人训练员的你的前辈、同时也是上司兼搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/2f/61482_crt_597yK.jpg?r=1523016954",
+        "link": "https://bgm.tv/character/61482",
+        "categorie": "person"
+      },
+      {
+        "id": "61479",
+        "label": "东条华",
+        "info": "训中学园最强小队<Rigil(南门二)>的冰山美女训练员。她的指导方针非常严格，为了胜利，不会允许任何无必要之事。收集着独自的数据，以此为基础定下合理的战略是她的最大武器。被<Spica(角宿一)>队的训练员称呼为“阿华小姐”程度的孽缘关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/59/61479_crt_rJjSJ.jpg?r=1520102247",
+        "link": "https://bgm.tv/character/61479",
+        "categorie": "person"
+      },
+      {
+        "id": "68589",
+        "label": "实况",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/a7/68589_crt_u3Ubu.jpg?r=1548484902",
+        "link": "https://bgm.tv/character/68589",
+        "categorie": "person"
+      },
+      {
+        "id": "68590",
+        "label": "解说",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/66/68590_crt_T484P.jpg?r=1548484981",
+        "link": "https://bgm.tv/character/68590",
+        "categorie": "person"
+      },
+      {
+        "id": "68594",
+        "label": "解说",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/71/68594_crt_Ewgsz.jpg?r=1548496454",
+        "link": "https://bgm.tv/character/68594",
+        "categorie": "person"
+      },
+      {
+        "id": "68591",
+        "label": "妈妈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/33/68591_crt_mJjqM.jpg?r=1548485089",
+        "link": "https://bgm.tv/character/68591",
+        "categorie": "person"
+      },
+      {
+        "id": "50586",
+        "label": "小栗队长",
+        "info": "有着从非首都地区爬到Twinkle系列的异例经历的马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/95/50586_crt_G7oOf.jpg?r=1485446899",
+        "link": "https://bgm.tv/character/50586",
+        "categorie": "person"
+      },
+      {
+        "id": "50596",
+        "label": "成田白仁",
+        "info": "孤高的马娘。外号“鼻箍的怪物”的超实力派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/91/50596_crt_TKDea.jpg?r=1485452470",
+        "link": "https://bgm.tv/character/50596",
+        "categorie": "person"
+      },
+      {
+        "id": "60530",
+        "label": "福来临",
+        "info": "喜欢占卜和迷信等超自然的事的超微看起来有些不可思议的马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/9b/60530_crt_351N5.jpg?r=1517064235",
+        "link": "https://bgm.tv/character/60530",
+        "categorie": "person"
+      },
+      {
+        "id": "68385",
+        "label": "名将户仁",
+        "info": "内向且负面思考的赛马娘。总是小心又小心地注意着周围，不去表达自己的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/58/68385_crt_xd45l.jpg?r=1547557208",
+        "link": "https://bgm.tv/character/68385",
+        "categorie": "person"
+      },
+      {
+        "id": "68394",
+        "label": "好天资",
+        "info": "生来就悲观视世间事物的，有些看低自己的赛马娘。远远地注视着周围闪亮的追逐着梦想的赛马娘同伴。关于心直口快的这一点，虽然知道作为女孩子这样并不太好但还是依旧如此。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/d8/68394_crt_YJU8G.jpg?r=1547559796",
+        "link": "https://bgm.tv/character/68394",
+        "categorie": "person"
+      },
+      {
+        "id": "68390",
+        "label": "荣进闪耀",
+        "info": "德国出生、德国长大的留学生赛马娘。有着相当一丝不苟且严肃认真的性格，以秒单位地完成预定才能够满足。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/99/68390_crt_vDjNd.jpg?r=1547558572",
+        "link": "https://bgm.tv/character/68390",
+        "categorie": "person"
+      },
+      {
+        "id": "60561",
+        "label": "超级小海湾",
+        "info": "让人感受到母性的大姐姐马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f6/60561_crt_jt2tj.jpg?r=1517141474",
+        "link": "https://bgm.tv/character/60561",
+        "categorie": "person"
+      },
+      {
+        "id": "60523",
+        "label": "玉藻十字",
+        "info": "身材娇小、有着无限的向上心的古风烈马少女。人称“白色闪电”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/ad/60523_crt_R37W0.jpg?r=1523015365",
+        "link": "https://bgm.tv/character/60523",
+        "categorie": "person"
+      },
+      {
+        "id": "60562",
+        "label": "稻荷一",
+        "info": "纯粹的江户子马娘（但是是地方出身）。身材娇小不过有着无底的力量与体力。不愧于“下町的超级之星”之名，在地方赛一战无双。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/27/60562_crt_X74co.jpg?r=1523016857",
+        "link": "https://bgm.tv/character/60562",
+        "categorie": "person"
+      },
+      {
+        "id": "60529",
+        "label": "目白赖恩",
+        "info": "以超短发为标志的性格爽气的马娘。喜欢锻炼身体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/81/60529_crt_v2jc3.jpg?r=1523016171",
+        "link": "https://bgm.tv/character/60529",
+        "categorie": "person"
+      },
+      {
+        "id": "60522",
+        "label": "胜利奖券",
+        "info": "通称「券藏」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/5f/60522_crt_pdy1Y.jpg?r=1523015278",
+        "link": "https://bgm.tv/character/60522",
+        "categorie": "person"
+      },
+      {
+        "id": "68393",
+        "label": "目白杜宾",
+        "info": "酷酷的且待人冷淡的，令人不太容易接近的赛马娘。对自己的名字有着心结，觉得“自己并不可爱”、“不够女孩子”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/c0/68393_crt_8m8Y8.jpg?r=1547559644",
+        "link": "https://bgm.tv/character/68393",
+        "categorie": "person"
+      },
+      {
+        "id": "62512",
+        "label": "琵琶晨光",
+        "info": "有着一头美丽的银色长发、性格冷静沉着的帅气系马娘。通过分析赛事，以理论与计算来推算出前往胜利的道路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/88/62512_crt_Hz2E8.jpg?r=1523214322",
+        "link": "https://bgm.tv/character/62512",
+        "categorie": "person"
+      },
+      {
+        "id": "60558",
+        "label": "成田大进",
+        "info": "身材娇小性格强硬的任性马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/cd/60558_crt_b11pP.jpg?r=1523016711",
+        "link": "https://bgm.tv/character/60558",
+        "categorie": "person"
+      },
+      {
+        "id": "60521",
+        "label": "雪中美人",
+        "info": "从遥远的家乡上京而来的淳朴美少女马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/87/60521_crt_xEA00.jpg?r=1518337552",
+        "link": "https://bgm.tv/character/60521",
+        "categorie": "person"
+      },
+      {
+        "id": "60560",
+        "label": "黄金城",
+        "info": "有着一头被称为“尾花栗毛”的亚麻金发的超级美少女马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/7e/60560_crt_5N6DN.jpg?r=1518337763",
+        "link": "https://bgm.tv/character/60560",
+        "categorie": "person"
+      },
+      {
+        "id": "62505",
+        "label": "微光飞驹",
+        "info": "憧憬着正义英雄、热血且稍稍有些自大的马娘。体格娇小，以与生自来的根性向赛事发起挑战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/6a/62505_crt_t44O9.jpg?r=1523213142",
+        "link": "https://bgm.tv/character/62505",
+        "categorie": "person"
+      },
+      {
+        "id": "62506",
+        "label": "菱曙",
+        "info": "心怀大体格也大的马娘。总是笑容满怀的温厚性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/7a/62506_crt_S00uZ.jpg?r=1523213277",
+        "link": "https://bgm.tv/character/62506",
+        "categorie": "person"
+      },
+      {
+        "id": "60525",
+        "label": "曼城茶座",
+        "info": "有着一头美丽的漆黑长发的马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/82/60525_crt_t0IXj.jpg?r=1523015700",
+        "link": "https://bgm.tv/character/60525",
+        "categorie": "person"
+      },
+      {
+        "id": "60556",
+        "label": "美妙姿势",
+        "info": "来自爱尔兰的留学生，名家的顶尖大小姐马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/2f/60556_crt_98jwy.jpg?r=1523016287",
+        "link": "https://bgm.tv/character/60556",
+        "categorie": "person"
+      },
+      {
+        "id": "62511",
+        "label": "艾尼斯风神",
+        "info": "料理、针线活、扫除等任何家务活都不在话下的家庭性马娘。以“好好吃好好跑”为座右铭，总是随身携带着便携食品「UmaJoy」。休息日和训练之后忙于打零工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/d8/62511_crt_39UzK.jpg?r=1523214128",
+        "link": "https://bgm.tv/character/62511",
+        "categorie": "person"
+      },
+      {
+        "id": "68387",
+        "label": "爱慕织姬",
+        "info": "自小就被期待着实力的赛马娘。对赛事的胜利十分贪婪，每天的锻炼都不会落下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/5c/68387_crt_zxk46.jpg?r=1547557541",
+        "link": "https://bgm.tv/character/68387",
+        "categorie": "person"
+      },
+      {
+        "id": "68392",
+        "label": "重炮",
+        "info": "性格天真烂漫非常元气的赛马娘。爱撒娇的小妹妹气质，喜欢得快玩厌得也快的随性所欲气质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/31/68392_crt_z55se.jpg?r=1547559582",
+        "link": "https://bgm.tv/character/68392",
+        "categorie": "person"
+      },
+      {
+        "id": "68383",
+        "label": "爱丽快子",
+        "info": "为了达成自己的肉体改造研究而来到了训中学园的赛马娘。把训练员视为为了研究的实验体兼助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/a0/68383_crt_74gR2.jpg?r=1547557069",
+        "link": "https://bgm.tv/character/68383",
+        "categorie": "person"
+      },
+      {
+        "id": "62509",
+        "label": "美浦波旁",
+        "info": "努力型天才，严格地要求自己完成那压倒性的练习量。在普通马娘们则会发出抗议程度的过酷练习安排布置下来之后，也只是淡然地去完成练习。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/50/62509_crt_vMSaN.jpg?r=1523213749",
+        "link": "https://bgm.tv/character/62509",
+        "categorie": "person"
+      },
+      {
+        "id": "60559",
+        "label": "空中神宫",
+        "info": "外表与性格都相当特立独行的\"古怪\"马娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/71/60559_crt_h2TxT.jpg?r=1523016774",
+        "link": "https://bgm.tv/character/60559",
+        "categorie": "person"
+      },
+      {
+        "id": "62513",
+        "label": "樱花进王",
+        "info": "只要一跑起来就展现出自己停不下来的大暴走属性的天然系马娘。相当的急性子，想到什么就去实行的类型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/d0/62513_crt_6Arr1.jpg?r=1523214468",
+        "link": "https://bgm.tv/character/62513",
+        "categorie": "person"
+      },
+      {
+        "id": "68386",
+        "label": "米浴",
+        "info": "性格直率纯粹的赛马娘。“只要自己在周围的人就会变得不幸”…因为这样的想法而总是避开与他人的接触。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/91/68386_crt_RXuPl.jpg?r=1547557386",
+        "link": "https://bgm.tv/character/68386",
+        "categorie": "person"
+      },
+      {
+        "id": "60557",
+        "label": "醒目飞鹰",
+        "info": "一头可爱的闪亮栗色头发的自称·UmaDol（马娘偶像）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/8c/60557_crt_tzo61.jpg?r=1523016560",
+        "link": "https://bgm.tv/character/60557",
+        "categorie": "person"
+      },
+      {
+        "id": "68592",
+        "label": "クイーンベレー",
+        "info": "※原创赛马娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/a3/68592_crt_5mzUH.jpg?r=1548485624",
+        "link": "https://bgm.tv/character/68592",
+        "categorie": "person"
+      },
+      {
+        "id": "68595",
+        "label": "ブロワイエ",
+        "info": "原创马娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/22/68595_crt_323uN.jpg?r=1548504765",
+        "link": "https://bgm.tv/character/68595",
+        "categorie": "person"
+      },
+      {
+        "id": "68596",
+        "label": "サンバイザー",
+        "info": "※原创赛马娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/b1/68596_crt_6xp8e.jpg?r=1548509142",
+        "link": "https://bgm.tv/character/68596",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

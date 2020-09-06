@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8264",
+        "label": "ウラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/da/8264_crt_anidb.jpg?r=1510394289",
+        "link": "https://bgm.tv/character/8264",
+        "categorie": "person"
+      },
+      {
+        "id": "58500",
+        "label": "リコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/96/58500_crt_O7nN3.jpg?r=1510405542",
+        "link": "https://bgm.tv/character/58500",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

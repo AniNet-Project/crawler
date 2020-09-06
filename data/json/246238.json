@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51183",
+        "label": "瑞克·桑切斯",
+        "info": "Morty的外公，拥有突破天际的智商，有酗酒的恶习，几乎酒不离身，性情冷漠且自傲，几乎每句话都带脏字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/12/51183_crt_Rwra7.jpg",
+        "link": "https://bgm.tv/character/51183",
+        "categorie": "person"
+      },
+      {
+        "id": "51192",
+        "label": "莫蒂·史密斯",
+        "info": "Rick的外孙，14岁青少年，智商不高（在第一季第10集中Rick说Morty的脑电波与自己的天才脑电波相互抵销，所以能作为人形盾牌来隐藏自己），善良又容易痛苦，经常由于Rick的行为卷入各种危机中而烦恼痛苦不已，特别是第一季第6集最终的事件发展给他埋下了巨大的心理阴影，其实是个很倒霉的存在（第一季第10集中说每年都有上百个平行时空中的Morty死亡）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/c6/51192_crt_3igGy.jpg",
+        "link": "https://bgm.tv/character/51192",
+        "categorie": "person"
+      },
+      {
+        "id": "54488",
+        "label": "贝丝·史密斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/31/54488_crt_RjsJa.jpg",
+        "link": "https://bgm.tv/character/54488",
+        "categorie": "person"
+      },
+      {
+        "id": "54489",
+        "label": "杰里·史密斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/9d/54489_crt_rCc76.jpg",
+        "link": "https://bgm.tv/character/54489",
+        "categorie": "person"
+      },
+      {
+        "id": "54490",
+        "label": "萨默·史密斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/f2/54490_crt_CSsiJ.jpg",
+        "link": "https://bgm.tv/character/54490",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

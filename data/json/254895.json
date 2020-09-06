@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66479",
+        "label": "尤莉娅·夏尔戴特",
+        "info": "ふわふわの天然系で直感力と幸運に恵まれた生まれついての勇者体質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b8/66479_crt_Jj6zB.jpg?r=1548550002",
+        "link": "https://bgm.tv/character/66479",
+        "categorie": "person"
+      },
+      {
+        "id": "66480",
+        "label": "艾蕾诺瓦尔·塞兰",
+        "info": "生真面目なパーティ随一のツッコミ役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/52/66480_crt_Rh4Zp.jpg?r=1548550044",
+        "link": "https://bgm.tv/character/66480",
+        "categorie": "person"
+      },
+      {
+        "id": "66481",
+        "label": "法伊·法伊",
+        "info": "天真爛漫な元気っ子でご飯と友達が大好きな戦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/79/66481_crt_AePCV.jpg?r=1538562204",
+        "link": "https://bgm.tv/character/66481",
+        "categorie": "person"
+      },
+      {
+        "id": "66482",
+        "label": "梅瑟·恩达斯特",
+        "info": "物静かな魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/d8/66482_crt_DkYdL.jpg?r=1538562226",
+        "link": "https://bgm.tv/character/66482",
+        "categorie": "person"
+      },
+      {
+        "id": "66675",
+        "label": "玛欧",
+        "info": "ユーシャ達の通う冒険者学校で教鞭をとる新米教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/89/66675_crt_93NNo.jpg?r=1539335359",
+        "link": "https://bgm.tv/character/66675",
+        "categorie": "person"
+      },
+      {
+        "id": "66674",
+        "label": "萝娜·普莉茜帕·欧·拉帕涅斯塔",
+        "info": "ナラル島唯一の王国、ラパネスタの王女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/73/66674_crt_GPw3E.jpg?r=1539335338",
+        "link": "https://bgm.tv/character/66674",
+        "categorie": "person"
+      },
+      {
+        "id": "69678",
+        "label": "女战士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/7d/69678_crt_9cT1u.jpg",
+        "link": "https://bgm.tv/character/69678",
+        "categorie": "person"
+      },
+      {
+        "id": "69679",
+        "label": "豆丁龙",
+        "info": "ユーシャたちのパーティーと一緒に行動している、緑色の小さなドラゴン。言葉を発することはできず、「メ〜イ」「メ〜」と鳴く。ユーシャからは「ちびちゃん」と呼ばれている。普段はユーシャの頭の上に乗っていたり、パーティーの周りを飛び回っているが、授業中に居眠りしているユーシャを心配するなど良識的な部分も持つ。また、ユーシャたちに肉体を滅ぼされた邪神の魂を食べたり、ユーシャの剣を食べて錆びを直したりするなど、時折謎の特殊能力を見せることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/66/69679_crt_jD28l.jpg",
+        "link": "https://bgm.tv/character/69679",
+        "categorie": "person"
+      },
+      {
+        "id": "69680",
+        "label": "梅格",
+        "info": "かつて魔王ことマオに仕えていたメイドの格好をしたゴーレム。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/69680",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

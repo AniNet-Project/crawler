@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3318",
+        "label": "茂野吾郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/1b/3318_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3318",
+        "categorie": "person"
+      },
+      {
+        "id": "3324",
+        "label": "佐藤寿也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/e6/3324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3324",
+        "categorie": "person"
+      },
+      {
+        "id": "3327",
+        "label": "茂野英毅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/89/3327_crt_fQx2K.jpg?r=1413041562",
+        "link": "https://bgm.tv/character/3327",
+        "categorie": "person"
+      },
+      {
+        "id": "3352",
+        "label": "小森大介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/87/3352_crt_anidb.jpg?r=1563596508",
+        "link": "https://bgm.tv/character/3352",
+        "categorie": "person"
+      },
+      {
+        "id": "10009",
+        "label": "眉村健",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3d/10009_crt_anidb.jpg?r=1427918625",
+        "link": "https://bgm.tv/character/10009",
+        "categorie": "person"
+      },
+      {
+        "id": "20021",
+        "label": "清水薰",
+        "info": "滿田拓也的漫畫作品『MAJOR』的女主角。性格好勝，有點男兒氣，但是也有純情的一面。小學時代加入三船少棒隊，並在這時開始暗戀吾郎。其後因吾郎不辭而別轉學到福岡而大怒。不過，當吾郎回來後和好如初，以後一直留意着吾郎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/44/20021_crt_8NAlZ.jpg",
+        "link": "https://bgm.tv/character/20021",
+        "categorie": "person"
+      },
+      {
+        "id": "9997",
+        "label": "茂野真吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/ac/9997_crt_54LKA.jpg",
+        "link": "https://bgm.tv/character/9997",
+        "categorie": "person"
+      },
+      {
+        "id": "10423",
+        "label": "沢村涼太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/e3/10423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10423",
+        "categorie": "person"
+      },
+      {
+        "id": "10424",
+        "label": "安藤監督",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/05/10424_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10424",
+        "categorie": "person"
+      },
+      {
+        "id": "10430",
+        "label": "川濑涼子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/ab/10430_crt_anidb.jpg?r=1573262653",
+        "link": "https://bgm.tv/character/10430",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

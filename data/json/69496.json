@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13390",
+        "label": "小木曾雪菜",
+        "info": "峰城大付属３年Ａ組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/33/13390_crt_1OztX.jpg?r=1570948263",
+        "link": "https://bgm.tv/character/13390",
+        "categorie": "person"
+      },
+      {
+        "id": "13391",
+        "label": "冬马和纱",
+        "info": "峰城大付属３年Ｅ組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/c8/13391_crt_888Ye.jpg?r=1575649227",
+        "link": "https://bgm.tv/character/13391",
+        "categorie": "person"
+      },
+      {
+        "id": "20316",
+        "label": "北原春希",
+        "info": "峰城大付属３年Ｅ組。前期クラス委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/29/20316_crt_YS7L7.jpg?r=1570948327",
+        "link": "https://bgm.tv/character/20316",
+        "categorie": "person"
+      },
+      {
+        "id": "20317",
+        "label": "饭冢武也",
+        "info": "峰城大付属３年Ｇ組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/d3/20317_crt_dbp08.jpg",
+        "link": "https://bgm.tv/character/20317",
+        "categorie": "person"
+      },
+      {
+        "id": "21671",
+        "label": "水泽依绪",
+        "info": "峰城大付属３年Ａ組。雪菜のクラスメイトにして元バスケ部主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/d0/21671_crt_zOXZP.jpg",
+        "link": "https://bgm.tv/character/21671",
+        "categorie": "person"
+      },
+      {
+        "id": "21674",
+        "label": "小木曽孝宏",
+        "info": "雪菜の三歳年下の弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/06/21674_crt_I1vqv.jpg",
+        "link": "https://bgm.tv/character/21674",
+        "categorie": "person"
+      },
+      {
+        "id": "21675",
+        "label": "早坂亲志",
+        "info": "峰城大学付属学園三年Ｅ組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/f6/21675_crt_0zdno.jpg",
+        "link": "https://bgm.tv/character/21675",
+        "categorie": "person"
+      },
+      {
+        "id": "21938",
+        "label": "冬马曜子",
+        "info": "かずさの母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/1c/21938_crt_5AxoR.jpg",
+        "link": "https://bgm.tv/character/21938",
+        "categorie": "person"
+      },
+      {
+        "id": "21939",
+        "label": "小木曾秋菜",
+        "info": "雪菜の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/d7/21939_crt_33rx0.jpg",
+        "link": "https://bgm.tv/character/21939",
+        "categorie": "person"
+      },
+      {
+        "id": "21940",
+        "label": "小木曾晋",
+        "info": "雪菜の父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/0c/21940_crt_4o497.jpg",
+        "link": "https://bgm.tv/character/21940",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "14470",
+        "label": "和泉千晶",
+        "info": "峰城大学文学部3年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/bd/14470_crt_DJSiW.jpg",
+        "link": "https://bgm.tv/character/14470",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

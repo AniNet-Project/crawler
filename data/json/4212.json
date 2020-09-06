@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6616",
+        "label": "レイン・ミカムラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/46/6616_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6616",
+        "categorie": "person"
+      },
+      {
+        "id": "9509",
+        "label": "多蒙·卡修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/df/9509_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9509",
+        "categorie": "person"
+      },
+      {
+        "id": "15695",
+        "label": "东方不败亚洲天王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/9c/15695_crt_Ug0lu.jpg",
+        "link": "https://bgm.tv/character/15695",
+        "categorie": "person"
+      },
+      {
+        "id": "9511",
+        "label": "ウルベ・イシカワ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/d2/9511_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9511",
+        "categorie": "person"
+      },
+      {
+        "id": "9513",
+        "label": "チボデー・クロケット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/73/9513_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9513",
+        "categorie": "person"
+      },
+      {
+        "id": "9514",
+        "label": "ジョルジュ・ド・サンド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/8a/9514_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9514",
+        "categorie": "person"
+      },
+      {
+        "id": "9515",
+        "label": "レイモンド・ビショップ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/eb/9515_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9515",
+        "categorie": "person"
+      },
+      {
+        "id": "9516",
+        "label": "シュバルツ・ブルーダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/42/9516_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9516",
+        "categorie": "person"
+      },
+      {
+        "id": "9517",
+        "label": "ナスターシャ・ザビコフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/4a/9517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9517",
+        "categorie": "person"
+      },
+      {
+        "id": "76192",
+        "label": "アレンビー・ビアズリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/de/76192_crt_NRx2B.jpg",
+        "link": "https://bgm.tv/character/76192",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

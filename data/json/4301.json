@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1975",
+        "label": "拉斐尔",
+        "info": "クリューブ王家第一王女にして、アーヴ皇帝の孫娘。「傲慢にして無謀」といわれるアーヴの性質と、純真な心をあわせ持つ美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/2b/1975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1975",
+        "categorie": "person"
+      },
+      {
+        "id": "4603",
+        "label": "杰特",
+        "info": "ハイド星系惑星マーティン生まれの地上人だったが、心ならずもアーヴ貴族となることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/74/4603_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4603",
+        "categorie": "person"
+      },
+      {
+        "id": "4604",
+        "label": "アブリアル・ネイ＝ラムサール・ラルス・バルケール・ドゥサーニュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/30/4604_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4604",
+        "categorie": "person"
+      },
+      {
+        "id": "4605",
+        "label": "トライフ・ボルジュ＝ユブデール・レムセール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/1e/4605_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4605",
+        "categorie": "person"
+      },
+      {
+        "id": "4606",
+        "label": "アトスリュア・スューヌ＝アトス・フェブダーシュ・リューフ・フェブダク・クロワール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/50/4606_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4606",
+        "categorie": "person"
+      },
+      {
+        "id": "4607",
+        "label": "エントリュア・レイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/70/4607_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4607",
+        "categorie": "person"
+      },
+      {
+        "id": "6713",
+        "label": "ロック・リン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/90/6713_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6713",
+        "categorie": "person"
+      },
+      {
+        "id": "6711",
+        "label": "マーティン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a6/6711_crt_7Mn0Z.jpg",
+        "link": "https://bgm.tv/character/6711",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

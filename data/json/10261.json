@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13386",
+        "label": "汤音",
+        "info": "　本作の主人公で、奉公の為に日本の長崎からパリへやって来た少女。誕生日は12月5日。年齢は、第7話時点で満年齢13歳（数え歳15歳）だが、クロードからは10歳前後にしか見えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/36/13386_crt_x22p9.jpg",
+        "link": "https://bgm.tv/character/13386",
+        "categorie": "person"
+      },
+      {
+        "id": "13484",
+        "label": "克洛德·克劳戴",
+        "info": "「ロアの看板店（アンセーニュ・ド・ロア）」の三代目店主。時代の波に取り残され、閉鎖の危機に瀕しているロアの歩廊を立て直すべく日夜奮闘している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/e5/13484_crt_vm87Y.jpg",
+        "link": "https://bgm.tv/character/13484",
+        "categorie": "person"
+      },
+      {
+        "id": "13485",
+        "label": "奥斯卡·克劳戴",
+        "info": "クロードの祖父で、ロアの看板店の礎を築いた人物。腕が衰えている現在は一線を退いているものの、クロードも一目置くほどの職人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/eb/13485_crt_VYHp7.jpg",
+        "link": "https://bgm.tv/character/13485",
+        "categorie": "person"
+      },
+      {
+        "id": "13486",
+        "label": "艾丽丝·白朗奇",
+        "info": "ブランシュ家の娘。日本に対する興味を強く持ち、浮世絵や日本人形を初めとする日本の美術品や雑貨を蒐集している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/48/13486_crt_013TC.jpg",
+        "link": "https://bgm.tv/character/13486",
+        "categorie": "person"
+      },
+      {
+        "id": "13487",
+        "label": "卡蜜儿·白朗奇",
+        "info": "ブランシュ家の娘。アリスの姉であり、アリスを大切に見守っている。いつも扇を手にしている。温和でいつもは微笑んでいるが、時折ふとした拍子に冷たい一面を見せることがある。子供の頃にクロードと密かに会っていたことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1e/13487_crt_QeE6e.jpg",
+        "link": "https://bgm.tv/character/13487",
+        "categorie": "person"
+      },
+      {
+        "id": "54927",
+        "label": "汐音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ae/54927_crt_BfvfY.jpg",
+        "link": "https://bgm.tv/character/54927",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

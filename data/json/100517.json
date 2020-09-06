@@ -1,0 +1,981 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21662",
+        "label": "城惠／城钟惠",
+        "info": "作品的男主角。半祖族，主职业为赋予术师，副职业为抄写师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/50/21662_crt_V0O2R.jpg",
+        "link": "https://bgm.tv/character/21662",
+        "categorie": "person"
+      },
+      {
+        "id": "21663",
+        "label": "直继／叶濑川直继",
+        "info": "人族，主职业为守护战士，副职业为边境巡视。现实世界中是社会人士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/09/21663_crt_D3fhp.jpg",
+        "link": "https://bgm.tv/character/21663",
+        "categorie": "person"
+      },
+      {
+        "id": "21664",
+        "label": "晓／羽仓静",
+        "info": "人族，主职业为刺客，副职业为追踪者。自称\"主公的忍者\"，推测与城惠同年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/05/21664_crt_AgjGY.jpg",
+        "link": "https://bgm.tv/character/21664",
+        "categorie": "person"
+      },
+      {
+        "id": "21665",
+        "label": "喵太",
+        "info": "猫人族，主职业为盗剑士，副职业为厨师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/de/21665_crt_v4Z46.jpg",
+        "link": "https://bgm.tv/character/21665",
+        "categorie": "person"
+      },
+      {
+        "id": "21666",
+        "label": "冬弥",
+        "info": "人族，主职业为武士，副职业为会计。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/80/21666_crt_1WjJE.jpg",
+        "link": "https://bgm.tv/character/21666",
+        "categorie": "person"
+      },
+      {
+        "id": "21667",
+        "label": "实莉",
+        "info": "人族，主职业神官，副职业为裁缝师(后期转为见习徒弟)",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/92/21667_crt_mz1Kn.jpg",
+        "link": "https://bgm.tv/character/21667",
+        "categorie": "person"
+      },
+      {
+        "id": "21668",
+        "label": "五十铃",
+        "info": "人族，主职业吟游诗人，类型是指挥家，副职业为游牧民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/80/21668_crt_Qu9V5.jpg",
+        "link": "https://bgm.tv/character/21668",
+        "categorie": "person"
+      },
+      {
+        "id": "21669",
+        "label": "伦迪浩斯·寇德",
+        "info": "人族，主职业妖术师，副职业为冒险者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/61/21669_crt_8Ytsd.jpg",
+        "link": "https://bgm.tv/character/21669",
+        "categorie": "person"
+      },
+      {
+        "id": "21673",
+        "label": "瑟拉拉",
+        "info": "人族，主职业为德鲁伊，副职业为家管员。等级19（大灾害时）→25级（夏季集训时）→30级（城惠使用契约术式时）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/66/21673_crt_k3j9h.jpg",
+        "link": "https://bgm.tv/character/21673",
+        "categorie": "person"
+      },
+      {
+        "id": "12019",
+        "label": "李·耿恩",
+        "info": "精灵族，职业为魔法学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/c2/12019_crt_jOj67.jpg?r=1413168841",
+        "link": "https://bgm.tv/character/12019",
+        "categorie": "person"
+      },
+      {
+        "id": "21670",
+        "label": "玛莉艾儿／坂本鞠绘",
+        "info": "中小型公会「三日月同盟」的会长。精灵族。主要职业为牧师，副职业为木匠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/21/21670_crt_1tTLm.jpg",
+        "link": "https://bgm.tv/character/21670",
+        "categorie": "person"
+      },
+      {
+        "id": "21672",
+        "label": "荷丽艾塔／梅子",
+        "info": "人族，主职业为吟游诗人，类型是指挥家，副职业为会计。等级90。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/df/21672_crt_VSeF9.jpg",
+        "link": "https://bgm.tv/character/21672",
+        "categorie": "person"
+      },
+      {
+        "id": "23501",
+        "label": "蕾妮希雅·耶鲁艾特·柯文",
+        "info": "大地人。人族♀。职业为蔷薇园公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/54/23501_crt_iehCi.jpg",
+        "link": "https://bgm.tv/character/23501",
+        "categorie": "person"
+      },
+      {
+        "id": "23502",
+        "label": "克拉斯提／鸿池晴秋",
+        "info": "人族♂。主职业守护战士，副职业狂战士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/7d/23502_crt_UVZ22.jpg",
+        "link": "https://bgm.tv/character/23502",
+        "categorie": "person"
+      },
+      {
+        "id": "23503",
+        "label": "宗次郎·势田",
+        "info": "人族。主职业武士，副职业剑圣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/83/23503_crt_n052r.jpg",
+        "link": "https://bgm.tv/character/23503",
+        "categorie": "person"
+      },
+      {
+        "id": "27352",
+        "label": "特托拉",
+        "info": "シロエと直継が北の大地ススキノで出会った自称「銀河系アイドル」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/09/27352_crt_H8v38.jpg?r=1413168782",
+        "link": "https://bgm.tv/character/27352",
+        "categorie": "person"
+      },
+      {
+        "id": "27353",
+        "label": "威廉·马萨诸塞",
+        "info": "精灵族，主职业为刺客，副职业为猎人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/49/27353_crt_K4ppW.jpg",
+        "link": "https://bgm.tv/character/27353",
+        "categorie": "person"
+      },
+      {
+        "id": "27354",
+        "label": "艾札克",
+        "info": "人族，主职业为守护战士，类型是破坏者，副职业为剑斗士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/0c/27354_crt_dER01.jpg",
+        "link": "https://bgm.tv/character/27354",
+        "categorie": "person"
+      },
+      {
+        "id": "27546",
+        "label": "高山三佐",
+        "info": "職業：吟遊詩人／剣聖",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c2/27546_crt_RA9xA.jpg?r=1414352229",
+        "link": "https://bgm.tv/character/27546",
+        "categorie": "person"
+      },
+      {
+        "id": "27547",
+        "label": "莉洁",
+        "info": "職業：妖術師／軍師 種族：ハーフ・アルヴ",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/ca/27547_crt_Kg225.jpg?r=1414353186",
+        "link": "https://bgm.tv/character/27547",
+        "categorie": "person"
+      },
+      {
+        "id": "27548",
+        "label": "恩柏特·尼尔列斯",
+        "info": "職業：武士 種族：ヒューマン",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/1b/27548_crt_v2i7a.jpg?r=1414353179",
+        "link": "https://bgm.tv/character/27548",
+        "categorie": "person"
+      },
+      {
+        "id": "27549",
+        "label": "荠",
+        "info": "職業：神祇官／賭博師",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/4c/27549_crt_CPpDP.jpg",
+        "link": "https://bgm.tv/character/27549",
+        "categorie": "person"
+      },
+      {
+        "id": "27550",
+        "label": "多多良",
+        "info": "職業：武士／刀匠",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/6f/27550_crt_lKzWt.jpg",
+        "link": "https://bgm.tv/character/27550",
+        "categorie": "person"
+      },
+      {
+        "id": "27551",
+        "label": "御香影",
+        "info": "職業：森呪遣い／料理人",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/58/27551_crt_IXPxZ.jpg",
+        "link": "https://bgm.tv/character/27551",
+        "categorie": "person"
+      },
+      {
+        "id": "27552",
+        "label": "恭子",
+        "info": "職業：守護戦士",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/87/27552_crt_esacQ.jpg",
+        "link": "https://bgm.tv/character/27552",
+        "categorie": "person"
+      },
+      {
+        "id": "27553",
+        "label": "艾丽莎",
+        "info": "職業：エルダーメイド",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/9e/27553_crt_2AAqG.jpg?r=1445941818",
+        "link": "https://bgm.tv/character/27553",
+        "categorie": "person"
+      },
+      {
+        "id": "27554",
+        "label": "茜屋·一文字之介",
+        "info": "職業：妖術師／機工師（マシーナリー）",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/84/27554_crt_ODQ60.jpg",
+        "link": "https://bgm.tv/character/27554",
+        "categorie": "person"
+      },
+      {
+        "id": "27555",
+        "label": "洛德立克",
+        "info": "職業：召喚術師／調剤師",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/a9/27555_crt_51h1m.jpg",
+        "link": "https://bgm.tv/character/27555",
+        "categorie": "person"
+      },
+      {
+        "id": "27556",
+        "label": "千佳",
+        "info": "職業：盗剣士／海賊",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/32/27556_crt_leLdJ.jpg",
+        "link": "https://bgm.tv/character/27556",
+        "categorie": "person"
+      },
+      {
+        "id": "27803",
+        "label": "堇星",
+        "info": "职业：伝承者（サクセサー）",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/6e/27803_crt_ppCUU.jpg",
+        "link": "https://bgm.tv/character/27803",
+        "categorie": "person"
+      },
+      {
+        "id": "27804",
+        "label": "勇海",
+        "info": "主職業：武士　副职业：会計士",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/c3/27804_crt_7RDTd.jpg?r=1445941853",
+        "link": "https://bgm.tv/character/27804",
+        "categorie": "person"
+      },
+      {
+        "id": "27805",
+        "label": "华和良",
+        "info": "職業：武闘家（モンク）",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/1c/27805_crt_tDji3.jpg",
+        "link": "https://bgm.tv/character/27805",
+        "categorie": "person"
+      },
+      {
+        "id": "27806",
+        "label": "弗蕾格兰特·奥丽芙",
+        "info": "主職業：森呪遣い／妖術師（动画第二季）",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/e1/27806_crt_nfF8u.jpg",
+        "link": "https://bgm.tv/character/27806",
+        "categorie": "person"
+      },
+      {
+        "id": "27807",
+        "label": "多尔奇",
+        "info": "職業：吟遊詩人",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/8c/27807_crt_c7ciZ.jpg",
+        "link": "https://bgm.tv/character/27807",
+        "categorie": "person"
+      },
+      {
+        "id": "27808",
+        "label": "番茄红素",
+        "info": "職業：盗剣士",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/b2/27808_crt_228MM.jpg?r=1445941831",
+        "link": "https://bgm.tv/character/27808",
+        "categorie": "person"
+      },
+      {
+        "id": "27809",
+        "label": "胜男丸",
+        "info": "職業：武士",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/0f/27809_crt_cSsA5.jpg",
+        "link": "https://bgm.tv/character/27809",
+        "categorie": "person"
+      },
+      {
+        "id": "27810",
+        "label": "扣杀",
+        "info": "職業：盗剣士",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/4f/27810_crt_0BoSN.jpg",
+        "link": "https://bgm.tv/character/27810",
+        "categorie": "person"
+      },
+      {
+        "id": "28051",
+        "label": "道隆",
+        "info": "職業：武闘家／鍛冶屋",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/50/28051_crt_waOB0.jpg",
+        "link": "https://bgm.tv/character/28051",
+        "categorie": "person"
+      },
+      {
+        "id": "28052",
+        "label": "亚因斯",
+        "info": "職業：神祇官／学者",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/cb/28052_crt_3Pcn3.jpg?r=1416254800",
+        "link": "https://bgm.tv/character/28052",
+        "categorie": "person"
+      },
+      {
+        "id": "28053",
+        "label": "伍德斯托克·W",
+        "info": "職業：暗殺者／調教師",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/0d/28053_crt_4TIsS.jpg",
+        "link": "https://bgm.tv/character/28053",
+        "categorie": "person"
+      },
+      {
+        "id": "28054",
+        "label": "青森",
+        "info": "職業：施療神官／醸造職人",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/35/28054_crt_acxZU.jpg",
+        "link": "https://bgm.tv/character/28054",
+        "categorie": "person"
+      },
+      {
+        "id": "28055",
+        "label": "迪恩库隆",
+        "info": "職業：守護戦士／騎士",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/1f/28055_crt_GOBjn.jpg",
+        "link": "https://bgm.tv/character/28055",
+        "categorie": "person"
+      },
+      {
+        "id": "28056",
+        "label": "塞涅",
+        "info": "職業：盗剣士／占い師・辺境巡視",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/9d/28056_crt_0Y0Al.jpg",
+        "link": "https://bgm.tv/character/28056",
+        "categorie": "person"
+      },
+      {
+        "id": "28057",
+        "label": "白虹",
+        "info": "主职业：召唤术师",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/ba/28057_crt_n7754.jpg",
+        "link": "https://bgm.tv/character/28057",
+        "categorie": "person"
+      },
+      {
+        "id": "28058",
+        "label": "桃色姐妹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/63/28058_crt_G9M29.jpg",
+        "link": "https://bgm.tv/character/28058",
+        "categorie": "person"
+      },
+      {
+        "id": "28060",
+        "label": "卡拉辛",
+        "info": "職業：召喚術師／交易商人",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/6b/28060_crt_nocco.jpg",
+        "link": "https://bgm.tv/character/28060",
+        "categorie": "person"
+      },
+      {
+        "id": "28122",
+        "label": "明日架／飞鸟",
+        "info": "職業：神祇官",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/38/28122_crt_0s2xP.jpg",
+        "link": "https://bgm.tv/character/28122",
+        "categorie": "person"
+      },
+      {
+        "id": "28123",
+        "label": "栉八玉",
+        "info": "职业：神祇官／料理人 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/4b/28123_crt_rvkuU.jpg?r=1446076726",
+        "link": "https://bgm.tv/character/28123",
+        "categorie": "person"
+      },
+      {
+        "id": "28128",
+        "label": "克莉侬",
+        "info": "職業：施療神官",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/3f/28128_crt_L0yuu.jpg",
+        "link": "https://bgm.tv/character/28128",
+        "categorie": "person"
+      },
+      {
+        "id": "28203",
+        "label": "浮世",
+        "info": "職業：施療神官／メイド 種族：エルフ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/4b/28203_crt_RdRYY.jpg",
+        "link": "https://bgm.tv/character/28203",
+        "categorie": "person"
+      },
+      {
+        "id": "28204",
+        "label": "东湖",
+        "info": "職業：神祇官／符術師 種族：エルフ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/80/28204_crt_X3llz.jpg",
+        "link": "https://bgm.tv/character/28204",
+        "categorie": "person"
+      },
+      {
+        "id": "28205",
+        "label": "高原天",
+        "info": "种族：狼牙族",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/e2/28205_crt_k9kX2.jpg",
+        "link": "https://bgm.tv/character/28205",
+        "categorie": "person"
+      },
+      {
+        "id": "28207",
+        "label": "杜鹃",
+        "info": "職業：召喚術師／裁縫師",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/cf/28207_crt_7d0nZ.jpg",
+        "link": "https://bgm.tv/character/28207",
+        "categorie": "person"
+      },
+      {
+        "id": "28208",
+        "label": "渥伊年",
+        "info": "職業：森呪遣い／バイキング",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/75/28208_crt_aAP15.jpg",
+        "link": "https://bgm.tv/character/28208",
+        "categorie": "person"
+      },
+      {
+        "id": "28209",
+        "label": "费迪利克",
+        "info": "職業：盗剣士／料理人",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/a5/28209_crt_CDd6Y.jpg",
+        "link": "https://bgm.tv/character/28209",
+        "categorie": "person"
+      },
+      {
+        "id": "28210",
+        "label": "迪米夸斯",
+        "info": "職業：武闘家／無法者",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/13/28210_crt_XVJ8W.jpg",
+        "link": "https://bgm.tv/character/28210",
+        "categorie": "person"
+      },
+      {
+        "id": "28212",
+        "label": "蕃茄肉酱老大",
+        "info": "种族：猫人族",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ad/28212_crt_3JjzC.jpg",
+        "link": "https://bgm.tv/character/28212",
+        "categorie": "person"
+      },
+      {
+        "id": "28214",
+        "label": "顺三",
+        "info": "种族：狼牙族",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/dc/28214_crt_rV2Q5.jpg",
+        "link": "https://bgm.tv/character/28214",
+        "categorie": "person"
+      },
+      {
+        "id": "28215",
+        "label": "极弱音",
+        "info": "种族：精灵族",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f0/28215_crt_e7ysH.jpg",
+        "link": "https://bgm.tv/character/28215",
+        "categorie": "person"
+      },
+      {
+        "id": "28363",
+        "label": "艾婷迪丝卡",
+        "info": "种族：精灵族",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/2c/28363_crt_AA23E.jpg",
+        "link": "https://bgm.tv/character/28363",
+        "categorie": "person"
+      },
+      {
+        "id": "28364",
+        "label": "波罗罗卡",
+        "info": "种族：精灵族",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/34/28364_crt_2Wx82.jpg",
+        "link": "https://bgm.tv/character/28364",
+        "categorie": "person"
+      },
+      {
+        "id": "28962",
+        "label": "加奈美",
+        "info": "种族：人族",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/c1/28962_crt_cXkf6.jpg?r=1446100766",
+        "link": "https://bgm.tv/character/28962",
+        "categorie": "person"
+      },
+      {
+        "id": "28963",
+        "label": "列奥那多",
+        "info": "主职业为刺客，类型是剑舞者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/57/28963_crt_33aqZ.jpg",
+        "link": "https://bgm.tv/character/28963",
+        "categorie": "person"
+      },
+      {
+        "id": "28964",
+        "label": "艾利亚斯·哈布雷德",
+        "info": "北欧服务器、全界十三骑士团中赤枝骑士团的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/38/28964_crt_N1P1N.jpg?r=1445965011",
+        "link": "https://bgm.tv/character/28964",
+        "categorie": "person"
+      },
+      {
+        "id": "28965",
+        "label": "珂佩莉雅",
+        "info": "主职业为牧师，类型是装甲牧师，副职业为战斗司祭。另外是不多的双盾流使用者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/9b/28965_crt_HzBH2.jpg?r=1445964985",
+        "link": "https://bgm.tv/character/28965",
+        "categorie": "person"
+      },
+      {
+        "id": "28967",
+        "label": "濡羽",
+        "info": "職業：付与術師／娼姫",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/a4/28967_crt_827be.jpg?r=1445941777",
+        "link": "https://bgm.tv/character/28967",
+        "categorie": "person"
+      },
+      {
+        "id": "28968",
+        "label": "茵缇克丝",
+        "info": "主职业为妖术师，类型是格斗法师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9d/28968_crt_H3hQx.jpg?r=1445941793",
+        "link": "https://bgm.tv/character/28968",
+        "categorie": "person"
+      },
+      {
+        "id": "36503",
+        "label": "乌帕西",
+        "info": "ススキノでデミクァスと暮らしている大地人の女性。元々は貴族の娘で、デミクァスが自分の召使いにする目的でさらってきたのだが、物怖じしないサバサバとした性格だったため、デミクァスを恐れるどころか完全に尻に敷いてしまっている。原作では台詞はあるが名前は出ず、アニメ第2シーズンで名前が付いた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/87/36503_crt_x2o2k.jpg",
+        "link": "https://bgm.tv/character/36503",
+        "categorie": "person"
+      },
+      {
+        "id": "36504",
+        "label": "杰鲁迪斯",
+        "info": "職業：施療神官／学者",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/3a/36504_crt_WIaBN.jpg?r=1445940159",
+        "link": "https://bgm.tv/character/36504",
+        "categorie": "person"
+      },
+      {
+        "id": "36505",
+        "label": "翠叶·图鲁德",
+        "info": "職業：戦将軍（ウォーロード）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/37/36505_crt_MMbwq.jpg?r=1445960934",
+        "link": "https://bgm.tv/character/36505",
+        "categorie": "person"
+      },
+      {
+        "id": "36506",
+        "label": "纳卡尔纳德",
+        "info": "職業：守護戦士",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d0/36506_crt_kPSrp.jpg",
+        "link": "https://bgm.tv/character/36506",
+        "categorie": "person"
+      },
+      {
+        "id": "36507",
+        "label": "库昂",
+        "info": "職業：吟遊詩人",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/ad/36507_crt_KeHoB.jpg?r=1445963166",
+        "link": "https://bgm.tv/character/36507",
+        "categorie": "person"
+      },
+      {
+        "id": "36508",
+        "label": "一彦",
+        "info": "職業：暗殺者／騎士",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/ce/36508_crt_K6rBY.jpg?r=1445963025",
+        "link": "https://bgm.tv/character/36508",
+        "categorie": "person"
+      },
+      {
+        "id": "36509",
+        "label": "杰雷德·耿恩",
+        "info": "職業：大魔導師（アークメイジ）／学者",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/0e/36509_crt_Z8H1r.jpg",
+        "link": "https://bgm.tv/character/36509",
+        "categorie": "person"
+      },
+      {
+        "id": "36510",
+        "label": "洛雷尔·铎恩",
+        "info": "職業：施療神官",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d6/36510_crt_Ztrxx.jpg?r=1445941722",
+        "link": "https://bgm.tv/character/36510",
+        "categorie": "person"
+      },
+      {
+        "id": "36511",
+        "label": "KR",
+        "info": "職業：召喚術師／ちんどん屋",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/23/36511_crt_2JJ87.jpg?r=1445941734",
+        "link": "https://bgm.tv/character/36511",
+        "categorie": "person"
+      },
+      {
+        "id": "36512",
+        "label": "小龙／章介",
+        "info": "職業：盗剣士／武侠",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/d2/36512_crt_4518o.jpg",
+        "link": "https://bgm.tv/character/36512",
+        "categorie": "person"
+      },
+      {
+        "id": "36513",
+        "label": "飞燕／圆",
+        "info": "職業：暗殺者",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/74/36513_crt_5ljwm.jpg?r=1445941756",
+        "link": "https://bgm.tv/character/36513",
+        "categorie": "person"
+      },
+      {
+        "id": "36514",
+        "label": "菈丝菲尔",
+        "info": "<降灵师的典灾>，犹如陶瓷娃娃一般可爱外貌的金发神秘少女，为八十九级的＜通常＞型魔物，很可能最初觉醒的典灾之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/bc/36514_crt_i5tL5.jpg?r=1445960193",
+        "link": "https://bgm.tv/character/36514",
+        "categorie": "person"
+      },
+      {
+        "id": "36515",
+        "label": "帕普斯",
+        "info": "<治愈的典灾>，身穿长袍的神秘人物，底下有大量触手，为八十九级的＜通常＞型魔物。很可能最初觉醒的典灾之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/05/36515_crt_4Eou4.jpg",
+        "link": "https://bgm.tv/character/36515",
+        "categorie": "person"
+      },
+      {
+        "id": "36516",
+        "label": "春翠",
+        "info": "职业：施疗神官",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7c/36516_crt_Rxa5A.jpg?r=1445964967",
+        "link": "https://bgm.tv/character/36516",
+        "categorie": "person"
+      },
+      {
+        "id": "36517",
+        "label": "ヤグド",
+        "info": "中国サーバーの大地人。セケック村の村長。カナミに疫鬼（イィグイ）について説明する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/d8/36517_crt_KtTa8.jpg",
+        "link": "https://bgm.tv/character/36517",
+        "categorie": "person"
+      },
+      {
+        "id": "36518",
+        "label": "セジン",
+        "info": "中国サーバーの大地人。セケック村の住人。疫鬼（イィグイ）により獣のようになってしまい村で暴れたところをカナミたちに捕えられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/48/36518_crt_7IWqI.jpg?r=1445964951",
+        "link": "https://bgm.tv/character/36518",
+        "categorie": "person"
+      },
+      {
+        "id": "36519",
+        "label": "ジュウハ",
+        "info": "中国サーバーの大地人。交易商人。春翠が護衛していたが彼以外は全滅してしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/39/36519_crt_0G0xu.jpg",
+        "link": "https://bgm.tv/character/36519",
+        "categorie": "person"
+      },
+      {
+        "id": "36520",
+        "label": "雷萨立克",
+        "info": "职业：施疗神官",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/29/36520_crt_I0N5N.jpg",
+        "link": "https://bgm.tv/character/36520",
+        "categorie": "person"
+      },
+      {
+        "id": "36521",
+        "label": "TOSHI",
+        "info": "「ホネスティ」所属の男性守護戦士。殺人鬼にやられた捕縛巡視隊の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/31/36521_crt_hDZ9m.jpg",
+        "link": "https://bgm.tv/character/36521",
+        "categorie": "person"
+      },
+      {
+        "id": "36522",
+        "label": "はるはる",
+        "info": "「ホネスティ」所属の女性〈エルフ〉。殺人鬼にやられた捕縛巡視隊の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/bc/36522_crt_RsBbj.jpg?r=1446220282",
+        "link": "https://bgm.tv/character/36522",
+        "categorie": "person"
+      },
+      {
+        "id": "36523",
+        "label": "成惠2",
+        "info": "職業：召喚術師／吸血鬼",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/7c/36523_crt_qacu5.jpg?r=1445951796",
+        "link": "https://bgm.tv/character/36523",
+        "categorie": "person"
+      },
+      {
+        "id": "36524",
+        "label": "あるみー",
+        "info": "吟遊詩人『天秤祭』に訪れたマルヴェス卿の用心棒の一人。〈狐尾族〉の女性で武器は片面太鼓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/31/36524_crt_zmc55.jpg",
+        "link": "https://bgm.tv/character/36524",
+        "categorie": "person"
+      },
+      {
+        "id": "36525",
+        "label": "大文字",
+        "info": "武士。『天秤祭』に訪れたマルヴェス卿の用心棒の一人。2本の刀を腰に下げ甲冑を身につけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/78/36525_crt_yhAzF.jpg",
+        "link": "https://bgm.tv/character/36525",
+        "categorie": "person"
+      },
+      {
+        "id": "36527",
+        "label": "隆达格",
+        "info": "職業：妖術師",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/37/36527_crt_SrCcK.jpg",
+        "link": "https://bgm.tv/character/36527",
+        "categorie": "person"
+      },
+      {
+        "id": "36529",
+        "label": "ぎこり",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36529",
+        "categorie": "person"
+      },
+      {
+        "id": "36530",
+        "label": "俊一",
+        "info": "〈Plant hwyaden〉に所属するエルフの守護戦士。オデュッセイア騎士団。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/04/36530_crt_g2LqV.jpg",
+        "link": "https://bgm.tv/character/36530",
+        "categorie": "person"
+      },
+      {
+        "id": "36531",
+        "label": "マーバンジン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36531",
+        "categorie": "person"
+      },
+      {
+        "id": "36532",
+        "label": "樱缟",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36532",
+        "categorie": "person"
+      },
+      {
+        "id": "36533",
+        "label": "テンゴン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36533",
+        "categorie": "person"
+      },
+      {
+        "id": "36534",
+        "label": "スゲさん",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36534",
+        "categorie": "person"
+      },
+      {
+        "id": "36535",
+        "label": "伊瑟路斯·耶鲁艾特·柯文",
+        "info": "職業：貴族",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/32/36535_crt_czgg9.jpg",
+        "link": "https://bgm.tv/character/36535",
+        "categorie": "person"
+      },
+      {
+        "id": "36536",
+        "label": "卡姆伊赛尔",
+        "info": "<结婚的典灾>，魅惑大地人和冒险者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/c0/36536_crt_1Kd0A.jpg?r=1445957480",
+        "link": "https://bgm.tv/character/36536",
+        "categorie": "person"
+      },
+      {
+        "id": "36537",
+        "label": "巴古利斯",
+        "info": "<度量的典灾>，欺骗冒险者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/d2/36537_crt_HfV4v.jpg",
+        "link": "https://bgm.tv/character/36537",
+        "categorie": "person"
+      },
+      {
+        "id": "36539",
+        "label": "赛尔济亚德·柯文",
+        "info": "職業：貴族",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/33/36539_crt_584Ag.jpg",
+        "link": "https://bgm.tv/character/36539",
+        "categorie": "person"
+      },
+      {
+        "id": "36540",
+        "label": "利长",
+        "info": "职业：武斗家",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/85/36540_crt_AzmH7.jpg",
+        "link": "https://bgm.tv/character/36540",
+        "categorie": "person"
+      },
+      {
+        "id": "36541",
+        "label": "狐猿",
+        "info": "職業：暗殺者",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/01/36541_crt_st0fs.jpg",
+        "link": "https://bgm.tv/character/36541",
+        "categorie": "person"
+      },
+      {
+        "id": "36542",
+        "label": "降灵",
+        "info": "『ノウアスフィアの開墾』に登場。召喚の典災、レベル86のレイドランク・モンスター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/1a/36542_crt_gu5Z9.jpg?r=1446100525",
+        "link": "https://bgm.tv/character/36542",
+        "categorie": "person"
+      },
+      {
+        "id": "28059",
+        "label": "普罗米修斯",
+        "info": "職業：妖術師／斥候",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/10/28059_crt_AFdtd.jpg",
+        "link": "https://bgm.tv/character/28059",
+        "categorie": "person"
+      },
+      {
+        "id": "28121",
+        "label": "桑迪",
+        "info": "職業：施療神官",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/34/28121_crt_B6p55.jpg",
+        "link": "https://bgm.tv/character/28121",
+        "categorie": "person"
+      },
+      {
+        "id": "28124",
+        "label": "八重樱",
+        "info": "主职业：妖术师",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b6/28124_crt_Xfern.jpg",
+        "link": "https://bgm.tv/character/28124",
+        "categorie": "person"
+      },
+      {
+        "id": "28125",
+        "label": "柚子",
+        "info": "主职业：召喚術師",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/0d/28125_crt_b44z5.jpg?r=1416927871",
+        "link": "https://bgm.tv/character/28125",
+        "categorie": "person"
+      },
+      {
+        "id": "28126",
+        "label": "飞羽",
+        "info": "主职业：暗殺者",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/1b/28126_crt_6lyYn.jpg",
+        "link": "https://bgm.tv/character/28126",
+        "categorie": "person"
+      },
+      {
+        "id": "28127",
+        "label": "小豆子",
+        "info": "主职业：付与術師",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/c0/28127_crt_5z80a.jpg?r=1416928101",
+        "link": "https://bgm.tv/character/28127",
+        "categorie": "person"
+      },
+      {
+        "id": "28129",
+        "label": "寿子",
+        "info": "职业：召喚術師",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/03/28129_crt_W75gg.jpg",
+        "link": "https://bgm.tv/character/28129",
+        "categorie": "person"
+      },
+      {
+        "id": "28130",
+        "label": "寝耳",
+        "info": "職業：武闘家",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/e8/28130_crt_zRN8W.jpg",
+        "link": "https://bgm.tv/character/28130",
+        "categorie": "person"
+      },
+      {
+        "id": "28131",
+        "label": "圆东秋叶",
+        "info": "主职业：召喚術師",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/30/28131_crt_Vk7Wi.jpg",
+        "link": "https://bgm.tv/character/28131",
+        "categorie": "person"
+      },
+      {
+        "id": "28206",
+        "label": "演歌担当",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/7c/28206_crt_3LZfQ.jpg",
+        "link": "https://bgm.tv/character/28206",
+        "categorie": "person"
+      },
+      {
+        "id": "28211",
+        "label": "欧迪松",
+        "info": "种族：法仪族",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/88/28211_crt_5D01D.jpg",
+        "link": "https://bgm.tv/character/28211",
+        "categorie": "person"
+      },
+      {
+        "id": "28213",
+        "label": "细雪",
+        "info": "种族：人族",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/2d/28213_crt_bPxp9.jpg",
+        "link": "https://bgm.tv/character/28213",
+        "categorie": "person"
+      },
+      {
+        "id": "28216",
+        "label": "中居河太郎",
+        "info": "种族：人族",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/38/28216_crt_gBbf3.jpg",
+        "link": "https://bgm.tv/character/28216",
+        "categorie": "person"
+      },
+      {
+        "id": "28362",
+        "label": "罗喉丸",
+        "info": "种族：狼牙族",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/c8/28362_crt_Ipl8F.jpg",
+        "link": "https://bgm.tv/character/28362",
+        "categorie": "person"
+      },
+      {
+        "id": "28365",
+        "label": "软体系@秋叶原",
+        "info": "种族：半祖族",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/7d/28365_crt_Ww6GN.jpg",
+        "link": "https://bgm.tv/character/28365",
+        "categorie": "person"
+      },
+      {
+        "id": "36538",
+        "label": "希斯拉乌",
+        "info": "<疫病的典灾>，会让大地人和冒险者生病中毒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/8c/36538_crt_4wLv6.jpg",
+        "link": "https://bgm.tv/character/36538",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

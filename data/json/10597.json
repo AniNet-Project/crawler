@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67612",
+        "label": "拉莉·文森特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/27/67612_crt_P4vR7.jpg",
+        "link": "https://bgm.tv/character/67612",
+        "categorie": "person"
+      },
+      {
+        "id": "67613",
+        "label": "梅·霍普金斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/58/67613_crt_bwOWi.jpg",
+        "link": "https://bgm.tv/character/67613",
+        "categorie": "person"
+      },
+      {
+        "id": "67615",
+        "label": "邦·班迪特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/15/67615_crt_kQphi.jpg",
+        "link": "https://bgm.tv/character/67615",
+        "categorie": "person"
+      },
+      {
+        "id": "67614",
+        "label": "佩姬·弗拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/77/67614_crt_ccsux.jpg",
+        "link": "https://bgm.tv/character/67614",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

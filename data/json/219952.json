@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37276",
+        "label": "イオ・フレミング",
+        "info": "地球連邦軍所属。階級は少尉。アトラスガンダムの専任パイロットとして、スパルタンに着任した。一年戦争の末期、フルアーマー・ガンダムに乗り、サイコ・ザクと死闘を繰り広げた。サンダーボルト宙域でリビング・デッド師団と戦ったムーア同胞団の生き残り。スパルタンには、ある極秘作戦参加のため招集された。前ムーア首長の息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/f7/37276_crt_Agagw.jpg?r=1490438549",
+        "link": "https://bgm.tv/character/37276",
+        "categorie": "person"
+      },
+      {
+        "id": "39535",
+        "label": "ダリル・ローレンツ",
+        "info": "ジオン公国軍所属。階級は少尉。アッガイのパイロット。MS小隊の隊長を務める。傷痍軍人で構成されたリビング・デッド師団の生き残り。一年戦争末期、サイコ・ザクに搭乗するため右腕を切断し、四肢すべてが義手義足となってしまった。その後、地球に降り、ジオン公国軍（連邦からみれば残党軍）の一員として南洋同盟に対して諜報活動を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/09/39535_crt_hu5P5.jpg?r=1490438473",
+        "link": "https://bgm.tv/character/39535",
+        "categorie": "person"
+      },
+      {
+        "id": "37277",
+        "label": "クローディア・ペール",
+        "info": "イオの幼なじみ。元地球連邦軍所属。現在は南洋同盟国境守備隊隊長として、進軍してきたスパルタンと敵対する。階級は中佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/05/37277_crt_q4GtG.jpg",
+        "link": "https://bgm.tv/character/37277",
+        "categorie": "person"
+      },
+      {
+        "id": "39540",
+        "label": "カーラ・ミッチャム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/6d/39540_crt_7nazr.jpg?r=1458218337",
+        "link": "https://bgm.tv/character/39540",
+        "categorie": "person"
+      },
+      {
+        "id": "52617",
+        "label": "ビアンカ・カーライル",
+        "info": "地球連邦軍所属。階級は少尉。スパルタンに配備されたガンキャノン・アクアの女性パイロット。一年戦争時から数多の戦果を上げた歴戦の戦士。音楽の趣味でイオと意気投合してセッションを持ちかける。なお、入隊前の職業はプロのミュージシャン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/47/52617_crt_gJefn.jpg?r=1490436658",
+        "link": "https://bgm.tv/character/52617",
+        "categorie": "person"
+      },
+      {
+        "id": "52618",
+        "label": "ビンセント・パイク",
+        "info": "地球連邦軍所属。階級は大佐。モニカ・ハンフリー参謀が指揮する極秘作戦に就いた強襲揚陸艦スパルタンの艦長。人に頭を下げるのが嫌いな性格だが、礼儀は重んじる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/8f/52618_crt_2RGUH.jpg?r=1490436830",
+        "link": "https://bgm.tv/character/52618",
+        "categorie": "person"
+      },
+      {
+        "id": "52620",
+        "label": "ビリー・ヒッカム",
+        "info": "ジオン公国軍所属。階級は少尉。アッガイのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/64/52620_crt_viNXB.jpg?r=1490437994",
+        "link": "https://bgm.tv/character/52620",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

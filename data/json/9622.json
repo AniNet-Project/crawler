@@ -1,0 +1,493 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4333",
+        "label": "布莱德·诺亚",
+        "info": "《机动战士高达》宇宙世纪系列动画中出场作品数最多的，贯穿U.C.一世纪末吉恩独立战争到二世纪初马赫迪叛乱其间近30年历史的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/83/4333_crt_1HeIG.jpg",
+        "link": "https://bgm.tv/character/4333",
+        "categorie": "person"
+      },
+      {
+        "id": "4546",
+        "label": "卡缪·比坦",
+        "info": "奥古的王牌机动战士驾驶员，U.C.高达系列历史上新人类（Newtype）能力最高的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/26/4546_crt_hzuFl.jpg?r=1575611485",
+        "link": "https://bgm.tv/character/4546",
+        "categorie": "person"
+      },
+      {
+        "id": "4887",
+        "label": "花园丽",
+        "info": "本編のヒロイン。年齢は17歳。カミーユ・ビダンとは隣人かつ高校の同級生。両親が留守がちなカミーユの世話をよく焼いており、テレビ版冒頭では彼の爪を噛む癖を注意している。出身はサイド1の25バンチであり、一年戦争後にサイド7（グリーン・ノア）に移住してきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/08/4887_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4887",
+        "categorie": "person"
+      },
+      {
+        "id": "13245",
+        "label": "夏亚·阿兹纳布",
+        "info": "宇宙世纪（U.C.）一世纪末期杰出的军事家、政治家、演说家及王牌驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/47/13245_crt_Ag8BX.jpg?r=1416820329",
+        "link": "https://bgm.tv/character/13245",
+        "categorie": "person"
+      },
+      {
+        "id": "3687",
+        "label": "巴斯克·奥姆",
+        "info": "提坦兹骨干成员，完全的地球住民至上主义者，作战中会连自己人一起攻击并且虐杀平民的残暴军人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/54/3687_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3687",
+        "categorie": "person"
+      },
+      {
+        "id": "3704",
+        "label": "哈曼·卡恩",
+        "info": "吉恩公国高官马哈拉嘉·卡恩之女。自幼被发现有新人类素质而进入研究所，但是由于讨厌被人研究而中止。后来在阿克西斯遇到夏亚之后自愿继续协助其进行研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/fd/3704_crt_jsrJ8.jpg",
+        "link": "https://bgm.tv/character/3704",
+        "categorie": "person"
+      },
+      {
+        "id": "4332",
+        "label": "杰里德·梅萨",
+        "info": "U.C.0063年出生于美国南部的军人家庭，86年进入军官学校时由于优秀的成绩被提坦兹定向培养，半年后毕业成为高达Mk-II（RX-178）的候补驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/c3/4332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4332",
+        "categorie": "person"
+      },
+      {
+        "id": "4334",
+        "label": "阿斯特兰治",
+        "info": "神之整备员，先后在亚加玛，拟亚加玛和拉·凯拉姆号上担任MS整备员。最后在0093年第二次新吉翁战争（《逆袭的夏亚》）中与女友凯拉·苏中尉双双阵亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/6c/4334_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4334",
+        "categorie": "person"
+      },
+      {
+        "id": "4335",
+        "label": "亨肯·贝克那",
+        "info": "一年战争时是地球联邦宇宙军第7舰队萨拉米斯改富士级运输舰“骏河”号舰长，执行过将宇宙住民从所罗门送往Side6殖民卫星的任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/67/4335_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4335",
+        "categorie": "person"
+      },
+      {
+        "id": "4336",
+        "label": "ジャマイカン・ダニンガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/2d/4336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4336",
+        "categorie": "person"
+      },
+      {
+        "id": "4545",
+        "label": "阿姆罗·雷",
+        "info": "U.C.0079年：15～16岁。出生在地球，幼年时随父亲移民到宇宙，在殖民卫星Side 7生活，喜欢研究机械。由于追随地球联邦战舰白色基地号而来的吉恩军入侵Side 7，被卷入了战斗，偶然之间搭乘了父亲制造的机动战士，成为地球联邦军的士兵参加敖德萨战役、星一号战役和阿·堡瓦·库战役，并且在战争中得知了自己可能是“新人类”（Newtype、NT）这一事实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a2/4545_crt_zAgpC.jpg",
+        "link": "https://bgm.tv/character/4545",
+        "categorie": "person"
+      },
+      {
+        "id": "4547",
+        "label": "艾玛·西恩",
+        "info": "出生于日系的军人家庭，配属提坦兹之前一直住在地球，与阿姆罗有一面之缘。有着重视纪律的典型军人性格，曾对破坏纪律的卡缪和花园丽进行体罚。另一方面，也有着理性至上而不择手段的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/10/4547_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4547",
+        "categorie": "person"
+      },
+      {
+        "id": "13247",
+        "label": "米涅芭·拉奥·扎比",
+        "info": "多兹鲁·扎比的女儿，推测生于宇宙要塞所罗门内。父亲在所罗门战役中战死，尚为婴儿的米涅芭随母亲逃至阿克西斯，战后作为扎比家唯一的后裔，在阿克西斯成为傀儡君主。时任皇室警卫官的夏亚希望米涅芭成为一个普通的女孩子，而掌握实权的哈曼则希望将其培养成为扎比家的继承人、宇宙住民的精神领袖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/16/13247_crt_T2WG2.jpg",
+        "link": "https://bgm.tv/character/13247",
+        "categorie": "person"
+      },
+      {
+        "id": "13248",
+        "label": "村雨凤",
+        "info": "地球联邦军村雨研究所强化人试验体第4号（Number Four）。一年战争中成为孤儿，被村雨研究所收容并“强化”，抹去了以前的记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/e4/13248_crt_Yccdi.jpg?r=1476410220",
+        "link": "https://bgm.tv/character/13248",
+        "categorie": "person"
+      },
+      {
+        "id": "13249",
+        "label": "帕普提玛斯·西洛克",
+        "info": "宇宙世纪1世纪末期著名的军事家、思想家、阴谋家、科学家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/f9/13249_crt_2H448.jpg?r=1428203149",
+        "link": "https://bgm.tv/character/13249",
+        "categorie": "person"
+      },
+      {
+        "id": "13267",
+        "label": "妮歌·朗德",
+        "info": "出生于月球，在奥古的夏亚手下担任情报分析工作，军衔是中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/72/13267_crt_91MzI.jpg",
+        "link": "https://bgm.tv/character/13267",
+        "categorie": "person"
+      },
+      {
+        "id": "13268",
+        "label": "萨拉·扎比亚洛夫",
+        "info": "拥有新人类能力的少女，西洛克手下，提坦兹内罕见的宇宙住民。对西洛克有爱慕之情，并愿意为他付出一切。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/8b/13268_crt_K3keK.jpg",
+        "link": "https://bgm.tv/character/13268",
+        "categorie": "person"
+      },
+      {
+        "id": "13269",
+        "label": "贾米托夫·海曼",
+        "info": "宇宙世纪1世纪末期著名的政治家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/10/13269_crt_Z0WsM.jpg",
+        "link": "https://bgm.tv/character/13269",
+        "categorie": "person"
+      },
+      {
+        "id": "13284",
+        "label": "雅赞·格布尔",
+        "info": "提坦兹的机动战士驾驶员，军衔是大尉。作为驾驶员的能力非常高超，估计有很丰富的经验，可能一年战争中就已经是联邦军驾驶员了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/c4/13284_crt_AP1P3.jpg",
+        "link": "https://bgm.tv/character/13284",
+        "categorie": "person"
+      },
+      {
+        "id": "31598",
+        "label": "玛雅·法拉奥",
+        "info": "捷利特唯一一个正式交往的女友（之前对爱玛和莱拉都是爱慕未交往）。TV版30话与卡缪对战时被卡缪击杀。后来捷利特击杀了村雨凤作为报复",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/e6/31598_crt_J70A6.jpg?r=1428203778",
+        "link": "https://bgm.tv/character/31598",
+        "categorie": "person"
+      },
+      {
+        "id": "31658",
+        "label": "贝托蒂嘉·伊尔玛",
+        "info": "据说怀上了骡子的种的女人",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/06/31658_crt_EfW22.jpg",
+        "link": "https://bgm.tv/character/31658",
+        "categorie": "person"
+      },
+      {
+        "id": "13283",
+        "label": "布雷克斯·弗拉",
+        "info": "地球联邦军准将，联邦政府议员，反地球联邦组织AEUG（奥古）领导人，家人全部死于一年战争中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/d1/13283_crt_qQe2G.jpg",
+        "link": "https://bgm.tv/character/13283",
+        "categorie": "person"
+      },
+      {
+        "id": "31599",
+        "label": "莱拉·米拉·莱拉",
+        "info": "泰坦斯大尉，MS机师。殖民地出身，熟谙无重力环境作战，对地球上来的捷利特很轻视并出手教训了他。不过反而赢得了捷利特的好感，自己也对捷利特的上进很欣赏。但是两人关系尚未进一步发展就被卡缪·维丹击坠身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/c1/31599_crt_yY5U6.jpg?r=1428204635",
+        "link": "https://bgm.tv/character/31599",
+        "categorie": "person"
+      },
+      {
+        "id": "31603",
+        "label": "罗莎米娅·巴达姆",
+        "info": "一年战争时期因为吉恩的不列颠作战而失去了双亲，战后被联邦的北美奥卡斯特研究所收留并作为强化人的试验品。但因为强化过程中的精神操作，其情绪经常呈现不稳定状态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/b3/31603_crt_hjQdG.jpg",
+        "link": "https://bgm.tv/character/31603",
+        "categorie": "person"
+      },
+      {
+        "id": "31606",
+        "label": "阿波利·贝",
+        "info": "参加过一年战争的老兵。从阿克西斯辗转到奥古一直追随夏亚作战。格利普斯战争时为了保护花园丽被捷利特击坠身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/a7/31606_crt_vZgTG.jpg",
+        "link": "https://bgm.tv/character/31606",
+        "categorie": "person"
+      },
+      {
+        "id": "4549",
+        "label": "ヒルダ・ビダン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/b2/4549_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4549",
+        "categorie": "person"
+      },
+      {
+        "id": "4888",
+        "label": "ロベルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/84/4888_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4888",
+        "categorie": "person"
+      },
+      {
+        "id": "7687",
+        "label": "哈罗",
+        "info": "拥有穿越时空之能力的球型机器人，操纵敢达世界的幕后黑手，出现在各个时空的战场中，目的不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/db/7687_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7687",
+        "categorie": "person"
+      },
+      {
+        "id": "7694",
+        "label": "塞拉·玛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/fb/7694_crt_Yifem.jpg?r=1428257571",
+        "link": "https://bgm.tv/character/7694",
+        "categorie": "person"
+      },
+      {
+        "id": "8842",
+        "label": "小林隼人",
+        "info": "宇宙世纪少见的纯血日本人。居住在Side7，阿姆罗的同班同学，喜好柔道（2段）的少年，对自己青梅竹马的少女芙劳喜欢的“军二代”阿姆罗有些反感和嫉妒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/1f/8842_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8842",
+        "categorie": "person"
+      },
+      {
+        "id": "8845",
+        "label": "米莱·八岛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/82/8845_crt_anidb.jpg?r=1428257901",
+        "link": "https://bgm.tv/character/8845",
+        "categorie": "person"
+      },
+      {
+        "id": "31650",
+        "label": "凯·西汀",
+        "info": "白色木马号上临时参军的平民。战后退役成为记者，一直暗中帮助阿姆罗和林有德。是见证了整个UC大历史的人物",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/e0/31650_crt_3p7B7.jpg",
+        "link": "https://bgm.tv/character/31650",
+        "categorie": "person"
+      },
+      {
+        "id": "31651",
+        "label": "芙劳·波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/44/31651_crt_xJ4x6.jpg?r=1428258243",
+        "link": "https://bgm.tv/character/31651",
+        "categorie": "person"
+      },
+      {
+        "id": "31660",
+        "label": "珍美·诺亚",
+        "info": "哈撒韦的妹妹，林有德和米莱的女儿",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/2a/31660_crt_8tKbe.jpg?r=1428262911",
+        "link": "https://bgm.tv/character/31660",
+        "categorie": "person"
+      },
+      {
+        "id": "6132",
+        "label": "里克·迪亚斯",
+        "info": "エゥーゴ初のオリジナル量産型MSで、アナハイム・エレクトロニクス社と共同で開発された第2世代MS。アナハイム・ガンダムに分類されるMSの第1号であり、のちのΖ計画のきっかけとなった機体である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/d5/6132_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6132",
+        "categorie": "person"
+      },
+      {
+        "id": "6133",
+        "label": "百式",
+        "info": "エゥーゴとアナハイム・エレクトロニクス社による共同開発計画「Ζ計画」で開発されたアナハイム製ガンダムの1機。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/df/6133_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6133",
+        "categorie": "person"
+      },
+      {
+        "id": "6134",
+        "label": "亚加玛",
+        "info": "アーガマ級強襲巡洋艦の1番艦。反地球連邦組織エゥーゴの象徴として、グリプス戦役や第一次ネオ・ジオン抗争で活躍した。ホワイトベースを参考に建造され、モビルスーツ（MS）の搭載・運用能力を重視している。当初は「ホワイトベースII」の名称だったが、アナハイム・エレクトロニクス会長メラニー・ヒュー・カーバインにより「アーガマ」と命名された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/a5/6134_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6134",
+        "categorie": "person"
+      },
+      {
+        "id": "6135",
+        "label": "奥多姆拉",
+        "info": "機体色は赤。名前の由来は北欧神話に登場する巨大な牛アウズンブラから。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/c5/6135_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6135",
+        "categorie": "person"
+      },
+      {
+        "id": "6136",
+        "label": "高达 MK-II",
+        "info": "ティターンズが名機RX-78 ガンダムの名と設計を受け継ぐフラッグシップMSとして開発した機体。初期のティターンズ主力機ジム・クゥエルなどに使用された最新技術が投入されている。主にスペースコロニー内部での戦闘[1]を想定し、グリプス開発基地において8番目に開発された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/28/6136_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6136",
+        "categorie": "person"
+      },
+      {
+        "id": "6137",
+        "label": "特装型高扎古",
+        "info": "量産機であるハイザックを改良し、砲狙撃用に特化した機体である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/c8/6137_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6137",
+        "categorie": "person"
+      },
+      {
+        "id": "6138",
+        "label": "巴扎姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ea/6138_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6138",
+        "categorie": "person"
+      },
+      {
+        "id": "6139",
+        "label": "アッシマー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/8f/6139_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6139",
+        "categorie": "person"
+      },
+      {
+        "id": "6140",
+        "label": "ガブスレイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/7d/6140_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6140",
+        "categorie": "person"
+      },
+      {
+        "id": "6141",
+        "label": "ハンブラビ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d2/6141_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6141",
+        "categorie": "person"
+      },
+      {
+        "id": "6142",
+        "label": "バウンド・ドック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/4b/6142_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6142",
+        "categorie": "person"
+      },
+      {
+        "id": "6143",
+        "label": "メッサーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/96/6143_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6143",
+        "categorie": "person"
+      },
+      {
+        "id": "6144",
+        "label": "パラス・アテネ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/7f/6144_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6144",
+        "categorie": "person"
+      },
+      {
+        "id": "6145",
+        "label": "ジ・O",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/85/6145_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6145",
+        "categorie": "person"
+      },
+      {
+        "id": "6146",
+        "label": "サイコガンダム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/05/6146_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6146",
+        "categorie": "person"
+      },
+      {
+        "id": "6147",
+        "label": "サイコガンダムMk-II",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/06/6147_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6147",
+        "categorie": "person"
+      },
+      {
+        "id": "6148",
+        "label": "アレキサンドリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/c0/6148_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6148",
+        "categorie": "person"
+      },
+      {
+        "id": "6149",
+        "label": "ジュピトリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/4c/6149_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6149",
+        "categorie": "person"
+      },
+      {
+        "id": "6150",
+        "label": "ガザC",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/8a/6150_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6150",
+        "categorie": "person"
+      },
+      {
+        "id": "6151",
+        "label": "グワンバン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/1b/6151_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6151",
+        "categorie": "person"
+      },
+      {
+        "id": "6152",
+        "label": "Z高达",
+        "info": "エゥーゴとアナハイム・エレクトロニクス社による共同開発計画「Ζ計画」で開発された機体の一つ。リック・ディアス（γガンダム）から数えて4番目に開発されたため、その開発コード「ζ」からΖガンダムと名付けられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/ae/6152_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6152",
+        "categorie": "person"
+      },
+      {
+        "id": "15743",
+        "label": "阿纳海姆",
+        "info": "阿纳海姆公司（Anaheim）是作品《机动战士高达》中出现MS（Mobile Suit ）制造公司，立场为中立，向联邦军及吉恩军，这战争双方提供MS资源。因为不论是军方、恐怖份子，只要付款，阿纳海姆就给予相应的货物，因此也被称为“死亡商人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/92/15743_crt_tgu1T.jpg",
+        "link": "https://bgm.tv/character/15743",
+        "categorie": "person"
+      },
+      {
+        "id": "16018",
+        "label": "拟·阿伽马",
+        "info": "U.C.0088年に勃発した『ハマーン戦争』時に建造された宇宙戦艦を大規模に改修し、地球連邦軍ロンド・ベル隊の所属となった強襲揚陸艦。同型艦の存在しない互換性のなさ、取り回しの悪さから艦隊編成にも組み込まれず、主に単艦運用されている。艦長はオットー・ミタス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/3a/16018_crt_mA06x.jpg",
+        "link": "https://bgm.tv/character/16018",
+        "categorie": "person"
+      },
+      {
+        "id": "31653",
+        "label": "拉拉·辛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/58/31653_crt_6qE66.jpg",
+        "link": "https://bgm.tv/character/31653",
+        "categorie": "person"
+      },
+      {
+        "id": "31659",
+        "label": "哈萨维·诺亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/2d/31659_crt_q0gnX.jpg",
+        "link": "https://bgm.tv/character/31659",
+        "categorie": "person"
+      },
+      {
+        "id": "64381",
+        "label": "雷姆",
+        "info": "雷姆，出自《机动战士高达Z》，MSA-003 Nemo迎击用量产型MS。本机是“吉姆Ⅱ”的后继发展机，最初的设计制造是由阿纳海姆电子公司完成的，其后就作为奥古的次世代主力量产型机体被大量投入到了格利普斯战争的战场上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/ff/64381_crt_y2yRO.jpg",
+        "link": "https://bgm.tv/character/64381",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

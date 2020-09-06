@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3318",
+        "label": "茂野吾郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/1b/3318_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3318",
+        "categorie": "person"
+      },
+      {
+        "id": "3324",
+        "label": "佐藤寿也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/e6/3324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3324",
+        "categorie": "person"
+      },
+      {
+        "id": "3327",
+        "label": "茂野英毅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/89/3327_crt_fQx2K.jpg?r=1413041562",
+        "link": "https://bgm.tv/character/3327",
+        "categorie": "person"
+      },
+      {
+        "id": "3349",
+        "label": "ジョー・ギブソン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f2/3349_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3349",
+        "categorie": "person"
+      },
+      {
+        "id": "17943",
+        "label": "乔·吉普森二世",
+        "info": "滿田拓也《棒球大聯盟》中的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/f5/17943_crt_i81Nn.jpg",
+        "link": "https://bgm.tv/character/17943",
+        "categorie": "person"
+      },
+      {
+        "id": "62572",
+        "label": "清水大河",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/57/62572_crt_eR9ku.jpg",
+        "link": "https://bgm.tv/character/62572",
+        "categorie": "person"
+      },
+      {
+        "id": "9998",
+        "label": "茂野ちはる",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/8f/9998_crt_ch7KM.jpg",
+        "link": "https://bgm.tv/character/9998",
+        "categorie": "person"
+      },
+      {
+        "id": "9999",
+        "label": "麻美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/9c/9999_crt_YD559.jpg",
+        "link": "https://bgm.tv/character/9999",
+        "categorie": "person"
+      },
+      {
+        "id": "10007",
+        "label": "佐伯京四郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/df/10007_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10007",
+        "categorie": "person"
+      },
+      {
+        "id": "10010",
+        "label": "松尾板尾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/74/10010_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10010",
+        "categorie": "person"
+      },
+      {
+        "id": "10423",
+        "label": "沢村涼太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/e3/10423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10423",
+        "categorie": "person"
+      },
+      {
+        "id": "10434",
+        "label": "陣内アリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/d4/10434_crt_anidb.jpg?r=1414944682",
+        "link": "https://bgm.tv/character/10434",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "62479",
+        "label": "茂野泉",
+        "info": "大吾の3歳上の姉。パンダ柄のパンツがお気に入り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/f3/62479_crt_I7j6X.jpg",
+        "link": "https://bgm.tv/character/62479",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

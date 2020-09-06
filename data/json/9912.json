@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11905",
+        "label": "相生祐子",
+        "info": "1年Q班，通稱「小祐（ゆっこ）」。個性活潑好奇，留著茶色直髮。手很巧，曾用撲克牌疊塔疊了五層高，還具備寫詩的才能。幾乎都不讀書、寫作業而向美緒借來抄。基本上是吐槽體質（主要針對麻衣），因為活潑加上天然呆，常失控並且把周遭的人都捲進來。特长是在上学的路上讲冷笑话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/81/11905_crt_01D9p.jpg?r=1538644343",
+        "link": "https://bgm.tv/character/11905",
+        "categorie": "person"
+      },
+      {
+        "id": "11906",
+        "label": "长野原美绪",
+        "info": "1年Q班。普通的女高中生，有常識的正常人。個性和裕子很像，兩人的關係很好。喜歡幸治郎，對他的妄想十分激烈。頭髮為藍色，在兩旁綁成一束。擅長繪畫，在筆記上有BL系的塗鴉，也有實際的完稿。家裡具有畫圖用的畫材和設備，不過沒有電腦。目前沒有參加社團，但根據作者以前的設定是屬於演劇社。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/68/11906_crt_W4WD1.jpg?r=1538644408",
+        "link": "https://bgm.tv/character/11906",
+        "categorie": "person"
+      },
+      {
+        "id": "11907",
+        "label": "水上麻衣",
+        "info": "1年Q班。沉默的優等生。祐子的朋友，喜歡用猛烈的耍呆和無法理解的言行把祐子和美緒耍著玩。戴著眼鏡，留著黑色長髮，眼睛只睜開一半。喜歡從校長給的彌勒菩薩像，別人不同意時會不高興。家裡有養貓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c2/11907_crt_w4Dh0.jpg?r=1421388502",
+        "link": "https://bgm.tv/character/11907",
+        "categorie": "person"
+      },
+      {
+        "id": "11908",
+        "label": "东云名乃",
+        "info": "女高中生機器人。實際年齡1歲，目前就讀高中，十分憧憬普通女生。留著黑色短髮，對自己是機器人而且背上裝著很大的發條（旋轉後左腳大拇指（用 USB端子連接）會被發射出去，發條能夠取下）感到自卑。被博士施以非人道改造，右手裝備能夠連發的豆子機關槍，左手有裝過竹輪、瑞士捲，兩手具備火箭飛拳功能，額頭具有鴿子時鐘和收納功能，頭頂有烤麵包機。害怕蟑螂和雷。雖然是機器人卻具有痛覺，但只要把會痛的部分拔除就不會感覺到。雙手（特別是右手）受到一點衝擊就會掉下來。有時會因為博士不認真聽自己的煩惱而抓狂，但都敗在博士泛著淚光的眼神之下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2f/11908_crt_4669K.jpg",
+        "link": "https://bgm.tv/character/11908",
+        "categorie": "person"
+      },
+      {
+        "id": "11909",
+        "label": "博士",
+        "info": "自稱博士，8歲。本名不明，研究所的名稱為東雲研究所。整天都在家裡研究，研究題材不明。似乎很想要芥川賞。留著茶色長髮，除了睡覺時間以外都穿著白衣。認為機器人很可愛，頑固的拒絕將名乃變得更像人類。不擅長說謊。喜歡喝4.5牛奶（特濃），愛吃甜食，曾因為吃太多零食而吃不下飯。喜歡古老的搞笑風格。認為鯊魚很酷，房間裡貼著鯊魚海報。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/be/11909_crt_jf0Zy.jpg",
+        "link": "https://bgm.tv/character/11909",
+        "categorie": "person"
+      },
+      {
+        "id": "11910",
+        "label": "阪本先生",
+        "info": "博士在路邊撿到的黑貓，換算為人類年齡為20歲（實際年齡為1歲至1歲半）。戴上博士作的「能說話的項圈（しゃべれる首輪）」後變的能夠說人話。名稱的由來是撿到他的時候，箱子上寫著阪本製藥的緣故，但本人不是很中意這個名字。自稱兩人雙親代理，用大阪腔說話，對上下關係十分嚴格，不過看到橡皮擦和小蟲子時貓的本性會開始騷動，因此常被兩人耍著玩。現在居住在東雲家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/23/11910_crt_5WNno.jpg",
+        "link": "https://bgm.tv/character/11910",
+        "categorie": "person"
+      },
+      {
+        "id": "13508",
+        "label": "立花美里",
+        "info": "2年P班，隶属剑道社，个性是所谓的傲娇。虽然参加了剑道社，但总是使用枪之类的武器狠狠的射穿笹原的头，攻击性很强。最近会随着傲娇程度增加而拿出更强的武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/09/13508_crt_TWmEI.jpg",
+        "link": "https://bgm.tv/character/13508",
+        "categorie": "person"
+      },
+      {
+        "id": "12916",
+        "label": "笹原幸治郎",
+        "info": "　　动漫《日常》人物之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/d6/12916_crt_gu1U7.jpg",
+        "link": "https://bgm.tv/character/12916",
+        "categorie": "person"
+      },
+      {
+        "id": "13501",
+        "label": "中之条刚",
+        "info": "1年Q班的男学生，留着庞克头。外表为典型的不良少年，但行为非常乖巧诚实。不相信非科学现象。庞克头的原因是两旁的头发长不出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/a5/13501_crt_Rs5I2.jpg",
+        "link": "https://bgm.tv/character/13501",
+        "categorie": "person"
+      },
+      {
+        "id": "63137",
+        "label": "中之条的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/56/63137_crt_HouOf.jpg",
+        "link": "https://bgm.tv/character/63137",
+        "categorie": "person"
+      },
+      {
+        "id": "13514",
+        "label": "长野原佳乃",
+        "info": "美绪的姐姐，大学生。本作登场人物就读的时定高中的剑道社前辈，曾出场全国大赛。是会把将棋棋子插在美绪的蛋糕上的有趣人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/6f/13514_crt_Fic6l.jpg",
+        "link": "https://bgm.tv/character/13514",
+        "categorie": "person"
+      },
+      {
+        "id": "13509",
+        "label": "大工健三郎",
+        "info": "2年级，围棋足球社社长。想把围棋和足球结合为新社团活动，但因为没有点子而都没有什么特别的活动。最近因为加入三个月的幽灵社员小木退社，社员剩下两个人而陷入废社危机，后来靠着金钱的力量于县大会出场而免于危机。家里似乎非常的有钱，放学时会搭直升机回家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/85/13509_crt_ld96Z.jpg",
+        "link": "https://bgm.tv/character/13509",
+        "categorie": "person"
+      },
+      {
+        "id": "13504",
+        "label": "关口茱莉亚",
+        "info": "围棋足球社女社员，留着金发西瓜头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/bf/13504_crt_9SFos.jpg",
+        "link": "https://bgm.tv/character/13504",
+        "categorie": "person"
+      },
+      {
+        "id": "13503",
+        "label": "樱井诚",
+        "info": "樱井泉的弟弟。国中时是围棋足球社的\"MVP\"，对围棋足球十分在行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/ce/13503_crt_ieijM.jpg",
+        "link": "https://bgm.tv/character/13503",
+        "categorie": "person"
+      },
+      {
+        "id": "13502",
+        "label": "上星",
+        "info": "みさとのクラスメート。本名不明。髪型は緑色のポニーテール。みさとの恋を応援している。不良系の男子に憧れており、剛が気になるようである。怒ると怖い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/b9/13502_crt_ryrDk.jpg",
+        "link": "https://bgm.tv/character/13502",
+        "categorie": "person"
+      },
+      {
+        "id": "13506",
+        "label": "小菲",
+        "info": "みさとのクラスメート。本名不明。髪型はオレンジ色のセミロング。ウェボシーと同じくみさとの恋を応援している。天然系のドジっ娘であり、ときおり「ふぇーっ」という声を出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/81/13506_crt_6x0x0.jpg",
+        "link": "https://bgm.tv/character/13506",
+        "categorie": "person"
+      },
+      {
+        "id": "13505",
+        "label": "安中",
+        "info": "1年Q班。头上有很像兔子耳朵的大缎带。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/1b/13505_crt_2LWsl.jpg",
+        "link": "https://bgm.tv/character/13505",
+        "categorie": "person"
+      },
+      {
+        "id": "13507",
+        "label": "田中",
+        "info": "1年Q班，留着爆炸头。给人的印象相当强烈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/a6/13507_crt_MVUlk.jpg",
+        "link": "https://bgm.tv/character/13507",
+        "categorie": "person"
+      },
+      {
+        "id": "13512",
+        "label": "樱井泉",
+        "info": "1年Q班的英文老师，担任辅导老师，24岁。樱井诚的姐姐。性格柔弱，常紧张到全身是汗。为了改变自己而接下辅导老师的工作。小考时会用无法理解的图来考英文单字。留着短发，外貌很像小孩，还没有男朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/7b/13512_crt_r9VE4.jpg",
+        "link": "https://bgm.tv/character/13512",
+        "categorie": "person"
+      },
+      {
+        "id": "13513",
+        "label": "高崎学",
+        "info": "国语老师，26岁。年龄等于没有女朋友的经历，对樱井老师有好感。以前当学生时，曾参加过围棋足球社。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/f1/13513_crt_38C80.jpg",
+        "link": "https://bgm.tv/character/13513",
+        "categorie": "person"
+      },
+      {
+        "id": "32244",
+        "label": "中村加奈",
+        "info": "物理及化學老師，中性打扮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/42/32244_crt_QdAOy.jpg?r=1592755163",
+        "link": "https://bgm.tv/character/32244",
+        "categorie": "person"
+      },
+      {
+        "id": "13510",
+        "label": "校长",
+        "info": "时定高中校长，62岁，外表是随处可见的校长，但学生和老师常因为他奇特的言行感到困惑。似乎日日夜夜和看不见的敌人战斗，曾经在校园内和鹿激斗，并使用后桥背摔打败对手。现在在校长室里挂著被打倒的鹿的头。头顶完全秃掉，剩下的毛发部分是假发。很想和教头和解。兴趣是买礼物给孙子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/5e/13510_crt_6waw2.jpg",
+        "link": "https://bgm.tv/character/13510",
+        "categorie": "person"
+      },
+      {
+        "id": "13511",
+        "label": "教头老师",
+        "info": "时定高中教头，59岁。学校的前任校长，不满意现在的校长，而曾在朝会时作出校长要退休的发言。持有放入纳豆的诅咒人偶。家里有养兔子。在自家被妻子稍微冷落，是个喜欢孙子的爷爷‧阪神虎的球迷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/29/13511_crt_112rM.jpg",
+        "link": "https://bgm.tv/character/13511",
+        "categorie": "person"
+      },
+      {
+        "id": "63139",
+        "label": "小木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/af/63139_crt_qDKpS.jpg",
+        "link": "https://bgm.tv/character/63139",
+        "categorie": "person"
+      },
+      {
+        "id": "63138",
+        "label": "祐子的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ed/63138_crt_9J2hR.jpg",
+        "link": "https://bgm.tv/character/63138",
+        "categorie": "person"
+      },
+      {
+        "id": "25547",
+        "label": "玉村",
+        "info": "Daiku Coffee的店员...",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/28/25547_crt_eNzEN.jpg",
+        "link": "https://bgm.tv/character/25547",
+        "categorie": "person"
+      },
+      {
+        "id": "22639",
+        "label": "立花美星",
+        "info": "みさとの妹で中学1年生。髪は桃色のツインテール。中学校ではタナボ、すみかと友人。ギャグに弱い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/7f/22639_crt_Y6DG6.jpg?r=1387971427",
+        "link": "https://bgm.tv/character/22639",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "63136",
+        "label": "言葉お姉さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/9c/63136_crt_uuBKK.jpg",
+        "link": "https://bgm.tv/character/63136",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

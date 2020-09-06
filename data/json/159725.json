@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26123",
+        "label": "罗小黑",
+        "info": "一只天真、勇敢而强大的小黑猫。实为猫妖，因盗取老君天明珠而被谛听打回原形。躲入纸箱中避雨误被小白捡回家，取名罗小黑。在罗家安心恢复中。尾巴是身长的两倍，可变成翅膀（到第九集为止，翅膀都只能短暂出现），也可分裂成名为嘿咻的有意识体，一般为四个，可以无限分裂，但总体积不变。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/88/26123_crt_2jc5g.jpg",
+        "link": "https://bgm.tv/character/26123",
+        "categorie": "person"
+      },
+      {
+        "id": "71747",
+        "label": "无限",
+        "info": "能力：御灵系-金；空间系-吞噬",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/06/71747_crt_Q8PmI.jpg",
+        "link": "https://bgm.tv/character/71747",
+        "categorie": "person"
+      },
+      {
+        "id": "71748",
+        "label": "风息",
+        "info": "能力：御灵系-木；生灵系-豪夺",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/9a/71748_crt_6sQKz.jpg",
+        "link": "https://bgm.tv/character/71748",
+        "categorie": "person"
+      },
+      {
+        "id": "26124",
+        "label": "比丢",
+        "info": "基色屎黄色。团鼠在吃下一种东西后，会变成那种东西的主色，所以会有各种颜色，这算是一种对自身的保护机制，五分钟左右就会恢复原样。只是由于这样特殊的皮毛而被捕杀，因此只剩下很少的一些。看似呆呆的比丢其实很狡猾敏捷，只有小黑能制服他。如果吃了金属和生物会暴走（身体巨大化，变成蓝色），暴走纹在眉心，碰一下就会变回原样，但会消耗生命。现今被放生于深山中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/24/26124_crt_v5jvu.jpg",
+        "link": "https://bgm.tv/character/26124",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

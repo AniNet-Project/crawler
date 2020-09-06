@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9191",
+        "label": "御子神隼人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/37/9191_crt_s8e2L.jpg",
+        "link": "https://bgm.tv/character/9191",
+        "categorie": "person"
+      },
+      {
+        "id": "9192",
+        "label": "神崎芳生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/ca/9192_crt_souj2.jpg",
+        "link": "https://bgm.tv/character/9192",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

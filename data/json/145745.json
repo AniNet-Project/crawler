@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9530",
+        "label": "塞尔提·史特路尔森",
+        "info": "デュラララ!!の主人公。「首なしライダー」と呼ばれる、池袋の生きた都市伝説。その正体はデュラハンと呼ばれる欧州（アイルランド）の妖精の一種で、性別は女性。服装から男性と誤解されるが、ファッションモデルのようなスタイルを持つ。一部を除く周りの人には化け物扱いされる。岸谷新羅には一女性として愛されている。最も常識外れなその存在に反して、極めて常識的な性格。また、お人よしで面倒見がいい一面もある。趣味はネットとテレビとDVD鑑賞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/19/9530_crt_kxKpN.jpg",
+        "link": "https://bgm.tv/character/9530",
+        "categorie": "person"
+      },
+      {
+        "id": "9532",
+        "label": "岸谷新罗",
+        "info": "池袋に居を構える闇医者（もぐりの医者）。セルティと同棲している。眼鏡を着用し、白衣姿でインドア派。住むマンションの真下の部屋には「相模原」という人物が住む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1f/9532_crt_V8QuZ.jpg",
+        "link": "https://bgm.tv/character/9532",
+        "categorie": "person"
+      },
+      {
+        "id": "10630",
+        "label": "折原临也",
+        "info": "新宿を拠点に活動する有力な情報屋。本編の多くの事件の黒幕的存在。眉目秀麗という言葉を具現化したような痩身の美青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/dd/10630_crt_7dhvq.jpg",
+        "link": "https://bgm.tv/character/10630",
+        "categorie": "person"
+      },
+      {
+        "id": "10631",
+        "label": "平和岛静雄",
+        "info": "常時バーテン服にサングラスがトレードマークの金髪の青年。「池袋最強の男」「絶対に喧嘩を売ってはいけない人間」「池袋の自動喧嘩人形」と呼ばれ数多の伝説を持ち、“池袋で絶対に敵に回してはいけない人間”として、彼を知るあらゆる人物・勢力から恐れられている。常時バーテン服なのは、過去にバーテンダーのバイトをしていた際に弟が「今度こそ辞めないように」と20着もバーテン服を送ってきたため。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/19/10631_crt_8s768.jpg",
+        "link": "https://bgm.tv/character/10631",
+        "categorie": "person"
+      },
+      {
+        "id": "10354",
+        "label": "矢雾波江",
+        "info": "帝人的同班同学－矢雾 诚二的姐姐。对自己的弟弟有着扭曲的爱意。冷酷的女强人，除了弟弟不管他人死活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7f/10354_crt_1Jz0C.jpg",
+        "link": "https://bgm.tv/character/10354",
+        "categorie": "person"
+      },
+      {
+        "id": "11066",
+        "label": "平和岛幽",
+        "info": "好物は自家製カレーライス、プリン、乳製品など。捨てるタイミングがわからないためにガムを嫌っている。猫派。噂だけで人を決めつける人が嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/9e/11066_crt_y4ydq.jpg",
+        "link": "https://bgm.tv/character/11066",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "37157",
+        "label": "特拉格特·盖伊森德尔福",
+        "info": "人类。格斗家。在市中经营道场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/10/37157_crt_FJk41.jpg?r=1449238637",
+        "link": "https://bgm.tv/character/37157",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

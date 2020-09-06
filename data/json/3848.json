@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8918",
+        "label": "杏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/46/8918_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8918",
+        "categorie": "person"
+      },
+      {
+        "id": "8919",
+        "label": "山本老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/d7/8919_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8919",
+        "categorie": "person"
+      },
+      {
+        "id": "8920",
+        "label": "柊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/00/8920_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8920",
+        "categorie": "person"
+      },
+      {
+        "id": "13141",
+        "label": "小梅",
+        "info": "さくら組の幼稚園児。初対面の人や好きな人の前で話すことが苦手だけど、",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/c4/13141_crt_x88wP.jpg",
+        "link": "https://bgm.tv/character/13141",
+        "categorie": "person"
+      },
+      {
+        "id": "33171",
+        "label": "土田直纯",
+        "info": "本作品のもう一人の主人公。はなまる幼稚園さくら組の担当の先生。愛称は「つっちー」。9月13日生まれのAB型。身長172センチメートル。 杏からの激しいアプローチを受け流しつつ、同僚である菜々子に想いを寄せている。基本的にだらしない性格であり、20時間ゲームをしたことがあるようなゲーマーで仕事中にゲームをしている姿をたびたび晒し、受け持ちの園児にそのことを突っ込まれる、男子園児からは完全にナメられ「土田」と呼び捨てられている他、妹のさつきからもだらしなさをなじられるなど、散々な扱いを受けている。幼稚園の先生になったのも「休みが多い上に同僚に若い女性が多いから」という不純な動機である。が、その実、園児たちからの信頼は厚く、困っている子供たちをさりげなくフォローしたり、自身の菜々子への恋よりも園児を優先するなど、責任感の強いところもある。昔から手先が不器用。草野曰く「巨乳好き」。 杏の母親である桜の後輩であり、幼馴染。幼い頃から家族ぐるみの交流があり、杏が生まれた現在も、杏をお泊りさせたり一緒に里帰りしたりするなど、交流が続いている。桜と夫の恋を後押しした張本人だが、かつて桜に想いを寄せていたような描写もされており、桜に対する感情は現在不明瞭。菜々子の父親曰く、「気持ちのいい青年」で、直純の様な人だったら娘達を任せられるらしい。 作者の次作である「いろは坂、上がってすぐ。」にも登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/17/33171_crt_h7DhD.jpg",
+        "link": "https://bgm.tv/character/33171",
+        "categorie": "person"
+      },
+      {
+        "id": "9894",
+        "label": "土田五月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/47/9894_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9894",
+        "categorie": "person"
+      },
+      {
+        "id": "9895",
+        "label": "川代先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/96/9895_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9895",
+        "categorie": "person"
+      },
+      {
+        "id": "9896",
+        "label": "山本真弓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/19/9896_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9896",
+        "categorie": "person"
+      },
+      {
+        "id": "9897",
+        "label": "組長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/f2/9897_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9897",
+        "categorie": "person"
+      },
+      {
+        "id": "9898",
+        "label": "优",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/9d/9898_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9898",
+        "categorie": "person"
+      },
+      {
+        "id": "58799",
+        "label": "雏菊",
+        "info": "ひまわり組の幼稚園児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/d9/58799_crt_u995J.jpg?r=1509154788",
+        "link": "https://bgm.tv/character/58799",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

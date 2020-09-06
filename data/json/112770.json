@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3008",
+        "label": "公安9課",
+        "info": "概要",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c8/3008_crt_ftTsK.jpg",
+        "link": "https://bgm.tv/character/3008",
+        "categorie": "person"
+      },
+      {
+        "id": "73130",
+        "label": "藤本修",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/73130",
+        "categorie": "person"
+      },
+      {
+        "id": "20336",
+        "label": "逻辑克马",
+        "info": "２０２２年に製造され、コンテナ内部に武器や弾薬などを収容する熱光学迷彩装備の歩兵兵站用輸送支援車両である。ロジスティクス・コンベイヤー・マシンの略称でもある。型番はＬＣＭ２２。指揮官を識別し自律支援する程度の発展型の人工知能は持ち合わせている。公安９課に試験配属されており、搭乗スペースは未搭載。装備拡張が許可され腕部パーツの取付が行われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/8d/20336_crt_W9WRJ.jpg?r=1372170925",
+        "link": "https://bgm.tv/character/20336",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

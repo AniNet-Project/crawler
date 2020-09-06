@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41850",
+        "label": "西片",
+        "info": "本作品の主人公。本作品はおもに西片くんの視点から語られる。男子中学生で、1年2組に所属している。高木さんとはクラスメートで、席は隣同士である。頻繁に高木さんにからかわれていて、それを悔しく思っている。よく、仕返しとして高木さんのことをからかおうと試みるが、それが高木さんに通じたことはなく、逆にさらにからかわれることも多い。勉強に全く取り組まないわけではないが、成績はそれほど良くない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/73/41850_crt_i9SqS.jpg",
+        "link": "https://bgm.tv/character/41850",
+        "categorie": "person"
+      },
+      {
+        "id": "41849",
+        "label": "高木",
+        "info": "西片くんのクラスメイトの女子中学生で、西片くんの隣の席に座っている。思わせぶりな言動をすることもしばしばある。成績は良く、先生に褒められたりもする。頻繁に西片くんのことをからかっては、西片くんの反応を見て楽しんでいる。背中まで伸びたロングヘアで、髪を纏めていることはあまりない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/7c/41849_crt_VCqnG.jpg?r=1515832193",
+        "link": "https://bgm.tv/character/41849",
+        "categorie": "person"
+      },
+      {
+        "id": "59709",
+        "label": "日日野美奈",
+        "info": "いつもニコニコ元気いっぱい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/09/59709_crt_US1eW.jpg?r=1513514442",
+        "link": "https://bgm.tv/character/59709",
+        "categorie": "person"
+      },
+      {
+        "id": "59710",
+        "label": "天川友加里",
+        "info": "マジメがとりえの委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/e0/59710_crt_8lz62.jpg?r=1513514453",
+        "link": "https://bgm.tv/character/59710",
+        "categorie": "person"
+      },
+      {
+        "id": "59711",
+        "label": "月本早苗",
+        "info": "クールなツッコミ役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/f3/59711_crt_zRw8r.jpg?r=1513514471",
+        "link": "https://bgm.tv/character/59711",
+        "categorie": "person"
+      },
+      {
+        "id": "59260",
+        "label": "中井高贵",
+        "info": "西片くんのクラスメイトの男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/81/59260_crt_X0rQT.jpg?r=1511344288",
+        "link": "https://bgm.tv/character/59260",
+        "categorie": "person"
+      },
+      {
+        "id": "59712",
+        "label": "真野",
+        "info": "高木さんと仲が良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/d3/59712_crt_m1vLv.jpg?r=1513514572",
+        "link": "https://bgm.tv/character/59712",
+        "categorie": "person"
+      },
+      {
+        "id": "59713",
+        "label": "高尾",
+        "info": "西片の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/4b/59713_crt_Q5w6Z.jpg?r=1513514672",
+        "link": "https://bgm.tv/character/59713",
+        "categorie": "person"
+      },
+      {
+        "id": "59714",
+        "label": "木村真脏",
+        "info": "西片の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/0d/59714_crt_8F8eF.jpg?r=1513514803",
+        "link": "https://bgm.tv/character/59714",
+        "categorie": "person"
+      },
+      {
+        "id": "72083",
+        "label": "鹰川堇",
+        "info": "高木的好友，和高木一样喜欢散步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/2b/72083_crt_BbCB9.jpg",
+        "link": "https://bgm.tv/character/72083",
+        "categorie": "person"
+      },
+      {
+        "id": "59715",
+        "label": "田边老师",
+        "info": "西片たちが通う中学校の教員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ad/59715_crt_6bntH.jpg?r=1513514897",
+        "link": "https://bgm.tv/character/59715",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

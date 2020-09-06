@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22082",
+        "label": "杂贺辰巳",
+        "info": "略歴：         ",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/f2/22082_crt_wbrvO.jpg",
+        "link": "https://bgm.tv/character/22082",
+        "categorie": "person"
+      },
+      {
+        "id": "22083",
+        "label": "天王洲神楽",
+        "info": "略歴：         ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/35/22083_crt_2G7gn.jpg",
+        "link": "https://bgm.tv/character/22083",
+        "categorie": "person"
+      },
+      {
+        "id": "22085",
+        "label": "水天宮寵児",
+        "info": "略歴：         ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/f7/22085_crt_aJppr.jpg",
+        "link": "https://bgm.tv/character/22085",
+        "categorie": "person"
+      },
+      {
+        "id": "22086",
+        "label": "銀座ひばり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/0d/22086_crt_L5Peq.jpg",
+        "link": "https://bgm.tv/character/22086",
+        "categorie": "person"
+      },
+      {
+        "id": "22324",
+        "label": "白金克也",
+        "info": "【フェティッシュ：ゴム】",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/2c/22324_crt_eDdO0.jpg?r=1386184726",
+        "link": "https://bgm.tv/character/22324",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

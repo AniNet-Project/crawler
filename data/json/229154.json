@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46914",
+        "label": "莱因哈特",
+        "info": "“正义必将得到伸张。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/d6/46914_crt_qzomo.jpg?r=1488021461",
+        "link": "https://bgm.tv/character/46914",
+        "categorie": "person"
+      },
+      {
+        "id": "62710",
+        "label": "布丽吉塔",
+        "info": "布丽吉塔·林德霍姆不再置身事外，她拿起武器捍卫那些需要保护的人民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/2b/62710_crt_Aoda8.jpg",
+        "link": "https://bgm.tv/character/62710",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

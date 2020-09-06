@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16792",
+        "label": "泷川吉野",
+        "info": "本作主人公。很普通的高中生，真廣的朋友。在所住的城市因為「黑鐵病」被毀之後，被捲入真廣與葉風復仇的戰爭。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/74/16792_crt_jRURz.jpg",
+        "link": "https://bgm.tv/character/16792",
+        "categorie": "person"
+      },
+      {
+        "id": "16793",
+        "label": "不破真广",
+        "info": "本作第二主人公，不破爱花的哥哥。誓言要为妹妹爱花的死复仇、并找出凶手，并誓言就算会导致世界灭亡也要贯彻复仇之路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/e8/16793_crt_1kA1g.jpg",
+        "link": "https://bgm.tv/character/16793",
+        "categorie": "person"
+      },
+      {
+        "id": "16794",
+        "label": "锁部叶风",
+        "info": "魔法師公主。鎖部一族有史以來最強的魔法師。但兩年前被左門設計陷害，被流放到無人島上。由於被釋放到無人島上無法使用魔法（鎖部一族使用的魔法需要有「文明物」的「供品」才能施展），因此製作了魔法的無線通訊器流放到海上，等人來撿到它。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/49/16794_crt_zcBlU.jpg",
+        "link": "https://bgm.tv/character/16794",
+        "categorie": "person"
+      },
+      {
+        "id": "16795",
+        "label": "不破爱花",
+        "info": "不破真广的妹妹，国中生。一年前11月23日在家中遭杀害死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/d2/16795_crt_xvfam.jpg",
+        "link": "https://bgm.tv/character/16795",
+        "categorie": "person"
+      },
+      {
+        "id": "18467",
+        "label": "锁部左门",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/db/18467_crt_q61u8.jpg",
+        "link": "https://bgm.tv/character/18467",
+        "categorie": "person"
+      },
+      {
+        "id": "18468",
+        "label": "伊凡洁丽·山本",
+        "info": "自称28岁的无业游民。实际上是追踪真广的特务。在吉野被卷入事件之后，与吉野私下持续进行情报交换。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ec/18468_crt_DNQAj.jpg",
+        "link": "https://bgm.tv/character/18468",
+        "categorie": "person"
+      },
+      {
+        "id": "18469",
+        "label": "星村润一郎",
+        "info": "锁部前代当家收养的少年，个性轻浮，喜欢巨乳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/7e/18469_crt_3VqQM.jpg",
+        "link": "https://bgm.tv/character/18469",
+        "categorie": "person"
+      },
+      {
+        "id": "18470",
+        "label": "锁部夏村",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/f2/18470_crt_fy5v5.jpg",
+        "link": "https://bgm.tv/character/18470",
+        "categorie": "person"
+      },
+      {
+        "id": "53211",
+        "label": "锁部哲马",
+        "info": "锁部一族的魔法师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/53/53211_crt_D5dd3.jpg",
+        "link": "https://bgm.tv/character/53211",
+        "categorie": "person"
+      },
+      {
+        "id": "53212",
+        "label": "早河巧",
+        "info": "原黑铁病案列的本部长辅佐，山本小姐的友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/18/53212_crt_53M1J.jpg",
+        "link": "https://bgm.tv/character/53212",
+        "categorie": "person"
+      },
+      {
+        "id": "53213",
+        "label": "羽村惠",
+        "info": "绝园的备用魔法使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/66/53213_crt_Zt0oO.jpg",
+        "link": "https://bgm.tv/character/53213",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

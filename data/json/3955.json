@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "273",
+        "label": "阿尔托莉雅·潘德拉贡",
+        "info": "身長150cm程と一見して小柄だが、最も優れたサーヴァントと言われる「セイバー」の名にふさわしい能力を備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/58/273_crt_IMrqS.jpg?r=1559445536",
+        "link": "https://bgm.tv/character/273",
+        "categorie": "person"
+      },
+      {
+        "id": "10596",
+        "label": "远坂凛",
+        "info": "穂群原学園2年A組に通う女生徒で、魔術師。魔術の名門、遠坂家の後継者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f0/10596_crt_Y5u47.jpg?r=1559445518",
+        "link": "https://bgm.tv/character/10596",
+        "categorie": "person"
+      },
+      {
+        "id": "3215",
+        "label": "间桐樱",
+        "info": "過去のちょっとしたきっかけから、主人公や藤村先生とは家族同然の付き合いを続けている一学年下の後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a0/3215_crt_76333.jpg?r=1526789646",
+        "link": "https://bgm.tv/character/3215",
+        "categorie": "person"
+      },
+      {
+        "id": "3218",
+        "label": "伊莉雅斯菲尔·冯·爱因兹贝伦",
+        "info": "サーヴァント・バーサーカーのマスターとして聖杯戦争に参加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c1/3218_crt_FqI3U.jpg?r=1566383322",
+        "link": "https://bgm.tv/character/3218",
+        "categorie": "person"
+      },
+      {
+        "id": "3219",
+        "label": "间桐慎二",
+        "info": "间桐家长男，前任家督间桐鹤野的亲生子。个性相当差劲，欺软怕硬，好色、冷血，在男生之中如同公敌般受到敌视，但因外貌和家中有钱等原因受到一些女孩子欢迎。曾经追求过凛，却被其无视。卫宫士郎中学以来的同学，与士郎曾经关系不错，不过在上了高中之后便开始疏远，后来因为性格等原因而在第五次圣杯战争之中成为对手。弓道部副主将，在弓道上有一定实力。很受女同学欢迎，但在学校的男性朋友就只有士郎。对待自己名义上的妹妹间桐樱十分粗暴，曾因殴打樱让其留下伤痕而被士郎揍过。（之后樱也仍然原谅并对士郎说要好好对待哥哥，原因是「因为哥哥只有你一个朋友」）",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/28/3219_crt_Eq5a9.jpg?r=1498990499",
+        "link": "https://bgm.tv/character/3219",
+        "categorie": "person"
+      },
+      {
+        "id": "3220",
+        "label": "言峰绮礼",
+        "info": "此次的圣杯战争担任监督的神父，也是教会的“代行者（Executer）”，有着言行复杂常人不能理解的地方。曾参加过上次（第四次）的圣杯战争。远坂凛的监护人及师兄，爱吃麻婆豆腐，虽是代行者，本作中并未使用过圣典（于HF线中绮礼曾提到若想与从者对战取得胜利，必须配备代行者专用武器-圣典，关于圣典使用者，可参照月姬中埋葬机关的代行者－希耶尔（Ciel（シエル））。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/3220_crt_0bm1O.jpg?r=1514751314",
+        "link": "https://bgm.tv/character/3220",
+        "categorie": "person"
+      },
+      {
+        "id": "12260",
+        "label": "赫拉克勒斯",
+        "info": "狂战士的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/52/12260_crt_8H3cr.jpg",
+        "link": "https://bgm.tv/character/12260",
+        "categorie": "person"
+      },
+      {
+        "id": "12261",
+        "label": "库·丘林",
+        "info": "枪骑兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/08/12261_crt_2HhHw.jpg?r=1485260373",
+        "link": "https://bgm.tv/character/12261",
+        "categorie": "person"
+      },
+      {
+        "id": "12262",
+        "label": "美杜莎",
+        "info": "骑兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a1/12262_crt_Ub110.jpg",
+        "link": "https://bgm.tv/character/12262",
+        "categorie": "person"
+      },
+      {
+        "id": "12263",
+        "label": "佐佐木小次郎",
+        "info": "暗杀者的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e3/12263_crt_U525u.jpg",
+        "link": "https://bgm.tv/character/12263",
+        "categorie": "person"
+      },
+      {
+        "id": "15075",
+        "label": "藤村大河",
+        "info": "月世界最强的三人之一，具有制造圣杯并发动圣杯战争的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/7d/15075_crt_tCJww.jpg?r=1410079521",
+        "link": "https://bgm.tv/character/15075",
+        "categorie": "person"
+      },
+      {
+        "id": "16214",
+        "label": "葛木宗一郎",
+        "info": "远坂凛班上的班主任，世界史和伦理课的老师，实际上是……",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ea/16214_crt_yJZYH.jpg?r=1514751047",
+        "link": "https://bgm.tv/character/16214",
+        "categorie": "person"
+      },
+      {
+        "id": "3238",
+        "label": "魔术协会",
+        "info": "国籍・ジャンルを問わず魔術師たちによって作られた自衛・管理団体。魔術を管理し、隠匿し、その発展を使命とする。（無論、名目上ではある）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/4d/3238_crt_Jm1eS.jpg?r=1421298239",
+        "link": "https://bgm.tv/character/3238",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

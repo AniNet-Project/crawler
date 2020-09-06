@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13472",
+        "label": "筝",
+        "info": "１４歳くらいの外見に似合わず、淡々と毒を吐くようなリボン少女。天地をゆるがすような力や秘密を持っていたりするのかもしれないが、人生なんてそんなものとはまったく関係なく日常に忙殺されて進んでいくものなのかもしれない。意外とぬいぐるみとか好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/20/13472_crt_H87zD.jpg",
+        "link": "https://bgm.tv/character/13472",
+        "categorie": "person"
+      },
+      {
+        "id": "13474",
+        "label": "明惠",
+        "info": "初対面から笑顔の優しい人物は笑顔の怖い人物より信用してはいけない。相手がどんなに美男美女であろうと例外はない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/f2/13474_crt_xCLml.jpg",
+        "link": "https://bgm.tv/character/13474",
+        "categorie": "person"
+      },
+      {
+        "id": "13473",
+        "label": "古都",
+        "info": "あの人は表裏あるよねなんてのはよく聞く話だが、果たして人は二面ぐらいで割り切れるものなのだろうか。圧倒的な攻撃能力はもはや常人のそれではないが、人間と妖怪の狭間の存在ということこそがその無限とも言える\"力\"の答えとする理解の仕方もある。瞳の色だけがその過去を映し出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/f6/13473_crt_5jmtJ.jpg",
+        "link": "https://bgm.tv/character/13473",
+        "categorie": "person"
+      },
+      {
+        "id": "13475",
+        "label": "翔子",
+        "info": "プラモデルを作るのは仕事の為の参考なので息抜きではありません。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/f3/13475_crt_RLzwZ.jpg",
+        "link": "https://bgm.tv/character/13475",
+        "categorie": "person"
+      },
+      {
+        "id": "14512",
+        "label": "八濑",
+        "info": "〈三人議会〉の一人。「禁足地」に建つ大きなお屋敷の主で、無数の妖怪変化を従えるお姫様。お転婆なコトがお気に入り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/69/14512_crt_90Kt7.jpg",
+        "link": "https://bgm.tv/character/14512",
+        "categorie": "person"
+      },
+      {
+        "id": "16935",
+        "label": "阿",
+        "info": "琴子的两个式神兄弟——阿吽之中活跃的一方，拥有正太与红色式神两个形态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/ae/16935_crt_b9l6H.jpg",
+        "link": "https://bgm.tv/character/16935",
+        "categorie": "person"
+      },
+      {
+        "id": "16936",
+        "label": "吽",
+        "info": "琴子的两个式神兄弟——阿吽之中少言的一方，拥有正太与青色式神两个形态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/81/16936_crt_uOPlH.jpg",
+        "link": "https://bgm.tv/character/16936",
+        "categorie": "person"
+      },
+      {
+        "id": "21706",
+        "label": "稻荷",
+        "info": "帯刀する狐面の人物。コトが先生と呼ぶ人物。阿吽兄弟に似た白と黒の式神を連れており、かれらには「いなり」と呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/39/21706_crt_9fCn9.jpg?r=1391883375",
+        "link": "https://bgm.tv/character/21706",
+        "categorie": "person"
+      },
+      {
+        "id": "21707",
+        "label": "鞍马",
+        "info": "〈三人議会〉の1人。浮遊する金の盃に座りっぱなしの寺の指導者で、穏やかな口調を崩さない。ショーコらに断りなく事を起こすこともしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/ee/21707_crt_LLWNL.jpg",
+        "link": "https://bgm.tv/character/21707",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

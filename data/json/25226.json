@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19132",
+        "label": "噼库噼库",
+        "info": "素直で優しい妖精ピクちゃん。一生懸命みんなをまとめようとするけど、いつもシルちゃんとコロちゃんに振り回されちゃう！ たまにはちょっと天然な一面も見せてくれるよ！",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/28/19132_crt_sezHG.jpg?r=1392773210",
+        "link": "https://bgm.tv/character/19132",
+        "categorie": "person"
+      },
+      {
+        "id": "19133",
+        "label": "西露西露",
+        "info": "とっても元気でいつも前向きな妖精シルちゃん。何となくのノリだけでぐいぐい話を進めていく3人のムードメーカー。口癖のはずの「ぐだぽゆ～」はなぜか言うたびにイントネーションが違うよ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/9c/19133_crt_Ix0L0.jpg",
+        "link": "https://bgm.tv/character/19133",
+        "categorie": "person"
+      },
+      {
+        "id": "19134",
+        "label": "可萝可萝",
+        "info": "ちょっと不思議な雰囲気の妖精コロちゃん。おとなしいけど、なんだか常に壮大な妄想を膨らませちゃうよ！ 興奮すると顔つきが変わっちゃうことも！",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/d5/19134_crt_oLxf6.jpg",
+        "link": "https://bgm.tv/character/19134",
+        "categorie": "person"
+      },
+      {
+        "id": "19135",
+        "label": "持田房子",
+        "info": "♪私の名前は持田房子",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/11/19135_crt_V2Pnn.jpg?r=1381384707",
+        "link": "https://bgm.tv/character/19135",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

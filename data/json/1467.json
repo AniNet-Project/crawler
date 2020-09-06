@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13367",
+        "label": "胡子小鸡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/46/13367_crt_5sbB7.jpg",
+        "link": "https://bgm.tv/character/13367",
+        "categorie": "person"
+      },
+      {
+        "id": "5974",
+        "label": "ママ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/1c/5974_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5974",
+        "categorie": "person"
+      },
+      {
+        "id": "8449",
+        "label": "羽田ひろし",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/ee/8449_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8449",
+        "categorie": "person"
+      },
+      {
+        "id": "8938",
+        "label": "加藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/0f/8938_crt_FzOXl.jpg",
+        "link": "https://bgm.tv/character/8938",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

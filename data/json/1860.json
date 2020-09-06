@@ -1,0 +1,301 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1956",
+        "label": "基拉·大和",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/58/1956_crt_vOx0M.jpg",
+        "link": "https://bgm.tv/character/1956",
+        "categorie": "person"
+      },
+      {
+        "id": "2214",
+        "label": "阿斯兰·萨拉",
+        "info": "第二代调整人，曾经与基拉一起在月球哥白尼儿童学校就读的挚友，有着清醒的头脑和冷静的理性性格，对女性略微迟钝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/ea/2214_crt_LK0Vm.jpg",
+        "link": "https://bgm.tv/character/2214",
+        "categorie": "person"
+      },
+      {
+        "id": "2216",
+        "label": "拉克丝·克莱因",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/38/2216_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2216",
+        "categorie": "person"
+      },
+      {
+        "id": "2218",
+        "label": "卡嘉丽·尤拉·阿斯哈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/0a/2218_crt_Fe3b6.jpg?r=1427918795",
+        "link": "https://bgm.tv/character/2218",
+        "categorie": "person"
+      },
+      {
+        "id": "15124",
+        "label": "芙蕾·阿尔斯塔",
+        "info": "大西洋連邦事務次官ジョージ・アルスターの愛娘で、典型的なお嬢様タイプ。母親は幼い頃に死去している。ヘリオポリスではキラ・ヤマト達の通うカレッジの1期後輩。ミリアリアと同じサークルに所属している。キラがほのかに好意を寄せる、憧れの女性であった。父の理想とする女の子になることを目標としているため、オシャレにも人一倍気を遣っている。カレッジのアイドル的存在。ブルーコスモスの一員である父の影響で、コーディネイターに強い偏見を持っている。サイとは親同士が決めた婚約者で、両想いであった。天然ボケでキラなどをからかう事もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/18/15124_crt_BBP31.jpg",
+        "link": "https://bgm.tv/character/15124",
+        "categorie": "person"
+      },
+      {
+        "id": "2950",
+        "label": "玛琉·拉米亚斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ca/2950_crt_ctSpR.jpg",
+        "link": "https://bgm.tv/character/2950",
+        "categorie": "person"
+      },
+      {
+        "id": "3048",
+        "label": "穆鲁塔·亚兹拉尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/a7/3048_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3048",
+        "categorie": "person"
+      },
+      {
+        "id": "3079",
+        "label": "西格尔·克莱因",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/4e/3079_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3079",
+        "categorie": "person"
+      },
+      {
+        "id": "3083",
+        "label": "帕特里克·萨拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/15/3083_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3083",
+        "categorie": "person"
+      },
+      {
+        "id": "15125",
+        "label": "劳乌·鲁·克鲁泽",
+        "info": "[人类的梦想，人类的愿望，人类的欲念；比他人强大，占他人之先，在他人之上；竞争、嫉妒、憎恨，诅咒对方的存在]",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/3b/15125_crt_CC5xu.jpg?r=1430969901",
+        "link": "https://bgm.tv/character/15125",
+        "categorie": "person"
+      },
+      {
+        "id": "31494",
+        "label": "伊扎克·玖尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/68/31494_crt_ZAofK.jpg",
+        "link": "https://bgm.tv/character/31494",
+        "categorie": "person"
+      },
+      {
+        "id": "31495",
+        "label": "迪亚卡·艾尔斯曼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/97/31495_crt_3AZdl.jpg",
+        "link": "https://bgm.tv/character/31495",
+        "categorie": "person"
+      },
+      {
+        "id": "31496",
+        "label": "尼高尔·阿玛菲",
+        "info": "ZAFT军克鲁泽队所属，参加了高达强夺作战并成为迅雷高达的机师。作为克鲁泽队最年少的成员，尼科尔对阿斯兰有着对兄长一样的敬慕。曾利用迅雷高达的“海市蜃楼”系统轻松侵入了号称难攻不落的阿尔特弥斯要塞，之后为了保护阿斯兰而被基拉的剑装强袭砍中驾驶舱身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/9a/31496_crt_14vEe.jpg",
+        "link": "https://bgm.tv/character/31496",
+        "categorie": "person"
+      },
+      {
+        "id": "31497",
+        "label": "穆·拉·弗拉达",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e0/31497_crt_WUl24.jpg?r=1428019664",
+        "link": "https://bgm.tv/character/31497",
+        "categorie": "person"
+      },
+      {
+        "id": "31499",
+        "label": "米丽雅莉亚·哈乌",
+        "info": "爱称米丽雅，资源卫星赫利奥波利斯工业专科学校的学生，基拉的同学，在赫利奥波利斯遇袭后与基拉等人一起被玛琉“胁持”登上大天使号，成为战时MS管制员，后正式加入地球联合军，军阶为二等兵。前男友是多尔·克尼希（战死，死于阿斯兰的飞盾牌）。由于各种原因米利雅莉亚与迪亚哥，二人关系逐渐好转，后成为恋人。在雅金·杜威攻防战后，迪亚哥·艾尔斯曼与米利雅莉亚分手（据米利雅莉亚的说法，是迪亚哥被甩了）在第二次雅金·杜埃攻防战后成为了摄影记者，带着摄像机在世界各地旅行。后来再次回到大天使号上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/f2/31499_crt_1U9eU.jpg",
+        "link": "https://bgm.tv/character/31499",
+        "categorie": "person"
+      },
+      {
+        "id": "31500",
+        "label": "娜塔尔·巴基露露",
+        "info": "机动战士高达SEED登场人物，临危授命下接下大天使号[3] 舰上的副舰长的职务，主要任务是负责战斗指挥（因为上司是非战斗科班出身，加上按军阶递补规则的关系）。军人世家出身的缘故，在大天使号上总以军队规则为最优先考虑。娜塔尔给人印象多为强硬和冷酷，但在其背后却有着不为人知的温柔和脆弱，是典型的外冷内热。此外，不擅长感情的表达而表现出的笨拙，忠厚老实和正直诚恳的性格与严肃冷酷、精明强干的外表造成的反差也是其萌要素。面对人情味浓厚的玛琉[5] 舰长，娜塔尔曾多次在重要场合下与其发生冲突。娜塔尔在战斗中做出冷静正确的判断，也使得大天使号多次脱离险境，这也使得她在战舰指挥上显示出毋庸置疑的能力。在大多是平民跟非战斗专长的军士官的大天使号上较算是真正的军人，是严格遵守军纪的典型军人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/8f/31500_crt_1CbYX.jpg",
+        "link": "https://bgm.tv/character/31500",
+        "categorie": "person"
+      },
+      {
+        "id": "31501",
+        "label": "塞依·阿格伊尔",
+        "info": "资源卫星海里奥波利斯工业专科学校的学生，基拉的同学，在海里奥波利斯遇袭后与基拉等人一起被玛琉“胁持”登上大天使号，负责电子战。与芙蕾有口头婚约。芙蕾之父战死后，基拉欲送回拉克丝遭塞依与米丽雅莉亚发现，但两人理解后帮助基拉行动。之后芙蕾心机转变欲强迫基拉战斗到死而假意喜欢基拉，塞依受打击而心生愤懑。于重要人员外出采购时偷偷启动强袭高达，但身为自然人且未经训练导致启动后没走两步就跪在地上，为自己的无能为力而放声痛哭（其实也不是无能，而是身为最强调整者的基拉太强大，并且当时并没有自然人能驾驶机动战士）。后与基拉有隙，但并不恨基拉。听到基拉MIA消息后也是万分难过。期间一直照看基拉的机械鸟多利，并阻止丧失理智的米丽雅莉亚刺杀迪亚卡·艾尔斯曼。阿拉斯加守卫战大天使号脱离后基拉归队，心情激动的他与基拉表达了再会的兴奋与之前的不满，两人诚心交流后重归于好。回奥布后劝说意志不坚定的卡兹离队，之后一直担任大天使号CIC工作人员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/f0/31501_crt_J5JFh.jpg",
+        "link": "https://bgm.tv/character/31501",
+        "categorie": "person"
+      },
+      {
+        "id": "31504",
+        "label": "安德鲁·巴尔特菲尔德",
+        "info": "人称“沙漠之虎”，爱称安迪，喜好咖啡，为人豁达，曾经告诉基拉“战场上不会没有牺牲”的道理。与恋人爱莎·特莱茵共同驾驶MS,后与基拉一战中被击败，导致身体致残。永恒号舰长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/57/31504_crt_g099g.jpg",
+        "link": "https://bgm.tv/character/31504",
+        "categorie": "person"
+      },
+      {
+        "id": "72643",
+        "label": "诗和・哈尼夫斯",
+        "info": "ザフトのジュール隊に所属するパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/0d/72643_crt_L79NE.jpg",
+        "link": "https://bgm.tv/character/72643",
+        "categorie": "person"
+      },
+      {
+        "id": "31502",
+        "label": "托尔·凯尼希",
+        "info": "资源卫星赫利奥波利斯工业专科学校的学生，基拉的同学，在海里奥波利斯遇袭后与基拉等人一起被玛琉“胁持”登上大天使号，成为副操舵员，后正式加入地球联合军，军阶为二等兵。女朋友是米丽雅莉亚。其后在驾驶空中霸王与阿斯兰的战斗中战死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/50/31502_crt_NNDNH.jpg",
+        "link": "https://bgm.tv/character/31502",
+        "categorie": "person"
+      },
+      {
+        "id": "31503",
+        "label": "卡兹·巴斯卡克",
+        "info": "资源卫星海利奥波利斯工业专科学校的学生，基拉的同学。在海利奥波利斯遇袭后与基拉等人一起被玛琉“胁持”登上大天使号，成为通信员。拉克丝获救后与基拉谈话的内容被其偷听后，其余人得知与基拉战斗的神盾高达的机师是基拉小时候的挚友。后正式加入地球联合军，军阶为二等兵。生性胆小，意志不够坚定。阿拉斯加防卫战中一台吉恩即将命中大天使号舰桥之际吓得转身离开职位就跑，但这是人面对危险的正常反应，并不让人觉得厌恶。回奥布之后犹豫许久想退役，塞依·阿格伊尔也对其进行劝说最后决定下船。对新人类抱有不信任感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/b4/31503_crt_XZoUi.jpg",
+        "link": "https://bgm.tv/character/31503",
+        "categorie": "person"
+      },
+      {
+        "id": "3080",
+        "label": "アイリーン・カナーバ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/98/3080_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3080",
+        "categorie": "person"
+      },
+      {
+        "id": "3088",
+        "label": "Sahib Ashman",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/5b/3088_crt_ecDEQ.jpg",
+        "link": "https://bgm.tv/character/3088",
+        "categorie": "person"
+      },
+      {
+        "id": "3089",
+        "label": "Ahmed El Fasi",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/7a/3089_crt_OEOzD.jpg",
+        "link": "https://bgm.tv/character/3089",
+        "categorie": "person"
+      },
+      {
+        "id": "7687",
+        "label": "哈罗",
+        "info": "拥有穿越时空之能力的球型机器人，操纵敢达世界的幕后黑手，出现在各个时空的战场中，目的不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/db/7687_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7687",
+        "categorie": "person"
+      },
+      {
+        "id": "26619",
+        "label": "爱莎·特莱茵",
+        "info": "NewType，安德鲁·巴尔特菲尔德的恋人，昵称安德鲁为“安迪”，与安德鲁共同驾驶MS，但并不隶属于ZAFT军。后与安德鲁共同驾驶TMF/A-803 LaGOWE与Strike高达激烈的战斗后，最终被发动了SEED的基拉击败。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/00/26619_crt_S32F8.jpg?r=1414085723",
+        "link": "https://bgm.tv/character/26619",
+        "categorie": "person"
+      },
+      {
+        "id": "2943",
+        "label": "オーブ連合首長国",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/82/2943_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2943",
+        "categorie": "person"
+      },
+      {
+        "id": "2973",
+        "label": "地球連合",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/77/2973_crt_U9V0U.jpg",
+        "link": "https://bgm.tv/character/2973",
+        "categorie": "person"
+      },
+      {
+        "id": "2983",
+        "label": "プラント最高評議会",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/b0/2983_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2983",
+        "categorie": "person"
+      },
+      {
+        "id": "2994",
+        "label": "プラント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/cf/2994_crt_LAmjj.jpg",
+        "link": "https://bgm.tv/character/2994",
+        "categorie": "person"
+      },
+      {
+        "id": "2997",
+        "label": "Morgenroete Incorporated",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/2997",
+        "categorie": "person"
+      },
+      {
+        "id": "2998",
+        "label": "ブルーコスモス",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/2998",
+        "categorie": "person"
+      },
+      {
+        "id": "3012",
+        "label": "ユーラシア連邦",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3012",
+        "categorie": "person"
+      },
+      {
+        "id": "3016",
+        "label": "南アフリカ統一機構",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3016",
+        "categorie": "person"
+      },
+      {
+        "id": "3019",
+        "label": "アフリカ共同体",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3019",
+        "categorie": "person"
+      },
+      {
+        "id": "3087",
+        "label": "Desert Dawn",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3087",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

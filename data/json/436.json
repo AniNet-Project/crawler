@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7259",
+        "label": "野比大雄",
+        "info": "原作为小学4年级的学生，动画版为小学5年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/4c/7259_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7259",
+        "categorie": "person"
+      },
+      {
+        "id": "7312",
+        "label": "刚田武",
+        "info": "大雄的同学。身强力壮。擅长运动。喜欢唱歌和烹饪，水平极差却不自觉。尢其是唱歌，没有人受得了。有严重自我中心，经常欺负人（尤其大雄），并袒护自己的妹妹。优点是勇敢、有正义感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/3e/7312_crt_F745q.jpg",
+        "link": "https://bgm.tv/character/7312",
+        "categorie": "person"
+      },
+      {
+        "id": "7251",
+        "label": "哆啦A梦",
+        "info": "来自22世纪的蓝色猫型机器人，为了改变大雄命运而来，能从四次元百宝袋装在里面拿出各种奇妙道具。漫画版和动画版的初登场都在第一回。喜欢吃铜锣烧。弱点是害怕老鼠。常被人以为是狸猫，引起哆啦A梦的不满。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/d1/7251_crt_eKXkB.jpg?r=1450325708",
+        "link": "https://bgm.tv/character/7251",
+        "categorie": "person"
+      },
+      {
+        "id": "7260",
+        "label": "源静香",
+        "info": "大雄的同学兼朋友，读书成绩优秀兼性情温和，爱好和平，也是其憧憬对象和未来的新娘。缺点是有洁癖，而且拉小提琴拉出的琴声甚至比胖虎的歌还具有破坏力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/05/7260_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7260",
+        "categorie": "person"
+      },
+      {
+        "id": "7316",
+        "label": "骨川小夫",
+        "info": "大雄的同学。显示欲强。家境富裕，喜好卖弄、炫耀、耍小聪明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/df/7316_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7316",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

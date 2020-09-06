@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20300",
+        "label": "阿修罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/15/20300_crt_2Guwd.jpg",
+        "link": "https://bgm.tv/character/20300",
+        "categorie": "person"
+      },
+      {
+        "id": "65743",
+        "label": "若狭",
+        "info": "本作女主角。纯洁善良美丽的女孩。用温柔无私的爱感化了阿修罗。是阿修罗重视的人。喜欢七郎。向往着京都。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/65743",
+        "categorie": "person"
+      },
+      {
+        "id": "65762",
+        "label": "法师",
+        "info": "用慈祥悲悯的教诲拯救阿修罗。交给了他第一句话，并给他起名阿修罗。将他从野兽的世界拉到了人的世界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/47/65762_crt_Rj9t2.jpg",
+        "link": "https://bgm.tv/character/65762",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

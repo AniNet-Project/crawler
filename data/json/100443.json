@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25782",
+        "label": "ナイン",
+        "info": "頭脳明晰で常に冷静。ツエルブとともに東京で高校生として生活を始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/56/25782_crt_9zS4Q.jpg?r=1410111742",
+        "link": "https://bgm.tv/character/25782",
+        "categorie": "person"
+      },
+      {
+        "id": "25783",
+        "label": "ツエルブ",
+        "info": "像孩子一样天真，非常尊敬九重新，觉得他像哥哥一样，跟他一起转学到东京，两人经常一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fd/25783_crt_cWa79.jpg?r=1410111852",
+        "link": "https://bgm.tv/character/25783",
+        "categorie": "person"
+      },
+      {
+        "id": "25784",
+        "label": "三岛理沙",
+        "info": "与九重新和冬二在一所学校上学。在学校受欺负，家庭内部也有问题。在遇到冬二后，她的命运发生了巨大的变化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/3e/25784_crt_XXb28.jpg?r=1410111898",
+        "link": "https://bgm.tv/character/25784",
+        "categorie": "person"
+      },
+      {
+        "id": "25785",
+        "label": "柴崎健次郎",
+        "info": "警视厅的刑警，原先在搜查一课工作，现在被调到文书部门消磨日子，与担任恐怖袭击调查的搜查一课课长仓桥是同期警员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/0a/25785_crt_3R9Ys.jpg?r=1410111942",
+        "link": "https://bgm.tv/character/25785",
+        "categorie": "person"
+      },
+      {
+        "id": "25786",
+        "label": "ハイヴ",
+        "info": "由美国政府和FBI派遣的NEST（核紧急支援队）的核物理学家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/58/25786_crt_Ip5FG.jpg?r=1410111991",
+        "link": "https://bgm.tv/character/25786",
+        "categorie": "person"
+      },
+      {
+        "id": "26738",
+        "label": "仓桥",
+        "info": "刑事部捜査一課長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/f6/26738_crt_7aPiz.jpg?r=1410157485",
+        "link": "https://bgm.tv/character/26738",
+        "categorie": "person"
+      },
+      {
+        "id": "26739",
+        "label": "羽村",
+        "info": "刑事部捜査一課の若手刑事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/64/26739_crt_NK8IQ.jpg?r=1410157802",
+        "link": "https://bgm.tv/character/26739",
+        "categorie": "person"
+      },
+      {
+        "id": "26740",
+        "label": "冈野",
+        "info": "捜査一課特殊捜査係(SIT)係長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/7f/26740_crt_JMHHQ.jpg?r=1410157993",
+        "link": "https://bgm.tv/character/26740",
+        "categorie": "person"
+      },
+      {
+        "id": "26741",
+        "label": "木下",
+        "info": "技術犯罪対策課課長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/e4/26741_crt_lbjLL.jpg?r=1410158322",
+        "link": "https://bgm.tv/character/26741",
+        "categorie": "person"
+      },
+      {
+        "id": "26742",
+        "label": "六笠",
+        "info": "警視庁文書課で働く柴崎の部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/0c/26742_crt_9h6F1.jpg?r=1410158608",
+        "link": "https://bgm.tv/character/26742",
+        "categorie": "person"
+      },
+      {
+        "id": "26743",
+        "label": "クラレンス",
+        "info": "FBI特別捜査官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/fe/26743_crt_iTjXZ.jpg?r=1410158919",
+        "link": "https://bgm.tv/character/26743",
+        "categorie": "person"
+      },
+      {
+        "id": "15420",
+        "label": "美利坚合众国",
+        "info": "在二次元出现得最频繁的国家之一，其统治者有着大总统的头衔，给人以霸气、富有和国力强悍的印象；然而无论作为正义的伙伴还是敌方的幕后，实战起来通常不堪一击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/fd/15420_crt_VeCju.jpg",
+        "link": "https://bgm.tv/character/15420",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

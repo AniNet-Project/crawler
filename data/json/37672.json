@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16547",
+        "label": "叶月亮介",
+        "info": "虽然眼神凶恶，但是却有着纯情专一性格的青年。因为对六花一见钟情。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/60/16547_crt_EXEEY.jpg",
+        "link": "https://bgm.tv/character/16547",
+        "categorie": "person"
+      },
+      {
+        "id": "16548",
+        "label": "岛尾六花",
+        "info": "花店“SHIMAO”的店长。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/4c/16548_crt_D9D9C.jpg",
+        "link": "https://bgm.tv/character/16548",
+        "categorie": "person"
+      },
+      {
+        "id": "16549",
+        "label": "岛尾笃",
+        "info": "于三年前因病去世，是六花的丈夫，在花店“SHIMAO”中徘徊的幽灵。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/10/16549_crt_66F6z.jpg",
+        "link": "https://bgm.tv/character/16549",
+        "categorie": "person"
+      },
+      {
+        "id": "16550",
+        "label": "岛尾美惠",
+        "info": "笃的姐姐，经常来六花的店里帮忙打理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/51/16550_crt_34FVh.jpg",
+        "link": "https://bgm.tv/character/16550",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

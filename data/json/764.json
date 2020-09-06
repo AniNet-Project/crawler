@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9785",
+        "label": "佐藤良太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/13/9785_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9785",
+        "categorie": "person"
+      },
+      {
+        "id": "9786",
+        "label": "小泉千佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d8/9786_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9786",
+        "categorie": "person"
+      },
+      {
+        "id": "9787",
+        "label": "浅野有纪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ac/9787_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9787",
+        "categorie": "person"
+      },
+      {
+        "id": "9788",
+        "label": "相原和美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/8e/9788_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9788",
+        "categorie": "person"
+      },
+      {
+        "id": "9789",
+        "label": "平川夏美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/c9/9789_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9789",
+        "categorie": "person"
+      },
+      {
+        "id": "9790",
+        "label": "今井浩二",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/30/9790_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9790",
+        "categorie": "person"
+      },
+      {
+        "id": "9791",
+        "label": "河合翼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/08/9791_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9791",
+        "categorie": "person"
+      },
+      {
+        "id": "9792",
+        "label": "日高惠",
+        "info": "学号16号；戴着眼镜的女孩子。留着长头发。发育出众，胸部在女生中是最大的。经常为体重而烦恼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/4b/9792_crt_65Bdz.jpg",
+        "link": "https://bgm.tv/character/9792",
+        "categorie": "person"
+      },
+      {
+        "id": "9797",
+        "label": "田村先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/28/9797_crt_zVVXY.jpg",
+        "link": "https://bgm.tv/character/9797",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

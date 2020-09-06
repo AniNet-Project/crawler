@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "864",
+        "label": "紫刘辉",
+        "info": "现任彩云国国王，喜欢秀丽，是茈静兰(紫清苑)同父异母的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/c2/864_G6iBb.jpg",
+        "link": "https://bgm.tv/character/864",
+        "categorie": "person"
+      },
+      {
+        "id": "865",
+        "label": "茈静兰",
+        "info": "红家的家臣，十三岁时在茶州相遇秀丽和她的父母并被收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/3d/865_79cFN.jpg",
+        "link": "https://bgm.tv/character/865",
+        "categorie": "person"
+      },
+      {
+        "id": "5642",
+        "label": "红秀丽",
+        "info": "红邵可和蔷薇公主的女儿，红黎深和红玖琅的姪女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/4c/5642_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5642",
+        "categorie": "person"
+      },
+      {
+        "id": "5646",
+        "label": "李絳攸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/19/5646_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5646",
+        "categorie": "person"
+      },
+      {
+        "id": "5647",
+        "label": "紅邵可",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/56/5647_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5647",
+        "categorie": "person"
+      },
+      {
+        "id": "5648",
+        "label": "霄瑤璇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/f2/5648_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5648",
+        "categorie": "person"
+      },
+      {
+        "id": "5650",
+        "label": "浪燕青",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/5b/5650_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5650",
+        "categorie": "person"
+      },
+      {
+        "id": "5654",
+        "label": "茶克洵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/70/5654_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5654",
+        "categorie": "person"
+      },
+      {
+        "id": "5655",
+        "label": "紅玖琅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/13/5655_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5655",
+        "categorie": "person"
+      },
+      {
+        "id": "5656",
+        "label": "柴凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/5e/5656_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5656",
+        "categorie": "person"
+      },
+      {
+        "id": "5657",
+        "label": "縹璃桜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/20/5657_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5657",
+        "categorie": "person"
+      },
+      {
+        "id": "5658",
+        "label": "陸清雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/96/5658_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5658",
+        "categorie": "person"
+      },
+      {
+        "id": "5659",
+        "label": "司馬迅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/b0/5659_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5659",
+        "categorie": "person"
+      },
+      {
+        "id": "5660",
+        "label": "珠翠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/e4/5660_crt_o6XDo.jpg",
+        "link": "https://bgm.tv/character/5660",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

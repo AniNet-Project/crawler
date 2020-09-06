@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25221",
+        "label": "先导爱知",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/86/25221_crt_GWIgj.jpg",
+        "link": "https://bgm.tv/character/25221",
+        "categorie": "person"
+      },
+      {
+        "id": "25479",
+        "label": "櫂俊树",
+        "info": "TV动画《卡片战斗先导者》的主角之一。就读後江高校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/ba/25479_crt_mmRCe.jpg",
+        "link": "https://bgm.tv/character/25479",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

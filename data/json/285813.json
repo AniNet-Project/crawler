@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74912",
+        "label": "枝村真人",
+        "info": "善良な老人や旅行客をカモに詐欺を働き生計を立てる、自称・日本一の天才詐欺師。元来の性格は、真面目でお人好し。趣味はカプセルトイのフィギュア集め。コーヒー好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/b2/74912_crt_21TxR.jpg?r=1579840417",
+        "link": "https://bgm.tv/character/74912",
+        "categorie": "person"
+      },
+      {
+        "id": "74913",
+        "label": "罗兰·蒂埃里",
+        "info": "世界中を飛び回る、フランス人の信用詐欺師（コンフィデンスマン）。どんな状況でも取り乱すことなく、うまく切り抜ける。お洒落でジョーク好き。浅草観光をしているときに、枝村から詐欺のターゲットにされるが…",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/f3/74913_crt_WZN0w.jpg?r=1579840479",
+        "link": "https://bgm.tv/character/74913",
+        "categorie": "person"
+      },
+      {
+        "id": "74914",
+        "label": "阿比盖尔·琼斯",
+        "info": "しなやかで引き締まった体躯と、抜群の運動能力をもつ信用詐欺師。ぶっきらぼうで好戦的。幼少期のある記憶を、心に秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/02/74914_crt_ytuYY.jpg?r=1579840559",
+        "link": "https://bgm.tv/character/74914",
+        "categorie": "person"
+      },
+      {
+        "id": "74915",
+        "label": "宝拉·狄金斯",
+        "info": "美しく、グラマーなFBIの敏腕捜査官。ローランを逮捕すべく、ロサンゼルスに現れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ea/74915_crt_Nm32Q.jpg?r=1579840610",
+        "link": "https://bgm.tv/character/74915",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

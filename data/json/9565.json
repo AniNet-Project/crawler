@@ -1,0 +1,509 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3345",
+        "label": "孙悟空",
+        "info": "孙悟空是日本漫画《七龙珠》和系列动画《七龙珠》、《七龙珠Z》、《七龙珠GT》、《七龙珠改》中登场的主角。重情重义、绝不欺骗朋友、喜欢帮助人，就算对着敌人也会帮助他（曾给短笛仙豆，把气给了命垂的弗利萨）。 多次救了地球和全人类，妻子为琪琪，有孙悟饭和孙悟天两个儿子。成名绝技有龟派气功、界王拳、元气弹等等。 成人时身高175cm、体重62kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/a7/3345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3345",
+        "categorie": "person"
+      },
+      {
+        "id": "15142",
+        "label": "布尔玛",
+        "info": "布尔玛·布里夫（日文：ブルマ·ブリーフ，英文名：Bulma ，其他译名：布尔玛，布玛，庄子 ），漫画和动画《七龙珠》《龙珠Z》《龙珠GT》中的主要人物。她是一个收集七龙珠为了实现得到浪漫爱情愿望的女孩，收集龙珠的旅途中偶然认识了孙悟空，因而展开了七龙珠的故事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/e8/15142_crt_gGh88.jpg",
+        "link": "https://bgm.tv/character/15142",
+        "categorie": "person"
+      },
+      {
+        "id": "3333",
+        "label": "龟仙人",
+        "info": "武天老師（むてんろうし）と称される武術の達人にして、孫悟飯、牛魔王、孫悟空、クリリン、ヤムチャらの師。守銭奴であの世へ自由に出入り出来る占い師・占いババは実姉。身長165cm、体重44kg。エイジ430年生まれで、年齢は319歳（初登場時）～354歳（原作、『ドラゴンボールZ』終了時）。劇中ではピッコロ大魔王編、魔人ブウ編にて2度、死を迎えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/e9/3333_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3333",
+        "categorie": "person"
+      },
+      {
+        "id": "6012",
+        "label": "スノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/4c/6012_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6012",
+        "categorie": "person"
+      },
+      {
+        "id": "6299",
+        "label": "皮拉夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/0a/6299_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6299",
+        "categorie": "person"
+      },
+      {
+        "id": "6305",
+        "label": "海龟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/e6/6305_crt_anidb.jpg?r=1543638811",
+        "link": "https://bgm.tv/character/6305",
+        "categorie": "person"
+      },
+      {
+        "id": "6307",
+        "label": "乌龙",
+        "info": "エイジ733年生まれ。身長121cm、体重32kg。趣味はパンティー集め。好きなものは女。嫌いなものは男とブス、ブタ肉",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/bc/6307_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6307",
+        "categorie": "person"
+      },
+      {
+        "id": "6310",
+        "label": "阿修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/81/6310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6310",
+        "categorie": "person"
+      },
+      {
+        "id": "6311",
+        "label": "小舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/01/6311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6311",
+        "categorie": "person"
+      },
+      {
+        "id": "6328",
+        "label": "普尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/94/6328_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6328",
+        "categorie": "person"
+      },
+      {
+        "id": "6336",
+        "label": "司仪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/eb/6336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6336",
+        "categorie": "person"
+      },
+      {
+        "id": "6392",
+        "label": "神龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/85/6392_crt_45l49.jpg",
+        "link": "https://bgm.tv/character/6392",
+        "categorie": "person"
+      },
+      {
+        "id": "7035",
+        "label": "兰琪",
+        "info": "　兰琪是个拥有双重人格的奇女子。蓝发状态的她，  贤惠的兰琪是一个温柔、纯真、勤劳的姑娘；当她打了喷嚏之后，就会变成金头发，性格也变得非常暴力，成为了一个被到处通缉的抢劫犯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/17/7035_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7035",
+        "categorie": "person"
+      },
+      {
+        "id": "9098",
+        "label": "餃子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/03/9098_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9098",
+        "categorie": "person"
+      },
+      {
+        "id": "9099",
+        "label": "琪琪",
+        "info": "琪琪（チチ）是日本漫画家鸟山明创作的动漫《七龙珠》中的人物，《龙珠Z》和《龙珠GT》中也有出场。是牛魔王的女儿，孙悟空的妻子。孙悟空小时候前往煎锅山时与孙悟空相识，并要孙悟空答应了以后娶她为妻。后来在第23届天下第一武道大会上再度与长大的孙悟空相遇并交手，大会结束后与孙悟空结婚，居住在包子山。和孙悟空生有两子孙悟饭、孙悟天。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/72/9099_crt_2MaEe.jpg?r=1558925778",
+        "link": "https://bgm.tv/character/9099",
+        "categorie": "person"
+      },
+      {
+        "id": "9103",
+        "label": "加林仙人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6b/9103_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9103",
+        "categorie": "person"
+      },
+      {
+        "id": "9104",
+        "label": "克林",
+        "info": "　多林寺弟子（又一说是出身少林）为讨女孩子欢心不远万里划船来找龟仙人习武，与孙悟空为同门师兄弟，早期出镜率较高，曾  前期克林在天下一武道会准决赛和孙悟空决斗，最后输给悟空。之后被比克大魔王的手下铃鼓所杀，后来用龙珠复活。为了备战下一届武道会与其他地球战士到加林塔修行，在三年后的比赛中让短笛刮目相看。再后来克林到那美克星後，被大长老提升潜在功力，那时的战斗力已经强于天津饭，克林也是悟饭的好叔叔，常常在悟饭危急时，出手相救(可惜在悟饭长大后就变成悟饭救他)，他是悟空最好的朋友亦是悟空的死党，他与悟空在龟仙人严厉的训练及武林大会中出生入死，由于他两度被杀，悟空先是为报仇不惜冒死喝下超神水，又一次愤怒变成超级赛亚人。他经常帮助悟空对抗敌人。在沙鲁游戏後和18号结婚，还生了女儿(女儿头发像18号，而且那时小林也长了头发)。在和魔人布欧（魔人普乌）决斗时被变成巧克力吃掉死去，后来被龙珠救活。他在故事的重要性亦在z剧集中赛亚人统治世界中减退。另外在所有z战士中小林也是相貌变化最大的，其他人要么是外星人长相几十年不变要么是单身汉，惟有小林在后期成了老头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/d0/9104_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9104",
+        "categorie": "person"
+      },
+      {
+        "id": "9110",
+        "label": "天津飯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cb/9110_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9110",
+        "categorie": "person"
+      },
+      {
+        "id": "9112",
+        "label": "雅木茶",
+        "info": "设定上属于地球人，动画版由古谷彻担任配音，其名字命名来自粤语的“饮茶”（Yam-Cha）。旁边经常会跟有一位叫作普亚鲁（日语：プーアル；英语：Puar，名字命名来自普洱茶）的动物型地球人。他的招式有狼牙风风拳、操气弹、龟派气功及舞空术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/87/9112_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9112",
+        "categorie": "person"
+      },
+      {
+        "id": "15129",
+        "label": "短笛",
+        "info": "比克大魔王是日本鸟山明著名漫画《七龙珠》中的人物，也是配角中的主要人物，分为2代（2代是父子关系）。是配角中的邪恶势力（2代后来改邪归正，和悟空成了朋友）",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/11/15129_crt_v4v4y.jpg",
+        "link": "https://bgm.tv/character/15129",
+        "categorie": "person"
+      },
+      {
+        "id": "28111",
+        "label": "弥次郎兵卫",
+        "info": "エイジ735年生まれ。趣味は食うこと、釣り、狩猟、昼寝。好きな食べ物は野豚の丸焼き。好きな乗り物はひろったエアカー。嫌いなものはない。本編では死ぬことが嫌いだと語っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/10/28111_crt_7zZh3.jpg?r=1416816149",
+        "link": "https://bgm.tv/character/28111",
+        "categorie": "person"
+      },
+      {
+        "id": "6010",
+        "label": "レッド総帥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/c4/6010_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6010",
+        "categorie": "person"
+      },
+      {
+        "id": "6306",
+        "label": "ワニ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/8a/6306_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6306",
+        "categorie": "person"
+      },
+      {
+        "id": "6308",
+        "label": "プテラノドン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/21/6308_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6308",
+        "categorie": "person"
+      },
+      {
+        "id": "6313",
+        "label": "サーベルタイガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/18/6313_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6313",
+        "categorie": "person"
+      },
+      {
+        "id": "6314",
+        "label": "オニ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/20/6314_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6314",
+        "categorie": "person"
+      },
+      {
+        "id": "6316",
+        "label": "娘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/07/6316_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6316",
+        "categorie": "person"
+      },
+      {
+        "id": "6331",
+        "label": "人魚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/c4/6331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6331",
+        "categorie": "person"
+      },
+      {
+        "id": "6332",
+        "label": "ギャル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b3/6332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6332",
+        "categorie": "person"
+      },
+      {
+        "id": "6334",
+        "label": "ランファン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/cf/6334_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6334",
+        "categorie": "person"
+      },
+      {
+        "id": "6335",
+        "label": "バクテリアン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/28/6335_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6335",
+        "categorie": "person"
+      },
+      {
+        "id": "6337",
+        "label": "老婆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/23/6337_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6337",
+        "categorie": "person"
+      },
+      {
+        "id": "6356",
+        "label": "ナム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/53/6356_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6356",
+        "categorie": "person"
+      },
+      {
+        "id": "6390",
+        "label": "兎人参化",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/98/6390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6390",
+        "categorie": "person"
+      },
+      {
+        "id": "6393",
+        "label": "チビ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/b7/6393_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6393",
+        "categorie": "person"
+      },
+      {
+        "id": "6983",
+        "label": "牛乳屋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/29/6983_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6983",
+        "categorie": "person"
+      },
+      {
+        "id": "7034",
+        "label": "農夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/50/7034_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7034",
+        "categorie": "person"
+      },
+      {
+        "id": "7037",
+        "label": "係員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/39/7037_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7037",
+        "categorie": "person"
+      },
+      {
+        "id": "7038",
+        "label": "委員長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/9d/7038_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7038",
+        "categorie": "person"
+      },
+      {
+        "id": "7130",
+        "label": "カウボーイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/fb/7130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7130",
+        "categorie": "person"
+      },
+      {
+        "id": "7139",
+        "label": "ギラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/1b/7139_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7139",
+        "categorie": "person"
+      },
+      {
+        "id": "7141",
+        "label": "シルバー大佐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/7c/7141_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7141",
+        "categorie": "person"
+      },
+      {
+        "id": "7209",
+        "label": "男の子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/04/7209_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7209",
+        "categorie": "person"
+      },
+      {
+        "id": "7212",
+        "label": "店の主人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/4e/7212_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7212",
+        "categorie": "person"
+      },
+      {
+        "id": "7215",
+        "label": "父親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/74/7215_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7215",
+        "categorie": "person"
+      },
+      {
+        "id": "7219",
+        "label": "ばあや",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/41/7219_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7219",
+        "categorie": "person"
+      },
+      {
+        "id": "7242",
+        "label": "鶴仙人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/9b/7242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7242",
+        "categorie": "person"
+      },
+      {
+        "id": "7600",
+        "label": "メタリック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/97/7600_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7600",
+        "categorie": "person"
+      },
+      {
+        "id": "7602",
+        "label": "农夫",
+        "info": "被拉蒂兹评价为“战斗力只有5的渣渣”的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/d6/7602_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7602",
+        "categorie": "person"
+      },
+      {
+        "id": "9208",
+        "label": "布里夫斯博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/c9/9208_crt_X3qxe.jpg",
+        "link": "https://bgm.tv/character/9208",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "6391",
+        "label": "母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/3a/6391_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6391",
+        "categorie": "person"
+      },
+      {
+        "id": "7217",
+        "label": "母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/26/7217_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7217",
+        "categorie": "person"
+      },
+      {
+        "id": "3334",
+        "label": "成龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/13/3334_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3334",
+        "categorie": "person"
+      },
+      {
+        "id": "6011",
+        "label": "红绸军",
+        "info": "拥有高科技装备和巨大财力的邪恶军团，名字来自中国的“红卫兵”。由于“红卫兵”在中国属于政治敏感题材，所以部分地区改译成“黑绸军”",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/b8/6011_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6011",
+        "categorie": "person"
+      },
+      {
+        "id": "6312",
+        "label": "ブヨン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/67/6312_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6312",
+        "categorie": "person"
+      },
+      {
+        "id": "6327",
+        "label": "おばさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/4b/6327_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6327",
+        "categorie": "person"
+      },
+      {
+        "id": "7599",
+        "label": "牛魔王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/0e/7599_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7599",
+        "categorie": "person"
+      },
+      {
+        "id": "17749",
+        "label": "则卷阿拉蕾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/35/17749_crt_WW9Wd.jpg",
+        "link": "https://bgm.tv/character/17749",
+        "categorie": "person"
+      },
+      {
+        "id": "20836",
+        "label": "雷伊",
+        "info": "南斗六圣拳之“义星”，南斗水鸟拳的传人。在使用姿势优雅而威力强大的杀人拳法的同时也拥有着俊俏的外貌，装扮成女人也几可乱真。重情重义，是会为了恩义而孤注一掷的好男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/6e/20836_crt_RaJ3E.jpg?r=1375764500",
+        "link": "https://bgm.tv/character/20836",
+        "categorie": "person"
+      },
+      {
+        "id": "20960",
+        "label": "月球",
+        "info": "再....再怎么看我，你也不会变身的！",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c7/20960_crt_7WnuC.jpg?r=1452729795",
+        "link": "https://bgm.tv/character/20960",
+        "categorie": "person"
+      },
+      {
+        "id": "27111",
+        "label": "则卷宝瓜",
+        "info": "アラレたちが原始時代にタイムスリップした時に持ち帰った卵。から生まれた、2本の触角と羽根の生えた赤ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/34/27111_crt_tv3eT.jpg",
+        "link": "https://bgm.tv/character/27111",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

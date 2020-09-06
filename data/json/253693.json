@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "78062",
+        "label": "红小豆",
+        "info": "一颗可爱的红豆。大眼睛、细手细腿，有时候会很沙雕，但有时候会很可爱，喜欢小黄鸭或小黄鸭图案的东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/c5/78062_crt_HUzF8.jpg",
+        "link": "https://bgm.tv/character/78062",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51576",
+        "label": "伊度",
+        "info": "埃斯卡维特公司职员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/99/51576_crt_ocae3.jpg?r=1492328244",
+        "link": "https://bgm.tv/character/51576",
+        "categorie": "person"
+      },
+      {
+        "id": "51573",
+        "label": "三栗麻耶",
+        "info": "行星联盟学院所属的学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/25/51573_crt_bI1l4.jpg",
+        "link": "https://bgm.tv/character/51573",
+        "categorie": "person"
+      },
+      {
+        "id": "51574",
+        "label": "柯莱雅·北条",
+        "info": "埃斯卡维特公司职员。格雷曼的独生女，操作员担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/d5/51574_crt_0z3oK.jpg?r=1492328616",
+        "link": "https://bgm.tv/character/51574",
+        "categorie": "person"
+      },
+      {
+        "id": "51575",
+        "label": "谜之少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/85/51575_crt_IFEV2.jpg?r=1492328790",
+        "link": "https://bgm.tv/character/51575",
+        "categorie": "person"
+      },
+      {
+        "id": "51577",
+        "label": "里克·艾尔",
+        "info": "埃斯卡维特公司职员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/1a/51577_crt_EcZ50.jpg?r=1492328971",
+        "link": "https://bgm.tv/character/51577",
+        "categorie": "person"
+      },
+      {
+        "id": "51578",
+        "label": "卡菈·米拉·福登",
+        "info": "埃斯卡维特公司职员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e4/51578_crt_Sll25.jpg?r=1492329281",
+        "link": "https://bgm.tv/character/51578",
+        "categorie": "person"
+      },
+      {
+        "id": "51579",
+        "label": "格雷曼",
+        "info": "埃斯卡维特公司社长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/57/51579_crt_T23NT.jpg?r=1492329336",
+        "link": "https://bgm.tv/character/51579",
+        "categorie": "person"
+      },
+      {
+        "id": "51580",
+        "label": "法路泽",
+        "info": "埃斯卡维特公司职员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/fd/51580_crt_51O77.jpg?r=1492329628",
+        "link": "https://bgm.tv/character/51580",
+        "categorie": "person"
+      },
+      {
+        "id": "51581",
+        "label": "阿曼扎·沃什科娃",
+        "info": "行星联盟军中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/39/51581_crt_SlEEr.jpg?r=1492329677",
+        "link": "https://bgm.tv/character/51581",
+        "categorie": "person"
+      },
+      {
+        "id": "53412",
+        "label": "面具男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/e5/53412_crt_s8sK3.jpg?r=1498663363",
+        "link": "https://bgm.tv/character/53412",
+        "categorie": "person"
+      },
+      {
+        "id": "53413",
+        "label": "白眉有乐翁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/82/53413_crt_s0sww.jpg?r=1493049402",
+        "link": "https://bgm.tv/character/53413",
+        "categorie": "person"
+      },
+      {
+        "id": "53414",
+        "label": "凯恩·有栖川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/37/53414_crt_DJdvY.jpg?r=1498663415",
+        "link": "https://bgm.tv/character/53414",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "53415",
+        "label": "泽法",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/15/53415_crt_e11Ub.jpg?r=1498663251",
+        "link": "https://bgm.tv/character/53415",
+        "categorie": "person"
+      },
+      {
+        "id": "55376",
+        "label": "萨姆·提拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/a6/55376_crt_p93m1.jpg?r=1498413573",
+        "link": "https://bgm.tv/character/55376",
+        "categorie": "person"
+      },
+      {
+        "id": "55381",
+        "label": "珍妮弗·雷考德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f8/55381_crt_LwDQ1.jpg?r=1498664085",
+        "link": "https://bgm.tv/character/55381",
+        "categorie": "person"
+      },
+      {
+        "id": "53386",
+        "label": "金兹伯格教授",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/3d/53386_crt_544nz.jpg",
+        "link": "https://bgm.tv/character/53386",
+        "categorie": "person"
+      },
+      {
+        "id": "53387",
+        "label": "罗马诺夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/9a/53387_crt_kfszm.jpg",
+        "link": "https://bgm.tv/character/53387",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

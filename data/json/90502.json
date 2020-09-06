@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15336",
+        "label": "南波六太",
+        "info": "主角。毛茸茸的自然卷发型特征。大学毕业后，在汽车设计公司工作。工学博士，亲手设计几辆车，也因此获得奖赏不过，因为上司侮辱他弟弟日日人，愤怒的他用头锤上司间寺，导致他因为这个原因被开除。在那之后历经波折的他收到了来自日日人的信息后，开始以宇航员为目标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/66/15336_crt_U6Aao.jpg",
+        "link": "https://bgm.tv/character/15336",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

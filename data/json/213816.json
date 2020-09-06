@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35834",
+        "label": "日代千鹤",
+        "info": "青叶高中3年3班34号，12月25日生，B型，身高162cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/88/35834_crt_1soMU.jpg?r=1524130019",
+        "link": "https://bgm.tv/character/35834",
+        "categorie": "person"
+      },
+      {
+        "id": "35835",
+        "label": "海崎新太",
+        "info": "本作主人公，青叶高中3年3班4号，27岁，8月12日生，O型，身高176cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/b6/35835_crt_az6U9.jpg?r=1484153389",
+        "link": "https://bgm.tv/character/35835",
+        "categorie": "person"
+      },
+      {
+        "id": "35836",
+        "label": "小野屋杏",
+        "info": "青叶高中3年3班23号，5月27日生，B型，身高153cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/f8/35836_crt_7k66h.jpg?r=1467451034",
+        "link": "https://bgm.tv/character/35836",
+        "categorie": "person"
+      },
+      {
+        "id": "35837",
+        "label": "夜明了",
+        "info": "青叶高中3年3班20号，27岁，1月5日生，B型，身高173cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/90/35837_crt_d9691.jpg?r=1467451019",
+        "link": "https://bgm.tv/character/35837",
+        "categorie": "person"
+      },
+      {
+        "id": "35838",
+        "label": "大神和臣",
+        "info": "青叶高中3年3班3号，17岁，6月4日生，O型，身高171cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/22/35838_crt_Y5pBd.jpg?r=1467451073",
+        "link": "https://bgm.tv/character/35838",
+        "categorie": "person"
+      },
+      {
+        "id": "35839",
+        "label": "狩生玲奈",
+        "info": "青叶高中3年3班24号，17岁，9月6日生，A型，身高166cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/b1/35839_crt_4x9vr.jpg?r=1467451055",
+        "link": "https://bgm.tv/character/35839",
+        "categorie": "person"
+      },
+      {
+        "id": "35840",
+        "label": "玉来萌香",
+        "info": "青叶高中3年3班30号，17岁，10月1日生，O型，身高155cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/d5/35840_crt_9FQr6.jpg?r=1467451097",
+        "link": "https://bgm.tv/character/35840",
+        "categorie": "person"
+      },
+      {
+        "id": "35841",
+        "label": "犬饲晓",
+        "info": "青叶高中3年3班2号，17岁，7月31日生，AB型，身长174cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/e1/35841_crt_t6Ufu.jpg?r=1467451165",
+        "link": "https://bgm.tv/character/35841",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

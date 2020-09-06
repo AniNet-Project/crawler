@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5695",
+        "label": "小野泽未来",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/ea/5695_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5695",
+        "categorie": "person"
+      },
+      {
+        "id": "14513",
+        "label": "小野泽悠贵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/5c/14513_crt_LkxpO.jpg",
+        "link": "https://bgm.tv/character/14513",
+        "categorie": "person"
+      },
+      {
+        "id": "14514",
+        "label": "日下部真理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/32/14514_crt_l0vmz.jpg",
+        "link": "https://bgm.tv/character/14514",
+        "categorie": "person"
+      },
+      {
+        "id": "8443",
+        "label": "小野泽诚司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/6b/8443_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8443",
+        "categorie": "person"
+      },
+      {
+        "id": "8444",
+        "label": "小野泽雅美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/4f/8444_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8444",
+        "categorie": "person"
+      },
+      {
+        "id": "8445",
+        "label": "マユ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/10/8445_crt_Ltm3t.jpg",
+        "link": "https://bgm.tv/character/8445",
+        "categorie": "person"
+      },
+      {
+        "id": "8446",
+        "label": "ユカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/01/8446_crt_At1nM.jpg",
+        "link": "https://bgm.tv/character/8446",
+        "categorie": "person"
+      },
+      {
+        "id": "8447",
+        "label": "オペレーター",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8447",
+        "categorie": "person"
+      },
+      {
+        "id": "9004",
+        "label": "日下部ヒナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/99/9004_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9004",
+        "categorie": "person"
+      },
+      {
+        "id": "9005",
+        "label": "日下部和代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/c7/9005_crt_dCpph.jpg",
+        "link": "https://bgm.tv/character/9005",
+        "categorie": "person"
+      },
+      {
+        "id": "9006",
+        "label": "川崎彩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/1d/9006_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9006",
+        "categorie": "person"
+      },
+      {
+        "id": "9007",
+        "label": "古巾美佐子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/80/9007_crt_SKOs8.jpg",
+        "link": "https://bgm.tv/character/9007",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

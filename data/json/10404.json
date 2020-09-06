@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7596",
+        "label": "矢吹丈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/96/7596_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7596",
+        "categorie": "person"
+      },
+      {
+        "id": "64365",
+        "label": "白木叶子",
+        "info": "日本有数の大富豪である白木財閥の令嬢。本作のヒロイン。オールバックの髪形で、いつも白っぽい服を身につけている美人。気丈でプライドが高く、他人にも自分と同等の品性を求めるところもある。力石の死後は白木ジムの会長に就任し、プロモーターとして丈を様々な面からサポートするようになり、しだいに丈に魅かれていくこととなる。ホセ・メンドーサとの試合直前に丈へ自分の想いを打ち明けた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/ce/64365_crt_arQN4.jpg",
+        "link": "https://bgm.tv/character/64365",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

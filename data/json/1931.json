@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12858",
+        "label": "千濑",
+        "info": "住在北海道的女孩。样貌平平，学习普通，擅长的只有世界史。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/3f/12858_crt_7aWdE.jpg",
+        "link": "https://bgm.tv/character/12858",
+        "categorie": "person"
+      },
+      {
+        "id": "12857",
+        "label": "修次",
+        "info": "北海道田舍町居住的高校三年级生，也是千濑的同班同学，跟她展开了一段可歌可泣的爱情故事。在中时与冬月发生过性关系，同时被青梅竹马的明美暗恋.　努力想守护千濑，不至令她成为杀人武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/97/12857_crt_30eUs.jpg?r=1549975313",
+        "link": "https://bgm.tv/character/12857",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

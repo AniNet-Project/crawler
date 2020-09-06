@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17137",
+        "label": "阿宝",
+        "info": "阿宝（芬，Finn）　配音演员：美国→Zack Shada（短篇）／Jeremy Shada（电视系列剧）；台湾→李悦宁",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/a3/17137_crt_Qomd8.jpg",
+        "link": "https://bgm.tv/character/17137",
+        "categorie": "person"
+      },
+      {
+        "id": "17138",
+        "label": "老皮",
+        "info": "老皮（杰克，Jake）　配音演员：美国→John DiMaggio；台湾→曹冀鲁",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/2f/17138_crt_STEv3.jpg",
+        "link": "https://bgm.tv/character/17138",
+        "categorie": "person"
+      },
+      {
+        "id": "17139",
+        "label": "泡泡糖公主",
+        "info": "泡泡糖公主（邦妮贝尔泡泡糖公主，Princess Bonnibel Bubblegum）　配音演员：美国→Paige Moss（短篇）／Hynden Walch（电视系列剧）、Isabella Acres（少年，电视系列剧）；台湾→林美秀",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/c5/17139_crt_odwqL.jpg",
+        "link": "https://bgm.tv/character/17139",
+        "categorie": "person"
+      },
+      {
+        "id": "17140",
+        "label": "艾薇尔",
+        "info": "艾薇尔（“吸血鬼女王”玛瑟琳，Marceline the Vampire Queen）　配音演员：美国→Olivia Olson；台湾→雷碧文",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c1/17140_crt_ynsX5.jpg?r=1536116615",
+        "link": "https://bgm.tv/character/17140",
+        "categorie": "person"
+      },
+      {
+        "id": "17207",
+        "label": "冰霸王",
+        "info": "寒冰巫师以及极地的统治者，拥有操纵冰雪、召唤雪怪的能力，宠物是企鹅（最常出现的是阿鹅）。约1000岁左右。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/8a/17207_crt_nhTqM.jpg",
+        "link": "https://bgm.tv/character/17207",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

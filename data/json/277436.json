@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72744",
+        "label": "伍六七",
+        "info": "本作男主角，刺客，拥有控制剪刀的能力，同时还拥有变成各种事物的能力。目前在大保J发廊当首席理发师。因不明因素丧失记忆被鸡大保捡到，“伍六七”这个名字就是鸡大保起的。在昏迷或受过度刺激时会短暂恢复记忆，口音由广普变粤语，战斗力翻倍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/51/72744_crt_Ir89o.jpg?r=1572465502",
+        "link": "https://bgm.tv/character/72744",
+        "categorie": "person"
+      },
+      {
+        "id": "72746",
+        "label": "梅花十三",
+        "info": "本作女主角，为玄武国女刺客，目前在刺客排行榜第37名。曾刺杀斯坦国陈嘉杰博士。对伍六七有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/9c/72746_crt_I2T0z.jpg?r=1572467377",
+        "link": "https://bgm.tv/character/72746",
+        "categorie": "person"
+      },
+      {
+        "id": "72745",
+        "label": "鸡大保",
+        "info": "社会、拜金、讲义气聪明的蓝羽鸡，大保健发廊老板兼伍六七的刺客经理人，为了赚大钱怂恿伍六七当刺客，实际身份不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/85/72745_crt_N0Z12.jpg?r=1572465793",
+        "link": "https://bgm.tv/character/72745",
+        "categorie": "person"
+      },
+      {
+        "id": "72747",
+        "label": "小飞鸡",
+        "info": "蠢萌鸡大保的养子，是一只擅长飞行的鸡，负责运送伍六七到任务地点。愤怒时会激发他的隐藏能力，进入另外一个形态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/d9/72747_crt_HzX3F.jpg?r=1572465926",
+        "link": "https://bgm.tv/character/72747",
+        "categorie": "person"
+      },
+      {
+        "id": "72757",
+        "label": "梅花十一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/a4/72757_crt_X3wX5.jpg?r=1572467146",
+        "link": "https://bgm.tv/character/72757",
+        "categorie": "person"
+      },
+      {
+        "id": "72758",
+        "label": "春风一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/93/72758_crt_Paadd.jpg?r=1572467203",
+        "link": "https://bgm.tv/character/72758",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

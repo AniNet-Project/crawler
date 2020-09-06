@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14857",
+        "label": "加藤茉莉香",
+        "info": "前船长权左卫门‧加藤的女儿。天仓五海明星新奥滨市白凤女学院的高中女生，在咖啡店打工、参加社团“宇宙巡航部”的活动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/a9/14857_crt_bqQgw.jpg?r=1393853283",
+        "link": "https://bgm.tv/character/14857",
+        "categorie": "person"
+      },
+      {
+        "id": "14856",
+        "label": "栗原千秋",
+        "info": "由海森星转校至海明星的少女。宙海贼船巴巴罗萨号的船长栗原见城的女儿。对甜品没抵抗力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/8c/14856_crt_48mNd.jpg?r=1367136823",
+        "link": "https://bgm.tv/character/14856",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

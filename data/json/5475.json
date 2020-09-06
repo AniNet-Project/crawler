@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4952",
+        "label": "明石薰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/16/4952_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4952",
+        "categorie": "person"
+      },
+      {
+        "id": "4953",
+        "label": "三宫紫穗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/e1/4953_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4953",
+        "categorie": "person"
+      },
+      {
+        "id": "18589",
+        "label": "野上葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/85/18589_crt_zZHPe.jpg",
+        "link": "https://bgm.tv/character/18589",
+        "categorie": "person"
+      },
+      {
+        "id": "18598",
+        "label": "皆本光一",
+        "info": "超能力支援研究局・通称「B.A.B.E.L.（バベル）」の指揮官。階級は二尉。小学5年の自由研究でフェルマーの最終定理に新解を見つけ、18歳で海外の学位を2つ取得するほどの天才。また武術や射撃などにもたけ、料理も完璧という何でもできる男（ちっ！）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/3a/18598_crt_r7Wre.jpg",
+        "link": "https://bgm.tv/character/18598",
+        "categorie": "person"
+      },
+      {
+        "id": "4954",
+        "label": "桐壺帝三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/ba/4954_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4954",
+        "categorie": "person"
+      },
+      {
+        "id": "4955",
+        "label": "常磐奈津子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/ce/4955_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4955",
+        "categorie": "person"
+      },
+      {
+        "id": "4956",
+        "label": "梅枝直美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/0b/4956_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4956",
+        "categorie": "person"
+      },
+      {
+        "id": "4957",
+        "label": "兵部京介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e8/4957_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4957",
+        "categorie": "person"
+      },
+      {
+        "id": "8039",
+        "label": "澪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/19/8039_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8039",
+        "categorie": "person"
+      },
+      {
+        "id": "18593",
+        "label": "真木司郎",
+        "info": "P.A.N.D.R.Aにおける兵部の片腕。または中間管理職的存在ともいえる。黒ひげ＆黒タイ＆黒スーツがワイルドだろう？ちなみに真木の身長、体重などのパーソナルデータはWi○iにも掲載されていない、大スクープデータなのである（ニヤリ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/1e/18593_crt_BBs42.jpg",
+        "link": "https://bgm.tv/character/18593",
+        "categorie": "person"
+      },
+      {
+        "id": "18594",
+        "label": "加纳红叶",
+        "info": "兵部の腹心で姐御キャラ担当。クールかつ落ち着いた雰囲気の、いわゆる「いい女」風エスパー（「いい女」ではなくて「いい女風」というのはシリーズ構成作家のテキストがそうなっていたのでそのまま引用した）。なお、紅葉のパーソナルデータもこれが初出なのよ！",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/33/18594_crt_dTLdL.jpg",
+        "link": "https://bgm.tv/character/18594",
+        "categorie": "person"
+      },
+      {
+        "id": "18595",
+        "label": "藤浦叶",
+        "info": "兵部の腹心で真木、紅葉の弟分。ちょっと今どきなノリのある青年で兵部のことを「ジジィ」呼ばわりしている（……が勿論、根は彼を慕っているからのである。とはいえ、良い子は大人に向かって「ジジィ」なんて言ってはいけないぞ！）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/40/18595_crt_1OfpM.jpg",
+        "link": "https://bgm.tv/character/18595",
+        "categorie": "person"
+      },
+      {
+        "id": "18596",
+        "label": "桃太郎",
+        "info": "エスパーへの改造を施されたモモンガ。自由に空中を滑空し口から空気砲をうつこともできる。ユウギリと友達で大概彼女の頭の上か胸に抱かれており、もじもじ気味な彼女に代わってよく喋る。セリフが文字になったときは平仮名とカタカナが逆になる。「ももたろうダゼ！」的な。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8d/18596_crt_t69l3.jpg",
+        "link": "https://bgm.tv/character/18596",
+        "categorie": "person"
+      },
+      {
+        "id": "18597",
+        "label": "贤木修二",
+        "info": "バベルの医療研究課の医師。兵部からは「ヤブ医者」と皮肉と賞賛がまじった呼ばれ方をしているほどの腕の持ち主。皆本の親友であり、良き理解者。またその一方で皆本からは「下半身の管理がいい加減」と言われている。繰り返すが皆本の親友であり、良き理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/d6/18597_crt_MKz35.jpg",
+        "link": "https://bgm.tv/character/18597",
+        "categorie": "person"
+      },
+      {
+        "id": "18786",
+        "label": "蕾见不二子",
+        "info": "やたら色気を振り撒く爆乳美女。蕾見男爵家出身のお嬢様であり、バベルの管理官。バベルの発足にも関わっており、局長より立場は上。世界中の政財界人と繋がりを持ち、日本の政界にも少なからぬ影響力がある。政府がバベルに対し理不尽な干渉をしたり強硬な態度をなかなか取れないのは、彼女の守護による所も大きい。 コードネームは「ザ・スリーピング・スノーホワイト（眠れる白雪姫）」。サポートチームへの参加に伴い、特務課のエスパーとしての肩書きも付与された。 実年齢は初登場時推定83歳。兵部同様白髪。名前の由来は藤壺から。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/01/18786_crt_Jbi1T.jpg",
+        "link": "https://bgm.tv/character/18786",
+        "categorie": "person"
+      },
+      {
+        "id": "11207",
+        "label": "ミツオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/36/11207_crt_agb1J.jpg",
+        "link": "https://bgm.tv/character/11207",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

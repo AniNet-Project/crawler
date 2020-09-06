@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37276",
+        "label": "イオ・フレミング",
+        "info": "地球連邦軍所属。階級は少尉。アトラスガンダムの専任パイロットとして、スパルタンに着任した。一年戦争の末期、フルアーマー・ガンダムに乗り、サイコ・ザクと死闘を繰り広げた。サンダーボルト宙域でリビング・デッド師団と戦ったムーア同胞団の生き残り。スパルタンには、ある極秘作戦参加のため招集された。前ムーア首長の息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/f7/37276_crt_Agagw.jpg?r=1490438549",
+        "link": "https://bgm.tv/character/37276",
+        "categorie": "person"
+      },
+      {
+        "id": "39535",
+        "label": "ダリル・ローレンツ",
+        "info": "ジオン公国軍所属。階級は少尉。アッガイのパイロット。MS小隊の隊長を務める。傷痍軍人で構成されたリビング・デッド師団の生き残り。一年戦争末期、サイコ・ザクに搭乗するため右腕を切断し、四肢すべてが義手義足となってしまった。その後、地球に降り、ジオン公国軍（連邦からみれば残党軍）の一員として南洋同盟に対して諜報活動を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/09/39535_crt_hu5P5.jpg?r=1490438473",
+        "link": "https://bgm.tv/character/39535",
+        "categorie": "person"
+      },
+      {
+        "id": "37277",
+        "label": "クローディア・ペール",
+        "info": "イオの幼なじみ。元地球連邦軍所属。現在は南洋同盟国境守備隊隊長として、進軍してきたスパルタンと敵対する。階級は中佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/05/37277_crt_q4GtG.jpg",
+        "link": "https://bgm.tv/character/37277",
+        "categorie": "person"
+      },
+      {
+        "id": "39536",
+        "label": "コーネリアス・カカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/24/39536_crt_7EZj9.jpg?r=1458217567",
+        "link": "https://bgm.tv/character/39536",
+        "categorie": "person"
+      },
+      {
+        "id": "39537",
+        "label": "フィッシャー・ネス",
+        "info": "ダリルと同じくリビング・デッド師団の生き残り。階級は曹長。一年戦争時は乗機のリック・ドムが被弾損傷して戦場を一時離脱するが、味方部隊に救援を求めてセイレーン機動艦隊を誘導、師団の壊滅を救った。現在は地球に降りたジオン公国軍の残存部隊でダリルが指揮する小隊に所属。アッガイのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/84/39537_crt_QwewY.jpg?r=1490438330",
+        "link": "https://bgm.tv/character/39537",
+        "categorie": "person"
+      },
+      {
+        "id": "39540",
+        "label": "カーラ・ミッチャム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/6d/39540_crt_7nazr.jpg?r=1458218337",
+        "link": "https://bgm.tv/character/39540",
+        "categorie": "person"
+      },
+      {
+        "id": "52617",
+        "label": "ビアンカ・カーライル",
+        "info": "地球連邦軍所属。階級は少尉。スパルタンに配備されたガンキャノン・アクアの女性パイロット。一年戦争時から数多の戦果を上げた歴戦の戦士。音楽の趣味でイオと意気投合してセッションを持ちかける。なお、入隊前の職業はプロのミュージシャン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/47/52617_crt_gJefn.jpg?r=1490436658",
+        "link": "https://bgm.tv/character/52617",
+        "categorie": "person"
+      },
+      {
+        "id": "52618",
+        "label": "ビンセント・パイク",
+        "info": "地球連邦軍所属。階級は大佐。モニカ・ハンフリー参謀が指揮する極秘作戦に就いた強襲揚陸艦スパルタンの艦長。人に頭を下げるのが嫌いな性格だが、礼儀は重んじる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/8f/52618_crt_2RGUH.jpg?r=1490436830",
+        "link": "https://bgm.tv/character/52618",
+        "categorie": "person"
+      },
+      {
+        "id": "52619",
+        "label": "モニカ・ハンフリー",
+        "info": "地球連邦軍所属。階級は大佐。統合参謀本部第三局次長。ある作戦の立案者として、アトラスガンダムを調達し、その作戦を実行するためスパルタンに司令官として乗艦する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/06/52619_crt_9pjGu.jpg?r=1490436946",
+        "link": "https://bgm.tv/character/52619",
+        "categorie": "person"
+      },
+      {
+        "id": "52620",
+        "label": "ビリー・ヒッカム",
+        "info": "ジオン公国軍所属。階級は少尉。アッガイのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/64/52620_crt_viNXB.jpg?r=1490437994",
+        "link": "https://bgm.tv/character/52620",
+        "categorie": "person"
+      },
+      {
+        "id": "52621",
+        "label": "セバスチャン・モース",
+        "info": "地球に降りたジオン公国軍の残存部隊の軍曹。ダリルが指揮する小隊に所属。アッガイのパイロット。ビリーのニュータイプとしての力を信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/2e/52621_crt_QIGqE.jpg?r=1490438231",
+        "link": "https://bgm.tv/character/52621",
+        "categorie": "person"
+      },
+      {
+        "id": "52784",
+        "label": "アリシア",
+        "info": "地球連邦軍所属。階級は曹長。スパルタンに乗務するガンダム・ヘッドのパイロット。クリードが隊長を務める黒猫隊の一員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/58/52784_crt_4Kqrd.jpg?r=1490437404",
+        "link": "https://bgm.tv/character/52784",
+        "categorie": "person"
+      },
+      {
+        "id": "52781",
+        "label": "ジョシュ",
+        "info": "地球連邦軍所属。階級は大尉。モニカ・ハンフリー大佐の副官のひとりとして、スパルタンに乗務する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/1d/52781_crt_duiUd.jpg?r=1490437124",
+        "link": "https://bgm.tv/character/52781",
+        "categorie": "person"
+      },
+      {
+        "id": "52783",
+        "label": "メグ・リーム",
+        "info": "地球連邦軍所属。階級は曹長。スパルタンのブリッジクルー。オペレーター担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/b1/52783_crt_zTIbC.jpg?r=1490437252",
+        "link": "https://bgm.tv/character/52783",
+        "categorie": "person"
+      },
+      {
+        "id": "52785",
+        "label": "ソニア",
+        "info": "地球連邦軍所属。階級は中尉。スパルタンに乗務するガンタンクのパイロット。黒猫隊の一員。ガンタンクの副座で上官であるクリードのサポートを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/0e/52785_crt_J9FRs.jpg?r=1490437534",
+        "link": "https://bgm.tv/character/52785",
+        "categorie": "person"
+      },
+      {
+        "id": "52787",
+        "label": "クリード",
+        "info": "地球連邦軍所属。階級は大尉。スパルタンに乗務するガンタンクのパイロット。大柄な体格で黒猫をモチーフにしたマーキングを自身のヘルメットと機体に施している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/7a/52787_crt_67o6r.jpg?r=1490437790",
+        "link": "https://bgm.tv/character/52787",
+        "categorie": "person"
+      },
+      {
+        "id": "52788",
+        "label": "バークレー",
+        "info": "地球連邦軍所属。階級は中尉。ミデアに搭載されたコア・ファイター部隊の隊長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/33/52788_crt_3kref.jpg?r=1490437881",
+        "link": "https://bgm.tv/character/52788",
+        "categorie": "person"
+      },
+      {
+        "id": "55942",
+        "label": "チャウ・ミン",
+        "info": "南洋同盟の信者の少年。僧階は律師。ペール中佐が率いる南洋同盟国境守備隊に所属し、グフのパイロットを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/22/55942_crt_CSS3w.jpg",
+        "link": "https://bgm.tv/character/55942",
+        "categorie": "person"
+      },
+      {
+        "id": "55943",
+        "label": "レヴァン・フウ",
+        "info": "地球連邦に所属する軍閥、南洋同盟の指導者。僧階は僧正。そのカリスマに心酔する信者達から絶大な信頼を受ける。一年戦争終結後の掃海作業時にリユース・サイコ・デバイスの情報を入手した模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/36/55943_crt_OPpT6.jpg",
+        "link": "https://bgm.tv/character/55943",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74570",
+        "label": "阿尔巴特罗·纳尔·英治·飞鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/5b/74570_crt_Td9kD.jpg",
+        "link": "https://bgm.tv/character/74570",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

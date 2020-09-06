@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22143",
+        "label": "千叶敦子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/b2/22143_crt_Y8wwN.jpg",
+        "link": "https://bgm.tv/character/22143",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

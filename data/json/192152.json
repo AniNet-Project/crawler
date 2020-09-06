@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65453",
+        "label": "希法尔·莎贝拉",
+        "info": "白色彗星帝国加特兰蒂斯的女宰相",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/3f/65453_crt_9MCyi.jpg",
+        "link": "https://bgm.tv/character/65453",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

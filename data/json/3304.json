@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6782",
+        "label": "荷莉叶特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/29/6782_crt_rBI6d.jpg",
+        "link": "https://bgm.tv/character/6782",
+        "categorie": "person"
+      },
+      {
+        "id": "8021",
+        "label": "崔耶拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/62/8021_crt_Ayk7y.jpg",
+        "link": "https://bgm.tv/character/8021",
+        "categorie": "person"
+      },
+      {
+        "id": "8022",
+        "label": "黎可",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/86/8022_crt_Vj8Vu.jpg",
+        "link": "https://bgm.tv/character/8022",
+        "categorie": "person"
+      },
+      {
+        "id": "8026",
+        "label": "克拉耶丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/a2/8026_crt_47XSX.jpg",
+        "link": "https://bgm.tv/character/8026",
+        "categorie": "person"
+      },
+      {
+        "id": "8028",
+        "label": "安洁丽卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/db/8028_crt_r9J6h.jpg",
+        "link": "https://bgm.tv/character/8028",
+        "categorie": "person"
+      },
+      {
+        "id": "6704",
+        "label": "芙兰卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/0e/6704_crt_JBBa3.jpg?r=1594187386",
+        "link": "https://bgm.tv/character/6704",
+        "categorie": "person"
+      },
+      {
+        "id": "22801",
+        "label": "艾尔莎·迪·西卡",
+        "info": "担当官はラウーロ。愛称：エルザ。思いつめる性格で、他の義体達とは一切交わろうとせず会話もほとんどなかった。これは素体時からの性格とのこと。寮の部屋も1人で使っていたが、自室の荷物は何も無く、私物はラウーロの写真ただ1枚だけだった。その一方で能力は高く、ラウーロ自身も優秀だったことから、フラテッロとしては非常に優れていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/45/22801_crt_k05kz.jpg?r=1550920266",
+        "link": "https://bgm.tv/character/22801",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

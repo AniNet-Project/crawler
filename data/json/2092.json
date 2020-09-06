@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4550",
+        "label": "夏浓·卡苏尔",
+        "info": "カスール家の長男。父親から剣士としての訓練を受けていて、片刃の太刀を愛用する（作中のラインヴァン王国では両刃の剣が一般的で、刀は珍しいという設定）。ラクウェルとは双子の姉弟で、ラクウェルの主張により弟ということになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/02/4550_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4550",
+        "categorie": "person"
+      },
+      {
+        "id": "16842",
+        "label": "帕希菲卡·卡苏鲁",
+        "info": "カスール家の次女で廃棄王女。15歳。金髪碧眼でどこか猫を思わせる容姿と雰囲気の持ち主。ラインヴァン王国の王女だったが、グレンデルの託宣により「世界を滅ぼす猛毒」とされて殺されそうなところを実母の手によって逃され、保護先のユーマ・カスールとキャロル・カスールの養女となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f5/16842_crt_5Py5D.jpg",
+        "link": "https://bgm.tv/character/16842",
+        "categorie": "person"
+      },
+      {
+        "id": "67683",
+        "label": "拉克维尔·卡苏尔",
+        "info": "カスール家の長女。魔法を得意とするが肉体労働は苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/90/67683_crt_99N91.jpg?r=1544595609",
+        "link": "https://bgm.tv/character/67683",
+        "categorie": "person"
+      },
+      {
+        "id": "4551",
+        "label": "ユーマ・ナンブ・カスール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/08/4551_crt_dMpbi.jpg",
+        "link": "https://bgm.tv/character/4551",
+        "categorie": "person"
+      },
+      {
+        "id": "4552",
+        "label": "ナタリイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/90/4552_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4552",
+        "categorie": "person"
+      },
+      {
+        "id": "8089",
+        "label": "レオポルド・スコルプス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/92/8089_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8089",
+        "categorie": "person"
+      },
+      {
+        "id": "16764",
+        "label": "弗雷",
+        "info": "パシフィカが記憶を失った時に出会い共に生活をした青年。記憶のないパシフィカをパメラ（フューレの昔の友達が飼っていた猫の名前）と呼び、王国軍に居場所を突き止められるまで行動を共にした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/ce/16764_crt_Q1VlN.jpg",
+        "link": "https://bgm.tv/character/16764",
+        "categorie": "person"
+      },
+      {
+        "id": "8084",
+        "label": "スィン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/2a/8084_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8084",
+        "categorie": "person"
+      },
+      {
+        "id": "8087",
+        "label": "セリア・マウゼル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/27/8087_crt_FTKiN.jpg",
+        "link": "https://bgm.tv/character/8087",
+        "categorie": "person"
+      },
+      {
+        "id": "10388",
+        "label": "セーネス・ルル・ギアット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d8/10388_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10388",
+        "categorie": "person"
+      },
+      {
+        "id": "10390",
+        "label": "フォルシス・ラインヴァン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/96/10390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

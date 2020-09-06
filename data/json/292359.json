@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72096",
+        "label": "鼓田美奈玲",
+        "info": "本作の主人公。VOYAGERの従業員。麻藤との出会いを機にラジオ業界へ足を踏み入れ、MRSで自身の冠番組を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/34/72096_crt_EzE37.jpg",
+        "link": "https://bgm.tv/character/72096",
+        "categorie": "person"
+      },
+      {
+        "id": "72097",
+        "label": "麻藤兼嗣",
+        "info": "MRSのディレクター。ミナレの喋りの才能を見出し、ミナレをラジオ業界に誘った。ミナレがラジオパーソナリティとしての活動を始めてからは、ミナレの番組のディレクターも務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/3c/72097_crt_qR7VF.jpg",
+        "link": "https://bgm.tv/character/72097",
+        "categorie": "person"
+      },
+      {
+        "id": "72098",
+        "label": "南波瑞穂",
+        "info": "MRSのアシスタントディレクター。ラジオパーソナリティとして活動を開始したミナレを自室に居候させており、また彼女の番組作りにも協力している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/0d/72098_crt_Drqpm.jpg",
+        "link": "https://bgm.tv/character/72098",
+        "categorie": "person"
+      },
+      {
+        "id": "72099",
+        "label": "茅代圆",
+        "info": "MRSでトップクラスの人気を誇るラジオパーソナリティ。ミナレのことを「面白い」と評価しているが、同時に敵視もしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/92/72099_crt_jAW0P.jpg",
+        "link": "https://bgm.tv/character/72099",
+        "categorie": "person"
+      },
+      {
+        "id": "72343",
+        "label": "久连木克己",
+        "info": "藻岩山ラジオ局（MRS）の雇われ構成作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/36/72343_crt_0L7uy.jpg?r=1571456938",
+        "link": "https://bgm.tv/character/72343",
+        "categorie": "person"
+      },
+      {
+        "id": "72344",
+        "label": "甲本龙丞",
+        "info": "藻岩山ラジオ局（MRS）のミキサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/24/72344_crt_gQaQ3.jpg?r=1571457031",
+        "link": "https://bgm.tv/character/72344",
+        "categorie": "person"
+      },
+      {
+        "id": "72345",
+        "label": "中原忠也",
+        "info": "スープカレー店「ボイジャー」の従業員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c4/72345_crt_2UmYV.jpg?r=1571457183",
+        "link": "https://bgm.tv/character/72345",
+        "categorie": "person"
+      },
+      {
+        "id": "72346",
+        "label": "城华牧江",
+        "info": "兄が「ボイジャー」の店長に",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/ec/72346_crt_BofOJ.jpg?r=1571457318",
+        "link": "https://bgm.tv/character/72346",
+        "categorie": "person"
+      },
+      {
+        "id": "72347",
+        "label": "宝田嘉树",
+        "info": "スープカレー店「ボイジャー」の店長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/d6/72347_crt_A95z0.jpg?r=1571457468",
+        "link": "https://bgm.tv/character/72347",
+        "categorie": "person"
+      },
+      {
+        "id": "72348",
+        "label": "須贺光雄",
+        "info": "ミナレの元カレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/fd/72348_crt_dgGR5.jpg?r=1571457607",
+        "link": "https://bgm.tv/character/72348",
+        "categorie": "person"
+      },
+      {
+        "id": "74911",
+        "label": "冲进次",
+        "info": "ミナレが暮らすアパートの住人で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/52/74911_crt_BIVBC.jpg?r=1579778916",
+        "link": "https://bgm.tv/character/74911",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

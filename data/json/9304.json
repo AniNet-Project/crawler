@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17526",
+        "label": "来生瞳",
+        "info": "来生三姐妹中的次女，是三姐妹之中身手最好的一位。在盗窃行动中一直处于主导地位。她与接手猫眼案子的内海俊夫自高校时代起就保持恋人关系，不过俊夫并不清楚瞳的真实身份。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/1d/17526_crt_6ThgN.jpg?r=1384908643",
+        "link": "https://bgm.tv/character/17526",
+        "categorie": "person"
+      },
+      {
+        "id": "17527",
+        "label": "来生泪",
+        "info": "来生三姐妹中的长女，性格冷静沉着，是三姐妹的领导者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/21/17527_crt_1tpMm.jpg",
+        "link": "https://bgm.tv/character/17527",
+        "categorie": "person"
+      },
+      {
+        "id": "17528",
+        "label": "来生爱",
+        "info": "来生三姐妹中的三女，留着短发，是女高中生。擅长机械操作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/dc/17528_crt_onDBS.jpg",
+        "link": "https://bgm.tv/character/17528",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

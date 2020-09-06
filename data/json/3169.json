@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8879",
+        "label": "热气·巴萨拉",
+        "info": "マクロス 7男主角，吉他手，是乐团Fire Bomber的主唱之一。初登场时21岁，擅长驾驶Valkyrie，并且试图用歌声来感动巴洛塔人（又译为“原始恶魔”），座机为VF-19改热气巴萨拉专用机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/8d/8879_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8879",
+        "categorie": "person"
+      },
+      {
+        "id": "11192",
+        "label": "米莲·吉纳斯",
+        "info": "マクロス 7女主角，担任贝斯手，也是乐团Fire Bomber的主唱之一。生于 2031 年，初登场时14岁，是地球人（麦克斯.吉纳斯）舰长与杰特拉帝人（米莉亚.法莉娜.吉纳斯）市长所生的第七个孩子；个性完全遗传至她的母亲米莉亚，常跟巴萨拉吵架，也似乎因为父母都是天才驾驶员对驾驶Valkyrie也很有一套。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/d6/11192_crt_G5oLV.jpg",
+        "link": "https://bgm.tv/character/11192",
+        "categorie": "person"
+      },
+      {
+        "id": "55596",
+        "label": "卡姆林·木崎",
+        "info": "第37次超長距離移民船団マクロス7所属の統合軍精鋭可変戦闘機（バルキリー）部隊、ダイアモンドフォースのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/13/55596_crt_Rv630.jpg",
+        "link": "https://bgm.tv/character/55596",
+        "categorie": "person"
+      },
+      {
+        "id": "55601",
+        "label": "雷伊",
+        "info": "レイ・ラブロックは、Fire Bomberのリーダーで、キーボードとミュージックアレンジ担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/1a/55601_crt_R06G4.jpg",
+        "link": "https://bgm.tv/character/55601",
+        "categorie": "person"
+      },
+      {
+        "id": "55602",
+        "label": "比希达",
+        "info": "ビヒーダ・フィーズは、Fire Bomberのドラム担当。声の出演は高乃麗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/95/55602_crt_4Y4Mt.jpg?r=1499539235",
+        "link": "https://bgm.tv/character/55602",
+        "categorie": "person"
+      },
+      {
+        "id": "55613",
+        "label": "グババ",
+        "info": "cv：蔭山満",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/a0/55613_crt_xa4xZ.jpg",
+        "link": "https://bgm.tv/character/55613",
+        "categorie": "person"
+      },
+      {
+        "id": "8554",
+        "label": "马克西米利安·吉纳斯",
+        "info": "「超时空要塞Macross」",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/23/8554_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8554",
+        "categorie": "person"
+      },
+      {
+        "id": "41166",
+        "label": "米莉亚·法莉娜",
+        "info": "「超时空要塞Macross」",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/bb/41166_crt_zgCZv.jpg?r=1462197612",
+        "link": "https://bgm.tv/character/41166",
+        "categorie": "person"
+      },
+      {
+        "id": "55568",
+        "label": "希維爾",
+        "info": "諜報破壊活動用として開発された、マイクローンサイズの少女型エビルを器とするプロトデビルン。統合軍における呼称は「G3（ジースリー）」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d5/55568_crt_rgLmi.jpg?r=1499008824",
+        "link": "https://bgm.tv/character/55568",
+        "categorie": "person"
+      },
+      {
+        "id": "55598",
+        "label": "花束の少女",
+        "info": "熱気バサラの大ファンで、常にバサラを追いかけている謎の少女。プロフィール等は一切不明。Fire Bomberの行くところどこにでも現れ、バサラに花束を渡そうとするが、間の悪さや消極的な姿勢により毎回渡しそびれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/e4/55598_crt_1wdD6.jpg",
+        "link": "https://bgm.tv/character/55598",
+        "categorie": "person"
+      },
+      {
+        "id": "55606",
+        "label": "凯佩尔尼基",
+        "info": "プロトカルチャーによって製造された生体兵器エビルシリーズ中最大・最強の個体を器とするプロトデビルンの頭目格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/e5/55606_crt_4g44d.jpg",
+        "link": "https://bgm.tv/character/55606",
+        "categorie": "person"
+      },
+      {
+        "id": "55569",
+        "label": "妮絲",
+        "info": "ミルキーロードを走る暴走族集団「レックス軍団」のリーダー。地球軌道上衛星都市エクシア・ローダー出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/94/55569_crt_5urTu.jpg",
+        "link": "https://bgm.tv/character/55569",
+        "categorie": "person"
+      },
+      {
+        "id": "55570",
+        "label": "北条秋子",
+        "info": "アキコリップスレーベルのエグゼクティブ・プロデューサー。年齢は非公表。月面居住区画ノース・シャトウ出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/c3/55570_crt_rZ2s9.jpg",
+        "link": "https://bgm.tv/character/55570",
+        "categorie": "person"
+      },
+      {
+        "id": "55595",
+        "label": "菲迪加",
+        "info": "戦線離脱したドッカーに代わりダイアモンドフォースに配属されるパイロット。階級は少尉。コールサインはD3。パイロットとしての腕は一流だが、やや控えめで、気の弱い一面がある。妻（ウェンディ。旧姓アズライト）と2歳になる子供（マリーナ。愛称は「まーくん」）がいるが、激務のためなかなか会うことが出来ずにおり、子供には顔も覚えられていなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/4d/55595_crt_78jp4.jpg",
+        "link": "https://bgm.tv/character/55595",
+        "categorie": "person"
+      },
+      {
+        "id": "55599",
+        "label": "美保美穂",
+        "info": "バトル7ブリッジオペレーターの一人。艦長席前方、向かって左側の席に座り、主にバトロイド管制を担当する。階級は少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/f0/55599_crt_PdycL.jpg",
+        "link": "https://bgm.tv/character/55599",
+        "categorie": "person"
+      },
+      {
+        "id": "55600",
+        "label": "莎莉",
+        "info": "バトル7ブリッジオペレーターの一人。艦長席前方、向かって右側の席に座り、主に艦内管制と情報分析を担当する。階級は少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/e7/55600_crt_zSHvv.jpg",
+        "link": "https://bgm.tv/character/55600",
+        "categorie": "person"
+      },
+      {
+        "id": "55605",
+        "label": "基基尔",
+        "info": "ゲペルニッチ配下のプロトデビルンの一体。性格は直情型、かつ好戦的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/39/55605_crt_YLo77.jpg",
+        "link": "https://bgm.tv/character/55605",
+        "categorie": "person"
+      },
+      {
+        "id": "55614",
+        "label": "金龙",
+        "info": "ダイアモンドフォースの隊長。34歳。階級は大尉。スキンヘッドに麒麟のタトゥーがトレードマーク。任務に忠実な歴戦の軍人で、部下の信頼も厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/80/55614_crt_9g7LI.jpg",
+        "link": "https://bgm.tv/character/55614",
+        "categorie": "person"
+      },
+      {
+        "id": "55603",
+        "label": "ハニー・鈴木",
+        "info": "スウィートベルウッドオフィス主宰の音楽プロデューサー兼ディレクター。女性的な言動が特徴で、自分のことは必ず「ハニー」と呼ばせる。Fire Bomberデビューシングルの録音を担当するが、ファッショナブルで大衆受けするサウンドを求めるがゆえにバサラと反りが合わず、買い取りを持ちかけたアキコに売り渡す。後に統合軍が編成する民間協力隊｢ジャミングバーズ｣の音楽面でのプロデュースを担当する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/c9/55603_crt_YXu27.jpg",
+        "link": "https://bgm.tv/character/55603",
+        "categorie": "person"
+      },
+      {
+        "id": "55604",
+        "label": "アリス・ホリディ",
+        "info": "銀河ネットワークチャートのトップシンガーであり、ミレーヌの憧れの存在。持ち歌は「Galaxy」。バロータ軍によりスピリチア自己再生の実験台として密かにスピリチアを抜き取られ、Fire Bomberに刺激されることで活力を取り戻す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/9f/55604_crt_CSgCR.jpg",
+        "link": "https://bgm.tv/character/55604",
+        "categorie": "person"
+      },
+      {
+        "id": "11190",
+        "label": "Fire Bomber",
+        "info": "　　FIRE BOMBER，是出现在超时空要塞MACROSS系列1994年的TV作品《マクロス 7》（MACROSS7，超时空要塞7），剧场版《マクロス 7 银河がオレを呼んでいる!》（超时空要塞7剧场版）及OVA作品《Macross Dynamite 7》（通译《超时空要塞7 宇宙鲸鱼》）中的一支流行乐队",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/29/11190_crt_8z48R.jpg",
+        "link": "https://bgm.tv/character/11190",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

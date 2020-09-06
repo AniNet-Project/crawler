@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10172",
+        "label": "伊良部一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/47/10172_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10172",
+        "categorie": "person"
+      },
+      {
+        "id": "10174",
+        "label": "田口哲也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/ff/10174_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10174",
+        "categorie": "person"
+      },
+      {
+        "id": "10175",
+        "label": "坂東真一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/7c/10175_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10175",
+        "categorie": "person"
+      },
+      {
+        "id": "10176",
+        "label": "津田雄太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/66/10176_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10176",
+        "categorie": "person"
+      },
+      {
+        "id": "10177",
+        "label": "岩村義雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/3f/10177_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10177",
+        "categorie": "person"
+      },
+      {
+        "id": "10178",
+        "label": "津田英雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/47/10178_crt_hndpd.jpg",
+        "link": "https://bgm.tv/character/10178",
+        "categorie": "person"
+      },
+      {
+        "id": "10179",
+        "label": "福井っち",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/9b/10179_crt_ZmYJ9.jpg",
+        "link": "https://bgm.tv/character/10179",
+        "categorie": "person"
+      },
+      {
+        "id": "48153",
+        "label": "真由美",
+        "info": "性感的护士姐姐，杉本有美出演。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/a0/48153_crt_Wfeei.jpg",
+        "link": "https://bgm.tv/character/48153",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

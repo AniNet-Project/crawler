@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35032",
+        "label": "岛田勘兵卫",
+        "info": "サムライ達のリーダー格で、多くの戦場をめぐった経験から文武両道に長けた人望あるサムライ。ただし参加した戦は負け戦ばかりである。紅蜘蛛や雷電といった機械のサムライはもちろん、二ノ丸などを刀で撃破している。また、第21話で髪飾りを使って手枷を外し処刑台から脱出を図るなど、手先も器用である。当初は「負け戦」を理由にキララ達の話を断っていたが、後に1人目となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/aa/35032_crt_B9Z9e.jpg",
+        "link": "https://bgm.tv/character/35032",
+        "categorie": "person"
+      },
+      {
+        "id": "4531",
+        "label": "小町",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/38/4531_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4531",
+        "categorie": "person"
+      },
+      {
+        "id": "4532",
+        "label": "右京",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/38/4532_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4532",
+        "categorie": "person"
+      },
+      {
+        "id": "4533",
+        "label": "铁斋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a8/4533_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4533",
+        "categorie": "person"
+      },
+      {
+        "id": "4534",
+        "label": "冈本胜四郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/ca/4534_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4534",
+        "categorie": "person"
+      },
+      {
+        "id": "4535",
+        "label": "片山五郎兵卫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/e1/4535_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4535",
+        "categorie": "person"
+      },
+      {
+        "id": "4536",
+        "label": "七郎次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/bc/4536_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4536",
+        "categorie": "person"
+      },
+      {
+        "id": "4537",
+        "label": "绮罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/31/4537_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4537",
+        "categorie": "person"
+      },
+      {
+        "id": "11201",
+        "label": "久藏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/a7/11201_crt_0aX1d.jpg",
+        "link": "https://bgm.tv/character/11201",
+        "categorie": "person"
+      },
+      {
+        "id": "4538",
+        "label": "紅蜘蛛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/fd/4538_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4538",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

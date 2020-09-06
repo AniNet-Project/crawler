@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13169",
+        "label": "高仓冠叶",
+        "info": "高仓家的长男，与弟弟晶马是双胞胎，溺爱妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c5/13169_crt_11SL1.jpg",
+        "link": "https://bgm.tv/character/13169",
+        "categorie": "person"
+      },
+      {
+        "id": "13170",
+        "label": "高仓晶马",
+        "info": "高仓家的次男，与哥哥是双胞胎，溺爱妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/be/13170_crt_LAhiS.jpg",
+        "link": "https://bgm.tv/character/13170",
+        "categorie": "person"
+      },
+      {
+        "id": "13171",
+        "label": "高仓阳毬",
+        "info": "高仓家的小妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/c1/13171_crt_m0EMk.jpg?r=1476691682",
+        "link": "https://bgm.tv/character/13171",
+        "categorie": "person"
+      },
+      {
+        "id": "13198",
+        "label": "荻野目苹果",
+        "info": "櫻花御苑女子高中的学生，暗恋晶马和冠叶的班主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/48/13198_crt_7tpMT.jpg",
+        "link": "https://bgm.tv/character/13198",
+        "categorie": "person"
+      },
+      {
+        "id": "13392",
+        "label": "多蕗桂树",
+        "info": "冠叶与晶马学校的班主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/fd/13392_crt_9Hx29.jpg",
+        "link": "https://bgm.tv/character/13392",
+        "categorie": "person"
+      },
+      {
+        "id": "13393",
+        "label": "时笼百合",
+        "info": "女演员，多蕗桂樹的未婚妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/b5/13393_crt_a7guA.jpg",
+        "link": "https://bgm.tv/character/13393",
+        "categorie": "person"
+      },
+      {
+        "id": "13394",
+        "label": "夏芽真砂子",
+        "info": "真讨厌～不快点碾碎的话～～☆",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/24/13394_crt_cACnd.jpg",
+        "link": "https://bgm.tv/character/13394",
+        "categorie": "person"
+      },
+      {
+        "id": "14037",
+        "label": "夏芽万里夫",
+        "info": "真砂子的弟弟，曾于阳毬去世当天于水族馆出现。目前一直都戴着企鹅帽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/a1/14037_crt_1M7fZ.jpg",
+        "link": "https://bgm.tv/character/14037",
+        "categorie": "person"
+      },
+      {
+        "id": "14038",
+        "label": "渡濑真悧",
+        "info": "你，沉醉了吧～☆",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/91/14038_crt_1mcrc.jpg",
+        "link": "https://bgm.tv/character/14038",
+        "categorie": "person"
+      },
+      {
+        "id": "14428",
+        "label": "水晶公主",
+        "info": "阳毬戴上在水族馆所买的企鹅帽子，而变成的另一个人格。高压毒舌家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/a6/14428_crt_QZAoi.jpg",
+        "link": "https://bgm.tv/character/14428",
+        "categorie": "person"
+      },
+      {
+        "id": "14429",
+        "label": "伊空云雀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c8/14429_crt_z3C4V.jpg",
+        "link": "https://bgm.tv/character/14429",
+        "categorie": "person"
+      },
+      {
+        "id": "14430",
+        "label": "歌田光莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/09/14430_crt_wnGyv.jpg",
+        "link": "https://bgm.tv/character/14430",
+        "categorie": "person"
+      },
+      {
+        "id": "14432",
+        "label": "企鹅1号",
+        "info": "冠叶的伙伴。有着貌似大叔的粗眉，十分好色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d6/14432_crt_1vZav.jpg",
+        "link": "https://bgm.tv/character/14432",
+        "categorie": "person"
+      },
+      {
+        "id": "14433",
+        "label": "企鹅2号",
+        "info": "晶马的伙伴。没有脸部特征。擅长煮食和进食。看见蟑螂之类的虫就会拿杀虫剂去扑灭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/37/14433_crt_w133A.jpg",
+        "link": "https://bgm.tv/character/14433",
+        "categorie": "person"
+      },
+      {
+        "id": "14434",
+        "label": "企鹅3号",
+        "info": "阳毬的伙伴，被称为“小三”(サン ちゃん，罗马拼音：San Chan)。绑上了红丝带，有眼睫毛。擅长编织。对Double H和时笼百合有很大兴趣，收藏了相关的杂志。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/89/14434_crt_ZfmKZ.jpg",
+        "link": "https://bgm.tv/character/14434",
+        "categorie": "person"
+      },
+      {
+        "id": "14436",
+        "label": "荻野目桃果",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/1c/14436_crt_9Dqsz.jpg",
+        "link": "https://bgm.tv/character/14436",
+        "categorie": "person"
+      },
+      {
+        "id": "13524",
+        "label": "山下洋介",
+        "info": "晶马的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/03/13524_crt_Qd30K.jpg",
+        "link": "https://bgm.tv/character/13524",
+        "categorie": "person"
+      },
+      {
+        "id": "14435",
+        "label": "绿翡翠",
+        "info": "夏芽的伙伴。黑色毛发较长，雌性特征明显，在他人面前充满杀气。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/df/14435_crt_c3jyt.jpg",
+        "link": "https://bgm.tv/character/14435",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "14431",
+        "label": "Triple H",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/45/14431_crt_8345p.jpg",
+        "link": "https://bgm.tv/character/14431",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

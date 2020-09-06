@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "486",
+        "label": "雾雨魔理沙",
+        "info": "居住于魔法森林的人类魔法使，常骑着扫把，「霧雨店」的独生女。會使用魔法森林的蘑菇調製火藥，所使用的魔法幾乎只有把東西破壞的效果，而且燃料需要長時間準備，但是其效果非常強力，在Spell Card規則成立下，純粹的破壞力在人類當中屬於最高等級。此外在幻想乡是出了名的小偷，帕邱莉的图书馆、香霖堂，如果不是古明地觉会读心术，甚至连地灵殿都会惨遭毒手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/48/486_crt_3cgWl.jpg?r=1565683463",
+        "link": "https://bgm.tv/character/486",
+        "categorie": "person"
+      },
+      {
+        "id": "12688",
+        "label": "十六夜咲夜",
+        "info": "她是住在红魔馆并在里面工作的女仆。是被称之为恶魔之馆的红魔馆中唯一的人类，是女仆们的仆长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/76/12688_crt_a95au.jpg?r=1522595460",
+        "link": "https://bgm.tv/character/12688",
+        "categorie": "person"
+      },
+      {
+        "id": "16418",
+        "label": "小野塚小町",
+        "info": "担任三途河的摆渡人一职的死神。与她一起负责三途之河引渡工作的死神还有很多，不过多数时候她专门负责引渡幻想乡中人类的灵魂（×1只要她有余力，也能运送外面的世界中的人类）。因此她的身影经常在幻想乡中出现（×2在偷懒吗？）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/08/16418_crt_JJzaL.jpg?r=1563894976",
+        "link": "https://bgm.tv/character/16418",
+        "categorie": "person"
+      },
+      {
+        "id": "16419",
+        "label": "四季映姬·夜摩仙那度",
+        "info": "大量阎魔的其中一人。常担当幻想乡死者的裁决，是和我们关系最密切的阎魔（×1夜摩仙那度是她在是非曲直厅中的职务名，意思就是那样，意为乐园的阎魔。1）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/30/16419_crt_RfUZ4.jpg?r=1563894873",
+        "link": "https://bgm.tv/character/16419",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

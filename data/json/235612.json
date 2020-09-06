@@ -1,0 +1,325 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60455",
+        "label": "红血球",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b3/60455_crt_FD4cR.jpg?r=1516938274",
+        "link": "https://bgm.tv/character/60455",
+        "categorie": "person"
+      },
+      {
+        "id": "60456",
+        "label": "白血球（U-1146）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/53/60456_crt_6EUyY.jpg?r=1516938387",
+        "link": "https://bgm.tv/character/60456",
+        "categorie": "person"
+      },
+      {
+        "id": "60457",
+        "label": "杀手T细胞",
+        "info": "ウイルス感染細胞、癌細胞などの異物を認識・破壊する殺し屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/ce/60457_crt_5q7s9.jpg?r=1537843531",
+        "link": "https://bgm.tv/character/60457",
+        "categorie": "person"
+      },
+      {
+        "id": "60458",
+        "label": "巨噬细胞",
+        "info": "細菌などの異物を捕らえて殺し、抗原や免疫情報を見つけ出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/04/60458_crt_T17VN.jpg?r=1537843706",
+        "link": "https://bgm.tv/character/60458",
+        "categorie": "person"
+      },
+      {
+        "id": "60459",
+        "label": "血小板",
+        "info": "血管が損傷した際に集合し、傷口をふさいで止血する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/b9/60459_crt_nGmre.jpg?r=1531049545",
+        "link": "https://bgm.tv/character/60459",
+        "categorie": "person"
+      },
+      {
+        "id": "63050",
+        "label": "辅助性T细胞",
+        "info": "外敵侵入の知らせを受け、敵の情報をもとに、",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/42/63050_crt_1td8L.jpg?r=1537842540",
+        "link": "https://bgm.tv/character/63050",
+        "categorie": "person"
+      },
+      {
+        "id": "63052",
+        "label": "调节性T细胞",
+        "info": "T細胞の暴走を抑え、免疫異常を起こさないように調整する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/9e/63052_crt_hqHP8.jpg?r=1537842601",
+        "link": "https://bgm.tv/character/63052",
+        "categorie": "person"
+      },
+      {
+        "id": "63053",
+        "label": "树突细胞",
+        "info": "体内に侵入してきた細菌や、ウイルス感染細胞などの断片を抗原として提示し、他の免疫系の細胞に伝える役割を持つ。その名の通り周囲に突起を伸ばしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/3c/63053_crt_2UVQ2.jpg?r=1537842681",
+        "link": "https://bgm.tv/character/63053",
+        "categorie": "person"
+      },
+      {
+        "id": "64602",
+        "label": "记忆细胞",
+        "info": "抗原の免疫を記憶しているリンパ球。同じ細菌やウイルスの再度の侵入に備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/68/64602_crt_x6iBh.jpg?r=1537843430",
+        "link": "https://bgm.tv/character/64602",
+        "categorie": "person"
+      },
+      {
+        "id": "64603",
+        "label": "B细胞",
+        "info": "細菌やウイルスなどの抗原に対し、抗体という武器を作り、戦うリンパ球の一種。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/a3/64603_crt_HhY7B.jpg?r=1537843005",
+        "link": "https://bgm.tv/character/64603",
+        "categorie": "person"
+      },
+      {
+        "id": "65452",
+        "label": "NK细胞",
+        "info": "全身をパトロールし、がん細胞やウイルス感染細胞などを見つけ次第攻撃する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/75/65452_crt_vaHmm.jpg?r=1537843063",
+        "link": "https://bgm.tv/character/65452",
+        "categorie": "person"
+      },
+      {
+        "id": "64883",
+        "label": "初始T细胞",
+        "info": "抗原と一度も遭遇したことがない未熟なT細胞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/d9/64883_crt_1wjO9.jpg?r=1537842782",
+        "link": "https://bgm.tv/character/64883",
+        "categorie": "person"
+      },
+      {
+        "id": "64884",
+        "label": "效应T细胞",
+        "info": "活性化したナイーブT細胞の姿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/f5/64884_crt_9HZPf.jpg?r=1537843149",
+        "link": "https://bgm.tv/character/64884",
+        "categorie": "person"
+      },
+      {
+        "id": "64885",
+        "label": "记忆T细胞",
+        "info": "キラーT細胞の一部がメモリーＴ細胞となる。同じ敵が出現したときに再び攻撃をしかけるよう備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ef/64885_crt_1waSB.jpg?r=1536464290",
+        "link": "https://bgm.tv/character/64885",
+        "categorie": "person"
+      },
+      {
+        "id": "63054",
+        "label": "嗜酸性粒细胞",
+        "info": "アレルギーや寄生虫感染があるとき増殖する。弱いながらも他の白血球のように貪食能力がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/e9/63054_crt_NdVty.jpg?r=1537843274",
+        "link": "https://bgm.tv/character/63054",
+        "categorie": "person"
+      },
+      {
+        "id": "65087",
+        "label": "嗜碱性粒细胞",
+        "info": "白血球の一種。全白血球の1％未満と言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/78/65087_crt_NcdNb.jpg?r=1537843375",
+        "link": "https://bgm.tv/character/65087",
+        "categorie": "person"
+      },
+      {
+        "id": "64604",
+        "label": "肥大细胞",
+        "info": "過剰につくられたIgEの刺激に反応してヒスタミンやロイコトリエンなどの化学物質を分担する。肥満細胞といっても肥満とは関係ない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/45/64604_crt_2IOyK.jpg?r=1537843620",
+        "link": "https://bgm.tv/character/64604",
+        "categorie": "person"
+      },
+      {
+        "id": "64886",
+        "label": "白血球（2048）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/c6/64886_crt_l8gPv.jpg",
+        "link": "https://bgm.tv/character/64886",
+        "categorie": "person"
+      },
+      {
+        "id": "64887",
+        "label": "白血球（2626）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/87/64887_crt_LGgFp.jpg",
+        "link": "https://bgm.tv/character/64887",
+        "categorie": "person"
+      },
+      {
+        "id": "64888",
+        "label": "白血球（4989）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/bd/64888_crt_uZRUL.jpg",
+        "link": "https://bgm.tv/character/64888",
+        "categorie": "person"
+      },
+      {
+        "id": "66254",
+        "label": "白血球（2001）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/1e/66254_crt_rpgzG.jpg",
+        "link": "https://bgm.tv/character/66254",
+        "categorie": "person"
+      },
+      {
+        "id": "64601",
+        "label": "红血球前辈",
+        "info": "赤血球(AE3808)の先輩。面倒見がよい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/1d/64601_crt_kbFEo.jpg?r=1536463744",
+        "link": "https://bgm.tv/character/64601",
+        "categorie": "person"
+      },
+      {
+        "id": "66256",
+        "label": "红血球后辈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/dd/66256_crt_30QIx.jpg?r=1537939547",
+        "link": "https://bgm.tv/character/66256",
+        "categorie": "person"
+      },
+      {
+        "id": "64218",
+        "label": "肺炎球菌",
+        "info": "肺炎などを引き起こす呼吸器病原性菌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/34/64218_crt_Gu20A.jpg?r=1531631269",
+        "link": "https://bgm.tv/character/64218",
+        "categorie": "person"
+      },
+      {
+        "id": "64759",
+        "label": "金黄色葡萄球菌",
+        "info": "皮膚や毛穴などに常在する細菌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/3c/64759_crt_97ky2.jpg?r=1536463819",
+        "link": "https://bgm.tv/character/64759",
+        "categorie": "person"
+      },
+      {
+        "id": "65089",
+        "label": "弯曲杆菌",
+        "info": "発熱、下痢、腹痛などをもたらす感染性腸炎の原因菌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/c6/65089_crt_KeKqF.jpg?r=1536463968",
+        "link": "https://bgm.tv/character/65089",
+        "categorie": "person"
+      },
+      {
+        "id": "64889",
+        "label": "酿脓链球菌",
+        "info": "咽頭、消化器、皮膚などに生息する、ごくありふれた常在菌の一種だが多様な疾患の原因となることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/19/64889_crt_48KJR.jpg?r=1536463914",
+        "link": "https://bgm.tv/character/64889",
+        "categorie": "person"
+      },
+      {
+        "id": "64890",
+        "label": "绿脓菌",
+        "info": "自然環境中に存在する代表的な常在菌の一種。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/1c/64890_crt_I4Gk9.jpg?r=1536463864",
+        "link": "https://bgm.tv/character/64890",
+        "categorie": "person"
+      },
+      {
+        "id": "65088",
+        "label": "肠炎弧菌",
+        "info": "主に海水中に生息する細菌であり、この菌に汚染された魚介類を食べることにより、激しい腹痛などを伴う感染型の腸炎ビブリオ食中毒を発症させることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/bc/65088_crt_v4kG4.jpg?r=1536464727",
+        "link": "https://bgm.tv/character/65088",
+        "categorie": "person"
+      },
+      {
+        "id": "65263",
+        "label": "杉树花粉",
+        "info": "スギ花粉が抗原（アレルゲン）となって起きる。”くしゃみ、鼻水、鼻づまり、目のかゆみ”などのアレルギー症状が起こる。ピークは2～3月。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/11/65263_crt_6c3IK.jpg",
+        "link": "https://bgm.tv/character/65263",
+        "categorie": "person"
+      },
+      {
+        "id": "66307",
+        "label": "好中球先生",
+        "info": "細菌が侵入した際の赤芽球の避難訓練のお手伝いにやってきた好中球。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/29/66307_crt_4Cj11.jpg?r=1537843861",
+        "link": "https://bgm.tv/character/66307",
+        "categorie": "person"
+      },
+      {
+        "id": "65755",
+        "label": "癌细胞",
+        "info": "由于细胞的遗传基因发生异常，无限增殖的细胞。它能入侵周遭正常细胞的边界。不断增殖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/16/65755_crt_hZjeT.jpg",
+        "link": "https://bgm.tv/character/65755",
+        "categorie": "person"
+      },
+      {
+        "id": "66210",
+        "label": "胸腺上皮细胞教官",
+        "info": "胸腺学校の先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ee/66210_crt_pwng2.jpg?r=1537843461",
+        "link": "https://bgm.tv/character/66210",
+        "categorie": "person"
+      },
+      {
+        "id": "66335",
+        "label": "单核细胞",
+        "info": "全白血球の約7％を占める単核の遊走細胞。他の免疫細胞同様、生体防御に関与する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/0b/66335_crt_bRe1R.jpg?r=1537884633",
+        "link": "https://bgm.tv/character/66335",
+        "categorie": "person"
+      },
+      {
+        "id": "66095",
+        "label": "蜡样芽孢杆菌",
+        "info": "土、水中など自然環境中に広く分布している土壌細菌の1つ。発育の段階で芽胞と呼ばれる熱に強い殻を作り、100℃30分の過熱にも耐えることができる。下痢型、嘔吐型の2種類の食中毒を引き起こすことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/41/66095_crt_X8XeU.jpg?r=1537841793",
+        "link": "https://bgm.tv/character/66095",
+        "categorie": "person"
+      },
+      {
+        "id": "64891",
+        "label": "消化管细胞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/08/64891_crt_xGn3G.jpg",
+        "link": "https://bgm.tv/character/64891",
+        "categorie": "person"
+      },
+      {
+        "id": "78243",
+        "label": "一般细胞",
+        "info": "細胞分裂を仕事とする一般的な細胞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/66/78243_crt_sZHUH.jpg?r=1595061650",
+        "link": "https://bgm.tv/character/78243",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

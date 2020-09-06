@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21418",
+        "label": "夜之森小红",
+        "info": "本作主角，拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/12/21418_crt_cqedS.jpg",
+        "link": "https://bgm.tv/character/21418",
+        "categorie": "person"
+      },
+      {
+        "id": "21419",
+        "label": "夜之森红绪",
+        "info": "比小红大二岁的姐姐，成绩优秀、文武双全的美少女，但对于料理及洗衣服之类的家事不拿手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/5d/21419_crt_7DZJh.jpg",
+        "link": "https://bgm.tv/character/21419",
+        "categorie": "person"
+      },
+      {
+        "id": "21420",
+        "label": "三峰真白",
+        "info": "白夜的妹妹，小红的小姑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/11/21420_crt_qR2Zn.jpg",
+        "link": "https://bgm.tv/character/21420",
+        "categorie": "person"
+      },
+      {
+        "id": "21421",
+        "label": "三峰白夜",
+        "info": "与小红有着婚约，并来到小红家里居住的少年，故乡是连红绿灯都没有的乡下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/3d/21421_crt_1GuW7.jpg",
+        "link": "https://bgm.tv/character/21421",
+        "categorie": "person"
+      },
+      {
+        "id": "22317",
+        "label": "桃内真由罗",
+        "info": "小红的好朋友，性格文静，但有点天然。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/4f/22317_crt_fQ9cK.jpg?r=1386220705",
+        "link": "https://bgm.tv/character/22317",
+        "categorie": "person"
+      },
+      {
+        "id": "22347",
+        "label": "鹿岛抚子",
+        "info": "学生会副会长，红绪的同学与好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/8d/22347_crt_SNSdM.jpg?r=1386307037",
+        "link": "https://bgm.tv/character/22347",
+        "categorie": "person"
+      },
+      {
+        "id": "22329",
+        "label": "末续木叶",
+        "info": "学生会书记，1年级生，与仁子是好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/9f/22329_crt_l93sS.jpg?r=1386221157",
+        "link": "https://bgm.tv/character/22329",
+        "categorie": "person"
+      },
+      {
+        "id": "22348",
+        "label": "大野仁子",
+        "info": "新闻社成员，1年级生，与木叶是好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/92/22348_crt_1K2Op.jpg?r=1386307085",
+        "link": "https://bgm.tv/character/22348",
+        "categorie": "person"
+      },
+      {
+        "id": "22528",
+        "label": "夜之森茜",
+        "info": "小红与红绪的母亲，与丈夫离婚，并一肩挑起养育女儿的责任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/c0/22528_crt_6lpfS.jpg",
+        "link": "https://bgm.tv/character/22528",
+        "categorie": "person"
+      },
+      {
+        "id": "22641",
+        "label": "三峰白雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/1b/22641_crt_bLLjF.jpg",
+        "link": "https://bgm.tv/character/22641",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

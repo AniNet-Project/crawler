@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6824",
+        "label": "不动明",
+        "info": "ひ弱で優しい少年だったが、デーモンと合体。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/58/6824_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6824",
+        "categorie": "person"
+      },
+      {
+        "id": "37475",
+        "label": "飞鸟了",
+        "info": "明の幼なじみで親友。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/e0/37475_crt_9Mt2S.jpg",
+        "link": "https://bgm.tv/character/37475",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

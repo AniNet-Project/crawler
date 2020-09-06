@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47608",
+        "label": "雨野景太",
+        "info": "高校2年、A型、蟹座、小柄でやや痩せ形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/fa/47608_crt_k8r34.jpg",
+        "link": "https://bgm.tv/character/47608",
+        "categorie": "person"
+      },
+      {
+        "id": "47609",
+        "label": "天道花怜",
+        "info": "容姿端麗、成績優秀、頭脳明晰、スポーツ万能と現実の人間とは思えないスペックを誇る美少女。いわゆる「学内アイドル」だが、ゲーム部部長という顔も持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/21/47609_crt_Ew90n.jpg",
+        "link": "https://bgm.tv/character/47609",
+        "categorie": "person"
+      },
+      {
+        "id": "47610",
+        "label": "星之守千秋",
+        "info": "音吹高中二年级生，天道的同班同学。除了喜爱游戏，也是一位免费游戏制作者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/68/47610_crt_gTrZ4.jpg",
+        "link": "https://bgm.tv/character/47610",
+        "categorie": "person"
+      },
+      {
+        "id": "47611",
+        "label": "樱野亚玖璃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/d9/47611_crt_9M97y.jpg",
+        "link": "https://bgm.tv/character/47611",
+        "categorie": "person"
+      },
+      {
+        "id": "47612",
+        "label": "上原祐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/a4/47612_crt_5y8fs.jpg",
+        "link": "https://bgm.tv/character/47612",
+        "categorie": "person"
+      },
+      {
+        "id": "55941",
+        "label": "星之守心春",
+        "info": "碧阳国中的学生会长。虽然外表看不出来，但其实非常喜欢工口游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/2c/55941_crt_YDs5q.jpg",
+        "link": "https://bgm.tv/character/55941",
+        "categorie": "person"
+      },
+      {
+        "id": "55938",
+        "label": "三角瑛一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/49/55938_crt_nh8qL.jpg",
+        "link": "https://bgm.tv/character/55938",
+        "categorie": "person"
+      },
+      {
+        "id": "55939",
+        "label": "加濑岳人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/74/55939_crt_1rI5R.jpg",
+        "link": "https://bgm.tv/character/55939",
+        "categorie": "person"
+      },
+      {
+        "id": "55940",
+        "label": "大矶新那",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/1b/55940_crt_XQQi1.jpg",
+        "link": "https://bgm.tv/character/55940",
+        "categorie": "person"
+      },
+      {
+        "id": "56132",
+        "label": "美嘉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/15/56132_crt_5Zm1K.jpg",
+        "link": "https://bgm.tv/character/56132",
+        "categorie": "person"
+      },
+      {
+        "id": "58188",
+        "label": "雅也",
+        "info": "上原祐の友達。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58188",
+        "categorie": "person"
+      },
+      {
+        "id": "56134",
+        "label": "大树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/5a/56134_crt_T54ez.jpg",
+        "link": "https://bgm.tv/character/56134",
+        "categorie": "person"
+      },
+      {
+        "id": "58189",
+        "label": "玲奈",
+        "info": "上原祐の友達。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58189",
+        "categorie": "person"
+      },
+      {
+        "id": "58191",
+        "label": "天道花怜的母亲",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58191",
+        "categorie": "person"
+      },
+      {
+        "id": "58192",
+        "label": "纱理奈",
+        "info": "亚玖璃的初中同学。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58192",
+        "categorie": "person"
+      },
+      {
+        "id": "58193",
+        "label": "工藤",
+        "info": "紗理奈の友達。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58193",
+        "categorie": "person"
+      },
+      {
+        "id": "58194",
+        "label": "筱原",
+        "info": "紗理奈の友達。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/58194",
+        "categorie": "person"
+      },
+      {
+        "id": "58195",
+        "label": "三角理姬",
+        "info": "三角瑛一的义妹，曾被某组织企图绑架，恰巧被瑛一拯救，而因此理姬父母动用关系收养了瑛一，并将他取名为三角瑛一。因为喜欢瑛一，所以总不许他与学校的其他女性说话，不然会对瑛一发脾气。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/6c/58195_crt_D7pW0.jpg",
+        "link": "https://bgm.tv/character/58195",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

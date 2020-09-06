@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "780",
+        "label": "桂木桂马",
+        "info": "外号“攻陷之神（落とし神）”的Galgame达人高中生。到目前为止已攻下10000名女角，玩的游戏接近5000部。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/33/780_crt_FtRvo.jpg?r=1378924028",
+        "link": "https://bgm.tv/character/780",
+        "categorie": "person"
+      },
+      {
+        "id": "15151",
+        "label": "鲇川天理",
+        "info": "小学时和桂马同班，桂马的青梅竹马（但不符合桂马的TOYOTA标准[注 1]而不被桂马承认）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/6c/15151_crt_0t0Pr.jpg?r=1378924619",
+        "link": "https://bgm.tv/character/15151",
+        "categorie": "person"
+      },
+      {
+        "id": "11257",
+        "label": "艾利由西亚·D·鲁德·伊玛",
+        "info": "新恶魔，隶属于地狱的冥界法治省极东支局的“驱魂队”，阶级为三等公务魔。在进入驱魂队之前当了300年的地狱扫除人员，目前是驱魂队的新人。头上戴有骷髅的发饰，这个发饰也是驱魂探测器，身上缠着的羽衣可以变化成各种东西，覆盖自己可以隐藏气息不让他人查觉。总是随身带着一把扫把，因为一旦离开身边会感到不自在。300年的扫除经验让艾鲁西会习惯性的打扫且技术非常完美。有着傻乎乎的性格，既冒失有时候还是个爱哭鬼，令桂马曾对恶魔有很强烈的误解，桂马将她称为“BUG恶魔”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a2/11257_crt_ZbdIO.jpg?r=1378924067",
+        "link": "https://bgm.tv/character/11257",
+        "categorie": "person"
+      },
+      {
+        "id": "17580",
+        "label": "诺拉·芙萝莉安·蕾欧莉亚",
+        "info": "地狱的冥界法治省极东支局的“驱魂队”成员之一，大艾鲁西10年的前辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/54/17580_crt_922n2.jpg?r=1378924907",
+        "link": "https://bgm.tv/character/17580",
+        "categorie": "person"
+      },
+      {
+        "id": "17176",
+        "label": "桂木麻里",
+        "info": "桂馬の母親。自宅を兼ねた喫茶店「カフェ・グランパ」を経営している。一児の母とは思えない程スタイルが良い。姑との関係は良好だが、舅との関係は悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/16/17176_crt_r8vFA.jpg",
+        "link": "https://bgm.tv/character/17176",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

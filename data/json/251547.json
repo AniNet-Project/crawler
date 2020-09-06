@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56511",
+        "label": "杉元佐一",
+        "info": "前大日本帝国陆军一等兵，原隶属第1师团。带着军帽且围着围巾，其特征是面容带有撕裂伤痕的约20多岁青年。拥有惊人的战斗力和恢复力及能在死地中寻见活路的超凡胆量，被称为“不死身杉元”（不死身の杉元），战斗起来如同鬼神一样可怕，即使受了濒死的重伤、第二天也能跑动。但其实内心纤细，对于战争的残酷，以及因此泯灭人性的自己其实无法接受。喜欢的食物是柿饼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/28/56511_crt_LrYrl.jpg?r=1569906281",
+        "link": "https://bgm.tv/character/56511",
+        "categorie": "person"
+      },
+      {
+        "id": "56512",
+        "label": "阿席莉帕",
+        "info": "阿伊努人的猎人，原名欸卡西欧噗咚伊，名字的意思是“祖父的屁眼”。约12至13岁的天真无邪少女，能说流利的日语，出身于小樽附近的“寇坦”（爱努语“部落”之意）。告诉杉元各种关于北海道的动植物、料理、阿伊努族风俗文化习惯等知识。对编织、刺绣等传统阿伊努人女性工作毫无兴趣，擅长使用弓箭的高手、制作陷阱打猎及野外求生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/ea/56512_crt_94z4T.jpg?r=1569906263",
+        "link": "https://bgm.tv/character/56512",
+        "categorie": "person"
+      },
+      {
+        "id": "60615",
+        "label": "白石由竹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/9f/60615_crt_Eoe1E.jpg?r=1569906310",
+        "link": "https://bgm.tv/character/60615",
+        "categorie": "person"
+      },
+      {
+        "id": "60728",
+        "label": "鹤见",
+        "info": "階級は中尉で、情報将校。元は裕福な育ちでピアノの演奏も習得している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/cb/60728_crt_mXf8E.jpg?r=1529929667",
+        "link": "https://bgm.tv/character/60728",
+        "categorie": "person"
+      },
+      {
+        "id": "60729",
+        "label": "尾形百之助",
+        "info": "上等兵。300メートル以内であれば確実に頭部を撃ち抜く腕を持った狙撃手で、格闘の間隙を縫って歩兵銃の遊底を抜き取り無力化させるなど白兵戦にも長けている。鶴見をして「敵に回すと非常に厄介」とまで評され、表情に乏しく飄々とし腹の中が探りにくく、その時々の状況に応じ独断で先んずるため「コウモリ野郎」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/e4/60729_crt_o00X9.jpg?r=1529815695",
+        "link": "https://bgm.tv/character/60729",
+        "categorie": "person"
+      },
+      {
+        "id": "60730",
+        "label": "谷垣源次郎",
+        "info": "大日本帝国陸軍第七師団一等兵で、秋田県阿仁（現・阿仁町）出身の元・マタギの青年。筋肉隆々で胸毛が濃い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/b3/60730_crt_0Dyz6.jpg?r=1529815680",
+        "link": "https://bgm.tv/character/60730",
+        "categorie": "person"
+      },
+      {
+        "id": "61970",
+        "label": "土方岁三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/e8/61970_crt_Ofz6U.jpg?r=1529815384",
+        "link": "https://bgm.tv/character/61970",
+        "categorie": "person"
+      },
+      {
+        "id": "61971",
+        "label": "牛山辰马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/e8/61971_crt_JTuz9.jpg?r=1529815400",
+        "link": "https://bgm.tv/character/61971",
+        "categorie": "person"
+      },
+      {
+        "id": "61974",
+        "label": "永仓新八",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ae/61974_crt_03mMZ.jpg?r=1529815316",
+        "link": "https://bgm.tv/character/61974",
+        "categorie": "person"
+      },
+      {
+        "id": "63504",
+        "label": "キロランケ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/9d/63504_crt_OO6ui.jpg?r=1529815599",
+        "link": "https://bgm.tv/character/63504",
+        "categorie": "person"
+      },
+      {
+        "id": "63506",
+        "label": "二阶堂浩平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/0e/63506_crt_50puD.jpg?r=1529815288",
+        "link": "https://bgm.tv/character/63506",
+        "categorie": "person"
+      },
+      {
+        "id": "64254",
+        "label": "家永カノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/7f/64254_crt_wxbb0.jpg?r=1529814577",
+        "link": "https://bgm.tv/character/64254",
+        "categorie": "person"
+      },
+      {
+        "id": "64257",
+        "label": "月岛基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/90/64257_crt_8MqJk.jpg?r=1529815248",
+        "link": "https://bgm.tv/character/64257",
+        "categorie": "person"
+      },
+      {
+        "id": "64551",
+        "label": "茵卡拉玛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/1a/64551_crt_Z0cl7.jpg?r=1530891334",
+        "link": "https://bgm.tv/character/64551",
+        "categorie": "person"
+      },
+      {
+        "id": "65885",
+        "label": "江渡贝弥作",
+        "info": "夕張で江渡貝剥製所を営む青年。理想の剥製作りを追い求め、製作環境に適した気候の北海道に移住してきた。母の歪んだ愛情の影響で人間の剥製作りに手を染めるようになり、その素材として炭鉱事故の犠牲者を利用。江渡貝の技術に目をつけた鶴見中尉は、刺青の争奪戦で主導権を握るべく、彼に精巧な偽物を作らせようとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/59/65885_crt_WWWrj.jpg?r=1535969103",
+        "link": "https://bgm.tv/character/65885",
+        "categorie": "person"
+      },
+      {
+        "id": "66907",
+        "label": "チカパシ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/0c/66907_crt_K3Tf6.jpg?r=1540610068",
+        "link": "https://bgm.tv/character/66907",
+        "categorie": "person"
+      },
+      {
+        "id": "66908",
+        "label": "犬童四郎助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/44/66908_crt_m9j5Q.jpg?r=1540610135",
+        "link": "https://bgm.tv/character/66908",
+        "categorie": "person"
+      },
+      {
+        "id": "67194",
+        "label": "鲤登少尉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/2a/67194_crt_zkSJO.jpg",
+        "link": "https://bgm.tv/character/67194",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

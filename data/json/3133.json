@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5151",
+        "label": "八神太一",
+        "info": "御台场小学五年生，八神光 的哥哥，勇敢有主见。擅长踢足球，是足球队队长，但画画、唱歌、电脑完全不行，标志是随身佩带的单孔望远镜和护目镜（在数码兽大冒险02中护目镜送给了本宫大辅）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/7d/5151_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5151",
+        "categorie": "person"
+      },
+      {
+        "id": "5158",
+        "label": "滚球兽",
+        "info": "覆盖表面的汗毛脱落，身体也长大一圈的小型数码兽。虽然已经可以活泼得到处活动，但还不可以战斗。从口中吐出泡沫吓唬敌人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/da/5158_crt_anidb.jpg?r=1426167891",
+        "link": "https://bgm.tv/character/5158",
+        "categorie": "person"
+      },
+      {
+        "id": "5166",
+        "label": "亚古兽",
+        "info": "亚古兽是小型恐龙模样的爬虫类型数码宝贝，必杀技是从口中吐出火焰的气息攻击敌人的“小型火焰”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/14/5166_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5166",
+        "categorie": "person"
+      },
+      {
+        "id": "5215",
+        "label": "八神光",
+        "info": "被选召的孩子之一，拥有粉色的数码终端，搭档是迪路兽。坚强体贴，为人着想，憎恶黑暗，正如她持有的徽章一样，是个善良而又有爱心的小女孩，和哥哥一样，坚强乐观，甚至愿意为别人牺牲自己也毫无怨言，和高石岳十分要好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/7f/5215_crt_eMlaC.jpg?r=1430922953",
+        "link": "https://bgm.tv/character/5215",
+        "categorie": "person"
+      },
+      {
+        "id": "5152",
+        "label": "武之内空",
+        "info": "初登场时是御台场小学五年级学生，一个喜欢踢足球的外向开朗的女孩子，是个非常关心同伴和责任心很重的人，和太一、大和的关系密切。搭档是比丘兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/6e/5152_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5152",
+        "categorie": "person"
+      },
+      {
+        "id": "5156",
+        "label": "高石岳",
+        "info": "河田小学二年级学生，石田大和的弟弟，也有四分之一的法国血统。 拍档是巴达兽，徽章是金黄色的希望。 由于外公是法国人，因此有四分之一的法国血统；父母离异，是与母亲住，并随母亲的姓氏。 在01戴着一顶绿色的棒球帽， 和小光关系很好。 在2027年成为本小说以及数码兽大冒险02的作家，故此系列的旁述也由成年的高石岳负责。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/41/5156_crt_900E4.jpg?r=1430922329",
+        "link": "https://bgm.tv/character/5156",
+        "categorie": "person"
+      },
+      {
+        "id": "5157",
+        "label": "城户丈",
+        "info": "八个被选召的孩子中年龄最大的，也因此认为自己应该担负起保护其他人的责任，会念佛经。正如他持有的徽章一样，是个诚实又靠得住的大哥，虽然一开始有些懦弱，但因为自己的年纪是最大而责任心非常重，热心助人。长大后成为首位医治数码兽的医生。搭档是哥玛兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/d6/5157_crt_FfV3U.jpg",
+        "link": "https://bgm.tv/character/5157",
+        "categorie": "person"
+      },
+      {
+        "id": "5174",
+        "label": "暴龙兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f7/5174_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5174",
+        "categorie": "person"
+      },
+      {
+        "id": "5196",
+        "label": "ボタモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/50/5196_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5196",
+        "categorie": "person"
+      },
+      {
+        "id": "5255",
+        "label": "Meeko",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/e6/5255_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5255",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

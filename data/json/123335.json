@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51317",
+        "label": "星蝶",
+        "info": "Star, 14, is a fun-loving optimist who never wants to have a dull day. She’s fascinated by the world around her and wants to explore as much of it as possible. On Mewni, Star’s parents put pressure on her to be the perfect princess, but on Earth she has freedom to live by her own rules… just as long as her parents don’t find out about it.",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/13/51317_crt_FOboo.jpg?r=1534487126",
+        "link": "https://bgm.tv/character/51317",
+        "categorie": "person"
+      },
+      {
+        "id": "65620",
+        "label": "马可·迪亚兹",
+        "info": "Marco, 14, is Star’s quirky best friend on Earth. Before she came into his life, he was known as “the safe kid,” even though he always thought of himself as a “misunderstood bad boy.” Star has helped him come out of his shell and take chances. The yin to her yang, he is the more responsible of the two and makes sure they don’t get into TOO much trouble.",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/bb/65620_crt_XG6rf.jpg?r=1534501976",
+        "link": "https://bgm.tv/character/65620",
+        "categorie": "person"
+      },
+      {
+        "id": "65621",
+        "label": "小马头",
+        "info": "Star’s sassy, sarcastic, mischief-making, magical flying best friend from Mewni. She’s jealous of Marco’s friendship with Star and makes fun of him, and Marco is not a huge fan of her either. But Star ultimately is able to bring them together.",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/5a/65621_crt_9zImQ.jpg",
+        "link": "https://bgm.tv/character/65621",
+        "categorie": "person"
+      },
+      {
+        "id": "65622",
+        "label": "卢多",
+        "info": "Ludo is Star’s main recurring villain, a unique nemesis from Mewni, who is occasionally threatening regardless of his size, ego, insecurity and inept army of monsters. More than anything, he wants to get his tiny hands on Star’s wand so he can take over the universe!",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/41/65622_crt_7O777.jpg?r=1534503125",
+        "link": "https://bgm.tv/character/65622",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27115",
+        "label": "齐木楠雄",
+        "info": "髪はピンク色で頭部に不思議な装置をつけ、緑色のレンズのメガネという特徴的な容姿の高校生。テレパシー、サイコキネシス、透視、予知、瞬間移動、千里眼などなど…様々な超能力を操ることができる。幼少期の経験から人前で超能力を使うことを避けるようになり、それを人に知られないように周囲から適度な距離をおきながら暮らしている。スイーツが好物で、特にコーヒーゼリーに目がない。また虫が嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/b6/27115_crt_0zrIB.jpg?r=1473606934",
+        "link": "https://bgm.tv/character/27115",
+        "categorie": "person"
+      },
+      {
+        "id": "72462",
+        "label": "井口工",
+        "info": "238χで他校からPK学園に赴任し、斉木達のクラス担任となる新任教師。25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/ff/72462_crt_C121Z.jpg?r=1571842870",
+        "link": "https://bgm.tv/character/72462",
+        "categorie": "person"
+      },
+      {
+        "id": "72463",
+        "label": "铃宫阳衣",
+        "info": "第257χから登場する校生の女子生徒。通称ひーちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c9/72463_crt_BI8SX.jpg?r=1571842848",
+        "link": "https://bgm.tv/character/72463",
+        "categorie": "person"
+      },
+      {
+        "id": "59948",
+        "label": "相卜命",
+        "info": "転校生として斉木楠雄のクラスにやってくる巨乳ギャル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/68/59948_crt_jgfFF.jpg?r=1514773398",
+        "link": "https://bgm.tv/character/59948",
+        "categorie": "person"
+      },
+      {
+        "id": "62290",
+        "label": "佐藤广",
+        "info": "「普通」の男子生徒。野球部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/52/62290_crt_QBKBV.jpg?r=1523450588",
+        "link": "https://bgm.tv/character/62290",
+        "categorie": "person"
+      },
+      {
+        "id": "41748",
+        "label": "照桥心美",
+        "info": "すれ違う人すべてが振り返る美貌を持つ完璧美少女。どんな人に対しても愛想よく振る舞うため、ほとんどの異性から好かれている。「完璧な美少女」として見られるための努力は惜しまない。彼女に会った男性は誰でも「おっふ！？」せざるをえない…、究極絶対最強愛されガール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/b3/41748_crt_t4B47.jpg?r=1522401109",
+        "link": "https://bgm.tv/character/41748",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

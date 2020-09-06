@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37596",
+        "label": "森永哲博",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/38/37596_crt_r0LsC.jpg?r=1450796111",
+        "link": "https://bgm.tv/character/37596",
+        "categorie": "person"
+      },
+      {
+        "id": "37597",
+        "label": "巽宗一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/10/37597_crt_s7dwm.jpg?r=1450796188",
+        "link": "https://bgm.tv/character/37597",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

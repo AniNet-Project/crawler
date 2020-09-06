@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6093",
+        "label": "安藤麻幌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/38/6093_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6093",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

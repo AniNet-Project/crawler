@@ -1,0 +1,317 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6614",
+        "label": "地场卫",
+        "info": "CV:古谷徹（テレビアニメ）、緒方恵美（劇場版R）※幼少期のみ、野島健児（Crystal） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/8d/6614_crt_wG7bf.jpg?r=1517680585",
+        "link": "https://bgm.tv/character/6614",
+        "categorie": "person"
+      },
+      {
+        "id": "6577",
+        "label": "月野兔",
+        "info": "月野兔，是著名的日本动漫《美少女战士》中的主人翁，中文昵称阿兔或小兔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/22/6577_crt_2kuVO.jpg?r=1465480986",
+        "link": "https://bgm.tv/character/6577",
+        "categorie": "person"
+      },
+      {
+        "id": "6581",
+        "label": "水野亚美",
+        "info": "IQ300的天才少女。9月10日出生，全国成绩第一的中学生，可变身成水星仙子Sailor Mercury。父亲是日本画家，母亲是医生，住在高级住宅。她梦想是成为一个出色的医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/0f/6581_crt_NN64z.jpg?r=1465481343",
+        "link": "https://bgm.tv/character/6581",
+        "categorie": "person"
+      },
+      {
+        "id": "6587",
+        "label": "火野丽",
+        "info": "居住在火川神社的巫女。4月17日出生，本身有很强的灵感，有灵力能驱赶恶灵，可变身成Sailor Mars。时常与小兔斗嘴，其实心里很关心她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/fb/6587_crt_E51yy.jpg?r=1465481752",
+        "link": "https://bgm.tv/character/6587",
+        "categorie": "person"
+      },
+      {
+        "id": "6592",
+        "label": "木野真琴",
+        "info": "沉醉在恋爱中的怪力少女。12月5日出生，力量十分强壮，可变身成Sailor Jupiter。和小兔是同一所学校但是穿的是转学之前的制服，原因是没有大尺寸的制服。非常害怕飞机，事缘因为她父母是在飞机上遇到空难而死。守护星是木星，兴趣是做家务、厨艺、园艺。对以前暗恋过的学长念念不忘，经常说男生“好像我以前喜欢的学长（师兄）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/1a/6592_crt_Q21q1.jpg?r=1465481530",
+        "link": "https://bgm.tv/character/6592",
+        "categorie": "person"
+      },
+      {
+        "id": "6594",
+        "label": "爱野美奈子",
+        "info": "爱野美奈子，是著名的日本动漫《美少女战士》中的主要人物之一。五战士中最早觉醒的人。她有一只公猫叫阿尔特米斯，跟小兔的黑猫露娜是恋人，可变身成Sailor Venus。使用金星力量，漫画提及在苏醒成为Sailor Venus前，她一直都是以水手V（Sailor V）身份作战，目的是击败黑暗帝国的敌人和找寻同伴。与Sailor Moon一样，她拥有一只月亮形的镜子，是变身的法宝，梦想成为名歌手，守护星金星，经验比其他战士丰富，是四个守护神战士的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/45/6594_crt_E9D9C.jpg?r=1465481690",
+        "link": "https://bgm.tv/character/6594",
+        "categorie": "person"
+      },
+      {
+        "id": "6684",
+        "label": "小小兔",
+        "info": "罗马拼音：Chibiusa",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/1b/6684_crt_w0m59.jpg?r=1510268042",
+        "link": "https://bgm.tv/character/6684",
+        "categorie": "person"
+      },
+      {
+        "id": "6721",
+        "label": "冥王刹那",
+        "info": "外部太阳系三战士之一，年龄是十位水手战士中最大的一个，很有大姐姐的风范，知识渊博，与小小兔是非常要好的朋友，非常照顾土萌萤。 变身后为Sailor Pluto 水兵冥王星，负责掌握著时间之轮。“刹”这个名字即是指“极短的时间”，与天王之“遥”、海王之“满”相呼应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/8b/6721_crt_gw8GB.jpg?r=1510268053",
+        "link": "https://bgm.tv/character/6721",
+        "categorie": "person"
+      },
+      {
+        "id": "23159",
+        "label": "天王遥",
+        "info": "可以变身为Sailor Uranus（台湾译本漫画原著和动画台湾新版配音译为水手天王星，电视台湾旧版配音译为天王星仙子）。使用天空之力，守护星是天王星，必杀技为“宇宙震荡”、“宇宙剑乱风”，圣物“宇宙之剑”（台版翻译：宇宙剑）持有者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/77/23159_crt_7yi7i.jpg?r=1510268068",
+        "link": "https://bgm.tv/character/23159",
+        "categorie": "person"
+      },
+      {
+        "id": "6710",
+        "label": "海王满",
+        "info": "优雅的才女，同样出身富裕世家，擅长拉小提琴，小提琴名为海之圣堂，市值五亿日元，常到外地表演。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/9d/6710_crt_vL6pV.jpg?r=1510268079",
+        "link": "https://bgm.tv/character/6710",
+        "categorie": "person"
+      },
+      {
+        "id": "6720",
+        "label": "土萌萤",
+        "info": "土萌萤（日语：土萠ほたる），可变身成为水手土星（即Sailor Saturn），是著名的日本动漫《美少女战士》中的主要人物之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/60/6720_crt_jDeE2.jpg?r=1510268105",
+        "link": "https://bgm.tv/character/6720",
+        "categorie": "person"
+      },
+      {
+        "id": "6699",
+        "label": "露娜",
+        "info": "会说话的雌性黑猫，额头上有一个弯月形状的记号，如果被贴住会不能说话而且其他的能力也会大大降低。登场时以寻找战士和月亮公主为目标。是月野兔的伙伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/58/6699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6699",
+        "categorie": "person"
+      },
+      {
+        "id": "6705",
+        "label": "阿尔特米斯",
+        "info": "雄性白猫，跟露娜一样会说人类的语言，是金星水手爱野美奈子的搭档。在月亮王国时，它与露娜是恋人，在30世纪时，和露娜诞下女儿戴安娜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/8a/6705_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6705",
+        "categorie": "person"
+      },
+      {
+        "id": "6680",
+        "label": "戴安娜",
+        "info": "雌性灰色小猫，露娜与阿尔特米斯的女儿，跟露娜和阿尔特米斯一样会说人类的语言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/4e/6680_crt_U8yuM.jpg",
+        "link": "https://bgm.tv/character/6680",
+        "categorie": "person"
+      },
+      {
+        "id": "7151",
+        "label": "カオリナイト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/70/7151_crt_Ux6OB.jpg",
+        "link": "https://bgm.tv/character/7151",
+        "categorie": "person"
+      },
+      {
+        "id": "7148",
+        "label": "土萠创一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/1c/7148_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7148",
+        "categorie": "person"
+      },
+      {
+        "id": "6971",
+        "label": "法老90",
+        "info": "Death Buster的终极首脑，来自达胡星系，来地球的目的是令地球变成“永远的沉默”。Sailor Saturn醒觉后，使出毁灭之力消灭它，Super Sailor Moon后来代替Sailor Saturn使出最后的一股力量，消灭了法老90。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6971",
+        "categorie": "person"
+      },
+      {
+        "id": "7759",
+        "label": "蜜美特",
+        "info": "魔女五人组（Witches 5）成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/f5/7759_crt_6wZWz.jpg",
+        "link": "https://bgm.tv/character/7759",
+        "categorie": "person"
+      },
+      {
+        "id": "7156",
+        "label": "尤吉儿",
+        "info": "魔女五人组（Witches 5）成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/b1/7156_crt_0ovV8.jpg",
+        "link": "https://bgm.tv/character/7156",
+        "categorie": "person"
+      },
+      {
+        "id": "7451",
+        "label": "比留唯",
+        "info": "魔女五人组（Witches 5）成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/d6/7451_crt_RY8xR.jpg",
+        "link": "https://bgm.tv/character/7451",
+        "categorie": "person"
+      },
+      {
+        "id": "7158",
+        "label": "天露露",
+        "info": "魔女五人组（Witches 5）成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/69/7158_crt_8kfyn.jpg",
+        "link": "https://bgm.tv/character/7158",
+        "categorie": "person"
+      },
+      {
+        "id": "7159",
+        "label": "西普林",
+        "info": "魔女五人组（Witches 5）成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/07/7159_crt_tbkTE.jpg",
+        "link": "https://bgm.tv/character/7159",
+        "categorie": "person"
+      },
+      {
+        "id": "7817",
+        "label": "普琪洛尔",
+        "info": "魔女五人组（Witches 5），Cyprine的双胞胎妹妹，只有战斗时才出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/ec/7817_crt_TA7Tj.jpg",
+        "link": "https://bgm.tv/character/7817",
+        "categorie": "person"
+      },
+      {
+        "id": "7450",
+        "label": "古幡元基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/4e/7450_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7450",
+        "categorie": "person"
+      },
+      {
+        "id": "7407",
+        "label": "大阪奈留",
+        "info": "うさぎの親友で同級生。実家は宝飾店オサピーを営む。店名の由来は著者の編集担当の小佐野の愛称「OさP」（後にこの愛称はオサブーとなり、コミックスの後書きにたびたび登場する）。普段の言動からは分かりにくいが、うさぎによると（お金持ちの）お嬢様である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/63/7407_crt_v9HeU.jpg?r=1465482897",
+        "link": "https://bgm.tv/character/7407",
+        "categorie": "person"
+      },
+      {
+        "id": "7408",
+        "label": "海野ぐりお",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/ee/7408_crt_lgRg5.jpg",
+        "link": "https://bgm.tv/character/7408",
+        "categorie": "person"
+      },
+      {
+        "id": "6919",
+        "label": "月野育子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/70/6919_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6919",
+        "categorie": "person"
+      },
+      {
+        "id": "6921",
+        "label": "月野谦之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/e9/6921_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6921",
+        "categorie": "person"
+      },
+      {
+        "id": "58888",
+        "label": "浅沼一等",
+        "info": "衛の後輩。原作と『Crystal』版では元麻布中学の1年生。またフルーツパーラー「クラウン」の常連で、同じく常連のまことと親しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/f4/58888_crt_hhoyF.jpg",
+        "link": "https://bgm.tv/character/58888",
+        "categorie": "person"
+      },
+      {
+        "id": "8083",
+        "label": "桃原桃子",
+        "info": "ちびうさの同級生で友達。両親が中華料理屋を経営している。ちびうさからは「ももちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/7e/8083_crt_PBA71.jpg",
+        "link": "https://bgm.tv/character/8083",
+        "categorie": "person"
+      },
+      {
+        "id": "58928",
+        "label": "更科九助",
+        "info": "ちびうさの同級生で友達。更科琴乃の弟で、両親が蕎麦屋を経営している。セーラーVの大ファン。いわゆるガキ大将で、編入してきたちびうさをからかった際に「低レベル」と反撃される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8e/58928_crt_BbTN1.jpg",
+        "link": "https://bgm.tv/character/58928",
+        "categorie": "person"
+      },
+      {
+        "id": "58929",
+        "label": "空野",
+        "info": "下の名前は不明。ちびうさの同級生。外見も言動も海野に瓜二つだが、関係性は不明。テレビアニメ版には未登場だが、『Crystal』版ではSeason IIIでカメオ登場している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/e4/58929_crt_etB2H.jpg",
+        "link": "https://bgm.tv/character/58929",
+        "categorie": "person"
+      },
+      {
+        "id": "7770",
+        "label": "西村丽花",
+        "info": "古幡元基の恋人で、大学生。髪の色は原作・『Crystal』版ではピンク色（原作では金髪のイラストもある）、テレビアニメ版では栗色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/78/7770_crt_3j3r9.jpg",
+        "link": "https://bgm.tv/character/7770",
+        "categorie": "person"
+      },
+      {
+        "id": "7160",
+        "label": "ミストレス９",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/5b/7160_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7160",
+        "categorie": "person"
+      },
+      {
+        "id": "6777",
+        "label": "二挺木",
+        "info": "木野真琴暗恋的学长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d1/6777_crt_64856.jpg",
+        "link": "https://bgm.tv/character/6777",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "7390",
+        "label": "土萌萤子",
+        "info": "土萌创一之妻，土萌萤之母，死于大楼火灾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/f4/7390_crt_4AH16.jpg",
+        "link": "https://bgm.tv/character/7390",
+        "categorie": "person"
+      },
+      {
+        "id": "6858",
+        "label": "クィーン・セレニティ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/54/6858_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6858",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

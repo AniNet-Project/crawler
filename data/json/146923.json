@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28036",
+        "label": "斯坦·马希",
+        "info": "斯坦利·兰德尔·“斯坦”·马希（英语：Stanley Randall \"Stan\" Marsh，港译粉肠，台译屎蛋），是动画片《南方公园》的四名主角之一，英文版由特雷·帕克配音，这一角色的特点亦基本来自于特雷·帕克。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/94/28036_crt_4AzrJ.jpg",
+        "link": "https://bgm.tv/character/28036",
+        "categorie": "person"
+      },
+      {
+        "id": "29350",
+        "label": "肯尼·麦克康米克",
+        "info": "阿尼在南方公園中最著名的一點就是他的家庭最有問題。父親史杜特是個酒鬼，因為沒有工作使得一家人相當的貧苦，要靠著社會救濟金過日子，阿尼也因此常常被卡特曼所取笑。阿尼還有兩個兄弟姐妹：哥哥Kevin和妹妹Karen。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fa/29350_crt_Dg1c7.jpg",
+        "link": "https://bgm.tv/character/29350",
+        "categorie": "person"
+      },
+      {
+        "id": "30262",
+        "label": "艾瑞克·西欧多·卡特曼",
+        "info": "埃里克·西奥多·卡特曼（英语：Eric Theodore Cartman，港译蛋散，台译阿ㄆㄧㄚˇ）是美国动画电视剧集《南方公园》的四名主要角色之一，由该剧集创作人之一的特雷·帕克配音。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/04/30262_crt_KUMHz.jpg",
+        "link": "https://bgm.tv/character/30262",
+        "categorie": "person"
+      },
+      {
+        "id": "1988",
+        "label": "凯尔·布罗福洛夫斯基",
+        "info": "四人组中的犹太人(台湾翻成客家人)，常与阿ㄆ一ㄚˇ发生冲突，但有时会受阿ㄆ一ㄚˇ影响一起闹事，当他受影响时常会闹出天大的灾难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/68/1988_crt_8sxoL.jpg",
+        "link": "https://bgm.tv/character/1988",
+        "categorie": "person"
+      },
+      {
+        "id": "41194",
+        "label": "利奥波德·巴特斯·斯多奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ec/41194_crt_Abrrz.jpg",
+        "link": "https://bgm.tv/character/41194",
+        "categorie": "person"
+      },
+      {
+        "id": "41919",
+        "label": "特克·崔克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/38/41919_crt_PBQKv.jpg",
+        "link": "https://bgm.tv/character/41919",
+        "categorie": "person"
+      },
+      {
+        "id": "41920",
+        "label": "克雷格·塔克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/10/41920_crt_tycs8.jpg",
+        "link": "https://bgm.tv/character/41920",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

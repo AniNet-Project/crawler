@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "709",
+        "label": "神原骏河",
+        "info": "　　『するがモンキー』的主要角色。向猿猴祈愿的少女。忍野メメ称之为“百合子”",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/2d/709_crt_Ooare.jpg?r=1400133155",
+        "link": "https://bgm.tv/character/709",
+        "categorie": "person"
+      },
+      {
+        "id": "26569",
+        "label": "沼地蜡花",
+        "info": "中学時代に駿河のライバルだったバスケットボールプレイヤー。左足の故障で引退し、現在でもギプス包帯をしている。「悪魔様」を名乗り不幸な相談事に乗っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/31/26569_crt_CrgGf.jpg",
+        "link": "https://bgm.tv/character/26569",
+        "categorie": "person"
+      },
+      {
+        "id": "707",
+        "label": "阿良良木历",
+        "info": "《物语》系列作品的主人公，吐槽担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/e8/707_crt_mgXlR.jpg?r=1454328550",
+        "link": "https://bgm.tv/character/707",
+        "categorie": "person"
+      },
+      {
+        "id": "14556",
+        "label": "阿良良木火怜",
+        "info": "阿良良木历的大妹，身高比历高5cm，是个运动神经良好的初中三年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/03/14556_crt_cCS5U.jpg?r=1400133758",
+        "link": "https://bgm.tv/character/14556",
+        "categorie": "person"
+      },
+      {
+        "id": "15143",
+        "label": "贝木泥舟",
+        "info": "「火怜蜂」章中初登场。以发蜡定型的黑发，身上穿着漆黑西装与黑色领带（通称「丧服」），说话没有声调起伏的壮年男性，有股不祥气息的男人。在九州长大，目前没有户口（被用来骗取保险金了），所以也没有护照。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/a2/15143_crt_cs5uC.jpg?r=1444713310",
+        "link": "https://bgm.tv/character/15143",
+        "categorie": "person"
+      },
+      {
+        "id": "23629",
+        "label": "忍野扇",
+        "info": "倾物语中出场，秋季刚转入直江津高中的一年级转校生，经由神原骏河介绍给阿良良木历认识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/f8/23629_crt_pGQbi.jpg?r=1422943627",
+        "link": "https://bgm.tv/character/23629",
+        "categorie": "person"
+      },
+      {
+        "id": "67782",
+        "label": "卧烟远江",
+        "info": "卧烟家族的长女，卧烟伊豆湖的姐姐，神原骏河的母亲。在骏河读小学的时候即去世。由于她与丈夫的关系不被神原家族所接受，因而与丈夫一起私奔，结果夫妻双双死于车祸。曾经制作了怪异雨魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/85/67782_crt_9Zd02.jpg?r=1595047293",
+        "link": "https://bgm.tv/character/67782",
+        "categorie": "person"
+      },
+      {
+        "id": "70904",
+        "label": "日伞星雨",
+        "info": "和神原骏河关系亲密，也是她在私立直江津学校篮球部时的副队长，引退后在她后接任的队长。她性格比较自来熟，但是却自称“完全见不得生人”，同时也自称“不用学习就能取得好成绩的运动少女”。对神原有独特的爱称“小河”（るが），称呼某变态为阿良良木变态。在作品开始时就因为升上三年级而从篮球部引退，却仍然掌管着篮球部100名学生的花名册以及隐私信息，比如三围什么的。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/35/70904_crt_WEacU.jpg?r=1563019273",
+        "link": "https://bgm.tv/character/70904",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

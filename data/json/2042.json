@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6645",
+        "label": "春日恭介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fd/6645_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6645",
+        "categorie": "person"
+      },
+      {
+        "id": "6646",
+        "label": "鲇川圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/0f/6646_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6646",
+        "categorie": "person"
+      },
+      {
+        "id": "6663",
+        "label": "桧山光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/f4/6663_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6663",
+        "categorie": "person"
+      },
+      {
+        "id": "6915",
+        "label": "春日久留美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/42/6915_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6915",
+        "categorie": "person"
+      },
+      {
+        "id": "6917",
+        "label": "春日一弥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/52/6917_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6917",
+        "categorie": "person"
+      },
+      {
+        "id": "6931",
+        "label": "ジンゴロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/03/6931_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6931",
+        "categorie": "person"
+      },
+      {
+        "id": "6932",
+        "label": "八田一也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/aa/6932_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6932",
+        "categorie": "person"
+      },
+      {
+        "id": "71400",
+        "label": "春日真奈美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/27/71400_crt_Wf416.jpg",
+        "link": "https://bgm.tv/character/71400",
+        "categorie": "person"
+      },
+      {
+        "id": "71401",
+        "label": "春日隆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/55/71401_crt_j0q09.jpg",
+        "link": "https://bgm.tv/character/71401",
+        "categorie": "person"
+      },
+      {
+        "id": "71402",
+        "label": "小松整司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/ec/71402_crt_2bdLT.jpg",
+        "link": "https://bgm.tv/character/71402",
+        "categorie": "person"
+      },
+      {
+        "id": "71403",
+        "label": "火野勇作",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/50/71403_crt_ZF4WJ.jpg",
+        "link": "https://bgm.tv/character/71403",
+        "categorie": "person"
+      },
+      {
+        "id": "6916",
+        "label": "牛子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/a5/6916_crt_7222w.jpg",
+        "link": "https://bgm.tv/character/6916",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

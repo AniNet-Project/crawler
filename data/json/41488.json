@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12105",
+        "label": "神田空太",
+        "info": "さくら荘101号室の住人。水明芸術大学付属高校普通科の2年生。ひょんなことからさくら荘に入居することになり、面倒見の良い事からましろ当番に任命される。猫好きで飼い主のいない猫たちと暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/43/12105_crt_ySm65.jpg?r=1425729822",
+        "link": "https://bgm.tv/character/12105",
+        "categorie": "person"
+      },
+      {
+        "id": "12106",
+        "label": "椎名真白",
+        "info": "さくら荘202号室の住人。編入してきた美術科の2年生。性格はおとなしく世界的な天才画家だが、常識の無さから空太に介護されている。両親は外国に住んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/38/12106_crt_mDXSV.jpg",
+        "link": "https://bgm.tv/character/12106",
+        "categorie": "person"
+      },
+      {
+        "id": "12111",
+        "label": "青山七海",
+        "info": "空太のクラスメイトで普通科の2年生。声優を目指していて養成所に通っている。さらに生活費や養成所の授業料を捻出するためバイトもしている。髪型はポニーテール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/e3/12111_crt_8O1a7.jpg?r=1425730239",
+        "link": "https://bgm.tv/character/12111",
+        "categorie": "person"
+      },
+      {
+        "id": "12107",
+        "label": "上井草美咲",
+        "info": "さくら荘201号室の住人で美術科の3年生。ここ10年で唯一特待生と認められた実力者。趣味はアニメやゲームで、自作アニメも多数制作している。仁のことが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/fd/12107_crt_WAmM7.jpg?r=1425730137",
+        "link": "https://bgm.tv/character/12107",
+        "categorie": "person"
+      },
+      {
+        "id": "12108",
+        "label": "三鷹仁",
+        "info": "さくら荘105号室の住人で美咲とは幼馴染。女性と遊んでいることが多い。将来は脚本家を目指している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/2f/12108_crt_z4Vb9.jpg?r=1425730002",
+        "link": "https://bgm.tv/character/12108",
+        "categorie": "person"
+      },
+      {
+        "id": "12109",
+        "label": "千石千寻",
+        "info": "さくら荘の監視要員として暮らしている美術の教員で、自称29歳と23ヶ月。ましろとは従姉妹の関係にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/eb/12109_crt_rbbeb.jpg?r=1425730433",
+        "link": "https://bgm.tv/character/12109",
+        "categorie": "person"
+      },
+      {
+        "id": "12110",
+        "label": "赤坂龙之介",
+        "info": "さくら荘102号室の住人で空太と同学年。家に引き篭っているため、さくら荘の住人たちとはパソコンでやりとりしている。3巻で初めて顔をだした。腰まで髪がある。授業中にパソコンを使い、トマトにかぶりついた。プログラマー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/94/12110_crt_erFI0.jpg",
+        "link": "https://bgm.tv/character/12110",
+        "categorie": "person"
+      },
+      {
+        "id": "12112",
+        "label": "丽塔·爱因兹沃斯",
+        "info": "ましろがイギリスにいた頃のルームメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/cd/12112_crt_mLr1z.jpg?r=1425730563",
+        "link": "https://bgm.tv/character/12112",
+        "categorie": "person"
+      },
+      {
+        "id": "18517",
+        "label": "妹抖酱",
+        "info": "自動メール返信 プログラムAI",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/fe/18517_crt_707pu.jpg",
+        "link": "https://bgm.tv/character/18517",
+        "categorie": "person"
+      },
+      {
+        "id": "30824",
+        "label": "深谷志穗",
+        "info": "美術科の2年生→3年生。ましろには勝てないとは感じつつも、自分の道を行くと前向きな考えを持つ。美咲の存在や、にゃぼろんを見たことで感化されたのか独学でCGについて勉強しており、空太に自分もゲーム作りのメンバーに誘うように持ち掛けていて、水明芸術大学進学後にメンバー入りする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/d6/30824_crt_61Vo1.jpg?r=1425729246",
+        "link": "https://bgm.tv/character/30824",
+        "categorie": "person"
+      },
+      {
+        "id": "45138",
+        "label": "上井草风香",
+        "info": "大学生。美咲の姉で、仁の元彼女。美咲と容姿が似ているが、妹とは正反対の落ち着いた性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bb/45138_crt_GOcbV.jpg",
+        "link": "https://bgm.tv/character/45138",
+        "categorie": "person"
+      },
+      {
+        "id": "48180",
+        "label": "姬宫沙织",
+        "info": "元音楽科の3年生。愛用していたヘッドフォンに記されていたメーカー名から、美咲からは「はうはう」の愛称で呼ばれるが、これを嫌い、結局別メーカーのヘッドフォンに代えた。美咲のアニメ制作に音響で協力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/18/48180_crt_2L5j7.jpg",
+        "link": "https://bgm.tv/character/48180",
+        "categorie": "person"
+      },
+      {
+        "id": "48181",
+        "label": "姬宫伊织",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/a4/48181_crt_md6yu.jpg",
+        "link": "https://bgm.tv/character/48181",
+        "categorie": "person"
+      },
+      {
+        "id": "48182",
+        "label": "白山小春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/4f/48182_crt_Qqoo4.jpg",
+        "link": "https://bgm.tv/character/48182",
+        "categorie": "person"
+      },
+      {
+        "id": "48183",
+        "label": "馆林总一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/e3/48183_crt_IR2HL.jpg",
+        "link": "https://bgm.tv/character/48183",
+        "categorie": "person"
+      },
+      {
+        "id": "48184",
+        "label": "神田优子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/c5/48184_crt_qj01J.jpg?r=1478605553",
+        "link": "https://bgm.tv/character/48184",
+        "categorie": "person"
+      },
+      {
+        "id": "18515",
+        "label": "中野乙羽",
+        "info": "スイコー一年生。さくら荘の住人ではないが、空太たちの作品を見て感動し、「お手伝いしたい」と空太に声をかけてきた。今回の「スーパークリエイター発掘コンテスト」への参加の誘いをかけてきたのも彼女。好物の酢こんぶをいつも持ち歩いており「疲労回復によい」と、ゲーム制作に疲れたさくら荘メンバーに差し入れてくれることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/f5/18515_crt_ZXHZ0.jpg",
+        "link": "https://bgm.tv/character/18515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

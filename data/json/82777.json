@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19039",
+        "label": "比企谷八幡",
+        "info": "本作的主人公。总武高校2年F组所属。从小就是孤独一人，至今留下无数心灵创伤，也因此常玩自问自答的猜谜或脑筋急转弯，偶尔会自言自语。根据雪乃及结衣的说法，常一边看书一边傻笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/60/19039_crt_BcOgO.jpg",
+        "link": "https://bgm.tv/character/19039",
+        "categorie": "person"
+      },
+      {
+        "id": "19040",
+        "label": "雪之下雪乃",
+        "info": "本作的女主角之一。总武高校2年J组（国際教養科）所属。侍奉部部长，十全十美的美少女，但个性教人不敢恭维，非常毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/02/19040_crt_wQQO2.jpg?r=1515405272",
+        "link": "https://bgm.tv/character/19040",
+        "categorie": "person"
+      },
+      {
+        "id": "19041",
+        "label": "由比滨结衣",
+        "info": "本作的女主角之一。总武高校2年F组所属。发言欠气质（会在不注意的情况下掀开别人的心里创伤），料理很差。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/90/19041_crt_FG0PO.jpg?r=1574587160",
+        "link": "https://bgm.tv/character/19041",
+        "categorie": "person"
+      },
+      {
+        "id": "19043",
+        "label": "比企谷小町",
+        "info": "八幡的妹妹，初中3年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/04/19043_crt_l8w8a.jpg",
+        "link": "https://bgm.tv/character/19043",
+        "categorie": "person"
+      },
+      {
+        "id": "19219",
+        "label": "平冢静",
+        "info": "国文老师，喜欢少年漫画。擅长格斗技。非常关心比企谷，是标准的奔三。很在意自己年龄和未婚的现状，虽然极力隐瞒但总是会不经意的说出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/46/19219_crt_VajjV.jpg?r=1421290642",
+        "link": "https://bgm.tv/character/19219",
+        "categorie": "person"
+      },
+      {
+        "id": "19042",
+        "label": "户冢彩加",
+        "info": "总武高校2年F组所属。网球社社员。长相可爱，言行举止都很接近女生，但却是个男生，本人亦不希望被弄错性别。由于非常可爱，在班中被女生称为“王子”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7f/19042_crt_IeGmS.jpg?r=1503143215",
+        "link": "https://bgm.tv/character/19042",
+        "categorie": "person"
+      },
+      {
+        "id": "21586",
+        "label": "材木座义辉",
+        "info": "総武高校二年C組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/81/21586_crt_7T8uA.jpg?r=1421722742",
+        "link": "https://bgm.tv/character/21586",
+        "categorie": "person"
+      },
+      {
+        "id": "21583",
+        "label": "海老名姫菜",
+        "info": "八幡のクラスメイト。7月14日生まれ。AB型。他の葉山グループ同様、八幡を「ヒキタニくん」と呼ぶ。座右の銘「ホモが嫌いな女子なんていません！」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/db/21583_crt_cIMHP.jpg?r=1421722904",
+        "link": "https://bgm.tv/character/21583",
+        "categorie": "person"
+      },
+      {
+        "id": "21585",
+        "label": "川崎沙希",
+        "info": "八幡的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f6/21585_crt_H35b3.jpg?r=1421289033",
+        "link": "https://bgm.tv/character/21585",
+        "categorie": "person"
+      },
+      {
+        "id": "21587",
+        "label": "三浦优美子",
+        "info": "比企谷八幡的同班同学，班内现充组的核心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/bf/21587_crt_W55cu.jpg?r=1424591210",
+        "link": "https://bgm.tv/character/21587",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8753",
+        "label": "母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/f3/8753_crt_G4E9f.jpg",
+        "link": "https://bgm.tv/character/8753",
+        "categorie": "person"
+      },
+      {
+        "id": "77550",
+        "label": "立花みかん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/d0/77550_crt_L5Ylo.jpg?r=1591626729",
+        "link": "https://bgm.tv/character/77550",
+        "categorie": "person"
+      },
+      {
+        "id": "77551",
+        "label": "立花ユズヒコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/da/77551_crt_A9F79.jpg?r=1591626755",
+        "link": "https://bgm.tv/character/77551",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18645",
+        "label": "蝙蝠侠",
+        "info": "蝙蝠侠是在1939年5月美国《侦探漫画》第27期中诞生的一个虚拟人物，由鲍勃·凯恩与比尔·芬格（Bill Finger）共同创造（但是只有肯恩获得官方注名为作者）。他是个伸张正义打击犯罪的超级英雄，也是第一个没有超能力的超级英雄。虽然一开始蝙蝠侠只是数个同时被创造出来的虚拟角色之一，但后来他成了其他连载漫画中超级英雄的领袖人物。蝙蝠侠跟超人是英雄漫画中最广为人知也最受欢迎的两个角色，并被多次拍成电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d2/18645_crt_3h356.jpg?r=1425372096",
+        "link": "https://bgm.tv/character/18645",
+        "categorie": "person"
+      },
+      {
+        "id": "26069",
+        "label": "绿箭侠",
+        "info": "绿箭侠为DC漫画中的一位超级英雄，由Mort Weisinger与George Papp所创，和快手一起首次登场于《多趣漫画》中，与水行侠同时期登场，以现代罗宾汉之形象为大众所知，现是正义联盟的一员。绿箭侠是以蝙蝠侠作为参考，但在DC的作家后来发展到让他独立，用他自己的配角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/02/26069_crt_u6kIG.jpg?r=1441210496",
+        "link": "https://bgm.tv/character/26069",
+        "categorie": "person"
+      },
+      {
+        "id": "30109",
+        "label": "小丑",
+        "info": "小丑是出现于由DC漫画初版的漫画系列《蝙蝠侠》中的一个主要反派角色。他也直接地造成蝙蝠侠人生中的一些悲剧，像是Barbara Gordon（蝙蝠女）的瘫痪、Jason Todd（第二代罗宾）的死亡。小丑这个角色是由Jerry Robinson，Bill Finger和Bob Kane所共同创造的。第一次登场是在《蝙蝠侠》第一期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/7c/30109_crt_ULil8.jpg?r=1425372155",
+        "link": "https://bgm.tv/character/30109",
+        "categorie": "person"
+      },
+      {
+        "id": "30110",
+        "label": "阿尔弗莱德·潘尼沃斯",
+        "info": "阿尔弗莱德·潘尼沃斯是一个存在于整个DC宇宙的虚构人物。这个角色第一次出现在蝙蝠侠漫画第# 16期，是由专栏作家鲍勃·凯恩和艺术家杰里·罗宾逊创建的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/da/30110_crt_cOZ11.jpg?r=1425372117",
+        "link": "https://bgm.tv/character/30110",
+        "categorie": "person"
+      },
+      {
+        "id": "30111",
+        "label": "詹姆斯·戈登",
+        "info": "詹姆斯·戈登是一个由美国DC漫画公司出版的漫画书《蝙蝠侠》中虚构的人物，且是蝙蝠侠的忠实盟友。这个角色第一次出现在侦探漫画第27期，由比尔·芬格和鲍勃·凯恩创造。在2011年，詹姆斯·戈登被放在IGN的100个漫画英雄的第19位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/3d/30111_crt_gd4ww.jpg?r=1425372083",
+        "link": "https://bgm.tv/character/30111",
+        "categorie": "person"
+      },
+      {
+        "id": "30119",
+        "label": "猫女",
+        "info": "猫女是DC漫画公司的《蝙蝠侠》系列的一个虚拟人物，由比尔·芬格和鲍勃·凯恩创作，灵感来源于凯恩的亲戚露丝·斯蒂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/26/30119_crt_SUZ7H.jpg?r=1425391891",
+        "link": "https://bgm.tv/character/30119",
+        "categorie": "person"
+      },
+      {
+        "id": "41974",
+        "label": "超人",
+        "info": "Superman is a superhero published by DC Comics since 1938. An alien named Kal-El from the destroyed planet Krypton. he was sent to Earth and raised as Clark Kent by human foster parents, Martha and Jonathan Kent. As an adult, Superman became the protector of Earth, working at the Daily Planet as Clark Kent alongside his partner and wife Lois Lane.",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/85/41974_crt_yy53h.jpg?r=1496411358",
+        "link": "https://bgm.tv/character/41974",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

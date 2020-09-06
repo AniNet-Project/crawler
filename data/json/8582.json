@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8325",
+        "label": "牙神獣兵衛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/a7/8325_crt_AXN35.jpg",
+        "link": "https://bgm.tv/character/8325",
+        "categorie": "person"
+      },
+      {
+        "id": "76293",
+        "label": "阳炎",
+        "info": "本編のヒロイン。望月藩に仕える甲賀組のくノ一。疫病が流行って全滅したという村へ組が総出で向かおうとしたとき、自分から加わる。平時は藩主のお毒見役を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/97/76293_crt_5QydU.jpg?r=1584790092",
+        "link": "https://bgm.tv/character/76293",
+        "categorie": "person"
+      },
+      {
+        "id": "76294",
+        "label": "浊庵",
+        "info": "公儀隠密である雲水姿の老人。自分の任務に獣兵衛や陽炎も巻き込んでいく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/ea/76294_crt_o9s76.jpg",
+        "link": "https://bgm.tv/character/76294",
+        "categorie": "person"
+      },
+      {
+        "id": "76295",
+        "label": "冰室弦马",
+        "info": "鬼門衆の頭領にして、鬼門八人衆の頭。望月藩でさまざまな謀略をめぐらす。筋骨隆々の肉体から繰り出されるパワーとスピードを兼ね備えた体術は、獣兵衛の剣術を凌駕する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a0/76295_crt_clkkl.jpg",
+        "link": "https://bgm.tv/character/76295",
+        "categorie": "person"
+      },
+      {
+        "id": "76297",
+        "label": "现梦十郎",
+        "info": "鬼門八人衆の一人。盲目の剣士であるが、誘い込まれた竹林でも自在に走り回り、切り倒される竹の音にまぎれて切りかかって来た獣兵衛さえも圧倒する。さらには自らの盲目を逆手に取り、刀身で日差しを相手へ反射して目くらましも使う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/27/76297_crt_zhaIH.jpg",
+        "link": "https://bgm.tv/character/76297",
+        "categorie": "person"
+      },
+      {
+        "id": "76298",
+        "label": "百合丸",
+        "info": "鬼門八人衆を指揮する容姿端麗の優男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/60/76298_crt_optp4.jpg",
+        "link": "https://bgm.tv/character/76298",
+        "categorie": "person"
+      },
+      {
+        "id": "76299",
+        "label": "石榴",
+        "info": "鬼門八人衆の一人。火薬を自在に操る女。右目の下に傷がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/11/76299_crt_52kRz.jpg?r=1584791106",
+        "link": "https://bgm.tv/character/76299",
+        "categorie": "person"
+      },
+      {
+        "id": "76300",
+        "label": "红里",
+        "info": "鬼門八人衆の一人。無数の毒蛇を操る究極の蛇使い。自分自身も蛇のように脱皮して逃げ出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/d7/76300_crt_jj711.jpg?r=1584791182",
+        "link": "https://bgm.tv/character/76300",
+        "categorie": "person"
+      },
+      {
+        "id": "76301",
+        "label": "半佐",
+        "info": "望月藩に仕える甲賀組の頭。疫病が流行って全滅したという村へ組が総出で向かおうとした時、陽炎を置いていこうとしたが彼女が自分から加わってしまう。それなりに彼女を案じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/9a/76301_crt_dgnaD.jpg",
+        "link": "https://bgm.tv/character/76301",
+        "categorie": "person"
+      },
+      {
+        "id": "76302",
+        "label": "覆面武士",
+        "info": "豊臣家の再興をもくろむ人物・闇公方（やみくぼう）に仕える家来衆の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/bd/76302_crt_U6Ws3.jpg",
+        "link": "https://bgm.tv/character/76302",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

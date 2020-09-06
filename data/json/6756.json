@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "10875",
+        "label": "美轮的文小姐",
+        "info": "美輪のもんさん（通称もんさん）　13 才・♀",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/5f/10875_crt_phzJA.jpg",
+        "link": "https://bgm.tv/character/10875",
+        "categorie": "person"
+      },
+      {
+        "id": "10876",
+        "label": "碰子",
+        "info": "ポ子（通称ポっちゃん）　９才・♀",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/5f/10876_crt_FGU4D.jpg",
+        "link": "https://bgm.tv/character/10876",
+        "categorie": "person"
+      },
+      {
+        "id": "10877",
+        "label": "乌鸦波",
+        "info": "カラスぼん（通称ぼん）　７才・♂",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/30/10877_crt_oTNd5.jpg",
+        "link": "https://bgm.tv/character/10877",
+        "categorie": "person"
+      },
+      {
+        "id": "10878",
+        "label": "留吉",
+        "info": "トメ吉（通称トメ）　５才・♀",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/dc/10878_crt_8UFLS.jpg",
+        "link": "https://bgm.tv/character/10878",
+        "categorie": "person"
+      },
+      {
+        "id": "10879",
+        "label": "胡坊",
+        "info": "胡坊（通称胡ぼん）　１才・♂",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/0b/10879_crt_89Ypi.jpg",
+        "link": "https://bgm.tv/character/10879",
+        "categorie": "person"
+      },
+      {
+        "id": "58303",
+        "label": "くるさん",
+        "info": "酒とケモノを愛する名古屋のおばさん",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/7c/58303_crt_AIFwN.jpg",
+        "link": "https://bgm.tv/character/58303",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

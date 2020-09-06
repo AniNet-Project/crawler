@@ -1,0 +1,301 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5020",
+        "label": "无幻",
+        "info": "20岁。琉球出身的武士，性格阳刚、好女色(多次被骗)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/8d/5020_crt_anidb.jpg?r=1520567844",
+        "link": "https://bgm.tv/character/5020",
+        "categorie": "person"
+      },
+      {
+        "id": "11558",
+        "label": "仁",
+        "info": "　　推定年龄20岁，男（伪娘姿质）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/9d/11558_crt_sGSS5.jpg",
+        "link": "https://bgm.tv/character/11558",
+        "categorie": "person"
+      },
+      {
+        "id": "5019",
+        "label": "风",
+        "info": "多愁善感、心思细腻，武士家出身的15岁少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/fd/5019_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5019",
+        "categorie": "person"
+      },
+      {
+        "id": "61527",
+        "label": "锯子万藏",
+        "info": "各地を飛び回る暑苦しい隠密同心。設定こそシリアスだが行動や立ち振るいはコメディリリーフのそれである。本筋にはかかわらない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/09/61527_crt_87P1t.jpg?r=1520567820",
+        "link": "https://bgm.tv/character/61527",
+        "categorie": "person"
+      },
+      {
+        "id": "34207",
+        "label": "八叶",
+        "info": "第15话中，佣兵家族后代",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/fe/34207_crt_42K41.jpg",
+        "link": "https://bgm.tv/character/34207",
+        "categorie": "person"
+      },
+      {
+        "id": "61528",
+        "label": "新辅",
+        "info": "第七话中，因生病的母亲而去当扒手的少年",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/05/61528_crt_9Kq62.jpg",
+        "link": "https://bgm.tv/character/61528",
+        "categorie": "person"
+      },
+      {
+        "id": "61529",
+        "label": "紫乃",
+        "info": "第十一话中，为替丈夫还债卖入青楼的女子",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/df/61529_crt_FTyZ8.jpg",
+        "link": "https://bgm.tv/character/61529",
+        "categorie": "person"
+      },
+      {
+        "id": "11200",
+        "label": "菱川师宣",
+        "info": "浮世绘的创始人",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/b9/11200_crt_35PSs.jpg",
+        "link": "https://bgm.tv/character/11200",
+        "categorie": "person"
+      },
+      {
+        "id": "61799",
+        "label": "丈二",
+        "info": "“总有一天这国家屁股的洞会为我开启”",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/e1/61799_crt_B6nNv.jpg",
+        "link": "https://bgm.tv/character/61799",
+        "categorie": "person"
+      },
+      {
+        "id": "61530",
+        "label": "小坐",
+        "info": "13~14话中，海贼团伙老大的妹妹，与无幻一同长大",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/ad/61530_crt_l74TU.jpg",
+        "link": "https://bgm.tv/character/61530",
+        "categorie": "person"
+      },
+      {
+        "id": "61531",
+        "label": "骸",
+        "info": "13~14话中，海贼团伙的老大",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/86/61531_crt_Q7n7K.jpg",
+        "link": "https://bgm.tv/character/61531",
+        "categorie": "person"
+      },
+      {
+        "id": "61532",
+        "label": "士炼",
+        "info": "13~14话中，海贼团伙一员",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/90/61532_crt_O1WOf.jpg",
+        "link": "https://bgm.tv/character/61532",
+        "categorie": "person"
+      },
+      {
+        "id": "61800",
+        "label": "力锐",
+        "info": "第3~4话中，出千团伙永富组的老大",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/24/61800_crt_NnOv7.jpg",
+        "link": "https://bgm.tv/character/61800",
+        "categorie": "person"
+      },
+      {
+        "id": "61801",
+        "label": "小铃",
+        "info": "第3~4话中，赌徒的女儿",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/8f/61801_crt_s7988.jpg",
+        "link": "https://bgm.tv/character/61801",
+        "categorie": "person"
+      },
+      {
+        "id": "61802",
+        "label": "宗介",
+        "info": "第3~4话中，“瓦”的少主",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/5c/61802_crt_mQddQ.jpg",
+        "link": "https://bgm.tv/character/61802",
+        "categorie": "person"
+      },
+      {
+        "id": "61533",
+        "label": "鬼若丸",
+        "info": "第2话出场，面目可憎的大汉",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/25/61533_crt_R3KW4.jpg",
+        "link": "https://bgm.tv/character/61533",
+        "categorie": "person"
+      },
+      {
+        "id": "61534",
+        "label": "佐佐木龙二郎",
+        "info": "代官・渋井のドラ息子の護衛を任されていたチンピラだったが、ムゲンに片腕を落とされたことから気が触れ、彼を執拗につけ狙うようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/56/61534_crt_XhxDA.jpg",
+        "link": "https://bgm.tv/character/61534",
+        "categorie": "person"
+      },
+      {
+        "id": "61535",
+        "label": "升龙",
+        "info": "第10话中，漂流至异邦学习武术的斩人魔",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/25/61535_crt_6tUyt.jpg",
+        "link": "https://bgm.tv/character/61535",
+        "categorie": "person"
+      },
+      {
+        "id": "61536",
+        "label": "瑞光",
+        "info": "第10、12话出场，和尚，曾是一个拥有自己的道场的武士",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/4f/61536_crt_zCu30.jpg",
+        "link": "https://bgm.tv/character/61536",
+        "categorie": "person"
+      },
+      {
+        "id": "61744",
+        "label": "欧库鲁",
+        "info": "北の果て出身の大男。弓の名手。とある罪を犯し、松前藩に追われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/26/61744_crt_1c00t.jpg",
+        "link": "https://bgm.tv/character/61744",
+        "categorie": "person"
+      },
+      {
+        "id": "61745",
+        "label": "雪丸",
+        "info": "ジンと同じく無住心剣流を学んだ弟弟子。とある理由からジンの首に妄執し、付け狙う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/77/61745_crt_7jhoj.jpg",
+        "link": "https://bgm.tv/character/61745",
+        "categorie": "person"
+      },
+      {
+        "id": "61794",
+        "label": "沙罗",
+        "info": "瞽女。美しい歌声を持ち、盲目の身で全国を旅している謎多き女性。行きがかりの縁で一行と暫し行動を共にした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/e5/61794_crt_XT888.jpg",
+        "link": "https://bgm.tv/character/61794",
+        "categorie": "person"
+      },
+      {
+        "id": "61798",
+        "label": "半吉",
+        "info": "第15话中，八叶的搭档，被敌人捕获并拷问",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/42/61798_crt_gd9a1.jpg",
+        "link": "https://bgm.tv/character/61798",
+        "categorie": "person"
+      },
+      {
+        "id": "61803",
+        "label": "永光",
+        "info": "第8话中，要成为BIG的男人",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/34/61803_crt_4LKYd.jpg",
+        "link": "https://bgm.tv/character/61803",
+        "categorie": "person"
+      },
+      {
+        "id": "61804",
+        "label": "葡萄牙",
+        "info": "第8话中，来搭讪无幻与仁的女子",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/08/61804_crt_BEqgd.jpg",
+        "link": "https://bgm.tv/character/61804",
+        "categorie": "person"
+      },
+      {
+        "id": "61805",
+        "label": "小仓",
+        "info": "第8话中，永光的跟班",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/75/61805_crt_04qCV.jpg",
+        "link": "https://bgm.tv/character/61805",
+        "categorie": "person"
+      },
+      {
+        "id": "61806",
+        "label": "新八",
+        "info": "第8话中，永光的跟班，总是在beatbox",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c5/61806_crt_4Tlb3.jpg",
+        "link": "https://bgm.tv/character/61806",
+        "categorie": "person"
+      },
+      {
+        "id": "61795",
+        "label": "乔尼",
+        "info": "第21话中，救了仁的奇怪老头",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/73/61795_crt_6j6N5.jpg",
+        "link": "https://bgm.tv/character/61795",
+        "categorie": "person"
+      },
+      {
+        "id": "61796",
+        "label": "百合",
+        "info": "第19话中，隐秘的基督教信徒",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/20/61796_crt_76AAh.jpg",
+        "link": "https://bgm.tv/character/61796",
+        "categorie": "person"
+      },
+      {
+        "id": "61797",
+        "label": "沙勿略三世",
+        "info": "第19话中的外国传教士",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/ab/61797_crt_mH999.jpg",
+        "link": "https://bgm.tv/character/61797",
+        "categorie": "person"
+      },
+      {
+        "id": "61809",
+        "label": "马之助",
+        "info": "ムゲンを探す三兄弟。車椅子に乗せられた隻脚の廃人である長兄・藤兵衞と、鎖鎌を扱うまとめ役の次兄・馬之助、凶暴な殺人嗜好者の末弟・伝鬼坊の三人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/b5/61809_crt_6k6A9.jpg",
+        "link": "https://bgm.tv/character/61809",
+        "categorie": "person"
+      },
+      {
+        "id": "61810",
+        "label": "传鬼坊",
+        "info": "ムゲンを探す三兄弟。車椅子に乗せられた隻脚の廃人である長兄・藤兵衞と、鎖鎌を扱うまとめ役の次兄・馬之助、凶暴な殺人嗜好者の末弟・伝鬼坊の三人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/f9/61810_crt_nN9h1.jpg",
+        "link": "https://bgm.tv/character/61810",
+        "categorie": "person"
+      },
+      {
+        "id": "61811",
+        "label": "藤兵卫",
+        "info": "ムゲンを探す三兄弟。車椅子に乗せられた隻脚の廃人である長兄・藤兵衞と、鎖鎌を扱うまとめ役の次兄・馬之助、凶暴な殺人嗜好者の末弟・伝鬼坊の三人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/8b/61811_crt_U6Et0.jpg",
+        "link": "https://bgm.tv/character/61811",
+        "categorie": "person"
+      },
+      {
+        "id": "61812",
+        "label": "刈屋景时",
+        "info": "幕府大番頭を任されている男。老中から密命を受け一行の前に現れる。「神の手」の異名の通り、ムゲンとジンを同時に相手取ってもまったく寄せ付けない最強の剣客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a9/61812_crt_PTLht.jpg",
+        "link": "https://bgm.tv/character/61812",
+        "categorie": "person"
+      },
+      {
+        "id": "61813",
+        "label": "霞清藏",
+        "info": "フウの探し求める「向日葵の匂いのする侍」。幕府から切支丹へ転身した男で、大罪人として追われている。現在行方不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/a3/61813_crt_bdD5o.jpg",
+        "link": "https://bgm.tv/character/61813",
+        "categorie": "person"
+      },
+      {
+        "id": "61807",
+        "label": "野武士",
+        "info": "幸运E",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/8b/61807_crt_YRO3O.jpg",
+        "link": "https://bgm.tv/character/61807",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

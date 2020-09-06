@@ -1,0 +1,277 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37114",
+        "label": "影山茂夫",
+        "info": "本作主角，14岁，就读盐中学二年一班。因存在感薄弱被周遭人称为“龙套（路人）”。特征是锅盖头。不擅感受周遭气氛。个性温和，纯真热心，情感不丰，时常面无表情。是个强大的超能力者，认为超能力不是生活的必需品所以平常并不使用。为了不让超能力失控压抑著情感，每当累积的数值到达100时就会爆发。放学后会去灵幻的灵能相谈所打工，时薪300日圆。相当敬爱师父灵幻，宝贵的假日也是灵幻一通电话随传随到，虽然口头上抱怨，还是会乖乖随灵幻使唤。佩服聪明能干的弟弟影山律，是个能为了替弟弟道歉而下跪的好哥哥。爱慕著青梅竹马小蕾，为了得到小蕾欣赏加入肉体改造社。起初并不信任小酒窝，在日积月累的相处后一人一灵似乎真的成了好搭档。在与花泽打斗后成为盐中学的里番长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/67/37114_crt_i2CI5.jpg",
+        "link": "https://bgm.tv/character/37114",
+        "categorie": "person"
+      },
+      {
+        "id": "37115",
+        "label": "灵幻新隆",
+        "info": "龙套的师父，28岁。以灵能力者自称，经营著灵能相谈所的独立灵能执业者。收费相对同行十分便宜。一直以来生计都十分勉强，在架设了相谈所官网后客人有渐多的趋势。擅长各种诈欺手法，话术亦十分高竿。自称少林拳法绿带，体术颇佳，但体能似乎有待加强。相当害怕蟑螂。喜欢狗。会用各种技能解决委托人的问题，若解决不了，则会叫龙套来处理。虽然是诈欺师一名，但对龙套的内心问题会认真解惑，也会主动察觉龙套的心结，可说是龙套的人生导师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/c7/37115_crt_yB5EM.jpg?r=1465897094",
+        "link": "https://bgm.tv/character/37115",
+        "categorie": "person"
+      },
+      {
+        "id": "37116",
+        "label": "小酒窝",
+        "info": "上级恶灵。以龙套搭档自称。特征是双颊的红晕。阴险狡诈。为了成为神受世人崇拜建立了宗教（笑）（括弧笑），后被龙套击溃，力量大不如前。认为强大的龙套是助自己成为神的绝佳跳板，目前为了利用龙套的力量而跟在其身边。能附身在他人身上，被附身者除了双颊多了红晕，身体的潜力还能被运用到极致，有着不能破坏宿主身体的坚持。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/51/37116_crt_bRSOy.jpg?r=1465897250",
+        "link": "https://bgm.tv/character/37116",
+        "categorie": "person"
+      },
+      {
+        "id": "37117",
+        "label": "影山律",
+        "info": "龙套的弟弟，13岁，就读盐中学一年三班。聪明能干，读书与体育皆擅长，长相清秀，受到众多女孩的欢迎。是学生会的一员。唯一的弱项就是不会超能力，因为哥哥龙套是天生的超能力者，因此认为会超能力是“基本”的事，对自己不会超能力感到自卑，并以学会超能力为目标。相当敬爱哥哥。在学生会“大扫除”时合伙栽赃不良少年，良心压力下超能力觉醒。对灵幻十分不以为然，在爪事件后貌似有改观。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/06/37117_crt_2PiPd.jpg?r=1465897311",
+        "link": "https://bgm.tv/character/37117",
+        "categorie": "person"
+      },
+      {
+        "id": "39727",
+        "label": "花泽辉气",
+        "info": "通称光辉。黑醋中学二年级生，14岁，天生的超能力者，也是黑醋中学的里番长。自视甚高，蔑视无超能力的“凡人”，习惯于日常生活随心所欲的中使用超能力，因此考试、体育无不在行，再加上帅气的长相，深受众人欢迎。认真战斗时有内八字站姿的习惯。被龙套打败后价值观深受影响，对超能力的认知也有所改变，待人变得较和气。与龙套打斗时因龙套手滑导致头顶秃了一大片，从此带上堪比长厨师帽的超夸张假发，直到被樱威削掉假发后才恢复正常发型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/be/39727_crt_ausAp.jpg?r=1465897357",
+        "link": "https://bgm.tv/character/39727",
+        "categorie": "person"
+      },
+      {
+        "id": "39728",
+        "label": "鬼瓦天牙",
+        "info": "盐中的番长。飞机头的不良少年。被同学们畏惧著。败给黑醋中的光辉，求助肉改部长乡田，被拒后绑架龙套，用计让肉改部与黑醋中杠上，后对打倒光辉的“白T毒物”（龙套），十分尊敬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/c2/39728_crt_22dUM.jpg?r=1465911793",
+        "link": "https://bgm.tv/character/39728",
+        "categorie": "person"
+      },
+      {
+        "id": "39729",
+        "label": "米里一",
+        "info": "二年一班。新闻社社员。对新闻取材有着旺盛的好奇心与行动力。只身闯进宗教团体“(笑)”里发掘真相，见识到了龙套的能力，一直挖掘龙套超能力的秘密希望作为新闻题材发表。“超能锅盖头教”的干部，替龙套身份保密。为了锻炼龙套领导教团的能力而煽动他参选学生会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/cd/39729_crt_B2wjW.jpg",
+        "link": "https://bgm.tv/character/39729",
+        "categorie": "person"
+      },
+      {
+        "id": "39730",
+        "label": "暗田留",
+        "info": "脑感电波社社长。三年五班。自认是可爱的美少女。梦想是和宇宙生命体通信、接触。成立社团的宗旨是为了研究心灵感应，但久无进展觉得梦想无望，了解到龙套强大的超能力后重燃梦想，缠着龙套去寻找其他的超能力者。因为肉改社的好心，原本面临废社的脑电社目前与肉改社共用社团教室中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a2/39730_crt_lCGSa.jpg",
+        "link": "https://bgm.tv/character/39730",
+        "categorie": "person"
+      },
+      {
+        "id": "39731",
+        "label": "高岭蕾",
+        "info": "二年级生。拥有黑色长发与可爱的长相，是校园的偶像。与龙套是青梅竹马，也是龙套暗恋的对象。比起龙套的超能力，更喜欢擅长运动的男生。长大后与龙套关系较疏远。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/ae/39731_crt_yDOOH.jpg?r=1465911904",
+        "link": "https://bgm.tv/character/39731",
+        "categorie": "person"
+      },
+      {
+        "id": "43488",
+        "label": "乡田武藏",
+        "info": "肉体改造部其中一员",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/32/43488_crt_Fm055.jpg?r=1469590711",
+        "link": "https://bgm.tv/character/43488",
+        "categorie": "person"
+      },
+      {
+        "id": "45688",
+        "label": "樱威游介",
+        "info": "「爪」の幹部。誇山のパートナー。日本刀（実はプラスチック製のおもちゃ）を携え、理知的な雰囲気を漂わせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/e5/45688_crt_DIlIL.jpg?r=1473209601",
+        "link": "https://bgm.tv/character/45688",
+        "categorie": "person"
+      },
+      {
+        "id": "45833",
+        "label": "寺蛇",
+        "info": "「爪」の幹部。誇山がモブを取り逃したことを支部長に告げ口するなど、陰湿な性格。誇山からもあまりよく思われていない。念力の鞭を操る「空鞭（からぶち）」で戦闘を行う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/a0/45833_crt_7nR0F.jpg?r=1473209671",
+        "link": "https://bgm.tv/character/45833",
+        "categorie": "person"
+      },
+      {
+        "id": "45834",
+        "label": "邑机",
+        "info": "「爪」の幹部。物理攻撃が効かない霊体を無数に飛ばし、相手を一方的に攻撃する「幽体術（ゆうたいじゅつ）」の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/1c/45834_crt_Hph33.jpg?r=1473209814",
+        "link": "https://bgm.tv/character/45834",
+        "categorie": "person"
+      },
+      {
+        "id": "45835",
+        "label": "无饲",
+        "info": "「爪」の幹部。一人称は「ボク」。木人形を操る人形使いの少女。槌屋をツッチーと呼び慕っている。大切な木人形達をモブに破壊される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d1/45835_crt_eP7JB.jpg?r=1473850796",
+        "link": "https://bgm.tv/character/45835",
+        "categorie": "person"
+      },
+      {
+        "id": "45836",
+        "label": "狱内",
+        "info": "「爪」の幹部。槌屋とは逆に、気の力を体外に放出する技の持ち主。戦闘モードになるとその顔つきまでも変わり、底が計り知れないと遺志黒に言わしめるが、能力を振るうことなくモブに一瞬で倒されたため作中でその活躍が描かれることは無かった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/91/45836_crt_k4MCC.jpg?r=1473850907",
+        "link": "https://bgm.tv/character/45836",
+        "categorie": "person"
+      },
+      {
+        "id": "46077",
+        "label": "铃木将",
+        "info": "「爪」のボス・鈴木統一郎の息子。逆立った髪型が特徴的な13歳の少年。自身も強力な超能力の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/31/46077_crt_RKa4J.jpg",
+        "link": "https://bgm.tv/character/46077",
+        "categorie": "person"
+      },
+      {
+        "id": "46078",
+        "label": "魔津尾",
+        "info": "「爪」の幹部。男性だがオネエ言葉を操る悪霊使い。「ゴーストカプセル」と呼ばれる密閉容器の中に悪霊を封じ込め、普段はそれを腰に巻いて携帯している。ちなみに、彼が使役する悪霊達はそのグロテスクな見た目とは裏腹に「クッキーちゃん」、「ガムちゃん」、「キャラメルちゃん」といったお菓子の名前が付けられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/bc/46078_crt_J507t.jpg?r=1473842765",
+        "link": "https://bgm.tv/character/46078",
+        "categorie": "person"
+      },
+      {
+        "id": "46912",
+        "label": "铃木统一郎",
+        "info": "爪的总部Boss（老大），相当中二。使唤超能力儿子铃木将到支部视察，再将有能者引荐到总部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/9b/46912_crt_6mM4i.jpg",
+        "link": "https://bgm.tv/character/46912",
+        "categorie": "person"
+      },
+      {
+        "id": "67539",
+        "label": "最上启示",
+        "info": "かつて「人々を救う善良な霊能力者」として一世を風靡した男。テレビを初めとするマスメディアにも多数出演していた。生まれつき霊が見えるだけでなく、口寄せや霊を祓う力も兼ね備えその力は紛れもない本物。ある日を境に性格が豹変…エクボとはなにやら因縁がある模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8e/67539_crt_f64Zj.jpg",
+        "link": "https://bgm.tv/character/67539",
+        "categorie": "person"
+      },
+      {
+        "id": "67755",
+        "label": "エミ",
+        "info": "本が好きで、小説を書いている2年生。生徒会長に立候補したモブに惚れたとして恋心を告白した。小説家志望。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/47/67755_crt_tKiQW.jpg",
+        "link": "https://bgm.tv/character/67755",
+        "categorie": "person"
+      },
+      {
+        "id": "67756",
+        "label": "森罗万象丸",
+        "info": "路上で「出張霊能相談」を始めようとしていた霊幻たちの前に現れる中年男。巨大な数珠を首に巻いている、自称「世紀の霊能力者」。大仰な名前を名乗っているところからして、霊幻と同じインチキ霊能力者かと思いきや、サイキックパワーは持っているらしい（ただし、力はさほど強くはない）。日輪霊能連合会の会員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/df/67756_crt_HMv7Q.jpg",
+        "link": "https://bgm.tv/character/67756",
+        "categorie": "person"
+      },
+      {
+        "id": "67757",
+        "label": "净堂麒麟",
+        "info": "同業者たちをまとめ上げている日輪霊能連合会の会長。「会長」を名乗っているだけに、その能力はなかなかのもので、テレビにも出演している有名人。ただし性格に難があり、自分と敵対する霊能力者を廃業に追い込んだ……など、悪いウワサも多い。つねに多数の取り巻きを引き連れ、テンパっているようにも見えるギョロ目が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/44/67757_crt_9syw2.jpg",
+        "link": "https://bgm.tv/character/67757",
+        "categorie": "person"
+      },
+      {
+        "id": "67758",
+        "label": "浅桐实里",
+        "info": "巨大な豪邸に住む資産家で、アサギリホールディングスの代表・浅桐正志のひとり娘。モブと同じ中学２年生で、父に溺愛されて育ったせいか、性格は極めてわがまま。父によれば何者かに取り憑かれているらしく、現在は邸宅の一室に閉じ込められている。一見、可憐な少女に見えるみのりは、オカしいのは父の方だと主張するが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/5e/67758_crt_y1y11.jpg",
+        "link": "https://bgm.tv/character/67758",
+        "categorie": "person"
+      },
+      {
+        "id": "69583",
+        "label": "芹泽克也",
+        "info": "超能力結社「爪」の中で、ボスの直属の部下にあたる中核メンバー「５超」のひとり。超能力を自分でうまく制御できなかったことが原因で周囲から孤立し、15年にわたる引きこもり生活を送ったのちに、力を見出されて「爪」のメンバーに。ボスに対して絶大な信頼を寄せており、いつも持ち歩いている傘もボスから贈られたもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/83/69583_crt_m99GR.jpg",
+        "link": "https://bgm.tv/character/69583",
+        "categorie": "person"
+      },
+      {
+        "id": "69584",
+        "label": "岛崎",
+        "info": "「爪」のボス・鈴木の、直属の部下にあたる「５超」のひとり。敵の動きを先読みするだけでなく、自在に空間を移動するテレポート能力を用いて、自分はダメージを受けることなく、相手を攻撃する。超能力者のエネルギーの流れを読み取る超感知ゾーン「マインズ・アイ」も使いこなし、ボスを除けば世界一の実力者と自負している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/ed/69584_crt_MOyTL.jpg",
+        "link": "https://bgm.tv/character/69584",
+        "categorie": "person"
+      },
+      {
+        "id": "70675",
+        "label": "峰岸稔树",
+        "info": "5超の1人。エネルギーを植物に注ぎ込む事で成長・増殖させ、またそれらを自在に操る能力者。冷静で淡白な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/08/70675_crt_lffw2.jpg",
+        "link": "https://bgm.tv/character/70675",
+        "categorie": "person"
+      },
+      {
+        "id": "70676",
+        "label": "柴田宏",
+        "info": "5超の1人。筋肉に念信号を送り膨張させる技「サイコステロイド」を使い、建物の壁をぶち抜くパワーと銃弾を浴びてもダメージを受けない防御力をその身に宿す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/4c/70676_crt_XyJxY.jpg",
+        "link": "https://bgm.tv/character/70676",
+        "categorie": "person"
+      },
+      {
+        "id": "70677",
+        "label": "羽鸟希",
+        "info": "5超の1人。眼鏡をかけた青年。電子機器や電波に関わるシステムに自由に侵入・操作できる能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/13/70677_crt_ltCrG.jpg",
+        "link": "https://bgm.tv/character/70677",
+        "categorie": "person"
+      },
+      {
+        "id": "70678",
+        "label": "夸山惠",
+        "info": "「爪」の幹部。初登場時はフードで顔を隠していた。筋骨隆々の体躯を持ち、モヒカン頭、耳と唇にピアスをつけた強面の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/e8/70678_crt_dw4dn.jpg",
+        "link": "https://bgm.tv/character/70678",
+        "categorie": "person"
+      },
+      {
+        "id": "70679",
+        "label": "ヨシフ",
+        "info": "外人部隊の実質的なリーダー。他の外人部隊員を煽動し、「爪」への謀反を起こした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e9/70679_crt_6ivIg.jpg",
+        "link": "https://bgm.tv/character/70679",
+        "categorie": "person"
+      },
+      {
+        "id": "70680",
+        "label": "ウド",
+        "info": "外人部隊のメンバー。柴田と同じ、肉体を強化する能力者。「暴れられればそれでいい」と考えており、その力で破壊活動をするために日本に来た。メンバー2人を難なく倒した柴田に逆上し襲い掛かるも腕一本で倒された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/5c/70680_crt_qv0xV.jpg",
+        "link": "https://bgm.tv/character/70680",
+        "categorie": "person"
+      },
+      {
+        "id": "70681",
+        "label": "ミゲル",
+        "info": "外人部隊のメンバー。「爪」の戦闘員たちを一人一人指さし、「殺せる」と言い放つ傲慢な男。しかし5超との戦いで真っ先に倒されてしまった。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/70681",
+        "categorie": "person"
+      },
+      {
+        "id": "70682",
+        "label": "おひきさん",
+        "info": "口裂け女",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/6a/70682_crt_9bQw9.jpg",
+        "link": "https://bgm.tv/character/70682",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

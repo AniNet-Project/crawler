@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20443",
+        "label": "山神露西…(略)",
+        "info": "配属于福祉给付事务科的新人职员。20岁。是一位戴眼镜的短发女性。头上有一条会随着主人情感晃动的呆毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/43/20443_crt_H8Uxh.jpg?r=1523367106",
+        "link": "https://bgm.tv/character/20443",
+        "categorie": "person"
+      },
+      {
+        "id": "20444",
+        "label": "长谷部丰",
+        "info": "配属于福祉第一科的新人男职员。22岁。在作品中唯一知晓且能叫出“露西”以下的一部分名字的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/c6/20444_crt_R2gPl.jpg?r=1523367119",
+        "link": "https://bgm.tv/character/20444",
+        "categorie": "person"
+      },
+      {
+        "id": "20445",
+        "label": "三好纱耶",
+        "info": "24岁。隶属于福祉第二科的新人女职员。以往没有任何工作经验，现为大学毕业后首份获取录的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/98/20445_crt_E6yys.jpg?r=1523367130",
+        "link": "https://bgm.tv/character/20445",
+        "categorie": "person"
+      },
+      {
+        "id": "20447",
+        "label": "一宫大志",
+        "info": "福祉第一科的男性职员。26岁。在高中毕业后就进入区役所就职，至今工作已有八年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/47/20447_crt_z7kfF.jpg?r=1523367182",
+        "link": "https://bgm.tv/character/20447",
+        "categorie": "person"
+      },
+      {
+        "id": "20446",
+        "label": "千早惠",
+        "info": "20岁。没有参加公务员考试，是福祉给付事务科的临时合约职员。平时工作与服务应对都是以流水式进行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/70/20446_crt_gx44r.jpg?r=1523367146",
+        "link": "https://bgm.tv/character/20446",
+        "categorie": "person"
+      },
+      {
+        "id": "20448",
+        "label": "一宫塔子",
+        "info": "一宫大志的妹妹，女高中生，17岁。重度兄控，傲娇。很担心没有朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/e0/20448_crt_3mm1L.jpg?r=1523366619",
+        "link": "https://bgm.tv/character/20448",
+        "categorie": "person"
+      },
+      {
+        "id": "40690",
+        "label": "长谷部薰",
+        "info": "长谷部丰的姐姐、公务员。兴趣是作弄他人于股掌之间。就如同作者说“不小心的话就会画成丰”，除了有点垂眼以外，脸部与丰非常像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/4f/40690_crt_zU1EX.jpg?r=1523367211",
+        "link": "https://bgm.tv/character/40690",
+        "categorie": "person"
+      },
+      {
+        "id": "20449",
+        "label": "田中婆婆",
+        "info": "某市・某区民的老婆婆。保健福祉课的常客，常常很早就来对纱耶发牢骚，口头禅为“我家的媳妇她啊……”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/79/20449_crt_VLUzL.jpg",
+        "link": "https://bgm.tv/character/20449",
+        "categorie": "person"
+      },
+      {
+        "id": "20450",
+        "label": "百井花音",
+        "info": "塔子的朋友、兼蔵的女儿。长相可爱、并与父亲长得很像。对于父亲的那副样子并不特别觉得如何，甚至会帮忙维护，理科能力相当强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/17/20450_crt_ELMxb.jpg?r=1523367195",
+        "link": "https://bgm.tv/character/20450",
+        "categorie": "person"
+      },
+      {
+        "id": "20452",
+        "label": "百井兼藏",
+        "info": "保健福祉课的课长。性格害羞，所以以远距离操纵兔子玩偶代替本人常驻于职场。据说从小就是这副德性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/dc/20452_crt_DL44G.jpg?r=1584516129",
+        "link": "https://bgm.tv/character/20452",
+        "categorie": "person"
+      },
+      {
+        "id": "20451",
+        "label": "田中让二",
+        "info": "田中婆婆的孙子，银行职员。正经八百，不知变通。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/56/20451_crt_5RGv0.jpg?r=1461277997",
+        "link": "https://bgm.tv/character/20451",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

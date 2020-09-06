@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37344",
+        "label": "薇尔莉特·伊芙加登",
+        "info": "隶属C·H邮政公司的“自动记忆人偶”少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/03/37344_crt_QeHnZ.jpg?r=1515695817",
+        "link": "https://bgm.tv/character/37344",
+        "categorie": "person"
+      },
+      {
+        "id": "38323",
+        "label": "基尔伯特·布甘比利亚",
+        "info": "莱丁谢夫特里希国陆军军人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/25/38323_crt_FbUSl.jpg?r=1453465684",
+        "link": "https://bgm.tv/character/38323",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

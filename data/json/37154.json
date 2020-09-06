@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16420",
+        "label": "八重樫太一",
+        "info": "一年三班学生，文研部部员。第一人称“俺”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/65/16420_crt_l803f.jpg?r=1535426180",
+        "link": "https://bgm.tv/character/16420",
+        "categorie": "person"
+      },
+      {
+        "id": "16421",
+        "label": "永濑伊织",
+        "info": "一年三班学生，文研部部长。第一人称“わたし”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e6/16421_crt_43YQ3.jpg?r=1427919447",
+        "link": "https://bgm.tv/character/16421",
+        "categorie": "person"
+      },
+      {
+        "id": "16422",
+        "label": "稻叶姬子",
+        "info": "一年三班学生，文研部副部长。第一人称“あたし”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/46/16422_crt_34Bg0.jpg?r=1427919143",
+        "link": "https://bgm.tv/character/16422",
+        "categorie": "person"
+      },
+      {
+        "id": "16423",
+        "label": "桐山唯",
+        "info": "一年一班学生，文研部部员。第一人称“アタシ”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/fa/16423_crt_aMZsX.jpg?r=1535426162",
+        "link": "https://bgm.tv/character/16423",
+        "categorie": "person"
+      },
+      {
+        "id": "16424",
+        "label": "青木义文",
+        "info": "一年一班学生，文研部部员。第一人称“オレ”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/6f/16424_crt_bcbBw.jpg?r=1535426151",
+        "link": "https://bgm.tv/character/16424",
+        "categorie": "person"
+      },
+      {
+        "id": "16609",
+        "label": "藤岛麻衣子",
+        "info": "1年3組で学級委員長を務めている生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/f4/16609_crt_v33EX.jpg",
+        "link": "https://bgm.tv/character/16609",
+        "categorie": "person"
+      },
+      {
+        "id": "16610",
+        "label": "后藤龙善",
+        "info": "1年3組の担任で文研部の顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/de/16610_crt_sPm4j.jpg",
+        "link": "https://bgm.tv/character/16610",
+        "categorie": "person"
+      },
+      {
+        "id": "16611",
+        "label": "八重樫莉奈",
+        "info": "太一の妹。太一とはとても仲が良く、朝、寝ている彼を起こしに行くことも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/ff/16611_crt_HwJrf.jpg",
+        "link": "https://bgm.tv/character/16611",
+        "categorie": "person"
+      },
+      {
+        "id": "16612",
+        "label": "桐山杏",
+        "info": "唯の二歳年下の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/fa/16612_crt_585P6.jpg",
+        "link": "https://bgm.tv/character/16612",
+        "categorie": "person"
+      },
+      {
+        "id": "16613",
+        "label": "永濑玲佳",
+        "info": "伊織の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/b6/16613_crt_wMpmj.jpg",
+        "link": "https://bgm.tv/character/16613",
+        "categorie": "person"
+      },
+      {
+        "id": "48927",
+        "label": "渡濑伸吾",
+        "info": "太一の友人でクラスメイト。サッカー部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/59/48927_crt_33ZKs.jpg",
+        "link": "https://bgm.tv/character/48927",
+        "categorie": "person"
+      },
+      {
+        "id": "48928",
+        "label": "中山真理子",
+        "info": "伊織の友人でクラスメイトで明朗快活な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/74/48928_crt_nYa1h.jpg",
+        "link": "https://bgm.tv/character/48928",
+        "categorie": "person"
+      },
+      {
+        "id": "48929",
+        "label": "濑户内薰",
+        "info": "太一・伊織・稲葉のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/6e/48929_crt_Afus9.jpg",
+        "link": "https://bgm.tv/character/48929",
+        "categorie": "person"
+      },
+      {
+        "id": "48930",
+        "label": "西野菜菜",
+        "info": "青木の幼なじみで中学時代に付き合っていたが、彼女の転校をきっかけに別れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/5b/48930_crt_RCFF6.jpg",
+        "link": "https://bgm.tv/character/48930",
+        "categorie": "person"
+      },
+      {
+        "id": "48931",
+        "label": "三桥千夏",
+        "info": "空手少女で中学時代の唯のライバルだった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/90/48931_crt_F6ZmF.jpg",
+        "link": "https://bgm.tv/character/48931",
+        "categorie": "person"
+      },
+      {
+        "id": "48932",
+        "label": "栗原雪菜",
+        "info": "唯の友人でクラスメイト。陸上部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/dc/48932_crt_F6l63.jpg",
+        "link": "https://bgm.tv/character/48932",
+        "categorie": "person"
+      },
+      {
+        "id": "48933",
+        "label": "宇和千寻",
+        "info": "私立山星高校生徒。文化研究部部員で太一達の後輩。1年2組所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/0a/48933_crt_bvHEo.jpg?r=1480688100",
+        "link": "https://bgm.tv/character/48933",
+        "categorie": "person"
+      },
+      {
+        "id": "48934",
+        "label": "圆城寺紫乃",
+        "info": "私立山星高校生徒。文化研究部部員で太一達の後輩。1年2組所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f4/48934_crt_Ii7P9.jpg?r=1480688237",
+        "link": "https://bgm.tv/character/48934",
+        "categorie": "person"
+      },
+      {
+        "id": "22390",
+        "label": "城山翔斗",
+        "info": "太一・伊織・稲葉のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/9f/22390_crt_laT99.jpg?r=1535343698",
+        "link": "https://bgm.tv/character/22390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

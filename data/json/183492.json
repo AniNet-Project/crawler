@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44743",
+        "label": "吉恩·欧塔斯",
+        "info": "ACCA本部監察課副課長。「もらいタバコのジーン」の異名を持つ。食パンといちごが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/7c/44743_crt_UqvT4.jpg?r=1471856462",
+        "link": "https://bgm.tv/character/44743",
+        "categorie": "person"
+      },
+      {
+        "id": "44744",
+        "label": "尼诺",
+        "info": "ジーンの友人。フリーの記者。趣味はバイク。チョコレートが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/68/44744_crt_85CH0.jpg?r=1471856582",
+        "link": "https://bgm.tv/character/44744",
+        "categorie": "person"
+      },
+      {
+        "id": "46557",
+        "label": "萝塔",
+        "info": "ジーンの妹。しっかり者で料理が得意。小麦粉を使ったおやつが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/d4/46557_crt_mi6rq.jpg?r=1474457750",
+        "link": "https://bgm.tv/character/46557",
+        "categorie": "person"
+      },
+      {
+        "id": "44745",
+        "label": "格罗苏拉",
+        "info": "ACCAトップ5長官の一人。ロックス区出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/96/44745_crt_pM11n.jpg?r=1471856605",
+        "link": "https://bgm.tv/character/44745",
+        "categorie": "person"
+      },
+      {
+        "id": "44746",
+        "label": "利利乌姆",
+        "info": "ACCAトップ5長官の一人。フラワウ区出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/e3/44746_crt_pmZDX.jpg?r=1471856706",
+        "link": "https://bgm.tv/character/44746",
+        "categorie": "person"
+      },
+      {
+        "id": "44747",
+        "label": "斯佩德",
+        "info": "ACCAトップ5長官の一人。ヤッカラ区出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/02/44747_crt_oj3zF.jpg?r=1471856795",
+        "link": "https://bgm.tv/character/44747",
+        "categorie": "person"
+      },
+      {
+        "id": "44748",
+        "label": "帕斯蒂斯",
+        "info": "ACCAトップ5長官の一人。スイツ区出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/1c/44748_crt_e0O6D.jpg?r=1471856842",
+        "link": "https://bgm.tv/character/44748",
+        "categorie": "person"
+      },
+      {
+        "id": "44749",
+        "label": "派因",
+        "info": "ACCAトップ5長官の一人。ジュモーク区出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/c1/44749_crt_I3ZCL.jpg?r=1471856864",
+        "link": "https://bgm.tv/character/44749",
+        "categorie": "person"
+      },
+      {
+        "id": "46558",
+        "label": "莫芙",
+        "info": "ACCA本部、本部長。コロレー区出身。5長官のもと、ACCAを取りまとめる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/8a/46558_crt_z9Cc8.jpg?r=1474457766",
+        "link": "https://bgm.tv/character/46558",
+        "categorie": "person"
+      },
+      {
+        "id": "46560",
+        "label": "波查多",
+        "info": "ACCA本部、副本部長。趣味はオペラ鑑賞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/ab/46560_crt_M75bx.jpg?r=1474460159",
+        "link": "https://bgm.tv/character/46560",
+        "categorie": "person"
+      },
+      {
+        "id": "46561",
+        "label": "欧鲁",
+        "info": "ACCA本部監察課、課長。乗り物が苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/d9/46561_crt_e2DXX.jpg?r=1474460240",
+        "link": "https://bgm.tv/character/46561",
+        "categorie": "person"
+      },
+      {
+        "id": "46562",
+        "label": "诺特",
+        "info": "ACCA本部監察課、局員。穏やかで優しい、3人の子持ちパパ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/49/46562_crt_ykDyY.jpg?r=1474460325",
+        "link": "https://bgm.tv/character/46562",
+        "categorie": "person"
+      },
+      {
+        "id": "46563",
+        "label": "阿特利",
+        "info": "ACCA本部監察課、局員。おやつタイムは至福のひと時。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/56/46563_crt_Z12q9.jpg?r=1474460426",
+        "link": "https://bgm.tv/character/46563",
+        "categorie": "person"
+      },
+      {
+        "id": "46564",
+        "label": "伯劳",
+        "info": "ACCA本部監察課、局員。おやつタイムは時間厳守。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/69/46564_crt_4iZ44.jpg?r=1474460481",
+        "link": "https://bgm.tv/character/46564",
+        "categorie": "person"
+      },
+      {
+        "id": "46565",
+        "label": "凯莉",
+        "info": "ACCA本部監察課、局員。おやつタイムは率先して。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/fb/46565_crt_ojP60.jpg?r=1474460542",
+        "link": "https://bgm.tv/character/46565",
+        "categorie": "person"
+      },
+      {
+        "id": "46566",
+        "label": "雷尔",
+        "info": "ACCAバードン支部局員。警察局の新入り巡査。本部のエリートが嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/3d/46566_crt_B3FcQ.jpg?r=1474460633",
+        "link": "https://bgm.tv/character/46566",
+        "categorie": "person"
+      },
+      {
+        "id": "47552",
+        "label": "施万",
+        "info": "ドーワー王国の王位継承権を持つ唯一の王子。ACCAが気に入らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/26/47552_crt_Q0Bbp.jpg?r=1477040523",
+        "link": "https://bgm.tv/character/47552",
+        "categorie": "person"
+      },
+      {
+        "id": "47553",
+        "label": "玛吉",
+        "info": "シュヴァーンお付きの優秀な近衛兵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/9a/47553_crt_r2wHt.jpg?r=1477040623",
+        "link": "https://bgm.tv/character/47553",
+        "categorie": "person"
+      },
+      {
+        "id": "47554",
+        "label": "法尔克2世",
+        "info": "ドーワー王国第４代国王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/65/47554_crt_H6FD0.jpg?r=1477040727",
+        "link": "https://bgm.tv/character/47554",
+        "categorie": "person"
+      },
+      {
+        "id": "47555",
+        "label": "格瓦尔姆",
+        "info": "ドーワー王国枢機院長。国王を陰で支える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/3b/47555_crt_11W7u.jpg?r=1477040835",
+        "link": "https://bgm.tv/character/47555",
+        "categorie": "person"
+      },
+      {
+        "id": "49547",
+        "label": "艾达",
+        "info": "ACCA監察課 ファーマス支部 駐在員リーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/72/49547_crt_4BCmo.jpg?r=1482408939",
+        "link": "https://bgm.tv/character/49547",
+        "categorie": "person"
+      },
+      {
+        "id": "49548",
+        "label": "格鲁斯",
+        "info": "ACCA監察課 バードン支部 駐在員リーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/ea/49548_crt_W0rrR.jpg?r=1482409051",
+        "link": "https://bgm.tv/character/49548",
+        "categorie": "person"
+      },
+      {
+        "id": "52972",
+        "label": "コルリ",
+        "info": "ACCA監察課 ジュモーク支部駐在員リーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/cd/52972_crt_uB750.jpg",
+        "link": "https://bgm.tv/character/52972",
+        "categorie": "person"
+      },
+      {
+        "id": "52974",
+        "label": "ウォーブラー",
+        "info": "ACCA監察課 スイツ支部 駐在員リーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/b6/52974_crt_gVAli.jpg",
+        "link": "https://bgm.tv/character/52974",
+        "categorie": "person"
+      },
+      {
+        "id": "52976",
+        "label": "ビスキュイ",
+        "info": "ACCAスイツ支部局員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/d1/52976_crt_zQOaq.jpg",
+        "link": "https://bgm.tv/character/52976",
+        "categorie": "person"
+      },
+      {
+        "id": "52979",
+        "label": "リーリウム兄",
+        "info": "フラワウ区長。リーリウム長官の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/42/52979_crt_0zn9q.jpg",
+        "link": "https://bgm.tv/character/52979",
+        "categorie": "person"
+      },
+      {
+        "id": "52981",
+        "label": "ダンリン",
+        "info": "ACCA監察課 ビッラ支部 駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/cf/52981_crt_66Wn6.jpg",
+        "link": "https://bgm.tv/character/52981",
+        "categorie": "person"
+      },
+      {
+        "id": "52982",
+        "label": "サンドパイパー",
+        "info": "ACCA監察課　ロックス支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/1a/52982_crt_8Sk8U.jpg",
+        "link": "https://bgm.tv/character/52982",
+        "categorie": "person"
+      },
+      {
+        "id": "52985",
+        "label": "パルス",
+        "info": "ACCA監察課　ハレ支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/4b/52985_crt_dNbgz.jpg",
+        "link": "https://bgm.tv/character/52985",
+        "categorie": "person"
+      },
+      {
+        "id": "52989",
+        "label": "エグレット",
+        "info": "ACCA監察課　ドーワー支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/10/52989_crt_C4AG6.jpg",
+        "link": "https://bgm.tv/character/52989",
+        "categorie": "person"
+      },
+      {
+        "id": "53098",
+        "label": "古丽兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/43/53098_crt_MQcS3.jpg",
+        "link": "https://bgm.tv/character/53098",
+        "categorie": "person"
+      },
+      {
+        "id": "52990",
+        "label": "ラルース",
+        "info": "ACCA監察課　コロレー支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/18/52990_crt_pmfm5.jpg",
+        "link": "https://bgm.tv/character/52990",
+        "categorie": "person"
+      },
+      {
+        "id": "52991",
+        "label": "エベン",
+        "info": "ACCA本部長モーヴの秘書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/71/52991_crt_c26Zc.jpg",
+        "link": "https://bgm.tv/character/52991",
+        "categorie": "person"
+      },
+      {
+        "id": "52993",
+        "label": "ブロン",
+        "info": "ACCA本部長モーヴの秘書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/82/52993_crt_VG51T.jpg",
+        "link": "https://bgm.tv/character/52993",
+        "categorie": "person"
+      },
+      {
+        "id": "52994",
+        "label": "カルマン",
+        "info": "ACCA本部長モーヴの秘書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/6b/52994_crt_Q775d.jpg",
+        "link": "https://bgm.tv/character/52994",
+        "categorie": "person"
+      },
+      {
+        "id": "52995",
+        "label": "パッサー",
+        "info": "ACCA監察課　ペシ支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/9f/52995_crt_Of5cv.jpg",
+        "link": "https://bgm.tv/character/52995",
+        "categorie": "person"
+      },
+      {
+        "id": "52996",
+        "label": "ファルコ",
+        "info": "ACCA監察課　ヤッカラ支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/c1/52996_crt_Vd1ov.jpg",
+        "link": "https://bgm.tv/character/52996",
+        "categorie": "person"
+      },
+      {
+        "id": "55344",
+        "label": "郝林",
+        "info": "ペシ区 区長",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/89/55344_crt_EHnz5.jpg?r=1498322962",
+        "link": "https://bgm.tv/character/55344",
+        "categorie": "person"
+      },
+      {
+        "id": "55345",
+        "label": "克拉姆",
+        "info": "ACCAペシ区 支部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/d5/55345_crt_G23Ev.jpg",
+        "link": "https://bgm.tv/character/55345",
+        "categorie": "person"
+      },
+      {
+        "id": "52997",
+        "label": "ロクステッラ",
+        "info": "ACCA監察課　プラネッタ支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/86/52997_crt_Pi93p.jpg",
+        "link": "https://bgm.tv/character/52997",
+        "categorie": "person"
+      },
+      {
+        "id": "52998",
+        "label": "リーリウム弟",
+        "info": "ACCA フラワウ支部長。リーリウムの弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/9a/52998_crt_1rPRO.jpg",
+        "link": "https://bgm.tv/character/52998",
+        "categorie": "person"
+      },
+      {
+        "id": "53000",
+        "label": "カナリー",
+        "info": "ACCA監察課　フラワウ支部　駐在員リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/86/53000_crt_2OvHB.jpg",
+        "link": "https://bgm.tv/character/53000",
+        "categorie": "person"
+      },
+      {
+        "id": "53099",
+        "label": "蒙特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/2a/53099_crt_II1hZ.jpg?r=1491161686",
+        "link": "https://bgm.tv/character/53099",
+        "categorie": "person"
+      },
+      {
+        "id": "53100",
+        "label": "第一王女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/88/53100_crt_YR6P4.jpg?r=1491161764",
+        "link": "https://bgm.tv/character/53100",
+        "categorie": "person"
+      },
+      {
+        "id": "55293",
+        "label": "尼诺的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f9/55293_crt_h8P9C.jpg?r=1498228104",
+        "link": "https://bgm.tv/character/55293",
+        "categorie": "person"
+      },
+      {
+        "id": "53021",
+        "label": "ACCA君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/86/53021_crt_92rf2.jpg",
+        "link": "https://bgm.tv/character/53021",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

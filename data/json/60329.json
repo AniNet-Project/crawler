@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33286",
+        "label": "加奈子",
+        "info": "安奈的姐姐",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/c2/33286_crt_i1O1l.jpg",
+        "link": "https://bgm.tv/character/33286",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

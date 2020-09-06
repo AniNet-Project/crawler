@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13297",
+        "label": "拉拉·露",
+        "info": "外見は幼い少女だが、ペンダントを用いて水を操る、人間では無い何か伝説的な存在。普段は寡黙に徹している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/84/13297_crt_cao9e.jpg",
+        "link": "https://bgm.tv/character/13297",
+        "categorie": "person"
+      },
+      {
+        "id": "13296",
+        "label": "松谷修造",
+        "info": "シュウ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/54/13296_crt_aavK4.jpg",
+        "link": "https://bgm.tv/character/13296",
+        "categorie": "person"
+      },
+      {
+        "id": "13298",
+        "label": "ハムド",
+        "info": "ヘリウッドの狂える王。己が権勢を取り戻すためとあらば如何な犠牲をも厭わず、敵国の民は勿論、自国の兵士すらも目的のためには容赦無く大量殺戮する。自身への暗殺計画を実行した刺客数名が、ザリ・バース居住者と判明した後は、同地の殲滅を企図する。躁鬱病を患っており、極度の興奮状態に達して過剰な暴力を振るい、直後に人が変わったように冷静さを寄り戻す場面がしばしば見受けられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/9e/13298_crt_OcSw4.jpg",
+        "link": "https://bgm.tv/character/13298",
+        "categorie": "person"
+      },
+      {
+        "id": "53085",
+        "label": "阿贝利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/1a/53085_crt_lF7ep.jpg",
+        "link": "https://bgm.tv/character/53085",
+        "categorie": "person"
+      },
+      {
+        "id": "53086",
+        "label": "莎拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8a/53086_crt_37ubV.jpg",
+        "link": "https://bgm.tv/character/53086",
+        "categorie": "person"
+      },
+      {
+        "id": "53087",
+        "label": "纳布卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/b5/53087_crt_GT765.jpg",
+        "link": "https://bgm.tv/character/53087",
+        "categorie": "person"
+      },
+      {
+        "id": "53088",
+        "label": "小布",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/62/53088_crt_ctMy8.jpg",
+        "link": "https://bgm.tv/character/53088",
+        "categorie": "person"
+      },
+      {
+        "id": "53089",
+        "label": "西斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/1d/53089_crt_5uVt0.jpg",
+        "link": "https://bgm.tv/character/53089",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

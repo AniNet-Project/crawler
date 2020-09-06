@@ -1,0 +1,517 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35607",
+        "label": "菜月昴",
+        "info": "無知無能にして無力無謀と四拍子欠けた主人公。突如として異世界に召喚され、訳の分からない状況に翻弄される。物怖じしない性質と持ち前の図々しさで、逆境に弱音を吐きつつも過酷な運命に立ち向かっていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/e4/35607_crt_zL7e7.jpg?r=1587941914",
+        "link": "https://bgm.tv/character/35607",
+        "categorie": "person"
+      },
+      {
+        "id": "35608",
+        "label": "艾米莉娅",
+        "info": "銀髪に紫紺の瞳を持つ美しい少女。お人好しで面倒見の良い性格だが、当人はなぜかそれを素直に認めようとしない。家族同然の猫精霊であるパックをお供に連れており、彼の前でだけ甘えた表情を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/d4/35608_crt_GmwaE.jpg?r=1596128593",
+        "link": "https://bgm.tv/character/35608",
+        "categorie": "person"
+      },
+      {
+        "id": "35615",
+        "label": "蕾姆",
+        "info": "名誉の負傷をしたスバルが担ぎ込まれた屋敷で、雑務全般を一手に担う双子メイドの妹。慇懃無礼な毒舌担当。屋敷の機能が維持されているのは、彼女の有能さが全てといっていい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/42/35615_crt_ygqcq.jpg?r=1594395738",
+        "link": "https://bgm.tv/character/35615",
+        "categorie": "person"
+      },
+      {
+        "id": "35614",
+        "label": "拉姆",
+        "info": "怪我をしたスバルが運び込まれた屋敷、ロズワール邸で働く双子メイドの姉。傲岸不遜な毒舌担当。炊事洗濯裁縫掃除、全てにおいて妹に劣るステータスの持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/f9/35614_crt_LQH5A.jpg?r=1594395803",
+        "link": "https://bgm.tv/character/35614",
+        "categorie": "person"
+      },
+      {
+        "id": "35616",
+        "label": "碧翠丝",
+        "info": "ロズワール邸にて『扉渡り』で隠された部屋、禁書庫の司書を務める幼い少女。愛らしい容姿と豪華なドレスで、まるで妖精のような印象を見るものに与える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/15/35616_crt_2IIZy.jpg?r=1456401317",
+        "link": "https://bgm.tv/character/35616",
+        "categorie": "person"
+      },
+      {
+        "id": "35609",
+        "label": "帕克",
+        "info": "エミリアと共に行動している精霊。灰色の体毛、まん丸の瞳にピンク色の鼻をした、手のひらに乗るサイズの二足歩行の小猫の姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/39/35609_crt_BQ5R4.jpg?r=1587942441",
+        "link": "https://bgm.tv/character/35609",
+        "categorie": "person"
+      },
+      {
+        "id": "35610",
+        "label": "菲鲁特",
+        "info": "くすんだ金髪に勝気な赤い目、尖った八重歯がチャームポイントの浮浪女児。王都の貧民街育ちで、幼さに見合わないタフで強かな性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/7f/35610_crt_6xF8A.jpg?r=1456401117",
+        "link": "https://bgm.tv/character/35610",
+        "categorie": "person"
+      },
+      {
+        "id": "35611",
+        "label": "莱茵哈鲁特·梵·阿斯特雷亚",
+        "info": "「――そこまでだ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1c/35611_crt_5cc58.jpg?r=1442639065",
+        "link": "https://bgm.tv/character/35611",
+        "categorie": "person"
+      },
+      {
+        "id": "35612",
+        "label": "艾尔莎·葛兰希尔黛",
+        "info": "「ああ、今のはとても、感じたわ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/17/35612_crt_CMZ4Y.jpg?r=1442639231",
+        "link": "https://bgm.tv/character/35612",
+        "categorie": "person"
+      },
+      {
+        "id": "35624",
+        "label": "罗兹瓦尔·L·梅札斯",
+        "info": "「君は私になーぁにを望むのかな？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/65/35624_crt_4P156.jpg?r=1442640590",
+        "link": "https://bgm.tv/character/35624",
+        "categorie": "person"
+      },
+      {
+        "id": "35617",
+        "label": "普莉希拉·跋利耶尔",
+        "info": "「世界は妾にとって都合の良いようにできておる」",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/3a/35617_crt_X7HCJ.jpg?r=1442639923",
+        "link": "https://bgm.tv/character/35617",
+        "categorie": "person"
+      },
+      {
+        "id": "35623",
+        "label": "阿尔德巴兰",
+        "info": "“アルデバラン”为金牛座主星毕宿五之名，意为“跟随昴宿者（统星の后星）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/29/35623_crt_I3Nz2.jpg?r=1442640420",
+        "link": "https://bgm.tv/character/35623",
+        "categorie": "person"
+      },
+      {
+        "id": "35618",
+        "label": "库珥修·卡尔斯腾",
+        "info": "「問おう。恥ずかしいとは思わないのかと」",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/db/35618_crt_yAwiB.jpg?r=1442640009",
+        "link": "https://bgm.tv/character/35618",
+        "categorie": "person"
+      },
+      {
+        "id": "35619",
+        "label": "菲利克斯·阿盖尔",
+        "info": "「んふー、恥ずかしがっちゃってきゃーわゆい」",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/30/35619_crt_6mfeU.jpg?r=1442640128",
+        "link": "https://bgm.tv/character/35619",
+        "categorie": "person"
+      },
+      {
+        "id": "35622",
+        "label": "威尔海姆·梵·阿斯特雷亚",
+        "info": "外号“剑鬼”，身上有着大量伤痕的老人。将王选使者带往罗兹瓦尔宅邸的老车夫。剑术高超，本人形容自己并不具备相关才能，靠的仅是持续挥剑半辈子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/8f/35622_crt_YY580.jpg?r=1442640352",
+        "link": "https://bgm.tv/character/35622",
+        "categorie": "person"
+      },
+      {
+        "id": "35620",
+        "label": "安娜塔西亚·合辛",
+        "info": "「安心して、ウチのものになってくれてええよ？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6d/35620_crt_f9m9Z.jpg?r=1442640214",
+        "link": "https://bgm.tv/character/35620",
+        "categorie": "person"
+      },
+      {
+        "id": "35621",
+        "label": "由里乌斯·尤克历乌斯",
+        "info": "「君はあの方に、相応しくない」",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/63/35621_crt_vjE61.jpg?r=1442640282",
+        "link": "https://bgm.tv/character/35621",
+        "categorie": "person"
+      },
+      {
+        "id": "43257",
+        "label": "培提尔其乌斯·罗马尼空提",
+        "info": "大罪主教之一，外号“怠惰”，年龄超过400岁，是最早的大罪主教。其说话方式及态度使人认为其是狂人。在众多大罪主教中是最为活跃，亦是最为臭名昭著。兴奋时会咬破自己的手指。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/fc/43257_crt_tXyYj.jpg?r=1587942313",
+        "link": "https://bgm.tv/character/43257",
+        "categorie": "person"
+      },
+      {
+        "id": "35613",
+        "label": "罗姆爷",
+        "info": "「やっかましいわぁ！　合図と合言葉も知らんで、扉をぶっ壊す気か！！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/0e/35613_crt_T7S99.jpg?r=1442639423",
+        "link": "https://bgm.tv/character/35613",
+        "categorie": "person"
+      },
+      {
+        "id": "40661",
+        "label": "トン",
+        "info": "街中でスバルに絡んだ3人のチンピラたち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/c7/40661_crt_2226j.jpg?r=1464575715",
+        "link": "https://bgm.tv/character/40661",
+        "categorie": "person"
+      },
+      {
+        "id": "40565",
+        "label": "チン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/52/40565_crt_1Xhi1.jpg?r=1464575680",
+        "link": "https://bgm.tv/character/40565",
+        "categorie": "person"
+      },
+      {
+        "id": "40566",
+        "label": "カン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/00/40566_crt_4t4x3.jpg?r=1464575757",
+        "link": "https://bgm.tv/character/40566",
+        "categorie": "person"
+      },
+      {
+        "id": "35625",
+        "label": "卡德蒙",
+        "info": "「で、お客さん、リンガは？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2c/35625_crt_NpSIU.jpg?r=1442640712",
+        "link": "https://bgm.tv/character/35625",
+        "categorie": "person"
+      },
+      {
+        "id": "42092",
+        "label": "カドモンの娘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/ab/42092_crt_jc2JR.jpg",
+        "link": "https://bgm.tv/character/42092",
+        "categorie": "person"
+      },
+      {
+        "id": "42093",
+        "label": "カドモンの嫁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/96/42093_crt_9d0zm.jpg?r=1464590986",
+        "link": "https://bgm.tv/character/42093",
+        "categorie": "person"
+      },
+      {
+        "id": "42094",
+        "label": "コンビニ店員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/bd/42094_crt_bCXcg.jpg?r=1464591047",
+        "link": "https://bgm.tv/character/42094",
+        "categorie": "person"
+      },
+      {
+        "id": "42095",
+        "label": "リザードマン店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/7e/42095_crt_Rl0Tp.jpg?r=1464591137",
+        "link": "https://bgm.tv/character/42095",
+        "categorie": "person"
+      },
+      {
+        "id": "41146",
+        "label": "佩特拉·雷蒂",
+        "info": "阿拉姆村的少女，12岁。梦想是长大后到都市制衣。昴在阿拉姆村认识的众多小孩之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/8d/41146_crt_1v1tO.jpg?r=1503761239",
+        "link": "https://bgm.tv/character/41146",
+        "categorie": "person"
+      },
+      {
+        "id": "41147",
+        "label": "米尔多",
+        "info": "阿拉姆村的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/7b/41147_crt_YdM1K.jpg?r=1466397960",
+        "link": "https://bgm.tv/character/41147",
+        "categorie": "person"
+      },
+      {
+        "id": "41152",
+        "label": "戴因",
+        "info": "阿拉姆村的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/65/41152_crt_40BkQ.jpg?r=1464580094",
+        "link": "https://bgm.tv/character/41152",
+        "categorie": "person"
+      },
+      {
+        "id": "41151",
+        "label": "凯因",
+        "info": "阿拉姆村的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/79/41151_crt_gly4c.jpg?r=1466398045",
+        "link": "https://bgm.tv/character/41151",
+        "categorie": "person"
+      },
+      {
+        "id": "41148",
+        "label": "卢克",
+        "info": "阿拉姆村的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1f/41148_crt_pWFPv.jpg?r=1466397984",
+        "link": "https://bgm.tv/character/41148",
+        "categorie": "person"
+      },
+      {
+        "id": "41153",
+        "label": "梅莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/ba/41153_crt_4eUzY.jpg",
+        "link": "https://bgm.tv/character/41153",
+        "categorie": "person"
+      },
+      {
+        "id": "41150",
+        "label": "美伊娜",
+        "info": "阿拉姆村的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/07/41150_crt_Aaaiq.jpg?r=1464579671",
+        "link": "https://bgm.tv/character/41150",
+        "categorie": "person"
+      },
+      {
+        "id": "42082",
+        "label": "青年団団長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/59/42082_crt_0m8jw.jpg?r=1473071381",
+        "link": "https://bgm.tv/character/42082",
+        "categorie": "person"
+      },
+      {
+        "id": "42081",
+        "label": "若返りババア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/34/42081_crt_ngvvz.jpg",
+        "link": "https://bgm.tv/character/42081",
+        "categorie": "person"
+      },
+      {
+        "id": "42083",
+        "label": "村の若者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/b9/42083_crt_2O9Ox.jpg",
+        "link": "https://bgm.tv/character/42083",
+        "categorie": "person"
+      },
+      {
+        "id": "42479",
+        "label": "德玛艾",
+        "info": "ラムとレムの母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/d7/42479_crt_mvxIi.jpg?r=1465789640",
+        "link": "https://bgm.tv/character/42479",
+        "categorie": "person"
+      },
+      {
+        "id": "42478",
+        "label": "考克",
+        "info": "ラムとレムの父親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/2f/42478_crt_85108.jpg?r=1465789626",
+        "link": "https://bgm.tv/character/42478",
+        "categorie": "person"
+      },
+      {
+        "id": "42480",
+        "label": "鬼族の族長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/4f/42480_crt_CA5c6.jpg?r=1465789758",
+        "link": "https://bgm.tv/character/42480",
+        "categorie": "person"
+      },
+      {
+        "id": "42481",
+        "label": "弗雷德莉卡·鲍尔曼",
+        "info": "罗兹瓦尔宅邸的女仆，24岁。身材挺拔，身高略高于菜月昴。有四分之一的亚人血统。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/84/42481_crt_M7zLZ.jpg?r=1503760461",
+        "link": "https://bgm.tv/character/42481",
+        "categorie": "person"
+      },
+      {
+        "id": "42754",
+        "label": "麦克罗顿·麦翁",
+        "info": "贤人会的代表，是个留着长长的白胡子的老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/fe/42754_crt_USEeW.jpg?r=1466398121",
+        "link": "https://bgm.tv/character/42754",
+        "categorie": "person"
+      },
+      {
+        "id": "42753",
+        "label": "马克斯·吉尔达库",
+        "info": "王国近卫骑士团的团长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/53/42753_crt_kANyM.jpg?r=1466397371",
+        "link": "https://bgm.tv/character/42753",
+        "categorie": "person"
+      },
+      {
+        "id": "42950",
+        "label": "波尔多",
+        "info": "賢人会の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/ae/42950_crt_L301h.jpg?r=1467017579",
+        "link": "https://bgm.tv/character/42950",
+        "categorie": "person"
+      },
+      {
+        "id": "42951",
+        "label": "李凯尔特",
+        "info": "40代くらいの中年の文官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/f1/42951_crt_Dg13T.jpg?r=1467017776",
+        "link": "https://bgm.tv/character/42951",
+        "categorie": "person"
+      },
+      {
+        "id": "43047",
+        "label": "奥托·苏文",
+        "info": "灰发的青年行商人，20岁。独自经商四年不太顺利。因想要出清库存的油货而被昴卷入白鲸事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/2e/43047_crt_rpqii.jpg?r=1503760504",
+        "link": "https://bgm.tv/character/43047",
+        "categorie": "person"
+      },
+      {
+        "id": "43083",
+        "label": "凯蒂",
+        "info": "行商人。魔女教徒。長身で痩せぎすの男。幌つきの荷車に、主同様に細身の地竜を二匹連れた人物。竜車を求めるスバルに、行商人仲間のオットーを紹介した。後に魔女教の内通者として捕まり、スバルを害そうとしたところをヴィルヘルムに切り殺された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/05/43083_crt_mKA6n.jpg?r=1473071318",
+        "link": "https://bgm.tv/character/43083",
+        "categorie": "person"
+      },
+      {
+        "id": "43084",
+        "label": "宿屋の主人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/98/43084_crt_HdU2L.jpg?r=1467655971",
+        "link": "https://bgm.tv/character/43084",
+        "categorie": "person"
+      },
+      {
+        "id": "43261",
+        "label": "地竜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/02/43261_crt_e00vk.jpg?r=1468220018",
+        "link": "https://bgm.tv/character/43261",
+        "categorie": "person"
+      },
+      {
+        "id": "43458",
+        "label": "蜜蜜·帕尔巴顿",
+        "info": "效忠安娜塔西亚的私设佣兵团“铁之牙”副团长，猫的兽人少女。作为安娜塔西亚的护卫与其一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/87/43458_crt_7787L.jpg?r=1468777937",
+        "link": "https://bgm.tv/character/43458",
+        "categorie": "person"
+      },
+      {
+        "id": "43459",
+        "label": "拉塞尔·费洛",
+        "info": "自称会计，实际上是在明暗两面与王都财产有关的能人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/ac/43459_crt_bTLA7.jpg?r=1470628644",
+        "link": "https://bgm.tv/character/43459",
+        "categorie": "person"
+      },
+      {
+        "id": "44128",
+        "label": "黑塔罗·帕尔巴顿",
+        "info": "獣人傭兵団「鉄の牙」の副長を務める少年。年齢14歳。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/9b/44128_crt_7CxlF.jpg?r=1470628314",
+        "link": "https://bgm.tv/character/44128",
+        "categorie": "person"
+      },
+      {
+        "id": "44129",
+        "label": "里卡多·威尔金",
+        "info": "アナスタシアの私兵の傭兵団「鉄の牙」の団長。身長約2メートルの犬の獣人（コボルト）。カララギ弁を話し、声がかなり大きい。アナスタシアとは昔からの知り合い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/51/44129_crt_DX8h8.jpg?r=1470629039",
+        "link": "https://bgm.tv/character/44129",
+        "categorie": "person"
+      },
+      {
+        "id": "44412",
+        "label": "库乌德·梅拉乌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/97/44412_crt_n7kbS.jpg?r=1471244572",
+        "link": "https://bgm.tv/character/44412",
+        "categorie": "person"
+      },
+      {
+        "id": "44410",
+        "label": "特蕾西亚·梵·阿斯特雷亚",
+        "info": "前代剑圣，剑鬼威尔海姆之妻。现任剑圣莱因哈鲁特祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/5b/44410_crt_XEnGM.jpg",
+        "link": "https://bgm.tv/character/44410",
+        "categorie": "person"
+      },
+      {
+        "id": "45205",
+        "label": "缇碧·帕尔巴顿",
+        "info": "獣人傭兵団「鉄の牙」副長。会計係。モノクルをかけたインテリらしい少年。 年齢14歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f8/45205_crt_p64p0.jpg",
+        "link": "https://bgm.tv/character/45205",
+        "categorie": "person"
+      },
+      {
+        "id": "45206",
+        "label": "女狂人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/da/45206_crt_vZVo9.jpg?r=1472473550",
+        "link": "https://bgm.tv/character/45206",
+        "categorie": "person"
+      },
+      {
+        "id": "45207",
+        "label": "獣人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/29/45207_crt_5VR06.jpg?r=1472473712",
+        "link": "https://bgm.tv/character/45207",
+        "categorie": "person"
+      },
+      {
+        "id": "45747",
+        "label": "短髮女狂人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/db/45747_crt_PjXtt.jpg?r=1473072737",
+        "link": "https://bgm.tv/character/45747",
+        "categorie": "person"
+      },
+      {
+        "id": "45746",
+        "label": "中年狂人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/4b/45746_crt_mI4El.jpg?r=1473073548",
+        "link": "https://bgm.tv/character/45746",
+        "categorie": "person"
+      },
+      {
+        "id": "46016",
+        "label": "村长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/99/46016_crt_4Zpyk.jpg?r=1473678651",
+        "link": "https://bgm.tv/character/46016",
+        "categorie": "person"
+      },
+      {
+        "id": "46445",
+        "label": "帕特拉修",
+        "info": "白鯨討伐の際に、クルシュより送られた漆黒の地竜。ダイアナ種と呼ばれ優秀だが扱いにくい。気位が高いが、何故かスバルにだけは懐いており、その献身によって幾度となく窮地を救われている。性別は雌。スバルへの態度やオットーの通訳によると、クールで姉御肌な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/b3/46445_crt_o5HGW.jpg?r=1503760559",
+        "link": "https://bgm.tv/character/46445",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

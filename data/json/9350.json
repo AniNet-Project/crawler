@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29437",
+        "label": "小林真",
+        "info": "烦恼著许多的事情，并且自杀的中学三年级学生。但是被主角“我”的灵魂借用了身体而复活，还吓到了周遭的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/93/29437_crt_Qvm6W.jpg",
+        "link": "https://bgm.tv/character/29437",
+        "categorie": "person"
+      },
+      {
+        "id": "20142",
+        "label": "佐野唱子",
+        "info": "主人公・小林真のクラスメイトの少女。昔の真に思いを寄せており今の真の様子が変わったことに気づく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a0/20142_crt_kawav.jpg",
+        "link": "https://bgm.tv/character/20142",
+        "categorie": "person"
+      },
+      {
+        "id": "29438",
+        "label": "桑原祐华",
+        "info": "中学二年级学生。对于没什么朋友的真也总是用亲切的声音打招呼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/08/29438_crt_bDHgb.jpg",
+        "link": "https://bgm.tv/character/29438",
+        "categorie": "person"
+      },
+      {
+        "id": "29439",
+        "label": "普拉普拉",
+        "info": "让“我”再一次挑战人生并给予指导的天使（？）。外观上就跟少年一样，但言行举止跟大人一样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1c/29439_crt_M0pI0.jpg",
+        "link": "https://bgm.tv/character/29439",
+        "categorie": "person"
+      },
+      {
+        "id": "29440",
+        "label": "早乙女",
+        "info": "真的同班同学。虽然不怎么起眼，但是有着不论对谁都是亲切且友善的个性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/a5/29440_crt_26m2Z.jpg",
+        "link": "https://bgm.tv/character/29440",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

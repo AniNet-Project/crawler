@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "517",
+        "label": "树多村光",
+        "info": "星秀学园高中部1年级（初登场时：小学5年生）。右投右打。投手。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/97/517_crt_gvQIi.jpg",
+        "link": "https://bgm.tv/character/517",
+        "categorie": "person"
+      },
+      {
+        "id": "519",
+        "label": "月岛青叶",
+        "info": "月岛家的三女。星秀学园中学部3年级（初登场时：小学4年级）。右投右打。投手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/dc/519_crt_0JEJ0.jpg",
+        "link": "https://bgm.tv/character/519",
+        "categorie": "person"
+      },
+      {
+        "id": "518",
+        "label": "月岛若叶",
+        "info": "月岛家的次女。意外身亡（初登场时：小学5年级）。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/88/518_crt_9uM44.jpg",
+        "link": "https://bgm.tv/character/518",
+        "categorie": "person"
+      },
+      {
+        "id": "65734",
+        "label": "月岛一叶",
+        "info": "月島家の長女。家業を切り盛る月島家の大黒柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/05/65734_crt_d7D74.jpg?r=1535197062",
+        "link": "https://bgm.tv/character/65734",
+        "categorie": "person"
+      },
+      {
+        "id": "65735",
+        "label": "月岛红叶",
+        "info": "月島家の四女。元気いっぱいの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/ec/65735_crt_LxLOc.jpg",
+        "link": "https://bgm.tv/character/65735",
+        "categorie": "person"
+      },
+      {
+        "id": "65781",
+        "label": "野茂",
+        "info": "月島家に飼われている猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/14/65781_crt_CLVc0.jpg",
+        "link": "https://bgm.tv/character/65781",
+        "categorie": "person"
+      },
+      {
+        "id": "50741",
+        "label": "东雄平",
+        "info": "星秀学园棒球部部员，背号3号，左投左打。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/34/50741_crt_DFZgv.jpg",
+        "link": "https://bgm.tv/character/50741",
+        "categorie": "person"
+      },
+      {
+        "id": "65736",
+        "label": "赤石修",
+        "info": "光や中西とは同じ小学校でガキ大将だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/30/65736_crt_Nm0xe.jpg",
+        "link": "https://bgm.tv/character/65736",
+        "categorie": "person"
+      },
+      {
+        "id": "65780",
+        "label": "中西大气",
+        "info": "光とは小学校時代からの同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/f9/65780_crt_r0jJk.jpg",
+        "link": "https://bgm.tv/character/65780",
+        "categorie": "person"
+      },
+      {
+        "id": "50740",
+        "label": "泷川茜",
+        "info": "小光与青叶的新邻居。与若叶长的十分相似的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/fe/50740_crt_b3htt.jpg",
+        "link": "https://bgm.tv/character/50740",
+        "categorie": "person"
+      },
+      {
+        "id": "65779",
+        "label": "千田圭一郎",
+        "info": "光とは中学からの同級生。中等部の野球部ではエースで４番をつとめていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c7/65779_crt_6K5BH.jpg",
+        "link": "https://bgm.tv/character/65779",
+        "categorie": "person"
+      },
+      {
+        "id": "48561",
+        "label": "朝见水辉",
+        "info": "月島姉妹のいとこ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/d4/48561_crt_W2cll.jpg",
+        "link": "https://bgm.tv/character/48561",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

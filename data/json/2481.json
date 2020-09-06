@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1250",
+        "label": "D-Boy",
+        "info": "主角。可变身为Tekkaman Blade。和Space Knights一同战斗。一开始不肯说出自己的身世谎称自己丧失了记忆，诺亚尔就为他起了D(angerous)-boy这个绰号。因为没有完全成为Tekkaman，所以变身成为Tekkaman有30分钟的时间限制，30分钟后他就会被拉达姆支配身体。由于不断的战斗全身组织开始受到破坏，进化成功后虽然身体组织破坏收到抑制但是进化后的副作用使组织破坏转移到了脑部，每次变身都会逐渐丧失部分记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/a9/1250_crt_YSzTb.jpg",
+        "link": "https://bgm.tv/character/1250",
+        "categorie": "person"
+      },
+      {
+        "id": "72122",
+        "label": "海因里希·冯·弗里曼",
+        "info": "外宇宙开发机构的创始人兼指挥官。性格沉着冷静，经常因为有看似冷酷的言行而遭到周围人的怀疑，其实是个很重感情的人。战略眼光敏锐，具有政治能力，擅长细致周密的计算和分析，总是从对同伴来说最好的从角度来考虑问题。并且亲自研发对拉达姆兵器、分析变身系统等，是个可以信赖，几乎万能的领导。经常戴形状独特的墨镜。擅长射击，曾经说过训练时的成绩是A级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/18/72122_crt_BvBT8.jpg",
+        "link": "https://bgm.tv/character/72122",
+        "categorie": "person"
+      },
+      {
+        "id": "72125",
+        "label": "巴纳德·奥图尔",
+        "info": "联合防卫军欧洲第四特种部队军曹（中士），优秀的职业军人，好酒贪杯却从不误事，深受士兵信任，平时最爱挂在嘴边的话是“为了酒和女人，一定要活着回去！”在夺取环轨基地的高速作战飞船的战斗中与D-Boy相识，二人成为生死之交，他对鹰矢也有着很大的影响，宇宙骑士基地毁灭半年后，为传讯给外出执行任务的宇宙骑士队而奔波，与高野于英格兰再度重逢时刚好救了鹰矢一次，阿拉斯加的基地防卫战里，又为掩护正在进行超进化的高野而牺牲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/6e/72125_crt_yxgky.jpg",
+        "link": "https://bgm.tv/character/72125",
+        "categorie": "person"
+      },
+      {
+        "id": "72126",
+        "label": "相羽美雪",
+        "info": "D-Boy之妹，相羽家最小的孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/26/72126_crt_HhOn2.jpg",
+        "link": "https://bgm.tv/character/72126",
+        "categorie": "person"
+      },
+      {
+        "id": "72128",
+        "label": "相羽新也",
+        "info": "实力和地位仅次于欧米伽的长官，被其他TEKKAMAN称为伊比路大人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/3a/72128_crt_iVwV4.jpg",
+        "link": "https://bgm.tv/character/72128",
+        "categorie": "person"
+      },
+      {
+        "id": "72117",
+        "label": "如月亚纪",
+        "info": "亚纪是宇宙骑士队的元老，个性独立、坚强。蓝地球号的副驾驶员，常常活跃在战斗一线，个性很强，对擒拿格斗之类的功夫也相当在行，被洛亚路背地里叫做“万年火爆女”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/23/72117_crt_ttrHZ.jpg",
+        "link": "https://bgm.tv/character/72117",
+        "categorie": "person"
+      },
+      {
+        "id": "72118",
+        "label": "诺亚尔·贝鲁斯",
+        "info": "父亲是个军人，为了让自己的儿子也能成为一名军人，便把洛亚路送入军校就读，但洛亚路并不想成为一名军人，所以后来就被菲里曼调到宇宙骑士队，和亚纪一样是宇宙骑士队的元老，Space Knights成员。蓝色地球号飞行员。后期转用钢铁战士二号（Sol Tekkaman2号）。生于军人世家名门，不顾家人反对进入外宇宙开发机构。一开始对D-Boy不信任，后来渐渐了解并称为朋友。心直口快，正义感强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/fd/72118_crt_282re.jpg",
+        "link": "https://bgm.tv/character/72118",
+        "categorie": "person"
+      },
+      {
+        "id": "72119",
+        "label": "米莉",
+        "info": "Space Knights操作员。经常和Freeman一起行动，也曾经代替过亚纪驾驶蓝色地球号。长相酷似D-Boy的妹妹美雪。设定名字为Miletta Le Rouge，但是和亚纪一样姓氏并没有在片中出现。　虽然还是个孩子但却精通电脑，平时负责基地与飞船之间的联系工作，亦参与了一些重要的研究工作，曾经冒死帮助暴走的D-Boy恢复正常。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/c0/72119_crt_pmmTs.jpg",
+        "link": "https://bgm.tv/character/72119",
+        "categorie": "person"
+      },
+      {
+        "id": "72120",
+        "label": "本田",
+        "info": "宇宙骑士基地技术维修部门的负责人，相当优秀的技师，主要负责修理飞船，值得信赖和依靠的好队友，与利比一起负责贝卡斯的维护工作，最讨厌不爱护机械设备的人，性情粗犷，喜欢打牌，休闲时喜欢做风筝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/f8/72120_crt_BAW8B.jpg",
+        "link": "https://bgm.tv/character/72120",
+        "categorie": "person"
+      },
+      {
+        "id": "72121",
+        "label": "雷宾",
+        "info": "宇宙骑士队里技术部的重要人物，虽然是男的，但却喜欢打扮成女的性格和行为都很女性化，而且做饭和各种家庭料理都很拿手，是一个标准的“家庭妇男”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/63/72121_crt_Z67zB.jpg",
+        "link": "https://bgm.tv/character/72121",
+        "categorie": "person"
+      },
+      {
+        "id": "72123",
+        "label": "巴尔扎克·阿西莫夫",
+        "info": "地球联合军少校。冒充随军记者，实际上是联合防卫军派来的间谍。潜入Space Knights基地，窃取Tekkaman Blade的机密数据带回军方。联合防卫军以此开发出战斗服，并任命其为Sol Tekkaman1号机的驾驶员。贫民窟出生的他曾经利欲熏心。和朋友马尔罗博士想凭借Sol Tekkaman打败拉达姆，从而平步青云。但是在Orbital Ring夺回站中惨败于Tekkaman Evil，Sol Tekkaman1号机也下落不明。之后被Riruru收留，在打算卸甲归田时偶遇SpaceKnights的成员并加入他们。与诺亚尔共通搭乘蓝色地球号飞向拉达姆基地的途中遭到Tekkaman Sword的袭击。巴尔扎克用弗里曼的特制武器使Tekkaman Sword强制解除变身，但却被Sword强行拖下飞船，在坠入大气层的过程中同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/28/72123_crt_LV3Q1.jpg",
+        "link": "https://bgm.tv/character/72123",
+        "categorie": "person"
+      },
+      {
+        "id": "72127",
+        "label": "白卡斯",
+        "info": "代号D23-911，身高2.7m、体重6.5t、飞行速度M2.34/49000ft（Crash Intrude模式），7.2mm机关炮4门、激光炮2门并装备导弹，可以说话并且能够与拉达姆兽单独作战。可以变成飞行形态，与Tekkaman Blade共通发动Crash Intrude（闪光飞鹰）和High-colt Voltekka（制造费米子产生增强轰击炮的攻击模式）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/8e/72127_crt_19B6B.jpg",
+        "link": "https://bgm.tv/character/72127",
+        "categorie": "person"
+      },
+      {
+        "id": "72129",
+        "label": "弗里兹",
+        "info": "原来是阿尔果斯号上的乘务员，相羽博士的助手，被改造后成为铁加曼 达加，是拉达姆最早使用的铁加曼，也是最擅长用奸计的铁加曼，Blade眼皮就是他弄伤的。Daggar是所有完整的Tekkaman中实力最弱的，依靠一个激光弓（Cosmo Bowgun）进行攻击。利用假求救信号引诱D-Boy进入轨道基地，并使用干涉棱镜阻止了D-Boy变身而且使他的变身水晶破碎。但是当D-Boy再次成功变身后被Tekkaman Blade打败。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/9b/72129_crt_SQHp2.jpg",
+        "link": "https://bgm.tv/character/72129",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

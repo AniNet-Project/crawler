@@ -1,0 +1,517 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6729",
+        "label": "健次郎",
+        "info": "一子相伝の暗殺拳「北斗神拳」の第64代伝承者。ラオウ、トキ、ジャギの義弟であり、ヒョウの実弟。北斗神拳創始者であるシュケンに列なる子孫。出身地は「修羅の国」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/19/6729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6729",
+        "categorie": "person"
+      },
+      {
+        "id": "6739",
+        "label": "巴托",
+        "info": "元々はささやかな水場を守って暮らす老婆のトヨに養子として育てられていた。自ら口減らしのために出奔し、同じ牢獄に囚われたことからケンシロウと知り合い、紆余曲折を経て彼を兄と慕う関係が始まった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/9d/6739_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6739",
+        "categorie": "person"
+      },
+      {
+        "id": "20537",
+        "label": "玲",
+        "info": "在世纪末的乱世之中成长的少女，目睹了乱世之中一幕幕的阴谋和悲剧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/83/20537_crt_FN98T.jpg?r=1373433377",
+        "link": "https://bgm.tv/character/20537",
+        "categorie": "person"
+      },
+      {
+        "id": "6741",
+        "label": "海之李白",
+        "info": "南斗五车星之海之战士，南斗五车星中的最年长者，统率着海之军团。拥有着在末世指挥千军万马的军师之才，在南斗最后之将的纷争结束后担任北斗军的参谋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/cf/6741_crt_iaPOi.jpg?r=1389848470",
+        "link": "https://bgm.tv/character/6741",
+        "categorie": "person"
+      },
+      {
+        "id": "23089",
+        "label": "司刑队队长",
+        "info": "西方某郡都的司刑队队长，负责抓捕和运送犯人、审判和处刑等。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/42/23089_crt_dB2D2.jpg?r=1390194570",
+        "link": "https://bgm.tv/character/23089",
+        "categorie": "person"
+      },
+      {
+        "id": "23099",
+        "label": "玛姆",
+        "info": "父亲因获罪而被逮捕，而和北斗军一起行动的幼女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/61/23099_crt_hWPw1.jpg",
+        "link": "https://bgm.tv/character/23099",
+        "categorie": "person"
+      },
+      {
+        "id": "23100",
+        "label": "巴斯克",
+        "info": "郡司令，为一个郡都的长官。能够使用连钢铁都能够绞碎的华山狱握爪，对于自己治下郡都的治安拥有着一定的自信。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/07/23100_crt_8ZB8E.jpg?r=1390279388",
+        "link": "https://bgm.tv/character/23100",
+        "categorie": "person"
+      },
+      {
+        "id": "23112",
+        "label": "疤楼那",
+        "info": "郡司令·巴斯克的副官，比较擅长说垃圾话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/96/23112_crt_zWb2P.jpg?r=1390365808",
+        "link": "https://bgm.tv/character/23112",
+        "categorie": "person"
+      },
+      {
+        "id": "23262",
+        "label": "艾恩",
+        "info": "赏金猎人，通过抓捕帝都悬赏通缉的通缉犯获取钱财。使用斗殴风格的自己流拳法，拥有着只属于自己的心爱的女人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/41/23262_crt_sJOgY.jpg?r=1390884355",
+        "link": "https://bgm.tv/character/23262",
+        "categorie": "person"
+      },
+      {
+        "id": "23303",
+        "label": "盖拉",
+        "info": "统治着一个郡都的郡司令，肥满的催眠术师。或许是因为体重过重的缘故，平时都以车代步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/3c/23303_crt_PA0qB.jpg?r=1391057500",
+        "link": "https://bgm.tv/character/23303",
+        "categorie": "person"
+      },
+      {
+        "id": "23304",
+        "label": "布佐利",
+        "info": "和艾恩一样通过抓捕通缉犯获取赏金的赏金猎人，习惯将抓到的通缉犯绑在腰上，自称是城中最强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/22/23304_crt_uu7SU.jpg",
+        "link": "https://bgm.tv/character/23304",
+        "categorie": "person"
+      },
+      {
+        "id": "23305",
+        "label": "明日香",
+        "info": "赏金猎人·艾恩最心爱的女人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/e8/23305_crt_RRzRs.jpg?r=1391058242",
+        "link": "https://bgm.tv/character/23305",
+        "categorie": "person"
+      },
+      {
+        "id": "23500",
+        "label": "廉",
+        "info": "赏金猎人，艾恩的手下，相对于反抗暴政更喜欢过赏金猎人自由自在的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/89/23500_crt_MOlp5.jpg?r=1392007010",
+        "link": "https://bgm.tv/character/23500",
+        "categorie": "person"
+      },
+      {
+        "id": "23528",
+        "label": "利奇恩",
+        "info": "A级反逆者收容所所长，看押着违逆天帝军所制定的法令的一般囚犯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/b4/23528_crt_Q5QQp.jpg",
+        "link": "https://bgm.tv/character/23528",
+        "categorie": "person"
+      },
+      {
+        "id": "23549",
+        "label": "索利亚",
+        "info": "天帝军中的帝都将军之一，有“紫光的索利亚”之称的独眼将军。元斗皇拳的使用者，拥有“元斗流轮光斩”等必杀技，攻守自如，足以灭却一切的流轮是其拳法的精髓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/1b/23549_crt_AtzB8.jpg",
+        "link": "https://bgm.tv/character/23549",
+        "categorie": "person"
+      },
+      {
+        "id": "23595",
+        "label": "巴兹",
+        "info": "韩氏兄弟中的哥哥，南斗圣拳一百零八派中南斗双鹰拳的传承者，通过二身一体的双人攻击打击敌人，奥义是“双羽落爪破”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/b8/23595_crt_e3Nc3.jpg?r=1392613792",
+        "link": "https://bgm.tv/character/23595",
+        "categorie": "person"
+      },
+      {
+        "id": "23596",
+        "label": "吉尔",
+        "info": "韩氏兄弟中的弟弟，南斗圣拳一百零八派中南斗双鹰拳的传承者，通过二身一体的双人攻击打击敌人，奥义是“双羽落爪破”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/11/23596_crt_h0j7U.jpg?r=1392613763",
+        "link": "https://bgm.tv/character/23596",
+        "categorie": "person"
+      },
+      {
+        "id": "23619",
+        "label": "法尔可",
+        "info": "帝都的将军，元斗皇拳的传承者中最强的一位，被称为“金色的法尔可”。如同金色的光芒一般照耀着元斗诸将的领袖级人物。天帝忠诚而坚定的守卫者，只要是事关天帝的安危即使是违背本性的残忍之事也会毫不犹豫地执行，反而在可以自己做决定的时候却会因为悲天悯人的性格而犯下令自己懊悔的错误。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/3f/23619_crt_f3FpC.jpg",
+        "link": "https://bgm.tv/character/23619",
+        "categorie": "person"
+      },
+      {
+        "id": "23622",
+        "label": "修齐",
+        "info": "帝都的将军，具有仗义执言的耿直和知恩必报的慷慨，是一位正直的武人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/7e/23622_crt_449G7.jpg",
+        "link": "https://bgm.tv/character/23622",
+        "categorie": "person"
+      },
+      {
+        "id": "23625",
+        "label": "缪",
+        "info": "帝都宫中的侍女，是为了爱情甘愿舍弃一切的好女人，抱持“爱人死去的时候也正是自己的死期”的觉悟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/be/23625_crt_USEKo.jpg?r=1392801437",
+        "link": "https://bgm.tv/character/23625",
+        "categorie": "person"
+      },
+      {
+        "id": "23731",
+        "label": "天帝琉衣",
+        "info": "元斗皇拳所守护的天帝，名义上是代表着苍天的正统统治者，然而在天势混论的情况下只能沦为别有用心的野心者操持在手中的棋子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/b5/23731_crt_QoB0Q.jpg",
+        "link": "https://bgm.tv/character/23731",
+        "categorie": "person"
+      },
+      {
+        "id": "23748",
+        "label": "邪光",
+        "info": "帝都总督，由法尔可的母亲抚养长大，膝下有两位息子。挟持天帝行使着一人之下，万人之上的权力。看上去大权在握，实际上只是自己的恐惧的傀儡而已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/28/23748_crt_77b5k.jpg",
+        "link": "https://bgm.tv/character/23748",
+        "categorie": "person"
+      },
+      {
+        "id": "23749",
+        "label": "赛亚",
+        "info": "帝都将军·法尔可的少年近侍，深得法尔可的信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/cc/23749_crt_ELfxX.jpg?r=1393476272",
+        "link": "https://bgm.tv/character/23749",
+        "categorie": "person"
+      },
+      {
+        "id": "23859",
+        "label": "赤鯱",
+        "info": "海盗的首领，只剩一眼一手一足依然足以统率一艘海盗船纵横四海，被海盗们尊称为赤鯱大爷。有一个失散的儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/d4/23859_crt_JFkSz.jpg?r=1393994611",
+        "link": "https://bgm.tv/character/23859",
+        "categorie": "person"
+      },
+      {
+        "id": "23994",
+        "label": "无名修罗",
+        "info": "修罗国中一名仍没有资格获得名字的修罗，使用机巧多变的“修罗忍道”，在未满十五岁时已拥有了让超过百人的部队瞬间瓦解的恐怖实力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/5a/23994_crt_56QYK.jpg?r=1394512732",
+        "link": "https://bgm.tv/character/23994",
+        "categorie": "person"
+      },
+      {
+        "id": "24003",
+        "label": "沙漏阿尔夫",
+        "info": "上级修罗，战斗时总是携带一支计时2分钟的沙漏，并宣称会在2分钟内杀死不值得他一战的对手，使用的招式是融合了毒杀和幻术的神速拳法“诱斗赤圆舞”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/ee/24003_crt_jIS0j.jpg?r=1394615132",
+        "link": "https://bgm.tv/character/24003",
+        "categorie": "person"
+      },
+      {
+        "id": "24083",
+        "label": "凯萨",
+        "info": "上级修罗，拥有千场胜利的战绩，被人尊称为郡将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/22/24083_crt_c5Chn.jpg?r=1395046242",
+        "link": "https://bgm.tv/character/24083",
+        "categorie": "person"
+      },
+      {
+        "id": "24084",
+        "label": "塔欧",
+        "info": "雷雅的弟弟，曾经一度以成为修罗为目标，然而并不是拥有怎样的野心，而只是在修罗的监视下感到不安而已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/82/24084_crt_tPAJS.jpg?r=1395202784",
+        "link": "https://bgm.tv/character/24084",
+        "categorie": "person"
+      },
+      {
+        "id": "24085",
+        "label": "雷雅",
+        "info": "生活在修罗之国的女子，塔欧的姐姐，坚信爱的意义，在弱肉强食的修罗之国依然坚持传播着爱的真谛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/10/24085_crt_8O4n8.jpg",
+        "link": "https://bgm.tv/character/24085",
+        "categorie": "person"
+      },
+      {
+        "id": "24089",
+        "label": "夏奇",
+        "info": "15岁飘零到修罗之国的少年，以异国他乡之人的身份在优胜劣汰的修罗之国寻找着属于自己的道路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/24/24089_crt_Ba0fz.jpg?r=1395392697",
+        "link": "https://bgm.tv/character/24089",
+        "categorie": "person"
+      },
+      {
+        "id": "24090",
+        "label": "磐",
+        "info": "第三罗将，北斗琉拳的传人，自称自己的拳速快如疾风，在打斗中少有人能看清他的拳法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/90/24090_crt_G3AxW.jpg",
+        "link": "https://bgm.tv/character/24090",
+        "categorie": "person"
+      },
+      {
+        "id": "24144",
+        "label": "柔拳",
+        "info": "北斗琉拳的继承者，被后辈尊敬地称为“大老”，曾深刻地体会过北斗琉拳的入魔之深。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/76/24144_crt_EfMV7.jpg",
+        "link": "https://bgm.tv/character/24144",
+        "categorie": "person"
+      },
+      {
+        "id": "24145",
+        "label": "布龙",
+        "info": "使用巨大的铁制回旋刃的修罗，向暴动的贱民们传达了“拉欧传说”破灭的消息。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/65/24145_crt_iP6Ji.jpg?r=1395826308",
+        "link": "https://bgm.tv/character/24145",
+        "categorie": "person"
+      },
+      {
+        "id": "24200",
+        "label": "蟹",
+        "info": "穿着和招式都模仿螃蟹，并且会在每句话的结尾加上“蟹” 的口癖的古怪修罗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/33/24200_crt_3D23r.jpg",
+        "link": "https://bgm.tv/character/24200",
+        "categorie": "person"
+      },
+      {
+        "id": "24201",
+        "label": "柯塞姆",
+        "info": "修罗之国的贱民，坚信着拉奥传说并企望着救世者的到来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/a8/24201_crt_CnfNB.jpg",
+        "link": "https://bgm.tv/character/24201",
+        "categorie": "person"
+      },
+      {
+        "id": "24397",
+        "label": "魁王",
+        "info": "第一罗将，北斗琉拳的修习者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/56/24397_crt_MKOPz.jpg",
+        "link": "https://bgm.tv/character/24397",
+        "categorie": "person"
+      },
+      {
+        "id": "24399",
+        "label": "彪",
+        "info": "第二罗将，额头上有一道醒目的伤疤，北斗琉拳的修习者。与第一罗将磐和大多数修罗不同，对于贱民并不一味抱持着弱肉强食的冷酷态度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/3e/24399_crt_NIZ5D.jpg",
+        "link": "https://bgm.tv/character/24399",
+        "categorie": "person"
+      },
+      {
+        "id": "24400",
+        "label": "阿乾",
+        "info": "贱民之子，和其他少年一起被修罗关在修炼场中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/44/24400_crt_7K3KE.jpg",
+        "link": "https://bgm.tv/character/24400",
+        "categorie": "person"
+      },
+      {
+        "id": "24450",
+        "label": "沙耶香",
+        "info": "第一罗将·魁王的血亲妹妹，同时与第二罗将·彪也保持着亲密的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/73/24450_crt_B9SkE.jpg?r=1398073561",
+        "link": "https://bgm.tv/character/24450",
+        "categorie": "person"
+      },
+      {
+        "id": "24451",
+        "label": "晓虎",
+        "info": "修罗，拥有过于臃肿的体型，对于别人提及“肥胖”二字非常敏感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/53/24451_crt_H3dd9.jpg",
+        "link": "https://bgm.tv/character/24451",
+        "categorie": "person"
+      },
+      {
+        "id": "24473",
+        "label": "长门",
+        "info": "第二罗将·彪麾下的准将，彪的心腹之一，一直坚信着彪就是修罗之国的救世主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/b7/24473_crt_ChJsd.jpg",
+        "link": "https://bgm.tv/character/24473",
+        "categorie": "person"
+      },
+      {
+        "id": "24474",
+        "label": "黑夜叉",
+        "info": "罗圣殿的守护者，连柔拳都大为赞赏的拳士，使用铁爪作武器，运用名为游升凄舞的招式，能够克制北斗琉拳的奥义暗流天波，是为了跟随在北斗宗家身侧而存在的最强拳师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/7d/24474_crt_AeEnJ.jpg",
+        "link": "https://bgm.tv/character/24474",
+        "categorie": "person"
+      },
+      {
+        "id": "24530",
+        "label": "魁王之母",
+        "info": "魁王的母亲，胸怀着对于面临困境的小孩无法见死不救的深厚母爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0d/24530_crt_VRwJu.jpg",
+        "link": "https://bgm.tv/character/24530",
+        "categorie": "person"
+      },
+      {
+        "id": "24532",
+        "label": "斑马",
+        "info": "魁王麾下的修罗，使用锁链作为武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f3/24532_crt_uRP5S.jpg?r=1398417522",
+        "link": "https://bgm.tv/character/24532",
+        "categorie": "person"
+      },
+      {
+        "id": "24715",
+        "label": "努贝里",
+        "info": "身材高大、胸前纹有眼镜蛇的修罗，知道唤醒中了死环白的人的秘孔在哪里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/ce/24715_crt_7yCAv.jpg",
+        "link": "https://bgm.tv/character/24715",
+        "categorie": "person"
+      },
+      {
+        "id": "24799",
+        "label": "樱华",
+        "info": "在北斗神拳尚未现世之际，断绝男嗣的北斗宗家继承血脉的两姐妹之姐姐，与妹妹在同一天诞下了有资格成为北斗宗家继承者的男婴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/79/24799_crt_yHx5q.jpg",
+        "link": "https://bgm.tv/character/24799",
+        "categorie": "person"
+      },
+      {
+        "id": "24800",
+        "label": "秋梅",
+        "info": "在北斗神拳尚未现世之际，断绝男嗣的北斗宗家继承血脉的两姐妹之妹妹，与姐姐在同一天诞下了有资格成为北斗宗家继承者的男婴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/c4/24800_crt_hcKKN.jpg",
+        "link": "https://bgm.tv/character/24800",
+        "categorie": "person"
+      },
+      {
+        "id": "21089",
+        "label": "龙拳",
+        "info": "北斗神拳的第六十三代继承人，由于没有子嗣，因此收养了四位养子，并决意从四人当中选出最适合的一个作为自己的继承者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/7c/21089_crt_NVZ3W.jpg",
+        "link": "https://bgm.tv/character/21089",
+        "categorie": "person"
+      },
+      {
+        "id": "23624",
+        "label": "法尔可之母",
+        "info": "法尔可的亲生母亲，养育了两个性格截然不同的孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/a3/23624_crt_xkc3c.jpg",
+        "link": "https://bgm.tv/character/23624",
+        "categorie": "person"
+      },
+      {
+        "id": "23829",
+        "label": "天帝军",
+        "info": "以天帝为最高领袖，以元斗神拳的传承者为主要成员而构建的社会性组织。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/88/23829_crt_5PnMi.jpg",
+        "link": "https://bgm.tv/character/23829",
+        "categorie": "person"
+      },
+      {
+        "id": "24004",
+        "label": "杀",
+        "info": "仍未摘掉面具的下级修罗，试探他人力量的牺牲品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/f4/24004_crt_HLW7R.jpg",
+        "link": "https://bgm.tv/character/24004",
+        "categorie": "person"
+      },
+      {
+        "id": "24005",
+        "label": "斩",
+        "info": "仍未摘掉面具的下级修罗，用于试探他人力量的牺牲品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c6/24005_crt_q216Z.jpg",
+        "link": "https://bgm.tv/character/24005",
+        "categorie": "person"
+      },
+      {
+        "id": "24835",
+        "label": "魁王陆战队",
+        "info": "罗将·魁王属下的精英部队，由二三百位一骑当千的修罗组成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c5/24835_crt_P350o.jpg",
+        "link": "https://bgm.tv/character/24835",
+        "categorie": "person"
+      },
+      {
+        "id": "6732",
+        "label": "拉奥",
+        "info": "トキ、サヤカの実兄、ジャギ、ケンシロウの義兄であり、カイオウの実弟。そして忘れ形見に、リュウがいる。北斗神拳四兄弟の長兄にして狂える恐怖の暴凶星・世紀末覇者拳王。愛馬は黒王号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/b3/6732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6732",
+        "categorie": "person"
+      },
+      {
+        "id": "6734",
+        "label": "尤莉娅",
+        "info": "南斗六聖拳「南斗最後の将」。「慈母星」を宿星に持つ女性であり南斗正統血統。その「慈母」の光は、あまねく人々に降りそそがれ、「北斗」と一体となる事で天の平定をもたらすとされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/2c/6734_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6734",
+        "categorie": "person"
+      },
+      {
+        "id": "19950",
+        "label": "希恩",
+        "info": "南斗六圣拳之殉星，挚爱尤莉娅的男人，制作的尤莉娅人偶惟妙惟肖，几可乱真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/38/19950_crt_60og0.jpg",
+        "link": "https://bgm.tv/character/19950",
+        "categorie": "person"
+      },
+      {
+        "id": "20839",
+        "label": "村长",
+        "info": "愿意接受多由的孤儿们的村子的村长，是一个带领着村民在末世中勉力生存着的慈善老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a4/20839_crt_hwe7E.jpg?r=1375765079",
+        "link": "https://bgm.tv/character/20839",
+        "categorie": "person"
+      },
+      {
+        "id": "20840",
+        "label": "玛米亚",
+        "info": "拥有着和尤利娅相似容颜的女子，利用飞速旋转的利刃切割敌人。个性坚强，为了带领村民战斗而宁愿舍弃女人的柔情，是位了不起的战士和领导者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/67/20840_crt_1YyPt.jpg?r=1375765933",
+        "link": "https://bgm.tv/character/20840",
+        "categorie": "person"
+      },
+      {
+        "id": "20975",
+        "label": "艾丽",
+        "info": "雷伊的妹妹，拥有着美丽的容颜和与之相匹配的坎坷命运。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/90/20975_crt_6Fqp5.jpg",
+        "link": "https://bgm.tv/character/20975",
+        "categorie": "person"
+      },
+      {
+        "id": "15208",
+        "label": "托奇",
+        "info": "「命は投げ捨てるものではない」",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/e8/15208_crt_c2fMc.jpg",
+        "link": "https://bgm.tv/character/15208",
+        "categorie": "person"
+      },
+      {
+        "id": "20836",
+        "label": "雷伊",
+        "info": "南斗六圣拳之“义星”，南斗水鸟拳的传人。在使用姿势优雅而威力强大的杀人拳法的同时也拥有着俊俏的外貌，装扮成女人也几可乱真。重情重义，是会为了恩义而孤注一掷的好男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/6e/20836_crt_RaJ3E.jpg?r=1375764500",
+        "link": "https://bgm.tv/character/20836",
+        "categorie": "person"
+      },
+      {
+        "id": "21190",
+        "label": "阿米巴",
+        "info": "南斗圣拳的修炼者，但同时也会使用北斗神拳。对于自己的才能非常自信的人，会将自己称为天才。虽然自信过剩，但确实拥有通过人体研究而发现自己未知的穴道的天赋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/24/21190_crt_LVI4F.jpg?r=1377837296",
+        "link": "https://bgm.tv/character/21190",
+        "categorie": "person"
+      },
+      {
+        "id": "24834",
+        "label": "宗拳",
+        "info": "北斗宗家的继承者，一子相传的暗杀拳·北斗神拳的创立者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/ae/24834_crt_70xBg.jpg",
+        "link": "https://bgm.tv/character/24834",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

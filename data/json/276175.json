@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71614",
+        "label": "椿原ミラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/22/71614_crt_3l61x.jpg",
+        "link": "https://bgm.tv/character/71614",
+        "categorie": "person"
+      },
+      {
+        "id": "71615",
+        "label": "椿原由奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/5f/71615_crt_49Gmm.jpg",
+        "link": "https://bgm.tv/character/71615",
+        "categorie": "person"
+      },
+      {
+        "id": "71616",
+        "label": "椿原仁奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/48/71616_crt_70hG5.jpg",
+        "link": "https://bgm.tv/character/71616",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39825",
+        "label": "千鸟",
+        "info": "忍びの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d3/39825_crt_oLlY8.jpg",
+        "link": "https://bgm.tv/character/39825",
+        "categorie": "person"
+      },
+      {
+        "id": "39826",
+        "label": "织田信长",
+        "info": "戦国の時代に現れた風雲児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c6/39826_crt_or1r3.jpg",
+        "link": "https://bgm.tv/character/39826",
+        "categorie": "person"
+      },
+      {
+        "id": "39828",
+        "label": "助藏",
+        "info": "忍びの男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/64/39828_crt_SGNRN.jpg",
+        "link": "https://bgm.tv/character/39828",
+        "categorie": "person"
+      },
+      {
+        "id": "39829",
+        "label": "归蝶",
+        "info": "信長の正妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/c3/39829_crt_7IIxG.jpg",
+        "link": "https://bgm.tv/character/39829",
+        "categorie": "person"
+      },
+      {
+        "id": "39827",
+        "label": "木下秀吉",
+        "info": "信長の家臣。あだ名はサル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/8b/39827_crt_rtS0s.jpg",
+        "link": "https://bgm.tv/character/39827",
+        "categorie": "person"
+      },
+      {
+        "id": "39831",
+        "label": "宁宁",
+        "info": "秀吉の正妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ba/39831_crt_8Er28.jpg",
+        "link": "https://bgm.tv/character/39831",
+        "categorie": "person"
+      },
+      {
+        "id": "53076",
+        "label": "浅井长政",
+        "info": "北近江国大名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/41/53076_crt_wK01W.jpg",
+        "link": "https://bgm.tv/character/53076",
+        "categorie": "person"
+      },
+      {
+        "id": "39830",
+        "label": "阿市",
+        "info": "信長の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/78/39830_crt_2JLee.jpg",
+        "link": "https://bgm.tv/character/39830",
+        "categorie": "person"
+      },
+      {
+        "id": "62459",
+        "label": "茶茶",
+        "info": "長政とお市の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e6/62459_crt_U8Lr3.jpg",
+        "link": "https://bgm.tv/character/62459",
+        "categorie": "person"
+      },
+      {
+        "id": "53078",
+        "label": "远藤直经",
+        "info": "浅井家家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/ee/53078_crt_3rJ86.jpg",
+        "link": "https://bgm.tv/character/53078",
+        "categorie": "person"
+      },
+      {
+        "id": "53081",
+        "label": "矶野员昌",
+        "info": "浅井家家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/93/53081_crt_H781K.jpg",
+        "link": "https://bgm.tv/character/53081",
+        "categorie": "person"
+      },
+      {
+        "id": "45228",
+        "label": "竹中半兵卫",
+        "info": "斎藤家家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a7/45228_crt_gDTPg.jpg",
+        "link": "https://bgm.tv/character/45228",
+        "categorie": "person"
+      },
+      {
+        "id": "49937",
+        "label": "松平元康",
+        "info": "後の徳川家康。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/70/49937_crt_01Y79.jpg",
+        "link": "https://bgm.tv/character/49937",
+        "categorie": "person"
+      },
+      {
+        "id": "62595",
+        "label": "本多忠胜",
+        "info": "徳川家家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/ef/62595_crt_koM71.jpg",
+        "link": "https://bgm.tv/character/62595",
+        "categorie": "person"
+      },
+      {
+        "id": "49941",
+        "label": "服部半藏",
+        "info": "松平元康の家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/8b/49941_crt_9x2UR.jpg",
+        "link": "https://bgm.tv/character/49941",
+        "categorie": "person"
+      },
+      {
+        "id": "55961",
+        "label": "山崎吉家",
+        "info": "朝倉家家臣。異常な大きさのアフロを頭に乗せる戦場の指揮者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/d2/55961_crt_uyR7r.jpg",
+        "link": "https://bgm.tv/character/55961",
+        "categorie": "person"
+      },
+      {
+        "id": "55962",
+        "label": "真柄直隆",
+        "info": "朝倉家家臣。異常な大きさの「太郎太刀」を振り回す戦場の荒くれ者。豪快な戦いぶりで敵兵に恐れられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/45/55962_crt_XqXXh.jpg",
+        "link": "https://bgm.tv/character/55962",
+        "categorie": "person"
+      },
+      {
+        "id": "43593",
+        "label": "森可成",
+        "info": "織田家の武将。「攻めの 三左」の呼び名で恐れられる槍の勇将。イケメンで女性に優しく、キザな一面あり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/5c/43593_crt_Z8LLa.jpg",
+        "link": "https://bgm.tv/character/43593",
+        "categorie": "person"
+      },
+      {
+        "id": "43592",
+        "label": "柴田胜家",
+        "info": "織田家の筆頭家老。「鬼柴田」の異名を持つ猛者で、いわゆる 戦馬鹿。心のアイドルはお市様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/d8/43592_crt_6x08o.jpg",
+        "link": "https://bgm.tv/character/43592",
+        "categorie": "person"
+      },
+      {
+        "id": "45229",
+        "label": "前田利家",
+        "info": "織田家家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/d1/45229_crt_8180z.jpg",
+        "link": "https://bgm.tv/character/45229",
+        "categorie": "person"
+      },
+      {
+        "id": "49939",
+        "label": "明智光秀",
+        "info": "かつて斎藤道三に師事し、今は足利義昭の側近を務める放浪の苦労人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/ec/49939_crt_1fhnq.jpg",
+        "link": "https://bgm.tv/character/49939",
+        "categorie": "person"
+      },
+      {
+        "id": "53082",
+        "label": "朝仓义景",
+        "info": "越前国大名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/7f/53082_crt_H9LcZ.jpg",
+        "link": "https://bgm.tv/character/53082",
+        "categorie": "person"
+      },
+      {
+        "id": "63686",
+        "label": "望月千代女",
+        "info": "姉川の戦いを見届け、音もなく去った謎の女。「信長も織田兵も大したことはない」と言い残す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/30/63686_crt_iT929.jpg",
+        "link": "https://bgm.tv/character/63686",
+        "categorie": "person"
+      },
+      {
+        "id": "49938",
+        "label": "足利义昭",
+        "info": "室町幕府第十三代将軍・義輝の弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/c2/49938_crt_4BZcK.jpg",
+        "link": "https://bgm.tv/character/49938",
+        "categorie": "person"
+      },
+      {
+        "id": "53687",
+        "label": "细川藤孝",
+        "info": "将軍・足利義昭の部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/78/53687_crt_tDK17.jpg",
+        "link": "https://bgm.tv/character/53687",
+        "categorie": "person"
+      },
+      {
+        "id": "63854",
+        "label": "盈",
+        "info": "森可成の正妻。帰蝶の侍女でもあった。 戦場を駆けぬける可成を献身的に支えている。子に長可、蘭丸らがいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/2c/63854_crt_wLqOn.jpg",
+        "link": "https://bgm.tv/character/63854",
+        "categorie": "person"
+      },
+      {
+        "id": "63853",
+        "label": "森长可",
+        "info": "可成とえいの子。ガサツで血気盛んな乱暴ボーイ。蘭丸の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/cb/63853_crt_H6ueE.jpg",
+        "link": "https://bgm.tv/character/63853",
+        "categorie": "person"
+      },
+      {
+        "id": "63852",
+        "label": "森兰丸",
+        "info": "可成とえいの子。礼儀正しく大人びたボーイ。長可の弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/e0/63852_crt_G2adA.jpg",
+        "link": "https://bgm.tv/character/63852",
+        "categorie": "person"
+      },
+      {
+        "id": "63898",
+        "label": "本愿寺显如",
+        "info": "本願寺の宗主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/96/63898_crt_n8yZz.jpg",
+        "link": "https://bgm.tv/character/63898",
+        "categorie": "person"
+      },
+      {
+        "id": "63900",
+        "label": "下间赖廉",
+        "info": "本願寺の坊官。顕如のボディガード的オーラがむんむん。怖い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/bb/63900_crt_5j0OW.jpg",
+        "link": "https://bgm.tv/character/63900",
+        "categorie": "person"
+      },
+      {
+        "id": "63899",
+        "label": "如春尼",
+        "info": "顕如の正妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/21/63899_crt_mSo5B.jpg",
+        "link": "https://bgm.tv/character/63899",
+        "categorie": "person"
+      },
+      {
+        "id": "64373",
+        "label": "杂贺孙市",
+        "info": "鉄砲傭兵集団・雑賀衆の頭領。金さえ積めば何にでも応えるぜっていうポリシーで戦国を生き抜いてます。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/b1/64373_crt_loW1T.jpg",
+        "link": "https://bgm.tv/character/64373",
+        "categorie": "person"
+      },
+      {
+        "id": "64374",
+        "label": "冈吉正",
+        "info": "雑賀衆の一人。鉄砲の名手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/21/64374_crt_hC6E3.jpg",
+        "link": "https://bgm.tv/character/64374",
+        "categorie": "person"
+      },
+      {
+        "id": "45227",
+        "label": "斋藤龙兴",
+        "info": "美濃国大名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/de/45227_crt_4781z.jpg",
+        "link": "https://bgm.tv/character/45227",
+        "categorie": "person"
+      },
+      {
+        "id": "53686",
+        "label": "松永久秀",
+        "info": "大和国大名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/b4/53686_crt_H5N0F.jpg",
+        "link": "https://bgm.tv/character/53686",
+        "categorie": "person"
+      },
+      {
+        "id": "63901",
+        "label": "下间赖龙",
+        "info": "本願寺の坊官。政治や軍事で顕如をサポート。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ed/63901_crt_mW5JJ.jpg",
+        "link": "https://bgm.tv/character/63901",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

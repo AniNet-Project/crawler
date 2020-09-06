@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "833",
+        "label": "读子·列特文",
+        "info": "纸术士，能够把纸变成纸墙壁等等的多样化武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/60/833_crt_RB66b.jpg",
+        "link": "https://bgm.tv/character/833",
+        "categorie": "person"
+      },
+      {
+        "id": "834",
+        "label": "兰西·幕张",
+        "info": "为伟人军团中的一员，有穿透物件的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/56/834_crt_xJIPQ.jpg",
+        "link": "https://bgm.tv/character/834",
+        "categorie": "person"
+      },
+      {
+        "id": "835",
+        "label": "多雷克·安德森",
+        "info": "读子的同伴，很在乎自己的女儿",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/47/835_crt_Zu768.jpg",
+        "link": "https://bgm.tv/character/835",
+        "categorie": "person"
+      },
+      {
+        "id": "836",
+        "label": "裘克",
+        "info": "大英图书馆特殊工作部的负责人",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/97/836_crt_n6w6U.jpg",
+        "link": "https://bgm.tv/character/836",
+        "categorie": "person"
+      },
+      {
+        "id": "847",
+        "label": "温蒂·雅哈得",
+        "info": "秘书，大英图书馆特殊工作部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/19/847_crt_cC1oN.jpg",
+        "link": "https://bgm.tv/character/847",
+        "categorie": "person"
+      },
+      {
+        "id": "7417",
+        "label": "玄奘三蔵",
+        "info": "インドで読子たちを襲った高僧。驚異的な体術と「西遊記」にちなんだ金斗雲や如意棒といった道具、火炎攻撃、更には水を自在に操る不可思議な力（それぞれ孫悟空、猪八戒、沙悟浄が能力のモデルと思われる）などを駆使して、読子たちをぎりぎりまで追い詰めた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/94/7417_crt_Gyzck.jpg?r=1391870111",
+        "link": "https://bgm.tv/character/7417",
+        "categorie": "person"
+      },
+      {
+        "id": "23492",
+        "label": "一休宗纯",
+        "info": "世界偉人軍団のリーダー。元は室町時代の破戒僧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/fa/23492_crt_S34Et.jpg?r=1391898861",
+        "link": "https://bgm.tv/character/23492",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

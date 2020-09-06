@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35185",
+        "label": "篝敦子",
+        "info": "从日本而来，志愿成为魔女的少女。小时候着迷于闪光莎莉欧的魔法秀，立志成为魔女于是来到了鲁纳诺娃魔法学校，虽然不擅长魔法，但会乐观向前地朝着成为莎莉欧那样的魔女而努力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ef/35185_crt_3F92S.jpg?r=1492703308",
+        "link": "https://bgm.tv/character/35185",
+        "categorie": "person"
+      },
+      {
+        "id": "35186",
+        "label": "洛蒂·杨森",
+        "info": "亚可的室友，来自芬兰的少女。性格温柔诚实，对于暴走状态的亚可，经常冷静地吐槽。唱歌很出色，能唱出古老的魔女歌谣召唤北欧精灵。是悲剧恋歌小说《Nightfall》的狂热读者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/ad/35186_crt_8iI4G.jpg?r=1492703374",
+        "link": "https://bgm.tv/character/35186",
+        "categorie": "person"
+      },
+      {
+        "id": "35187",
+        "label": "苏西・曼芭芭拉",
+        "info": "亚可的室友，从东南亚来的身份不明的魔女。热衷于毒物，从蜘蛛和蛇之类的动物毒素到毒蘑菇之类的植物系毒素都有所研究。时常用亚可做试验，我行我素，毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/ef/35187_crt_m281i.jpg?r=1492703453",
+        "link": "https://bgm.tv/character/35187",
+        "categorie": "person"
+      },
+      {
+        "id": "35188",
+        "label": "戴安娜·卡文迪什",
+        "info": "亚可的同班同学，出生于英国的名门魔女家系。头脑聪明，拥有高超的魔法能力，自从来到露娜诺娃就被称为优秀的学生，有着认真、正义感强的性格。经常与亚可发生冲突。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/0d/35188_crt_G1puU.jpg?r=1492703513",
+        "link": "https://bgm.tv/character/35188",
+        "categorie": "person"
+      },
+      {
+        "id": "35189",
+        "label": "厄休拉老师",
+        "info": "魔法学校の先生。アッコたちの迷宮での実践訓練での担当教官をしており、迷宮から出てきた いにしえの竜と対応する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/97/35189_crt_u7C8U.jpg?r=1493047647",
+        "link": "https://bgm.tv/character/35189",
+        "categorie": "person"
+      },
+      {
+        "id": "51699",
+        "label": "汉娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/32/51699_crt_06TKd.jpg",
+        "link": "https://bgm.tv/character/51699",
+        "categorie": "person"
+      },
+      {
+        "id": "51700",
+        "label": "芭芭拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/67/51700_crt_lLUZO.jpg",
+        "link": "https://bgm.tv/character/51700",
+        "categorie": "person"
+      },
+      {
+        "id": "51712",
+        "label": "ホルブルック校長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/bb/51712_crt_rS5D5.jpg",
+        "link": "https://bgm.tv/character/51712",
+        "categorie": "person"
+      },
+      {
+        "id": "51713",
+        "label": "フィネラン先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/43/51713_crt_pniPP.jpg",
+        "link": "https://bgm.tv/character/51713",
+        "categorie": "person"
+      },
+      {
+        "id": "51716",
+        "label": "ネルソン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/02/51716_crt_zA4Ui.jpg",
+        "link": "https://bgm.tv/character/51716",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

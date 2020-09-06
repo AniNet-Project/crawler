@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24095",
+        "label": "安艺伦也",
+        "info": "本作的男主角，12月18日出生，是爱好ACG的御宅族，同人游戏社团“Blessing software”的制作人兼导演。就读丰之崎学园2年B班，在校成绩平平，但获学校准许打工。一年级时为了在校庆上播放动画而跑教师办公室与教务主任力争许可，还惊动校长，成为校内屈指可数的名人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f8/24095_crt_SBHSO.jpg",
+        "link": "https://bgm.tv/character/24095",
+        "categorie": "person"
+      },
+      {
+        "id": "24094",
+        "label": "加藤惠",
+        "info": "安艺伦也的同班同学，9月23日出生，是个平凡没有存在感的女孩，但仔细看是个可人儿，起初留着鲍伯头，后来留长头发并束成马尾。被就读医学院的堂哥加藤圭一误以为与安艺伦也是男女朋友。受安艺伦也的请求担任同人游戏的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/57/24094_crt_Kq81M.jpg?r=1559388381",
+        "link": "https://bgm.tv/character/24094",
+        "categorie": "person"
+      },
+      {
+        "id": "24093",
+        "label": "泽村·史宾瑟·英梨梨",
+        "info": "日英混血，父亲是英国外交官，母亲是日本人，身材娇小，留着金色的双马尾。就读同校2年G班，是美术部的王牌，原本参加同人游戏社团“egoistic-lily”，笔名“柏木英理”（柏木 エリ）。应安艺伦也的请求加入同人游戏社团“Blessing software”，负责角色设定及原画。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/af/24093_crt_3qTD3.jpg?r=1579429412",
+        "link": "https://bgm.tv/character/24093",
+        "categorie": "person"
+      },
+      {
+        "id": "24092",
+        "label": "霞之丘诗羽",
+        "info": "安艺伦也的学姐，就读同校3年C班。留一头黑色长发、戴着白色发箍，看起来文静的美少女，但时常有劲爆的发言。她以笔名“霞诗子”所写的轻小说《恋爱节拍器》（恋するメトロノーム）由不死川书店的Fantastic文库发行共五集，合计销售破50万册。同人游戏社团“Blessing software”，负责脚本创作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/43/24092_crt_WtsxN.jpg?r=1523528220",
+        "link": "https://bgm.tv/character/24092",
+        "categorie": "person"
+      },
+      {
+        "id": "24097",
+        "label": "冰堂美智留",
+        "info": "单行本第四集新登场的人物，与安艺伦也就读不同的学校，身材高佻，留着短发。参加“icy tail”乐团，会弹奏吉他、歌唱以及作曲。在同人游戏社团“Blessing software”负责音乐制作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/32/24097_crt_Ex7h0.jpg?r=1523527874",
+        "link": "https://bgm.tv/character/24097",
+        "categorie": "person"
+      },
+      {
+        "id": "24096",
+        "label": "波岛出海",
+        "info": "单行本第三集新登场的人物，就读国中三年级，身材娇小、留着双马尾却拥有巨乳。是安艺伦也的儿时玩伴，同样也参与同人志创作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/39/24096_crt_hyjd9.jpg?r=1523528424",
+        "link": "https://bgm.tv/character/24096",
+        "categorie": "person"
+      },
+      {
+        "id": "30040",
+        "label": "波岛伊织",
+        "info": "出海的哥哥，有着以男性而言显得略尖、却又清澈明亮的声音。并留着每个月都少不了要去理发厅报到的轻盈褐色卷发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/4b/30040_crt_QY31q.jpg",
+        "link": "https://bgm.tv/character/30040",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

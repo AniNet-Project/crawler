@@ -1,0 +1,349 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "951",
+        "label": "夏娜",
+        "info": "继承了第一代“炎发灼眼的杀手”的火雾战士，作品的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/d6/951_crt_68tGo.jpg",
+        "link": "https://bgm.tv/character/951",
+        "categorie": "person"
+      },
+      {
+        "id": "952",
+        "label": "坂井悠二",
+        "info": "御崎高中一年二班的学生，故事的开始时遇到封绝，在封绝中被磷子发现自身为内有宝具的密斯提斯因而被牵扯进了磷子与夏娜的战斗，也开始了身为体内藏有宝具“零时迷子”的“密斯提斯”的命运。其实真正的人类悠二早已被吞灭其存在之力，在故事一开始他就只是一个“火炬”，却在不明的情况下得到“零时迷子”且可以在封绝中自由行动，因此严格上他并非人类。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/cb/952_wndKG.jpg?r=1571382465",
+        "link": "https://bgm.tv/character/952",
+        "categorie": "person"
+      },
+      {
+        "id": "953",
+        "label": "吉田一美",
+        "info": "御崎高中一年二班的学生，内向且可爱的女生，在受过悠二和夏娜的帮助之后对他产生了好感，本片第二个女主角。面对的是最具压迫感的情敌，固执起来也是很可怕。其身材在同学之间闻名（主要可见于动画第一季OVA）。曾帮助过“调音师”卡姆辛。她有饲养一只名叫“艾卡特利娜”的小狗；自己也有一个名叫“小健”的弟弟（以上情节有在漫画版、动画版第一季提及）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/32/953_KXw6L.jpg",
+        "link": "https://bgm.tv/character/953",
+        "categorie": "person"
+      },
+      {
+        "id": "954",
+        "label": "亚拉斯特尔",
+        "info": "真名为“天壤劫火”。与夏娜订契约的红世魔王，行事正派，在红世里有“王”或是“神”的称号，至从第一代“灼眼的杀手”死亡后，就一直待在“天道宫”，在动画“红莲诞生之日”跟夏娜订下契约，扮演悠二跟夏娜指导者的角色，有着父亲的存在。曾经跟悠二的母亲以手机交谈过，也认同悠二的母亲──坂井千草的理念，神器为吊坠“克库特斯”，颜色是红莲。其显现后的型态为“天谴神(天罚神)”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/95/954_oQuEQ.jpg",
+        "link": "https://bgm.tv/character/954",
+        "categorie": "person"
+      },
+      {
+        "id": "955",
+        "label": "池速人",
+        "info": "悠二国中以来的好友，戴眼镜的资优生，同时也是御崎高中一年二班上的班长，以擅长资料搜集及主持活动而自豪（然而事实上不喜欢忙碌工作）。对吉田有好感，却经常帮助她追求悠二，容易晕车，乘长途车时、电动娃娃车、云霄飞车、摩天轮都会晕昡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/4e/955_ph54w.jpg",
+        "link": "https://bgm.tv/character/955",
+        "categorie": "person"
+      },
+      {
+        "id": "957",
+        "label": "佐藤启作",
+        "info": "御崎高中一年二班的学生，长相俊美、言行轻佻的财团少爷，家中有珍藏好酒的酒吧，在动画第一季第五集成为玛琼琳·朵的部下，一心想要帮忙玛琼琳·朵，但是多次遭到阻碍跟拒绝，成为玛琼琳·朵心中影响力大的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/a5/957_AYs1A.jpg",
+        "link": "https://bgm.tv/character/957",
+        "categorie": "person"
+      },
+      {
+        "id": "958",
+        "label": "田中荣太",
+        "info": "御崎高中一年二班的学生，个性温和的大块头，跟佐藤一起成为玛琼琳·朵的部下，崇拜玛琼琳，尊称她为“大姐”，与同班同学绪方真竹发展为情侣关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/40/958_9zoO0.jpg",
+        "link": "https://bgm.tv/character/958",
+        "categorie": "person"
+      },
+      {
+        "id": "959",
+        "label": "绪方真竹",
+        "info": "御崎高中一年二班的学生，班中活跃得像男孩子的女生，排球社的强力打手。身材一般，扮演领导者的角色，对田中荣太有好感，曾经向他表达好感，并且多次受到玛琼琳·朵的指导。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/bc/959_crt_Y7BTb.jpg",
+        "link": "https://bgm.tv/character/959",
+        "categorie": "person"
+      },
+      {
+        "id": "960",
+        "label": "坂井千草",
+        "info": "悠二的母亲，丈夫在海外工作。家事了得，聪慧娴淑，什么状况都能接受，对夏娜和威尔艾米娜均曾进行料理方面的指导。因其对生活琐事以及感情方面极为精通，使得夏娜对千草的话几乎唯命是从，于某次千草指点了夏娜的感情观后，使得亚拉斯特尔主动与千草进行对谈，结束后，亚拉斯特尔不仅对千草极为佩服，也将类似对夏娜的“监护权”的权利交予千草。常以“阿悠”和“小娜（或小夏娜）",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/7d/960_7zHa5.jpg",
+        "link": "https://bgm.tv/character/960",
+        "categorie": "person"
+      },
+      {
+        "id": "961",
+        "label": "坂井贯太郎",
+        "info": "悠二的父亲，长期派驻国外工作不在家中，至小说第9卷（动画版为第二季）才登场，拥有杰出的洞察力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/92/961_crt_1nfNT.jpg",
+        "link": "https://bgm.tv/character/961",
+        "categorie": "person"
+      },
+      {
+        "id": "962",
+        "label": "玛琼琳·朵",
+        "info": "通称为“悼文吟诵人（又译悼词朗诵者）”的火雾战士，签约的红世魔王是“蹂躏的爪牙”马可西亚斯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/93/962_z39Q3.jpg",
+        "link": "https://bgm.tv/character/962",
+        "categorie": "person"
+      },
+      {
+        "id": "963",
+        "label": "马可西亚斯",
+        "info": "真名为“蹂躏的爪牙”的红世魔王，显现时的外形是壮得像熊的狼。喜欢调侃契约人玛琼琳·朵。神器为大型精装书“格利摩尔”，炎色是群青；名字是来自恶魔Marchosias（地狱侯爵，形态为有角的狼）。经常说了一些令玛琼琳·朵不悦的说话而被殴打。（但在玛琼琳·朵遭受挫折及情绪低落时始终选择安慰而非调侃）",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/b3/963_crt_9T131.jpg",
+        "link": "https://bgm.tv/character/963",
+        "categorie": "person"
+      },
+      {
+        "id": "964",
+        "label": "威尔艾米娜·卡梅尔",
+        "info": "和红世魔王“梦幻冠带”契约，通称为“万条巧手”的火雾战士。为实现先代“炎发灼眼的杀手”的遗愿，于“天道宫”上培育夏娜成为现任“炎发灼眼的杀手”，为构成夏娜个性及回忆的要人之一，其角色地位相当于夏娜的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/7e/964_crt_JDj62.jpg",
+        "link": "https://bgm.tv/character/964",
+        "categorie": "person"
+      },
+      {
+        "id": "965",
+        "label": "蒂雅玛特",
+        "info": "真名为“梦幻冠带”的红世魔王，比契约者威尔艾米娜要冷淡十倍，说话不多，一说出口的大多是四字成语、或罕用字，平时为威尔艾米娜的女仆头巾般存在。炎色为淡红色（樱色）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/a6/965_crt_cNv2Y.jpg",
+        "link": "https://bgm.tv/character/965",
+        "categorie": "person"
+      },
+      {
+        "id": "966",
+        "label": "卡姆辛·奈夫哈维",
+        "info": "通称为“盛装骑手”，和红世魔王“不拔的尖岭”比希莫特订下契约，最古老的火雾战士之一。外表为十岁未到的深肤色外国人模样，然而身上却带有无数的疤痕（原本可以用自在法消除，但他不愿意这样做）及让人不敌的威严感，是老成又认真的火雾战士。目前工作为修正、调节世界因存在之力被吸收所引起不平衡的“调律师”。持有能让一般人分辨出“火炬”的单片眼镜型宝具“杰塔托拉”，以手持的巨大铁棒及自在法“卡塔尔修的心室”及“卡塔尔修的血脉”进行调音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/cd/966_crt_orudW.jpg",
+        "link": "https://bgm.tv/character/966",
+        "categorie": "person"
+      },
+      {
+        "id": "968",
+        "label": "拉米",
+        "info": "不会啃食人类，只专门收集其他使徒吃剩的火炬，因此被其他使徒戏称为“捡骨师”或“拾尸者”的红世使徒，收集火炬目的是为了要启动一个巨大的自在法，使昔日恋人留给她的某物品恢复原状，故此对于火雾战士而言，是属于无害不需要歼灭的红世使徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/3a/968_crt_SJ28s.jpg",
+        "link": "https://bgm.tv/character/968",
+        "categorie": "person"
+      },
+      {
+        "id": "969",
+        "label": "苏拉特",
+        "info": "真名为“爱染自”的红世使徒，表现为十多岁前后，懦弱无主见的西服金发美少年。具有称为“欲望的嗅觉”的异能，对夏娜的“贽殿遮那”产生兴趣而展开掠夺行动。拥有宝剑“吸血鬼——布罗特萨奥格”助战，战斗时身披铠甲且变得冷酷无情，但似乎不晓得驱动自在法及自在式，故要由妹妹代劳。最终为夏娜所败。与蒂丽亚是兄妹关系。炎色为金黄（山吹色）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/fe/969_crt_9BVeS.jpg",
+        "link": "https://bgm.tv/character/969",
+        "categorie": "person"
+      },
+      {
+        "id": "970",
+        "label": "蒂丽亚露",
+        "info": "真名为“爱染他”的红世使徒，表现为十多岁前后，哥德萝莉式的甜美金发美少女。对兄长苏拉特抱着或母性或爱情的强烈情感，称为“溺爱之抱拥”，支援苏拉特的一切包括为其掠夺“贽殿遮那”。当苏拉特提起其他女生或于战斗时，表现为极度的残酷。战斗时使用自在法“摇篮花园”及宝具“音乐盒”让夏娜陷于苦战，最终为苏拉持助战而消融。炎色和兄长一样是金黄色（山吹色）。其名字源自于圣经中的天使长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/e1/970_crt_hh3Fi.jpg",
+        "link": "https://bgm.tv/character/970",
+        "categorie": "person"
+      },
+      {
+        "id": "971",
+        "label": "修德南",
+        "info": "真名为“千变”的红世魔王，外表为穿戴墨镜西服，吸烟中年男性，显现时可变身为身种外型不同的合成兽。他受爱染兄妹（苏拉特和蒂丽亚）委托而担任保护他们免受火雾战士的攻击，但实际上为组织红世使徒邪恶组织“化妆舞会”的“将军”。在组织中他偶然有意无意地接近黑卡蒂，似乎是超过一般程度地照顾和关心她。与玛琼琳．朵似乎是长久以来的敌人，持有攻击力强大的宝具“神铁如意”，但限于执行“敕令”时使用。炎色为混浊的紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/8d/971_crt_yqiu1.jpg",
+        "link": "https://bgm.tv/character/971",
+        "categorie": "person"
+      },
+      {
+        "id": "972",
+        "label": "黑卡蒂",
+        "info": "真名为“顶之座”的红世魔王，头戴大帽子，身披大披风，长着及肩浅蓝发，无机质的少女。为红世使徒邪恶组织“化妆舞会”的“巫女”，对修德南冷淡，但称丹塔利欧为“叔叔”。自身可容纳极大量，甚至无限多的存在之力，其他一切不明。持有宝具“三角锡杖”但限于执行“敕令”时使用。炎色为天蓝色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/25/972_crt_T5CKk.jpg",
+        "link": "https://bgm.tv/character/972",
+        "categorie": "person"
+      },
+      {
+        "id": "973",
+        "label": "贝露佩欧露",
+        "info": "真名为“逆理裁判者”的红世魔王，拥有高佻身材，身上戴着大型锁链形饰物，右眼戴眼罩，长着三只眼睛的长发洋装女性。为红世使徒邪恶组织“化妆舞会”的“参谋”，处理“化妆舞会”的极大多数事务，虽然能干但极度无情，将部下视为耗材，用完即弃，在战斗方面拥有惊人的实力在动画版中曾让威尔艾米娜陷入苦战。持有宝具“地狱锁链”但限于执行敕令时使用，炎色为金色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ac/973_crt_7E74W.jpg",
+        "link": "https://bgm.tv/character/973",
+        "categorie": "person"
+      },
+      {
+        "id": "974",
+        "label": "维奈",
+        "info": "真名为“琉眼”的红世使徒，为红世使徒邪恶组织“化妆舞会”之成员，外表为身穿防摔衣、头戴安全帽的摩托车骑士。作为贝露佩欧露属下众多的“侦搜猎兵”之一，有着卓越的搜索并扑杀掉火雾战士的能力。对贝露佩欧露抱着甚于爱情至畸化的敬意，发现天道宫并企图破坏将成为火雾战士的夏娜但失败，而且还被“天目一个”当作是存在之力的来源而吸收，最终还是遭贝露佩欧露以“非常手段”消融，然而天道宫同时亦因他所携的宝具“非常手段”发动而被破坏。炎色为紫藤。炎色为淡紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/09/974_crt_xfFvw.jpg",
+        "link": "https://bgm.tv/character/974",
+        "categorie": "person"
+      },
+      {
+        "id": "6886",
+        "label": "玛丽安奴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/d8/6886_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6886",
+        "categorie": "person"
+      },
+      {
+        "id": "6890",
+        "label": "「狩人」フリアグネ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/7b/6890_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6890",
+        "categorie": "person"
+      },
+      {
+        "id": "9817",
+        "label": "“壊刃”サブラク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/74/9817_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9817",
+        "categorie": "person"
+      },
+      {
+        "id": "14284",
+        "label": "近卫史菜",
+        "info": "动画第二季原创人物。御崎高中一年二班上新学期的转学生，外表和顶之座黑卡蒂几乎一模一样，因此引起夏娜怀疑是黑卡蒂假扮。对日常生活事物十分陌生，仿佛生活白痴，但具有和小动物沟通和亲近的能力。对悠二黏得很紧，导致夏娜和一美的不悦及烦恼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/be/14284_crt_Z1FzX.jpg",
+        "link": "https://bgm.tv/character/14284",
+        "categorie": "person"
+      },
+      {
+        "id": "15555",
+        "label": "ダンタリオン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/f7/15555_crt_F4Td6.jpg",
+        "link": "https://bgm.tv/character/15555",
+        "categorie": "person"
+      },
+      {
+        "id": "15557",
+        "label": "ドミノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/b2/15557_crt_w1QiP.jpg",
+        "link": "https://bgm.tv/character/15557",
+        "categorie": "person"
+      },
+      {
+        "id": "15558",
+        "label": "藤田晴美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/88/15558_crt_1t8MQ.jpg",
+        "link": "https://bgm.tv/character/15558",
+        "categorie": "person"
+      },
+      {
+        "id": "15560",
+        "label": "中村公子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/f5/15560_crt_M4gJu.jpg",
+        "link": "https://bgm.tv/character/15560",
+        "categorie": "person"
+      },
+      {
+        "id": "15561",
+        "label": "アナベルグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/09/15561_crt_3X03f.jpg",
+        "link": "https://bgm.tv/character/15561",
+        "categorie": "person"
+      },
+      {
+        "id": "15563",
+        "label": "イーストエッジ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/e6/15563_crt_ynC0G.jpg",
+        "link": "https://bgm.tv/character/15563",
+        "categorie": "person"
+      },
+      {
+        "id": "15564",
+        "label": "フェコルー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/3c/15564_crt_ee26C.jpg",
+        "link": "https://bgm.tv/character/15564",
+        "categorie": "person"
+      },
+      {
+        "id": "15565",
+        "label": "カシャ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/59/15565_crt_CA3sI.jpg",
+        "link": "https://bgm.tv/character/15565",
+        "categorie": "person"
+      },
+      {
+        "id": "15566",
+        "label": "メア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/da/15566_crt_3lxfx.jpg",
+        "link": "https://bgm.tv/character/15566",
+        "categorie": "person"
+      },
+      {
+        "id": "15567",
+        "label": "フィレス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/99/15567_crt_8UvKG.jpg",
+        "link": "https://bgm.tv/character/15567",
+        "categorie": "person"
+      },
+      {
+        "id": "15568",
+        "label": "ケツアルコアトル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/40/15568_crt_Dz7zR.jpg",
+        "link": "https://bgm.tv/character/15568",
+        "categorie": "person"
+      },
+      {
+        "id": "15569",
+        "label": "ウァラク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b8/15569_crt_tYNgg.jpg",
+        "link": "https://bgm.tv/character/15569",
+        "categorie": "person"
+      },
+      {
+        "id": "15570",
+        "label": "ユーリイ・フヴォイカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/96/15570_crt_boTAo.jpg",
+        "link": "https://bgm.tv/character/15570",
+        "categorie": "person"
+      },
+      {
+        "id": "6679",
+        "label": "ヨーハン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/47/6679_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6679",
+        "categorie": "person"
+      },
+      {
+        "id": "15562",
+        "label": "ビフロンス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7c/15562_crt_Inz05.jpg",
+        "link": "https://bgm.tv/character/15562",
+        "categorie": "person"
+      },
+      {
+        "id": "15571",
+        "label": "ザロービ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/21/15571_crt_cPiCU.jpg",
+        "link": "https://bgm.tv/character/15571",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2751",
+        "label": "洛克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/0e/2751_crt_anidb.jpg?r=1426958547",
+        "link": "https://bgm.tv/character/2751",
+        "categorie": "person"
+      },
+      {
+        "id": "12856",
+        "label": "莱薇",
+        "info": "美籍华人，本名蕾贝卡。擅长使用双枪攻击，绰号“双枪手”（Two-Hand）。她在纽约贫民区长大，童年生活黑暗，热衷于暴力和枪械，遭到FBI和NYPD27局的通缉，后来为船长达奇所救，加入了黑礁商会。惯用的枪为贝瑞塔M92的定制改装版。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/f1/12856_crt_BBDpf.jpg?r=1426310656",
+        "link": "https://bgm.tv/character/12856",
+        "categorie": "person"
+      },
+      {
+        "id": "2755",
+        "label": "バラライカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/69/2755_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2755",
+        "categorie": "person"
+      },
+      {
+        "id": "24173",
+        "label": "张维新",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/16/24173_crt_B5aGZ.jpg",
+        "link": "https://bgm.tv/character/24173",
+        "categorie": "person"
+      },
+      {
+        "id": "27880",
+        "label": "仙华",
+        "info": "三合會僱用的女殺手以及逃亡專家，信奉道教，來自台灣，英語由於帶有口音常被萊薇調侃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/1a/27880_crt_ZzZJZ.jpg?r=1415642253",
+        "link": "https://bgm.tv/character/27880",
+        "categorie": "person"
+      },
+      {
+        "id": "28218",
+        "label": "亨扎尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/a1/28218_crt_x77Xs.jpg?r=1417737250",
+        "link": "https://bgm.tv/character/28218",
+        "categorie": "person"
+      },
+      {
+        "id": "28219",
+        "label": "格里达尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/16/28219_crt_8b4b8.jpg?r=1417737359",
+        "link": "https://bgm.tv/character/28219",
+        "categorie": "person"
+      },
+      {
+        "id": "27881",
+        "label": "罗顿",
+        "info": "美國黑幫僱用的殺手軍團的其中一人，自稱「巫師」，主要武器是兩把毛瑟C96 M712手槍，他相當偏好帥氣的誇張出場方式，結果在與萊薇等人對峙時因為這個弱點瞬間被擊落（事後萊薇完全不記得他的存在）。基本上是帶有喜感的諷刺角色，後來因為防彈衣大難不死，還救了仙華以及鏈鋸手，三人組成搭檔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/f1/27881_crt_WuTDS.jpg?r=1415642480",
+        "link": "https://bgm.tv/character/27881",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

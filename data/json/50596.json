@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67615",
+        "label": "邦·班迪特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/15/67615_crt_kQphi.jpg",
+        "link": "https://bgm.tv/character/67615",
+        "categorie": "person"
+      },
+      {
+        "id": "74906",
+        "label": "Rally Vincent",
+        "info": "In Riding Bean, a prototype version of Rally was featured as Bean's partner. This version of Rally is portrayed as a fair-skinned blonde, but is still as equally-skilled in firearms as the Rally in 'Gunsmith Cats. In regards to her relationship to Bean, it could be described as friendly but professional.",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/68/74906_crt_3ibCB.jpg?r=1579775833",
+        "link": "https://bgm.tv/character/74906",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

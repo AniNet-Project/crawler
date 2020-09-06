@@ -1,0 +1,813 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6729",
+        "label": "健次郎",
+        "info": "一子相伝の暗殺拳「北斗神拳」の第64代伝承者。ラオウ、トキ、ジャギの義弟であり、ヒョウの実弟。北斗神拳創始者であるシュケンに列なる子孫。出身地は「修羅の国」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/19/6729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6729",
+        "categorie": "person"
+      },
+      {
+        "id": "6739",
+        "label": "巴托",
+        "info": "元々はささやかな水場を守って暮らす老婆のトヨに養子として育てられていた。自ら口減らしのために出奔し、同じ牢獄に囚われたことからケンシロウと知り合い、紆余曲折を経て彼を兄と慕う関係が始まった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/9d/6739_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6739",
+        "categorie": "person"
+      },
+      {
+        "id": "6732",
+        "label": "拉奥",
+        "info": "トキ、サヤカの実兄、ジャギ、ケンシロウの義兄であり、カイオウの実弟。そして忘れ形見に、リュウがいる。北斗神拳四兄弟の長兄にして狂える恐怖の暴凶星・世紀末覇者拳王。愛馬は黒王号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/b3/6732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6732",
+        "categorie": "person"
+      },
+      {
+        "id": "6734",
+        "label": "尤莉娅",
+        "info": "南斗六聖拳「南斗最後の将」。「慈母星」を宿星に持つ女性であり南斗正統血統。その「慈母」の光は、あまねく人々に降りそそがれ、「北斗」と一体となる事で天の平定をもたらすとされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/2c/6734_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6734",
+        "categorie": "person"
+      },
+      {
+        "id": "6737",
+        "label": "山之不动",
+        "info": "南斗五车星之山之拳士，率领着青绿色军团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/41/6737_crt_Dc9R9.jpg?r=1389070421",
+        "link": "https://bgm.tv/character/6737",
+        "categorie": "person"
+      },
+      {
+        "id": "6741",
+        "label": "海之李白",
+        "info": "南斗五车星之海之战士，南斗五车星中的最年长者，统率着海之军团。拥有着在末世指挥千军万马的军师之才，在南斗最后之将的纷争结束后担任北斗军的参谋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/cf/6741_crt_iaPOi.jpg?r=1389848470",
+        "link": "https://bgm.tv/character/6741",
+        "categorie": "person"
+      },
+      {
+        "id": "6742",
+        "label": "炎之修莲",
+        "info": "南斗五车星之炎之拳士，统率着身着炎色铠甲的军团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/b5/6742_crt_vnNQD.jpg",
+        "link": "https://bgm.tv/character/6742",
+        "categorie": "person"
+      },
+      {
+        "id": "8326",
+        "label": "杰基",
+        "info": "「兄より優れた弟など存在しない」というのが信条である悪漢。その根拠のない信条のため、ケンシロウが北斗神拳伝承者に選ばれたとき、兄であるラオウとトキの下に向かいケンシロウが伝承者にふさわしくないことを主張した。その後ケンシロウをショットガンで脅し伝承者辞退を迫るが、逆に返り討ちにされ秘孔を突かれ、顔をひどく変形させられる。それ以来ケンシロウを恨んでおり、鉄の仮面を被り、胸に七つの傷を自分でつけケンシロウの名を騙り残虐非道の振る舞いをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/e2/8326_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8326",
+        "categorie": "person"
+      },
+      {
+        "id": "15208",
+        "label": "托奇",
+        "info": "「命は投げ捨てるものではない」",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/e8/15208_crt_c2fMc.jpg",
+        "link": "https://bgm.tv/character/15208",
+        "categorie": "person"
+      },
+      {
+        "id": "18820",
+        "label": "红心",
+        "info": "原作に登場するシン配下の幹部では最強の男で、人呼んで『狂乱の屠殺人』。ケンシロウ曰く「ブタは屠殺場へ行け!」。笑い方は「ブッヒッヒッヒッヒッ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/c7/18820_crt_9PA7b.jpg?r=1368088660",
+        "link": "https://bgm.tv/character/18820",
+        "categorie": "person"
+      },
+      {
+        "id": "19907",
+        "label": "云之舒杀",
+        "info": "南斗五车星之“云之拳士”，使用自成一派的我流拳法。除了拳王和健次郎以外唯一骑得上黑王的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/5d/19907_crt_MMXFx.jpg?r=1389674862",
+        "link": "https://bgm.tv/character/19907",
+        "categorie": "person"
+      },
+      {
+        "id": "19950",
+        "label": "希恩",
+        "info": "南斗六圣拳之殉星，挚爱尤莉娅的男人，制作的尤莉娅人偶惟妙惟肖，几可乱真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/38/19950_crt_60og0.jpg",
+        "link": "https://bgm.tv/character/19950",
+        "categorie": "person"
+      },
+      {
+        "id": "20392",
+        "label": "黑桃",
+        "info": "King军的干部，希恩手下的四大干将之一，使用的武器有十字弓、长矛和单手斧。有着不为人知的过去和残虐的性格，是会为了抢掠和报仇而杀死无辜老人的纯粹的土匪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/e9/20392_crt_87yc9.jpg",
+        "link": "https://bgm.tv/character/20392",
+        "categorie": "person"
+      },
+      {
+        "id": "20411",
+        "label": "方片",
+        "info": "KING军的干部，希恩的四大得力干将之一，使用棍棒攻击。脸上有如同歌舞伎一般的妆饰，负责对无辜的村民进行无差别的处刑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/bd/20411_crt_sRWMO.jpg?r=1372829551",
+        "link": "https://bgm.tv/character/20411",
+        "categorie": "person"
+      },
+      {
+        "id": "20412",
+        "label": "梅花",
+        "info": "KING军的干部，廋高而使用利爪攻击的男人，每天通过残杀无辜的平民勤奋地练习着自己杀人的技术，将弱小的人类视为牲畜一般对待，",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/0c/20412_crt_Vvcr4.jpg?r=1372829498",
+        "link": "https://bgm.tv/character/20412",
+        "categorie": "person"
+      },
+      {
+        "id": "20537",
+        "label": "玲",
+        "info": "在世纪末的乱世之中成长的少女，目睹了乱世之中一幕幕的阴谋和悲剧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/83/20537_crt_FN98T.jpg?r=1373433377",
+        "link": "https://bgm.tv/character/20537",
+        "categorie": "person"
+      },
+      {
+        "id": "20607",
+        "label": "少佐",
+        "info": "隶属于GOLAN的士官，掳掠妇女后会残忍地杀死她们的亲人的残酷军人，使用能够切断人体的线状金属武器进行战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/c4/20607_crt_7177D.jpg",
+        "link": "https://bgm.tv/character/20607",
+        "categorie": "person"
+      },
+      {
+        "id": "20608",
+        "label": "士官长萨吉",
+        "info": "隶属于GOLAN的军官，负责对于新兵进行训练，为了选择出足以支撑起神之国而不断地命令手下的新人们生死相搏，直到选择出为战争而生的战士。深谙游击战术，使用吸血针和野战匕首作战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/80/20608_crt_8339P.jpg",
+        "link": "https://bgm.tv/character/20608",
+        "categorie": "person"
+      },
+      {
+        "id": "20609",
+        "label": "卡内尔",
+        "info": "GOLAN的统帅，南斗无音拳的传人。在末世前作为红扁帽部队的一员，原本是一个高洁而忠诚的军人。在目睹了世界毁灭的愚蠢和丑陋之后，决心作为神所选中的子民，建立起自己心目中的神之国度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/ea/20609_crt_55Hrz.jpg",
+        "link": "https://bgm.tv/character/20609",
+        "categorie": "person"
+      },
+      {
+        "id": "20649",
+        "label": "达奇",
+        "info": "与巴托来自同一个村庄的孤儿，为了挽救井水干涸的村庄而一人在沙漠中流浪，寻找好心人的帮助。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/89/20649_crt_CrZqX.jpg",
+        "link": "https://bgm.tv/character/20649",
+        "categorie": "person"
+      },
+      {
+        "id": "20650",
+        "label": "莉玛",
+        "info": "和玲一起被GOLAN劫掠的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/d4/20650_crt_Ivk90.jpg",
+        "link": "https://bgm.tv/character/20650",
+        "categorie": "person"
+      },
+      {
+        "id": "20666",
+        "label": "强尼",
+        "info": "在沙漠中经营酒吧，进行食品交换生意的中间商。待人亲切，熟悉各种消息，并保持着商人的吝啬本性，有时候也会出售工业酒精之类危险的食物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/48/20666_crt_X4RTr.jpg",
+        "link": "https://bgm.tv/character/20666",
+        "categorie": "person"
+      },
+      {
+        "id": "20668",
+        "label": "长老",
+        "info": "人谓北斗出现之处，必有乱事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/42/20668_crt_G2d9A.jpg",
+        "link": "https://bgm.tv/character/20668",
+        "categorie": "person"
+      },
+      {
+        "id": "20674",
+        "label": "密斯米",
+        "info": "与健次郎在野外相遇的老人，将辛苦搜寻的米作为播种未来的希望而不惜以生命来守护。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/7d/20674_crt_E4boQ.jpg?r=1374555753",
+        "link": "https://bgm.tv/character/20674",
+        "categorie": "person"
+      },
+      {
+        "id": "20678",
+        "label": "杰卡尔",
+        "info": "从特别地下监狱比雷尼布里森潜逃出来的越狱犯，拥有着属于自己的暴力集团。拥有着娴熟的杀人技巧和足以在乱世中生存的强大，但相对于单纯地使用暴力，更擅于采用更为轻巧的方式来对付有可能比自己更强大的对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/59/20678_crt_c8C2U.jpg?r=1403518917",
+        "link": "https://bgm.tv/character/20678",
+        "categorie": "person"
+      },
+      {
+        "id": "20717",
+        "label": "多由",
+        "info": "在一个难以汲取水源的村庄，独力抚养着一批没有父母或被父母遗弃的孤儿的老婆婆，唯一的防身武器是一把属于过去的旧式猎枪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/63/20717_crt_vWaJS.jpg",
+        "link": "https://bgm.tv/character/20717",
+        "categorie": "person"
+      },
+      {
+        "id": "20718",
+        "label": "虎克斯",
+        "info": "杰卡尔手下的高级干部，以一招“跳刃地背拳”杀敌无数，喜欢在杀人之后在尸体上撒尿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/65/20718_crt_qaHD6.jpg",
+        "link": "https://bgm.tv/character/20718",
+        "categorie": "person"
+      },
+      {
+        "id": "20790",
+        "label": "霍克",
+        "info": "杰卡尔的手下，一般的强盗，在自己的性命受到威胁的情况下会毫不犹豫地出卖自己的首领",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/18/20790_crt_zapHj.jpg",
+        "link": "https://bgm.tv/character/20790",
+        "categorie": "person"
+      },
+      {
+        "id": "20791",
+        "label": "罹巴斯",
+        "info": "杀死七百多人，执行过十三次死刑却都无法处决，最终被判囚禁二百年的恶魔，精通于残忍无道的古印度杀人拳法——罗汉仁王拳的杀人机器。被囚禁于比雷尼布里森地下监狱，因为长期的禁锢生活而仇恨着将自己关押起来的人类，被杀意蒙蔽的内心中残留的唯一温柔恐怕就只剩下对于母亲和兄长的思念了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/ac/20791_crt_7o4lE.jpg?r=1375246973",
+        "link": "https://bgm.tv/character/20791",
+        "categorie": "person"
+      },
+      {
+        "id": "20836",
+        "label": "雷伊",
+        "info": "南斗六圣拳之“义星”，南斗水鸟拳的传人。在使用姿势优雅而威力强大的杀人拳法的同时也拥有着俊俏的外貌，装扮成女人也几可乱真。重情重义，是会为了恩义而孤注一掷的好男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/6e/20836_crt_RaJ3E.jpg?r=1375764500",
+        "link": "https://bgm.tv/character/20836",
+        "categorie": "person"
+      },
+      {
+        "id": "20839",
+        "label": "村长",
+        "info": "愿意接受多由的孤儿们的村子的村长，是一个带领着村民在末世中勉力生存着的慈善老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a4/20839_crt_hwe7E.jpg?r=1375765079",
+        "link": "https://bgm.tv/character/20839",
+        "categorie": "person"
+      },
+      {
+        "id": "20840",
+        "label": "玛米亚",
+        "info": "拥有着和尤利娅相似容颜的女子，利用飞速旋转的利刃切割敌人。个性坚强，为了带领村民战斗而宁愿舍弃女人的柔情，是位了不起的战士和领导者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/67/20840_crt_1YyPt.jpg?r=1375765933",
+        "link": "https://bgm.tv/character/20840",
+        "categorie": "person"
+      },
+      {
+        "id": "20843",
+        "label": "库吾",
+        "info": "玛米亚的弟弟，是她在父母死去后在这个世间唯一的亲人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/c5/20843_crt_6Kl7K.jpg",
+        "link": "https://bgm.tv/character/20843",
+        "categorie": "person"
+      },
+      {
+        "id": "20886",
+        "label": "凯马达",
+        "info": "牙之一族的成员，类似于干部的角色，能够指挥族人行动，并组织族人使用华山群狼拳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/6e/20886_crt_mQk6S.jpg",
+        "link": "https://bgm.tv/character/20886",
+        "categorie": "person"
+      },
+      {
+        "id": "20932",
+        "label": "牙大王",
+        "info": "牙之一族的首领，以父亲自居，凭借“华山角抵戯”和“华山钢铠呼法”而练就了一身的钢筋铁骨。 虽然深爱着自己的族人，但到了性命攸关的时刻仍难免会选择牺牲儿孙而确保自己。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/f1/20932_crt_ie4M1.jpg",
+        "link": "https://bgm.tv/character/20932",
+        "categorie": "person"
+      },
+      {
+        "id": "20959",
+        "label": "不败冠军",
+        "info": "曾经在地下组织的死亡格斗中出生入死，如今似乎成为了强盗集团的头目，拥有足以举起巨型石柱的力量，不过似乎也就仅此而已了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/97/20959_crt_qIBVv.jpg",
+        "link": "https://bgm.tv/character/20959",
+        "categorie": "person"
+      },
+      {
+        "id": "20975",
+        "label": "艾丽",
+        "info": "雷伊的妹妹，拥有着美丽的容颜和与之相匹配的坎坷命运。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/90/20975_crt_6Fqp5.jpg",
+        "link": "https://bgm.tv/character/20975",
+        "categorie": "person"
+      },
+      {
+        "id": "20976",
+        "label": "摩达拉",
+        "info": "牙之一族当中最为危险的一员，拥有着近乎于野兽的形体和心性，能够徒手用爪牙切碎岩石。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/48/20976_crt_0hLZZ.jpg",
+        "link": "https://bgm.tv/character/20976",
+        "categorie": "person"
+      },
+      {
+        "id": "21051",
+        "label": "杰基的部下B",
+        "info": "杰基的手下，自称从杰基大人那偷学到了北斗神拳的武功。若言非虚，可算是少数与主人公拥有同样绝招的杂鱼角色，而且是自学成才，具有相当显著的励志意义。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/a4/21051_crt_4rr3R.jpg",
+        "link": "https://bgm.tv/character/21051",
+        "categorie": "person"
+      },
+      {
+        "id": "21056",
+        "label": "亚奇",
+        "info": "和哥哥一起相依为命的少年，是一心一意照顾着腿脚不方便的哥哥，比哥哥优秀的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/bc/21056_crt_h3h1L.jpg",
+        "link": "https://bgm.tv/character/21056",
+        "categorie": "person"
+      },
+      {
+        "id": "21057",
+        "label": "马可",
+        "info": "行动不便，需要拄拐的少年，和弟弟相依为命。虽然身体孱弱，却能为了弟弟而迸发出不属于他那个年龄的杀意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/f9/21057_crt_LU7fI.jpg",
+        "link": "https://bgm.tv/character/21057",
+        "categorie": "person"
+      },
+      {
+        "id": "21089",
+        "label": "龙拳",
+        "info": "北斗神拳的第六十三代继承人，由于没有子嗣，因此收养了四位养子，并决意从四人当中选出最适合的一个作为自己的继承者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/7c/21089_crt_NVZ3W.jpg",
+        "link": "https://bgm.tv/character/21089",
+        "categorie": "person"
+      },
+      {
+        "id": "21121",
+        "label": "艾勒里",
+        "info": "交换食品的中间商，拥有属于自己的店。虽然是个瘦弱的老头，但也具备一些商人的胆识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/41/21121_crt_Kdzvo.jpg",
+        "link": "https://bgm.tv/character/21121",
+        "categorie": "person"
+      },
+      {
+        "id": "21126",
+        "label": "戈鲁兹",
+        "info": "奇迹之村唯一的生还者，因为不知何时会降临的死亡而随时处于一种暴躁的状态之中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/a5/21126_crt_57ooj.jpg",
+        "link": "https://bgm.tv/character/21126",
+        "categorie": "person"
+      },
+      {
+        "id": "21127",
+        "label": "海斯塔克斯",
+        "info": "高大而强壮的男人，总是会在打架斗殴的戏码中出场的角色。不过面对不要命的对手，也不总会是胜利的一方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/f7/21127_crt_xaaty.jpg",
+        "link": "https://bgm.tv/character/21127",
+        "categorie": "person"
+      },
+      {
+        "id": "21190",
+        "label": "阿米巴",
+        "info": "南斗圣拳的修炼者，但同时也会使用北斗神拳。对于自己的才能非常自信的人，会将自己称为天才。虽然自信过剩，但确实拥有通过人体研究而发现自己未知的穴道的天赋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/24/21190_crt_LVI4F.jpg?r=1377837296",
+        "link": "https://bgm.tv/character/21190",
+        "categorie": "person"
+      },
+      {
+        "id": "21191",
+        "label": "原拳师",
+        "info": "曾经夺得过一级冠军的拳师，据说拳速高达200km/h，连一顿的岩石都能粉碎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/a5/21191_crt_r7RKQ.jpg",
+        "link": "https://bgm.tv/character/21191",
+        "categorie": "person"
+      },
+      {
+        "id": "21237",
+        "label": "哈布",
+        "info": "阿米巴的副官，木偶狩猎队的队长，身材矮小而拥有超常的弹跳力，因此使用猴拳流派的野猿牙杀拳，信奉在拳法之战中只要能占据对手的后背或头顶，便能够立于不败之地的理论。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/e2/21237_crt_2cZFE.jpg",
+        "link": "https://bgm.tv/character/21237",
+        "categorie": "person"
+      },
+      {
+        "id": "21238",
+        "label": "裘基",
+        "info": "阿米巴的属下，与哈布一起行动。是个拥有超过常人的力量的巨汉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d2/21238_crt_S6WRX.jpg",
+        "link": "https://bgm.tv/character/21238",
+        "categorie": "person"
+      },
+      {
+        "id": "21283",
+        "label": "小佑",
+        "info": "受原因不明的腹痛折磨的男孩，病入膏肓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/cb/21283_crt_sHHS5.jpg",
+        "link": "https://bgm.tv/character/21283",
+        "categorie": "person"
+      },
+      {
+        "id": "21335",
+        "label": "典狱长",
+        "info": "坎撒图拉监狱的典狱长，使用泰山流鞭法和蒙古霸极道。自称是蒙古人的后裔，将坎撒图拉日不落的传说视为自己的传说，而日夜等待着前来挑战这个传说的勇者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/d8/21335_crt_xqIXi.jpg",
+        "link": "https://bgm.tv/character/21335",
+        "categorie": "person"
+      },
+      {
+        "id": "21366",
+        "label": "雷卡",
+        "info": "坎撒图拉的双子守卫者之一，以二身一体的武术“二神风雷拳”守卫着监狱的大门，从来未曾放过任何不该进入监狱的人。由于一直生活在死亡的支配之下，因此从来不惧怕任何死亡的威胁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/6a/21366_crt_xH4X4.jpg",
+        "link": "https://bgm.tv/character/21366",
+        "categorie": "person"
+      },
+      {
+        "id": "21367",
+        "label": "风卡",
+        "info": "坎撒图拉的双子守卫者之一，以二身一体的武术“二神风雷拳”守卫着监狱的大门，从来未曾放过任何不该进入监狱的人。由于一直生活在死亡的支配之下，因此从来不惧怕任何死亡的威胁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/5f/21367_crt_D7ome.jpg",
+        "link": "https://bgm.tv/character/21367",
+        "categorie": "person"
+      },
+      {
+        "id": "21478",
+        "label": "萨尔加",
+        "info": "拳王亲卫队的一员，使用巨大的阿拉伯弯刀的中东风貌的男子。使用首长处刑刀术和首长盗刃术，将拳王的命令视作唯一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/7b/21478_crt_FJ0f0.jpg?r=1379912060",
+        "link": "https://bgm.tv/character/21478",
+        "categorie": "person"
+      },
+      {
+        "id": "21479",
+        "label": "卡西姆",
+        "info": "拳王亲卫队的一员，使用阿拉伯弯刀的中东风貌男子，将拳王的命令视为唯一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/2a/21479_crt_sGSJ6.jpg?r=1379912036",
+        "link": "https://bgm.tv/character/21479",
+        "categorie": "person"
+      },
+      {
+        "id": "21495",
+        "label": "西卡",
+        "info": "隶属于拳王侦查队的男人，佩戴夜视镜，舌头很长，从穿着和动作都很像爬虫类，使用短棍作战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/37/21495_crt_s51BL.jpg?r=1380259130",
+        "link": "https://bgm.tv/character/21495",
+        "categorie": "person"
+      },
+      {
+        "id": "21717",
+        "label": "大块头婆婆",
+        "info": "拳王军的成员，唯一的亮点是装扮成了慈祥的老婆婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a3/21717_crt_PTknx.jpg",
+        "link": "https://bgm.tv/character/21717",
+        "categorie": "person"
+      },
+      {
+        "id": "21718",
+        "label": "加仑",
+        "info": "拳王侵攻队的队长，使用被称为”龙吐火焰术“的火斗术战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/88/21718_crt_JD11w.jpg",
+        "link": "https://bgm.tv/character/21718",
+        "categorie": "person"
+      },
+      {
+        "id": "21906",
+        "label": "狗法眼拉尔夫",
+        "info": "在拳王第一次失势之后统治了药街的暴君，疯狂的爱狗人士，认为狗的性命比人的性命更为尊贵，使用的武器也是类似于狗项圈的巨大铁环。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/a1/21906_crt_dg74b.jpg",
+        "link": "https://bgm.tv/character/21906",
+        "categorie": "person"
+      },
+      {
+        "id": "21923",
+        "label": "犹大",
+        "info": "南斗六圣拳之妖星，南斗红鹤拳的传承者。在拥有疾如迅风的拳速的同时更拥有着对于除了自己之外的任何人都不吐露真意的狡黠性格。对于美有着近乎病态的认知和追求，认为自己是全世界最美的人，同时也对于在使出南斗水鸟拳时英姿飒爽的雷伊抱有复杂的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/9a/21923_crt_bFZ0u.jpg?r=1383134599",
+        "link": "https://bgm.tv/character/21923",
+        "categorie": "person"
+      },
+      {
+        "id": "21924",
+        "label": "达卡尔",
+        "info": "犹大的副官，使用的招式应该是南斗比翼拳。或许是受困于妖星的宿命，作为副官他对犹大的忠心以及犹大对他的信任似乎都很有限。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/90/21924_crt_DhkHN.jpg",
+        "link": "https://bgm.tv/character/21924",
+        "categorie": "person"
+      },
+      {
+        "id": "21925",
+        "label": "可马克",
+        "info": "犹大的手下，如同猿猴一般矮小的男人，使用鉱支猫牙拳。似乎比副官更加受到犹大的信任，在个性上也跟妖星的特性更加吻合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/63/21925_crt_9VvsO.jpg?r=1383193709",
+        "link": "https://bgm.tv/character/21925",
+        "categorie": "person"
+      },
+      {
+        "id": "21950",
+        "label": "修武",
+        "info": "南斗六圣拳之仁星，南斗白鹭拳的传承者。以“烈脚空舞”和“南斗烈脚斩阵”之类变幻自如的足技为主要攻击手段，抵抗着欺压民众的霸权。被认为外形酷似功夫巨星戴维·卡拉丹饰演过的某位盲人拳法家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/32/21950_crt_1WFP2.jpg",
+        "link": "https://bgm.tv/character/21950",
+        "categorie": "person"
+      },
+      {
+        "id": "21957",
+        "label": "消毒男",
+        "info": "圣帝军中的一员，手持火焰喷射器，一边叫嚣着“脏东西要消毒！”，一边进行着类似于开山怪的工作",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/cf/21957_crt_kTOKO.jpg?r=1383800213",
+        "link": "https://bgm.tv/character/21957",
+        "categorie": "person"
+      },
+      {
+        "id": "21987",
+        "label": "小龙",
+        "info": "圣帝反抗军成员的儿子，有一个疼爱自己的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/e2/21987_crt_2xha2.jpg?r=1383885104",
+        "link": "https://bgm.tv/character/21987",
+        "categorie": "person"
+      },
+      {
+        "id": "22022",
+        "label": "修帕",
+        "info": "南斗六圣拳之一“仁星”修武的儿子，从各种方面而言都是“仁星”当之无愧的继承者，是足以得到父亲称赞的好儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/52/22022_crt_m1B9l.jpg",
+        "link": "https://bgm.tv/character/22022",
+        "categorie": "person"
+      },
+      {
+        "id": "22023",
+        "label": "贝基",
+        "info": "圣帝军的一员，得意技是通过与搭档交互投掷飞刀不断压迫敌人空间的南斗双斩拳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/d7/22023_crt_F0qUT.jpg",
+        "link": "https://bgm.tv/character/22023",
+        "categorie": "person"
+      },
+      {
+        "id": "22024",
+        "label": "奇基",
+        "info": "圣帝军的一员，得意技是通过与搭档交互投掷飞刀不断压迫敌人空间的南斗双斩拳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/3d/22024_crt_99KtL.jpg",
+        "link": "https://bgm.tv/character/22024",
+        "categorie": "person"
+      },
+      {
+        "id": "22105",
+        "label": "沙乌萨",
+        "info": "南斗六圣拳之将星，南斗凤凰拳的传承者。被称为南斗圣拳最强，特异的身体具有连拉奥都无法参透的秘密。自称为圣帝，一直在修建恢宏的圣帝十字陵，表面看起来是为了彰显自己的霸业，但真正的原因或许只有圣帝自己清楚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/bc/22105_crt_vFGL7.jpg?r=1385355552",
+        "link": "https://bgm.tv/character/22105",
+        "categorie": "person"
+      },
+      {
+        "id": "22134",
+        "label": "里索",
+        "info": "曾经和“仁星”修武一起修习南斗圣拳的同伴，与修武有着曾经在一起欢笑和哭泣的情谊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/74/22134_crt_lL5J9.jpg?r=1403517323",
+        "link": "https://bgm.tv/character/22134",
+        "categorie": "person"
+      },
+      {
+        "id": "22313",
+        "label": "虎龙",
+        "info": "龙拳一辈的北斗神拳的修炼者，与龙拳并称龙虎，传说实力还在龙拳之上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/75/22313_crt_px55k.jpg",
+        "link": "https://bgm.tv/character/22313",
+        "categorie": "person"
+      },
+      {
+        "id": "22314",
+        "label": "欧凯",
+        "info": "南斗凤凰拳的传承者，圣帝沙乌萨的师父。将当时还是孤儿的沙乌萨作为传承者抚养长大，并遵循凤凰拳一子相承的传统完成了世代的交接。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/da/22314_crt_rmjQ8.jpg",
+        "link": "https://bgm.tv/character/22314",
+        "categorie": "person"
+      },
+      {
+        "id": "22405",
+        "label": "贤九",
+        "info": "北斗神拳的修习者·虎龙父子的家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/2e/22405_crt_15D78.jpg",
+        "link": "https://bgm.tv/character/22405",
+        "categorie": "person"
+      },
+      {
+        "id": "22406",
+        "label": "哲乌思",
+        "info": "北斗神拳的修习者·虎龙的儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ca/22406_crt_f0e5E.jpg",
+        "link": "https://bgm.tv/character/22406",
+        "categorie": "person"
+      },
+      {
+        "id": "22407",
+        "label": "阿乌思",
+        "info": "北斗神拳的修习者·虎龙的儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/51/22407_crt_86pQP.jpg",
+        "link": "https://bgm.tv/character/22407",
+        "categorie": "person"
+      },
+      {
+        "id": "22415",
+        "label": "葛兹",
+        "info": "阿比达的部下，人类链球投掷大赛的纪录保持者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/94/22415_crt_1K333.jpg",
+        "link": "https://bgm.tv/character/22415",
+        "categorie": "person"
+      },
+      {
+        "id": "22416",
+        "label": "阿比达",
+        "info": "拳王军的一员，拳王失踪后割据一方的恶霸之一，喜欢将人类当作链球进行投掷比赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/ed/22416_crt_1fTCr.jpg",
+        "link": "https://bgm.tv/character/22416",
+        "categorie": "person"
+      },
+      {
+        "id": "22802",
+        "label": "隆克",
+        "info": "拳王军的一员，因为未知的目的而效忠于拳王。泰山天狼拳的传承者，星宿是孤高的天狼星。在不属于任何一片天空的天狼星的照耀下，孑然一身地践行着自己的使命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/e8/22802_crt_Z1GB4.jpg",
+        "link": "https://bgm.tv/character/22802",
+        "categorie": "person"
+      },
+      {
+        "id": "22867",
+        "label": "希尔加",
+        "info": "拳王军的一员，自称拥有拳王属下最强拳法的男人。使用的拳法是泰山妖拳蛇咬帯，利用两条如同手足一般自由驱使的蛇咬带和浑身刀刃的死亡拥抱攻击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/7b/22867_crt_ADMXY.jpg",
+        "link": "https://bgm.tv/character/22867",
+        "categorie": "person"
+      },
+      {
+        "id": "22868",
+        "label": "风之修伊",
+        "info": "南斗五车星之风之拳士，统率风之旅团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/ff/22868_crt_3rRcc.jpg",
+        "link": "https://bgm.tv/character/22868",
+        "categorie": "person"
+      },
+      {
+        "id": "23023",
+        "label": "达卢卡",
+        "info": "抢夺女人和食物的野盗头目之一，拥有蟾蜍一般的外貌，在动画版的设定中会使用“华山角抵张手”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/bd/23023_crt_Lz3XU.jpg",
+        "link": "https://bgm.tv/character/23023",
+        "categorie": "person"
+      },
+      {
+        "id": "23024",
+        "label": "和古",
+        "info": "野盗集团的军师一类的人物，负责实施女人的食物的抢夺。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/f1/23024_crt_191Sa.jpg",
+        "link": "https://bgm.tv/character/23024",
+        "categorie": "person"
+      },
+      {
+        "id": "23030",
+        "label": "格鲁加",
+        "info": "抢夺食物和女人的野盗的真正首领，使用名为“泰山破夺刚”的拳法。一拳足以劈山裂石，因此对于自己的拳法拥有足够的自信。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/74/23030_crt_gER1f.jpg",
+        "link": "https://bgm.tv/character/23030",
+        "categorie": "person"
+      },
+      {
+        "id": "23039",
+        "label": "金",
+        "info": "与拉奥同一时期的北斗神拳的修习者之一，因被判定为没有继承北斗神拳的资格而被师傅逐出师门。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/4c/23039_crt_B5l7I.jpg",
+        "link": "https://bgm.tv/character/23039",
+        "categorie": "person"
+      },
+      {
+        "id": "23040",
+        "label": "杜羽",
+        "info": "北斗五车星之一，海之李白的女儿，从小便恋慕着天之霸主·拳王拉奥，并渴望在拉奥的内心中留下一席之地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/27/23040_crt_SeOHA.jpg",
+        "link": "https://bgm.tv/character/23040",
+        "categorie": "person"
+      },
+      {
+        "id": "23048",
+        "label": "坎恩",
+        "info": "南斗五车星之一·山之不动的众多养子中的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/79/23048_crt_6z96z.jpg?r=1389845825",
+        "link": "https://bgm.tv/character/23048",
+        "categorie": "person"
+      },
+      {
+        "id": "23049",
+        "label": "吉罗",
+        "info": "南斗五车星之一·山之不动的养子，同时也是拳王麾下·希尔加的亲生儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/58/23049_crt_wOTSn.jpg",
+        "link": "https://bgm.tv/character/23049",
+        "categorie": "person"
+      },
+      {
+        "id": "23050",
+        "label": "坦吉",
+        "info": "南斗五车星之一·山之不动的养子，同时也是拳王麾下·希尔加的亲生儿子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b6/23050_crt_l6ivl.jpg",
+        "link": "https://bgm.tv/character/23050",
+        "categorie": "person"
+      },
+      {
+        "id": "23051",
+        "label": "扎克",
+        "info": "拳王的近侧之人，在拳王受伤而隐匿的时候依然忠心耿耿地跟随在拳王身边，是类似于副官的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/0d/23051_crt_73L8l.jpg",
+        "link": "https://bgm.tv/character/23051",
+        "categorie": "person"
+      },
+      {
+        "id": "20636",
+        "label": "神之国",
+        "info": "以建立起神选之国为宗旨而建立的军事化组织，成员多为原红扁帽特种部队的成员、要求下属舍弃一切人类的感情，为了建立神之国而不断地战斗和杀戮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/20/20636_crt_9939N.jpg",
+        "link": "https://bgm.tv/character/20636",
+        "categorie": "person"
+      },
+      {
+        "id": "20637",
+        "label": "KING",
+        "info": "雄霸关东的暴力集团，以新建的都市南十字星为据点，并使用血色十字纹章作为集团的旗印。集团的领袖是传说中会使用南斗圣拳的男人，而下属组织基本以扑克牌的花色进行区分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/5e/20637_crt_5C11g.jpg?r=1374037711",
+        "link": "https://bgm.tv/character/20637",
+        "categorie": "person"
+      },
+      {
+        "id": "20844",
+        "label": "牙之一族",
+        "info": "如同狼群一般聚集在一起，以家族的形式为构成的暴力组织，会使用中国象形拳流派的集团杀人拳法：华山群狼拳，首领是牙大王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/d5/20844_crt_M33K3.jpg?r=1375851090",
+        "link": "https://bgm.tv/character/20844",
+        "categorie": "person"
+      },
+      {
+        "id": "21307",
+        "label": "坎撒图拉监狱",
+        "info": "被称为“鬼哭街”的监狱，是以典狱长为顶点而构筑的组织，据说关押在这里的犯人绝不可能活着离开。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/9d/21307_crt_cHFF2.jpg",
+        "link": "https://bgm.tv/character/21307",
+        "categorie": "person"
+      },
+      {
+        "id": "21474",
+        "label": "米兹",
+        "info": "风卡与雷卡的弟弟，虽然并不是同胞胎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/39/21474_crt_2VkwB.jpg?r=1379828475",
+        "link": "https://bgm.tv/character/21474",
+        "categorie": "person"
+      },
+      {
+        "id": "21480",
+        "label": "拳王军",
+        "info": "被称为世纪末霸者的神秘人物拳王以绝对恐惧所支配得犹如军团一般存在的强大组织。组织中充斥着各种趋炎附势的恶徒，但也不乏如龙牙一般的良将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/7b/21480_crt_6Tm6t.jpg?r=1381380771",
+        "link": "https://bgm.tv/character/21480",
+        "categorie": "person"
+      },
+      {
+        "id": "21719",
+        "label": "黑王号",
+        "info": "拳王拉奥的爱马，体色漆黑，形姿雄伟，拥有如同大象脚印一般庞大的蹄印，是只有寥寥几人能够驾驭的帝王之马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/2b/21719_crt_c1S21.jpg",
+        "link": "https://bgm.tv/character/21719",
+        "categorie": "person"
+      },
+      {
+        "id": "21907",
+        "label": "沙奇",
+        "info": "世纪末的爱狗人士，狗法眼拉尔夫所饲养的爱犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/0e/21907_crt_YQAIk.jpg?r=1383022782",
+        "link": "https://bgm.tv/character/21907",
+        "categorie": "person"
+      },
+      {
+        "id": "22417",
+        "label": "圣帝军",
+        "info": "归属于将星统领的南斗诸将和臣服于圣帝·沙乌萨的人所组成的强大军团，其特征是装饰上别具一格的突刺型头盔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/c3/22417_crt_k1rrI.jpg",
+        "link": "https://bgm.tv/character/22417",
+        "categorie": "person"
+      },
+      {
+        "id": "21013",
+        "label": "杰基的部下A",
+        "info": "杰基的部下，以残忍的方式残杀无辜的民众，并最终得到了应有的报应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/92/21013_crt_gDIIa.jpg",
+        "link": "https://bgm.tv/character/21013",
+        "categorie": "person"
+      },
+      {
+        "id": "20610",
+        "label": "将军",
+        "info": "手握着核按钮的当权者，在享受着奢侈淫靡的生活的同时将忠心为国的军人视为虚张声势的纸老虎，最终沉湎在权力和欲望之中与世界一起走向毁灭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/6b/20610_crt_8P6nF.jpg",
+        "link": "https://bgm.tv/character/20610",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

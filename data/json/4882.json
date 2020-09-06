@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10363",
+        "label": "芝村舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/dc/10363_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10363",
+        "categorie": "person"
+      },
+      {
+        "id": "10362",
+        "label": "壬生屋未央",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/b9/10362_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10362",
+        "categorie": "person"
+      },
+      {
+        "id": "10365",
+        "label": "瀬戸口隆之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/5b/10365_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10365",
+        "categorie": "person"
+      },
+      {
+        "id": "32370",
+        "label": "原素子",
+        "info": "人物介绍：5121部队整备班班长，聪明与美貌兼备，做事有责任感。有戏弄较自己年轻的人的怪癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/36/32370_crt_AaLn9.jpg",
+        "link": "https://bgm.tv/character/32370",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

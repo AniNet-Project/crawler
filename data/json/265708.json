@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70502",
+        "label": "田中望",
+        "info": "本作の主人公。ニックネームは「バカ」。さいのたま女子高等学校1年生。菊池や鷺宮とは小学生からの友人。ニックネーム通りバカで問題児である。クラス全員のニックネームを考えた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/06/70502_crt_n4h6Y.jpg?r=1562427716",
+        "link": "https://bgm.tv/character/70502",
+        "categorie": "person"
+      },
+      {
+        "id": "70503",
+        "label": "菊池茜",
+        "info": "ニックネームは「ヲタ」。さいのたま女子高等学校1年生。低所得Pのファンである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/06/70503_crt_okf7F.jpg?r=1562998158",
+        "link": "https://bgm.tv/character/70503",
+        "categorie": "person"
+      },
+      {
+        "id": "70504",
+        "label": "鹭宫栞",
+        "info": "ニックネームは「ロボ」。さいのたま女子高等学校1年生。頭が良いが、感情が死んでいる。ヲタとバカとは中学校が別になったが、高校ではさいじょに入学した。家でペットの菌を栽培している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/37/70504_crt_Tgo8N.jpg?r=1563607728",
+        "link": "https://bgm.tv/character/70504",
+        "categorie": "person"
+      },
+      {
+        "id": "70505",
+        "label": "百井咲久",
+        "info": "ニックネームは「ロリ」。さいのたま女子高等学校1年生。小学生並みの身長で、反抗的な態度を学校でしているが、根が優しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/29/70505_crt_z8Ydd.jpg?r=1563730913",
+        "link": "https://bgm.tv/character/70505",
+        "categorie": "person"
+      },
+      {
+        "id": "70506",
+        "label": "山本美波",
+        "info": "ニックネームは「ヤマイ」。さいのたま女子高等学校1年生。厨二病全開の高校生。いつも頬に絆創膏、右腕に包帯をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/f0/70506_crt_X3sD8.jpg?r=1565008130",
+        "link": "https://bgm.tv/character/70506",
+        "categorie": "person"
+      },
+      {
+        "id": "70507",
+        "label": "一奏",
+        "info": "ニックネームは「マジメ」。さいのたま女子高等学校1年生。ニックネーム通りマジメの優等生だが、心と頭が弱い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/9f/70507_crt_gxXY4.jpg?r=1565787718",
+        "link": "https://bgm.tv/character/70507",
+        "categorie": "person"
+      },
+      {
+        "id": "70508",
+        "label": "染谷莉莉",
+        "info": "ニックネームは「リリィ」。さいのたま女子高等学校1年生。百合が大好きで、逆に男性に接触すると蕁麻疹がでるほど男性恐怖症。また、なぜか田中とも接触すると蕁麻疹がでる。一奏ことマジメに嫉妬しているが友人関係である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/ef/70508_crt_B8V6u.jpg?r=1567433453",
+        "link": "https://bgm.tv/character/70508",
+        "categorie": "person"
+      },
+      {
+        "id": "70509",
+        "label": "久条翡翠",
+        "info": "ニックネームは「マジョ」。さいのたま女子高等学校1年生。琥珀曰く「生まれてくる時に姉のコミュニケーション能力やまともな感性をすべて奪いとってしまった」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/d9/70509_crt_bumM9.jpg?r=1567433475",
+        "link": "https://bgm.tv/character/70509",
+        "categorie": "person"
+      },
+      {
+        "id": "70510",
+        "label": "佐渡正敬",
+        "info": "ニックネームは「ワセダ」。さいのたま女子高等学校1年2組担任。早稲田大学出身。27歳独身。就任早々に、クラスの前で女子大生派と公言する。実はプライベートではボカロPとして曲を作っており、「低所得P」で活動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ed/70510_crt_usKUu.jpg",
+        "link": "https://bgm.tv/character/70510",
+        "categorie": "person"
+      },
+      {
+        "id": "71446",
+        "label": "久条琥珀",
+        "info": "マジョの妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/38/71446_crt_c8EEq.jpg?r=1566840556",
+        "link": "https://bgm.tv/character/71446",
+        "categorie": "person"
+      },
+      {
+        "id": "72135",
+        "label": "萝莉的奶奶",
+        "info": "ロリの祖母。とてもおっとりしているが、ツッコミのセンスには光るものがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/52/72135_crt_H6i3I.jpg",
+        "link": "https://bgm.tv/character/72135",
+        "categorie": "person"
+      },
+      {
+        "id": "71447",
+        "label": "杏杏",
+        "info": "養護教諭。ヤマイの中二病キャラ（設定）に対して話を合わせてくれる数少ない人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/1a/71447_crt_Z3bJD.jpg?r=1566400853",
+        "link": "https://bgm.tv/character/71447",
+        "categorie": "person"
+      },
+      {
+        "id": "72136",
+        "label": "高桥",
+        "info": "小説家志望。とある高校の男子高校生。ロボに片思いをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/f2/72136_crt_nE9W7.jpg?r=1570704899",
+        "link": "https://bgm.tv/character/72136",
+        "categorie": "person"
+      },
+      {
+        "id": "72137",
+        "label": "青山",
+        "info": "高橋の友人。声優志望。親が再婚して、血の繋がらない4人の姉妹と一緒に暮らすことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/0a/72137_crt_5gJ5s.jpg?r=1570721525",
+        "link": "https://bgm.tv/character/72137",
+        "categorie": "person"
+      },
+      {
+        "id": "72134",
+        "label": "花生P",
+        "info": "ぴーなっつクラブで活動している。ボーカロイドマイスターの同人即売会でワセダのサークルと隣同士になる。会話では意味不明な比喩表現を頻繁に使用するため、相手に真意が伝わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/69/72134_crt_t92tv.jpg?r=1570704119",
+        "link": "https://bgm.tv/character/72134",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

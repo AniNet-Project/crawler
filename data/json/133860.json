@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39501",
+        "label": "尼克·王尔德",
+        "info": "尼克是一只在动物城里以坑蒙拐骗为生的狐狸，儿时受到偏见的伤害，放弃了自己的理想。被朱迪设下圈套，被迫与她合作查案，而卷入意想不到的阴谋，历尽艰险后成为搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/1d/39501_crt_Z6n93.jpg",
+        "link": "https://bgm.tv/character/39501",
+        "categorie": "person"
+      },
+      {
+        "id": "39502",
+        "label": "朱迪·霍普斯",
+        "info": "出生于兔窝镇，立志成为一名优秀的警察。通过自己的奋斗，成为了现代动物都市的第一个兔子警官，警察局的同僚总是瞧不起她，为了证明自己，她从野牛警察局长手中抢到了一个失踪案，凭借过人胆识发现了案件背后的阴谋，然后迫使狐狸尼克与自己踏上了冒险旅程。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/ba/39502_crt_Qe36Q.jpg",
+        "link": "https://bgm.tv/character/39502",
+        "categorie": "person"
+      },
+      {
+        "id": "39500",
+        "label": "闪电",
+        "info": "一只名为“闪电”的树懒，动物城车管所的办事员。说话时吐个字恨不得休息五分钟，连笑起来也像是放了慢镜头，但却是大都会哺乳动物车管所里动作最快的树懒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/e7/39500_crt_gplQ1.jpg",
+        "link": "https://bgm.tv/character/39500",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

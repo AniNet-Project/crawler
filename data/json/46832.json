@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17253",
+        "label": "押本百合",
+        "info": "在被愚笨的前辈们折腾的途中变成了吐槽立场的后辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/6b/17253_crt_iRzpj.jpg?r=1430571391",
+        "link": "https://bgm.tv/character/17253",
+        "categorie": "person"
+      },
+      {
+        "id": "17252",
+        "label": "新庄佳苗",
+        "info": "明明是网球部的一员却完全不会打网球的笨蛋2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/17252_crt_0dRf5.jpg?r=1429831189",
+        "link": "https://bgm.tv/character/17252",
+        "categorie": "person"
+      },
+      {
+        "id": "17254",
+        "label": "高宫茄乃",
+        "info": "不管什么都用金钱来解决的、充满谜团的天然大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/a3/17254_crt_ZJZOx.jpg?r=1429057521",
+        "link": "https://bgm.tv/character/17254",
+        "categorie": "person"
+      },
+      {
+        "id": "17255",
+        "label": "板东鞠萌",
+        "info": "完全无法预料的关西风大变态2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ac/17255_crt_99H11.jpg?r=1428453975",
+        "link": "https://bgm.tv/character/17255",
+        "categorie": "person"
+      },
+      {
+        "id": "56782",
+        "label": "形木矢貂千雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/31/56782_crt_N2k2W.jpg",
+        "link": "https://bgm.tv/character/56782",
+        "categorie": "person"
+      },
+      {
+        "id": "1187",
+        "label": "渡边三木",
+        "info": "常識人。口が悪い",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/28/1187_S9s9Z.jpg",
+        "link": "https://bgm.tv/character/1187",
+        "categorie": "person"
+      },
+      {
+        "id": "1188",
+        "label": "鹈久森幸",
+        "info": "ボケのエース",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/4e/1188_9O639.jpg",
+        "link": "https://bgm.tv/character/1188",
+        "categorie": "person"
+      },
+      {
+        "id": "11546",
+        "label": "羊驼",
+        "info": "在那荒茫美丽马勒戈壁 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/52/11546_crt_FlzuU.jpg",
+        "link": "https://bgm.tv/character/11546",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

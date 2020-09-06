@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3496",
+        "label": "岩仓玲音",
+        "info": "Omnipresence In The Wired,即为网络上的“神”。每个人的偷窥者、每个人的掌控者；她是负责维护网络健康运行的daemon；她是伴随网络成长进化、自我改进的协议自进化机制；她是遍在的神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/cc/3496_crt_8zFFV.jpg",
+        "link": "https://bgm.tv/character/3496",
+        "categorie": "person"
+      },
+      {
+        "id": "3497",
+        "label": "岩仓康男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/3a/3497_crt_Ki77u.jpg",
+        "link": "https://bgm.tv/character/3497",
+        "categorie": "person"
+      },
+      {
+        "id": "3532",
+        "label": "岩仓美香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/1d/3532_crt_O9Vhb.jpg",
+        "link": "https://bgm.tv/character/3532",
+        "categorie": "person"
+      },
+      {
+        "id": "3543",
+        "label": "岩仓美穗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/d0/3543_crt_r66w2.jpg",
+        "link": "https://bgm.tv/character/3543",
+        "categorie": "person"
+      },
+      {
+        "id": "14535",
+        "label": "英利政美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/95/14535_crt_H9q69.jpg",
+        "link": "https://bgm.tv/character/14535",
+        "categorie": "person"
+      },
+      {
+        "id": "76104",
+        "label": "瑞城爱丽丝",
+        "info": "玲音の親友。非常に面倒見がよく優しい。玲音に明るくなって欲しいといつも気を遣っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/72/76104_crt_TkWPp.jpg?r=1583705550",
+        "link": "https://bgm.tv/character/76104",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

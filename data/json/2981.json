@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49524",
+        "label": "狮子王凯",
+        "info": "本作男主角，原为宇宙开发公社的宇航员，在进行Galeona彗星的太空研究时被EI-01的远航战舰撞毁飞船，被机械狮子加里安救回地球，但已濒临死亡，后由其父亲丽雄对加里安的机械结构进行反向工程，将其改造成基于G石能量改造人得以存活，GaoGaiGar的驾驶者，3G机动部队队长，非常信任勇气，因此能发挥G石的威力。在命变成机界新种后在护的净化下获得拥有G能量的肉身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/84/49524_crt_2cymC.jpg",
+        "link": "https://bgm.tv/character/49524",
+        "categorie": "person"
+      },
+      {
+        "id": "49525",
+        "label": "卯都木命",
+        "info": "3G参谋部操作员，凯的支援员，和凯以前是高中同学关系，在凯出事变成改造人后重新见面并加入3G组织，喜欢和关心凯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/f0/49525_crt_6G18o.jpg?r=1482301463",
+        "link": "https://bgm.tv/character/49525",
+        "categorie": "person"
+      },
+      {
+        "id": "49526",
+        "label": "天海护",
+        "info": "拥有感应Zonder和净解Zonder化人类能力的小学生，因此得以成为GGG的特殊队员。真实身份是被Galeon护送到地球并托付给天还加的绿星领导者凯恩的儿子拉迪奥。因此在有危险时会受到Galeon的保护。感应到Zonder时头发会变成绿色，净解Zonder时全身发出绿光，并会生出三对精灵一样的翅膀。同时，他也拥有增强3G部队的G石能量的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/3e/49526_crt_mYZ9c.jpg?r=1482301476",
+        "link": "https://bgm.tv/character/49526",
+        "categorie": "person"
+      },
+      {
+        "id": "49527",
+        "label": "戒道几巳",
+        "info": "红之星的生化人造人，仿制绿之星的G能量赋予了J能量，而基因是仿制红之星的领导者阿贝尔的基因，是红之星被机界化后被送到地球后被戒道夫人抚养，起初沉默寡言，在EI-01攻击东京时恢复了任务记忆，净化了被机界化的J战舰主控电脑和J战士。原名aram（拉丁文意思为武器）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/00/49527_crt_3s6PY.jpg?r=1482301503",
+        "link": "https://bgm.tv/character/49527",
+        "categorie": "person"
+      },
+      {
+        "id": "49531",
+        "label": "索尔达多.J",
+        "info": "索尔达多师团的一员，代号J002。J师团被原种全灭后被改造成了佐达利安，化名为披萨（PIZZA）。向往天空，佐达化附身对象是战斗机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/96/49531_crt_vpvO2.jpg",
+        "link": "https://bgm.tv/character/49531",
+        "categorie": "person"
+      },
+      {
+        "id": "49532",
+        "label": "露妮·卡迪芙·狮子王",
+        "info": "Final篇出现，雷牙的女儿，曾被犯罪组织BIONET所抓并改造成改造人，后来被SCHASSEAL救出，并由雷牙为其加装G石维生装甲以维持由于被改造而不断发热的身体。法国对抗特殊犯罪组织SCHASSEAL的特别搜查官。由于不幸的成长遭遇对父亲怀有恨意，但已逐渐原谅父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/ae/49532_crt_2u5q6.jpg?r=1482312741",
+        "link": "https://bgm.tv/character/49532",
+        "categorie": "person"
+      },
+      {
+        "id": "49530",
+        "label": "初野华",
+        "info": "护的同班同学，喜欢护，害怕的时候会不停地念“我不怕”，会跳芭蕾舞，养有一只大狗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/29/49530_crt_N8JX8.jpg?r=1482301526",
+        "link": "https://bgm.tv/character/49530",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

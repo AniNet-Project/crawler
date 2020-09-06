@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10364",
+        "label": "希达",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/9f/10364_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10364",
+        "categorie": "person"
+      },
+      {
+        "id": "35246",
+        "label": "巴斯",
+        "info": "是一位住在有矿坑的小型城镇附近的少年，本作品的男主角，于矿山中担任实习的机械工人一职。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/d4/35246_crt_SC7sA.jpg?r=1441171062",
+        "link": "https://bgm.tv/character/35246",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

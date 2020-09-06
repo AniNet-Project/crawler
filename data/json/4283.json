@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18867",
+        "label": "水上真理雄",
+        "info": "暴行罪 / 伤害罪 / 杀人未遂。 　",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/83/18867_crt_99MEy.jpg",
+        "link": "https://bgm.tv/character/18867",
+        "categorie": "person"
+      },
+      {
+        "id": "13363",
+        "label": "樱木六太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/2a/13363_crt_aeU88.jpg",
+        "link": "https://bgm.tv/character/13363",
+        "categorie": "person"
+      },
+      {
+        "id": "13365",
+        "label": "横须贺丈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/22/13365_crt_OhOEH.jpg",
+        "link": "https://bgm.tv/character/13365",
+        "categorie": "person"
+      },
+      {
+        "id": "13364",
+        "label": "小池节子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/10/13364_crt_GUcw6.jpg",
+        "link": "https://bgm.tv/character/13364",
+        "categorie": "person"
+      },
+      {
+        "id": "58945",
+        "label": "横須賀メグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/95/58945_crt_0V3A7.jpg",
+        "link": "https://bgm.tv/character/58945",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

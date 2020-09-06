@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24402",
+        "label": "咲夜",
+        "info": "「The World R:X」を仲間3人とパーティを組んで冒険する少女キャラ。「考える前に飛べ!」を地で行く元気系。落ちている物を発見すると拾ってしまうクセがあるが、これが「サクヤ」というキャラの性格設定なのか“中の人”を反映しているのかは不明。黒いソフィアの攻撃を受け右手だけ部分的未帰還になりイリーガルな能力を手にいれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/63/24402_crt_C7W7X.jpg",
+        "link": "https://bgm.tv/character/24402",
+        "categorie": "person"
+      },
+      {
+        "id": "34229",
+        "label": "哈密特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/87/34229_crt_LIh7L.jpg",
+        "link": "https://bgm.tv/character/34229",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29210",
+        "label": "有栖川彻子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c6/29210_crt_49uQ4.jpg",
+        "link": "https://bgm.tv/character/29210",
+        "categorie": "person"
+      },
+      {
+        "id": "29211",
+        "label": "荒井花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/8c/29211_crt_ZN4bd.jpg",
+        "link": "https://bgm.tv/character/29211",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

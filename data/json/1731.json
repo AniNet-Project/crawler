@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56400",
+        "label": "铃川小梅",
+        "info": "麻布十番商店街の洋食屋「すず川」のひとり娘。明るく活発な性格。店では、料理と給仕も手伝う。その朗らかさと人当りの良さで、小梅目当ての客も多い。性格的に、聞き役になる事が多く、その上、いやと言えない性分。それが裏目となり、トラブルによく巻き込まれる。だが、クラスメートは、そんな小梅を頼りにし、悩みや相談を打ち明ける。父親似でまゆが太い事と、料理の仕込みの手伝いでついた腕の筋肉が、悩み。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/75/56400_crt_oZTTG.jpg?r=1501339615",
+        "link": "https://bgm.tv/character/56400",
+        "categorie": "person"
+      },
+      {
+        "id": "4481",
+        "label": "小笠原晶子",
+        "info": "総合貿易商社を営む小笠原家の令嬢。同級生からは、学院一のお金持ちの上に、やや独りよがりなところがある事から、“お嬢”と陰口っぽく呼ばれているが、父親の影響による国際感覚や、社交性、先見性には、一目置いている。父親を尊敬しているが、厳格なので少々苦手。ただ、けっして温室育ちではなく、活動的。性格は、気丈で、負けず嫌いの上、言い出したら退かない。ただ、頑固ではあるが、気配りは出来るほう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/82/4481_crt_Z3ogJ.jpg?r=1501339830",
+        "link": "https://bgm.tv/character/4481",
+        "categorie": "person"
+      },
+      {
+        "id": "4479",
+        "label": "川岛乃枝",
+        "info": "父親は工学博士。成績は学院でトップ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/22/4479_crt_62RCF.jpg?r=1558461084",
+        "link": "https://bgm.tv/character/4479",
+        "categorie": "person"
+      },
+      {
+        "id": "65938",
+        "label": "宗谷雪",
+        "info": "級長。細かいところによく気がつく性格で、クラスのまとめ役。気配りが出来て、誰に対しても、やさしく接する。おっとりとした口調だが、思ったことははっきり言う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/a3/65938_crt_aCG5w.jpg?r=1558462141",
+        "link": "https://bgm.tv/character/65938",
+        "categorie": "person"
+      },
+      {
+        "id": "65939",
+        "label": "月映巴",
+        "info": "武道の心得があり、運動神経は抜群。特に剣術に優れている。背が高く美形なので、下級生の人気が絶大。双子の妹に静がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/a0/65939_crt_TOymk.jpg?r=1559068030",
+        "link": "https://bgm.tv/character/65939",
+        "categorie": "person"
+      },
+      {
+        "id": "65940",
+        "label": "月映静",
+        "info": "巴の双子の妹。細やかで、世話焼きな性格。寮で、巴と同室だが、身の回りのことはほとんど静がしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/c1/65940_crt_NqN4m.jpg?r=1559069918",
+        "link": "https://bgm.tv/character/65940",
+        "categorie": "person"
+      },
+      {
+        "id": "65941",
+        "label": "石垣环",
+        "info": "父親が、小説家で自身も作家志望。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/69/65941_crt_VPx8m.jpg?r=1559072488",
+        "link": "https://bgm.tv/character/65941",
+        "categorie": "person"
+      },
+      {
+        "id": "4483",
+        "label": "樱见镜子",
+        "info": "下級生。バイプレイヤー志向で、主役になる気はなく、名脇役であろうする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a5/4483_crt_0O6R8.jpg?r=1559229249",
+        "link": "https://bgm.tv/character/4483",
+        "categorie": "person"
+      },
+      {
+        "id": "4480",
+        "label": "菊坂胡蝶",
+        "info": "下級生。陸上部に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/56/4480_crt_vvVh6.jpg?r=1559680457",
+        "link": "https://bgm.tv/character/4480",
+        "categorie": "person"
+      },
+      {
+        "id": "4482",
+        "label": "安娜·卡特兰德",
+        "info": "アメリカ人の英語教諭。野球を始めた小梅たちの良き理解者となる。アメリカ人らしく豪快な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/8b/4482_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4482",
+        "categorie": "person"
+      },
+      {
+        "id": "65942",
+        "label": "尾张记子",
+        "info": "新聞部員で、月映姉妹の親友。お人好しな性格で、巴の強引な誘いに、渋々、参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/5b/65942_crt_f7zlX.jpg",
+        "link": "https://bgm.tv/character/65942",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

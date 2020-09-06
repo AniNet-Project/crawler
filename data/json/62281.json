@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25030",
+        "label": "李信",
+        "info": "本作主人公。被村长带回村子作奴隶工作的少年。有着比成年人还强的臂力，但脑筋很差，也分不太出中性打扮的人的性别（杨端和、貂、羌瘣）。希望成为大将军翻身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/f8/25030_crt_vtfF9.jpg?r=1400114656",
+        "link": "https://bgm.tv/character/25030",
+        "categorie": "person"
+      },
+      {
+        "id": "25031",
+        "label": "嬴政",
+        "info": "秦国大王，刚继任一年的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/65/25031_crt_ZEWI1.jpg?r=1400115057",
+        "link": "https://bgm.tv/character/25031",
+        "categorie": "person"
+      },
+      {
+        "id": "25032",
+        "label": "河了貂",
+        "info": "黑卑村的住民，极西之地的山地住民“枭鸣”末裔，但与族人被驱赶到此。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/75/25032_crt_4COfa.jpg?r=1400115272",
+        "link": "https://bgm.tv/character/25032",
+        "categorie": "person"
+      },
+      {
+        "id": "25033",
+        "label": "羌瘣",
+        "info": "传说的刺客一族“蚩尤”末裔，羌族少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/91/25033_crt_3BYSn.jpg?r=1400115478",
+        "link": "https://bgm.tv/character/25033",
+        "categorie": "person"
+      },
+      {
+        "id": "25195",
+        "label": "王贲",
+        "info": "王翦之子。玉凤队队长。山阳之战中从三百将升为千人将，之后升为两千人将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/d2/25195_crt_xrX45.jpg?r=1401024773",
+        "link": "https://bgm.tv/character/25195",
+        "categorie": "person"
+      },
+      {
+        "id": "25196",
+        "label": "蒙恬",
+        "info": "蒙骜之孙，蒙武之子，蒙毅之兄。乐华队队长。山阳之战中从三百将升为千人将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/1c/25196_crt_07MNZ.jpg?r=1401024851",
+        "link": "https://bgm.tv/character/25196",
+        "categorie": "person"
+      },
+      {
+        "id": "25197",
+        "label": "壁",
+        "info": "昌文君的副官。知道漂身为替身的事情。平定叛乱后以千人将的身分参与许多战事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/c9/25197_crt_osZlZ.jpg?r=1401025109",
+        "link": "https://bgm.tv/character/25197",
+        "categorie": "person"
+      },
+      {
+        "id": "25198",
+        "label": "昌文君",
+        "info": "嬴政的心腹兼教师，原为武官，后转为文官。在吕不韦升为相国后，成为左丞相。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/7b/25198_crt_MCSlD.jpg?r=1401025315",
+        "link": "https://bgm.tv/character/25198",
+        "categorie": "person"
+      },
+      {
+        "id": "25199",
+        "label": "李牧",
+        "info": "新三大天之一，赵国的相国，本人文武双全。被廉颇认为是“全中华最危险的男人”",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/b1/25199_crt_VJY0U.jpg?r=1401026265",
+        "link": "https://bgm.tv/character/25199",
+        "categorie": "person"
+      },
+      {
+        "id": "25200",
+        "label": "王骑",
+        "info": "秦国六大将军最后一人，六大将军之一摎的未婚夫，死前也是王氏家族的家主。以神出鬼没的进入战场的战法，而有‘秦国的怪鸟’之称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/d8/25200_crt_yyiMn.jpg?r=1401026566",
+        "link": "https://bgm.tv/character/25200",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

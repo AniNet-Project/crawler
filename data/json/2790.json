@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1677",
+        "label": "黒沼爽子",
+        "info": "阴气、超长黑发、在夏天也煞白的皮肤。和灵感少女以及令人恐惧的超阴气容貌正好相反。性格很开朗，即使是微笑的事情也会马上感动！（喜欢流泪）从风早那里得到勇气，开始一点点和班上的同学熟悉起来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/10/1677_crt_5VNl3.jpg",
+        "link": "https://bgm.tv/character/1677",
+        "categorie": "person"
+      },
+      {
+        "id": "1678",
+        "label": "风早翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ec/1678_crt_1DTAQ.jpg",
+        "link": "https://bgm.tv/character/1678",
+        "categorie": "person"
+      },
+      {
+        "id": "1679",
+        "label": "矢野绫音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/38/1679_xkwkN.jpg",
+        "link": "https://bgm.tv/character/1679",
+        "categorie": "person"
+      },
+      {
+        "id": "1680",
+        "label": "吉田千鹤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d0/1680_QhM3z.jpg",
+        "link": "https://bgm.tv/character/1680",
+        "categorie": "person"
+      },
+      {
+        "id": "1681",
+        "label": "真田龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/0a/1681_0UdLu.jpg",
+        "link": "https://bgm.tv/character/1681",
+        "categorie": "person"
+      },
+      {
+        "id": "1682",
+        "label": "胡桃泽梅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/27/1682_crt_ADaI0.jpg",
+        "link": "https://bgm.tv/character/1682",
+        "categorie": "person"
+      },
+      {
+        "id": "10665",
+        "label": "荒井一市",
+        "info": "爽子一年级时的副班主任，兼任体育教师、棒球部监督。二年级爽子等人的班导。通称“阿瓶”（ピン）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/18/10665_crt_IKDV7.jpg",
+        "link": "https://bgm.tv/character/10665",
+        "categorie": "person"
+      },
+      {
+        "id": "49081",
+        "label": "真田彻",
+        "info": "龍の8歳年上の兄で、札幌在住。千鶴の初恋の相手であり、はるかと結婚した。千鶴のことを実の妹のように思っており、彼女のことを「ちー」と呼ぶ。ピンの後輩にあたり、千鶴の兄とは同級生である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/f5/49081_crt_x0yym.jpg",
+        "link": "https://bgm.tv/character/49081",
+        "categorie": "person"
+      },
+      {
+        "id": "49082",
+        "label": "城之内宗一",
+        "info": "爽子のクラスメイト。愛称は「ジョー」（「あしたのジョー」から）。バカで場の雰囲気を察することができない。お調子者で、流されやすい性格である。いろんな人を好きになって全員に振られる、または避けられる。教室ではよく風早や龍らと行動を共にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/7d/49082_crt_a1833.jpg?r=1481289580",
+        "link": "https://bgm.tv/character/49082",
+        "categorie": "person"
+      },
+      {
+        "id": "57447",
+        "label": "高桥千草",
+        "info": "爽子の1年生のときのクラスメイト。学校内の色恋沙汰を追いかけるのが趣味で、爽子と風早の事もよく観察している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/c9/57447_crt_b06LL.jpg",
+        "link": "https://bgm.tv/character/57447",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

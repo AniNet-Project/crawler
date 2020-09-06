@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4345",
+        "label": "月影兰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/aa/4345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4345",
+        "categorie": "person"
+      },
+      {
+        "id": "15154",
+        "label": "猫鉄拳のミャオ",
+        "info": "素浪人シリーズの焼津の半次の役どころ。「猫鉄拳」と称する拳法を得意とする。服装は、胴体部分がピンクで腕の部分が白いミニ丈チャイナドレス風。背中に武器として使用する短い棒を差している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/a3/15154_crt_bO2zI.jpg",
+        "link": "https://bgm.tv/character/15154",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

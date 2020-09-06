@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60808",
+        "label": "甘粕桧曾根",
+        "info": "航空自衛隊岐阜基地の新人。素直でまじめな性格だが、嘘のつけないあまりマジな言葉を口にして人を傷つけることが続き、周囲から浮くことを避けている。基地に着任早々、伝説のドラゴン「まそたん」に遭遇し、飲みこまれてしまったことをきっかけにDパイ（ドラゴンパイロット）に選ばれる。不器用ながらもドラゴンといっしょに空を飛ぶ快感を覚え、伝説の生き物とともに生きる決意を固めていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/69/60808_crt_5115P.jpg?r=1518583667",
+        "link": "https://bgm.tv/character/60808",
+        "categorie": "person"
+      },
+      {
+        "id": "60809",
+        "label": "贝崎名绪",
+        "info": "岐阜基地の小柄なＤパイ候補生。気の強い性格で、ヤンキーのように喧嘩腰で会話をふっかけるところがある。母親もかつてはＤパイであり、名緒もひそねが来るまではDパイの最有力候補だったが、ドラゴンには受け入れてもらえなかった。ひそねを嫉妬するあまり、他愛ない意地悪を続ける。実は人一倍の努力家でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/6a/60809_crt_MYMMu.jpg?r=1518583695",
+        "link": "https://bgm.tv/character/60809",
+        "categorie": "person"
+      },
+      {
+        "id": "60810",
+        "label": "星野绘瑠",
+        "info": "福岡県築城基地勤務のドラゴンパイロットで、文武両道の才媛。外見も良く性格はクールで凛々しくてプライドの高い言動をするなど、エースパイロットを意識したふるまいを好む。一方でOTF（変態飛翔生体）に対する理解力は低く、周囲からは持て余されていたようだ。搭乗するドラゴンは、戦闘機F-2Aに擬態する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/58/60810_crt_Z0Ce0.jpg?r=1518583723",
+        "link": "https://bgm.tv/character/60810",
+        "categorie": "person"
+      },
+      {
+        "id": "60811",
+        "label": "绢番莉莉子",
+        "info": "青森県三沢基地のドラゴンパイロットで、冷静かつ頭脳派。頭が回りすぎて万事に最低ラインを先に見極めてしまい、なにかとマイナス思考を好む。視線恐怖症でいつも半泣き、ハンカチが手放せない。ただし場や空気はすぐに読めるため、状況判断能力はきわめて高い。搭乗するドラゴンは、早期警戒機E-2Cに擬態する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/f2/60811_crt_43ZRO.jpg?r=1518583746",
+        "link": "https://bgm.tv/character/60811",
+        "categorie": "person"
+      },
+      {
+        "id": "60812",
+        "label": "日登美真弓",
+        "info": "埼玉県入間基地のドラゴンパイロット。大きな身体でのんびりと気は優しく、いつも穏やかに笑みを浮かべている。もともとは動物園勤務で、猛獣に懐かれているところを基地の人間にスカウトされた。ドラゴンの言葉や気持ちが自然とわかるらしく、みんなに通訳してくれる。搭乗するドラゴンは、輸送機C-1に擬態する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/2d/60812_crt_J1NnL.jpg?r=1529824195",
+        "link": "https://bgm.tv/character/60812",
+        "categorie": "person"
+      },
+      {
+        "id": "60813",
+        "label": "樋本贞",
+        "info": "健康飲料の訪問販売をしている謎の老女。岐阜基地には出入り自由で、ふらっとやってきては、ひそねに意味深なアドバイスをしてくれる。ドラゴンについても何か深く知っているようだが、その実態はなかなかつかめない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ee/60813_crt_zIF44.jpg",
+        "link": "https://bgm.tv/character/60813",
+        "categorie": "person"
+      },
+      {
+        "id": "60845",
+        "label": "小此木榛人",
+        "info": "岐阜基地所属の整備員。ふわっとした穏やかなルックスで、押しの弱いところがあって返事もあいまい。上司からは厄介事を押しつけられがちだが、実は芯の強い男。信念に基づいて、大事だと思ったことは貫きとおす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d3/60845_crt_XxZQX.jpg",
+        "link": "https://bgm.tv/character/60845",
+        "categorie": "person"
+      },
+      {
+        "id": "60846",
+        "label": "财投丰",
+        "info": "岐阜基地所属の戦闘機パイロット。ひそねたちの上官にあたり、訓練など的確な指示をくだす。見た目は軽く、やる気がなさそうにも見えるが、経験豊富で腕はとても確かな男。女性には誰にでも声をかけるが、ひそねにだけは食指が動かない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/d0/60846_crt_Za39A.jpg",
+        "link": "https://bgm.tv/character/60846",
+        "categorie": "person"
+      },
+      {
+        "id": "60847",
+        "label": "柿保令美",
+        "info": "岐阜基地の飛行班長で、階級は２等空佐。非常に気が強いクールビューティーだが、実は怖がりで泣き上戸。ドラゴンを苦手に思っているが、事故にはトラウマがあるらしく、パイロットたちの安全管理を最優先としている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/04/60847_crt_3HDPD.jpg",
+        "link": "https://bgm.tv/character/60847",
+        "categorie": "person"
+      },
+      {
+        "id": "60848",
+        "label": "几岛博己",
+        "info": "航空装備メーカーでドラゴンに乗りこむ際に着用するパイロットスーツを開発している技術者。データ採取のため岐阜基地に入りびたりで女性のファンも多いが、本人はスーツ開発にしか興味がなく、態度も少々変質的に見える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/83/60848_crt_FXp1h.jpg",
+        "link": "https://bgm.tv/character/60848",
+        "categorie": "person"
+      },
+      {
+        "id": "60849",
+        "label": "曾曾田弘",
+        "info": "岐阜基地に常駐する飛行開発実験団司令。階級は空将補。強面に見えて、のんきなところも見せる男である。動物好きでドラゴンも大好き。ドラゴンに関する国家的機密を握り、まそたんに選ばれたひそねを重視している様子だ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/3b/60849_crt_d002x.jpg",
+        "link": "https://bgm.tv/character/60849",
+        "categorie": "person"
+      },
+      {
+        "id": "63860",
+        "label": "三角枣",
+        "info": "儀式に参加する巫女の一人。榛人の幼なじみで。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f5/63860_crt_bib57.jpg",
+        "link": "https://bgm.tv/character/63860",
+        "categorie": "person"
+      },
+      {
+        "id": "64223",
+        "label": "千堂八重",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/7c/64223_crt_HFQ45.jpg",
+        "link": "https://bgm.tv/character/64223",
+        "categorie": "person"
+      },
+      {
+        "id": "64224",
+        "label": "昭岛英子",
+        "info": "第二補給所総務課勤務。階級は3曹。自称「岐阜一の恋愛エキスパート」として「衣通（ソトオリ）作戦」を実行する。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/64224",
+        "categorie": "person"
+      },
+      {
+        "id": "64225",
+        "label": "森山",
+        "info": "元2等空尉で現役当時のTACネームは「フォレスト」。3年前まで岐阜基地でOTF（まそたん）のDパイを務め、「オスカー（OTFのO=Oscar）」と呼んでいた。また、輸送機飛行班時代は柿保の後輩で、操縦の腕はピカイチだった。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/64225",
+        "categorie": "person"
+      },
+      {
+        "id": "64226",
+        "label": "饭干",
+        "info": "宮内庁式部官。74年に一度、日本が国の総力を挙げて行う一大儀式「マツリゴト」を統括する宮内庁の責任者。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/64226",
+        "categorie": "person"
+      },
+      {
+        "id": "60850",
+        "label": "F-15J",
+        "info": "偽装種別：F-15J戦闘機",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/c2/60850_crt_GVv0Z.jpg",
+        "link": "https://bgm.tv/character/60850",
+        "categorie": "person"
+      },
+      {
+        "id": "61825",
+        "label": "F-2A",
+        "info": "偽装種別：F-2A戦闘機",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/c1/61825_crt_JG2Xi.jpg",
+        "link": "https://bgm.tv/character/61825",
+        "categorie": "person"
+      },
+      {
+        "id": "61826",
+        "label": "C1",
+        "info": "ニックネーム：フトモモ",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/c5/61826_crt_IZSBS.jpg",
+        "link": "https://bgm.tv/character/61826",
+        "categorie": "person"
+      },
+      {
+        "id": "61827",
+        "label": "E-2C",
+        "info": "ニックネーム：あけみ",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ee/61827_crt_Ubc3w.jpg",
+        "link": "https://bgm.tv/character/61827",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

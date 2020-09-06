@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20194",
+        "label": "一之濑初",
+        "info": "编号G-101",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/a6/20194_crt_pYfBi.jpg?r=1567191299",
+        "link": "https://bgm.tv/character/20194",
+        "categorie": "person"
+      },
+      {
+        "id": "33120",
+        "label": "三栖立翼",
+        "info": "新潟県長岡市にある市立朱鷺羽高校に通う2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/e0/33120_crt_LczAW.jpg",
+        "link": "https://bgm.tv/character/33120",
+        "categorie": "person"
+      },
+      {
+        "id": "20580",
+        "label": "橘清音",
+        "info": "编号G-96",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/f9/20580_crt_oM1mE.jpg",
+        "link": "https://bgm.tv/character/20580",
+        "categorie": "person"
+      },
+      {
+        "id": "20581",
+        "label": "枇枇木丈",
+        "info": "编号G-89",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/6f/20581_crt_oGEoo.jpg",
+        "link": "https://bgm.tv/character/20581",
+        "categorie": "person"
+      },
+      {
+        "id": "20583",
+        "label": "宫现",
+        "info": "编号G-99",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/5c/20583_crt_k46et.jpg?r=1460178176",
+        "link": "https://bgm.tv/character/20583",
+        "categorie": "person"
+      },
+      {
+        "id": "20584",
+        "label": "派曼",
+        "info": "编号G-3",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/1b/20584_crt_72Xe5.jpg",
+        "link": "https://bgm.tv/character/20584",
+        "categorie": "person"
+      },
+      {
+        "id": "20582",
+        "label": "O·D",
+        "info": "编号G-12",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/33/20582_crt_AcNbb.jpg",
+        "link": "https://bgm.tv/character/20582",
+        "categorie": "person"
+      },
+      {
+        "id": "20586",
+        "label": "尔乃美家累",
+        "info": "18岁，居住在位于东京都江东区的高级公寓「荣耀之塔丰州」的最上层。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/71/20586_crt_9nnVX.jpg",
+        "link": "https://bgm.tv/character/20586",
+        "categorie": "person"
+      },
+      {
+        "id": "33122",
+        "label": "杜兰莎",
+        "info": "不時着した宇宙船に乗っていた地球外生命体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/78/33122_crt_2V4ev.jpg?r=1434034402",
+        "link": "https://bgm.tv/character/33122",
+        "categorie": "person"
+      },
+      {
+        "id": "20588",
+        "label": "总裁X",
+        "info": "SNS「GALAX」内的超级名人，领袖般的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/8d/20588_crt_4gX7w.jpg",
+        "link": "https://bgm.tv/character/20588",
+        "categorie": "person"
+      },
+      {
+        "id": "33121",
+        "label": "铃木理诘梦",
+        "info": "有名大学の医学部に通う学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/f6/33121_crt_Uhu9E.jpg?r=1434031263",
+        "link": "https://bgm.tv/character/33121",
+        "categorie": "person"
+      },
+      {
+        "id": "20587",
+        "label": "皮尔·卡切",
+        "info": "自称「宇宙人」的奇怪人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/48/20587_crt_9kVqE.jpg",
+        "link": "https://bgm.tv/character/20587",
+        "categorie": "person"
+      },
+      {
+        "id": "20585",
+        "label": "J·J·罗宾逊",
+        "info": "「评议会」的成员之一，地球的监视者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/ac/20585_crt_CSeYj.jpg",
+        "link": "https://bgm.tv/character/20585",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

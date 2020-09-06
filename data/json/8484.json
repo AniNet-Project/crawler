@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7611",
+        "label": "泉野明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/34/7611_crt_ODvnX.jpg?r=1582266776",
+        "link": "https://bgm.tv/character/7611",
+        "categorie": "person"
+      },
+      {
+        "id": "7616",
+        "label": "后藤喜一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/52/7616_crt_tbW67.jpg?r=1423317102",
+        "link": "https://bgm.tv/character/7616",
+        "categorie": "person"
+      },
+      {
+        "id": "9289",
+        "label": "筱原游马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/97/9289_crt_jYkqI.jpg",
+        "link": "https://bgm.tv/character/9289",
+        "categorie": "person"
+      },
+      {
+        "id": "9291",
+        "label": "太田功",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/3d/9291_crt_I44jh.jpg",
+        "link": "https://bgm.tv/character/9291",
+        "categorie": "person"
+      },
+      {
+        "id": "9292",
+        "label": "香贯花·克兰西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/aa/9292_crt_6vmt6.jpg?r=1582267307",
+        "link": "https://bgm.tv/character/9292",
+        "categorie": "person"
+      },
+      {
+        "id": "9293",
+        "label": "进士干泰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/1e/9293_crt_p9vN1.jpg",
+        "link": "https://bgm.tv/character/9293",
+        "categorie": "person"
+      },
+      {
+        "id": "9288",
+        "label": "南云忍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/6e/9288_crt_vswvC.jpg?r=1582267159",
+        "link": "https://bgm.tv/character/9288",
+        "categorie": "person"
+      },
+      {
+        "id": "9290",
+        "label": "山崎广美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/cb/9290_crt_JKH11.jpg",
+        "link": "https://bgm.tv/character/9290",
+        "categorie": "person"
+      },
+      {
+        "id": "9294",
+        "label": "榊清太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/eb/9294_crt_o91qB.jpg",
+        "link": "https://bgm.tv/character/9294",
+        "categorie": "person"
+      },
+      {
+        "id": "9295",
+        "label": "千叶繁夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/80/9295_crt_949xi.jpg",
+        "link": "https://bgm.tv/character/9295",
+        "categorie": "person"
+      },
+      {
+        "id": "9300",
+        "label": "内海",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/29/9300_crt_PrZlh.jpg",
+        "link": "https://bgm.tv/character/9300",
+        "categorie": "person"
+      },
+      {
+        "id": "9301",
+        "label": "黑崎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/fa/9301_crt_51VZ7.jpg",
+        "link": "https://bgm.tv/character/9301",
+        "categorie": "person"
+      },
+      {
+        "id": "31643",
+        "label": "熊耳武绪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/aa/31643_crt_l1he1.jpg?r=1428254872",
+        "link": "https://bgm.tv/character/31643",
+        "categorie": "person"
+      },
+      {
+        "id": "31649",
+        "label": "松井孝弘",
+        "info": "警视厅刑警，后藤最信赖的朋友之一。看起来胖乎乎其实很精明，总能给二科提供必要的帮助",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/94/31649_crt_XWXbX.jpg?r=1428256047",
+        "link": "https://bgm.tv/character/31649",
+        "categorie": "person"
+      },
+      {
+        "id": "65828",
+        "label": "バドリナート・ハルチャンド",
+        "info": "グリフォンの操縦者である少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/75/65828_crt_381Z3.jpg",
+        "link": "https://bgm.tv/character/65828",
+        "categorie": "person"
+      },
+      {
+        "id": "9302",
+        "label": "樱山桃子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/3e/9302_crt_JC8g2.jpg",
+        "link": "https://bgm.tv/character/9302",
+        "categorie": "person"
+      },
+      {
+        "id": "9303",
+        "label": "进士多美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/da/9303_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9303",
+        "categorie": "person"
+      },
+      {
+        "id": "9304",
+        "label": "实山刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/42/9304_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9304",
+        "categorie": "person"
+      },
+      {
+        "id": "9307",
+        "label": "不破環生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/2d/9307_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9307",
+        "categorie": "person"
+      },
+      {
+        "id": "9296",
+        "label": "AV-98イングラム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/62/9296_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9296",
+        "categorie": "person"
+      },
+      {
+        "id": "9297",
+        "label": "AV-0ピースメーカー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/92/9297_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9297",
+        "categorie": "person"
+      },
+      {
+        "id": "9298",
+        "label": "MPL-97Sパイソン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/14/9298_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9298",
+        "categorie": "person"
+      },
+      {
+        "id": "9299",
+        "label": "TYPE-J9グリフォン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/6b/9299_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9299",
+        "categorie": "person"
+      },
+      {
+        "id": "9305",
+        "label": "Type-R13EXファントム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/61/9305_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9305",
+        "categorie": "person"
+      },
+      {
+        "id": "9306",
+        "label": "ARL-99ヘルダイバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/92/9306_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9306",
+        "categorie": "person"
+      },
+      {
+        "id": "9338",
+        "label": "ASUKA96MPL",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/34/9338_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9338",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

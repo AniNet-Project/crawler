@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50905",
+        "label": "尤基·科斯摩",
+        "info": "ソロ星科学庁長官であるユウキ・ロウル博士の息子。バッフ・クランによる“ソロ星”襲撃の際に偶然ソル・アンバーに乗り込んだことから、イデオンのメイン・パイロットになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/6c/50905_crt_V1t1S.jpg?r=1486136842",
+        "link": "https://bgm.tv/character/50905",
+        "categorie": "person"
+      },
+      {
+        "id": "50906",
+        "label": "乔丹·贝斯",
+        "info": "“ソロ星”に派遣された地球連合軍の士官候補生。 “第６文明人”の遺跡での発掘調査を視察した折にバッフ・クランの襲撃に遭い、ソル・バニアに乗り込み戦うこととなる。“ソロ星”で生き残った軍人の中で最高位にあったためにソロシップの指揮官となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/20/50906_crt_jJy56.jpg?r=1486136788",
+        "link": "https://bgm.tv/character/50906",
+        "categorie": "person"
+      },
+      {
+        "id": "4624",
+        "label": "卡拉拉·阿吉巴",
+        "info": "ソロシップに乗り込むこととなった異星人。無限力“イデ”を欲するバッフ・クランの宇宙軍総司令ドバ・アジバの末娘。イデ探索隊に加わり“ソロ星（＝ロゴ・ダウ）”に降り立ったがゆえに、地球人とバッフ・クランとの長い戦いのきっかけをつくった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/47/4624_crt_zK6z1.jpg?r=1486133716",
+        "link": "https://bgm.tv/character/4624",
+        "categorie": "person"
+      },
+      {
+        "id": "50907",
+        "label": "イムホフ・カーシャ",
+        "info": "ロケット工学の天才で男勝りの女の子。幼い頃、劣悪な環境の植民星“Ａ９２星”で親と引き離され、軍の施設で育てられる。“第６文明人”の遺跡でバッフ・クランの襲撃に遭い、ソル・コンバーに乗り込む。イデオン合体時には主にミサイル部門を担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/96/50907_crt_7d0ou.jpg?r=1486136826",
+        "link": "https://bgm.tv/character/50907",
+        "categorie": "person"
+      },
+      {
+        "id": "50908",
+        "label": "フォルモッサ・シェリル",
+        "info": "“ソロ星” に存在した“第６文明人”の遺跡を発掘する言語学のエキスパート。父である考古学と言語学の権威、フォルモッサ・ロダンと共に遺跡を調査中にバッフ・クランの襲撃に遭う。ソロシップに乗り込み、“イデ”の研究に取り組む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/ac/50908_crt_Qdgq4.jpg?r=1486136742",
+        "link": "https://bgm.tv/character/50908",
+        "categorie": "person"
+      },
+      {
+        "id": "51161",
+        "label": "吉杰·扎拉爾",
+        "info": "将来性をドバに買われて、その娘カララの許嫁に迎えられた後“イデ”の探索隊長に大抜擢される。探索に赴いた“ソロ星（＝ロゴ・ダウ）”にて地球人と最初のコンタクトを持つことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/3a/51161_crt_2UOO0.jpg",
+        "link": "https://bgm.tv/character/51161",
+        "categorie": "person"
+      },
+      {
+        "id": "50909",
+        "label": "イラ・ジョリバ",
+        "info": "ソロシップの機関士、メカニック全般を務める地球連合軍の生き残り。“第６文明人”の遺跡でしかなかったソロシップを外宇宙船として見事に復活させた技術力を持つ。シェリルと共に“イデ”の力をコントロールできるよう研究に力を注ぐ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/e0/50909_crt_snPuU.jpg?r=1486137103",
+        "link": "https://bgm.tv/character/50909",
+        "categorie": "person"
+      },
+      {
+        "id": "50910",
+        "label": "マルス・ベント",
+        "info": "イデオ・ノバのコ・パイロットやソロシップの通信担当をするなど多彩な才能を持つ人物。度重なる戦闘で横に座るモエラ、ギジェを失いつつも生き残ってきた強運の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/68/50910_crt_mDZvC.jpg?r=1486136949",
+        "link": "https://bgm.tv/character/50910",
+        "categorie": "person"
+      },
+      {
+        "id": "50911",
+        "label": "ギャバリー・テクノ",
+        "info": "“ソロ星”に配属されている地球連合軍の生き残りで、ソル・バニア、ソル・コンバーのコ・パイロットを務める。砲手として“グレン・キャノン”も操る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/d0/50911_crt_1ENhh.jpg?r=1486136981",
+        "link": "https://bgm.tv/character/50911",
+        "categorie": "person"
+      },
+      {
+        "id": "50912",
+        "label": "ファトム・モエラ",
+        "info": "“ソロ星”に配属されている地球連合軍の生き残り。補欠パイロットであったが、ソロシップの指揮官としてソル・バニアを降りたベスに代わり、そのメイン・パイロットとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/de/50912_crt_Pp0Re.jpg?r=1486136934",
+        "link": "https://bgm.tv/character/50912",
+        "categorie": "person"
+      },
+      {
+        "id": "50913",
+        "label": "ナブール・ハタリ",
+        "info": "ソロシップのメイン操舵手を務める元地球連合軍の軍人。沈着冷静な男。ジョリバと共に“イデ”の力を利用した広域レーダーを開発するなどメカに強い面もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/6f/50913_crt_WEOBk.jpg?r=1486136995",
+        "link": "https://bgm.tv/character/50913",
+        "categorie": "person"
+      },
+      {
+        "id": "50914",
+        "label": "ラポー",
+        "info": "ソロシップの看護兵を務める包容力のある女性。平時はリンやロッタと共に子供達の面倒を見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/08/50914_crt_E6LsL.jpg?r=1486136920",
+        "link": "https://bgm.tv/character/50914",
+        "categorie": "person"
+      },
+      {
+        "id": "50915",
+        "label": "フォルモッサ・リン",
+        "info": "温和な中にも時折激しさを見せる、シェリルの妹。優秀な姉にコンプレックスをいだいているが、常に明るくロッタと共にソロシップの子供たちの世話をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/f2/50915_crt_Z55WB.jpg?r=1486137026",
+        "link": "https://bgm.tv/character/50915",
+        "categorie": "person"
+      },
+      {
+        "id": "50916",
+        "label": "バンダ・ロッタ",
+        "info": "“ソロ星”に移民してきた少女。バッフ・クランの襲撃で“ニューロピア”にいた両親を失いソロシップに乗り込む。ソロシップでは農園の運営、家畜の世話など食料の自給自足に携わる他、リンと共に子供たちの世話をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/28/50916_crt_7YpMh.jpg?r=1486136896",
+        "link": "https://bgm.tv/character/50916",
+        "categorie": "person"
+      },
+      {
+        "id": "50917",
+        "label": "アフタ・デク",
+        "info": "コスモの弟分の元気な男の子。ロッタやリンに子供として扱われるのが嫌でたまらず、コスモに頼み込みソル・アンバーのコ・パイロットとして戦いに参加。子供が乗り込むことでイデオンのパワーが増大することが分かった後、正規のパイロットとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/af/50917_crt_SYhuc.jpg?r=1486137045",
+        "link": "https://bgm.tv/character/50917",
+        "categorie": "person"
+      },
+      {
+        "id": "50918",
+        "label": "ノバク・アーシュラ",
+        "info": "好奇心旺盛で気丈な性格の女の子。バッフ・クランによる“ニューロピア”の襲撃で両親を失い、ソロシップに乗り込む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/fc/50918_crt_zI5Mm.jpg?r=1486136880",
+        "link": "https://bgm.tv/character/50918",
+        "categorie": "person"
+      },
+      {
+        "id": "50919",
+        "label": "マラカ・ファード",
+        "info": "いつも人形を手にしてアーシュラ達と遊んでいる気弱な男の子。自ら前に立って行動することがなく、常に年下のアーシュラの後をついて回っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/8e/50919_crt_gg9LQ.jpg?r=1486137063",
+        "link": "https://bgm.tv/character/50919",
+        "categorie": "person"
+      },
+      {
+        "id": "50920",
+        "label": "パイパー・ルウ",
+        "info": "好き嫌いの激しい、やんちゃな赤ん坊。“ニューロピア”にロッタ達の両親の安否を確かめに行った母親をバッフ・クランの攻撃で失い、ロッタやリンに育てられる。ソロシップに彼が乗り込んだことでその純粋な防衛本能に感応した“イデ”の力が度々コスモ達を救うこととなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/8d/50920_crt_xAAeI.jpg?r=1486136864",
+        "link": "https://bgm.tv/character/50920",
+        "categorie": "person"
+      },
+      {
+        "id": "50921",
+        "label": "キッチ・キッチン",
+        "info": "ダラムによって半球を全滅に追いやられた植民星“キャラル”の少女。孤児となった子供達を世話していたところでコスモに出会う。ソロシップの境遇に同情しながらもその存在がバッフ・クランを呼び込んだことにも気付き、彼女なりに精一杯の誠意を示しつつもソロシップの早期出発を望む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/1a/50921_crt_le78J.jpg?r=1486137102",
+        "link": "https://bgm.tv/character/50921",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15434",
+        "label": "太田翔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/d9/15434_crt_oogOZ.jpg?r=1464641029",
+        "link": "https://bgm.tv/character/15434",
+        "categorie": "person"
+      },
+      {
+        "id": "15435",
+        "label": "高远艾丽卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/c0/15435_crt_H54P0.jpg?r=1464641018",
+        "link": "https://bgm.tv/character/15435",
+        "categorie": "person"
+      },
+      {
+        "id": "15916",
+        "label": "降矢虎太",
+        "info": "５月２３日　降矢三兄弟（虎太だけ２４日出てきたらしいが戸籍は同じ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/39/15916_crt_Lz3jJ.jpg",
+        "link": "https://bgm.tv/character/15916",
+        "categorie": "person"
+      },
+      {
+        "id": "15917",
+        "label": "降矢龙持",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/e5/15917_crt_CXXC5.jpg",
+        "link": "https://bgm.tv/character/15917",
+        "categorie": "person"
+      },
+      {
+        "id": "15918",
+        "label": "降矢凰壮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/bc/15918_crt_BE6kk.jpg",
+        "link": "https://bgm.tv/character/15918",
+        "categorie": "person"
+      },
+      {
+        "id": "15919",
+        "label": "西园寺玲华",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/6d/15919_crt_eH8Df.jpg?r=1464640999",
+        "link": "https://bgm.tv/character/15919",
+        "categorie": "person"
+      },
+      {
+        "id": "15920",
+        "label": "花岛胜",
+        "info": "元千葉サンダーボルツのＦＷ。剛脚のエースとして活躍していた。怪我をして引退した後はジュニアチームのコーチをしていたが、ある事件をきっかけにそれもやめてしまった。目標を失い、仕事にも就かず失業保険で堕落した日々を送っていたが、翔の熱意と、竜持の画策に押され再びコーチを引き受けることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/f3/15920_crt_PMuog.jpg?r=1427919080",
+        "link": "https://bgm.tv/character/15920",
+        "categorie": "person"
+      },
+      {
+        "id": "16054",
+        "label": "青砥 冈萨雷斯 琢马",
+        "info": "川原国際ヘヴンリー所属のＦＷ。ライターの仕事をしている母親と、スペイン人の元サッカー選手の父親を持つ。背は小さいがテクニシャンで、ボールコントロール、シュートの精度は驚くべきものがある。口数は少なくマイペース。剛の虎太に対し、柔の青砥といった対照的なタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/44/16054_crt_LzvJ3.jpg",
+        "link": "https://bgm.tv/character/16054",
+        "categorie": "person"
+      },
+      {
+        "id": "16056",
+        "label": "植松太郎",
+        "info": "浮島・内村と同じ団地に住んでいて頭文字が3人ともUなことから\"スリーU\"と呼ばれている。しっかりした性格で3人のまとめ役。中学受験のために一時サッカーをやめていたが、翔に誘われてまた桃山プレデターに参加する。主にFWを務める。試合中はメガネを外している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/34/16056_crt_p1Xdp.jpg",
+        "link": "https://bgm.tv/character/16056",
+        "categorie": "person"
+      },
+      {
+        "id": "16057",
+        "label": "浮岛悠斗",
+        "info": "\"スリーU\"の一人。植松・内村と同じく中学受験のためにサッカーをやめていた。おっとりとした性格だが、どこのポジションでも能力を発揮できる。桃山プレデターではDFを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/74/16057_crt_42f0a.jpg",
+        "link": "https://bgm.tv/character/16057",
+        "categorie": "person"
+      },
+      {
+        "id": "16058",
+        "label": "内村桂",
+        "info": "\"スリーU\"の一人。植松・浮島と同じく中学受験のためにサッカーをやめていた。内気な性格で自分からはあまり前に出ないタイプ。桃山プレデターではMFを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/e1/16058_crt_0ww0x.jpg",
+        "link": "https://bgm.tv/character/16058",
+        "categorie": "person"
+      },
+      {
+        "id": "16059",
+        "label": "桃山金造",
+        "info": "桃山プレデターの代表。不動産業を営む。羽ぶりはいいがお金には細かい。嫌味も言うが憎めない性格。商売敵の椿森SCの代表をライバル視している。いつか自分のチームからプロ選手を輩出するのが夢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e8/16059_crt_I16I7.jpg",
+        "link": "https://bgm.tv/character/16059",
+        "categorie": "person"
+      },
+      {
+        "id": "16060",
+        "label": "清水美咲",
+        "info": "女子プロチームの「新東京ＦＣローサ」に所属するプロサッカー選手。ケガをして惜しくも代表選考から外れてしまった。リハビリを兼ねて一人で練習していたところ、偶然翔たちと出会う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/97/16060_crt_75VDQ.jpg",
+        "link": "https://bgm.tv/character/16060",
+        "categorie": "person"
+      },
+      {
+        "id": "16061",
+        "label": "杏子",
+        "info": "花島の恋人。バドミントンの選手で、オリンピックの強化選手にも選ばれている。明るく朗らかな性格で、かいがいしく花島やチームの面倒をみる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/12/16061_crt_MzEz1.jpg",
+        "link": "https://bgm.tv/character/16061",
+        "categorie": "person"
+      },
+      {
+        "id": "19808",
+        "label": "鲁尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/1c/19808_crt_eqA9c.jpg",
+        "link": "https://bgm.tv/character/19808",
+        "categorie": "person"
+      },
+      {
+        "id": "19809",
+        "label": "巴洛特利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/31/19809_crt_355hH.jpg",
+        "link": "https://bgm.tv/character/19809",
+        "categorie": "person"
+      },
+      {
+        "id": "19810",
+        "label": "皮尔洛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/3c/19810_crt_0lmFU.jpg",
+        "link": "https://bgm.tv/character/19810",
+        "categorie": "person"
+      },
+      {
+        "id": "19811",
+        "label": "C罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ac/19811_crt_00cvg.jpg",
+        "link": "https://bgm.tv/character/19811",
+        "categorie": "person"
+      },
+      {
+        "id": "19812",
+        "label": "厄齐尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/34/19812_crt_LOeKb.jpg",
+        "link": "https://bgm.tv/character/19812",
+        "categorie": "person"
+      },
+      {
+        "id": "19813",
+        "label": "卡西利亚斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/bc/19813_crt_j5IKk.jpg",
+        "link": "https://bgm.tv/character/19813",
+        "categorie": "person"
+      },
+      {
+        "id": "19814",
+        "label": "梅西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/dd/19814_crt_mx0yy.jpg",
+        "link": "https://bgm.tv/character/19814",
+        "categorie": "person"
+      },
+      {
+        "id": "16055",
+        "label": "杉山多义",
+        "info": "元川原国際ヘヴンリーのＧＫ。アラブ人と日本人の間に生まれる。成長期に入り、急激に伸びる身長（現在１７５ｃｍ）にスキルが追いつかず、「下手になった」と自覚し退団していたが、仲の良かった青砥に誘われる形でプレデターに参加する。落ち着いた性格で、翔とともにディフェンスラインを統率する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/f5/16055_crt_d99A2.jpg",
+        "link": "https://bgm.tv/character/16055",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

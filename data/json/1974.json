@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72282",
+        "label": "战部渡",
+        "info": "《魔神英雄传》系列的共通主角、龙神丸的操作者。实际上是出生于天神界拳龙族，继承传说中一千年才会出现一次、作为救世者凭证的“拳龙之勾玉”(拳龙分娩时流下的眼泪变成，亦具有封印神部界地底地狱之门的能力。)、以及拳龙继承者的名称“Adaru”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/e9/72282_crt_GDNzI.jpg",
+        "link": "https://bgm.tv/character/72282",
+        "categorie": "person"
+      },
+      {
+        "id": "72336",
+        "label": "龙神号",
+        "info": "战部渡操控的魔神，是龙神根据被渡挂上勾玉的黏土机器人，使之变成魔神外壳而成。与其他魔神不同，是透过渡站在龙神头上，透过互相合作共同控制。擅长猜拳和精通创界山各地的语言。第四星界中受重伤，龙神化成龙玉，后来与被击落的空神丸结合灵魂，进化成龙王丸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/63/72336_crt_y773Y.jpg",
+        "link": "https://bgm.tv/character/72336",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

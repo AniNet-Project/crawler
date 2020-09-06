@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38550",
+        "label": "白州冴子",
+        "info": "25歳。外見はもっと若く、一見とても戦場カメラマンには見えない。戦場報道への純粋な想いを未だ棄てておらず、写真の力を信じている。それゆえ、自分の写した写真がたまたま一人歩きし始めた事に対しても責任を感じ、特殊部隊との帯同取材という危険な仕事をも敢えて受け入れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/e3/38550_crt_uuj0Q.jpg",
+        "link": "https://bgm.tv/character/38550",
+        "categorie": "person"
+      },
+      {
+        "id": "38551",
+        "label": "赤城圭一",
+        "info": "フォト・エージェンシー“ホリゾント”に籍を置くカメラマン。戦場の取材経験が豊富で、白州とは対照的に相当厭世的になってしまっている。白州から渡された映像や写真を見るうちに旗の奪還作戦に疑問を抱く様になり、白州の跡を辿り始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/09/38551_crt_k2000.jpg",
+        "link": "https://bgm.tv/character/38551",
+        "categorie": "person"
+      },
+      {
+        "id": "27425",
+        "label": "一柳信",
+        "info": "26歳。日本人。国連軍中尉。シーダックの一員で、ハーヴィックの操縦士。 一見、不真面目で協調性も低いような態度を取るが、戦場では一瞬に豹変、どんな危険な任務も平然とこなす“プロ”となる。 白州とは対照的な性格で、白州の存在も快く思っていなかったが、真摯な彼女の姿を認めていくようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/8b/27425_crt_q1fAs.jpg",
+        "link": "https://bgm.tv/character/27425",
+        "categorie": "person"
+      },
+      {
+        "id": "79178",
+        "label": "クリス・エバーソルト",
+        "info": "29歳。アメリカ人。国連軍大尉で国連PKOに派遣されているシーダックの隊長。ハーヴィックの操縦もこなす。米軍では将来を嘱望されていたエリート士官であったが、なぜかその出世コースを棄て、あえて国連軍の特殊部隊という危険な任務に身を投じる。隊員達にとっては理解力ある“頼れる上官”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/98/79178_crt_WDzwe.jpg",
+        "link": "https://bgm.tv/character/79178",
+        "categorie": "person"
+      },
+      {
+        "id": "79179",
+        "label": "ナディ・オロウカンディ",
+        "info": "UNF士官シーダック隊隊員、少尉。「失敗国家」と呼ばれる国の出身。戦場カメラマンに対してはその無神経さに立腹すると同時に自分達の置かれている現状を世界に発信してくれる目撃者としての役割に期待しており、カメラマンとしての白州にも好意的に接する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/e8/79179_crt_cLhgt.jpg?r=1597141578",
+        "link": "https://bgm.tv/character/79179",
+        "categorie": "person"
+      },
+      {
+        "id": "79180",
+        "label": "ハカン・アクバル",
+        "info": "少尉。かつてPKOとして民族紛争に関わった過去があり、その時に感じた無力感からシーダック隊、ひいては後の強行作戦にも積極的に参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/ea/79180_crt_qhw49.jpg",
+        "link": "https://bgm.tv/character/79180",
+        "categorie": "person"
+      },
+      {
+        "id": "79181",
+        "label": "ラウェル・スーミン",
+        "info": "中尉。情報将校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/6f/79181_crt_3iIO4.jpg",
+        "link": "https://bgm.tv/character/79181",
+        "categorie": "person"
+      },
+      {
+        "id": "79182",
+        "label": "ヤン・ニッカネン",
+        "info": "中尉。ハーヴィック操縦士。ハーヴィックについてはその前身のエグゾスケルトンから開発に携わっており、メカニズムに知悉している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/d3/79182_crt_HEN5Z.jpg",
+        "link": "https://bgm.tv/character/79182",
+        "categorie": "person"
+      },
+      {
+        "id": "79183",
+        "label": "クリスチャン・ベローキ",
+        "info": "中尉。整備主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/a0/79183_crt_Dj79z.jpg",
+        "link": "https://bgm.tv/character/79183",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

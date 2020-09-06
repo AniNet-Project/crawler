@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25117",
+        "label": "黑尾铁朗",
+        "info": "音駒高校3年5組。バレー部主将。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/47/25117_crt_bw1BN.jpg?r=1414391119",
+        "link": "https://bgm.tv/character/25117",
+        "categorie": "person"
+      },
+      {
+        "id": "25128",
+        "label": "孤爪研磨",
+        "info": "音駒の正セッター。ゲームメイカー的存在だが性格は内気。プリン頭が特徴的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/74/25128_crt_REuNU.jpg?r=1414391073",
+        "link": "https://bgm.tv/character/25128",
+        "categorie": "person"
+      },
+      {
+        "id": "35983",
+        "label": "灰羽列夫",
+        "info": "音駒の1年生ミドルブロッカー。190cm越えの長身で、緑の目色が特徴的。ロシア人と日本人のハーフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/f5/35983_crt_CKcC1.jpg?r=1448381430",
+        "link": "https://bgm.tv/character/35983",
+        "categorie": "person"
+      },
+      {
+        "id": "35984",
+        "label": "夜久卫辅",
+        "info": "音駒高校のリベロ。烏野の誇る東峰のスパイクを幾度となく上げ、あの西谷をして゛凄い実力”と言わしめる程の実力者。普段は温厚で、烏野の菅原と同じく、チーム内では大人の調整役的存在である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/54/35984_crt_I71F3.jpg?r=1448380894",
+        "link": "https://bgm.tv/character/35984",
+        "categorie": "person"
+      },
+      {
+        "id": "35985",
+        "label": "木兔光太郎",
+        "info": "梟谷バレーボール部主将にして、全国で5本の指に入るスパイカー。ムラのある性格だが、試合では多彩な攻撃と気迫あふれるプレーを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/90/35985_crt_IjvBJ.jpg?r=1448381352",
+        "link": "https://bgm.tv/character/35985",
+        "categorie": "person"
+      },
+      {
+        "id": "35986",
+        "label": "赤苇京治",
+        "info": "梟谷バレーボール部副主将。冷静沈着な性格で、試合の流れを的確に読む梟谷の司令塔。チーム内では、暴走しがちの木兎のツッコミ役でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/ca/35986_crt_xGhhG.jpg?r=1448381298",
+        "link": "https://bgm.tv/character/35986",
+        "categorie": "person"
+      },
+      {
+        "id": "37021",
+        "label": "山本猛虎",
+        "info": "音駒高校2年1組。背番号4。ポジションはウイングスパイカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/18/37021_crt_VGomk.jpg?r=1448382562",
+        "link": "https://bgm.tv/character/37021",
+        "categorie": "person"
+      },
+      {
+        "id": "37022",
+        "label": "犬冈走",
+        "info": "音駒高校1年1組。背番号7。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ad/37022_crt_yB88D.jpg?r=1448382788",
+        "link": "https://bgm.tv/character/37022",
+        "categorie": "person"
+      },
+      {
+        "id": "37023",
+        "label": "猫又育史",
+        "info": "音駒高校バレー部監督。68歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/8d/37023_crt_s7G4A.jpg",
+        "link": "https://bgm.tv/character/37023",
+        "categorie": "person"
+      },
+      {
+        "id": "39184",
+        "label": "海信行",
+        "info": "音駒高校3年4組。バレー部副主将。背番号2。ポジションはウイングスパイカー。身長176.5cm。体重68.9kg。4月8日生まれ。好物は海ぶどうで、最近の悩みは「些細な気掛かりはありますが、生きていれば何とかなると思っています」",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/0e/39184_crt_yNjdX.jpg?r=1456586928",
+        "link": "https://bgm.tv/character/39184",
+        "categorie": "person"
+      },
+      {
+        "id": "39185",
+        "label": "福永招平",
+        "info": "音駒高校2年2組。背番号6。ポジションはウイングスパイカー。身長178.3cm。体重68.3kg。9月29日生まれ。好物はあたりめで、最近の悩みは「山本が「もっとしゃべれ」っていう」",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/3c/39185_crt_yaVr0.jpg?r=1456587075",
+        "link": "https://bgm.tv/character/39185",
+        "categorie": "person"
+      },
+      {
+        "id": "39186",
+        "label": "芝山优生",
+        "info": "音駒高校1年4組。背番号12。ポジションはリベロ。身長162.5cm。体重53.3kg。12月16日生まれ。好物はオムライスで、最近の悩みは「皆レシーブがうまくて僕は全然かなう気がしないけど、練習を頑張りたいと思います。」",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/43/39186_crt_0RHH9.jpg?r=1456587225",
+        "link": "https://bgm.tv/character/39186",
+        "categorie": "person"
+      },
+      {
+        "id": "39207",
+        "label": "木叶秋纪",
+        "info": "梟谷学園高校3年3組。背番号7。ポジションはウイングスパイカー。身長178.8cm、体重65.9kg。9月30日生まれ。好物は竜田揚げで、最近の悩みは「木兎のバカさが一周回って天才の方なんじゃないかという気がしてきて腹立つ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/89/39207_crt_Z6U9B.jpg?r=1456762634",
+        "link": "https://bgm.tv/character/39207",
+        "categorie": "person"
+      },
+      {
+        "id": "39208",
+        "label": "猿杙大和",
+        "info": "梟谷学園高校3年2組。背番号3。ポジションはウイングスパイカー。身長181.5cm、体重74.2kg。8月2日生まれ。好物は大根おろしで、最近の悩みは「笑っていないのに「笑うな」と言われることがある」",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/9d/39208_crt_h7ccc.jpg?r=1456762801",
+        "link": "https://bgm.tv/character/39208",
+        "categorie": "person"
+      },
+      {
+        "id": "39209",
+        "label": "小见春树",
+        "info": "梟谷学園高校3年2組。背番号11。ポジションはリベロ。身長164.7cm、体重60.5kg。1月23日生まれ。好物はエビフライで、最近の悩みは「昼食の後に昼寝の時間が無いこと」",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/28/39209_crt_460Nt.jpg?r=1456762928",
+        "link": "https://bgm.tv/character/39209",
+        "categorie": "person"
+      },
+      {
+        "id": "39210",
+        "label": "鹫尾辰生",
+        "info": "梟谷学園高校3年5組。背番号2。ポジションはミドルブロッカー。身長187.8cm、体重80.5kg。8月29日生まれ。好物はぶりの照り焼きで、最近の悩みは「初対面の子供に泣かれた」",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ee/39210_crt_xdd88.jpg?r=1456763092",
+        "link": "https://bgm.tv/character/39210",
+        "categorie": "person"
+      },
+      {
+        "id": "71999",
+        "label": "大将优",
+        "info": "戸美学園高校バレー部主将を務める3年生のWS。背番号は1。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/95/71999_crt_2BBrU.jpg?r=1569661305",
+        "link": "https://bgm.tv/character/71999",
+        "categorie": "person"
+      },
+      {
+        "id": "24322",
+        "label": "日向翔阳",
+        "info": "幼いころ見た“小さな巨人”の姿に憧れ、烏野高校の門を叩いた。 類稀な瞬発力、跳躍力、そしてどんな時でも諦めない強い心を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/78/24322_crt_zuFs2.jpg?r=1411356315",
+        "link": "https://bgm.tv/character/24322",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

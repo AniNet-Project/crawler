@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59676",
+        "label": "玛奇亚",
+        "info": "数百年の寿命を持つイオルフの少女。おとなしく見えるが芯は強い。イオルフがメザーテ軍の襲撃を受けた時、そこから偶然逃れ出て、赤ん坊のエリアルを拾う。以後、エリアルの母であろうと心に決めて、エリアルを育てていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/73/59676_crt_c1y44.jpg?r=1541604495",
+        "link": "https://bgm.tv/character/59676",
+        "categorie": "person"
+      },
+      {
+        "id": "59677",
+        "label": "艾瑞尔",
+        "info": "マキアが助けた人間の子供。流れ者の集落が賊に襲われ、エリアルだけが生き延びていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/24/59677_crt_l11x1.jpg?r=1553427324",
+        "link": "https://bgm.tv/character/59677",
+        "categorie": "person"
+      },
+      {
+        "id": "59678",
+        "label": "蕾莉亚",
+        "info": "マキアの友達のイオルフの少女。マキアとは対照的にはつらつとした性格。メザーテ王の命令によりイゾルに捕えられてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b4/59678_crt_KyMYE.jpg?r=1590540511",
+        "link": "https://bgm.tv/character/59678",
+        "categorie": "person"
+      },
+      {
+        "id": "59679",
+        "label": "克里姆",
+        "info": "マキアの友達のイオルフの少年。レイリアと恋心を抱きあっていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/2d/59679_crt_7E722.jpg",
+        "link": "https://bgm.tv/character/59679",
+        "categorie": "person"
+      },
+      {
+        "id": "59680",
+        "label": "拉西奴",
+        "info": "イオルフの長老として種族を束ねている。マキアに「イオルフの外に出たら人を愛してはいけない」と説く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/df/59680_crt_j6oAb.jpg",
+        "link": "https://bgm.tv/character/59680",
+        "categorie": "person"
+      },
+      {
+        "id": "59681",
+        "label": "兰格",
+        "info": "ミドの息子。幼いエリアルの兄貴分として一緒に過ごす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/01/59681_crt_Qn0JH.jpg",
+        "link": "https://bgm.tv/character/59681",
+        "categorie": "person"
+      },
+      {
+        "id": "59682",
+        "label": "米多",
+        "info": "エリアルと出会ったばかりのマキアが迷い込んだ、ヘルム農場の女主人。女手ひとつで、二人の息子を育てている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/d0/59682_crt_RJ43d.jpg",
+        "link": "https://bgm.tv/character/59682",
+        "categorie": "person"
+      },
+      {
+        "id": "59683",
+        "label": "蒂塔",
+        "info": "エリアルたちの幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/57/59683_crt_FcPWA.jpg",
+        "link": "https://bgm.tv/character/59683",
+        "categorie": "person"
+      },
+      {
+        "id": "59684",
+        "label": "梅德梅尔",
+        "info": "メザーテの姫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/e0/59684_crt_LpfXF.jpg",
+        "link": "https://bgm.tv/character/59684",
+        "categorie": "person"
+      },
+      {
+        "id": "59685",
+        "label": "イゾル",
+        "info": "メザーテの軍人。王の命でイオルフに侵攻し、レイリアを連れ去る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/b4/59685_crt_a5Yvr.jpg",
+        "link": "https://bgm.tv/character/59685",
+        "categorie": "person"
+      },
+      {
+        "id": "59686",
+        "label": "バロウ",
+        "info": "仕入れたヒビオルを各地で売るために旅をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/38/59686_crt_iLGX8.jpg",
+        "link": "https://bgm.tv/character/59686",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

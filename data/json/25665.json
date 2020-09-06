@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29390",
+        "label": "四本松浜子",
+        "info": "动画导演，面临不可能完成的Deadline时依然能保持冷静。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/89/29390_crt_Qem6a.jpg",
+        "link": "https://bgm.tv/character/29390",
+        "categorie": "person"
+      },
+      {
+        "id": "71749",
+        "label": "大黑美纪子",
+        "info": "大東京アニメチックアカデミー卒業後、追浜の後釜としていきなり、入社したばかりのスタジオプチの制作デスクを任せられることになった、本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/fb/71749_crt_4osSb.jpg",
+        "link": "https://bgm.tv/character/71749",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

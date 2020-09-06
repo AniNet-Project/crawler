@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22070",
+        "label": "卓比",
+        "info": "经常出现在新海诚作品中的猫。女朋友是咪咪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/af/22070_crt_LcuLb.jpg?r=1384674770",
+        "link": "https://bgm.tv/character/22070",
+        "categorie": "person"
+      },
+      {
+        "id": "22071",
+        "label": "咪咪",
+        "info": "偶尔出现在新海诚作品中的猫咪，卓比的女朋友。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/22071",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

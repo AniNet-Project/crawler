@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6018",
+        "label": "ロラン・セアック",
+        "info": "所属：ムーンレィス（地球に帰化、イングレッサ・ミリシャ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/2a/6018_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6018",
+        "categorie": "person"
+      },
+      {
+        "id": "6021",
+        "label": "ソシエ・ハイム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/e3/6021_crt_8611F.jpg",
+        "link": "https://bgm.tv/character/6021",
+        "categorie": "person"
+      },
+      {
+        "id": "6024",
+        "label": "グエン・サード・ラインフォード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/f8/6024_crt_fPUPa.jpg",
+        "link": "https://bgm.tv/character/6024",
+        "categorie": "person"
+      },
+      {
+        "id": "6023",
+        "label": "ハリー・オード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/4d/6023_crt_GZprc.jpg",
+        "link": "https://bgm.tv/character/6023",
+        "categorie": "person"
+      },
+      {
+        "id": "6026",
+        "label": "シド・ムンザ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/49/6026_crt_lZ7BO.jpg",
+        "link": "https://bgm.tv/character/6026",
+        "categorie": "person"
+      },
+      {
+        "id": "6027",
+        "label": "ヤーニ・オビュス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/3f/6027_crt_PbcVc.jpg",
+        "link": "https://bgm.tv/character/6027",
+        "categorie": "person"
+      },
+      {
+        "id": "6028",
+        "label": "ジョゼフ・ヨット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/45/6028_crt_Errrb.jpg",
+        "link": "https://bgm.tv/character/6028",
+        "categorie": "person"
+      },
+      {
+        "id": "6030",
+        "label": "ブルーノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/6b/6030_crt_2D3fV.jpg",
+        "link": "https://bgm.tv/character/6030",
+        "categorie": "person"
+      },
+      {
+        "id": "6032",
+        "label": "ホレス・ニーベン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6032",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

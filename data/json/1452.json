@@ -1,0 +1,925 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5325",
+        "label": "グイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/b0/5325_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5325",
+        "categorie": "person"
+      },
+      {
+        "id": "5326",
+        "label": "リンダ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/27/5326_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5326",
+        "categorie": "person"
+      },
+      {
+        "id": "5327",
+        "label": "レムス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/93/5327_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5327",
+        "categorie": "person"
+      },
+      {
+        "id": "5336",
+        "label": "イシュトヴァーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/2f/5336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5336",
+        "categorie": "person"
+      },
+      {
+        "id": "5328",
+        "label": "アルドロス三世",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/de/5328_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5328",
+        "categorie": "person"
+      },
+      {
+        "id": "5329",
+        "label": "ターニア王妃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/00/5329_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5329",
+        "categorie": "person"
+      },
+      {
+        "id": "5330",
+        "label": "リヤ大臣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/c4/5330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5330",
+        "categorie": "person"
+      },
+      {
+        "id": "5331",
+        "label": "ナリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/da/5331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5331",
+        "categorie": "person"
+      },
+      {
+        "id": "5332",
+        "label": "ロカンドラス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/70/5332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5332",
+        "categorie": "person"
+      },
+      {
+        "id": "5334",
+        "label": "オロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/ee/5334_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5334",
+        "categorie": "person"
+      },
+      {
+        "id": "5335",
+        "label": "ネム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/16/5335_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5335",
+        "categorie": "person"
+      },
+      {
+        "id": "5337",
+        "label": "スニ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/73/5337_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5337",
+        "categorie": "person"
+      },
+      {
+        "id": "5338",
+        "label": "アムネリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/ec/5338_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5338",
+        "categorie": "person"
+      },
+      {
+        "id": "5339",
+        "label": "ヴラド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/a6/5339_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5339",
+        "categorie": "person"
+      },
+      {
+        "id": "5340",
+        "label": "シド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/69/5340_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5340",
+        "categorie": "person"
+      },
+      {
+        "id": "5341",
+        "label": "ローザン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/55/5341_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5341",
+        "categorie": "person"
+      },
+      {
+        "id": "5342",
+        "label": "リカード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/71/5342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5342",
+        "categorie": "person"
+      },
+      {
+        "id": "5343",
+        "label": "ヴロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/d2/5343_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5343",
+        "categorie": "person"
+      },
+      {
+        "id": "5344",
+        "label": "リーガン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f9/5344_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5344",
+        "categorie": "person"
+      },
+      {
+        "id": "5345",
+        "label": "ルナン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/76/5345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5345",
+        "categorie": "person"
+      },
+      {
+        "id": "5346",
+        "label": "マルス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/fa/5346_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5346",
+        "categorie": "person"
+      },
+      {
+        "id": "5347",
+        "label": "アストリアス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/e9/5347_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5347",
+        "categorie": "person"
+      },
+      {
+        "id": "5348",
+        "label": "ロトー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/2e/5348_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5348",
+        "categorie": "person"
+      },
+      {
+        "id": "5349",
+        "label": "シバ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/46/5349_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5349",
+        "categorie": "person"
+      },
+      {
+        "id": "5350",
+        "label": "イルム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/0a/5350_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5350",
+        "categorie": "person"
+      },
+      {
+        "id": "5351",
+        "label": "カルモル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/c2/5351_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5351",
+        "categorie": "person"
+      },
+      {
+        "id": "5352",
+        "label": "ポラッケ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/61/5352_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5352",
+        "categorie": "person"
+      },
+      {
+        "id": "5353",
+        "label": "フェルドリック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/0d/5353_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5353",
+        "categorie": "person"
+      },
+      {
+        "id": "5354",
+        "label": "タンガード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/67/5354_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5354",
+        "categorie": "person"
+      },
+      {
+        "id": "5355",
+        "label": "ガランス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/fe/5355_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5355",
+        "categorie": "person"
+      },
+      {
+        "id": "5356",
+        "label": "ガユス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c0/5356_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5356",
+        "categorie": "person"
+      },
+      {
+        "id": "5837",
+        "label": "ヴァーノン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/e3/5837_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5837",
+        "categorie": "person"
+      },
+      {
+        "id": "8954",
+        "label": "ユナス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/e9/8954_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8954",
+        "categorie": "person"
+      },
+      {
+        "id": "8955",
+        "label": "ゴダロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/82/8955_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8955",
+        "categorie": "person"
+      },
+      {
+        "id": "8956",
+        "label": "アナク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/03/8956_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8956",
+        "categorie": "person"
+      },
+      {
+        "id": "8957",
+        "label": "ドラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/a8/8957_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8957",
+        "categorie": "person"
+      },
+      {
+        "id": "8958",
+        "label": "ネス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/3b/8958_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8958",
+        "categorie": "person"
+      },
+      {
+        "id": "8960",
+        "label": "ガル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/db/8960_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8960",
+        "categorie": "person"
+      },
+      {
+        "id": "8961",
+        "label": "リーナス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/23/8961_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8961",
+        "categorie": "person"
+      },
+      {
+        "id": "8962",
+        "label": "ヤーナ・デビ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/3d/8962_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8962",
+        "categorie": "person"
+      },
+      {
+        "id": "8963",
+        "label": "ディラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/8f/8963_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8963",
+        "categorie": "person"
+      },
+      {
+        "id": "8966",
+        "label": "鍵番",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/9c/8966_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8966",
+        "categorie": "person"
+      },
+      {
+        "id": "8967",
+        "label": "パロの宮廷医師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a5/8967_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8967",
+        "categorie": "person"
+      },
+      {
+        "id": "8968",
+        "label": "アルミナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/40/8968_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8968",
+        "categorie": "person"
+      },
+      {
+        "id": "8969",
+        "label": "フレイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/0d/8969_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8969",
+        "categorie": "person"
+      },
+      {
+        "id": "8970",
+        "label": "ボルゴ・ヴァレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/8a/8970_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8970",
+        "categorie": "person"
+      },
+      {
+        "id": "8971",
+        "label": "ミリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/83/8971_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8971",
+        "categorie": "person"
+      },
+      {
+        "id": "8972",
+        "label": "ルグルス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/b5/8972_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8972",
+        "categorie": "person"
+      },
+      {
+        "id": "8973",
+        "label": "イェン・ファン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/99/8973_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8973",
+        "categorie": "person"
+      },
+      {
+        "id": "8974",
+        "label": "カノース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/ca/8974_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8974",
+        "categorie": "person"
+      },
+      {
+        "id": "8975",
+        "label": "ラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/69/8975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8975",
+        "categorie": "person"
+      },
+      {
+        "id": "8976",
+        "label": "タンゲリヌス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/44/8976_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8976",
+        "categorie": "person"
+      },
+      {
+        "id": "8978",
+        "label": "ビウィス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/bf/8978_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8978",
+        "categorie": "person"
+      },
+      {
+        "id": "8979",
+        "label": "モーリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7b/8979_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8979",
+        "categorie": "person"
+      },
+      {
+        "id": "8980",
+        "label": "ブルク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/f1/8980_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8980",
+        "categorie": "person"
+      },
+      {
+        "id": "8959",
+        "label": "ゴル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/1a/8959_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8959",
+        "categorie": "person"
+      },
+      {
+        "id": "8964",
+        "label": "ダルカン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/4c/8964_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8964",
+        "categorie": "person"
+      },
+      {
+        "id": "8965",
+        "label": "ダーヴァルス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/ab/8965_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8965",
+        "categorie": "person"
+      },
+      {
+        "id": "8977",
+        "label": "ヌヌス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/b8/8977_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8977",
+        "categorie": "person"
+      },
+      {
+        "id": "6618",
+        "label": "エク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/3f/6618_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6618",
+        "categorie": "person"
+      },
+      {
+        "id": "6619",
+        "label": "ラナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c4/6619_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6619",
+        "categorie": "person"
+      },
+      {
+        "id": "6620",
+        "label": "ドードー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/52/6620_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6620",
+        "categorie": "person"
+      },
+      {
+        "id": "6621",
+        "label": "ミアイル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/df/6621_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6621",
+        "categorie": "person"
+      },
+      {
+        "id": "6622",
+        "label": "フロリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/05/6622_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6622",
+        "categorie": "person"
+      },
+      {
+        "id": "6623",
+        "label": "ルシア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/f4/6623_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6623",
+        "categorie": "person"
+      },
+      {
+        "id": "6624",
+        "label": "エマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/18/6624_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6624",
+        "categorie": "person"
+      },
+      {
+        "id": "6625",
+        "label": "ベック公",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/b7/6625_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6625",
+        "categorie": "person"
+      },
+      {
+        "id": "6626",
+        "label": "スカール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/83/6626_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6626",
+        "categorie": "person"
+      },
+      {
+        "id": "6627",
+        "label": "サラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/24/6627_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6627",
+        "categorie": "person"
+      },
+      {
+        "id": "6628",
+        "label": "カースロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/33/6628_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6628",
+        "categorie": "person"
+      },
+      {
+        "id": "6629",
+        "label": "マリウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/8e/6629_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6629",
+        "categorie": "person"
+      },
+      {
+        "id": "6630",
+        "label": "タイラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/e1/6630_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6630",
+        "categorie": "person"
+      },
+      {
+        "id": "6631",
+        "label": "リー・ファ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/4f/6631_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6631",
+        "categorie": "person"
+      },
+      {
+        "id": "6632",
+        "label": "グル・シン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/e6/6632_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6632",
+        "categorie": "person"
+      },
+      {
+        "id": "6633",
+        "label": "ロルカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/93/6633_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6633",
+        "categorie": "person"
+      },
+      {
+        "id": "6634",
+        "label": "ヤルー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/63/6634_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6634",
+        "categorie": "person"
+      },
+      {
+        "id": "6635",
+        "label": "ラノス船長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/94/6635_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6635",
+        "categorie": "person"
+      },
+      {
+        "id": "6636",
+        "label": "イザイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b3/6636_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6636",
+        "categorie": "person"
+      },
+      {
+        "id": "6637",
+        "label": "テルシデス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/5d/6637_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6637",
+        "categorie": "person"
+      },
+      {
+        "id": "6638",
+        "label": "シモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/90/6638_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6638",
+        "categorie": "person"
+      },
+      {
+        "id": "6639",
+        "label": "ヴァレリウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/d3/6639_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6639",
+        "categorie": "person"
+      },
+      {
+        "id": "6640",
+        "label": "スタック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/a4/6640_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6640",
+        "categorie": "person"
+      },
+      {
+        "id": "6642",
+        "label": "リギア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/e1/6642_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6642",
+        "categorie": "person"
+      },
+      {
+        "id": "6653",
+        "label": "賢者カー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/e3/6653_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6653",
+        "categorie": "person"
+      },
+      {
+        "id": "6669",
+        "label": "船頭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/37/6669_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6669",
+        "categorie": "person"
+      },
+      {
+        "id": "6671",
+        "label": "式典係",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/e8/6671_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6671",
+        "categorie": "person"
+      },
+      {
+        "id": "7720",
+        "label": "ルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/c4/7720_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7720",
+        "categorie": "person"
+      },
+      {
+        "id": "7762",
+        "label": "カロイ族長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/70/7762_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7762",
+        "categorie": "person"
+      },
+      {
+        "id": "7763",
+        "label": "ツバイ族長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ad/7763_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7763",
+        "categorie": "person"
+      },
+      {
+        "id": "9225",
+        "label": "メンティウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a6/9225_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9225",
+        "categorie": "person"
+      },
+      {
+        "id": "9228",
+        "label": "レンツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/38/9228_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9228",
+        "categorie": "person"
+      },
+      {
+        "id": "9229",
+        "label": "ボーラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/16/9229_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9229",
+        "categorie": "person"
+      },
+      {
+        "id": "9230",
+        "label": "ダラス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/79/9230_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9230",
+        "categorie": "person"
+      },
+      {
+        "id": "9236",
+        "label": "アグラーヤ兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/76/9236_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9236",
+        "categorie": "person"
+      },
+      {
+        "id": "9237",
+        "label": "アンダヌス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/e3/9237_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9237",
+        "categorie": "person"
+      },
+      {
+        "id": "9238",
+        "label": "ダゴン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/17/9238_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9238",
+        "categorie": "person"
+      },
+      {
+        "id": "9239",
+        "label": "ネロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/a3/9239_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9239",
+        "categorie": "person"
+      },
+      {
+        "id": "9240",
+        "label": "カウロス軍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/a6/9240_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9240",
+        "categorie": "person"
+      },
+      {
+        "id": "9241",
+        "label": "ナリスの部下",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/f6/9241_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9241",
+        "categorie": "person"
+      },
+      {
+        "id": "5333",
+        "label": "モンゴール兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a8/5333_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5333",
+        "categorie": "person"
+      },
+      {
+        "id": "6641",
+        "label": "アルゴス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/f5/6641_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6641",
+        "categorie": "person"
+      },
+      {
+        "id": "6652",
+        "label": "狼王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/ab/6652_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6652",
+        "categorie": "person"
+      },
+      {
+        "id": "6670",
+        "label": "スカールの部隊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/ac/6670_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6670",
+        "categorie": "person"
+      },
+      {
+        "id": "7714",
+        "label": "ゴーラ王国",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7714",
+        "categorie": "person"
+      },
+      {
+        "id": "7716",
+        "label": "パロ兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/27/7716_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7716",
+        "categorie": "person"
+      },
+      {
+        "id": "7717",
+        "label": "パロス王国",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7717",
+        "categorie": "person"
+      },
+      {
+        "id": "8981",
+        "label": "聖騎士馬隊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/64/8981_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8981",
+        "categorie": "person"
+      },
+      {
+        "id": "9226",
+        "label": "サイデン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/7c/9226_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9226",
+        "categorie": "person"
+      },
+      {
+        "id": "9227",
+        "label": "アルヴィウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/b0/9227_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9227",
+        "categorie": "person"
+      },
+      {
+        "id": "9231",
+        "label": "カメロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/2b/9231_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9231",
+        "categorie": "person"
+      },
+      {
+        "id": "9232",
+        "label": "タリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/51/9232_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9232",
+        "categorie": "person"
+      },
+      {
+        "id": "9233",
+        "label": "タル・サン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/05/9233_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9233",
+        "categorie": "person"
+      },
+      {
+        "id": "9234",
+        "label": "タリク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/d9/9234_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9234",
+        "categorie": "person"
+      },
+      {
+        "id": "9235",
+        "label": "ギース祭司長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/f2/9235_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9235",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

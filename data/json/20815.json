@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29372",
+        "label": "叶月",
+        "info": "被八岁时的叶月捡回家，之前曾经被扔弃两次，亦被小太郎家人扔弃了三次，但每次都被小太郎捡回来，后为小太郎的管家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/68/29372_crt_2eDJ9.jpg?r=1449770102",
+        "link": "https://bgm.tv/character/29372",
+        "categorie": "person"
+      },
+      {
+        "id": "29373",
+        "label": "和泉小太郎",
+        "info": "名门．和泉家的第十六代当主，亦是第一话的主角。虽然身为当主，但是性格懒惰。在八岁的时候捡到了叶月。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/fa/29373_crt_2IA2P.jpg",
+        "link": "https://bgm.tv/character/29373",
+        "categorie": "person"
+      },
+      {
+        "id": "30021",
+        "label": "柚子",
+        "info": "其中一个Hybrid Child，渴望自己能够成长，介意主人濑谷壹对自己的感觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/f7/30021_crt_TQQQu.jpg",
+        "link": "https://bgm.tv/character/30021",
+        "categorie": "person"
+      },
+      {
+        "id": "30022",
+        "label": "濑谷壹",
+        "info": "柚子的主人，也是濑谷家的家主。喜欢平静、珍惜和柚子一起相处的时间，亦是黑田的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/78/30022_crt_8ukUL.jpg",
+        "link": "https://bgm.tv/character/30022",
+        "categorie": "person"
+      },
+      {
+        "id": "30023",
+        "label": "月岛",
+        "info": "黑田和濑谷的童年好友，他们均是同龄，二人都为藩的家主努力工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/ef/30023_crt_yMSY6.jpg",
+        "link": "https://bgm.tv/character/30023",
+        "categorie": "person"
+      },
+      {
+        "id": "30024",
+        "label": "黑田",
+        "info": "最初Hybrid Child的制作者，在屋子里进行各种各样的研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/ff/30024_crt_lsPz9.jpg",
+        "link": "https://bgm.tv/character/30024",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

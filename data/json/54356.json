@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9591",
+        "label": "艾尔莎·史卡雷特",
+        "info": "「妖精の尻尾」の中でも数少ない、S級の仕事を請け負うことのできるS級魔導士。「妖精女王（ティターニア）」の異名を持つ。19歳で、左腕に青い紋章がある。好きなものは武具・鎧、嫌いなものは悪。好きな食べ物はチーズケーキとスフレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/14/9591_crt_x1X3k.jpg",
+        "link": "https://bgm.tv/character/9591",
+        "categorie": "person"
+      },
+      {
+        "id": "9592",
+        "label": "格雷·佛尔帕斯塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/03/9592_crt_QZRzc.jpg",
+        "link": "https://bgm.tv/character/9592",
+        "categorie": "person"
+      },
+      {
+        "id": "11589",
+        "label": "纳兹·多拉格尼尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a4/11589_crt_4XdeV.jpg",
+        "link": "https://bgm.tv/character/11589",
+        "categorie": "person"
+      },
+      {
+        "id": "11604",
+        "label": "露西·哈特菲利亚",
+        "info": "《妖精的尾巴》中的女主角。是魔导师公会妖精尾巴的星灵魔导士。擅长吐槽，性格活泼开朗、非常重视伙伴和公会成员关系，在与同伴的冒险中成为一名十分优秀的星灵魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/71/11604_crt_018Zm.jpg?r=1493876788",
+        "link": "https://bgm.tv/character/11604",
+        "categorie": "person"
+      },
+      {
+        "id": "9325",
+        "label": "哈比",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4f/9325_crt_1zX1v.jpg",
+        "link": "https://bgm.tv/character/9325",
+        "categorie": "person"
+      },
+      {
+        "id": "10368",
+        "label": "蕾比·马库扎特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/2b/10368_crt_V2vZ0.jpg",
+        "link": "https://bgm.tv/character/10368",
+        "categorie": "person"
+      },
+      {
+        "id": "13621",
+        "label": "温蒂·玛贝尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/49/13621_crt_fQVvm.jpg",
+        "link": "https://bgm.tv/character/13621",
+        "categorie": "person"
+      },
+      {
+        "id": "13623",
+        "label": "戈吉尔·雷德福克斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/f7/13623_crt_008jq.jpg",
+        "link": "https://bgm.tv/character/13623",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

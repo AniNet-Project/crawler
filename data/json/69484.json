@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "357",
+        "label": "直枝理树",
+        "info": "CV：民安ともえ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c2/357_crt_4H84e.jpg?r=1547698119",
+        "link": "https://bgm.tv/character/357",
+        "categorie": "person"
+      },
+      {
+        "id": "359",
+        "label": "枣铃",
+        "info": "恭介的妹妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/db/359_crt_dey3X.jpg?r=1382267378",
+        "link": "https://bgm.tv/character/359",
+        "categorie": "person"
+      },
+      {
+        "id": "364",
+        "label": "枣恭介",
+        "info": "CV：氷河流",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/19/364_crt_sTXyb.jpg",
+        "link": "https://bgm.tv/character/364",
+        "categorie": "person"
+      },
+      {
+        "id": "365",
+        "label": "井之原真人",
+        "info": "CV：水無月了",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/f0/365_crt_0Fp2y.jpg",
+        "link": "https://bgm.tv/character/365",
+        "categorie": "person"
+      },
+      {
+        "id": "366",
+        "label": "宫泽谦吾",
+        "info": "CV：長月優",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/6a/366_crt_e22pK.jpg",
+        "link": "https://bgm.tv/character/366",
+        "categorie": "person"
+      },
+      {
+        "id": "362",
+        "label": "来谷唯湖",
+        "info": "CV：一色ヒカル",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/e6/362_crt_BUXKJ.jpg",
+        "link": "https://bgm.tv/character/362",
+        "categorie": "person"
+      },
+      {
+        "id": "54492",
+        "label": "杉并睦实",
+        "info": "喜欢理树",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/a3/54492_crt_ZoMom.jpg",
+        "link": "https://bgm.tv/character/54492",
+        "categorie": "person"
+      },
+      {
+        "id": "358",
+        "label": "神北小毬",
+        "info": "CV：まきいづみ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ef/358_crt_375d8.jpg",
+        "link": "https://bgm.tv/character/358",
+        "categorie": "person"
+      },
+      {
+        "id": "360",
+        "label": "三枝叶留佳",
+        "info": "CV：涼森ちさと",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/82/360_crt_4glWd.jpg",
+        "link": "https://bgm.tv/character/360",
+        "categorie": "person"
+      },
+      {
+        "id": "361",
+        "label": "能美·库特莉亚芙卡",
+        "info": "CV：鈴田美夜子",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/ea/361_crt_u3kci.jpg",
+        "link": "https://bgm.tv/character/361",
+        "categorie": "person"
+      },
+      {
+        "id": "363",
+        "label": "西园美鱼",
+        "info": "CV：柚木かなめ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/3f/363_crt_vwwLR.jpg",
+        "link": "https://bgm.tv/character/363",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

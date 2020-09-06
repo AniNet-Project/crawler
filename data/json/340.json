@@ -1,0 +1,781 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "156",
+        "label": "银古",
+        "info": "故事的主角，是一位虫师。因为有招来虫的体质，不能久留在一个地方而四处游历。经常抽的烟是有驱虫作用的虫烟草。小时候叫做阿善（YOKI），因为虫（银蛊）的关系失去记忆和左眼，剩下的右眼变成绿色，头发则变成白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/91/156_crt_SWfqY.jpg?r=1444714628",
+        "link": "https://bgm.tv/character/156",
+        "categorie": "person"
+      },
+      {
+        "id": "157",
+        "label": "奴伊",
+        "info": "银古小时候遇难后收留他的女虫师，教会他关于虫的基本知识。因为虫（银蛊）的光而白化，失去右眼，左眼变成绿色，头发变成白色，最终变成“常暗”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/4b/157_crt_KIkox.jpg",
+        "link": "https://bgm.tv/character/157",
+        "categorie": "person"
+      },
+      {
+        "id": "158",
+        "label": "化野",
+        "info": "银古的朋友，是位医生。喜欢收集关于虫以及各种稀奇古怪的东西，因此为银古提供了不少旅费。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/fd/158_crt_A94St.jpg",
+        "link": "https://bgm.tv/character/158",
+        "categorie": "person"
+      },
+      {
+        "id": "3150",
+        "label": "廉子",
+        "info": "于虫师第一话登场，以半人半虫的姿态和拥有神之左手的少年五百藏森罗住在深山中，虽然少年察觉不到她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/ee/3150_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3150",
+        "categorie": "person"
+      },
+      {
+        "id": "5274",
+        "label": "五百藏森罗",
+        "info": "于虫师第一话登场，拥有神之左手的少年，与奶奶居住在深山中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/ab/5274_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5274",
+        "categorie": "person"
+      },
+      {
+        "id": "5284",
+        "label": "翠",
+        "info": "于虫师第二话登场，因为虫的原因而得了奇怪眼病的少女，独自住在一个不见光的仓库中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/28/5284_crt_im3mr.jpg",
+        "link": "https://bgm.tv/character/5284",
+        "categorie": "person"
+      },
+      {
+        "id": "5285",
+        "label": "齐",
+        "info": "于虫师第二话登场，负责照顾住在仓库中的翠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/1d/5285_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5285",
+        "categorie": "person"
+      },
+      {
+        "id": "5309",
+        "label": "真火",
+        "info": "于虫师第三话登场，因为虫的原因耳朵能听见别人听不见的噪音，头上长出角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/ac/5309_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5309",
+        "categorie": "person"
+      },
+      {
+        "id": "5310",
+        "label": "白泽",
+        "info": "于虫师第三话登场，真火的外婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/53/5310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5310",
+        "categorie": "person"
+      },
+      {
+        "id": "5314",
+        "label": "金",
+        "info": "于虫师第四话登场，似乎能做预知梦，但事实上是……",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/ed/5314_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5314",
+        "categorie": "person"
+      },
+      {
+        "id": "5316",
+        "label": "庵",
+        "info": "于虫师第五话登场，银古在山中的沼泽遇到的绿发少女，根据她的说法，似乎在和沼泽一起在旅行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/a5/5316_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5316",
+        "categorie": "person"
+      },
+      {
+        "id": "5319",
+        "label": "阿古屋",
+        "info": "于虫师第六话登场，岛主的女儿，被岛民当成活神仙。与ナギ关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/ed/5319_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5319",
+        "categorie": "person"
+      },
+      {
+        "id": "5320",
+        "label": "奈岐",
+        "info": "于虫师第六话登场，将银古带到岛上的少年，与あこや关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/2a/5320_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5320",
+        "categorie": "person"
+      },
+      {
+        "id": "5321",
+        "label": "虹郎",
+        "info": "于虫师第七话登场，因痴迷彩虹的父亲而离家出走四处旅行寻找父亲所说的彩虹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/a5/5321_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5321",
+        "categorie": "person"
+      },
+      {
+        "id": "5363",
+        "label": "四郎",
+        "info": "于虫师第八话登场，与妻子在海中失散后，在海边等了两年半，之后在海边的村庄生活下去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/bc/5363_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5363",
+        "categorie": "person"
+      },
+      {
+        "id": "5365",
+        "label": "ナミ",
+        "info": "于虫师第八话登场，四郎在海边的村庄重新娶的妻子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/05/5365_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5365",
+        "categorie": "person"
+      },
+      {
+        "id": "5366",
+        "label": "実",
+        "info": "于虫师第八话登场，村里的下一任祭主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/79/5366_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5366",
+        "categorie": "person"
+      },
+      {
+        "id": "5367",
+        "label": "祭主",
+        "info": "于虫师第九话登场，负责村里一切祭奠活动的祭师，知道关于“破落之实”的事情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/a3/5367_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5367",
+        "categorie": "person"
+      },
+      {
+        "id": "5399",
+        "label": "錾",
+        "info": "虫师第十话登场，女制砚师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/04/5399_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5399",
+        "categorie": "person"
+      },
+      {
+        "id": "5402",
+        "label": "小玉",
+        "info": "于虫师第11话登场，无直大师的弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/35/5402_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5402",
+        "categorie": "person"
+      },
+      {
+        "id": "5403",
+        "label": "无直",
+        "info": "于虫师第11话登场，原本是一个四处流浪的虫师，为了在某处定居下去而成为山神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/14/5403_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5403",
+        "categorie": "person"
+      },
+      {
+        "id": "5417",
+        "label": "喜助",
+        "info": "于虫师第14话登场，因为不知名的原因无法走出竹林的男子，后来在竹林里定居下来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/b7/5417_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5417",
+        "categorie": "person"
+      },
+      {
+        "id": "5418",
+        "label": "节",
+        "info": "于虫师第14话登场，刚出生时是竹笋的形态，住在竹林里，后来和喜助结婚并有一女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/3e/5418_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5418",
+        "categorie": "person"
+      },
+      {
+        "id": "5428",
+        "label": "铃",
+        "info": "于虫师第15话登场，末春的姐姐，似乎对银古有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/9c/5428_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5428",
+        "categorie": "person"
+      },
+      {
+        "id": "5429",
+        "label": "加持",
+        "info": "于虫师第16话登场，在小船上听了银古关于健忘的话之后将银古请到家里看看妈妈的情况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/b0/5429_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5429",
+        "categorie": "person"
+      },
+      {
+        "id": "5430",
+        "label": "小夜",
+        "info": "于虫师第16话登场，加持的母亲，因为虫的原因一直在丧失记忆，因此显得有点健忘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/06/5430_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5430",
+        "categorie": "person"
+      },
+      {
+        "id": "5431",
+        "label": "绪",
+        "info": "于虫师第17话登场，本来是负责养护虫师的通信工具“虚”的人，因为某些原因而消失在“密室”中，有一个双胞胎妹妹绮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/82/5431_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5431",
+        "categorie": "person"
+      },
+      {
+        "id": "5432",
+        "label": "山里的爷爷",
+        "info": "于虫师第17话登场，兔泽绮&兔泽绪的爷爷，负责养护虫师的通信工具“虚”的家族——兔泽家中少数能看到“虚”的人，因此负责养护“虚”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/92/5432_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5432",
+        "categorie": "person"
+      },
+      {
+        "id": "5436",
+        "label": "绮",
+        "info": "于虫师第17话登场，负责养护虫师的通信工具“虚”的人，有一个双胞胎姐姐绪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/8c/5436_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5436",
+        "categorie": "person"
+      },
+      {
+        "id": "5454",
+        "label": "块",
+        "info": "于虫师第18话登场，出身于山村的天才画师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/70/5454_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5454",
+        "categorie": "person"
+      },
+      {
+        "id": "5461",
+        "label": "吹",
+        "info": "于虫师第19话登场，被雇来照顾清志朗的妹妹，最后和清志朗在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/00/5461_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5461",
+        "categorie": "person"
+      },
+      {
+        "id": "5462",
+        "label": "清志朗",
+        "info": "于虫师第19话登场，似乎是大户人家的少爷，喜欢观测星星，对吹强烈的情感使她恢复原样，最后和吹在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/3c/5462_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5462",
+        "categorie": "person"
+      },
+      {
+        "id": "5472",
+        "label": "狩房淡幽",
+        "info": "狩房家の娘であり4代目筆記者。筆記者とは、全ての生命に死をもたらす強力な「禁種の蟲」を体内に封じている者のことであり、狩房家に数世代に1人生まれる。蟲を屠った話を書物に書き記すことで代々少しずつ「禁種の蟲」を封じる力を持ち、その役目に一生を費やす。筆記者は、その証として身体の一部に墨色の痣を生まれ持つ（淡幽は右足）。痣のある部位は自由に動かすことが出来ない上、筆記の際に痣から生じる痛みに耐えなければならないが、筆記によって蟲を封じることでわずかずつではあるが痣は減ってゆく。蟲師達が蟲をただ屠る事に疑問を感じていた中、ギンコに出会い「蟲が人や動植物と共存する理想の世界」を考え始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/c2/5472_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5472",
+        "categorie": "person"
+      },
+      {
+        "id": "5474",
+        "label": "玉",
+        "info": "于虫师第20话登场，原本是一个虫师，现负责照顾淡幽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ea/5474_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5474",
+        "categorie": "person"
+      },
+      {
+        "id": "5481",
+        "label": "亚纪",
+        "info": "于虫师第21话登场，因为被一种叫做“绵吐”的虫附身而生出奇怪的物体，但却依然把“它”当做自己的孩子来抚养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/f2/5481_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5481",
+        "categorie": "person"
+      },
+      {
+        "id": "5482",
+        "label": "ヤスケ",
+        "info": "于虫师第21话登场，あき的丈夫，一年前妻子生出绿色的不明物体，一年后在地板下捡到ワタヒコ，虽然觉得有问题却依然继续抚养他。银古到来之后告诉他ワタヒコ不是人类而是一种叫做“绵吐”的虫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/f6/5482_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5482",
+        "categorie": "person"
+      },
+      {
+        "id": "5485",
+        "label": "澪",
+        "info": "于虫师第22话登场，根据岛上“重生”的做法，生下了一位跟自己母亲长得十分相似的女儿。但她认为女儿就是女儿而不是母亲的重生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b4/5485_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5485",
+        "categorie": "person"
+      },
+      {
+        "id": "5486",
+        "label": "鲸",
+        "info": "于虫师第22话登场，澪根据“重生”做法生下的女儿，因此被认为是其外婆的重生",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/5f/5486_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5486",
+        "categorie": "person"
+      },
+      {
+        "id": "5489",
+        "label": "茂",
+        "info": "于虫师第23话登场，声音能引来“野锈”。最后和铁一起在海边生活下去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/02/5489_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5489",
+        "categorie": "person"
+      },
+      {
+        "id": "5490",
+        "label": "铁",
+        "info": "于虫师第23话登场，原本住在海边，因为海啸故乡受创于是到山上的村子来工作，对茂有好感，最后和茂在海边生活下去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/00/5490_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5490",
+        "categorie": "person"
+      },
+      {
+        "id": "5493",
+        "label": "野萩",
+        "info": "于虫师第24话登场，是一个虫师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/34/5493_crt_lgGZ1.jpg",
+        "link": "https://bgm.tv/character/5493",
+        "categorie": "person"
+      },
+      {
+        "id": "5496",
+        "label": "周",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/76/5496_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5496",
+        "categorie": "person"
+      },
+      {
+        "id": "5528",
+        "label": "泽",
+        "info": "于虫师第26话登场，山主的儿子，与素鱼相识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/8c/5528_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5528",
+        "categorie": "person"
+      },
+      {
+        "id": "5529",
+        "label": "素鱼",
+        "info": "于虫师第26话登场，随着一群无血缘关系的人一起旅行，行进路线似乎与光脉流有关，与泽相识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/05/5529_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5529",
+        "categorie": "person"
+      },
+      {
+        "id": "23417",
+        "label": "花",
+        "info": "于虫师第13话登场，三年前从藤桥上掉下去，虽然没有死但却仿佛行尸走肉一般。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/70/23417_crt_nKuhF.jpg",
+        "link": "https://bgm.tv/character/23417",
+        "categorie": "person"
+      },
+      {
+        "id": "5427",
+        "label": "末春",
+        "info": "于虫师第15话登场，三年前的冬天进山后便不知所踪，第二年的春天却平安无事地回来，从此变得能看见虫。之后每当冬天粮荒时，就会失踪，然后带来冬天没有的野菜，一直昏睡到立春。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/e8/5427_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5427",
+        "categorie": "person"
+      },
+      {
+        "id": "5409",
+        "label": "全",
+        "info": "于虫师第13话登场，本想和花一起逃出村子，因花的事故而放弃。最后从一夜桥上掉下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/7a/5409_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5409",
+        "categorie": "person"
+      },
+      {
+        "id": "5286",
+        "label": "ビキの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/23/5286_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5286",
+        "categorie": "person"
+      },
+      {
+        "id": "5311",
+        "label": "真火母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/3b/5311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5311",
+        "categorie": "person"
+      },
+      {
+        "id": "5312",
+        "label": "鹃",
+        "info": "于虫师第四话登场，金的妻子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/0f/5312_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5312",
+        "categorie": "person"
+      },
+      {
+        "id": "5313",
+        "label": "眉",
+        "info": "于虫师第四话登场，金的女儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/d0/5313_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5313",
+        "categorie": "person"
+      },
+      {
+        "id": "5317",
+        "label": "庵之母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/5b/5317_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5317",
+        "categorie": "person"
+      },
+      {
+        "id": "5318",
+        "label": "あこやの父",
+        "info": "于虫师第六话登场，ナギ所住的岛的岛主，あこや的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/0a/5318_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5318",
+        "categorie": "person"
+      },
+      {
+        "id": "5322",
+        "label": "虹郎の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a8/5322_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5322",
+        "categorie": "person"
+      },
+      {
+        "id": "5323",
+        "label": "虹郎の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/90/5323_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5323",
+        "categorie": "person"
+      },
+      {
+        "id": "5364",
+        "label": "美智妃",
+        "info": "于虫师第八话登场，四郎的原配，与四郎在海中失散。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/cd/5364_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5364",
+        "categorie": "person"
+      },
+      {
+        "id": "5368",
+        "label": "祭主の妻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/61/5368_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5368",
+        "categorie": "person"
+      },
+      {
+        "id": "5397",
+        "label": "錾的未婚夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/da/5397_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5397",
+        "categorie": "person"
+      },
+      {
+        "id": "5401",
+        "label": "朔的哥哥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/b6/5401_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5401",
+        "categorie": "person"
+      },
+      {
+        "id": "5404",
+        "label": "朔",
+        "info": "于虫师第11话登场，无直的妻子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/09/5404_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5404",
+        "categorie": "person"
+      },
+      {
+        "id": "5406",
+        "label": "ヨキの母",
+        "info": "于虫师第12话登场，银古的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/38/5406_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5406",
+        "categorie": "person"
+      },
+      {
+        "id": "5411",
+        "label": "花的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/c7/5411_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5411",
+        "categorie": "person"
+      },
+      {
+        "id": "5419",
+        "label": "喜助之女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/31/5419_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5419",
+        "categorie": "person"
+      },
+      {
+        "id": "5420",
+        "label": "喜助之妹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fc/5420_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5420",
+        "categorie": "person"
+      },
+      {
+        "id": "5434",
+        "label": "綺の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/fc/5434_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5434",
+        "categorie": "person"
+      },
+      {
+        "id": "5435",
+        "label": "本家的爷爷",
+        "info": "于虫师第17话登场，兔泽本家的爷爷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/ba/5435_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5435",
+        "categorie": "person"
+      },
+      {
+        "id": "5455",
+        "label": "塊の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/35/5455_crt_f110x.jpg",
+        "link": "https://bgm.tv/character/5455",
+        "categorie": "person"
+      },
+      {
+        "id": "5456",
+        "label": "塊の姉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/9b/5456_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5456",
+        "categorie": "person"
+      },
+      {
+        "id": "5457",
+        "label": "塊の祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/8b/5457_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5457",
+        "categorie": "person"
+      },
+      {
+        "id": "5459",
+        "label": "块的师傅",
+        "info": "于虫师第18话登场，块的师傅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/05/5459_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5459",
+        "categorie": "person"
+      },
+      {
+        "id": "5463",
+        "label": "清志朗の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/1e/5463_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5463",
+        "categorie": "person"
+      },
+      {
+        "id": "5473",
+        "label": "淡幽の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/a6/5473_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5473",
+        "categorie": "person"
+      },
+      {
+        "id": "5480",
+        "label": "渡彦",
+        "info": "于虫师第21话登场，亚纪夫妇在地板下发现的孩子，事实上确实是亚纪一年前所生的物体，不是人类，其本体是一种叫做“绵吐”的虫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/e8/5480_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5480",
+        "categorie": "person"
+      },
+      {
+        "id": "5487",
+        "label": "澪の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/90/5487_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5487",
+        "categorie": "person"
+      },
+      {
+        "id": "5488",
+        "label": "真鱼",
+        "info": "于虫师第22登场，澪的母亲，因得了不治之症而自愿沉入大海以获得“重生”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/c3/5488_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5488",
+        "categorie": "person"
+      },
+      {
+        "id": "5491",
+        "label": "茂的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/c2/5491_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5491",
+        "categorie": "person"
+      },
+      {
+        "id": "5492",
+        "label": "茂的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/1a/5492_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5492",
+        "categorie": "person"
+      },
+      {
+        "id": "5495",
+        "label": "みく",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/5b/5495_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5495",
+        "categorie": "person"
+      },
+      {
+        "id": "5497",
+        "label": "周の父",
+        "info": "于虫师第25话登场，周的父亲，是一个虫师，一直想让女儿的眼睛重见光明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/cc/5497_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5497",
+        "categorie": "person"
+      },
+      {
+        "id": "5498",
+        "label": "フサ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/81/5498_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5498",
+        "categorie": "person"
+      },
+      {
+        "id": "5499",
+        "label": "さき",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/49/5499_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5499",
+        "categorie": "person"
+      },
+      {
+        "id": "5530",
+        "label": "沢の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/26/5530_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5530",
+        "categorie": "person"
+      },
+      {
+        "id": "5531",
+        "label": "沢の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/a2/5531_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5531",
+        "categorie": "person"
+      },
+      {
+        "id": "5532",
+        "label": "沢の妻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/8f/5532_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5532",
+        "categorie": "person"
+      },
+      {
+        "id": "5533",
+        "label": "ふみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/65/5533_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5533",
+        "categorie": "person"
+      },
+      {
+        "id": "5534",
+        "label": "沢の叔父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/6b/5534_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5534",
+        "categorie": "person"
+      },
+      {
+        "id": "5535",
+        "label": "ワタリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c6/5535_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5535",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "5324",
+        "label": "贤郎",
+        "info": "于虫师第7话登场，虹郎的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/07/5324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5324",
+        "categorie": "person"
+      },
+      {
+        "id": "5433",
+        "label": "綺の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/25/5433_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5433",
+        "categorie": "person"
+      },
+      {
+        "id": "5458",
+        "label": "トヨ",
+        "info": "于虫师第18话登场，似乎是块的姐姐的女儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/a5/5458_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5458",
+        "categorie": "person"
+      },
+      {
+        "id": "5460",
+        "label": "塊の弟子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/ac/5460_crt_295Vf.jpg",
+        "link": "https://bgm.tv/character/5460",
+        "categorie": "person"
+      },
+      {
+        "id": "5398",
+        "label": "錾的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/f3/5398_crt_L0fzu.jpg",
+        "link": "https://bgm.tv/character/5398",
+        "categorie": "person"
+      },
+      {
+        "id": "5400",
+        "label": "コダマの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/66/5400_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5400",
+        "categorie": "person"
+      },
+      {
+        "id": "5494",
+        "label": "ナオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/f3/5494_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5494",
+        "categorie": "person"
+      },
+      {
+        "id": "5536",
+        "label": "山神",
+        "info": "于虫师第26话登场，被素鱼称为山神，住在瀑布潭中，光脉流移动后虽然不再是山神但依然活着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/34/5536_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "302",
+        "label": "碇真嗣",
+        "info": "本故事的主角，有着极端内向的性格，极其害怕与陌生人接触，不知如何和别人相处而感到害怕，一直只是照着别人的要求而生活，之后慢慢地敞開了心扉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/af/302_crt_KFsZV.jpg",
+        "link": "https://bgm.tv/character/302",
+        "categorie": "person"
+      },
+      {
+        "id": "303",
+        "label": "绫波丽",
+        "info": "有着蓝色短发与红色眼睛的瘦弱少女，EVA驾驶员第一适格者，驾驶零号机。EVA零号机启动实验事故中负重伤，初次登场时包扎有大量绷带。过去经历全部被抹消，资料显示为14岁，行为举止特别。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/36/303_crt_M23Zu.jpg?r=1460310131",
+        "link": "https://bgm.tv/character/303",
+        "categorie": "person"
+      },
+      {
+        "id": "304",
+        "label": "惣流·明日香·兰格雷",
+        "info": "简称为明日香，作为第二适格者驾驶EVA贰号机。角色名［明日香］来源于和田慎二的漫画的主角，姓氏［惣流］和［兰格雷 (Langley)］分别来自于第二次世界大战时的日本航空母舰苍龙号（日语同音Sōryū）和美国航空母舰兰利号（Langley）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/f7/304_crt_q6Bs8.jpg?r=1520696076",
+        "link": "https://bgm.tv/character/304",
+        "categorie": "person"
+      },
+      {
+        "id": "5088",
+        "label": "葛城美里",
+        "info": "葛城美里（日语：葛城 ミサト、英语：Katsuragi Misato）是日本动画《新世纪福音战士》当中人物。她是NERV的指挥官，军衔最初为大尉，TV动画第12话时晋升为少佐，在新剧场版中则为中佐。她在NERV的任务包括指挥及监视EVA驾驶员、构思及发布攻击策略，与赤木律子协调EVA技术支援及测试也是她的工作，她同时也是碇真嗣与惣流·明日香·兰格雷的监护人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/fc/5088_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5088",
+        "categorie": "person"
+      },
+      {
+        "id": "5089",
+        "label": "赤木律子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b6/5089_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5089",
+        "categorie": "person"
+      },
+      {
+        "id": "6380",
+        "label": "伊吹摩耶",
+        "info": "动漫作品《新世纪福音战士》中的角色。NERV总部技术局一课所属，阶级为中尉，直属上司赤木律子，通常担任EVA驾驶员同步状况调查及系统操作的任务，也是战况转播员。她操作机器的技术似乎是直接传自于赤木，又同时身兼赤木的部下和学妹，因此对赤木相当尊敬。她的个性文静乖巧，有洁癖，是EVA系列中颇受欢迎的女性之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/63/6380_crt_anidb.jpg?r=1361631529",
+        "link": "https://bgm.tv/character/6380",
+        "categorie": "person"
+      },
+      {
+        "id": "6965",
+        "label": "渚薰",
+        "info": "TV ep.24",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/60/6965_crt_w2NTt.jpg",
+        "link": "https://bgm.tv/character/6965",
+        "categorie": "person"
+      },
+      {
+        "id": "7144",
+        "label": "加持良治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/0a/7144_crt_anidb.jpg?r=1361631596",
+        "link": "https://bgm.tv/character/7144",
+        "categorie": "person"
+      },
+      {
+        "id": "7378",
+        "label": "冬月耕造",
+        "info": "冬月耕造是NERV的副司令，常常在碇源度不在时代替他指挥本部的工作，是源度得力的左右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/cf/7378_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7378",
+        "categorie": "person"
+      },
+      {
+        "id": "7379",
+        "label": "相田剑介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/2b/7379_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7379",
+        "categorie": "person"
+      },
+      {
+        "id": "7391",
+        "label": "洞木光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/cf/7391_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7391",
+        "categorie": "person"
+      },
+      {
+        "id": "7392",
+        "label": "日向诚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/1d/7392_crt_anidb.jpg?r=1421387487",
+        "link": "https://bgm.tv/character/7392",
+        "categorie": "person"
+      },
+      {
+        "id": "7393",
+        "label": "青叶茂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/fb/7393_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7393",
+        "categorie": "person"
+      },
+      {
+        "id": "12479",
+        "label": "碇源堂",
+        "info": "NERV司令官，碇真嗣的父亲。他原姓六分仪，和碇唯结婚后改姓碇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/ab/12479_crt_ZHwXz.jpg?r=1361631562",
+        "link": "https://bgm.tv/character/12479",
+        "categorie": "person"
+      },
+      {
+        "id": "15270",
+        "label": "铃原冬二",
+        "info": "第四适格者/第三新东京市立第一中学2年A班学生",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/0f/15270_crt_VwkAA.jpg",
+        "link": "https://bgm.tv/character/15270",
+        "categorie": "person"
+      },
+      {
+        "id": "42273",
+        "label": "基路·洛仑兹",
+        "info": "作为人类补完委员会的中心人物，在幕后操纵着NERV，是德意志的雅利安系人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c1/42273_crt_TZ446.jpg?r=1465039464",
+        "link": "https://bgm.tv/character/42273",
+        "categorie": "person"
+      },
+      {
+        "id": "42380",
+        "label": "赤木直子",
+        "info": "赤木リツコの母親であり、第7世代コンピューター、MAGIシステムの基礎理論及び開発責任者。ゲヒルン時代には碇ゲンドウと愛人関係にあった（碇ユイ が存命中からそうであったかは不明）。ゲヒルンが特務機関ネルフへと移行する前夜に謎の投身自殺を遂げる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/0b/42380_crt_KK1T1.jpg",
+        "link": "https://bgm.tv/character/42380",
+        "categorie": "person"
+      },
+      {
+        "id": "10442",
+        "label": "SEELE",
+        "info": "动漫<EVA（新世纪福音战士）> SEELE在德语中是“灵魂”之意，经常被称为“魂之座”。 幕后操纵NERV的迷之巨大组织，早在“第二次浩劫”之前就已存在，触手遍及世界各地，甚至可以干涉联合国事务。Seele的高级成员一般并不直接露面， 都是以声音（Sound Only）的形式出现的，其数目加上人类补完委员会的成员共计12名，中心人物是基路议长（身份不明）。本部所在位置不明。SEELE和NERV的关系，就是灵魂与神经，适格者与插入栓的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/08/10442_crt_4mh0J.jpg",
+        "link": "https://bgm.tv/character/10442",
+        "categorie": "person"
+      },
+      {
+        "id": "6381",
+        "label": "初号机",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/43/6381_crt_anidb.jpg?r=1421387539",
+        "link": "https://bgm.tv/character/6381",
+        "categorie": "person"
+      },
+      {
+        "id": "5090",
+        "label": "NERV",
+        "info": "GOD'S IN HIS HEAVEN. ALL'S RIGHT WITH THE WORLD.",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ee/5090_crt_RwO42.jpg?r=1428580024",
+        "link": "https://bgm.tv/character/5090",
+        "categorie": "person"
+      },
+      {
+        "id": "6382",
+        "label": "二号机",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/04/6382_crt_anidb.jpg?r=1421387595",
+        "link": "https://bgm.tv/character/6382",
+        "categorie": "person"
+      },
+      {
+        "id": "55755",
+        "label": "亚当",
+        "info": "亚当是造成“第二次浩劫”的原因之一。在南极出现的发光的巨人就是他的姿态，外形上与EVA极为相似，有着巨大的光之翼。于2000年在南极冰层发现时，其胸部叉有朗基奴斯之枪，当枪被拔除后苏醒并暴走。之后被SEELE还原成最初的胚胎型凝固在树脂中，由加持良治携带随二号机与明日香一同由德国NERV支部返回第三新东京市，后被碇源堂移植到右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e8/55755_crt_g400v.jpg",
+        "link": "https://bgm.tv/character/55755",
+        "categorie": "person"
+      },
+      {
+        "id": "55756",
+        "label": "水天使",
+        "info": "于2015年开始袭击第三新东京市的首位使徒。经MAGI系统的调查证明其不但是非遥控操作，而且是具有学习、再生的智慧生命体。由掌中发出光之枪攻击对手，并且从眼状部位发射破坏光线，受到联合国军方的N2地雷攻击之后，长出第二张脸孔。人类的无能在它压倒性的战力面前暴露无疑，之后，因初号机暴走而自爆。（第1、2集）",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/46/55756_crt_tc2XP.jpg",
+        "link": "https://bgm.tv/character/55756",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10332",
+        "label": "ジェームス・レイ・スチム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/74/10332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10332",
+        "categorie": "person"
+      },
+      {
+        "id": "10333",
+        "label": "エドワード・スチム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/96/10333_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10333",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

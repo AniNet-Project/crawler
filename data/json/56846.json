@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19937",
+        "label": "堀越二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/8b/19937_crt_LpIyT.jpg?r=1368157830",
+        "link": "https://bgm.tv/character/19937",
+        "categorie": "person"
+      },
+      {
+        "id": "55882",
+        "label": "里见菜穗子",
+        "info": "很日本女性的一位人物，美丽、纯洁、文艺、温柔娴淑、身患绝症（结核病在当时是不治之症）。她如同清晨的朝露，照亮了工作狂二郎单调的人生。可以为了爱而不顾一切的人，与二郎的一见钟情，以及后来不顾自己病重，偷偷跑出医院。在自己弥留之际只为见他最后一面。总是笑得很甜，但是其实心里很苦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/4b/55882_crt_MbRCR.jpg",
+        "link": "https://bgm.tv/character/55882",
+        "categorie": "person"
+      },
+      {
+        "id": "55894",
+        "label": "堀越加代",
+        "info": "堀越二郎的妹妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/0b/55894_crt_599La.jpg?r=1559355977",
+        "link": "https://bgm.tv/character/55894",
+        "categorie": "person"
+      },
+      {
+        "id": "55904",
+        "label": "二郎的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/35/55904_crt_8aaW8.jpg?r=1559355960",
+        "link": "https://bgm.tv/character/55904",
+        "categorie": "person"
+      },
+      {
+        "id": "55905",
+        "label": "本庄季郎",
+        "info": "堀越二郎的同事，航空技师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/25/55905_crt_6ssiy.jpg?r=1559355952",
+        "link": "https://bgm.tv/character/55905",
+        "categorie": "person"
+      },
+      {
+        "id": "55906",
+        "label": "黑川",
+        "info": "堀越二郎的上司，对二郎非常严厉。并看中了他理想，因而对二郎帮助很多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/f3/55906_crt_8sDT8.jpg?r=1559355988",
+        "link": "https://bgm.tv/character/55906",
+        "categorie": "person"
+      },
+      {
+        "id": "55890",
+        "label": "卡普罗尼",
+        "info": "乔瓦尼·巴蒂斯塔·卡普罗尼（意大利语：Giovanni Battista Caproni，1886年7月3日－1957年10月27日）是意大利的航太、土木、电机工程师，且为飞行机制造商卡普罗尼的创办人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/b4/55890_crt_T7eBw.jpg?r=1500106498",
+        "link": "https://bgm.tv/character/55890",
+        "categorie": "person"
+      },
+      {
+        "id": "55907",
+        "label": "カストルプ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ce/55907_crt_3OPZr.jpg?r=1559355995",
+        "link": "https://bgm.tv/character/55907",
+        "categorie": "person"
+      },
+      {
+        "id": "55908",
+        "label": "服部",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/c7/55908_crt_Rr2Av.jpg?r=1559355941",
+        "link": "https://bgm.tv/character/55908",
+        "categorie": "person"
+      },
+      {
+        "id": "55909",
+        "label": "黑川夫人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/07/55909_crt_4cLHK.jpg?r=1559356005",
+        "link": "https://bgm.tv/character/55909",
+        "categorie": "person"
+      },
+      {
+        "id": "26200",
+        "label": "零式舰载战斗机",
+        "info": "零式舰载战斗机作为九六式舰载战斗机的后继机，在第二次世界大战期间是大日本帝国海军从1940年到1945年的主力舰载战斗机，从中国战场一直使用到第二次世界大战结束，整个太平洋战区都可以见到它的踪影，堪称日本海军在二战时最知名的战斗机。其名得自于服役时正是皇纪纪元2600元所以最后两位都是零而得名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/65/26200_crt_Qeewe.jpg",
+        "link": "https://bgm.tv/character/26200",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

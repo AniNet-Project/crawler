@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23102",
+        "label": "蜘蛛侠",
+        "info": "With great power comes great responsibility.",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/23/23102_crt_u0drA.jpg",
+        "link": "https://bgm.tv/character/23102",
+        "categorie": "person"
+      },
+      {
+        "id": "23095",
+        "label": "死侍",
+        "info": "死侍是由艺术家Rob Liefeld同作家Fabian Nicieza创造、漫威漫画中的反英雄虚拟角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/f1/23095_crt_0awYC.jpg",
+        "link": "https://bgm.tv/character/23095",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

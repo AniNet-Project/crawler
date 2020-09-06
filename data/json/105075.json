@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31645",
+        "label": "玛丽.麦克白",
+        "info": "アニメ版オリジナルキャラクターの少女。レオと出会うことになるが、出自は謎に包まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/c0/31645_crt_O43S8.jpg?r=1480959720",
+        "link": "https://bgm.tv/character/31645",
+        "categorie": "person"
+      },
+      {
+        "id": "31630",
+        "label": "雷欧纳鲁德·渥奇",
+        "info": "本編の語り部。愛称はレオ。新聞記者であり「ヘルサレムズ・ロットの歩き方」編の記者としてヘルサレムズ・ロットへやって来る。音速猿にカメラを奪われ、それを追っている最中に銀行強盗事件の混乱に巻き込まれたところを、他のライブラ新人と勘違いをしたザップにより救われた。それを機に、ライブラと血界の種族との戦いに身を投じることとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/35/31630_crt_pGC2c.jpg",
+        "link": "https://bgm.tv/character/31630",
+        "categorie": "person"
+      },
+      {
+        "id": "31632",
+        "label": "克劳斯·V·莱因赫兹",
+        "info": "秘密結社ライブラのリーダー。通称「クラウス」。十字架を象ったナックルを用い、「滅嶽の血」を武器に転化し破壊､封印するブレングリード流血闘術の使い手。人外の者と戦ってきた一族・ラインハルツ家の三男坊であるが、家族に関しては明らかにされていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/9a/31632_crt_vxaVV.jpg",
+        "link": "https://bgm.tv/character/31632",
+        "categorie": "person"
+      },
+      {
+        "id": "31633",
+        "label": "札布·雷夫洛",
+        "info": "銀髪に褐色の肌をした秘密結社ライブラのメンバー。刃や糸状に硬質化させた血液を武器とする斗流血法・カグツチの使い手。更に血液を発火、爆発させることも出来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/e3/31633_crt_444T4.jpg?r=1480961922",
+        "link": "https://bgm.tv/character/31633",
+        "categorie": "person"
+      },
+      {
+        "id": "31640",
+        "label": "史蒂芬·A·斯塔菲斯",
+        "info": "秘密結社ライブラのメンバー。目元に傷のある、スーツを着込んだ男。クラウスの副官的役割をこなすライブラ中核のひとり。全てを凍らせる高速の蹴り技エスメラルダ式血凍道の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/43/31640_crt_zCFKK.jpg",
+        "link": "https://bgm.tv/character/31640",
+        "categorie": "person"
+      },
+      {
+        "id": "31639",
+        "label": "珍·皇",
+        "info": "通称「チェイン」。秘密結社ライブラのメンバー。諜報活動のエキスパートでツッコミ役。ライブラと協力関係にある諜報機関「人狼局」の諜報員でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/1e/31639_crt_pGbpB.jpg",
+        "link": "https://bgm.tv/character/31639",
+        "categorie": "person"
+      },
+      {
+        "id": "32593",
+        "label": "威廉·麦克白",
+        "info": "ホワイトの双子の兄。金髪に碧眼をもち、穏やかに笑う。レオが地下鉄で出会った少年によく似ているが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/50/32593_crt_5l0zF.jpg?r=1480961519",
+        "link": "https://bgm.tv/character/32593",
+        "categorie": "person"
+      },
+      {
+        "id": "49011",
+        "label": "绝望王",
+        "info": "异界的权力者“13王”的其中一员，详细不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/d0/49011_crt_99N99.jpg?r=1481007489",
+        "link": "https://bgm.tv/character/49011",
+        "categorie": "person"
+      },
+      {
+        "id": "31982",
+        "label": "K·K",
+        "info": "秘密結社萊布拉成員之一。金髮，右眼載著眼罩，有180厘米身高和非常苗條的身材。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e5/31982_crt_w111F.jpg?r=1480960108",
+        "link": "https://bgm.tv/character/31982",
+        "categorie": "person"
+      },
+      {
+        "id": "31981",
+        "label": "吉尔伯特·F·亚尔特斯坦因",
+        "info": "伺候克勞斯的老管家，全身包滿繃帶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/00/31981_crt_022Fs.jpg",
+        "link": "https://bgm.tv/character/31981",
+        "categorie": "person"
+      },
+      {
+        "id": "31641",
+        "label": "索尼克",
+        "info": "小型の猿の姿をした異界交配動物。人間はおろか、異界の存在でも視認することが困難な速度で運動する反面、骨格は脆い。旅行者からカメラをスリ盗って換金する程度の知恵がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/ca/31641_crt_zEgGX.jpg",
+        "link": "https://bgm.tv/character/31641",
+        "categorie": "person"
+      },
+      {
+        "id": "32001",
+        "label": "布利兹·T·艾布拉姆斯",
+        "info": "通稱「超級好運的艾布拉姆斯」。世界首屈一指的吸血鬼對策專家。講話相當直接。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/93/32001_crt_qL013.jpg?r=1480961417",
+        "link": "https://bgm.tv/character/32001",
+        "categorie": "person"
+      },
+      {
+        "id": "31999",
+        "label": "帕特里克",
+        "info": "被稱為「武器庫（兵工廠）」的巨漢。個性膽小，但販賣各式危險的武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/16/31999_crt_4F13x.jpg?r=1480961268",
+        "link": "https://bgm.tv/character/31999",
+        "categorie": "person"
+      },
+      {
+        "id": "31983",
+        "label": "多古·血槌",
+        "info": "短髮的黝黑皮膚青年，有著周圍的人無法否定的帥氣臉龐。穿著以戴爾多洛形成的全身巨大化的血殖裝甲，平時個性溫和，但有時會作出連戴爾多洛都無法置信的事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/2a/31983_crt_b17y0.jpg?r=1480960396",
+        "link": "https://bgm.tv/character/31983",
+        "categorie": "person"
+      },
+      {
+        "id": "31996",
+        "label": "戴尔多洛·布罗迪",
+        "info": "偏執王亞莉基菈的前男友，除了長相外，其他被偏執王視為理想情人，被亞莉基菈製成了血一般的存在。拿多古沒輒，被K·K定位功用只有保護多古的臉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/44/31996_crt_BX0UU.jpg?r=1480960618",
+        "link": "https://bgm.tv/character/31996",
+        "categorie": "person"
+      },
+      {
+        "id": "31997",
+        "label": "杰德·欧布莱恩",
+        "info": "札布的師弟，鬥流血法·風神的傳人。半魚人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/be/31997_crt_0Uq00.jpg?r=1480961167",
+        "link": "https://bgm.tv/character/31997",
+        "categorie": "person"
+      },
+      {
+        "id": "31642",
+        "label": "堕落王菲姆托",
+        "info": "「堕落王」と名乗る魔導を極めた、ヘルサレムズ・ロットを代表する希代の怪人。破壊や混乱を楽しむふざけた性格で、嫌いなものは「退屈」と「普通」。「千年生きてあらゆる魔導を練り上げた」「血界の眷属」という噂があるが詳細は不明である。なお単行本ではレオとともに巻末あとがきによく登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/eb/31642_crt_ha1B5.jpg?r=1480958991",
+        "link": "https://bgm.tv/character/31642",
+        "categorie": "person"
+      },
+      {
+        "id": "31644",
+        "label": "米修菈·渥奇",
+        "info": "雷欧的妹妹，坐着轮椅。温柔善良且坚强的少女。在和雷欧一同遇到了给予“诸神之义眼”的谜之存在时，自愿牺牲了自己的视力，换取到了雷欧的诸神之义眼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/36/31644_crt_Cs3YJ.jpg?r=1481216195",
+        "link": "https://bgm.tv/character/31644",
+        "categorie": "person"
+      },
+      {
+        "id": "32363",
+        "label": "偏执王亚莉基菈",
+        "info": "「偏執王」と呼ばれるゴスロリ服を着た女。外見が好みではないとの理由で自分の好みに合わせるために、彼氏を生きたまま潰して叩いて液状にして血液に錬成し、理想の外見をもつ男性の血液として入れ替えた。「ガキの思考で御業は神」とは潰された本人談。車両を捕食・自己増大する巨大車両を製造し、それに乗ってブローディ＆ハマーを手に入れるため超異常犯罪者保護拘束施設へ向かうが、ライブラメンバーの連携によって巨大車両は破壊。本人は、HLの外へ吹き飛ばされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/c5/32363_crt_eXz4B.jpg",
+        "link": "https://bgm.tv/character/32363",
+        "categorie": "person"
+      },
+      {
+        "id": "49010",
+        "label": "妮卡",
+        "info": "帕特里克的助手。扎着马尾辫的女孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/18/49010_crt_t8WJh.jpg?r=1481007216",
+        "link": "https://bgm.tv/character/49010",
+        "categorie": "person"
+      },
+      {
+        "id": "49084",
+        "label": "利伽·艾尔·梅奴休托",
+        "info": "在第一次来到赫尔沙雷姆兹·罗特外缘的雷欧&米修菈兄妹面前出现的怪物。似乎是在异界的有着一定地位的眼科技师。在过去就多次导致“一人失明、一人获得诸神之义眼”，其理由至今仍是不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/e3/49084_crt_pbdVf.jpg?r=1481295398",
+        "link": "https://bgm.tv/character/49084",
+        "categorie": "person"
+      },
+      {
+        "id": "31647",
+        "label": "薇薇安",
+        "info": "HLで父親とともにカフェを経営している快活な女性。彼女の店は、HL内でレオが安心できる店とザップたちから認識されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/44/31647_crt_DOgX4.jpg?r=1480961686",
+        "link": "https://bgm.tv/character/31647",
+        "categorie": "person"
+      },
+      {
+        "id": "31648",
+        "label": "老板",
+        "info": "薇薇安的父亲。经营的餐厅虽然总是会被卷入各种麻烦而被砸店但每次都能复活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/6b/31648_crt_z2S3N.jpg?r=1480961849",
+        "link": "https://bgm.tv/character/31648",
+        "categorie": "person"
+      },
+      {
+        "id": "49009",
+        "label": "裸兽汁外卫贱严",
+        "info": "扎布与杰德的师父，斗流血法的创始者。有着能够单独打倒长老级血界眷属的级别的压倒性实力。所使用的语言只有徒弟听得懂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/c2/49009_crt_99K40.jpg?r=1481006402",
+        "link": "https://bgm.tv/character/49009",
+        "categorie": "person"
+      },
+      {
+        "id": "49012",
+        "label": "本杰明·麦克白",
+        "info": "玛丽(小白)与威廉(小黑)的父亲。术士。在“纽约大崩落”时为了在赫尔沙雷姆兹·罗特布张结界，与妻子·艾玛双双力尽而逝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/3b/49012_crt_OOUWu.jpg?r=1481008707",
+        "link": "https://bgm.tv/character/49012",
+        "categorie": "person"
+      },
+      {
+        "id": "49013",
+        "label": "艾玛·麦克白",
+        "info": "玛丽(小白)与威廉(小黑)的母亲。术士。在“纽约大崩落”时为了在赫尔沙雷姆兹·罗特布张结界，与丈夫·本杰明双双力尽而逝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/89/49013_crt_clcFU.jpg?r=1481009114",
+        "link": "https://bgm.tv/character/49013",
+        "categorie": "person"
+      },
+      {
+        "id": "49014",
+        "label": "瓜巴拉",
+        "info": "Wide Show电视节目的像是时事评论员的异界人。面对主持人抛出的询问，都是以“はぁい”来回答。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/91/49014_crt_5r65R.jpg",
+        "link": "https://bgm.tv/character/49014",
+        "categorie": "person"
+      },
+      {
+        "id": "49015",
+        "label": "亚哈比欧&西波罗巴&乌戴希乌柏",
+        "info": "使用幻术把妖异的异界车幻化成洗衣店的卡车的一帮异界人，被雷欧一眼看破。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/13/49015_crt_AZsMl.jpg",
+        "link": "https://bgm.tv/character/49015",
+        "categorie": "person"
+      },
+      {
+        "id": "49016",
+        "label": "顿·阿鲁尔艾尔·艾鲁加·夫尔古鲁修",
+        "info": "异界中数一数二的头领人，据说影响力大到足以被称为神。喜爱“妖魔战棋”，据说钻研了妖魔战棋一千两百年，其棋技深不见底。以“战胜夫尔古鲁修”为条件，能够去实现对战者的愿望。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/18/49016_crt_F2zf6.jpg",
+        "link": "https://bgm.tv/character/49016",
+        "categorie": "person"
+      },
+      {
+        "id": "49017",
+        "label": "科尔希柯夫·乌鲁申科",
+        "info": "保有国际象棋最高位称号“国际象棋特级大师”的男人，也被称为是“千年一见的天才”。在顿·阿鲁尔艾尔的宅邸里遇见了克劳斯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/0d/49017_crt_iGqjE.jpg?r=1481014330",
+        "link": "https://bgm.tv/character/49017",
+        "categorie": "person"
+      },
+      {
+        "id": "49070",
+        "label": "吉丽佳",
+        "info": "转化（眷属化）了托尼奥的女性血界眷属。被称呼为“元老级”的高位眷属的其中一人，有着优秀的战斗力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/1c/49070_crt_yGmHd.jpg?r=1481264455",
+        "link": "https://bgm.tv/character/49070",
+        "categorie": "person"
+      },
+      {
+        "id": "49072",
+        "label": "托尼奥·安多雷提",
+        "info": "被所属组织当成了活祭品的原是黑手党小喽啰的人类。被吉丽佳深深吸引，后被转化成了她的忠实部下眷属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/0a/49072_crt_MA57f.jpg?r=1481265107",
+        "link": "https://bgm.tv/character/49072",
+        "categorie": "person"
+      },
+      {
+        "id": "49074",
+        "label": "那吉",
+        "info": "长得像香菇的异界人。非常喜欢吃“杰克&火箭”的汉堡包的贪吃鬼。在42号大街附近认识了雷欧，和雷欧成了好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/62/49074_crt_HLL9u.jpg",
+        "link": "https://bgm.tv/character/49074",
+        "categorie": "person"
+      },
+      {
+        "id": "49079",
+        "label": "罗杰",
+        "info": "气罐车司机二人组之一",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/d3/49079_crt_2aG97.jpg?r=1481271751",
+        "link": "https://bgm.tv/character/49079",
+        "categorie": "person"
+      },
+      {
+        "id": "49080",
+        "label": "马丁",
+        "info": "气罐车司机二人组之一",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/bc/49080_crt_Zegtm.jpg?r=1481271869",
+        "link": "https://bgm.tv/character/49080",
+        "categorie": "person"
+      },
+      {
+        "id": "49085",
+        "label": "房东",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/fc/49085_crt_41Y81.jpg",
+        "link": "https://bgm.tv/character/49085",
+        "categorie": "person"
+      },
+      {
+        "id": "49086",
+        "label": "映画の中の兄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a5/49086_crt_l6016.jpg?r=1481301422",
+        "link": "https://bgm.tv/character/49086",
+        "categorie": "person"
+      },
+      {
+        "id": "49087",
+        "label": "映画の中の弟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/a3/49087_crt_Qfj7l.jpg",
+        "link": "https://bgm.tv/character/49087",
+        "categorie": "person"
+      },
+      {
+        "id": "49088",
+        "label": "映画の中の女性",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/7c/49088_crt_YYzMD.jpg?r=1481301579",
+        "link": "https://bgm.tv/character/49088",
+        "categorie": "person"
+      },
+      {
+        "id": "49089",
+        "label": "奥兹玛尔德",
+        "info": "前·不倒的冠军，现是地下格斗场「伊甸」的现任业主。毕生追求着拳击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ee/49089_crt_jwm49.jpg?r=1481305554",
+        "link": "https://bgm.tv/character/49089",
+        "categorie": "person"
+      },
+      {
+        "id": "49090",
+        "label": "葛列格",
+        "info": "地下格斗场「伊甸」中作为克劳斯的对手上了场的青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/3f/49090_crt_3LvL2.jpg?r=1481306556",
+        "link": "https://bgm.tv/character/49090",
+        "categorie": "person"
+      },
+      {
+        "id": "49091",
+        "label": "裁判员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/99/49091_crt_aCXPa.jpg?r=1481306671",
+        "link": "https://bgm.tv/character/49091",
+        "categorie": "person"
+      },
+      {
+        "id": "49092",
+        "label": "贾古拉诺兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/57/49092_crt_G0w84.jpg?r=1481307059",
+        "link": "https://bgm.tv/character/49092",
+        "categorie": "person"
+      },
+      {
+        "id": "49093",
+        "label": "丹尼尔·罗",
+        "info": "有着长到遮住一边眼睛的刘海。以向莱布拉要求去协力警方解决事件作为交换，对莱布拉的暗中踊跃睁一只眼闭一只眼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/45/49093_crt_3fA3A.jpg?r=1481308221",
+        "link": "https://bgm.tv/character/49093",
+        "categorie": "person"
+      },
+      {
+        "id": "58386",
+        "label": "长老",
+        "info": "普通的医生。也是LHOS(League of High Order Spirituals，术士协会)的NY支部代表（动画1期原创设定）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/a9/58386_crt_Jwtd5.jpg?r=1507474561",
+        "link": "https://bgm.tv/character/58386",
+        "categorie": "person"
+      },
+      {
+        "id": "58387",
+        "label": "安洁莉卡·莱安",
+        "info": "珍的朋友。在肯得基里上班。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/17/58387_crt_xyaY6.jpg?r=1507474812",
+        "link": "https://bgm.tv/character/58387",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

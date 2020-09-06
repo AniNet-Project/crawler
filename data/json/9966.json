@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14769",
+        "label": "渡边保惠美",
+        "info": "主人公。名前があるのに何故か「小林」と自称する、無駄に元気な小学生（10歳）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/c8/14769_crt_2D7RV.jpg?r=1568004221",
+        "link": "https://bgm.tv/character/14769",
+        "categorie": "person"
+      },
+      {
+        "id": "6602",
+        "label": "边慎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/6b/6602_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6602",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "71681",
+        "label": "黑田英之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/c9/71681_crt_Z3Axb.jpg",
+        "link": "https://bgm.tv/character/71681",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

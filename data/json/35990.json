@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25862",
+        "label": "尼亚",
+        "info": "L的继承者。喜欢玩拼图模型，一边游戏玩具一边分解玩具，特征是衣服与头发统一的白色。单脚放在椅子上卷自己的头发等等，与L相似。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/84/25862_crt_ZBVBD.jpg",
+        "link": "https://bgm.tv/character/25862",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

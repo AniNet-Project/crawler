@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23567",
+        "label": "御苑生奈奈子",
+        "info": "本作の主人公にして語り手。青蘭学園高等部1年。高校から青蘭学園に通うこととなった。武彦を「おにいさま」と呼び、文通している。父親は大学教授。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/82/23567_crt_V4rLL.jpg?r=1428975505",
+        "link": "https://bgm.tv/character/23567",
+        "categorie": "person"
+      },
+      {
+        "id": "26318",
+        "label": "折原薰",
+        "info": "奈々子のクラスメイト。実は、奈々子より1歳年上だが、病気で1年休学していたため（その病気の影響によるこの物語の結末が、原作とアニメ版では異なる）、奈々子と同級生となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c2/26318_crt_XcN0n.jpg?r=1412371622",
+        "link": "https://bgm.tv/character/26318",
+        "categorie": "person"
+      },
+      {
+        "id": "26800",
+        "label": "一之宫蕗子",
+        "info": "青蘭学園高等部3年。生徒会長にしてソロリティの会長。学園理事長の娘で、上流階級の持つ気品と高貴さを体現した美女。全校生徒の憧れの的で、「宮様」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/fc/26800_crt_j4hYb.jpg?r=1411842402",
+        "link": "https://bgm.tv/character/26800",
+        "categorie": "person"
+      },
+      {
+        "id": "26801",
+        "label": "朝霞蕾",
+        "info": "青蘭学園高等部2年。クールで謎めいた美貌から、フランス革命の指導者にちなんで「花のサン・ジュストさま」の異名を持ち、数多くの崇拝者を持つ麗人。男性的な服を着ている。未成年でありながら、煙草を吸っている。薫とは親友。ピアノが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/46/26801_crt_mOkod.jpg?r=1411941703",
+        "link": "https://bgm.tv/character/26801",
+        "categorie": "person"
+      },
+      {
+        "id": "26972",
+        "label": "有仓智子",
+        "info": "奈々子の中学時代からの友人。奈々子と同様、高校から青蘭学園に通うこととなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ab/26972_crt_2U5DR.jpg?r=1411160664",
+        "link": "https://bgm.tv/character/26972",
+        "categorie": "person"
+      },
+      {
+        "id": "26981",
+        "label": "信夫麻理子",
+        "info": "奈々子のクラスメイト。中学から青蘭学園に通っている。父がポルノ作家で、生徒から内心軽蔑されているが、親が学園に莫大な寄付をしているため、表面的には大切にされている。綾とは中学時代からの同級生だが、仲は悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/a3/26981_crt_8AZHR.jpg?r=1411300747",
+        "link": "https://bgm.tv/character/26981",
+        "categorie": "person"
+      },
+      {
+        "id": "26982",
+        "label": "边见武彦",
+        "info": "奈々子が中学の頃に通っていた塾で、講師のアルバイトをしていた大学院生（担当科目は、社会科）。「おにいさま」として奈々子と文通を始め、彼女の心の支えになろうとする。青蘭学園、蕗子、薫、奈々子とも何か因縁があるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b8/26982_crt_Zrn33.jpg?r=1411304211",
+        "link": "https://bgm.tv/character/26982",
+        "categorie": "person"
+      },
+      {
+        "id": "27010",
+        "label": "一之宫贵",
+        "info": "武彦の親友で、蕗子とれいの兄。かたくなに男を嫌うマリ子を逆に気に入っており、後にマリ子を援助することに。薫と武彦の関係を知る人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/d1/27010_crt_vEMSA.jpg?r=1411592550",
+        "link": "https://bgm.tv/character/27010",
+        "categorie": "person"
+      },
+      {
+        "id": "27136",
+        "label": "三咲绫",
+        "info": "奈々子のクラスメイト。中学から青蘭学園に通っている。父親は有名な弁護士。ソロリティに憧れていたが、落選してしまい、ソロリティに入った奈々子やマリ子を妬み、執拗に攻撃してくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c1/27136_crt_F92SQ.jpg?r=1412371532",
+        "link": "https://bgm.tv/character/27136",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13792",
+        "label": "奈绪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/e8/13792_crt_BQc3C.jpg",
+        "link": "https://bgm.tv/character/13792",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

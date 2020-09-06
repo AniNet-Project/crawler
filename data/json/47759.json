@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15089",
+        "label": "星马豪",
+        "info": "星马烈之弟.",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/53/15089_crt_7eeaV.jpg",
+        "link": "https://bgm.tv/character/15089",
+        "categorie": "person"
+      },
+      {
+        "id": "15090",
+        "label": "星马烈",
+        "info": "星马豪的哥哥，是个队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/c4/15090_crt_aj8K1.jpg",
+        "link": "https://bgm.tv/character/15090",
+        "categorie": "person"
+      },
+      {
+        "id": "15091",
+        "label": "阿吉",
+        "info": "是个褐色皮肤的正太.",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/a6/15091_crt_7n9nQ.jpg",
+        "link": "https://bgm.tv/character/15091",
+        "categorie": "person"
+      },
+      {
+        "id": "15092",
+        "label": "三国藤吉",
+        "info": "老鼠一样外观的小孩",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/22/15092_crt_n9QkW.jpg",
+        "link": "https://bgm.tv/character/15092",
+        "categorie": "person"
+      },
+      {
+        "id": "15093",
+        "label": "鹰羽龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/75/15093_crt_jFeJJ.jpg",
+        "link": "https://bgm.tv/character/15093",
+        "categorie": "person"
+      },
+      {
+        "id": "15094",
+        "label": "鹰羽二郎丸",
+        "info": "TRFビクトリーズ代理選手として出場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/a5/15094_crt_KRLxr.jpg?r=1574745338",
+        "link": "https://bgm.tv/character/15094",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

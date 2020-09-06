@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19024",
+        "label": "奈绪",
+        "info": "中学2年生。デジカメ部所属。やや天然。そのくせ「思いついたら即行動」な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/f2/19024_crt_3P7M2.jpg?r=1595734846",
+        "link": "https://bgm.tv/character/19024",
+        "categorie": "person"
+      },
+      {
+        "id": "19025",
+        "label": "ミキ",
+        "info": "ナオの親友。デジカメ部所属。冷静なツッコミ役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/ee/19025_crt_3Pi3z.jpg",
+        "link": "https://bgm.tv/character/19025",
+        "categorie": "person"
+      },
+      {
+        "id": "19026",
+        "label": "潤",
+        "info": "ナオの幼なじみ。実はかなりの照れ屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/d5/19026_crt_HhG5I.jpg",
+        "link": "https://bgm.tv/character/19026",
+        "categorie": "person"
+      },
+      {
+        "id": "19027",
+        "label": "凉子",
+        "info": "ナオたちの同級生。引っ込み思案な性格。大気にあこがれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/31/19027_crt_6Wc34.jpg",
+        "link": "https://bgm.tv/character/19027",
+        "categorie": "person"
+      },
+      {
+        "id": "19028",
+        "label": "大気先生",
+        "info": "新任の数学の先生。風使い。ぶっきらぼうで不器用な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/a8/19028_crt_3dzx3.jpg",
+        "link": "https://bgm.tv/character/19028",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

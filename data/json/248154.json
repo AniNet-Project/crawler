@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64205",
+        "label": "藏原走",
+        "info": "寛政大学社会学部１年。口下手で心を閉ざしがち。住む家も無くさまよっていたところを、灰二と出会い、竹青荘１０人目の住人となる。灰二の屈託のない言動によって、いつも心をざわつかせる羽目に。走るのが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/17/64205_crt_LdDt2.jpg?r=1529680589",
+        "link": "https://bgm.tv/character/64205",
+        "categorie": "person"
+      },
+      {
+        "id": "64206",
+        "label": "清濑灰二",
+        "info": "文学部４年。穏やかな微笑みとは裏腹の強固な意志と、不思議と説得力のある言動で、竹青荘の住人達を、ある壮大な計画に巻き込む。炊事係を担当し、朝晩必ず住人に食事を提供している。どこへ行くのも基本ジャージ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6e/64206_crt_84sTu.jpg?r=1529680746",
+        "link": "https://bgm.tv/character/64206",
+        "categorie": "person"
+      },
+      {
+        "id": "64209",
+        "label": "杉山高志",
+        "info": "商学部３年。東北の山村出身。幼少期、大人たちから神童と呼ばれていたことがあだ名の由来。現在、竹青荘の住人で唯一人、彼女あり。ムサに難しめの日本語を教えて、日々その成長を喜んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/c3/64209_crt_7f64Z.jpg?r=1529681180",
+        "link": "https://bgm.tv/character/64209",
+        "categorie": "person"
+      },
+      {
+        "id": "64214",
+        "label": "柏崎茜",
+        "info": "文学部２年。たなびく髪、長い睫毛に白い肌の見目麗しい漫画オタク。床が抜けそうなほどの蔵書に埋もれて暮らしている。あらゆる漫画に精通し、友情も恋愛も強大な敵との戦いも、脳内では経験済み。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/08/64214_crt_CH8k5.jpg?r=1529681852",
+        "link": "https://bgm.tv/character/64214",
+        "categorie": "person"
+      },
+      {
+        "id": "64207",
+        "label": "城太郎",
+        "info": "経済学部１年。双子の城兄弟の兄の方。高校生活をサッカーに費やした反動で、大学では女の子と遊ぶことだけを目標に、新生活を夢見ている。無邪気な性格だが、弟よりもしっかりしていると思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/0c/64207_crt_J85KK.jpg?r=1529680926",
+        "link": "https://bgm.tv/character/64207",
+        "categorie": "person"
+      },
+      {
+        "id": "64208",
+        "label": "城次郎",
+        "info": "経済学部１年。双子の城兄弟の弟の方。高校生活をサッカーに費やした反動で、大学に入ったら女の子と遊ぶことだけを目標に、新生活を夢見ている。無邪気な性格だが、兄には俺がいないとと思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/2f/64208_crt_BADD3.jpg?r=1529681048",
+        "link": "https://bgm.tv/character/64208",
+        "categorie": "person"
+      },
+      {
+        "id": "64211",
+        "label": "岩仓雪彦",
+        "info": "法学部４年。３年の時に司法試験に一発合格した秀才。しかし、合格したことでタガが外れ、今では毎晩のようにクラブに通う遊び人。知的で冷静な議論を好むが、ニコチャンの煙害には簡単に激昂する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/b6/64211_crt_Cq2t6.jpg?r=1529681447",
+        "link": "https://bgm.tv/character/64211",
+        "categorie": "person"
+      },
+      {
+        "id": "64213",
+        "label": "木萨·卡马拉",
+        "info": "理工学部２年。タンザニア出身の国費留学生。故郷では、車で学校の送り迎えをされていた、そこそこのお坊ちゃん。争うのが苦手な性格のため、スポーツは敬遠しがちだが、なぜか体は仕上がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d3/64213_crt_VJOug.jpg?r=1529681716",
+        "link": "https://bgm.tv/character/64213",
+        "categorie": "person"
+      },
+      {
+        "id": "64210",
+        "label": "坂口洋平",
+        "info": "社会学部４年。目下、最大の悩みは就活。雑学に長けた自称クイズ王だが、神童にテレビを借りないとクイズ番組は見られない。会話のネタを切らさないため、雑学本を読み始めたことがきっかけ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3c/64210_crt_7xf3s.jpg?r=1529681313",
+        "link": "https://bgm.tv/character/64210",
+        "categorie": "person"
+      },
+      {
+        "id": "64212",
+        "label": "平田彰宏",
+        "info": "理工学部３年。３年生で留まったままの最年長。超がつくヘビースモーカー。IT関連の在宅ワーカーで、卒業しなくても生きていけるだけの技術を持つ。ユキのクレームを面白がっている節がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/2d/64212_crt_U8yht.jpg?r=1529681579",
+        "link": "https://bgm.tv/character/64212",
+        "categorie": "person"
+      },
+      {
+        "id": "65838",
+        "label": "榊浩介",
+        "info": "東体大長距離陸上部1年。野心家で、勝利に貪欲な好ランナー。が故に周囲に好戦的にあたることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/5f/65838_crt_0yYYK.jpg?r=1535809449",
+        "link": "https://bgm.tv/character/65838",
+        "categorie": "person"
+      },
+      {
+        "id": "65837",
+        "label": "胜田叶菜子",
+        "info": "高校3年生。竹青荘の近くの商店街で長年営業を続ける「八百勝」の長女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/f6/65837_crt_Is7K4.jpg?r=1535809305",
+        "link": "https://bgm.tv/character/65837",
+        "categorie": "person"
+      },
+      {
+        "id": "65839",
+        "label": "藤冈一真",
+        "info": "箱根駅伝3連覇中の王者・六道大学の主将にして絶対的エース。卒業後はフルマラソン転向を期待される逸材だが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/9b/65839_crt_3i688.jpg?r=1535809757",
+        "link": "https://bgm.tv/character/65839",
+        "categorie": "person"
+      },
+      {
+        "id": "65840",
+        "label": "田崎源一郎",
+        "info": "竹青荘の大家。年齢不詳。灰二いわく、陸上界の名コーチ。囲碁がなによりの生き甲斐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/7c/65840_crt_WpXVT.jpg?r=1535809873",
+        "link": "https://bgm.tv/character/65840",
+        "categorie": "person"
+      },
+      {
+        "id": "65841",
+        "label": "ニラ",
+        "info": "田崎の飼う犬。犬種は不明。沖縄や奄美群島に伝わる言葉、『ニライカナイ』が名前の由来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/7b/65841_crt_lqvar.jpg",
+        "link": "https://bgm.tv/character/65841",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

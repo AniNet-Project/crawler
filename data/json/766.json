@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "10902",
+        "label": "黑桐干也",
+        "info": "《空之境界》男主角。看似没有任何特异能力以及潮流感的男人，除了人缘好之外似乎没有其他特点，然而却意外的有着连橙子也为之惊讶的资料搜查能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e4/10902_crt_6bkUi.jpg",
+        "link": "https://bgm.tv/character/10902",
+        "categorie": "person"
+      },
+      {
+        "id": "3205",
+        "label": "苍崎橙子",
+        "info": "　　奈须小说《空之境界》中的最高位的人形使，整部《空之境界》的故事导向者。礼园女学院的校友，被魔术协会制定封印的人偶师。个性独特，二十多岁就升到支配者层级，有魔眼，拥有魔术回路二十左右。虽身为魔术师却有接近魔法使的实力。在魔术协会学习期间以追求肉体的原型为目标，结识了同样研究卢文字和人偶制作的柯尼勒斯·阿鲁巴和追求魂之原型的荒耶宗莲，对荒耶有着相当复杂的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/1d/3205_crt_41oeX.jpg?r=1498990565",
+        "link": "https://bgm.tv/character/3205",
+        "categorie": "person"
+      },
+      {
+        "id": "4237",
+        "label": "荒耶宗莲",
+        "info": "外表45岁左右的男性。魔术师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/e7/4237_crt_XxkoN.jpg",
+        "link": "https://bgm.tv/character/4237",
+        "categorie": "person"
+      },
+      {
+        "id": "15970",
+        "label": "芦家医生",
+        "info": "两仪式入住的医院的脑外科医生，个性不喜欢开玩笑。与医治远野志贵的脑外科医生拥有相同的姓氏，关系不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/e0/15970_crt_9Y8SS.jpg",
+        "link": "https://bgm.tv/character/15970",
+        "categorie": "person"
+      },
+      {
+        "id": "15972",
+        "label": "两仪式的母亲",
+        "info": "两仪式的母亲，身着和服的古风美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/83/15972_crt_NRvOb.jpg",
+        "link": "https://bgm.tv/character/15972",
+        "categorie": "person"
+      },
+      {
+        "id": "15971",
+        "label": "砚木秋隆",
+        "info": "两仪家的管家，担任两仪式父亲的秘书，照顾着式的起居，后又承担起照顾未那的责任，拥有着无意义、且没有抑扬的声音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/c7/15971_crt_80syZ.jpg",
+        "link": "https://bgm.tv/character/15971",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

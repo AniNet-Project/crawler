@@ -1,0 +1,237 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9026",
+        "label": "三桥廉",
+        "info": "西浦のエース。自分に自信がなくオドオドしがちだが、投げることへの熱意は人一倍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/29/9026_crt_Lqqq0.jpg?r=1398188556",
+        "link": "https://bgm.tv/character/9026",
+        "categorie": "person"
+      },
+      {
+        "id": "10832",
+        "label": "阿部隆也",
+        "info": "三橋とバッテリーを組む強気な頭脳派捕手。基本的に冷静だが、イライラすると大声に。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a9/10832_crt_fwnNI.jpg?r=1398188532",
+        "link": "https://bgm.tv/character/10832",
+        "categorie": "person"
+      },
+      {
+        "id": "10833",
+        "label": "花井梓",
+        "info": "面倒見のいい頼れる主将。田島にライバル意識がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/56/10833_crt_c3K5c.jpg",
+        "link": "https://bgm.tv/character/10833",
+        "categorie": "person"
+      },
+      {
+        "id": "10836",
+        "label": "田岛悠一郎",
+        "info": "無邪気で野球センス抜群。「一試合やって打てなかった球はない」という４番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/af/10836_crt_YGTzt.jpg?r=1398188576",
+        "link": "https://bgm.tv/character/10836",
+        "categorie": "person"
+      },
+      {
+        "id": "10837",
+        "label": "冲一利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/89/10837_crt_hpypn.jpg",
+        "link": "https://bgm.tv/character/10837",
+        "categorie": "person"
+      },
+      {
+        "id": "10838",
+        "label": "荣口勇人",
+        "info": "細やかな気配りのできる優しい性格の副主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/5f/10838_crt_a83QO.jpg",
+        "link": "https://bgm.tv/character/10838",
+        "categorie": "person"
+      },
+      {
+        "id": "10840",
+        "label": "巢山尚志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/7c/10840_crt_PTWek.jpg",
+        "link": "https://bgm.tv/character/10840",
+        "categorie": "person"
+      },
+      {
+        "id": "13108",
+        "label": "水谷文贵",
+        "info": "時々見せる間の抜けた言動やプレーは愛きょうか。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/fe/13108_crt_v8mkw.jpg",
+        "link": "https://bgm.tv/character/13108",
+        "categorie": "person"
+      },
+      {
+        "id": "13109",
+        "label": "泉孝介",
+        "info": "クールな言動が目立つが内には秘めたる闘志が。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/71/13109_crt_1AaA1.jpg",
+        "link": "https://bgm.tv/character/13109",
+        "categorie": "person"
+      },
+      {
+        "id": "21481",
+        "label": "榛名元希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/79/21481_crt_2skpy.jpg",
+        "link": "https://bgm.tv/character/21481",
+        "categorie": "person"
+      },
+      {
+        "id": "21482",
+        "label": "秋丸恭平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/84/21482_crt_MEANQ.jpg",
+        "link": "https://bgm.tv/character/21482",
+        "categorie": "person"
+      },
+      {
+        "id": "23998",
+        "label": "仲沢利央",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d0/23998_crt_7PdoP.jpg",
+        "link": "https://bgm.tv/character/23998",
+        "categorie": "person"
+      },
+      {
+        "id": "24000",
+        "label": "筱冈千代",
+        "info": "经理人。垒球经验者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/08/24000_crt_Ttywg.jpg",
+        "link": "https://bgm.tv/character/24000",
+        "categorie": "person"
+      },
+      {
+        "id": "24040",
+        "label": "铃木葵",
+        "info": "和凉是双胞胎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/74/24040_crt_fW8Pm.jpg",
+        "link": "https://bgm.tv/character/24040",
+        "categorie": "person"
+      },
+      {
+        "id": "24041",
+        "label": "铃木凉",
+        "info": "和葵是双胞胎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/21/24041_crt_4lx8x.jpg",
+        "link": "https://bgm.tv/character/24041",
+        "categorie": "person"
+      },
+      {
+        "id": "24047",
+        "label": "百枝玛利亚",
+        "info": "西浦高校监督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/75/24047_crt_68utC.jpg",
+        "link": "https://bgm.tv/character/24047",
+        "categorie": "person"
+      },
+      {
+        "id": "28442",
+        "label": "西广辰太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/26/28442_crt_8KhoN.jpg",
+        "link": "https://bgm.tv/character/28442",
+        "categorie": "person"
+      },
+      {
+        "id": "31314",
+        "label": "高濑准太",
+        "info": "生日：2月2日 血型：O型",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/41/31314_crt_KEkkB.jpg",
+        "link": "https://bgm.tv/character/31314",
+        "categorie": "person"
+      },
+      {
+        "id": "33571",
+        "label": "河合和己",
+        "info": "捕手[12]。右投右打[12]。背番号2。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/6f/33571_crt_P82gV.jpg",
+        "link": "https://bgm.tv/character/33571",
+        "categorie": "person"
+      },
+      {
+        "id": "33572",
+        "label": "加具山直人",
+        "info": "投手[7]、右翼手。右投右打[7]。背番号1。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/d9/33572_crt_F9jC9.jpg",
+        "link": "https://bgm.tv/character/33572",
+        "categorie": "person"
+      },
+      {
+        "id": "33573",
+        "label": "柴有紀",
+        "info": "一塁手。右投左打。背番号3。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/e4/33573_crt_YXJf7.jpg",
+        "link": "https://bgm.tv/character/33573",
+        "categorie": "person"
+      },
+      {
+        "id": "33595",
+        "label": "志賀剛司",
+        "info": "野球部責任教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/01/33595_crt_2xwXw.jpg",
+        "link": "https://bgm.tv/character/33595",
+        "categorie": "person"
+      },
+      {
+        "id": "33599",
+        "label": "浜田良郎",
+        "info": "団長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/b6/33599_crt_5vont.jpg",
+        "link": "https://bgm.tv/character/33599",
+        "categorie": "person"
+      },
+      {
+        "id": "33574",
+        "label": "三橋尚江",
+        "info": "三橋廉の母。西浦の卒業生で、埼玉大学教育学部准教授（廉4歳当時）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/ff/33574_crt_VjCPb.jpg",
+        "link": "https://bgm.tv/character/33574",
+        "categorie": "person"
+      },
+      {
+        "id": "33612",
+        "label": "花井きく江",
+        "info": "花井梓の母。ハキハキとした明るい性格で、保護者たちの中心的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/84/33612_crt_PvPDD.jpg",
+        "link": "https://bgm.tv/character/33612",
+        "categorie": "person"
+      },
+      {
+        "id": "33626",
+        "label": "大河浩宣",
+        "info": "三塁手。右投右打。背番号5。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/4e/33626_crt_RSHFY.jpg",
+        "link": "https://bgm.tv/character/33626",
+        "categorie": "person"
+      },
+      {
+        "id": "33627",
+        "label": "町田祐樹",
+        "info": "捕手。右投右打。背番号2。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/ef/33627_crt_o9muW.jpg",
+        "link": "https://bgm.tv/character/33627",
+        "categorie": "person"
+      },
+      {
+        "id": "33628",
+        "label": "宮下涼音",
+        "info": "マネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/3d/33628_crt_00Yo0.jpg",
+        "link": "https://bgm.tv/character/33628",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

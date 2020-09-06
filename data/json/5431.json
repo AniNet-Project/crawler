@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14018",
+        "label": "狼牙",
+        "info": "个性相当高傲，但也因为不知人间世故冷暖，所以性格纯真。他深信在世界上存在着“乐园”，并决定开始追寻的旅程。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/4b/14018_crt_HhmuM.jpg",
+        "link": "https://bgm.tv/character/14018",
+        "categorie": "person"
+      },
+      {
+        "id": "14019",
+        "label": "狼须",
+        "info": "可以嗅到十公里外狗厕所的味道的狼，贪吃，幽默 。却又背负着背叛同伴的罪孽。其实是只很温柔的狼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/a2/14019_crt_hltop.jpg",
+        "link": "https://bgm.tv/character/14019",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

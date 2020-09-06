@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21678",
+        "label": "泽村荣纯",
+        "info": "出生地：长野县",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/6e/21678_crt_j25z3.jpg?r=1397061220",
+        "link": "https://bgm.tv/character/21678",
+        "categorie": "person"
+      },
+      {
+        "id": "21680",
+        "label": "降谷晓",
+        "info": "投手、左外野手。右投右打。一年级。背号11号。O型。身材纤长。北海道苫小牧中学出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/49/21680_crt_5dW5D.jpg?r=1397061628",
+        "link": "https://bgm.tv/character/21680",
+        "categorie": "person"
+      },
+      {
+        "id": "21679",
+        "label": "御幸一也",
+        "info": "出生地：东京都",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/7d/21679_crt_wAp2i.jpg?r=1397061430",
+        "link": "https://bgm.tv/character/21679",
+        "categorie": "person"
+      },
+      {
+        "id": "56348",
+        "label": "奥村光舟",
+        "info": "捕手。大京シニア出身。右投右打。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ab/56348_crt_wTHf2.jpg",
+        "link": "https://bgm.tv/character/56348",
+        "categorie": "person"
+      },
+      {
+        "id": "53349",
+        "label": "关直道",
+        "info": "外野手。二軍( - 2夏）→背番号13（2秋）。秋に一軍昇格し、ベンチ入りとなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/6d/53349_crt_R6i5c.jpg?r=1492171074",
+        "link": "https://bgm.tv/character/53349",
+        "categorie": "person"
+      },
+      {
+        "id": "21682",
+        "label": "仓持洋一",
+        "info": "游擊手、左右手皆可使用（基本上是右投）右投兩打。二年級。背號6號。A型。千葉縣出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/f7/21682_crt_oZ179.jpg?r=1397061850",
+        "link": "https://bgm.tv/character/21682",
+        "categorie": "person"
+      },
+      {
+        "id": "21681",
+        "label": "小凑春市",
+        "info": "出身地：神奈川县",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/aa/21681_crt_smTsS.jpg?r=1397061730",
+        "link": "https://bgm.tv/character/21681",
+        "categorie": "person"
+      },
+      {
+        "id": "56347",
+        "label": "结城将司",
+        "info": "背番号19（1春）。赤堂中学・国分シニア出身。右投右打。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d1/56347_crt_F1Nfu.jpg",
+        "link": "https://bgm.tv/character/56347",
+        "categorie": "person"
+      },
+      {
+        "id": "48680",
+        "label": "濑户拓马",
+        "info": "二塁手。大京シニア出身。右投左打。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/d2/48680_crt_H1X51.jpg?r=1479468459",
+        "link": "https://bgm.tv/character/48680",
+        "categorie": "person"
+      },
+      {
+        "id": "67451",
+        "label": "由井薰",
+        "info": "捕手。背番号20（1春）→19（1夏）。間宮シニア出身。右投左打。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/38/67451_crt_WVdIi.jpg",
+        "link": "https://bgm.tv/character/67451",
+        "categorie": "person"
+      },
+      {
+        "id": "67452",
+        "label": "浅田浩文",
+        "info": "投手。武藤中学出身。左投げ。持ち球は縦に大きく割れるドロップカーブ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/80/67452_crt_9oSoW.jpg",
+        "link": "https://bgm.tv/character/67452",
+        "categorie": "person"
+      },
+      {
+        "id": "69451",
+        "label": "本乡正宗",
+        "info": "巨摩大藤巻高校2年生。投手。右投げ右打ち。背番号1。打順は6番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/6c/69451_crt_EPB9b.jpg",
+        "link": "https://bgm.tv/character/69451",
+        "categorie": "person"
+      },
+      {
+        "id": "69452",
+        "label": "圆城莲司",
+        "info": "巨摩大藤巻高校2年生。捕手。右投げ。背番号2。打順は5番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d7/69452_crt_ff4n0.jpg",
+        "link": "https://bgm.tv/character/69452",
+        "categorie": "person"
+      },
+      {
+        "id": "52502",
+        "label": "吉川春乃",
+        "info": "球队经理。一年级。与泽村荣纯同班级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/31/52502_crt_jr6UR.jpg",
+        "link": "https://bgm.tv/character/52502",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

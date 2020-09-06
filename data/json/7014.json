@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12461",
+        "label": "伊达政宗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/00/12461_crt_MEke2.jpg",
+        "link": "https://bgm.tv/character/12461",
+        "categorie": "person"
+      },
+      {
+        "id": "12460",
+        "label": "长宗我部元亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/89/12460_crt_cAt2F.jpg",
+        "link": "https://bgm.tv/character/12460",
+        "categorie": "person"
+      },
+      {
+        "id": "12462",
+        "label": "片仓景纲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/1b/12462_crt_245To.jpg",
+        "link": "https://bgm.tv/character/12462",
+        "categorie": "person"
+      },
+      {
+        "id": "12463",
+        "label": "伊达成实",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/af/12463_crt_yk5E6.jpg",
+        "link": "https://bgm.tv/character/12463",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

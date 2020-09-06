@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10834",
+        "label": "阿鲁卡多",
+        "info": "登場作品：悪魔城伝説、悪魔城ドラキュラX 月下の夜想曲、キャッスルヴァニア 暁月の円舞曲、悪魔城ドラキュラ 蒼月の十字架、悪魔城ドラキュラ 漆黒たる前奏曲、悪魔城ドラキュラ ジャッジメント、悪魔城ドラキュラ ハーモニー オブ ディスペアー、キャッスルヴァニア ロード オブ シャドウ 宿命の魔鏡、悪魔城ドラキュラ ロード オブ シャドウ2、悪魔城ドラキュラX 追憶の夜想曲、アニメ・悪魔城ドラキュラ －キャッスルヴァニア－",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/e7/10834_crt_A061S.jpg",
+        "link": "https://bgm.tv/character/10834",
+        "categorie": "person"
+      },
+      {
+        "id": "10845",
+        "label": "德古拉",
+        "info": "德古拉，原型来自外号为“穿刺公”的中世纪人物‧瓦拉几亚大公弗拉德三世，他在1456年至1462年间统治现在的川西凡尼亚地区。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/9f/10845_crt_OGLit.jpg",
+        "link": "https://bgm.tv/character/10845",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

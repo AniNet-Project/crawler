@@ -1,0 +1,245 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46501",
+        "label": "盖纳·桑加",
+        "info": "17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/0c/46501_crt_8c3yZ.jpg?r=1474377074",
+        "link": "https://bgm.tv/character/46501",
+        "categorie": "person"
+      },
+      {
+        "id": "46502",
+        "label": "该隐·比琼",
+        "info": "28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/7f/46502_crt_Y8WyZ.jpg?r=1474377153",
+        "link": "https://bgm.tv/character/46502",
+        "categorie": "person"
+      },
+      {
+        "id": "46504",
+        "label": "莎拉·柯达玛",
+        "info": "17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/3c/46504_crt_BLX6l.jpg?r=1474377221",
+        "link": "https://bgm.tv/character/46504",
+        "categorie": "person"
+      },
+      {
+        "id": "46510",
+        "label": "安娜·密达尤",
+        "info": "8歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/f5/46510_crt_xttTd.jpg?r=1474377634",
+        "link": "https://bgm.tv/character/46510",
+        "categorie": "person"
+      },
+      {
+        "id": "46512",
+        "label": "ママドゥ・アザフ",
+        "info": "42歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/9a/46512_crt_7zO7o.jpg?r=1474377814",
+        "link": "https://bgm.tv/character/46512",
+        "categorie": "person"
+      },
+      {
+        "id": "46513",
+        "label": "ヒューズ・ガウリ",
+        "info": "28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/f5/46513_crt_c9IrU.jpg?r=1474377891",
+        "link": "https://bgm.tv/character/46513",
+        "categorie": "person"
+      },
+      {
+        "id": "46516",
+        "label": "タン",
+        "info": "バッハクロンのクルー。ベローの横で、操舵手の補佐をしているコナたち整備員の手伝いに借り出されることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/9c/46516_crt_XBDb1.jpg?r=1474378112",
+        "link": "https://bgm.tv/character/46516",
+        "categorie": "person"
+      },
+      {
+        "id": "46517",
+        "label": "トゥン",
+        "info": "26歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/89/46517_crt_EQxd0.jpg?r=1474379070",
+        "link": "https://bgm.tv/character/46517",
+        "categorie": "person"
+      },
+      {
+        "id": "46518",
+        "label": "シッタ",
+        "info": "ガウリ隊の一員。バッハクロンのブリッジに詰めており、艦内アナウンスなどを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/96/46518_crt_xWecX.jpg?r=1474378483",
+        "link": "https://bgm.tv/character/46518",
+        "categorie": "person"
+      },
+      {
+        "id": "46522",
+        "label": "キッズ・ムント",
+        "info": "61歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/88/46522_crt_oSO9L.jpg",
+        "link": "https://bgm.tv/character/46522",
+        "categorie": "person"
+      },
+      {
+        "id": "46525",
+        "label": "ヤッサバ・ジン",
+        "info": "32歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/76/46525_crt_HtFkI.jpg",
+        "link": "https://bgm.tv/character/46525",
+        "categorie": "person"
+      },
+      {
+        "id": "46526",
+        "label": "アデット・キスラー",
+        "info": "25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/6b/46526_crt_cLblB.jpg",
+        "link": "https://bgm.tv/character/46526",
+        "categorie": "person"
+      },
+      {
+        "id": "46528",
+        "label": "エンゲ・ガム",
+        "info": "30歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/01/46528_crt_iRs29.jpg",
+        "link": "https://bgm.tv/character/46528",
+        "categorie": "person"
+      },
+      {
+        "id": "46530",
+        "label": "カシマル・バーレ",
+        "info": "39歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/16/46530_crt_DXSzR.jpg",
+        "link": "https://bgm.tv/character/46530",
+        "categorie": "person"
+      },
+      {
+        "id": "46531",
+        "label": "アスハム・ブーン",
+        "info": "28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/ac/46531_crt_177k1.jpg",
+        "link": "https://bgm.tv/character/46531",
+        "categorie": "person"
+      },
+      {
+        "id": "46533",
+        "label": "マルチナ・レーン",
+        "info": "シンシアの祖母。かつてはオーバーマン乗りで、強力なオーバーセンスをもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/af/46533_crt_SP8op.jpg?r=1474379797",
+        "link": "https://bgm.tv/character/46533",
+        "categorie": "person"
+      },
+      {
+        "id": "46534",
+        "label": "エリアル・ニールセン",
+        "info": "ゲインの旧友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/3f/46534_crt_GF8lZ.jpg",
+        "link": "https://bgm.tv/character/46534",
+        "categorie": "person"
+      },
+      {
+        "id": "46535",
+        "label": "ピルウィッツ公爵",
+        "info": "ドームポリス・ポリチェフを統括している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d6/46535_crt_8sTzK.jpg",
+        "link": "https://bgm.tv/character/46535",
+        "categorie": "person"
+      },
+      {
+        "id": "46508",
+        "label": "ベロー・コリッシュ",
+        "info": "20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/28/46508_crt_GYRj2.jpg?r=1474377537",
+        "link": "https://bgm.tv/character/46508",
+        "categorie": "person"
+      },
+      {
+        "id": "46511",
+        "label": "リュボフ・スメッタナ",
+        "info": "20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/62/46511_crt_oL3yd.jpg?r=1474379052",
+        "link": "https://bgm.tv/character/46511",
+        "categorie": "person"
+      },
+      {
+        "id": "46514",
+        "label": "コナ・マダヤ",
+        "info": "27歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/05/46514_crt_O5oAr.jpg?r=1474378126",
+        "link": "https://bgm.tv/character/46514",
+        "categorie": "person"
+      },
+      {
+        "id": "46515",
+        "label": "ナン",
+        "info": "25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/ec/46515_crt_Rg4Ak.jpg?r=1474378046",
+        "link": "https://bgm.tv/character/46515",
+        "categorie": "person"
+      },
+      {
+        "id": "46519",
+        "label": "ミイヤ・ラウジン",
+        "info": "20歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/50/46519_crt_PkK54.jpg?r=1474379085",
+        "link": "https://bgm.tv/character/46519",
+        "categorie": "person"
+      },
+      {
+        "id": "46520",
+        "label": "ルブル・ウォン・ダラ",
+        "info": "36歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/43/46520_crt_Z3h36.jpg?r=1474378897",
+        "link": "https://bgm.tv/character/46520",
+        "categorie": "person"
+      },
+      {
+        "id": "46521",
+        "label": "エリザベス",
+        "info": "19歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/02/46521_crt_XmfjZ.jpg?r=1474379009",
+        "link": "https://bgm.tv/character/46521",
+        "categorie": "person"
+      },
+      {
+        "id": "46523",
+        "label": "辛西娅·琳",
+        "info": "18歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/85/46523_crt_l9Lj9.jpg?r=1474379267",
+        "link": "https://bgm.tv/character/46523",
+        "categorie": "person"
+      },
+      {
+        "id": "46527",
+        "label": "ケジナン・ダッド",
+        "info": "31歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/ac/46527_crt_a0iVT.jpg",
+        "link": "https://bgm.tv/character/46527",
+        "categorie": "person"
+      },
+      {
+        "id": "46529",
+        "label": "ジャボリ・マリエーラ",
+        "info": "23歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/ed/46529_crt_wD99B.jpg",
+        "link": "https://bgm.tv/character/46529",
+        "categorie": "person"
+      },
+      {
+        "id": "46532",
+        "label": "ザッキ・ブロンコ",
+        "info": "24歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/bf/46532_crt_9d6Ou.jpg",
+        "link": "https://bgm.tv/character/46532",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

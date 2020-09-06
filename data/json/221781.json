@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18102",
+        "label": "三笠·阿克曼",
+        "info": "本作的女主角。15岁（835年生）。由于身为艾连的青梅竹马之故，两人经常一起行动。沉默寡言、表情稀少的美少女，有腹肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/40/18102_crt_efUIu.jpg?r=1561309019",
+        "link": "https://bgm.tv/character/18102",
+        "categorie": "person"
+      },
+      {
+        "id": "19618",
+        "label": "亚妮·雷恩哈特",
+        "info": "第104期训练兵团第4名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/aa/19618_crt_dOIIW.jpg?r=1493555519",
+        "link": "https://bgm.tv/character/19618",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40027",
+        "label": "炎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/f9/40027_crt_74T6j.jpg",
+        "link": "https://bgm.tv/character/40027",
+        "categorie": "person"
+      },
+      {
+        "id": "892",
+        "label": "鸦",
+        "info": "既非人也非妖怪的“都市守护者”。变身使用黑色铠甲很巨大长刀斩除对手。必须舍弃一切“自我”，成为城市的忠实仆人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/a7/892_crt_5Babg.jpg",
+        "link": "https://bgm.tv/character/892",
+        "categorie": "person"
+      },
+      {
+        "id": "893",
+        "label": "乙羽",
+        "info": "身世与来历目前都是迷的神秘青年，被挑选成为新一代“鸦”的继承者，由百合音取名为“乙羽”，会在战斗时施展华丽的剑法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/cf/893_crt_O4zvw.jpg",
+        "link": "https://bgm.tv/character/893",
+        "categorie": "person"
+      },
+      {
+        "id": "894",
+        "label": "百合音",
+        "info": "一头飘逸长发的奇异少女，据说是“都市意志’的代言人。作为”鸦‘的指挥者，专门消灭一切与都市敌对的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/53/894_crt_1h8xb.jpg?r=1400708427",
+        "link": "https://bgm.tv/character/894",
+        "categorie": "person"
+      },
+      {
+        "id": "895",
+        "label": "凤春院回向",
+        "info": "曾经被选作“鸦’的男子，现在已经取回了自己以往的名字。其身份是经济界的巨头，不夜城新宿的创始人之一。在从事‘鸦之铠”的研究中，完成了新的技术，打算以此来塑造新的都市秩序。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/18/895_crt_33J0R.jpg",
+        "link": "https://bgm.tv/character/895",
+        "categorie": "person"
+      },
+      {
+        "id": "25167",
+        "label": "鵺",
+        "info": "谜样人物。目的不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e6/25167_crt_xIFeS.jpg?r=1400766810",
+        "link": "https://bgm.tv/character/25167",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

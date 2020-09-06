@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4601",
+        "label": "高桥七美",
+        "info": "第一女主角，个性冒失，带点浑然天成的迷糊。长得不是很漂亮，成绩也不优异，亦不是运动全能，身材也不出众，只是一个极为普通的可爱女生。在动画刚开始时，她决心不会像全校三份之二的女生那样迷恋矢野，但后来她却对矢野越来越好奇。主动向矢野表白。慢慢走进矢野那暗藏着无法直面深刻回忆的过去，与矢野分分合合。约定一年后在东京与矢野见面，可渐渐失去其联络，不知原因。被竹内求婚，但拒绝，原因是还无法忘记矢野。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/1d/4601_crt_LoLxb.jpg?r=1514980616",
+        "link": "https://bgm.tv/character/4601",
+        "categorie": "person"
+      },
+      {
+        "id": "11021",
+        "label": "矢野元晴",
+        "info": "男主角也是本篇主人公，一个在学校里很有人气的男生，大多数的女生都迷恋于他。他是一个十分轻浮的人，有时候十分冷淡。但就像七美所说的，“他不经意笑起来时很可爱”。尽管有时候他显得很冷静，但是他却有一段痛苦的时间不相信女人。他解释说他的前女友和母亲影响了他对女人的信任。这也是他强烈的希望七美不要离开和背叛他的原因。高三那年因为母亲的离婚，从而转校到东京读书，并和七美相约一起上东京的大学。自从母亲自杀后，便渐渐失去与七美的联络。其后被母亲的朋友，亲生父亲的妻子收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/0d/11021_crt_744t9.jpg",
+        "link": "https://bgm.tv/character/11021",
+        "categorie": "person"
+      },
+      {
+        "id": "4602",
+        "label": "竹内匡史",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/59/4602_crt_wwVnq.jpg",
+        "link": "https://bgm.tv/character/4602",
+        "categorie": "person"
+      },
+      {
+        "id": "44359",
+        "label": "山本有里",
+        "info": "七美の同級生。矢野と同じ中学出身。山本奈々の実の妹。中学時代から矢野に惹かれており、姉の死をきっかけに矢野と一度関係を持つ。矢野が北海道に戻った後を追って東京の大学を辞め、自身も北海道へ帰る。失踪後の矢野の居場所を知っていた唯一の人物であり、現在は矢野と東京で同棲している。地味でおとなしく、利発で美人の奈々と比べられていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/d0/44359_crt_8H2GH.jpg",
+        "link": "https://bgm.tv/character/44359",
+        "categorie": "person"
+      },
+      {
+        "id": "47929",
+        "label": "山本奈奈",
+        "info": "矢野より一つ年上の中学時代の元彼女。山本有里の実の姉。「かわいい」と評判の美少女で矢野に出会う前に付き合っていた元彼とドライブ中に交通事故に遭い亡くなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/67/47929_crt_mAme2.jpg?r=1478166900",
+        "link": "https://bgm.tv/character/47929",
+        "categorie": "person"
+      },
+      {
+        "id": "47930",
+        "label": "水口",
+        "info": "七美の親友。七美たちからは｢水ちん｣と呼ばれている。矢野のことが好きだった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/af/47930_crt_Tn6Hg.jpg?r=1478167022",
+        "link": "https://bgm.tv/character/47930",
+        "categorie": "person"
+      },
+      {
+        "id": "47931",
+        "label": "竹内文香",
+        "info": "竹内匡史の七つ違いの姉。ジュエリーショップに勤務し、現在は店長を任されている。既婚者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/75/47931_crt_R5ax8.jpg",
+        "link": "https://bgm.tv/character/47931",
+        "categorie": "person"
+      },
+      {
+        "id": "47932",
+        "label": "タカちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/ba/47932_crt_7x440.jpg?r=1478167242",
+        "link": "https://bgm.tv/character/47932",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

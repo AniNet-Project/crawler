@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "83",
+        "label": "摩诃·亚邦",
+        "info": "与SOUL EATER组成一对组合的工匠少女，有日本血统。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/5b/83_crt_ZBb6Z.jpg?r=1395027062",
+        "link": "https://bgm.tv/character/83",
+        "categorie": "person"
+      },
+      {
+        "id": "161",
+        "label": "噬魂师",
+        "info": "EAT class所属的武器（魔镰）。以不良为目标，实际上是个好人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/5e/161_crt_39Rxa.jpg?r=1395027257",
+        "link": "https://bgm.tv/character/161",
+        "categorie": "person"
+      },
+      {
+        "id": "162",
+        "label": "黑☆星",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/ac/162_crt_LN9FM.jpg",
+        "link": "https://bgm.tv/character/162",
+        "categorie": "person"
+      },
+      {
+        "id": "163",
+        "label": "中务椿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/3a/163_crt_80E4z.jpg",
+        "link": "https://bgm.tv/character/163",
+        "categorie": "person"
+      },
+      {
+        "id": "164",
+        "label": "死神之子",
+        "info": "死神様の息子で、二丁魔拳銃トンプソン姉妹とトリオを組む職人。向かって右側の前髪に白い三本線が入っている。うなじの所の髪がはねており、瞳は黄色。文武両道に長けた天才。血液型Ｄ(デス)型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/8b/164_crt_cbsC1.jpg?r=1425454128",
+        "link": "https://bgm.tv/character/164",
+        "categorie": "person"
+      },
+      {
+        "id": "169",
+        "label": "莉兹·汤普森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/14/169_crt_Usd6k.jpg",
+        "link": "https://bgm.tv/character/169",
+        "categorie": "person"
+      },
+      {
+        "id": "170",
+        "label": "帕蒂·汤普森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/47/170_crt_4z2e5.jpg",
+        "link": "https://bgm.tv/character/170",
+        "categorie": "person"
+      },
+      {
+        "id": "166",
+        "label": "弗兰肯斯坦",
+        "info": "人物命名借鉴于美国导演J. Searle Dawley执导的电影《科学怪人》中的主人公Frankenstein。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/bb/166_crt_YfrC0.jpg",
+        "link": "https://bgm.tv/character/166",
+        "categorie": "person"
+      },
+      {
+        "id": "168",
+        "label": "死神",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/a0/168_crt_04GvV.jpg",
+        "link": "https://bgm.tv/character/168",
+        "categorie": "person"
+      },
+      {
+        "id": "172",
+        "label": "死人·巴雷特",
+        "info": "死武专教师，生前为最高阶的“三星工匠”，死后被索达恩改造为僵尸。使用莱姬斯（军用匕首）当作武器。可以在地下自由活动。经常受死神的命令出差。生前的口头禅是“我就是这样的男人”，死后改成“我生前就是这样的男人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/c9/172_crt_175S6.jpg?r=1395026961",
+        "link": "https://bgm.tv/character/172",
+        "categorie": "person"
+      },
+      {
+        "id": "174",
+        "label": "贝雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/69/174_crt_5PFPE.jpg",
+        "link": "https://bgm.tv/character/174",
+        "categorie": "person"
+      },
+      {
+        "id": "4227",
+        "label": "苏比利特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/fd/4227_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4227",
+        "categorie": "person"
+      },
+      {
+        "id": "4228",
+        "label": "安吉拉·莉昂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/64/4228_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4228",
+        "categorie": "person"
+      },
+      {
+        "id": "4229",
+        "label": "古洛那",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/cd/4229_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4229",
+        "categorie": "person"
+      },
+      {
+        "id": "4230",
+        "label": "エクスカリバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/e1/4230_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4230",
+        "categorie": "person"
+      },
+      {
+        "id": "4231",
+        "label": "エルカ・フロッグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/10/4231_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4231",
+        "categorie": "person"
+      },
+      {
+        "id": "4232",
+        "label": "オックス・フォード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/24/4232_crt_anidb.jpg?r=1480704153",
+        "link": "https://bgm.tv/character/4232",
+        "categorie": "person"
+      },
+      {
+        "id": "4233",
+        "label": "阿修羅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/c7/4233_crt_97z9f.jpg",
+        "link": "https://bgm.tv/character/4233",
+        "categorie": "person"
+      },
+      {
+        "id": "4234",
+        "label": "玛莉·穆尼亚",
+        "info": "DeathScythe，大洋洲的负责人。武器姿态是雷网。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/72/4234_crt_YMC33.jpg",
+        "link": "https://bgm.tv/character/4234",
+        "categorie": "person"
+      },
+      {
+        "id": "4235",
+        "label": "基利哥",
+        "info": "魔武器电锯，和查士丁一样是不需要工匠便能独自战斗的武器。用将记忆留在基因里的方法在利芙村隐藏800年，默默的等待着蜘蛛魔女奥拉克妮复活。最后一代是以人形技师阿素的身份，遇见玛嘉等人后将身份暴露。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/d2/4235_crt_kZGpl.jpg",
+        "link": "https://bgm.tv/character/4235",
+        "categorie": "person"
+      },
+      {
+        "id": "4236",
+        "label": "美杜莎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d5/4236_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4236",
+        "categorie": "person"
+      },
+      {
+        "id": "11681",
+        "label": "查士丁·罗",
+        "info": "现年十七岁，十三岁时便靠自己的实力成为史上最年轻的Death Scythe。欧洲负责人。神父扮相。武器姿态为断头台，能自由的变化为半武器姿态进行战斗。耳机不离身，会读唇术，但对于死神大人或迪斯卡这种带着面具的人无效。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/df/11681_crt_rqz94.jpg",
+        "link": "https://bgm.tv/character/11681",
+        "categorie": "person"
+      },
+      {
+        "id": "24078",
+        "label": "基姆·提尔",
+        "info": "在死武专上学的职人少女。外表可爱，喜欢金钱。因为身上有秘密，所以故意疏远别人···",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c6/24078_crt_YHEUZ.jpg?r=1395026224",
+        "link": "https://bgm.tv/character/24078",
+        "categorie": "person"
+      },
+      {
+        "id": "24079",
+        "label": "杰可林·欧·蓝特·迪布雷",
+        "info": "住在女子宿舍的武器少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/e2/24079_crt_2j399.jpg?r=1395026505",
+        "link": "https://bgm.tv/character/24079",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

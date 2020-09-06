@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55796",
+        "label": "射干",
+        "info": "平安京の北、鞍馬山に住まう大鳥の妖怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/42/55796_crt_u9VZ2.jpg",
+        "link": "https://bgm.tv/character/55796",
+        "categorie": "person"
+      },
+      {
+        "id": "55797",
+        "label": "牛若丸",
+        "info": "父・源頼朝が平家に討たれた後、平清盛の前に連れ出され",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/41/55797_crt_gaPzt.jpg",
+        "link": "https://bgm.tv/character/55797",
+        "categorie": "person"
+      },
+      {
+        "id": "55798",
+        "label": "妖女",
+        "info": "鳥の妖怪、シャガの妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/0f/55798_crt_jtoj1.jpg",
+        "link": "https://bgm.tv/character/55798",
+        "categorie": "person"
+      },
+      {
+        "id": "63190",
+        "label": "平清盛",
+        "info": "「平氏にあらずんば人にあらず」と言わしめ",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/2b/63190_crt_zsaIW.jpg",
+        "link": "https://bgm.tv/character/63190",
+        "categorie": "person"
+      },
+      {
+        "id": "63188",
+        "label": "丰姬",
+        "info": "いつからか、清盛の側に寄り添うようになった",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/84/63188_crt_Mv7vo.jpg",
+        "link": "https://bgm.tv/character/63188",
+        "categorie": "person"
+      },
+      {
+        "id": "63189",
+        "label": "依姬",
+        "info": "白拍子姉妹の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/1f/63189_crt_xHLH3.jpg",
+        "link": "https://bgm.tv/character/63189",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "64502",
+        "label": "八咫烏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/a6/64502_crt_3gZpI.jpg",
+        "link": "https://bgm.tv/character/64502",
+        "categorie": "person"
+      },
+      {
+        "id": "63191",
+        "label": "山に住む娘",
+        "info": "人里を離れ、山の上に住んでいる娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/18/63191_crt_juK1x.jpg",
+        "link": "https://bgm.tv/character/63191",
+        "categorie": "person"
+      },
+      {
+        "id": "63192",
+        "label": "農村の男",
+        "info": "山の麓にある農村の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/4d/63192_crt_mo3UX.jpg",
+        "link": "https://bgm.tv/character/63192",
+        "categorie": "person"
+      },
+      {
+        "id": "63193",
+        "label": "件",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/f0/63193_crt_85HZt.jpg",
+        "link": "https://bgm.tv/character/63193",
+        "categorie": "person"
+      },
+      {
+        "id": "63194",
+        "label": "都から来た若者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/5f/63194_crt_awl0w.jpg",
+        "link": "https://bgm.tv/character/63194",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

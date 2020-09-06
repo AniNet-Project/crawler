@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71152",
+        "label": "薰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/d9/71152_crt_VR655.jpg?r=1564854530",
+        "link": "https://bgm.tv/character/71152",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

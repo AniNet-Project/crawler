@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59853",
+        "label": "伢叔",
+        "info": "小敏的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/ab/59853_crt_5Usps.jpg",
+        "link": "https://bgm.tv/character/59853",
+        "categorie": "person"
+      },
+      {
+        "id": "47151",
+        "label": "美少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/dd/47151_crt_2LbYZ.jpg?r=1476367392",
+        "link": "https://bgm.tv/character/47151",
+        "categorie": "person"
+      },
+      {
+        "id": "59854",
+        "label": "小敏",
+        "info": "擅长空手道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/eb/59854_crt_5BQQ8.jpg",
+        "link": "https://bgm.tv/character/59854",
+        "categorie": "person"
+      },
+      {
+        "id": "59855",
+        "label": "王子",
+        "info": "某未知星球的王子，同时也是宇宙侵略先遣队的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/7b/59855_crt_375H8.jpg",
+        "link": "https://bgm.tv/character/59855",
+        "categorie": "person"
+      },
+      {
+        "id": "62017",
+        "label": "老王",
+        "info": "山田先生",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/14/62017_crt_9n4cM.jpg",
+        "link": "https://bgm.tv/character/62017",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

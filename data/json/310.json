@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6745",
+        "label": "サン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/ed/6745_crt_anidb.jpg?r=1421388344",
+        "link": "https://bgm.tv/character/6745",
+        "categorie": "person"
+      },
+      {
+        "id": "27786",
+        "label": "阿席达卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/cd/27786_crt_Pw5gH.jpg?r=1434816548",
+        "link": "https://bgm.tv/character/27786",
+        "categorie": "person"
+      },
+      {
+        "id": "7424",
+        "label": "エボシ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/08/7424_crt_anidb.jpg?r=1421388361",
+        "link": "https://bgm.tv/character/7424",
+        "categorie": "person"
+      },
+      {
+        "id": "7427",
+        "label": "乙事主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e0/7427_crt_XJL9h.jpg",
+        "link": "https://bgm.tv/character/7427",
+        "categorie": "person"
+      },
+      {
+        "id": "7428",
+        "label": "甲六",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/f2/7428_crt_vIK68.jpg",
+        "link": "https://bgm.tv/character/7428",
+        "categorie": "person"
+      },
+      {
+        "id": "7429",
+        "label": "トキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/45/7429_crt_anidb.jpg?r=1421388377",
+        "link": "https://bgm.tv/character/7429",
+        "categorie": "person"
+      },
+      {
+        "id": "7426",
+        "label": "山兽神",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/fa/7426_crt_EywFK.jpg",
+        "link": "https://bgm.tv/character/7426",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

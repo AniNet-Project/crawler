@@ -1,0 +1,693 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40739",
+        "label": "铠冢霙",
+        "info": "北宇治高校2年生。使用的乐器是双簧管。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/3d/40739_crt_FYd0D.jpg?r=1554479591",
+        "link": "https://bgm.tv/character/40739",
+        "categorie": "person"
+      },
+      {
+        "id": "42276",
+        "label": "伞木希美",
+        "info": "高校2年生。みぞれと同じ南中吹奏楽部の出身で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/74/42276_crt_kJHPP.jpg?r=1554479658",
+        "link": "https://bgm.tv/character/42276",
+        "categorie": "person"
+      },
+      {
+        "id": "61545",
+        "label": "莉兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/a0/61545_crt_h8ht8.jpg?r=1554479733",
+        "link": "https://bgm.tv/character/61545",
+        "categorie": "person"
+      },
+      {
+        "id": "61546",
+        "label": "少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/be/61546_crt_Jp212.jpg?r=1554479782",
+        "link": "https://bgm.tv/character/61546",
+        "categorie": "person"
+      },
+      {
+        "id": "31829",
+        "label": "中川夏纪",
+        "info": "二年级生，使用的乐器是粗管上低音号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/d1/31829_crt_dm9Ne.jpg?r=1556027195",
+        "link": "https://bgm.tv/character/31829",
+        "categorie": "person"
+      },
+      {
+        "id": "31830",
+        "label": "吉川优子",
+        "info": "高校2年生。勝気な性格で、夏紀とは犬猿の仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/44/31830_crt_rRtTF.jpg?r=1584420097",
+        "link": "https://bgm.tv/character/31830",
+        "categorie": "person"
+      },
+      {
+        "id": "61483",
+        "label": "剑崎梨梨花",
+        "info": "高中一年级。双簧管(Oboe)担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/df/61483_crt_bBtz5.jpg?r=1544064900",
+        "link": "https://bgm.tv/character/61483",
+        "categorie": "person"
+      },
+      {
+        "id": "29282",
+        "label": "黄前久美子",
+        "info": "一年级生，使用的乐器是上低音号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cc/29282_crt_eiitQ.jpg?r=1565764218",
+        "link": "https://bgm.tv/character/29282",
+        "categorie": "person"
+      },
+      {
+        "id": "29283",
+        "label": "加藤叶月",
+        "info": "久美子的同班同学，与久美子和绿关系要好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/68/29283_crt_vL1H3.jpg?r=1559645553",
+        "link": "https://bgm.tv/character/29283",
+        "categorie": "person"
+      },
+      {
+        "id": "29284",
+        "label": "川岛绿辉",
+        "info": "一年級生，使用的樂器是低音提琴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/2f/29284_crt_2JDJs.jpg?r=1559645629",
+        "link": "https://bgm.tv/character/29284",
+        "categorie": "person"
+      },
+      {
+        "id": "29285",
+        "label": "高坂丽奈",
+        "info": "曾与久美子同一就读于大吉山北中学，当时两人都加入了中学的吹奏部而互相认识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/12/29285_crt_6GIhe.jpg?r=1559645698",
+        "link": "https://bgm.tv/character/29285",
+        "categorie": "person"
+      },
+      {
+        "id": "46113",
+        "label": "新山聪美",
+        "info": "外部の指導者で専門はフルート。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/19/46113_crt_T3t9u.jpg?r=1577265131",
+        "link": "https://bgm.tv/character/46113",
+        "categorie": "person"
+      },
+      {
+        "id": "46111",
+        "label": "桥本真博",
+        "info": "外部の指導者で専門はパーカッション。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/57/46111_crt_70Jcm.jpg?r=1577265151",
+        "link": "https://bgm.tv/character/46111",
+        "categorie": "person"
+      },
+      {
+        "id": "29461",
+        "label": "泷升",
+        "info": "北宇治高校に赴任してきたばかりの吹奏楽部顧問。部員との初顔合わせで部としての目標を問い、「全国大会に出場する」ための指導を始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/d3/29461_crt_684c8.jpg?r=1433987294",
+        "link": "https://bgm.tv/character/29461",
+        "categorie": "person"
+      },
+      {
+        "id": "78471",
+        "label": "岛理惠",
+        "info": "高中三年级。单簧管(Clarinet)担当。带领着人数很多的单簧管组。是疯狂的宇宙迷。将同组的端田麻椰设定为外星人对她疼爱有加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/c0/78471_crt_XjsBX.jpg",
+        "link": "https://bgm.tv/character/78471",
+        "categorie": "person"
+      },
+      {
+        "id": "78473",
+        "label": "植田日和子",
+        "info": "高中二年级。单簧管(Clarinet)担当。最近沉迷与收集粉色的物品。辫子的编法每天都会稍微变化，但是并没有人注意到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/9c/78473_crt_iYyGz.jpg",
+        "link": "https://bgm.tv/character/78473",
+        "categorie": "person"
+      },
+      {
+        "id": "78474",
+        "label": "高野久惠",
+        "info": "高中二年级。单簧管(Clarinet)担当。去年作为落选成员支援着全体部员们。非常可靠，照顾着一年生，单簧管组中姐姐一样的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/43/78474_crt_8PQEc.jpg",
+        "link": "https://bgm.tv/character/78474",
+        "categorie": "person"
+      },
+      {
+        "id": "78475",
+        "label": "高久智惠理",
+        "info": "高中二年级。高音单簧管(E♭ clarinet)担当。由于学姐加濑舞菜的毕业而陷入消沉，这时受到次中音萨克斯管担当的泷川近夫的鼓励，于是成了积极面对吹奏乐的单簧管候选人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e7/78475_crt_E9I8V.jpg",
+        "link": "https://bgm.tv/character/78475",
+        "categorie": "person"
+      },
+      {
+        "id": "78476",
+        "label": "松崎洋子",
+        "info": "高中二年级。低音单簧管(Bass Clarinet)担当。性格十分开朗，擅长社交，受到一年生们的仰慕。非常喜欢《三国志》，希望毕业旅行能去中国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ce/78476_crt_9429r.jpg",
+        "link": "https://bgm.tv/character/78476",
+        "categorie": "person"
+      },
+      {
+        "id": "78477",
+        "label": "芦田圣子",
+        "info": "高中一年级。单簧管(Clarinet)担当。和同属单簧管组的井村卓很要好，总是非常合得来。最近痴迷于韩国偶像女团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/d2/78477_crt_CTaV4.jpg",
+        "link": "https://bgm.tv/character/78477",
+        "categorie": "person"
+      },
+      {
+        "id": "78478",
+        "label": "井村卓",
+        "info": "高中一年级。单簧管(Clarinet)担当。和同属单簧管组的芦田圣子家是邻居，两人是发小。有一个小学五年级的弟弟，还有一对小学一年级的弟弟双胞胎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/7b/78478_crt_Z63oC.jpg",
+        "link": "https://bgm.tv/character/78478",
+        "categorie": "person"
+      },
+      {
+        "id": "78547",
+        "label": "加藤树",
+        "info": "高中一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/f5/78547_crt_552nn.jpg",
+        "link": "https://bgm.tv/character/78547",
+        "categorie": "person"
+      },
+      {
+        "id": "78479",
+        "label": "北山泰瑠",
+        "info": "高中一年级。单簧管(Clarinet)担当。去年南中吹奏部的部长。才华横溢，演奏技术高超，为了顾问泷升老师而来到北宇治高中吹奏乐部。目标当然是——金奖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/57/78479_crt_kgdWp.jpg",
+        "link": "https://bgm.tv/character/78479",
+        "categorie": "person"
+      },
+      {
+        "id": "78480",
+        "label": "坂崎彩子",
+        "info": "高中一年级。低音单簧管(Bass Clarinet)担当。极度怕羞，总是和同担当低音单簧管的松崎洋子形影不离。总是低着头快步走路，所以总是撞上东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/fc/78480_crt_8rq8Z.jpg",
+        "link": "https://bgm.tv/character/78480",
+        "categorie": "person"
+      },
+      {
+        "id": "78481",
+        "label": "端田麻椰",
+        "info": "高中一年级。单簧管(Clarinet)担当。新加入的部员中鹤立鸡群的美少女。出身的初中不明，浑身都是谜。可能是外星人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/eb/78481_crt_aenK8.jpg",
+        "link": "https://bgm.tv/character/78481",
+        "categorie": "person"
+      },
+      {
+        "id": "78482",
+        "label": "平沼诗织",
+        "info": "高中一年级。单簧管(Clarinet)担当。有乐器经验，演奏技术很高。非常享受社团活动，每天都激动地参加。和同班的坂崎彩子以及屋敷早苗关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/ae/78482_crt_HYEzH.jpg",
+        "link": "https://bgm.tv/character/78482",
+        "categorie": "person"
+      },
+      {
+        "id": "78483",
+        "label": "兜谷爱瑠",
+        "info": "高中一年级。大管(Bassoon)担当。非常喜欢日本的护具与武器，所以对于双簧乐器组的成员们的名字感动到不能自已（铠（鎧）、剑（剣）、头盔（兜）、护臂（籠手））。和笼手山骏河与剑崎梨梨花一起结成了“双簧乐器会”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/a2/78483_crt_MLpU2.jpg",
+        "link": "https://bgm.tv/character/78483",
+        "categorie": "person"
+      },
+      {
+        "id": "78484",
+        "label": "笼手山骏河",
+        "info": "高中一年级。低音大管(Contrabassoon)担当。整个部内冒失娘的代表。总是十分慌张，容易忘掉东西。“双簧乐器会”的成员之一，希望学姐铠冢霙也能加入。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/c3/78484_crt_0qxZ0.jpg",
+        "link": "https://bgm.tv/character/78484",
+        "categorie": "person"
+      },
+      {
+        "id": "78485",
+        "label": "井上调",
+        "info": "高中三年级。长笛(Flute)担当。笛子组可靠的组长。对于伞木希美回归的事情非常操心。作为长笛演奏者的实力被公认。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/7f/78485_crt_W4kk9.jpg",
+        "link": "https://bgm.tv/character/78485",
+        "categorie": "person"
+      },
+      {
+        "id": "78486",
+        "label": "小田芽衣子",
+        "info": "高中二年级。长笛(Flute)担当。拥有组员中十分突出的感性。和短笛担当的高桥沙里去年是一个班，关系非常好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/7f/78486_crt_71uDR.jpg",
+        "link": "https://bgm.tv/character/78486",
+        "categorie": "person"
+      },
+      {
+        "id": "78487",
+        "label": "高桥沙里",
+        "info": "高中二年级。短笛(Piccolo)担当。去年还是长笛担当，作为毕业了的杂贺赖子的后继改吹短笛。和同组的小田芽衣子是闺蜜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/e9/78487_crt_YoFod.jpg",
+        "link": "https://bgm.tv/character/78487",
+        "categorie": "person"
+      },
+      {
+        "id": "78488",
+        "label": "中野蕾实",
+        "info": "高中二年级。长笛(Flute)担当。去年作为落选成员支援着全体部员们。有着不管对谁都温柔率真的性格，非常牵挂组中新入部的三人。被同组的成员们当做姐姐一样捉弄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/31/78488_crt_vV0F0.jpg",
+        "link": "https://bgm.tv/character/78488",
+        "categorie": "person"
+      },
+      {
+        "id": "78489",
+        "label": "江藤香奈",
+        "info": "高中一年级。长笛(Flute)担当。南中出身，有长笛演奏的经验。憧憬着同组的伞木希美。约会的时候被对方说“像河豚”，于是被同组的成员称为“河豚酱”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/2b/78489_crt_ukccP.jpg",
+        "link": "https://bgm.tv/character/78489",
+        "categorie": "person"
+      },
+      {
+        "id": "78490",
+        "label": "平石成美",
+        "info": "高中一年级。长笛(Flute)担当。没有乐器的经验，高中才开始参加吹奏乐。头脑十分灵活，经常观察周围，因而成了支持着其他组员的幕后英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/8c/78490_crt_1O918.jpg",
+        "link": "https://bgm.tv/character/78490",
+        "categorie": "person"
+      },
+      {
+        "id": "78491",
+        "label": "山根都美贵",
+        "info": "高中一年级。长笛(Flute)担当。过于沉浸于自己的节奏，而经常不解风情。爱好是电影鉴赏，因而经常向组员们推荐电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/bd/78491_crt_01val.jpg",
+        "link": "https://bgm.tv/character/78491",
+        "categorie": "person"
+      },
+      {
+        "id": "78492",
+        "label": "平尾澄子",
+        "info": "高中三年级。次中音萨克斯(Tenor Saxophone)担当。萨克斯组的组长。包容力很强，处理新入部员众多的萨克斯组得心应手。喜欢偶像，最近热衷于发掘女高中生偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/5f/78492_crt_jpwsO.jpg",
+        "link": "https://bgm.tv/character/78492",
+        "categorie": "person"
+      },
+      {
+        "id": "78493",
+        "label": "森田忍",
+        "info": "高中三年级。中音萨克斯(Alto Saxophone)担当。去年作为落选成员支援着全体部员们。内心总是有着紧张感，对于辅佐组长平尾澄子的事情抱有使命感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/93/78493_crt_Uko17.jpg",
+        "link": "https://bgm.tv/character/78493",
+        "categorie": "person"
+      },
+      {
+        "id": "78494",
+        "label": "泷川近夫",
+        "info": "高中二年级。次中音萨克斯(Tenor Saxophone)担当。与长号担当的冢本秀一关系很好，私下里经常一起玩。最近对于刚刚开始交往的高音单簧管担当的高久智惠理爱不释手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/24/78494_crt_zC2kJ.jpg",
+        "link": "https://bgm.tv/character/78494",
+        "categorie": "person"
+      },
+      {
+        "id": "78495",
+        "label": "牧誓",
+        "info": "高中二年级。中音萨克斯(Alto Saxophone)担当。负责照顾萨克斯组的一年生们，教导他们社团活动的方方面面。隐藏的“大号君宅”，和低音提琴担当的川岛绿辉结成了“大号君同盟”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/cf/78495_crt_Ibb9Q.jpg",
+        "link": "https://bgm.tv/character/78495",
+        "categorie": "person"
+      },
+      {
+        "id": "78496",
+        "label": "鲇川京子",
+        "info": "高中一年级。上低音萨克斯(Baritone Saxophone)担当。对上低音萨克斯一心一意。对于乐器的爱不输任何人。希望同样演奏上低音萨克斯的远藤正能变的更可靠，但对他的演奏技术也是认可的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/d3/78496_crt_aUaJ1.jpg",
+        "link": "https://bgm.tv/character/78496",
+        "categorie": "person"
+      },
+      {
+        "id": "78497",
+        "label": "内田Babe",
+        "info": "高中一年级。次中音萨克斯(Tenor Saxophone)担当。有三个弟弟的可靠的姐姐。负责萨克斯组一年生的集结工作，受到组长平尾澄子的信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/00/78497_crt_6CpzZ.jpg",
+        "link": "https://bgm.tv/character/78497",
+        "categorie": "person"
+      },
+      {
+        "id": "78498",
+        "label": "远藤正",
+        "info": "高中一年级。上低音萨克斯(Baritone Saxophone)担当。不擅长应对女生，平常总是极其谦逊，但演奏风格十分热情。喜欢多肉植物，拥有着自己制作培养皿的艺术品味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/ea/78498_crt_se6z2.jpg",
+        "link": "https://bgm.tv/character/78498",
+        "categorie": "person"
+      },
+      {
+        "id": "78499",
+        "label": "大泷七海",
+        "info": "高中一年级。中音萨克斯(Alto Saxophone)担当。不习惯被人夸奖，所以总是保持着清冷的模样，其实是为了遮掩自己的羞涩。总是关注着同样是中音萨克斯担当的铃木靖也，看他是否有给其他人添麻烦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/f1/78499_crt_P0DOs.jpg",
+        "link": "https://bgm.tv/character/78499",
+        "categorie": "person"
+      },
+      {
+        "id": "78500",
+        "label": "铃木靖也",
+        "info": "高中一年级。中音萨克斯(Alto Saxophone)担当。南中出身，有萨克斯经验。有些轻浮，时常由于拈花惹草而被同是中音萨克斯担当的大泷七海训斥。不会对为难的女生弃之不顾的类型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/03/78500_crt_25S9K.jpg",
+        "link": "https://bgm.tv/character/78500",
+        "categorie": "person"
+      },
+      {
+        "id": "78501",
+        "label": "奈良町子",
+        "info": "高中一年级。次中音萨克斯(Tenor Saxophone)担当。妈妈是饲养员，因而十分喜欢动物。非常喜爱最近刚开始养的大耳狐。想要将来和妈妈从事同样的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/37/78501_crt_q1L0L.jpg",
+        "link": "https://bgm.tv/character/78501",
+        "categorie": "person"
+      },
+      {
+        "id": "78502",
+        "label": "服部半叶",
+        "info": "高中一年级。中音萨克斯(Alto Saxophone)担当。认为自己是忍者的后裔，一旦谈起家世谁也拦不住。沉迷于将自己家改造为忍者基地，似乎到处都布置了机关……",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/22/78502_crt_xXX8m.jpg",
+        "link": "https://bgm.tv/character/78502",
+        "categorie": "person"
+      },
+      {
+        "id": "78503",
+        "label": "细野暖奈",
+        "info": "高中一年级。中音萨克斯(Alto Saxophone)担当。部内头号大胃王，不限制的话会永远面无表情地进食。擅长料理，对于考虑和享用自己专用的大分量菜单感到十分幸福。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/9b/78503_crt_32E3i.jpg",
+        "link": "https://bgm.tv/character/78503",
+        "categorie": "person"
+      },
+      {
+        "id": "78504",
+        "label": "松本桐",
+        "info": "高中一年级。中音萨克斯(Alto Saxophone)担当。非常喜欢小巧可爱的东西。想要与同是中音萨克斯担当的牧誓成为好朋友，因而也在收集“乐器君”系列。很喜欢“萨克斯君”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/f2/78504_crt_D6ZiD.jpg",
+        "link": "https://bgm.tv/character/78504",
+        "categorie": "person"
+      },
+      {
+        "id": "75779",
+        "label": "加部友惠",
+        "info": "小号(Trumpet)担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/93/75779_crt_460hE.jpg?r=1582688797",
+        "link": "https://bgm.tv/character/75779",
+        "categorie": "person"
+      },
+      {
+        "id": "78505",
+        "label": "泷野纯一",
+        "info": "高中三年级。小号(Trumpet)担当。不擅长应对新入部员的妹妹泷野沙耶香，但是对她擅长为人处世这一点毫不隐藏地表达佩服。被父母劝差不多该好好认真学习了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/55/78505_crt_oQ1x2.jpg",
+        "link": "https://bgm.tv/character/78505",
+        "categorie": "person"
+      },
+      {
+        "id": "78506",
+        "label": "吉泽秋子",
+        "info": "高中二年级。小号(Trumpet)担当。去年作为落选成员支援着全体部员们。非常自我的性格，总是飘飘然的。最近痴迷于人像摄影，正在物色新的镜头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/02/78506_crt_YeYA9.jpg",
+        "link": "https://bgm.tv/character/78506",
+        "categorie": "person"
+      },
+      {
+        "id": "78507",
+        "label": "浅仓玉里",
+        "info": "高中一年级。小号(Trumpet)担当。吹奏乐部的女生中身高最高。因为喜欢音乐，初中起就在吹小号，以音乐大学为目标正在努力特训中。憧憬着同组的高坂丽奈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/27/78507_crt_2S5q2.jpg",
+        "link": "https://bgm.tv/character/78507",
+        "categorie": "person"
+      },
+      {
+        "id": "78508",
+        "label": "小日向梦",
+        "info": "高中一年级。小号(Trumpet)担当。北中出身，演奏技术很高，但是性格保守内向，正式演出时有点弱。不喜欢这样的自己。对于总是坦荡荡的高坂丽奈抱有强烈的憧憬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/23/78508_crt_qd10q.jpg",
+        "link": "https://bgm.tv/character/78508",
+        "categorie": "person"
+      },
+      {
+        "id": "78509",
+        "label": "贵水卓",
+        "info": "高中一年级。小号(Trumpet)担当。非常尊敬部长吉川优子。经常和同班的低音提琴担当月岛求谈论部长，但基本都被无视。擅长手工，想要什么时候送部长一份礼物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/12/78509_crt_YS9F9.jpg",
+        "link": "https://bgm.tv/character/78509",
+        "categorie": "person"
+      },
+      {
+        "id": "78510",
+        "label": "泷野沙耶香",
+        "info": "高中一年级。小号(Trumpet)担当。同组的泷野纯一的妹妹。性格十分招人喜爱，尽管刚入学却已经有了很多朋友，人气很高。……但是偶尔会对哥哥露出她的真面目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/9b/78510_crt_jaLC1.jpg",
+        "link": "https://bgm.tv/character/78510",
+        "categorie": "person"
+      },
+      {
+        "id": "78511",
+        "label": "岩田慧菜",
+        "info": "高中三年级。低音长号(Bass Trombone)担当。担任长号组的组长。家中是祖传的医生世家，因此自身也想踏上行医之路，为此还同时在努力补课。将来想致力于音乐疗法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/b9/78511_crt_7d07r.jpg",
+        "link": "https://bgm.tv/character/78511",
+        "categorie": "person"
+      },
+      {
+        "id": "78512",
+        "label": "赤松麻纪",
+        "info": "高中二年级。长号(Trombone)担当。非常喜欢长号。向对社团活动感到不安的新入部员们热情地讲述着长号的帅气之处来鼓励他们。虽然有些天然的地方，但是性格勇往直前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/61/78512_crt_nNIT4.jpg",
+        "link": "https://bgm.tv/character/78512",
+        "categorie": "person"
+      },
+      {
+        "id": "29460",
+        "label": "塚本秀一",
+        "info": "北宇治高校1年生。担当楽器はトロンボーン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/98/29460_crt_T0tw8.jpg?r=1595738179",
+        "link": "https://bgm.tv/character/29460",
+        "categorie": "person"
+      },
+      {
+        "id": "78513",
+        "label": "福井沙耶香",
+        "info": "高中二年级。长号(Trombone)担当。非常喜欢海豹，将来想做水族馆的饲养员。将海豹周边作为乐队伙伴带着，受到女生部员们的好评。和打击乐担当的釜屋燕关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/4e/78513_crt_6bB5g.jpg",
+        "link": "https://bgm.tv/character/78513",
+        "categorie": "person"
+      },
+      {
+        "id": "78514",
+        "label": "吉川真衣弥",
+        "info": "高中一年级。长号(Trombone)担当。乐器初学者。毫无体力，可以的话尽量不运动。每天都被严格的练习挫败着。喜欢动画，最近热衷于魔女系的动画。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/46/78514_crt_YozCt.jpg",
+        "link": "https://bgm.tv/character/78514",
+        "categorie": "person"
+      },
+      {
+        "id": "78515",
+        "label": "叶加濑满",
+        "info": "高中一年级。长号(Trombone)担当。南中出身，有乐器经验。内心对同组的冢本秀一憧憬着，组内练习的时候会积极地搭话。对于流行趋势非常敏感，从不懈怠社交网络的浏览。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/70/78515_crt_CCCnc.jpg",
+        "link": "https://bgm.tv/character/78515",
+        "categorie": "person"
+      },
+      {
+        "id": "78516",
+        "label": "布袋知美",
+        "info": "高中一年级。长号(Trombone)担当。东中出身。初中开始就在吹长号，但是由于原来的吹奏乐部十分不认真，内心正在烦恼是否要在动真格的北宇治高中继续吹下去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/cb/78516_crt_kjf99.jpg",
+        "link": "https://bgm.tv/character/78516",
+        "categorie": "person"
+      },
+      {
+        "id": "78517",
+        "label": "岸部海松",
+        "info": "高中三年级。圆号(Horn)担当。担任圆号组的组长。高中才开始参加吹奏乐，但转眼间(此处原文用词みるみる，取自她的名字)就成长了。圆号组的座右铭是“该做的时候就做，该玩的时候全力玩！”。第一季的广播剧中透露，她有一个名叫“（日文）”（类似钟乳石的东西）的妹妹，她妈妈叫“珍珠”，爸爸叫“扇贝”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ca/78517_crt_r8F7U.jpg",
+        "link": "https://bgm.tv/character/78517",
+        "categorie": "person"
+      },
+      {
+        "id": "78518",
+        "label": "瞳拉拉",
+        "info": "高中二年级。圆号(Horn)担当。去年作为落选成员支援着全体部员们。部内首屈一指的情报通，上了二年级之后正在更加精进自己的行动力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/2e/78518_crt_Aax3p.jpg",
+        "link": "https://bgm.tv/character/78518",
+        "categorie": "person"
+      },
+      {
+        "id": "78519",
+        "label": "森本美千代",
+        "info": "高中二年级。圆号(Horn)担当。初中起就在吹圆号，在圆号组中经验No.1。各方面支援着组长岸部海松。非常喜欢按照自我节奏努力的圆号组内的氛围。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cd/78519_crt_LA8F8.jpg",
+        "link": "https://bgm.tv/character/78519",
+        "categorie": "person"
+      },
+      {
+        "id": "78520",
+        "label": "小原爱音",
+        "info": "高中一年级。圆号(Horn)担当。冷静沉着，什么事都能顺利完成的天才。成绩也很优秀，由于每次考试之前都会教导一年生部员们好好学习，被前辈们称为“小原塾”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/7c/78520_crt_9A7aO.jpg",
+        "link": "https://bgm.tv/character/78520",
+        "categorie": "person"
+      },
+      {
+        "id": "78521",
+        "label": "土屋响",
+        "info": "高中一年级。圆号(Horn)担当。初中起就对吹奏乐部十分憧憬。铜管乐器中尤爱圆号的形状，毫不犹豫地加入了圆号组。非常喜欢前辈的孩子，尽管是新手，还是考虑着如何支援前辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c4/78521_crt_Rgcn4.jpg",
+        "link": "https://bgm.tv/character/78521",
+        "categorie": "person"
+      },
+      {
+        "id": "78522",
+        "label": "深町澄子",
+        "info": "高中一年级。圆号(Horn)担当。不擅长学习，考试有时会不及格，受到同组的小原爱音的教导，但没什么成果。擅长科目是体育。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d9/78522_crt_gG1c4.jpg",
+        "link": "https://bgm.tv/character/78522",
+        "categorie": "person"
+      },
+      {
+        "id": "78523",
+        "label": "屋敷早苗",
+        "info": "高中一年级。圆号(Horn)担当。南中出身，有圆号经验。和同班同学的坂崎彩子与平沼诗织关系好。非常喜欢编头发，所以每天都在学习。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/82/78523_crt_hljHo.jpg",
+        "link": "https://bgm.tv/character/78523",
+        "categorie": "person"
+      },
+      {
+        "id": "31827",
+        "label": "后藤卓也",
+        "info": "二年级生，使用乐器是大号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/b5/31827_crt_9ezfb.jpg?r=1443715797",
+        "link": "https://bgm.tv/character/31827",
+        "categorie": "person"
+      },
+      {
+        "id": "31828",
+        "label": "长濑梨子",
+        "info": "二年级生，使用乐器是大号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/4d/31828_crt_Lh21i.jpg?r=1429883561",
+        "link": "https://bgm.tv/character/31828",
+        "categorie": "person"
+      },
+      {
+        "id": "67699",
+        "label": "铃木纱月",
+        "info": "北宇治高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/57/67699_crt_Vf8Jx.jpg?r=1567424936",
+        "link": "https://bgm.tv/character/67699",
+        "categorie": "person"
+      },
+      {
+        "id": "67698",
+        "label": "铃木美玲",
+        "info": "北宇治高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/9c/67698_crt_Vp7jI.jpg?r=1567424923",
+        "link": "https://bgm.tv/character/67698",
+        "categorie": "person"
+      },
+      {
+        "id": "67652",
+        "label": "久石奏",
+        "info": "北宇治高校の女子生徒で、主人公の黄前久美子のひとつ下の代にあたる新1年生。吹奏楽部に所属し、低音パートでユーフォニアムを担当している。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/72/67652_crt_f2X4W.jpg?r=1580802873",
+        "link": "https://bgm.tv/character/67652",
+        "categorie": "person"
+      },
+      {
+        "id": "67700",
+        "label": "月永求",
+        "info": "北宇治高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/e4/67700_crt_qsCO3.jpg?r=1567425217",
+        "link": "https://bgm.tv/character/67700",
+        "categorie": "person"
+      },
+      {
+        "id": "78528",
+        "label": "大野美代子",
+        "info": "高中三年级。打击乐(Percussion)担当。擅长照顾人的性格，将成员很多的打击乐组团结在一起的组长。在《莉兹与青鸟》中，负责弹自己憧憬的竖琴(Harp)，十分有干劲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/04/78528_crt_zC0Y1.jpg",
+        "link": "https://bgm.tv/character/78528",
+        "categorie": "person"
+      },
+      {
+        "id": "78529",
+        "label": "井上顺菜",
+        "info": "高中二年级。打击乐(Percussion)担当。初中时便是打击乐担当，演奏技术很高。被组长大野美代子任命为新人指导。非常喜欢后辈们，觉得谁都很可爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/73/78529_crt_bWpLg.jpg",
+        "link": "https://bgm.tv/character/78529",
+        "categorie": "person"
+      },
+      {
+        "id": "78530",
+        "label": "釜屋燕",
+        "info": "高中二年级。打击乐(Percussion)担当。去年作为落选成员支援着全体部员们。没有节奏感，不善舞蹈，但唯独十分擅长马林巴琴(Marimba)。最近负责着吐槽非常有个性的新入部员们。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/d4/78530_crt_0g88I.jpg",
+        "link": "https://bgm.tv/character/78530",
+        "categorie": "person"
+      },
+      {
+        "id": "78531",
+        "label": "堺万纱子",
+        "info": "高中二年级。打击乐(Percussion)担当。非常喜欢音乐，演奏时会感到无比幸福。吹奏乐以外的音乐也喜欢，对各种流派的音乐如数家珍的音乐博士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/ee/78531_crt_OlX1z.jpg",
+        "link": "https://bgm.tv/character/78531",
+        "categorie": "person"
+      },
+      {
+        "id": "78532",
+        "label": "北田畝",
+        "info": "高中一年级。打击乐(Percussion)担当。吹奏乐新手，认为打击乐非常时髦。最近热衷于在休息日逛精品店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/1a/78532_crt_KpaSO.jpg",
+        "link": "https://bgm.tv/character/78532",
+        "categorie": "person"
+      },
+      {
+        "id": "78533",
+        "label": "林来理",
+        "info": "高中一年级。打击乐(Percussion)担当。社团活动前会吃爆弹饭团(冲绳县的一种饭团)为自己打气。然后干劲过足而容易白忙一场，受到同组的井上顺菜的安慰。昵称是“女汉子（オム）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/3b/78533_crt_Old55.jpg",
+        "link": "https://bgm.tv/character/78533",
+        "categorie": "person"
+      },
+      {
+        "id": "78534",
+        "label": "东浦心子",
+        "info": "高中一年级。打击乐(Percussion)担当。和双簧管担当的剑崎梨梨花是同班同学，偶尔会和班主任的老爷爷老师热烈讨论。初中的时候就是打击乐担当，尤其是节奏感拔群。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/a6/78534_crt_LLz0p.jpg",
+        "link": "https://bgm.tv/character/78534",
+        "categorie": "person"
+      },
+      {
+        "id": "78535",
+        "label": "前田苍太",
+        "info": "高中一年级。打击乐(Percussion)担当。小学的时候就和弟弟前田飒介一起学习鼓。非常擅长顺应气氛的关系很好的异卵双胞胎。擅长学习，数学方面有不输任何人的自信。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/3b/78535_crt_6S0RJ.jpg",
+        "link": "https://bgm.tv/character/78535",
+        "categorie": "person"
+      },
+      {
+        "id": "78536",
+        "label": "前田飒介",
+        "info": "高中一年级。打击乐(Percussion)担当。与双胞胎哥哥——前田苍太一起备受期待成为打击乐的双人王牌。与哥哥相反，很有艺术细胞却不擅长学习。考试之前总是要依靠哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/86/78536_crt_rQrvc.jpg",
+        "link": "https://bgm.tv/character/78536",
+        "categorie": "person"
+      },
+      {
+        "id": "78537",
+        "label": "町田道子",
+        "info": "高中一年级。打击乐(Percussion)担当。和小号担当的泷野沙耶香是同班同学，入学第一天就被她邀请入部。本想加入小号组，但最终还是选定了能动起来的更显眼的打击乐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/72/78537_crt_rXvhZ.jpg",
+        "link": "https://bgm.tv/character/78537",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

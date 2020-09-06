@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46580",
+        "label": "浅井惠",
+        "info": "故事的主人公，芦原桥高一学生，过去曾反叛过管理局。现在所属“服务俱乐部”，能力是不会忘记任何事情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/e8/46580_crt_CZfw0.jpg?r=1491141673",
+        "link": "https://bgm.tv/character/46580",
+        "categorie": "person"
+      },
+      {
+        "id": "46581",
+        "label": "春埼美空",
+        "info": "可使用“重置”能力使世界恢复三天前的样子，但是“重置”前的记忆消失，所属“服务俱乐部”，芦原桥高一学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/77/46581_crt_bG5uw.jpg?r=1491142147",
+        "link": "https://bgm.tv/character/46581",
+        "categorie": "person"
+      },
+      {
+        "id": "46582",
+        "label": "相麻堇",
+        "info": "芦原桥高中1年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/be/46582_crt_cvos0.jpg?r=1506230212",
+        "link": "https://bgm.tv/character/46582",
+        "categorie": "person"
+      },
+      {
+        "id": "53080",
+        "label": "仓川真理",
+        "info": "川原坂小学校に通う七歳の少女。春埼が公園で泣いているところを見かけ相手をしてもらったことをきっかけに春埼を慕うようになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/e1/53080_crt_fz77k.jpg?r=1491140517",
+        "link": "https://bgm.tv/character/53080",
+        "categorie": "person"
+      },
+      {
+        "id": "46589",
+        "label": "中野智树",
+        "info": "浅井京和春崎美空的同班同学，拥有的能力是传声。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/0b/46589_crt_zMkU4.jpg?r=1491142160",
+        "link": "https://bgm.tv/character/46589",
+        "categorie": "person"
+      },
+      {
+        "id": "46590",
+        "label": "皆实未来",
+        "info": "ケイたちのクラスメイト。明るい少女で、U研（未確認研究会）に所属している。能力は、幽霊になるというもので、これにより無意識に死を望んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/22/46590_crt_02AC2.jpg?r=1491142088",
+        "link": "https://bgm.tv/character/46590",
+        "categorie": "person"
+      },
+      {
+        "id": "46583",
+        "label": "村濑阳香",
+        "info": "第一话出现的委托人，委托浅井京和春崎美空复活死去的一只黑猫，是一个高中生，具体年级暂不详。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/2a/46583_crt_a4Jjl.jpg?r=1491142131",
+        "link": "https://bgm.tv/character/46583",
+        "categorie": "person"
+      },
+      {
+        "id": "46588",
+        "label": "野之尾盛夏",
+        "info": "掌握着咲良田所有的猫的动向，貌似睡着的时候发挥能力，能力限制条件大概就是睡眠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c6/46588_crt_o7S1q.jpg?r=1491142114",
+        "link": "https://bgm.tv/character/46588",
+        "categorie": "person"
+      },
+      {
+        "id": "51889",
+        "label": "非通知君",
+        "info": "声 - 西山宏太朗（好井良治） / 紗倉のり子（応答音声）",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/17/51889_crt_41317.jpg?r=1491142024",
+        "link": "https://bgm.tv/character/51889",
+        "categorie": "person"
+      },
+      {
+        "id": "51749",
+        "label": "冈绘里",
+        "info": "ケイの中学時代の後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/22/51749_crt_7v9X8.jpg?r=1491142043",
+        "link": "https://bgm.tv/character/51749",
+        "categorie": "person"
+      },
+      {
+        "id": "51891",
+        "label": "世良佐和子",
+        "info": "芦原橋高校一年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/f1/51891_crt_jnNz3.jpg?r=1491141989",
+        "link": "https://bgm.tv/character/51891",
+        "categorie": "person"
+      },
+      {
+        "id": "51892",
+        "label": "坂上央介",
+        "info": "元、七坂中学校生徒会長。咲良田の外の高校へ進学する。中学三年生の冬頃から、一度咲良田を離れるが、とある事情から再び咲良田に戻ってくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/3a/51892_crt_BTFu5.jpg?r=1491141781",
+        "link": "https://bgm.tv/character/51892",
+        "categorie": "person"
+      },
+      {
+        "id": "51893",
+        "label": "魔女",
+        "info": "管理局の頂点に近い立場にいる高齢の女性。管理局が咲良田を管理するためのシステムとして存在しており、名前などの個性は排除され、逃亡することができない部屋に閉じ込められている。未来視の能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/1d/51893_crt_FMu40.jpg?r=1491141734",
+        "link": "https://bgm.tv/character/51893",
+        "categorie": "person"
+      },
+      {
+        "id": "51894",
+        "label": "津岛信太郎",
+        "info": "芦原橋高校の教師。管理局の局員。ケイの通う芦原橋高校で奉仕クラブの顧問を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/57/51894_crt_WdAYa.jpg?r=1491141714",
+        "link": "https://bgm.tv/character/51894",
+        "categorie": "person"
+      },
+      {
+        "id": "54517",
+        "label": "佐佐野宏幸",
+        "info": "小柄な初老の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/d2/54517_crt_6Z464.jpg",
+        "link": "https://bgm.tv/character/54517",
+        "categorie": "person"
+      },
+      {
+        "id": "54518",
+        "label": "加贺谷",
+        "info": "管理局員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/06/54518_crt_9ZUft.jpg",
+        "link": "https://bgm.tv/character/54518",
+        "categorie": "person"
+      },
+      {
+        "id": "55164",
+        "label": "索引小姐",
+        "info": "管理局の女性。咲良田中のすべての能力を把握している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/6c/55164_crt_FoNrr.jpg",
+        "link": "https://bgm.tv/character/55164",
+        "categorie": "person"
+      },
+      {
+        "id": "54519",
+        "label": "宇川沙沙音",
+        "info": "管理局でアルバイトをする大学1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/5f/54519_crt_gGa4b.jpg",
+        "link": "https://bgm.tv/character/54519",
+        "categorie": "person"
+      },
+      {
+        "id": "54574",
+        "label": "浦地正宗",
+        "info": "管理局対策室室長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/9a/54574_crt_PASaT.jpg",
+        "link": "https://bgm.tv/character/54574",
+        "categorie": "person"
+      },
+      {
+        "id": "54575",
+        "label": "美知留",
+        "info": "ケイたちが調査することになった夢の世界で出会った少女。青い鳥と一緒にいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/e5/54575_crt_q9sQn.jpg?r=1546181427",
+        "link": "https://bgm.tv/character/54575",
+        "categorie": "person"
+      },
+      {
+        "id": "54576",
+        "label": "知留知留",
+        "info": "ミチルを見守っている。夢の世界で、願いを何でも叶えることが出来る存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/25/54576_crt_PtPnN.jpg",
+        "link": "https://bgm.tv/character/54576",
+        "categorie": "person"
+      },
+      {
+        "id": "55445",
+        "label": "流浪猫宅邸的爷爷",
+        "info": "夢の世界で、猫と共に洋館に住んでいる老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/4f/55445_crt_L08mQ.jpg",
+        "link": "https://bgm.tv/character/55445",
+        "categorie": "person"
+      },
+      {
+        "id": "71547",
+        "label": "浅井惠",
+        "info": "浅井ケイ幼い頃から他者が求めている答えをすぐに理解でき、その通りに行動していたが、そのことが逆に両親（母 声 - よのひかり）との溝を深めてしまった。それでも両親は自分を愛そうと努力をしたが、自分は能力者の存在する街に留まり、結果、両親を捨てる決意をした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/58/71547_crt_SA6Q2.jpg",
+        "link": "https://bgm.tv/character/71547",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

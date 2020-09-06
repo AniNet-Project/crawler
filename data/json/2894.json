@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6472",
+        "label": "“小狼”",
+        "info": "本作の後半の主人公。小狼の本体。日本出身で、正体はクロウ･リードの血筋。声優は入野自由。基となったキャラクターは李小狼である。4月1日生まれ。14歳。前者は旅立つ際に剣とともに父親から譲られた名前であり、本名は後者である。イメージカラーは、緑。跟小狼拥有同样的样貌、声音、举止、眼神。在被飞王囚禁的时候，叫称作“另一个小狼”。被其父（其实就是复制体本身）小狼授予“小狼”的名字和祖传的宝剑，但实名是翼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/23/6472_crt_anidb.jpg?r=1578558258",
+        "link": "https://bgm.tv/character/6472",
+        "categorie": "person"
+      },
+      {
+        "id": "6473",
+        "label": "小狼",
+        "info": "小狼（写身 ウツシミ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/0c/6473_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6473",
+        "categorie": "person"
+      },
+      {
+        "id": "6475",
+        "label": "黑钢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/db/6475_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6475",
+        "categorie": "person"
+      },
+      {
+        "id": "6474",
+        "label": "小樱",
+        "info": "生日是4月1日，在飞王·里度的阴谋下，记忆羽毛飞散到不同次元中的玖楼国公主，和小狼是青梅竹马。在记忆还未完全恢复的状态下，常会昏昏欲睡。小樱踏上穿越不同次元之行，付出的代价是“对小狼的回忆”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/e3/6474_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6474",
+        "categorie": "person"
+      },
+      {
+        "id": "6476",
+        "label": "法伊・D・佛罗莱特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/49/6476_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6476",
+        "categorie": "person"
+      },
+      {
+        "id": "2627",
+        "label": "ラーグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/e8/2627_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2627",
+        "categorie": "person"
+      },
+      {
+        "id": "6396",
+        "label": "摩可拿·索艾尔·摩多基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/a6/6396_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6396",
+        "categorie": "person"
+      },
+      {
+        "id": "8844",
+        "label": "飛王・リード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/44/8844_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8844",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "621",
+        "label": "凯巴",
+        "info": "主人公。胸部有一个洞，腹部有以三个圆形为顶点构成的三角形花纹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/b5/621_crt_5gA6q.jpg",
+        "link": "https://bgm.tv/character/621",
+        "categorie": "person"
+      },
+      {
+        "id": "4322",
+        "label": "波波",
+        "info": "“一想团”的干部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/2f/4322_crt_wbyB0.jpg",
+        "link": "https://bgm.tv/character/4322",
+        "categorie": "person"
+      },
+      {
+        "id": "9125",
+        "label": "内伊罗",
+        "info": "反社会组织“一想团”的成员。为了让世界变得更美好而付出着努力，却被组织利用。与失去记忆的Kaiba相遇并相爱了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/de/9125_crt_25Zg2.jpg",
+        "link": "https://bgm.tv/character/9125",
+        "categorie": "person"
+      },
+      {
+        "id": "2004",
+        "label": "クロニコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/b4/2004_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2004",
+        "categorie": "person"
+      },
+      {
+        "id": "5448",
+        "label": "バニラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/32/5448_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5448",
+        "categorie": "person"
+      },
+      {
+        "id": "5449",
+        "label": "キチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/fe/5449_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5449",
+        "categorie": "person"
+      },
+      {
+        "id": "5450",
+        "label": "カバ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/6a/5450_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5450",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

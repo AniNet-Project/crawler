@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9563",
+        "label": "比迪丽",
+        "info": "撒旦先生的独生女，实力不错，为人有正义感，喜欢维护正义﹐时常帮助警察们捉贼和救人，后来机缘巧合结识孙悟饭，学会舞空术，并与悟饭相爱。在消灭小布欧不久后，嫁给了孙悟饭，有个女儿小芳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/44/9563_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9563",
+        "categorie": "person"
+      },
+      {
+        "id": "70138",
+        "label": "布罗利",
+        "info": "传说中的花椰菜（ブロッコリー，Broccoli）",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/a7/70138_crt_E95Dp.jpg?r=1558540676",
+        "link": "https://bgm.tv/character/70138",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

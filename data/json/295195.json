@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73915",
+        "label": "ほわん",
+        "info": "北国の小さな村で生まれ育った、",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/48/73915_crt_EzF8m.jpg?r=1576207207",
+        "link": "https://bgm.tv/character/73915",
+        "categorie": "person"
+      },
+      {
+        "id": "73916",
+        "label": "マシマヒメコ",
+        "info": "縞々猫族の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/5e/73916_crt_4CP9L.jpg?r=1576207355",
+        "link": "https://bgm.tv/character/73916",
+        "categorie": "person"
+      },
+      {
+        "id": "73917",
+        "label": "デルミン",
+        "info": "デビルミント鬼龍族の小柄な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/95/73917_crt_FLnrV.jpg?r=1576207470",
+        "link": "https://bgm.tv/character/73917",
+        "categorie": "person"
+      },
+      {
+        "id": "73918",
+        "label": "ルフユ",
+        "info": "狼娘族の女の子。明るく元気、",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/01/73918_crt_r6erC.jpg?r=1576207565",
+        "link": "https://bgm.tv/character/73918",
+        "categorie": "person"
+      },
+      {
+        "id": "73920",
+        "label": "ヤス",
+        "info": "八咫烏族の弁当男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/99/73920_crt_L4TEv.jpg?r=1576215312",
+        "link": "https://bgm.tv/character/73920",
+        "categorie": "person"
+      },
+      {
+        "id": "73921",
+        "label": "ハッチン",
+        "info": "ブンブン蜂族の",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/24/73921_crt_oNnc9.jpg?r=1576215102",
+        "link": "https://bgm.tv/character/73921",
+        "categorie": "person"
+      },
+      {
+        "id": "73922",
+        "label": "ジョウ",
+        "info": "不死鳥族の虚弱体質男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/1a/73922_crt_m150W.jpg?r=1576215535",
+        "link": "https://bgm.tv/character/73922",
+        "categorie": "person"
+      },
+      {
+        "id": "73923",
+        "label": "双循",
+        "info": "狛犬族のド偉そう男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/be/73923_crt_ltSgu.jpg?r=1576215782",
+        "link": "https://bgm.tv/character/73923",
+        "categorie": "person"
+      },
+      {
+        "id": "73924",
+        "label": "ララリン",
+        "info": "猛カラカル族の凜々しい美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/95/73924_crt_7mzFE.jpg?r=1576215989",
+        "link": "https://bgm.tv/character/73924",
+        "categorie": "person"
+      },
+      {
+        "id": "73925",
+        "label": "スモモネ",
+        "info": "桃モモンガ族の色っぽい美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/fd/73925_crt_CTc9B.jpg?r=1576216373",
+        "link": "https://bgm.tv/character/73925",
+        "categorie": "person"
+      },
+      {
+        "id": "73926",
+        "label": "ういうい",
+        "info": "氷うさぎ族のひんやり美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/c1/73926_crt_2KKX5.jpg?r=1576217465",
+        "link": "https://bgm.tv/character/73926",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

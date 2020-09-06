@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8002",
+        "label": "深井零",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/40/8002_crt_v9zVZ.jpg",
+        "link": "https://bgm.tv/character/8002",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

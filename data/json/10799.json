@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "86",
+        "label": "爱德华·艾尔利克",
+        "info": "通称爱德。为了寻找贤者之石与弟弟一起旅行。性格有很冲动的一面，很容易暴走。对自己比较矮小的身高非常在意，当听到“小豆丁”、“矮子”等字眼便会暴走。年幼时，母亲不幸因流行病死去，为了能再看见母亲的微笑，爱德与弟弟进行人体链成，结果失败，爱德失去左脚、弟弟失去整个身体，为保住弟弟，爱德用右手换取弟弟的灵魂，并将弟弟的灵魂附着于盔甲上。爱德失去的肢体后用机械铠替代。为了知道贤者之石的秘密及得到相关资料，决心成为国家炼金术师，在12岁成功考取，成为军属，得到了“钢”的称号。他不喜欢喝牛奶，但却非常喜欢喝含有牛奶的炖蔬菜汤。打斗时会将右手的机械铠链成带有刀刃的形式。在进行人体链成时打开了真理之门，因此链成时无须画链成阵。身上的银怀表是身为国家炼金术师的证明，但是被他利用炼金术封住，盖子内刻有兄弟两烧毁住处离开家乡的日期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/50/86_crt_op5nr.jpg",
+        "link": "https://bgm.tv/character/86",
+        "categorie": "person"
+      },
+      {
+        "id": "87",
+        "label": "阿尔芬斯·艾尔利克",
+        "info": "在钢铁铠甲中有颗善良的心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/b3/87_crt_DaRIi.jpg?r=1378928233",
+        "link": "https://bgm.tv/character/87",
+        "categorie": "person"
+      },
+      {
+        "id": "39691",
+        "label": "茱莉亚·克莱顿",
+        "info": "16歳。「黒コウモリ」を名乗るミロスのレジスタンス組織に所属する、茶髪に碧眼の少女。錬金術師で、両親が遺した術式は使いこなせずにいるが、バタネンから教わった簡易な医療系錬金術を扱うことができる。戦士としても優秀で、銃などの扱いや身体能力に長けており、グライダー部隊の一員として戦場にも赴いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/ef/39691_crt_J7Llu.jpg?r=1458740340",
+        "link": "https://bgm.tv/character/39691",
+        "categorie": "person"
+      },
+      {
+        "id": "88",
+        "label": "温莉·洛克贝尔",
+        "info": "机械铠装备师。大陆历1899年出生，故事中段年龄15-16岁，淡金色马尾的美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/fe/88_crt_Lz1IA.jpg?r=1378928455",
+        "link": "https://bgm.tv/character/88",
+        "categorie": "person"
+      },
+      {
+        "id": "527",
+        "label": "罗伊·马斯坦古",
+        "info": "别名“焰之炼金术师”的国家炼金术师。国军大佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/f9/527_crt_TjATX.jpg?r=1444712439",
+        "link": "https://bgm.tv/character/527",
+        "categorie": "person"
+      },
+      {
+        "id": "6086",
+        "label": "莉莎·霍克艾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/e1/6086_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6086",
+        "categorie": "person"
+      },
+      {
+        "id": "6088",
+        "label": "亚历克斯·路易斯·阿姆斯壮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/bc/6088_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6088",
+        "categorie": "person"
+      },
+      {
+        "id": "11212",
+        "label": "海曼斯·普雷达",
+        "info": "阶级：少尉",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/be/11212_crt_DH4Z0.jpg",
+        "link": "https://bgm.tv/character/11212",
+        "categorie": "person"
+      },
+      {
+        "id": "39692",
+        "label": "卡琳娜",
+        "info": "ジュリアを慕うミロス人の少女。友人のティアと作った腕輪をジュリアにプレゼントし、それがジュリアの祖国復興の意思をより高めることとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/24/39692_crt_6K3kG.jpg?r=1458741315",
+        "link": "https://bgm.tv/character/39692",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

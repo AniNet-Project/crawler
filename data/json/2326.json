@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1108",
+        "label": "片瀬志麻",
+        "info": "本作の主人公で、宇宙を飛ぶことに憧れるステルヴィアの新入生。受動的で自己主張することが苦手な自分を変えるきっかけを求め、宇宙に上がってきた。実は驚異的な情報処理能力を持ち、プログラマーとしては天才的であるものの、自覚はなく、そのため、それ以外の面で他に及ばないことに劣等感を抱いている。宇宙機パイロットとしては、当初はかなり下手だった。音山光太にアドバイスされ、細かい情報を技術的に無視するようになってからは、光太には及ばないながらも優秀なパイロットとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/63/1108_crt_yMvFU.jpg?r=1588177344",
+        "link": "https://bgm.tv/character/1108",
+        "categorie": "person"
+      },
+      {
+        "id": "1109",
+        "label": "音山光太",
+        "info": "どこか謎めいた少年で、志麻の級友。物語の中盤で志麻の恋人となり、後半では二人のすれ違いが物語の大きな主軸となる。争いを嫌い、あらゆる科目においてその難易度に関わらず、必ず中程度の成績を意図して取っていたが、その実態は、人間離れした能力をもつ文字通りの天才パイロット。才能に気付いたリチャードによって人類の「次なる段階の象徴」として見出され、後に最新型インターフェースとの適合によって、更に人類トップクラスの知覚能力を獲得していく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/77/1109_crt_7M1vV.jpg?r=1588177455",
+        "link": "https://bgm.tv/character/1109",
+        "categorie": "person"
+      },
+      {
+        "id": "24913",
+        "label": "艾丽莎·葛连诺斯",
+        "info": "志麻の級友であり、一番の親友。地球からステルヴィアへのシャトルで出会い、さらにルームメイトとなった。志麻の愛称「しーぽん」は、「志麻」の「し」とやたらぽんぽん飛び回る志麻の機体操縦から、知り合って間もなく彼女が付けたもの。「しーぽん」の他にも「インフィニティー」は「インフィー」、「アルキュオン」は「ルッキョン」と色々な呼び名をつけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/7f/24913_crt_Xl22W.jpg?r=1588177480",
+        "link": "https://bgm.tv/character/24913",
+        "categorie": "person"
+      },
+      {
+        "id": "3745",
+        "label": "风祭玲奈",
+        "info": "地球から最も遠いファウンデーション「ウルティマ」から飛び級でやってきた転校生。幼い頃から宇宙が遊び場でもあったため英才教育に等しい環境で育ち、超絶的な飛行技能を見せ付ける才能の持ち主。競技会で圧倒的な才能を見せた片瀬志麻をライバルに足る存在と見なし、そのためステルヴィアにやって来た。りんなにとって志麻は良き友人であり最大のライバルであり目標である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/bd/3745_crt_nWUn4.jpg",
+        "link": "https://bgm.tv/character/3745",
+        "categorie": "person"
+      },
+      {
+        "id": "24914",
+        "label": "藤泽弥生",
+        "info": "志麻の級友。愛称は「お嬢」。実は2年前にステルヴィアに入学しており、初佳の親友であった。だが初佳とのパイロット訓練中に事故が起こり、重傷を負って退学。回復後に再入学した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/5e/24914_crt_WU98Z.jpg",
+        "link": "https://bgm.tv/character/24914",
+        "categorie": "person"
+      },
+      {
+        "id": "3746",
+        "label": "栢山晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/3f/3746_crt_TBXIR.jpg?r=1591633331",
+        "link": "https://bgm.tv/character/3746",
+        "categorie": "person"
+      },
+      {
+        "id": "24915",
+        "label": "小田原大",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/ca/24915_crt_ig1II.jpg?r=1591633315",
+        "link": "https://bgm.tv/character/24915",
+        "categorie": "person"
+      },
+      {
+        "id": "3750",
+        "label": "皮耶尔·泷田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/79/3750_crt_OVe6U.jpg",
+        "link": "https://bgm.tv/character/3750",
+        "categorie": "person"
+      },
+      {
+        "id": "24916",
+        "label": "乔伊·琼斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/4b/24916_crt_u2xnJ.jpg",
+        "link": "https://bgm.tv/character/24916",
+        "categorie": "person"
+      },
+      {
+        "id": "24917",
+        "label": "町田初佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/c5/24917_crt_Y0sK3.jpg",
+        "link": "https://bgm.tv/character/24917",
+        "categorie": "person"
+      },
+      {
+        "id": "24918",
+        "label": "ケント・オースチン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/b6/24918_crt_nejNG.jpg?r=1591633296",
+        "link": "https://bgm.tv/character/24918",
+        "categorie": "person"
+      },
+      {
+        "id": "3751",
+        "label": "ナジマ・ゲブール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/0b/3751_crt_LhFFv.jpg",
+        "link": "https://bgm.tv/character/3751",
+        "categorie": "person"
+      },
+      {
+        "id": "3752",
+        "label": "笙人律夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/d5/3752_crt_UvG40.jpg",
+        "link": "https://bgm.tv/character/3752",
+        "categorie": "person"
+      },
+      {
+        "id": "3747",
+        "label": "リチャード・ジェームズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/c1/3747_crt_czXOx.jpg",
+        "link": "https://bgm.tv/character/3747",
+        "categorie": "person"
+      },
+      {
+        "id": "24919",
+        "label": "カール・ヒュッター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/96/24919_crt_Z5CWt.jpg",
+        "link": "https://bgm.tv/character/24919",
+        "categorie": "person"
+      },
+      {
+        "id": "3748",
+        "label": "白银迅雷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/d3/3748_crt_JJmev.jpg",
+        "link": "https://bgm.tv/character/3748",
+        "categorie": "person"
+      },
+      {
+        "id": "24920",
+        "label": "レイラ・バルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/4e/24920_crt_fTM7X.jpg",
+        "link": "https://bgm.tv/character/24920",
+        "categorie": "person"
+      },
+      {
+        "id": "3749",
+        "label": "莲花莲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/a7/3749_crt_fCeee.jpg",
+        "link": "https://bgm.tv/character/3749",
+        "categorie": "person"
+      },
+      {
+        "id": "24921",
+        "label": "织原道夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/e6/24921_crt_8knYD.jpg",
+        "link": "https://bgm.tv/character/24921",
+        "categorie": "person"
+      },
+      {
+        "id": "24925",
+        "label": "ジュノ・マイヨール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/af/24925_crt_AqQ0q.jpg?r=1591633284",
+        "link": "https://bgm.tv/character/24925",
+        "categorie": "person"
+      },
+      {
+        "id": "3756",
+        "label": "片濑真人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/aa/3756_crt_1wrw3.jpg",
+        "link": "https://bgm.tv/character/3756",
+        "categorie": "person"
+      },
+      {
+        "id": "3755",
+        "label": "片濑千秋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/eb/3755_crt_anaoE.jpg?r=1591633238",
+        "link": "https://bgm.tv/character/3755",
+        "categorie": "person"
+      },
+      {
+        "id": "24923",
+        "label": "片濑海人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ae/24923_crt_bfFCF.jpg",
+        "link": "https://bgm.tv/character/24923",
+        "categorie": "person"
+      },
+      {
+        "id": "24924",
+        "label": "音山阳子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/8b/24924_crt_797PK.jpg",
+        "link": "https://bgm.tv/character/24924",
+        "categorie": "person"
+      },
+      {
+        "id": "24922",
+        "label": "米雅·葛连诺斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/c8/24922_crt_F3Jfz.jpg",
+        "link": "https://bgm.tv/character/24922",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

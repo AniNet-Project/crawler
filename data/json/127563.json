@@ -1,0 +1,341 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19243",
+        "label": "埼玉",
+        "info": "本作主角。25岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/e6/19243_crt_oBuev.jpg?r=1599062038",
+        "link": "https://bgm.tv/character/19243",
+        "categorie": "person"
+      },
+      {
+        "id": "19671",
+        "label": "杰诺斯",
+        "info": "19岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/92/19671_crt_T5Iz2.jpg?r=1599062164",
+        "link": "https://bgm.tv/character/19671",
+        "categorie": "person"
+      },
+      {
+        "id": "19676",
+        "label": "KING",
+        "info": "S级7位，29岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/30/19676_crt_I3RVV.jpg?r=1599062400",
+        "link": "https://bgm.tv/character/19676",
+        "categorie": "person"
+      },
+      {
+        "id": "19678",
+        "label": "音速的索尼克",
+        "info": "名字音同Sonic。来自忍者村的忍者，拥有S级的实力，喜欢杀人和与强者对决速度极快，使用忍者刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/aa/19678_crt_TYRX3.jpg?r=1599063569",
+        "link": "https://bgm.tv/character/19678",
+        "categorie": "person"
+      },
+      {
+        "id": "19679",
+        "label": "战栗的龙卷",
+        "info": "S级2位，28岁，B级1位英雄“地狱的吹雪”的亲姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/f9/19679_crt_43VU3.jpg?r=1599062635",
+        "link": "https://bgm.tv/character/19679",
+        "categorie": "person"
+      },
+      {
+        "id": "19680",
+        "label": "银色獠牙",
+        "info": "S级3位（在S级英雄设立前为B级77位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/9d/19680_crt_thFz2.jpg?r=1599062714",
+        "link": "https://bgm.tv/character/19680",
+        "categorie": "person"
+      },
+      {
+        "id": "19681",
+        "label": "原子武士",
+        "info": "S级4位，37岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/40/19681_crt_fV2rf.jpg?r=1441558803",
+        "link": "https://bgm.tv/character/19681",
+        "categorie": "person"
+      },
+      {
+        "id": "19682",
+        "label": "假面帅哥甜心假面",
+        "info": "A级1位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/af/19682_crt_8B75B.jpg",
+        "link": "https://bgm.tv/character/19682",
+        "categorie": "person"
+      },
+      {
+        "id": "19687",
+        "label": "蚊女",
+        "info": "蚊の身体を持つ女性タイプの怪人。自在に蚊の群れを操り、Z市を襲った。災害レベル：鬼以上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/91/19687_crt_I9Ad8.jpg",
+        "link": "https://bgm.tv/character/19687",
+        "categorie": "person"
+      },
+      {
+        "id": "19688",
+        "label": "武装大猩猩",
+        "info": "サイボーグ手術を施された、ゴリラの怪人。普段はかっこつけてロボットのような片言で話すが、実は普通に話せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/ae/19688_crt_lww7O.jpg",
+        "link": "https://bgm.tv/character/19688",
+        "categorie": "person"
+      },
+      {
+        "id": "19689",
+        "label": "兽王",
+        "info": "「進化の家」ナンバー2の実力を持つ怪人。ライオンの顔に、筋骨隆々とした人間の肉体を持つ。必殺技は「獅子斬流勢群」サイタマの「連続普通のパンチ」によりバラバラになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e8/19689_crt_2K12N.jpg",
+        "link": "https://bgm.tv/character/19689",
+        "categorie": "person"
+      },
+      {
+        "id": "19691",
+        "label": "疫苗人",
+        "info": "環境汚染を繰り返す人間とその文明を滅ぼすため、地球の意思によって誕生した。突如A市に現れて破壊の限りを尽くしていた。サイタマの一撃で臓物を飛び散らしながら敗北。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/02/19691_crt_KE93g.jpg?r=1442204793",
+        "link": "https://bgm.tv/character/19691",
+        "categorie": "person"
+      },
+      {
+        "id": "19692",
+        "label": "螃蟹怪",
+        "info": "蟹を食べ過ぎた影響で突然変異して生れた怪人。カニのような両手のハサミや甲殻を持った身体にブリーフ一枚の姿が特徴。プクプクプク（笑）と笑う。公園で寝ていたところ、あごの割れた子どもに油性マジックで乳首を書かれたことに激昂し、八つ裂きにしようしたが、まだ普通の青年として就職活動をしていたサイタマに倒された。サイタマがヒーローになるきっかけとなった怪人でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/83/19692_crt_Zs7Fj.jpg",
+        "link": "https://bgm.tv/character/19692",
+        "categorie": "person"
+      },
+      {
+        "id": "19693",
+        "label": "波罗斯",
+        "info": "暗黒盗賊団ダークマターの頭目。人型をした一つ目の宇宙人。20年前、宇宙中を荒らしまわり、誰も刃向かう者がおらず退屈していたところ、遠く離れた星に自分と互角に戦える者がいるという占い師の予言を受け、地球にやってきた。予言の相手はサイタマだったと確信したが、全力を引き出すことは出来ず、最後はサイタマの「本気殴り」の余波によって敗北した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/45/19693_crt_O637C.jpg?r=1599063415",
+        "link": "https://bgm.tv/character/19693",
+        "categorie": "person"
+      },
+      {
+        "id": "19701",
+        "label": "性感囚犯",
+        "info": "S级16位→S级17位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/2f/19701_crt_8F9c9.jpg?r=1599062242",
+        "link": "https://bgm.tv/character/19701",
+        "categorie": "person"
+      },
+      {
+        "id": "19702",
+        "label": "金属球棒",
+        "info": "S级15位→S级16位（在S级英雄设立前为C级223位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/78/19702_crt_BRo1j.jpg",
+        "link": "https://bgm.tv/character/19702",
+        "categorie": "person"
+      },
+      {
+        "id": "19704",
+        "label": "背心大师",
+        "info": "S级14位→S级15位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/08/19704_crt_OnKxm.jpg",
+        "link": "https://bgm.tv/character/19704",
+        "categorie": "person"
+      },
+      {
+        "id": "19729",
+        "label": "闪光的Flash",
+        "info": "S级13位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/4e/19729_crt_O31N1.jpg",
+        "link": "https://bgm.tv/character/19729",
+        "categorie": "person"
+      },
+      {
+        "id": "19730",
+        "label": "猪神",
+        "info": "S级10位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/24/19730_crt_8s37p.jpg?r=1441561155",
+        "link": "https://bgm.tv/character/19730",
+        "categorie": "person"
+      },
+      {
+        "id": "19908",
+        "label": "深海王",
+        "info": "推定災害レベル：鬼以上。オカマのような話し方をする海の王。ミサイルもはじくシェルターをぶち抜く怪力と、音速のソニックにも引けをとらないスピードを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/42/19908_crt_XRezr.jpg",
+        "link": "https://bgm.tv/character/19908",
+        "categorie": "person"
+      },
+      {
+        "id": "21588",
+        "label": "警犬侠",
+        "info": "S级12位（在S级英雄设立前为C级301位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/ef/21588_crt_4NoUk.jpg?r=1441561142",
+        "link": "https://bgm.tv/character/21588",
+        "categorie": "person"
+      },
+      {
+        "id": "21589",
+        "label": "超合金黑光",
+        "info": "S级11位（在S级英雄设立前为C级最低位383位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ae/21589_crt_9KkTC.jpg",
+        "link": "https://bgm.tv/character/21589",
+        "categorie": "person"
+      },
+      {
+        "id": "21590",
+        "label": "驱动骑士",
+        "info": "S级9位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/c7/21590_crt_yr3e6.jpg",
+        "link": "https://bgm.tv/character/21590",
+        "categorie": "person"
+      },
+      {
+        "id": "21591",
+        "label": "僵尸男",
+        "info": "S级8位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/78/21591_crt_WCxxo.jpg?r=1441561127",
+        "link": "https://bgm.tv/character/21591",
+        "categorie": "person"
+      },
+      {
+        "id": "21592",
+        "label": "童帝",
+        "info": "S级5位，10岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/eb/21592_crt_A7KcQ.jpg",
+        "link": "https://bgm.tv/character/21592",
+        "categorie": "person"
+      },
+      {
+        "id": "21593",
+        "label": "金属骑士",
+        "info": "S级7位→S级6位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/3d/21593_crt_fN5Uf.jpg",
+        "link": "https://bgm.tv/character/21593",
+        "categorie": "person"
+      },
+      {
+        "id": "24855",
+        "label": "无证骑士",
+        "info": "英雄阶级：C级1位",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/00/24855_crt_77ZvF.jpg",
+        "link": "https://bgm.tv/character/24855",
+        "categorie": "person"
+      },
+      {
+        "id": "36827",
+        "label": "巨合钢",
+        "info": "A級2位。アトミック侍の弟子でA級三剣士の一人。西洋鎧を装備し、居合いを得意としている。暗黒盗賊団ダークマターのメルザルガルドに左腕を消し飛ばされ、以降は隻腕となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/26/36827_crt_U0XJV.jpg?r=1599063667",
+        "link": "https://bgm.tv/character/36827",
+        "categorie": "person"
+      },
+      {
+        "id": "36831",
+        "label": "青焰",
+        "info": "A級6位。中華服を着用した三白眼の青年。腕に仕込んだ火炎放射器で戦う。ガロウとの戦闘で右腕を失った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/42/36831_crt_P0ZFF.jpg",
+        "link": "https://bgm.tv/character/36831",
+        "categorie": "person"
+      },
+      {
+        "id": "36834",
+        "label": "毒刺",
+        "info": "A級11位→A級10位。槍先がタケノコのような形状の愛槍「タケノコ」で戦う。災害レベル『虎』の怪人10体を単独で撃破する実力者。C級赤マフの肉体強度が100に対して彼は1600とのこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/45/36834_crt_mu3zu.jpg?r=1599063746",
+        "link": "https://bgm.tv/character/36834",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "19677",
+        "label": "地狱的吹雪",
+        "info": "英雄阶级：B级1位",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/f5/19677_crt_R9MKD.jpg?r=1599063141",
+        "link": "https://bgm.tv/character/19677",
+        "categorie": "person"
+      },
+      {
+        "id": "36157",
+        "label": "フケガオ",
+        "info": "天才と筋肉兄弟（リメイク版ではフケガオとマルゴリ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/b4/36157_crt_Gu7q6.jpg",
+        "link": "https://bgm.tv/character/36157",
+        "categorie": "person"
+      },
+      {
+        "id": "36158",
+        "label": "マルゴリ",
+        "info": "天才と筋肉兄弟（リメイク版ではフケガオとマルゴリ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/51/36158_crt_c5WwF.jpg",
+        "link": "https://bgm.tv/character/36158",
+        "categorie": "person"
+      },
+      {
+        "id": "36159",
+        "label": "アゴの割れたガキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/4a/36159_crt_fXxv1.jpg",
+        "link": "https://bgm.tv/character/36159",
+        "categorie": "person"
+      },
+      {
+        "id": "36160",
+        "label": "バリカスタムよ649ZマークII",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/25/36160_crt_8vI7R.jpg",
+        "link": "https://bgm.tv/character/36160",
+        "categorie": "person"
+      },
+      {
+        "id": "36161",
+        "label": "地底王",
+        "info": "災害レベル：虎(地底人)、鬼(地底王)。地底王に率いられ、地上を侵略しにきた地底人達。尚物語の前後半それぞれでその風貌と脅威度が変化しているがある理由による。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/b8/36161_crt_e00S9.jpg",
+        "link": "https://bgm.tv/character/36161",
+        "categorie": "person"
+      },
+      {
+        "id": "36162",
+        "label": "地底人",
+        "info": "災害レベル：虎(地底人)、鬼(地底王)。地底王に率いられ、地上を侵略しにきた地底人達。尚物語の前後半それぞれでその風貌と脅威度が変化しているがある理由による。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/6f/36162_crt_9D9Di.jpg",
+        "link": "https://bgm.tv/character/36162",
+        "categorie": "person"
+      },
+      {
+        "id": "37011",
+        "label": "睫毛",
+        "info": "B級2位。フブキの部下。名前の通りまつ毛が長い。リメイク版ではアイラッシュカーラーを武器にしている。フブキの勧誘を断ったサイタマに山猿と共に挑むも、一撃で返り討ちに遭った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ab/37011_crt_9pF3a.jpg",
+        "link": "https://bgm.tv/character/37011",
+        "categorie": "person"
+      },
+      {
+        "id": "42024",
+        "label": "仲居",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/8d/42024_crt_rD68q.jpg?r=1464408586",
+        "link": "https://bgm.tv/character/42024",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

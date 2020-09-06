@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21766",
+        "label": "千早群像",
+        "info": "潜水艦イ401艦長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/30/21766_crt_xSKL0.jpg?r=1381578797",
+        "link": "https://bgm.tv/character/21766",
+        "categorie": "person"
+      },
+      {
+        "id": "21767",
+        "label": "伊欧娜",
+        "info": "潜水艦イ401のメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/d9/21767_crt_bJ5v9.jpg?r=1579412996",
+        "link": "https://bgm.tv/character/21767",
+        "categorie": "person"
+      },
+      {
+        "id": "21772",
+        "label": "高雄",
+        "info": "霧の重巡洋艦タカオのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/6b/21772_crt_M1tsH.jpg?r=1579412807",
+        "link": "https://bgm.tv/character/21772",
+        "categorie": "person"
+      },
+      {
+        "id": "21768",
+        "label": "织部僧",
+        "info": "イ401副長。論理的で常識的判断が特徴。群像と琴乃の幼馴染。頭部を全て覆い隠す形状のマスクを常に着けており、素顔は不明（ドラマCDによると学院時代には「アレルギー持ち」として知られていた模様）。杏平曰く、プレゼン資料やリストの作成といった作業を非常に好むタイプ。学院での成績は総合4位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/58/21768_crt_k6EMj.jpg",
+        "link": "https://bgm.tv/character/21768",
+        "categorie": "person"
+      },
+      {
+        "id": "21769",
+        "label": "橿原杏平",
+        "info": "イ401火器管制担当。常にゴーグルを着用している浅黒い肌をした陽気な男。学院での成績は総合200番代だが、砲術と水雷は10位以内。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/33/21769_crt_5l3im.jpg",
+        "link": "https://bgm.tv/character/21769",
+        "categorie": "person"
+      },
+      {
+        "id": "21770",
+        "label": "四月一日伊织",
+        "info": "機関・技術担当。担当故に1人だけ配置がブリッジと離れているため、よくイオナ2号（前述の“分身”）を派遣してもらっている。イオナと仲が良く、作戦会議等の際には2人でくっついている姿がよく見られる。学院での成績は総合5位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/c5/21770_crt_6P4lv.jpg",
+        "link": "https://bgm.tv/character/21770",
+        "categorie": "person"
+      },
+      {
+        "id": "21771",
+        "label": "八月一日静",
+        "info": "ソナー・センサー担当。前髪を切りそろえたストレートロングの黒髪に眼鏡をかけた少女。彼女のみ他のクルーより後から参加している。硫黄島基地が襲撃された際、「特殊部隊の相手は無理」と言いながらもトラップ類を駆使してプロの軍人をかなり翻弄しており（硫黄島で対峙した軍人からは偵察兵の手口と評される[9]）、なんらかの実戦経験がある様子をうかがわせた。昔は台湾にいたらしいが、参加の経緯を含めて過去は現時点では不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/dd/21771_crt_112Go.jpg",
+        "link": "https://bgm.tv/character/21771",
+        "categorie": "person"
+      },
+      {
+        "id": "21773",
+        "label": "榛名",
+        "info": "霧の大戦艦級ハルナのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/df/21773_crt_KaTAz.jpg?r=1579412915",
+        "link": "https://bgm.tv/character/21773",
+        "categorie": "person"
+      },
+      {
+        "id": "21774",
+        "label": "雾岛",
+        "info": "霧の大戦艦級キリシマのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/58/21774_crt_7txNR.jpg?r=1388331001",
+        "link": "https://bgm.tv/character/21774",
+        "categorie": "person"
+      },
+      {
+        "id": "21775",
+        "label": "金刚",
+        "info": "霧の大戦艦級コンゴウのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/4e/21775_crt_JIA23.jpg",
+        "link": "https://bgm.tv/character/21775",
+        "categorie": "person"
+      },
+      {
+        "id": "21776",
+        "label": "伊400",
+        "info": "イ401の姉妹艦である、霧の潜水艦イ400のメンタルモデル。同じく姉妹艦であるイ402とともに、諜報を主な活動とする。丁寧な口調から、慎重な性格が察せられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/9d/21776_crt_Mz3HW.jpg",
+        "link": "https://bgm.tv/character/21776",
+        "categorie": "person"
+      },
+      {
+        "id": "21777",
+        "label": "摩耶",
+        "info": "旧帝国海軍高雄型重巡洋艦三番艦・摩耶の形状を模す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/f0/21777_crt_S5c1g.jpg",
+        "link": "https://bgm.tv/character/21777",
+        "categorie": "person"
+      },
+      {
+        "id": "21778",
+        "label": "伊402",
+        "info": "イ401の姉妹艦である、霧の潜水艦イ402のメンタルモデル。同じく姉妹艦であるイ400とともに、諜報を主な活動とする。口調はぶっきらぼう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/ae/21778_crt_ZYZUn.jpg",
+        "link": "https://bgm.tv/character/21778",
+        "categorie": "person"
+      },
+      {
+        "id": "21779",
+        "label": "刑部莳绘",
+        "info": "「霧」に対抗し得る兵器の開発を命じられた刑部博士が、DNA操作により生み出したデザインチャイルド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/f9/21779_crt_GJ7ZG.jpg",
+        "link": "https://bgm.tv/character/21779",
+        "categorie": "person"
+      },
+      {
+        "id": "22279",
+        "label": "日向",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/5b/22279_crt_0C0M0.jpg",
+        "link": "https://bgm.tv/character/22279",
+        "categorie": "person"
+      },
+      {
+        "id": "57706",
+        "label": "长良",
+        "info": "长良是《苍蓝钢铁的琶音》中海雾舰队的轻巡洋舰。到连载至2015年1月为止，是原作漫画中登场的唯一一艘轻巡洋舰。因演算能力不足，目前没有心智模型。和作中其他大多数雾舰不同，未显示其独有的舰徽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/89/57706_crt_4KdUs.jpg",
+        "link": "https://bgm.tv/character/57706",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

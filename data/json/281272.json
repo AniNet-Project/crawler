@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "79194",
+        "label": "六耳",
+        "info": "傲来国二小姐。在“御妖之国”剧情中首次出现。能一眼看出白月初使用的“虚空之泪”真面貌，并一直旁观着白月初和妖帝的战斗。在涂山苏苏陷入危机时，用意念告知她反击之法，并插手了妖帝和公主的续缘仪式，涂山美美知晓其身份后吓得逃走。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/da/79194_crt_PZYKf.jpg?r=1597242777",
+        "link": "https://bgm.tv/character/79194",
+        "categorie": "person"
+      },
+      {
+        "id": "80141",
+        "label": "欢都落兰",
+        "info": "欢都落兰是南国毒皇的女儿，南国的公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/fe/80141_crt_3sqZX.jpg?r=1597380897",
+        "link": "https://bgm.tv/character/80141",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

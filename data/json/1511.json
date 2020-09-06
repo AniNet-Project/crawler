@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6676",
+        "label": "小起",
+        "info": "この物語の主役。サバトラの子猫。生後2~3ヶ月(メス)。体は小さいが好奇心旺盛で元気いっぱい。ミルクが大好き。まだ子猫なので舌ったらずな独特なしゃべり方をし、それはチー語と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/bd/6676_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6676",
+        "categorie": "person"
+      },
+      {
+        "id": "8390",
+        "label": "妈妈",
+        "info": "山田家のお母さん。チーは「オカーサン」と呼んでいる。やさしいお母さんは料理が得意。ちょっとのん気なところもあり、もしかしたら若い時は天然娘だったのかも。チーはえもの(ご飯)を持って(買って)帰ってくるお母さんを尊敬している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/cf/8390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

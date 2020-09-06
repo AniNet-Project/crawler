@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9428",
+        "label": "タケル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/d7/9428_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9428",
+        "categorie": "person"
+      },
+      {
+        "id": "11984",
+        "label": "和马",
+        "info": "武的朋友，沉着冷静。有一个名叫千代的妹妹。虽然对前往地球没有太大兴趣，但他仍积极参与武的计划。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/db/11984_crt_RlEUS.jpg",
+        "link": "https://bgm.tv/character/11984",
+        "categorie": "person"
+      },
+      {
+        "id": "9431",
+        "label": "ビス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/9b/9431_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9431",
+        "categorie": "person"
+      },
+      {
+        "id": "9432",
+        "label": "アラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/93/9432_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9432",
+        "categorie": "person"
+      },
+      {
+        "id": "11987",
+        "label": "泰那",
+        "info": "带领缠绕着武的Vehicle队伍“Moon shine”的队长。确信地球已经灭亡，常侮辱武。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/79/11987_crt_ix8C6.jpg",
+        "link": "https://bgm.tv/character/11987",
+        "categorie": "person"
+      },
+      {
+        "id": "11994",
+        "label": "Junk屋的大叔",
+        "info": "Vehicle专门店“Moonraker”的老板，免费借车库给武他们的一位大叔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/b2/11994_crt_33479.jpg",
+        "link": "https://bgm.tv/character/11994",
+        "categorie": "person"
+      },
+      {
+        "id": "12021",
+        "label": "ゴッシュ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/12021",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

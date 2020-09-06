@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9072",
+        "label": "鬼太郎",
+        "info": "妖怪の中でも非常に強い力を持った幽霊族最後の生き残り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/2f/9072_crt_6canC.jpg",
+        "link": "https://bgm.tv/character/9072",
+        "categorie": "person"
+      },
+      {
+        "id": "9075",
+        "label": "猫娘",
+        "info": "猫女是日本漫画家水木茂创作的漫画《鬼太郎》（早期标题：“墓場の鬼太郎”）的猫妖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/0c/9075_crt_2wJCw.jpg?r=1525573157",
+        "link": "https://bgm.tv/character/9075",
+        "categorie": "person"
+      },
+      {
+        "id": "62492",
+        "label": "犬山まな",
+        "info": "中学校一年生の女の子。人一倍好奇心が強く、人間とは別の世界に暮らす鬼太郎たちに魅かれていく。鬼太郎からはおせっかいに見られることもあるが、彼女のひらめきが解決の糸口になることも…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/b6/62492_crt_tyFVg.jpg",
+        "link": "https://bgm.tv/character/62492",
+        "categorie": "person"
+      },
+      {
+        "id": "6893",
+        "label": "眼珠老爹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/d0/6893_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6893",
+        "categorie": "person"
+      },
+      {
+        "id": "34428",
+        "label": "鼠男",
+        "info": "『下宿屋』（アニメ版第2話）から登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/e7/34428_crt_Mp6pb.jpg",
+        "link": "https://bgm.tv/character/34428",
+        "categorie": "person"
+      },
+      {
+        "id": "63161",
+        "label": "五十岚百合子",
+        "info": "记者，于第五话出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/25/63161_crt_GlLGz.jpg",
+        "link": "https://bgm.tv/character/63161",
+        "categorie": "person"
+      },
+      {
+        "id": "64847",
+        "label": "房野きらら",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/03/64847_crt_nyNFB.jpg",
+        "link": "https://bgm.tv/character/64847",
+        "categorie": "person"
+      },
+      {
+        "id": "66676",
+        "label": "阿尼艾斯",
+        "info": "バックベアードの元から日本に逃亡してきた西洋妖怪の魔女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/8f/66676_crt_72C3g.jpg",
+        "link": "https://bgm.tv/character/66676",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

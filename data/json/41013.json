@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "485",
+        "label": "博丽灵梦",
+        "info": "幻想乡境内博丽神社的现有巫女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/d1/485_crt_wH8xD.jpg?r=1565683383",
+        "link": "https://bgm.tv/character/485",
+        "categorie": "person"
+      },
+      {
+        "id": "486",
+        "label": "雾雨魔理沙",
+        "info": "居住于魔法森林的人类魔法使，常骑着扫把，「霧雨店」的独生女。會使用魔法森林的蘑菇調製火藥，所使用的魔法幾乎只有把東西破壞的效果，而且燃料需要長時間準備，但是其效果非常強力，在Spell Card規則成立下，純粹的破壞力在人類當中屬於最高等級。此外在幻想乡是出了名的小偷，帕邱莉的图书馆、香霖堂，如果不是古明地觉会读心术，甚至连地灵殿都会惨遭毒手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/48/486_crt_3cgWl.jpg?r=1565683463",
+        "link": "https://bgm.tv/character/486",
+        "categorie": "person"
+      },
+      {
+        "id": "10478",
+        "label": "蕾米莉亚·斯卡蕾特",
+        "info": "初登场时为500岁的萝莉吸血鬼，红魔馆女主人，像贵族般注重威严和体面，性格跟外表一样非常孩子气而任性。害怕流动的水、阳光（会变蒸气，吸到蒸气的人会长生不死）、洋葱，但不怕十字架 (因为不知道有什么好怕)。曾经为了自己方便，将幻想乡笼罩在一片红雾之中（东方红魔乡）。似乎很爱喝咲夜泡的红茶（加B型血的红茶）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/41/10478_crt_5Th77.jpg?r=1535808157",
+        "link": "https://bgm.tv/character/10478",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

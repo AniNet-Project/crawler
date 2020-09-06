@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6585",
+        "label": "エビちゅ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/90/6585_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6585",
+        "categorie": "person"
+      },
+      {
+        "id": "59959",
+        "label": "主人",
+        "info": "エビちゅの飼い主。本名不明。28歳（物語の序盤ではもう少し若い設定。アニメでは25歳）のOL。かいしょなちに浮気されてはケンカしているが、毎回SEXで仲直りしている。普段はコンタクトをしているが、眼鏡も持っており、兼用している描写もある。第15話よりスリーサイズは、B88・W58・H83らしい。身長は作者と同じでもある。ロングヘアーにパーマをかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/c4/59959_crt_ILyii.jpg",
+        "link": "https://bgm.tv/character/59959",
+        "categorie": "person"
+      },
+      {
+        "id": "6586",
+        "label": "恋人",
+        "info": "エビちゅの飼い主。本名不明。28歳（物語の序盤ではもう少し若い設定。アニメでは25歳）のOL。かいしょなちに浮気されてはケンカしているが、毎回SEXで仲直りしている。普段はコンタクトをしているが、眼鏡も持っており、兼用している描写もある。第15話よりスリーサイズは、B88・W58・H83らしい。身長は作者と同じでもある。ロングヘアーにパーマをかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/c5/6586_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6586",
+        "categorie": "person"
+      },
+      {
+        "id": "59960",
+        "label": "麻君",
+        "info": "ご主人ちゃまたちの友達。エビちゅを「エビちゃん」と呼んで愛している。エビちゅのことを想うと奇声をあげるため、近所の住人から通報されたりしている。エビという言葉が絡んで鼻血をだしたり、エビちゅの行動を木の上から双眼鏡で見守ることも。ちなみにちゃんと人間の恋人がおり、結婚を前提とした交際をしていたものの、物語の進行にともなってほとんど登場しなくなっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/4b/59960_crt_d33HK.jpg",
+        "link": "https://bgm.tv/character/59960",
+        "categorie": "person"
+      },
+      {
+        "id": "59961",
+        "label": "渡边小姐",
+        "info": "ご主人ちゃまの友達。本名は「渡辺さん」。料理など家事が得意。病気になったご主人ちゃまを助けにきてくれた。頭に「花」が咲いているような能天気さで、えびちゅから「花畑さん」と呼ばれている。なぜか職場の上司との不倫が多い。アニメでは口が全く動いていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/77/59961_crt_0jyfk.jpg",
+        "link": "https://bgm.tv/character/59961",
+        "categorie": "person"
+      },
+      {
+        "id": "59962",
+        "label": "女性声",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/59962",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

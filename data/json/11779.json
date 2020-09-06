@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11126",
+        "label": "北条响／旋律天使",
+        "info": "非常喜欢体育和吃的开朗少女，讨厌迂回复杂的事情，正义感比别人强烈。出身于音乐家庭，但深信自己没有音乐的才能。喜欢甜品，尤其是南野家做的蛋糕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ce/11126_crt_nBI8x.jpg?r=1556136832",
+        "link": "https://bgm.tv/character/11126",
+        "categorie": "person"
+      },
+      {
+        "id": "11127",
+        "label": "南野奏／节奏天使",
+        "info": "擅长念书和点心制作的女孩子，受到师长的尊敬与同学的欢迎，但与青梅竹马的响很合不来。看起来很老实，不过也有不对事情妥协的顽固面。家里经营糕饼店，非常尊敬身为糕点师的父亲，将来的梦想是继承家业成为糕点师。非常喜欢猫，尤其是“肉垫狂”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/d0/11127_crt_Z6BBR.jpg?r=1558103687",
+        "link": "https://bgm.tv/character/11127",
+        "categorie": "person"
+      },
+      {
+        "id": "13630",
+        "label": "赛莲／黑川艾莲／节拍天使",
+        "info": "来自音乐王国“大调岛”，任职“小调岛”的主唱妖精歌姬，外型为黑猫，哈咪的儿时玩伴。去年以前一直是“大调岛”的主唱，今年为同伴哈咪获选，因此心中产生黑暗而投靠梅菲斯特，成为他的忠实部下。常说朋友不能相信之类的话，实际上常因友情而产生动摇，但数度接受了梅菲斯特的洗脑而隐蔽对哈咪的感情。虽然主要是单方面和哈咪吵架，但跟哈咪的关系就像是響与奏之间的关系。另外有怕妖怪、寄居蟹等弱点。乐队队长王子多次帮助她，对其有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/92/13630_crt_Zm3gm.jpg?r=1558622512",
+        "link": "https://bgm.tv/character/13630",
+        "categorie": "person"
+      },
+      {
+        "id": "13981",
+        "label": "调边亚子／缪斯天使",
+        "info": "市立加音小学三年级，9岁，奏太的同学。性格冷淡，对年长者也能说教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/75/13981_crt_vexeX.jpg?r=1558624388",
+        "link": "https://bgm.tv/character/13981",
+        "categorie": "person"
+      },
+      {
+        "id": "13629",
+        "label": "哈咪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/90/13629_crt_5MfpY.jpg",
+        "link": "https://bgm.tv/character/13629",
+        "categorie": "person"
+      },
+      {
+        "id": "24551",
+        "label": "梅菲斯特",
+        "info": "来自充满悲伤乐曲的国家“小调岛”的国王。打算将“幸福的旋律”改写成“不幸的旋律”，使世界陷入悲伤。个性易怒、孩子气，爱吃棒棒糖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/1d/24551_crt_L18mM.jpg?r=1559139059",
+        "link": "https://bgm.tv/character/24551",
+        "categorie": "person"
+      },
+      {
+        "id": "24552",
+        "label": "阿佛洛狄忒",
+        "info": "音乐王国“大调岛”的女王，小调岛国王梅菲斯特的妻子，亚子的母亲，音吉的女儿。为了阻止被洗脑的梅菲斯特将“传说的乐谱”——“幸福的旋律”变成“不幸的旋律”让乐谱中的音符们逃往人类世界避难，并让哈米带着音符精灵们一起前往人类世界阻止梅菲斯特的手下收集音符。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/b7/24552_crt_AeY6F.jpg?r=1559141975",
+        "link": "https://bgm.tv/character/24552",
+        "categorie": "person"
+      },
+      {
+        "id": "70258",
+        "label": "亚利砂",
+        "info": "響と奏が入学式のときに待ち合わせていたのと同じ、校門から３つ目の桜の木の下で、友だちのレナと待ち合わせをしていた女の子。二つある桜並木のもう一方で待っていたレナと、奏のおかげで会うことができた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/7f/70258_crt_0xdm4.jpg?r=1559144399",
+        "link": "https://bgm.tv/character/70258",
+        "categorie": "person"
+      },
+      {
+        "id": "70288",
+        "label": "怜奈",
+        "info": "響と奏が入学式のときに待ち合わせていたのと同じ、校門から３つ目の桜の木の下で、友だちのありさと待ち合わせをしていた女の子。二つある桜並木のもう一方で待っていたありさと、奏のおかげで会うことができた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f0/70288_crt_UHM8V.jpg?r=1559243353",
+        "link": "https://bgm.tv/character/70288",
+        "categorie": "person"
+      },
+      {
+        "id": "77112",
+        "label": "王子正宗",
+        "info": "音楽王子隊の一員。響の父である北条団をとても尊敬している。女生徒に圧倒的な人気があり、奏も憧れている。とても優しい性格で困っている人は放っておけない。 (声：小田久史)",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/65/77112_crt_384g2.jpg?r=1589349865",
+        "link": "https://bgm.tv/character/77112",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

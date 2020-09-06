@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27106",
+        "label": "赤犬",
+        "info": "海軍本部大将→海軍本部元帥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/b2/27106_crt_zEc2A.jpg",
+        "link": "https://bgm.tv/character/27106",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

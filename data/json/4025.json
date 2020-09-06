@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17749",
+        "label": "则卷阿拉蕾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/35/17749_crt_WW9Wd.jpg",
+        "link": "https://bgm.tv/character/17749",
+        "categorie": "person"
+      },
+      {
+        "id": "27111",
+        "label": "则卷宝瓜",
+        "info": "アラレたちが原始時代にタイムスリップした時に持ち帰った卵。から生まれた、2本の触角と羽根の生えた赤ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/34/27111_crt_tv3eT.jpg",
+        "link": "https://bgm.tv/character/27111",
+        "categorie": "person"
+      },
+      {
+        "id": "12936",
+        "label": "大便",
+        "info": "アラレちゃん、遊ぼう？",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/3e/12936_crt_n22jj.jpg",
+        "link": "https://bgm.tv/character/12936",
+        "categorie": "person"
+      },
+      {
+        "id": "6392",
+        "label": "神龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/85/6392_crt_45l49.jpg",
+        "link": "https://bgm.tv/character/6392",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

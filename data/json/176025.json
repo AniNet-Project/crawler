@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9493",
+        "label": "古代進",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/2e/9493_crt_5ySZb.jpg",
+        "link": "https://bgm.tv/character/9493",
+        "categorie": "person"
+      },
+      {
+        "id": "9494",
+        "label": "森雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/15/9494_crt_C6fqJ.jpg",
+        "link": "https://bgm.tv/character/9494",
+        "categorie": "person"
+      },
+      {
+        "id": "9496",
+        "label": "島大介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/22/9496_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9496",
+        "categorie": "person"
+      },
+      {
+        "id": "32034",
+        "label": "山本玲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/79/32034_crt_2wWIC.jpg",
+        "link": "https://bgm.tv/character/32034",
+        "categorie": "person"
+      },
+      {
+        "id": "36743",
+        "label": "新见薰",
+        "info": "2199系列新登场人物，技术科／情报长，阶级为一尉。27歳。东京都出生。拥有心理学博士。兼任心理辅导工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f3/36743_crt_NwCaJ.jpg",
+        "link": "https://bgm.tv/character/36743",
+        "categorie": "person"
+      },
+      {
+        "id": "47620",
+        "label": "桐生美影",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/d6/47620_crt_y4vgE.jpg?r=1477113665",
+        "link": "https://bgm.tv/character/47620",
+        "categorie": "person"
+      },
+      {
+        "id": "53774",
+        "label": "克劳斯·基曼",
+        "info": "加密拉斯星驻地球大使馆武官",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/28/53774_crt_s13d5.jpg?r=1493739127",
+        "link": "https://bgm.tv/character/53774",
+        "categorie": "person"
+      },
+      {
+        "id": "65453",
+        "label": "希法尔·莎贝拉",
+        "info": "白色彗星帝国加特兰蒂斯的女宰相",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/3f/65453_crt_9MCyi.jpg",
+        "link": "https://bgm.tv/character/65453",
+        "categorie": "person"
+      },
+      {
+        "id": "9495",
+        "label": "佐渡酒造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e6/9495_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9495",
+        "categorie": "person"
+      },
+      {
+        "id": "9497",
+        "label": "真田志郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/53/9497_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9497",
+        "categorie": "person"
+      },
+      {
+        "id": "32030",
+        "label": "岬百合亜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/f9/32030_crt_33C9s.jpg",
+        "link": "https://bgm.tv/character/32030",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

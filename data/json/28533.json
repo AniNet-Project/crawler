@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15336",
+        "label": "南波六太",
+        "info": "主角。毛茸茸的自然卷发型特征。大学毕业后，在汽车设计公司工作。工学博士，亲手设计几辆车，也因此获得奖赏不过，因为上司侮辱他弟弟日日人，愤怒的他用头锤上司间寺，导致他因为这个原因被开除。在那之后历经波折的他收到了来自日日人的信息后，开始以宇航员为目标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/66/15336_crt_U6Aao.jpg",
+        "link": "https://bgm.tv/character/15336",
+        "categorie": "person"
+      },
+      {
+        "id": "15337",
+        "label": "南波日日人",
+        "info": "六太的弟弟。NASA的宇航员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/fc/15337_crt_bBNsK.jpg",
+        "link": "https://bgm.tv/character/15337",
+        "categorie": "person"
+      },
+      {
+        "id": "15339",
+        "label": "真壁贤治",
+        "info": "宇航员选拔考试应试者。与六太考试中成为知心好友的男人。家里有妻子和女儿。擅长猜人的年龄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/d8/15339_crt_a88RA.jpg",
+        "link": "https://bgm.tv/character/15339",
+        "categorie": "person"
+      },
+      {
+        "id": "15340",
+        "label": "伊东芹夏",
+        "info": "宇宙飛行士選抜試験受験生。ISS搭乗を目指す女医。体力も含めて各能力がとても優秀なうえ、容姿も端麗。同じく医者だった父を子供の頃に難病（筋萎縮性側索硬化症、通称「ALS」）で亡くしている。ISSのきぼうモジュールでの新薬発見と、病気の原因解明のために宇宙飛行士を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/b7/15340_crt_eedn4.jpg",
+        "link": "https://bgm.tv/character/15340",
+        "categorie": "person"
+      },
+      {
+        "id": "21676",
+        "label": "金子·莎朗",
+        "info": "天文观测站的女性职员。丈夫是著名的天文学家，她自己也是出版著作的天文学家。在行内是个家喻户晓的人物。南波兄弟在年幼开始就经常拜访她的观测站。她教导他们宇宙和音乐的相关知识，还教他们英语，对他们日后成为宇航员有很大的帮助。南波兄弟称她为“莎朗奶奶（シャロンおばちゃん）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/ad/21676_crt_5zimj.jpg",
+        "link": "https://bgm.tv/character/21676",
+        "categorie": "person"
+      },
+      {
+        "id": "21677",
+        "label": "星加正",
+        "info": "JAXA职员。年轻时因有很茂密的头发而被称为“JAXA的狮子”。南波兄弟在年幼的时候频繁来JAXA参观，因此那时候就认识他们两人，后来在背后支持着六太和日日人。称年幼的六太为“毛头（モジャ君）”，而日日人为“尖头（ツン君）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/d3/21677_crt_asLns.jpg",
+        "link": "https://bgm.tv/character/21677",
+        "categorie": "person"
+      },
+      {
+        "id": "24069",
+        "label": "阿波",
+        "info": "第5話登場（第1話一瞬間登場），日日人在美國養的狗，名字的由來是來自於阿波羅。在牠的左肩有一個心型記號，當六太被滅火器男困住時，就是牠挺身而出幫了六太，而讓六太榮登英雄的寶座。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/2a/24069_crt_fEuPu.jpg?r=1458529283",
+        "link": "https://bgm.tv/character/24069",
+        "categorie": "person"
+      },
+      {
+        "id": "20960",
+        "label": "月球",
+        "info": "再....再怎么看我，你也不会变身的！",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c7/20960_crt_7WnuC.jpg?r=1452729795",
+        "link": "https://bgm.tv/character/20960",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

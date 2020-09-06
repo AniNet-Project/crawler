@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28653",
+        "label": "地缚猫",
+        "info": "可爱族的妖怪。是只猫型的地缚灵，变做妖怪是因被车碾过，而主人说了“真差劲”而变了地缚灵。不详事件是“突如其来的车祸”，但只是被附身的人会突然停下，车会在撞到人前停下的古怪事件。后来“家”被占领，而去了景太家裹的杂物柜居住。地缚猫是“喵KB48”的Fans，地缚猫要睡前吻喵KB48的海报才可以睡下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/6a/28653_crt_404Pm.jpg?r=1505615932",
+        "link": "https://bgm.tv/character/28653",
+        "categorie": "person"
+      },
+      {
+        "id": "41923",
+        "label": "天野 景太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/15/41923_crt_Mp89B.jpg?r=1505615875",
+        "link": "https://bgm.tv/character/41923",
+        "categorie": "person"
+      },
+      {
+        "id": "57870",
+        "label": "维斯帕",
+        "info": "被道士封印在山上的扭蛋机中，景太在第一话将其释放。维斯帕自称“妖怪管家”陪伴在景太的身边。虽然自称管家，但是还是要通过“妖怪平板”来获知妖怪的信息。很尊敬古典妖怪，称他们为“前辈”",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d4/57870_crt_s9xl1.jpg?r=1505615850",
+        "link": "https://bgm.tv/character/57870",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

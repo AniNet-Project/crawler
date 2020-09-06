@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6514",
+        "label": "娜蒂亚·拉·阿瓦尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/3c/6514_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6514",
+        "categorie": "person"
+      },
+      {
+        "id": "24544",
+        "label": "让·洛克·罗狄克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/50/24544_crt_q9443.jpg",
+        "link": "https://bgm.tv/character/24544",
+        "categorie": "person"
+      },
+      {
+        "id": "24545",
+        "label": "玛丽·恩·卡尔斯巴古",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/9a/24545_crt_iQv8v.jpg",
+        "link": "https://bgm.tv/character/24545",
+        "categorie": "person"
+      },
+      {
+        "id": "24543",
+        "label": "艾勒西斯·拉阿尔瓦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/81/24543_crt_41uuM.jpg",
+        "link": "https://bgm.tv/character/24543",
+        "categorie": "person"
+      },
+      {
+        "id": "24547",
+        "label": "格兰蒂斯·格兰巴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/30/24547_crt_IPG5z.jpg",
+        "link": "https://bgm.tv/character/24547",
+        "categorie": "person"
+      },
+      {
+        "id": "24548",
+        "label": "美蒂娜·拉·露根西斯·伊莱克特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/d7/24548_crt_X4XJB.jpg",
+        "link": "https://bgm.tv/character/24548",
+        "categorie": "person"
+      },
+      {
+        "id": "24549",
+        "label": "桑森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/96/24549_crt_2fdPD.jpg",
+        "link": "https://bgm.tv/character/24549",
+        "categorie": "person"
+      },
+      {
+        "id": "24550",
+        "label": "汉森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/4b/24550_crt_hhC7H.jpg",
+        "link": "https://bgm.tv/character/24550",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

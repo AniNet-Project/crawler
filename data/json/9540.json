@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38207",
+        "label": "一休",
+        "info": "安国寺では一番の後輩。正義感が強く心優しい、聡明な小坊主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/89/38207_crt_4hm4h.jpg",
+        "link": "https://bgm.tv/character/38207",
+        "categorie": "person"
+      },
+      {
+        "id": "38209",
+        "label": "秀念",
+        "info": "安国寺最年長の兄弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/d2/38209_crt_lRtxJ.jpg?r=1452789003",
+        "link": "https://bgm.tv/character/38209",
+        "categorie": "person"
+      },
+      {
+        "id": "38210",
+        "label": "哲斉",
+        "info": "安国寺の小坊主。 出家しているものの、将軍に敵対する南朝方の新田家ゆかりの人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/74/38210_crt_KJIJk.jpg",
+        "link": "https://bgm.tv/character/38210",
+        "categorie": "person"
+      },
+      {
+        "id": "38212",
+        "label": "黙念",
+        "info": "安国寺の小坊主。背丈は一休くらいで、ちょっとおっちょこちょい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/5e/38212_crt_esyOb.jpg",
+        "link": "https://bgm.tv/character/38212",
+        "categorie": "person"
+      },
+      {
+        "id": "38215",
+        "label": "蜷川新右ヱ門",
+        "info": "寺社奉行という幕府の高官で、武芸の達人でもある青年武士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/47/38215_crt_g9MMq.jpg",
+        "link": "https://bgm.tv/character/38215",
+        "categorie": "person"
+      },
+      {
+        "id": "38216",
+        "label": "足利義満",
+        "info": "室町幕府の第三代将軍。劇中では「将軍さま」と呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/5b/38216_crt_e9AQc.jpg?r=1452790331",
+        "link": "https://bgm.tv/character/38216",
+        "categorie": "person"
+      },
+      {
+        "id": "38217",
+        "label": "桔梗屋利兵エ",
+        "info": "幕府御用達の商人。本職は米問屋らしいが、色々と手広く商売をやっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/10/38217_crt_5y574.jpg?r=1452790458",
+        "link": "https://bgm.tv/character/38217",
+        "categorie": "person"
+      },
+      {
+        "id": "38218",
+        "label": "桔梗屋弥生",
+        "info": "桔梗屋利兵エの美人で我侭な一人娘。父の商いの手伝いをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/19/38218_crt_JFDnw.jpg?r=1452790560",
+        "link": "https://bgm.tv/character/38218",
+        "categorie": "person"
+      },
+      {
+        "id": "38219",
+        "label": "伊予の局",
+        "info": "一休の母。俗名照子。日野中納言・持明院基親の娘で天皇の女官。後小松天皇との間に生まれたのが一休。将軍に敵対していた南朝側・藤原氏系日野家の出身であったため、将軍によって一休と引き離され小さな家に暮らしている。将軍は後にこれを恥じ、一休と住めるように大きな家を建てるが、一休はこれを断る。息子の身を日々案じ、修行を重ねて立派な僧になって欲しいと願っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/37/38219_crt_P20bX.jpg?r=1452790679",
+        "link": "https://bgm.tv/character/38219",
+        "categorie": "person"
+      },
+      {
+        "id": "38213",
+        "label": "哲梅",
+        "info": "安国寺の小坊主。 地味であまり目立たないが、第72話の母親の借金を立替える話では主役を務めた。そばかすが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/f3/38213_crt_6mSVR.jpg",
+        "link": "https://bgm.tv/character/38213",
+        "categorie": "person"
+      },
+      {
+        "id": "38208",
+        "label": "さよちゃん",
+        "info": "一休の友達。安国寺境内の裏手に祖父の吾作と一緒に暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/cf/38208_crt_de5t5.jpg",
+        "link": "https://bgm.tv/character/38208",
+        "categorie": "person"
+      },
+      {
+        "id": "38211",
+        "label": "陳念",
+        "info": "安国寺の小坊主。 太っちょで食いしん坊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/8d/38211_crt_9daw1.jpg",
+        "link": "https://bgm.tv/character/38211",
+        "categorie": "person"
+      },
+      {
+        "id": "38214",
+        "label": "外観和尚",
+        "info": "貧乏寺である安国寺の住職。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/99/38214_crt_18DyY.jpg",
+        "link": "https://bgm.tv/character/38214",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

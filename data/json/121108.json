@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27560",
+        "label": "薰",
+        "info": "本名は十カオル。旧姓佐村（さむら）。連載開始時は25歳。かに座のO型。ごく普通の会社員である。オタクの知識はほとんどなく（たまに旦那とテレビゲームをする程度）、ネット用語にも疎い。三白眼なのを気にしているが旦那は気に入っているらしい。また金髪であるが新婚当時は黒髪(アニメでは藍色)であった。仕事が大好きであり旦那からは「労働厨」と言われたこともある。喫煙者で料理下手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/68/27560_crt_YhgCU.jpg",
+        "link": "https://bgm.tv/character/27560",
+        "categorie": "person"
+      },
+      {
+        "id": "27561",
+        "label": "一",
+        "info": "本名は十一（つなし はじめ）。連載開始時は23歳。いて座のAB型。漫画やアニメのオタクである。当初はまとめサイトの管理人として月に数十万円の収入を得ていたが、まとめサイトのステマ騒動[3]がきっかけで、19話より知人の三木を介してウェブデザイナーとして働き始める。以前にもバイト経験があり、その店でカオルと知り合った。意外と筋肉質である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/b9/27561_crt_cexCR.jpg",
+        "link": "https://bgm.tv/character/27561",
+        "categorie": "person"
+      },
+      {
+        "id": "27562",
+        "label": "树濑理乃",
+        "info": "カオルの友人で面職人。見た目は非常に幼い。年下でプロボクサーの夫を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/c8/27562_crt_obrBG.jpg",
+        "link": "https://bgm.tv/character/27562",
+        "categorie": "person"
+      },
+      {
+        "id": "27564",
+        "label": "蛋黄蛋",
+        "info": "本名は十陽太（ようた）。旦那の弟で大学生。「マヨタマ」はハンドルネームであるが、兄である旦那からも「マヨタマ氏」と呼ばれている。普段は女装している男の娘でありカオルは以前会った時は旦那の妹だと思っていた。同人誌の作成・販売で生計を立てている。ジャンルは自分や兄をモデルにしたボーイズラブ作品であるが、同人誌即売会では毎回1000部以上を売り上げ完売するほどの人気がある。かなりのブラコン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/d9/27564_crt_DozoR.jpg",
+        "link": "https://bgm.tv/character/27564",
+        "categorie": "person"
+      },
+      {
+        "id": "27565",
+        "label": "田中",
+        "info": "カオルの友人で医者。既婚者だが夫婦別姓のため旦那とは苗字が違う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/7b/27565_crt_OBcP0.jpg",
+        "link": "https://bgm.tv/character/27565",
+        "categorie": "person"
+      },
+      {
+        "id": "27567",
+        "label": "三木",
+        "info": "旦那の知人で探偵事務所の所長をしている。旦那に仕事を紹介するなどしている。「デスティニーファッカー」のハンドルネームを持つ2ちゃんねらー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/00/27567_crt_e8zJ5.jpg",
+        "link": "https://bgm.tv/character/27567",
+        "categorie": "person"
+      },
+      {
+        "id": "32177",
+        "label": "木村柚子",
+        "info": "熏高中时的前辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/1a/32177_crt_M2pdc.jpg?r=1429865573",
+        "link": "https://bgm.tv/character/32177",
+        "categorie": "person"
+      },
+      {
+        "id": "57714",
+        "label": "砥部",
+        "info": "薰的后辈同事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/dc/57714_crt_ZxZX3.jpg",
+        "link": "https://bgm.tv/character/57714",
+        "categorie": "person"
+      },
+      {
+        "id": "27563",
+        "label": "树濑望",
+        "info": "リノの夫でプロボクサー。旦那が一目で見抜くほどのヘタレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/49/27563_crt_1Md4G.jpg",
+        "link": "https://bgm.tv/character/27563",
+        "categorie": "person"
+      },
+      {
+        "id": "27566",
+        "label": "山田",
+        "info": "田中さんの夫。かつらをしている事を旦那は初対面ですぐに見抜いたが妻はそのときまで知らなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/bd/27566_crt_64rvL.jpg",
+        "link": "https://bgm.tv/character/27566",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

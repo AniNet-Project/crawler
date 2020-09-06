@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49600",
+        "label": "莉可",
+        "info": "居住于贝尔切罗孤儿院，向往深渊阿比斯的新手探窟家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/b1/49600_crt_up2e4.jpg?r=1515127883",
+        "link": "https://bgm.tv/character/49600",
+        "categorie": "person"
+      },
+      {
+        "id": "49601",
+        "label": "雷格",
+        "info": "登场于第2话。身份不明，自己也失去记忆的机器人，被莉可命名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/dc/49601_crt_PfqEH.jpg?r=1515128242",
+        "link": "https://bgm.tv/character/49601",
+        "categorie": "person"
+      },
+      {
+        "id": "54943",
+        "label": "娜娜奇",
+        "info": "登场于第19话。居住于深界四层的半人半兔的生骸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d8/54943_crt_4l3di.jpg?r=1515128458",
+        "link": "https://bgm.tv/character/54943",
+        "categorie": "person"
+      },
+      {
+        "id": "58158",
+        "label": "米蒂",
+        "info": "登场于第19话。娜娜奇的好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/d6/58158_crt_q1mT2.jpg",
+        "link": "https://bgm.tv/character/58158",
+        "categorie": "person"
+      },
+      {
+        "id": "55960",
+        "label": "奥森",
+        "info": "白笛。不动卿，不动如山的奥森。于第10话被第一次提及。长期驻扎于深界二层的监视基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/87/55960_crt_I94Jy.jpg?r=1502596425",
+        "link": "https://bgm.tv/character/55960",
+        "categorie": "person"
+      },
+      {
+        "id": "56783",
+        "label": "玛露露库",
+        "info": "登场于第12话。奥森的弟子，和奥森一同驻扎在监视基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/f7/56783_crt_Z3p3E.jpg",
+        "link": "https://bgm.tv/character/56783",
+        "categorie": "person"
+      },
+      {
+        "id": "56839",
+        "label": "纳特",
+        "info": "登场于第1话。贝尔切罗孤儿院的孩子，莉可的好友，出身于奥斯南区岸壁街的贫民窟。梦想是成为月笛，在贫民窟建立孤儿院。有一个姐姐，长得很像莉可，但已经去世。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/f1/56839_crt_S8Y0m.jpg?r=1515129154",
+        "link": "https://bgm.tv/character/56839",
+        "categorie": "person"
+      },
+      {
+        "id": "30757",
+        "label": "西奇",
+        "info": "登场于第1话。贝尔切罗孤儿院的孩子，莉可的好友，莉可称他“明明很聪明，但是最喜欢搞恶作剧”。领队看到莉可等人用来复苏雷格的装置时，一眼就看出是他的手笔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/be/30757_crt_wMIqh.jpg",
+        "link": "https://bgm.tv/character/30757",
+        "categorie": "person"
+      },
+      {
+        "id": "59988",
+        "label": "伊利姆",
+        "info": "ナナチやミーティと同様にボンドルドの誘いを受けて、前線基地に来た青い髪（アニメ版ではピンク）をツインテールにしている子供。ナナチ達より先に実験に呼び出されており、ボンドルドが実験体を管理しているランプによれば現在も生存している。当初は後ろ姿だけだったが、後に4巻の裏表紙やアニメで詳細が描かれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/f2/59988_crt_5QnZ5.jpg?r=1515130034",
+        "link": "https://bgm.tv/character/59988",
+        "categorie": "person"
+      },
+      {
+        "id": "7036",
+        "label": "莱莎",
+        "info": "歼灭卿，歼灭的莱萨。于第4话第一次被提及。莉可的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/1b/7036_crt_a6N2H.jpg",
+        "link": "https://bgm.tv/character/7036",
+        "categorie": "person"
+      },
+      {
+        "id": "57879",
+        "label": "波多尔多",
+        "info": "白笛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/04/57879_crt_JT2et.jpg",
+        "link": "https://bgm.tv/character/57879",
+        "categorie": "person"
+      },
+      {
+        "id": "59989",
+        "label": "普鲁修卡",
+        "info": "登場於第28話。波多爾多的女兒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/22/59989_crt_vXvle.jpg?r=1515190393",
+        "link": "https://bgm.tv/character/59989",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

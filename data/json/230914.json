@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49600",
+        "label": "莉可",
+        "info": "居住于贝尔切罗孤儿院，向往深渊阿比斯的新手探窟家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/b1/49600_crt_up2e4.jpg?r=1515127883",
+        "link": "https://bgm.tv/character/49600",
+        "categorie": "person"
+      },
+      {
+        "id": "49601",
+        "label": "雷格",
+        "info": "登场于第2话。身份不明，自己也失去记忆的机器人，被莉可命名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/dc/49601_crt_PfqEH.jpg?r=1515128242",
+        "link": "https://bgm.tv/character/49601",
+        "categorie": "person"
+      },
+      {
+        "id": "54943",
+        "label": "娜娜奇",
+        "info": "登场于第19话。居住于深界四层的半人半兔的生骸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d8/54943_crt_4l3di.jpg?r=1515128458",
+        "link": "https://bgm.tv/character/54943",
+        "categorie": "person"
+      },
+      {
+        "id": "57879",
+        "label": "波多尔多",
+        "info": "白笛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/04/57879_crt_JT2et.jpg",
+        "link": "https://bgm.tv/character/57879",
+        "categorie": "person"
+      },
+      {
+        "id": "59989",
+        "label": "普鲁修卡",
+        "info": "登場於第28話。波多爾多的女兒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/22/59989_crt_vXvle.jpg?r=1515190393",
+        "link": "https://bgm.tv/character/59989",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

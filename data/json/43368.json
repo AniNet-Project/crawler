@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46218",
+        "label": "奥莉加·狄斯科蒂亚",
+        "info": "長い黒髪と、物憂げな表情が印象的な誇り高きダークエルフの女王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/ae/46218_crt_GkKKI.jpg",
+        "link": "https://bgm.tv/character/46218",
+        "categorie": "person"
+      },
+      {
+        "id": "46220",
+        "label": "克罗耶",
+        "info": "女王の側近で、女騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/3c/46220_crt_K50kI.jpg",
+        "link": "https://bgm.tv/character/46220",
+        "categorie": "person"
+      },
+      {
+        "id": "46222",
+        "label": "艾丽西亚·亚尔克塔罗斯",
+        "info": "別名 「アイリスの姫騎士」。エオスの名門貴族・アルクトゥールス家の一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/f3/46222_crt_nN5Yp.jpg",
+        "link": "https://bgm.tv/character/46222",
+        "categorie": "person"
+      },
+      {
+        "id": "46223",
+        "label": "普莉姆·菲奥利妮",
+        "info": "『2の砦』 の姫君。別名 「花月の姫君」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/7e/46223_crt_aOapa.jpg",
+        "link": "https://bgm.tv/character/46223",
+        "categorie": "person"
+      },
+      {
+        "id": "46224",
+        "label": "辉夜",
+        "info": "『3の砦』 を束ねる者にして、異貌のカミを仰ぐ巫女集団の長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/9a/46224_crt_tx2Tv.jpg",
+        "link": "https://bgm.tv/character/46224",
+        "categorie": "person"
+      },
+      {
+        "id": "46225",
+        "label": "迈亚",
+        "info": "特定の組織や君主に仕えず、各地を転々とする放浪の女傭兵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/c2/46225_crt_xVsj7.jpg",
+        "link": "https://bgm.tv/character/46225",
+        "categorie": "person"
+      },
+      {
+        "id": "46226",
+        "label": "露·露",
+        "info": "『5の砦』 の砦首長にして、最大の戦闘力を持つ戦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/37/46226_crt_ioyyn.jpg",
+        "link": "https://bgm.tv/character/46226",
+        "categorie": "person"
+      },
+      {
+        "id": "46227",
+        "label": "克劳蒂亚·雷瓦汀",
+        "info": "『教会』 直属の近衛師団である黎明騎士団の騎士団長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/5c/46227_crt_pp43s.jpg",
+        "link": "https://bgm.tv/character/46227",
+        "categorie": "person"
+      },
+      {
+        "id": "46228",
+        "label": "塞蕾斯汀·卢库勒斯",
+        "info": "長い金髪と、白い肌、豊満な乳房を持つ慈愛のハイエルフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/46/46228_crt_c4JWU.jpg",
+        "link": "https://bgm.tv/character/46228",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

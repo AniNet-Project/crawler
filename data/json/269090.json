@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70522",
+        "label": "坚书直实",
+        "info": "京都に住む高校生で図書委員を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/fe/70522_crt_jM55n.jpg",
+        "link": "https://bgm.tv/character/70522",
+        "categorie": "person"
+      },
+      {
+        "id": "70523",
+        "label": "カタガキナオミ",
+        "info": "未来の「堅書直実」。10年前の自分に会うためにやって来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/99/70523_crt_r3oOj.jpg",
+        "link": "https://bgm.tv/character/70523",
+        "categorie": "person"
+      },
+      {
+        "id": "70524",
+        "label": "一行瑠璃",
+        "info": "直実の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/e9/70524_crt_sa3Ae.jpg?r=1586556668",
+        "link": "https://bgm.tv/character/70524",
+        "categorie": "person"
+      },
+      {
+        "id": "71910",
+        "label": "勘解由小路三铃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/14/71910_crt_uIVDn.jpg",
+        "link": "https://bgm.tv/character/71910",
+        "categorie": "person"
+      },
+      {
+        "id": "71911",
+        "label": "乌鸦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/63/71911_crt_xtOCo.jpg",
+        "link": "https://bgm.tv/character/71911",
+        "categorie": "person"
+      },
+      {
+        "id": "71912",
+        "label": "千古恒久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/67/71912_crt_FWrrB.jpg",
+        "link": "https://bgm.tv/character/71912",
+        "categorie": "person"
+      },
+      {
+        "id": "71913",
+        "label": "徐依依",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/2d/71913_crt_1Oezc.jpg",
+        "link": "https://bgm.tv/character/71913",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

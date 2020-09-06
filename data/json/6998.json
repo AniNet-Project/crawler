@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7418",
+        "label": "孙悟空",
+        "info": "五百年前从花果山岩石中诞生的奇异生命体，观音把他交给金蝉童子（三藏前世）抚养，后与哪吒、卷帘大将、天蓬元帅成为好友。由于犯下罪过，天界上级要求观音抹去悟空的所有记忆，但观音自私地违背命令，保留了金蝉为他取的名字——孙悟空。悟空不像其它三人一样有前世，他根本就没有死过，只是在五行山被关押了五百年。五百年后被三藏释放，随后被其收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/80/7418_crt_sUED1.jpg",
+        "link": "https://bgm.tv/character/7418",
+        "categorie": "person"
+      },
+      {
+        "id": "20226",
+        "label": "金蝉童子",
+        "info": "观世音菩萨的侄子。在天界地位颇高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/bd/20226_crt_Mmk9k.jpg",
+        "link": "https://bgm.tv/character/20226",
+        "categorie": "person"
+      },
+      {
+        "id": "20230",
+        "label": "卷帘大将",
+        "info": "天界西方军的大将，喜欢酒、花和女人的无赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/7c/20230_crt_54zeH.jpg",
+        "link": "https://bgm.tv/character/20230",
+        "categorie": "person"
+      },
+      {
+        "id": "20232",
+        "label": "天蓬元帅",
+        "info": "天界西方军元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/d0/20232_crt_t8t8t.jpg",
+        "link": "https://bgm.tv/character/20232",
+        "categorie": "person"
+      },
+      {
+        "id": "54683",
+        "label": "观世音菩萨",
+        "info": "天界を司る五大菩薩の一人。慈愛と慈悲の象徴の神であるが、言葉づかいも悪く、思うままに振る舞う唯我独尊的性格。三蔵一行を西へ向かうよう仕向けた張本人。三蔵一行の旅路を楽しんでいるように見えるが、五百年前からずっとその生き様を「見守る」役に徹している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/34/54683_crt_2ggwc.jpg",
+        "link": "https://bgm.tv/character/54683",
+        "categorie": "person"
+      },
+      {
+        "id": "54684",
+        "label": "哪吒太子",
+        "info": "天界で唯一殺生を許された「闘神太子」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/bd/54684_crt_R0207.jpg",
+        "link": "https://bgm.tv/character/54684",
+        "categorie": "person"
+      },
+      {
+        "id": "57202",
+        "label": "李塔天",
+        "info": "哪吒太子の父。己の出世の道具として哪吒を利用している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/34/57202_crt_81yyG.jpg",
+        "link": "https://bgm.tv/character/57202",
+        "categorie": "person"
+      },
+      {
+        "id": "57204",
+        "label": "西海龙王敖润",
+        "info": "天界西方軍の総責任者。天蓬と捲簾の上官であり、規律に厳しく、天界の命を絶対として疑わない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/23/57204_crt_1vaa2.jpg",
+        "link": "https://bgm.tv/character/57204",
+        "categorie": "person"
+      },
+      {
+        "id": "57197",
+        "label": "二郎神",
+        "info": "観世音菩薩のお目付役。いつも観世音菩薩には振り回されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/03/57197_crt_98m36.jpg",
+        "link": "https://bgm.tv/character/57197",
+        "categorie": "person"
+      },
+      {
+        "id": "57203",
+        "label": "天帝",
+        "info": "天界の王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/71/57203_crt_D0TMf.jpg",
+        "link": "https://bgm.tv/character/57203",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

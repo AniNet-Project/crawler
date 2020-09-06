@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50217",
+        "label": "玛雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/9c/50217_crt_6i2ij.jpg?r=1484783801",
+        "link": "https://bgm.tv/character/50217",
+        "categorie": "person"
+      },
+      {
+        "id": "52263",
+        "label": "MAYA",
+        "info": "一郎制造出来的智能机器人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/95/52263_crt_zbBii.jpg?r=1489257849",
+        "link": "https://bgm.tv/character/52263",
+        "categorie": "person"
+      },
+      {
+        "id": "53270",
+        "label": "魔夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/53/53270_crt_vqWWm.jpg?r=1491744774",
+        "link": "https://bgm.tv/character/53270",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

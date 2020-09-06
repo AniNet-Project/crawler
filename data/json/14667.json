@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13018",
+        "label": "修·安东尼·德斯沃德",
+        "info": "黒の読姫の正統なる鍵守の後継者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/70/13018_crt_DdWit.jpg",
+        "link": "https://bgm.tv/character/13018",
+        "categorie": "person"
+      },
+      {
+        "id": "13019",
+        "label": "妲丽安",
+        "info": "本名はダンタリアン(Dalian)。12、3歳くらいの容姿をしている。幻書の知識を持つ者には「黒の読姫」と呼ばれる。また、自らを「壺中の天」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/56/13019_crt_VvIvn.jpg?r=1583616898",
+        "link": "https://bgm.tv/character/13019",
+        "categorie": "person"
+      },
+      {
+        "id": "14442",
+        "label": "書架の少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/f2/14442_crt_HYqSp.jpg",
+        "link": "https://bgm.tv/character/14442",
+        "categorie": "person"
+      },
+      {
+        "id": "14444",
+        "label": "哈尔",
+        "info": "本名是哈尔•卡姆赫德。年龄二十五到三十岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/e8/14444_crt_TGZPF.jpg",
+        "link": "https://bgm.tv/character/14444",
+        "categorie": "person"
+      },
+      {
+        "id": "14445",
+        "label": "芙兰",
+        "info": "本名叫芙兰蓓尔（Flamberge）。“焚书官”、“赎罪之书”里登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/5e/14445_crt_fph47.jpg",
+        "link": "https://bgm.tv/character/14445",
+        "categorie": "person"
+      },
+      {
+        "id": "14446",
+        "label": "教授",
+        "info": "本名不明。以教授之名‘教授’，在“必胜法”、“拉杰艾露的书架”里登场。另外、除了以教授的称呼出现以外、还以其他的名字在“焚书官”、“赎罪之书”中登场过。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/d9/14446_crt_uPzmr.jpg",
+        "link": "https://bgm.tv/character/14446",
+        "categorie": "person"
+      },
+      {
+        "id": "14447",
+        "label": "拉兹",
+        "info": "本名是拉洁爱尔（Rasiel）。被称作‘红之读姬’，‘拉洁爱尔’是在“拉洁爱尔的书架”中初次登场，和教授一样算上没用本名的出场。在“独裁者之书”、“焚书官”、“眠之书”中登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/8e/14447_crt_h5g7g.jpg",
+        "link": "https://bgm.tv/character/14447",
+        "categorie": "person"
+      },
+      {
+        "id": "14448",
+        "label": "アイラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/af/14448_crt_eyN5Z.jpg",
+        "link": "https://bgm.tv/character/14448",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

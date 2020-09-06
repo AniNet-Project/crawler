@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21368",
+        "label": "宫内莲华",
+        "info": "『のんのんびより』の作中で旭丘分校に通う小学1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/64/21368_crt_oKN2k.jpg?r=1436302815",
+        "link": "https://bgm.tv/character/21368",
+        "categorie": "person"
+      },
+      {
+        "id": "21369",
+        "label": "一条萤",
+        "info": "小学5年生。5月28日生まれ。両親の仕事の都合により東京から引っ越してきた。小学生とは思えないほどに発育が良い美少女で、たびたび大人扱いされるようである。先輩である小鞠のことを愛おしく思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/1a/21369_crt_D5Dgh.jpg",
+        "link": "https://bgm.tv/character/21369",
+        "categorie": "person"
+      },
+      {
+        "id": "21370",
+        "label": "越谷夏海",
+        "info": "中学1年生。小鞠の妹。血液型はA型。1月24日生まれ。明るい性格でムードメーカー。人をからかうのが好きで、特に小鞠をからかうことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/6e/21370_crt_Vrjlx.jpg?r=1437603053",
+        "link": "https://bgm.tv/character/21370",
+        "categorie": "person"
+      },
+      {
+        "id": "21371",
+        "label": "越谷小鞠",
+        "info": "中学2年生。夏海の姉。血液型はAB型。9月14日生まれ。身長が140cmに満たないことを気にしている。大人に対する憧れが強く、何かにつけて大人ぶろうとするが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/3b/21371_crt_3cFQw.jpg?r=1438207786",
+        "link": "https://bgm.tv/character/21371",
+        "categorie": "person"
+      },
+      {
+        "id": "22019",
+        "label": "越谷卓",
+        "info": "中学3年生。夏海、小鞠の兄。分校ではただ一人の男子生徒だが、かなりの無口であまり存在感が無くほとんど相槌程度の声しか出さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/98/22019_crt_12tXZ.jpg?r=1438735019",
+        "link": "https://bgm.tv/character/22019",
+        "categorie": "person"
+      },
+      {
+        "id": "26158",
+        "label": "宫内一穗",
+        "info": "教师，24岁。莲华的姐姐。上课时基本上是自习，并会在上课中趴在讲桌上睡觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/4b/26158_crt_Fqn5h.jpg?r=1551370186",
+        "link": "https://bgm.tv/character/26158",
+        "categorie": "person"
+      },
+      {
+        "id": "22402",
+        "label": "加贺山枫",
+        "info": "旭丘分校的毕业生，称一穗为学姐，20岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/46/22402_crt_r4mDl.jpg?r=1440532107",
+        "link": "https://bgm.tv/character/22402",
+        "categorie": "person"
+      },
+      {
+        "id": "22510",
+        "label": "宫内日影",
+        "info": "高中1年级生。莲华的姐姐，一穗的妹妹。在东京读书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a0/22510_crt_lx2Uo.jpg?r=1442451291",
+        "link": "https://bgm.tv/character/22510",
+        "categorie": "person"
+      },
+      {
+        "id": "22304",
+        "label": "富士宫木实",
+        "info": "旭丘分校の卒業生で、地元の高校に通う高校3年生。越谷家の近所に住んでおり、たびたび越谷家に遊びに来ることがある。流行には疎いが越谷家の事情をよく知っており、よく面倒を見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/3a/22304_crt_04400.jpg?r=1551370422",
+        "link": "https://bgm.tv/character/22304",
+        "categorie": "person"
+      },
+      {
+        "id": "69023",
+        "label": "越谷雪子",
+        "info": "卓・小鞠・夏海の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/00/69023_crt_Ir3LU.jpg",
+        "link": "https://bgm.tv/character/69023",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

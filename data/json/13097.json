@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70109",
+        "label": "乐佩",
+        "info": "华特迪士尼影业第50部经典动画长片《魔发奇缘》（Tangled，2010年）中的女主角，之后亦于该片后续的番外篇短片《麻烦不断》（Tangled Ever After，2012年）中和同名电视剧集（Tangled: The Series，2017年）以及电视电影《魔发奇缘：幸福前奏》（Tangled: Before Ever After，2017年）登场。在两片中均由美国演员暨歌手曼迪·穆尔配音，由其角色动画总监、迪士尼首席动画师格兰·基恩创造。她于2011年10月2日被迪士尼正式列为第10位迪士尼公主，也因此成了第1位以电脑动画绘成的迪士尼公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/e0/70109_crt_w2fTW.jpg",
+        "link": "https://bgm.tv/character/70109",
+        "categorie": "person"
+      },
+      {
+        "id": "70110",
+        "label": "尤金·费兹柏特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/6c/70110_crt_uthug.jpg",
+        "link": "https://bgm.tv/character/70110",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14846",
+        "label": "颜艺王",
+        "info": "天正10年（1582年）开始与茶道名人千利休来往，在这期间亦拜入其门下，并成为后来“利休七哲”之一。在未看清自身之前，便已创造出根基于颜艺的令众生颠倒的茶道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/d0/14846_crt_1RWek.jpg?r=1365067658",
+        "link": "https://bgm.tv/character/14846",
+        "categorie": "person"
+      },
+      {
+        "id": "14848",
+        "label": "苦逼王",
+        "info": "　　人生七十力囲希咄",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/0a/14848_crt_3359j.jpg?r=1408353866",
+        "link": "https://bgm.tv/character/14848",
+        "categorie": "person"
+      },
+      {
+        "id": "14847",
+        "label": "第六天魔王",
+        "info": "人生五十年，宛如梦幻。一度得生者，岂有长不灭？",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/9e/14847_crt_EK3zr.jpg?r=1365067688",
+        "link": "https://bgm.tv/character/14847",
+        "categorie": "person"
+      },
+      {
+        "id": "14849",
+        "label": "织田有乐斋",
+        "info": "利休七哲中的一人，信长的弟弟。深沉地耽溺于物欲之中的风流人，比织田家的任何人都珍惜自己的性命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/2a/14849_crt_1JEeC.jpg",
+        "link": "https://bgm.tv/character/14849",
+        "categorie": "person"
+      },
+      {
+        "id": "14850",
+        "label": "蒲生氏乡",
+        "info": "“利休七哲”之一，出身于近江的武将，是在武士和雅士方面都达到一定造诣的风雅武者，受到织田信长的影响而对南蛮物抱有兴趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/4f/14850_crt_mIehY.jpg?r=1365067716",
+        "link": "https://bgm.tv/character/14850",
+        "categorie": "person"
+      },
+      {
+        "id": "14851",
+        "label": "细川忠兴",
+        "info": "利休七哲其中一人，相对于茶人，更具于武人冲动而直率的性格，额头的伤疤可谓其性格的写照。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/30/14851_crt_hiTap.jpg?r=1408355314",
+        "link": "https://bgm.tv/character/14851",
+        "categorie": "person"
+      },
+      {
+        "id": "14852",
+        "label": "高山右近",
+        "info": "利休七哲之一，切支丹教徒。迎娶古田左介的妹妹为妻，对于南蛮文化抱持着尤胜于茶道的痴迷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/d8/14852_crt_1RMPz.jpg?r=1408527621",
+        "link": "https://bgm.tv/character/14852",
+        "categorie": "person"
+      },
+      {
+        "id": "14853",
+        "label": "荒木道粪",
+        "info": "摄津的大名，同时也是收藏多个名器的茶人。深陷于深沉的物欲之中，为了享受和持有名器而宁愿舍弃一切而苟活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/10/14853_crt_0Sz8l.jpg?r=1411378416",
+        "link": "https://bgm.tv/character/14853",
+        "categorie": "person"
+      },
+      {
+        "id": "14855",
+        "label": "山上宗二",
+        "info": "千利休的高徒，对于茶道抱持着排他的理想主义，对于权力者所追捧的潮流感到不满并甚为不屑，对于武士则抱有根深蒂固的恶感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/81/14855_crt_ZnjJV.jpg?r=1408528362",
+        "link": "https://bgm.tv/character/14855",
+        "categorie": "person"
+      },
+      {
+        "id": "26636",
+        "label": "伊达政宗",
+        "info": "奥州的大名，拥有独特的口调和绣有字母D的眼罩，为了不被当作乡下的大名而被上方轻视而进行着自己的努力，和古田织部之间有着奇妙的缘分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d5/26636_crt_M031d.jpg?r=1409824056",
+        "link": "https://bgm.tv/character/26636",
+        "categorie": "person"
+      },
+      {
+        "id": "26637",
+        "label": "阿吟",
+        "info": "千利休的养女，由利休抚养长大，甘愿用自己的性命和幸福来祭奠养父的业障。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/12/26637_crt_DatEf.jpg?r=1409824505",
+        "link": "https://bgm.tv/character/26637",
+        "categorie": "person"
+      },
+      {
+        "id": "26952",
+        "label": "阿千",
+        "info": "古田织部的妻子，中川清秀的妹妹，作为温良贤淑的妻子在背后默默地支持着自己的丈夫，无论从哪方面看来都是一个好女人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/84/26952_crt_wcJL9.jpg?r=1410946097",
+        "link": "https://bgm.tv/character/26952",
+        "categorie": "person"
+      },
+      {
+        "id": "26953",
+        "label": "古田重定",
+        "info": "古田织部的父亲，先后服侍织田信长和羽才秀吉，虽然是茶人却拥有着武士那种一心效忠和知恩图报的古朴性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/27/26953_crt_GnI7l.jpg?r=1410947400",
+        "link": "https://bgm.tv/character/26953",
+        "categorie": "person"
+      },
+      {
+        "id": "26962",
+        "label": "中川清秀",
+        "info": "古田织部的义兄，性格刚直的典型武人，可以说是和古织完全背道而驰的另一种人。尽管如此，两家之间却保持着不错的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/69/26962_crt_Wl8L0.jpg",
+        "link": "https://bgm.tv/character/26962",
+        "categorie": "person"
+      },
+      {
+        "id": "26994",
+        "label": "上田宗箇",
+        "info": "丹羽长秀的家臣，勇猛的武将，枪术精湛，在初次见识到雅士的狂态后开始逐步体味到茶道的奥妙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/7f/26994_crt_Q22Xv.jpg",
+        "link": "https://bgm.tv/character/26994",
+        "categorie": "person"
+      },
+      {
+        "id": "27008",
+        "label": "丰臣秀吉",
+        "info": "织田信长的家臣，为织田信长效命时与自己的主君维系着“give&take”，成为天下人后则偏执地模仿着自己的主君而一意孤行。在形如猴子的外表和轻浮的言行后隐藏着他人难以察觉的孤独和筹谋。崇尚奢华和能够彰显权势的东西，并把这一性格诚实地体现在了茶道之上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/6a/27008_crt_W16ze.jpg",
+        "link": "https://bgm.tv/character/27008",
+        "categorie": "person"
+      },
+      {
+        "id": "27009",
+        "label": "明智光秀",
+        "info": "织田信长的家臣，身为一城一国之主的武士，同时又是在茶道、和歌方面造诣颇深的文化人。拥有奉公者应有的德行和情操，但反而因为缺乏欲望的表现而难以得到他人的信任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/b2/27009_crt_8CcAw.jpg?r=1411551895",
+        "link": "https://bgm.tv/character/27009",
+        "categorie": "person"
+      },
+      {
+        "id": "27025",
+        "label": "小堀远州",
+        "info": "丰臣秀长的小姓，在元服之前已被明智光秀涂成白色的安土城天守为基准点形成了自己的美学意识，后来作为古田织部的弟子走向了自己的雅士之道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/8f/27025_crt_b6c9Y.jpg",
+        "link": "https://bgm.tv/character/27025",
+        "categorie": "person"
+      },
+      {
+        "id": "27026",
+        "label": "本阿弥光悦",
+        "info": "本阿弥家刀砥技艺的继承者，同时也是在书道、画道方面造诣颇深的文化人。从小田原之战开始和古田织部有所接触，在茶道方面可以说是古田织部的弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/c4/27026_crt_ILExu.jpg",
+        "link": "https://bgm.tv/character/27026",
+        "categorie": "person"
+      },
+      {
+        "id": "27070",
+        "label": "本多忠胜",
+        "info": "德川四天王之一，其勇名在各大名间广为流传，与大多数的三河武士一样无法体味风雅寂静的乐趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/4f/27070_crt_Y5WIj.jpg?r=1412214965",
+        "link": "https://bgm.tv/character/27070",
+        "categorie": "person"
+      },
+      {
+        "id": "27071",
+        "label": "德川家康",
+        "info": "三河大名，历经劫难最终在乱世获得一席之地，因此在秉持了三河人坚韧朴实一面的同时拥有着不同于臣下的隐忍和城府。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/3a/27071_crt_65Ij6.jpg?r=1412214218",
+        "link": "https://bgm.tv/character/27071",
+        "categorie": "person"
+      },
+      {
+        "id": "27190",
+        "label": "弥助",
+        "info": "侍奉织田信长的黑人，拥有超出常人的形貌和力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/b6/27190_crt_1nZ8L.jpg?r=1412758673",
+        "link": "https://bgm.tv/character/27190",
+        "categorie": "person"
+      },
+      {
+        "id": "27191",
+        "label": "柴田胜家",
+        "info": "织田家笔头家臣，无论从言行还是衣着来看都是标准的不通风雅的武士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/36/27191_crt_553k5.jpg?r=1412758992",
+        "link": "https://bgm.tv/character/27191",
+        "categorie": "person"
+      },
+      {
+        "id": "27223",
+        "label": "丹羽长秀",
+        "info": "织田家臣，从日常穿着也能够看出其小心审慎的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/7a/27223_crt_fIOPY.jpg?r=1412844996",
+        "link": "https://bgm.tv/character/27223",
+        "categorie": "person"
+      },
+      {
+        "id": "27355",
+        "label": "织田信雄",
+        "info": "织田信长的次男，曾作为养子继承北田家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/aa/27355_crt_RhUaY.jpg?r=1413190440",
+        "link": "https://bgm.tv/character/27355",
+        "categorie": "person"
+      },
+      {
+        "id": "27356",
+        "label": "织田信忠",
+        "info": "织田信长的长子，代替父亲以大将的身份指挥了甲州攻略，肩负着织田家继承者的重任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/13/27356_crt_PjSEp.jpg?r=1413191090",
+        "link": "https://bgm.tv/character/27356",
+        "categorie": "person"
+      },
+      {
+        "id": "27362",
+        "label": "明智秀满",
+        "info": "明智家家臣，同时也是明智光秀的女婿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/eb/27362_crt_7jJjB.jpg",
+        "link": "https://bgm.tv/character/27362",
+        "categorie": "person"
+      },
+      {
+        "id": "27386",
+        "label": "熙子",
+        "info": "明智光秀的妻子，在明智光秀的背后默默支持着自己的丈夫，明智家收藏的名器中大都包含着夫妻二人往昔的温馨回忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/4e/27386_crt_QBik8.jpg?r=1413362972",
+        "link": "https://bgm.tv/character/27386",
+        "categorie": "person"
+      },
+      {
+        "id": "27387",
+        "label": "大政所",
+        "info": "丰臣秀吉的母亲，已步入暮年，身为农家妇女抚养出了秀吉和秀长，使天下间少数能够使丰臣秀吉俯首听命的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/b4/27387_crt_p01g4.jpg",
+        "link": "https://bgm.tv/character/27387",
+        "categorie": "person"
+      },
+      {
+        "id": "27392",
+        "label": "丰臣秀长",
+        "info": "丰臣秀吉的弟弟，为兄长的事业殚精竭虑的辅助者，对于利休的茶道之美有深刻的理解。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/97/27392_crt_A5ApN.jpg?r=1413449742",
+        "link": "https://bgm.tv/character/27392",
+        "categorie": "person"
+      },
+      {
+        "id": "27442",
+        "label": "细川幽斋",
+        "info": "细川氏家主，细川忠兴之父，以前辈的角色目睹了忠兴和古织一代从无知少年到独当一面的成长。拥有冷静沉着的性格，在是一个沉稳的武士的同时也是一个卓越的文化人，是少数有资格进行古今传授的雅士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/44/27442_crt_W51M1.jpg",
+        "link": "https://bgm.tv/character/27442",
+        "categorie": "person"
+      },
+      {
+        "id": "27443",
+        "label": "毛利辉元",
+        "info": "毛利元就的嫡孙，领有中国地方120万石的大大名。在先辈过于庞大的荫蔽下统领着毛利家的，在保守家业和更大的野心之间进行着微妙的挣扎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/62/27443_crt_2Drt7.jpg?r=1413882979",
+        "link": "https://bgm.tv/character/27443",
+        "categorie": "person"
+      },
+      {
+        "id": "27473",
+        "label": "茶屋四郎次郎",
+        "info": "京都的商人，可以说是站在德川一方活动的生意人。与德川家的武士们不同，能了解初花等名器的珍贵之处。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/f8/27473_crt_EBUMm.jpg",
+        "link": "https://bgm.tv/character/27473",
+        "categorie": "person"
+      },
+      {
+        "id": "27474",
+        "label": "津田宗及",
+        "info": "堺的商人，同时也是与千利休、津田宗及共同侍奉信长的茶人，对于名器拥有用眼力识别真伪的鉴赏能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/20/27474_crt_ODkz1.jpg",
+        "link": "https://bgm.tv/character/27474",
+        "categorie": "person"
+      },
+      {
+        "id": "27475",
+        "label": "今井宗久",
+        "info": "堺的商人，同时是足以担任织田家茶头的优秀茶人，拥有商人八面玲珑的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/fc/27475_crt_hBvcb.jpg",
+        "link": "https://bgm.tv/character/27475",
+        "categorie": "person"
+      },
+      {
+        "id": "27802",
+        "label": "之贯",
+        "info": "隐居于山野的雅士，对于茶道有着不遑于千利休的悟性和修为，贯彻着换璞归真的茶道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/99/27802_crt_3KIG3.jpg",
+        "link": "https://bgm.tv/character/27802",
+        "categorie": "person"
+      },
+      {
+        "id": "27815",
+        "label": "加藤清正",
+        "info": "丰臣秀吉麾下的武将，由北政所培养长大的武家栋梁，喜欢老虎，具有「ちょっちゅね」的独特口癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/05/27815_crt_r0U3L.jpg",
+        "link": "https://bgm.tv/character/27815",
+        "categorie": "person"
+      },
+      {
+        "id": "27816",
+        "label": "正亲町天皇",
+        "info": "在战乱之世中勉为其难地支撑着朝廷和王室的天皇，其亲和的笑容和褒奖令一向处事坚决的丰臣秀吉也心生踌躇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/55/27816_crt_zWgM3.jpg",
+        "link": "https://bgm.tv/character/27816",
+        "categorie": "person"
+      },
+      {
+        "id": "27878",
+        "label": "阿德",
+        "info": "北政所的表亲，由丰臣秀吉介绍与上田左太郎为妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/29/27878_crt_J3LjI.jpg",
+        "link": "https://bgm.tv/character/27878",
+        "categorie": "person"
+      },
+      {
+        "id": "28031",
+        "label": "有来新兵卫",
+        "info": "瀬戸屋的老板，和古田织部合作开展一系列有关于茶道和潮流的生意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c1/28031_crt_Yqp2d.jpg?r=1415955659",
+        "link": "https://bgm.tv/character/28031",
+        "categorie": "person"
+      },
+      {
+        "id": "28032",
+        "label": "加藤景延",
+        "info": "美浓的陶大将，与古田织部合作打造以“织部十作”为主体的织部风茶器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b1/28032_crt_aDfUh.jpg?r=1415955942",
+        "link": "https://bgm.tv/character/28032",
+        "categorie": "person"
+      },
+      {
+        "id": "48811",
+        "label": "织田长孝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/83/48811_crt_cqDoL.jpg",
+        "link": "https://bgm.tv/character/48811",
+        "categorie": "person"
+      },
+      {
+        "id": "27224",
+        "label": "松永久秀",
+        "info": "曾经谋杀将军足利义昭的恶逆非道之人，同时也是拥有多件名器的风流雅士，天下无双的名器·平蜘蛛釜的拥有者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/41/27224_crt_7VM43.jpg?r=1412845589",
+        "link": "https://bgm.tv/character/27224",
+        "categorie": "person"
+      },
+      {
+        "id": "14854",
+        "label": "宁宁",
+        "info": "丰臣秀吉的正室，在秀吉的背后大力地支持着自己的夫君的女人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/3f/14854_crt_3q385.jpg?r=1412216476",
+        "link": "https://bgm.tv/character/14854",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

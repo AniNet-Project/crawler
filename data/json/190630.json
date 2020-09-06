@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45983",
+        "label": "堡垒",
+        "info": "作为曾经在造成毁灭性结果的“智能危机”中的前线战斗单位，充满好奇心的“堡垒”现在成为了一名探险者，被人性之善深深吸引，却又惧怕人性之恶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/17/45983_crt_oOHmc.jpg?r=1488018879",
+        "link": "https://bgm.tv/character/45983",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

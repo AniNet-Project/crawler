@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2419",
+        "label": "克劳德·斯特莱夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/0b/2419_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2419",
+        "categorie": "person"
+      },
+      {
+        "id": "2420",
+        "label": "蒂法·洛克哈特",
+        "info": "蒂法·洛克哈特，《最终幻想》中的女主角，反神罗组织“雪崩”的成员，在米德加7号街经营着一家名为“第七天堂”的酒吧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/37/2420_crt_qZxep.jpg",
+        "link": "https://bgm.tv/character/2420",
+        "categorie": "person"
+      },
+      {
+        "id": "44622",
+        "label": "卡达裘",
+        "info": "《降临之子》登场，萨菲罗斯思念体的首领，留着半长发，刘海盖快住一半的容貌，表征塞菲罗斯对母亲的思念，个体当克劳德为哥哥、家人，并视之为的家族的叛徒，擅长用双股刀（两片刀锋叠合成一把的武士刀），性格愤世嫉俗，渴望着被妈妈杰诺娃所重视。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/ea/44622_crt_aksec.jpg",
+        "link": "https://bgm.tv/character/44622",
+        "categorie": "person"
+      },
+      {
+        "id": "44625",
+        "label": "路法斯·神罗",
+        "info": "前神罗公司副社长。在父亲被萨菲罗斯杀害后晋升为社长，自称自己的作风和父亲不同，要以恐怖来治理米德加，剧中他被形容成冷酷无情，狡猾和残忍。同时也是塔克斯的真正掌权者，因塔克斯一次的疏失而即将遭公司全员抹杀，当时还身为副社长的路法斯救了他们，所以塔克斯们都相当忠诚于他。最终遭兵器怪物的光波炸毁自己身处的顶楼办公室，而判定死亡。但实际上是在受到攻击前几秒就已启动父亲曾设下的紧急逃脱按钮逃过死劫，但仍受了重伤。本作的2年后的路法斯已改过自新，不再生产魔晃能源，并开始赎罪，目前正着重在复兴神罗公司与赎罪的事务上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/0b/44625_crt_25U35.jpg",
+        "link": "https://bgm.tv/character/44625",
+        "categorie": "person"
+      },
+      {
+        "id": "2429",
+        "label": "雷诺",
+        "info": "神罗公司总务部调查科，隶属治安维持部门的精锐部队塔克斯的菁英份子。和路德是搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/36/2429_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2429",
+        "categorie": "person"
+      },
+      {
+        "id": "44628",
+        "label": "路德",
+        "info": "塔克斯的菁英份子。和雷诺是搭档。光头和墨镜是其特征。个性沉默寡言，喜欢蒂法。以拳头作战。和克劳德一伙是敌人，但曾为了救出伊莉娜而短暂合作。曾与克劳德等人短暂交战过。后来受命寻找克劳德等人和萨菲罗斯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/8d/44628_crt_8h7zW.jpg",
+        "link": "https://bgm.tv/character/44628",
+        "categorie": "person"
+      },
+      {
+        "id": "44631",
+        "label": "亚祖",
+        "info": "萨菲罗斯思念体的一员，长发，表征萨菲罗斯的冷酷、疯狂，擅长用枪刃，外型是最接近萨菲罗斯的思念体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/e2/44631_crt_yMd89.jpg",
+        "link": "https://bgm.tv/character/44631",
+        "categorie": "person"
+      },
+      {
+        "id": "44632",
+        "label": "罗兹",
+        "info": "萨菲罗斯思念体的一员，短发，表征萨菲罗斯对母亲的失落感，一提到母亲就勾动哭泣神经与悲伤，擅长用手部的电击武器、移动速度快。口头禅是“来玩吧”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/2f/44632_crt_qkgyM.jpg",
+        "link": "https://bgm.tv/character/44632",
+        "categorie": "person"
+      },
+      {
+        "id": "44637",
+        "label": "文森特·瓦伦汀",
+        "info": "《地狱犬的挽歌 -最终幻想VII-》和《地狱犬的挽歌失落的插曲-最终幻想VII》主角。原神罗塔克斯成员，爱恋着露克蕾西亚（萨菲罗斯生母），被疯狂科学家宝条杀害并被改造肉体，拥有可以化身为不老不死魔物的能力，背负着不老不死的命运继续生存，但实验完成后文森特愧疚自己没有阻止露克蕾西亚被宝条变成杰诺娃的实验体，而将自己沉睡于神罗公馆的地下棺材中“赎罪”。后来被克劳德一伙叫醒，为了寻找宝条而入队。后来在瀑布洞窟中见到了露克蕾西亚，因而得知的一些事情。二年来独自调查著大战结束后的世界，多少知道现今大家所面临问题的原因。不加入战队也可以通关。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/75/44637_crt_v7MrI.jpg",
+        "link": "https://bgm.tv/character/44637",
+        "categorie": "person"
+      },
+      {
+        "id": "44639",
+        "label": "巴瑞特·华莱士",
+        "info": "反神罗组织“雪崩”头领。为了被毁灭的故乡和家人决心向神罗公司复仇组建了“雪崩”。所以起初对为神罗公司工作过的克劳德怀有戒心。脾气暴躁、急性子。对于没有血缘关系的女儿玛琳非常关爱，玛琳也是挚友达因的遗孤。使用由右手臂改造成的机关枪作战，他的右手手臂在过去曾经为了救达因而被机枪打废。而养女玛琳是他生活的原动力。在克利尔监狱中遇上了已和昔日不同的达因，并独自展开战斗，胜利后没想到对方留下了遗物就自杀了。后来在宇宙峡谷中表明自己也要挺身而出为星球战斗。大战结束后，巴瑞特把玛琳寄放在蒂法处，现正努力采掘可以代替魔晃的新能源。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ca/44639_crt_uh55b.jpg",
+        "link": "https://bgm.tv/character/44639",
+        "categorie": "person"
+      },
+      {
+        "id": "44640",
+        "label": "席德·海温德",
+        "info": "飞空艇“疾风号（Highwind）”的船长。不断地在抽烟、说脏话、闹脾气，但其实心地善良，相信科学至上主义。随身武器为长枪。过去是神罗的传奇飞行员与头号太空人，飞空艇“飓风号”就是以他为名。但在神罗资助下完成火箭、即将要完成上太空的梦想时，因为了救助手谢拉而按下紧急停止按钮，后来神罗也停止了火箭计划。现在依然向着遥远的天空而奋斗。在路法斯前来将飞机“小野马”要回时，因飞机被克劳德一伙开走而随即搭上，之后便和他们同行。在巴瑞特和蒂法要被神罗处刑时，和平常时常被海丁格尔欺凌的船员一起抢了飓风号救走两人。在克劳德因精神崩溃而离队时担任队长一职。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/0c/44640_crt_sIrP1.jpg?r=1471705801",
+        "link": "https://bgm.tv/character/44640",
+        "categorie": "person"
+      },
+      {
+        "id": "7409",
+        "label": "尤菲･如月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/cd/7409_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7409",
+        "categorie": "person"
+      },
+      {
+        "id": "44641",
+        "label": "凯特·西",
+        "info": "一个友善的猫型机器人，自称很会算命，但往往不怎么可靠。武器是扩音器。在最终幻想VII，他骑在一个胖莫古利机器人上，在后作改独自步行或骑在赤红XIII上。实际上是由利夫操控用来监视克劳德等人的，但在旅行中渐渐了解事态之后，成为克劳德的伙伴与神罗的反间谍，并协助过克劳德一行人，克劳德的伙伴之一。名字发音为“Kett Shee”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a5/44641_crt_Qya6P.jpg",
+        "link": "https://bgm.tv/character/44641",
+        "categorie": "person"
+      },
+      {
+        "id": "9087",
+        "label": "赤红13",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/b1/9087_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9087",
+        "categorie": "person"
+      },
+      {
+        "id": "44646",
+        "label": "玛琳·华莱士",
+        "info": "巴瑞特的好友达因的女儿，是巴瑞特战斗的动力，现在与蒂法住在新城镇“边缘”的第七天堂酒店，并且照顾著丹塞尔，个性较为独立自主，敢面对强势。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/23/44646_crt_PlU3h.jpg?r=1471705820",
+        "link": "https://bgm.tv/character/44646",
+        "categorie": "person"
+      },
+      {
+        "id": "44647",
+        "label": "丹泽尔",
+        "info": "因七号街事件而丧失父母后，闯荡魔晃都市废墟中被克劳德带回并患有星痕综合征的小男孩，非常崇拜克劳德，个性与克劳德类似，但依赖感很强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/68/44647_crt_DQO6z.jpg",
+        "link": "https://bgm.tv/character/44647",
+        "categorie": "person"
+      },
+      {
+        "id": "44649",
+        "label": "曾",
+        "info": "隶属神罗公司总务部调查科、治安维持部门的精锐部队塔克斯的队长。负责监视作为古代种后裔的艾丽丝，但也暗中照顾她。武器是手枪。在炸毁七号街顶盘事件中，将艾丽丝带走。过去曾和扎克斯是好友，还曾一起出过任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/a8/44649_crt_2ty7o.jpg",
+        "link": "https://bgm.tv/character/44649",
+        "categorie": "person"
+      },
+      {
+        "id": "44651",
+        "label": "伊莉娜",
+        "info": "塔克斯的新队员。喜欢曾。因雷诺与克劳德交战后受伤，而临时递补的队员。看不惯雷诺和路德的“工作美学”，个性认真却又粗心大意。在乌泰曾被好色男古留根尾捉走，后被和克劳德等人合作的雷诺、路德救出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f9/44651_crt_xXIvz.jpg",
+        "link": "https://bgm.tv/character/44651",
+        "categorie": "person"
+      },
+      {
+        "id": "44652",
+        "label": "利夫·图尔斯提",
+        "info": "前神罗公司的都市开发部门之长，对前社长的蛮横作风而感到担忧。神罗各部会首长之中唯一以居民为重的人，多次徒劳无功的反对公司牺牲人民的策略，并曾借着凯特·西（Cait Sith）之口严词谴责巴瑞特只顾到自己的想法而炸毁壹号魔晃炉，造成大量居民死伤。以神罗间谍的身份，操纵遥控机械凯特·西混进克劳德一行，但在旅行中渐渐了解事态之后，成为克劳德的伙伴与神罗的反间谍，并大力协助克劳德一行人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/79/44652_crt_ZEZeZ.jpg",
+        "link": "https://bgm.tv/character/44652",
+        "categorie": "person"
+      },
+      {
+        "id": "19841",
+        "label": "萨菲罗斯",
+        "info": "赛菲罗斯是《最终幻想 VII》故事里主宰世界的企业“神罗集团”的私设精英部队“SOLDIER”一员，他所属的是三个阶级中最高级的“1st Class”，亦是“1st Class”中被评价为最强的人，有“英雄”之称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/2b/19841_crt_iI8Pg.jpg?r=1592928551",
+        "link": "https://bgm.tv/character/19841",
+        "categorie": "person"
+      },
+      {
+        "id": "2431",
+        "label": "扎克斯 菲尔",
+        "info": "【有剧透】",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/f8/2431_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2431",
+        "categorie": "person"
+      },
+      {
+        "id": "2422",
+        "label": "艾瑞丝·盖恩斯巴勒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/1d/2422_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2422",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

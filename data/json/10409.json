@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8177",
+        "label": "セラヴィー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/e1/8177_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8177",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

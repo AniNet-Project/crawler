@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67258",
+        "label": "座间翔",
+        "info": "故事主人公。从小在富裕的家庭里长大，父亲是著名作家，母亲是教育评论家。但是由于从小缺乏父母的关爱，因此性格十分叛逆，经常半夜驾驶摩托在公路上飞驰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/dc/67258_crt_86B9n.jpg",
+        "link": "https://bgm.tv/character/67258",
+        "categorie": "person"
+      },
+      {
+        "id": "67259",
+        "label": "恰姆·法兀",
+        "info": "　基文家领地内的米·菲拉里奥，性格十分倔强，而且喜欢唠叨，不过心地却非常善良。在去拉斯·威恩城侦察的时候第一次见到了翔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/5f/67259_crt_RiE0i.jpg",
+        "link": "https://bgm.tv/character/67259",
+        "categorie": "person"
+      },
+      {
+        "id": "67260",
+        "label": "玛薇儿·弗露森",
+        "info": "　美国国籍，从小在达拉斯郊外的牧场里长大，来到拜斯顿·威尔前就读于大学中。家庭关系十分融洽，与翔的家庭比起来，她的家庭要幸福的多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a5/67260_crt_M3njM.jpg",
+        "link": "https://bgm.tv/character/67260",
+        "categorie": "person"
+      },
+      {
+        "id": "67261",
+        "label": "尼·奇本",
+        "info": "　阿国地方领主基文家的长子。在了解到杜雷库的野心后，与父亲一起对抗杜雷库。不过由于家族势力相对弱小，最后被杜雷库所灭，父亲、母亲都遭到惨死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/9b/67261_crt_TDlpL.jpg",
+        "link": "https://bgm.tv/character/67261",
+        "categorie": "person"
+      },
+      {
+        "id": "67263",
+        "label": "奇恩·奇思",
+        "info": "世代侍奉基文家族的基斯家骑兵团领袖基布茨·基斯的女儿。继承了家族的传统，成为了骑士。从小跟随基文家长子尼·基文，对尼也一直抱有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/b0/67263_crt_14XfW.jpg",
+        "link": "https://bgm.tv/character/67263",
+        "categorie": "person"
+      },
+      {
+        "id": "67269",
+        "label": "西拉·拉帕纳",
+        "info": "纳之国的女王",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/13/67269_crt_WgBFG.jpg",
+        "link": "https://bgm.tv/character/67269",
+        "categorie": "person"
+      },
+      {
+        "id": "67270",
+        "label": "艾莲·哈姆",
+        "info": "具有强大灵力的少女。米国国王比里卡恩·哈姆之女。父亲战死后与母亲一起逃到拉国，后与母亲帕多乌特·哈姆一起居住在山中修行。但是母亲却被杜雷库手下的地上人捷莉露带领的部队所杀，艾莉只得一人投奔祖父、拉国国王弗伊宗·哥奥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/6c/67270_crt_26BM2.jpg",
+        "link": "https://bgm.tv/character/67270",
+        "categorie": "person"
+      },
+      {
+        "id": "67273",
+        "label": "邦·巴宁格斯",
+        "info": "杜雷库的心腹，是少数拥有强大奥拉力的拜斯顿·威尔人。作为骑士，有着非常强的自尊心。但是在与翔等人的交战中不断失败而被杜雷库所疏远。为了洗雪耻辱而带上面具，化名黑骑士展开对翔的复仇，并且发誓在击败翔之前决不将面具脱下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/4b/67273_crt_4E9X9.jpg",
+        "link": "https://bgm.tv/character/67273",
+        "categorie": "person"
+      },
+      {
+        "id": "67232",
+        "label": "丹拜因",
+        "info": "地上科学家肖特·威本协助杜雷库在拉斯·威恩制造的奥拉战士。共生产了三架，分别交给了从地上召唤的翔、托特、多卡马库三人驾驶。机体通过感应操纵者奥拉力的强弱来发挥战斗能力。三台中多卡马库和托特的两台都在正式开战前与基文家的交战中被击毁，而翔则带着自己的登拜恩加入了基文家的反杜雷库阵营。在得到西拉女王提供的新型奥拉战士比尔拜恩后，该机改由地上人马比露驾驶，在太平洋决战时被黑骑士的卡拉巴击毁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ae/67232_crt_0018J.jpg",
+        "link": "https://bgm.tv/character/67232",
+        "categorie": "person"
+      },
+      {
+        "id": "67234",
+        "label": "比鲁拜因",
+        "info": "承认翔是圣战士后纳国女王西拉·拉帕纳交付给翔的最强奥拉战士。具有变形机能，可变形为翼型战机的飞行形态，与别的翼型战机一样可以搭载一台奥拉战士。背后安装有两门奥拉加农炮；另外还配有即可远战，又可变形为光束剑的奥拉光束来复枪，是一台白兵战、炮击战都非常优秀的机体。由于该机对操纵者奥拉力要求非常之高，因此翔还需要借助茶姆的奥拉力才能操纵该机。来到地上后，该机被涂装成了夜间迷彩的墨绿色。在太平洋上的决战中与巴恩（黑骑士）驾驶的卡拉巴同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/6d/67234_crt_Ap4yD.jpg",
+        "link": "https://bgm.tv/character/67234",
+        "categorie": "person"
+      },
+      {
+        "id": "67246",
+        "label": "捷拉娜",
+        "info": "　基文家制造的小型奥拉战舰。舰长由基文家的长子尼·基文担任，舰上搭载有登拜恩、坦拿奥士等奥拉战士，另外舰首还挂有翼型战机凤。在对抗杜雷库的战争中，该舰取得了巨大战果，一直活跃在战场的最前线。在太平洋决战前夕被击沉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/a9/67246_crt_29mzm.jpg",
+        "link": "https://bgm.tv/character/67246",
+        "categorie": "person"
+      },
+      {
+        "id": "67266",
+        "label": "利姆露·鲁夫特",
+        "info": "　杜雷库·鲁夫的女儿。暗中与基文家长子尼·基文相爱。虽然对父亲的所作所为并不赞同，并帮助尼一起对抗父亲，但是内心还是十分爱戴父亲的，所以个人一直生活在矛盾之中。不过对于母亲露萨却非常厌恶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/db/67266_crt_6ZYYX.jpg",
+        "link": "https://bgm.tv/character/67266",
+        "categorie": "person"
+      },
+      {
+        "id": "67276",
+        "label": "托特·吉尼斯",
+        "info": "　美国空军的预备飞行员，与翔一起被召唤到拜斯顿·威尔。性格十分随意、孤傲。与翔数次交战都以败北告终。之后在与翔的战斗中座机被击落，幸好得到隐居山中的菲拉里奥娜科露·比的照料而脱离了生命危险。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/c5/67276_crt_eZ7ez.jpg",
+        "link": "https://bgm.tv/character/67276",
+        "categorie": "person"
+      },
+      {
+        "id": "67272",
+        "label": "多雷库·鲁夫特",
+        "info": "　原本是阿国拉斯·威恩城的领主。在得到地上人肖特·威本的协助后，开发出了强大的奥拉机械。先将和自己作对的基文家消灭，后又成功地夺取了阿国的政权。在与库国联盟消灭米国后，遭到了拉国与纳国同盟的抵抗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/71/67272_crt_fl1ZB.jpg?r=1593328898",
+        "link": "https://bgm.tv/character/67272",
+        "categorie": "person"
+      },
+      {
+        "id": "67277",
+        "label": "肖特·威本",
+        "info": "第一个来到拜斯顿威尔的地上人，制造奥拉战骑的技师，同时也是野心勃勃的政治家",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/de/67277_crt_c0SR0.jpg",
+        "link": "https://bgm.tv/character/67277",
+        "categorie": "person"
+      },
+      {
+        "id": "67248",
+        "label": "斯普里干",
+        "info": "　肖特·威本制造的高速奥拉巡洋舰，拥有不亚于奥拉飞艇的机动力，战斗力非常之高。肖特将该舰作为自己的专用舰，并在太平洋上的决战中重创纳国旗舰古拉·加拉号。不过在之后的战斗中被翔和马比露联手击沉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/2c/67248_crt_Sr2XR.jpg",
+        "link": "https://bgm.tv/character/67248",
+        "categorie": "person"
+      },
+      {
+        "id": "67249",
+        "label": ":南武",
+        "info": "　肖特·威恩开发的拜斯顿·威尔的第一艘奥拉战舰。后来杜雷库将该舰和奥拉战士哥多一起大量出口到其它国家。该舰在战争中成为了阿国王国军，以及米国的主力战舰。不过和奥拉战士哥多一样，这种老式的战舰在杜雷库军新式战舰面前不堪一击。故事中艾莉的父亲、米国国王比里卡恩·哈姆指挥南武舰组成的舰队在与杜雷库的舰队交战中战死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/96/67249_crt_DADwy.jpg",
+        "link": "https://bgm.tv/character/67249",
+        "categorie": "person"
+      },
+      {
+        "id": "67250",
+        "label": "古拉·加拉",
+        "info": "纳国制造的巨型奥拉战舰，有“天空之城”的称号。由女王西拉·拉帕纳亲自指挥，作为纳国舰队的旗舰。装有众多大型的奥拉炮，比拉国旗舰哥拉奥号拥有更加安定的作战能力。由于纳国和拉国的关系，实际该舰也是反杜雷库同盟的旗舰。由于该舰是反杜雷库同盟的旗舰，因此多次遭到杜雷库和库国联军的集中攻击，重创数次。太平洋决战的最后关头该舰与敌方旗舰维露·威普斯同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/24/67250_crt_fTE1s.jpg",
+        "link": "https://bgm.tv/character/67250",
+        "categorie": "person"
+      },
+      {
+        "id": "67252",
+        "label": "维露·威普斯",
+        "info": "肖特·威恩设计的巨型奥拉战舰。安装有模拟奥拉发生器，以此来产生支撑飞行的奥拉力。作为杜雷库军的旗舰，代表着杜雷库夺取阿国之后的强大国力。搭载有众多的大型奥拉炮，可以说是故事中最强的奥拉战舰。由于该舰采用的是横体的结构，因此可以做出对前后两方的大范围炮击。太平洋决战时与纳国旗舰古拉·加拉同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/7c/67252_crt_YpnSp.jpg",
+        "link": "https://bgm.tv/character/67252",
+        "categorie": "person"
+      },
+      {
+        "id": "67253",
+        "label": "基亚·格里",
+        "info": "库国的旗舰，由国王比索托·马兹塔亲自指挥。是故事中登场的最大的奥拉战舰。不过在地上时遭到的美国战斗机的自杀式攻击而受重创。太平洋决战时又遭到拉国旗舰哥拉奥号的特攻，最后与哥拉奥号一起沉没。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/22/67253_crt_j1N55.jpg",
+        "link": "https://bgm.tv/character/67253",
+        "categorie": "person"
+      },
+      {
+        "id": "67254",
+        "label": "哥拉奥",
+        "info": "　由拉国国王弗伊宗·哥奥建造的巨大奥拉战舰。安装有故事中最大破坏力的奥拉主炮。弗伊宗·哥奥王死后，该舰由他的孙女艾莉·哈姆指挥。太平洋决战时，艾莉·哈姆因吸收黑骑士发出的过多邪恶奥拉力而死，该舰在英布舰长的指挥下对库国旗舰基亚·格里号进行特攻，一同沉没。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/14/67254_crt_cCYLo.jpg",
+        "link": "https://bgm.tv/character/67254",
+        "categorie": "person"
+      },
+      {
+        "id": "67256",
+        "label": "古里姆利",
+        "info": "拉国、纳国使用的补给舰。战争初期在缺少奥拉战舰的情况下，只得由这种战舰负责搭载宝臣、波宗等奥拉战士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/57/67256_crt_zZYh5.jpg",
+        "link": "https://bgm.tv/character/67256",
+        "categorie": "person"
+      },
+      {
+        "id": "67257",
+        "label": "卡拉巴",
+        "info": "　杰特·赖特开发的机体，介于奥拉战士与翼型战机之间的机体。拥有非常高的机动力，起初由杰特·赖特自己乘坐，后交给黑骑士使用。在太平洋决战时，黑骑士曾驾驶该机超级化，并重创纳国旗舰古拉·加拉号。最后黑骑士驾驶该机与翔的比尔拜恩交战，同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/19/67257_crt_0I2q2.jpg",
+        "link": "https://bgm.tv/character/67257",
+        "categorie": "person"
+      },
+      {
+        "id": "67275",
+        "label": "加拉莉亚·尼姆希",
+        "info": "拉斯·威恩的女骑士，骑士团副团长。为了洗刷父亲临阵脱逃的污名而成为骑士，性格十分好胜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/7a/67275_crt_WuS51.jpg",
+        "link": "https://bgm.tv/character/67275",
+        "categorie": "person"
+      },
+      {
+        "id": "67278",
+        "label": "捷莉露·库齐比",
+        "info": "翔之后的第二批地上人，性格暴躁好强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/63/67278_crt_L3nYB.jpg",
+        "link": "https://bgm.tv/character/67278",
+        "categorie": "person"
+      },
+      {
+        "id": "67279",
+        "label": "贾古巴·阿奥",
+        "info": "居住在拜斯顿·威尔上层瓦奥·拉顿界水之国的女性菲拉里奥的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/39/67279_crt_uLPvY.jpg",
+        "link": "https://bgm.tv/character/67279",
+        "categorie": "person"
+      },
+      {
+        "id": "67235",
+        "label": "坦拿·奥士",
+        "info": "　阿国的地方领主基文家的技师多鲁普鲁·基伦开发的奥拉战士。不过在故事开始时已经是属于老式的机型了，各方面性能都落后于拉斯威恩所制造的奥拉战士。在得到了地上人马比露的协助后，该机交给了马比露驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/9e/67235_crt_duvDN.jpg",
+        "link": "https://bgm.tv/character/67235",
+        "categorie": "person"
+      },
+      {
+        "id": "67236",
+        "label": "巴斯特鲁",
+        "info": "　故事初期为加拉莉亚专门开发的奥拉战士，是第一台搭载新型奥拉增幅器的奥拉战士。因此操作所需的必要奥拉力要比过去的机体低的多，可以由一般士兵操作。加拉莉亚驾驶该机在与翔的战斗中发挥出了巨大的奥拉力，打通了奥拉之路，将他们二人送到了地上。后来在与翔合作打通回到拜斯顿·威尔的奥拉之路时因承受不住巨大的奥拉力而爆炸。后期该机被量产。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/6f/67236_crt_QyPG1.jpg",
+        "link": "https://bgm.tv/character/67236",
+        "categorie": "person"
+      },
+      {
+        "id": "67237",
+        "label": "多拉姆罗",
+        "info": "杜雷库军的标准泛用奥拉战士。故事初期作为试作机登场，比登拜恩先期开发，第一台成品由巴恩负责驾驶，此外还生产了另一台蓝色机交给失去登拜恩的托特驾驶。故事后期在奥拉增幅器技术广泛应用后，该机安装了奥拉增幅器，并大量生产，成为了杜雷库军的主力奥拉战士。另外还发展出了三机为一组同时发射火焰放射器的战术，使得该机的远距离炮击能力得到提高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/a9/67237_crt_5meX1.jpg",
+        "link": "https://bgm.tv/character/67237",
+        "categorie": "person"
+      },
+      {
+        "id": "67238",
+        "label": "比亚利斯",
+        "info": "　在得到肖特·威本的帮助后，由杜雷库的同盟国库国所制造的奥拉战士。是维拉比的发展型，而且比同时期开发的力布加恩性能上要稳定。完成的一号机交给了原杜雷库的部下、后投靠库国的圣战士托特·基里斯驾驶。不过该机由于构造复杂，因此没有大量生产，仅生产了少量分配给精锐骑士使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/45/67238_crt_W4KA7.jpg",
+        "link": "https://bgm.tv/character/67238",
+        "categorie": "person"
+      },
+      {
+        "id": "67239",
+        "label": "哥多",
+        "info": "机体简介",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/b8/67239_crt_OIlzo.jpg",
+        "link": "https://bgm.tv/character/67239",
+        "categorie": "person"
+      },
+      {
+        "id": "67240",
+        "label": "波瑾",
+        "info": "在得到纳国的协助后，北方的大国拉国制造的新型奥拉战士，由国王弗伊宗·哥奥亲自设计。吸取了登拜恩的制造技术，拥有非常高的性能，特别是空中的飞行、旋转、滞空时间在当时都是最出色的。首批生产的一台补给给了捷拉娜号。批量生产后主要交给精锐的拉国以及纳国的近卫骑兵团使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/6c/67240_crt_DMJf4.jpg",
+        "link": "https://bgm.tv/character/67240",
+        "categorie": "person"
+      },
+      {
+        "id": "67241",
+        "label": "波宗",
+        "info": "　由拉国在原基文家开发的奥拉战士坦拿·奥士的基础上改进开发的奥拉战士。由于当时杜雷库军已经开始了对拉国的入侵，因此该机在开发出来之后就立刻被大量生产，作为拉国和纳国等反杜雷库势力的主力机投入了战斗。不过在性能上比杜雷库军的主力奥拉战士多拉姆罗要稍逊一踌。第一台成品被涂装成了黑色，由拉国国王弗伊宗·哥奥亲自驾驶，后由捷拉娜号上的女骑士马比露驾驶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/be/67241_crt_9W3zk.jpg",
+        "link": "https://bgm.tv/character/67241",
+        "categorie": "person"
+      },
+      {
+        "id": "67242",
+        "label": "列普拉坎",
+        "info": "　维拉比的发展型，肖特·威本开发的重武装奥拉战士。全身搭载有奥拉加农炮、奥拉机关炮等众多火器，堪称故事中攻击力最强的奥拉战士。近距离时可以使用头部的牙齿咬击对手，而脚部搭载的高爆手榴弹更是具有惊人的威力（故事中只有飞在与翔交战时使用过）。第一台成品由巴恩驾驶，之后生产的两台分别配备给了地上人捷莉露和飞。后期批量生产后，配备给了杜雷库军里的精锐骑士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/94/67242_crt_L1tln.jpg",
+        "link": "https://bgm.tv/character/67242",
+        "categorie": "person"
+      },
+      {
+        "id": "67243",
+        "label": "维拉比",
+        "info": "肖特·威本开发的搭载有奥拉增幅器的奥拉战士，可以由一般士兵驾驶。作为试作机，产量很少，第一台成品由巴恩驾驶，后来生产的几台配备给了地上人亚伦、捷莉露和飞。该机作为过渡型机型成为了之后的力布加恩、比亚利斯等机的技术参照。后期成为杜雷库军的主力机型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/cf/67243_crt_8KkOF.jpg",
+        "link": "https://bgm.tv/character/67243",
+        "categorie": "person"
+      },
+      {
+        "id": "67244",
+        "label": "拉尼克",
+        "info": "　肖特·威本所开发的奥拉战士，与扎华士一样属于终极奥拉战士。由于该机没有安装奥拉增幅器，因此只能由圣战士操作。第一台成品起初由缪基驾驶，后来卖给了库国，交由托特·基里斯操作。该机具有极高的机动性，托特驾驶该机在与翔的决战中超级化。该机产量非常少，主要配备给库国和阿国的精锐骑士使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/dc/67244_crt_9A7wR.jpg",
+        "link": "https://bgm.tv/character/67244",
+        "categorie": "person"
+      },
+      {
+        "id": "67245",
+        "label": "祖华士",
+        "info": "　肖特·威本所开发的终极奥拉战士。肖特私下将第一台成品交给了黑骑士驾驶。装备有奥拉炮、奥拉加农炮等强力武器，拥有不亚于翔的比尔拜恩的战斗力。不过故事里黑骑士的扎华士在来到地上后不久便被翔击毁。该机产量非常少，除了黑骑士的黑色涂装外，还有女性骑士专用的白色涂装型号和一般的红色涂装型号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/75/67245_crt_4qV45.jpg",
+        "link": "https://bgm.tv/character/67245",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

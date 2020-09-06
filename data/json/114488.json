@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26117",
+        "label": "风见飒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/79/26117_crt_92xQg.jpg?r=1434553777",
+        "link": "https://bgm.tv/character/26117",
+        "categorie": "person"
+      },
+      {
+        "id": "26118",
+        "label": "甘木生马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/77/26118_crt_wTwje.jpg?r=1434554014",
+        "link": "https://bgm.tv/character/26118",
+        "categorie": "person"
+      },
+      {
+        "id": "26119",
+        "label": "佐伯希星",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/21/26119_crt_62Q92.jpg?r=1434553983",
+        "link": "https://bgm.tv/character/26119",
+        "categorie": "person"
+      },
+      {
+        "id": "26120",
+        "label": "富井大树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/55/26120_crt_3vK3M.jpg?r=1434553935",
+        "link": "https://bgm.tv/character/26120",
+        "categorie": "person"
+      },
+      {
+        "id": "26121",
+        "label": "舞山春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/01/26121_crt_10lLL.jpg?r=1434553882",
+        "link": "https://bgm.tv/character/26121",
+        "categorie": "person"
+      },
+      {
+        "id": "26122",
+        "label": "社长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/10/26122_crt_90G2D.jpg",
+        "link": "https://bgm.tv/character/26122",
+        "categorie": "person"
+      },
+      {
+        "id": "33449",
+        "label": "勅使河原恭一",
+        "info": "少年ハリウッドのマネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/6b/33449_crt_do3ow.jpg?r=1434554303",
+        "link": "https://bgm.tv/character/33449",
+        "categorie": "person"
+      },
+      {
+        "id": "33450",
+        "label": "風原乱",
+        "info": "ハリウッドカラー：レッド。愛称は「ラン」。誕生日は8月3日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/cd/33450_crt_QQw6w.jpg?r=1434554547",
+        "link": "https://bgm.tv/character/33450",
+        "categorie": "person"
+      },
+      {
+        "id": "33453",
+        "label": "早水海馬",
+        "info": "ハリウッドカラー：ブルー。愛称は「シーマ」。誕生日は7月22日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/cb/33453_crt_R1rAP.jpg?r=1434554912",
+        "link": "https://bgm.tv/character/33453",
+        "categorie": "person"
+      },
+      {
+        "id": "33454",
+        "label": "富井実",
+        "info": "ハリウッドカラー：イエロー。愛称は「トミー」。誕生日は1月1日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ba/33454_crt_8UddN.jpg?r=1434555010",
+        "link": "https://bgm.tv/character/33454",
+        "categorie": "person"
+      },
+      {
+        "id": "34458",
+        "label": "角都",
+        "info": "是角鸱不是猫头鹰。初代社长捡回的少年好莱坞吉祥物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/1c/34458_crt_DSV9V.jpg?r=1437833320",
+        "link": "https://bgm.tv/character/34458",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

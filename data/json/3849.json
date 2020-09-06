@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39515",
+        "label": "沉香",
+        "info": "三圣母与刘彦昌的孩子，二郎神的外甥。纯真质朴，机敏聪慧，百折不挠，在磨难和考验中逐渐成长，变得愈发诚恳坚定。由于母亲私携宝莲灯下凡触犯天条，舅舅抓走7岁的沉香当人质并将三圣母镇压于华山之下。沉香得知自己身世后救母心切，历经坎坷夺回宝莲灯，并先后拜师等、经孙大圣指点，长大后学得武艺使宝莲灯重放光明、劈山救母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/07/39515_crt_txI89.jpg",
+        "link": "https://bgm.tv/character/39515",
+        "categorie": "person"
+      },
+      {
+        "id": "39516",
+        "label": "三圣母",
+        "info": "本为天上天宫中的仙女，是二郎神的三妹。仁爱宽厚，想追求人间的爱情，而私自带着宝莲灯下凡，爱上了书生刘彦昌，并与他成亲生了沉香。七年过去后被发现，二郎神为维护天规逼迫她交出了宝莲灯，并将她压在华山底下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/93/39516_crt_FzU9l.jpg",
+        "link": "https://bgm.tv/character/39516",
+        "categorie": "person"
+      },
+      {
+        "id": "39517",
+        "label": "二郎神",
+        "info": "玉皇大帝的外甥，玉鼎真人的徒弟，也是三圣母的哥哥。曾劈山救母，被玉帝封为显圣二郎真君和司法天神。居于灌江口，与梅山六兄弟为伴，掌管一千二百草头神，会地煞七十二变，使三尖两刃刀为兵器，额头中间多生了一只慧眼，身边有神狗哮天犬（啸天犬）跟随。“听调不听宣”，平常不听天庭命令，但危急时会接受天庭的派遣。反对妹妹三圣母与刘彦昌相爱，并出手阻挠外甥沉香救母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/0b/39517_crt_58oaO.jpg",
+        "link": "https://bgm.tv/character/39517",
+        "categorie": "person"
+      },
+      {
+        "id": "11864",
+        "label": "孙悟空",
+        "info": "原典：天产石猴，为求长生不老游历四方，师从菩提祖师，后因故遭驱逐，返回花果山后凭借过人法力成为一方妖王。因强取东海定海神针及修改地府生死簿为天庭所注意，接受招安，先后受封弼马温及齐天大圣，然皆为闲职。大闹天宫后为西方如来佛祖降服，压制于五指山下。五百年后由金蝉子转世的僧人唐玄奘所解救，护其西天取经，历九九八十一难功德圆满，加封斗战胜佛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/aa/11864_crt_W0033.jpg?r=1365259891",
+        "link": "https://bgm.tv/character/11864",
+        "categorie": "person"
+      },
+      {
+        "id": "39518",
+        "label": "嘎妹",
+        "info": "部落头人之女，倔强而带有野性，从小被二郎神劫为人质，对二郎神的憎恨使她勇敢地帮助沉香逃出天宫。在天宫关押多年后，又被放逐人间继承雕神像的苦役。长大的嘎妹更加刚毅，敢爱敢恨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/5f/39518_crt_HW9su.jpg",
+        "link": "https://bgm.tv/character/39518",
+        "categorie": "person"
+      },
+      {
+        "id": "39519",
+        "label": "土地爷",
+        "info": "天庭的一员小官，是个可爱的小老头，爱打喷嚏，不愿直接告诉沉香他的身世，但尽全力帮助其搭救母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/c1/39519_crt_8k2qh.jpg",
+        "link": "https://bgm.tv/character/39519",
+        "categorie": "person"
+      },
+      {
+        "id": "39520",
+        "label": "假道士",
+        "info": "一个招摇撞骗为生的假老道，声称自己比孙悟空要厉害，装着让沉香学习穿山术而让他在石头上撞晕，之后抓走了小猴去耍把戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/fc/39520_crt_VgbCB.jpg",
+        "link": "https://bgm.tv/character/39520",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

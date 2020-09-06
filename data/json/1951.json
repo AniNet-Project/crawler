@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9029",
+        "label": "濑名罗宾",
+        "info": "半年前の殉職者によってできた欠員の補充という名目で、ソロモン本部より派遣されてきたリプレイスメント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/c8/9029_crt_P9nnO.jpg",
+        "link": "https://bgm.tv/character/9029",
+        "categorie": "person"
+      },
+      {
+        "id": "18861",
+        "label": "亚门",
+        "info": "男主角，25歲，羅冰的搭檔，是專家級的獵人，個性冷靜，為風羅的異母兄弟，也是真崎瞳子的前男友。由於母親為巫人，從小就失去了家族的溫暖。據說他曾毫不留情的捕獵了過去的搭檔，所以在STN-J的獵人中留下了陰影。同爲巫人血統的繼承者，他對應該如何對待羅冰也是非常的疑惑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/b8/18861_crt_PBOji.jpg",
+        "link": "https://bgm.tv/character/18861",
+        "categorie": "person"
+      },
+      {
+        "id": "50926",
+        "label": "乌丸美穂",
+        "info": "ランクSのウィッチハンター。物体に手を触れることで残留思念を読み取る、一種のサイコメトリィ能力者だが、その能力は数年前をピークとして徐々に衰えはじめている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/c8/50926_crt_V5nNl.jpg",
+        "link": "https://bgm.tv/character/50926",
+        "categorie": "person"
+      },
+      {
+        "id": "50927",
+        "label": "堂島百合香",
+        "info": "クラスDのウィッチハンターで、遅刻常習犯。STNという特殊な組織の中にあってお世辞にも優秀なメンバーとは言いがたいがある事情から優遇を受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/5a/50927_crt_i7u8l.jpg",
+        "link": "https://bgm.tv/character/50927",
+        "categorie": "person"
+      },
+      {
+        "id": "18862",
+        "label": "榊晴人",
+        "info": "17歲，基本上在STN-J屬於行動派，負責配合魔女獵人輔助攻擊，其能力等級爲B。喜歡騎摩托車。行動相當直率，個性有些性急。是一個很陽光向上，具有使命感的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/67/18862_crt_0Fqxn.jpg",
+        "link": "https://bgm.tv/character/18862",
+        "categorie": "person"
+      },
+      {
+        "id": "18863",
+        "label": "マイケル・リー",
+        "info": "16歲，本來是一個駭客，後來因為侵入STN-J的系統而被捕，與財前交換條件而成為STN-J的成員。但是必須絕對在STN的管理之下，不能踏出門一步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/75/18863_crt_6FC7j.jpg",
+        "link": "https://bgm.tv/character/18863",
+        "categorie": "person"
+      },
+      {
+        "id": "50929",
+        "label": "真崎瞳子",
+        "info": "以前、亜門と恋人関係にあった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/93/50929_crt_FOUr8.jpg",
+        "link": "https://bgm.tv/character/50929",
+        "categorie": "person"
+      },
+      {
+        "id": "50930",
+        "label": "财前琢磨",
+        "info": "STNJの最高責任者。オルボ使用を前提としたウィッチハントなど、独自の方針でSTNJを管理している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/cd/50930_crt_X94US.jpg",
+        "link": "https://bgm.tv/character/50930",
+        "categorie": "person"
+      },
+      {
+        "id": "50931",
+        "label": "小坂慎太郎",
+        "info": "通称「署長」。警察庁からの出向で、STNJと警察および日本政府との事務調整がその役目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/82/50931_crt_KEj6Z.jpg",
+        "link": "https://bgm.tv/character/50931",
+        "categorie": "person"
+      },
+      {
+        "id": "50935",
+        "label": "服部",
+        "info": "STNJで事務職として勤務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/58/50935_crt_ufQ00.jpg",
+        "link": "https://bgm.tv/character/50935",
+        "categorie": "person"
+      },
+      {
+        "id": "50936",
+        "label": "守卫",
+        "info": "STNJ本部ビルの管理人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/1d/50936_crt_G2Jg7.jpg",
+        "link": "https://bgm.tv/character/50936",
+        "categorie": "person"
+      },
+      {
+        "id": "50937",
+        "label": "店老板",
+        "info": "ハリーズを経営するマスター。頻繁に店を訪れるSTNJメンバー達と親しい仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/c0/50937_crt_e3am7.jpg",
+        "link": "https://bgm.tv/character/50937",
+        "categorie": "person"
+      },
+      {
+        "id": "50938",
+        "label": "凪罗",
+        "info": "凪羅法律事務所を構えながら、町に潜むウィッチ達の生活援助を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/70/50938_crt_17IM7.jpg",
+        "link": "https://bgm.tv/character/50938",
+        "categorie": "person"
+      },
+      {
+        "id": "50939",
+        "label": "花村",
+        "info": "凪羅法律事務所で勤務する職員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/c1/50939_crt_u0jyP.jpg",
+        "link": "https://bgm.tv/character/50939",
+        "categorie": "person"
+      },
+      {
+        "id": "50940",
+        "label": "审问官",
+        "info": "ソロモン本部の審問官。ウィッチを審査し、ハンターとして働けるか、",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/c3/50940_crt_VDZZy.jpg",
+        "link": "https://bgm.tv/character/50940",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

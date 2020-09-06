@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77131",
+        "label": "镝木",
+        "info": "寡黙で無愛想なベテラン装甲修理人。かつてはスゴ腕の戦士として活躍していたが、今は戦いに興味を示さず、無気力な日々を送っている。夢を諦めないナツメとの出会いにより、その心境に変化が生まれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/e4/77131_crt_s7HpQ.jpg?r=1592197564",
+        "link": "https://bgm.tv/character/77131",
+        "categorie": "person"
+      },
+      {
+        "id": "77132",
+        "label": "枣",
+        "info": "幼いころにガドルに襲われ、父と右腕を無くした少女。「かの力」に入隊し戦士としてガドルと戦うことを夢見ていたが、現実は厳しく、装甲修理人としてカブラギの下で働くことに。明るく元気な猪突猛進タイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/79/77132_crt_z2h4h.jpg?r=1592197608",
+        "link": "https://bgm.tv/character/77132",
+        "categorie": "person"
+      },
+      {
+        "id": "77679",
+        "label": "凑",
+        "info": "デカダンスの総司令官。冷静沈着な頭脳派で、作戦立案から緊急時の判断まで、ガドルとの戦闘には欠かせない。カブラギとは旧知の仲で、戦場から退いた彼のことを今でも心配している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/e5/77679_crt_60n08.jpg?r=1592197884",
+        "link": "https://bgm.tv/character/77679",
+        "categorie": "person"
+      },
+      {
+        "id": "77680",
+        "label": "红",
+        "info": "「かの力」に所属する”タンカー”最強の女戦士。戦場では腹心であるソウとリョクを引き連れて自ら先陣を切る。勇敢だが慈悲深く、そのカリスマ性で屈強な戦士たちを束ねている。ナツメの昔からの憧れの存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/69/77680_crt_phepK.jpg?r=1592198073",
+        "link": "https://bgm.tv/character/77680",
+        "categorie": "person"
+      },
+      {
+        "id": "77681",
+        "label": "菲",
+        "info": "ナツメと同じ孤児院で育った友だち。院を出た後は解体工として働いている。「戦士になりたい」というナツメの夢は尊重しつつもその身を案じており、修理工となったことに安堵するなど、優しい性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ee/77681_crt_EeRPI.jpg?r=1592198291",
+        "link": "https://bgm.tv/character/77681",
+        "categorie": "person"
+      },
+      {
+        "id": "77716",
+        "label": "林美",
+        "info": "ナツメと同じ孤児院で育った少女で、いつも数人の取り巻きを引き連れている。ナツメとは何かと折り合いが悪く、ことあるごとに因縁をつけてくる。院を卒業したあとは解体工になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/1e/77716_crt_VpcpG.jpg?r=1592445259",
+        "link": "https://bgm.tv/character/77716",
+        "categorie": "person"
+      },
+      {
+        "id": "77717",
+        "label": "茴香",
+        "info": "カブラギ組の一員で、ナツメの先輩にあたる修理工。まだ半人前ではあるが、新人のナツメを優しくサポートする。ナツメのことをよく食事に誘うなど、チャラくてノリがいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/57/77717_crt_15bW5.jpg?r=1592445410",
+        "link": "https://bgm.tv/character/77717",
+        "categorie": "person"
+      },
+      {
+        "id": "77718",
+        "label": "派普",
+        "info": "カブラギが戦場で拾い、自宅に持ち帰って飼っているペットガドル。通常のガドルと違って凶暴性はなく、カブラギやナツメにもよくなついている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/ba/77718_crt_wVN00.jpg?r=1592445532",
+        "link": "https://bgm.tv/character/77718",
+        "categorie": "person"
+      },
+      {
+        "id": "78593",
+        "label": "フギン",
+        "info": "监视游戏、发现并处理bug的游戏警察，口头禅“世界不需要bug”（世界にバグは不要です）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/d2/78593_crt_JW2Z7.jpg",
+        "link": "https://bgm.tv/character/78593",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13299",
+        "label": "荻野千寻",
+        "info": "10岁的小学四年级生，随父母搬家到新城镇，然而事与愿违却进入了一个神秘的城镇，遇到白龙，因而喜欢上白龙，为了拯救变成猪的父母，她留在澡堂“油屋”工作，逐渐成长。她的名字因为笔划太多，而被汤婆婆直接移除改为“千”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/ff/13299_crt_P28Hh.jpg",
+        "link": "https://bgm.tv/character/13299",
+        "categorie": "person"
+      },
+      {
+        "id": "8258",
+        "label": "白",
+        "info": "本身原形为龙并可变化外表成十二岁左右的少年，因所掌管的河流在人类兴建大楼时遭填平，在无所归处情况下来到油屋成为汤婆婆的弟子，并改名为“白”，担任油屋的管理人员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/fe/8258_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8258",
+        "categorie": "person"
+      },
+      {
+        "id": "8259",
+        "label": "釜爺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f4/8259_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8259",
+        "categorie": "person"
+      },
+      {
+        "id": "8260",
+        "label": "リン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/3d/8260_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8260",
+        "categorie": "person"
+      },
+      {
+        "id": "42557",
+        "label": "荻野悠子",
+        "info": "千寻的母亲，没有什么显著的特点，出场也不多，也因为贪吃被变成了猪。宫崎骏表示她的一些动作神态的细节，是根据工作室中的一位女职员设计的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/67/42557_crt_299G2.jpg",
+        "link": "https://bgm.tv/character/42557",
+        "categorie": "person"
+      },
+      {
+        "id": "70724",
+        "label": "坊",
+        "info": "湯婆婆の息子、巨大な赤ん坊。食欲に苦しみ、わがまま。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/24/70724_crt_BBS0p.jpg",
+        "link": "https://bgm.tv/character/70724",
+        "categorie": "person"
+      },
+      {
+        "id": "8261",
+        "label": "ススワタリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/cb/8261_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8261",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

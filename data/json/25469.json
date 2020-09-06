@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22219",
+        "label": "砂羽",
+        "info": "女子高中生的主人公。12岁时，双亲遭受赤井杀害，并被他带走。知道双亲的仇人是赤井后，萌生出为了向他复仇而做杀手的想法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/d5/22219_crt_66659.jpg?r=1418229083",
+        "link": "https://bgm.tv/character/22219",
+        "categorie": "person"
+      },
+      {
+        "id": "43140",
+        "label": "音不利",
+        "info": "声 - 小山田慎吾",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/2e/43140_crt_gspsk.jpg",
+        "link": "https://bgm.tv/character/43140",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

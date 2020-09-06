@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15185",
+        "label": "黑子哲也",
+        "info": "目の前にいても全く気付かれないほど極端に影が薄い少年。無表情で誰に対しても丁寧語で話すが、本気で怒った時には口調が変わる。おっとりとした外見だが言いたい事ははっきり言う性格。好きなものはバニラシェイクと読書（主に文学作品）。学力は平均的だが国語が得意。図書委員会に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/e9/15185_crt_Mg0XM.jpg",
+        "link": "https://bgm.tv/character/15185",
+        "categorie": "person"
+      },
+      {
+        "id": "15186",
+        "label": "火神大我",
+        "info": "アメリカ帰りのプレイヤー。大食漢。日本のバスケのレベルの低さに失望し、強者との対戦を熱望している。やや短気で頭に血が上りやすいが、荒削りながらもハイレベルな技術と才能の持ち主である。身体能力を生かしたダンクシュートが得意。アメリカ暮らしが長かったせいか日本語で敬語を話すことに慣れておらず、漢字の読み書きも苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/14/15186_crt_IgUQF.jpg",
+        "link": "https://bgm.tv/character/15186",
+        "categorie": "person"
+      },
+      {
+        "id": "32176",
+        "label": "哲也2号",
+        "info": "誠凛で飼われている犬。背番号は16番。通称「2号」。景虎から付けられたあだ名は「犬まる」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/11/32176_crt_v0v86.jpg",
+        "link": "https://bgm.tv/character/32176",
+        "categorie": "person"
+      },
+      {
+        "id": "65910",
+        "label": "中谷仁亮",
+        "info": "秀徳高校バスケ部監督。英語（主に英文法）の教師。元全日本代表で、現役当時の背番号は5。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/80/65910_crt_rd6Kz.jpg?r=1536029913",
+        "link": "https://bgm.tv/character/65910",
+        "categorie": "person"
+      },
+      {
+        "id": "15187",
+        "label": "相田丽子",
+        "info": "スポーツトレーナーの父の下に育ち、幼い頃からスポーツ選手のデータと肉体を繰り返し見てきた。その経験から、体格を見るだけで対象者の身体能力を分析できる。バスケ部の朝練に父親が経営するスポーツジムのプールを使ったメニューを取り入れたり、連携や実践練習では様々なボールを使った方法を提案する。選手のマッサージやそのそれぞれに合った練習方法を与えるなど、高校2年生ながら監督としての技量は高い。ただしその場の気分で選手にキツいトレーニングメニューを考案するなどスパルタな一面もある。マネージャーのような立ち位置も兼ねている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/e4/15187_crt_mN3lH.jpg?r=1420876760",
+        "link": "https://bgm.tv/character/15187",
+        "categorie": "person"
+      },
+      {
+        "id": "15188",
+        "label": "日向顺平",
+        "info": "配音：细谷佳正／川田绅司【广播剧】（日本）；苏振威【电视版】／孟庆府【剧场版】（台湾）；周倚天（香港）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/69/15188_crt_J579A.jpg?r=1429855413",
+        "link": "https://bgm.tv/character/15188",
+        "categorie": "person"
+      },
+      {
+        "id": "15192",
+        "label": "伊月俊",
+        "info": "冷静沈着なチームの司令塔。突出した才能は持っていないが、コートを頭の中であらゆる視点に切り替えて見る事ができ、試合中は常にコート全体の動きを把握している。この特技を「鷲の目（イーグルアイ）」と呼んでいる。得意教科は数学。料理はそこそこらしい。風紀委員会に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/fe/15192_crt_iEZAu.jpg?r=1457432235",
+        "link": "https://bgm.tv/character/15192",
+        "categorie": "person"
+      },
+      {
+        "id": "15189",
+        "label": "小金井慎二",
+        "info": "主に黒子と交代で出る。器用貧乏であり、何でもできるが何にも出来ない。全範囲からシュートが打てるが、成功率はそれほどでもない。勉強も得意科目や不得意科目がない。料理もだいたいなんでも出来るが、あまり上手くない。別名「Mr.器用貧乏」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/f3/15189_crt_o425U.jpg?r=1457432190",
+        "link": "https://bgm.tv/character/15189",
+        "categorie": "person"
+      },
+      {
+        "id": "15194",
+        "label": "水户部凛之助",
+        "info": "長身を生かしたアシストや、フックシュートを得意とする。非常に寡黙で誰も声を聞いたことが無い。温厚な性格で、心配症な一面もある。家は大家族で、兄弟がたくさんいる。得意教科は理科。料理は一番上手いらしい。何故かロッカーの中身を見せようとしない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/4e/15194_crt_UZCS4.jpg",
+        "link": "https://bgm.tv/character/15194",
+        "categorie": "person"
+      },
+      {
+        "id": "15190",
+        "label": "土田聪史",
+        "info": "リバウンドが得意らしい。2年生の中では出番が少なく、正邦戦にて初登場。試合には途中出場した。キセキの世代青峰を擁する桐皇学園戦にも第3Qから出場する。得意教科は英語。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/6c/15190_crt_1rrRw.jpg",
+        "link": "https://bgm.tv/character/15190",
+        "categorie": "person"
+      },
+      {
+        "id": "48988",
+        "label": "相田景虎",
+        "info": "相田リコの父親。「相田スポーツジム」経営者にして、元全日本代表のSF。当時の背番号は7番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/88/48988_crt_kx84g.jpg",
+        "link": "https://bgm.tv/character/48988",
+        "categorie": "person"
+      },
+      {
+        "id": "15196",
+        "label": "黄濑凉太",
+        "info": "モデルをやっているイケメンで、左耳にピアスをつけている。自称「黒子の第一の親友」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/32/15196_crt_ib9fN.jpg",
+        "link": "https://bgm.tv/character/15196",
+        "categorie": "person"
+      },
+      {
+        "id": "15195",
+        "label": "笠松幸男",
+        "info": "月バスに載るほどの実力者。ややオーバーリアクション気味の熱血漢で、肩パンチなど体育会系をイメージさせるコミュニケーションをする。ゴールを壊した火神のダンクに触発されて黄瀬に同じ事をさせようとするなど、負けず嫌いなところがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/f9/15195_crt_Nis8G.jpg",
+        "link": "https://bgm.tv/character/15195",
+        "categorie": "person"
+      },
+      {
+        "id": "15799",
+        "label": "绿间真太郎",
+        "info": "秀德高校一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/d0/15799_crt_sTTs6.jpg",
+        "link": "https://bgm.tv/character/15799",
+        "categorie": "person"
+      },
+      {
+        "id": "15800",
+        "label": "高尾和成",
+        "info": "秀德高校一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/04/15800_crt_DOHp1.jpg",
+        "link": "https://bgm.tv/character/15800",
+        "categorie": "person"
+      },
+      {
+        "id": "15804",
+        "label": "青峰大辉",
+        "info": "桐皇高校一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/72/15804_crt_wLPCJ.jpg",
+        "link": "https://bgm.tv/character/15804",
+        "categorie": "person"
+      },
+      {
+        "id": "16414",
+        "label": "今吉翔一",
+        "info": "3年 身長180cm 背番号4 ポジションはポイントガード",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/44/16414_crt_GTwFi.jpg",
+        "link": "https://bgm.tv/character/16414",
+        "categorie": "person"
+      },
+      {
+        "id": "15803",
+        "label": "桃井五月",
+        "info": "桐皇高校一年级。篮球部的经理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d1/15803_crt_UsR8j.jpg",
+        "link": "https://bgm.tv/character/15803",
+        "categorie": "person"
+      },
+      {
+        "id": "65898",
+        "label": "降旗光树",
+        "info": "誠凛高校1年生。ポジションはPG。 背番号は12。景虎から付けられたあだ名は「茶パツ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/14/65898_crt_vp1A3.jpg?r=1536023761",
+        "link": "https://bgm.tv/character/65898",
+        "categorie": "person"
+      },
+      {
+        "id": "65899",
+        "label": "河原浩一",
+        "info": "誠凛高校1年生。ポジションはSF（スモールフォワード）。背番号は15。景虎から付けられたあだ名は「黒まめ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/c3/65899_crt_AKJyf.jpg?r=1536024218",
+        "link": "https://bgm.tv/character/65899",
+        "categorie": "person"
+      },
+      {
+        "id": "65900",
+        "label": "福田宽",
+        "info": "誠凛高校1年生。ポジションはC。背番号は13。景虎から付けられたあだ名は「フク助」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/42/65900_crt_0O0Zr.jpg?r=1536031012",
+        "link": "https://bgm.tv/character/65900",
+        "categorie": "person"
+      },
+      {
+        "id": "65904",
+        "label": "武内源太",
+        "info": "海常高校篮球部的教练。前职业选手。对实力较差的选手态度恶劣。相当看好黄濑的可能性，在黄濑加入后便以他为中心来打造球队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/57/65904_crt_js8H8.jpg",
+        "link": "https://bgm.tv/character/65904",
+        "categorie": "person"
+      },
+      {
+        "id": "65901",
+        "label": "森山由孝",
+        "info": "得分后卫，以独特的姿势射篮。对联谊抱有很大的兴趣，个性见一个爱一个，曾经在比赛前看到可爱的女生的时候说出“我今天要为她而战”这样的话，但因为对女性的告白方式太过直接而屡遭拒绝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/9e/65901_crt_4Ol49.jpg?r=1536025817",
+        "link": "https://bgm.tv/character/65901",
+        "categorie": "person"
+      },
+      {
+        "id": "65902",
+        "label": "早川充洋",
+        "info": "热血的大前锋，拥有出色的爆发力和力量，擅长抢篮板，不过有时会因为要抢篮板而随便乱起跳。讲话速度非常快，但因为不太会发ra行的音，所以队友常常无法理解他在说什么。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b1/65902_crt_MdxcD.jpg?r=1536026549",
+        "link": "https://bgm.tv/character/65902",
+        "categorie": "person"
+      },
+      {
+        "id": "65903",
+        "label": "小堀浩志",
+        "info": "非力だが優れた技巧を持つ「柔」のC。黄瀬の放つ「加速するパス・廻」を受け取れるほど身体能力も高い。黄瀬によると「かなりのお人よし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/13/65903_crt_OwInR.jpg?r=1536026772",
+        "link": "https://bgm.tv/character/65903",
+        "categorie": "person"
+      },
+      {
+        "id": "15852",
+        "label": "帕帕·恩百·式",
+        "info": "來自塞內加爾的留學生，新協學園的王牌，身高極高，手腳也極長，瞧不起「奇蹟的世代」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/e0/15852_crt_cnP1J.jpg",
+        "link": "https://bgm.tv/character/15852",
+        "categorie": "person"
+      },
+      {
+        "id": "15853",
+        "label": "谷村佑介",
+        "info": "新協學園隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/ec/15853_crt_Rj3xH.jpg",
+        "link": "https://bgm.tv/character/15853",
+        "categorie": "person"
+      },
+      {
+        "id": "65906",
+        "label": "平岩幸治",
+        "info": "新協学園高校バスケ部監督。中年男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/72/65906_crt_fz9AS.jpg",
+        "link": "https://bgm.tv/character/65906",
+        "categorie": "person"
+      },
+      {
+        "id": "65907",
+        "label": "大坪泰介",
+        "info": "身長：198cm / 体重：98kg / 誕生日：4月20日 / 家族構成：父・母・妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/c6/65907_crt_QU9Jq.jpg?r=1536029103",
+        "link": "https://bgm.tv/character/65907",
+        "categorie": "person"
+      },
+      {
+        "id": "65908",
+        "label": "木村信介",
+        "info": "身長：187cm / 体重：80kg / 誕生日：8月6日 / 家族構成：父・弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/d8/65908_crt_7cp2V.jpg?r=1536029359",
+        "link": "https://bgm.tv/character/65908",
+        "categorie": "person"
+      },
+      {
+        "id": "48989",
+        "label": "宫地清志",
+        "info": "やや長めの茶髪が特徴でかなりの毒舌家。3年生になって初めてスタメンの座をつかんだ努力家。バスケに対しては非常に真摯な人物で、チーム内での信頼も厚い。巧みなドリブルを活かしたペネトレイトを得意とし、ダンクなどの華麗なプレーを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/fc/48989_crt_EN71W.jpg",
+        "link": "https://bgm.tv/character/48989",
+        "categorie": "person"
+      },
+      {
+        "id": "15854",
+        "label": "津川智纪",
+        "info": "擁有相當強大的防守能力，其實力也是為全國級別的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e0/15854_crt_NYNu5.jpg",
+        "link": "https://bgm.tv/character/15854",
+        "categorie": "person"
+      },
+      {
+        "id": "15855",
+        "label": "岩村努",
+        "info": "雖然其身高在全國範圍算矮小，但是仍算是相當有力量的中鋒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/49/15855_crt_oZOb9.jpg",
+        "link": "https://bgm.tv/character/15855",
+        "categorie": "person"
+      },
+      {
+        "id": "36669",
+        "label": "春日隆平",
+        "info": "チームの柱の一人。間延び気味な口調で喋る。動きに力感はないが、素早くスクープショットを得意とする「柔」の選手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/79/36669_crt_zsrrN.jpg?r=1446894852",
+        "link": "https://bgm.tv/character/36669",
+        "categorie": "person"
+      },
+      {
+        "id": "65909",
+        "label": "松元郁宪",
+        "info": "正邦高校バスケ部監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/12/65909_crt_Rv2zr.jpg?r=1536031043",
+        "link": "https://bgm.tv/character/65909",
+        "categorie": "person"
+      },
+      {
+        "id": "39335",
+        "label": "若松孝辅",
+        "info": "2年生のC。背番号は6番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/bf/39335_crt_RNhtc.jpg",
+        "link": "https://bgm.tv/character/39335",
+        "categorie": "person"
+      },
+      {
+        "id": "39336",
+        "label": "樱井良",
+        "info": "1年生のSG。背番号は9番。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/c3/39336_crt_7XZ7b.jpg",
+        "link": "https://bgm.tv/character/39336",
+        "categorie": "person"
+      },
+      {
+        "id": "65912",
+        "label": "原泽克德",
+        "info": "桐皇学園高校バスケ部監督。理科（化学）の教師。元全日本代表で、現役当時の背番号は8。42歳には見えない若々しさを持っており、海常の武内監督も対抗心を燃やすほど。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/f0/65912_crt_I3CZ9.jpg?r=1536030613",
+        "link": "https://bgm.tv/character/65912",
+        "categorie": "person"
+      },
+      {
+        "id": "65911",
+        "label": "诹佐佳典",
+        "info": "桐皇学園高校バスケ部副主将を務める3年生。ポジションはPF（青峰が入部する前）→SF。背番号は7。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/81/65911_crt_s7Gq5.jpg?r=1536030363",
+        "link": "https://bgm.tv/character/65911",
+        "categorie": "person"
+      },
+      {
+        "id": "16413",
+        "label": "木吉铁平",
+        "info": "诚凛高校二年级　身高／193cm　体重／81kg　生日／6月10日　星座／双子座　背号／7号　位置／中锋　喜欢的食物／铜锣烧　爱好／玩花札　特技／口琴",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/c0/16413_crt_Z4Gv2.jpg",
+        "link": "https://bgm.tv/character/16413",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "21807",
+        "label": "冰室辰也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/f6/21807_crt_7UHfo.jpg?r=1381964597",
+        "link": "https://bgm.tv/character/21807",
+        "categorie": "person"
+      },
+      {
+        "id": "15802",
+        "label": "紫原敦",
+        "info": "阳泉高校一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/46/15802_crt_6lA8f.jpg",
+        "link": "https://bgm.tv/character/15802",
+        "categorie": "person"
+      },
+      {
+        "id": "15801",
+        "label": "赤司征十郎",
+        "info": "洛山高校一年级。“奇迹的世代”的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/5f/15801_crt_bvlXY.jpg",
+        "link": "https://bgm.tv/character/15801",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

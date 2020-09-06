@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35675",
+        "label": "佐藤和真",
+        "info": "本作的主人公，是个喜欢电玩、动画、漫画的茧居尼特高中生。某天偶尔外出时碰上交通意外而身亡（被车子吓死）之后，带着阿克娅一起转生到异世界去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1d/35675_crt_9UAbW.jpg?r=1486080586",
+        "link": "https://bgm.tv/character/35675",
+        "categorie": "person"
+      },
+      {
+        "id": "35678",
+        "label": "阿克娅",
+        "info": "指引英年早逝者的女神，因为惹火和真而被和真指定为携带的东西而与和真一起转生到异世界。在那里,她是阿克西斯教团祭拜的神体，“阿克娅女神”本尊……话虽如此，却没任何人相信这件事。有着水蓝色的及腰长发跟眼睛，年龄不祥（自称跟和真差不多），职业是大祭司。因为是神体的关系所以能力值一开始就封顶，也习得了“大祭司”“宴会才艺”（杂耍）的所有技能，甚至具有碰到液体就能将其净化的体质，但却有着有别于她美少女形象的傲娇个性。做事常常少一根筋，常常对和真颐指气使，但遇到挫折或害怕的事就会像小孩一样嚎啕大哭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/b4/35678_crt_eiT0T.jpg?r=1486082939",
+        "link": "https://bgm.tv/character/35678",
+        "categorie": "person"
+      },
+      {
+        "id": "35681",
+        "label": "惠惠",
+        "info": "自称红魔族当中首屈一指的天才魔法师，黑发红眼，年龄14岁，职业是大魔法师。深受名为“爆裂魔法”的最强魔法之魅力所吸引，所以只会用这招，也只肯用这招。是个有严重的中二病的萝莉，最喜欢的东西、专长、兴趣都是爆裂魔法，不过因为本人自身魔力不够高的关系，一天的魔力只够用一发爆裂魔法，用完就会不支倒地。因为家庭的经济关系而外出找工作，并以此为契机加入和真的小队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/ba/35681_crt_vjSjx.jpg?r=1509793412",
+        "link": "https://bgm.tv/character/35681",
+        "categorie": "person"
+      },
+      {
+        "id": "35683",
+        "label": "达克妮斯",
+        "info": "外表是个金发碧眼，身材丰满的冰山美人，但真正的本性是有重度受虐癖和妄想癖的大抖M，年龄18岁，职业是防御力最高的“十字骑士”。（而选择这个职业是因为遭受怪物攻击对她而言是种快感，并将之当成一种SM玩法并乐在其中）力气很大，但因为没有习得攻击类技能所以攻击命中率超低。是贵族家的千金，所以对平民生活不是很了解。似乎对和真抱有异性的感情？",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/ba/35683_crt_z6ZKg.jpg?r=1486083433",
+        "link": "https://bgm.tv/character/35683",
+        "categorie": "person"
+      },
+      {
+        "id": "35686",
+        "label": "维斯",
+        "info": "魔王军的干部之一，“维斯魔道具店”的店主，是个外表20岁的褐色卷发美女。曾是个著名的大魔法师，退休后隐居在新手的城镇里当道具店的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/94/35686_crt_80eWH.jpg?r=1486084592",
+        "link": "https://bgm.tv/character/35686",
+        "categorie": "person"
+      },
+      {
+        "id": "35687",
+        "label": "芸芸",
+        "info": "惠惠的朋友兼竞争对手，黑发红眼，与惠惠一样是14岁，职业是大魔法师，是红魔族族长的女儿，跟惠惠的关系好到接近百合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/33/35687_crt_3mMEl.jpg?r=1486082474",
+        "link": "https://bgm.tv/character/35687",
+        "categorie": "person"
+      },
+      {
+        "id": "36486",
+        "label": "露娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/37/36486_crt_fX8Of.jpg?r=1486087003",
+        "link": "https://bgm.tv/character/36486",
+        "categorie": "person"
+      },
+      {
+        "id": "36487",
+        "label": "粗暴者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/b7/36487_crt_zKzRk.jpg?r=1485701806",
+        "link": "https://bgm.tv/character/36487",
+        "categorie": "person"
+      },
+      {
+        "id": "38358",
+        "label": "小米",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/19/38358_crt_4nXWA.jpg",
+        "link": "https://bgm.tv/character/38358",
+        "categorie": "person"
+      },
+      {
+        "id": "47579",
+        "label": "阿露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/2c/47579_crt_JeJHH.jpg?r=1485692846",
+        "link": "https://bgm.tv/character/47579",
+        "categorie": "person"
+      },
+      {
+        "id": "47582",
+        "label": "富尼费拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/bd/47582_crt_rdpaf.jpg?r=1485715215",
+        "link": "https://bgm.tv/character/47582",
+        "categorie": "person"
+      },
+      {
+        "id": "47583",
+        "label": "钝钝子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/43/47583_crt_1WDPN.jpg?r=1485715689",
+        "link": "https://bgm.tv/character/47583",
+        "categorie": "person"
+      },
+      {
+        "id": "47589",
+        "label": "布克罗尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/b9/47589_crt_WgMNP.jpg?r=1485711756",
+        "link": "https://bgm.tv/character/47589",
+        "categorie": "person"
+      },
+      {
+        "id": "50662",
+        "label": "巴尼尔",
+        "info": "魔王军的干部之一，也是维兹少数的朋友。自称“地狱的公爵，看透一切的恶魔”“或许比魔王还强的巴尼尔先生”，基本上以分身行动，面具才是本体。分身的外表是个戴着面具、身穿燕尾服的男性。喜欢调戏人类并吸取羞耻性的负面感情，所以坚持“不伤害人类”的原则。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/48/50662_crt_FejPE.jpg?r=1486084451",
+        "link": "https://bgm.tv/character/50662",
+        "categorie": "person"
+      },
+      {
+        "id": "50666",
+        "label": "唯唯",
+        "info": "惠惠的母亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/9b/50666_crt_7yeTo.jpg?r=1485707240",
+        "link": "https://bgm.tv/character/50666",
+        "categorie": "person"
+      },
+      {
+        "id": "50668",
+        "label": "红魔族族长",
+        "info": "芸芸的爸爸，本名不详",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/de/50668_crt_ji17l.jpg?r=1485724556",
+        "link": "https://bgm.tv/character/50668",
+        "categorie": "person"
+      },
+      {
+        "id": "50675",
+        "label": "西尔维娅",
+        "info": "魔王軍幹部。紅魔の里攻略のために派遣されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/b8/50675_crt_9bAXB.jpg?r=1485707470",
+        "link": "https://bgm.tv/character/50675",
+        "categorie": "person"
+      },
+      {
+        "id": "71108",
+        "label": "索凯特",
+        "info": "紅魔の里の住人。よく当たると評判の美人占い師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/dd/71108_crt_12x6E.jpg",
+        "link": "https://bgm.tv/character/71108",
+        "categorie": "person"
+      },
+      {
+        "id": "71109",
+        "label": "修泽布罗",
+        "info": "めぐみんの父。娘2人を目に入れても痛くないほど可愛がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/c9/71109_crt_6W6QQ.jpg",
+        "link": "https://bgm.tv/character/71109",
+        "categorie": "person"
+      },
+      {
+        "id": "35685",
+        "label": "厄里斯",
+        "info": "国教“艾莉丝教”的神体，是个白发及腰的蓝眼美少女，为阿克娅的后辈，年龄不详。（外表16岁左右）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ca/35685_crt_Z82rR.jpg?r=1486083779",
+        "link": "https://bgm.tv/character/35685",
+        "categorie": "person"
+      },
+      {
+        "id": "50727",
+        "label": "博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a4/50727_crt_x2GU3.jpg?r=1485875453",
+        "link": "https://bgm.tv/character/50727",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

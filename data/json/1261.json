@@ -1,0 +1,941 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "445",
+        "label": "阎魔爱",
+        "info": "物語の主人公。普段はおとなしく目立たない少女だが、地獄少女に変身し、相手を地獄流しにする。普段は主にセーラー服で、地獄少女の時は着物姿になる。 怨みの相手を地獄流しにする“地獄少女”。地獄に流れていったが、人の世界に戻ってくる。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/b6/445_crt_Svvho.jpg?r=1392045953",
+        "link": "https://bgm.tv/character/445",
+        "categorie": "person"
+      },
+      {
+        "id": "446",
+        "label": "一目连",
+        "info": "原形为武士刀付丧神。平时通常化为身穿西装裤与运动夹克，发覆左眼的青年。他亲吻自己颈部的项链后会化为蓝色稻草人。平日遮住的左眼为一隐藏的眼睛，能在任何平面上窥探。听从爱的命令去收集情报。进行调查时，使用“石元连”的假名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/55/446_crt_403C0.jpg?r=1392046014",
+        "link": "https://bgm.tv/character/446",
+        "categorie": "person"
+      },
+      {
+        "id": "447",
+        "label": "骨女",
+        "info": "本来はガイコツの妖怪で、美女の姿をしている。色っぽいしぐさで男を誘惑するのが得意だが、サバサバした性格で、学校では体育教師・曽根アンナとして生徒達と接している。（藁人形時：赤） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/14/447_crt_Y1vAR.jpg?r=1392046052",
+        "link": "https://bgm.tv/character/447",
+        "categorie": "person"
+      },
+      {
+        "id": "448",
+        "label": "轮入道",
+        "info": "本当は車輪の形をした妖怪で、空を駆けるあいの乗り物になる。学校では校務員として働いている。（藁人形時：黒） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/ce/448_crt_vNNQM.jpg?r=1392046204",
+        "link": "https://bgm.tv/character/448",
+        "categorie": "person"
+      },
+      {
+        "id": "4141",
+        "label": "菊里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/30/4141_crt_zKcj6.jpg?r=1392048899",
+        "link": "https://bgm.tv/character/4141",
+        "categorie": "person"
+      },
+      {
+        "id": "7183",
+        "label": "あいの祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/7b/7183_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7183",
+        "categorie": "person"
+      },
+      {
+        "id": "7464",
+        "label": "人面蜘蛛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/d6/7464_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7464",
+        "categorie": "person"
+      },
+      {
+        "id": "6191",
+        "label": "柴田一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/4c/6191_crt_anidb.jpg?r=1427918332",
+        "link": "https://bgm.tv/character/6191",
+        "categorie": "person"
+      },
+      {
+        "id": "6192",
+        "label": "柴田鸫",
+        "info": "一の娘。母親はおらず二人で生活している。そのため大人びた態度や物言いをするが本当は寂しがり屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/f0/6192_crt_w9U3w.jpg?r=1392046390",
+        "link": "https://bgm.tv/character/6192",
+        "categorie": "person"
+      },
+      {
+        "id": "7475",
+        "label": "恩田麻记",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/30/7475_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7475",
+        "categorie": "person"
+      },
+      {
+        "id": "7476",
+        "label": "神代映子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/19/7476_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7476",
+        "categorie": "person"
+      },
+      {
+        "id": "7477",
+        "label": "中瀬ひとみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/d4/7477_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7477",
+        "categorie": "person"
+      },
+      {
+        "id": "7493",
+        "label": "倉吉弥生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/82/7493_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7493",
+        "categorie": "person"
+      },
+      {
+        "id": "7495",
+        "label": "倉吉杜夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/05/7495_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7495",
+        "categorie": "person"
+      },
+      {
+        "id": "7496",
+        "label": "倉吉睦美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/13/7496_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7496",
+        "categorie": "person"
+      },
+      {
+        "id": "7498",
+        "label": "辻村亨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c7/7498_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7498",
+        "categorie": "person"
+      },
+      {
+        "id": "7502",
+        "label": "坂入多惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5c/7502_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7502",
+        "categorie": "person"
+      },
+      {
+        "id": "7503",
+        "label": "高田啓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f0/7503_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7503",
+        "categorie": "person"
+      },
+      {
+        "id": "7504",
+        "label": "花村弓枝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/90/7504_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7504",
+        "categorie": "person"
+      },
+      {
+        "id": "7505",
+        "label": "弓枝の彼氏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/02/7505_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7505",
+        "categorie": "person"
+      },
+      {
+        "id": "7516",
+        "label": "八木沢修一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/83/7516_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7516",
+        "categorie": "person"
+      },
+      {
+        "id": "7517",
+        "label": "八木沢千波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/5a/7517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7517",
+        "categorie": "person"
+      },
+      {
+        "id": "7518",
+        "label": "黒部一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/98/7518_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7518",
+        "categorie": "person"
+      },
+      {
+        "id": "7519",
+        "label": "佐久间",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/93/7519_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7519",
+        "categorie": "person"
+      },
+      {
+        "id": "7520",
+        "label": "山田麗音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/98/7520_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7520",
+        "categorie": "person"
+      },
+      {
+        "id": "7521",
+        "label": "宍戸俊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/e1/7521_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7521",
+        "categorie": "person"
+      },
+      {
+        "id": "7522",
+        "label": "橋爪力也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e2/7522_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7522",
+        "categorie": "person"
+      },
+      {
+        "id": "7523",
+        "label": "宮原泉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/9b/7523_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7523",
+        "categorie": "person"
+      },
+      {
+        "id": "7525",
+        "label": "細野颯太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/6f/7525_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7525",
+        "categorie": "person"
+      },
+      {
+        "id": "7526",
+        "label": "新田紀和子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/41/7526_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7526",
+        "categorie": "person"
+      },
+      {
+        "id": "7527",
+        "label": "杉田宏久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/95/7527_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7527",
+        "categorie": "person"
+      },
+      {
+        "id": "7528",
+        "label": "沢崎義郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f1/7528_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7528",
+        "categorie": "person"
+      },
+      {
+        "id": "7529",
+        "label": "颯太の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/3f/7529_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7529",
+        "categorie": "person"
+      },
+      {
+        "id": "7530",
+        "label": "颯太の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/d2/7530_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7530",
+        "categorie": "person"
+      },
+      {
+        "id": "7531",
+        "label": "茂木恵美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/1f/7531_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7531",
+        "categorie": "person"
+      },
+      {
+        "id": "7532",
+        "label": "茂木和子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/ec/7532_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7532",
+        "categorie": "person"
+      },
+      {
+        "id": "7533",
+        "label": "茂木博之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/ae/7533_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7533",
+        "categorie": "person"
+      },
+      {
+        "id": "7534",
+        "label": "茂木達也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/a2/7534_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7534",
+        "categorie": "person"
+      },
+      {
+        "id": "7540",
+        "label": "馬場翔子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/fb/7540_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7540",
+        "categorie": "person"
+      },
+      {
+        "id": "7541",
+        "label": "栗山真美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/00/7541_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7541",
+        "categorie": "person"
+      },
+      {
+        "id": "7542",
+        "label": "伊神和香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/8a/7542_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7542",
+        "categorie": "person"
+      },
+      {
+        "id": "7543",
+        "label": "野々原郁恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/21/7543_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7543",
+        "categorie": "person"
+      },
+      {
+        "id": "7544",
+        "label": "二瓶今日子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/13/7544_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7544",
+        "categorie": "person"
+      },
+      {
+        "id": "7545",
+        "label": "須崎真帆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/10/7545_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7545",
+        "categorie": "person"
+      },
+      {
+        "id": "7546",
+        "label": "須崎幹夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/40/7546_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7546",
+        "categorie": "person"
+      },
+      {
+        "id": "7548",
+        "label": "木崎浩太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/25/7548_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7548",
+        "categorie": "person"
+      },
+      {
+        "id": "7549",
+        "label": "弘樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/70/7549_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7549",
+        "categorie": "person"
+      },
+      {
+        "id": "7550",
+        "label": "根来哲郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/42/7550_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7550",
+        "categorie": "person"
+      },
+      {
+        "id": "7551",
+        "label": "根来歌江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/e7/7551_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7551",
+        "categorie": "person"
+      },
+      {
+        "id": "7552",
+        "label": "雪村久美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/6f/7552_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7552",
+        "categorie": "person"
+      },
+      {
+        "id": "7553",
+        "label": "横山ルイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/a7/7553_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7553",
+        "categorie": "person"
+      },
+      {
+        "id": "7554",
+        "label": "豊住 P",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/16/7554_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7554",
+        "categorie": "person"
+      },
+      {
+        "id": "7555",
+        "label": "豊田八六",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/d5/7555_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7555",
+        "categorie": "person"
+      },
+      {
+        "id": "7567",
+        "label": "天城志津子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/ef/7567_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7567",
+        "categorie": "person"
+      },
+      {
+        "id": "7568",
+        "label": "立花今日子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/86/7568_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7568",
+        "categorie": "person"
+      },
+      {
+        "id": "7569",
+        "label": "伊藤道郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/6f/7569_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7569",
+        "categorie": "person"
+      },
+      {
+        "id": "7570",
+        "label": "亀岡一人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/7d/7570_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7570",
+        "categorie": "person"
+      },
+      {
+        "id": "7654",
+        "label": "久住貴八",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/a7/7654_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7654",
+        "categorie": "person"
+      },
+      {
+        "id": "7655",
+        "label": "八百春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/22/7655_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7655",
+        "categorie": "person"
+      },
+      {
+        "id": "7656",
+        "label": "谷電気",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/d6/7656_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7656",
+        "categorie": "person"
+      },
+      {
+        "id": "7657",
+        "label": "津田朋子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/67/7657_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7657",
+        "categorie": "person"
+      },
+      {
+        "id": "7658",
+        "label": "牧村達彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/79/7658_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7658",
+        "categorie": "person"
+      },
+      {
+        "id": "7660",
+        "label": "紅林拓真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/9a/7660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7660",
+        "categorie": "person"
+      },
+      {
+        "id": "7661",
+        "label": "柿沼敏也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/c0/7661_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7661",
+        "categorie": "person"
+      },
+      {
+        "id": "7662",
+        "label": "紅林栄一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/8a/7662_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7662",
+        "categorie": "person"
+      },
+      {
+        "id": "7663",
+        "label": "紅林今子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/d4/7663_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7663",
+        "categorie": "person"
+      },
+      {
+        "id": "7664",
+        "label": "吉崎さやか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/cd/7664_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7664",
+        "categorie": "person"
+      },
+      {
+        "id": "7669",
+        "label": "菅野百合子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/16/7669_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7669",
+        "categorie": "person"
+      },
+      {
+        "id": "7675",
+        "label": "菅野郁志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/60/7675_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7675",
+        "categorie": "person"
+      },
+      {
+        "id": "7676",
+        "label": "菅野春美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/e8/7676_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7676",
+        "categorie": "person"
+      },
+      {
+        "id": "7679",
+        "label": "伊達政晴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/39/7679_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7679",
+        "categorie": "person"
+      },
+      {
+        "id": "7699",
+        "label": "辺見蘭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/48/7699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7699",
+        "categorie": "person"
+      },
+      {
+        "id": "7700",
+        "label": "辺見蘭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/1a/7700_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7700",
+        "categorie": "person"
+      },
+      {
+        "id": "7701",
+        "label": "手島おさむ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/0a/7701_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7701",
+        "categorie": "person"
+      },
+      {
+        "id": "7702",
+        "label": "上月マツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/c4/7702_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7702",
+        "categorie": "person"
+      },
+      {
+        "id": "7705",
+        "label": "纯惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/d4/7705_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7705",
+        "categorie": "person"
+      },
+      {
+        "id": "7706",
+        "label": "千脇寧々",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/e7/7706_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7706",
+        "categorie": "person"
+      },
+      {
+        "id": "7707",
+        "label": "千脇穂波",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/9c/7707_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7707",
+        "categorie": "person"
+      },
+      {
+        "id": "7708",
+        "label": "剣持沼子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/25/7708_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7708",
+        "categorie": "person"
+      },
+      {
+        "id": "7709",
+        "label": "剣持平太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/9c/7709_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7709",
+        "categorie": "person"
+      },
+      {
+        "id": "7727",
+        "label": "武田里奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/56/7727_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7727",
+        "categorie": "person"
+      },
+      {
+        "id": "7728",
+        "label": "武田美千代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/35/7728_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7728",
+        "categorie": "person"
+      },
+      {
+        "id": "7729",
+        "label": "武田公平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/e0/7729_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7729",
+        "categorie": "person"
+      },
+      {
+        "id": "7730",
+        "label": "生垣誠人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/60/7730_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7730",
+        "categorie": "person"
+      },
+      {
+        "id": "7731",
+        "label": "誠人の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/73/7731_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7731",
+        "categorie": "person"
+      },
+      {
+        "id": "7732",
+        "label": "北崎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/07/7732_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7732",
+        "categorie": "person"
+      },
+      {
+        "id": "8056",
+        "label": "湯元百合江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/54/8056_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8056",
+        "categorie": "person"
+      },
+      {
+        "id": "8057",
+        "label": "藍田伊知子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/17/8057_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8057",
+        "categorie": "person"
+      },
+      {
+        "id": "8058",
+        "label": "嘉平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/e5/8058_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8058",
+        "categorie": "person"
+      },
+      {
+        "id": "8059",
+        "label": "与平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/82/8059_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8059",
+        "categorie": "person"
+      },
+      {
+        "id": "8062",
+        "label": "森内樹里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/49/8062_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8062",
+        "categorie": "person"
+      },
+      {
+        "id": "8063",
+        "label": "藤巻真里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/1f/8063_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8063",
+        "categorie": "person"
+      },
+      {
+        "id": "8064",
+        "label": "真里の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/40/8064_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8064",
+        "categorie": "person"
+      },
+      {
+        "id": "8065",
+        "label": "真里の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/0e/8065_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8065",
+        "categorie": "person"
+      },
+      {
+        "id": "8075",
+        "label": "きよ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e5/8075_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8075",
+        "categorie": "person"
+      },
+      {
+        "id": "8076",
+        "label": "つゆ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/55/8076_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8076",
+        "categorie": "person"
+      },
+      {
+        "id": "8077",
+        "label": "きよ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/43/8077_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8077",
+        "categorie": "person"
+      },
+      {
+        "id": "8078",
+        "label": "来生洋子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/41/8078_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8078",
+        "categorie": "person"
+      },
+      {
+        "id": "8085",
+        "label": "都丸誠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/11/8085_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8085",
+        "categorie": "person"
+      },
+      {
+        "id": "8086",
+        "label": "新二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/22/8086_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8086",
+        "categorie": "person"
+      },
+      {
+        "id": "8088",
+        "label": "鉄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/2e/8088_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8088",
+        "categorie": "person"
+      },
+      {
+        "id": "8093",
+        "label": "水谷せり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/18/8093_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8093",
+        "categorie": "person"
+      },
+      {
+        "id": "8094",
+        "label": "蓮江保靖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/6f/8094_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8094",
+        "categorie": "person"
+      },
+      {
+        "id": "8096",
+        "label": "蓮江美鈴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/5a/8096_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8096",
+        "categorie": "person"
+      },
+      {
+        "id": "8104",
+        "label": "小牧公彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/78/8104_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8104",
+        "categorie": "person"
+      },
+      {
+        "id": "8106",
+        "label": "内藤源造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/74/8106_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8106",
+        "categorie": "person"
+      },
+      {
+        "id": "8107",
+        "label": "丸山将司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/06/8107_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8107",
+        "categorie": "person"
+      },
+      {
+        "id": "8108",
+        "label": "丸山貴美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/b0/8108_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8108",
+        "categorie": "person"
+      },
+      {
+        "id": "8109",
+        "label": "尾崎茂樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/0d/8109_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8109",
+        "categorie": "person"
+      },
+      {
+        "id": "8110",
+        "label": "尾崎温子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/b9/8110_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8110",
+        "categorie": "person"
+      },
+      {
+        "id": "8111",
+        "label": "飯合誠一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/41/8111_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8111",
+        "categorie": "person"
+      },
+      {
+        "id": "8113",
+        "label": "飯合蛍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/41/8113_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8113",
+        "categorie": "person"
+      },
+      {
+        "id": "8114",
+        "label": "露木泰嗣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/0f/8114_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8114",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "8105",
+        "label": "小牧聪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/7d/8105_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8105",
+        "categorie": "person"
+      },
+      {
+        "id": "7462",
+        "label": "仙太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/10/7462_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7462",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1855",
+        "label": "哀木涕",
+        "info": "性格胆小，贪财，见利忘义",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/e0/1855_xH65n.jpg",
+        "link": "https://bgm.tv/character/1855",
+        "categorie": "person"
+      },
+      {
+        "id": "1856",
+        "label": "傻馒",
+        "info": "正直，勇敢，偶尔恶搞下，贪吃",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/94/1856_z0af0.jpg",
+        "link": "https://bgm.tv/character/1856",
+        "categorie": "person"
+      },
+      {
+        "id": "1857",
+        "label": "劣人",
+        "info": "自大，贪婪，弱智",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/54/1857_yIhAY.jpg",
+        "link": "https://bgm.tv/character/1857",
+        "categorie": "person"
+      },
+      {
+        "id": "1858",
+        "label": "呆贼",
+        "info": "傻，傻，傻，还是傻",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/fd/1858_AFzba.jpg",
+        "link": "https://bgm.tv/character/1858",
+        "categorie": "person"
+      },
+      {
+        "id": "1859",
+        "label": "法丝",
+        "info": "和盜賊有一拼，不怕死，是個人妖",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/7d/1859_I300z.jpg",
+        "link": "https://bgm.tv/character/1859",
+        "categorie": "person"
+      },
+      {
+        "id": "1860",
+        "label": "小的",
+        "info": "神棍，总挣不到钱的奸商",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/c5/1860_28c2e.jpg",
+        "link": "https://bgm.tv/character/1860",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

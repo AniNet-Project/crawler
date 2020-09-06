@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24907",
+        "label": "土方岁三",
+        "info": "新选组副长。指挥组织摸样无情残酷，令其他队员不寒而栗、敬为鬼神。 实际上是个非常看重队员的人，曾经想尽一切办法不让铁之助拿刀而被铁之助怨念，实际上是不愿意让这麼小这麼纯洁的孩子被血玷污，变得冷酷。对总司一直抱有对不起的态度。因为土方在总司九岁时让他选择拿刀杀人的道路，觉得非常对不起总司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/c7/24907_crt_cFLZI.jpg",
+        "link": "https://bgm.tv/character/24907",
+        "categorie": "person"
+      },
+      {
+        "id": "24908",
+        "label": "市村铁之助",
+        "info": "为本作主人公。为了替双亲报仇而进入新选组，为副长土方岁三的小性，莽撞的个性是其致命伤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/0c/24908_crt_5fWA5.jpg",
+        "link": "https://bgm.tv/character/24908",
+        "categorie": "person"
+      },
+      {
+        "id": "24909",
+        "label": "冲田总司",
+        "info": "新撰组第一队队长。剑术可谓队内第一把好手。非常理解铁之助。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/a9/24909_crt_w9mF7.jpg",
+        "link": "https://bgm.tv/character/24909",
+        "categorie": "person"
+      },
+      {
+        "id": "24910",
+        "label": "山崎烝",
+        "info": "新选组监察。是队内负责四处奔走收集情报的密探。真面目仍有许多不明之处。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/47/24910_crt_OLTCx.jpg",
+        "link": "https://bgm.tv/character/24910",
+        "categorie": "person"
+      },
+      {
+        "id": "25113",
+        "label": "北村铃",
+        "info": "将吉田稔磨奉为尊师的长洲藩士。亲哥哥遭新选组杀害，亡兄的佩刀是他唯一的纪念。 因一次偶遇和铁之助相识并且成了朋友，虽然平时总吵架但其实非常关心彼此。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/53/25113_crt_mZS3w.jpg",
+        "link": "https://bgm.tv/character/25113",
+        "categorie": "person"
+      },
+      {
+        "id": "11202",
+        "label": "青蛾中将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/39/11202_crt_jqjKF.jpg",
+        "link": "https://bgm.tv/character/11202",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

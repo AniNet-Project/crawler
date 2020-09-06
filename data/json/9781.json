@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10564",
+        "label": "维多利加·德·布洛瓦",
+        "info": "被认为是‘灰狼’【一种高度智慧的狼，据说可以与人交谈，智慧过人】後裔，平日里在圣玛格利特学院图书馆塔上方的植物园中，同时阅读著大量的图书，是拥有“智慧之泉”的少女。喜爱甜点，总被人误认为是陶瓷娃娃。常把不明的谜团叫做‘混沌’。事件的线索叫做‘混沌的碎片’。大多数事件很早其实就知道结果，只是因为嫌麻烦，别人要求其‘语言化’时代价是很高的，但是只有一弥可以无限的去要求。嘴上总是在贬低一弥，总称一弥为‘凡人’‘笨蛋’，但是还是很珍视一弥的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/06/10564_crt_W6Fz6.jpg?r=1392794331",
+        "link": "https://bgm.tv/character/10564",
+        "categorie": "person"
+      },
+      {
+        "id": "10565",
+        "label": "久城一弥",
+        "info": "来自东方岛国的留学生。性格温柔诚实，非常爱管闲事。总是担心维多利亚。而且维多利亚大多数的事件也是因为一弥才解释的，被布洛瓦警官称为‘所得到的恩惠，就像是从卑鄙的高利贷业者那里，毫无代价、不断取得大笔金钱一样，真是太奇怪又太不可思议了’，感情上有时很迟钝，总是不知道女孩子在想什么。虽然总是被维多利加贬低，但是也是很珍视维多利加的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/dc/10565_crt_xtBFj.jpg",
+        "link": "https://bgm.tv/character/10565",
+        "categorie": "person"
+      },
+      {
+        "id": "10568",
+        "label": "古雷温·德·布洛瓦",
+        "info": "贵族出身的警官。维多莉加同父异母的哥哥。非常讨厌去向维多利加寻求帮助，称维多利加的条件是【恶魔的要求】，钻头发型就是因为在成为警察之前为了救青梅竹马的恋人，拜托维多利加的代价。自从一弥出现之后，便借着一弥的面子，解决了很多事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/7f/10568_crt_oTvKo.jpg",
+        "link": "https://bgm.tv/character/10568",
+        "categorie": "person"
+      },
+      {
+        "id": "11474",
+        "label": "艾薇儿·布莱德利",
+        "info": "一弥的同年级同学，英国留学生，著名探险家萨·布莱德利的孙女。特征是剪短的金发和修长的手足。对一弥抱有好感。很喜欢怪谈，也喜欢戏弄听到怪谈时的一弥并让他发出悲鸣。也被卷入了入学时发生的事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/c8/11474_crt_lQZYK.jpg?r=1537544901",
+        "link": "https://bgm.tv/character/11474",
+        "categorie": "person"
+      },
+      {
+        "id": "11475",
+        "label": "赛西尔",
+        "info": "一弥与维多利加班上的级任老师，童颜身材矮小，特征是大大的圆框眼镜与轻飘飘的浅黑色头发。是圣玛格丽特学园的毕业生。对学生十分照顾，但有点不可靠。遇到恐怖的事情时，常常把眼镜丢下就跑走了，但没有眼镜的话基本上是什么事都做不了的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/03/11475_crt_xiffx.jpg",
+        "link": "https://bgm.tv/character/11475",
+        "categorie": "person"
+      },
+      {
+        "id": "11476",
+        "label": "柯蒂丽亚·盖洛",
+        "info": "神秘人物。维多利加的母亲。因为被诬陷谋杀了村长被赶出村子。维多利加的金币项链即为母亲被逐出村子时施舍的一枚金币。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/fc/11476_crt_cS4fY.jpg",
+        "link": "https://bgm.tv/character/11476",
+        "categorie": "person"
+      },
+      {
+        "id": "11583",
+        "label": "布莱恩·罗斯可",
+        "info": "魔术师，神秘人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/5b/11583_crt_t0Avz.jpg",
+        "link": "https://bgm.tv/character/11583",
+        "categorie": "person"
+      },
+      {
+        "id": "11627",
+        "label": "苏菲",
+        "info": "舍监。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/2c/11627_crt_EpQ2P.jpg",
+        "link": "https://bgm.tv/character/11627",
+        "categorie": "person"
+      },
+      {
+        "id": "11903",
+        "label": "奎亚那二世",
+        "info": "假扮准备要就读学院的艾微儿，进入学院是为了拿走奎亚那一世的收藏品，后来被逮捕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/66/11903_crt_50435.jpg",
+        "link": "https://bgm.tv/character/11903",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

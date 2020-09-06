@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12439",
+        "label": "哈特",
+        "info": "被食草类恐龙养大的霸王龙，小时侯一直受到母亲的疼爱而和哥哥莱特无忧无虑地成长，后为了救莱特而咬掉了霸王龙萨贡的尾巴而意识到自己是食肉系，从而离家出走，为了生存而将自己锻炼成了足以破坏荒原规矩的家伙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ab/12439_crt_5gLt6.jpg",
+        "link": "https://bgm.tv/character/12439",
+        "categorie": "person"
+      },
+      {
+        "id": "12440",
+        "label": "很美味",
+        "info": "哈特所发现的刚刚孵化的红色小甲龙，因为睁开眼第一个看到的是哈特而将它当作自己的父亲，并因哈特所说的”你好象很美味啊“以为自己的是很美味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/44/12440_crt_QOarE.jpg?r=1403776849",
+        "link": "https://bgm.tv/character/12440",
+        "categorie": "person"
+      },
+      {
+        "id": "12444",
+        "label": "妈妈",
+        "info": "将哈特抚养长大的食草性恐龙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/26/12444_crt_uUjdU.jpg",
+        "link": "https://bgm.tv/character/12444",
+        "categorie": "person"
+      },
+      {
+        "id": "12447",
+        "label": "莱特",
+        "info": "哈特的哥哥，妈妈亲生的食草系恐龙，与哈特一起长大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/ca/12447_crt_pY5ee.jpg",
+        "link": "https://bgm.tv/character/12447",
+        "categorie": "person"
+      },
+      {
+        "id": "12454",
+        "label": "萨贡",
+        "info": "和哈特有着无法斩断的孽缘的悲剧霸王龙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/16/12454_crt_c3PSC.jpg",
+        "link": "https://bgm.tv/character/12454",
+        "categorie": "person"
+      },
+      {
+        "id": "12455",
+        "label": "老别肯",
+        "info": "背负着红色果实的年老霸王龙，因为太老了已经无法捕食，而依靠其他年轻的霸王龙和背上的红色果实过活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/05/12455_crt_m3EVF.jpg",
+        "link": "https://bgm.tv/character/12455",
+        "categorie": "person"
+      },
+      {
+        "id": "12457",
+        "label": "贝洛贝洛",
+        "info": "西边海中的海龙，喜欢用舌头舔来舔去的有些古怪的家伙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/7c/12457_crt_dUsKF.jpg",
+        "link": "https://bgm.tv/character/12457",
+        "categorie": "person"
+      },
+      {
+        "id": "12453",
+        "label": "巴克",
+        "info": "大型霸王龙，平原的霸主，维系着平原上的规则的霸王龙领袖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/a8/12453_crt_QncUO.jpg",
+        "link": "https://bgm.tv/character/12453",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

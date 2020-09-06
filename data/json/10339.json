@@ -1,0 +1,245 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10755",
+        "label": "奥村燐",
+        "info": "背负着魔神撒旦之血统的15岁少年，外表看似粗暴，实际性格温和开朗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/c9/10755_crt_GQKkQ.jpg",
+        "link": "https://bgm.tv/character/10755",
+        "categorie": "person"
+      },
+      {
+        "id": "10757",
+        "label": "奥村雪男",
+        "info": "燐的双胞胎弟弟，才华卓越的天才少年驱魔师，性格温和认真，将来的志向是当医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/91/10757_crt_hxYTX.jpg",
+        "link": "https://bgm.tv/character/10757",
+        "categorie": "person"
+      },
+      {
+        "id": "10758",
+        "label": "杜山诗惠美",
+        "info": "在驱魔用品店驱魔屋工作的少女，暗恋雪男，喜欢种植花草，性格相当天然，然而却有过一段黑历史。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/db/10758_crt_C9lc5.jpg",
+        "link": "https://bgm.tv/character/10758",
+        "categorie": "person"
+      },
+      {
+        "id": "13464",
+        "label": "雾隐修拉",
+        "info": "正十字骑士团的上一级驱魔师，狮郎的弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/19/13464_crt_XsLD1.jpg",
+        "link": "https://bgm.tv/character/13464",
+        "categorie": "person"
+      },
+      {
+        "id": "13466",
+        "label": "胜吕龙士",
+        "info": "虽然有着像是不良少年的野性外形，实际上是成绩优秀性格认真的努力家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/d6/13466_crt_9rgEv.jpg",
+        "link": "https://bgm.tv/character/13466",
+        "categorie": "person"
+      },
+      {
+        "id": "13465",
+        "label": "志摩廉造",
+        "info": "以粉色的头发为特征的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/d2/13465_crt_gK6na.jpg",
+        "link": "https://bgm.tv/character/13465",
+        "categorie": "person"
+      },
+      {
+        "id": "13467",
+        "label": "三轮子猫丸",
+        "info": "胜吕龙士的父亲的弟子。与胜吕和志摩一同上京，成为了驱魔塾的塾生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/0f/13467_crt_0988D.jpg",
+        "link": "https://bgm.tv/character/13467",
+        "categorie": "person"
+      },
+      {
+        "id": "13461",
+        "label": "神木出云",
+        "info": "驱魔塾塾生的少女。性格强硬，说白了就是性格傲娇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/18/13461_crt_r9Zxx.jpg",
+        "link": "https://bgm.tv/character/13461",
+        "categorie": "person"
+      },
+      {
+        "id": "13463",
+        "label": "小黑",
+        "info": "曾经是作为蚕神被人们祭祀着的猫又。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ef/13463_crt_x46yH.jpg",
+        "link": "https://bgm.tv/character/13463",
+        "categorie": "person"
+      },
+      {
+        "id": "13462",
+        "label": "藤本狮郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/c0/13462_crt_aigae.jpg",
+        "link": "https://bgm.tv/character/13462",
+        "categorie": "person"
+      },
+      {
+        "id": "12918",
+        "label": "梅菲斯特·菲雷斯",
+        "info": "自称是藤本狮郎的朋友的谜男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/e9/12918_crt_mgl4e.jpg",
+        "link": "https://bgm.tv/character/12918",
+        "categorie": "person"
+      },
+      {
+        "id": "13311",
+        "label": "阿玛依蒙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/8a/13311_crt_dYJYl.jpg",
+        "link": "https://bgm.tv/character/13311",
+        "categorie": "person"
+      },
+      {
+        "id": "32431",
+        "label": "アーサー・オーギュスト・エンジェル",
+        "info": "現「聖騎士（パラディン）」。ヴァチカン本部勤務の上一級祓魔師。シュラの上司。イギリス人。30歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/36/32431_crt_2TgBg.jpg?r=1431329397",
+        "link": "https://bgm.tv/character/32431",
+        "categorie": "person"
+      },
+      {
+        "id": "32430",
+        "label": "イゴール・ネイガウス",
+        "info": "祓魔塾講師（魔法円・印章術担当）。上一級祓魔師。取得称号は手騎士・医工騎士・詠唱騎士。39歳。アニメではポーランド出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/fa/32430_crt_b2C6W.jpg?r=1431329228",
+        "link": "https://bgm.tv/character/32430",
+        "categorie": "person"
+      },
+      {
+        "id": "32439",
+        "label": "白鳥 零二",
+        "info": "不良グループのリーダー。燐が面接に行く途中、悪魔に憑依された姿で現れ彼を襲うが、獅郎に倒された",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/fe/32439_crt_EEJvR.jpg?r=1431330976",
+        "link": "https://bgm.tv/character/32439",
+        "categorie": "person"
+      },
+      {
+        "id": "32442",
+        "label": "小尼",
+        "info": "诗惠美的使魔。绿男的幼体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/45/32442_crt_tQjGJ.jpg?r=1431331285",
+        "link": "https://bgm.tv/character/32442",
+        "categorie": "person"
+      },
+      {
+        "id": "32440",
+        "label": "朴 朔子",
+        "info": "出雲の親友にして、彼女の最大の理解者。おおらかで優しい性格の持ち主。出雲に連れられ祓魔塾に入るが、周囲についていけず、途中で塾を辞める。現在は高校のみ通いながら、出雲やしえみと交流している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/80/32440_crt_LS545.jpg",
+        "link": "https://bgm.tv/character/32440",
+        "categorie": "person"
+      },
+      {
+        "id": "32444",
+        "label": "椿 薫",
+        "info": "祓魔塾講師（体育・実技担当）。中級祓魔師の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/1d/32444_crt_UI2Of.jpg",
+        "link": "https://bgm.tv/character/32444",
+        "categorie": "person"
+      },
+      {
+        "id": "32445",
+        "label": "汤之川进",
+        "info": "驱魔塾讲师。以一头天然卷、眼镜、以及络腮胡为特征的男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/82/32445_crt_xbDd8.jpg?r=1490631024",
+        "link": "https://bgm.tv/character/32445",
+        "categorie": "person"
+      },
+      {
+        "id": "32429",
+        "label": "宝音无",
+        "info": "驱魔塾塾生的少年。操使着布偶与腹话术。基本上不与塾生们交流，也极少用自己的本音说话。性格高慢的毒舌，手骑士志愿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/32/32429_crt_1o11l.jpg?r=1431328742",
+        "link": "https://bgm.tv/character/32429",
+        "categorie": "person"
+      },
+      {
+        "id": "32443",
+        "label": "御馔津&保食",
+        "info": "出云的使魔。两只白狐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/18/32443_crt_1k1Tb.jpg",
+        "link": "https://bgm.tv/character/32443",
+        "categorie": "person"
+      },
+      {
+        "id": "32432",
+        "label": "三贤者",
+        "info": "正十字騎士團最高顧問。顔を隠した3人の人物。女性の声をしたカスパール、男性の声をしたバルタザール、老人の声をしたメルキオールの3人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/0b/32432_crt_F7m99.jpg",
+        "link": "https://bgm.tv/character/32432",
+        "categorie": "person"
+      },
+      {
+        "id": "32447",
+        "label": "佐藤",
+        "info": "祓魔塾講師。「情報管理部」所属。目の細い男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/28/32447_crt_f9Zeo.jpg?r=1431331920",
+        "link": "https://bgm.tv/character/32447",
+        "categorie": "person"
+      },
+      {
+        "id": "32446",
+        "label": "足立",
+        "info": "祓魔塾講師（悪魔歴史学担当）。メガネを掛けた禿頭の老年男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/e2/32446_crt_R7r3w.jpg?r=1431331782",
+        "link": "https://bgm.tv/character/32446",
+        "categorie": "person"
+      },
+      {
+        "id": "36846",
+        "label": "吉国",
+        "info": "铸剑娘，魔剑俱利伽罗打造者的传人，第十一代目",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/a5/36846_crt_7g6ec.jpg",
+        "link": "https://bgm.tv/character/36846",
+        "categorie": "person"
+      },
+      {
+        "id": "32438",
+        "label": "ブルギニョン",
+        "info": "アーサーの部下の祓魔師。スキンヘッドで眼鏡を掛けている。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32438",
+        "categorie": "person"
+      },
+      {
+        "id": "32433",
+        "label": "尤莉·艾金",
+        "info": "燐和雪男的母親，漫畫中只有被提到名字，動畫版則有登場，與撒旦生下他們後死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/fc/32433_crt_KOOYW.jpg?r=1447677470",
+        "link": "https://bgm.tv/character/32433",
+        "categorie": "person"
+      },
+      {
+        "id": "32434",
+        "label": "胜吕达摩",
+        "info": "龙士的父亲，明陀宗的现首领。没有加入正十字骑士团，故而没有驱魔师的称号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/3c/32434_crt_qExcy.jpg",
+        "link": "https://bgm.tv/character/32434",
+        "categorie": "person"
+      },
+      {
+        "id": "32441",
+        "label": "サタン",
+        "info": "虚無界に住む悪魔の創造主。燐の実の父親。物質界を手に入れることを目的とし、たびたび物質界に来ては人間に取り憑いている。しかし物質界にはサタンの憑依に対応しうる物質が存在しないため、一度取り憑かれると人間は体が持たず、すぐに崩壊してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/3c/32441_crt_yqeqc.jpg?r=1490672381",
+        "link": "https://bgm.tv/character/32441",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57305",
+        "label": "灶门炭治郎",
+        "info": "本作主人公。初登场13岁，现年15岁。鬼杀队剑士，癸级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/1e/57305_crt_vdvM5.jpg?r=1555512641",
+        "link": "https://bgm.tv/character/57305",
+        "categorie": "person"
+      },
+      {
+        "id": "57306",
+        "label": "灶门祢豆子",
+        "info": "炭治郎的妹妹。初登场12岁，现年14岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/f6/57306_crt_tgSd8.jpg?r=1555576340",
+        "link": "https://bgm.tv/character/57306",
+        "categorie": "person"
+      },
+      {
+        "id": "57307",
+        "label": "我妻善逸",
+        "info": "炭治郎同期的鬼杀队剑士，癸级。16岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/e4/57307_crt_6v4rS.jpg?r=1555512852",
+        "link": "https://bgm.tv/character/57307",
+        "categorie": "person"
+      },
+      {
+        "id": "57308",
+        "label": "嘴平伊之助",
+        "info": "炭治郎同期的鬼杀队剑士，癸级。15岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/a4/57308_crt_ZB4hQ.jpg?r=1555512920",
+        "link": "https://bgm.tv/character/57308",
+        "categorie": "person"
+      },
+      {
+        "id": "57309",
+        "label": "富冈义勇",
+        "info": "水柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/b6/57309_crt_8Tehz.jpg?r=1569685012",
+        "link": "https://bgm.tv/character/57309",
+        "categorie": "person"
+      },
+      {
+        "id": "57310",
+        "label": "蝴蝶忍",
+        "info": "虫柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/76/57310_crt_xogBr.jpg?r=1570336636",
+        "link": "https://bgm.tv/character/57310",
+        "categorie": "person"
+      },
+      {
+        "id": "57311",
+        "label": "炼狱杏寿郎",
+        "info": "炎柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/c8/57311_crt_OOxzM.jpg?r=1569685045",
+        "link": "https://bgm.tv/character/57311",
+        "categorie": "person"
+      },
+      {
+        "id": "57312",
+        "label": "栗花落香奈乎",
+        "info": "炭治郎同期的鬼杀队女剑士。脸上总是带着笑容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/03/57312_crt_54Z6u.jpg?r=1571134256",
+        "link": "https://bgm.tv/character/57312",
+        "categorie": "person"
+      },
+      {
+        "id": "57313",
+        "label": "宇髓天元",
+        "info": "音柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/f5/57313_crt_kKd1C.jpg?r=1569685077",
+        "link": "https://bgm.tv/character/57313",
+        "categorie": "person"
+      },
+      {
+        "id": "57314",
+        "label": "产屋敷耀哉",
+        "info": "柱所侍奉的主公，脸部以上有着严重伤害，双眼失明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/ea/57314_crt_TPfdF.jpg?r=1503586424",
+        "link": "https://bgm.tv/character/57314",
+        "categorie": "person"
+      },
+      {
+        "id": "57315",
+        "label": "甘露寺蜜璃",
+        "info": "恋柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/5b/57315_crt_5kK5K.jpg?r=1569685113",
+        "link": "https://bgm.tv/character/57315",
+        "categorie": "person"
+      },
+      {
+        "id": "57316",
+        "label": "悲鸣屿行冥",
+        "info": "岩柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/fb/57316_crt_ShVpv.jpg?r=1569685135",
+        "link": "https://bgm.tv/character/57316",
+        "categorie": "person"
+      },
+      {
+        "id": "57317",
+        "label": "时透无一郎",
+        "info": "霞柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/0b/57317_crt_5Qe19.jpg?r=1569685169",
+        "link": "https://bgm.tv/character/57317",
+        "categorie": "person"
+      },
+      {
+        "id": "57318",
+        "label": "伊黑小芭内",
+        "info": "蛇柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/66/57318_crt_Fz3yP.jpg?r=1569685205",
+        "link": "https://bgm.tv/character/57318",
+        "categorie": "person"
+      },
+      {
+        "id": "57319",
+        "label": "不死川实弥",
+        "info": "风柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/2d/57319_crt_DM1fd.jpg?r=1569685215",
+        "link": "https://bgm.tv/character/57319",
+        "categorie": "person"
+      },
+      {
+        "id": "57321",
+        "label": "鳞泷左近次",
+        "info": "带着天狗面具，隐居于雾狭山的培育师。炭治郎和富冈的师傅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/f1/57321_crt_08IXE.jpg?r=1503587389",
+        "link": "https://bgm.tv/character/57321",
+        "categorie": "person"
+      },
+      {
+        "id": "57322",
+        "label": "胡蝶香奈惠",
+        "info": "胡蝶忍的姐姐，前花柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/73/57322_crt_At77F.jpg?r=1569685678",
+        "link": "https://bgm.tv/character/57322",
+        "categorie": "person"
+      },
+      {
+        "id": "57323",
+        "label": "鬼舞辻无惨",
+        "info": "杀害炭治郎的家人并把祢豆子变成鬼的仇人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/b5/57323_crt_Zt4Ja.jpg?r=1503587911",
+        "link": "https://bgm.tv/character/57323",
+        "categorie": "person"
+      },
+      {
+        "id": "57324",
+        "label": "珠世",
+        "info": "存活二百年以上的鬼。自力摆脱了鬼舞辻的咒缚、与其为敌，被其手下的鬼称作“逃亡者”而追踪，与俞史郎隐藏于血鬼术结界之中躲避。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/a3/57324_crt_MWmVd.jpg?r=1503588036",
+        "link": "https://bgm.tv/character/57324",
+        "categorie": "person"
+      },
+      {
+        "id": "57325",
+        "label": "俞史郎",
+        "info": "跟在珠世身旁的鬼，也是被她变成鬼的人。脾气暴躁，不怎么喜欢炭治郎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/53/57325_crt_hIYh2.jpg?r=1503588131",
+        "link": "https://bgm.tv/character/57325",
+        "categorie": "person"
+      },
+      {
+        "id": "57326",
+        "label": "累",
+        "info": "血鬼术是“蜘蛛丝”，像蜘蛛精一样可以使出比日轮刀还要坚硬的丝线，也可以把能力分享给其他的鬼使用，令炭治郎陷入苦战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/06/57326_crt_SuU4d.jpg?r=1503588165",
+        "link": "https://bgm.tv/character/57326",
+        "categorie": "person"
+      },
+      {
+        "id": "69514",
+        "label": "锖兔",
+        "info": "粉色中长发、嘴角有一道伤疤的神秘少年，戴着嘴角有伤痕的狐狸面具。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/c7/69514_crt_T9qJk.jpg",
+        "link": "https://bgm.tv/character/69514",
+        "categorie": "person"
+      },
+      {
+        "id": "69515",
+        "label": "真菰",
+        "info": "黑色中长发的神秘少女，戴着额头有花朵图案的狐狸面具。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/99/69515_crt_sa8HH.jpg?r=1554025129",
+        "link": "https://bgm.tv/character/69515",
+        "categorie": "person"
+      },
+      {
+        "id": "69516",
+        "label": "不死川玄弥",
+        "info": "岩柱·悲鸣屿行冥的继子，炭治郎参加鬼杀队最终试验时合格的五名同期生之一。同时也是风柱·不死川实弥的大弟，但不死川否认自己有弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/0a/69516_crt_q2JER.jpg?r=1554025230",
+        "link": "https://bgm.tv/character/69516",
+        "categorie": "person"
+      },
+      {
+        "id": "69517",
+        "label": "产屋敷辉利哉",
+        "info": "产屋敷家长男，耀哉之子及其继任者，以八岁之龄成为产屋敷当主。与姐姐们外貌相似，但头发是黑发。产屋敷家族的男孩子通常体弱多病，在十三岁之前都会当成女生来养育。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/6e/69517_crt_y3xXO.jpg",
+        "link": "https://bgm.tv/character/69517",
+        "categorie": "person"
+      },
+      {
+        "id": "69518",
+        "label": "产屋敷彼方",
+        "info": "产屋敷家幺女双胞胎，辉利哉、雏衣、日香的妹妹。遗传自母亲的白发及容貌，右侧带有紫藤花的发饰。在炭治郎等人在参加最终选拔时担任主考官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/62/69518_crt_XUUJ1.jpg",
+        "link": "https://bgm.tv/character/69518",
+        "categorie": "person"
+      },
+      {
+        "id": "69519",
+        "label": "钢铁冢萤",
+        "info": "原作初登场:第9话/年龄:37岁/喜欢的食物:御手洗团子",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/a9/69519_crt_jJn7U.jpg?r=1554025789",
+        "link": "https://bgm.tv/character/69519",
+        "categorie": "person"
+      },
+      {
+        "id": "69520",
+        "label": "鎹鸦",
+        "info": "用于与鬼杀队总部联系的乌鸦。各队员都附有一只，但不知为何只有善逸是麻雀。拥有极高智商，会用人语复述传令，也能够自我意识的对话。虽然从外表上看是无法区分的，但是各自的性格都不同。例如炭治郎的鎹鸦就非常啰嗦，偶尔也会说些与任务无关的八卦话题。善逸的麻雀虽然不会说人话，但是却炭治郎听得懂。伊之助也有一只，不过因为好几次都差点被吃掉而跑去躲起来了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/12/69520_crt_suaGg.jpg?r=1554025894",
+        "link": "https://bgm.tv/character/69520",
+        "categorie": "person"
+      },
+      {
+        "id": "69521",
+        "label": "佛堂鬼",
+        "info": "炭治郎在弥豆子之外第一次遇到的吃人鬼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ae/69521_crt_4pZF4.jpg",
+        "link": "https://bgm.tv/character/69521",
+        "categorie": "person"
+      },
+      {
+        "id": "69522",
+        "label": "手鬼",
+        "info": "身体缠绕大量手腕的异形鬼，47年前在江户时代被鳞泷捕捉并封印在最终试炼的场所中顽强地生存着，吃了50个人。因为憎恨抓住自己的鳞泷，于是以鳞泷所雕刻的消灾狐面为目标，杀害他的13位弟子，对自己坚硬的脖子非常有自信。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/bd/69522_crt_ZmE5r.jpg",
+        "link": "https://bgm.tv/character/69522",
+        "categorie": "person"
+      },
+      {
+        "id": "69963",
+        "label": "沼鬼",
+        "info": "穿着忍者般的服装的长发鬼，拥有分裂和将目标拖入沼泽空间的血鬼术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/09/69963_crt_NDaay.jpg?r=1557055402",
+        "link": "https://bgm.tv/character/69963",
+        "categorie": "person"
+      },
+      {
+        "id": "69964",
+        "label": "矢琶羽",
+        "info": "箭头鬼，鬼舞辻的部下，外表为闭着眼睛，有着重度洁癖的神经质青年，血鬼术为“红洁之箭”，利用手掌上的眼珠操纵一般人无法看见的箭纹攻击对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/ce/69964_crt_P5R2U.jpg?r=1557055484",
+        "link": "https://bgm.tv/character/69964",
+        "categorie": "person"
+      },
+      {
+        "id": "69965",
+        "label": "朱纱丸",
+        "info": "手鞠鬼，鬼舞辻的部下，外表为穿着服的短发童女，以玩弄对手为乐，操纵手中的不断增加手鞠攻击，威力大到足以破坏建筑物，甚至可以利用矢琶羽的血鬼术任意改变手鞠的移动轨道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b4/69965_crt_8Vjg3.jpg?r=1557055547",
+        "link": "https://bgm.tv/character/69965",
+        "categorie": "person"
+      },
+      {
+        "id": "70692",
+        "label": "响凯",
+        "info": "原“下弦之陆”，鼓鬼，双肩、双腿、背部、腹部黏着大鼓的原下弦之陆，因为食人的能力日渐退化而被鬼舞辻剥夺数字，为重回这个位置而不断找寻拥有“稀血”的人类（吃下一个稀血的人类就等同于吃人五十甚至一百个人类）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/06/70692_crt_UVgOo.jpg?r=1561790421",
+        "link": "https://bgm.tv/character/70692",
+        "categorie": "person"
+      },
+      {
+        "id": "70768",
+        "label": "蜘蛛の鬼(母)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/fb/70768_crt_2OZtp.jpg?r=1562458866",
+        "link": "https://bgm.tv/character/70768",
+        "categorie": "person"
+      },
+      {
+        "id": "70769",
+        "label": "蜘蛛の鬼(兄)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/82/70769_crt_No8EQ.jpg?r=1562458913",
+        "link": "https://bgm.tv/character/70769",
+        "categorie": "person"
+      },
+      {
+        "id": "70770",
+        "label": "蜘蛛の鬼(父)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e5/70770_crt_17Igi.jpg?r=1562458953",
+        "link": "https://bgm.tv/character/70770",
+        "categorie": "person"
+      },
+      {
+        "id": "70771",
+        "label": "蜘蛛の鬼(姉)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/99/70771_crt_4jjd4.jpg?r=1562459025",
+        "link": "https://bgm.tv/character/70771",
+        "categorie": "person"
+      },
+      {
+        "id": "71345",
+        "label": "桑岛慈悟郎",
+        "info": "教导善逸和狯岳雷之呼吸的培育者，鬼杀队前任鸣柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/48/71345_crt_DbQnM.jpg",
+        "link": "https://bgm.tv/character/71345",
+        "categorie": "person"
+      },
+      {
+        "id": "71720",
+        "label": "神崎葵",
+        "info": "鬼杀队士，年纪约16岁，佩戴蝴蝶发饰的双马尾少女。胡蝶屋的护理人员，会严格管理不守规矩的病患，甚至连好色的善逸都相当惧怕她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/1f/71720_crt_eiYFq.jpg?r=1567982965",
+        "link": "https://bgm.tv/character/71720",
+        "categorie": "person"
+      },
+      {
+        "id": "72009",
+        "label": "下弦之一",
+        "info": "十二鬼月之下弦一",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/c5/72009_crt_QwyN2.jpg?r=1569758213",
+        "link": "https://bgm.tv/character/72009",
+        "categorie": "person"
+      },
+      {
+        "id": "72010",
+        "label": "下弦之二",
+        "info": "十二鬼月之下弦二",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/23/72010_crt_6PFEE.jpg",
+        "link": "https://bgm.tv/character/72010",
+        "categorie": "person"
+      },
+      {
+        "id": "72011",
+        "label": "下弦之三",
+        "info": "十二鬼月之下弦三",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/9b/72011_crt_TGTx8.jpg",
+        "link": "https://bgm.tv/character/72011",
+        "categorie": "person"
+      },
+      {
+        "id": "72012",
+        "label": "下弦之四",
+        "info": "十二鬼月之下弦四",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/1f/72012_crt_WXxmx.jpg?r=1569758385",
+        "link": "https://bgm.tv/character/72012",
+        "categorie": "person"
+      },
+      {
+        "id": "72013",
+        "label": "下弦之六",
+        "info": "十二鬼月之下弦六",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/83/72013_crt_2BpBp.jpg",
+        "link": "https://bgm.tv/character/72013",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14401",
+        "label": "汤姆",
+        "info": "总是闪着机会主义的光芒，弓着腰在一旁等待机会出击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/bb/14401_crt_JciHA.jpg",
+        "link": "https://bgm.tv/character/14401",
+        "categorie": "person"
+      },
+      {
+        "id": "14402",
+        "label": "杰瑞",
+        "info": "总是用挑逗的眼神看着你，并且常常在不经意期间玩弄这只猫。世界上最有名的猫和老鼠，也是最长寿的一对——它们已经整整存活了70年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/d1/14402_crt_1BReR.jpg",
+        "link": "https://bgm.tv/character/14402",
+        "categorie": "person"
+      },
+      {
+        "id": "24335",
+        "label": "斯派克",
+        "info": "Spike, the neighborhood bulldog, is always foiling Tom's schemes to capture Jerry. Spike is sympathetic to Jerry, but mostly he considers Tom a nuisance and is happy for the excuse to pummel him.",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/0e/24335_crt_0jUOo.jpg",
+        "link": "https://bgm.tv/character/24335",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

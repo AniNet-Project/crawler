@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19630",
+        "label": "鸭子君",
+        "info": "飛べないけれど、いつも前向き、ちょっと天然でのんびり屋の主人公。おしりのくるくる巻き毛がチャームポイント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/a5/19630_crt_EPmP3.jpg",
+        "link": "https://bgm.tv/character/19630",
+        "categorie": "person"
+      },
+      {
+        "id": "19631",
+        "label": "乌林鸮大叔",
+        "info": "カラフトフクロウのカラフトおじさん。物腰は紳士的だが、まぎれもなく猛禽類。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/d2/19631_crt_6lo6t.jpg",
+        "link": "https://bgm.tv/character/19631",
+        "categorie": "person"
+      },
+      {
+        "id": "19632",
+        "label": "野鸭",
+        "info": "暖かい場所への旅の途中、あひるくんの住む島に立ち寄った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/29/19632_crt_HZ8PQ.jpg",
+        "link": "https://bgm.tv/character/19632",
+        "categorie": "person"
+      },
+      {
+        "id": "19634",
+        "label": "知更鸟",
+        "info": "オレンジ色の頭と首、明るいサエズリが特徴のコマドリ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/74/19634_crt_F5ffM.jpg",
+        "link": "https://bgm.tv/character/19634",
+        "categorie": "person"
+      },
+      {
+        "id": "19635",
+        "label": "绿鹭",
+        "info": "水辺で魚やカエルなどを待ち伏せ、首を伸ばして獲る。木の葉などを疑似餌に使う事もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/65/19635_crt_MJ9JM.jpg",
+        "link": "https://bgm.tv/character/19635",
+        "categorie": "person"
+      },
+      {
+        "id": "19636",
+        "label": "鸽子",
+        "info": "この物語では恋の模様（メスにふられるオスのハトくん）が描かれているが、ハトの恋の季節は春から夏の暖かい季節が中心で、ほぼ一年中らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/90/19636_crt_MD1d2.jpg",
+        "link": "https://bgm.tv/character/19636",
+        "categorie": "person"
+      },
+      {
+        "id": "19637",
+        "label": "大白鹭",
+        "info": "サギの仲間で最も大きく、長いくちばし、首、足をもつ。夏はくちばしが黒く、目元は緑青色。冬はくちばし・目元共に黄色になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/cf/19637_crt_pKp4p.jpg",
+        "link": "https://bgm.tv/character/19637",
+        "categorie": "person"
+      },
+      {
+        "id": "19638",
+        "label": "小白鹭",
+        "info": "シラサギの仲間では最小。夏は頭部に2本の長い羽・「冠羽」（かんう）、背中には飾り羽が生えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/ed/19638_crt_I6bhU.jpg",
+        "link": "https://bgm.tv/character/19638",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

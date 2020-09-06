@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6515",
+        "label": "白滨兼一",
+        "info": "タイプ：静",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/52/6515_crt_eGp2W.jpg?r=1363836199",
+        "link": "https://bgm.tv/character/6515",
+        "categorie": "person"
+      },
+      {
+        "id": "17373",
+        "label": "风林寺美羽",
+        "info": "タイプ：動",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/f3/17373_crt_37PV7.jpg?r=1363836210",
+        "link": "https://bgm.tv/character/17373",
+        "categorie": "person"
+      },
+      {
+        "id": "7446",
+        "label": "阿帕查·波帕查",
+        "info": "タイプ：動",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/51/7446_crt_T3PxB.jpg?r=1363836223",
+        "link": "https://bgm.tv/character/7446",
+        "categorie": "person"
+      },
+      {
+        "id": "7448",
+        "label": "逆鬼至绪",
+        "info": "タイプ：動",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/de/7448_crt_uc97e.jpg?r=1363836243",
+        "link": "https://bgm.tv/character/7448",
+        "categorie": "person"
+      },
+      {
+        "id": "7449",
+        "label": "香坂時雨",
+        "info": "「剣と兵器の申し子」の異名を持つ香坂流武器術の達人。一人称は「ボク」。年齢不詳（推定十代後半から二十代前半）の美女。身長159cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/77/7449_crt_7LD88.jpg?r=1363836236",
+        "link": "https://bgm.tv/character/7449",
+        "categorie": "person"
+      },
+      {
+        "id": "17374",
+        "label": "风林寺隼人",
+        "info": "梁山泊の長老。美羽の祖父。「無敵超人」の異名を持つ我流の達人。一人称は「わし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/ab/17374_crt_78AlH.jpg?r=1363836217",
+        "link": "https://bgm.tv/character/17374",
+        "categorie": "person"
+      },
+      {
+        "id": "17375",
+        "label": "岬越寺秋雨",
+        "info": "タイプ：静",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/83/17375_crt_3k0ou.jpg?r=1363836230",
+        "link": "https://bgm.tv/character/17375",
+        "categorie": "person"
+      },
+      {
+        "id": "17376",
+        "label": "马剑星",
+        "info": "「あらゆる中国拳法の達人」の異名を持つ中国拳法の達人（特A級）。41歳。3月21日生まれ。身長158cm。体重53kg。一人称は「おいちゃん」。語尾に「〜ね」と付ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/89/17376_crt_7z6A8.jpg?r=1363836073",
+        "link": "https://bgm.tv/character/17376",
+        "categorie": "person"
+      },
+      {
+        "id": "17377",
+        "label": "闘忠丸",
+        "info": "しぐれの相棒と言うべきネズミ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/29/17377_crt_70kgx.jpg",
+        "link": "https://bgm.tv/character/17377",
+        "categorie": "person"
+      },
+      {
+        "id": "17378",
+        "label": "梁山泊",
+        "info": "武術を極めた達人や、スポーツ化した武道になじめない豪傑達が住む道場。また、武術界における活人拳の象徴とされている。本来は長老・風林寺隼人を含め7人の達人が所属しているが、美羽の父であり\"闇\"の一影でもある風林寺砕牙が梁山泊を離れており現在の達人は6人。 弟子クラスの兼一と美羽を含め8人が住む大所帯だが、弟子は兼一1人だけであり、武術指南による収入は無いに等しい。経済状況は常に崖っぷちかそれに準ずるものであるが、武術指南以外の定収入が無いわけではなく美羽のやりくりでなんとか持っているが、一度は財政破綻に陥ったこともあった。そのため、たまに来る道場破りや表沙汰にできない秘密裏の依頼は貴重な収入源である。建物は老朽化して古色蒼然としているが正門は恐ろしいほどに重く、並みの人間には開けることさえできない。梁山泊の裏庭は非常に広く、さらにアパチャイが掘り当てた温泉まで私設となっており、風呂費用節約に大いに貢献している。建物は道場のある母屋と兼一や師匠達の部屋がある離れがある。自作木造船「赤兎馬2号」と隼人が発見し、勝手に命名した無人島「風林寺島」及びログハウス風の別荘を私有している。入門には長老である風林寺隼人の承認が絶対条件となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/8b/17378_crt_CDihr.jpg",
+        "link": "https://bgm.tv/character/17378",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

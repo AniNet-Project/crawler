@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75910",
+        "label": "巴隆",
+        "info": "猫咪事务所的巴隆男爵。被赋予灵魂的陶瓷猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/2b/75910_crt_xYLxi.jpg",
+        "link": "https://bgm.tv/character/75910",
+        "categorie": "person"
+      },
+      {
+        "id": "28119",
+        "label": "月牙",
+        "info": "猫の国の王子。恋人（恋猫）のユキが好きだったお魚型のクッキーを探し人間界に来ていて、車に轢かれそうになったところをハルに救われる。猫王を反面教師にしてきたため、父親と違い誠実で真面目な性格をしている。父親と同じ色のオッドアイ。終盤にユキにプロポーズする。原作では映画とは違い、マイペースな性格である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/9a/28119_crt_CcEE1.jpg",
+        "link": "https://bgm.tv/character/28119",
+        "categorie": "person"
+      },
+      {
+        "id": "75911",
+        "label": "ムタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/04/75911_crt_xX3S3.jpg",
+        "link": "https://bgm.tv/character/75911",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27171",
+        "label": "ジョーカー",
+        "info": "世界中のお宝を狙う《ミラクルメイカー》の異名を持つ怪盗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/e5/27171_crt_o1M8E.jpg?r=1420415791",
+        "link": "https://bgm.tv/character/27171",
+        "categorie": "person"
+      },
+      {
+        "id": "27172",
+        "label": "ハチ",
+        "info": "ジョーカーの助手。ちょっとドジな新人ドロボウ。忍者の里で生まれ育ったにもかかわらず、ドジなせいで落ちこぼれだった。のんびりした性格だが誰よりも正義感が強く、優しく義理と人情に熱い。少し頼りないところもあるがジョーカーをしっかりサポートしている。家事が得意で、料理はシェフ顔負けの腕前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/23/27172_crt_Qzqvz.jpg?r=1420415817",
+        "link": "https://bgm.tv/character/27172",
+        "categorie": "person"
+      },
+      {
+        "id": "27173",
+        "label": "スペード",
+        "info": "ジョーカーのライバル。さまざまな情報を集め、研究し、計画をたてる几帳面な性格。ジョーカーとは違う部分でプライドが高く、ナルシストな面もある。時に冷たい言葉で人を遠ざけることもあるが、一度認めた相手に対しての情は深い。ハシャギすぎると熱をだしてしまうことも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/94/27173_crt_b1eBh.jpg?r=1420415850",
+        "link": "https://bgm.tv/character/27173",
+        "categorie": "person"
+      },
+      {
+        "id": "27174",
+        "label": "クイーン",
+        "info": "シルバーハートの孫で、ジョーカーやスペードと共に怪盗の修行した女怪盗。元気でお転婆、明るく細かいことは気にしない性格。正義感が強いがゆえに、お節介になってしまうこともある。料理は苦手だが、刃物を使うのは得意。シルバーハートに憧れ、世界中のお宝を集めて冒険することが夢だったが…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/4f/27174_crt_Pg1P1.jpg?r=1420415892",
+        "link": "https://bgm.tv/character/27174",
+        "categorie": "person"
+      },
+      {
+        "id": "27175",
+        "label": "シルバーハート",
+        "info": "ジョーカー、スペード、クイーンの師匠。《銀の魔術師》と呼ばれる伝説の怪盗。天才怪盗だが、基本的に面倒くさがりで大ざっぱな性格。決める時は決めるが肝心なときにぎっくり腰によくなる。実は、ジョーカーたちの弟子を実の子供や孫のように大切に思っているが、照れ屋さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ef/27175_crt_kZkw2.jpg?r=1420415910",
+        "link": "https://bgm.tv/character/27175",
+        "categorie": "person"
+      },
+      {
+        "id": "27176",
+        "label": "ロコ",
+        "info": "真面目な性格で礼儀正しい怪盗犬。クイーンのことが好き。あぶなっかしい彼女を助けることも多い。七歳だが、いろいろと大人。歴史や世界の情報にも詳しく頭もよい。よくクイーンたち三人の無鉄砲さにあきれている。大声でコンクリートを破壊するほどの力を持つが、オンチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/61/27176_crt_DDdWx.jpg?r=1420415932",
+        "link": "https://bgm.tv/character/27176",
+        "categorie": "person"
+      },
+      {
+        "id": "27177",
+        "label": "鬼山毒三郎",
+        "info": "警視庁怪盗対策本部長。ジョーカーを捕まえるのが生きがいで、日本のみならず世界をまたにかけ、しつようにジョーカーを追いかけている。妻と娘のハルカには頭があがらず、休みの日にはよく買い物に連れ出されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/9c/27177_crt_WCWbz.jpg?r=1420415947",
+        "link": "https://bgm.tv/character/27177",
+        "categorie": "person"
+      },
+      {
+        "id": "28715",
+        "label": "シャドウ・ジョーカー",
+        "info": "ジョーカーにそっくりな謎の男。《ブラッディレイン》という武器を愛用している。大胆なところや子供っぽくわがままなところもジョーカーと似ているが、凶暴で残酷な性格。低血圧で朝が苦手。満月の夜はテンションがあがるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/d0/28715_crt_7WK3K.jpg?r=1420416213",
+        "link": "https://bgm.tv/character/28715",
+        "categorie": "person"
+      },
+      {
+        "id": "31447",
+        "label": "ダーク・アイ",
+        "info": "従順なスペードの助手。常に冷静沈着。スペードの事を一番理解していると思っている。料理の腕前はハチに負けず劣らず。その正体は謎に包まれている…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/6d/31447_crt_C6DDo.jpg?r=1509367839",
+        "link": "https://bgm.tv/character/31447",
+        "categorie": "person"
+      },
+      {
+        "id": "65662",
+        "label": "金有先生",
+        "info": "ゴールド・グループ代表。大金持ち。お宝を盗みに来た怪盗を倒すための罠や仕掛けにお金をほとんど使ってしまうような、しつこい性格。ただいまお嫁さんを募集中の独身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/d9/65662_crt_8zTU3.jpg?r=1534675990",
+        "link": "https://bgm.tv/character/65662",
+        "categorie": "person"
+      },
+      {
+        "id": "65663",
+        "label": "黑崎银子",
+        "info": "鬼山警部の部下。元F1ドライバーで、運転の速さは警察の中でナンバー1！怪盗を逮捕するために、パトカーを改造している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/11/65663_crt_2en6V.jpg?r=1534676323",
+        "link": "https://bgm.tv/character/65663",
+        "categorie": "person"
+      },
+      {
+        "id": "65664",
+        "label": "白井 モモ",
+        "info": "鬼山警部の部下。元特殊部隊SATの隊員で、トンファーを愛用している。ギンコとは小学校からのコンビ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/6f/65664_crt_E8KkF.jpg?r=1534676512",
+        "link": "https://bgm.tv/character/65664",
+        "categorie": "person"
+      },
+      {
+        "id": "65665",
+        "label": "カネ子",
+        "info": "ミスター金有の秘書。金有を献身的に支え、ジョーカーを捕まえるために積極的に罠をしかけジョーカーを待ち受けることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/8f/65665_crt_RRdXa.jpg?r=1534676680",
+        "link": "https://bgm.tv/character/65665",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

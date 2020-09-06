@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6497",
+        "label": "杰·富力士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/c9/6497_crt_0XOoy.jpg",
+        "link": "https://bgm.tv/character/6497",
+        "categorie": "person"
+      },
+      {
+        "id": "6550",
+        "label": "奇犽·揍敌客",
+        "info": "猎人。第288期猎人试验唯一合格者。变化系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ae/6550_crt_raIg7.jpg",
+        "link": "https://bgm.tv/character/6550",
+        "categorie": "person"
+      },
+      {
+        "id": "18521",
+        "label": "碧斯凯特·库鲁加",
+        "info": "变化系能力者。二星猎人，宝石猎人。外表虽然是个小女孩，实际上是57岁、魁梧壮硕的高大女性。因为讨厌原本的样子，所以将自己变为小女孩。为云古的师父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/dd/18521_crt_lZkex.jpg",
+        "link": "https://bgm.tv/character/18521",
+        "categorie": "person"
+      },
+      {
+        "id": "5073",
+        "label": "西索",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/24/5073_crt_lzlSg.jpg",
+        "link": "https://bgm.tv/character/5073",
+        "categorie": "person"
+      },
+      {
+        "id": "6551",
+        "label": "酷拉皮卡",
+        "info": "猎人。第287期猎人试验合格者。平时为具现化系能力者，当眼睛呈火红色时为特质系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/24/6551_crt_1jOw1.jpg",
+        "link": "https://bgm.tv/character/6551",
+        "categorie": "person"
+      },
+      {
+        "id": "8873",
+        "label": "米特",
+        "info": "杰的姑姑，金的堂妹。像母亲一样抚养杰长大。在鲸鱼岛经营小酒店。在法庭上把杰的抚养权从金手上抢来。奇犽憧憬的理想母亲。厌恶杀生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/85/8873_crt_5SvI6.jpg",
+        "link": "https://bgm.tv/character/8873",
+        "categorie": "person"
+      },
+      {
+        "id": "14097",
+        "label": "雷欧力",
+        "info": "《全职猎人》主角之一，虽然个性冲莽撞，有时会斤斤计较，其实心地却很善良、重情义，外表看起来比实际年龄老许多。他生病的朋友皮耶多因手术费用太高而无法就医，最后病死。为了有钱当上医生且免费医好那些和他朋友生同样病的人，雷欧力参加猎人试验成为猎人，与一同参加试验的小杰、酷拉皮卡、奇犽成为朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/fc/14097_crt_cv0s1.jpg",
+        "link": "https://bgm.tv/character/14097",
+        "categorie": "person"
+      },
+      {
+        "id": "75603",
+        "label": "果列奴",
+        "info": "职业猎人，操作系能力者。G‧I絕茲絕拉组，原为单打独斗的玩家，絕茲絕拉的考选会合格者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/fe/75603_crt_COBbZ.jpg",
+        "link": "https://bgm.tv/character/75603",
+        "categorie": "person"
+      },
+      {
+        "id": "75604",
+        "label": "甘舒",
+        "info": "具现化系能力者。特征是戴眼镜，性格残忍无情，行事谨慎但相当卑鄙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/92/75604_crt_wUuKt.jpg",
+        "link": "https://bgm.tv/character/75604",
+        "categorie": "person"
+      },
+      {
+        "id": "75616",
+        "label": "磊札",
+        "info": "G‧I游戏制作人\"R\"。放出系能力者。负责贪婪之岛放出系的系统，咒语的移动及排除外敌，有把尝试用不正当手法进入游戏的人驱逐的专用卡，曾以此将渡海来到贪婪之岛的幻影旅团赶出岛外。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/28/75616_crt_YRrJ1.jpg",
+        "link": "https://bgm.tv/character/75616",
+        "categorie": "person"
+      },
+      {
+        "id": "75664",
+        "label": "飞坦·博通",
+        "info": "幻影旅团团员，团员编号No.2。变化系能力者。28岁，身高155cm，体重45kg，血型不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/58/75664_crt_7xPB7.jpg",
+        "link": "https://bgm.tv/character/75664",
+        "categorie": "person"
+      },
+      {
+        "id": "75672",
+        "label": "芬克斯·马格加布",
+        "info": "幻影旅团团员，团员编号No.5。强化系能力者。身高185cm，体重85kg，血型AB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/7a/75672_crt_U4kSA.jpg",
+        "link": "https://bgm.tv/character/75672",
+        "categorie": "person"
+      },
+      {
+        "id": "75676",
+        "label": "侠客",
+        "info": "幻影旅团团员，团员编号No.6。操作系能力者。身高180cm，体重72kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b0/75676_crt_1P1kH.jpg",
+        "link": "https://bgm.tv/character/75676",
+        "categorie": "person"
+      },
+      {
+        "id": "75680",
+        "label": "小滴·紫",
+        "info": "幻影旅团团员，团员编号No.8。具现化系能力者。身高160cm，体重45kg，血型O型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/1b/75680_crt_VIsei.jpg",
+        "link": "https://bgm.tv/character/75680",
+        "categorie": "person"
+      },
+      {
+        "id": "75683",
+        "label": "库哔",
+        "info": "幻影旅团团员，团员编号No.12。具现化系能力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/31/75683_crt_XilVl.jpg",
+        "link": "https://bgm.tv/character/75683",
+        "categorie": "person"
+      },
+      {
+        "id": "75599",
+        "label": "绝兹绝拉",
+        "info": "一星猎人，赏金猎人。擅于运用念的攻防移动，但战斗直觉和身体能力因太久没作基础训练而未处在应有的水平。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/32/75599_crt_0yoYO.jpg",
+        "link": "https://bgm.tv/character/75599",
+        "categorie": "person"
+      },
+      {
+        "id": "75679",
+        "label": "富兰克林·博尔多",
+        "info": "幻影旅团团员，团员编号No.7。放出系能力者。身高219cm，体重225kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/93/75679_crt_jIiLa.jpg",
+        "link": "https://bgm.tv/character/75679",
+        "categorie": "person"
+      },
+      {
+        "id": "27039",
+        "label": "凯特",
+        "info": "生物调查的猎人。金的弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/6d/27039_crt_vtxs2.jpg",
+        "link": "https://bgm.tv/character/27039",
+        "categorie": "person"
+      },
+      {
+        "id": "65700",
+        "label": "信长·哈查马",
+        "info": "幻影旅团团员，团员编号No.1。强化系能力者。31岁，身高183cm，体重75kg，血型B型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/48/65700_crt_ndNnU.jpg?r=1535004893",
+        "link": "https://bgm.tv/character/65700",
+        "categorie": "person"
+      },
+      {
+        "id": "71584",
+        "label": "柯特·揍敌客",
+        "info": "揍敌客家五兄弟排行老幺、席巴的五子。操作系能力者。经常穿着女装和服行动。有着喜欢玩弄猎物的习惯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/c5/71584_crt_S3m9m.jpg",
+        "link": "https://bgm.tv/character/71584",
+        "categorie": "person"
+      },
+      {
+        "id": "75583",
+        "label": "莱特·诺斯拉",
+        "info": "黑帮諾斯拉家族的老大。本来是地方上的一个小头目，靠着女儿妮翁的占卜能力，爬到仅次于十老头一级的高层职位，因此常被其他黑帮的人看不起，但他自认为成功的重点在于掌握了未来的情报。妮翁失去了占卜能力之后，使他陷入疯狂与绝望。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/4d/75583_crt_bgyR3.jpg",
+        "link": "https://bgm.tv/character/75583",
+        "categorie": "person"
+      },
+      {
+        "id": "75584",
+        "label": "妮翁‧诺斯拉",
+        "info": "特质系能力者。黑帮諾斯拉家族的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/79/75584_crt_B2BPF.jpg",
+        "link": "https://bgm.tv/character/75584",
+        "categorie": "person"
+      },
+      {
+        "id": "75600",
+        "label": "巴力",
+        "info": "职业猎人。G‧I絕茲絕拉组，在攻略“一坪的海岸线”的运动比赛中，以拳击的项目获得一胜。之后在与甘舒交战时突然得知巴特拉临时取消委托，因此退出游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/d3/75600_crt_MhCjN.jpg",
+        "link": "https://bgm.tv/character/75600",
+        "categorie": "person"
+      },
+      {
+        "id": "75601",
+        "label": "洛多利透",
+        "info": "职业猎人，特征是皮肤黝黑。G‧I絕茲絕拉组，在攻略“一坪的海岸线”的运动比赛中，以保龄球的项目获得一胜。之后在与甘舒交战时突然得知巴特拉临时取消委托，因此退出游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/a3/75601_crt_nNqVW.jpg",
+        "link": "https://bgm.tv/character/75601",
+        "categorie": "person"
+      },
+      {
+        "id": "75602",
+        "label": "凯四",
+        "info": "职业猎人，具现化系能力者。G‧I絕茲絕拉组，在攻略“一坪的海岸线”的运动比赛中，以篮球的项目获得一胜。在絕茲絕拉组与炸弹魔三人组的游击战对抗中，他的雷达能力发挥了重要的效果。之后在与甘舒交战时突然得知巴特拉临时取消委托，因此退出游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/74/75602_crt_67dn0.jpg",
+        "link": "https://bgm.tv/character/75602",
+        "categorie": "person"
+      },
+      {
+        "id": "75605",
+        "label": "巴拉",
+        "info": "G‧I炸弹魔组，外型为黑色长发的男子。在与小杰一行三人的决斗中，追击比司吉并与其战斗。被恢复原型的比司吉打飞出去而受到重伤。后来在甘舒的要求下，小杰利用“大天使的气息”将他治疗痊愈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d8/75605_crt_Ezn5S.jpg",
+        "link": "https://bgm.tv/character/75605",
+        "categorie": "person"
+      },
+      {
+        "id": "75606",
+        "label": "沙布",
+        "info": "G‧I炸弹魔组，外型为黄色短发、眯眯眼。在与小杰一行三人的决斗中，与奇犽作战，虽然基础实力强过奇犽，但被奇犽以电击配合溜溜球的策略打败。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/72/75606_crt_je619.jpg",
+        "link": "https://bgm.tv/character/75606",
+        "categorie": "person"
+      },
+      {
+        "id": "75607",
+        "label": "尼肯斯",
+        "info": "G‧I破关集团组，破关集团的初始成员之一。对于将G‧I破关有着相当缜密的计划，是最初邀请小杰与奇犽加入的人，但是被小杰拒绝。和其他成员一样身体被甘舒装上炸弹，为了伙伴们的性命决定将所有收集来的卡片都交出去，但被甘舒等人违背承诺用“解放”引爆炸弹而死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/89/75607_crt_5vOS2.jpg",
+        "link": "https://bgm.tv/character/75607",
+        "categorie": "person"
+      },
+      {
+        "id": "75608",
+        "label": "阿本加聶",
+        "info": "除念师，具现化系能力者。外型为一个黑人。G‧I破关集团成员，絕茲絕拉的考选会合格者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ca/75608_crt_NU7Bz.jpg",
+        "link": "https://bgm.tv/character/75608",
+        "categorie": "person"
+      },
+      {
+        "id": "75610",
+        "label": "吉士杷",
+        "info": "G‧I破关集团组，破关集团的初始成员之一，集团中的头号战斗员。甘舒表明炸弹魔身份时第一时间上前攻击，却反遭甘舒的“一撮火药”攻击而重伤，在交涉完成前就已经死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/4e/75610_crt_lO3po.jpg",
+        "link": "https://bgm.tv/character/75610",
+        "categorie": "person"
+      },
+      {
+        "id": "75611",
+        "label": "阿萨姆",
+        "info": "G‧I破关集团组，破关集团的初始成员之一。曾与尼肯斯他们一起在广场邀请新人加入，他对于奖金较为执著，在有人提议放弃卡片给炸弹魔时，他还与之起口角。后来被甘舒等人用“解放”引爆炸弹而死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/1b/75611_crt_xbnSM.jpg",
+        "link": "https://bgm.tv/character/75611",
+        "categorie": "person"
+      },
+      {
+        "id": "75614",
+        "label": "空大奇",
+        "info": "G‧I破关集团组，外表特征是爆炸头。在将“离开”交给炸弹魔等人时，被巴拉狠狠揍了一拳。后来被甘舒等人用“解放”引爆炸弹而死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/dc/75614_crt_kO1K7.jpg",
+        "link": "https://bgm.tv/character/75614",
+        "categorie": "person"
+      },
+      {
+        "id": "75617",
+        "label": "艾莲娜",
+        "info": "G‧I游戏制作人\"E\"，与另一制作人依妲是双胞胎。待在出岛的唯一港口，负责把人送出岛外及进行破关的手续等。被金要求设定为如果破关者使用“磁力”的话就飞去他那里，如果使用“同行”的话就飞去凯特那里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/f8/75617_crt_F7PYl.jpg",
+        "link": "https://bgm.tv/character/75617",
+        "categorie": "person"
+      },
+      {
+        "id": "75618",
+        "label": "依妲",
+        "info": "G‧I游戏制作人\"E\"，与另一制作人艾蓮娜是双胞胎。待在进入岛内的起始地点，负责进岛的游戏说明和关于NO.000的出题。曾察觉到旅团入侵岛内而通知磊札处理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/6f/75618_crt_uYVwb.jpg",
+        "link": "https://bgm.tv/character/75618",
+        "categorie": "person"
+      },
+      {
+        "id": "75620",
+        "label": "李四特",
+        "info": "职业猎人，金色头发的少年。G‧I游戏制作人\"L\"。与篤恩一起住在里美路的G‧I城，负责向破关的小杰作过关报酬的说明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/49/75620_crt_Py3l7.jpg",
+        "link": "https://bgm.tv/character/75620",
+        "categorie": "person"
+      },
+      {
+        "id": "75621",
+        "label": "波拨波",
+        "info": "身材肥胖的男子。在G‧I中被雇用来作为游戏角色的死刑犯，是守护指定卡片“一坪的海岸线”的海盗成员。被奇犽以酒和电击烧伤因而怀恨在心。后来因违反约定并起了反意及泄漏关于G‧I的秘密，遭到磊札以念球击毙身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7e/75621_crt_F5FZf.jpg",
+        "link": "https://bgm.tv/character/75621",
+        "categorie": "person"
+      },
+      {
+        "id": "75623",
+        "label": "海賊（ボクサー）",
+        "info": "G・Iにゲームキャラクターとして雇われた死刑囚。放出系能力者。能力 : 拳を瞬間移動させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/47/75623_crt_V8G6o.jpg",
+        "link": "https://bgm.tv/character/75623",
+        "categorie": "person"
+      },
+      {
+        "id": "75627",
+        "label": "摩塔利切",
+        "info": "G‧I玩家。因为能力不够，无法离开游戏好几年，已在游戏中结婚成家，还有稳定的工作，必须为负担家计而努力，在安多奇拔想要用卡片抢走奇犽和小杰获得的真实之剑拿去卖钱，最后虽然出手但失败。后来他又被炸弹魔三人组用炸弹来威胁并控制，帮他们用风险骰子和宝签来求取卡片，所幸并未丢到大凶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/ee/75627_crt_LLSPl.jpg",
+        "link": "https://bgm.tv/character/75627",
+        "categorie": "person"
+      },
+      {
+        "id": "75630",
+        "label": "加西塔‧贝拉木",
+        "info": "职业猎人，G‧I玩家，絕茲絕拉的考选会合格者，是一个用暴力手段达成目的而出名队伍。在小杰等人拿到“统治者的祝福”时，他们突然出现要抢夺卡片，结果两三下就被打倒。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/75630",
+        "categorie": "person"
+      },
+      {
+        "id": "75631",
+        "label": "戎次克‧贝拉木",
+        "info": "职业猎人，G‧I玩家，絕茲絕拉的考选会合格者，是一个用暴力手段达成目的而出名队伍。在小杰等人拿到“统治者的祝福”时，他们突然出现要抢夺卡片，结果两三下就被打倒。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/75631",
+        "categorie": "person"
+      },
+      {
+        "id": "75633",
+        "label": "贾自舒",
+        "info": "G‧I贾自舒组。曾成功抢夺小杰等人的“真实之剑”，后来筹组十五人小组，一起参与找寻“一坪的海岸线”，但挑战失败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/0f/75633_crt_Lrlz3.jpg",
+        "link": "https://bgm.tv/character/75633",
+        "categorie": "person"
+      },
+      {
+        "id": "75637",
+        "label": "雅士妲",
+        "info": "G‧I雅士妲组。十五人小组成员，她知道许多小杰他们不知道的游戏资讯，曾质疑小杰等人是否有足够的合作价值，一度与奇犽吵架赌气，其后一起参与找寻“一坪的海岸线”，但挑战失败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/66/75637_crt_dywBX.jpg",
+        "link": "https://bgm.tv/character/75637",
+        "categorie": "person"
+      },
+      {
+        "id": "75640",
+        "label": "梦陀",
+        "info": "G‧I牙比比组，放出系能力者。十五人小组成员，一起参与找寻“一坪的海岸线”，在拳击比赛中用大量的念弹攻击对手，但被瞬间移动的近身猛击一拳打中下颚落败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/8f/75640_crt_3rYJY.jpg",
+        "link": "https://bgm.tv/character/75640",
+        "categorie": "person"
+      },
+      {
+        "id": "75641",
+        "label": "杭杰",
+        "info": "G‧I杭杰组。十五人小组成员，一起参与找寻“一坪的海岸线”，但挑战失败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/b4/75641_crt_2nfSf.jpg",
+        "link": "https://bgm.tv/character/75641",
+        "categorie": "person"
+      },
+      {
+        "id": "75643",
+        "label": "杰荷",
+        "info": "G‧I杭杰组，强化系能力者。十五人小组成员，一起参与找寻“一坪的海岸线”，在泼波泼的相扑对战中自愿上场但落败，奇犽认为他光是发动这点程度的“练”就花费这么多时间，自己不用念能力就能打败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/a5/75643_crt_knayQ.jpg",
+        "link": "https://bgm.tv/character/75643",
+        "categorie": "person"
+      },
+      {
+        "id": "75667",
+        "label": "玛奇·柯玛琪娜",
+        "info": "幻影旅团团员，团员编号No.3。变化系能力者。身高159cm，体重48kg，血型A型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/3f/75667_crt_7fjtD.jpg",
+        "link": "https://bgm.tv/character/75667",
+        "categorie": "person"
+      },
+      {
+        "id": "75609",
+        "label": "普哈特",
+        "info": "G‧I破关集团成员，絕茲絕拉的考选会合格者，考选会上曾给小杰与奇犽建议，进入游戏后加入破关集团。和其他成员一样身体被甘舒装上炸弹，由于该集团对于是否要交出卡片给甘舒的决定上意见不合，他欲代表集团至G．I外与甘舒进行交涉，但被甘舒杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/d5/75609_crt_xgZPP.jpg",
+        "link": "https://bgm.tv/character/75609",
+        "categorie": "person"
+      },
+      {
+        "id": "75619",
+        "label": "笃恩",
+        "info": "职业猎人，外型脏乱的大叔。G‧I游戏制作人\"D\"。负责给予问答比赛以及破关奖励，住在里美路的G‧I城。小杰和奇犽他们在破关之后见到他，跟他聊到有关金的事情。为了配合游戏名称，被金强迫改变名字的拼音（Wdwune→Dwun），让他相当不满，但似乎因此运气变好，交到女朋友也变有钱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/92/75619_crt_NBj9v.jpg",
+        "link": "https://bgm.tv/character/75619",
+        "categorie": "person"
+      },
+      {
+        "id": "75624",
+        "label": "巴特拉",
+        "info": "是一个大富豪。在南匹斯拍卖会上买下了所有的贪婪之岛，花掉了总资产的一半。其目的是为了救回因交通事故陷入昏迷的情人。因而需要游戏中的宝物“大天使的气息”与“魔女的返老还童药”。其后雇用相当多的好手进入游戏替他破关，凡是成功破关的人，他将给予500亿戒尼的报酬。后来情人死亡，一切回天乏术，并取消了破关报酬，以350亿戒尼作为违约金。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/2d/75624_crt_R9Ijm.jpg",
+        "link": "https://bgm.tv/character/75624",
+        "categorie": "person"
+      },
+      {
+        "id": "75639",
+        "label": "牙比比",
+        "info": "G‧I牙比比组，年纪较大的男性。十五人小组成员，一起参与找寻“一坪的海岸线”，但挑战失败，后来被炸弹魔所杀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/16/75639_crt_BeMhP.jpg",
+        "link": "https://bgm.tv/character/75639",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

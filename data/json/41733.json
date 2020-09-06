@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13128",
+        "label": "基里科·丘比",
+        "info": "吉路加美什军士兵，配属“美鲁基亚”方面军，军衔为曹长（相当于上士）。曾配属于第24美鲁基亚方面軍战略机甲兵团特殊任务班X-1（通称“血色肩膀”，人称“吸血部队”）。没有10岁以前的清晰记忆，由于持续的激烈战斗，逐渐失去了作为人的情感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/02/13128_crt_5ne5p.jpg",
+        "link": "https://bgm.tv/character/13128",
+        "categorie": "person"
+      },
+      {
+        "id": "13142",
+        "label": "ATM-09-ST",
+        "info": "吉路加美什军开发的量产型AT。适应能力极高，上身背部可更换多种背包，适应各种不同的环境，包括宇宙降下用的“伞兵背包”(Parachute)，宇宙空间战斗用的“圆形移动背包”（Round Mover）以及长距离行军用的“任务背包”（Mission Pack）等多种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/24/13142_crt_4IT99.jpg",
+        "link": "https://bgm.tv/character/13142",
+        "categorie": "person"
+      },
+      {
+        "id": "13129",
+        "label": "菲娅娜",
+        "info": "吉路加美什军创造的“完美士兵”（PS）之一，年龄不明的神秘女性。军方称其为“原型一号”（Proto One）或“素体”，TV版中段开始基里科称其为“菲娅娜”，此名源于“火焰”（Fire），与主题歌“炎之命运”相照应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/7b/13129_crt_N1bLY.jpg",
+        "link": "https://bgm.tv/character/13129",
+        "categorie": "person"
+      },
+      {
+        "id": "13137",
+        "label": "让·保罗·洛奇那",
+        "info": "吉路加美什军情报军官，军衔是大尉。第1话中拷问基里科时被其逃脱，为了夺回完美士兵素体而追逐他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/cd/13137_crt_mYPOY.jpg",
+        "link": "https://bgm.tv/character/13137",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

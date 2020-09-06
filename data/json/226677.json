@@ -1,0 +1,717 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36543",
+        "label": "绿谷出久",
+        "info": "　　本作主角。1-A班男学生，出席编号18。毕业于市立折寺中学。有着一头绿色缩毛还有张不起眼的脸，双脸各有四颗雀斑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/bc/36543_crt_X88Zb.jpg?r=1469018127",
+        "link": "https://bgm.tv/character/36543",
+        "categorie": "person"
+      },
+      {
+        "id": "36786",
+        "label": "欧尔麦特",
+        "info": "　　有着如角般竖起的两根长毛，金发，肌肉发达的高大男性。变身状态是美漫画风，个性解除时身体会变得极端削瘦，头上的长毛会落下来，眼圈极深，唯独双眼炯炯有神，散发着自己作为“和平的象征”的矜持光辉。年龄不详。有着绝大人气的No.1英雄。口头禅是：“已经没事了！因为！我来了！”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/b6/36786_crt_8nrlu.jpg?r=1469018097",
+        "link": "https://bgm.tv/character/36786",
+        "categorie": "person"
+      },
+      {
+        "id": "36546",
+        "label": "爆豪胜己",
+        "info": "　　1-A班男学生，出席编号17。有着米黄色头髪和三白眼的男生，凶狠的眼神给人不良少年的感觉。出久的小时玩伴，被出久称为小胜。跟出久是同样是从市立折寺中学毕业的学生。梦想是成为超越欧尔麦特的英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/90/36546_crt_KIaea.jpg?r=1469018305",
+        "link": "https://bgm.tv/character/36546",
+        "categorie": "person"
+      },
+      {
+        "id": "36544",
+        "label": "丽日御茶子",
+        "info": "　　本作的女主角。1-A班女学生,出席编号9。留着茶色波波头的女生，人如其名有着开朗明亮的性格但讲话毒舌，曾吐槽来找出久吃饭的欧鲁麦特是少女。讲话会混带一点关西腔。因为不想要再让父母辛苦工作而立志成为英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/66/36544_crt_FX7R4.jpg?r=1469017890",
+        "link": "https://bgm.tv/character/36544",
+        "categorie": "person"
+      },
+      {
+        "id": "36545",
+        "label": "饭田天哉",
+        "info": "　　1-A班男学生兼1-A班班长。出席编号4。毕业于私立聪明中学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/cd/36545_crt_hI83r.jpg?r=1469017920",
+        "link": "https://bgm.tv/character/36545",
+        "categorie": "person"
+      },
+      {
+        "id": "36547",
+        "label": "轰焦冻",
+        "info": "　　1-A班的男学生。推荐入学者之一。鸳鸯眼。有着右半面是白色、左半面为红色的发型，左眼部分因为幼时被母亲用烧过的开水泼到而留下烫伤的伤痕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/2e/36547_crt_6hHek.jpg?r=1469017785",
+        "link": "https://bgm.tv/character/36547",
+        "categorie": "person"
+      },
+      {
+        "id": "39307",
+        "label": "耳郎响香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/11/39307_crt_9J5jQ.jpg?r=1469017082",
+        "link": "https://bgm.tv/character/39307",
+        "categorie": "person"
+      },
+      {
+        "id": "52804",
+        "label": "空灵鬼魂",
+        "info": "个性：？？",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/8c/52804_crt_XmhvG.jpg?r=1490467128",
+        "link": "https://bgm.tv/character/52804",
+        "categorie": "person"
+      },
+      {
+        "id": "67929",
+        "label": "翻修",
+        "info": "死秽八斋会的现任当家，对老组长非常忠心，由始至终的行动目的只有报恩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/39/67929_crt_Ikz4k.jpg?r=1545542829",
+        "link": "https://bgm.tv/character/67929",
+        "categorie": "person"
+      },
+      {
+        "id": "38933",
+        "label": "八百万百",
+        "info": "　　推荐入学者之一，1-A班女学生兼1-A班副班长。黑发并绑着高马尾的女生，身材是1-A女性中最好的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/bd/38933_crt_0zD9i.jpg?r=1469017445",
+        "link": "https://bgm.tv/character/38933",
+        "categorie": "person"
+      },
+      {
+        "id": "38935",
+        "label": "切岛锐儿郎",
+        "info": "　　1-A班男学生，与爆豪关系很好。入学考试仅次于爆豪，以39分的杀敌分和35分的救助分名列全校第二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/d7/38935_crt_M0dAI.jpg?r=1469017183",
+        "link": "https://bgm.tv/character/38935",
+        "categorie": "person"
+      },
+      {
+        "id": "38500",
+        "label": "蛙吹梅雨",
+        "info": "　　1-A的女学生。像是青蛙一样的黑发少女，在头发后端将部分头发绑成蝴蝶结的形状，有着椭圆形的大眼睛还有着青蛙般的长舌头。相当在意他人对她的称呼，常要求别人称呼为她为小梅雨，对同学间的称呼也会加小字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/be/38500_crt_7Ss66.jpg?r=1469017575",
+        "link": "https://bgm.tv/character/38500",
+        "categorie": "person"
+      },
+      {
+        "id": "38501",
+        "label": "峰田实",
+        "info": "　　1-A般男学生，有着如葡萄般的紫色头发，个头是A班中最矮小的，性格好色，相当喜欢女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/42/38501_crt_euUAZ.jpg?r=1469017476",
+        "link": "https://bgm.tv/character/38501",
+        "categorie": "person"
+      },
+      {
+        "id": "38934",
+        "label": "常暗踏阴",
+        "info": "　　1-A的男学生。在雄英的入学考试与出久在同个会场。战斗训练跟蛙吹同组。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/56/38934_crt_DHxMZ.jpg?r=1469017272",
+        "link": "https://bgm.tv/character/38934",
+        "categorie": "person"
+      },
+      {
+        "id": "38936",
+        "label": "上鸣电气",
+        "info": "　　1-A班男学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/e5/38936_crt_3Gh3V.jpg?r=1469017222",
+        "link": "https://bgm.tv/character/38936",
+        "categorie": "person"
+      },
+      {
+        "id": "39306",
+        "label": "青山优雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/32/39306_crt_4Qmbv.jpg?r=1469017125",
+        "link": "https://bgm.tv/character/39306",
+        "categorie": "person"
+      },
+      {
+        "id": "39308",
+        "label": "芦户三奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/a3/39308_crt_MHRJY.jpg?r=1469017038",
+        "link": "https://bgm.tv/character/39308",
+        "categorie": "person"
+      },
+      {
+        "id": "39309",
+        "label": "障子目藏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/a9/39309_crt_2Z5y7.jpg?r=1469016990",
+        "link": "https://bgm.tv/character/39309",
+        "categorie": "person"
+      },
+      {
+        "id": "39679",
+        "label": "尾白猿夫",
+        "info": "5月28日生、身高169cm、喜歡的東西是武術。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/c1/39679_crt_or8Ot.jpg?r=1469016916",
+        "link": "https://bgm.tv/character/39679",
+        "categorie": "person"
+      },
+      {
+        "id": "39680",
+        "label": "濑吕范太",
+        "info": "7月28日生、身高177cm、喜歡的東西是橘子、大豆等對身體有益的食物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/24/39680_crt_3o394.jpg?r=1469016811",
+        "link": "https://bgm.tv/character/39680",
+        "categorie": "person"
+      },
+      {
+        "id": "39681",
+        "label": "叶隐透",
+        "info": "6月16日生、身高152cm、喜歡的事物是焦糖、整人節目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/fa/39681_crt_dpffL.jpg?r=1469016742",
+        "link": "https://bgm.tv/character/39681",
+        "categorie": "person"
+      },
+      {
+        "id": "39682",
+        "label": "砂藤力道",
+        "info": "1-A班男學生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/78/39682_crt_R7BZB.jpg?r=1469016667",
+        "link": "https://bgm.tv/character/39682",
+        "categorie": "person"
+      },
+      {
+        "id": "39683",
+        "label": "口田甲司",
+        "info": "1-A班学生，话不多的沉默的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/cf/39683_crt_qFFAB.jpg?r=1469016638",
+        "link": "https://bgm.tv/character/39683",
+        "categorie": "person"
+      },
+      {
+        "id": "39684",
+        "label": "相泽消太",
+        "info": "11月8日生、身高183cm、30歳、喜歡的事物是貓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/47/39684_crt_mMFN0.jpg?r=1469016582",
+        "link": "https://bgm.tv/character/39684",
+        "categorie": "person"
+      },
+      {
+        "id": "60736",
+        "label": "曼德勒猫",
+        "info": "个性：心电感应",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/9c/60736_crt_8Kn81.jpg?r=1517838254",
+        "link": "https://bgm.tv/character/60736",
+        "categorie": "person"
+      },
+      {
+        "id": "60745",
+        "label": "布偶猫",
+        "info": "个性：探查",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/10/60745_crt_fYFmB.jpg?r=1517847997",
+        "link": "https://bgm.tv/character/60745",
+        "categorie": "person"
+      },
+      {
+        "id": "60746",
+        "label": "老虎",
+        "info": "个性：软体",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/1f/60746_crt_E4J0s.jpg?r=1517848295",
+        "link": "https://bgm.tv/character/60746",
+        "categorie": "person"
+      },
+      {
+        "id": "60747",
+        "label": "北美洲短毛猫",
+        "info": "个性：流土",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/5c/60747_crt_z1P2r.jpg?r=1517848572",
+        "link": "https://bgm.tv/character/60747",
+        "categorie": "person"
+      },
+      {
+        "id": "60748",
+        "label": "出水洸汰",
+        "info": "曼德勒猫的侄子。对“英雄”持有着否定的感情…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/29/60748_crt_TpxZ0.jpg?r=1517848933",
+        "link": "https://bgm.tv/character/60748",
+        "categorie": "person"
+      },
+      {
+        "id": "32493",
+        "label": "拳藤一佳",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/fa/32493_crt_tjucq.jpg?r=1485078172",
+        "link": "https://bgm.tv/character/32493",
+        "categorie": "person"
+      },
+      {
+        "id": "32494",
+        "label": "铁哲彻铁",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/51/32494_crt_7qw8p.jpg?r=1485082206",
+        "link": "https://bgm.tv/character/32494",
+        "categorie": "person"
+      },
+      {
+        "id": "50341",
+        "label": "盐崎茨",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/d8/50341_crt_rVKV0.jpg?r=1486373164",
+        "link": "https://bgm.tv/character/50341",
+        "categorie": "person"
+      },
+      {
+        "id": "50342",
+        "label": "物间宁人",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/a2/50342_crt_E4chC.jpg?r=1486375005",
+        "link": "https://bgm.tv/character/50342",
+        "categorie": "person"
+      },
+      {
+        "id": "52094",
+        "label": "骨拔柔造",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/a0/52094_crt_oC6vF.jpg?r=1488811094",
+        "link": "https://bgm.tv/character/52094",
+        "categorie": "person"
+      },
+      {
+        "id": "52095",
+        "label": "庄田二连击",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/e1/52095_crt_in0h0.jpg?r=1488811328",
+        "link": "https://bgm.tv/character/52095",
+        "categorie": "person"
+      },
+      {
+        "id": "52096",
+        "label": "泡濑洋雪",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/9f/52096_crt_El15m.jpg?r=1488811555",
+        "link": "https://bgm.tv/character/52096",
+        "categorie": "person"
+      },
+      {
+        "id": "52097",
+        "label": "圆场硬成",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/88/52097_crt_3t14t.jpg?r=1488811790",
+        "link": "https://bgm.tv/character/52097",
+        "categorie": "person"
+      },
+      {
+        "id": "52098",
+        "label": "回原旋",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/5d/52098_crt_jA8Sm.jpg?r=1488812051",
+        "link": "https://bgm.tv/character/52098",
+        "categorie": "person"
+      },
+      {
+        "id": "52099",
+        "label": "凡户固次郎",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/d9/52099_crt_B2irU.jpg?r=1488814171",
+        "link": "https://bgm.tv/character/52099",
+        "categorie": "person"
+      },
+      {
+        "id": "52100",
+        "label": "柳灵子",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/80/52100_crt_v5ht2.jpg?r=1488814572",
+        "link": "https://bgm.tv/character/52100",
+        "categorie": "person"
+      },
+      {
+        "id": "52101",
+        "label": "宍田兽郎太",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/1b/52101_crt_bI315.jpg?r=1488815710",
+        "link": "https://bgm.tv/character/52101",
+        "categorie": "person"
+      },
+      {
+        "id": "52102",
+        "label": "黑色支配",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/2f/52102_crt_GXGdS.jpg?r=1488816223",
+        "link": "https://bgm.tv/character/52102",
+        "categorie": "person"
+      },
+      {
+        "id": "52103",
+        "label": "小大唯",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/70/52103_crt_na0za.jpg?r=1488817106",
+        "link": "https://bgm.tv/character/52103",
+        "categorie": "person"
+      },
+      {
+        "id": "52104",
+        "label": "鳞飞龙",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/78/52104_crt_5f0hl.jpg?r=1488817449",
+        "link": "https://bgm.tv/character/52104",
+        "categorie": "person"
+      },
+      {
+        "id": "52105",
+        "label": "小森希乃子",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/ff/52105_crt_pK2r2.jpg?r=1488818099",
+        "link": "https://bgm.tv/character/52105",
+        "categorie": "person"
+      },
+      {
+        "id": "52106",
+        "label": "镰切尖",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/18/52106_crt_50939.jpg?r=1488818258",
+        "link": "https://bgm.tv/character/52106",
+        "categorie": "person"
+      },
+      {
+        "id": "52107",
+        "label": "角取宝莉",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/bf/52107_crt_Wt9hb.jpg?r=1488818487",
+        "link": "https://bgm.tv/character/52107",
+        "categorie": "person"
+      },
+      {
+        "id": "52108",
+        "label": "取荫切奈",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/90/52108_crt_2zayS.jpg?r=1488818701",
+        "link": "https://bgm.tv/character/52108",
+        "categorie": "person"
+      },
+      {
+        "id": "52109",
+        "label": "吹出漫我",
+        "info": "英雄科1年B班",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/94/52109_crt_J8HtC.jpg?r=1488818847",
+        "link": "https://bgm.tv/character/52109",
+        "categorie": "person"
+      },
+      {
+        "id": "42928",
+        "label": "ALL FOR ONE",
+        "info": "暗地里操纵着敌联合的谜之存在，被死柄木吊称呼为\"老师\"。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/99/42928_crt_hX1dl.jpg",
+        "link": "https://bgm.tv/character/42928",
+        "categorie": "person"
+      },
+      {
+        "id": "41744",
+        "label": "死柄木吊",
+        "info": "危险度：S级、本名：志村转弧（志村 転弧（しむら てんこ））",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/5d/41744_crt_HwE3r.jpg?r=1469016137",
+        "link": "https://bgm.tv/character/41744",
+        "categorie": "person"
+      },
+      {
+        "id": "41939",
+        "label": "黑雾",
+        "info": "与死柄木共同行动，负责参谋的敌人。有着能够将各种各样的物在空间与空间之间移动的\"个性\"。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/4f/41939_crt_TyB1T.jpg?r=1469015934",
+        "link": "https://bgm.tv/character/41939",
+        "categorie": "person"
+      },
+      {
+        "id": "42927",
+        "label": "医生",
+        "info": "负责治疗\"老师\"的谜之人物，本名不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b2/42927_crt_AmC7h.jpg",
+        "link": "https://bgm.tv/character/42927",
+        "categorie": "person"
+      },
+      {
+        "id": "58009",
+        "label": "荼毗",
+        "info": "谜之敌人。接受了暗中介的劝诱加入了敌联合。固执于斯坦因所宣扬的「英雄回归」思想。素性不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/fe/58009_crt_9gB54.jpg?r=1506182726",
+        "link": "https://bgm.tv/character/58009",
+        "categorie": "person"
+      },
+      {
+        "id": "58010",
+        "label": "渡我被身子",
+        "info": "经过暗中介劝诱进敌联合的女高中生。现被怀疑为是连续流血过多致死事件的犯罪嫌疑人而被警察追捕着。个性与素性不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ab/58010_crt_kll61.jpg?r=1506183650",
+        "link": "https://bgm.tv/character/58010",
+        "categorie": "person"
+      },
+      {
+        "id": "60865",
+        "label": "爆肌",
+        "info": "左眼是假眼。有着“狂血”的异名，任性地用自己的“个性”伤害无辜的民众。新加入了敌联合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/90/60865_crt_TnFWn.jpg?r=1518269894",
+        "link": "https://bgm.tv/character/60865",
+        "categorie": "person"
+      },
+      {
+        "id": "60866",
+        "label": "翻车鱼",
+        "info": "身着拘束服的敌人。已被定下死刑的杀人狂，现逃狱加入了敌联合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/8a/60866_crt_XseuX.jpg?r=1518270342",
+        "link": "https://bgm.tv/character/60866",
+        "categorie": "person"
+      },
+      {
+        "id": "60867",
+        "label": "芥气",
+        "info": "戴着防毒面具、身着学生制服的敌人。看起来好像还是个少年…？敌联合的新人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/9a/60867_crt_22zX0.jpg?r=1518270666",
+        "link": "https://bgm.tv/character/60867",
+        "categorie": "person"
+      },
+      {
+        "id": "62253",
+        "label": "TWICE",
+        "info": "新近加入敌联合的身着黑色连体服的敌人。总是兴致亢奋，言语与行动支离破裂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b0/62253_crt_sRRAb.jpg?r=1522087761",
+        "link": "https://bgm.tv/character/62253",
+        "categorie": "person"
+      },
+      {
+        "id": "62254",
+        "label": "压缩先生",
+        "info": "身着长袍、假面与礼帽的充满谜团的敌人。自称自己是“娱乐者”。新近加入了敌联合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/f8/62254_crt_655U3.jpg?r=1522088191",
+        "link": "https://bgm.tv/character/62254",
+        "categorie": "person"
+      },
+      {
+        "id": "62255",
+        "label": "纺织者",
+        "info": "携带着大量武器，同样是新近加入敌联合的敌人。醉心于斯坦因的思想，自称是斯坦因的“纺织梦想的人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/70/62255_crt_22gyn.jpg?r=1522088459",
+        "link": "https://bgm.tv/character/62255",
+        "categorie": "person"
+      },
+      {
+        "id": "62256",
+        "label": "磁人",
+        "info": "新加入敌联合的人妖敌人。身负多个案件的武斗派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/f5/62256_crt_7tz9k.jpg?r=1522088783",
+        "link": "https://bgm.tv/character/62256",
+        "categorie": "person"
+      },
+      {
+        "id": "53079",
+        "label": "血皇",
+        "info": "雄英高校英雄科B班的班主任",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/07/53079_crt_x73KK.jpg?r=1491067742",
+        "link": "https://bgm.tv/character/53079",
+        "categorie": "person"
+      },
+      {
+        "id": "39685",
+        "label": "礼物·麦克风",
+        "info": "7月7日生、身高185cm、30歳、喜歡的事物是無線電、TV。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/cd/39685_crt_G2fbR.jpg?r=1469016547",
+        "link": "https://bgm.tv/character/39685",
+        "categorie": "person"
+      },
+      {
+        "id": "42065",
+        "label": "根津校长",
+        "info": "雄英高校校长，不是人类。外貌可爱，同时有着人格魅力，备受欧尔麦特尊敬。请来欧尔麦特来担任雄英高校教师职位的便是根津校长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/b6/42065_crt_02Ixe.jpg?r=1469015756",
+        "link": "https://bgm.tv/character/42065",
+        "categorie": "person"
+      },
+      {
+        "id": "42932",
+        "label": "午夜",
+        "info": "雄英高中手执皮鞭的性感人类英雄。被称为18禁英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/26/42932_crt_iLJ7r.jpg?r=1482002887",
+        "link": "https://bgm.tv/character/42932",
+        "categorie": "person"
+      },
+      {
+        "id": "42933",
+        "label": "神射手",
+        "info": "雄英高中的教师。能够进行远距离的精准射击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/26/42933_crt_h17v9.jpg?r=1482004046",
+        "link": "https://bgm.tv/character/42933",
+        "categorie": "person"
+      },
+      {
+        "id": "42934",
+        "label": "塚内直正",
+        "info": "好きなものは野球。36歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/4c/42934_crt_C3IZc.jpg?r=1466943183",
+        "link": "https://bgm.tv/character/42934",
+        "categorie": "person"
+      },
+      {
+        "id": "51311",
+        "label": "安德瓦",
+        "info": "个性：地狱烈焰（Hell Flame）",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/27/51311_crt_LdtWL.jpg?r=1486963081",
+        "link": "https://bgm.tv/character/51311",
+        "categorie": "person"
+      },
+      {
+        "id": "40043",
+        "label": "绿谷引子",
+        "info": "出久的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/62/40043_crt_O5eTA.jpg?r=1459677708",
+        "link": "https://bgm.tv/character/40043",
+        "categorie": "person"
+      },
+      {
+        "id": "39686",
+        "label": "山岭女侠",
+        "info": "拥有「巨大化」的个性的新人专业英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/fa/39686_crt_MM2UO.jpg?r=1469016502",
+        "link": "https://bgm.tv/character/39686",
+        "categorie": "person"
+      },
+      {
+        "id": "39687",
+        "label": "森林神威",
+        "info": "人氣快速上升的實力派英雄。有著將身體樹木化並生長的個性，因自身個性的緣故相當討厭火源。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/8a/39687_crt_8A4M8.jpg?r=1469016465",
+        "link": "https://bgm.tv/character/39687",
+        "categorie": "person"
+      },
+      {
+        "id": "39688",
+        "label": "死亡赤拳",
+        "info": "以全身的隆隆肌肉为武器的力量型专业英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/11/39688_crt_VNioK.jpg?r=1469016449",
+        "link": "https://bgm.tv/character/39688",
+        "categorie": "person"
+      },
+      {
+        "id": "55301",
+        "label": "经典老爷车",
+        "info": "个性：喷射（ジェット）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/76/55301_crt_rJFx7.jpg?r=1498229839",
+        "link": "https://bgm.tv/character/55301",
+        "categorie": "person"
+      },
+      {
+        "id": "55639",
+        "label": "最佳牛仔裤时尚名人",
+        "info": "雄英高校的毕业生，现名列于职业英雄No.4之位的帅气英雄。不仅仅是进行着英雄活动，同时连续8年拿到了“最佳牛仔裤时尚名人”奖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/84/55639_crt_t63T8.jpg?r=1499189648",
+        "link": "https://bgm.tv/character/55639",
+        "categorie": "person"
+      },
+      {
+        "id": "63753",
+        "label": "艾基修特",
+        "info": "私生活は謎に包まれており、活動以外では人前に姿を現さない",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/12/63753_crt_uvO2g.jpg?r=1527996995",
+        "link": "https://bgm.tv/character/63753",
+        "categorie": "person"
+      },
+      {
+        "id": "67742",
+        "label": "夜岚稻佐",
+        "info": "士杰高中一年级的学生，雄英推荐入学考试第一但放弃了入学机会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/0c/67742_crt_sy81w.jpg?r=1544842179",
+        "link": "https://bgm.tv/character/67742",
+        "categorie": "person"
+      },
+      {
+        "id": "67743",
+        "label": "现见凯米",
+        "info": "士杰高中英雄科2年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/ac/67743_crt_HXhH3.jpg?r=1544842403",
+        "link": "https://bgm.tv/character/67743",
+        "categorie": "person"
+      },
+      {
+        "id": "67744",
+        "label": "肉仓精儿",
+        "info": "士杰高中2年级男学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/0e/67744_crt_wqiJX.jpg?r=1544842556",
+        "link": "https://bgm.tv/character/67744",
+        "categorie": "person"
+      },
+      {
+        "id": "67745",
+        "label": "毛原长昌",
+        "info": "士杰高中2年级1班的班长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/79/67745_crt_7XY7W.jpg?r=1544842729",
+        "link": "https://bgm.tv/character/67745",
+        "categorie": "person"
+      },
+      {
+        "id": "65026",
+        "label": "真堂摇",
+        "info": "傑物学園高校に通う2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/0c/65026_crt_wQwi1.jpg?r=1532517133",
+        "link": "https://bgm.tv/character/65026",
+        "categorie": "person"
+      },
+      {
+        "id": "67746",
+        "label": "Ms.Joke",
+        "info": "杰物高中2年2班班级导师。以前跟相泽在事务所离得很近，在救和被救的循环中变得相恩相爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/a9/67746_crt_wZ0qk.jpg?r=1544843037",
+        "link": "https://bgm.tv/character/67746",
+        "categorie": "person"
+      },
+      {
+        "id": "67747",
+        "label": "中瓶畳",
+        "info": "个性：折叠",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c8/67747_crt_e8H1h.jpg?r=1544843156",
+        "link": "https://bgm.tv/character/67747",
+        "categorie": "person"
+      },
+      {
+        "id": "67748",
+        "label": "真壁漆喰",
+        "info": "个性：硬质化",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/d0/67748_crt_98cB8.jpg?r=1544843253",
+        "link": "https://bgm.tv/character/67748",
+        "categorie": "person"
+      },
+      {
+        "id": "67749",
+        "label": "投掷射手次郎",
+        "info": "个性：回力镖",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/38/67749_crt_j7mS7.jpg?r=1544843359",
+        "link": "https://bgm.tv/character/67749",
+        "categorie": "person"
+      },
+      {
+        "id": "67739",
+        "label": "通形百万",
+        "info": "雄英“三巨头”之一，三年级的男学生。身材高大豆豆眼男子，少数画风特殊的角色。对于英雄执照的取得显得非常认真，甚至透过对战直接告诉学弟妹英雄执照的重要性。也曾经付出相当大的努力，才有今天如此的地位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/96/67739_crt_7kyuM.jpg?r=1544842215",
+        "link": "https://bgm.tv/character/67739",
+        "categorie": "person"
+      },
+      {
+        "id": "67740",
+        "label": "天喰环",
+        "info": "是雄英高中三年级英雄科的学生，与通形百万、波动螺卷同时被称为雄英三巨头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/d5/67740_crt_D0zKO.jpg?r=1544842227",
+        "link": "https://bgm.tv/character/67740",
+        "categorie": "person"
+      },
+      {
+        "id": "67741",
+        "label": "波动螺卷",
+        "info": "雄英高中三年级英雄科的学生，和通行百万、天喰环同时被称为雄英三巨头。个性是“螺卷”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/db/67741_crt_BZwvw.jpg?r=1544842239",
+        "link": "https://bgm.tv/character/67741",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

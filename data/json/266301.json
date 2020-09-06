@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72110",
+        "label": "开曼",
+        "info": "本作品の主人公。カイマントカゲによく似た頭部を持つ男。身長216cm、体重98kg、足のサイズ38cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/90/72110_crt_g6m4m.jpg",
+        "link": "https://bgm.tv/character/72110",
+        "categorie": "person"
+      },
+      {
+        "id": "72111",
+        "label": "二阶堂",
+        "info": "カイマンの友人のグラマーな女性。身長169cm。体重56kg。足のサイズ25cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/d7/72111_crt_wxRNz.jpg",
+        "link": "https://bgm.tv/character/72111",
+        "categorie": "person"
+      },
+      {
+        "id": "72112",
+        "label": "烟",
+        "info": "煙ファミリーのボス。身長183cm。体重79kg。足のサイズ28.5cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/f6/72112_crt_CPg16.jpg",
+        "link": "https://bgm.tv/character/72112",
+        "categorie": "person"
+      },
+      {
+        "id": "72113",
+        "label": "心",
+        "info": "煙の部下の掃除屋。身長196cm。体重93kg。足のサイズ30cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/12/72113_crt_yjZW2.jpg",
+        "link": "https://bgm.tv/character/72113",
+        "categorie": "person"
+      },
+      {
+        "id": "72114",
+        "label": "能井",
+        "info": "煙の従姉妹にして部下の掃除屋。身長209cm。体重82kg。足のサイズ30cm。バストのサイズ104cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/a4/72114_crt_4i4Mw.jpg",
+        "link": "https://bgm.tv/character/72114",
+        "categorie": "person"
+      },
+      {
+        "id": "72115",
+        "label": "惠比寿",
+        "info": "正確には煙ファミリーの一員ではない。裕福な家庭の出身でカイマンに会うまではパンク少女だった。カイマンの口の中の男からは、「オマエはオレのジャマをした」と言われた。髑髏のマスクを被っている。身長142cm。体重33kg。足のサイズ19.5cm，バストのサイズ64cm。。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/b7/72115_crt_qDfm3.jpg",
+        "link": "https://bgm.tv/character/72115",
+        "categorie": "person"
+      },
+      {
+        "id": "72116",
+        "label": "藤田",
+        "info": "煙ファミリーの下っ端。身長173cm。体重58kg。足のサイズ27cm。目元を覆うマスクをつけているが、心や能井とは違い、悪魔製作のマスクではないようである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/09/72116_crt_MW8BA.jpg",
+        "link": "https://bgm.tv/character/72116",
+        "categorie": "person"
+      },
+      {
+        "id": "75334",
+        "label": "火鸡",
+        "info": "第4话出场，能用鸭肉创造出有生命的人偶的魔法师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/1e/75334_crt_Fs6Ro.jpg",
+        "link": "https://bgm.tv/character/75334",
+        "categorie": "person"
+      },
+      {
+        "id": "75333",
+        "label": "什么都能溶解的魔法师",
+        "info": "第4话出场，赋予生命的魔法师的搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/56/75333_crt_9CUjT.jpg",
+        "link": "https://bgm.tv/character/75333",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

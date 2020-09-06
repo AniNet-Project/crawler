@@ -1,0 +1,277 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53097",
+        "label": "哈雷",
+        "info": "住在雨林中的少年，初次登场时10岁。在《哈雷阿布》第2卷的时候是初中2年级学生（13岁）。因为周围多是一些奇怪的人，他年纪轻轻就被人说成性格像是30岁的青年，和一般的孩子很不相同。在看到到奇怪的人时候，就会产生被害妄想。对阿布为首的周围的人（特别是女性）所说的话言听计从的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/aa/53097_crt_CjJur.jpg?r=1491160364",
+        "link": "https://bgm.tv/character/53097",
+        "categorie": "person"
+      },
+      {
+        "id": "10447",
+        "label": "阿布",
+        "info": "变身前",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/56/10447_crt_d66cA.jpg",
+        "link": "https://bgm.tv/character/10447",
+        "categorie": "person"
+      },
+      {
+        "id": "9067",
+        "label": "维达",
+        "info": "哈雷的母亲。准女主角，因为阿布身材的原因，杀必死的工作基本由维达负责。连载开始时25岁。擅长打猎。平时把家务事交给儿子做，经常穿着内衣在屋子里走来走去，或者喝酒喝得大醉。其实她是城市的有钱人家的大小姐，14岁的时候怀孕，并且和父亲断绝了关系来到了雨林。有哥哥和姐姐各一名。小时候体弱多病，是个不善于表达自己感情的内向少女，到了雨林以后，逐渐变得积极和强悍。不过偶尔可以看到她表现出细腻敏感的气质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/c4/9067_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9067",
+        "categorie": "person"
+      },
+      {
+        "id": "55799",
+        "label": "克莱夫",
+        "info": "从城市来到丛林学校的保健医生。初登场时29岁。原来是维达的主治医生，10年以后在雨林和她重逢，并且得知了自己是哈雷的父亲。作为医生很优秀，不过喜欢玩弄女性，在哈雷问维达父亲是怎样的人时，维达说他性格有缺陷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/54/55799_crt_46BZ5.jpg",
+        "link": "https://bgm.tv/character/55799",
+        "categorie": "person"
+      },
+      {
+        "id": "56370",
+        "label": "由米",
+        "info": "在雷吉生病时来代课的老师。很容易迷上别人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/fe/56370_crt_5RL91.jpg",
+        "link": "https://bgm.tv/character/56370",
+        "categorie": "person"
+      },
+      {
+        "id": "55810",
+        "label": "威格尔",
+        "info": "哈雷的同学，喜欢维达。在维达结婚的时候很受打击，曾经暴走，但是后来恢复了常态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/65/55810_crt_pcsXs.jpg",
+        "link": "https://bgm.tv/character/55810",
+        "categorie": "person"
+      },
+      {
+        "id": "55809",
+        "label": "古普塔",
+        "info": "性格强势，害怕飞机和鬼故事。房间很脏，因此在去城市的时候把“那个”兄妹也带去了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/47/55809_crt_p5tcR.jpg",
+        "link": "https://bgm.tv/character/55809",
+        "categorie": "person"
+      },
+      {
+        "id": "55811",
+        "label": "拉维纳",
+        "info": "哈雷的同学，班上像大姐姐一样的人物。迟钝，爱忘事的天然呆角色。阿西奥是她喜欢的类型。旧系列中，是被称为“特征是没有特征”的不起眼角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/3b/55811_crt_5k1fS.jpg",
+        "link": "https://bgm.tv/character/55811",
+        "categorie": "person"
+      },
+      {
+        "id": "55816",
+        "label": "雷吉",
+        "info": "哈雷学校的老师，玛丽的哥哥。初登场时27岁。有时候会因为自己很困而把上课变成午睡的时间，困的原因是半夜看动画的重放。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/27/55816_crt_H6E26.jpg",
+        "link": "https://bgm.tv/character/55816",
+        "categorie": "person"
+      },
+      {
+        "id": "55801",
+        "label": "玛丽",
+        "info": "雷吉的妹妹。喜欢哈雷。手很灵巧，会自己做衣服。做菜的手艺一般。在生下来之后不久双亲就去世了，懂事之前是由哥哥和维达共同抚养的，所以对维达的感情很深。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/a6/55801_crt_3Cgas.jpg",
+        "link": "https://bgm.tv/character/55801",
+        "categorie": "person"
+      },
+      {
+        "id": "55806",
+        "label": "托波斯特",
+        "info": "波亚长老的重孙子。说大阪腔。喜欢吃卜库特。和曾祖父一样，对胸毛的爱非常强烈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/f7/55806_crt_gJwd9.jpg?r=1502567512",
+        "link": "https://bgm.tv/character/55806",
+        "categorie": "person"
+      },
+      {
+        "id": "55812",
+        "label": "瓦吉",
+        "info": "哈雷的同学，总是在笑。性别不明。虽然在旧第二卷的旁白的称呼是“他”，不过在旧九卷以后作为女性描写的事情居多。特别是旧十卷后记的四格漫画中，作者评价说“无所谓男女”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/da/55812_crt_hH9Yu.jpg",
+        "link": "https://bgm.tv/character/55812",
+        "categorie": "person"
+      },
+      {
+        "id": "55814",
+        "label": "拉雅",
+        "info": "哈雷的同学，几乎没有台词的绿头发女孩。与玛丽同年级，关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/38/55814_crt_z9x77.jpg",
+        "link": "https://bgm.tv/character/55814",
+        "categorie": "person"
+      },
+      {
+        "id": "56098",
+        "label": "阿西奥",
+        "info": "贝尔的后辈的佣人。和贝尔一样从小就认识维达。对维达有好感。平时做一些修房子或者修剪草坪的工作。特征是过长的睫毛，不过少年时代没有这么长。说大阪腔。初次登场的时候是一个老是说奇怪的话的人，不过后来越来越正经了。经常只是因为出现的时机不对受到贝尔的攻击，也经常因为对贝尔的话进行多余的吐槽而被攻击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/f9/56098_crt_Fkhkm.jpg",
+        "link": "https://bgm.tv/character/56098",
+        "categorie": "person"
+      },
+      {
+        "id": "55813",
+        "label": "萨齐",
+        "info": "哈雷的同学，几乎没有台词的黄头发男孩。总是与拉雅在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/30/55813_crt_bu8G6.jpg",
+        "link": "https://bgm.tv/character/55813",
+        "categorie": "person"
+      },
+      {
+        "id": "56097",
+        "label": "贝尔",
+        "info": "维达家的佣人，作女佣打扮。把维达小时候开始照顾她。性别不详，喜欢维达，经常做出对维达的幻想而流出鼻血。善于格斗，可以使出“如果在格斗游戏中对朋友使出就会失去他的友情”的无限连击。因为克莱佛让维达离家出走，所以对克莱佛恨之入骨，只要见到就把他揍个半死。克莱佛以外的人只要有对维达出手的也要置于死地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/dd/56097_crt_1O9G9.jpg",
+        "link": "https://bgm.tv/character/56097",
+        "categorie": "person"
+      },
+      {
+        "id": "55815",
+        "label": "波亚",
+        "info": "村子的长老兼村长，托波斯特的爷爷。热爱吃卜库特。特征是茂盛的胸毛。虽然胸毛被剃了以后会受到打击并且没有精神，不过立刻胸毛再生的情况很多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/be/55815_crt_WN6MF.jpg",
+        "link": "https://bgm.tv/character/55815",
+        "categorie": "person"
+      },
+      {
+        "id": "56315",
+        "label": "鹊柊一",
+        "info": "维达和哈雷的保镖。初次登场时19岁。是日本人，本名是鹊柊一。是个爽快的人，杀人不眨眼。善于使刀和手枪，但是对近身格斗不擅长。在作品中还没有杀过人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/d3/56315_crt_i2l6C.jpg",
+        "link": "https://bgm.tv/character/56315",
+        "categorie": "person"
+      },
+      {
+        "id": "55817",
+        "label": "切特",
+        "info": "傻子情侣（男）。为了研究遗迹到了雨林并且住了下来。出身是英国的上流阶级。总是和阿蒂粘在一起。在登场时经常需要用马赛克来遮盖他们的亲热举动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/c0/55817_crt_yJr15.jpg?r=1501604558",
+        "link": "https://bgm.tv/character/55817",
+        "categorie": "person"
+      },
+      {
+        "id": "55818",
+        "label": "阿蒂",
+        "info": "傻子情侣（女）。在做导游的时候和切特相遇。总是和切特粘在一起，每次吵架都会找维达倾诉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/4a/55818_crt_dXzDt.jpg",
+        "link": "https://bgm.tv/character/55818",
+        "categorie": "person"
+      },
+      {
+        "id": "56369",
+        "label": "夏隆·菲亚斯汀",
+        "info": "维达的母亲。印度出身。出身高贵，但是有时候会变得很麻烦。进入新系列以后脸变得年轻了。曾因无力阻止丈夫将未婚生子的女儿维达赶出去而自责不已。故后来维达回到城市想尽办法要弥补自己的女儿和孙子。个性上来说在本作算得上是少数正常的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/b0/56369_crt_RN8RY.jpg",
+        "link": "https://bgm.tv/character/56369",
+        "categorie": "person"
+      },
+      {
+        "id": "13929",
+        "label": "蕾贝卡",
+        "info": "哈雷的邻居。初登场时27岁。和维达的关系很好。她的母亲在她小时时候溺死在河里，从此她被卜库特（雨林中的一种生物）抚养长大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/62/13929_crt_eE63a.jpg",
+        "link": "https://bgm.tv/character/13929",
+        "categorie": "person"
+      },
+      {
+        "id": "56096",
+        "label": "达玛",
+        "info": "住在邻村的理发店的婆婆。自称拥有可以看见人身边的守护灵的能力，看见哈雷的守护灵时被吓得半死，而且坚持不提；阿布身边似乎没有守护灵，原因皆不明。每次看到白发的男性（如克莱佛）的时候就会狂化。后来，又和劫持哈雷作人质的银行强盗（后来成为她的丈夫）展开死斗。在救了维达的时候，被雨林的人们当成英雄一样的对待。后来她被杀手利用，变装以后想要取维达的性命。在动画版中，她暴走的威力得到了加强。在和银行强盗打斗时，其战斗场面达到了七龙珠的水准，而且她的头发也是为了抑制自己的能力而专门戴上的特别重的假发。在OVA中，因为配合变装的情节，连配音也换了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/df/56096_crt_NOKnA.jpg",
+        "link": "https://bgm.tv/character/56096",
+        "categorie": "person"
+      },
+      {
+        "id": "56669",
+        "label": "“那个” 兄",
+        "info": "又黑又硬闪闪发光的喜欢暗处窄处湿处的移动相当迅速的生物被魔棒变成人类的姿态。最初住在哈雷家，后来因为维达大扫除，搬到了古普塔家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/56/56669_crt_bBWC0.jpg",
+        "link": "https://bgm.tv/character/56669",
+        "categorie": "person"
+      },
+      {
+        "id": "56670",
+        "label": "“那个” 妹",
+        "info": "又黑又硬闪闪发光的喜欢暗处窄处湿处的移动相当迅速的生物被魔棒变成人类的姿态。最初住在哈雷家，后来因为维达大扫除，搬到了古普塔家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/63/56670_crt_Pu1pH.jpg",
+        "link": "https://bgm.tv/character/56670",
+        "categorie": "person"
+      },
+      {
+        "id": "55822",
+        "label": "橘诚一",
+        "info": "阿布体内的人，被阿布吞进去以前是高三的学生（据本人说是非常好的学校），风纪委员。因为被吞了进来，所以没办法读大学了，不过本人对此并不在意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/67/55822_crt_QCvFY.jpg",
+        "link": "https://bgm.tv/character/55822",
+        "categorie": "person"
+      },
+      {
+        "id": "55823",
+        "label": "摩耗智代",
+        "info": "阿布体内的人，在被阿布吞入以前是帮忙做家务的人。天然呆。和诚一一样，性格乐观，不知道什么是害怕。18岁。很喜欢叫做菲的鸟和哈雷的弟弟小雨，似乎是小雨被吞入的时候的保护者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/a5/55823_crt_Q686L.jpg",
+        "link": "https://bgm.tv/character/55823",
+        "categorie": "person"
+      },
+      {
+        "id": "55824",
+        "label": "山田博子",
+        "info": "九州出身。原来是白领女性，22岁。和上司曾有婚外情，后来分手了。因为不堪分手的痛苦，从玄界滩投水，不过没有死成，被阿布吞了进来。虽然是个美人，不过有二重人格，暴走的时候声音很恐怖。经常表达对原来婚外情的上司的怨恨，或者想要拉着哈雷一起殉情。结果还是在阿布的体内健康的生活着。动画版当中，经常喝酒，在OVA的FINAL的片头中，和由米老师一起喝酒。总是带着清酒“鬼杀”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/94/55824_crt_68Y8N.jpg",
+        "link": "https://bgm.tv/character/55824",
+        "categorie": "person"
+      },
+      {
+        "id": "56316",
+        "label": "汤姆",
+        "info": "ハレが都会で出会った銀行強盗。都会にてウェダの活躍で強盗に失敗したことを恨み、復讐のためジャングルにやって来るがダマに倒される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/cf/56316_crt_wL5ML.jpg",
+        "link": "https://bgm.tv/character/56316",
+        "categorie": "person"
+      },
+      {
+        "id": "56871",
+        "label": "雨",
+        "info": "维达和克莱夫的第二个孩子，以此为契机二人结婚了。在哈雷12岁时诞生的弟弟。他的名字的来源是哈雷回到过去的时候，对过去的维达说自己名字叫小雨。经常被阿布吞下。现在应该有1岁了，不过作者有为了偷懒而把他简略化的倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/84/56871_crt_5d28f.jpg",
+        "link": "https://bgm.tv/character/56871",
+        "categorie": "person"
+      },
+      {
+        "id": "55819",
+        "label": "卜库特",
+        "info": "正式名称はのんでポクテ。このジャングルだけに生息している、ウサギの一種。しかし見た目はうさぎとは言い難く、アルヴァが「うさぎではない」と言った時、ハレも心の中で同意していた。孤児であったレベッカの育ての親。聖獣として崇められているが、食用にもされる。栄養豊富だが、その含まれる栄養素に胸毛の増殖を促進するものがあるらしい。ボーアの大好物であり、毎日欠かさず食べている。トポステによるとうまいらしいが、最近の子供達にはあまり人気がないようである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/60/55819_crt_B3e7G.jpg",
+        "link": "https://bgm.tv/character/55819",
+        "categorie": "person"
+      },
+      {
+        "id": "55820",
+        "label": "满田",
+        "info": "お菓子なのだが、まるで生物。草の実として生えていたり、時折動き回る姿を色々な場所で見かける。饅頭のような白い姿に顔のようなもの、そして手が生えている。目のような箇所から中のイチゴジャムを吸って食べるが、押し過ぎるとジャムが飛び出るので注意して食べなければならない。熟れ始めると劇画調の顔つきになり、食べられなくはないが甘すぎるらしい。そして賞味期限が過ぎると中にガスがたまり、楳図かずおの漫画のキャラクターが驚愕した時のような顔になって、やがて破裂してしまう。針刺しとしても使える。ベルはこの満田を採ることにはまっていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/b3/55820_crt_MkJz8.jpg",
+        "link": "https://bgm.tv/character/55820",
+        "categorie": "person"
+      },
+      {
+        "id": "55821",
+        "label": "ピヨピヨ",
+        "info": "ピンク色のずんぐりむっくりな姿の愛らしい小鳥。ポクテと同様にあちこちに出没し、仲間と遊ぶ姿を見かける。人の心が読めるらしい。マリィがエサをあげて増えてしまい、軽く生態系が壊れている。作者はこの生物が大のお気に入りで、時々なぜ実在しないのか悲しくなると語っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/df/55821_crt_zGGXL.jpg",
+        "link": "https://bgm.tv/character/55821",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

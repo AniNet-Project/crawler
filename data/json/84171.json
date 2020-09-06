@@ -1,0 +1,341 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24322",
+        "label": "日向翔阳",
+        "info": "幼いころ見た“小さな巨人”の姿に憧れ、烏野高校の門を叩いた。 類稀な瞬発力、跳躍力、そしてどんな時でも諦めない強い心を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/78/24322_crt_zuFs2.jpg?r=1411356315",
+        "link": "https://bgm.tv/character/24322",
+        "categorie": "person"
+      },
+      {
+        "id": "24323",
+        "label": "影山飞雄",
+        "info": "圧倒的センスでコートを支配する、人呼んで“コート上の王様”。 中学時代はその厳しい姿勢からチーム内で孤立していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/0a/24323_crt_z77p4.jpg?r=1411356359",
+        "link": "https://bgm.tv/character/24323",
+        "categorie": "person"
+      },
+      {
+        "id": "24324",
+        "label": "泽村大地",
+        "info": "烏野高校主将にして、プレー面でも精神面でもチームの支柱となる不動の大黒柱。 スパイカーながら守備にも優れ、攻撃面に傾きがちなチームを支えている。 ただし怒ると本当に怖い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/f5/24324_crt_8dKKR.jpg?r=1414390742",
+        "link": "https://bgm.tv/character/24324",
+        "categorie": "person"
+      },
+      {
+        "id": "24325",
+        "label": "菅原孝支",
+        "info": "澤村と共にチームをまとめ、日向・影山の入学前から部員の厚い信頼を集めるセッター!! 非常に温和な性格でチームの調整役でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/39/24325_crt_RdHR9.jpg?r=1414390699",
+        "link": "https://bgm.tv/character/24325",
+        "categorie": "person"
+      },
+      {
+        "id": "24326",
+        "label": "田中龙之介",
+        "info": "ガッツ溢れるプレーが持ち味の、烏野高校が誇る切り込み隊長!! 見た目は怖いが、義理人情に厚く、面倒見のいい兄貴肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/10/24326_crt_pgTYS.jpg?r=1414390443",
+        "link": "https://bgm.tv/character/24326",
+        "categorie": "person"
+      },
+      {
+        "id": "24327",
+        "label": "东峰旭",
+        "info": "普段は気弱でヘタレ。しかし一度コートに立てばどんなボールでも圧倒的パワーで打ち抜く、心優しき烏野の絶対的エース!! しかし、日向たちが入学した際には、過去の試合の因縁で部には姿を見せず―。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9c/24327_crt_8ie8J.jpg?r=1414390515",
+        "link": "https://bgm.tv/character/24327",
+        "categorie": "person"
+      },
+      {
+        "id": "24328",
+        "label": "西谷夕",
+        "info": "チーム最少の身長ながら、コート上では絶対的な信頼を一身に受けるまさに“烏野の守護神”！ 日向たちの入学時には、東峰との確執で部から離れているようだが―。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6e/24328_crt_H0fRu.jpg?r=1414390569",
+        "link": "https://bgm.tv/character/24328",
+        "categorie": "person"
+      },
+      {
+        "id": "24329",
+        "label": "月岛萤",
+        "info": "前のめりな性格が多い烏野高校1年の中でも特に異彩を放つ、クレバーブロッカー。 皮肉屋な一面もあり、日向や影山と衝突することも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/d8/24329_crt_XfpZ4.jpg?r=1414390625",
+        "link": "https://bgm.tv/character/24329",
+        "categorie": "person"
+      },
+      {
+        "id": "24330",
+        "label": "山口忠",
+        "info": "派手さはないが、仲間と共に地道に練習を重ねるブロッカー。 月島と行動を共にする事が多く、一日のうち最も多く発する言葉はおそらく「ツッキー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/24/24330_crt_5625l.jpg?r=1414390395",
+        "link": "https://bgm.tv/character/24330",
+        "categorie": "person"
+      },
+      {
+        "id": "24331",
+        "label": "清水洁子",
+        "info": "男だらけの烏野排球部に咲く一輪の花!!その美貌は他校でも噂になる程。性格はいたってクールで無愛想だが、田中や西谷にはかえってそれがいいらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/eb/24331_crt_z9q9h.jpg?r=1470046881",
+        "link": "https://bgm.tv/character/24331",
+        "categorie": "person"
+      },
+      {
+        "id": "24332",
+        "label": "武田一铁",
+        "info": "烏野排球部の顧問にして監督。バレ—は未経験だが、技術指導以外の部分で烏野を全力でサポートしている。担当教科は現代文。そのせいか、若干言葉選びはポエミー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/9c/24332_crt_VU2zZ.jpg?r=1414390799",
+        "link": "https://bgm.tv/character/24332",
+        "categorie": "person"
+      },
+      {
+        "id": "24333",
+        "label": "乌养系心",
+        "info": "烏野排球部御用達の雑貨屋、坂ノ下商店の跡継ぎ。大学卒業後は町内のバレーチーム等でプレーしていた。バレ—未経験の武田は、烏養をコーチにと考えているようだがー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/ce/24333_crt_808WD.jpg?r=1414390837",
+        "link": "https://bgm.tv/character/24333",
+        "categorie": "person"
+      },
+      {
+        "id": "24334",
+        "label": "及川彻",
+        "info": "青葉城西高校バレーボール部主将。県No.1セッターとの声も高い実力者で、中学時代の影山の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/f5/24334_crt_lmemm.jpg?r=1414390957",
+        "link": "https://bgm.tv/character/24334",
+        "categorie": "person"
+      },
+      {
+        "id": "25117",
+        "label": "黑尾铁朗",
+        "info": "音駒高校3年5組。バレー部主将。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/47/25117_crt_bw1BN.jpg?r=1414391119",
+        "link": "https://bgm.tv/character/25117",
+        "categorie": "person"
+      },
+      {
+        "id": "25127",
+        "label": "岩泉一",
+        "info": "青葉城西・副主将。影山、及川と同じ北川第一中学出身。及川がマイペースでいられるのも彼のフォローのおかげ。ツンツン頭が特徴的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/b8/25127_crt_zNsN1.jpg?r=1414391023",
+        "link": "https://bgm.tv/character/25127",
+        "categorie": "person"
+      },
+      {
+        "id": "25128",
+        "label": "孤爪研磨",
+        "info": "音駒の正セッター。ゲームメイカー的存在だが性格は内気。プリン頭が特徴的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/74/25128_crt_REuNU.jpg?r=1414391073",
+        "link": "https://bgm.tv/character/25128",
+        "categorie": "person"
+      },
+      {
+        "id": "26309",
+        "label": "二口坚治",
+        "info": "就读伊达工业高中二年级A班，排球社主攻手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/71/26309_crt_6ea8O.jpg?r=1414391220",
+        "link": "https://bgm.tv/character/26309",
+        "categorie": "person"
+      },
+      {
+        "id": "26984",
+        "label": "牛岛若利",
+        "info": "白鳥沢学園高校3年。バレー部主将。ポジションはウイングスパイカー。身長189cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/30/26984_crt_7a2z2.jpg?r=1448381038",
+        "link": "https://bgm.tv/character/26984",
+        "categorie": "person"
+      },
+      {
+        "id": "35981",
+        "label": "缘下力",
+        "info": "その名の通り、烏野の縁の下の力持ち。 派手さはないものの攻撃から守備までをそつ無くこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/9e/35981_crt_115X4.jpg?r=1448380792",
+        "link": "https://bgm.tv/character/35981",
+        "categorie": "person"
+      },
+      {
+        "id": "35984",
+        "label": "夜久卫辅",
+        "info": "音駒高校のリベロ。烏野の誇る東峰のスパイクを幾度となく上げ、あの西谷をして゛凄い実力”と言わしめる程の実力者。普段は温厚で、烏野の菅原と同じく、チーム内では大人の調整役的存在である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/54/35984_crt_I71F3.jpg?r=1448380894",
+        "link": "https://bgm.tv/character/35984",
+        "categorie": "person"
+      },
+      {
+        "id": "36647",
+        "label": "渡亲治",
+        "info": "青葉城西高校2年6組。背番号7。ポジションはリベロ。身長171.2cm、体重62.5kg。4月3日生まれ。好物はゆでたまご（カチカチ茹で）で、最近の悩みは「もっと筋肉つけたい」",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/dd/36647_crt_NHN9S.jpg?r=1446783835",
+        "link": "https://bgm.tv/character/36647",
+        "categorie": "person"
+      },
+      {
+        "id": "37018",
+        "label": "成田一仁",
+        "info": "烏野高校2年4組。背番号8。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/13/37018_crt_E2eT1.jpg?r=1569660436",
+        "link": "https://bgm.tv/character/37018",
+        "categorie": "person"
+      },
+      {
+        "id": "37020",
+        "label": "木下久志",
+        "info": "烏野高校2年2組。背番号7。ポジションはウイングスパイカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/7a/37020_crt_2lx33.jpg?r=1569660453",
+        "link": "https://bgm.tv/character/37020",
+        "categorie": "person"
+      },
+      {
+        "id": "37021",
+        "label": "山本猛虎",
+        "info": "音駒高校2年1組。背番号4。ポジションはウイングスパイカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/18/37021_crt_VGomk.jpg?r=1448382562",
+        "link": "https://bgm.tv/character/37021",
+        "categorie": "person"
+      },
+      {
+        "id": "37022",
+        "label": "犬冈走",
+        "info": "音駒高校1年1組。背番号7。ポジションはミドルブロッカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ad/37022_crt_yB88D.jpg?r=1448382788",
+        "link": "https://bgm.tv/character/37022",
+        "categorie": "person"
+      },
+      {
+        "id": "37023",
+        "label": "猫又育史",
+        "info": "音駒高校バレー部監督。68歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/8d/37023_crt_s7G4A.jpg",
+        "link": "https://bgm.tv/character/37023",
+        "categorie": "person"
+      },
+      {
+        "id": "39175",
+        "label": "金田一勇太郎",
+        "info": "青葉城西レギュラー陣の中で一番の高身長を誇り、空中戦で活躍を見せる。まだメンタル面では先輩に支えられることも多いものの、長身を活かし堂々としたプレーを見せる。影山と同じ北川第一中学の出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a5/39175_crt_33Qs3.jpg?r=1456570784",
+        "link": "https://bgm.tv/character/39175",
+        "categorie": "person"
+      },
+      {
+        "id": "39176",
+        "label": "国见英",
+        "info": "冷静で無駄が嫌いな頭脳派プレイヤー。面倒を好まず囮役などはサボり気味だが、決してやる気がないわけではなく、効率を重視し試合終盤の勝負所で力を発揮する。影山と同じ北川第一中学の出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/fe/39176_crt_76i90.jpg?r=1456571239",
+        "link": "https://bgm.tv/character/39176",
+        "categorie": "person"
+      },
+      {
+        "id": "39181",
+        "label": "矢巾秀",
+        "info": "青葉城西高校2年5組。背番号6。ポジションはセッター。身長181.9cm、体重69.0kg。3月1日生まれ。好物はいくら丼で、最近の悩みは「及川さんの後釜キツイ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/9b/39181_crt_4BFq4.jpg?r=1456586039",
+        "link": "https://bgm.tv/character/39181",
+        "categorie": "person"
+      },
+      {
+        "id": "39182",
+        "label": "花卷贵大",
+        "info": "青葉城西高校3年3組。背番号3。ポジションはウイングスパイカー。身長184.7cm、体重72.0kg。1月27日生まれ。好物はシュークリームで、最近の悩みは「腕相撲でどうしても岩泉に勝てない」",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/b8/39182_crt_Qup0Q.jpg?r=1456586253",
+        "link": "https://bgm.tv/character/39182",
+        "categorie": "person"
+      },
+      {
+        "id": "39183",
+        "label": "松川一静",
+        "info": "青葉城西高校3年1組。背番号2。ポジションはミドルブロッカー。身長187.9cm、体重73.8kg。3月1日生まれ。好物はチーズINハンバーグで、最近の悩みは「制服が似合わないって言われる」",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/81/39183_crt_tmlk1.jpg?r=1456586423",
+        "link": "https://bgm.tv/character/39183",
+        "categorie": "person"
+      },
+      {
+        "id": "39184",
+        "label": "海信行",
+        "info": "音駒高校3年4組。バレー部副主将。背番号2。ポジションはウイングスパイカー。身長176.5cm。体重68.9kg。4月8日生まれ。好物は海ぶどうで、最近の悩みは「些細な気掛かりはありますが、生きていれば何とかなると思っています」",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/0e/39184_crt_yNjdX.jpg?r=1456586928",
+        "link": "https://bgm.tv/character/39184",
+        "categorie": "person"
+      },
+      {
+        "id": "39185",
+        "label": "福永招平",
+        "info": "音駒高校2年2組。背番号6。ポジションはウイングスパイカー。身長178.3cm。体重68.3kg。9月29日生まれ。好物はあたりめで、最近の悩みは「山本が「もっとしゃべれ」っていう」",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/3c/39185_crt_yaVr0.jpg?r=1456587075",
+        "link": "https://bgm.tv/character/39185",
+        "categorie": "person"
+      },
+      {
+        "id": "39186",
+        "label": "芝山优生",
+        "info": "音駒高校1年4組。背番号12。ポジションはリベロ。身長162.5cm。体重53.3kg。12月16日生まれ。好物はオムライスで、最近の悩みは「皆レシーブがうまくて僕は全然かなう気がしないけど、練習を頑張りたいと思います。」",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/43/39186_crt_0RHH9.jpg?r=1456587225",
+        "link": "https://bgm.tv/character/39186",
+        "categorie": "person"
+      },
+      {
+        "id": "39187",
+        "label": "青根高伸",
+        "info": "反射神経を活かしたリードブロックが強力なMB(ミドルブロッカー)！眉毛がなく目つきが鋭いのと体格も相まって周囲から怖がられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/da/39187_crt_G9me6.jpg?r=1456587990",
+        "link": "https://bgm.tv/character/39187",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      },
+      {
+        "id": "58832",
+        "label": "道宫结",
+        "info": "乌野高中女子排球部主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/c3/58832_crt_iSsAz.jpg",
+        "link": "https://bgm.tv/character/58832",
+        "categorie": "person"
+      },
+      {
+        "id": "58833",
+        "label": "滝ノ上祐輔",
+        "info": "実家は滝ノ上電器店。ポジションはミドルブロッカー。26歳。身長185.6cm。ジャンプ最高到達点330cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/07/58833_crt_YAaG0.jpg",
+        "link": "https://bgm.tv/character/58833",
+        "categorie": "person"
+      },
+      {
+        "id": "58834",
+        "label": "嶋田诚",
+        "info": "実家は嶋田マート。ポジションはウイングスパイカー。26歳。身長177.7cm。ジャンプ最高到達点300cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/53/58834_crt_Blq2z.jpg",
+        "link": "https://bgm.tv/character/58834",
+        "categorie": "person"
+      },
+      {
+        "id": "58835",
+        "label": "内沢英紀",
+        "info": "実家は内沢クリーニング。ポジションはウイングスパイカー。28歳。身長176.3cm。ジャンプ最高到達点295cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/76/58835_crt_31UdS.jpg",
+        "link": "https://bgm.tv/character/58835",
+        "categorie": "person"
+      },
+      {
+        "id": "58843",
+        "label": "森行成",
+        "info": "東北商業大学3年。ポジションはミドルブロッカー。身長183.5cm。ジャンプ最高到達点320cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/ec/58843_crt_Z2t8a.jpg",
+        "link": "https://bgm.tv/character/58843",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

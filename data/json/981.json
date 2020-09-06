@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6596",
+        "label": "哈吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/c6/6596_crt_rr6gn.jpg",
+        "link": "https://bgm.tv/character/6596",
+        "categorie": "person"
+      },
+      {
+        "id": "12156",
+        "label": "小夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/d8/12156_crt_t70UP.jpg",
+        "link": "https://bgm.tv/character/12156",
+        "categorie": "person"
+      },
+      {
+        "id": "7285",
+        "label": "宫城凯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/67/7285_crt_fLdot.jpg",
+        "link": "https://bgm.tv/character/7285",
+        "categorie": "person"
+      },
+      {
+        "id": "7286",
+        "label": "宫城里克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/32/7286_crt_beL3o.jpg",
+        "link": "https://bgm.tv/character/7286",
+        "categorie": "person"
+      },
+      {
+        "id": "7944",
+        "label": "大卫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/fc/7944_crt_1hBh1.jpg",
+        "link": "https://bgm.tv/character/7944",
+        "categorie": "person"
+      },
+      {
+        "id": "12157",
+        "label": "DIVA",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/0c/12157_crt_G1YZ1.jpg",
+        "link": "https://bgm.tv/character/12157",
+        "categorie": "person"
+      },
+      {
+        "id": "17634",
+        "label": "所罗门·哥鲁多史密斯",
+        "info": "表向きはサンクフレシュ・ファルマシー製薬会社のCEO。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/ec/17634_crt_eedb9.jpg",
+        "link": "https://bgm.tv/character/17634",
+        "categorie": "person"
+      },
+      {
+        "id": "26951",
+        "label": "卡尔",
+        "info": "迪娃的騎士，是五名騎士中最年輕的，與索羅門是過去的好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ce/26951_crt_0Z855.jpg?r=1410842459",
+        "link": "https://bgm.tv/character/26951",
+        "categorie": "person"
+      },
+      {
+        "id": "32845",
+        "label": "宫城乔治",
+        "info": "小夜・カイ・リクの養父。物語開始時59歳。元アメリカ軍兵士。米軍時代にベトナムで小夜の暴走に遭遇し、上官だった先代デヴィッドの遺言で小夜を宮城家の墓に匿っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/ff/32845_crt_J9mJc.jpg?r=1432204172",
+        "link": "https://bgm.tv/character/32845",
+        "categorie": "person"
+      },
+      {
+        "id": "32846",
+        "label": "路易斯",
+        "info": "「赤い盾」のエージェント。『ルイス』という名もまた『デヴィッド』と同様、諜報活動を行う者が継ぐコードネーム。本名はチャーリー。常にサングラスをかけている。明るく陽気な性格の黒人で、「赤い盾」のムードメーカーである。諜報活動に従事し、情報収集能力は高い。バックアップもし、MINIMI軽機関銃、M79グレネードランチャー、スパス12ショットガン等、様々な銃火器を駆る。また料理の腕も一流で、仲間に自慢の料理を振舞うこともある。とかく面倒見がよく、相棒デヴィッドの無茶に付き合ったり、カイをエージェントとして育てたりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/b9/32846_crt_xWL9Y.jpg?r=1432204284",
+        "link": "https://bgm.tv/character/32846",
+        "categorie": "person"
+      },
+      {
+        "id": "32847",
+        "label": "ジョエル・ゴルドシュミット",
+        "info": "「赤い盾」長官。ゴルドシュミット家当主として、『ジョエル』の名と「赤い盾」長官の地位を受け継ぐ。温和な性格で、デヴィッドとは親交も深い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ba/32847_crt_gByzd.jpg?r=1432204490",
+        "link": "https://bgm.tv/character/32847",
+        "categorie": "person"
+      },
+      {
+        "id": "32848",
+        "label": "茱莉亚·席尔法丝塔茵",
+        "info": "「赤い盾」のメディカル・スタッフ。小夜の体調管理やデヴィッドの補佐を担当する。逆に非戦闘員であるジュリアの護衛もデヴィッドの任務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/e2/32848_crt_9AE92.jpg?r=1432204637",
+        "link": "https://bgm.tv/character/32848",
+        "categorie": "person"
+      },
+      {
+        "id": "32849",
+        "label": "安谢尔·哥鲁多史密斯",
+        "info": "ディーヴァ側シュヴァリエの長兄で、ゴルドシュミット家の分家であるゴールドスミス家の出身。現在の肩書きはゴールドスミス・ホールディングス総帥であり、表向きでは現在のジョエルの叔父にあたる。筆頭シュヴァリエとして他のシュヴァリエを統率しており、翼手としても強大な力を有している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/eb/32849_crt_TjJ8q.jpg?r=1432205193",
+        "link": "https://bgm.tv/character/32849",
+        "categorie": "person"
+      },
+      {
+        "id": "32850",
+        "label": "グレゴリー・エフィモヴィチ・ラスプーチン",
+        "info": "ディーヴァ側シュヴァリエの次男。実在の人物がモデル。ロシア革命直後にはソーニャという少女に擬態しており、ある時小夜と出会って彼女とひと時を過ごした。だが村の老婆に小夜の前で正体を明かされ、その老婆を殺害し翼手の本性を表す。その後現われたアンシェルから退却するように命じられたが、最後まで戦うことを決意し、小夜に戦いを挑むも敗れ、最後は小夜に微笑みながら結晶化し戦死した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/db/32850_crt_K7kKV.jpg",
+        "link": "https://bgm.tv/character/32850",
+        "categorie": "person"
+      },
+      {
+        "id": "32851",
+        "label": "詹姆斯",
+        "info": "ディーヴァ側シュヴァリエの六男。アメリカ海軍の原子力空母の副艦長を勤める。階級は中佐。第二次世界大戦末期のベルリン陥落時に連合軍の一員として従軍、瀕死の重傷を負うが、アンシェルに助けられシュヴァリエとなる。しかし、それはネグロイドの被験体が欲しいと言う彼の思惑からだった。シュヴァリエの中で最も冷徹、堅物で融通の利かない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/12/32851_crt_p4GgD.jpg?r=1432206098",
+        "link": "https://bgm.tv/character/32851",
+        "categorie": "person"
+      },
+      {
+        "id": "32852",
+        "label": "内森·玛拉",
+        "info": "ディーヴァ側シュヴァリエの七男。ニューヨーク・メトロポリタンオペラハウス（メット）のプロデューサー。歌姫としてのディーヴァのプロデュースを担当する。オカマ言葉や芝居じみた口調で話して軽薄を装いつつ、ディーヴァの「母親役」を演じている。しかし本性を露にした時はドスのきいた低い地声で話し、その威圧感は長兄であるアンシェルでさえ畏怖する程である。戦闘力も未知数で、翼手化したジェイムズの攻撃を人間の姿のまま、しかも片手で彼の腕を掴み上げて止める事ができた。翼手に満たされた世界を築くというアンシェルの野望に懐疑的または反対であり、アンシェルを除く他のシュヴァリエ達に理解を示し、それが狂気に駆られての行動やディーヴァへの離反であっても協力的で、ディーヴァの希望を叶え輝かせることに全身全霊をかけている。一方で小夜と正面から戦う意志は毛頭なく、常に傍観の立場を貫いていたりと、末弟でありながら底の知れない部分を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/61/32852_crt_IVu0E.jpg?r=1432206919",
+        "link": "https://bgm.tv/character/32852",
+        "categorie": "person"
+      },
+      {
+        "id": "32853",
+        "label": "ヴァン・アルジャーノ",
+        "info": "D67の戦略担当官。フランスのマルセイユ出身。五人兄弟の末っ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/14/32853_crt_E8XXk.jpg?r=1432207110",
+        "link": "https://bgm.tv/character/32853",
+        "categorie": "person"
+      },
+      {
+        "id": "32854",
+        "label": "アーチャー",
+        "info": "ヴァンの側近。控えめだが、ヴァンに対する忠誠心は高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/48/32854_crt_g4ASg.jpg",
+        "link": "https://bgm.tv/character/32854",
+        "categorie": "person"
+      },
+      {
+        "id": "32855",
+        "label": "コリンズ・アイストン",
+        "info": "「赤い盾」副長官。ジュリアの恩師でもあり、大学時代のヴァンも彼の講義を受けた事がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/4a/32855_crt_ZEDd8.jpg",
+        "link": "https://bgm.tv/character/32855",
+        "categorie": "person"
+      },
+      {
+        "id": "32856",
+        "label": "モーゼス",
+        "info": "シフのリーダー的存在で、右目が隠れる程の長い前髪が特徴的な美少年。理知的で冷静に物事を判断する。巨大な鎌を武器とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/cb/32856_crt_00ZXM.jpg?r=1432207821",
+        "link": "https://bgm.tv/character/32856",
+        "categorie": "person"
+      },
+      {
+        "id": "32857",
+        "label": "カルマン",
+        "info": "シフのメンバー。三叉の槍（コルセスカ）を武器とする。眼鏡をかけた青年。短気だが、仲間思いでもある。メンバーの中ではナンバー2の存在で、モーゼスを補佐したり、他の仲間をまとめたりする。小説版ではイレーヌの兄となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/91/32857_crt_jC43o.jpg?r=1432207931",
+        "link": "https://bgm.tv/character/32857",
+        "categorie": "person"
+      },
+      {
+        "id": "32858",
+        "label": "イレーヌ",
+        "info": "シフのメンバー。大人しい美少女。大剣を武器とする。聴覚に優れ、小夜のいる場所を瞬時に把握する能力を持つ。内心では人を襲って吸血する事や小夜と戦う事を望んでいなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/4b/32858_crt_j86MV.jpg?r=1432208190",
+        "link": "https://bgm.tv/character/32858",
+        "categorie": "person"
+      },
+      {
+        "id": "32859",
+        "label": "ルルゥ",
+        "info": "シフのメンバー。大きなぎょろ目と紫色の髪を持つ小柄な女の子。武器は身の丈程もある斧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/d4/32859_crt_iTD5i.jpg?r=1432208295",
+        "link": "https://bgm.tv/character/32859",
+        "categorie": "person"
+      },
+      {
+        "id": "32860",
+        "label": "ギー",
+        "info": "シフのメンバー。銀髪で中性的な容姿の青年。ジャマダハルを武器とする。延命が目的とはいえ、内心小夜との戦いは望んでいなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/e2/32860_crt_8DDuT.jpg?r=1432208467",
+        "link": "https://bgm.tv/character/32860",
+        "categorie": "person"
+      },
+      {
+        "id": "32861",
+        "label": "ダーズ",
+        "info": "シフのメンバー。いかついスキンヘッドの少年。巨大なハンマーを駆使して戦う。35話時点でソーンが発生してしまい、ジェイムズによるコープスコーズの強襲の際にはルルゥを逃がした。グドリフを庇って殺される。その遺体は、致命傷を負ったグドリフ諸共、日光を浴び消滅した。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32861",
+        "categorie": "person"
+      },
+      {
+        "id": "32866",
+        "label": "金城香里",
+        "info": "コザ商業高校生徒で陸上部所属。小麦色の肌をした大人しい少女で、ウワサ好きな小夜の親友にして良き理解者。カイに憧れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/bd/32866_crt_gygBb.jpg?r=1432208842",
+        "link": "https://bgm.tv/character/32866",
+        "categorie": "person"
+      },
+      {
+        "id": "32867",
+        "label": "谢花真央",
+        "info": "コザ商業高校生徒。カイの女友達で父親はヤクザ。カイの過去やグレた経緯を知る人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/60/32867_crt_Uzanz.jpg?r=1432208914",
+        "link": "https://bgm.tv/character/32867",
+        "categorie": "person"
+      },
+      {
+        "id": "32868",
+        "label": "冈村昭宏",
+        "info": "アニメ版のみに登場するキャラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/8f/32868_crt_RvHz9.jpg?r=1432209060",
+        "link": "https://bgm.tv/character/32868",
+        "categorie": "person"
+      },
+      {
+        "id": "32869",
+        "label": "初代ジョエル・ゴルドシュミット",
+        "info": "フランスの富豪。ラマルクの動物哲学に傾倒し、自身の屋敷に様々な動植物を集めて、動物実験に没頭した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/ba/32869_crt_A8yAA.jpg",
+        "link": "https://bgm.tv/character/32869",
+        "categorie": "person"
+      },
+      {
+        "id": "32862",
+        "label": "グドリフ",
+        "info": "シフのメンバー。長身でサングラスをつけている。武器はサーベル。35話にてソーンが発生。ジェイムズとコープスコーズの強襲の折に重傷を負う。その後日光が迫り、ルルゥがフードをかぶせようとするが、死期を悟り「逝かせてくれ」と言い残して消滅した。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32862",
+        "categorie": "person"
+      },
+      {
+        "id": "32863",
+        "label": "ヤーン",
+        "info": "シフのメンバー。武器はピッケル。26話で小夜を襲うが返り討ちにあった。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32863",
+        "categorie": "person"
+      },
+      {
+        "id": "32864",
+        "label": "ゲスタス",
+        "info": "シフのメンバー。薙刀を使用する。ディスマスとは双子。ディスマスと共にヴァンの研究施設を襲撃し、シュヴァリエの血を手に入れる為にソロモンを襲うが反撃に遭い殺される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32864",
+        "categorie": "person"
+      },
+      {
+        "id": "32865",
+        "label": "ディスマス",
+        "info": "シフのメンバー。鉈を武器として使用する。ゲスタスとは双子。ゲスタスと共にヴァンの研究施設を襲撃し、その後ソロモンを襲い右腕を切り落とすが、反撃に遭い殺される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32865",
+        "categorie": "person"
+      },
+      {
+        "id": "32871",
+        "label": "反町",
+        "info": "岡村の大学での後輩で、ラグビー同好会に入っていた。現在は全国紙の新聞記者。ステップアップのための地方転勤で、沖縄にやって来た（つまり左遷）。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32871",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1",
+        "label": "鲁路修·兰佩路基",
+        "info": "一年前的东京攻略战中，黑色骑士团因为首领Zero的离开而最终战败。之后一年间，鲁路修的Geass能力被人封印而平静的生活在阿什弗德学园，在第二季开头，鲁路修重新与C.C相遇之后，Geass封印被解开，鲁路修也恢复了记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3a/1_crt_CoJjX.jpg?r=1587935983",
+        "link": "https://bgm.tv/character/1",
+        "categorie": "person"
+      },
+      {
+        "id": "3",
+        "label": "C.C.",
+        "info": "在鲁路修面临生死关头时，给予他Geass的力量救了鲁路修一命。目前寄住在鲁路修家中。但是在R2中只出没于黑色骑士团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/62/3_crt_7Jhis.jpg?r=1573280268",
+        "link": "https://bgm.tv/character/3",
+        "categorie": "person"
+      },
+      {
+        "id": "2",
+        "label": "枢木朱雀",
+        "info": "在第一季的最后，驾驶兰斯洛特向Zero展开了大报复，于战场上活跃，被柯内莉娅晋升为骑士侯。最后在神根岛和鲁路修对决中。从V.V处得知了Geass能力的实质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/40/2_crt_08diJ.jpg?r=1581939778",
+        "link": "https://bgm.tv/character/2",
+        "categorie": "person"
+      },
+      {
+        "id": "2243",
+        "label": "红月华莲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/79/2243_crt_8h0mh.jpg?r=1585447435",
+        "link": "https://bgm.tv/character/2243",
+        "categorie": "person"
+      },
+      {
+        "id": "3272",
+        "label": "娜娜莉·兰佩路基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/22/3272_crt_G05s2.jpg?r=1491126097",
+        "link": "https://bgm.tv/character/3272",
+        "categorie": "person"
+      },
+      {
+        "id": "3441",
+        "label": "拉克夏塔·恰拉",
+        "info": "出身于印度军区的技术人员（印度为中华联邦领土)，曾和赛西尔及洛伊德共事。受到京都六家委托具体设计开发红莲二式及月下等型号日本制Knightmare的人，并作出了红莲贰式的辐射波动这个主要武器。在不列颠帝国也因研究辐射波动而闻名。另外也开发驾驶员的服装。在17话率领开发小组与黑色骑士团会合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/00/3441_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3441",
+        "categorie": "person"
+      },
+      {
+        "id": "3454",
+        "label": "筱崎咲世子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/bd/3454_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3454",
+        "categorie": "person"
+      },
+      {
+        "id": "3461",
+        "label": "维蕾塔·努",
+        "info": "杰雷米亚的部下，纯血派，驾驶Knightmare的女驾驶员。在新宿时受到鲁路修的Geass能力所操纵，把自己驾驶的Knightmare交给了鲁路修。发现zero就是鲁路修的事实，但被夏莉开枪击中。为扇要所救，失去记忆的她性格变得非常温柔体贴。之后记忆受到刺激恢复，将扇打成重伤。R2中，进入阿什弗德学园担任体育老师，真实身份是机情局在东京地区的总指挥。在罗洛的帮助下被鲁路修控制，为黑色骑士团从事情报收集、监视、分析的工作。在世界和平之后成为扇的妻子，并怀有身孕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/8d/3461_crt_anidb.jpg?r=1571118743",
+        "link": "https://bgm.tv/character/3461",
+        "categorie": "person"
+      },
+      {
+        "id": "3464",
+        "label": "杰雷米亚·哥德巴尔德",
+        "info": "名门出身，纯血派军官，拥有边境的伯爵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e6/3464_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3464",
+        "categorie": "person"
+      },
+      {
+        "id": "8239",
+        "label": "皇神乐耶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/f6/8239_crt_anidb.jpg?r=1458390455",
+        "link": "https://bgm.tv/character/8239",
+        "categorie": "person"
+      },
+      {
+        "id": "22862",
+        "label": "柯内莉亚·Li·布里塔尼亚",
+        "info": "原为布里塔尼亚帝国的第2皇女，第3皇位继承人，11区总督R1东京决战后行踪不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a4/22862_crt_a724f.jpg",
+        "link": "https://bgm.tv/character/22862",
+        "categorie": "person"
+      },
+      {
+        "id": "24806",
+        "label": "阿妮亚·阿鲁斯特莱依姆",
+        "info": "神聖ブリタニア帝国の皇帝直属の騎士「ナイトオブラウンズ」の一人、ナイトオブシックス。ラウンズの中では最年少でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/cb/24806_crt_11UaB.jpg?r=1399225764",
+        "link": "https://bgm.tv/character/24806",
+        "categorie": "person"
+      },
+      {
+        "id": "33549",
+        "label": "藤堂镜志朗",
+        "info": "７年前の対ブリタニア戦で一度も負けなかった伝説の将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/82/33549_crt_3DA0u.jpg?r=1573783037",
+        "link": "https://bgm.tv/character/33549",
+        "categorie": "person"
+      },
+      {
+        "id": "35854",
+        "label": "塞希尔·柯尔米",
+        "info": "ランスロット開発メンバーの一員で、ロイドの補佐を務めるオペレーター。ロイド、ラクシャータの大学のゼミ時代の後輩でもあり、庶務全般での活動をしている。自身も優秀な技術者であり、フロートユニット・エナジーウイングの考案者である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/5a/35854_crt_y7Hic.jpg",
+        "link": "https://bgm.tv/character/35854",
+        "categorie": "person"
+      },
+      {
+        "id": "39610",
+        "label": "妮娜·爱因斯坦",
+        "info": "阿什弗德学园高中部2年级学生，学生会的一份子，非常害怕ELEVEN和名誉布里塔尼亚人，精通物理学相关知识，崇拜甚至疯狂迷恋尤菲米娅，因为尤菲米娅的死而变身科学狂人。鲁路修夺取皇位后，加入鲁路修派，为零之镇魂曲知情者，协助人员之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/65/39610_crt_B2i2b.jpg",
+        "link": "https://bgm.tv/character/39610",
+        "categorie": "person"
+      },
+      {
+        "id": "39611",
+        "label": "扇要",
+        "info": "26岁。黑色骑士团的副司令。与卡莲的哥哥红月直人（红月ナオト） 是好朋友。对周遭的人很和善，但却缺乏领导反抗军的统帅与计划能力，其本人也有自觉。作为第一个信任ZERO的人，同时也是第一个背叛ZERO的人 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ae/39611_crt_SwoS2.jpg",
+        "link": "https://bgm.tv/character/39611",
+        "categorie": "person"
+      },
+      {
+        "id": "39612",
+        "label": "洛伊德·阿斯普林德",
+        "info": "帝国特别派遣向导技术部（简称特派）的领导人，最新型Knightmare兰斯洛特的开发者，拥有伯爵的爵位，军阶是少校。选择朱雀驾驶兰斯洛特，并称他为零件。被拉克夏塔称为“布丁伯爵”。和杰雷米亚学生时代相识，和修奈泽尔是同学，和阿斯普林德家族也是公开支持修奈泽尔的名门之一。鲁路修夺取皇位后，加入鲁路修派，是零之镇魂曲的知情、协助人员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/32/39612_crt_mPfID.jpg",
+        "link": "https://bgm.tv/character/39612",
+        "categorie": "person"
+      },
+      {
+        "id": "39613",
+        "label": "基诺·拜因贝鲁克",
+        "info": "Knight of Three",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/81/39613_crt_0fgAz.jpg",
+        "link": "https://bgm.tv/character/39613",
+        "categorie": "person"
+      },
+      {
+        "id": "72153",
+        "label": "玉城真一郎",
+        "info": "皇暦1994年3月3日生まれ(24-25歳)。カレンが所属する小規模レジスタンスグループのメンバーの一人。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ab/72153_crt_dx5BU.jpg?r=1570776044",
+        "link": "https://bgm.tv/character/72153",
+        "categorie": "person"
+      },
+      {
+        "id": "72261",
+        "label": "修奈泽尔·EI·布里塔尼亚",
+        "info": "ブリタニア帝国第二皇子。ブリタニア皇帝に次ぐ帝国の実力者で、故・クロヴィスによれば、ルルーシュの母マリアンヌの暗殺事件の真相を知っている人物の一人だといわれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/82/72261_crt_RXe7B.jpg?r=1571118149",
+        "link": "https://bgm.tv/character/72261",
+        "categorie": "person"
+      },
+      {
+        "id": "73961",
+        "label": "夏姆娜",
+        "info": "ジルクスタンの聖神官。「予言の力」でジルクスタンを勝利に導く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a9/73961_crt_W268M.jpg",
+        "link": "https://bgm.tv/character/73961",
+        "categorie": "person"
+      },
+      {
+        "id": "73962",
+        "label": "夏利欧",
+        "info": "ジルクスタンの国王でシャムナの弟。身体が不自由だが、ナイトメアフレームの高い操縦技術を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/63/73962_crt_La8ua.jpg",
+        "link": "https://bgm.tv/character/73962",
+        "categorie": "person"
+      },
+      {
+        "id": "73963",
+        "label": "ボルボナ・フォーグナー",
+        "info": "シャリオに仕えるジルクスタンの大将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/a8/73963_crt_tPmNm.jpg",
+        "link": "https://bgm.tv/character/73963",
+        "categorie": "person"
+      },
+      {
+        "id": "73964",
+        "label": "シェスタール・フォーグナー",
+        "info": "ボルボナの息子にして、シャムナの親衛隊隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/93/73964_crt_XB55k.jpg",
+        "link": "https://bgm.tv/character/73964",
+        "categorie": "person"
+      },
+      {
+        "id": "73965",
+        "label": "ベルク・バトゥム・ビトゥル",
+        "info": "大監獄にいる男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/b3/73965_crt_VzdB6.jpg",
+        "link": "https://bgm.tv/character/73965",
+        "categorie": "person"
+      },
+      {
+        "id": "73966",
+        "label": "スウェイル・クジャパット",
+        "info": "暗殺部隊の隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/57/73966_crt_P3va6.jpg",
+        "link": "https://bgm.tv/character/73966",
+        "categorie": "person"
+      },
+      {
+        "id": "3437",
+        "label": "夏莉·菲内特",
+        "info": "阿什弗德学园高中部二年级学生，鲁路修的同班同学，暗恋鲁路修。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/0e/3437_crt_7oBRc.jpg",
+        "link": "https://bgm.tv/character/3437",
+        "categorie": "person"
+      },
+      {
+        "id": "3438",
+        "label": "米蕾·阿什弗德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/41/3438_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3438",
+        "categorie": "person"
+      },
+      {
+        "id": "3456",
+        "label": "利瓦尔·卡路迪蒙特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/f7/3456_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3456",
+        "categorie": "person"
+      },
+      {
+        "id": "8632",
+        "label": "查尔斯·Zi·布里塔尼亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/8c/8632_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8632",
+        "categorie": "person"
+      },
+      {
+        "id": "13349",
+        "label": "天子",
+        "info": "中華連邦の頂点に君臨する少女。超合集国建国後は合衆国中華の代表となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a8/13349_crt_RVV2S.jpg",
+        "link": "https://bgm.tv/character/13349",
+        "categorie": "person"
+      },
+      {
+        "id": "24807",
+        "label": "黑色骑士团",
+        "info": "反抗不列颠的势力之一，由Zero所率领，以“正义的使者（正義の味方）”为宗旨。而Zero本人，在宣言中直言：“世界由我们黑色骑士团来仲裁！（世界は！我々黒の騎士団が、裁く!!）。”之后黑色骑士团与不列颠旧皇帝派联手对抗不列颠帝国（鲁路修派）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/51/24807_crt_6AMm0.jpg?r=1399226441",
+        "link": "https://bgm.tv/character/24807",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

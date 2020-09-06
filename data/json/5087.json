@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27124",
+        "label": "遥",
+        "info": "本作主角，十六岁的女高中生。个性开朗活泼且纤细，为了找回妈妈给她的手镜而向狐仙许愿，结果意外地跟着堤欧一起进入弃宝之岛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/64/27124_crt_0m9Ed.jpg?r=1568500613",
+        "link": "https://bgm.tv/character/27124",
+        "categorie": "person"
+      },
+      {
+        "id": "27125",
+        "label": "テオ",
+        "info": "弃宝之岛的居民，本作的关键角色。做着收集人类的丢弃物的工作。一开始不太理会遥，还和男爵达成约定将遥和她的镜子都交给他，但在日渐相处下而逐渐接受她并且和她成为好友，在遥被男爵抓走后决定前去拯救她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/3f/27125_crt_rZU6Q.jpg?r=1568500622",
+        "link": "https://bgm.tv/character/27125",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

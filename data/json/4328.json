@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10820",
+        "label": "秋津政之助",
+        "info": "“五叶”的一员，身材纤长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/e2/10820_crt_auVBz.jpg",
+        "link": "https://bgm.tv/character/10820",
+        "categorie": "person"
+      },
+      {
+        "id": "10821",
+        "label": "弥一",
+        "info": "“五叶”的首领，一副花花公子的样子，很受女人欢迎，可内心深处却藏了什么秘密的充满谜团的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/16/10821_crt_13kZL.jpg",
+        "link": "https://bgm.tv/character/10821",
+        "categorie": "person"
+      },
+      {
+        "id": "10824",
+        "label": "阿竹",
+        "info": "“五叶”里唯一的女性，妖艳的迷之美人，与弥一是老朋友，喜欢喝酒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/5a/10824_crt_6yt2a.jpg",
+        "link": "https://bgm.tv/character/10824",
+        "categorie": "person"
+      },
+      {
+        "id": "10825",
+        "label": "梅造",
+        "info": "“五叶”的一员，是个光头巨汉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/fb/10825_crt_RA6HD.jpg",
+        "link": "https://bgm.tv/character/10825",
+        "categorie": "person"
+      },
+      {
+        "id": "10826",
+        "label": "松吉",
+        "info": "“五叶”的一员，无口的首饰匠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/1d/10826_crt_2OS9v.jpg",
+        "link": "https://bgm.tv/character/10826",
+        "categorie": "person"
+      },
+      {
+        "id": "10828",
+        "label": "八木平左卫门",
+        "info": "多次出现在政之助面前的武士。是一名衙役，同时也是祢一与诚之近的旧识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/19/10828_crt_2gxzt.jpg",
+        "link": "https://bgm.tv/character/10828",
+        "categorie": "person"
+      },
+      {
+        "id": "10830",
+        "label": "阿绢",
+        "info": "梅造的女儿，同时也是梅造经营的居酒屋的看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/44/10830_crt_JGbrM.jpg",
+        "link": "https://bgm.tv/character/10830",
+        "categorie": "person"
+      },
+      {
+        "id": "10831",
+        "label": "佛之宗次",
+        "info": "住在郊外的老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/1e/10831_crt_6p9KV.jpg",
+        "link": "https://bgm.tv/character/10831",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

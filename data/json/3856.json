@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14816",
+        "label": "野口百南花",
+        "info": "成绩经常保持在学年前三名的美少女高中一年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/9e/14816_crt_qbU1K.jpg",
+        "link": "https://bgm.tv/character/14816",
+        "categorie": "person"
+      },
+      {
+        "id": "22325",
+        "label": "野口爱月",
+        "info": "一象の一人娘で、百南花とは従姉妹かつ親友の陽気な女子高生。一象同様、百南花の裏仕事には気付いていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/79/22325_crt_EDAE4.jpg",
+        "link": "https://bgm.tv/character/22325",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

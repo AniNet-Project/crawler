@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16260",
+        "label": "九十九游马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/dd/16260_crt_CQFbO.jpg?r=1427919128",
+        "link": "https://bgm.tv/character/16260",
+        "categorie": "person"
+      },
+      {
+        "id": "16261",
+        "label": "阿斯特拉尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/6c/16261_crt_W0Y0D.jpg",
+        "link": "https://bgm.tv/character/16261",
+        "categorie": "person"
+      },
+      {
+        "id": "16262",
+        "label": "神代凌牙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/74/16262_crt_yDbV9.jpg",
+        "link": "https://bgm.tv/character/16262",
+        "categorie": "person"
+      },
+      {
+        "id": "16267",
+        "label": "天城海斗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/0d/16267_crt_EJ4kq.jpg?r=1427919104",
+        "link": "https://bgm.tv/character/16267",
+        "categorie": "person"
+      },
+      {
+        "id": "16263",
+        "label": "观月小鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/d9/16263_crt_xzQPH.jpg",
+        "link": "https://bgm.tv/character/16263",
+        "categorie": "person"
+      },
+      {
+        "id": "17754",
+        "label": "神代璃绪",
+        "info": "凌牙の双子の妹。他の生徒が思わず見とれてしまう容姿と、様々なスポーツやゲームで現役部員に圧勝できる実力を併せ持つ美少女。普段は物腰柔らいお嬢様的な性格だが、凌牙を侮辱されると豹変し、氷のようなプレッシャーを発する（凌牙からは「氷の女王」と言われている）。凌牙が敵の多いアウトローな存在である事をよく理解しており、自分が凌牙の弱み（人質など）になってしまわないよう、あらゆる分野において自己を磨き強くあろうとしている。凌牙本人に対してはいわゆるツンデレな態度で接しており、小馬鹿にしつつも心から信頼している。幼少時に凌牙にお揃いの指輪をプレゼントし、今でも互いにその指輪をはめている。猫が苦手。遊馬からは「妹シャーク」や「イモシャーク」、「シャークブラザー」と呼ばれているが、いずれの呼び方も不愉快に感じている。 バリアン世界と何か関わりがあるらしく、バリアン襲来時に「やつらが来る、大切なものを奪いに来る」とうわ言を漏らしていた。また、時折バリアンに操られた人と同じように目が赤く光る。 デュエルでは「水」をテーマとする魚族モンスターをメインとする凌牙に対し、「氷」をテーマとした鳥獣族デッキを使用する。実力は非常に高く、ナンバーズを所持していなくてもバリアンの力を与えられたデュエリストに勝利できる程である。 凌牙を精神的に追い詰める策略としてIVにデュエルを挑まれ、IVが発動した魔法カードによって大怪我を負ってしまう。意識は回復しているもののWDC終了後も全快はしておらず、目元に包帯が巻かれた状態で入院を続けていた。「II」開始時点でも入院中の身だったが、凌牙を追い詰めようとしたバリアン支配下のデュエリストに拉致される。しかし、指輪を通じて伝わった凌牙の想いによって無事解放され、包帯も解かれた。その後は無事復学し、主に遊馬達と行動を共にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/91/17754_crt_p2xm8.jpg",
+        "link": "https://bgm.tv/character/17754",
+        "categorie": "person"
+      },
+      {
+        "id": "70366",
+        "label": "米歇尔·阿克雷德",
+        "info": "トロン一家の三男。ⅣとⅤを兄様と呼ぶ。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d6/70366_crt_9sS3S.jpg?r=1559481469",
+        "link": "https://bgm.tv/character/70366",
+        "categorie": "person"
+      },
+      {
+        "id": "48160",
+        "label": "贝库塔",
+        "info": "初登场于第71话，曾附身在菲卡博士身上的巴利安人，被游马打败后一度消失。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/49/48160_crt_qHhlh.jpg?r=1478555774",
+        "link": "https://bgm.tv/character/48160",
+        "categorie": "person"
+      },
+      {
+        "id": "16264",
+        "label": "武田铁男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/af/16264_crt_OXWr3.jpg",
+        "link": "https://bgm.tv/character/16264",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16551",
+        "label": "素",
+        "info": "魔法を使える子供の中で、1人しかいない\"四つ葉\"のクローバー。刺青は左腿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/4b/16551_crt_Nzw35.jpg",
+        "link": "https://bgm.tv/character/16551",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

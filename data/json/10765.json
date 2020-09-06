@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10577",
+        "label": "贝鲁仔",
+        "info": "大魔王之子，被父亲派遣到地球毁灭人类，一旦哭泣就会放出强大的电流。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/72/10577_crt_GWHzA.jpg",
+        "link": "https://bgm.tv/character/10577",
+        "categorie": "person"
+      },
+      {
+        "id": "10583",
+        "label": "男鹿辰巳",
+        "info": "就读于全国最凶·不良率120%的石矢魔高中，因为捡到魔王的儿子又丢不掉，不得不负起奶爸责任的不良少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/50/10583_crt_Fm93s.jpg",
+        "link": "https://bgm.tv/character/10583",
+        "categorie": "person"
+      },
+      {
+        "id": "10746",
+        "label": "希尔达",
+        "info": "服饰魔王之子的侍女恶魔，穿着哥特萝莉的服装，巨乳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/3e/10746_crt_00rQs.jpg",
+        "link": "https://bgm.tv/character/10746",
+        "categorie": "person"
+      },
+      {
+        "id": "10747",
+        "label": "邦枝葵",
+        "info": "石矢魔最大势力“东邦神姬”中唯一的女性，关东最强女性不良团体“烈怒帝瑠”的三代目总长，心月流拔刀术传人。性格正经，责任感强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/0d/10747_crt_O29hZ.jpg",
+        "link": "https://bgm.tv/character/10747",
+        "categorie": "person"
+      },
+      {
+        "id": "10587",
+        "label": "古市贵之",
+        "info": "男鹿的童年好友，并非不良少年的他不知为何会在石矢魔高中读书，基本上属于吐槽役，更为悲剧的是被迫让时空穿梭大叔住进了家门。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/fe/10587_crt_1d4Y9.jpg",
+        "link": "https://bgm.tv/character/10587",
+        "categorie": "person"
+      },
+      {
+        "id": "10748",
+        "label": "阿兰德隆",
+        "info": "能够穿梭时空的次元传送恶魔，不过就外表来看只是个健壮的大叔而已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/6a/10748_crt_87A0h.jpg",
+        "link": "https://bgm.tv/character/10748",
+        "categorie": "person"
+      },
+      {
+        "id": "10749",
+        "label": "夏目慎太郎",
+        "info": "东邦神姬之神崎组的一员，但实力其实在神崎和姬川之上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/a0/10749_crt_1TCw1.jpg",
+        "link": "https://bgm.tv/character/10749",
+        "categorie": "person"
+      },
+      {
+        "id": "10750",
+        "label": "东条英虎",
+        "info": "“东邦神姬”之一，实力很强，对争夺势力不感兴趣，单纯喜欢寻求强大的对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/42/10750_crt_y7AvA.jpg",
+        "link": "https://bgm.tv/character/10750",
+        "categorie": "person"
+      },
+      {
+        "id": "10751",
+        "label": "神崎一",
+        "info": "“东邦神姬”之一，对待部下十分凶残。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/a3/10751_crt_S5l8p.jpg",
+        "link": "https://bgm.tv/character/10751",
+        "categorie": "person"
+      },
+      {
+        "id": "10752",
+        "label": "姬川龙也",
+        "info": "“东邦神姬”之一，姫川财阀的小开，喜欢用钱解决问题，属于精英派不良少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/aa/10752_crt_i9K8u.jpg",
+        "link": "https://bgm.tv/character/10752",
+        "categorie": "person"
+      },
+      {
+        "id": "10778",
+        "label": "东邦神姬",
+        "info": "石矢魔高中4大势力的通称，来源于東条・邦枝・神崎・姫川四人姓名首字组合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/86/10778_crt_T4TT6.jpg",
+        "link": "https://bgm.tv/character/10778",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

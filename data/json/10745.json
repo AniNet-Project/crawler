@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40539",
+        "label": "叶峰",
+        "info": "最喜欢的事：弹吉他、唱歌(给丛容听)，和丛容斗嘴，给“优等生”喂吃的，和天歌、阿盖、COOKIE一起做音乐(这个是死也不能承认的)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/ab/40539_crt_2Du6T.jpg?r=1460704142",
+        "link": "https://bgm.tv/character/40539",
+        "categorie": "person"
+      },
+      {
+        "id": "40541",
+        "label": "楚天歌",
+        "info": "最喜欢的事：音乐，如果可以的话，Maggie也算一个。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/99/40541_crt_syMVg.jpg?r=1460704522",
+        "link": "https://bgm.tv/character/40541",
+        "categorie": "person"
+      },
+      {
+        "id": "40540",
+        "label": "丛容",
+        "info": "最喜欢的事：以前是什么都是第一名、干部的头衔再多几个;不过，后来喜欢的事便是被同学们所认可，能交到朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d9/40540_crt_adgWJ.jpg?r=1460704332",
+        "link": "https://bgm.tv/character/40540",
+        "categorie": "person"
+      },
+      {
+        "id": "40542",
+        "label": "麦云洁",
+        "info": "最喜欢的事：和伙伴们在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/05/40542_crt_HHCJ0.jpg",
+        "link": "https://bgm.tv/character/40542",
+        "categorie": "person"
+      },
+      {
+        "id": "40543",
+        "label": "盖世爱",
+        "info": "最喜欢的事：出风头，看漂亮MM,夸夸其谈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/0c/40543_crt_03j87.jpg",
+        "link": "https://bgm.tv/character/40543",
+        "categorie": "person"
+      },
+      {
+        "id": "40544",
+        "label": "石小松",
+        "info": "韩国侨生",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/62/40544_crt_4Mr5F.jpg",
+        "link": "https://bgm.tv/character/40544",
+        "categorie": "person"
+      },
+      {
+        "id": "40545",
+        "label": "朱丽丽",
+        "info": "最喜欢的事：天下大乱、看帅哥 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/01/40545_crt_1a07F.jpg",
+        "link": "https://bgm.tv/character/40545",
+        "categorie": "person"
+      },
+      {
+        "id": "40546",
+        "label": "冬冬",
+        "info": "最喜欢的事：打鼓",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/b2/40546_crt_Vh3Ff.jpg",
+        "link": "https://bgm.tv/character/40546",
+        "categorie": "person"
+      },
+      {
+        "id": "40547",
+        "label": "梅君严",
+        "info": "个性：天生奴性，从来不会反抗权威。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/7a/40547_crt_8g13V.jpg",
+        "link": "https://bgm.tv/character/40547",
+        "categorie": "person"
+      },
+      {
+        "id": "40548",
+        "label": "冷如花",
+        "info": "个性：在教条、卫道士、自以为是、爱慕虚荣的外表下，却真是一个关心学生的老师，热爱教育事业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/ce/40548_crt_6VObE.jpg",
+        "link": "https://bgm.tv/character/40548",
+        "categorie": "person"
+      },
+      {
+        "id": "40549",
+        "label": "郎昆",
+        "info": "身份：HAPPY女生指导老师（前）、OPEN乐队指导老师、领队（后）",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/ec/40549_crt_J3aJA.jpg",
+        "link": "https://bgm.tv/character/40549",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

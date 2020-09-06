@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3775",
+        "label": "木场修太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/b9/3775_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3775",
+        "categorie": "person"
+      },
+      {
+        "id": "3776",
+        "label": "榎木津礼二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/13/3776_crt_yqDoy.jpg?r=1437490559",
+        "link": "https://bgm.tv/character/3776",
+        "categorie": "person"
+      },
+      {
+        "id": "14788",
+        "label": "京极堂",
+        "info": "经营一间名为“京极堂”旧书店，同时也是“武藏晴明神社”的神主，副业则是阴阳师，朋友们常以他所经营的书店名称“京极堂”称呼他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/33/14788_crt_yBJne.jpg?r=1437639124",
+        "link": "https://bgm.tv/character/14788",
+        "categorie": "person"
+      },
+      {
+        "id": "14789",
+        "label": "关口巽",
+        "info": "小说家，从中学时代开始就和中禅寺秋彦及榎木津认识，学生时代曾经有忧郁症的困扰。除了小说家以外，同时也以“楚木逸己”的笔名替糟粨杂志撰写文章。常常被榎木津礼二郎戏称为“猴子”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/ab/14789_crt_etFo8.jpg?r=1437639140",
+        "link": "https://bgm.tv/character/14789",
+        "categorie": "person"
+      },
+      {
+        "id": "3777",
+        "label": "中禅寺敦子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/d7/3777_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3777",
+        "categorie": "person"
+      },
+      {
+        "id": "3778",
+        "label": "柚木加菜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b0/3778_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3778",
+        "categorie": "person"
+      },
+      {
+        "id": "34284",
+        "label": "鳥口守彦",
+        "info": "不定期発刊のカストリ雑誌「實録犯罪」の編集記者兼カメラマン。御筥様を調べていくうちに、バラバラ殺人事件の被害者達との接点を見つける。あくまで「惚け」の性格で通しているが、聡明で、抜け目無い部分もある。「うへえ」という奇妙な感嘆声を発する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/68/34284_crt_Ud09P.jpg?r=1437489750",
+        "link": "https://bgm.tv/character/34284",
+        "categorie": "person"
+      },
+      {
+        "id": "34285",
+        "label": "楠本頼子",
+        "info": "私立鷹羽女学院中等部に通う14歳の少女。器量は良いが不遇な家庭環境に育ち、暗い性格のため友達もできずにいたが、「自分たちは互いが互いの生まれ変わり」と言う加菜子と親しくするうちに変わっていく。加菜子には憧れに似た感情を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ea/34285_crt_L10dZ.jpg?r=1437489857",
+        "link": "https://bgm.tv/character/34285",
+        "categorie": "person"
+      },
+      {
+        "id": "34286",
+        "label": "柚木陽子",
+        "info": "介绍全是剧透，删了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/21/34286_crt_Sg5Kv.jpg",
+        "link": "https://bgm.tv/character/34286",
+        "categorie": "person"
+      },
+      {
+        "id": "34287",
+        "label": "雨宮典匡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/10/34287_crt_8Qw1a.jpg",
+        "link": "https://bgm.tv/character/34287",
+        "categorie": "person"
+      },
+      {
+        "id": "34288",
+        "label": "増岡則之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/82/34288_crt_U2Zha.jpg",
+        "link": "https://bgm.tv/character/34288",
+        "categorie": "person"
+      },
+      {
+        "id": "34289",
+        "label": "笹川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/85/34289_crt_gyNyB.jpg",
+        "link": "https://bgm.tv/character/34289",
+        "categorie": "person"
+      },
+      {
+        "id": "34290",
+        "label": "楠本君枝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/93/34290_crt_n2wfN.jpg",
+        "link": "https://bgm.tv/character/34290",
+        "categorie": "person"
+      },
+      {
+        "id": "34332",
+        "label": "美馬坂幸四郎",
+        "info": "登戸にある美馬坂近代医学研究所の所長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/ab/34332_crt_oEzco.jpg?r=1437629643",
+        "link": "https://bgm.tv/character/34332",
+        "categorie": "person"
+      },
+      {
+        "id": "34333",
+        "label": "須崎太郎",
+        "info": "幸四郎の助手。腰の曲がった小柄な老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/6e/34333_crt_90Sse.jpg",
+        "link": "https://bgm.tv/character/34333",
+        "categorie": "person"
+      },
+      {
+        "id": "34334",
+        "label": "甲田録介",
+        "info": "美馬坂近代医学研究所で働く技師。初老の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/a2/34334_crt_Ouuhi.jpg",
+        "link": "https://bgm.tv/character/34334",
+        "categorie": "person"
+      },
+      {
+        "id": "34335",
+        "label": "寺田兵衛",
+        "info": "「穢れ封じ御筥様」教主。元は箱職人で、経営していた木工製作所を道場に改装している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/48/34335_crt_Mza1A.jpg",
+        "link": "https://bgm.tv/character/34335",
+        "categorie": "person"
+      },
+      {
+        "id": "34340",
+        "label": "福本",
+        "info": "武蔵小金井駅前派出所に勤務する巡査。大人しく気が小さいが、警察としてのしっかりした芯を持った人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/4a/34340_crt_arXkK.jpg",
+        "link": "https://bgm.tv/character/34340",
+        "categorie": "person"
+      },
+      {
+        "id": "34341",
+        "label": "青木文蔵",
+        "info": "前作『姑獲鳥の夏』より登場。東京警視庁の刑事で、木場の部下。こけしのようだといわれる。特攻隊くずれで、優男だが度胸のある男。謹慎中の木場にバラバラ事件の情報を提供する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/f9/34341_crt_cFJvW.jpg",
+        "link": "https://bgm.tv/character/34341",
+        "categorie": "person"
+      },
+      {
+        "id": "34344",
+        "label": "久保竣公",
+        "info": "稀譚舎が出版している『近代文藝』誌に寄稿している新進幻想小説家。新人賞を取った「蒐集者の庭」を発表している。現在、箱を愛する男が主人公の「匣の中の娘」を執筆中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/e3/34344_crt_pl8Hh.jpg",
+        "link": "https://bgm.tv/character/34344",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "34336",
+        "label": "二階堂寿美",
+        "info": "「穢れ封じ御筥様」事務員。寺田のアシスタントも務める派手な女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/b5/34336_crt_hm3S0.jpg",
+        "link": "https://bgm.tv/character/34336",
+        "categorie": "person"
+      },
+      {
+        "id": "34337",
+        "label": "吉村義助",
+        "info": "御筥様の道場の隣家で、「五色湯」という風呂屋を営む男性。寺田とは幼馴染みだったが、御筥様を始めてからは口を利いていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/a7/34337_crt_f7TcJ.jpg",
+        "link": "https://bgm.tv/character/34337",
+        "categorie": "person"
+      },
+      {
+        "id": "34338",
+        "label": "清野",
+        "info": "信者の身内。その身内に信仰をやめさせるために、御筥様の信者の名簿を盗み出し自分が調べた事実を書き加えて「實禄犯罪」の鳥口に渡した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/68/34338_crt_Zy591.jpg",
+        "link": "https://bgm.tv/character/34338",
+        "categorie": "person"
+      },
+      {
+        "id": "34339",
+        "label": "石井寛爾",
+        "info": "神奈川県警の警部。眼鏡をかけた細身の男性。指揮官としての能力は低い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/63/34339_crt_Nb6NW.jpg",
+        "link": "https://bgm.tv/character/34339",
+        "categorie": "person"
+      },
+      {
+        "id": "34342",
+        "label": "木下圀治",
+        "info": "前作『姑獲鳥の夏』より登場。東京警視庁の刑事で、木場の部下。青木の同僚。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34342",
+        "categorie": "person"
+      },
+      {
+        "id": "34343",
+        "label": "里村肱市",
+        "info": "前作『姑獲鳥の夏』（演 - 阿部能丸）より登場。解剖・監察医。普段は九段下で開業医を営んでいるが、死体と聞けば喜んですっ飛んでいく、解剖大好きの変わった医者。「日本一腕のいい監察医」を自称し、事実確かな実力をもっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/25/34343_crt_A766W.jpg",
+        "link": "https://bgm.tv/character/34343",
+        "categorie": "person"
+      },
+      {
+        "id": "34345",
+        "label": "小泉珠代",
+        "info": "稀譚舎の社員で関口の担当編集者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/ee/34345_crt_7676E.jpg",
+        "link": "https://bgm.tv/character/34345",
+        "categorie": "person"
+      },
+      {
+        "id": "34346",
+        "label": "山嵜孝鷹",
+        "info": "稀譚舎の社員で『近代文藝』の編集長。関口に彼の作品の単行本化の話を持ちかけた際、編集室を訪ねてきた久保を紹介した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/e6/34346_crt_YghYs.jpg",
+        "link": "https://bgm.tv/character/34346",
+        "categorie": "person"
+      },
+      {
+        "id": "34347",
+        "label": "寺内",
+        "info": "稀譚舎の社員で、書籍部に所属する。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34347",
+        "categorie": "person"
+      },
+      {
+        "id": "34348",
+        "label": "柿崎芳美",
+        "info": "15歳。川崎の写真館の娘だが、不良少女で美人局をやっていた（アニメ版では「アプレを気取って売春街に出入りしていた」旨説明されている）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/09/34348_crt_nn666.jpg",
+        "link": "https://bgm.tv/character/34348",
+        "categorie": "person"
+      },
+      {
+        "id": "34349",
+        "label": "川島新造",
+        "info": "木場修太郎や榎木津礼二郎の戦前からの友人で、飲み仲間。戦時中は甘粕正彦の腹心として働き、現在は「騎兵隊映画社」で映画製作をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/69/34349_crt_L7F22.jpg",
+        "link": "https://bgm.tv/character/34349",
+        "categorie": "person"
+      },
+      {
+        "id": "34350",
+        "label": "伊佐間一成",
+        "info": "中禅寺らの友人。「いさま屋」とあだ名される。釣りを趣味としており、全国を旅していることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/3b/34350_crt_0Q6Go.jpg",
+        "link": "https://bgm.tv/character/34350",
+        "categorie": "person"
+      },
+      {
+        "id": "34351",
+        "label": "安和寅吉",
+        "info": "前作『姑獲鳥の夏』より登場。通称「和寅」。薔薇十字探偵社に住み込みで勤める、榎木津の秘書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/21/34351_crt_41iY1.jpg",
+        "link": "https://bgm.tv/character/34351",
+        "categorie": "person"
+      },
+      {
+        "id": "34352",
+        "label": "中禅寺千鶴子",
+        "info": "前作『姑獲鳥の夏』より登場。京極堂の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/c6/34352_crt_U9C22.jpg?r=1437631310",
+        "link": "https://bgm.tv/character/34352",
+        "categorie": "person"
+      },
+      {
+        "id": "34353",
+        "label": "関口雪絵",
+        "info": "前作『姑獲鳥の夏』より登場。関口巽の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/5b/34353_crt_azXmd.jpg",
+        "link": "https://bgm.tv/character/34353",
+        "categorie": "person"
+      },
+      {
+        "id": "34354",
+        "label": "長尾郁子",
+        "info": "長尾 郁子（ながお いくこ、1871年[1] - 1911年2月26日[2]）は、透視能力と念写能力を持つ超能力者として福来友吉に紹介された女性である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/3f/34354_crt_hIAa9.jpg",
+        "link": "https://bgm.tv/character/34354",
+        "categorie": "person"
+      },
+      {
+        "id": "34355",
+        "label": "御船千鶴子",
+        "info": "御船 千鶴子（みふね ちづこ、1886年（明治19年）7月17日 - 1911年（明治44年）1月19日）は、透視能力を持つ超能力者として福来友吉博士に紹介された女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/fa/34355_crt_xRF2F.jpg",
+        "link": "https://bgm.tv/character/34355",
+        "categorie": "person"
+      },
+      {
+        "id": "34356",
+        "label": "福来友及",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/53/34356_crt_BR9bY.jpg",
+        "link": "https://bgm.tv/character/34356",
+        "categorie": "person"
+      },
+      {
+        "id": "34357",
+        "label": "今村新吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/78/34357_crt_35Smr.jpg",
+        "link": "https://bgm.tv/character/34357",
+        "categorie": "person"
+      },
+      {
+        "id": "34358",
+        "label": "山川健次郎",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34358",
+        "categorie": "person"
+      },
+      {
+        "id": "34359",
+        "label": "中村清二",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34359",
+        "categorie": "person"
+      },
+      {
+        "id": "34360",
+        "label": "藤教篤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/cb/34360_crt_fZ5m0.jpg",
+        "link": "https://bgm.tv/character/34360",
+        "categorie": "person"
+      },
+      {
+        "id": "34361",
+        "label": "柴田",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34361",
+        "categorie": "person"
+      },
+      {
+        "id": "34362",
+        "label": "黑衣の男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/64/34362_crt_DD0R1.jpg",
+        "link": "https://bgm.tv/character/34362",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

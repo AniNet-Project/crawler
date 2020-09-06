@@ -1,0 +1,469 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19452",
+        "label": "幸平创真",
+        "info": "本作品の主人公。15歳。大衆食堂「食事処 ゆきひら」の跡取り息子で、店主である父との二人暮らし[注 1]。左眉付近にある切り傷が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/80/19452_crt_lwli1.jpg?r=1530151046",
+        "link": "https://bgm.tv/character/19452",
+        "categorie": "person"
+      },
+      {
+        "id": "19453",
+        "label": "薙切绘里奈",
+        "info": "本作品におけるヒロインの一人で、主人公のライバル的存在。15歳。遠月学園総帥の孫娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/40/19453_crt_6pACb.jpg?r=1530151009",
+        "link": "https://bgm.tv/character/19453",
+        "categorie": "person"
+      },
+      {
+        "id": "19454",
+        "label": "田所惠",
+        "info": "本作品のもう一人のヒロイン。中等部から遠月学園に在籍している女生徒で、創真の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/5d/19454_crt_7uU3U.jpg",
+        "link": "https://bgm.tv/character/19454",
+        "categorie": "person"
+      },
+      {
+        "id": "19946",
+        "label": "一色慧",
+        "info": "遠月学園高等部2年生の男子生徒。「遠月十傑評議会」の第七席。極星寮生たちのリーダー的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/bd/19946_crt_flt5T.jpg?r=1530151223",
+        "link": "https://bgm.tv/character/19946",
+        "categorie": "person"
+      },
+      {
+        "id": "19947",
+        "label": "吉野悠姬",
+        "info": "遠月学園高等部1年生の女子生徒。極星寮116号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/87/19947_crt_eee9b.jpg?r=1530151137",
+        "link": "https://bgm.tv/character/19947",
+        "categorie": "person"
+      },
+      {
+        "id": "19948",
+        "label": "榊凉子",
+        "info": "遠月学園高等部1年生の女子生徒。極星寮112号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/08/19948_crt_O4444.jpg?r=1530151096",
+        "link": "https://bgm.tv/character/19948",
+        "categorie": "person"
+      },
+      {
+        "id": "20104",
+        "label": "伊武崎峻",
+        "info": "遠月学園高等部1年生の男子生徒。極星寮208号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2b/20104_crt_KbBXI.jpg?r=1530151248",
+        "link": "https://bgm.tv/character/20104",
+        "categorie": "person"
+      },
+      {
+        "id": "20105",
+        "label": "丸井善二",
+        "info": "遠月学園高等部1年生の男子生徒。極星寮205号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/66/20105_crt_QpdXp.jpg?r=1530151271",
+        "link": "https://bgm.tv/character/20105",
+        "categorie": "person"
+      },
+      {
+        "id": "20106",
+        "label": "水户郁魅",
+        "info": "遠月学園高等部1年生の女子生徒。えりなの派閥に属する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/67/20106_crt_r2IaF.jpg?r=1530150818",
+        "link": "https://bgm.tv/character/20106",
+        "categorie": "person"
+      },
+      {
+        "id": "20107",
+        "label": "塔克米·阿尔迪尼",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d8/20107_crt_4JrUU.jpg?r=1530150571",
+        "link": "https://bgm.tv/character/20107",
+        "categorie": "person"
+      },
+      {
+        "id": "20108",
+        "label": "勇·阿尔迪尼",
+        "info": "遠月学園高等部1年生の男子生徒。タクミの双子の弟で、同じく「トラットリア・アルディーニ」の跡取り息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/84/20108_crt_97I7L.jpg?r=1524833382",
+        "link": "https://bgm.tv/character/20108",
+        "categorie": "person"
+      },
+      {
+        "id": "20111",
+        "label": "薙切仙左卫门",
+        "info": "遠月学園総帥。えりなの祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/7d/20111_crt_tQLNL.jpg",
+        "link": "https://bgm.tv/character/20111",
+        "categorie": "person"
+      },
+      {
+        "id": "20113",
+        "label": "大御堂文緒",
+        "info": "極星寮の管理責任者。寮母を長年務めている老婆。「極星の聖母（マリア）」を自称している。若い頃はかなりの美人であった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/e2/20113_crt_lZ3Ef.jpg",
+        "link": "https://bgm.tv/character/20113",
+        "categorie": "person"
+      },
+      {
+        "id": "20114",
+        "label": "堂岛银",
+        "info": "遠月リゾート総料理長兼取締役会役員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/59/20114_crt_W1Ypy.jpg?r=1530150176",
+        "link": "https://bgm.tv/character/20114",
+        "categorie": "person"
+      },
+      {
+        "id": "20115",
+        "label": "四宫小次郎",
+        "info": "フランス料理店「SHINO'S」シェフ。遠月学園第79期卒業生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/17/20115_crt_jP4JB.jpg",
+        "link": "https://bgm.tv/character/20115",
+        "categorie": "person"
+      },
+      {
+        "id": "20116",
+        "label": "水原冬美",
+        "info": "イタリア料理店「リストランテ エフ」シェフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/02/20116_crt_b57fV.jpg",
+        "link": "https://bgm.tv/character/20116",
+        "categorie": "person"
+      },
+      {
+        "id": "20119",
+        "label": "乾日向子",
+        "info": "日本料理店「霧のや」女将。遠月学園第80期卒業生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/db/20119_crt_8PTq7.jpg",
+        "link": "https://bgm.tv/character/20119",
+        "categorie": "person"
+      },
+      {
+        "id": "20120",
+        "label": "幸平城一郎",
+        "info": "創真の父で、大衆食堂「食事処 ゆきひら」の店主。38歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/a2/20120_crt_Hi4jD.jpg?r=1530150160",
+        "link": "https://bgm.tv/character/20120",
+        "categorie": "person"
+      },
+      {
+        "id": "20121",
+        "label": "仓濑真由美",
+        "info": "創真の中学時代の同級生である少女。第1話冒頭で創真と城一郎の料理対決を審査した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/8e/20121_crt_Ukp38.jpg",
+        "link": "https://bgm.tv/character/20121",
+        "categorie": "person"
+      },
+      {
+        "id": "21289",
+        "label": "川岛丽",
+        "info": "遠月学園高等部1年生の女子生徒。創真と郁魅の「食戟」で司会を担当した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/d1/21289_crt_000Ff.jpg?r=1530151375",
+        "link": "https://bgm.tv/character/21289",
+        "categorie": "person"
+      },
+      {
+        "id": "27051",
+        "label": "薙切爱丽丝",
+        "info": "遠月学園高等部1年生の女子生徒。えりなの従姉妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/0f/27051_crt_n552P.jpg?r=1530150363",
+        "link": "https://bgm.tv/character/27051",
+        "categorie": "person"
+      },
+      {
+        "id": "29650",
+        "label": "新户绯沙子",
+        "info": "遠月学園高等部1年生の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/55/29650_crt_M3XOm.jpg?r=1530150284",
+        "link": "https://bgm.tv/character/29650",
+        "categorie": "person"
+      },
+      {
+        "id": "29652",
+        "label": "汐见润",
+        "info": "遠月学園教師。遠月学園卒業生で極星寮OG。34歳（第45話時点）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/a8/29652_crt_SEV9e.jpg",
+        "link": "https://bgm.tv/character/29652",
+        "categorie": "person"
+      },
+      {
+        "id": "29657",
+        "label": "黑木场辽",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ae/29657_crt_EcQVv.jpg?r=1530150664",
+        "link": "https://bgm.tv/character/29657",
+        "categorie": "person"
+      },
+      {
+        "id": "29658",
+        "label": "叶山煌",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/6e/29658_crt_7avuj.jpg?r=1530150737",
+        "link": "https://bgm.tv/character/29658",
+        "categorie": "person"
+      },
+      {
+        "id": "42118",
+        "label": "美作昴",
+        "info": "遠月茶寮料理學園高等部１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/9a/42118_crt_4NWhW.jpg?r=1530150932",
+        "link": "https://bgm.tv/character/42118",
+        "categorie": "person"
+      },
+      {
+        "id": "42311",
+        "label": "叡山枝津也",
+        "info": "遠月学園高等部2年生で遠月十傑評議会の第九席。「錬金術師」の異名を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/2c/42311_crt_YcTP3.jpg?r=1524833398",
+        "link": "https://bgm.tv/character/42311",
+        "categorie": "person"
+      },
+      {
+        "id": "43033",
+        "label": "青木大吾",
+        "info": "それぞれ極星寮107号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/fa/43033_crt_tPJT9.jpg?r=1524833437",
+        "link": "https://bgm.tv/character/43033",
+        "categorie": "person"
+      },
+      {
+        "id": "43034",
+        "label": "佐藤昭二",
+        "info": "それぞれ極星寮211号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/30/43034_crt_UgUHd.jpg?r=1530151443",
+        "link": "https://bgm.tv/character/43034",
+        "categorie": "person"
+      },
+      {
+        "id": "43439",
+        "label": "佐佐木由爱",
+        "info": "远月学园高等部一年级的学生，经常在各类料理比赛中担任司仪的职务，外表是绑着双短马尾的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/6b/43439_crt_5REQF.jpg?r=1468737643",
+        "link": "https://bgm.tv/character/43439",
+        "categorie": "person"
+      },
+      {
+        "id": "43607",
+        "label": "早津田充",
+        "info": "遠月学園中等部3年生（第93期生）。新聞部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/c6/43607_crt_bb6Be.jpg",
+        "link": "https://bgm.tv/character/43607",
+        "categorie": "person"
+      },
+      {
+        "id": "43608",
+        "label": "木久知园果",
+        "info": "洋食専門店「春果停」シェフ。遠月学園第89期卒業生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/fc/43608_crt_M8A6k.jpg",
+        "link": "https://bgm.tv/character/43608",
+        "categorie": "person"
+      },
+      {
+        "id": "43609",
+        "label": "角崎泷",
+        "info": "スペイン料理店「タキ・アマリージョ」シェフ。遠月学園第88期卒業生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/44/43609_crt_C6N2x.jpg",
+        "link": "https://bgm.tv/character/43609",
+        "categorie": "person"
+      },
+      {
+        "id": "43740",
+        "label": "富田友哉",
+        "info": "富田家便当店的第二代店长兼堇花商店街现商店会长。他也常常会到幸平餐馆去吃东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/aa/43740_crt_PPApy.jpg",
+        "link": "https://bgm.tv/character/43740",
+        "categorie": "person"
+      },
+      {
+        "id": "44742",
+        "label": "薙切蕾奥诺菈",
+        "info": "薙切爱丽丝的母亲，北欧人，在意年纪和称呼。 为远月学园研究部门薙切国际负责人，统帅以最新科学手段引领美食学与分子料理界的远月学术机关，日语能力极差，为秋季选拔决赛主审之一。 吃到美味的料理后会以长篇大论的文字说明叙述感想。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/95/44742_crt_lv3HO.jpg?r=1471798359",
+        "link": "https://bgm.tv/character/44742",
+        "categorie": "person"
+      },
+      {
+        "id": "45152",
+        "label": "大泉柿之进",
+        "info": "年事较高，身份是和食兴业会的会长，对美食有着自己独到的见解。在秋季选拔赛期间，担任着创真和爱丽丝“便当对决”的审查工作，被两人高超的料理技术折服，称呼创真为“幸平少年”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/9b/45152_crt_22t24.jpg?r=1472363320",
+        "link": "https://bgm.tv/character/45152",
+        "categorie": "person"
+      },
+      {
+        "id": "45153",
+        "label": "早乙女星周",
+        "info": "外表是戴着眼镜的儒雅绅士，身份是日本美食协会的理事，对美食有着自己独到的见解。在秋季选拔赛期间，担任着创真和爱丽丝“便当对决”的审查工作，被两人高超的料理技术折服。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/f1/45153_crt_LKk4U.jpg?r=1472363484",
+        "link": "https://bgm.tv/character/45153",
+        "categorie": "person"
+      },
+      {
+        "id": "46418",
+        "label": "高唯",
+        "info": "法国料理店SHINO'S本店接待负责人。跟随四宫小次郎一起到东京shino's来担任接待负责人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/5d/46418_crt_SRxsV.jpg?r=1474176519",
+        "link": "https://bgm.tv/character/46418",
+        "categorie": "person"
+      },
+      {
+        "id": "46419",
+        "label": "露西・雨果",
+        "info": "法国料理餐德SHINO'S本店肉类料理负责人。之后跟随四宫到东京Shino's",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d7/46419_crt_E0UQb.jpg?r=1474176679",
+        "link": "https://bgm.tv/character/46419",
+        "categorie": "person"
+      },
+      {
+        "id": "46420",
+        "label": "亚伯・布隆丹",
+        "info": "四宫小次郎在巴黎所开设的法国料理餐德Shino's的副主厨，后来跟随他到东京Shino's，长时间跟随四宫小次郎，对他有一定程度的崇拜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/61/46420_crt_vQzeG.jpg?r=1474176710",
+        "link": "https://bgm.tv/character/46420",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "20112",
+        "label": "罗兰·谢培尔",
+        "info": "遠月学園のフランス料理部門主任を務める講師。学園内でも特に評価が厳しく、「笑わない料理人」と呼ばれるが、創真の実力を認め、A評価を与える。高等部1年生の宿泊研修に生徒引率のため同行する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/cd/20112_crt_90f8S.jpg",
+        "link": "https://bgm.tv/character/20112",
+        "categorie": "person"
+      },
+      {
+        "id": "20117",
+        "label": "关守平",
+        "info": "鮨店「銀座ひのわ」板長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/76/20117_crt_9uK03.jpg",
+        "link": "https://bgm.tv/character/20117",
+        "categorie": "person"
+      },
+      {
+        "id": "20118",
+        "label": "多纳托梧桐田",
+        "info": "オーベルジュ「テゾーロ」シェフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/33/20118_crt_BckhH.jpg",
+        "link": "https://bgm.tv/character/20118",
+        "categorie": "person"
+      },
+      {
+        "id": "29654",
+        "label": "北条美代子",
+        "info": "遠月学園高等部1年生の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/2c/29654_crt_hwZ1W.jpg",
+        "link": "https://bgm.tv/character/29654",
+        "categorie": "person"
+      },
+      {
+        "id": "29655",
+        "label": "贞冢奈绪",
+        "info": "遠月学園高等部1年生の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/7e/29655_crt_IR4qd.jpg?r=1440839938",
+        "link": "https://bgm.tv/character/29655",
+        "categorie": "person"
+      },
+      {
+        "id": "43233",
+        "label": "恵の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f6/43233_crt_ig0Gm.jpg?r=1468120688",
+        "link": "https://bgm.tv/character/43233",
+        "categorie": "person"
+      },
+      {
+        "id": "43611",
+        "label": "景浦久尚",
+        "info": "34岁，远月学园食戟管理局现任局长。黑发，戴黑框眼镜，不苟言笑却穿着纹样夸张花俏西装的男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/ef/43611_crt_s7e22.jpg?r=1469342286",
+        "link": "https://bgm.tv/character/43611",
+        "categorie": "person"
+      },
+      {
+        "id": "44098",
+        "label": "美作の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/b0/44098_crt_zxZpR.jpg?r=1470551698",
+        "link": "https://bgm.tv/character/44098",
+        "categorie": "person"
+      },
+      {
+        "id": "44843",
+        "label": "矶部矶兵卫",
+        "info": "本作の主人公。立派な武士を目指す青年。「武士道学校」の生徒だが、遅刻の常習犯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/20/44843_crt_lTLA7.jpg?r=1473078078",
+        "link": "https://bgm.tv/character/44843",
+        "categorie": "person"
+      },
+      {
+        "id": "44844",
+        "label": "犬",
+        "info": "磯部家で飼われている犬。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b9/44844_crt_OB8b0.jpg",
+        "link": "https://bgm.tv/character/44844",
+        "categorie": "person"
+      },
+      {
+        "id": "45977",
+        "label": "傘山シェフ",
+        "info": "本格フレンチレストラン「エクセラン」料理長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/48/45977_crt_65f1h.jpg?r=1473557677",
+        "link": "https://bgm.tv/character/45977",
+        "categorie": "person"
+      },
+      {
+        "id": "45978",
+        "label": "三田村衛",
+        "info": "洋食店「洋食の三田村」3代目オーナーシェフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/ea/45978_crt_3MMqf.jpg?r=1473557675",
+        "link": "https://bgm.tv/character/45978",
+        "categorie": "person"
+      },
+      {
+        "id": "45979",
+        "label": "西園和音",
+        "info": "遠月学園教務部に所属する女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/45/45979_crt_4kx5K.jpg?r=1473557750",
+        "link": "https://bgm.tv/character/45979",
+        "categorie": "person"
+      },
+      {
+        "id": "45980",
+        "label": "清水",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/e0/45980_crt_2FARf.jpg?r=1473557811",
+        "link": "https://bgm.tv/character/45980",
+        "categorie": "person"
+      },
+      {
+        "id": "46790",
+        "label": "甲山铁次",
+        "info": "远月学园91届学生，人称「串刺之铁」，擅长利用各式样素材进行加工调理，为食戟胜率超过八成的强者之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/90/46790_crt_MG4rD.jpg?r=1474770377",
+        "link": "https://bgm.tv/character/46790",
+        "categorie": "person"
+      },
+      {
+        "id": "46791",
+        "label": "四宮の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/82/46791_crt_oP47o.jpg?r=1474770411",
+        "link": "https://bgm.tv/character/46791",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

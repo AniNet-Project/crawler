@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46732",
+        "label": "姫乃きさら",
+        "info": "黄油公司「Flower」的主要原画。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/35/46732_crt_Tkt9W.jpg",
+        "link": "https://bgm.tv/character/46732",
+        "categorie": "person"
+      },
+      {
+        "id": "46734",
+        "label": "藤原桃花",
+        "info": "黄油公司「Flower」的剧本家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/4c/46734_crt_4pfK4.jpg",
+        "link": "https://bgm.tv/character/46734",
+        "categorie": "person"
+      },
+      {
+        "id": "46735",
+        "label": "高坂伊織",
+        "info": "黄油公司「Flower」的上色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/d0/46735_crt_jYyWJ.jpg",
+        "link": "https://bgm.tv/character/46735",
+        "categorie": "person"
+      },
+      {
+        "id": "46736",
+        "label": "園野寧々",
+        "info": "黄油公司「Flower」的社长兼营业兼指挥兼脚本。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/2a/46736_crt_BrJDN.jpg",
+        "link": "https://bgm.tv/character/46736",
+        "categorie": "person"
+      },
+      {
+        "id": "46738",
+        "label": "愛沢れもん",
+        "info": "最近崭露头角中的新人年轻声优。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/14/46738_crt_A4d4S.jpg",
+        "link": "https://bgm.tv/character/46738",
+        "categorie": "person"
+      },
+      {
+        "id": "14742",
+        "label": "真中合欢",
+        "info": "性格反复无常，具有蛊惑性的令人难以理解的少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/8b/14742_crt_Zr2nc.jpg",
+        "link": "https://bgm.tv/character/14742",
+        "categorie": "person"
+      },
+      {
+        "id": "14743",
+        "label": "帆刈叶",
+        "info": "善良且坚强的青梅竹马",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/1a/14743_crt_EVWKx.jpg",
+        "link": "https://bgm.tv/character/14743",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

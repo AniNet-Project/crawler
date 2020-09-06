@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59515",
+        "label": "米格尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/ab/59515_crt_Tz26f.jpg?r=1512214533",
+        "link": "https://bgm.tv/character/59515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

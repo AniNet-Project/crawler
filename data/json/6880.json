@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15130",
+        "label": "サミイ",
+        "info": "陆雄家中的家务机器人。腹部可打开，进行充电或检查运行记录。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/f6/15130_crt_Fx3xx.jpg",
+        "link": "https://bgm.tv/character/15130",
+        "categorie": "person"
+      },
+      {
+        "id": "73285",
+        "label": "向坂陆夫",
+        "info": "主角，男高中生，與雙親和姊姊直子一同生活。家裡有一台家用人形機器人「薩米」。在劇中的時代，人們普遍認為如薩米這類的家庭用人形機器人是「方便的工具」，而不應用如同對待人類般的方式去對待他們。然而，主角家庭成員還是挺信任薩米的。父親的工作似乎與人形機器人有關。有學習彈鋼琴，但因為一次獲獎比賽新聞關注點不及同場的機器人彈奏，認為自己不及機器人表達感情而停止了，在故事中，因為薩米表達喜歡其彈琴並希望能重新聽見其演奏而恢復。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/44/73285_crt_1xuu0.jpg",
+        "link": "https://bgm.tv/character/73285",
+        "categorie": "person"
+      },
+      {
+        "id": "73286",
+        "label": "真崎正和",
+        "info": "男高中生，陸夫的朋友，是對機器人三原則相當了解的優待生，不過家裡沒有家用人形機器人，但有一個已停產的育兒機器人THX，暱稱泰克斯（テックス）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/76/73286_crt_lBLmr.jpg?r=1577076360",
+        "link": "https://bgm.tv/character/73286",
+        "categorie": "person"
+      },
+      {
+        "id": "73287",
+        "label": "凪",
+        "info": "「夏娃的時間」的服務生，耳環與眨眼令人印象深刻。個性溫柔待人和氣，但是對店內的規則卻是嚴格把關。是十多年前機器人傷人事件的受害者。受傷出院後和潮月一起居住旅行，在數個地方都開過同名的茶室，均因為各種各樣的原因關門。似乎和蘆森主任相識。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/4f/73287_crt_ffOw5.jpg",
+        "link": "https://bgm.tv/character/73287",
+        "categorie": "person"
+      },
+      {
+        "id": "73288",
+        "label": "亚纪子",
+        "info": "人形機器人，「夏娃的時間」的常客，外觀與內在看起來就是很活潑的人，個性爽朗且容易與人聊開。對第一次到店內的陸夫及正樹相當親切，在「夏娃的時間」會戴著針織帽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/10/73288_crt_6YpY1.jpg",
+        "link": "https://bgm.tv/character/73288",
+        "categorie": "person"
+      },
+      {
+        "id": "73289",
+        "label": "耕次",
+        "info": "人形機器人，「夏娃的時間」的常客。以為莉娜是個樣子很像他主人的人類，希望通過和莉娜相處了解主人並希望主人能找個人類的伴侶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/62/73289_crt_M5SSJ.jpg",
+        "link": "https://bgm.tv/character/73289",
+        "categorie": "person"
+      },
+      {
+        "id": "73290",
+        "label": "莉娜",
+        "info": "人形機器人，「夏娃的時間」的常客，有著漂亮的外表。是樣子像耕次的重要人物的守護機器人，在一次保護時受傷並且不能送去修理而被拋棄，在「夏娃的時間」以為耕次是個人類，希望和耕次相處能重新獲得被主人喜歡的幸福。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/9c/73290_crt_atc8B.jpg",
+        "link": "https://bgm.tv/character/73290",
+        "categorie": "person"
+      },
+      {
+        "id": "73291",
+        "label": "千惠",
+        "info": "「夏娃的時間」的常客，估計不到8歲的小孩子，喜歡在店內跑來跑去，認為自己是貓，喜歡冰淇淋，喜歡藏東西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a9/73291_crt_2N57W.jpg?r=1574396559",
+        "link": "https://bgm.tv/character/73291",
+        "categorie": "person"
+      },
+      {
+        "id": "73292",
+        "label": "西梅",
+        "info": "「夏娃的時間」的常客，老紳士的外表，是千惠的保護者。是秘密開發的新一代育兒機器人（以長輩或父母的身份來養育兒童），並且處於秘密測試中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e3/73292_crt_1sSzk.jpg",
+        "link": "https://bgm.tv/character/73292",
+        "categorie": "person"
+      },
+      {
+        "id": "73293",
+        "label": "赛特罗",
+        "info": "「夏娃的時間」的常客，每次見到他都是在讀書（書名CODE：LIFE），性格沈默寡言，也很少跟其他顧客接觸。實際是蘆森派來觀察「夏娃的時間」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/6c/73293_crt_89XX8.jpg?r=1574396581",
+        "link": "https://bgm.tv/character/73293",
+        "categorie": "person"
+      },
+      {
+        "id": "73294",
+        "label": "直子",
+        "info": "陸夫的姊姊，女大學生。對於家裡有人型機器人覺得很羞恥，對於弟弟陸夫似乎快成為 Dori 系而感到擔心，認為媽媽對薩米的關心跟弟弟對薩米的關心是不同的關心。在6集DVD的最後，有把薩米當作家人對待的傾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/b3/73294_crt_00Z20.jpg",
+        "link": "https://bgm.tv/character/73294",
+        "categorie": "person"
+      },
+      {
+        "id": "73295",
+        "label": "カヨ",
+        "info": "マサキと同じ法学部特待生クラスの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/08/73295_crt_QRHdL.jpg",
+        "link": "https://bgm.tv/character/73295",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

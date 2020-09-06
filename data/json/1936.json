@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27785",
+        "label": "寺尾升",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/be/27785_crt_uuuH8.jpg",
+        "link": "https://bgm.tv/character/27785",
+        "categorie": "person"
+      },
+      {
+        "id": "2766",
+        "label": "长峰美加子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/5c/2766_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2766",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

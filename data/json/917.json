@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1588",
+        "label": "竹原明之",
+        "info": "居住在尖端岛的男高中生，独子，巧妙的维持着分居中的父母之间冷战的局面，和青梅竹马的西村春关系不错。但认为像母亲或姐姐一样却又身为同班同学的春是难应付的类型。因为巴士爆炸事件而被希洛克（ヒルコ）附身成为扎姆德。在失去意识暴走的对峙人形兵器的时候被娜琪亚美挽救，随后被带至赞巴尼号进行扎姆德的修行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/56/1588_crt_Z30z0.jpg",
+        "link": "https://bgm.tv/character/1588",
+        "categorie": "person"
+      },
+      {
+        "id": "1589",
+        "label": "西村春",
+        "info": "秋幸（又译：明之）的青梅竹马和同班同学，虽然秋幸并没有过分依赖她，但是她单纯的觉得不能放任不管，经历了巴士爆炸事件之后，开始领悟到自己的真实感情。正在学习心武道，是体育万能，成绩优秀的优等生。在看到古市的改变后决心与过去的自己道别，但却又不知如何面对突然回到尖端岛的秋幸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/22/1589_crt_UPeoF.jpg",
+        "link": "https://bgm.tv/character/1589",
+        "categorie": "person"
+      },
+      {
+        "id": "1590",
+        "label": "娜琪亚美",
+        "info": "通过聆听‘扎姆德’和‘人形兵器’的心声从而压抑其暴走状态的‘人形使’。赞巴尼号中乘坐被称为ビートカヤック的小型飞行器进行侦查任务的侦查员。直觉敏锐，不太喜欢表露感情。身上流着泰斯克（テシク）一族的血液，一直试图留意自己民族的走向，并试图拯救他们。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/b7/1590_crt_dAL7L.jpg",
+        "link": "https://bgm.tv/character/1590",
+        "categorie": "person"
+      },
+      {
+        "id": "15040",
+        "label": "红皮伊舟",
+        "info": "国際郵便船ザンバニ号の船長。美人で誇り高く頼りになるタイプで、男性船員たちはアゴで使われている。ナキアミを妹のように想い、何かと気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/0b/15040_crt_lpVNV.jpg",
+        "link": "https://bgm.tv/character/15040",
+        "categorie": "person"
+      },
+      {
+        "id": "15041",
+        "label": "阿姆",
+        "info": "ザンバニ号の乗組員で、腕っ節の強い寡黙な主操縦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/9a/15041_crt_2PYj7.jpg",
+        "link": "https://bgm.tv/character/15041",
+        "categorie": "person"
+      },
+      {
+        "id": "15042",
+        "label": "桧丸",
+        "info": "ユンボの子どもでコバコと仲良し。アームのことを父のように慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/8b/15042_crt_qQwqq.jpg",
+        "link": "https://bgm.tv/character/15042",
+        "categorie": "person"
+      },
+      {
+        "id": "15043",
+        "label": "科巴克",
+        "info": "ナキアミの連れてきた戦争孤児。ヒノキ丸のお姉さん係で、郵便の仕分けも手伝っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/2e/15043_crt_wGNWe.jpg",
+        "link": "https://bgm.tv/character/15043",
+        "categorie": "person"
+      },
+      {
+        "id": "15044",
+        "label": "阿克西巴",
+        "info": "ザンバニ号の乗組員で、郵便物の仕分け・速達係。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/21/15044_crt_KZm0g.jpg",
+        "link": "https://bgm.tv/character/15044",
+        "categorie": "person"
+      },
+      {
+        "id": "15045",
+        "label": "吉赛尔大叔",
+        "info": "ザンバニ号の整備工。無口で、人付き合いは苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/46/15045_crt_985LV.jpg",
+        "link": "https://bgm.tv/character/15045",
+        "categorie": "person"
+      },
+      {
+        "id": "15046",
+        "label": "云波",
+        "info": "食事係兼経理係。ヒノキ丸を育てるシングルマザー。ルイコン教の信奉者。食事のときには手をグーにして合わせ「つつましき糧より、豊かな生を」と唱えることを強制し、唱えないとそのグーで殴る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/b7/15046_crt_R8n4L.jpg",
+        "link": "https://bgm.tv/character/15046",
+        "categorie": "person"
+      },
+      {
+        "id": "15047",
+        "label": "竹原龙藏",
+        "info": "アキユキの父親で、かつては軍医として北政府軍に従軍していたが大きな挫折感を味わって帰国。以降は小さな診療所を一人で切り盛りしている。アキユキや妻のフサとは別居中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/bf/15047_crt_pBXUz.jpg",
+        "link": "https://bgm.tv/character/15047",
+        "categorie": "person"
+      },
+      {
+        "id": "15048",
+        "label": "竹原芙莎",
+        "info": "アキユキの母親。リュウゾウの生活力の無さに失望して、アキユキを連れて別居。リュウゾウのことを気にはかけており、アキユキがこっそり会っているのは知らん顔している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/9a/15048_crt_lax4X.jpg",
+        "link": "https://bgm.tv/character/15048",
+        "categorie": "person"
+      },
+      {
+        "id": "15050",
+        "label": "角股雷鱼",
+        "info": "为数不多能看见金刚塔的人之一。五年前在北方政府第十一禁渔区“伊甸尤乡”发生的朝圣船爆炸事件中得到了蛭子，在濒临石化的边缘被娜琪亚美捡回。娜琪亚美所救的第一个‘扎姆德’。再次登船时是个满脸胡子的大叔，但是剃了胡子之后也算是帅哥，和各个船员的关系都十分亲密。像自己身体的一部分一样珍惜着重要的写魂机（相机）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/ab/15050_crt_RwwQg.jpg",
+        "link": "https://bgm.tv/character/15050",
+        "categorie": "person"
+      },
+      {
+        "id": "15051",
+        "label": "寺冈古市",
+        "info": "明之与晴的好友，心武道的学生，当明之离开尖端岛之后和晴一起加入了极东自治区（军队），想成为保护尖端岛的军人。心底正直的好人，对晴抱有好感。后因对明之的嫉妒日益加深而逐渐改变行事作风，在强迫自己过度的进行训练之后身体开始变异。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/cf/15051_crt_UViZR.jpg",
+        "link": "https://bgm.tv/character/15051",
+        "categorie": "person"
+      },
+      {
+        "id": "15052",
+        "label": "西村绿",
+        "info": "西村晴的妹妹，曾在事故中留下腿部的后遗症，行动不算方便，虽然外表活泼但是总担心自己是否成为他人的累赘。后来因为西村晴对军方的背叛和阿扎米被汗马礼藏以礼相待的关系而成为军方对人形兵器的研究中实验品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/c1/15052_crt_pxm61.jpg",
+        "link": "https://bgm.tv/character/15052",
+        "categorie": "person"
+      },
+      {
+        "id": "15053",
+        "label": "尖端岛司令官",
+        "info": "恰幅の良い髭の中年男性。垣巣凍二郎が先端島に配属されるまで任命されていた。階級は不明。除隊後、幼馴染みのリュウゾウ、ジンイチロウとともにミドリの救出など垣巣の陰謀を阻止しようとするも失敗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/5d/15053_crt_LW67A.jpg",
+        "link": "https://bgm.tv/character/15053",
+        "categorie": "person"
+      },
+      {
+        "id": "15054",
+        "label": "西村仁一郎",
+        "info": "西村姊妹的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/8f/15054_crt_G11wF.jpg",
+        "link": "https://bgm.tv/character/15054",
+        "categorie": "person"
+      },
+      {
+        "id": "15055",
+        "label": "天心大人",
+        "info": "驼背的神秘尼姑。一直寻求“扎姆德到底在探求何物”的答案。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/28/15055_crt_0KMkk.jpg",
+        "link": "https://bgm.tv/character/15055",
+        "categorie": "person"
+      },
+      {
+        "id": "15057",
+        "label": "普洛伊·斯卡西",
+        "info": "垣巢冻二郎的秘书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/5b/15057_crt_ttWzD.jpg",
+        "link": "https://bgm.tv/character/15057",
+        "categorie": "person"
+      },
+      {
+        "id": "15058",
+        "label": "汗马礼藏",
+        "info": "特希克人，协助垣巢中佐进行对扎姆德的研究，他的脚伤是假装的能够正常行走。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/e0/15058_crt_0L9L8.jpg",
+        "link": "https://bgm.tv/character/15058",
+        "categorie": "person"
+      },
+      {
+        "id": "15059",
+        "label": "垣巢冻二郎",
+        "info": "17年前巴拉多战役中幸存的战士。极东自治区的领导人，官阶为中佐。母亲是尖端岛人，但是并未在尖端岛成长过，曾被竹原龙藏所救，最后被竹原龙藏开枪击中头部，目前正在昏迷中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/16/15059_crt_7Z2rk.jpg",
+        "link": "https://bgm.tv/character/15059",
+        "categorie": "person"
+      },
+      {
+        "id": "15060",
+        "label": "阿扎米",
+        "info": "以地形师的身份出现的少年，被南大陆军擒拿后带到极东自治区参与对人形兵器的实验。在被关押的地窖中利用鲁伊空教的神秘仪式影响着尖端岛上的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/dc/15060_crt_x9guq.jpg",
+        "link": "https://bgm.tv/character/15060",
+        "categorie": "person"
+      },
+      {
+        "id": "15061",
+        "label": "纳兹娜",
+        "info": "尖端岛上出现的白发少女，持有能将人变成扎姆德的神秘物质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/c4/15061_crt_0eeaa.jpg",
+        "link": "https://bgm.tv/character/15061",
+        "categorie": "person"
+      },
+      {
+        "id": "15062",
+        "label": "圣诺瓦",
+        "info": "鲁伊空教的教主，因为被北方政府追捕，而隐居到被成为龙宫的边境地带。并且一直在指引白发的少年少女们在世界各地撒下扎姆德的种子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/be/15062_crt_UuSaD.jpg",
+        "link": "https://bgm.tv/character/15062",
+        "categorie": "person"
+      },
+      {
+        "id": "15063",
+        "label": "须磨子",
+        "info": "可以看到影童子的坐在轮椅上的妇人，从人贩子手上买下了丧失记忆的明之，以为他的儿子垣巢冻二郎已经战死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/36/15063_crt_UwHN5.jpg",
+        "link": "https://bgm.tv/character/15063",
+        "categorie": "person"
+      },
+      {
+        "id": "15064",
+        "label": "西洛肯皇帝",
+        "info": "北政府の皇帝にして宗教的指導者。自らの教えを説く国営放送を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/49/15064_crt_PRpPp.jpg",
+        "link": "https://bgm.tv/character/15064",
+        "categorie": "person"
+      },
+      {
+        "id": "15065",
+        "label": "影童子",
+        "info": "突然在失去记忆的明之身边出现的神秘黑影，真实身分是希洛肯皇帝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/e5/15065_crt_aAa0Z.jpg",
+        "link": "https://bgm.tv/character/15065",
+        "categorie": "person"
+      },
+      {
+        "id": "15066",
+        "label": "泽肯德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/4c/15066_crt_2hNzZ.jpg",
+        "link": "https://bgm.tv/character/15066",
+        "categorie": "person"
+      },
+      {
+        "id": "15067",
+        "label": "祖伊佐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/7e/15067_crt_DUnnQ.jpg",
+        "link": "https://bgm.tv/character/15067",
+        "categorie": "person"
+      },
+      {
+        "id": "15068",
+        "label": "吉奥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c1/15068_crt_rjMix.jpg",
+        "link": "https://bgm.tv/character/15068",
+        "categorie": "person"
+      },
+      {
+        "id": "15069",
+        "label": "杨格",
+        "info": "在北方政府管辖内的一个村落中苟活的少年，双亲在一次火车爆炸事件中死去，他也在那时被种上了蛭子，而成为了扎姆德。是为数不多没有变成石头的扎姆德之一。因为卷入与村民的斗争而被娜琪亚美所救，随后跟随娜琪亚美一起寻找特希克的村落。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/3f/15069_crt_9dM2I.jpg",
+        "link": "https://bgm.tv/character/15069",
+        "categorie": "person"
+      },
+      {
+        "id": "15070",
+        "label": "库姬蕾嘉",
+        "info": "拥有太阳之发的少女，特希克一族的领袖，娜琪亚美的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/c2/15070_crt_z1eU5.jpg",
+        "link": "https://bgm.tv/character/15070",
+        "categorie": "person"
+      },
+      {
+        "id": "15049",
+        "label": "国際郵便船",
+        "info": "ザムド。この世に生まれ得なかった魂・ヒルコが人間に宿ったもの。憎しみに身を委ねて人間を食らうか、悲しみの果てに石になるかの顛末を迎えることがほとんどで、ザムドとして生きる唯一の方法は「考える」こと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/20/15049_crt_PZSMm.jpg",
+        "link": "https://bgm.tv/character/15049",
+        "categorie": "person"
+      },
+      {
+        "id": "15056",
+        "label": "罗帕",
+        "info": "和明之一样在尖端岛捡回来的宠物，特别可爱。喜欢吃团子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/38/15056_crt_1aYWz.jpg",
+        "link": "https://bgm.tv/character/15056",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

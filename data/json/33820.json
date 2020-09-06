@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73802",
+        "label": "花小兰",
+        "info": "性格勇敢直爽、坚强、富有爱心与正义感、重友情、但有些爱顶嘴、易冲动。武器是是一种特制的软鞭，自幼就开始学习少林功夫，是少林寺俗家弟子中唯一的女孩。和最好的朋友小龙、小虎一样，是少林三英雄的后代。对方丈有知遇的恩情，但莽撞，好出乱子，《权力宝典》上册就是她搞丢的。但她非常可爱，就连老方丈跟他在一起时都萌生童心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a4/73802_crt_38o99.jpg?r=1576161410",
+        "link": "https://bgm.tv/character/73802",
+        "categorie": "person"
+      },
+      {
+        "id": "73803",
+        "label": "唐小龙",
+        "info": "性格有点目无尊长和以貌取人，喜欢在众人面前卖弄。爱摆大公子的架子;能够为朋友舍弃生命。绰号：四眼田鸡，开封府尹的公子 少林三英雄其中一人的后代。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/dd/73803_crt_40ytr.jpg",
+        "link": "https://bgm.tv/character/73803",
+        "categorie": "person"
+      },
+      {
+        "id": "73804",
+        "label": "陈小虎",
+        "info": "农民的儿子，少林三英雄其中一人的后代；亲人：爹、娘、妹妹隽秀，外有一大家子，还有个二哥陈鑫与嫂子梅丽；武器：棍子（三节棍）；性格：憨厚、老实、恋家、重友情与亲情、乐观、孝顺、向往自由与和平、朴实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/22/73804_crt_7Bt5R.jpg",
+        "link": "https://bgm.tv/character/73804",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

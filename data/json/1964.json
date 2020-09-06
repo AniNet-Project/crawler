@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4061",
+        "label": "艾玛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a3/4061_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4061",
+        "categorie": "person"
+      },
+      {
+        "id": "4062",
+        "label": "威廉·琼斯",
+        "info": "ジェントリであるジョーンズ家の長男。ジョーンズ家は4代前に勃興した家で、爵位こそないが現在は裕福な貿易商でありウィリアムは家督を継ぐ者として厳格に育てられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/6d/4062_crt_anidb.jpg?r=1403825416",
+        "link": "https://bgm.tv/character/4062",
+        "categorie": "person"
+      },
+      {
+        "id": "4063",
+        "label": "ハキム・アタワーリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/97/4063_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4063",
+        "categorie": "person"
+      },
+      {
+        "id": "4065",
+        "label": "アル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/63/4065_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4065",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

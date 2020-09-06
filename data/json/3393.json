@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3861",
+        "label": "濑户一贵",
+        "info": "湾田高等学校の2年生。ごく普通の少年であり、自身のことを「平凡で、将来の夢がない人間」と称している。思いやりのある性格だが、優柔不断が玉に瑕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/19/3861_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3861",
+        "categorie": "person"
+      },
+      {
+        "id": "3862",
+        "label": "苇月伊织",
+        "info": "一貴の同級生。湾田高校演劇部（劇団「わんだこ」）に所属。将来は役者になることを志しており、部活動に熱心に打ち込んでいる。雑誌のグラビアに取り上げられたり、学校内にファンクラブも出来るほどの容姿端麗であるが。性格は明るい方だが、普段は大人しく控え目である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/3f/3862_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3862",
+        "categorie": "person"
+      },
+      {
+        "id": "3863",
+        "label": "矶崎泉",
+        "info": "一貴の高校の2年後輩。1982年8月25日生まれ。一貴・伊織以外で唯一生年月日が判明している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/d2/3863_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3863",
+        "categorie": "person"
+      },
+      {
+        "id": "63480",
+        "label": "秋叶季子",
+        "info": "一貴の1歳下の幼馴染。4年前にアメリカへ渡っていたが最近帰国したばかりの帰国子女。アメリカで造形に親しんだこともあり、造形家志望。幼なじみ以上恋人未満という微妙な関係の一貴に淡い恋心を抱く。性格はボーイッシュで天真爛漫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/c3/63480_crt_0BPAO.jpg",
+        "link": "https://bgm.tv/character/63480",
+        "categorie": "person"
+      },
+      {
+        "id": "63485",
+        "label": "森崎祐加",
+        "info": "一貴のクラスメートで伊織の親友。性格は平凡で、どこにでもいそうな普通の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/b6/63485_crt_T004D.jpg",
+        "link": "https://bgm.tv/character/63485",
+        "categorie": "person"
+      },
+      {
+        "id": "63486",
+        "label": "奈美",
+        "info": "伊織の親友。男勝りで気の強い、まさに姉御肌と言える性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/da/63486_crt_98q88.jpg",
+        "link": "https://bgm.tv/character/63486",
+        "categorie": "person"
+      },
+      {
+        "id": "63483",
+        "label": "寺谷靖雅",
+        "info": "恋愛論を助言する、一貴の親友。女性に目がなく、ナンパやデートにかけては無数の戦略を持っているらしい。得意の戦略を一貴に授け、葦月との関係を見守る良き相談相手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/41/63483_crt_N4sG4.jpg",
+        "link": "https://bgm.tv/character/63483",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

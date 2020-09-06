@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76670",
+        "label": "海璐佳",
+        "info": "この物語のヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/3e/76670_crt_45b2v.jpg",
+        "link": "https://bgm.tv/character/76670",
+        "categorie": "person"
+      },
+      {
+        "id": "76672",
+        "label": "斗玛",
+        "info": "パパン拳法の達人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ab/76672_crt_5iFt2.jpg",
+        "link": "https://bgm.tv/character/76672",
+        "categorie": "person"
+      },
+      {
+        "id": "76673",
+        "label": "奇托",
+        "info": "ヘルガと同じ施設にいた少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/47/76673_crt_gG62n.jpg",
+        "link": "https://bgm.tv/character/76673",
+        "categorie": "person"
+      },
+      {
+        "id": "76669",
+        "label": "帕鲁萨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/96/76669_crt_o33f1.jpg",
+        "link": "https://bgm.tv/character/76669",
+        "categorie": "person"
+      },
+      {
+        "id": "76674",
+        "label": "西斯玛",
+        "info": "“ベフォールの子供たち”のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/ad/76674_crt_3K6B6.jpg",
+        "link": "https://bgm.tv/character/76674",
+        "categorie": "person"
+      },
+      {
+        "id": "76676",
+        "label": "梅尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a2/76676_crt_OxPsN.jpg",
+        "link": "https://bgm.tv/character/76676",
+        "categorie": "person"
+      },
+      {
+        "id": "76677",
+        "label": "哈斯莫代",
+        "info": "“ベフォールの子供たち”のひとり。（11歳）",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/60/76677_crt_ZoxIE.jpg",
+        "link": "https://bgm.tv/character/76677",
+        "categorie": "person"
+      },
+      {
+        "id": "76678",
+        "label": "特鲁伦特",
+        "info": "“ベフォールの子供たち”のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a4/76678_crt_1ZlFy.jpg",
+        "link": "https://bgm.tv/character/76678",
+        "categorie": "person"
+      },
+      {
+        "id": "76679",
+        "label": "阿吉",
+        "info": "“ベフォールの子供たち”のリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/35/76679_crt_72vdO.jpg",
+        "link": "https://bgm.tv/character/76679",
+        "categorie": "person"
+      },
+      {
+        "id": "76680",
+        "label": "蒂拉",
+        "info": "地球から２億光年離れた青く美しい水の惑星ギリシアの王タイタスの一人娘。父親から溺愛され育てられた美しく明るい少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/34/76680_crt_5Q8gT.jpg",
+        "link": "https://bgm.tv/character/76680",
+        "categorie": "person"
+      },
+      {
+        "id": "76681",
+        "label": "索雷特",
+        "info": "“ベフォールの子供たち”のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/6b/76681_crt_FHUi0.jpg",
+        "link": "https://bgm.tv/character/76681",
+        "categorie": "person"
+      },
+      {
+        "id": "76671",
+        "label": "库库斯",
+        "info": "“ベフォールの子供たち”のことを調べている刑事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/6d/76671_crt_QDExE.jpg",
+        "link": "https://bgm.tv/character/76671",
+        "categorie": "person"
+      },
+      {
+        "id": "76675",
+        "label": "迪马",
+        "info": "惑星ギリシアより姉を探しに来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/9c/76675_crt_Jp5n8.jpg",
+        "link": "https://bgm.tv/character/76675",
+        "categorie": "person"
+      },
+      {
+        "id": "76682",
+        "label": "索南",
+        "info": "ギリシアの青年兵士。王宮を警護する近衛兵の隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/4e/76682_crt_M0RWs.jpg",
+        "link": "https://bgm.tv/character/76682",
+        "categorie": "person"
+      },
+      {
+        "id": "76706",
+        "label": "盖尔塔",
+        "info": "ゲド機関の責任者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/4f/76706_crt_0F6Z1.jpg",
+        "link": "https://bgm.tv/character/76706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

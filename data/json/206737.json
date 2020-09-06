@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50218",
+        "label": "露",
+        "info": "歌って踊るのが大好きな人魚の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/5a/50218_crt_E9Slq.jpg",
+        "link": "https://bgm.tv/character/50218",
+        "categorie": "person"
+      },
+      {
+        "id": "50219",
+        "label": "足元海",
+        "info": "幼い頃の両親の離婚をきっかけに周囲に心を閉ざし鬱屈した日々を送る少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/7a/50219_crt_gF1gP.jpg",
+        "link": "https://bgm.tv/character/50219",
+        "categorie": "person"
+      },
+      {
+        "id": "52872",
+        "label": "海老名游步",
+        "info": "カイのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/81/52872_crt_NpfPf.jpg",
+        "link": "https://bgm.tv/character/52872",
+        "categorie": "person"
+      },
+      {
+        "id": "52873",
+        "label": "国夫",
+        "info": "カイのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/76/52873_crt_gydz5.jpg",
+        "link": "https://bgm.tv/character/52873",
+        "categorie": "person"
+      },
+      {
+        "id": "50220",
+        "label": "ルーのパパ",
+        "info": "ルーのことを何よりもいちばんに想っている。魚の活き〆が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/c0/50220_crt_wuSUB.jpg",
+        "link": "https://bgm.tv/character/50220",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

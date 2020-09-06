@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11885",
+        "label": "哪吒",
+        "info": "哪吒是陈塘关总兵李靖的第三个儿子，是灵珠子投胎。商朝末期时生人。母亲怀孕三年零六个月，生下一个肉球。李靖以为是妖怪，就用剑劈开，里面正是哪吒。后来仙人太乙真人收他为徒。一次哪吒三太子在东海玩水，和东海龙王的三太子敖丙起冲突，并将其打死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ac/11885_crt_dp2Uz.jpg",
+        "link": "https://bgm.tv/character/11885",
+        "categorie": "person"
+      },
+      {
+        "id": "39410",
+        "label": "敖广",
+        "info": "东海龙王敖广为龙王之首。神话传说中在水里统领水族的王，掌管兴云降雨，与诸天龙王等宣扬正法，普救众生，大雨洪流，应时甘润。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/e1/39410_crt_BRNVC.jpg",
+        "link": "https://bgm.tv/character/39410",
+        "categorie": "person"
+      },
+      {
+        "id": "39435",
+        "label": "太乙真人",
+        "info": "哪吒的师傅，在哪吒出生时来到李府贺喜，并收哪吒为弟子，传与他乾坤圈和浑天绫，后在哪吒死后又使其复生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/40/39435_crt_4g85K.jpg",
+        "link": "https://bgm.tv/character/39435",
+        "categorie": "person"
+      },
+      {
+        "id": "39436",
+        "label": "李靖",
+        "info": "哪吒的父亲，也是陈塘关的总兵，最开始因为哪吒的怪异出生而不高兴，但当哪吒自刎而亡时却又伤心不已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/53/39436_crt_0YLED.jpg",
+        "link": "https://bgm.tv/character/39436",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

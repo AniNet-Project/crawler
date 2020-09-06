@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31835",
+        "label": "草壁光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/fe/31835_crt_T0G5s.jpg?r=1428603726",
+        "link": "https://bgm.tv/character/31835",
+        "categorie": "person"
+      },
+      {
+        "id": "31836",
+        "label": "佐条利人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/8f/31836_crt_t22AY.jpg?r=1428603845",
+        "link": "https://bgm.tv/character/31836",
+        "categorie": "person"
+      },
+      {
+        "id": "31837",
+        "label": "原学",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/96/31837_crt_B5shy.jpg?r=1428604259",
+        "link": "https://bgm.tv/character/31837",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

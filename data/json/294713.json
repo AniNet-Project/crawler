@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74067",
+        "label": "后藤可久士",
+        "info": "漫画家。かつて『きんたましまし』なる作品でヒットを経験。現在は豪談社の「週刊少年マンガジン」に、下ネタ多めな『風のタイツ』を連載中。一人娘の姫を愛するあまり、自身が描いている漫画のことを隠し続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/55/74067_crt_mm24d.jpg?r=1576658078",
+        "link": "https://bgm.tv/character/74067",
+        "categorie": "person"
+      },
+      {
+        "id": "74068",
+        "label": "后藤姬",
+        "info": "可久士の娘。小学4年生。ぱっつん前髪がトレードマーク。幾度となく可久士の仕事がバレそうな状況に居合わせるが、知ってか知らずか、気づかないままの日々を送る。父親想いで、しっかり者な一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/0d/74068_crt_hvl56.jpg?r=1590217288",
+        "link": "https://bgm.tv/character/74068",
+        "categorie": "person"
+      },
+      {
+        "id": "76176",
+        "label": "志治仰",
+        "info": "可久士の職場「G-PRO／ゴトープロダクション」（ゴトープロ）のチーフアシスタント。スタッフでは一番の古株。ただ、自分で考えることが苦手で、“指示を仰ぐ”ようなところが多い。自身もデビューを目指して、日々、ネームを描く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/4e/76176_crt_7B17Y.jpg?r=1584088703",
+        "link": "https://bgm.tv/character/76176",
+        "categorie": "person"
+      },
+      {
+        "id": "76177",
+        "label": "墨田罗砂",
+        "info": "ゴトープロのアシスタント。「代官山に近くてクリエイティブな仕事ができる」と志望したため、漫画家になる気はないらしい。「墨垂らすな！」とよく怒られるが、メンバーの中では気が利くほうである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/9d/76177_crt_cwnlC.jpg?r=1593362860",
+        "link": "https://bgm.tv/character/76177",
+        "categorie": "person"
+      },
+      {
+        "id": "76178",
+        "label": "笕亚美",
+        "info": "ゴトープロのアシスタント。主に仕上げと服飾を担当、得意な技法は「カケアミ」。可久士が着替える古着屋「マリオットランチマーケット」の常連。ホラー漫画家志望。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/97/76178_crt_k55eM.jpg?r=1584089147",
+        "link": "https://bgm.tv/character/76178",
+        "categorie": "person"
+      },
+      {
+        "id": "76180",
+        "label": "芥子驱",
+        "info": "ゴトープロの新人アシスタント。主な仕事は下書きの線を消すための「消しゴムかけ」。余計な一言で可久士を“けしかける”ことも多い困り者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/0d/76180_crt_OhoT2.jpg?r=1584089359",
+        "link": "https://bgm.tv/character/76180",
+        "categorie": "person"
+      },
+      {
+        "id": "76181",
+        "label": "十丸院五月",
+        "info": "「週刊少年マンガジン」の編集者。漫画家だとバレたくない可久士の思いをよそに、姫のいる間に訪問する、仕事関係の荷物を自宅へ送るなどの事案を起こすトラブルメーカー。名前が“止まる印刷機”と、編集者としては縁起の悪い同音異義語である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/c1/76181_crt_vdBEZ.jpg?r=1584089583",
+        "link": "https://bgm.tv/character/76181",
+        "categorie": "person"
+      },
+      {
+        "id": "76182",
+        "label": "大和力郎",
+        "info": "「週刊少年マンガジン」の編集長。漫画を作る実務は部下に任せているが、「台割（掲載作品のページ構成）」を作ることだけは譲らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/67/76182_crt_xfJxM.jpg?r=1584089799",
+        "link": "https://bgm.tv/character/76182",
+        "categorie": "person"
+      },
+      {
+        "id": "76183",
+        "label": "内木理佐",
+        "info": "「週刊少年マンガジン」の副編集長。名前の響きだけで漫画家は心が休まらないが、言葉遣いはやわらかく、対応もやさしい敏腕編集者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/94/76183_crt_6xx26.jpg?r=1584089954",
+        "link": "https://bgm.tv/character/76183",
+        "categorie": "person"
+      },
+      {
+        "id": "76184",
+        "label": "古武知美亚",
+        "info": "姫の通う小学校のクラスメート。仲良しグループで立ち上げた「めぐろ川たんていじむしょ」の所長。おさげがトレードマーク。彼女の推理によると「髪でおでこを隠していると、隠し事をしている」タイプらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/9f/76184_crt_1gHCg.jpg?r=1584091543",
+        "link": "https://bgm.tv/character/76184",
+        "categorie": "person"
+      },
+      {
+        "id": "76185",
+        "label": "东御比奈",
+        "info": "姫の通う小学校のクラスメート。仲良しグループで立ち上げた「めぐろ川たんていじむしょ」のメンバー。ちょっと見栄っ張りで、大人びた性格。サンタクロースは「いない」と信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/b5/76185_crt_iHgUj.jpg?r=1584091714",
+        "link": "https://bgm.tv/character/76185",
+        "categorie": "person"
+      },
+      {
+        "id": "76225",
+        "label": "橘地莉子",
+        "info": "姫の通う小学校のクラスメート。仲良しグループで立ち上げた「めぐろ川たんていじむしょ」のメンバー。風紀委員で、きっちりした性格。サンタクロースは「いる」と信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/1b/76225_crt_igfYK.jpg?r=1584349741",
+        "link": "https://bgm.tv/character/76225",
+        "categorie": "person"
+      },
+      {
+        "id": "76226",
+        "label": "六条一子",
+        "info": "姫の通う小学校の教師。姫のクラスを担任している。かつて可久士が連載していた『きんたましまし』を読んでおり、ファンだと告げてくる。ジャージ姿でいることが多く、不審者対策の「さすまた」をよく持ち歩いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/23/76226_crt_9hXJg.jpg?r=1584350680",
+        "link": "https://bgm.tv/character/76226",
+        "categorie": "person"
+      },
+      {
+        "id": "76240",
+        "label": "千田奈留",
+        "info": "アイドル志願の女子高生。公園で歌っていたところ、姫が「すごくお歌が上手」とずっと聞いていた。それから「姫ちゃんは私のファン1号」と顔見知りに。絵も得意で、絵画教室でアルバイトもしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/42/76240_crt_00W0L.jpg?r=1584434698",
+        "link": "https://bgm.tv/character/76240",
+        "categorie": "person"
+      },
+      {
+        "id": "76241",
+        "label": "汐越羊",
+        "info": "可久士が通う料理教室で、クッキングアドバイザーをしている。いつか自分オリジナルのフライパンを発売するのが夢。可久士に「口説かれている」と思っているが…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ef/76241_crt_vKk1h.jpg?r=1584434846",
+        "link": "https://bgm.tv/character/76241",
+        "categorie": "person"
+      },
+      {
+        "id": "76242",
+        "label": "城路久美",
+        "info": "可久士たちが住む街にある生花店の店員。ジョウロで水を汲むのが日課で、花でも小鳥でも「何にでも水をやる」のが好きな性分。可久士に「口説かれている」と思っているが…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/ee/76242_crt_JRJbP.jpg?r=1584435015",
+        "link": "https://bgm.tv/character/76242",
+        "categorie": "person"
+      },
+      {
+        "id": "76243",
+        "label": "娜迪拉",
+        "info": "可久士の家のお手伝いをしてくれる、家事代行サービスのスタッフ。出身はインドネシア。可久士を「クールジャパン」、姫を「姫サマ」と呼ぶ。お香を炊いて精霊を呼ぶ占いができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/78/76243_crt_yQB77.jpg?r=1584435316",
+        "link": "https://bgm.tv/character/76243",
+        "categorie": "person"
+      },
+      {
+        "id": "76244",
+        "label": "马莉欧",
+        "info": "古着＆セレクトショップ「マリオットランチマーケット」の店主。本名は不明。可久士は毎朝、職場へ向かう前の着替え場所として、この店を使っている。品揃えは「ぶっ飛んだセンス」らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/c7/76244_crt_zY977.jpg?r=1584435466",
+        "link": "https://bgm.tv/character/76244",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

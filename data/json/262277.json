@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61920",
+        "label": "矢口春雄",
+        "info": "勉強、運動まるでだめ。ゲームで食っていけたらと本気で思っている少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3f/61920_crt_2G3K5.jpg?r=1534652658",
+        "link": "https://bgm.tv/character/61920",
+        "categorie": "person"
+      },
+      {
+        "id": "61921",
+        "label": "大野晶",
+        "info": "勉強、運動なんでもこい。全てにおいて点数高めの才色兼備なお嬢様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/09/61921_crt_3tP1o.jpg?r=1534652875",
+        "link": "https://bgm.tv/character/61921",
+        "categorie": "person"
+      },
+      {
+        "id": "61942",
+        "label": "日高小春",
+        "info": "大人しい女の子。商店を営む自宅に、ゲームの筺体が設置されているものの、全くの初心者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/c4/61942_crt_pxZYN.jpg?r=1535557767",
+        "link": "https://bgm.tv/character/61942",
+        "categorie": "person"
+      },
+      {
+        "id": "72624",
+        "label": "业田萌美",
+        "info": "大野家における稽古事を取り仕切る指南役で、あらゆる教養を身に着けさせるために過酷なスケジュールを強いる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/6b/72624_crt_symj0.jpg?r=1572181885",
+        "link": "https://bgm.tv/character/72624",
+        "categorie": "person"
+      },
+      {
+        "id": "72625",
+        "label": "爷爷",
+        "info": "大野家の執事。学校の送り迎えで運転手を務めるなど、晶の身の回りの世話をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/50/72625_crt_jmZsM.jpg?r=1572182126",
+        "link": "https://bgm.tv/character/72625",
+        "categorie": "person"
+      },
+      {
+        "id": "69360",
+        "label": "矢口奈美绘",
+        "info": "時に厳しく、時に優しく息子を支えるハルオママ。小柄で妙に若々しく見えるが、年齢は不詳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/88/69360_crt_gG9PG.jpg?r=1571551601",
+        "link": "https://bgm.tv/character/69360",
+        "categorie": "person"
+      },
+      {
+        "id": "5127",
+        "label": "盖尔",
+        "info": "\"Are you man enough to fight with me?\"",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/1c/5127_crt_DtCUt.jpg?r=1532378584",
+        "link": "https://bgm.tv/character/5127",
+        "categorie": "person"
+      },
+      {
+        "id": "10325",
+        "label": "桑吉尔夫",
+        "info": "俄罗斯有史以来最强的摔跤手，红色的衣装是他的象征，威力巨大的必杀技旋转打桩是他的招牌技。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/4a/10325_crt_Scf4M.jpg",
+        "link": "https://bgm.tv/character/10325",
+        "categorie": "person"
+      },
+      {
+        "id": "72381",
+        "label": "迈克·哈格",
+        "info": "メトロシティの市長で、元ストリートファイター。通称「戦う市長」。娘にジェシカがいる（妻は故人）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/3e/72381_crt_PYZK5.jpg?r=1571500657",
+        "link": "https://bgm.tv/character/72381",
+        "categorie": "person"
+      },
+      {
+        "id": "72420",
+        "label": "安驮婆",
+        "info": "安駄婆",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/dc/72420_crt_8JDam.jpg?r=1571551038",
+        "link": "https://bgm.tv/character/72420",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

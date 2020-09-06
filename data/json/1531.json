@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56653",
+        "label": "谷山麻衣",
+        "info": "高校一年级学生，是一个有预知和感应能力，头脑聪明父母双亡的孤女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/57/56653_crt_L9o9s.jpg",
+        "link": "https://bgm.tv/character/56653",
+        "categorie": "person"
+      },
+      {
+        "id": "2876",
+        "label": "涩谷一也",
+        "info": "剑桥大学的天才学生（圣三一学院），主修宗教哲学。SPR·涉谷特异功能调查所所长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/5a/2876_crt_0lHnW.jpg",
+        "link": "https://bgm.tv/character/2876",
+        "categorie": "person"
+      },
+      {
+        "id": "2877",
+        "label": "林兴徐",
+        "info": "那鲁信任的人，沉默寡言而冷静。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/a0/2877_crt_yyXcR.jpg",
+        "link": "https://bgm.tv/character/2877",
+        "categorie": "person"
+      },
+      {
+        "id": "2878",
+        "label": "松崎绫子",
+        "info": "家中是很有权势的私人医院，非常有钱，从小娇生惯养，是名副其实的千金大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/db/2878_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2878",
+        "categorie": "person"
+      },
+      {
+        "id": "2879",
+        "label": "安原修",
+        "info": "绿陵高中高三生及学生会长。头脑明晰拥有自信，也有领导的才能，擅长与人交往、观察力强，也很能在各种场合取得优势以及主导。除了算计和伪装完全没有灵能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/ac/2879_crt_f1mgo.jpg",
+        "link": "https://bgm.tv/character/2879",
+        "categorie": "person"
+      },
+      {
+        "id": "56654",
+        "label": "泷川法生",
+        "info": "高野山的和尚，所以使用的是日本佛教的除灵法，包括咒语和经文。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/76/56654_crt_HMN4O.jpg",
+        "link": "https://bgm.tv/character/56654",
+        "categorie": "person"
+      },
+      {
+        "id": "56655",
+        "label": "原真砂子",
+        "info": "日本媒体经常报道的灵媒师，依赖自己身体的灵媒体质，读取、感知各类幽灵信息。经常以穿着和服的姿态出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/2e/56655_crt_5qtqQ.jpg",
+        "link": "https://bgm.tv/character/56655",
+        "categorie": "person"
+      },
+      {
+        "id": "56656",
+        "label": "约翰·布朗",
+        "info": "有着奇怪关西口音的驱鬼法师。个子较矮，看上去很小，实际上比涉谷年长2岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2f/56656_crt_fifkL.jpg",
+        "link": "https://bgm.tv/character/56656",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

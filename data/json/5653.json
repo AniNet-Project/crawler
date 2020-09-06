@@ -1,0 +1,501 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10815",
+        "label": "结城夏野",
+        "info": "高中一年级。因为双亲姓氏不同，他也同时拥有“小出”这个姓氏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/7c/10815_crt_thiEY.jpg?r=1461148512",
+        "link": "https://bgm.tv/character/10815",
+        "categorie": "person"
+      },
+      {
+        "id": "14760",
+        "label": "桐敷沙子",
+        "info": "　　桐敷家的独生女，不能在太阳底下行走。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3d/14760_crt_0OrHt.jpg?r=1461148528",
+        "link": "https://bgm.tv/character/14760",
+        "categorie": "person"
+      },
+      {
+        "id": "14761",
+        "label": "清水惠",
+        "info": "跟夏野一样高中一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/88/14761_crt_8vGLD.jpg?r=1461148606",
+        "link": "https://bgm.tv/character/14761",
+        "categorie": "person"
+      },
+      {
+        "id": "14762",
+        "label": "室井静信",
+        "info": "　　旦那寺的年轻住持。同时也在写小说，是个已经发表了好几册小说",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/d5/14762_crt_94H5h.jpg",
+        "link": "https://bgm.tv/character/14762",
+        "categorie": "person"
+      },
+      {
+        "id": "14763",
+        "label": "尾崎敏夫",
+        "info": "　　村里唯一的医院“尾崎医院”的医生。现在被村民称为“年轻医生”。他非常讨厌亡父的那种权威主义，也许就是因为这样，他对身边的人非常亲切，与静信是青梅竹马。一直在调查村人大量死亡的原因。最早发现尸鬼存在的人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/dc/14763_crt_3dfwD.jpg?r=1461148649",
+        "link": "https://bgm.tv/character/14763",
+        "categorie": "person"
+      },
+      {
+        "id": "14764",
+        "label": "武藤彻",
+        "info": "　　高中三年级。是村子里小孩子们的大哥哥。内心非常温柔，主动照顾刚搬来这个村子的的夏野。可又正正是因为他这个温柔的性格，才造成了后来的悲剧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/1b/14764_crt_4XlOj.jpg?r=1461148632",
+        "link": "https://bgm.tv/character/14764",
+        "categorie": "person"
+      },
+      {
+        "id": "32448",
+        "label": "村迫正雄",
+        "info": "高校2年生。武藤保と田茂広也は同じ高校に通う同級生。よそ者であるためか夏野を毛嫌いしている。兄弟と年が離れていたため甘やかされて育てられ、その後両親の興味が孫の博巳・智香に移って自分が構われなくなった寂しさから、自己顕示欲が強く身勝手、かつ底意地が悪い性格をしている。親に隠れて博巳・智香をいじめているが、彼らの母親である智寿子には感づかれており恨まれている。柚木の襲撃を受け死亡し、起き上がりとなる。起き上った事を良しとしており、山入内では恵と共に行動する事が多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/08/32448_crt_u6rI6.jpg?r=1431332601",
+        "link": "https://bgm.tv/character/32448",
+        "categorie": "person"
+      },
+      {
+        "id": "32449",
+        "label": "田中薰",
+        "info": "中学校3年生。昭の姉。清水恵とは幼馴染みで、親友だと思い慕っている。ラブという名前の長毛種の雑種犬を飼っている。お下げが特徴。野暮ったく、怖がりな性格。村の異変に早い段階で気が付き、弟・昭とともに兼正を探っていたところ夏野と出会う。家族が全員被害に遭い、屍鬼化後襲撃に来た父親を怒り任せで殺害。その後、清水恵の本性を知り、彼女に幻滅し、呆然としながら村を去っていった。その後の消息は不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/43/32449_crt_GG944.jpg?r=1431332723",
+        "link": "https://bgm.tv/character/32449",
+        "categorie": "person"
+      },
+      {
+        "id": "32473",
+        "label": "辰巳",
+        "info": "桐敷家の使用人の男性。「辰巳」は名字。外見は20代だが、実年齢は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/83/32473_crt_BiZpB.jpg?r=1431335913",
+        "link": "https://bgm.tv/character/32473",
+        "categorie": "person"
+      },
+      {
+        "id": "32450",
+        "label": "田中昭",
+        "info": "中学校1年生。かおりの弟。夏野を実の兄のように慕っている。好奇心旺盛な性格。村の異変に早い段階で気が付き、かおりと共に兼正の家を見張るなど様子を窺っていた。夏野死亡後、伊藤郁美宅に潜入するも辰巳に捕えられ屍鬼化した前田巌の餌にされ死亡。その後床下へおざなりに埋められたが、その死体の発見は屍鬼狩りにあたっていた村人の意志を極めて強固なものにした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/a6/32450_crt_Tkex1.jpg?r=1431333898",
+        "link": "https://bgm.tv/character/32450",
+        "categorie": "person"
+      },
+      {
+        "id": "8683",
+        "label": "仓桥佳枝",
+        "info": "桐敷家的女管家，小说中是尸鬼、漫画、动画中是狼人，与辰巳一样是负责指挥尸鬼的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/8e/8683_crt_i2SgV.jpg",
+        "link": "https://bgm.tv/character/8683",
+        "categorie": "person"
+      },
+      {
+        "id": "32451",
+        "label": "室井信明",
+        "info": "静信の父。住職。60代後半。脳卒中で倒れて以来、四肢に麻痺を生じ、寝たきりの生活を送っている。長年寺を治めてきた住職という立場と、それに見合う人柄から村中から尊敬の目で見られており、体が不自由になってからも厳格な態度を崩さない。しかし内心はままならない体を抱えて死を待つだけという生活に強い恐怖を感じていた。健常な体を求めて自ら起き上がりに志望したが、蘇生した彼が手に入れたのは起き上がりになる直前と同じ不自由な体だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/c0/32451_crt_2b632.jpg?r=1431334114",
+        "link": "https://bgm.tv/character/32451",
+        "categorie": "person"
+      },
+      {
+        "id": "32452",
+        "label": "室井美和子",
+        "info": "静信の母。旧姓・山村。寺の奥方として、また穏やかな人柄から村人の尊敬を集めていたが、静信が起き上がり側に付く行動を取ったために寺ごと村の敵と見なされ、暴徒と化した村人たちに嬲り殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b5/32452_crt_s8vh6.jpg?r=1431334164",
+        "link": "https://bgm.tv/character/32452",
+        "categorie": "person"
+      },
+      {
+        "id": "32458",
+        "label": "尾崎恭子",
+        "info": "敏夫の妻。子供はいない。敏夫との結婚を「医者なら誰でも良かった」とまで言っており、敏夫に対して愛情を抱いていない。村での生活を嫌っており、村外の市街部のマンションに1人で暮らしている。また、アンティーク・ショップを経営している。月に2、3回ほど村に戻ってくる。姑の孝江とは折り合いが悪い。30歳。村人からは「若奥さん」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/2c/32458_crt_87gLl.jpg",
+        "link": "https://bgm.tv/character/32458",
+        "categorie": "person"
+      },
+      {
+        "id": "32459",
+        "label": "尾崎孝江",
+        "info": "敏夫の母。恭子のことを好いていない。尾崎家の地位・権勢を第一と考えるが、尾崎医院の業務には一切関わろうとしない上、看護師らを使用人同然に扱っている。「大奥さん」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/c7/32459_crt_6zp56.jpg?r=1431334561",
+        "link": "https://bgm.tv/character/32459",
+        "categorie": "person"
+      },
+      {
+        "id": "32461",
+        "label": "国广律子",
+        "info": "尾崎医院で働く看護師（原作・漫画版共に、作品中では「看護婦」と表記）。太郎（たろう）という名前の柴犬の子犬を飼っている。村外の人間からプロポーズを受けているが、結婚して生まれ育った外場村から離れることを拒んでいる。母と、保育士の妹との3人暮らし。通称・律ちゃん。28歳、独身。起き上がりとして蘇生後も他者の血を吸う事を拒否し、飢餓と闘う。最終的には、屍鬼化した武藤徹と一緒に、暴徒化した村人に杭を打たれ死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/cd/32461_crt_HbQH7.jpg?r=1431334726",
+        "link": "https://bgm.tv/character/32461",
+        "categorie": "person"
+      },
+      {
+        "id": "32471",
+        "label": "桐敷正志郎",
+        "info": "桐敷の当主で沙子の父とされている人物。元は会社社長であった。年齢は40代半ば。妻の千鶴同様、垢抜けた風貌をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ea/32471_crt_4L2kd.jpg?r=1431335629",
+        "link": "https://bgm.tv/character/32471",
+        "categorie": "person"
+      },
+      {
+        "id": "32472",
+        "label": "桐敷千鹤",
+        "info": "沙子の母とされている人物。外見は20代後半〜30代前半だが、実年齢は不明。美しい容姿をしている。娘・沙子同様、SLEを患っていて、それが沙子にも遺伝していると公言しているが、戦中に蘇生した起き上がり。そのため沙子とは血縁関係はない。妖艶に男性を誘うような言動を好む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/95/32472_crt_xy6UB.jpg?r=1431335832",
+        "link": "https://bgm.tv/character/32472",
+        "categorie": "person"
+      },
+      {
+        "id": "32474",
+        "label": "江渊",
+        "info": "桐敷家の医者。起き上がり。初老の男性。沙子の家庭教師でもある。楠ガソリンスタンドの隣の空き家に奇妙な診療所を建て、話題になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c9/32474_crt_Oz2nz.jpg?r=1431336007",
+        "link": "https://bgm.tv/character/32474",
+        "categorie": "person"
+      },
+      {
+        "id": "32475",
+        "label": "结城",
+        "info": "夏野の父。工房を経営している。都会生れの都会育ちで、田舎暮らしに憧れて1年前に村に引っ越してきた。喫茶店「クレオール」の常連のひとり。30代後半。呪いや幽霊といったオカルトが嫌い。夏野の死後も起き上りの存在を受け入れる事を拒み続けたが、千鶴の処刑を目の当たりにした事で現実を受け入れ、屍鬼狩りに参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/02/32475_crt_awEZp.jpg",
+        "link": "https://bgm.tv/character/32475",
+        "categorie": "person"
+      },
+      {
+        "id": "32476",
+        "label": "小出梓",
+        "info": "結城の同居人で、夏野の母。夫と同じ都会生れの都会育ち。結城と共に工房を経営。夏野は大学生のころに産んだ子だが、改姓を拒んだ為、入籍はしていない。夏野の死後、工房を出て行き失踪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/cc/32476_crt_stkSb.jpg",
+        "link": "https://bgm.tv/character/32476",
+        "categorie": "person"
+      },
+      {
+        "id": "32485",
+        "label": "伊藤郁美",
+        "info": "祈祷師の真似事をして生計をたてている。奇妙な言動からか、村の人々からは神がかっていると思われ、娘の玉恵と共に親子で孤立している。村外から嫌々嫁いできたが、夫は既に他界しており、2人の息子も儲けるも早くに亡くした。度々「タケムラ文具店」の井戸端会議に顔を出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/c7/32485_crt_7PH1P.jpg?r=1431337433",
+        "link": "https://bgm.tv/character/32485",
+        "categorie": "person"
+      },
+      {
+        "id": "32487",
+        "label": "大川富雄",
+        "info": "「大川酒店」を経営。消防団の1人。豪放な性格で、一度激昂してしまうと手がつけられない。息子の篤とは対立ばかりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/52/32487_crt_eJEEc.jpg?r=1431337711",
+        "link": "https://bgm.tv/character/32487",
+        "categorie": "person"
+      },
+      {
+        "id": "32489",
+        "label": "大川笃",
+        "info": "富雄とかず子の長男。高校卒業後も定職につけず、家業の手伝いをしており、村を出て行きたいという気持ちはあるものの抜け出せずにいる。気が荒く、配達のバイクの運転も荒い。コンプレックスが強く、父親と祖母とは対立ばかりしている。20代。起き上がってからは、吸血はするが最終的に相手を殺害してしまう悪癖があり、そこを千鶴に気に入られる。屍鬼狩りから逃れるうち、尾崎医院に逃れるが、そこで出会った孝江が浪江と重なり思わず殺害。そのまま尾崎医院の中に隠れていたところを富雄の手で殺害される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/05/32489_crt_jlf1T.jpg?r=1431337913",
+        "link": "https://bgm.tv/character/32489",
+        "categorie": "person"
+      },
+      {
+        "id": "32502",
+        "label": "矢野加奈美",
+        "info": "妙の娘で、妙と二人暮らしをしている。女手ひとつでドライブイン「ちぐさ」を経営している。夫と2人の子供がいたが、夫の女性関係が問題で5年前に離婚している。子の親権は夫に渡った。前田元子と仲が良い。38歳、独身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/73/32502_crt_wK9ZR.jpg?r=1431338902",
+        "link": "https://bgm.tv/character/32502",
+        "categorie": "person"
+      },
+      {
+        "id": "32510",
+        "label": "前田元子",
+        "info": "勇の妻。一男一女の母。舅の巌、姑の登美子とは折り合いが悪い。両親は既に他界しており、村内にいる兄は家を継いでいる。心配性のせいかヒステリックになりがちなところがある。息子の茂樹が交通事故に遭って以来、ひょんなことで我が子を失ってしまうのではないかという恐れに異常に囚われるようになり、子供たちに対して過保護気味になっている。ドライブイン「ちぐさ」でパートとして働いており、矢野加奈美と仲が良い。志保梨と登美子の死により巌が起き上がったと確信、巌を憎悪し、過剰なほど茂樹を守る姿勢をとる。結局茂樹も失うこととなったが、半ば精神を病みながらも巌への憎悪から屍鬼狩りに参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/6c/32510_crt_LzIlM.jpg",
+        "link": "https://bgm.tv/character/32510",
+        "categorie": "person"
+      },
+      {
+        "id": "32521",
+        "label": "安森奈绪",
+        "info": "幹康の妻。6歳の頃に両親に捨てられた過去を持つ。淳子と仲が良い。村外から嫁いできた。26歳。起き上がった後、家族を襲い続けるも一人として起き上がることはなかった。暴徒化した村人から逃れる為にパイプラインへと逃げ込むが、発見され、杭を打たれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/35/32521_crt_D7pPk.jpg?r=1431348425",
+        "link": "https://bgm.tv/character/32521",
+        "categorie": "person"
+      },
+      {
+        "id": "32463",
+        "label": "桥口安代",
+        "info": "尾崎医院で働く看護師。看護師の中では最年長。律子の餌として辰巳に拉致されるが、後に律子と徹により解放される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/cd/32463_crt_b2T10.jpg",
+        "link": "https://bgm.tv/character/32463",
+        "categorie": "person"
+      },
+      {
+        "id": "32464",
+        "label": "汐见雪",
+        "info": "尾崎医院で働く看護師。村外出身で、村外から通勤している。井崎聡子と仲が良い。屍鬼によって殺害された事が暗示されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/9c/32464_crt_XDx42.jpg?r=1431335111",
+        "link": "https://bgm.tv/character/32464",
+        "categorie": "person"
+      },
+      {
+        "id": "32465",
+        "label": "井崎聪子",
+        "info": "尾崎医院で働く看護師。村外出身で、村外から通勤している。汐見雪と仲が良い。屍鬼によって殺害された事が暗示されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/aa/32465_crt_p5WHn.jpg?r=1431335184",
+        "link": "https://bgm.tv/character/32465",
+        "categorie": "person"
+      },
+      {
+        "id": "32481",
+        "label": "長谷川ちよみ",
+        "info": "長谷川の妻。喫茶店「クレオール」を経営。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/cd/32481_crt_Mpp7P.jpg",
+        "link": "https://bgm.tv/character/32481",
+        "categorie": "person"
+      },
+      {
+        "id": "32488",
+        "label": "大川浪江",
+        "info": "富雄の母。篤たちの祖母。篤に対しては口うるさく、何か起こる度に富雄に言いつける。起き上った篤に、絞殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/11/32488_crt_2eDcE.jpg?r=1431337830",
+        "link": "https://bgm.tv/character/32488",
+        "categorie": "person"
+      },
+      {
+        "id": "32495",
+        "label": "广泽高俊",
+        "info": "豊子の息子。28歳。突然辞職届を提出し、パチンコ屋で倒れ、死亡した。後に起き上がる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/6c/32495_crt_g1YQ4.jpg?r=1431338404",
+        "link": "https://bgm.tv/character/32495",
+        "categorie": "person"
+      },
+      {
+        "id": "32497",
+        "label": "国广绿",
+        "info": "康恵の次女。律子の妹。保育士。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32497",
+        "categorie": "person"
+      },
+      {
+        "id": "32498",
+        "label": "小池昌治",
+        "info": "弔組の世話役。痩躯だが頑健な身体つきをしている。大塚康幸、広沢高俊によって拉致される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32498",
+        "categorie": "person"
+      },
+      {
+        "id": "32499",
+        "label": "松尾静",
+        "info": "高志の娘。潤の姉。11歳。後に起き上がりとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/cc/32499_crt_gUOFo.jpg?r=1431339888",
+        "link": "https://bgm.tv/character/32499",
+        "categorie": "person"
+      },
+      {
+        "id": "32500",
+        "label": "田茂定文",
+        "info": "定市とキヨの息子。中学校教師。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32500",
+        "categorie": "person"
+      },
+      {
+        "id": "32501",
+        "label": "田茂定市",
+        "info": "キヨの夫で、定次の兄。実質上の村長。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32501",
+        "categorie": "person"
+      },
+      {
+        "id": "32503",
+        "label": "矢野妙",
+        "info": "加奈美の母。後藤田ふきと仲が良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/4f/32503_crt_l607x.jpg",
+        "link": "https://bgm.tv/character/32503",
+        "categorie": "person"
+      },
+      {
+        "id": "32504",
+        "label": "加藤澄江",
+        "info": "義秀の妻。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32504",
+        "categorie": "person"
+      },
+      {
+        "id": "32505",
+        "label": "村迫博巳",
+        "info": "宗貴と智寿子の息子。智香の兄。正雄に度々いじめられている。9歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/d2/32505_crt_Im35h.jpg?r=1431339570",
+        "link": "https://bgm.tv/character/32505",
+        "categorie": "person"
+      },
+      {
+        "id": "32506",
+        "label": "村迫智寿子",
+        "info": "宗貴の妻。息子の博巳が正雄によるいじめを受けていることに気付いており、正雄のことを嫌っている。後に起き上がりとなった彼を殺害した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/f1/32506_crt_K0F7u.jpg",
+        "link": "https://bgm.tv/character/32506",
+        "categorie": "person"
+      },
+      {
+        "id": "32507",
+        "label": "村迫宗贵",
+        "info": "宗秀と良子の長男。35歳、既婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e4/32507_crt_sZDjj.jpg?r=1431339585",
+        "link": "https://bgm.tv/character/32507",
+        "categorie": "person"
+      },
+      {
+        "id": "32508",
+        "label": "村迫宗秀",
+        "info": "良子の夫。「村迫米穀店」を経営。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/3c/32508_crt_915oV.jpg?r=1431339668",
+        "link": "https://bgm.tv/character/32508",
+        "categorie": "person"
+      },
+      {
+        "id": "32511",
+        "label": "前田茂树",
+        "info": "勇と元子の息子。小学生（低学年）。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32511",
+        "categorie": "person"
+      },
+      {
+        "id": "32512",
+        "label": "前田志保梨",
+        "info": "勇と元子の娘。6歳（小学生）。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32512",
+        "categorie": "person"
+      },
+      {
+        "id": "32513",
+        "label": "武藤静子",
+        "info": "尾崎医院で働く武藤の妻。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32513",
+        "categorie": "person"
+      },
+      {
+        "id": "32514",
+        "label": "武藤葵",
+        "info": "武藤と静子の長女。徹の妹で、保の姉。18歳、高校生3年生。商業科に通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/96/32514_crt_sdS0I.jpg",
+        "link": "https://bgm.tv/character/32514",
+        "categorie": "person"
+      },
+      {
+        "id": "32515",
+        "label": "武藤保",
+        "info": "武藤と静子の次男。17歳、高校2年生。夏野とは違う高校に通っている。村迫正雄と田茂広也は同級生。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32515",
+        "categorie": "person"
+      },
+      {
+        "id": "32516",
+        "label": "安森厚子",
+        "info": "一成の妻。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32516",
+        "categorie": "person"
+      },
+      {
+        "id": "32517",
+        "label": "安森淳子",
+        "info": "和也の妻。奈緒と仲が良い。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32517",
+        "categorie": "person"
+      },
+      {
+        "id": "32518",
+        "label": "安森徳次郎",
+        "info": "義一の弟で、節子の夫。檀家総代のひとり。「安森工務店」を経営。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32518",
+        "categorie": "person"
+      },
+      {
+        "id": "32519",
+        "label": "安森节子",
+        "info": "徳次郎の妻。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32519",
+        "categorie": "person"
+      },
+      {
+        "id": "32520",
+        "label": "安森干康",
+        "info": "徳次郎と節子の息子。奈緒の夫。「安森工務店」を経営。尾崎敏夫と室井静信の幼馴染み。28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/6e/32520_crt_GelWy.jpg?r=1431348249",
+        "link": "https://bgm.tv/character/32520",
+        "categorie": "person"
+      },
+      {
+        "id": "32522",
+        "label": "安森进",
+        "info": "幹康と奈緒の息子。3歳。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32522",
+        "categorie": "person"
+      },
+      {
+        "id": "32523",
+        "label": "田中良和",
+        "info": "佐知子の夫。かおりと昭の父。役場に勤める公務員。起き上がった後、佐知子を襲う。最終的にはかおりに殺害される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32523",
+        "categorie": "person"
+      },
+      {
+        "id": "32524",
+        "label": "田中佐知子",
+        "info": "良和の妻。かおりと昭の母。専業主婦。口うるさく、少々短気。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32524",
+        "categorie": "person"
+      },
+      {
+        "id": "32525",
+        "label": "拉布",
+        "info": "かおりのペットの犬。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32525",
+        "categorie": "person"
+      },
+      {
+        "id": "32526",
+        "label": "清水武雄",
+        "info": "恵の父。JA勤務。冷静で理論家。喫茶店「クレオール」に度々訪れる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32526",
+        "categorie": "person"
+      },
+      {
+        "id": "32509",
+        "label": "前田勇",
+        "info": "元子の夫。JA勤務で、清水武雄は同僚。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32509",
+        "categorie": "person"
+      },
+      {
+        "id": "32527",
+        "label": "清水宽子",
+        "info": "声 - 不明（未クレジット）",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32527",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

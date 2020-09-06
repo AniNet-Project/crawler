@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17749",
+        "label": "则卷阿拉蕾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/35/17749_crt_WW9Wd.jpg",
+        "link": "https://bgm.tv/character/17749",
+        "categorie": "person"
+      },
+      {
+        "id": "27111",
+        "label": "则卷宝瓜",
+        "info": "アラレたちが原始時代にタイムスリップした時に持ち帰った卵。から生まれた、2本の触角と羽根の生えた赤ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/34/27111_crt_tv3eT.jpg",
+        "link": "https://bgm.tv/character/27111",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

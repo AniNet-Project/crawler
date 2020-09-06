@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7595",
+        "label": "プリシラ・S・アサギリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/42/7595_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7595",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

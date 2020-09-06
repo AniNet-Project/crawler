@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67694",
+        "label": "艾琳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/38/67694_crt_U52bN.jpg",
+        "link": "https://bgm.tv/character/67694",
+        "categorie": "person"
+      },
+      {
+        "id": "6678",
+        "label": "索永",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/f8/6678_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6678",
+        "categorie": "person"
+      },
+      {
+        "id": "67693",
+        "label": "达弥亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/02/67693_crt_KcKeH.jpg",
+        "link": "https://bgm.tv/character/67693",
+        "categorie": "person"
+      },
+      {
+        "id": "67759",
+        "label": "约翰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/43/67759_crt_2Jvnk.jpg",
+        "link": "https://bgm.tv/character/67759",
+        "categorie": "person"
+      },
+      {
+        "id": "68030",
+        "label": "伊亚鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/fc/68030_crt_zhVHV.jpg",
+        "link": "https://bgm.tv/character/68030",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

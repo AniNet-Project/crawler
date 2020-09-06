@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9601",
+        "label": "アリス・L・マルヴィン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/1f/9601_crt_anidb.jpg?r=1568032744",
+        "link": "https://bgm.tv/character/9601",
+        "categorie": "person"
+      },
+      {
+        "id": "71732",
+        "label": "ランデル・オーランド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/8b/71732_crt_CBHIp.jpg?r=1568041107",
+        "link": "https://bgm.tv/character/71732",
+        "categorie": "person"
+      },
+      {
+        "id": "11196",
+        "label": "レオニール・テイラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/20/11196_crt_mFZ8c.jpg",
+        "link": "https://bgm.tv/character/11196",
+        "categorie": "person"
+      },
+      {
+        "id": "71733",
+        "label": "オレルド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/15/71733_crt_A7M4b.jpg",
+        "link": "https://bgm.tv/character/71733",
+        "categorie": "person"
+      },
+      {
+        "id": "71734",
+        "label": "リリ・ステッキン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/86/71734_crt_R4KSw.jpg",
+        "link": "https://bgm.tv/character/71734",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43774",
+        "label": "半藏",
+        "info": "“荣誉之于生死，救赎之于荣誉。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/73/43774_crt_6u4Sw.jpg?r=1488020470",
+        "link": "https://bgm.tv/character/43774",
+        "categorie": "person"
+      },
+      {
+        "id": "43775",
+        "label": "源氏",
+        "info": "“身可死，武士之名不可弃。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e8/43775_crt_Kyo4H.jpg?r=1487967181",
+        "link": "https://bgm.tv/character/43775",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

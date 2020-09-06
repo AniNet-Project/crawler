@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14467",
+        "label": "绀野真琴",
+        "info": "女主角。东京的高二女学生，有一天忽然获得了时间跳跃的能力“Time Leap”。学校成绩中下，早上常常睡过头迟到。有两个男生好友千昭与功介，放学后三人常一起玩棒球。使用时间跳跃来吃到妹妹偷吃的布丁、或是回到早上以避免迟到，甚至回到考试之前来获得好成绩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/5e/14467_crt_O53oq.jpg",
+        "link": "https://bgm.tv/character/14467",
+        "categorie": "person"
+      },
+      {
+        "id": "3724",
+        "label": "间宫千昭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/72/3724_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3724",
+        "categorie": "person"
+      },
+      {
+        "id": "29361",
+        "label": "津田功介",
+        "info": "绀野真琴的同班同学、一起玩的朋友。有着精悍容貌的秀才型人物。家里是医院，因此也以医生为未来的目标。被学妹告白的事情，是三人间平衡被打破的开始。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/a1/29361_crt_WoKhK.jpg",
+        "link": "https://bgm.tv/character/29361",
+        "categorie": "person"
+      },
+      {
+        "id": "54117",
+        "label": "芳山和子",
+        "info": "紺野真琴の叔母。30代後半だが未婚。博物館で絵画の修復の仕事をしている。ちょっと浮世離れした不思議な女性。真琴からは「魔女おばさん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/89/54117_crt_jd3Nz.jpg?r=1534250858",
+        "link": "https://bgm.tv/character/54117",
+        "categorie": "person"
+      },
+      {
+        "id": "3726",
+        "label": "绀野美雪",
+        "info": "中学生、真琴の妹。母親の料理の手伝いをちゃんとやるあたりは、真琴より優等生？",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/2f/3726_crt_El0PP.jpg?r=1571896389",
+        "link": "https://bgm.tv/character/3726",
+        "categorie": "person"
+      },
+      {
+        "id": "3725",
+        "label": "藤谷果穗",
+        "info": "ボランティア部に所属する引っ込み思案な下級生。津田功介が好きで告白するが…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/ef/3725_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3725",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

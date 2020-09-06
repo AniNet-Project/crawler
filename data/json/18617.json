@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8821",
+        "label": "桔梗",
+        "info": "弓矢の名手で破魔矢で敵を浄化する。作中の戦国時代にある村では巫女を務めていた。楓の姉であり、日暮かごめの前世。死人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/9d/8821_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8821",
+        "categorie": "person"
+      },
+      {
+        "id": "9536",
+        "label": "珊瑚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/9a/9536_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

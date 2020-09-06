@@ -1,0 +1,477 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6577",
+        "label": "月野兔",
+        "info": "月野兔，是著名的日本动漫《美少女战士》中的主人翁，中文昵称阿兔或小兔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/22/6577_crt_2kuVO.jpg?r=1465480986",
+        "link": "https://bgm.tv/character/6577",
+        "categorie": "person"
+      },
+      {
+        "id": "6581",
+        "label": "水野亚美",
+        "info": "IQ300的天才少女。9月10日出生，全国成绩第一的中学生，可变身成水星仙子Sailor Mercury。父亲是日本画家，母亲是医生，住在高级住宅。她梦想是成为一个出色的医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/0f/6581_crt_NN64z.jpg?r=1465481343",
+        "link": "https://bgm.tv/character/6581",
+        "categorie": "person"
+      },
+      {
+        "id": "6587",
+        "label": "火野丽",
+        "info": "居住在火川神社的巫女。4月17日出生，本身有很强的灵感，有灵力能驱赶恶灵，可变身成Sailor Mars。时常与小兔斗嘴，其实心里很关心她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/fb/6587_crt_E51yy.jpg?r=1465481752",
+        "link": "https://bgm.tv/character/6587",
+        "categorie": "person"
+      },
+      {
+        "id": "6592",
+        "label": "木野真琴",
+        "info": "沉醉在恋爱中的怪力少女。12月5日出生，力量十分强壮，可变身成Sailor Jupiter。和小兔是同一所学校但是穿的是转学之前的制服，原因是没有大尺寸的制服。非常害怕飞机，事缘因为她父母是在飞机上遇到空难而死。守护星是木星，兴趣是做家务、厨艺、园艺。对以前暗恋过的学长念念不忘，经常说男生“好像我以前喜欢的学长（师兄）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/1a/6592_crt_Q21q1.jpg?r=1465481530",
+        "link": "https://bgm.tv/character/6592",
+        "categorie": "person"
+      },
+      {
+        "id": "6594",
+        "label": "爱野美奈子",
+        "info": "爱野美奈子，是著名的日本动漫《美少女战士》中的主要人物之一。五战士中最早觉醒的人。她有一只公猫叫阿尔特米斯，跟小兔的黑猫露娜是恋人，可变身成Sailor Venus。使用金星力量，漫画提及在苏醒成为Sailor Venus前，她一直都是以水手V（Sailor V）身份作战，目的是击败黑暗帝国的敌人和找寻同伴。与Sailor Moon一样，她拥有一只月亮形的镜子，是变身的法宝，梦想成为名歌手，守护星金星，经验比其他战士丰富，是四个守护神战士的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/45/6594_crt_E9D9C.jpg?r=1465481690",
+        "link": "https://bgm.tv/character/6594",
+        "categorie": "person"
+      },
+      {
+        "id": "6614",
+        "label": "地场卫",
+        "info": "CV:古谷徹（テレビアニメ）、緒方恵美（劇場版R）※幼少期のみ、野島健児（Crystal） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/8d/6614_crt_wG7bf.jpg?r=1517680585",
+        "link": "https://bgm.tv/character/6614",
+        "categorie": "person"
+      },
+      {
+        "id": "6699",
+        "label": "露娜",
+        "info": "会说话的雌性黑猫，额头上有一个弯月形状的记号，如果被贴住会不能说话而且其他的能力也会大大降低。登场时以寻找战士和月亮公主为目标。是月野兔的伙伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/58/6699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6699",
+        "categorie": "person"
+      },
+      {
+        "id": "6721",
+        "label": "冥王刹那",
+        "info": "外部太阳系三战士之一，年龄是十位水手战士中最大的一个，很有大姐姐的风范，知识渊博，与小小兔是非常要好的朋友，非常照顾土萌萤。 变身后为Sailor Pluto 水兵冥王星，负责掌握著时间之轮。“刹”这个名字即是指“极短的时间”，与天王之“遥”、海王之“满”相呼应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/8b/6721_crt_gw8GB.jpg?r=1510268053",
+        "link": "https://bgm.tv/character/6721",
+        "categorie": "person"
+      },
+      {
+        "id": "6684",
+        "label": "小小兔",
+        "info": "罗马拼音：Chibiusa",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/1b/6684_crt_w0m59.jpg?r=1510268042",
+        "link": "https://bgm.tv/character/6684",
+        "categorie": "person"
+      },
+      {
+        "id": "6705",
+        "label": "阿尔特米斯",
+        "info": "雄性白猫，跟露娜一样会说人类的语言，是金星水手爱野美奈子的搭档。在月亮王国时，它与露娜是恋人，在30世纪时，和露娜诞下女儿戴安娜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/8a/6705_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6705",
+        "categorie": "person"
+      },
+      {
+        "id": "6880",
+        "label": "安",
+        "info": "エイルと同じく魔界樹に育てられ、魔界樹に新鮮なエナジーを供給するために地球にやってきた生命の末裔の女。地球上では「銀河夏美」という名でうさぎの学校に転校し、エイルの妹と名乗る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/55/6880_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6880",
+        "categorie": "person"
+      },
+      {
+        "id": "6882",
+        "label": "艾尔",
+        "info": "魔界樹に育てられ、その魔界樹に新鮮なエナジーを供給するために地球にやってきた生命の末裔の男。地球上では「銀河星十郎」という名でうさぎの学校に転校し、アンの兄と名乗る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/17/6882_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6882",
+        "categorie": "person"
+      },
+      {
+        "id": "6973",
+        "label": "コーアン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/a6/6973_crt_2tkET.jpg",
+        "link": "https://bgm.tv/character/6973",
+        "categorie": "person"
+      },
+      {
+        "id": "6974",
+        "label": "ベルチェ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/1c/6974_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6974",
+        "categorie": "person"
+      },
+      {
+        "id": "6976",
+        "label": "カラベラス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/a4/6976_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6976",
+        "categorie": "person"
+      },
+      {
+        "id": "6977",
+        "label": "ペッツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/2f/6977_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6977",
+        "categorie": "person"
+      },
+      {
+        "id": "6978",
+        "label": "紅のルベウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/06/6978_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6978",
+        "categorie": "person"
+      },
+      {
+        "id": "6998",
+        "label": "翠のエスメロード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/48/6998_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6998",
+        "categorie": "person"
+      },
+      {
+        "id": "7004",
+        "label": "蒼のサフィール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/5b/7004_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7004",
+        "categorie": "person"
+      },
+      {
+        "id": "7055",
+        "label": "プリンス・デマンド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/43/7055_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7055",
+        "categorie": "person"
+      },
+      {
+        "id": "7113",
+        "label": "ワイズマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/01/7113_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7113",
+        "categorie": "person"
+      },
+      {
+        "id": "8083",
+        "label": "桃原桃子",
+        "info": "ちびうさの同級生で友達。両親が中華料理屋を経営している。ちびうさからは「ももちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/7e/8083_crt_PBA71.jpg",
+        "link": "https://bgm.tv/character/8083",
+        "categorie": "person"
+      },
+      {
+        "id": "58928",
+        "label": "更科九助",
+        "info": "ちびうさの同級生で友達。更科琴乃の弟で、両親が蕎麦屋を経営している。セーラーVの大ファン。いわゆるガキ大将で、編入してきたちびうさをからかった際に「低レベル」と反撃される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8e/58928_crt_BbTN1.jpg",
+        "link": "https://bgm.tv/character/58928",
+        "categorie": "person"
+      },
+      {
+        "id": "6858",
+        "label": "クィーン・セレニティ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/54/6858_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6858",
+        "categorie": "person"
+      },
+      {
+        "id": "6884",
+        "label": "魔界樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/37/6884_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6884",
+        "categorie": "person"
+      },
+      {
+        "id": "7910",
+        "label": "ヴァンピル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/e8/7910_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7910",
+        "categorie": "person"
+      },
+      {
+        "id": "7912",
+        "label": "ファライオン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/7a/7912_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7912",
+        "categorie": "person"
+      },
+      {
+        "id": "7913",
+        "label": "篠崎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/58/7913_crt_BCFrU.jpg",
+        "link": "https://bgm.tv/character/7913",
+        "categorie": "person"
+      },
+      {
+        "id": "7914",
+        "label": "ヘル・アント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/a3/7914_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7914",
+        "categorie": "person"
+      },
+      {
+        "id": "7945",
+        "label": "レーシー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/f3/7945_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7945",
+        "categorie": "person"
+      },
+      {
+        "id": "7967",
+        "label": "ギガロス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/b1/7967_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7967",
+        "categorie": "person"
+      },
+      {
+        "id": "7969",
+        "label": "佐山ミエ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/86/7969_crt_xMrek.jpg",
+        "link": "https://bgm.tv/character/7969",
+        "categorie": "person"
+      },
+      {
+        "id": "8010",
+        "label": "愛美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/ff/8010_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8010",
+        "categorie": "person"
+      },
+      {
+        "id": "8011",
+        "label": "セイレーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/97/8011_crt_zdUOO.jpg",
+        "link": "https://bgm.tv/character/8011",
+        "categorie": "person"
+      },
+      {
+        "id": "8012",
+        "label": "ウトンベリノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/05/8012_crt_H653H.jpg",
+        "link": "https://bgm.tv/character/8012",
+        "categorie": "person"
+      },
+      {
+        "id": "8018",
+        "label": "アーマンジュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/8a/8018_crt_5Znj2.jpg",
+        "link": "https://bgm.tv/character/8018",
+        "categorie": "person"
+      },
+      {
+        "id": "8019",
+        "label": "ヤーマンダッカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/4a/8019_crt_11H2R.jpg",
+        "link": "https://bgm.tv/character/8019",
+        "categorie": "person"
+      },
+      {
+        "id": "8023",
+        "label": "アツゲッショ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/cd/8023_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8023",
+        "categorie": "person"
+      },
+      {
+        "id": "8025",
+        "label": "ニパス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/d2/8025_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8025",
+        "categorie": "person"
+      },
+      {
+        "id": "8027",
+        "label": "ダンブル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/d8/8027_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8027",
+        "categorie": "person"
+      },
+      {
+        "id": "8030",
+        "label": "ジャーマネン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/e9/8030_crt_3DRHm.jpg",
+        "link": "https://bgm.tv/character/8030",
+        "categorie": "person"
+      },
+      {
+        "id": "8031",
+        "label": "アボガードーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/03/8031_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8031",
+        "categorie": "person"
+      },
+      {
+        "id": "8034",
+        "label": "古幡宇奈月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/4a/8034_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8034",
+        "categorie": "person"
+      },
+      {
+        "id": "8066",
+        "label": "ジャーコク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/51/8066_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8066",
+        "categorie": "person"
+      },
+      {
+        "id": "8068",
+        "label": "マジパン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/9a/8068_crt_81b87.jpg",
+        "link": "https://bgm.tv/character/8068",
+        "categorie": "person"
+      },
+      {
+        "id": "8071",
+        "label": "ウデリング",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/2e/8071_crt_YyrwY.jpg",
+        "link": "https://bgm.tv/character/8071",
+        "categorie": "person"
+      },
+      {
+        "id": "8079",
+        "label": "ドッグバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/aa/8079_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8079",
+        "categorie": "person"
+      },
+      {
+        "id": "8080",
+        "label": "ギワク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/a9/8080_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8080",
+        "categorie": "person"
+      },
+      {
+        "id": "8081",
+        "label": "キラル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/fe/8081_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8081",
+        "categorie": "person"
+      },
+      {
+        "id": "8082",
+        "label": "アキラル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/e4/8082_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8082",
+        "categorie": "person"
+      },
+      {
+        "id": "8090",
+        "label": "リュアクス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/77/8090_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8090",
+        "categorie": "person"
+      },
+      {
+        "id": "7911",
+        "label": "ミノタロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/83/7911_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7911",
+        "categorie": "person"
+      },
+      {
+        "id": "8009",
+        "label": "アマデラス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/62/8009_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8009",
+        "categorie": "person"
+      },
+      {
+        "id": "8029",
+        "label": "風雷鬼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/cc/8029_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8029",
+        "categorie": "person"
+      },
+      {
+        "id": "8036",
+        "label": "アクムーダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/02/8036_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8036",
+        "categorie": "person"
+      },
+      {
+        "id": "8072",
+        "label": "パルマコン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/df/8072_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8072",
+        "categorie": "person"
+      },
+      {
+        "id": "7148",
+        "label": "土萠创一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/1c/7148_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7148",
+        "categorie": "person"
+      },
+      {
+        "id": "8015",
+        "label": "ビピエーロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/58/8015_crt_eibPi.jpg",
+        "link": "https://bgm.tv/character/8015",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

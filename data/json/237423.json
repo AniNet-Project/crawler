@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66552",
+        "label": "凛",
+        "info": "物語の中心的人物で",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/d8/66552_crt_55Rfn.jpg",
+        "link": "https://bgm.tv/character/66552",
+        "categorie": "person"
+      },
+      {
+        "id": "66553",
+        "label": "律",
+        "info": "おっとりしたお姉さんキャラで",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/df/66553_crt_i6PPk.jpg",
+        "link": "https://bgm.tv/character/66553",
+        "categorie": "person"
+      },
+      {
+        "id": "66554",
+        "label": "鸣",
+        "info": "メイド調の服に身を包む",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/a5/66554_crt_bkibY.jpg",
+        "link": "https://bgm.tv/character/66554",
+        "categorie": "person"
+      },
+      {
+        "id": "68249",
+        "label": "若叶",
+        "info": "突如、凛達の住む村に紛れ込んでしまった人間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/6e/68249_crt_tX2w5.jpg",
+        "link": "https://bgm.tv/character/68249",
+        "categorie": "person"
+      },
+      {
+        "id": "68801",
+        "label": "陆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/0c/68801_crt_bD4bk.jpg",
+        "link": "https://bgm.tv/character/68801",
+        "categorie": "person"
+      },
+      {
+        "id": "69124",
+        "label": "棱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/90/69124_crt_u0Ml6.jpg",
+        "link": "https://bgm.tv/character/69124",
+        "categorie": "person"
+      },
+      {
+        "id": "69125",
+        "label": "绿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/6a/69125_crt_8ULxz.jpg",
+        "link": "https://bgm.tv/character/69125",
+        "categorie": "person"
+      },
+      {
+        "id": "69593",
+        "label": "莉莉",
+        "info": "「さいしょのひと」と呼ばれる少女。姉妹達はそれぞれ「さいしょのひと」の能力で分かたれた存在とされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/93/69593_crt_8Zx8m.jpg?r=1554558585",
+        "link": "https://bgm.tv/character/69593",
+        "categorie": "person"
+      },
+      {
+        "id": "69594",
+        "label": "白",
+        "info": "第4話で倒したヌシの残骸の中から現れた円盤状の自律型四足歩行ロボット。わかばはシロ、りなはシロイノと呼んでいるが正式名称は不明。同型及び少し小型の個体も各地に多数存在する模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/2c/69594_crt_yr2ZZ.jpg?r=1554558364",
+        "link": "https://bgm.tv/character/69594",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

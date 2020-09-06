@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14579",
+        "label": "海绵宝宝",
+        "info": "年龄10岁（7月14日出生、巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/2c/14579_crt_z919y.jpg",
+        "link": "https://bgm.tv/character/14579",
+        "categorie": "person"
+      },
+      {
+        "id": "20985",
+        "label": "派大星",
+        "info": "粉红色的海星，是海绵宝宝的好朋友，思维简单，头脑与身体仅使用插头连结；曾因意外替换珊瑚脑使之智力大幅上升，性格也跟着改变。生日是1986年2月26日（14岁）。体型宽壮、力气大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/ea/20985_crt_e3Cc2.jpg",
+        "link": "https://bgm.tv/character/20985",
+        "categorie": "person"
+      },
+      {
+        "id": "20986",
+        "label": "章鱼哥",
+        "info": "属于蓝章物种的大鼻子章鱼。生日是1975年10月23日（24岁）。容易愤怒且势利眼。相当自恋，自以为拥有艺术才能。目前是光头，但曾有过黄色长卷发，并希望头发再长回来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/61/20986_crt_g2uB9.jpg",
+        "link": "https://bgm.tv/character/20986",
+        "categorie": "person"
+      },
+      {
+        "id": "20987",
+        "label": "蟹老板",
+        "info": "原文名字为Captain Eugene Harold Krabs，通称Mr. Krabs。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/47/20987_crt_m8Im4.jpg",
+        "link": "https://bgm.tv/character/20987",
+        "categorie": "person"
+      },
+      {
+        "id": "20988",
+        "label": "珊迪",
+        "info": "来自德州的雌性松鼠，曾经是当地的警长。身兼科学家、探险家和发明家。热爱运动（尤其空手道和滑沙）和科学，也是牛仔竞技的冠军。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/70/20988_crt_IE23e.jpg",
+        "link": "https://bgm.tv/character/20988",
+        "categorie": "person"
+      },
+      {
+        "id": "20989",
+        "label": "痞老板",
+        "info": "原文名字为Sheldon James Plankton Jr（希尔顿（喜来登）．皮），通称Plankton。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/41/20989_crt_bMb3h.jpg",
+        "link": "https://bgm.tv/character/20989",
+        "categorie": "person"
+      },
+      {
+        "id": "20990",
+        "label": "小蜗",
+        "info": "原文名字为Garold \"Gary\" Wilson Snail, Jr.，通称Gary the Snail。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/a0/20990_crt_NI1HK.jpg",
+        "link": "https://bgm.tv/character/20990",
+        "categorie": "person"
+      },
+      {
+        "id": "31286",
+        "label": "凯伦",
+        "info": "原文名字為Karen，皮老闆的電腦妻子，個性相當嘮叨，很有自己的想法，對於皮老闆一再的失敗已經見怪不怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/09/31286_crt_3cb4b.jpg?r=1427178407",
+        "link": "https://bgm.tv/character/31286",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

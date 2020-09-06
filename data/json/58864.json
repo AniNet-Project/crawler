@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2505",
+        "label": "普京",
+        "info": "穿着绿白间纹囚犯衣服，双耳绑在一起，囚犯编号541。是一只极为乐天派的兔子，心地非常好，喜欢跳哥萨克舞，经常被狱卒欺负。在社会主义体制下，只因为喝醉酒上班打瞌睡被抓，而被标签为“资本主义者”受刑三年。虽然因事入狱，但实际上是个良好市民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/ba/2505_crt_eKONl.jpg",
+        "link": "https://bgm.tv/character/2505",
+        "categorie": "person"
+      },
+      {
+        "id": "10501",
+        "label": "基里连科",
+        "info": "穿着红白间纹囚犯衣服的兔子，左耳穿着别针，囚犯编号04，前黑手党的首领。平时相当安静，有洁癖，爱帆布鞋成痴，目中无人，被激怒发飙时会变成十分危险的凶兔，如果被激怒得更恐怖，就会变成狂暴形态，攻击力大幅飙升，能以单手将一栋高楼大厦逐层拆除。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/6f/10501_crt_04bH3.jpg",
+        "link": "https://bgm.tv/character/10501",
+        "categorie": "person"
+      },
+      {
+        "id": "6598",
+        "label": "柯曼妮基",
+        "info": "普京在分办小鸡性别的劳动中遇见的人妖小鸡，有受虐待狂的倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c6/6598_crt_nNz3n.jpg",
+        "link": "https://bgm.tv/character/6598",
+        "categorie": "person"
+      },
+      {
+        "id": "22779",
+        "label": "门板君",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/22779",
+        "categorie": "person"
+      },
+      {
+        "id": "6647",
+        "label": "ボリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/e8/6647_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6647",
+        "categorie": "person"
+      },
+      {
+        "id": "19430",
+        "label": "レニングラード",
+        "info": "从牢房马桶里被钓上来的青蛙，只要是会动的东西就会被它视为食物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/a8/19430_crt_FP3V8.jpg",
+        "link": "https://bgm.tv/character/19430",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

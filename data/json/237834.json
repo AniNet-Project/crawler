@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27778",
+        "label": "利根川幸雄",
+        "info": "会长的手下。在第一季参与组织了希望号限定猜拳，生死之桥，E卡赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/cb/27778_crt_2yTT5.jpg?r=1414932645",
+        "link": "https://bgm.tv/character/27778",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "27779",
+        "label": "兵藤和尊",
+        "info": "帝爱集团总裁。一系列生死赌博的幕后黑手。钱多的有如草纸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/55/27779_crt_H1E1n.jpg?r=1416232641",
+        "link": "https://bgm.tv/character/27779",
+        "categorie": "person"
+      },
+      {
+        "id": "40460",
+        "label": "黒崎义裕",
+        "info": "帝愛グループの最高幹部の一人。利根川失脚後、帝愛グループ内では最も早く王国入りを果たし、帝愛No.2の地位を不動のものにする。 一条は兵藤会長が亡くなれば帝愛は黒崎が牛耳ると見ていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/b1/40460_crt_KBV6B.jpg?r=1543999860",
+        "link": "https://bgm.tv/character/40460",
+        "categorie": "person"
+      },
+      {
+        "id": "40447",
+        "label": "远藤勇次",
+        "info": "帝愛グループの傘下である「遠藤金融」社長のヤクザ。カイジがギャンブルの世界に足を踏み入れるきっかけとなった人物。非情で悪徳な高利貸で、「自分が良い人の訳が無い」とうそぶく。カイジの様な賭博ジャンキー気質は無く、金銭感覚は常識的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/3e/40447_crt_XMirh.jpg?r=1460514181",
+        "link": "https://bgm.tv/character/40447",
+        "categorie": "person"
+      },
+      {
+        "id": "17950",
+        "label": "一条圣也",
+        "info": "人喰いパチンコ「沼」を有する裏カジノの若き店長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/45/17950_crt_7pPfG.jpg",
+        "link": "https://bgm.tv/character/17950",
+        "categorie": "person"
+      },
+      {
+        "id": "40461",
+        "label": "大槻",
+        "info": "地下王国送りとされたカイジが配属されたE班の班長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/ec/40461_crt_1dG1H.jpg",
+        "link": "https://bgm.tv/character/40461",
+        "categorie": "person"
+      },
+      {
+        "id": "40468",
+        "label": "小田切",
+        "info": "地下王国でのC班班長。カイジと大槻の最終戦において、不正の現場を押さえられた大槻がカイジから不正の証拠を取り上げようとした際、自分が吟味を申し出たり、それに対するカイジの策をそれまでのやりとりから認めたりと、終始中立の立場で冷静に判断していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/1c/40468_crt_gMGpm.jpg?r=1543999869",
+        "link": "https://bgm.tv/character/40468",
+        "categorie": "person"
+      },
+      {
+        "id": "7524",
+        "label": "伊藤开司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/ec/7524_crt_anidb.jpg?r=1381750879",
+        "link": "https://bgm.tv/character/7524",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

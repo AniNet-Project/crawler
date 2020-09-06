@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2765",
+        "label": "木之本樱",
+        "info": "登场年龄为10岁，就读私立友枝小学四年级，在学校是啦啦队的队员之一，与知世是非常要好的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/9b/2765_crt_Vrv50.jpg?r=1512017848",
+        "link": "https://bgm.tv/character/2765",
+        "categorie": "person"
+      },
+      {
+        "id": "6527",
+        "label": "李小狼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/02/6527_crt_209E1.jpg?r=1513514687",
+        "link": "https://bgm.tv/character/6527",
+        "categorie": "person"
+      },
+      {
+        "id": "7998",
+        "label": "大道寺知世",
+        "info": "小樱的好朋友，是少有的知道小樱是魔法使的人。喜欢摄影，对做衣服、唱歌和做甜点非常擅长，不大擅长运动。性格早熟，最喜欢小樱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/a0/7998_crt_Yszs4.jpg?r=1517820508",
+        "link": "https://bgm.tv/character/7998",
+        "categorie": "person"
+      },
+      {
+        "id": "7999",
+        "label": "月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/bf/7999_crt_S25U2.jpg",
+        "link": "https://bgm.tv/character/7999",
+        "categorie": "person"
+      },
+      {
+        "id": "9370",
+        "label": "月城雪兔",
+        "info": "在故事中并非人类，是月的假身，曾经因为快没有法力了而要消失，后来得到桃矢的法力，所以没有消失。雪兔的身世，都是月造出来的假象。非常爱吃,是个大胃王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/97/9370_crt_kAACc.jpg?r=1515951939",
+        "link": "https://bgm.tv/character/9370",
+        "categorie": "person"
+      },
+      {
+        "id": "43275",
+        "label": "李莓铃",
+        "info": "动画版的原创角色。李小狼的堂妹。懂得武术，但没有魔力，这是在李家中相当罕见的。个性坚强的她，小时候因小狼不惜一切替她寻回飞走的小鸟而喜欢他，单方面与小狼承诺，在小狼找到喜欢的女孩前，做他的未婚妻。由于视小樱为情敌，因此初时对小樱很反感。但后来亦与小樱成为好友，并鼓励小樱接受小狼的感情。第43集决定比小狼早一步回去香港，从此小樱班上就少了一名同学。喜欢的科目是音乐、体育，而讨厌的则是无法拿到高分的国文（日文），红色为人物主色，喜欢莲花和数款中式甜品，包括：桃子豆沙馒头（寿桃）、胡麻团子（芝麻汤圆）、杏仁豆腐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/ca/43275_crt_1WqFc.jpg",
+        "link": "https://bgm.tv/character/43275",
+        "categorie": "person"
+      },
+      {
+        "id": "6528",
+        "label": "可鲁贝洛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/bd/6528_crt_anidb.jpg?r=1426932643",
+        "link": "https://bgm.tv/character/6528",
+        "categorie": "person"
+      },
+      {
+        "id": "8091",
+        "label": "木之本桃矢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/f8/8091_crt_Ado0f.jpg?r=1515952216",
+        "link": "https://bgm.tv/character/8091",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13064",
+        "label": "由乃",
+        "info": "向阳庄201号室。温柔坦诚。性格柔和，不管做什么都很努力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/7a/13064_crt_r62X1.jpg",
+        "link": "https://bgm.tv/character/13064",
+        "categorie": "person"
+      },
+      {
+        "id": "6414",
+        "label": "宫子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/2e/6414_crt_VTz1u.jpg",
+        "link": "https://bgm.tv/character/6414",
+        "categorie": "person"
+      },
+      {
+        "id": "13084",
+        "label": "寻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/ce/13084_crt_TUHOm.jpg",
+        "link": "https://bgm.tv/character/13084",
+        "categorie": "person"
+      },
+      {
+        "id": "6416",
+        "label": "沙英",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/1f/6416_crt_eikFA.jpg",
+        "link": "https://bgm.tv/character/6416",
+        "categorie": "person"
+      },
+      {
+        "id": "15387",
+        "label": "吉野屋老师",
+        "info": "　　ゆの、宫子的美术老师，也是ヒロ和沙英一年级时的美术老师。深绿色的头发，后面用了黄色的丝带捆起了一小束，眼珠也是深绿色。身材很好。本名不详。是山吹高中的毕业生，但毕业年份及年龄不详（本人说是“永远的17岁”）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/ed/15387_crt_0FVRT.jpg?r=1528197557",
+        "link": "https://bgm.tv/character/15387",
+        "categorie": "person"
+      },
+      {
+        "id": "9944",
+        "label": "房东",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/d9/9944_crt_Z478k.jpg",
+        "link": "https://bgm.tv/character/9944",
+        "categorie": "person"
+      },
+      {
+        "id": "9059",
+        "label": "校长",
+        "info": "山吹高中年老的校长。头部非常长，耳朵上至后勺生有白色卷发，但头顶及前额却亮得发光。平常身体会有些微颤抖，说话亦断断续续，但运动非常了得。常常为没有做师长自觉的吉野屋老师而感烦恼。住址不详，但行动范围多是在学校附近。虽然严格，但也有温柔跟孩子气的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/b6/9059_crt_D01Sl.jpg",
+        "link": "https://bgm.tv/character/9059",
+        "categorie": "person"
+      },
+      {
+        "id": "6418",
+        "label": "智花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/94/6418_crt_X9qr6.jpg",
+        "link": "https://bgm.tv/character/6418",
+        "categorie": "person"
+      },
+      {
+        "id": "9945",
+        "label": "桑原老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/dc/9945_crt_p11w3.jpg",
+        "link": "https://bgm.tv/character/9945",
+        "categorie": "person"
+      },
+      {
+        "id": "15388",
+        "label": "夏目",
+        "info": "山吹高中美术科1年B組→2年B組→3年B組。与沙英、ヒロ同年级。蹭得累。经常无缘无故针对和嘲笑沙英。但是实际上她一直想沙英成为好友。当初入学时在无助的时候得到沙英的帮助，因而对沙英心存感激和好感。不过看到沙英和寻到亲密无间之后，由于妒嫉而改变了对沙英的态度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/b3/15388_crt_P8ptu.jpg?r=1528197531",
+        "link": "https://bgm.tv/character/15388",
+        "categorie": "person"
+      },
+      {
+        "id": "15389",
+        "label": "梅老师",
+        "info": "在动画的开头及过场中登场，是个像蝶蛹般的奇怪生物，为原作者的自画像。基本上，和故事主线无关。根据作者在漫画中的介绍，梅老师身高57m，三围都是129.3cm(与哆啦A梦相同)；8月3日出生（与作者一样）；主要成份是炒米粉；兴趣是一人短剧；似乎曾在卡拉OK连续唱30次ulfuls的《ガッツだぜ!!》。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/21/15389_crt_22gFe.jpg",
+        "link": "https://bgm.tv/character/15389",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

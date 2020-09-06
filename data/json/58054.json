@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18174",
+        "label": "大庭叶藏",
+        "info": "叶藏生于二战时日本不愁吃穿的政治富家，是个体弱多病的家族末子，又从小看遍人情冷暖、正面背面的一套，所以感觉自己人生没有意义，从小学会看别人脸色、讨别人笑容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/83/18174_crt_DOm2z.jpg",
+        "link": "https://bgm.tv/character/18174",
+        "categorie": "person"
+      },
+      {
+        "id": "18175",
+        "label": "恒子",
+        "info": "叶蔵被追杀，逃到咖啡厅所遇到的女性，后来与叶蔵成为亲密的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/9b/18175_crt_u6YYH.jpg",
+        "link": "https://bgm.tv/character/18175",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

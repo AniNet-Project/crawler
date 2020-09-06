@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6746",
+        "label": "岛铁雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/a9/6746_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6746",
+        "categorie": "person"
+      },
+      {
+        "id": "75848",
+        "label": "金田正太郎",
+        "info": "主角，天生领导型人物，喜欢飙车。角色名引用自《铁人28号》的男主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/65/75848_crt_zRapJ.jpg?r=1582943710",
+        "link": "https://bgm.tv/character/75848",
+        "categorie": "person"
+      },
+      {
+        "id": "7773",
+        "label": "ケイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/eb/7773_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7773",
+        "categorie": "person"
+      },
+      {
+        "id": "7933",
+        "label": "マサル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/d6/7933_crt_7dW6g.jpg",
+        "link": "https://bgm.tv/character/7933",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

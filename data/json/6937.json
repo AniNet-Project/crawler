@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6013",
+        "label": "今宫圣志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d7/6013_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6013",
+        "categorie": "person"
+      },
+      {
+        "id": "11896",
+        "label": "朝比奈由美",
+        "info": "勝気な女の子。サッシに対してキツイ突っ込みをいれる。怒りや恥ずかしさで暴走すると手がつけられなくなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/10/11896_crt_o7Hmw.jpg",
+        "link": "https://bgm.tv/character/11896",
+        "categorie": "person"
+      },
+      {
+        "id": "6016",
+        "label": "秋姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/39/6016_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6016",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24155",
+        "label": "真境名树里",
+        "info": "女子高中生，从言行举止各方面来看都很符合“现充”的身份。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/6e/24155_crt_l78oa.jpg",
+        "link": "https://bgm.tv/character/24155",
+        "categorie": "person"
+      },
+      {
+        "id": "24167",
+        "label": "本城彰男",
+        "info": "动画作品《HARMONIE》男主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/6f/24167_crt_skkff.jpg",
+        "link": "https://bgm.tv/character/24167",
+        "categorie": "person"
+      },
+      {
+        "id": "53049",
+        "label": "マユミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/21/53049_crt_O7f33.jpg",
+        "link": "https://bgm.tv/character/53049",
+        "categorie": "person"
+      },
+      {
+        "id": "53050",
+        "label": "リョーコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ad/53050_crt_7bQCv.jpg",
+        "link": "https://bgm.tv/character/53050",
+        "categorie": "person"
+      },
+      {
+        "id": "53051",
+        "label": "吉田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/34/53051_crt_5o9c3.jpg",
+        "link": "https://bgm.tv/character/53051",
+        "categorie": "person"
+      },
+      {
+        "id": "53052",
+        "label": "渡边",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/bf/53052_crt_dD7td.jpg",
+        "link": "https://bgm.tv/character/53052",
+        "categorie": "person"
+      },
+      {
+        "id": "53053",
+        "label": "後藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/f3/53053_crt_3iMi8.jpg",
+        "link": "https://bgm.tv/character/53053",
+        "categorie": "person"
+      },
+      {
+        "id": "53054",
+        "label": "園子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/8d/53054_crt_TThW0.jpg",
+        "link": "https://bgm.tv/character/53054",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

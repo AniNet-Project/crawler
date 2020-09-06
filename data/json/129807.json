@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12392",
+        "label": "冈部伦太郎",
+        "info": "主人公，东京电机大学一年级，“未来道具研究所”研究员No.001。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/40/12392_crt_RrOOo.jpg?r=1529463765",
+        "link": "https://bgm.tv/character/12392",
+        "categorie": "person"
+      },
+      {
+        "id": "12381",
+        "label": "椎名真由理",
+        "info": "私立花浅葱大学附属学园二年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/87/12381_crt_E6mMF.jpg?r=1529463836",
+        "link": "https://bgm.tv/character/12381",
+        "categorie": "person"
+      },
+      {
+        "id": "12399",
+        "label": "桥田至",
+        "info": "　东京电机大学一年级。冈伦高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「右手」的未来道具研究所的宝贵战力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/44/12399_crt_gSpN4.jpg?r=1529463866",
+        "link": "https://bgm.tv/character/12399",
+        "categorie": "person"
+      },
+      {
+        "id": "12393",
+        "label": "牧濑红莉栖",
+        "info": "维克多·孔多利亚（原型为哥伦比亚大学）大学脑科学研究所的研究员，18 岁即从大学毕业(因为美国的跳级制度，所以实际年龄跟高三学生相当)，在美国著名的学术杂志上刊登论文而受到瞩目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/2a/12393_crt_SS7II.jpg?r=1531372585",
+        "link": "https://bgm.tv/character/12393",
+        "categorie": "person"
+      },
+      {
+        "id": "12394",
+        "label": "阿万音铃羽",
+        "info": "在未来道具研究所所在的一楼「显象管工房」打工的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/dd/12394_crt_tS3sq.jpg?r=1534305475",
+        "link": "https://bgm.tv/character/12394",
+        "categorie": "person"
+      },
+      {
+        "id": "20135",
+        "label": "比屋定真帆",
+        "info": "ヴィクトル・コンドリア大学脳科学研究所の研究員で、牧瀬紅莉栖の先輩。非常に小柄でとても21歳には見えないので、日没後に街を歩いているといつも補導されそうになる。性格はキッめ。相手が誰であろうと物怖じせず理路整然と論破してしまうために敵を作りやすく、ツンデレを通り結してッンドラに近い。口調は懲勲無礼。専攻は人工知能で、人I旧の記憶を人工知能に移植する研究を続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/ac/20135_crt_8foKm.jpg?r=1525056120",
+        "link": "https://bgm.tv/character/20135",
+        "categorie": "person"
+      },
+      {
+        "id": "20138",
+        "label": "椎名篝",
+        "info": "β世界線上の2028年に、まゆり（当時35歲）が働いていた児盾養護施設に預けられた女の島戦争で戶籍がはっきりせず、本当の氏名は不明。養護施設で成長していく過程で、まるで実の母のようにまゆりになつく。かがりと命名したのはまゆり。どんなに暗黑の世界線でも、みんなを照らす輝くかがり火のようであって欲しいという意味。2034年にまゆりの養女となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/c4/20138_crt_LYSzs.jpg?r=1500879625",
+        "link": "https://bgm.tv/character/20138",
+        "categorie": "person"
+      },
+      {
+        "id": "12400",
+        "label": "桐生萌郁",
+        "info": "为了都市传说的取材而寻找幻之 PC「IBN5100」的时候，在秋叶原邂逅了冈伦。她沉默寡言到了与别人的交流全部都要通过手机短信的地步(就算对方在眼前)。虽然会让人觉得她的性格十分冷淡，但其实只是因为她不擅长与别人交谈罢了。而且这个不擅长当面交谈的问题即使通过电话也改不了，所以与其说是手机依赖症，不如说是手机短信依赖症更为恰当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/ad/12400_crt_jM727.jpg?r=1529463935",
+        "link": "https://bgm.tv/character/12400",
+        "categorie": "person"
+      },
+      {
+        "id": "12396",
+        "label": "漆原琉华",
+        "info": "私立花浅葱大学附属学园二年级。秋叶原的柳林神社当家的儿子。在家里的神社时穿着巫女服。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/26/12396_crt_bW4Pb.jpg?r=1529464000",
+        "link": "https://bgm.tv/character/12396",
+        "categorie": "person"
+      },
+      {
+        "id": "12398",
+        "label": "菲利斯·喵喵",
+        "info": "　　在秋叶原的大人气猫耳女仆咖啡厅打工的少女。因为平时就戴着猫耳，所以使用着动画中常出现的“喵喵～”的口癖。自称有着只要注视对方眼睛就知道内心想法的特殊能力“笑面猫的微笑”，所以对他人的心情十分敏感。由于猫耳的萌要素和能力使她在打工的地方赢得了 No.1 的人气，是那种玩弄男人内心的小恶魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/52/12398_crt_fm7rc.jpg?r=1529464038",
+        "link": "https://bgm.tv/character/12398",
+        "categorie": "person"
+      },
+      {
+        "id": "20136",
+        "label": "阿万音由季",
+        "info": "大学の4回生でコスブレイヤー。ダルとはコミマで知り合って仲良くなる。ダルの未来の嫁で、鈴羽はダルと由季が結婚してもうける子供である。普段はショートカットだが、コスブレ用にウイッグを多数所持しているので、ロングだったりツインテールだったり三つ編みだったりする。性格はボーイッシこ系で、あまり細かいことは気にしない、クヨクヨしないボジティブ思考の持ち主.",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/77/20136_crt_59I1V.jpg?r=1500878852",
+        "link": "https://bgm.tv/character/20136",
+        "categorie": "person"
+      },
+      {
+        "id": "17778",
+        "label": "天王寺绹",
+        "info": "电器店店长兼Rounder指挥官天王寺裕吾的女儿，十一岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/8f/17778_crt_LJ68Y.jpg?r=1529464099",
+        "link": "https://bgm.tv/character/17778",
+        "categorie": "person"
+      },
+      {
+        "id": "42676",
+        "label": "来岛枫",
+        "info": "真由理的COSPLAY同好。曾经穿着真由理做的衣服参加活动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/40/42676_crt_q6TLX.jpg?r=1500880482",
+        "link": "https://bgm.tv/character/42676",
+        "categorie": "person"
+      },
+      {
+        "id": "42675",
+        "label": "中濑克美",
+        "info": "真由理的COSPLAY同好，COSPLAY时的名字是“吹雪”，中性化的外表吸引眼球。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/31/42675_crt_BlS8Q.jpg?r=1500880386",
+        "link": "https://bgm.tv/character/42675",
+        "categorie": "person"
+      },
+      {
+        "id": "42677",
+        "label": "亚历克西斯·莱斯基宁",
+        "info": "ヴィクトル・コンドリア大学の大脳科学研究所の主任研究員の一人で、真帆や紅莉栖の上司・師匠でもある。初登場はSTEINS;GATE外伝小説シリーズで、紅莉栖の死後、講演のために真帆を伴って来日する。年齢は34歳。「0」にも登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/6a/42677_crt_9v328.jpg?r=1500896781",
+        "link": "https://bgm.tv/character/42677",
+        "categorie": "person"
+      },
+      {
+        "id": "42678",
+        "label": "朱迪·雷耶斯",
+        "info": "ヴィクトル・コンドリア大学の精神生理学研究所の教授、レスキネン・真帆とも顔見知りである。初登場はSTEINS;GATE外伝小説シリーズ。「0」にも登場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/32/42678_crt_9i9Oj.jpg?r=1500880511",
+        "link": "https://bgm.tv/character/42678",
+        "categorie": "person"
+      },
+      {
+        "id": "50546",
+        "label": "天王寺裕吾",
+        "info": "32歳。1978年3月12日生まれ。身長187cm、体重86kg。血液型はO型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/c9/50546_crt_SnAez.jpg?r=1529464073",
+        "link": "https://bgm.tv/character/50546",
+        "categorie": "person"
+      },
+      {
+        "id": "55538",
+        "label": "中钵",
+        "info": "43歳。1967年1月13日生まれ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/ca/55538_crt_L6SW9.jpg?r=1498931252",
+        "link": "https://bgm.tv/character/55538",
+        "categorie": "person"
+      },
+      {
+        "id": "55540",
+        "label": "漆原荣辅",
+        "info": "るかの父親。一見すると常識人だが、男であるるかに巫女服を着せさせている。また、岡部の本名を「鳳凰院凶真」だと信じ込んでいるあたり、るかの純粋さは彼譲りのものと見られる。PC版以降追加された立ち絵では、学者風で眼鏡の似合うおじさんという風貌だが、それ以前の漫画版（アライブ連載）では中年男性として描かれていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/5b/55540_crt_kPdzk.jpg?r=1498932135",
+        "link": "https://bgm.tv/character/55540",
+        "categorie": "person"
+      },
+      {
+        "id": "55541",
+        "label": "黑木",
+        "info": "フェイリスと秋葉家に長らく務めている老執事。本編においては幸高亡き後のフェイリスの仕事生活面での世話を行なっている。「線形拘束のフェノグラム」において立ち絵が初めて掲載された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/bc/55541_crt_If0cu.jpg?r=1498932416",
+        "link": "https://bgm.tv/character/55541",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50824",
+        "label": "薮猫",
+        "info": "足が速く、鼻も耳もいいが、おっちょこちょいで全部台無しになっている。木登りが得意。フォッサいわく、さばんなちほーのトラブルメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/48/50824_crt_wNv36.jpg?r=1545325052",
+        "link": "https://bgm.tv/character/50824",
+        "categorie": "person"
+      },
+      {
+        "id": "50026",
+        "label": "包",
+        "info": "アニメオリジナルキャラクター。記憶喪失の状態でジャパリパークのさばんなちほーに現れたところを、サーバルに発見される。大きなかばん（リュック）を持ってたことから、サーバルに「かばん」と名付けられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/db/50026_crt_aTGZ3.jpg?r=1545321973",
+        "link": "https://bgm.tv/character/50026",
+        "categorie": "person"
+      },
+      {
+        "id": "52430",
+        "label": "幸运兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/80/52430_crt_COygy.jpg",
+        "link": "https://bgm.tv/character/52430",
+        "categorie": "person"
+      },
+      {
+        "id": "51063",
+        "label": "耳廓狐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/1d/51063_crt_e5Qn1.jpg?r=1547378888",
+        "link": "https://bgm.tv/character/51063",
+        "categorie": "person"
+      },
+      {
+        "id": "51064",
+        "label": "浣熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/cf/51064_crt_rlH1H.jpg?r=1547378951",
+        "link": "https://bgm.tv/character/51064",
+        "categorie": "person"
+      },
+      {
+        "id": "51065",
+        "label": "巴布亚企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/51/51065_crt_bSHIY.jpg?r=1547748866",
+        "link": "https://bgm.tv/character/51065",
+        "categorie": "person"
+      },
+      {
+        "id": "51066",
+        "label": "洪堡企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/b7/51066_crt_cc4CC.jpg",
+        "link": "https://bgm.tv/character/51066",
+        "categorie": "person"
+      },
+      {
+        "id": "51067",
+        "label": "跳岩企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/fd/51067_crt_a8rRw.jpg?r=1551958542",
+        "link": "https://bgm.tv/character/51067",
+        "categorie": "person"
+      },
+      {
+        "id": "51072",
+        "label": "皇家企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/3b/51072_crt_Txm9C.jpg?r=1547381307",
+        "link": "https://bgm.tv/character/51072",
+        "categorie": "person"
+      },
+      {
+        "id": "51073",
+        "label": "帝企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/99/51073_crt_SjKW9.jpg?r=1547384814",
+        "link": "https://bgm.tv/character/51073",
+        "categorie": "person"
+      },
+      {
+        "id": "51295",
+        "label": "美洲豹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/5f/51295_crt_zsNcr.jpg",
+        "link": "https://bgm.tv/character/51295",
+        "categorie": "person"
+      },
+      {
+        "id": "51299",
+        "label": "小食蚁兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/31/51299_crt_hc9oe.jpg",
+        "link": "https://bgm.tv/character/51299",
+        "categorie": "person"
+      },
+      {
+        "id": "51304",
+        "label": "苏利羊驼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/03/51304_crt_33ZVH.jpg",
+        "link": "https://bgm.tv/character/51304",
+        "categorie": "person"
+      },
+      {
+        "id": "51312",
+        "label": "眼镜王蛇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/c8/51312_crt_3qkJJ.jpg",
+        "link": "https://bgm.tv/character/51312",
+        "categorie": "person"
+      },
+      {
+        "id": "51336",
+        "label": "白犀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/ac/51336_crt_hxE3X.jpg",
+        "link": "https://bgm.tv/character/51336",
+        "categorie": "person"
+      },
+      {
+        "id": "51338",
+        "label": "鲸头鹳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/8a/51338_crt_Du2Lc.jpg",
+        "link": "https://bgm.tv/character/51338",
+        "categorie": "person"
+      },
+      {
+        "id": "51818",
+        "label": "长尾虎猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/4a/51818_crt_hhvwH.jpg?r=1543739977",
+        "link": "https://bgm.tv/character/51818",
+        "categorie": "person"
+      },
+      {
+        "id": "51898",
+        "label": "北海道赤狐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/66/51898_crt_hIzLg.jpg",
+        "link": "https://bgm.tv/character/51898",
+        "categorie": "person"
+      },
+      {
+        "id": "52119",
+        "label": "水豚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/24/52119_crt_81080.jpg",
+        "link": "https://bgm.tv/character/52119",
+        "categorie": "person"
+      },
+      {
+        "id": "52255",
+        "label": "网纹长颈鹿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/88/52255_crt_NUAMf.jpg",
+        "link": "https://bgm.tv/character/52255",
+        "categorie": "person"
+      },
+      {
+        "id": "52429",
+        "label": "未来",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/b5/52429_crt_l99P9.jpg",
+        "link": "https://bgm.tv/character/52429",
+        "categorie": "person"
+      },
+      {
+        "id": "65324",
+        "label": "天蓝怪",
+        "info": "天蓝怪与朋友皆为砂之星的“产物”，然而“天蓝怪”是与“朋友/Friends”对立的存在，天蓝怪会主动捕食朋友，朋友则倾向于躲避天蓝怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/fe/65324_crt_L990x.jpg?r=1533729901",
+        "link": "https://bgm.tv/character/65324",
+        "categorie": "person"
+      },
+      {
+        "id": "51062",
+        "label": "河马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/f1/51062_crt_404ED.jpg",
+        "link": "https://bgm.tv/character/51062",
+        "categorie": "person"
+      },
+      {
+        "id": "51294",
+        "label": "小爪水獭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/84/51294_crt_i3bN2.jpg",
+        "link": "https://bgm.tv/character/51294",
+        "categorie": "person"
+      },
+      {
+        "id": "51310",
+        "label": "马岛獴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/7d/51310_crt_Rx58X.jpg",
+        "link": "https://bgm.tv/character/51310",
+        "categorie": "person"
+      },
+      {
+        "id": "51296",
+        "label": "印度象",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/e1/51296_crt_QoB1G.jpg",
+        "link": "https://bgm.tv/character/51296",
+        "categorie": "person"
+      },
+      {
+        "id": "51297",
+        "label": "花鹿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/18/51297_crt_K7555.jpg",
+        "link": "https://bgm.tv/character/51297",
+        "categorie": "person"
+      },
+      {
+        "id": "51298",
+        "label": "虎猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/39/51298_crt_8R87d.jpg",
+        "link": "https://bgm.tv/character/51298",
+        "categorie": "person"
+      },
+      {
+        "id": "51313",
+        "label": "马来貘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/a2/51313_crt_f3Ff7.jpg",
+        "link": "https://bgm.tv/character/51313",
+        "categorie": "person"
+      },
+      {
+        "id": "51314",
+        "label": "孔雀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/00/51314_crt_88Fu1.jpg",
+        "link": "https://bgm.tv/character/51314",
+        "categorie": "person"
+      },
+      {
+        "id": "51300",
+        "label": "袋獾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/86/51300_crt_W1wKW.jpg?r=1486958107",
+        "link": "https://bgm.tv/character/51300",
+        "categorie": "person"
+      },
+      {
+        "id": "51301",
+        "label": "斗篷蜥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/90/51301_crt_b379e.jpg",
+        "link": "https://bgm.tv/character/51301",
+        "categorie": "person"
+      },
+      {
+        "id": "51302",
+        "label": "霍加狓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/b4/51302_crt_L1GL2.jpg",
+        "link": "https://bgm.tv/character/51302",
+        "categorie": "person"
+      },
+      {
+        "id": "51303",
+        "label": "朱鹮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f9/51303_crt_53vyH.jpg",
+        "link": "https://bgm.tv/character/51303",
+        "categorie": "person"
+      },
+      {
+        "id": "51305",
+        "label": "美洲红鹮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/bf/51305_crt_199Ou.jpg",
+        "link": "https://bgm.tv/character/51305",
+        "categorie": "person"
+      },
+      {
+        "id": "51306",
+        "label": "沙丘猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/90/51306_crt_GidGe.jpg",
+        "link": "https://bgm.tv/character/51306",
+        "categorie": "person"
+      },
+      {
+        "id": "51307",
+        "label": "野槌蛇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/d4/51307_crt_Hfg76.jpg",
+        "link": "https://bgm.tv/character/51307",
+        "categorie": "person"
+      },
+      {
+        "id": "51308",
+        "label": "美洲河狸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/45/51308_crt_7MFQH.jpg",
+        "link": "https://bgm.tv/character/51308",
+        "categorie": "person"
+      },
+      {
+        "id": "51309",
+        "label": "黑尾土拨鼠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/78/51309_crt_kJje7.jpg",
+        "link": "https://bgm.tv/character/51309",
+        "categorie": "person"
+      },
+      {
+        "id": "51330",
+        "label": "狮子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/4c/51330_crt_0CDCV.jpg",
+        "link": "https://bgm.tv/character/51330",
+        "categorie": "person"
+      },
+      {
+        "id": "51331",
+        "label": "驼鹿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/f6/51331_crt_rchdF.jpg",
+        "link": "https://bgm.tv/character/51331",
+        "categorie": "person"
+      },
+      {
+        "id": "51332",
+        "label": "原牛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/2d/51332_crt_e8ndZ.jpg",
+        "link": "https://bgm.tv/character/51332",
+        "categorie": "person"
+      },
+      {
+        "id": "51333",
+        "label": "阿拉伯大羚羊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/54/51333_crt_5x2Fm.jpg",
+        "link": "https://bgm.tv/character/51333",
+        "categorie": "person"
+      },
+      {
+        "id": "51334",
+        "label": "大犰狳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/30/51334_crt_1YCcD.jpg",
+        "link": "https://bgm.tv/character/51334",
+        "categorie": "person"
+      },
+      {
+        "id": "51335",
+        "label": "非洲冕豪猪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/ad/51335_crt_COdgG.jpg",
+        "link": "https://bgm.tv/character/51335",
+        "categorie": "person"
+      },
+      {
+        "id": "51337",
+        "label": "豹变色龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/fe/51337_crt_1Aa5n.jpg",
+        "link": "https://bgm.tv/character/51337",
+        "categorie": "person"
+      },
+      {
+        "id": "51339",
+        "label": "日本黑熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/e4/51339_crt_hkzYK.jpg",
+        "link": "https://bgm.tv/character/51339",
+        "categorie": "person"
+      },
+      {
+        "id": "51594",
+        "label": "白脸角鸮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/1c/51594_crt_x9M9j.jpg",
+        "link": "https://bgm.tv/character/51594",
+        "categorie": "person"
+      },
+      {
+        "id": "51595",
+        "label": "雕鸮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/54/51595_crt_nlJna.jpg",
+        "link": "https://bgm.tv/character/51595",
+        "categorie": "person"
+      },
+      {
+        "id": "51897",
+        "label": "银狐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/92/51897_crt_zL647.jpg",
+        "link": "https://bgm.tv/character/51897",
+        "categorie": "person"
+      },
+      {
+        "id": "52253",
+        "label": "灰狼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/14/52253_crt_Mv5WH.jpg",
+        "link": "https://bgm.tv/character/52253",
+        "categorie": "person"
+      },
+      {
+        "id": "52392",
+        "label": "草原扑翅䴕",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/59/52392_crt_R885m.jpg",
+        "link": "https://bgm.tv/character/52392",
+        "categorie": "person"
+      },
+      {
+        "id": "52540",
+        "label": "棕熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/2c/52540_crt_u86A3.jpg",
+        "link": "https://bgm.tv/character/52540",
+        "categorie": "person"
+      },
+      {
+        "id": "52541",
+        "label": "金丝猴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/c5/52541_crt_HvvmJ.jpg",
+        "link": "https://bgm.tv/character/52541",
+        "categorie": "person"
+      },
+      {
+        "id": "52698",
+        "label": "非洲野犬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/41/52698_crt_e2gBX.jpg",
+        "link": "https://bgm.tv/character/52698",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

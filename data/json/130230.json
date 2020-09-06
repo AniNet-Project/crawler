@@ -1,0 +1,437 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1735",
+        "label": "皆城总士",
+        "info": "一骑的挚友，皆城公藏与鞘的孩子。妹妹·乙姬沉睡于岛中的“女神的岩窟”中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/22/1735_crt_07a7a.jpg?r=1419778221",
+        "link": "https://bgm.tv/character/1735",
+        "categorie": "person"
+      },
+      {
+        "id": "1734",
+        "label": "真壁一骑",
+        "info": "原只是一位普通的运动神经极好的海岛少年，直到入侵者侵入了岛的那一天——",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/83/1734_crt_1PRy8.jpg?r=1419778052",
+        "link": "https://bgm.tv/character/1734",
+        "categorie": "person"
+      },
+      {
+        "id": "1736",
+        "label": "远见真矢",
+        "info": "一骑的青梅竹马。与母亲、姐姐一同生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/b6/1736_crt_bmuLd.jpg?r=1419778361",
+        "link": "https://bgm.tv/character/1736",
+        "categorie": "person"
+      },
+      {
+        "id": "28532",
+        "label": "羽佐间卡农",
+        "info": "原新国连人类军所属、Fafner驾驶者的少女。爱尔兰 都柏林出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/24/28532_crt_dzGM6.jpg?r=1421420524",
+        "link": "https://bgm.tv/character/28532",
+        "categorie": "person"
+      },
+      {
+        "id": "30041",
+        "label": "皆城织姬",
+        "info": "通过皆城乙姬与岛的星核的再同步而再生的新的核。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/52/30041_crt_1H3h3.jpg?r=1425388553",
+        "link": "https://bgm.tv/character/30041",
+        "categorie": "person"
+      },
+      {
+        "id": "1739",
+        "label": "要咲良",
+        "info": "要诚一郎与澄美的孩子。家中开道场，因此也练得一身好功夫，表明喜欢比自己强的男孩子。因父亲于第一集被 Festum杀死,故立志消灭所有来袭的Festum。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/a5/1739_crt_b4WtX.jpg?r=1419779101",
+        "link": "https://bgm.tv/character/1739",
+        "categorie": "person"
+      },
+      {
+        "id": "1740",
+        "label": "近藤剑司",
+        "info": "不太可靠的学生会会长。由于喜欢咲良，因此常找一骑比试。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/9b/1740_crt_ac6Z4.jpg?r=1419779358",
+        "link": "https://bgm.tv/character/1740",
+        "categorie": "person"
+      },
+      {
+        "id": "29498",
+        "label": "御门零央",
+        "info": "EXODUS：",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/cf/29498_crt_iR38J.jpg?r=1428814299",
+        "link": "https://bgm.tv/character/29498",
+        "categorie": "person"
+      },
+      {
+        "id": "29497",
+        "label": "镝木彗",
+        "info": "EXODUS：",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/b5/29497_crt_thQsz.jpg?r=1428814346",
+        "link": "https://bgm.tv/character/29497",
+        "categorie": "person"
+      },
+      {
+        "id": "29499",
+        "label": "水镜美三香",
+        "info": "EXODUS：",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/12/29499_crt_Q4G09.jpg?r=1428814282",
+        "link": "https://bgm.tv/character/29499",
+        "categorie": "person"
+      },
+      {
+        "id": "1738",
+        "label": "春日井甲洋",
+        "info": "家里开着喫茶店·乐园。父母因他被选上成为驾驶员感到光荣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4e/1738_crt_joY5Q.jpg?r=1419778955",
+        "link": "https://bgm.tv/character/1738",
+        "categorie": "person"
+      },
+      {
+        "id": "28549",
+        "label": "来主操",
+        "info": "沉眠于漂流至龙宫岛的军舰内部的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c0/28549_crt_4ULiK.jpg?r=1419782181",
+        "link": "https://bgm.tv/character/28549",
+        "categorie": "person"
+      },
+      {
+        "id": "29500",
+        "label": "堂马广登",
+        "info": "竜宮島で暮らす少年。家は定食屋・堂馬食堂。姉がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/9f/29500_crt_S1K3g.jpg?r=1423393351",
+        "link": "https://bgm.tv/character/29500",
+        "categorie": "person"
+      },
+      {
+        "id": "28534",
+        "label": "立上芹",
+        "info": "比一骑小一岁的后辈，喜欢昆虫，对生命的感受性非常强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/e4/28534_crt_0T10V.jpg?r=1421422981",
+        "link": "https://bgm.tv/character/28534",
+        "categorie": "person"
+      },
+      {
+        "id": "28533",
+        "label": "西尾里奈",
+        "info": "比一骑们小一岁的后辈。在零式法芙娜的启动实验的事故中失去了双亲，自此与祖母·行美、双胞胎弟弟·晖相依为命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/26/28533_crt_MzZKC.jpg",
+        "link": "https://bgm.tv/character/28533",
+        "categorie": "person"
+      },
+      {
+        "id": "28552",
+        "label": "西尾晖",
+        "info": "比一骑们小一岁的后辈。在零式法芙娜的启动实验的事故中失去了双亲，自此与祖母·行美、双胞胎姐姐·里奈相依为命。因为失去双亲的影响而患上了失语症。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b4/28552_crt_tQ3Yr.jpg",
+        "link": "https://bgm.tv/character/28552",
+        "categorie": "person"
+      },
+      {
+        "id": "28542",
+        "label": "真壁史彦",
+        "info": "一骑的父亲，接替殉职的皆城公藏成为了Alvis总司令。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/ac/28542_crt_g1M78.jpg",
+        "link": "https://bgm.tv/character/28542",
+        "categorie": "person"
+      },
+      {
+        "id": "28544",
+        "label": "沟口恭介",
+        "info": "春日井夫妇被驱逐出岛后，接下了“乐园”，成为了“乐园”的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/1b/28544_crt_sAAd5.jpg?r=1419781478",
+        "link": "https://bgm.tv/character/28544",
+        "categorie": "person"
+      },
+      {
+        "id": "28545",
+        "label": "远见千鹤",
+        "info": "弓子、真矢的母亲，美羽的外婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/8d/28545_crt_3Fb2L.jpg?r=1419781647",
+        "link": "https://bgm.tv/character/28545",
+        "categorie": "person"
+      },
+      {
+        "id": "28535",
+        "label": "羽佐间容子",
+        "info": "翔子、卡农的养母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/c5/28535_crt_RdD73.jpg?r=1419780209",
+        "link": "https://bgm.tv/character/28535",
+        "categorie": "person"
+      },
+      {
+        "id": "28537",
+        "label": "要澄美",
+        "info": "咲良的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/68/28537_crt_25eSE.jpg?r=1419780429",
+        "link": "https://bgm.tv/character/28537",
+        "categorie": "person"
+      },
+      {
+        "id": "28539",
+        "label": "小楯保",
+        "info": "卫的父亲。Alvis的主机械师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/4e/28539_crt_UFQqw.jpg?r=1419780790",
+        "link": "https://bgm.tv/character/28539",
+        "categorie": "person"
+      },
+      {
+        "id": "28546",
+        "label": "远见弓子",
+        "info": "真矢的姐姐。为了让真矢不驾驶法芙娜甚至不惜冒着可能被驱逐出岛的惩罚的危险，改动了真矢的个人数据。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/6b/28546_crt_3AYGa.jpg?r=1419782562",
+        "link": "https://bgm.tv/character/28546",
+        "categorie": "person"
+      },
+      {
+        "id": "28550",
+        "label": "日野美羽",
+        "info": "道夫·弓子的孩子，有着能够理解异界体的语言的“世界语者”的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/54/28550_crt_SxqT7.jpg",
+        "link": "https://bgm.tv/character/28550",
+        "categorie": "person"
+      },
+      {
+        "id": "36717",
+        "label": "西尾行美",
+        "info": "里奈·晖的祖母，经营着粗点心店·西尾商店的老太太。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/44/36717_crt_1aLk1.jpg?r=1447051736",
+        "link": "https://bgm.tv/character/36717",
+        "categorie": "person"
+      },
+      {
+        "id": "36718",
+        "label": "伊安·康普",
+        "info": "被伯恩斯舍弃在岛上的人类军兵士的其中一人，现在作为Alvis的机械师工作着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/bd/36718_crt_MnGcc.jpg?r=1447051888",
+        "link": "https://bgm.tv/character/36718",
+        "categorie": "person"
+      },
+      {
+        "id": "36775",
+        "label": "洁蕾米·李·玛茜",
+        "info": "原人类军，与伊安相同，感恩着岛的接纳。现在作为CDC的操作员工作着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/4f/36775_crt_w4l4e.jpg?r=1447166779",
+        "link": "https://bgm.tv/character/36775",
+        "categorie": "person"
+      },
+      {
+        "id": "29496",
+        "label": "艾默莉·阿尔蒙德",
+        "info": "在伤痕累累的斯芬克斯型异界体的保护下从核攻击下活下来的民间人少女，能够与Mir(星核)对话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/15/29496_crt_vVdV7.jpg?r=1423390594",
+        "link": "https://bgm.tv/character/29496",
+        "categorie": "person"
+      },
+      {
+        "id": "29493",
+        "label": "乔纳森·光弘·伯特兰",
+        "info": "新国连所属。光弘·伯特兰之子。18岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/52/29493_crt_Dx3q1.jpg?r=1423388914",
+        "link": "https://bgm.tv/character/29493",
+        "categorie": "person"
+      },
+      {
+        "id": "29495",
+        "label": "艾西瓦娅·费恩",
+        "info": "新国连所属。乔纳森·光弘·伯特兰的同僚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/2b/29495_crt_7F0qE.jpg?r=1423389846",
+        "link": "https://bgm.tv/character/29495",
+        "categorie": "person"
+      },
+      {
+        "id": "29494",
+        "label": "比利·摩根",
+        "info": "新国连所属。乔纳森·光弘·伯特兰的同僚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/f9/29494_crt_JGSrm.jpg?r=1423389777",
+        "link": "https://bgm.tv/character/29494",
+        "categorie": "person"
+      },
+      {
+        "id": "36715",
+        "label": "纳雷因·怀兹曼·波司",
+        "info": "人类军统括总部的军人，珀耳修斯中队队长。史上最高龄的法芙娜驾驶者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/e7/36715_crt_MBiAB.jpg?r=1447051176",
+        "link": "https://bgm.tv/character/36715",
+        "categorie": "person"
+      },
+      {
+        "id": "36720",
+        "label": "沃尔塔·巴格斯特",
+        "info": "所属于新国连人类军的大型爆击机的原副操纵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/77/36720_crt_i2n89.jpg?r=1447052838",
+        "link": "https://bgm.tv/character/36720",
+        "categorie": "person"
+      },
+      {
+        "id": "41047",
+        "label": "赫丝特·盖洛普",
+        "info": "新国连事务总长，美国人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/1c/41047_crt_o18Zn.jpg?r=1461939829",
+        "link": "https://bgm.tv/character/41047",
+        "categorie": "person"
+      },
+      {
+        "id": "41053",
+        "label": "达德利·伯恩斯",
+        "info": "新国连人类军所属的军人。阶级大佐。与真壁史彦和沟口恭介是旧识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/55/41053_crt_rR82D.jpg",
+        "link": "https://bgm.tv/character/41053",
+        "categorie": "person"
+      },
+      {
+        "id": "68086",
+        "label": "迪兰·巴泽尔",
+        "info": "EXODUS：",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/f1/68086_crt_F5Evs.jpg?r=1546142833",
+        "link": "https://bgm.tv/character/68086",
+        "categorie": "person"
+      },
+      {
+        "id": "36716",
+        "label": "达斯汀·摩根",
+        "info": "比利·摩根的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6f/36716_crt_yGyN6.jpg?r=1447051438",
+        "link": "https://bgm.tv/character/36716",
+        "categorie": "person"
+      },
+      {
+        "id": "68089",
+        "label": "姬丝·沃塔",
+        "info": "原摩根小队的一员，2151年与达斯汀一同成为了阿耳戈斯小队的队员，愉快地做着“始末”同胞的脏活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/e5/68089_crt_OOodO.jpg?r=1546148788",
+        "link": "https://bgm.tv/character/68089",
+        "categorie": "person"
+      },
+      {
+        "id": "68067",
+        "label": "阵内贡",
+        "info": "职务于刚瑠岛的沟口的部下。与广登的姐姐·舞是恋人关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/3e/68067_crt_MOgMU.jpg?r=1546094103",
+        "link": "https://bgm.tv/character/68067",
+        "categorie": "person"
+      },
+      {
+        "id": "68068",
+        "label": "将陵佐喜",
+        "info": "沟口的部下之一，担任战斗部队情报官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/24/68068_crt_vTH34.jpg?r=1546094653",
+        "link": "https://bgm.tv/character/68068",
+        "categorie": "person"
+      },
+      {
+        "id": "68069",
+        "label": "堂马舞",
+        "info": "广登的姐姐，23岁。日常是在堂马家开的“堂马食堂”内作为看板娘工作着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/74/68069_crt_hE3aE.jpg?r=1546095457",
+        "link": "https://bgm.tv/character/68069",
+        "categorie": "person"
+      },
+      {
+        "id": "68072",
+        "label": "贵志晶",
+        "info": "EXODUS：曾经所属于人类军的原法芙娜驾驶员，现就职于CDC。最近与在Alvis结识的男性结了婚的模样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ab/68072_crt_1UFv1.jpg?r=1546097417",
+        "link": "https://bgm.tv/character/68072",
+        "categorie": "person"
+      },
+      {
+        "id": "68071",
+        "label": "贝拉·德尔尼尼",
+        "info": "EXODUS：与晶晶、奥尔嘉同样，曾经所属于人类军的原法芙娜驾驶员，现就职于CDC。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/e6/68071_crt_WjwJ8.jpg",
+        "link": "https://bgm.tv/character/68071",
+        "categorie": "person"
+      },
+      {
+        "id": "36719",
+        "label": "奥尔嘉·卡缇娜·彼得连科",
+        "info": "EXODUS：俄罗斯出身，曾经所属于人类军的原法芙娜驾驶员，现就职于CDC→与沟口的岛外派遣部队同行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/8c/36719_crt_QC7iZ.jpg?r=1447052230",
+        "link": "https://bgm.tv/character/36719",
+        "categorie": "person"
+      },
+      {
+        "id": "1737",
+        "label": "羽佐间翔子",
+        "info": "是个有肝病、身体虚弱、经常无法上学的孩子；真矢是其好友，因此亦会经常于课前去探望她。由于之前一骑帮助她回到学校而渐渐对一骑产生爱慕；对于自己也能进Alvis担任前线人员感到高兴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/fb/1737_crt_mY1GR.jpg?r=1419778681",
+        "link": "https://bgm.tv/character/1737",
+        "categorie": "person"
+      },
+      {
+        "id": "68090",
+        "label": "堂马量平",
+        "info": "堂马家爸爸，经营着以定食为主的堂马食堂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/55/68090_crt_757mm.jpg?r=1546149555",
+        "link": "https://bgm.tv/character/68090",
+        "categorie": "person"
+      },
+      {
+        "id": "68091",
+        "label": "立上真幸",
+        "info": "芹的父亲。平时在铃村神社做神主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/72/68091_crt_Y9h8w.jpg?r=1546150859",
+        "link": "https://bgm.tv/character/68091",
+        "categorie": "person"
+      },
+      {
+        "id": "68094",
+        "label": "镝木充",
+        "info": "彗的父亲，工作是巡查。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/62/68094_crt_qwkwC.jpg?r=1546152244",
+        "link": "https://bgm.tv/character/68094",
+        "categorie": "person"
+      },
+      {
+        "id": "68095",
+        "label": "镝木香奈惠",
+        "info": "彗的母亲，在岛上经营着美容室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/e7/68095_crt_mm6P9.jpg?r=1546152629",
+        "link": "https://bgm.tv/character/68095",
+        "categorie": "person"
+      },
+      {
+        "id": "68096",
+        "label": "御门昌和",
+        "info": "零央的父亲，开着菓子店「御门屋」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f0/68096_crt_PO0IF.jpg?r=1546153318",
+        "link": "https://bgm.tv/character/68096",
+        "categorie": "person"
+      },
+      {
+        "id": "68098",
+        "label": "水镜有子",
+        "info": "美三香的母亲，职业是渔师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fc/68098_crt_pQZ7p.jpg",
+        "link": "https://bgm.tv/character/68098",
+        "categorie": "person"
+      },
+      {
+        "id": "68070",
+        "label": "阿妮菈·欧罗宾德·戈修",
+        "info": "斯利那加区域所属的操作员",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/92/68070_crt_Rqiwi.jpg?r=1546096006",
+        "link": "https://bgm.tv/character/68070",
+        "categorie": "person"
+      },
+      {
+        "id": "68092",
+        "label": "普罗米修斯／绝望",
+        "info": "EXODUS：プロメテウス（CV.石川静）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/b0/68092_crt_DFxXM.jpg?r=1546149070",
+        "link": "https://bgm.tv/character/68092",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

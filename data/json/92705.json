@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "156",
+        "label": "银古",
+        "info": "故事的主角，是一位虫师。因为有招来虫的体质，不能久留在一个地方而四处游历。经常抽的烟是有驱虫作用的虫烟草。小时候叫做阿善（YOKI），因为虫（银蛊）的关系失去记忆和左眼，剩下的右眼变成绿色，头发则变成白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/91/156_crt_SWfqY.jpg?r=1444714628",
+        "link": "https://bgm.tv/character/156",
+        "categorie": "person"
+      },
+      {
+        "id": "158",
+        "label": "化野",
+        "info": "银古的朋友，是位医生。喜欢收集关于虫以及各种稀奇古怪的东西，因此为银古提供了不少旅费。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/fd/158_crt_A94St.jpg",
+        "link": "https://bgm.tv/character/158",
+        "categorie": "person"
+      },
+      {
+        "id": "5472",
+        "label": "狩房淡幽",
+        "info": "狩房家の娘であり4代目筆記者。筆記者とは、全ての生命に死をもたらす強力な「禁種の蟲」を体内に封じている者のことであり、狩房家に数世代に1人生まれる。蟲を屠った話を書物に書き記すことで代々少しずつ「禁種の蟲」を封じる力を持ち、その役目に一生を費やす。筆記者は、その証として身体の一部に墨色の痣を生まれ持つ（淡幽は右足）。痣のある部位は自由に動かすことが出来ない上、筆記の際に痣から生じる痛みに耐えなければならないが、筆記によって蟲を封じることでわずかずつではあるが痣は減ってゆく。蟲師達が蟲をただ屠る事に疑問を感じていた中、ギンコに出会い「蟲が人や動植物と共存する理想の世界」を考え始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/c2/5472_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5472",
+        "categorie": "person"
+      },
+      {
+        "id": "76303",
+        "label": "照",
+        "info": "雨降らしに憑かれた女性。幼少期に幼馴染と遊んでいた時、雨降らしを踏んでしまい。以来、自身の居る場所に雨を降らすという体質になった。自らの故郷を長雨で凶作にし、病気の被害まで出してしまったため、その原因が自分にあると知ってからは流浪の旅を続けている。成長してからはその体質をいかし、雨乞いの占い師として旅をしていたところ、ギンコに出会い自身の体質の秘密を知った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/6b/76303_crt_0II44.jpg",
+        "link": "https://bgm.tv/character/76303",
+        "categorie": "person"
+      },
+      {
+        "id": "5529",
+        "label": "素鱼",
+        "info": "于虫师第26话登场，随着一群无血缘关系的人一起旅行，行进路线似乎与光脉流有关，与泽相识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/05/5529_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5529",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "5474",
+        "label": "玉",
+        "info": "于虫师第20话登场，原本是一个虫师，现负责照顾淡幽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ea/5474_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5474",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

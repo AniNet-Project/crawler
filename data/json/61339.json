@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76562",
+        "label": "虹猫",
+        "info": "《虹猫蓝兔》系列中主人公，七剑之首“长虹剑”传人，七剑的灵魂人物。继承了父亲白猫的一身绝艺，武艺超群，坚强勇敢，足智多谋，英俊潇洒，帅气中又透出不可比拟的酷，一袭白衫更衬出他的气质。承担着团结七剑传人，消灭魔教的重任。为了达到自己理想的彼岸而坚持不懈的努力，砥砺意志破除万难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/3e/76562_crt_VnNcx.jpg",
+        "link": "https://bgm.tv/character/76562",
+        "categorie": "person"
+      },
+      {
+        "id": "76563",
+        "label": "蓝兔",
+        "info": "《虹猫蓝兔》系列中的主角。七剑之冰魄剑传人，玉蟾宫宫主，被誉为武林第一美人、和平使者。她善良、聪明、勇敢，是倾城倾国的绝世佳人，和虹猫等人一同并肩作战，出生入死。感情丰富，有自己的主见，因善良单纯，有时会被人利用。武功高强七剑中仅在虹猫之下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/2a/76563_crt_XCZGp.jpg",
+        "link": "https://bgm.tv/character/76563",
+        "categorie": "person"
+      },
+      {
+        "id": "76572",
+        "label": "马三娘",
+        "info": "马三娘是《虹猫蓝兔七侠传》及马三娘外传《虹猫蓝兔阿木星》中的反派枭雄，魔教安插在七剑中的卧底，阴险毒辣、心如蛇蝎，她主要的任务就是冒充紫云剑主，促成七剑合璧，使麒麟现身。其真心并不想给予黑虎父子俩麒麟，想借七剑合璧除掉魔教后七剑非伤即残之机除掉七剑得到麒麟。多次陷害紫云剑主，致使紫云剑主右手残废，是本部动画片中极其阴险狡诈的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/92/76572_crt_RQ4tB.jpg",
+        "link": "https://bgm.tv/character/76572",
+        "categorie": "person"
+      },
+      {
+        "id": "76565",
+        "label": "莎丽",
+        "info": "七剑之紫云剑传人，武艺高超，虽是女儿身却不失为一名巾帼英雄。因练剑时遭到马三娘的暗算，被马三娘冒充身份。由于中毒而右手不得运功，中途几经周折，几次放弃又几次重拾，可凭借着自身惊人的毅力和聪慧的天赋，练成了一套出色的左手剑法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/32/76565_crt_J6m5j.jpg",
+        "link": "https://bgm.tv/character/76565",
+        "categorie": "person"
+      },
+      {
+        "id": "76566",
+        "label": "大奔",
+        "info": "七剑之奔雷剑传人，七剑团队的中坚战力。侠义豪爽，力大无穷，但也容易被怒气冲昏头脑，做出意料之外的事。大奔嗜酒好赌，后为解救干娘戒酒戒赌，成功继承奔雷剑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/6d/76566_crt_wt8Mj.jpg",
+        "link": "https://bgm.tv/character/76566",
+        "categorie": "person"
+      },
+      {
+        "id": "76567",
+        "label": "逗逗",
+        "info": "七剑之雨花剑传人，出生于刀口岭雨花殿，住在六奇阁道观。医术高超，人称神医逗逗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/d9/76567_crt_w1A1l.jpg",
+        "link": "https://bgm.tv/character/76567",
+        "categorie": "person"
+      },
+      {
+        "id": "76568",
+        "label": "达达",
+        "info": "七剑之旋风剑剑主，十里画廊百草谷谷主，号称竹林居士、白衣秀士，武艺高强，琴棋书画样样精通。感情丰富，与妻子达夫人相亲相爱。他为了妻儿，可以不顾一切后果。但身为七剑传人，他也会履行他的责任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/56/76568_crt_JOZN5.jpg",
+        "link": "https://bgm.tv/character/76568",
+        "categorie": "person"
+      },
+      {
+        "id": "76569",
+        "label": "跳跳",
+        "info": "七剑之“青光剑”传人，父母被黑心虎杀害，为报父母之仇卧底在魔教中担任护法使者，在暗中多次帮助七剑脱险。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/38/76569_crt_z5w8N.jpg",
+        "link": "https://bgm.tv/character/76569",
+        "categorie": "person"
+      },
+      {
+        "id": "76573",
+        "label": "黑心虎",
+        "info": "黑心虎是《虹猫蓝兔七侠传》中的反派角色，魔教教主，老谋深算，麾下兵强马壮，武功天下无双。妄图通过喝麒麟的血来提升内力，称霸武林，为此在江湖掀起了一片腥风血雨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/e7/76573_crt_IOefO.jpg?r=1586502421",
+        "link": "https://bgm.tv/character/76573",
+        "categorie": "person"
+      },
+      {
+        "id": "76574",
+        "label": "黑小虎",
+        "info": "魔教教主黑心虎之子，魔教少主。闭关修炼十年练成威力惊人的天魔乱舞神功。为了父亲黑心虎的安危，一路追杀七剑，竭力阻止七剑合璧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/a6/76574_crt_W8j80.jpg",
+        "link": "https://bgm.tv/character/76574",
+        "categorie": "person"
+      },
+      {
+        "id": "76575",
+        "label": "猪无戒",
+        "info": "魔教四堂主，使用兵器流星锤与蝴蝶镖，绝招蛤蟆功，阴险狡诈，先后乱箭射死牛旋风。后又赶往快活林陷害六嫂，使其葬身火海之中。后因屡次误事，在105集被黑小虎的吸星大法吸干而死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/1c/76575_crt_prUxi.jpg",
+        "link": "https://bgm.tv/character/76575",
+        "categorie": "person"
+      },
+      {
+        "id": "76576",
+        "label": "牛旋风",
+        "info": "魔教三堂主，好赌好酒，重情重义，与大奔结识为最好的赌友，然而公私分明，对待朋友和魔教都极其忠诚。甚至不惜为朋友而死，是条值得敬重的真汉子。不会使用卑鄙的手段，最喜欢立头功。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76576",
+        "categorie": "person"
+      },
+      {
+        "id": "76577",
+        "label": "白猫",
+        "info": "虹猫之父，第一代长虹剑主，武功盖世，后来将长虹剑传给其子虹猫。《虹猫蓝兔七侠传》里第一集出现，为掩护虹猫的离开，使用火舞旋风剑法九重的十成功力，想和黑心虎同归于尽。但是其火舞旋风剑法尚未达到第十重的原因无法收放自如，重创黑心虎遭到剑法反噬，英勇牺牲。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76577",
+        "categorie": "person"
+      },
+      {
+        "id": "76578",
+        "label": "六嫂",
+        "info": "原是老七剑之奔雷剑主的贴身侍女，大奔的干娘。后因为保护大奔，自己取回水火棍，而掉入熔炉牺牲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/33/76578_crt_iNk6M.jpg",
+        "link": "https://bgm.tv/character/76578",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

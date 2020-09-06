@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10755",
+        "label": "奥村燐",
+        "info": "背负着魔神撒旦之血统的15岁少年，外表看似粗暴，实际性格温和开朗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/c9/10755_crt_GQKkQ.jpg",
+        "link": "https://bgm.tv/character/10755",
+        "categorie": "person"
+      },
+      {
+        "id": "10757",
+        "label": "奥村雪男",
+        "info": "燐的双胞胎弟弟，才华卓越的天才少年驱魔师，性格温和认真，将来的志向是当医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/91/10757_crt_hxYTX.jpg",
+        "link": "https://bgm.tv/character/10757",
+        "categorie": "person"
+      },
+      {
+        "id": "21787",
+        "label": "宇佐麻吕",
+        "info": "燐在执行幽灵列车讨伐任务的时候遇到的恶魔少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/de/21787_crt_uQlUq.jpg?r=1381675728",
+        "link": "https://bgm.tv/character/21787",
+        "categorie": "person"
+      },
+      {
+        "id": "10758",
+        "label": "杜山诗惠美",
+        "info": "在驱魔用品店驱魔屋工作的少女，暗恋雪男，喜欢种植花草，性格相当天然，然而却有过一段黑历史。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/db/10758_crt_C9lc5.jpg",
+        "link": "https://bgm.tv/character/10758",
+        "categorie": "person"
+      },
+      {
+        "id": "13464",
+        "label": "雾隐修拉",
+        "info": "正十字骑士团的上一级驱魔师，狮郎的弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/19/13464_crt_XsLD1.jpg",
+        "link": "https://bgm.tv/character/13464",
+        "categorie": "person"
+      },
+      {
+        "id": "32436",
+        "label": "志摩柔造",
+        "info": "志摩家的二儿子，上二级佛教系驱魔师。京都事务所驱魔一番队队长。取得的称号是骑士·咏唱骑士。25岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/05/32436_crt_2DurR.jpg",
+        "link": "https://bgm.tv/character/32436",
+        "categorie": "person"
+      },
+      {
+        "id": "32435",
+        "label": "志摩金造",
+        "info": "志摩家四儿子，和柔造一样是那种马上就容易和别人打起架的急躁性格。染了一头金发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/21/32435_crt_0s10B.jpg",
+        "link": "https://bgm.tv/character/32435",
+        "categorie": "person"
+      },
+      {
+        "id": "12918",
+        "label": "梅菲斯特·菲雷斯",
+        "info": "自称是藤本狮郎的朋友的谜男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/e9/12918_crt_mgl4e.jpg",
+        "link": "https://bgm.tv/character/12918",
+        "categorie": "person"
+      },
+      {
+        "id": "21788",
+        "label": "刘成龙",
+        "info": "台湾支部的上一级驱魔师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/84/21788_crt_bCo3h.jpg?r=1381676227",
+        "link": "https://bgm.tv/character/21788",
+        "categorie": "person"
+      },
+      {
+        "id": "13462",
+        "label": "藤本狮郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/c0/13462_crt_aigae.jpg",
+        "link": "https://bgm.tv/character/13462",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

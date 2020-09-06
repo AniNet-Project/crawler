@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11837",
+        "label": "百木伦",
+        "info": "家族成員有父、母、兄2人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/5d/11837_crt_z6wH3.jpg",
+        "link": "https://bgm.tv/character/11837",
+        "categorie": "person"
+      },
+      {
+        "id": "11836",
+        "label": "一井透",
+        "info": "家族成員有父、母、貓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/e9/11836_crt_4cNFF.jpg",
+        "link": "https://bgm.tv/character/11836",
+        "categorie": "person"
+      },
+      {
+        "id": "12596",
+        "label": "天王寺渚",
+        "info": "家族成員有父、母、兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/77/12596_crt_h8JI2.jpg",
+        "link": "https://bgm.tv/character/12596",
+        "categorie": "person"
+      },
+      {
+        "id": "12597",
+        "label": "西由宇子",
+        "info": "家族成員有父、母、妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a5/12597_crt_3gdEE.jpg",
+        "link": "https://bgm.tv/character/12597",
+        "categorie": "person"
+      },
+      {
+        "id": "75861",
+        "label": "启子",
+        "info": "由宇子的妹妹。在OVA及原作第三卷初登场。初中生。加入了学生会。因为正值思春期所以一直想要脱离爱黏着姐姐的习惯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/fb/75861_crt_z7eD0.jpg?r=1582949143",
+        "link": "https://bgm.tv/character/75861",
+        "categorie": "person"
+      },
+      {
+        "id": "12919",
+        "label": "今井丰",
+        "info": "小透的同班同學。很喜歡小透，總是過分的纏著小透。小透的粉絲。胸部很大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/52/12919_crt_AV47A.jpg",
+        "link": "https://bgm.tv/character/12919",
+        "categorie": "person"
+      },
+      {
+        "id": "12920",
+        "label": "野山美步",
+        "info": "小透的同班同學。總是為了小透將煩人的豐支開。小透的粉絲。中學時的綽號是「遙控器」，原因是因為總是能控制住豐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/2f/12920_crt_0v1YN.jpg",
+        "link": "https://bgm.tv/character/12920",
+        "categorie": "person"
+      },
+      {
+        "id": "12921",
+        "label": "鬼头纪美子",
+        "info": "熱血美術教師，為小透那一班的班主任，很關心學生，愛好詩歌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c6/12921_crt_H236I.jpg",
+        "link": "https://bgm.tv/character/12921",
+        "categorie": "person"
+      },
+      {
+        "id": "12922",
+        "label": "镰手多季",
+        "info": "體育老師，為小倫那一班的班主任。非常隨性。連學生的名字都沒記住。其放任度讓學生覺得很棒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/1c/12922_crt_gafgQ.jpg",
+        "link": "https://bgm.tv/character/12922",
+        "categorie": "person"
+      },
+      {
+        "id": "12923",
+        "label": "佐藤幸世",
+        "info": "新赴任的保健室老師，M屬性，身體非常不好，時常要吃藥。喜歡小倫的天然S屬性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/32/12923_crt_m8deV.jpg",
+        "link": "https://bgm.tv/character/12923",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

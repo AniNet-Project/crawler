@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61550",
+        "label": "梓川咲太",
+        "info": "青春ブタ野郎",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/0c/61550_crt_8bbOR.jpg?r=1539633078",
+        "link": "https://bgm.tv/character/61550",
+        "categorie": "person"
+      },
+      {
+        "id": "35980",
+        "label": "樱岛麻衣",
+        "info": "ちょっぴりSなバニーガール先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/1c/35980_crt_J56iZ.jpg?r=1538834837",
+        "link": "https://bgm.tv/character/35980",
+        "categorie": "person"
+      },
+      {
+        "id": "65006",
+        "label": "牧之原翔子",
+        "info": "謎多き健気な中学生",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/84/65006_crt_KxafW.jpg?r=1546956311",
+        "link": "https://bgm.tv/character/65006",
+        "categorie": "person"
+      },
+      {
+        "id": "61553",
+        "label": "古贺朋绘",
+        "info": "小悪魔な後輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/d5/61553_crt_vvNRq.jpg?r=1540741344",
+        "link": "https://bgm.tv/character/61553",
+        "categorie": "person"
+      },
+      {
+        "id": "61551",
+        "label": "双叶理央",
+        "info": "冷静沈着な理系女子",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/7e/61551_crt_PPkmM.jpg?r=1537448213",
+        "link": "https://bgm.tv/character/61551",
+        "categorie": "person"
+      },
+      {
+        "id": "65007",
+        "label": "丰滨和花",
+        "info": "現役女子高校生アイドル",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/d9/65007_crt_lbhhe.jpg?r=1537448480",
+        "link": "https://bgm.tv/character/65007",
+        "categorie": "person"
+      },
+      {
+        "id": "61552",
+        "label": "梓川枫",
+        "info": "おうち大好きブラコン妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/31/61552_crt_cfFTp.jpg?r=1540966357",
+        "link": "https://bgm.tv/character/61552",
+        "categorie": "person"
+      },
+      {
+        "id": "61656",
+        "label": "国见佑真",
+        "info": "咲太の数少ない友人の1人。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/12/61656_crt_ssjLH.jpg?r=1535377984",
+        "link": "https://bgm.tv/character/61656",
+        "categorie": "person"
+      },
+      {
+        "id": "66526",
+        "label": "南条文香",
+        "info": "女子アナウンサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/67/66526_crt_BQ8vV.jpg?r=1538619886",
+        "link": "https://bgm.tv/character/66526",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

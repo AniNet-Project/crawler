@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27412",
+        "label": "结城友奈",
+        "info": "守护精灵：牛鬼",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/2c/27412_crt_NlJsH.jpg?r=1489882066",
+        "link": "https://bgm.tv/character/27412",
+        "categorie": "person"
+      },
+      {
+        "id": "27415",
+        "label": "东乡美森",
+        "info": "友奈的同级生和好友，也是能理解她的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/be/27415_crt_QQPxl.jpg?r=1527848825",
+        "link": "https://bgm.tv/character/27415",
+        "categorie": "person"
+      },
+      {
+        "id": "27413",
+        "label": "犬吠埼风",
+        "info": "守护精灵：犬神",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/15/27413_crt_6mmYe.jpg?r=1489104205",
+        "link": "https://bgm.tv/character/27413",
+        "categorie": "person"
+      },
+      {
+        "id": "27414",
+        "label": "犬吠埼树",
+        "info": "守护精灵：木灵",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/a9/27414_crt_tD78Y.jpg?r=1489104248",
+        "link": "https://bgm.tv/character/27414",
+        "categorie": "person"
+      },
+      {
+        "id": "27483",
+        "label": "三好夏凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/92/27483_crt_kPffn.jpg?r=1489882130",
+        "link": "https://bgm.tv/character/27483",
+        "categorie": "person"
+      },
+      {
+        "id": "28259",
+        "label": "乃木园子",
+        "info": "本作前传《鹫尾须美是勇者》中的上代勇者，14岁。家族在大赦中拥有相当的发言权。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/32/28259_crt_9q4Jl.jpg?r=1535569231",
+        "link": "https://bgm.tv/character/28259",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

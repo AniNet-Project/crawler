@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6093",
+        "label": "安藤麻幌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/38/6093_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6093",
+        "categorie": "person"
+      },
+      {
+        "id": "6094",
+        "label": "美里优",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/aa/6094_crt_11MJU.jpg?r=1584188209",
+        "link": "https://bgm.tv/character/6094",
+        "categorie": "person"
+      },
+      {
+        "id": "6095",
+        "label": "史莱修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/cf/6095_crt_t1dCi.jpg",
+        "link": "https://bgm.tv/character/6095",
+        "categorie": "person"
+      },
+      {
+        "id": "6096",
+        "label": "式条沙织",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/df/6096_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6096",
+        "categorie": "person"
+      },
+      {
+        "id": "6097",
+        "label": "佐仓深雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/3d/6097_crt_N0O58.jpg",
+        "link": "https://bgm.tv/character/6097",
+        "categorie": "person"
+      },
+      {
+        "id": "6101",
+        "label": "大江千鹤子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e6/6101_crt_6pUT3.jpg",
+        "link": "https://bgm.tv/character/6101",
+        "categorie": "person"
+      },
+      {
+        "id": "6102",
+        "label": "滨口俊也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/c2/6102_crt_12w9r.jpg",
+        "link": "https://bgm.tv/character/6102",
+        "categorie": "person"
+      },
+      {
+        "id": "6103",
+        "label": "流河涛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/88/6103_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6103",
+        "categorie": "person"
+      },
+      {
+        "id": "13995",
+        "label": "等等力凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/5b/13995_crt_6N6Il.jpg",
+        "link": "https://bgm.tv/character/13995",
+        "categorie": "person"
+      },
+      {
+        "id": "13996",
+        "label": "川原清巳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/74/13996_crt_mfI77.jpg",
+        "link": "https://bgm.tv/character/13996",
+        "categorie": "person"
+      },
+      {
+        "id": "6104",
+        "label": "ヴェスパー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/38/6104_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6104",
+        "categorie": "person"
+      },
+      {
+        "id": "6105",
+        "label": "セイント",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6105",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

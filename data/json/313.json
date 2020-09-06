@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9623",
+        "label": "藤本",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/41/9623_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9623",
+        "categorie": "person"
+      },
+      {
+        "id": "9624",
+        "label": "宗介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/49/9624_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9624",
+        "categorie": "person"
+      },
+      {
+        "id": "9625",
+        "label": "耕一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/30/9625_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9625",
+        "categorie": "person"
+      },
+      {
+        "id": "9626",
+        "label": "时",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/9d/9626_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9626",
+        "categorie": "person"
+      },
+      {
+        "id": "9627",
+        "label": "波妞的妹妹们",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/97/9627_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9627",
+        "categorie": "person"
+      },
+      {
+        "id": "38293",
+        "label": "理莎",
+        "info": "25歳。耕一の妻で、宗介の母。宗介と耕一から「リサ」と呼ばれている。デイケアサービスセンター「ひまわりの家」で働く。「リサ・カー」と呼ばれる軽自動車（三菱・ミニカトッポ）で、海沿いのワインディングロードを駆け抜ける。スーパーでの買出しの大荷物を軽々と持ち上げる力持ちで、無鉄砲な所もある。夫が帰れなくなると不貞寝したり、信号灯のモールス信号で罵倒したりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/04/38293_crt_UgK53.jpg",
+        "link": "https://bgm.tv/character/38293",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

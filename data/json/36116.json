@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77316",
+        "label": "佩姬·布兰特",
+        "info": "Peggy Brandt is a character from The Mask. ",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/ae/77316_crt_JBUg1.jpg",
+        "link": "https://bgm.tv/character/77316",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

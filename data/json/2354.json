@@ -1,0 +1,469 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "292",
+        "label": "黑",
+        "info": "本作的主人公，契约者，梅西耶代号BK-201，能力是自由操纵电流。代价不明。隶属组织的一个行动小队，在东京进行特工活动。平常的身份是中国留学生李舜生，居住在海月庄公寓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/4f/292_crt_aMPWP.jpg?r=1568771715",
+        "link": "https://bgm.tv/character/292",
+        "categorie": "person"
+      },
+      {
+        "id": "1685",
+        "label": "苏芳·帕夫利琴科",
+        "info": "生活在海参崴的少女。13岁，138cm，七年级。俄日混血儿。运动全能，性格外向，狂热于摄影，完全没有恋爱脑。座右铭是“随遇而安”。其父亲是“门”相关领域科学家及ME（记忆操作）技术相关研究的第一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/3a/1685_crt_wk9oY.jpg?r=1599220590",
+        "link": "https://bgm.tv/character/1685",
+        "categorie": "person"
+      },
+      {
+        "id": "8590",
+        "label": "July",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/e4/8590_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8590",
+        "categorie": "person"
+      },
+      {
+        "id": "9487",
+        "label": "佩恰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/87/9487_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9487",
+        "categorie": "person"
+      },
+      {
+        "id": "10296",
+        "label": "猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/39/10296_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10296",
+        "categorie": "person"
+      },
+      {
+        "id": "293",
+        "label": "银",
+        "info": "原名Kirsi（芬兰名，意为“樱桃”），来自北欧的17岁目盲少女，以水作为媒介操纵观测灵的Doll。在黑的小队中负责情报搜索的支援工作。平常的身份是离黑的住所不远一间烟草铺的看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/82/293_crt_uzbcR.jpg?r=1491230861",
+        "link": "https://bgm.tv/character/293",
+        "categorie": "person"
+      },
+      {
+        "id": "1686",
+        "label": "紫苑·帕夫利琴科",
+        "info": "苏芳的双胞胎弟弟。在流星核坠落事件中失去右眼并变成契约者，代价是轮椅生活。性格如典型的契约者一般合理而冷酷，但对苏芳抱有特殊感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/18/1686_zaD4u.jpg",
+        "link": "https://bgm.tv/character/1686",
+        "categorie": "person"
+      },
+      {
+        "id": "1687",
+        "label": "帕夫利琴科博士",
+        "info": "苏芳和紫苑的父亲。曾经所属有关地球上出现的和预期的 物质和时间，空间扭曲的研究组， 是ME（记忆操作机）研究的第一人。 自从紫苑成为契约者之后，和孩子们之间出现了代沟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/ea/1687_s0WET.jpg",
+        "link": "https://bgm.tv/character/1687",
+        "categorie": "person"
+      },
+      {
+        "id": "1688",
+        "label": "塔尼娅·阿克罗",
+        "info": "同班的女孩。苏芳的好友。 天真纯洁，文静治愈系。 性格重视友情，容易害羞。 爱慕着高年级的尼卡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/61/1688_J858N.jpg",
+        "link": "https://bgm.tv/character/1688",
+        "categorie": "person"
+      },
+      {
+        "id": "1689",
+        "label": "尼卡",
+        "info": "一个高年级的男孩。和苏芳在同一个摄影俱乐部。 一旦下决心就马上盲目冒进，是单纯明快的行动派。 虽然看起来很粗鲁，实际上，是很温柔的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/4e/1689_1e2We.jpg",
+        "link": "https://bgm.tv/character/1689",
+        "categorie": "person"
+      },
+      {
+        "id": "1690",
+        "label": "萨西亚",
+        "info": "同班的女孩。姐姐型， 在各方面都照顾着孩子气的苏芳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/3a/1690_yYIbC.jpg",
+        "link": "https://bgm.tv/character/1690",
+        "categorie": "person"
+      },
+      {
+        "id": "1691",
+        "label": "艾蕾娜",
+        "info": "同班的女孩。和萨西亚关系很好。 兴趣是放学后浏览商店橱窗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/03/1691_FKGGj.jpg",
+        "link": "https://bgm.tv/character/1691",
+        "categorie": "person"
+      },
+      {
+        "id": "1692",
+        "label": "奥古斯特7",
+        "info": "英国情报局秘密情报部（M16）的代理人。 被称为魔术师的契约者。 武器是“没有作假的真实的魔术”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/21/1692_D5jp5.jpg",
+        "link": "https://bgm.tv/character/1692",
+        "categorie": "person"
+      },
+      {
+        "id": "1693",
+        "label": "葛朗",
+        "info": "俄罗斯联邦保安局（FSB）的代理人。 是能在短距离内超速移动的契约者。 诅咒自身因为代价而必须持续吃汉堡的命运。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/9a/1693_a30M2.jpg",
+        "link": "https://bgm.tv/character/1693",
+        "categorie": "person"
+      },
+      {
+        "id": "1694",
+        "label": "April",
+        "info": "M16的代理人也是契约者。 有能聚集大气中的水分制造出雨云，在局部降下大雨 的能力。代价是饮酒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/75/1694_A1X58.jpg",
+        "link": "https://bgm.tv/character/1694",
+        "categorie": "person"
+      },
+      {
+        "id": "1695",
+        "label": "镇目弦马",
+        "info": "所属于3号机关。 是使用古武道的契约者。 能将皮肤硬化成类似装甲板的样子。对自己像锤子一样拥有粉碎力的拳头感到十分骄傲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/21/1695_Akxjk.jpg",
+        "link": "https://bgm.tv/character/1695",
+        "categorie": "person"
+      },
+      {
+        "id": "1696",
+        "label": "叶月水无",
+        "info": "三号机关所属女性契约者，黑色长发、穿着男装的忍者。能力为将条状物体变成白刃，代价为与男性接吻（自身非常厌恶这个代价）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/f2/1696_Wn9fH.jpg?r=1429260612",
+        "link": "https://bgm.tv/character/1696",
+        "categorie": "person"
+      },
+      {
+        "id": "9484",
+        "label": "泽崎耀子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/91/9484_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9484",
+        "categorie": "person"
+      },
+      {
+        "id": "9641",
+        "label": "玛塔姆·奥蕾尤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d4/9641_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9641",
+        "categorie": "person"
+      },
+      {
+        "id": "9717",
+        "label": "小林吾朗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/57/9717_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9717",
+        "categorie": "person"
+      },
+      {
+        "id": "9718",
+        "label": "爱丽尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/b8/9718_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9718",
+        "categorie": "person"
+      },
+      {
+        "id": "9719",
+        "label": "贝雷奈西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/3d/9719_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9719",
+        "categorie": "person"
+      },
+      {
+        "id": "9922",
+        "label": "雷巴浓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/24/9922_crt_BBSvb.jpg",
+        "link": "https://bgm.tv/character/9922",
+        "categorie": "person"
+      },
+      {
+        "id": "9923",
+        "label": "纪夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/e0/9923_crt_ipCia.jpg",
+        "link": "https://bgm.tv/character/9923",
+        "categorie": "person"
+      },
+      {
+        "id": "8488",
+        "label": "茅沼纪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/23/8488_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8488",
+        "categorie": "person"
+      },
+      {
+        "id": "9642",
+        "label": "约翰·史密斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/7f/9642_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9642",
+        "categorie": "person"
+      },
+      {
+        "id": "9643",
+        "label": "CIA联络员",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9643",
+        "categorie": "person"
+      },
+      {
+        "id": "9644",
+        "label": "格索洛夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a3/9644_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9644",
+        "categorie": "person"
+      },
+      {
+        "id": "9645",
+        "label": "雷普宁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/16/9645_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9645",
+        "categorie": "person"
+      },
+      {
+        "id": "9646",
+        "label": "副官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/9b/9646_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9646",
+        "categorie": "person"
+      },
+      {
+        "id": "9720",
+        "label": "斋藤雄介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/df/9720_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9720",
+        "categorie": "person"
+      },
+      {
+        "id": "9722",
+        "label": "レプニーンの部下",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/95/9722_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9722",
+        "categorie": "person"
+      },
+      {
+        "id": "9723",
+        "label": "バーテンダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/6c/9723_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9723",
+        "categorie": "person"
+      },
+      {
+        "id": "9724",
+        "label": "先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/cd/9724_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9724",
+        "categorie": "person"
+      },
+      {
+        "id": "9725",
+        "label": "研究员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c0/9725_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9725",
+        "categorie": "person"
+      },
+      {
+        "id": "9925",
+        "label": "情报屋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/cb/9925_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9925",
+        "categorie": "person"
+      },
+      {
+        "id": "9926",
+        "label": "少女A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/75/9926_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9926",
+        "categorie": "person"
+      },
+      {
+        "id": "9927",
+        "label": "美智留",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/49/9927_crt_3dFYy.jpg",
+        "link": "https://bgm.tv/character/9927",
+        "categorie": "person"
+      },
+      {
+        "id": "9928",
+        "label": "牧宫麻子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/c8/9928_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9928",
+        "categorie": "person"
+      },
+      {
+        "id": "10067",
+        "label": "三船",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/10067",
+        "categorie": "person"
+      },
+      {
+        "id": "10068",
+        "label": "伊利亚·索科洛夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/98/10068_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10068",
+        "categorie": "person"
+      },
+      {
+        "id": "10069",
+        "label": "理花子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/0a/10069_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10069",
+        "categorie": "person"
+      },
+      {
+        "id": "10070",
+        "label": "タトゥーショップの店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/ab/10070_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10070",
+        "categorie": "person"
+      },
+      {
+        "id": "10071",
+        "label": "FSB职员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/10/10071_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10071",
+        "categorie": "person"
+      },
+      {
+        "id": "10072",
+        "label": "女子A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/2b/10072_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10072",
+        "categorie": "person"
+      },
+      {
+        "id": "10073",
+        "label": "女子B",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7e/10073_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10073",
+        "categorie": "person"
+      },
+      {
+        "id": "10113",
+        "label": "司机",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/2f/10113_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10113",
+        "categorie": "person"
+      },
+      {
+        "id": "10114",
+        "label": "SVRエージェント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/78/10114_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10114",
+        "categorie": "person"
+      },
+      {
+        "id": "10241",
+        "label": "キャットカフェのオーナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/1d/10241_crt_1u1IA.jpg",
+        "link": "https://bgm.tv/character/10241",
+        "categorie": "person"
+      },
+      {
+        "id": "10242",
+        "label": "マユコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/79/10242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10242",
+        "categorie": "person"
+      },
+      {
+        "id": "10243",
+        "label": "マンションの管理人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/6e/10243_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10243",
+        "categorie": "person"
+      },
+      {
+        "id": "10244",
+        "label": "空港スタッフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/55/10244_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10244",
+        "categorie": "person"
+      },
+      {
+        "id": "10245",
+        "label": "生田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/44/10245_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10245",
+        "categorie": "person"
+      },
+      {
+        "id": "10297",
+        "label": "オペレーター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/5f/10297_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10297",
+        "categorie": "person"
+      },
+      {
+        "id": "7104",
+        "label": "中央情报局",
+        "info": "中央情报局是美国主要的情报机构之一，主要任务是公开和秘密地收集和分析关于国外政府、公司和个人；政治、文化、科技等方面的情报，协调其他国内情报机构的活动，并把这些情报报告到美国政府各个部门的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/c9/7104_crt_v8YT1.jpg",
+        "link": "https://bgm.tv/character/7104",
+        "categorie": "person"
+      },
+      {
+        "id": "8588",
+        "label": "MI6",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8588",
+        "categorie": "person"
+      },
+      {
+        "id": "10246",
+        "label": "瑞惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/c9/10246_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10246",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

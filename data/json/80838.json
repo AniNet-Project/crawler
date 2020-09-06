@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21400",
+        "label": "高山春香",
+        "info": "本作主角，美里西高中一年级学生，白色缎带是她的注册商标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/47/21400_crt_UL46l.jpg",
+        "link": "https://bgm.tv/character/21400",
+        "categorie": "person"
+      },
+      {
+        "id": "21401",
+        "label": "园田优",
+        "info": "本作另一主角，是春香的好朋友，花型发饰是她的注册商标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/8a/21401_crt_W3oqX.jpg",
+        "link": "https://bgm.tv/character/21401",
+        "categorie": "person"
+      },
+      {
+        "id": "22908",
+        "label": "野田琴音",
+        "info": "春香与优的同学，和雫是表姊妹，并寄住在雫的家里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/db/22908_crt_LXfs1.jpg",
+        "link": "https://bgm.tv/character/22908",
+        "categorie": "person"
+      },
+      {
+        "id": "22909",
+        "label": "南雫",
+        "info": "春香与优的同学，和琴音是表姊妹，",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/c2/22909_crt_ttktT.jpg",
+        "link": "https://bgm.tv/character/22909",
+        "categorie": "person"
+      },
+      {
+        "id": "22910",
+        "label": "池野枫",
+        "info": "春香等人的同学，担任班长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/b7/22910_crt_jCUpT.jpg",
+        "link": "https://bgm.tv/character/22910",
+        "categorie": "person"
+      },
+      {
+        "id": "22911",
+        "label": "饭冢柚",
+        "info": "春香等人的同学，和枫感情特别好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/ea/22911_crt_jX5O2.jpg",
+        "link": "https://bgm.tv/character/22911",
+        "categorie": "person"
+      },
+      {
+        "id": "22912",
+        "label": "园田美月",
+        "info": "优的姊姊，美里西高中三年级学生，担任学生会长。和优戴着相同发饰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/dc/22912_crt_ZGGbg.jpg",
+        "link": "https://bgm.tv/character/22912",
+        "categorie": "person"
+      },
+      {
+        "id": "22914",
+        "label": "坂井理奈",
+        "info": "美月的同学，学生会副会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/a1/22914_crt_18pK7.jpg?r=1391797985",
+        "link": "https://bgm.tv/character/22914",
+        "categorie": "person"
+      },
+      {
+        "id": "22913",
+        "label": "乙川澄",
+        "info": "美里西高中二年级学生，学生会成员，美月毕业后接任学生会长职务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/7c/22913_crt_0Q38P.jpg?r=1391798059",
+        "link": "https://bgm.tv/character/22913",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

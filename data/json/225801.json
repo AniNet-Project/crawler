@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58121",
+        "label": "Iggy",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/e2/58121_crt_81xw9.jpg?r=1506667641",
+        "link": "https://bgm.tv/character/58121",
+        "categorie": "person"
+      },
+      {
+        "id": "58122",
+        "label": "Trixie",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/c7/58122_crt_ye40V.jpg?r=1506668755",
+        "link": "https://bgm.tv/character/58122",
+        "categorie": "person"
+      },
+      {
+        "id": "58123",
+        "label": "レン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/6b/58123_crt_n5o34.jpg",
+        "link": "https://bgm.tv/character/58123",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

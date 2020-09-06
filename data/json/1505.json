@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5475",
+        "label": "ニコレッタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/17/5475_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5475",
+        "categorie": "person"
+      },
+      {
+        "id": "5476",
+        "label": "サント・クラウディオ・パラディーゾ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/a8/5476_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5476",
+        "categorie": "person"
+      },
+      {
+        "id": "5477",
+        "label": "ジジ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/f3/5477_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5477",
+        "categorie": "person"
+      },
+      {
+        "id": "5478",
+        "label": "ヴィート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/71/5478_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5478",
+        "categorie": "person"
+      },
+      {
+        "id": "5479",
+        "label": "フリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/24/5479_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5479",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

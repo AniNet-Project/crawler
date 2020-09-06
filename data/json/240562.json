@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65305",
+        "label": "月白瞳美",
+        "info": "高校２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/08/65305_crt_uW6nH.jpg?r=1539068776",
+        "link": "https://bgm.tv/character/65305",
+        "categorie": "person"
+      },
+      {
+        "id": "65343",
+        "label": "月白琥珀",
+        "info": "高校２年生。瞳美の祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/73/65343_crt_0Bi9B.jpg?r=1536585241",
+        "link": "https://bgm.tv/character/65343",
+        "categorie": "person"
+      },
+      {
+        "id": "65344",
+        "label": "葵唯翔",
+        "info": "高校３年生。写真美術部の部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/14/65344_crt_Qvo14.jpg?r=1536585352",
+        "link": "https://bgm.tv/character/65344",
+        "categorie": "person"
+      },
+      {
+        "id": "65345",
+        "label": "风野浅葱",
+        "info": "高校２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/a2/65345_crt_6tcgu.jpg?r=1540920286",
+        "link": "https://bgm.tv/character/65345",
+        "categorie": "person"
+      },
+      {
+        "id": "65346",
+        "label": "川合胡桃",
+        "info": "高校３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/9b/65346_crt_iVAWf.jpg?r=1536585528",
+        "link": "https://bgm.tv/character/65346",
+        "categorie": "person"
+      },
+      {
+        "id": "65347",
+        "label": "山吹将",
+        "info": "高校３年生。写真美術部の部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/75/65347_crt_W6vyb.jpg?r=1536585441",
+        "link": "https://bgm.tv/character/65347",
+        "categorie": "person"
+      },
+      {
+        "id": "65348",
+        "label": "深泽千草",
+        "info": "高校１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/b5/65348_crt_Cc3WG.jpg?r=1536634469",
+        "link": "https://bgm.tv/character/65348",
+        "categorie": "person"
+      },
+      {
+        "id": "66589",
+        "label": "月白瑠璃",
+        "info": "琥珀の母で、瞳美の曾祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/f5/66589_crt_99jjG.jpg",
+        "link": "https://bgm.tv/character/66589",
+        "categorie": "person"
+      },
+      {
+        "id": "66590",
+        "label": "月白柚叶",
+        "info": "琥珀の祖母で、瞳美の高祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/8c/66590_crt_m8H9n.jpg",
+        "link": "https://bgm.tv/character/66590",
+        "categorie": "person"
+      },
+      {
+        "id": "66591",
+        "label": "月白弦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/ce/66591_crt_XJmaH.jpg",
+        "link": "https://bgm.tv/character/66591",
+        "categorie": "person"
+      },
+      {
+        "id": "66592",
+        "label": "葵遥",
+        "info": "唯翔の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b8/66592_crt_mw4hQ.jpg",
+        "link": "https://bgm.tv/character/66592",
+        "categorie": "person"
+      },
+      {
+        "id": "67926",
+        "label": "川合苺花",
+        "info": "胡桃の姉。パティシエとして働いており、胡桃からは尊敬されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/b5/67926_crt_6uWWZ.jpg",
+        "link": "https://bgm.tv/character/67926",
+        "categorie": "person"
+      },
+      {
+        "id": "67927",
+        "label": "朝川砂波",
+        "info": "南ヶ丘高校のOBで、唯翔の描く絵の先輩にあたる女性。小さいながら個展を開くまでになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/07/67927_crt_HshTS.jpg",
+        "link": "https://bgm.tv/character/67927",
+        "categorie": "person"
+      },
+      {
+        "id": "67928",
+        "label": "一柳柊生",
+        "info": "琥珀の行きつけの古本屋のオーナー。琥珀に頼まれ、時間魔法に利用する星砂の手配を行った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/38/67928_crt_IdeZi.jpg",
+        "link": "https://bgm.tv/character/67928",
+        "categorie": "person"
+      },
+      {
+        "id": "67925",
+        "label": "風野光瑛",
+        "info": "あさぎの父。写真館を営んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/50/67925_crt_ppnCk.jpg",
+        "link": "https://bgm.tv/character/67925",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

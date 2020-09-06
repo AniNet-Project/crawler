@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4066",
+        "label": "帕恩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/64/4066_crt_vI70F.jpg",
+        "link": "https://bgm.tv/character/4066",
+        "categorie": "person"
+      },
+      {
+        "id": "4067",
+        "label": "蒂德莉特",
+        "info": "帰らずの森出身の妖精ハイエルフの女性。精霊を召喚して使役する精霊使いであり、同時にそこそこの剣の技量も備える魔法剣士。パーンと長く行動をともにする。小説本編におけるヒロインの一人である。外見は金髪のロングヘア、小柄で尖った耳とアーモンド型の釣りあがった瞳が特徴。意図せずツンデレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f4/4067_crt_bZSjV.jpg",
+        "link": "https://bgm.tv/character/4067",
+        "categorie": "person"
+      },
+      {
+        "id": "75570",
+        "label": "蕾莉亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/86/75570_crt_SFX38.jpg",
+        "link": "https://bgm.tv/character/75570",
+        "categorie": "person"
+      },
+      {
+        "id": "16318",
+        "label": "碧罗蒂丝",
+        "info": "アシュラム配下の女性ダークエルフ。アシュラムとは恋仲でもあるらしい。アスタールの妹で、最初は兄を無駄死にさせたアシュラムの命を狙っていた。パーンとディードリットに対応するアシュラムのパートナーとして設定された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/65/16318_crt_Byb2z.jpg?r=1582462338",
+        "link": "https://bgm.tv/character/16318",
+        "categorie": "person"
+      },
+      {
+        "id": "73875",
+        "label": "亚修拉姆",
+        "info": "英雄戦争で死んだマーモの皇帝ベルドの元近衛騎士長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/2d/73875_crt_8n0vu.jpg?r=1582375217",
+        "link": "https://bgm.tv/character/73875",
+        "categorie": "person"
+      },
+      {
+        "id": "75567",
+        "label": "埃特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/9b/75567_crt_k6x26.jpg",
+        "link": "https://bgm.tv/character/75567",
+        "categorie": "person"
+      },
+      {
+        "id": "75568",
+        "label": "斯雷因",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/2f/75568_crt_2TO0U.jpg?r=1582371701",
+        "link": "https://bgm.tv/character/75568",
+        "categorie": "person"
+      },
+      {
+        "id": "75571",
+        "label": "卡拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/d0/75571_crt_Nxrcz.jpg?r=1582372965",
+        "link": "https://bgm.tv/character/75571",
+        "categorie": "person"
+      },
+      {
+        "id": "75572",
+        "label": "希莉丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/75572_crt_I3829.jpg?r=1582373503",
+        "link": "https://bgm.tv/character/75572",
+        "categorie": "person"
+      },
+      {
+        "id": "75709",
+        "label": "卡修王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/42/75709_crt_0F1No.jpg?r=1582460160",
+        "link": "https://bgm.tv/character/75709",
+        "categorie": "person"
+      },
+      {
+        "id": "75751",
+        "label": "欧鲁森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/1c/75751_crt_k9KQW.jpg?r=1582546037",
+        "link": "https://bgm.tv/character/75751",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

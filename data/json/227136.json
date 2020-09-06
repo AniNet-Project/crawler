@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61209",
+        "label": "东极京水",
+        "info": "鹿楓堂の店主にして、リーダー的存在。お茶担当。看板猫きなこを溺愛する大の猫好き。料理は苦手。クールに見えるが天然な部分も多い。メンバーと鹿楓堂を、なによりも大切に思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/ed/61209_crt_FF6Ef.jpg",
+        "link": "https://bgm.tv/character/61209",
+        "categorie": "person"
+      },
+      {
+        "id": "61210",
+        "label": "永江世贵",
+        "info": "鹿楓堂の料理担当。陶芸と時代劇鑑賞が趣味。陶芸教室を開いており、近所の老人達とも親交が深い。スイとは中学生時代の親友。鹿楓堂の裏庭に家庭菜園を持っており、年々拡大している。隠れ八重歯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/8f/61210_crt_111q1.jpg",
+        "link": "https://bgm.tv/character/61210",
+        "categorie": "person"
+      },
+      {
+        "id": "61211",
+        "label": "格雷戈里奥·瓦伦蒂诺",
+        "info": "鹿楓堂の珈琲担当。ただしラテアートは微妙で毎回物議をかもす。イタリア人と日本人のハーフでムードメーカー的存在。何かにつけてアクティブで「アヒルボート同好会」会長も務める。アニキ肌の人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/0e/61211_crt_W1iw0.jpg",
+        "link": "https://bgm.tv/character/61211",
+        "categorie": "person"
+      },
+      {
+        "id": "61212",
+        "label": "中尾椿",
+        "info": "鹿楓堂のスイーツ担当。お菓子を食べるのも作るのも大好きな根っからのお菓子マニア。繊細で人見知りなタイプだが、ぐれに対しては激しいツッコミを繰り出す。少しツン気味な鹿楓堂の最年少。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/9f/61212_crt_593B9.jpg",
+        "link": "https://bgm.tv/character/61212",
+        "categorie": "person"
+      },
+      {
+        "id": "61213",
+        "label": "东极八京",
+        "info": "「ホテルイーストサイドグループ」で副社長を勤める。寡黙で自分のことは殆ど語らず、プライベートな部分に人を踏み込ませたがらない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/87/61213_crt_ooZV4.jpg",
+        "link": "https://bgm.tv/character/61213",
+        "categorie": "person"
+      },
+      {
+        "id": "61214",
+        "label": "角崎英介",
+        "info": "鹿楓堂に訪れた謎の人物。催事場のコーディネーターを行っており、鹿楓堂にデパートへの出展を依頼する。なにやら裏のありそうな人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/2d/61214_crt_44L8A.jpg",
+        "link": "https://bgm.tv/character/61214",
+        "categorie": "person"
+      },
+      {
+        "id": "61215",
+        "label": "きなこ",
+        "info": "楓堂の看板猫。路地裏でスイに拾われて以来鹿楓堂で皆と共に暮らす。茹でたササミが好物。首の赤いスカーフと白い「靴下」がトレードマーク。店先の縁台でよく寝ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/a5/61215_crt_r7Ri9.jpg",
+        "link": "https://bgm.tv/character/61215",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

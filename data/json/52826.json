@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9188",
+        "label": "湧太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/1b/9188_crt_3C3Qb.jpg",
+        "link": "https://bgm.tv/character/9188",
+        "categorie": "person"
+      },
+      {
+        "id": "29216",
+        "label": "真鱼",
+        "info": "本作的女主角。15岁。个性率直天真，长得亭亭玉立，不过却有少许小姐脾气。出现在故事的现代，在婴儿时已被拐至人鱼之乡，原作人鱼之乡是位于濑户内海区域，在15岁时因涌太的闯入而被解救，在之前一直销着脚镣，因为吃下人鱼肉，同样是长生不老。其实是人鱼之乡的人鱼想她长大后吃她的肉，从而变得年轻和拥有美丽的样貌。随着时间的推移爱上了涌太，但从她本人简单的感情中并不明白这是爱",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b3/29216_crt_WLiOR.jpg",
+        "link": "https://bgm.tv/character/29216",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

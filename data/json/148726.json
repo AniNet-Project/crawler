@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36178",
+        "label": "哈尔希洛",
+        "info": "本作主人公。クラスは盗賊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/47/36178_crt_kyUOA.jpg?r=1473063874",
+        "link": "https://bgm.tv/character/36178",
+        "categorie": "person"
+      },
+      {
+        "id": "36179",
+        "label": "梦儿",
+        "info": "微妙な関西弁で喋る。クラスは狩人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/83/36179_crt_dkmJ7.jpg?r=1473064293",
+        "link": "https://bgm.tv/character/36179",
+        "categorie": "person"
+      },
+      {
+        "id": "36180",
+        "label": "席赫露",
+        "info": "引っ込み思案で臆病。クラスは魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/3c/36180_crt_XKI22.jpg?r=1473064407",
+        "link": "https://bgm.tv/character/36180",
+        "categorie": "person"
+      },
+      {
+        "id": "36181",
+        "label": "蓝德",
+        "info": "天パ。クラスは暗黒騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/7f/36181_crt_MMEH0.jpg?r=1473064527",
+        "link": "https://bgm.tv/character/36181",
+        "categorie": "person"
+      },
+      {
+        "id": "36182",
+        "label": "梅莉",
+        "info": "クールな美人。クラスは神官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/d3/36182_crt_8eOfG.jpg?r=1473064058",
+        "link": "https://bgm.tv/character/36182",
+        "categorie": "person"
+      },
+      {
+        "id": "36183",
+        "label": "莫古索",
+        "info": "でかい。くまっぽい。クラスは戦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/4a/36183_crt_Dln3F.jpg?r=1473064660",
+        "link": "https://bgm.tv/character/36183",
+        "categorie": "person"
+      },
+      {
+        "id": "36184",
+        "label": "马纳多",
+        "info": "パーティのまとめ役。リーダー。クラスは神官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/70/36184_crt_oGJTr.jpg?r=1473063954",
+        "link": "https://bgm.tv/character/36184",
+        "categorie": "person"
+      },
+      {
+        "id": "36186",
+        "label": "莲崎",
+        "info": "ハルヒロと一緒にグリムガルへやってきた人間で、チーム・レンジのリーダー。クラスは戦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/7e/36186_crt_onhFH.jpg",
+        "link": "https://bgm.tv/character/36186",
+        "categorie": "person"
+      },
+      {
+        "id": "36188",
+        "label": "芭芭菈",
+        "info": "盗贼公会教官，穿着性感，短发，戴着眼镜的抖S美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/42/36188_crt_Dbw1b.jpg?r=1451758300",
+        "link": "https://bgm.tv/character/36188",
+        "categorie": "person"
+      },
+      {
+        "id": "36189",
+        "label": "布兰尼",
+        "info": "圣骑士，边境义勇军赤月事务所所长兼接待员，讲话很女性为其特征，最讨厌被人称呼娘娘腔，向十二位主角说明义勇军相关事物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/0d/36189_crt_1W4cZ.jpg?r=1451758262",
+        "link": "https://bgm.tv/character/36189",
+        "categorie": "person"
+      },
+      {
+        "id": "36191",
+        "label": "基卡瓦",
+        "info": "正式义勇军，细眼的青年，职业为战士，个性飘然轻浮，没加入任何队伍，独自一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/62/36191_crt_5H5cA.jpg",
+        "link": "https://bgm.tv/character/36191",
+        "categorie": "person"
+      },
+      {
+        "id": "38487",
+        "label": "哥布林",
+        "info": "ハルヒロ達が戦う相手となるゴブリン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/8a/38487_crt_OFHLK.jpg?r=1453894359",
+        "link": "https://bgm.tv/character/38487",
+        "categorie": "person"
+      },
+      {
+        "id": "39643",
+        "label": "睦美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/74/39643_crt_gOZNL.jpg?r=1458571287",
+        "link": "https://bgm.tv/character/39643",
+        "categorie": "person"
+      },
+      {
+        "id": "39644",
+        "label": "满木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/1e/39644_crt_zusmu.jpg?r=1458571807",
+        "link": "https://bgm.tv/character/39644",
+        "categorie": "person"
+      },
+      {
+        "id": "39645",
+        "label": "奥格",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/ee/39645_crt_8Z84Q.jpg",
+        "link": "https://bgm.tv/character/39645",
+        "categorie": "person"
+      },
+      {
+        "id": "39646",
+        "label": "死亡斑点",
+        "info": "サイリン鉱山に生息しているコボルドの亜種。黒白斑の巨体で、多くの義勇兵を殺してきたことから【死の斑】と呼ばれ恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/f1/39646_crt_0XDdZ.jpg?r=1458573715",
+        "link": "https://bgm.tv/character/39646",
+        "categorie": "person"
+      },
+      {
+        "id": "42796",
+        "label": "莎莎",
+        "info": "正式义勇军，外表艳丽的红长发少女，职业为盗贼，莲崎队的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/7f/42796_crt_16n5z.jpg?r=1466541434",
+        "link": "https://bgm.tv/character/42796",
+        "categorie": "person"
+      },
+      {
+        "id": "42797",
+        "label": "亚达契",
+        "info": "正式义勇军，待眼镜、后脑扎小马尾的黑发青年，职业为魔法使，莲崎队的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/1b/42797_crt_3ZBSm.jpg?r=1466541445",
+        "link": "https://bgm.tv/character/42797",
+        "categorie": "person"
+      },
+      {
+        "id": "42798",
+        "label": "隆",
+        "info": "正式义勇军，造型剪裁的平头壮硕青年，职业为圣骑士，莲崎队的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/d6/42798_crt_h889Q.jpg?r=1466541457",
+        "link": "https://bgm.tv/character/42798",
+        "categorie": "person"
+      },
+      {
+        "id": "42799",
+        "label": "法然",
+        "info": "神官公会教官，神情严肃的老人，替马纳多的死感到惋惜，并警告哈尔希洛一行人把遗体火化，否则三天后尸体会因为不死之王诅咒转化成丧尸攻击人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/9a/42799_crt_Lng7A.jpg?r=1466541466",
+        "link": "https://bgm.tv/character/42799",
+        "categorie": "person"
+      },
+      {
+        "id": "42800",
+        "label": "希诺哈拉",
+        "info": "オリオンのリーダー。名の知れたクランのリーダーを務める物腰がやわらかい人格者。ハルヒロに色々と助言をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/a8/42800_crt_qpMVe.jpg?r=1466541484",
+        "link": "https://bgm.tv/character/42800",
+        "categorie": "person"
+      },
+      {
+        "id": "42801",
+        "label": "哈亚希",
+        "info": "オリオンの1人。かつてメリイと同じパーティだったが、デッドスポットによってパーティを壊滅させられ、その後オリオンに加入する。ハルヒロにメリイの過去を話した人物でもある",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/52/42801_crt_AhaH3.jpg?r=1466541496",
+        "link": "https://bgm.tv/character/42801",
+        "categorie": "person"
+      },
+      {
+        "id": "36185",
+        "label": "琪比",
+        "info": "正式义勇军，同期十二人中最矮小的黑短发少女，职业为神官，莲崎队的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/61/36185_crt_C0JTj.jpg?r=1451758675",
+        "link": "https://bgm.tv/character/36185",
+        "categorie": "person"
+      },
+      {
+        "id": "39847",
+        "label": "佐迪亚",
+        "info": "ランタの召喚する悪霊。仮面を被った毛むくじゃらの魔物の姿をしている。ピンチの時に助言を求めても「とっとと死んでスカルヘル様に抱かれよ」などというばかりで全く役に立たない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/fe/39847_crt_5OfPP.jpg?r=1459249701",
+        "link": "https://bgm.tv/character/39847",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

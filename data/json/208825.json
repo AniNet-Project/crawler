@@ -1,0 +1,701 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17412",
+        "label": "西住美穗",
+        "info": "大洗女子学院战车部队长，鮟鱇队队长，座驾为四号坦克。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/d0/17412_crt_WsLwl.jpg?r=1464655240",
+        "link": "https://bgm.tv/character/17412",
+        "categorie": "person"
+      },
+      {
+        "id": "17413",
+        "label": "武部沙织",
+        "info": "車長→通信手。フランクな人柄のムードメーカーで、麻子とは小学校からの幼馴染。何事も恋愛に繋げる節があり、恋愛経験は無いが結婚雑誌を読むことが趣味の「恋に恋する」少女で、戦車道の履修も異性にモテる要素と考えて選択した。料理が得意で納豆が好物。普段はコンタクトレンズで眼鏡は掛けずに持ち歩いているが、料理など本気を出す時は掛けることもある。メンバーと親しくなってからは、みほと優花里をそれぞれ「みぽりん」「ゆかりん」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/16/17413_crt_64k95.jpg?r=1464655341",
+        "link": "https://bgm.tv/character/17413",
+        "categorie": "person"
+      },
+      {
+        "id": "17414",
+        "label": "五十铃华",
+        "info": "操縦手→砲手。華道の家元の娘で一日一回お花を生けることを趣味とする、長いストレートの黒髪を持つ清楚な雰囲気の大和撫子だが、アクティブなことをやりたいという理由で戦車道を選択する。沙織とはみほと知り合う前から友達で、恋愛ネタやことわざを間違えた発言にツッコミを入れる。母に対しては意思を明確に告げるなど芯が強く、暗い場所や厳しい麻子の祖母に恐れないなど肝も据わっている。戦車道の履修が原因で母親から勘当されるが、その戦車道の影響により華道の新境地を開いたことを認められて和解している",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/83/17414_crt_TFrf8.jpg?r=1464655093",
+        "link": "https://bgm.tv/character/17414",
+        "categorie": "person"
+      },
+      {
+        "id": "17415",
+        "label": "秋山优花里",
+        "info": "砲手→装填手。実家は秋山理髪店。戦車への愛情と共に造詣も深い筋金入りの戦車マニアで、自宅の部屋には戦車関連の品々が飾られている。1年前の決勝戦で黒森峰の副隊長として指揮を執っていたみほを見て以来、彼女に対して強い憧れを抱いている。相手の戦力を把握するために独断で潜入した諜報活動では独自に入手した制服で変装して短時間で動画編集を行うなど大胆さと器用さを併せ持ち、試合でも必要な場面では降車して単独で斥候を行う。後に、エルヴィンたちから「グデーリアン」と呼ばれるようになった",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/c5/17415_crt_KsD7H.jpg?r=1464655402",
+        "link": "https://bgm.tv/character/17415",
+        "categorie": "person"
+      },
+      {
+        "id": "17416",
+        "label": "冷泉麻子",
+        "info": "大洗女子学院学生，战车部鮟鱇队队员，担任四号坦克驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/06/17416_crt_t9kRR.jpg?r=1464655165",
+        "link": "https://bgm.tv/character/17416",
+        "categorie": "person"
+      },
+      {
+        "id": "61958",
+        "label": "玛丽",
+        "info": "BC自由学園戦車道チームの隊長。おっとりとした性格で、試合中もケーキを食べているほどスイーツが好き。自身はエスカレーター組だが、外部生とエスカレーター組の対立をあまり気にしていない様子。フラッグ車のFT-17の車長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/02/61958_crt_7s707.jpg?r=1521811396",
+        "link": "https://bgm.tv/character/61958",
+        "categorie": "person"
+      },
+      {
+        "id": "37238",
+        "label": "西绢代",
+        "info": "知波单学园战车部队长，名字来源于日本陆军中佐西竹一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/0a/37238_crt_klLJt.jpg?r=1464785644",
+        "link": "https://bgm.tv/character/37238",
+        "categorie": "person"
+      },
+      {
+        "id": "61959",
+        "label": "安藤",
+        "info": "BC自由学園戦車道チームの外部生組のリーダー。エスカレーター組の生徒のことを「温室育ち」と揶揄し、受験戦争を勝ち抜いていない人間には戦いができないとバカにしている。試合では、S35の車長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/09/61959_crt_wGoGG.jpg?r=1521811420",
+        "link": "https://bgm.tv/character/61959",
+        "categorie": "person"
+      },
+      {
+        "id": "61960",
+        "label": "押田",
+        "info": "BC自由学園戦車道チームのエスカレーター組のリーダー。同じエスカレーター組のマリーを隊長として慕っている一方、外部生の安藤とは、いつも対立をしている。試合では、ARL44の車長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/e3/61960_crt_j7OI7.jpg?r=1521811443",
+        "link": "https://bgm.tv/character/61960",
+        "categorie": "person"
+      },
+      {
+        "id": "75884",
+        "label": "祖父江",
+        "info": "ルノーFT操縦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/1b/75884_crt_272V8.jpg",
+        "link": "https://bgm.tv/character/75884",
+        "categorie": "person"
+      },
+      {
+        "id": "75885",
+        "label": "砂部",
+        "info": "ルノーFT砲手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/cd/75885_crt_uxEJ6.jpg",
+        "link": "https://bgm.tv/character/75885",
+        "categorie": "person"
+      },
+      {
+        "id": "42169",
+        "label": "福田",
+        "info": "九五式軽戦車の戦車長。戦車帽を被り、編み込み二本お下げと丸眼鏡が特徴で幼児体型で背も低い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/ad/42169_crt_3BOpR.jpg?r=1464785868",
+        "link": "https://bgm.tv/character/42169",
+        "categorie": "person"
+      },
+      {
+        "id": "42167",
+        "label": "玉田",
+        "info": "新砲塔チハの戦車長。髪は黒髪を編みこんだ1本のお下げ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/ba/42167_crt_8kUFe.jpg?r=1464784591",
+        "link": "https://bgm.tv/character/42167",
+        "categorie": "person"
+      },
+      {
+        "id": "42168",
+        "label": "细见",
+        "info": "旧砲塔チハの戦車長。頭の上で髪を2つに巻いた髪形をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/eb/42168_crt_40O6v.jpg?r=1464785524",
+        "link": "https://bgm.tv/character/42168",
+        "categorie": "person"
+      },
+      {
+        "id": "42172",
+        "label": "寺本",
+        "info": "細見の旧砲塔チハの搭乗員。記録係を兼ね、エキシビションマッチでは乾板カメラで撃破したマチルダを撮影していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/5d/42172_crt_dQ59d.jpg?r=1583478436",
+        "link": "https://bgm.tv/character/42172",
+        "categorie": "person"
+      },
+      {
+        "id": "76015",
+        "label": "名仓",
+        "info": "新チハ車長。隠密偵察が得意。いろいろな人にミックスゼリーをあげる。紀州犬を二匹飼っている。名前はリンリンとランラン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/e6/76015_crt_9E2d9.jpg?r=1583478584",
+        "link": "https://bgm.tv/character/76015",
+        "categorie": "person"
+      },
+      {
+        "id": "75992",
+        "label": "池田",
+        "info": "旧チハ車長。大なぎなたの名手。かわいいぬいぐるみを集めるのも趣味だが、ボコには興味がない。ちくわ料理全般が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/dc/75992_crt_szsS7.jpg?r=1583478342",
+        "link": "https://bgm.tv/character/75992",
+        "categorie": "person"
+      },
+      {
+        "id": "75991",
+        "label": "滨田",
+        "info": "新チハ車長。戦車道と裏千家の文武両道。お淑やかと思いきや、意外とペシミスティックな発言の多い皮肉屋だったりもする。好きな作家は江戸川乱歩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/90/75991_crt_Fj4fV.jpg?r=1583478202",
+        "link": "https://bgm.tv/character/75991",
+        "categorie": "person"
+      },
+      {
+        "id": "76016",
+        "label": "久保田",
+        "info": "旧チハ車長。地理や数字に強く、理論派。趣味はぬりえと千代紙。軍人将棋や知波単流囲碁もなかなかの腕前だが本当に好きなのはトランプの大富豪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/92/76016_crt_jn61j.jpg?r=1583478743",
+        "link": "https://bgm.tv/character/76016",
+        "categorie": "person"
+      },
+      {
+        "id": "76017",
+        "label": "西原",
+        "info": "特二式車長。我慢強く、任務に忠実。水泳が得意で特にのし泳ぎ（古式泳法）の達人。髪型のせいで、皆から座敷わらし１号と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/22/76017_crt_TIdTE.jpg",
+        "link": "https://bgm.tv/character/76017",
+        "categorie": "person"
+      },
+      {
+        "id": "17417",
+        "label": "角谷杏",
+        "info": "生徒会長。車長兼通信手で普段は車長の位置である砲塔内ではなく通信手の席に座っているが、プラウダ戦では中断後より桃と砲手を交代し、1輌で4輌を相手にして内2輌を撃破するという非凡な所を見せた。小柄な体形で髪形はツインテール。干しいもを携帯しており、食べている場面が多い。生徒会の大まかな仕事は2人（特に桃）に任せている。文科省から数年後に開催される戦車道世界大会に向けて全国の高校や大学に戦車道に力を入れるよう要請があったことで、学園の戦車道復活を兼ねて、自己の権限を盾に問答無用でみほに履修を強要し戦車道へ引き込んだ張本人だが、その裏には学園廃校を撤回させる条件として、戦車道の全国大会優勝という大きな実績を作る必要に迫られていたという事情があった。豪腕且つ大雑把な性格で成績優秀者には特典や優遇を約束するなど太っ腹な一面を持つ。みほの隊長就任以降は試合に負けた場合“あんこう踊り”など何らかのペナルティを課すが、その一方で「余計な重荷を背負わせたくない」と、廃校の件を他の生徒達には黙っている気遣いの心も持っている。桃の駄洒落が好きで、あんこう鍋が得意料理",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/3b/17417_crt_lYiYL.jpg?r=1464425870",
+        "link": "https://bgm.tv/character/17417",
+        "categorie": "person"
+      },
+      {
+        "id": "17418",
+        "label": "小山柚子",
+        "info": "生徒会副会長で操縦手。当初の操縦はぎこちないものだったが、練習と試合経験を積み技術が大幅に向上。プラウダ戦では相手校に対して性能で遥かに劣る38tを的確に操縦、杏との連携で1輌ながら多数の相手戦車を手玉に取る。明るく穏やかな性格で、生徒会で唯一まともではあるが、みほを戦車道に引き込む際は他の2人に加わり、やんわりと脅しをかけている。おっとりとした性格なため杏と桃に振り回され気味で、雑用を任されてしまうことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/02/17418_crt_DihIX.jpg?r=1464425799",
+        "link": "https://bgm.tv/character/17418",
+        "categorie": "person"
+      },
+      {
+        "id": "17419",
+        "label": "河嶋桃",
+        "info": "生徒会広報。副隊長を務める砲手兼装填手で、プラウダ戦では中断後に杏の要請で砲手を交代し、装填手に専念する。黒髪で片眼鏡を掛けており、チームでは一番背が高い。策士として、率先した行動で杏の豪腕ぶりを支えている。みほを戦車道へ引き込む際は開口一番、戦車道を選択しなかったことを非難し、理論武装で攻め立てた。冷静で生真面目な性格だが、駄洒落に近い言葉を意図的に言う時があり、自分の意見が否定されたり試合時になると感情が露となる。遠距離は元より零距離でも目標を外すほど射撃が下手で、その都度柚子に突っ込まれ、特に「桃ちゃん」と呼ばれることを嫌がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/97/17419_crt_l4q5i.jpg?r=1464423932",
+        "link": "https://bgm.tv/character/17419",
+        "categorie": "person"
+      },
+      {
+        "id": "17420",
+        "label": "矶边典子",
+        "info": "リーダーで車長兼装填手。戦車道で活躍することがバレー部の再興につながると考えている熱血少女で、チームのメンバーからは「キャプテン」と呼ばれる。口癖は「根性」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/5e/17420_crt_78y0o.jpg?r=1464423461",
+        "link": "https://bgm.tv/character/17420",
+        "categorie": "person"
+      },
+      {
+        "id": "17421",
+        "label": "近藤妙子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/f2/17421_crt_v943K.jpg?r=1464423503",
+        "link": "https://bgm.tv/character/17421",
+        "categorie": "person"
+      },
+      {
+        "id": "17422",
+        "label": "河西忍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/e0/17422_crt_iSzga.jpg?r=1464423713",
+        "link": "https://bgm.tv/character/17422",
+        "categorie": "person"
+      },
+      {
+        "id": "17423",
+        "label": "佐佐木明日",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/ab/17423_crt_jXqrv.jpg?r=1464423821",
+        "link": "https://bgm.tv/character/17423",
+        "categorie": "person"
+      },
+      {
+        "id": "17424",
+        "label": "凯撒 / 铃木贵子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/b1/17424_crt_Ky66C.jpg?r=1464425709",
+        "link": "https://bgm.tv/character/17424",
+        "categorie": "person"
+      },
+      {
+        "id": "17425",
+        "label": "埃尔文 / 松本里子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/35/17425_crt_MLxwl.jpg?r=1464423280",
+        "link": "https://bgm.tv/character/17425",
+        "categorie": "person"
+      },
+      {
+        "id": "17426",
+        "label": "左卫门佐 / 杉山清美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/c8/17426_crt_2LpTG.jpg?r=1464425639",
+        "link": "https://bgm.tv/character/17426",
+        "categorie": "person"
+      },
+      {
+        "id": "17427",
+        "label": "龙 / 野上武子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/ef/17427_crt_e6LVV.jpg?r=1464425526",
+        "link": "https://bgm.tv/character/17427",
+        "categorie": "person"
+      },
+      {
+        "id": "17428",
+        "label": "泽梓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/34/17428_crt_a6Y8C.jpg?r=1464425434",
+        "link": "https://bgm.tv/character/17428",
+        "categorie": "person"
+      },
+      {
+        "id": "17429",
+        "label": "山乡步",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/9f/17429_crt_TmRTP.jpg?r=1464425332",
+        "link": "https://bgm.tv/character/17429",
+        "categorie": "person"
+      },
+      {
+        "id": "17430",
+        "label": "丸山纱希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/6d/17430_crt_k057z.jpg?r=1464424283",
+        "link": "https://bgm.tv/character/17430",
+        "categorie": "person"
+      },
+      {
+        "id": "17431",
+        "label": "阪口桂利奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/ff/17431_crt_kNq8q.jpg?r=1464424187",
+        "link": "https://bgm.tv/character/17431",
+        "categorie": "person"
+      },
+      {
+        "id": "17432",
+        "label": "宇津木优季",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/21/17432_crt_B711m.jpg?r=1464424044",
+        "link": "https://bgm.tv/character/17432",
+        "categorie": "person"
+      },
+      {
+        "id": "17433",
+        "label": "大野绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/12/17433_crt_TGgzR.jpg?r=1464423076",
+        "link": "https://bgm.tv/character/17433",
+        "categorie": "person"
+      },
+      {
+        "id": "42037",
+        "label": "圆栗子 / 园绿子",
+        "info": "维护校内风气与校规的风纪委员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/de/42037_crt_Kk0r8.jpg?r=1464429717",
+        "link": "https://bgm.tv/character/42037",
+        "categorie": "person"
+      },
+      {
+        "id": "42137",
+        "label": "后茂代 / 后藤茂代子",
+        "info": "操縦手。髪の長さはロング（そど子より長いおかっぱ）。我慢強いのが取り柄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ba/42137_crt_ub3FH.jpg?r=1464708124",
+        "link": "https://bgm.tv/character/42137",
+        "categorie": "person"
+      },
+      {
+        "id": "42138",
+        "label": "春希美 / 金春希美",
+        "info": "砲手兼通信手。髪の長さはショート（そど子より短いおかっぱ）。趣味は映画鑑賞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7b/42138_crt_50OTA.jpg?r=1464708324",
+        "link": "https://bgm.tv/character/42138",
+        "categorie": "person"
+      },
+      {
+        "id": "42135",
+        "label": "中嶋 / 中嶋悟子",
+        "info": "大洗女子学園戦車道チーム所属。ポルシェティーガーに搭乗し、自動車部員で構成されるレオポンさんチームの車長兼通信手。ラリー好き。雨の日の外出が好きで、「雨はナカジマ」と呼ばれるほど。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/09/42135_crt_7wU7t.jpg?r=1464707694",
+        "link": "https://bgm.tv/character/42135",
+        "categorie": "person"
+      },
+      {
+        "id": "42139",
+        "label": "铃木",
+        "info": "装填手。褐色肌とクセ毛が特徴。プロ戦車道チームのオーナーになることが夢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/df/42139_crt_58SUj.jpg?r=1464708679",
+        "link": "https://bgm.tv/character/42139",
+        "categorie": "person"
+      },
+      {
+        "id": "42140",
+        "label": "星野",
+        "info": "砲手。薄めの褐色肌と自動車部ツナギの上着を腰に巻いたタンクトップ姿が特徴。 運転が得意でコーナリングに自信があり「大洗一速い女」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/02/42140_crt_ez0ih.jpg?r=1464708716",
+        "link": "https://bgm.tv/character/42140",
+        "categorie": "person"
+      },
+      {
+        "id": "42136",
+        "label": "土屋",
+        "info": "操縦手。メンバーの中で唯一の2年生。そばかすが特徴。金曜日のドリンクバーが好きなことから「ドリンクバー・キンヨウビ（略してドリキン[注釈 28]）」のニックネームで呼ばれ、ドリフトも好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/87/42136_crt_hWw8h.jpg?r=1464708015",
+        "link": "https://bgm.tv/character/42136",
+        "categorie": "person"
+      },
+      {
+        "id": "42142",
+        "label": "猫田",
+        "info": "車長兼通信手。みほのクラスメイトで、長身で猫背のおとなしい少女。自分のことをボクと呼ぶ。アンツィオ戦の前に戦車道をやりたいと思い、みほに話しかけようと試みたものの話せずにその時は断念したが、決勝戦を前に勇気を振り絞りみほに戦車道をやりたいと話しかけ加入する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/0c/42142_crt_OjWWo.jpg?r=1464715399",
+        "link": "https://bgm.tv/character/42142",
+        "categorie": "person"
+      },
+      {
+        "id": "42143",
+        "label": "桃川",
+        "info": "操縦手。本名は不明。1年生。右目には桃をかたどった眼帯、短髪の頭部にはピンク色のカチューシャ、首にはピンク色のチョーカーを着け、制服は臍が見える位短くスカーフを蝶ネクタイ状にし、赤いブーツを履いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/79/42143_crt_ZPfrJ.jpg?r=1464715625",
+        "link": "https://bgm.tv/character/42143",
+        "categorie": "person"
+      },
+      {
+        "id": "42144",
+        "label": "皮优炭",
+        "info": "砲手兼装填手。本名は不明。3年生。そばかすと巨乳が特徴で、銀髪のロングヘアに後ろ髪を束ねている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/81/42144_crt_9T1a4.jpg?r=1464715756",
+        "link": "https://bgm.tv/character/42144",
+        "categorie": "person"
+      },
+      {
+        "id": "61961",
+        "label": "阿银",
+        "info": "大洗女子学園戦車道チームに新たに加わった、Ｍｋ.Ⅳ戦車に搭乗するサメさんチームの車長。学園艦の艦底にあるBAR「どん底」に集まる船舶科の荒くれ者たちのリーダー。ロングコートと羽根付きの帽子がトレードマーク。口にくわえているのはパイプ形の飴。ニックネームは「竜巻のお銀」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/ea/61961_crt_FzYs3.jpg?r=1521979170",
+        "link": "https://bgm.tv/character/61961",
+        "categorie": "person"
+      },
+      {
+        "id": "61962",
+        "label": "拉姆",
+        "info": "大洗女子学園戦車道チームに新たに加わった、サメさんチームの操縦手。酒を飲んでいるわけではないが、まるで酔っ払いのように、いつも頬を赤らめている。赤毛のチリチリパーマも特徴。お銀のことを「親分」と呼び、慕っている。ニックネームは「爆弾低気圧のラム」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/92/61962_crt_03mOC.jpg?r=1521811461",
+        "link": "https://bgm.tv/character/61962",
+        "categorie": "person"
+      },
+      {
+        "id": "61963",
+        "label": "村上",
+        "info": "大洗女子学園戦車道チームに新たに加わった、サメさんチームの砲手。サメさんチームの中で最も長身な上、筋骨隆々。制服の着こなしはオーソドックスで、一見真面目そうにも見えるが、荒くれ者のメンバーの中でも特にケンカっぱやい。ニックネームは「サルガッソーのムラカミ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/48/61963_crt_tIY3o.jpg?r=1521811479",
+        "link": "https://bgm.tv/character/61963",
+        "categorie": "person"
+      },
+      {
+        "id": "61964",
+        "label": "芙琳特",
+        "info": "大洗女子学園戦車道チームに新たに加わった、サメさんチームの操縦手兼通信手。スラリとした長身の美人で、深いスリットの入ったロングスカートがよく似合う。カラオケが得意でBAR「どん底」のステージでいつも美声を披露している。ニックネームは「大波のフリント」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/7e/61964_crt_lnpHP.jpg?r=1521811496",
+        "link": "https://bgm.tv/character/61964",
+        "categorie": "person"
+      },
+      {
+        "id": "61965",
+        "label": "卡特拉斯",
+        "info": "大洗女子学園戦車道チームに新たに加わった、サメさんチームの砲手。荒っぽい性格のメンバーが多いサメさんチームの中では、比較的クールで無口なタイプ。BAR「どん底」では、バーテンダーとしてカウンターに立っている。ニックネームは「生しらす丼のカトラス」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/71/61965_crt_dwZ5q.jpg?r=1521811514",
+        "link": "https://bgm.tv/character/61965",
+        "categorie": "person"
+      },
+      {
+        "id": "17435",
+        "label": "大吉岭",
+        "info": "圣葛罗莉安娜女子学院三年级生，战车部队长，座驾为丘吉尔MK-VII。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/bf/17435_crt_v91Yo.jpg?r=1464435075",
+        "link": "https://bgm.tv/character/17435",
+        "categorie": "person"
+      },
+      {
+        "id": "17437",
+        "label": "橙黄白毫",
+        "info": "圣葛罗莉安娜女子学院一年级生，担任旗车丘吉尔MKVII的装填手。十分擅长泡红茶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4b/17437_crt_JVYgw.jpg?r=1464425147",
+        "link": "https://bgm.tv/character/17437",
+        "categorie": "person"
+      },
+      {
+        "id": "17438",
+        "label": "凯伊",
+        "info": "桑德斯大学附属高中战车部队长，座驾为M4谢尔曼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/21/17438_crt_uQ8a6.jpg?r=1464425085",
+        "link": "https://bgm.tv/character/17438",
+        "categorie": "person"
+      },
+      {
+        "id": "17439",
+        "label": "直美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/23/17439_crt_yYxDs.jpg?r=1464424991",
+        "link": "https://bgm.tv/character/17439",
+        "categorie": "person"
+      },
+      {
+        "id": "17440",
+        "label": "亚理纱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/54/17440_crt_PeUZG.jpg?r=1464424826",
+        "link": "https://bgm.tv/character/17440",
+        "categorie": "person"
+      },
+      {
+        "id": "17441",
+        "label": "安丘比 / 安斋千代美",
+        "info": "隊長の3年生。軍人姿の出で立ち（ラフ設定での指示はムッソリーニ風）でツインテールの髪型に黒いリボンを付け、普段は鞭を携帯している。搭乗車両はP40で車長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/39/17441_crt_iif75.jpg?r=1464425971",
+        "link": "https://bgm.tv/character/17441",
+        "categorie": "person"
+      },
+      {
+        "id": "25787",
+        "label": "卡尔帕乔",
+        "info": "もう一人の副隊長ペパロニと共にチームの副隊長を務めるアンチョビの片腕で、セモヴェンテ部隊を率いる2年生。セモヴェンテでは車長兼装填手を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/25/25787_crt_YupOZ.jpg?r=1464778618",
+        "link": "https://bgm.tv/character/25787",
+        "categorie": "person"
+      },
+      {
+        "id": "25788",
+        "label": "佩帕罗妮",
+        "info": "CV33の車長を務め、CV33部隊を率いる副隊長で2年生。『コミックフラッパー版』には登場しないが、『リトルアーミーII』や『リボンの武者』には登場している。左利き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/dc/25788_crt_8BTd2.jpg?r=1464778644",
+        "link": "https://bgm.tv/character/25788",
+        "categorie": "person"
+      },
+      {
+        "id": "17442",
+        "label": "喀秋莎",
+        "info": "真理高中的战车部队长，同时担任旗车T-34/85的车长，被称为“小个子暴君\"。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/43/17442_crt_tHYNv.jpg?r=1464424720",
+        "link": "https://bgm.tv/character/17442",
+        "categorie": "person"
+      },
+      {
+        "id": "17443",
+        "label": "农娜",
+        "info": "真理高中战车队副队长，座驾为IS-2，担当车长兼炮手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/0b/17443_crt_XvILJ.jpg?r=1464435101",
+        "link": "https://bgm.tv/character/17443",
+        "categorie": "person"
+      },
+      {
+        "id": "37029",
+        "label": "库拉拉",
+        "info": "真理高中的学生，担任一辆T-34/85的车长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/37/37029_crt_unGx1.jpg?r=1464783731",
+        "link": "https://bgm.tv/character/37029",
+        "categorie": "person"
+      },
+      {
+        "id": "17445",
+        "label": "逸见艾丽卡",
+        "info": "黑森峰女子学园的三年级生，战车部副队长，座驾为虎王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/eb/17445_crt_mgj7b.jpg?r=1464424572",
+        "link": "https://bgm.tv/character/17445",
+        "categorie": "person"
+      },
+      {
+        "id": "42141",
+        "label": "赤星小梅",
+        "info": "前年の全国大会決勝戦でみほに助けられた女生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/26/42141_crt_vsB3q.jpg?r=1583490153",
+        "link": "https://bgm.tv/character/42141",
+        "categorie": "person"
+      },
+      {
+        "id": "75990",
+        "label": "小岛绘美",
+        "info": "黑森峰女子学园车长之一。负责豹式坦克歼击车（TV版）→豹式中型坦克G型（剧场版）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/72/75990_crt_Fpt88.jpg?r=1583475371",
+        "link": "https://bgm.tv/character/75990",
+        "categorie": "person"
+      },
+      {
+        "id": "37239",
+        "label": "米卡",
+        "info": "继续高校战车部BT-42突击炮的车长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/3f/37239_crt_0O0P8.jpg?r=1529925897",
+        "link": "https://bgm.tv/character/37239",
+        "categorie": "person"
+      },
+      {
+        "id": "42166",
+        "label": "阿基",
+        "info": "継続高校の隊員。BT-42の砲手兼装填手。ミカと共に行動しており、哲学的なミカの言葉に興味を示している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/02/42166_crt_x1tWM.jpg?r=1464784152",
+        "link": "https://bgm.tv/character/42166",
+        "categorie": "person"
+      },
+      {
+        "id": "42173",
+        "label": "米科",
+        "info": "継続高校の隊員。BT-42の操縦手。スカートの下にジャージのズボンをはいている。アクロバティックな操縦技術を駆使して同車搭載のクリスティー式サスペンションの特性を極限まで引き出し、大学選抜チームを翻弄する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/a7/42173_crt_YUpP5.jpg?r=1464789190",
+        "link": "https://bgm.tv/character/42173",
+        "categorie": "person"
+      },
+      {
+        "id": "36455",
+        "label": "岛田爱里寿",
+        "info": "战车道岛田流的继承人，跳级进入大学的天才少女，大学选拔队队长。座驾为英制坦克百夫长，和西住美穗一样喜欢じくボコ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/88/36455_crt_Wmtkt.jpg?r=1464783572",
+        "link": "https://bgm.tv/character/36455",
+        "categorie": "person"
+      },
+      {
+        "id": "42171",
+        "label": "杏美",
+        "info": "中隊長。大学選抜チーム副官の一人。M26パーシングの車長。車体のエンブレムは黄色い菱形。3人の中隊長の中では最もグラマラスな体型で、雰囲気も大人びている。BC自由学園出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/d5/42171_crt_RjR5n.jpg?r=1464788010",
+        "link": "https://bgm.tv/character/42171",
+        "categorie": "person"
+      },
+      {
+        "id": "76025",
+        "label": "考拉之森学园的队长",
+        "info": "战车为AC1哨兵巡洋坦克（センチネル巡航戦車）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/66/76025_crt_v6vld.jpg?r=1583479884",
+        "link": "https://bgm.tv/character/76025",
+        "categorie": "person"
+      },
+      {
+        "id": "76024",
+        "label": "蕨",
+        "info": "考拉之森学园（コアラの森学園）的副队长，与队长同车。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c5/76024_crt_rL822.jpg?r=1583479894",
+        "link": "https://bgm.tv/character/76024",
+        "categorie": "person"
+      },
+      {
+        "id": "76023",
+        "label": "鸭乃桥",
+        "info": "考拉之森学园（コアラの森学園）队长车的炮手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/d1/76023_crt_VVeah.jpg?r=1583479901",
+        "link": "https://bgm.tv/character/76023",
+        "categorie": "person"
+      },
+      {
+        "id": "76018",
+        "label": "艾克莱尔",
+        "info": "马奇诺女子学院（マジノ女学院）队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/ff/76018_crt_CR83c.jpg?r=1583479483",
+        "link": "https://bgm.tv/character/76018",
+        "categorie": "person"
+      },
+      {
+        "id": "76019",
+        "label": "エル",
+        "info": "青师团高中队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/a2/76019_crt_KkuQQ.jpg?r=1583660900",
+        "link": "https://bgm.tv/character/76019",
+        "categorie": "person"
+      },
+      {
+        "id": "76020",
+        "label": "ヴィリディアナ",
+        "info": "青师团高中队长车驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/fb/76020_crt_Aq9Ql.jpg?r=1583660908",
+        "link": "https://bgm.tv/character/76020",
+        "categorie": "person"
+      },
+      {
+        "id": "76021",
+        "label": "トリスターナ",
+        "info": "青师团高中队长车通信员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/f7/76021_crt_38Rqf.jpg?r=1583660918",
+        "link": "https://bgm.tv/character/76021",
+        "categorie": "person"
+      },
+      {
+        "id": "76022",
+        "label": "アンダルシア",
+        "info": "青师团高中II号战车F型车长。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76022",
+        "categorie": "person"
+      },
+      {
+        "id": "76027",
+        "label": "マイコ",
+        "info": "ポンプル高校（冯布诺高中）の車長。ヤイカにロマン(騎士道)に拘る限りみほには勝てないと指摘したしずかに対し、ロマン(武士道)という点では同類だと反論し、逆にしずかに「慧眼也」と高く評価された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/64/76027_crt_oXohx.jpg?r=1583483309",
+        "link": "https://bgm.tv/character/76027",
+        "categorie": "person"
+      },
+      {
+        "id": "17434",
+        "label": "蝶野亚美",
+        "info": "大洗女子学園の戦車道教官。陸上自衛隊富士学校富士教導教導団戦車教導隊より派遣された一等陸尉で、そのアバウトな性格は、しばしばみほたちを驚かせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/13/17434_crt_f34Dv.jpg?r=1464431765",
+        "link": "https://bgm.tv/character/17434",
+        "categorie": "person"
+      },
+      {
+        "id": "76026",
+        "label": "河嶋桃一家",
+        "info": "I 河嶋の父 CV: 拝真之介",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/88/76026_crt_9Ep5Z.jpg?r=1583481453",
+        "link": "https://bgm.tv/character/76026",
+        "categorie": "person"
+      },
+      {
+        "id": "78451",
+        "label": "杂种犬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/fb/78451_crt_2z3H4.jpg",
+        "link": "https://bgm.tv/character/78451",
+        "categorie": "person"
+      },
+      {
+        "id": "78452",
+        "label": "跳岩企鹅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/a9/78452_crt_61kK4.jpg",
+        "link": "https://bgm.tv/character/78452",
+        "categorie": "person"
+      },
+      {
+        "id": "78453",
+        "label": "大熊猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/ce/78453_crt_40o0X.jpg",
+        "link": "https://bgm.tv/character/78453",
+        "categorie": "person"
+      },
+      {
+        "id": "42176",
+        "label": "博科熊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/f7/42176_crt_677LL.jpg?r=1464800141",
+        "link": "https://bgm.tv/character/42176",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6552",
+        "label": "柯塞特",
+        "info": "灵魂藏于一只精致的威尼斯玻璃杯的漂亮女孩，有着金色的头发，漂亮的眼睛及柔弱的身躯。她那令人迷住的美丽被一同藏于杯内。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/6a/6552_crt_HX8n2.jpg",
+        "link": "https://bgm.tv/character/6552",
+        "categorie": "person"
+      },
+      {
+        "id": "67341",
+        "label": "仓桥永莉",
+        "info": "本作の主人公。日本の骨董店「香蘭堂」でアルバイトをする画学生。ある日、カットグラスから現れたコゼットという名の少女の霊と出会い、彼女に没頭するようになる。絵に関してはかなりの才能の持ち主。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67341",
+        "categorie": "person"
+      },
+      {
+        "id": "6553",
+        "label": "真泷翔子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/92/6553_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6553",
+        "categorie": "person"
+      },
+      {
+        "id": "6554",
+        "label": "真泷八海",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/d5/6554_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6554",
+        "categorie": "person"
+      },
+      {
+        "id": "6556",
+        "label": "鏃みちる",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/59/6556_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6556",
+        "categorie": "person"
+      },
+      {
+        "id": "67342",
+        "label": "釈迦堂菩心尼",
+        "info": "霊感がある女性。香蘭堂の近所にある神社に住む。父が亡くなり、遺品を香蘭堂に売りに来る。香蘭堂を中心に渦巻く不吉な気配に気付き、永莉の身を案じる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67342",
+        "categorie": "person"
+      },
+      {
+        "id": "67343",
+        "label": "斋贺由布",
+        "info": "香蘭堂の近所に住む女の子。翔子に「ゆうちゃん」と呼ばれ、親しまれている。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67343",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

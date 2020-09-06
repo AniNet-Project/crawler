@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19583",
+        "label": "友夫（木下友夫）",
+        "info": "「団地ともお」の主人公。枝島団地に住む、小学4年生の男の子。スポーツも勉強も人気もそこそこだが、遊びとバカなことには全力で挑む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/4a/19583_crt_FUxR5.jpg",
+        "link": "https://bgm.tv/character/19583",
+        "categorie": "person"
+      },
+      {
+        "id": "19584",
+        "label": "妈妈（木下哲子）",
+        "info": "ともおの母、家事とパートをこなす主婦。単身赴任で父が不在の木下家を支えるパワフル母さん。典型的おばさんと化していくことに悩んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/0f/19584_crt_fH5qL.jpg",
+        "link": "https://bgm.tv/character/19584",
+        "categorie": "person"
+      },
+      {
+        "id": "19585",
+        "label": "爸爸（木下铁雄）",
+        "info": "ともおの父、単身赴任中のサラリーマン。家族に会えるのは数カ月に一度だが、家族思いのやさしい父さん。ともおのことならなんでもお見通し。なぜかいつも顔が見えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/aa/19585_crt_25N5b.jpg",
+        "link": "https://bgm.tv/character/19585",
+        "categorie": "person"
+      },
+      {
+        "id": "19586",
+        "label": "姐姐（木下君子）",
+        "info": "ともおの姉、木下家の長女。中学2年生。勉強も出来るしっかり者。ともおの世話を焼くのに忙しい毎日を送っている。中学ではバイオ部に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/c3/19586_crt_gNzbG.jpg",
+        "link": "https://bgm.tv/character/19586",
+        "categorie": "person"
+      },
+      {
+        "id": "19587",
+        "label": "吉本（吉本雅人）",
+        "info": "ともおの親友。ちょっぴりませた性格の、ともおのよきツッコミ役。勉強もスポーツもできる優等生。ともおとは仲良しだが、しょっちゅう喧嘩もする。「エロ本」と呼ばれる事も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/85/19587_crt_MMWNY.jpg",
+        "link": "https://bgm.tv/character/19587",
+        "categorie": "person"
+      },
+      {
+        "id": "19588",
+        "label": "由伸（吉田由伸）",
+        "info": "ともおの親友。おっとりした性格で、ともおの無茶に巻き込まれることもしばしば。友達思いの優しい少年。特技は大食い。食べかけのものでもポケットにいれてしまう癖がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/1f/19588_crt_jYq5M.jpg",
+        "link": "https://bgm.tv/character/19588",
+        "categorie": "person"
+      },
+      {
+        "id": "19589",
+        "label": "光雄（菊川光雄）",
+        "info": "メガネがトレードマークの優等生。読書と天体観測が好きで、何でもメモにとるマメな性格。隣のクラスの根津とは親友。多少ファンシー系の趣味がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/be/19589_crt_W5wiA.jpg",
+        "link": "https://bgm.tv/character/19589",
+        "categorie": "person"
+      },
+      {
+        "id": "19590",
+        "label": "踢子（镰仓景子）",
+        "info": "男勝りな女の子。足が丈夫で有名。蹴りが得意であだ名は「ケリ子」。基本的に男子をバカにしているが、実はともおとは気が合う。団地に住む女子高生、青戸さんが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/b6/19590_crt_Mk70f.jpg",
+        "link": "https://bgm.tv/character/19590",
+        "categorie": "person"
+      },
+      {
+        "id": "19591",
+        "label": "赖子（叶山赖子）",
+        "info": "やさしい性格の女の子。ケリ子と仲が良く、二人で遊ぶことが多い。絵が得意で、成績優秀なしっかりもの。コンビニの兄ちゃんこと今野に好意を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/29/19591_crt_i675L.jpg",
+        "link": "https://bgm.tv/character/19591",
+        "categorie": "person"
+      },
+      {
+        "id": "19592",
+        "label": "岛田先生",
+        "info": "29棟の住人。団地自治会委員であり生真面目な性格。いつも団地内で清掃や雑事をしていて、常に気難しそうな顔をしている。子供達からは怖がられ、団地の主婦達にも煙たがられている。本当は優しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/ea/19592_crt_A6Yl6.jpg",
+        "link": "https://bgm.tv/character/19592",
+        "categorie": "person"
+      },
+      {
+        "id": "19593",
+        "label": "樫野先生",
+        "info": "樫野年三・89歳。5棟の住人。毎朝4時30分に起床、5時に散歩を始め、神社のお参り、コンビニで朝食を買うなど、毎日同じリズムで生活している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/50/19593_crt_3404D.jpg",
+        "link": "https://bgm.tv/character/19593",
+        "categorie": "person"
+      },
+      {
+        "id": "19594",
+        "label": "青户秀美",
+        "info": "10棟に住む高校2年生。一生懸命勉強するが、成績は悪い。勉強の息抜きでヨーヨーをやっているうちに達人級にうまくなってしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/89/19594_crt_ro2By.jpg",
+        "link": "https://bgm.tv/character/19594",
+        "categorie": "person"
+      },
+      {
+        "id": "19595",
+        "label": "体育上校",
+        "info": "劇中に登場するともおたちの愛読マンガ雑誌『少年スピッツ』で連載中の人気ヒーロー漫画。TVアニメ化もされているらしい。人体改造をうけたサイボーグで、秘密組織から追われている。お供は、クマとカラス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/5d/19595_crt_MM066.jpg",
+        "link": "https://bgm.tv/character/19595",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

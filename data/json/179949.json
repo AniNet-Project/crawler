@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47658",
+        "label": "小林小姐",
+        "info": "本作の主人公。25歳。「地獄巡商事北千住事務所」のOLにしてシステムエンジニア。本人曰く「底辺」とのことだが、滝谷曰く会社の「柱」で、バレンタインデーには同僚からチョコを大量に貰っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/f2/47658_crt_8111x.jpg?r=1484250105",
+        "link": "https://bgm.tv/character/47658",
+        "categorie": "person"
+      },
+      {
+        "id": "47659",
+        "label": "托尔",
+        "info": "異世界のドラゴン（雌）で人間界ではメイドの女性の姿をしており、表向きは小林さんの親戚となっている。本来の姿はスタンダードなドラゴン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/17/47659_crt_FptD2.jpg?r=1484780174",
+        "link": "https://bgm.tv/character/47659",
+        "categorie": "person"
+      },
+      {
+        "id": "47695",
+        "label": "康娜卡姆依",
+        "info": "トールを追って現れたドラゴン娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d4/47695_crt_whaQK.jpg?r=1485438271",
+        "link": "https://bgm.tv/character/47695",
+        "categorie": "person"
+      },
+      {
+        "id": "47696",
+        "label": "艾露玛",
+        "info": "トールと犬猿の仲のドラゴン娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/55/47696_crt_A46QL.jpg?r=1490301337",
+        "link": "https://bgm.tv/character/47696",
+        "categorie": "person"
+      },
+      {
+        "id": "47697",
+        "label": "露科亚",
+        "info": "遥か昔からこちらの世界に住んでいるドラゴン娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/1a/47697_crt_1m6jt.jpg?r=1486005276",
+        "link": "https://bgm.tv/character/47697",
+        "categorie": "person"
+      },
+      {
+        "id": "49563",
+        "label": "法夫纳",
+        "info": "トールの友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/22/49563_crt_tpJev.jpg?r=1487896113",
+        "link": "https://bgm.tv/character/49563",
+        "categorie": "person"
+      },
+      {
+        "id": "49564",
+        "label": "泷谷真",
+        "info": "小林さんの会社の同期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/02/49564_crt_19K9d.jpg?r=1489099260",
+        "link": "https://bgm.tv/character/49564",
+        "categorie": "person"
+      },
+      {
+        "id": "49589",
+        "label": "才川莉子",
+        "info": "朧塚（おぼろづか）小学校に通う女の子で、カンナのクラスメイト。お嬢様育ちで、クラスで女王様気取りの高飛車な性格。転校してきたカンナにつっかかるものの、カンナの巧みな泣き真似に引っ掛かってすぐ謝るなど、根は優しい女の子。あっという間にカンナの可愛さに惚れてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/6d/49589_crt_0N04C.jpg?r=1486630801",
+        "link": "https://bgm.tv/character/49589",
+        "categorie": "person"
+      },
+      {
+        "id": "49590",
+        "label": "才川乔吉",
+        "info": "才川の姉で、本名は才川苗。普段はただの中学三年生の女の子だが、家ではジョージ―の名前でメイドをやっている。その知識と立ち居振る舞いは小林に同志と言わしめる程のレベル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4e/49590_crt_AeZr6.jpg?r=1487251114",
+        "link": "https://bgm.tv/character/49590",
+        "categorie": "person"
+      },
+      {
+        "id": "49591",
+        "label": "真土翔太",
+        "info": "カンナと同じ朧塚（おぼろづか）小学校に通う小学五年生の男の子。 魔法使いの家系に育ち、悪魔召喚の儀式で、悪魔の代わりにルコアが召喚されたことで同居することになる。ルコアの魅惑的な身体によるコミュニケーションにいつも困らされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/55/49591_crt_1W1Ne.jpg?r=1482561788",
+        "link": "https://bgm.tv/character/49591",
+        "categorie": "person"
+      },
+      {
+        "id": "50563",
+        "label": "笹木部",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/94/50563_crt_v59WE.jpg?r=1485399168",
+        "link": "https://bgm.tv/character/50563",
+        "categorie": "person"
+      },
+      {
+        "id": "50564",
+        "label": "曾根",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/10/50564_crt_JgJOh.jpg?r=1485399359",
+        "link": "https://bgm.tv/character/50564",
+        "categorie": "person"
+      },
+      {
+        "id": "51202",
+        "label": "所长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/48/51202_crt_KskQs.jpg?r=1486611921",
+        "link": "https://bgm.tv/character/51202",
+        "categorie": "person"
+      },
+      {
+        "id": "60409",
+        "label": "谷菜",
+        "info": "谷菜(やな)さんは、小林家の隣である403号室に住んでいる。笹木部家と同じく、小林さんちとは間取りが左右逆(だと思う)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/06/60409_crt_iUAlA.jpg",
+        "link": "https://bgm.tv/character/60409",
+        "categorie": "person"
+      },
+      {
+        "id": "60572",
+        "label": "盗贼少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/2f/60572_crt_sUUYD.jpg",
+        "link": "https://bgm.tv/character/60572",
+        "categorie": "person"
+      },
+      {
+        "id": "60573",
+        "label": "终焉帝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/e6/60573_crt_86wOQ.jpg",
+        "link": "https://bgm.tv/character/60573",
+        "categorie": "person"
+      },
+      {
+        "id": "50221",
+        "label": "户田先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/df/50221_crt_MCvVb.jpg?r=1484798708",
+        "link": "https://bgm.tv/character/50221",
+        "categorie": "person"
+      },
+      {
+        "id": "50291",
+        "label": "洋服屋のおばさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/c0/50291_crt_wZmTy.jpg?r=1484993603",
+        "link": "https://bgm.tv/character/50291",
+        "categorie": "person"
+      },
+      {
+        "id": "60574",
+        "label": "小林の母",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60574",
+        "categorie": "person"
+      },
+      {
+        "id": "60575",
+        "label": "才川の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/07/60575_crt_te1s9.jpg",
+        "link": "https://bgm.tv/character/60575",
+        "categorie": "person"
+      },
+      {
+        "id": "60576",
+        "label": "才川の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/e1/60576_crt_0qjNB.jpg",
+        "link": "https://bgm.tv/character/60576",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

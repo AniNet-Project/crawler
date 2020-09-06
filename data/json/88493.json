@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23103",
+        "label": "长谷祐树",
+        "info": "本作男主角，高中二年级。对受到班上孤立的香织感到好奇，试着成为香织的朋友。不擅长数学。喜欢藤宫香织，漫画中因为九条一直接称呼香织的名字而吃醋。后来因九条的转学造成香织的记忆错乱导致完全忘了暑假结束前的半年期间与自己相处的种种，祐树开始渐渐的逃避香织。但后来在听了九条的自白和香织的道歉之后完全不再迷茫也不再逃避，下定决心要找回香织的全部记忆，变回最原本也是真正的香织，打算与九条一起将香织所遗忘的所有过去与事实全部告诉香织。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/b3/23103_crt_sU5p5.jpg?r=1396926847",
+        "link": "https://bgm.tv/character/23103",
+        "categorie": "person"
+      },
+      {
+        "id": "23104",
+        "label": "藤宫香织",
+        "info": "本作女主角，高中二年级，与祐树同班。由于“亲近之人的记忆一周后就会消失”的原因，所以不敢结交朋友而逃避人群。擅长数学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/90/23104_crt_meZBn.jpg?r=1396926816",
+        "link": "https://bgm.tv/character/23104",
+        "categorie": "person"
+      },
+      {
+        "id": "23620",
+        "label": "山岸沙希",
+        "info": "健忘属性",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/dd/23620_crt_OTaRr.jpg?r=1396927005",
+        "link": "https://bgm.tv/character/23620",
+        "categorie": "person"
+      },
+      {
+        "id": "23621",
+        "label": "桐生将吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/3b/23621_crt_2UT2b.jpg?r=1396926920",
+        "link": "https://bgm.tv/character/23621",
+        "categorie": "person"
+      },
+      {
+        "id": "24295",
+        "label": "藤宫志穗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/04/24295_crt_0Um9i.jpg?r=1396926603",
+        "link": "https://bgm.tv/character/24295",
+        "categorie": "person"
+      },
+      {
+        "id": "24296",
+        "label": "井上润",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/35/24296_crt_857vv.jpg",
+        "link": "https://bgm.tv/character/24296",
+        "categorie": "person"
+      },
+      {
+        "id": "24429",
+        "label": "九条一",
+        "info": "祐樹たちのクラスの転入生",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/2f/24429_crt_0rz0M.jpg?r=1398694214",
+        "link": "https://bgm.tv/character/24429",
+        "categorie": "person"
+      },
+      {
+        "id": "43900",
+        "label": "芹泽舞子",
+        "info": "祐樹や香織のクラスメイトで、沙希の友人。ミーハーな性格で、沙希のことを甘やかす。祐樹と香織の関係を気にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/0d/43900_crt_Wi2Ps.jpg",
+        "link": "https://bgm.tv/character/43900",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

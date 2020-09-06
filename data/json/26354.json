@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6528",
+        "label": "可鲁贝洛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/bd/6528_crt_anidb.jpg?r=1426932643",
+        "link": "https://bgm.tv/character/6528",
+        "categorie": "person"
+      },
+      {
+        "id": "43278",
+        "label": "斯比内鲁·日",
+        "info": "柊泽所创制的兽形随从，与可鲁贝洛斯相对。作毛娃娃“伪装姿态”时被称作“斯比”（スッピー），是秋月奈久留取的。性格冷漠，不能吃甜点，因为吃甜点会醉，而且会像小可一样爱吃甜点，和小可见面时会吵架，并会被它强迫吃甜点。在“伪装姿态”时能完全隐藏自身的魔力而不被别人发现，原形是长有蝴蝶翅膀的黑豹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/29/43278_crt_G8QQC.jpg",
+        "link": "https://bgm.tv/character/43278",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

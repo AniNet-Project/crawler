@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12944",
+        "label": "小野寺律",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/ab/12944_crt_8ddY8.jpg?r=1489513145",
+        "link": "https://bgm.tv/character/12944",
+        "categorie": "person"
+      },
+      {
+        "id": "12945",
+        "label": "高野政宗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/e9/12945_crt_XhI99.jpg",
+        "link": "https://bgm.tv/character/12945",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

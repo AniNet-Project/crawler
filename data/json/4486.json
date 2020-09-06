@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12461",
+        "label": "伊达政宗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/00/12461_crt_MEke2.jpg",
+        "link": "https://bgm.tv/character/12461",
+        "categorie": "person"
+      },
+      {
+        "id": "12460",
+        "label": "长宗我部元亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/89/12460_crt_cAt2F.jpg",
+        "link": "https://bgm.tv/character/12460",
+        "categorie": "person"
+      },
+      {
+        "id": "12462",
+        "label": "片仓景纲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/1b/12462_crt_245To.jpg",
+        "link": "https://bgm.tv/character/12462",
+        "categorie": "person"
+      },
+      {
+        "id": "12463",
+        "label": "伊达成实",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/af/12463_crt_yk5E6.jpg",
+        "link": "https://bgm.tv/character/12463",
+        "categorie": "person"
+      },
+      {
+        "id": "74380",
+        "label": "上杉谦信",
+        "info": "上杉谦信（1530年2月18日－1578年4月19日）是一名活跃于日本战国时代的大名，后世誉为越后之虎、越后之龙、战国军神。越后守护代长尾为景幼子，幼名虎千代，元服名景虎。获关东管领上杉宪政收养、赐偏讳后，改名上杉政虎。后获室町幕府将军足利义辉偏讳，又称上杉辉虎。笃信佛教，法名谦信，号宗心，斋号不识庵。官位为“从五位下弹正少弼”，明治天皇追赠从二位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/60/74380_crt_Aa2t0.jpg",
+        "link": "https://bgm.tv/character/74380",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

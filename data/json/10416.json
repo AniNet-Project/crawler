@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8053",
+        "label": "蘭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/cc/8053_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8053",
+        "categorie": "person"
+      },
+      {
+        "id": "34892",
+        "label": "櫟士（いちせ）",
+        "info": "本作の主人公。元賭けボクサー。19歳。オルガノに対立して右腕と左足を切り落とされ、ドクにテクノライズを受けることになる。幼少時、父親が処刑され、後に母親とも死別して天涯孤独の身となる。訳あって父親を憎悪している。寡黙だが、生きることへの執着心が強い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a4/34892_crt_4iJbu.jpg?r=1439038597",
+        "link": "https://bgm.tv/character/34892",
+        "categorie": "person"
+      },
+      {
+        "id": "34888",
+        "label": "大西京呉",
+        "info": "流9洲を支配するオルガノの幹部。32歳。両足をテクノライズしている。現在、療養中の後藤に代わって、オルガノ長を務めている。「街の声」を聞き、流9洲での争いを防ごうとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/cd/34888_crt_NX0h7.jpg?r=1439037327",
+        "link": "https://bgm.tv/character/34888",
+        "categorie": "person"
+      },
+      {
+        "id": "34889",
+        "label": "木俣元治",
+        "info": "「救民連合」の指導者にしてカリスマ的存在。37歳。本人はテクノライズを受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/ae/34889_crt_55Z0T.jpg?r=1439186320",
+        "link": "https://bgm.tv/character/34889",
+        "categorie": "person"
+      },
+      {
+        "id": "34891",
+        "label": "ガベの長老",
+        "info": "ガベの指導者で、蘭の育ての親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/b9/34891_crt_trprU.jpg?r=1439037599",
+        "link": "https://bgm.tv/character/34891",
+        "categorie": "person"
+      },
+      {
+        "id": "8052",
+        "label": "吉井一穂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/c8/8052_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8052",
+        "categorie": "person"
+      },
+      {
+        "id": "34890",
+        "label": "シンジ",
+        "info": "ラカンのリーダー。22歳。指をテクノライズしている。気ままに生きる反面、自身の将来を危惧している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/ca/34890_crt_WW4hm.jpg?r=1439037415",
+        "link": "https://bgm.tv/character/34890",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

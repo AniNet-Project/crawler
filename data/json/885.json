@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11188",
+        "label": "谏山黄泉",
+        "info": "17岁，身高165cm，超灾害对策室所属成员之一。年幼时双亲被恶灵所杀害，谏山奈落收养了黄泉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/3a/11188_crt_APC9A.jpg",
+        "link": "https://bgm.tv/character/11188",
+        "categorie": "person"
+      },
+      {
+        "id": "3869",
+        "label": "土宫神乐",
+        "info": "本編のヒロイン、誕生日は3月22日。黒髪でスレンダーなスタイルの誰もが認める美少女。古来より霊的守護をしてきた帝家の裏で荒事を任され、宿主を内から喰らい尽くす喰霊をその身に宿し常に最凶の敵を相手にさせられてきた呪われた家系である土宮家の28代当主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/b3/3869_crt_MX3ol.jpg?r=1453049697",
+        "link": "https://bgm.tv/character/3869",
+        "categorie": "person"
+      },
+      {
+        "id": "56796",
+        "label": "饭纲纪之",
+        "info": "谏山黄泉的未婚夫，高三生，18岁。与谏山黄泉、土宫神乐都是环境省自然环境局超自然灾害对策室所属的代理。使用管狐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/94/56796_crt_6NUYy.jpg",
+        "link": "https://bgm.tv/character/56796",
+        "categorie": "person"
+      },
+      {
+        "id": "3870",
+        "label": "樱庭一骑",
+        "info": "饭纲纪之的死党，18岁，和土宫等人一样是超自然灾害对策室所属的代理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/55/3870_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3870",
+        "categorie": "person"
+      },
+      {
+        "id": "56797",
+        "label": "岩端晃司",
+        "info": "和諌山黄泉、土宫神乐一样，是超自然灾害对策室所属的代理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/cc/56797_crt_0tT4Z.jpg",
+        "link": "https://bgm.tv/character/56797",
+        "categorie": "person"
+      },
+      {
+        "id": "3871",
+        "label": "纳布兄弟",
+        "info": "和諌山黄泉、土宫神乐一样，是超自然灾害对策室所属的代理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/1c/3871_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3871",
+        "categorie": "person"
+      },
+      {
+        "id": "3872",
+        "label": "神宫寺菖蒲",
+        "info": "环境省自然环境局蔰自然灾害对策室室长。动画版首次登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/5b/3872_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3872",
+        "categorie": "person"
+      },
+      {
+        "id": "56798",
+        "label": "二阶堂桐",
+        "info": "环境省自然环境局蔰自然灾害对策室（通称“超灾对策室”）室长神宫寺菖蒲的秘书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/e6/56798_crt_Ep6RT.jpg",
+        "link": "https://bgm.tv/character/56798",
+        "categorie": "person"
+      },
+      {
+        "id": "3873",
+        "label": "谏山奈落",
+        "info": "谏山家当主。黄泉养父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/34/3873_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3873",
+        "categorie": "person"
+      },
+      {
+        "id": "56799",
+        "label": "谏山幽",
+        "info": "谏山家当主谏山奈落的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/9e/56799_crt_43TTd.jpg",
+        "link": "https://bgm.tv/character/56799",
+        "categorie": "person"
+      },
+      {
+        "id": "3874",
+        "label": "谏山冥",
+        "info": "谏山奈落的弟弟幽的女儿。年龄18岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/d8/3874_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3874",
+        "categorie": "person"
+      },
+      {
+        "id": "56802",
+        "label": "土宫雅乐",
+        "info": "土宫家27代目头首。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/29/56802_crt_M11lw.jpg",
+        "link": "https://bgm.tv/character/56802",
+        "categorie": "person"
+      },
+      {
+        "id": "3875",
+        "label": "麦克小原",
+        "info": "澳大利亚出身刀匠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c8/3875_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3875",
+        "categorie": "person"
+      },
+      {
+        "id": "56800",
+        "label": "柳濑千鹤",
+        "info": "与土宫神乐同一所初中的亲密朋友。是一个活泼、个性鲜明、非常友好的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/06/56800_crt_m8BI8.jpg",
+        "link": "https://bgm.tv/character/56800",
+        "categorie": "person"
+      },
+      {
+        "id": "3876",
+        "label": "真锅美红",
+        "info": "与土宫神乐同一所初中的亲密朋友。也是大家憧憬的对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/4a/3876_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3876",
+        "categorie": "person"
+      },
+      {
+        "id": "56801",
+        "label": "三途河和宏",
+        "info": "中学1年生。13岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/39/56801_crt_aZYe9.jpg",
+        "link": "https://bgm.tv/character/56801",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "56803",
+        "label": "观世彻",
+        "info": "第1話での主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/79/56803_crt_4Ak9M.jpg",
+        "link": "https://bgm.tv/character/56803",
+        "categorie": "person"
+      },
+      {
+        "id": "56804",
+        "label": "春日夏纪",
+        "info": "第1話でのヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/11/56804_crt_b9SS8.jpg",
+        "link": "https://bgm.tv/character/56804",
+        "categorie": "person"
+      },
+      {
+        "id": "48559",
+        "label": "进藤正树",
+        "info": "内部通称は特務55。25歳。身長173cm。体重60kg。生年月日は8月11日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/b5/48559_crt_KbHR6.jpg",
+        "link": "https://bgm.tv/character/48559",
+        "categorie": "person"
+      },
+      {
+        "id": "56805",
+        "label": "葛野久远",
+        "info": "特戦四課でもっとも若い番号を持つリーダー。内部通称は特務11。年齢35歳。身長193cm。体重98kg。生年月日は12月15日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/52/56805_crt_TBF2G.jpg",
+        "link": "https://bgm.tv/character/56805",
+        "categorie": "person"
+      },
+      {
+        "id": "56806",
+        "label": "和泉麻美",
+        "info": "特務四課のオペレーター。18歳。身長148cm。体重39kg。生年月日は9月9日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/14/56806_crt_pOs8o.jpg",
+        "link": "https://bgm.tv/character/56806",
+        "categorie": "person"
+      },
+      {
+        "id": "56807",
+        "label": "金春雾也",
+        "info": "特戦4課の司令官。39歳。身長175cm。体重59kg。生年月日は6月13日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/d5/56807_crt_uFvfN.jpg",
+        "link": "https://bgm.tv/character/56807",
+        "categorie": "person"
+      },
+      {
+        "id": "20222",
+        "label": "二村剑辅",
+        "info": "本篇主角，动画中在最后一集结尾露面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/ab/20222_crt_CfC72.jpg",
+        "link": "https://bgm.tv/character/20222",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

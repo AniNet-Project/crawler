@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75800",
+        "label": "潘妮·帕克",
+        "info": "日美混血儿，驾驶着蜘蛛机器人“SP//dr”的14岁女孩。潘妮·帕克并非受到变异病毒感染而成为超级英雄，而是继承了父亲留下的名为“SP//dr”的蜘蛛机甲，在本和梅姨两位科学家的帮助下与机甲进行同步，成为纽约的守护神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/b6/75800_crt_Bb66z.jpg",
+        "link": "https://bgm.tv/character/75800",
+        "categorie": "person"
+      },
+      {
+        "id": "23102",
+        "label": "蜘蛛侠",
+        "info": "With great power comes great responsibility.",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/23/23102_crt_u0drA.jpg",
+        "link": "https://bgm.tv/character/23102",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

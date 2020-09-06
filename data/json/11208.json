@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15998",
+        "label": "面包",
+        "info": "所谓面包，就是以黑麦、小麦等粮食作物为基本原料，先磨成粉，再加水、盐、酵母等和面并制成面团坯料，然后再以烘、烤、蒸或煎等方式加热制成的食品。面包有时候也含有其他成分，例如牛奶、鸡蛋、糖、香料、水果、果仁等等。面包是最古老的人造食物之一，在新石器时代已经出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/49/15998_crt_kK2F7.jpg",
+        "link": "https://bgm.tv/character/15998",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

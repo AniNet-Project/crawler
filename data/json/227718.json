@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60666",
+        "label": "JNK DOG",
+        "info": "没有名字，只拥有“JNK DOG”这个称号的男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/2d/60666_crt_l24Ta.jpg",
+        "link": "https://bgm.tv/character/60666",
+        "categorie": "person"
+      },
+      {
+        "id": "60802",
+        "label": "南部赝作",
+        "info": "通过在非认可地区的赌博MEGALO拳击比赛造假获取利益，以还清每日的贷款。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/c2/60802_crt_kz6LK.jpg",
+        "link": "https://bgm.tv/character/60802",
+        "categorie": "person"
+      },
+      {
+        "id": "62431",
+        "label": "勇利",
+        "info": "通称“King of Kings”。MEGALOBOX的绝对王者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/ce/62431_crt_Jj9j5.jpg",
+        "link": "https://bgm.tv/character/62431",
+        "categorie": "person"
+      },
+      {
+        "id": "60801",
+        "label": "白都有希子",
+        "info": "白都企业的继任者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/65/60801_crt_229rB.jpg",
+        "link": "https://bgm.tv/character/60801",
+        "categorie": "person"
+      },
+      {
+        "id": "60803",
+        "label": "幸夫",
+        "info": "在非认可地区与其他少年一起生活着的流浪儿童。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/ad/60803_crt_PECli.jpg",
+        "link": "https://bgm.tv/character/60803",
+        "categorie": "person"
+      },
+      {
+        "id": "60804",
+        "label": "藤卷",
+        "info": "掌管着地下赌博MEGALO拳击的男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/f6/60804_crt_XxHXF.jpg",
+        "link": "https://bgm.tv/character/60804",
+        "categorie": "person"
+      },
+      {
+        "id": "63061",
+        "label": "荒垣",
+        "info": "排名第17位的MEGALO拳击手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/aa/63061_crt_F3Eyo.jpg",
+        "link": "https://bgm.tv/character/63061",
+        "categorie": "person"
+      },
+      {
+        "id": "63062",
+        "label": "宫城",
+        "info": "荒垣的教练。同时也是“退役军人会”的成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/de/63062_crt_MiIH3.jpg",
+        "link": "https://bgm.tv/character/63062",
+        "categorie": "person"
+      },
+      {
+        "id": "63063",
+        "label": "白都树生",
+        "info": "维持在靠前排名的MEGALONIA第一出场候选人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/30/63063_crt_12RtZ.jpg",
+        "link": "https://bgm.tv/character/63063",
+        "categorie": "person"
+      },
+      {
+        "id": "65320",
+        "label": "桑塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f5/65320_crt_c0v15.jpg",
+        "link": "https://bgm.tv/character/65320",
+        "categorie": "person"
+      },
+      {
+        "id": "65321",
+        "label": "オイチョ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c6/65321_crt_377Qm.jpg",
+        "link": "https://bgm.tv/character/65321",
+        "categorie": "person"
+      },
+      {
+        "id": "65322",
+        "label": "彭吉利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/24/65322_crt_7CwjA.jpg",
+        "link": "https://bgm.tv/character/65322",
+        "categorie": "person"
+      },
+      {
+        "id": "65561",
+        "label": "ペペ・イグレシアス",
+        "info": "ランキング2位。「スパイダー」の異名を持つ変幻自在のスタイルを持つメガロボクサー。勇利のライバルであり優勝候補の一角で、早期にメガロニア出場を決定している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/4c/65561_crt_L0enB.jpg",
+        "link": "https://bgm.tv/character/65561",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

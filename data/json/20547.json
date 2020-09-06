@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10735",
+        "label": "小鸟游宗太",
+        "info": "喜欢漂亮的东西，性格会照顾人，是位会认真对待对方的孩子。 看起来好像一板一眼的，但实际上本人有一些心理障碍的様子。 是在四个姊妹中长大的，因此特别喜欢小的东西。 擅长学习，喜欢的食物是日本料理。 口头禅是「喂山田！给我去工作！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/a2/10735_crt_M0CY1.jpg",
+        "link": "https://bgm.tv/character/10735",
+        "categorie": "person"
+      },
+      {
+        "id": "10736",
+        "label": "佐藤润",
+        "info": "看起来既不爱说话又不喜欢管事，但实际上又不并不是这么回事，别人遇上难题会主动帮忙，个性意外地温柔。 基本上会好好听别人所讲的话，至于为什么要用刘海把半张脸退住，他却顽固的不肯说出口。 纯情的程度是只要一见钟情就管单方面想着对方，对于甜食相当不擅长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/9b/10736_crt_Zpahy.jpg?r=1581314283",
+        "link": "https://bgm.tv/character/10736",
+        "categorie": "person"
+      },
+      {
+        "id": "10737",
+        "label": "相马博臣",
+        "info": "在笑容底下完全不清楚他到底在想些什么，一切秘密都藏在短发之内。 为了理解其他人的想法会采取非常烦人的手段，但实际上是容易会感到寂寞的人。非常爱吃甜食，就算照三餐吃也完全不会困扰。 基本上没有多少体力，被殴打时没有反抗能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/9a/10737_crt_6TUmU.jpg",
+        "link": "https://bgm.tv/character/10737",
+        "categorie": "person"
+      },
+      {
+        "id": "11395",
+        "label": "种岛白杨",
+        "info": "虽然很娇小，但有大姊姊的特性。个性非常开朗的女孩子也一直为人努力，只要周围有她在就会变得欢乐起来。 为了长高每天都会喝鲜乳，但却一点效果也没有。 不喜欢吃青椒。 别看这样她很擅长数学。 口头禅是「一点都不小！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/68/11395_crt_D2R7c.jpg?r=1444716110",
+        "link": "https://bgm.tv/character/11395",
+        "categorie": "person"
+      },
+      {
+        "id": "13769",
+        "label": "伊波真昼",
+        "info": "有男性恐惧症的体质，长相虽然非常可爱但随时会往男性腹部殴上毁灭拳，但内心是可爱的少女。 对于自身力量过强，胸部太小以及胸部非常小这件事稿感到自卑。 在女子高中也有牵连，由于老师是男性，所以从对数学以及古文感到棘手。 跟种岛是牛奶爱好者之一。 最近对高丽菜也有些兴趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/a7/13769_crt_QyA19.jpg?r=1436704312",
+        "link": "https://bgm.tv/character/13769",
+        "categorie": "person"
+      },
+      {
+        "id": "13770",
+        "label": "轰八千代",
+        "info": "作为大和抚子身段要软，平时一直都表现出沉着的微笑。 虽然不擅长运动及学习但在重要的人面前烹调技术非常厉害。 得意的料理为圣代。 至于为什么会带刀本人，却一点都不在意。 虽然在重要的人面前是曾尽一切所能的类型，但时常会看不清楚周遭是个缺点。 未来的梦想是成为「漂亮的新娘」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/f4/13770_crt_82Jjj.jpg?r=1436704126",
+        "link": "https://bgm.tv/character/13770",
+        "categorie": "person"
+      },
+      {
+        "id": "13771",
+        "label": "白藤杏子",
+        "info": "瓦古娜利亚店长。28岁。于漫画第一话登场。原本是不良少女，连客人都不放过，似乎有很多只要打电话指挥便什么事都会做的便利小弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/88/13771_crt_w4Xz4.jpg?r=1460587747",
+        "link": "https://bgm.tv/character/13771",
+        "categorie": "person"
+      },
+      {
+        "id": "13773",
+        "label": "山田葵",
+        "info": "音尾兵吾捡回来的少女。姓名，年龄，经历皆不明，被小鸟游宗太怀疑是离家出走。携带变装道具、窃听器等道具。因为使用假名，刚来到瓦古娜利亚时被称呼为山田时经常没有回应，但经过想像训练后稍为能够回答。由于葵为本名，希望别人以此称呼，不过除了种岛和轰以外的人都称呼她为山田。后来靠着自我催眠，连第一人称都从“我”变成了“山田”。住在瓦古娜利亚阁楼中，经常借走店里的东西，但被音尾兵吾严厉要求不得擅自吃掉店内食物。不太会工作，打破相当多的餐具，当初破损报告书上都被山田的名字淹没。实在是打破太多了而企图将打破的餐具藏起来隐瞒。和白藤杏子长相相似，使八千代相当中意，却被佐藤润讨厌。对严格的小鸟游宗太也感到棘手。大部分隐藏的事情都会被相马博臣暴露出来而挨骂。会对年长者撒娇，每当当日排班没有年长者可以撒娇的时候就会感到恐慌。外表看起来拥有神秘气质，但不擅长隐瞒，表情也会明显的表现在脸上。虽然比种岛高，但身高相当矮小。喜欢纳豆，曾在店内的冰箱里摆满纳豆。认为音尾兵吾是理想的父亲形象小葵而猛烈亲近，甚至想成为养女。此外，也有在工作中与音尾亲近，似乎有恋父情结。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/4e/13773_crt_nw72d.jpg?r=1436704180",
+        "link": "https://bgm.tv/character/13773",
+        "categorie": "person"
+      },
+      {
+        "id": "13772",
+        "label": "音尾兵吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/c8/13772_crt_I3ttF.jpg?r=1577418510",
+        "link": "https://bgm.tv/character/13772",
+        "categorie": "person"
+      },
+      {
+        "id": "13774",
+        "label": "松本麻耶",
+        "info": "负责瓦古娜利亚外场。18岁。于漫画第4话登场。为本作的隐藏人物之一。在本篇第四话时以背影方式登场。在作者网站的企划与人气投票时被问到“那家伙是谁”，后来在2007年10月号时的商务旅行时以主角的方式登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/06/13774_crt_BA4IJ.jpg?r=1460587996",
+        "link": "https://bgm.tv/character/13774",
+        "categorie": "person"
+      },
+      {
+        "id": "13775",
+        "label": "小鸟游一枝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/af/13775_crt_ZWZrQ.jpg",
+        "link": "https://bgm.tv/character/13775",
+        "categorie": "person"
+      },
+      {
+        "id": "13776",
+        "label": "小鸟游泉",
+        "info": "小鸟游家次女。28岁。身材高大，但因不常站立而看不出来。恋爱小说家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/41/13776_crt_TlZKg.jpg",
+        "link": "https://bgm.tv/character/13776",
+        "categorie": "person"
+      },
+      {
+        "id": "13777",
+        "label": "小鸟游梢",
+        "info": "小鸟游家三女。25岁，身高仅次于一枝。合气道讲师，于第20话登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/73/13777_crt_u1GG0.jpg?r=1460587893",
+        "link": "https://bgm.tv/character/13777",
+        "categorie": "person"
+      },
+      {
+        "id": "13778",
+        "label": "小鸟游荠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/c1/13778_crt_TnUYP.jpg",
+        "link": "https://bgm.tv/character/13778",
+        "categorie": "person"
+      },
+      {
+        "id": "13781",
+        "label": "真柴阳平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/38/13781_crt_FGF99.jpg",
+        "link": "https://bgm.tv/character/13781",
+        "categorie": "person"
+      },
+      {
+        "id": "13782",
+        "label": "真柴美月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/8f/13782_crt_ACM81.jpg",
+        "link": "https://bgm.tv/character/13782",
+        "categorie": "person"
+      },
+      {
+        "id": "32936",
+        "label": "山田桐生",
+        "info": "山田葵的亲哥哥，和妹妹的长相性格都很相似，同样以“山田”为假名，最初被称作山田时没有反应。漫画第6卷第111话初次登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/bb/32936_crt_44l4w.jpg?r=1460588435",
+        "link": "https://bgm.tv/character/32936",
+        "categorie": "person"
+      },
+      {
+        "id": "32937",
+        "label": "北原律子",
+        "info": "まひるの同級生で友人。初登場は「111品め」（第6巻）。黒髪ポニーテールで背が高くそこそこアル方が律子（りっちゃん）、金髪のゆるいパーマで背が低く、けっこうアル方が桃香（ももか）。番外編青春でいず1（コミックス第10巻収録）で本名が公開された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/df/32937_crt_Tc2c2.jpg",
+        "link": "https://bgm.tv/character/32937",
+        "categorie": "person"
+      },
+      {
+        "id": "32938",
+        "label": "鈴谷桃香",
+        "info": "まひるの同級生で友人。初登場は「111品め」（第6巻）。黒髪ポニーテールで背が高くそこそこアル方が律子（りっちゃん）、金髪のゆるいパーマで背が低く、けっこうアル方が桃香（ももか）。番外編青春でいず1（コミックス第10巻収録）で本名が公開された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/07/32938_crt_0mcbV.jpg",
+        "link": "https://bgm.tv/character/32938",
+        "categorie": "person"
+      },
+      {
+        "id": "32939",
+        "label": "音尾春菜",
+        "info": "原姓森田，音尾兵吾的太太。漫画第5卷第92话初登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/f6/32939_crt_FFRVG.jpg?r=1460588149",
+        "link": "https://bgm.tv/character/32939",
+        "categorie": "person"
+      },
+      {
+        "id": "33899",
+        "label": "女孩",
+        "info": "二期CV：高下三佳",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/cb/33899_crt_cZzPv.jpg",
+        "link": "https://bgm.tv/character/33899",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

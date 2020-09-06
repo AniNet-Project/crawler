@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13353",
+        "label": "比良坂龙二",
+        "info": "圣尤利安娜医院医生，年轻时驾驶过Z高达参加过格利普斯战争，从医院离职后加入不明的极端组织参与了对伦敦的某次恐怖袭击。自参加工作以来，连续六年被镇府评为“先进工作者”，并于1999年获“第五届十佳青年”提名奖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/b6/13353_crt_0RMmp.jpg",
+        "link": "https://bgm.tv/character/13353",
+        "categorie": "person"
+      },
+      {
+        "id": "21410",
+        "label": "七濑恋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/74/21410_crt_zx4Qh.jpg?r=1379494202",
+        "link": "https://bgm.tv/character/21410",
+        "categorie": "person"
+      },
+      {
+        "id": "35126",
+        "label": "新城礼美",
+        "info": "圣尤利安娜医院妇产科的护士主任。医疗疏失被比良坂所知遭到胁迫。起初强烈反抗比良坂暴行，后来渐渐喜欢上比良坂的“实验”而深陷其中无法自拔，情愿被虐待都不报警。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d6/35126_crt_SkALK.jpg",
+        "link": "https://bgm.tv/character/35126",
+        "categorie": "person"
+      },
+      {
+        "id": "35127",
+        "label": "藤泽亚子",
+        "info": "圣尤利安娜医院药局的护士，亦是藤泽制药的千金。遭到比良坂设计私藏敌方制药厂的样本受到胁迫。由于家庭中被过分溺爱而接触社会过少，不会识别坏人，被比良坂一直利用来做“实验”，是个不折不扣的傻瓜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/6b/35127_crt_4T1Ik.jpg",
+        "link": "https://bgm.tv/character/35127",
+        "categorie": "person"
+      },
+      {
+        "id": "35128",
+        "label": "儿玉光",
+        "info": "圣尤利安娜医院小儿科的护士。被比良坂知道她跟她住院的妹妹儿玉爱不是亲生姊妹而受到胁迫。她是一个被比良坂做“实验”后洗脑最成功的角色，不单止喜欢上“实验”，而且还协助比良坂对其他人做“实验”，最后被抓后在警察局里面还大骂七瀬恋是叛徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c9/35128_crt_BdBpy.jpg",
+        "link": "https://bgm.tv/character/35128",
+        "categorie": "person"
+      },
+      {
+        "id": "35129",
+        "label": "神宫寺成美",
+        "info": "圣尤利安娜医院妇产科的局长，亦是比良坂的大学同学。曾与比良坂相爱，怀孕后被比良坂要求堕胎后抛弃而怀恨在心。从第一次被比良坂“实验”后喜欢上这种“实验”，真心喜欢比良坂，可惜比良坂由始自终都是当成是实验品，相遇七瀬恋后，感觉自己的遭遇重新发生在七瀬恋身上而感到不安，决定杀死比良坂，防止自己的遭遇再一次重演。可惜最后比良坂没死反而自己自杀死了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/7e/35129_crt_h1erM.jpg",
+        "link": "https://bgm.tv/character/35129",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15180",
+        "label": "路西斯·慕德斯特",
+        "info": "アテネで最新の建築技術を習得しており、浴場を専門とするローマの建築技師。質実剛健・謹厳実直な、根っからの仕事人間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/65/15180_crt_z1vFm.jpg",
+        "link": "https://bgm.tv/character/15180",
+        "categorie": "person"
+      },
+      {
+        "id": "15181",
+        "label": "马克斯",
+        "info": "ローマに住む石工で彫刻家で独身。老齢の師匠と共に暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/95/15181_crt_LyCL4.jpg",
+        "link": "https://bgm.tv/character/15181",
+        "categorie": "person"
+      },
+      {
+        "id": "15182",
+        "label": "哈德良",
+        "info": "ローマ皇帝。軍事よりも内政や哲学にその才を発揮する優れた皇帝であり、斬新な建造物を一人で設計する優れた建築家でもある。だが、すでに50代半ばを過ぎており、体力の衰えを感じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/36/15182_crt_EM22n.jpg",
+        "link": "https://bgm.tv/character/15182",
+        "categorie": "person"
+      },
+      {
+        "id": "15183",
+        "label": "设计事务所所长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/cc/15183_crt_y4254.jpg",
+        "link": "https://bgm.tv/character/15183",
+        "categorie": "person"
+      },
+      {
+        "id": "15184",
+        "label": "浴池中的老爹",
+        "info": "路西斯穿越到日本时经常遇到的大叔",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7f/15184_crt_fe404.jpg",
+        "link": "https://bgm.tv/character/15184",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51210",
+        "label": "安昙小太郎",
+        "info": "本が好きで、小説家になれたら、と思い始めている。文芸部部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a3/51210_crt_0T38c.jpg?r=1492931423",
+        "link": "https://bgm.tv/character/51210",
+        "categorie": "person"
+      },
+      {
+        "id": "51211",
+        "label": "水野茜",
+        "info": "子どもの頃から走るのが好きで、中学から陸上部に所属。短距離走専門。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/99/51211_crt_265oI.jpg?r=1492931449",
+        "link": "https://bgm.tv/character/51211",
+        "categorie": "person"
+      },
+      {
+        "id": "51212",
+        "label": "比良拓海",
+        "info": "陸上部部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/04/51212_crt_f04qB.jpg?r=1492931568",
+        "link": "https://bgm.tv/character/51212",
+        "categorie": "person"
+      },
+      {
+        "id": "51213",
+        "label": "西尾千夏",
+        "info": "陸上部所属。短距離走専門。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/cf/51213_crt_wDMeJ.jpg?r=1492931598",
+        "link": "https://bgm.tv/character/51213",
+        "categorie": "person"
+      },
+      {
+        "id": "52394",
+        "label": "泷泽葵",
+        "info": "3年3組。陸上部。走り幅跳び。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/4b/52394_crt_8TZPH.jpg?r=1492931635",
+        "link": "https://bgm.tv/character/52394",
+        "categorie": "person"
+      },
+      {
+        "id": "52396",
+        "label": "山科浪漫",
+        "info": "3年1組。帰宅部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/98/52396_crt_ZO663.jpg?r=1492931650",
+        "link": "https://bgm.tv/character/52396",
+        "categorie": "person"
+      },
+      {
+        "id": "52397",
+        "label": "小笠原大地",
+        "info": "3年1組。柔道部部長。学業優秀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a6/52397_crt_TeZfQ.jpg?r=1492931662",
+        "link": "https://bgm.tv/character/52397",
+        "categorie": "person"
+      },
+      {
+        "id": "52398",
+        "label": "宫本心咲",
+        "info": "3年1組。テニス部（幽霊部員）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/b1/52398_crt_Rqr4Z.jpg?r=1492931695",
+        "link": "https://bgm.tv/character/52398",
+        "categorie": "person"
+      },
+      {
+        "id": "52399",
+        "label": "佐藤节子",
+        "info": "3年1組。吹奏楽部（幽霊部員）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/97/52399_crt_ddg85.jpg?r=1492931717",
+        "link": "https://bgm.tv/character/52399",
+        "categorie": "person"
+      },
+      {
+        "id": "52400",
+        "label": "今津美羽",
+        "info": "3年1組。吹奏楽部（幽霊部員）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/b2/52400_crt_c02Jy.jpg?r=1493035433",
+        "link": "https://bgm.tv/character/52400",
+        "categorie": "person"
+      },
+      {
+        "id": "52401",
+        "label": "田中さくら",
+        "info": "3年1組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/4d/52401_crt_5u8Oq.jpg?r=1493035448",
+        "link": "https://bgm.tv/character/52401",
+        "categorie": "person"
+      },
+      {
+        "id": "52402",
+        "label": "永原翔",
+        "info": "3年1組。サッカー部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ff/52402_crt_rrHkl.jpg?r=1493035465",
+        "link": "https://bgm.tv/character/52402",
+        "categorie": "person"
+      },
+      {
+        "id": "52403",
+        "label": "稻叶保仁",
+        "info": "3年1組。サッカー部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/7b/52403_crt_C6pVS.jpg?r=1493035513",
+        "link": "https://bgm.tv/character/52403",
+        "categorie": "person"
+      },
+      {
+        "id": "52404",
+        "label": "金子翼",
+        "info": "3年1組。野球部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/87/52404_crt_jY60x.jpg?r=1493035558",
+        "link": "https://bgm.tv/character/52404",
+        "categorie": "person"
+      },
+      {
+        "id": "52405",
+        "label": "园田凉子",
+        "info": "3年1組担任。音楽教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/4c/52405_crt_jVAFe.jpg?r=1493035570",
+        "link": "https://bgm.tv/character/52405",
+        "categorie": "person"
+      },
+      {
+        "id": "52406",
+        "label": "立花大辅",
+        "info": "小太郎が子供の頃からお囃子でお世話になっている、近所のお兄さん。大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/ad/52406_crt_c5gTb.jpg?r=1493035579",
+        "link": "https://bgm.tv/character/52406",
+        "categorie": "person"
+      },
+      {
+        "id": "52407",
+        "label": "安昙龙之介",
+        "info": "小太郎の父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/26/52407_crt_t3tCf.jpg?r=1493035589",
+        "link": "https://bgm.tv/character/52407",
+        "categorie": "person"
+      },
+      {
+        "id": "52408",
+        "label": "安昙淳子",
+        "info": "小太郎の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/91/52408_crt_t7OfG.jpg?r=1493035543",
+        "link": "https://bgm.tv/character/52408",
+        "categorie": "person"
+      },
+      {
+        "id": "52409",
+        "label": "水野洋",
+        "info": "茜の父。食品メーカー勤務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/69/52409_crt_St2S2.jpg?r=1493035529",
+        "link": "https://bgm.tv/character/52409",
+        "categorie": "person"
+      },
+      {
+        "id": "52410",
+        "label": "水野沙织",
+        "info": "茜の母。専業主婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/4f/52410_crt_5gte8.jpg?r=1493035497",
+        "link": "https://bgm.tv/character/52410",
+        "categorie": "person"
+      },
+      {
+        "id": "52411",
+        "label": "水野彩音",
+        "info": "茜の姉。都内私立女子高校2年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/8b/52411_crt_RoX1R.jpg?r=1493035486",
+        "link": "https://bgm.tv/character/52411",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

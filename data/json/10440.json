@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11853",
+        "label": "本间芽衣子",
+        "info": "天真烂漫的吉祥物少女。原“超和平Busters”队员，由于某事故身亡，目前为“幽灵实体化”状态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/35/11853_crt_J58bD.jpg?r=1568795882",
+        "link": "https://bgm.tv/character/11853",
+        "categorie": "person"
+      },
+      {
+        "id": "11854",
+        "label": "宿海仁太",
+        "info": "原“超和平Busters”队长，由于某些事情而沉沦为宅，学业也荒废了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/f4/11854_crt_D7G4I.jpg?r=1545923111",
+        "link": "https://bgm.tv/character/11854",
+        "categorie": "person"
+      },
+      {
+        "id": "11855",
+        "label": "安城鸣子",
+        "info": "看上去很时髦的女高中生。原“超和平Busters”队员，与仁太同班（似乎暗恋仁太）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/ab/11855_crt_dYh97.jpg?r=1545922113",
+        "link": "https://bgm.tv/character/11855",
+        "categorie": "person"
+      },
+      {
+        "id": "12737",
+        "label": "松雪集",
+        "info": "原“超和平Busters”队员，似乎暗恋间芽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/20/12737_crt_hKzLc.jpg?r=1545922787",
+        "link": "https://bgm.tv/character/12737",
+        "categorie": "person"
+      },
+      {
+        "id": "12738",
+        "label": "鹤见知利子",
+        "info": "原“超和平Busters”队员，优等生，升入重点高中后与三流学校的仁太和鸣子很少往来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/71/12738_crt_nZ212.jpg?r=1545922924",
+        "link": "https://bgm.tv/character/12738",
+        "categorie": "person"
+      },
+      {
+        "id": "12739",
+        "label": "久川铁道",
+        "info": "原“超和平Busters”队员，目前的爱好是环球旅行，在日本的时候住在Busters的“秘密基地”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/ad/12739_crt_cG78Y.jpg?r=1545922619",
+        "link": "https://bgm.tv/character/12739",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

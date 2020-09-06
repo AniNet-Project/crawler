@@ -1,0 +1,333 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41866",
+        "label": "阿维利奥",
+        "info": "本名：安杰洛·拉古萨，为了复仇而如同蜡烛般燃烧着自己的青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/fc/41866_crt_1n8Bs.jpg?r=1463649961",
+        "link": "https://bgm.tv/character/41866",
+        "categorie": "person"
+      },
+      {
+        "id": "41867",
+        "label": "尼禄",
+        "info": "瓦内蒂家族的首领·文森特的儿子。性格明朗阳光，比起什么都要看重家族。重情重义，对反叛者丝毫不留情。阿维利奥的复仇对象的其中一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/48/41867_crt_6f6r7.jpg?r=1463649997",
+        "link": "https://bgm.tv/character/41867",
+        "categorie": "person"
+      },
+      {
+        "id": "41868",
+        "label": "万诺",
+        "info": "尼禄的部下兼挚友。非常看重伙伴但容易为此而干劲热得过头。为了同伴的话，并不介意去争斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/0a/41868_crt_HXNg3.jpg?r=1463650033",
+        "link": "https://bgm.tv/character/41868",
+        "categorie": "person"
+      },
+      {
+        "id": "41869",
+        "label": "科尔泰奥",
+        "info": "阿维利奥(安杰洛)的发小、挚友。在贫穷的家庭中长大，现以密制酒的制造赖以生计。基本上是弱气柔和的性格，十分厌恶黑手党。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/b5/41869_crt_1XWyu.jpg?r=1463650075",
+        "link": "https://bgm.tv/character/41869",
+        "categorie": "person"
+      },
+      {
+        "id": "41870",
+        "label": "凡戈",
+        "info": "与瓦内蒂家族对立的奥尔科家族的干部。性格乖僻荒诞，带着疯狂的气息。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/94/41870_crt_qEJUu.jpg?r=1463650107",
+        "link": "https://bgm.tv/character/41870",
+        "categorie": "person"
+      },
+      {
+        "id": "41871",
+        "label": "弗拉特",
+        "info": "尼禄的弟弟。认为顺从加拉西亚家族能够保证到瓦内蒂家族的安泰，也欢迎着成为了自己的姐夫的罗纳德的加入。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/a3/41871_crt_8UyJJ.jpg?r=1463650159",
+        "link": "https://bgm.tv/character/41871",
+        "categorie": "person"
+      },
+      {
+        "id": "41872",
+        "label": "罗纳德",
+        "info": "掌握着芝加哥的加拉西亚家族的首领的侄子。与尼禄的妹妹·菲奥结了婚，成为了瓦内蒂家族的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/f4/41872_crt_5655h.jpg?r=1463650192",
+        "link": "https://bgm.tv/character/41872",
+        "categorie": "person"
+      },
+      {
+        "id": "41873",
+        "label": "巴尔贝罗",
+        "info": "尼禄的部下，参谋。抑制着容易变得情绪化的尼禄与万诺，常时冷静地做下判断。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/fe/41873_crt_xxlER.jpg?r=1463650245",
+        "link": "https://bgm.tv/character/41873",
+        "categorie": "person"
+      },
+      {
+        "id": "41874",
+        "label": "文森特",
+        "info": "瓦内蒂家族中有着压倒性的存在感的首领，尼禄、菲奥与弗拉特的父亲。阿维利奥的复仇对象的其中一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/05/41874_crt_S1zqR.jpg?r=1463650280",
+        "link": "https://bgm.tv/character/41874",
+        "categorie": "person"
+      },
+      {
+        "id": "43228",
+        "label": "切洛特",
+        "info": "科尔泰奥的友人",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/ef/43228_crt_WaWMO.jpg?r=1468079284",
+        "link": "https://bgm.tv/character/43228",
+        "categorie": "person"
+      },
+      {
+        "id": "43431",
+        "label": "提格雷",
+        "info": "尼禄的部下",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/1b/43431_crt_826Q8.jpg?r=1468696899",
+        "link": "https://bgm.tv/character/43431",
+        "categorie": "person"
+      },
+      {
+        "id": "43432",
+        "label": "塞尔彭特",
+        "info": "奥尔科家族成员，凡戈的部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/a3/43432_crt_2O5nz.jpg",
+        "link": "https://bgm.tv/character/43432",
+        "categorie": "person"
+      },
+      {
+        "id": "43433",
+        "label": "菲奥",
+        "info": "瓦内蒂家族首领文森特之女，尼禄的妹妹。嫁给了加拉西亚家族的首领的侄子·罗纳德。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/4f/43433_crt_2i777.jpg?r=1468697614",
+        "link": "https://bgm.tv/character/43433",
+        "categorie": "person"
+      },
+      {
+        "id": "43921",
+        "label": "ヴォルペ",
+        "info": "ヴァネッティファミリーの一員。ネロに忠誠を誓い、 命を捨てることも厭わない熱き男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f5/43921_crt_9C8Ei.jpg",
+        "link": "https://bgm.tv/character/43921",
+        "categorie": "person"
+      },
+      {
+        "id": "45500",
+        "label": "奥尔科",
+        "info": "オルコ・ファミリーのドン。ラザニアの味にうるさく、不出来なラザニアを作ったシェフは容赦なく制裁する。ヴィンセントとは40年来の顔なじみであり、ガラッシアの意向もあり、ヴァネッティ・ファミリーとトラブルを起こすことを望んでいない。しかし、ネロの密造酒の利権が手に入りそうだとなるや、ヴァネッティ・ファミリーをつぶし、ガラッシアからも独立したいという本心を露わにした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/28/45500_crt_ho3m3.jpg?r=1472747306",
+        "link": "https://bgm.tv/character/45500",
+        "categorie": "person"
+      },
+      {
+        "id": "45501",
+        "label": "斯库泽",
+        "info": "連邦捜査官。オルコ・ファミリーに買収されており、セルペンテの遺体をチェロットから購入し、ヴァネッティ・ファミリーに取引を要求する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/1c/45501_crt_4PjqN.jpg?r=1472747495",
+        "link": "https://bgm.tv/character/45501",
+        "categorie": "person"
+      },
+      {
+        "id": "45502",
+        "label": "甘造",
+        "info": "年長の幹部で、ネロから「叔父貴」と呼ばれる。ネロとフラテの対立を収拾すべく、ネロを説得するが、効果はなく、ロナルドに嘲笑された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/1f/45502_crt_BpqD7.jpg?r=1472747761",
+        "link": "https://bgm.tv/character/45502",
+        "categorie": "person"
+      },
+      {
+        "id": "45717",
+        "label": "女服务生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/9a/45717_crt_r4Z37.jpg",
+        "link": "https://bgm.tv/character/45717",
+        "categorie": "person"
+      },
+      {
+        "id": "46417",
+        "label": "デルトロ",
+        "info": "ガンゾ同様古参の幹部でヴィンセントの側近。一言も喋らない人物で、ネロ曰く大戦時代、ヴィンセントと共にヨーロッパで戦った時に喉に銃弾を受け負傷したことが原因である。また長く刑務所にいて、ヴィンセントらがアヴィリオの家を襲撃した際には服役していたという。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/cc/46417_crt_SpoJ1.jpg?r=1474172138",
+        "link": "https://bgm.tv/character/46417",
+        "categorie": "person"
+      },
+      {
+        "id": "46846",
+        "label": "加拉西亚",
+        "info": "シカゴを牛耳るビッグ・ファミリーであるガラッシア・ファミリーのドン。一見、温厚な紳士でヴィンセントやネロにも友好的に振る舞うが、ヴァネッティ・ファミリーに見切りをつけている。ローレス・ヘブンを持参してきたアヴィリオを気に入り、引き抜こうとしていた。オペラ劇場のこけら落としの日にアヴィリオに射殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/c7/46846_crt_117fE.jpg",
+        "link": "https://bgm.tv/character/46846",
+        "categorie": "person"
+      },
+      {
+        "id": "46847",
+        "label": "斯特雷加",
+        "info": "ガラッシアの甥で、ロナルドのいとこ。ロナルドの葬儀にはガラッシア・ファミリーを代表して参加した。オペラ劇場のこけら落としに参加するためローレスにやってきたガラッシアに随行する。ヴァネッティ・ファミリーに直接手を下そうとしないガラッシアを内心で「甘い」と考えており、ガンゾを抱き込み、ヴィンセントとネロを始末することでヴァネッティ・ファミリーを完全に傘下に置こうと画策した。アヴィリオがガラッシアを殺害するや報復としてガンゾを射殺する。さらに「悪くない展開」とつぶやき、部下に対してヴァネッティ・ファミリーのせん滅を命じる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/77/46847_crt_7HEOT.jpg?r=1474896351",
+        "link": "https://bgm.tv/character/46847",
+        "categorie": "person"
+      },
+      {
+        "id": "43229",
+        "label": "卢切",
+        "info": "阿维利奥(安杰洛)的弟弟，7年前被瓦内蒂家族的人杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/ab/43229_crt_36hsK.jpg",
+        "link": "https://bgm.tv/character/43229",
+        "categorie": "person"
+      },
+      {
+        "id": "43230",
+        "label": "特斯塔",
+        "info": "阿维利奥(安杰洛)与卢切的父亲，7年前被瓦内蒂家族的人杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/52/43230_crt_kWdO8.jpg",
+        "link": "https://bgm.tv/character/43230",
+        "categorie": "person"
+      },
+      {
+        "id": "43231",
+        "label": "艾莲娜",
+        "info": "阿维利奥(安杰洛)与卢切的母亲，7年前被瓦内蒂家族的人杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/df/43231_crt_w0tTx.jpg",
+        "link": "https://bgm.tv/character/43231",
+        "categorie": "person"
+      },
+      {
+        "id": "43434",
+        "label": "拉克丽玛",
+        "info": "凡戈的情妇",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/9e/43434_crt_sRrx7.jpg?r=1468697832",
+        "link": "https://bgm.tv/character/43434",
+        "categorie": "person"
+      },
+      {
+        "id": "43435",
+        "label": "特隆柯",
+        "info": "全名Arturo Tronco。瓦内蒂家族的运酒司机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/57/43435_crt_E7whL.jpg?r=1468698352",
+        "link": "https://bgm.tv/character/43435",
+        "categorie": "person"
+      },
+      {
+        "id": "45498",
+        "label": "古兰基尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/06/45498_crt_WT0s0.jpg?r=1472746834",
+        "link": "https://bgm.tv/character/45498",
+        "categorie": "person"
+      },
+      {
+        "id": "45499",
+        "label": "厨师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/9e/45499_crt_6xwmP.jpg?r=1472747117",
+        "link": "https://bgm.tv/character/45499",
+        "categorie": "person"
+      },
+      {
+        "id": "45503",
+        "label": "加德",
+        "info": "ファンゴの手下で禿頭の男。セルペンテと同じくファンゴの片腕的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/2f/45503_crt_3uF78.jpg?r=1472747778",
+        "link": "https://bgm.tv/character/45503",
+        "categorie": "person"
+      },
+      {
+        "id": "45689",
+        "label": "酒保",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a4/45689_crt_8WWTW.jpg?r=1472921844",
+        "link": "https://bgm.tv/character/45689",
+        "categorie": "person"
+      },
+      {
+        "id": "45715",
+        "label": "招待员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c5/45715_crt_zb20O.jpg",
+        "link": "https://bgm.tv/character/45715",
+        "categorie": "person"
+      },
+      {
+        "id": "45716",
+        "label": "修女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/05/45716_crt_4z42N.jpg?r=1472996210",
+        "link": "https://bgm.tv/character/45716",
+        "categorie": "person"
+      },
+      {
+        "id": "45718",
+        "label": "尼克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/a9/45718_crt_mAOq2.jpg?r=1472996222",
+        "link": "https://bgm.tv/character/45718",
+        "categorie": "person"
+      },
+      {
+        "id": "45719",
+        "label": "马德马克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c0/45719_crt_x212z.jpg?r=1472996323",
+        "link": "https://bgm.tv/character/45719",
+        "categorie": "person"
+      },
+      {
+        "id": "45735",
+        "label": "德尔斐",
+        "info": "シカゴからローレスに転任してきた連邦取締官。清廉な人柄で、マフィアの一掃を宣言し、密造酒の摘発とネロの密造酒工場捜索をおこなう。しかし、そのため、妻子を爆死寸前の危機にさらしてしまう。このことをきっかけにマフィアに屈する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b3/45735_crt_7765H.jpg?r=1473050770",
+        "link": "https://bgm.tv/character/45735",
+        "categorie": "person"
+      },
+      {
+        "id": "45736",
+        "label": "德尔斐的女儿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/6a/45736_crt_VPFzp.jpg?r=1473051577",
+        "link": "https://bgm.tv/character/45736",
+        "categorie": "person"
+      },
+      {
+        "id": "45737",
+        "label": "德尔斐的妻子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/be/45737_crt_d0Ae4.jpg?r=1473051588",
+        "link": "https://bgm.tv/character/45737",
+        "categorie": "person"
+      },
+      {
+        "id": "45738",
+        "label": "店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/97/45738_crt_4AshU.jpg?r=1473051647",
+        "link": "https://bgm.tv/character/45738",
+        "categorie": "person"
+      },
+      {
+        "id": "45739",
+        "label": "警官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/fe/45739_crt_YFY5o.jpg?r=1473052218",
+        "link": "https://bgm.tv/character/45739",
+        "categorie": "person"
+      },
+      {
+        "id": "45997",
+        "label": "卡梅洛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/1a/45997_crt_s74b6.jpg",
+        "link": "https://bgm.tv/character/45997",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

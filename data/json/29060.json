@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14552",
+        "label": "新谷贞一",
+        "info": "城教学院国中部1年C班，在旧校舍与新校舍错纵复杂在一起的学校中迷路，而偶然遇见人称“七大不可思议”旧校舍的幽灵夕子，并且找到她在旧校舍下的遗骸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/8c/14552_crt_939ZT.jpg",
+        "link": "https://bgm.tv/character/14552",
+        "categorie": "person"
+      },
+      {
+        "id": "14551",
+        "label": "庚夕子",
+        "info": "旧校舍的幽灵，怪异调查部的部长，调查部就是她成立的；由于没有人看得见因而自称代理部长，并且对外说明部长不会随意胡来(部长は灭多に来ない)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/d8/14551_crt_16ZOf.jpg",
+        "link": "https://bgm.tv/character/14551",
+        "categorie": "person"
+      },
+      {
+        "id": "14553",
+        "label": "小此木桃绘",
+        "info": "国中部2年B班学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/b8/14553_crt_XzM5N.jpg",
+        "link": "https://bgm.tv/character/14553",
+        "categorie": "person"
+      },
+      {
+        "id": "14554",
+        "label": "庚雾江",
+        "info": "国中部2年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/ed/14554_crt_UpaGy.jpg",
+        "link": "https://bgm.tv/character/14554",
+        "categorie": "person"
+      },
+      {
+        "id": "16017",
+        "label": "桐岛有子",
+        "info": "国中部2年A班，妻鹿和零子的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/ea/16017_crt_t66h6.jpg",
+        "link": "https://bgm.tv/character/16017",
+        "categorie": "person"
+      },
+      {
+        "id": "53688",
+        "label": "庚紫子",
+        "info": "诚教学园的理事长。年轻时候的外型与夕子相似，但是身高比夕子略为矮些，发型也与直发的夕子不同为卷发。紫子的个性跟夕子比起来也较为内向、害羞、胆小。她是雾江的奶奶，也是夕子的妹妹，在废弃校舍里收藏了有关姐姐的遗物以表示她的思念之情。她在理事长室建筑后方的“枫之坡”的最高处，替夕子立了个石碑，并在石碑的下方放了夕子的信物，以示思念之情。而这个也成了学校的怪谈之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/1b/53688_crt_29r2r.jpg",
+        "link": "https://bgm.tv/character/53688",
+        "categorie": "person"
+      },
+      {
+        "id": "15872",
+        "label": "灵异调查部",
+        "info": "夕子の過去を探る目的で夕子が勝手に立ち上げた部活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/d8/15872_crt_I2CcQ.jpg",
+        "link": "https://bgm.tv/character/15872",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61440",
+        "label": "青山君",
+        "info": "郊外の街に住む小学四年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/89/61440_crt_NaRF8.jpg",
+        "link": "https://bgm.tv/character/61440",
+        "categorie": "person"
+      },
+      {
+        "id": "61441",
+        "label": "姐姐",
+        "info": "アオヤマ君が通う歯科医院に勤めるお姉さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/1f/61441_crt_OB55w.jpg?r=1559494328",
+        "link": "https://bgm.tv/character/61441",
+        "categorie": "person"
+      },
+      {
+        "id": "61442",
+        "label": "企鹅",
+        "info": "アデリーペンギン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/1d/61442_crt_6Hp1X.jpg",
+        "link": "https://bgm.tv/character/61442",
+        "categorie": "person"
+      },
+      {
+        "id": "65643",
+        "label": "内田君",
+        "info": "アオヤマ君のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/5e/65643_crt_22gqV.jpg?r=1534607116",
+        "link": "https://bgm.tv/character/65643",
+        "categorie": "person"
+      },
+      {
+        "id": "65644",
+        "label": "滨本同学",
+        "info": "アオヤマ君のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/7d/65644_crt_fcKK0.jpg",
+        "link": "https://bgm.tv/character/65644",
+        "categorie": "person"
+      },
+      {
+        "id": "65645",
+        "label": "铃木君",
+        "info": "アオヤマ君のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/45/65645_crt_B7Wxq.jpg?r=1534607173",
+        "link": "https://bgm.tv/character/65645",
+        "categorie": "person"
+      },
+      {
+        "id": "65646",
+        "label": "青山君的父亲",
+        "info": "アオヤマ君にノートを与え、",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/e7/65646_crt_WW9ww.jpg?r=1534607405",
+        "link": "https://bgm.tv/character/65646",
+        "categorie": "person"
+      },
+      {
+        "id": "65647",
+        "label": "滨本的父亲",
+        "info": "大学の研究所で働いており、",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/2a/65647_crt_KGh96.jpg?r=1534607472",
+        "link": "https://bgm.tv/character/65647",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

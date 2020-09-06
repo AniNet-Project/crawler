@@ -1,0 +1,269 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9160",
+        "label": "ケロロ軍曹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/12/9160_crt_22xJk.jpg",
+        "link": "https://bgm.tv/character/9160",
+        "categorie": "person"
+      },
+      {
+        "id": "26305",
+        "label": "タママ二等兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/d3/26305_crt_tITcF.jpg",
+        "link": "https://bgm.tv/character/26305",
+        "categorie": "person"
+      },
+      {
+        "id": "9489",
+        "label": "ギロロ伍長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/08/9489_crt_E11NZ.jpg",
+        "link": "https://bgm.tv/character/9489",
+        "categorie": "person"
+      },
+      {
+        "id": "57013",
+        "label": "クルル曹長",
+        "info": "現在のケロン軍での階級はケロロより1つ上の曹長（OR-7）で、ケロロ小隊の作戦通信参謀である。なお、彼には階級にまつわるエピソードが存在する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6f/57013_crt_ZMwoQ.jpg?r=1503030915",
+        "link": "https://bgm.tv/character/57013",
+        "categorie": "person"
+      },
+      {
+        "id": "57044",
+        "label": "ドロロ兵長",
+        "info": "ケロン軍の階級は兵長。ケロロ小隊の暗殺兵であり、ケロン軍特殊精鋭部隊「アサシン」のトップである。ニックネームは「トラウマ君」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/d3/57044_crt_TsQdq.jpg?r=1503043561",
+        "link": "https://bgm.tv/character/57044",
+        "categorie": "person"
+      },
+      {
+        "id": "13208",
+        "label": "日向冬树",
+        "info": "Keroro所寓居之日向家中的长子，排行第二；母亲是日向秋，日向夏美则是他的姊姊，同时也是Keroro的最佳伙伴兼好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/71/13208_crt_XXPHA.jpg",
+        "link": "https://bgm.tv/character/13208",
+        "categorie": "person"
+      },
+      {
+        "id": "9490",
+        "label": "日向夏美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/c8/9490_crt_MeL22.jpg",
+        "link": "https://bgm.tv/character/9490",
+        "categorie": "person"
+      },
+      {
+        "id": "57016",
+        "label": "安哥拉·摩亚",
+        "info": "ケロン星と同盟関係にあるアンゴル族の少女で、ヒト型宇宙人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/5c/57016_crt_9AOz8.jpg?r=1503031150",
+        "link": "https://bgm.tv/character/57016",
+        "categorie": "person"
+      },
+      {
+        "id": "6458",
+        "label": "日向秋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/3e/6458_crt_Eg0e1.jpg",
+        "link": "https://bgm.tv/character/6458",
+        "categorie": "person"
+      },
+      {
+        "id": "9842",
+        "label": "サブロー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c9/9842_crt_FjUiz.jpg",
+        "link": "https://bgm.tv/character/9842",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "57002",
+        "label": "西泽桃华",
+        "info": "日向家を囲む四方の風の西。タママ二等兵が居候している西澤家御令嬢。二重人格である。吉祥学園の同級生である冬樹に恋心を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/34/57002_crt_7akK2.jpg?r=1502948314",
+        "link": "https://bgm.tv/character/57002",
+        "categorie": "person"
+      },
+      {
+        "id": "57022",
+        "label": "波尔森山",
+        "info": "西泽桃华家的管家,曾经受过军事训练;爱护桃华,事事以她为重。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/94/57022_crt_ZtXn2.jpg?r=1503031439",
+        "link": "https://bgm.tv/character/57022",
+        "categorie": "person"
+      },
+      {
+        "id": "57024",
+        "label": "幽灵少女",
+        "info": "日向家の軍曹ルームに住んでいる少女の幽霊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/5c/57024_crt_969W8.jpg?r=1503031690",
+        "link": "https://bgm.tv/character/57024",
+        "categorie": "person"
+      },
+      {
+        "id": "57043",
+        "label": "东谷小雪",
+        "info": "日向家を囲む四方の風の東。忍野村（しのびのむら）という忍者の村で暮らしていたくノ一。夏美のことが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/4f/57043_crt_OQ4OK.jpg?r=1503043380",
+        "link": "https://bgm.tv/character/57043",
+        "categorie": "person"
+      },
+      {
+        "id": "57085",
+        "label": "556",
+        "info": "ケロロの幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/8b/57085_crt_wXHny.jpg?r=1503113378",
+        "link": "https://bgm.tv/character/57085",
+        "categorie": "person"
+      },
+      {
+        "id": "57088",
+        "label": "拉比",
+        "info": "556の妹で、兄思い。髪の色は黄色で、「ラビー」という名の通りウサギ耳形のカチューシャを頭に付けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/c1/57088_crt_yec6p.jpg?r=1503113900",
+        "link": "https://bgm.tv/character/57088",
+        "categorie": "person"
+      },
+      {
+        "id": "76031",
+        "label": "爱莉莎·南十字星",
+        "info": "有着橘色长发，扑克脸表情的少女；自称来自黑暗世界，在黑夜中狩猎的黑暗猎人，实际上是数百年前一个会说话的人偶，但因是人偶的关系，不能被人类接纳，以至爱莉莎心中的情绪只有悲伤。声称住在地球的外星人和神秘生物是她们“生存所必须的猎物”，以猫耳发箍作为攻击与吞食宇宙人的武器，习惯以“Daddy”称呼涅布拉；能够阻挡一切物理光线攻击，并且能够变成希腊神话中的戈尔贡，石化人类。喜欢冬树，冬树曾在梦中见到她，遇到她时会嗅到金木犀的香气。近日，爱莉莎似乎开始有人的本性，脸上较常出现微笑，开始懂得去爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/8b/76031_crt_pGi1i.jpg",
+        "link": "https://bgm.tv/character/76031",
+        "categorie": "person"
+      },
+      {
+        "id": "9843",
+        "label": "師走さつき",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/82/9843_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9843",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "57025",
+        "label": "ポヨン",
+        "info": "宇宙警察官。アンドロメダ恒星前派出所勤務。階級は巡査長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/1a/57025_crt_ZkoNy.jpg?r=1503031927",
+        "link": "https://bgm.tv/character/57025",
+        "categorie": "person"
+      },
+      {
+        "id": "57026",
+        "label": "Rグレイ",
+        "info": "『シクシク訪問録』のレポーターを担当する宇宙タレント。感動担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/0e/57026_crt_1taoO.jpg?r=1503032166",
+        "link": "https://bgm.tv/character/57026",
+        "categorie": "person"
+      },
+      {
+        "id": "57027",
+        "label": "3M",
+        "info": "『シクシク訪問録』のレポーターを担当する宇宙タレント。アクシデント担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/51/57027_crt_SH1P4.jpg?r=1503032417",
+        "link": "https://bgm.tv/character/57027",
+        "categorie": "person"
+      },
+      {
+        "id": "57028",
+        "label": "すもも",
+        "info": "ガマ星雲第23番惑星「アホトロン星」出身のウーパールーパー（アホロートル）によく似た宇宙人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/e4/57028_crt_y1Yc5.jpg?r=1503036989",
+        "link": "https://bgm.tv/character/57028",
+        "categorie": "person"
+      },
+      {
+        "id": "57042",
+        "label": "盖尔",
+        "info": "商品販売型宇宙人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/45/57042_crt_H5a2H.jpg?r=1503043124",
+        "link": "https://bgm.tv/character/57042",
+        "categorie": "person"
+      },
+      {
+        "id": "57049",
+        "label": "吉冈平正义",
+        "info": "西澤桃華専属護衛部隊（通称「親衛隊」）の新人隊員。社員番号は880245。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ab/57049_crt_c2Z5g.jpg?r=1503057920",
+        "link": "https://bgm.tv/character/57049",
+        "categorie": "person"
+      },
+      {
+        "id": "57050",
+        "label": "天王寺麻美",
+        "info": "睦実と同じ学校に通う不良の女子高生。アンゴル＝モアの普段の姿の元になっている人物で「自分のためなら友をも裏切る勇気」を持っていることから彼女の姿と心をコピーした（モアはその後、頭を打ったショックで麻美の粗暴さが封印された）。ドッペルゲンガーを称して現れたモアにお灸をすえられたが、改心はせずに、その後もカツアゲなどを行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/2a/57050_crt_Wr8Ai.jpg?r=1503059505",
+        "link": "https://bgm.tv/character/57050",
+        "categorie": "person"
+      },
+      {
+        "id": "57051",
+        "label": "メロディー・ハニー",
+        "info": "時々出てくる金髪アメリカ人女性芸能人。お笑い（とくにダジャレ）好き。原作では「M・ハニー」という表記もあった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/32/57051_crt_4XD74.jpg?r=1503066902",
+        "link": "https://bgm.tv/character/57051",
+        "categorie": "person"
+      },
+      {
+        "id": "57081",
+        "label": "农特露玛的少女",
+        "info": "足も着くような浅い位置で溺れかける冬樹を見て笑っている所を冬樹に見つけられ（見つけられた際、かなり驚いておりアンチバリアの類を使用していた可能性がある）、急いで逃げようとしたところでガラスで足（アニメでは手）を怪我をしてしまい、冬樹に手当てしてもらう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/8e/57081_crt_4Qh97.jpg?r=1503107674",
+        "link": "https://bgm.tv/character/57081",
+        "categorie": "person"
+      },
+      {
+        "id": "57082",
+        "label": "新人君",
+        "info": "『少年タロウ』（アニメでは少年アルファ）の新人漫画家。秋が編集を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/a2/57082_crt_8j68J.jpg?r=1503108443",
+        "link": "https://bgm.tv/character/57082",
+        "categorie": "person"
+      },
+      {
+        "id": "57083",
+        "label": "日向秋奈",
+        "info": "初登場話でケロロたちの存在を知った。好奇心旺盛な秋の母親というだけあり、初めてケロロたちを見たときにも驚かず単に日向家の家族と認識した。ケロロ小隊に尊敬されておりケロロからは「提督殿」と呼ばれている（秋奈を知った当初のケロロは彼女を「秋のさらに上官」と見なしたため、尊敬より畏怖心の方が強かった）。アニメ第174話Bパートではドロロも「提督殿」という呼称を心の中で使っている（ギロロとクルルの場合は提督と呼ぶ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/86/57083_crt_s86o7.jpg?r=1503109241",
+        "link": "https://bgm.tv/character/57083",
+        "categorie": "person"
+      },
+      {
+        "id": "57102",
+        "label": "西泽梅雄",
+        "info": "西澤グループの総帥で、桃華の父であり桜華の夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/cd/57102_crt_Snf7o.jpg?r=1503153101",
+        "link": "https://bgm.tv/character/57102",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

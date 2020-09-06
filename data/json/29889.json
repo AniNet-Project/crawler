@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "485",
+        "label": "博丽灵梦",
+        "info": "幻想乡境内博丽神社的现有巫女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/d1/485_crt_wH8xD.jpg?r=1565683383",
+        "link": "https://bgm.tv/character/485",
+        "categorie": "person"
+      },
+      {
+        "id": "486",
+        "label": "雾雨魔理沙",
+        "info": "居住于魔法森林的人类魔法使，常骑着扫把，「霧雨店」的独生女。會使用魔法森林的蘑菇調製火藥，所使用的魔法幾乎只有把東西破壞的效果，而且燃料需要長時間準備，但是其效果非常強力，在Spell Card規則成立下，純粹的破壞力在人類當中屬於最高等級。此外在幻想乡是出了名的小偷，帕邱莉的图书馆、香霖堂，如果不是古明地觉会读心术，甚至连地灵殿都会惨遭毒手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/48/486_crt_3cgWl.jpg?r=1565683463",
+        "link": "https://bgm.tv/character/486",
+        "categorie": "person"
+      },
+      {
+        "id": "16419",
+        "label": "四季映姬·夜摩仙那度",
+        "info": "大量阎魔的其中一人。常担当幻想乡死者的裁决，是和我们关系最密切的阎魔（×1夜摩仙那度是她在是非曲直厅中的职务名，意思就是那样，意为乐园的阎魔。1）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/30/16419_crt_RfUZ4.jpg?r=1563894873",
+        "link": "https://bgm.tv/character/16419",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

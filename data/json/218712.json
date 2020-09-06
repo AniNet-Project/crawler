@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64636",
+        "label": "响裕太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/b3/64636_crt_p2pPp.jpg?r=1539514557",
+        "link": "https://bgm.tv/character/64636",
+        "categorie": "person"
+      },
+      {
+        "id": "64638",
+        "label": "古立特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/bd/64638_crt_9yPuK.jpg",
+        "link": "https://bgm.tv/character/64638",
+        "categorie": "person"
+      },
+      {
+        "id": "64639",
+        "label": "内海将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/84/64639_crt_LQ53Z.jpg?r=1539514861",
+        "link": "https://bgm.tv/character/64639",
+        "categorie": "person"
+      },
+      {
+        "id": "64640",
+        "label": "宝多六花",
+        "info": "裕太的同班同学。家中经营着旧货商店“绚JUNK SHOP”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/be/64640_crt_R6tf5.jpg?r=1539171620",
+        "link": "https://bgm.tv/character/64640",
+        "categorie": "person"
+      },
+      {
+        "id": "64641",
+        "label": "新条茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/eb/64641_crt_Bs5Bj.jpg?r=1539496613",
+        "link": "https://bgm.tv/character/64641",
+        "categorie": "person"
+      },
+      {
+        "id": "64642",
+        "label": "アレクシス・ケリヴ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/c7/64642_crt_8nz98.jpg",
+        "link": "https://bgm.tv/character/64642",
+        "categorie": "person"
+      },
+      {
+        "id": "66191",
+        "label": "武士圣剑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/b8/66191_crt_06iIl.jpg",
+        "link": "https://bgm.tv/character/66191",
+        "categorie": "person"
+      },
+      {
+        "id": "66192",
+        "label": "マックス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/81/66192_crt_aePiw.jpg",
+        "link": "https://bgm.tv/character/66192",
+        "categorie": "person"
+      },
+      {
+        "id": "66193",
+        "label": "ボラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/11/66193_crt_J2Yjd.jpg",
+        "link": "https://bgm.tv/character/66193",
+        "categorie": "person"
+      },
+      {
+        "id": "66194",
+        "label": "ヴィット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/2d/66194_crt_8OMuN.jpg",
+        "link": "https://bgm.tv/character/66194",
+        "categorie": "person"
+      },
+      {
+        "id": "66195",
+        "label": "安奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/6c/66195_crt_vvdLc.jpg",
+        "link": "https://bgm.tv/character/66195",
+        "categorie": "person"
+      },
+      {
+        "id": "66196",
+        "label": "六花ママ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/7b/66196_crt_1qPzP.jpg",
+        "link": "https://bgm.tv/character/66196",
+        "categorie": "person"
+      },
+      {
+        "id": "66197",
+        "label": "奈美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/4c/66197_crt_2PUza.jpg",
+        "link": "https://bgm.tv/character/66197",
+        "categorie": "person"
+      },
+      {
+        "id": "66198",
+        "label": "莲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/bd/66198_crt_O2Fkh.jpg",
+        "link": "https://bgm.tv/character/66198",
+        "categorie": "person"
+      },
+      {
+        "id": "67214",
+        "label": "怪獣少女アノシラス(2代目)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/ed/67214_crt_Jv5qe.jpg?r=1542339308",
+        "link": "https://bgm.tv/character/67214",
+        "categorie": "person"
+      },
+      {
+        "id": "17489",
+        "label": "乌瑟",
+        "info": "りんの家に居候している謎の動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/68/17489_crt_JlzQo.jpg",
+        "link": "https://bgm.tv/character/17489",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

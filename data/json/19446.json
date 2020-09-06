@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7996",
+        "label": "塔奇克马",
+        "info": "タチコマ：公安9課に9機配備されている小型の思考戦車。右腕内にチェーンガン、口部分にグレネードランチャーを標準装備している。後部に人が搭乗するコクピットもあるが、ニューロチップの高度なAI制御により、操縦者なしでも単独で行動することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d4/7996_crt_S5hzo.jpg",
+        "link": "https://bgm.tv/character/7996",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

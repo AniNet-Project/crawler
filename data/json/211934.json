@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56970",
+        "label": "柚",
+        "info": "本作の主人公。明るい茶色の長髪で、頭頂部に短い一束のアホ毛がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/de/56970_crt_JdTzR.jpg?r=1514618677",
+        "link": "https://bgm.tv/character/56970",
+        "categorie": "person"
+      },
+      {
+        "id": "56971",
+        "label": "皋",
+        "info": "柚の新人時代の教育係で、彼女の憧れの先輩であり相棒。青紫色の長髪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/93/56971_crt_tDEkt.jpg?r=1533239699",
+        "link": "https://bgm.tv/character/56971",
+        "categorie": "person"
+      },
+      {
+        "id": "56972",
+        "label": "枣",
+        "info": "髪は茶色で短髪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/dd/56972_crt_Qx3GC.jpg?r=1533242133",
+        "link": "https://bgm.tv/character/56972",
+        "categorie": "person"
+      },
+      {
+        "id": "56974",
+        "label": "莲",
+        "info": "髪は薄いピンク色でやや巻毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/b0/56974_crt_I8xoC.jpg?r=1534657654",
+        "link": "https://bgm.tv/character/56974",
+        "categorie": "person"
+      },
+      {
+        "id": "56975",
+        "label": "樱",
+        "info": "髪色長髪でサイドでリボンを結んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/a2/56975_crt_ScZ3V.jpg?r=1536951282",
+        "link": "https://bgm.tv/character/56975",
+        "categorie": "person"
+      },
+      {
+        "id": "56976",
+        "label": "桐",
+        "info": "此花亭の仲居頭。煙管と酒を好む。櫻と同室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/73/56976_crt_N6Son.jpg?r=1536955006",
+        "link": "https://bgm.tv/character/56976",
+        "categorie": "person"
+      },
+      {
+        "id": "76360",
+        "label": "菖",
+        "info": "柊の同僚の巫女。髪と瞳は黒。眼鏡をかけている。このはな綺譚2巻で初登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/5f/76360_crt_i73Pw.jpg",
+        "link": "https://bgm.tv/character/76360",
+        "categorie": "person"
+      },
+      {
+        "id": "76361",
+        "label": "柊",
+        "info": "皋的姐姐。发色是银瞳孔水色。性格自由奔放",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/a3/76361_crt_6f0tk.jpg",
+        "link": "https://bgm.tv/character/76361",
+        "categorie": "person"
+      },
+      {
+        "id": "76362",
+        "label": "楪",
+        "info": "神社の巫女。明日葉と共に、牡丹に信頼を寄せる妹分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/34/76362_crt_mY43C.jpg",
+        "link": "https://bgm.tv/character/76362",
+        "categorie": "person"
+      },
+      {
+        "id": "76364",
+        "label": "牡丹",
+        "info": "神社の巫女No.3。有能で美人。だが菖にお尻を叩かれたい欲求を抱く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/cb/76364_crt_Qqw7A.jpg",
+        "link": "https://bgm.tv/character/76364",
+        "categorie": "person"
+      },
+      {
+        "id": "76363",
+        "label": "明日葉",
+        "info": "神社の巫女。楪と共に、牡丹に信頼を寄せる妹分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/79/76363_crt_5yV2M.jpg",
+        "link": "https://bgm.tv/character/76363",
+        "categorie": "person"
+      },
+      {
+        "id": "58355",
+        "label": "椿",
+        "info": "此花亭を仕切る女将。比丘尼とは古くからの知り合い。少なくとも数百年は生きている模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/19/58355_crt_oxPKX.jpg?r=1510478768",
+        "link": "https://bgm.tv/character/58355",
+        "categorie": "person"
+      },
+      {
+        "id": "57998",
+        "label": "八百比丘尼",
+        "info": "雪に埋もれていた柚を拾い、育てた尼。此花亭の女将とは古い知り合いで、そのつてで柚を此花亭に託した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/d7/57998_crt_XklL6.jpg?r=1538477758",
+        "link": "https://bgm.tv/character/57998",
+        "categorie": "person"
+      },
+      {
+        "id": "59222",
+        "label": "阿菊",
+        "info": "呪いの日本人形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/f8/59222_crt_8QRi6.jpg?r=1538638953",
+        "link": "https://bgm.tv/character/59222",
+        "categorie": "person"
+      },
+      {
+        "id": "58958",
+        "label": "文豪",
+        "info": "此花亭の常連客。常に狐のお面を着けている。比較的長期間、連続して逗留しているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c5/58958_crt_GV30I.jpg?r=1510480414",
+        "link": "https://bgm.tv/character/58958",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

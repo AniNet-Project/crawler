@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12410",
+        "label": "梅尔优·樱叶",
+        "info": "天使队的成员之一，有着粉红色的长发及灰色瞳孔，头上带着两朵花的饰品，个性善良是个十足的好人，脸上总是带着甜美的微笑，是个活泼又带点天然呆的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/55/12410_crt_F27da.jpg",
+        "link": "https://bgm.tv/character/12410",
+        "categorie": "person"
+      },
+      {
+        "id": "12411",
+        "label": "兰花·法兰波瓦兹",
+        "info": "天使队的成员之一，有着亮丽的金色长发及琥珀色的瞳孔，头上带着两个头饰，个性好强、充满自信有着强烈的正义感，凡事喜欢正面突破，是个相当热血的女孩，虽然本人不承认不过兰花是天使队里最容易掉眼泪最有人情味的人；遇到有困难的人难以放下，内心里其实是个懂得体谅别人的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/48/12411_crt_g83G0.jpg",
+        "link": "https://bgm.tv/character/12411",
+        "categorie": "person"
+      },
+      {
+        "id": "12413",
+        "label": "薄荷·布拉曼修",
+        "info": "天使队的成员之一，算是天使队的参谋，有着淡蓝色短发及金色瞳孔，头上有两只像是兔耳的耳朵，薄荷的所有亲人也都有这样的耳朵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/38/12413_crt_DUhz3.jpg",
+        "link": "https://bgm.tv/character/12413",
+        "categorie": "person"
+      },
+      {
+        "id": "12414",
+        "label": "佛特·修特伦",
+        "info": "天使队的成员之一，是天使队的队长，有着鲜红色短发及深蓝色瞳孔，平时都带着帽子（并无任何原因单纯因为美观），左眼带着单眼眼镜，左眼因年幼时受的创伤导致视力较差。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/72/12414_crt_5xXFy.jpg",
+        "link": "https://bgm.tv/character/12414",
+        "categorie": "person"
+      },
+      {
+        "id": "12415",
+        "label": "香草·亚修",
+        "info": "天使队的成员之一，有着淡绿色的微卷长发及鲜红色瞳孔，头上带着发饰（？）身边总是带着像是松鼠的宠物-那诺。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/32/12415_crt_aTI3H.jpg",
+        "link": "https://bgm.tv/character/12415",
+        "categorie": "person"
+      },
+      {
+        "id": "25635",
+        "label": "诺曼德",
+        "info": "\"你们不知拥有无比高度智慧的我何其苦恼。“",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/40/25635_crt_0UfUu.jpg?r=1565927897",
+        "link": "https://bgm.tv/character/25635",
+        "categorie": "person"
+      },
+      {
+        "id": "25524",
+        "label": "华克·O·修一中校",
+        "info": "トランスバール軍中佐でエンジェル隊を温かくも取り仕切る老人。エンジェル隊員達には中佐と呼ばれているが第3期55話の「いどうどん」ではエンジェル隊隊長とされている。飄々とした性格で、エンジェル隊を娘達と呼ぶ。エンジェル隊の失態でたびたび上司に怒られている。青年時代は特殊工作部隊F6（通称フェアリー隊）に在籍、奇しくもエンジェル隊の5人とよく似た隊員と行動を共にしていた(フェアリー隊はその後すぐに解散となった)。フォルテとは何かと縁があり、ストリート・チルドレン時代に出会っている。サイレントソルジャー戦ではフォルテを救出したりしている。異名は「白き超新星の狼」。自分の髭に誇りを持っており、けなされると激しく怒り、普段温厚である彼が大戦時代の彼に戻ってしまいその実力はフォルテの撃った弾丸を足で蹴り返すという並外れた力を持っている。現在身寄りはいない。意外に野心家だと思われる一面もある。趣味はチェス。ノーマッドが相手をしている。また少女漫画のコレクターでもあり、自室の隠し棚の中には大量のコレクションが収められている。ラジオドラマでは、今の職場は左遷ではなく志願だと言っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/c7/25524_crt_9uVGe.jpg?r=1403310730",
+        "link": "https://bgm.tv/character/25524",
+        "categorie": "person"
+      },
+      {
+        "id": "12416",
+        "label": "GA-001 LUCKY STAR(幸运星)",
+        "info": "作为一架全天候战机，粉红色的幸运之星是六架纹章机中最为全能的，无论战斗条件多么苛刻，都能出色地完成任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/99/12416_crt_ajUa9.jpg",
+        "link": "https://bgm.tv/character/12416",
+        "categorie": "person"
+      },
+      {
+        "id": "12417",
+        "label": "GA-002 Kung-fu Fighter(功夫战机)",
+        "info": "大红色的功夫战机是所有的EDEN纹章机中速度最快、擅长近战格斗的机体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/3b/12417_crt_GxHGG.jpg",
+        "link": "https://bgm.tv/character/12417",
+        "categorie": "person"
+      },
+      {
+        "id": "12418",
+        "label": "GA-003 Trick Master(戏法大师)",
+        "info": "对这架浅蓝的纹章机来说，最显眼的地方莫过于位于它左右的两个弧形翼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/70/12418_crt_se0d2.jpg",
+        "link": "https://bgm.tv/character/12418",
+        "categorie": "person"
+      },
+      {
+        "id": "12419",
+        "label": "GA-004 Happy Trigger(快感扳机)",
+        "info": "作为一台杀戮机器，紫色的快感扳机在武装到牙齿的同时，也配备了EDEN纹章机中最坚固的装甲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/c7/12419_crt_8xxG3.jpg",
+        "link": "https://bgm.tv/character/12419",
+        "categorie": "person"
+      },
+      {
+        "id": "12420",
+        "label": "GA-005 Harvester(收获者)",
+        "info": "与其他纹章机不同，浅绿色的收获者并不以火力和机动性见长，甚至连装甲都不是纹章机中最坚固的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/d5/12420_crt_ciSC8.jpg",
+        "link": "https://bgm.tv/character/12420",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

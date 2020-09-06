@@ -1,0 +1,325 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13634",
+        "label": "阿拉丁",
+        "info": "10岁左右，身高130cm，出生地:不明，特技：魔法，兴趣：阅读，弱点：大姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/fc/13634_crt_7hwgW.jpg",
+        "link": "https://bgm.tv/character/13634",
+        "categorie": "person"
+      },
+      {
+        "id": "13635",
+        "label": "阿里巴巴·沙尔贾",
+        "info": "17岁，身高168cm，出生地:巴尔巴德，特技:王宫剑术，兴趣：买卖，弱点：容易发胖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/d9/13635_crt_ViFmR.jpg",
+        "link": "https://bgm.tv/character/13635",
+        "categorie": "person"
+      },
+      {
+        "id": "13636",
+        "label": "摩尔迦娜",
+        "info": "14岁，身高148cm，出生地：卡达葛(黑暗大陆)，特技：腿踢，兴趣：锻炼肌肉，弱点：即兴表演。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/92/13636_crt_v5Pmt.jpg?r=1393400206",
+        "link": "https://bgm.tv/character/13636",
+        "categorie": "person"
+      },
+      {
+        "id": "13584",
+        "label": "贾法尔",
+        "info": "辛德利亚八人将之一。是辛德利亚国的政务官，国王不在时暂由他代理处理事务。外表虽然看似文弱，其实是实力强劲的暗杀者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/b5/13584_crt_zVv1m.jpg",
+        "link": "https://bgm.tv/character/13584",
+        "categorie": "person"
+      },
+      {
+        "id": "13637",
+        "label": "辛巴达",
+        "info": "辛德利亚王国国王，身为七位魔神之主，被誉为【七海的霸王】，练玉艳称其为第一特异点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/9c/13637_crt_37D47.jpg?r=1369494604",
+        "link": "https://bgm.tv/character/13637",
+        "categorie": "person"
+      },
+      {
+        "id": "13638",
+        "label": "裘达尔",
+        "info": "18岁，身高173cm，出生地:不明，特技：魔法，兴趣：空中散步，弱点：蔬菜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/c9/13638_crt_B1zpo.jpg",
+        "link": "https://bgm.tv/character/13638",
+        "categorie": "person"
+      },
+      {
+        "id": "13639",
+        "label": "练红玉",
+        "info": "17岁，身高163cm，出生地:煌帝国，特技：剑术，兴趣：打扮，弱点：交朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/56/13639_crt_HX1DJ.jpg",
+        "link": "https://bgm.tv/character/13639",
+        "categorie": "person"
+      },
+      {
+        "id": "14056",
+        "label": "练白龙",
+        "info": "16岁，身高165cm，出生地:煌帝国，特技：枪术，兴趣：料理，弱点：玩笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/a9/14056_crt_055kx.jpg?r=1414932639",
+        "link": "https://bgm.tv/character/14056",
+        "categorie": "person"
+      },
+      {
+        "id": "17395",
+        "label": "马斯鲁尔",
+        "info": "シンドバッドに忠誠を誓う八人将の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/c3/17395_crt_T04dY.jpg",
+        "link": "https://bgm.tv/character/17395",
+        "categorie": "person"
+      },
+      {
+        "id": "17666",
+        "label": "练白瑛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/54/17666_crt_rK848.jpg",
+        "link": "https://bgm.tv/character/17666",
+        "categorie": "person"
+      },
+      {
+        "id": "17704",
+        "label": "李青舜",
+        "info": "白瑛の北西中原の侵攻に部下として付き従う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c7/17704_crt_IUsCS.jpg",
+        "link": "https://bgm.tv/character/17704",
+        "categorie": "person"
+      },
+      {
+        "id": "18421",
+        "label": "阿部玛多·沙尔贾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/7d/18421_crt_jh2hs.jpg",
+        "link": "https://bgm.tv/character/18421",
+        "categorie": "person"
+      },
+      {
+        "id": "18422",
+        "label": "夏黄文",
+        "info": "煌帝国皇女・練紅玉の付き人で、共に迷宮を攻略した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/7f/18422_crt_IUYJJ.jpg",
+        "link": "https://bgm.tv/character/18422",
+        "categorie": "person"
+      },
+      {
+        "id": "22104",
+        "label": "麦雅兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/ec/22104_crt_nOxND.jpg?r=1385295161",
+        "link": "https://bgm.tv/character/22104",
+        "categorie": "person"
+      },
+      {
+        "id": "23831",
+        "label": "莎赫扎德",
+        "info": "魔笛Magi中的四个magi之一，名字来源于一千零一夜的女主角。虽然外表上看上去是一个金发萝莉，可真实年龄已经268岁了。用心守护雷姆帝国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/91/23831_crt_4oKEN.jpg?r=1473068866",
+        "link": "https://bgm.tv/character/23831",
+        "categorie": "person"
+      },
+      {
+        "id": "23832",
+        "label": "缇特斯·阿勒奇乌斯",
+        "info": "隶属雷姆帝国的MAGI莎赫扎德，在学院是和阿拉丁同等水平的优等生。遇到阿拉丁之前性格冷漠傲慢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/c9/23832_crt_NUVX6.jpg",
+        "link": "https://bgm.tv/character/23832",
+        "categorie": "person"
+      },
+      {
+        "id": "24493",
+        "label": "多拉公",
+        "info": "辛德利亚八人将之一。辛巴德最初的眷属。原名德拉库尔‧瑙鲁‧赫利乌斯‧戈比亚斯‧梅努迪亚斯‧帕尔努波诺米亚斯‧多米德‧奥乌斯‧克尔塔诺恩。因为名字太长了直接被辛巴德简称为多拉公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/2c/24493_crt_w221j.jpg",
+        "link": "https://bgm.tv/character/24493",
+        "categorie": "person"
+      },
+      {
+        "id": "24495",
+        "label": "席纳霍霍",
+        "info": "辛德利亚八人将之一。辛巴德遇到的第二个八人将，来自极北秘境，伊姆查克的战士。体型巨大（伊姆查克族的特征）。很爱自己的孩子。妻子已去世。妻子露露姆为是伊姆查克族首长拉梅托托的女儿，自称喜欢妻子漂亮的肌肉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/95/24495_crt_bw3Bl.jpg",
+        "link": "https://bgm.tv/character/24495",
+        "categorie": "person"
+      },
+      {
+        "id": "24496",
+        "label": "玛塔路·莫迦梅特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/0c/24496_crt_4BKLM.jpg",
+        "link": "https://bgm.tv/character/24496",
+        "categorie": "person"
+      },
+      {
+        "id": "24497",
+        "label": "穆·阿勒奇乌斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/61/24497_crt_NAZmc.jpg",
+        "link": "https://bgm.tv/character/24497",
+        "categorie": "person"
+      },
+      {
+        "id": "24498",
+        "label": "ミュロン・アレキウス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/05/24498_crt_40SY1.jpg",
+        "link": "https://bgm.tv/character/24498",
+        "categorie": "person"
+      },
+      {
+        "id": "24499",
+        "label": "皮斯缇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8c/24499_crt_xDgGP.jpg",
+        "link": "https://bgm.tv/character/24499",
+        "categorie": "person"
+      },
+      {
+        "id": "24500",
+        "label": "練紅炎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/19/24500_crt_elrLf.jpg",
+        "link": "https://bgm.tv/character/24500",
+        "categorie": "person"
+      },
+      {
+        "id": "24501",
+        "label": "练红霸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/45/24501_crt_4J0jR.jpg?r=1473069150",
+        "link": "https://bgm.tv/character/24501",
+        "categorie": "person"
+      },
+      {
+        "id": "24502",
+        "label": "練紅明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/91/24502_crt_37wYw.jpg",
+        "link": "https://bgm.tv/character/24502",
+        "categorie": "person"
+      },
+      {
+        "id": "24503",
+        "label": "ロゥロゥ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/48/24503_crt_Dmm7s.jpg",
+        "link": "https://bgm.tv/character/24503",
+        "categorie": "person"
+      },
+      {
+        "id": "24504",
+        "label": "迦尔鲁卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/5d/24504_crt_qsMZr.jpg",
+        "link": "https://bgm.tv/character/24504",
+        "categorie": "person"
+      },
+      {
+        "id": "24505",
+        "label": "斯帕尔多斯·雷欧塞斯",
+        "info": "辛德利亚八人将之一。性格老实巴交，认真到不可思议的人。祖国禁止玩女人和喝酒，对人与人之间的交往做了非常严厉的限制，所以不太擅长与人交往，尤其是女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/a8/24505_crt_0o8uD.jpg",
+        "link": "https://bgm.tv/character/24505",
+        "categorie": "person"
+      },
+      {
+        "id": "24506",
+        "label": "斯芬托斯·卡门",
+        "info": "阿拉丁在马格诺修泰德学院的同学兼室友，来自哈利奥巴布德一个没落贵族家庭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/88/24506_crt_G5OW8.jpg",
+        "link": "https://bgm.tv/character/24506",
+        "categorie": "person"
+      },
+      {
+        "id": "24507",
+        "label": "多多",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/7b/24507_crt_vtoIi.jpg",
+        "link": "https://bgm.tv/character/24507",
+        "categorie": "person"
+      },
+      {
+        "id": "24508",
+        "label": "雅姆莱哈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/88/24508_crt_JjI8t.jpg",
+        "link": "https://bgm.tv/character/24508",
+        "categorie": "person"
+      },
+      {
+        "id": "24509",
+        "label": "アガレス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/52/24509_crt_nAn2r.jpg",
+        "link": "https://bgm.tv/character/24509",
+        "categorie": "person"
+      },
+      {
+        "id": "24510",
+        "label": "尤纳恩",
+        "info": "游走世界并在各地召唤及回收迷宫的MAGI，曾在帕鲁提比亚的提逊村的港口\"巧遇\"辛巴德并引导他攻略第一迷宫，似乎喜欢阴暗又狭窄的地方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e9/24510_crt_C559L.jpg",
+        "link": "https://bgm.tv/character/24510",
+        "categorie": "person"
+      },
+      {
+        "id": "24513",
+        "label": "練玉艶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/a8/24513_crt_8NODH.jpg?r=1473069051",
+        "link": "https://bgm.tv/character/24513",
+        "categorie": "person"
+      },
+      {
+        "id": "24514",
+        "label": "李青秀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/3c/24514_crt_92d8z.jpg",
+        "link": "https://bgm.tv/character/24514",
+        "categorie": "person"
+      },
+      {
+        "id": "24515",
+        "label": "玛露迦",
+        "info": "原五等许可区平民，魔力被吸光将死之时为阿拉丁一行所救。很喜欢缇特斯。在莫迦梅特授意下由缇特斯带出五等许可区，和缇特斯住在一起。梦想是看看外面的普通城市。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/33/24515_crt_xTC3d.jpg",
+        "link": "https://bgm.tv/character/24515",
+        "categorie": "person"
+      },
+      {
+        "id": "24516",
+        "label": "イレーヌ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/1d/24516_crt_t6D08.jpg",
+        "link": "https://bgm.tv/character/24516",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "58841",
+        "label": "船長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/d2/58841_crt_YOEL4.jpg",
+        "link": "https://bgm.tv/character/58841",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

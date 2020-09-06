@@ -1,0 +1,261 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "292",
+        "label": "黑",
+        "info": "本作的主人公，契约者，梅西耶代号BK-201，能力是自由操纵电流。代价不明。隶属组织的一个行动小队，在东京进行特工活动。平常的身份是中国留学生李舜生，居住在海月庄公寓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/4f/292_crt_aMPWP.jpg?r=1568771715",
+        "link": "https://bgm.tv/character/292",
+        "categorie": "person"
+      },
+      {
+        "id": "293",
+        "label": "银",
+        "info": "原名Kirsi（芬兰名，意为“樱桃”），来自北欧的17岁目盲少女，以水作为媒介操纵观测灵的Doll。在黑的小队中负责情报搜索的支援工作。平常的身份是离黑的住所不远一间烟草铺的看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/82/293_crt_uzbcR.jpg?r=1491230861",
+        "link": "https://bgm.tv/character/293",
+        "categorie": "person"
+      },
+      {
+        "id": "294",
+        "label": "猫",
+        "info": "形态为黑猫的契约者，在黑的小队中负责行动支援。能力为身体转换（但除本体外只能与动物转换），后来因某事件，失去了自己本来的身体，在失去身体的同时，使用能力的代价也全部支付完了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/83/294_y2TtW.jpg",
+        "link": "https://bgm.tv/character/294",
+        "categorie": "person"
+      },
+      {
+        "id": "295",
+        "label": "黄",
+        "info": "本名久能洁。普通人类。黑的小队的负责人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/18/295_0zm0T.jpg",
+        "link": "https://bgm.tv/character/295",
+        "categorie": "person"
+      },
+      {
+        "id": "296",
+        "label": "雾原未咲",
+        "info": "警视厅公安部外事四课的课长，主要负责调查有关契约者的案件。投力极大心力调查有关BK-201的案件，最后知道了李舜生就是黑的事实，并解除了敌意，努力寻找有关组织的一切真相，但没有找到实质证据。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/96/296_iInlU.jpg",
+        "link": "https://bgm.tv/character/296",
+        "categorie": "person"
+      },
+      {
+        "id": "297",
+        "label": "Amber/琥珀",
+        "info": "契约者团体“月见草”（EPR）的领导者。梅西耶代号UB-001，亦是首个被观测到的契约者。能力是操纵时间，代价是身体年龄倒退。每使用一次能力，年龄约缩小2岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/44/297_crt_ZwWp4.jpg",
+        "link": "https://bgm.tv/character/297",
+        "categorie": "person"
+      },
+      {
+        "id": "298",
+        "label": "白",
+        "info": "黑的妹妹，契约者，梅西耶代号BK-201的真正所属者。能力与黑相同，代价是睡眠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/e3/298_CN8zS.jpg",
+        "link": "https://bgm.tv/character/298",
+        "categorie": "person"
+      },
+      {
+        "id": "8582",
+        "label": "November 11",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/28/8582_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8582",
+        "categorie": "person"
+      },
+      {
+        "id": "1694",
+        "label": "April",
+        "info": "M16的代理人也是契约者。 有能聚集大气中的水分制造出雨云，在局部降下大雨 的能力。代价是饮酒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/75/1694_A1X58.jpg",
+        "link": "https://bgm.tv/character/1694",
+        "categorie": "person"
+      },
+      {
+        "id": "6763",
+        "label": "筱田千晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/68/6763_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6763",
+        "categorie": "person"
+      },
+      {
+        "id": "6764",
+        "label": "路易",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/46/6764_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6764",
+        "categorie": "person"
+      },
+      {
+        "id": "8488",
+        "label": "茅沼纪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/23/8488_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8488",
+        "categorie": "person"
+      },
+      {
+        "id": "8585",
+        "label": "雨雾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/be/8585_crt_7qODg.jpg",
+        "link": "https://bgm.tv/character/8585",
+        "categorie": "person"
+      },
+      {
+        "id": "8586",
+        "label": "布丽塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/a7/8586_crt_t4WCk.jpg",
+        "link": "https://bgm.tv/character/8586",
+        "categorie": "person"
+      },
+      {
+        "id": "8587",
+        "label": "アラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/d7/8587_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8587",
+        "categorie": "person"
+      },
+      {
+        "id": "8590",
+        "label": "July",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/e4/8590_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8590",
+        "categorie": "person"
+      },
+      {
+        "id": "8591",
+        "label": "ディケイド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/9c/8591_crt_1D3uP.jpg",
+        "link": "https://bgm.tv/character/8591",
+        "categorie": "person"
+      },
+      {
+        "id": "8592",
+        "label": "ロバート・シュレーダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/ff/8592_crt_yULlB.jpg",
+        "link": "https://bgm.tv/character/8592",
+        "categorie": "person"
+      },
+      {
+        "id": "8593",
+        "label": "アリス・王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/93/8593_crt_anidb.jpg?r=1491759164",
+        "link": "https://bgm.tv/character/8593",
+        "categorie": "person"
+      },
+      {
+        "id": "8595",
+        "label": "カリーナ・モク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/17/8595_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8595",
+        "categorie": "person"
+      },
+      {
+        "id": "8597",
+        "label": "贝尔塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/de/8597_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8597",
+        "categorie": "person"
+      },
+      {
+        "id": "9720",
+        "label": "斋藤雄介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/df/9720_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9720",
+        "categorie": "person"
+      },
+      {
+        "id": "10115",
+        "label": "久良泽凱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/ba/10115_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10115",
+        "categorie": "person"
+      },
+      {
+        "id": "8584",
+        "label": "イブニング・プリムローズ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8584",
+        "categorie": "person"
+      },
+      {
+        "id": "9721",
+        "label": "石崎香那美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/98/9721_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9721",
+        "categorie": "person"
+      },
+      {
+        "id": "10242",
+        "label": "マユコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/79/10242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10242",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "6767",
+        "label": "Physicalquantity Alternation Natural Deconstruction Organized Research Agency",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6767",
+        "categorie": "person"
+      },
+      {
+        "id": "7104",
+        "label": "中央情报局",
+        "info": "中央情报局是美国主要的情报机构之一，主要任务是公开和秘密地收集和分析关于国外政府、公司和个人；政治、文化、科技等方面的情报，协调其他国内情报机构的活动，并把这些情报报告到美国政府各个部门的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/c9/7104_crt_v8YT1.jpg",
+        "link": "https://bgm.tv/character/7104",
+        "categorie": "person"
+      },
+      {
+        "id": "8588",
+        "label": "MI6",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8588",
+        "categorie": "person"
+      },
+      {
+        "id": "8596",
+        "label": "ロシア連邦保安庁",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8596",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

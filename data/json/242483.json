@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62496",
+        "label": "关织子",
+        "info": "春の屋の若おかみとなってしまったが、お客さまを喜ばせるために一生懸命接客していく中で、若おかみとしての自覚が芽生えてゆく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/2c/62496_crt_k73Hd.jpg",
+        "link": "https://bgm.tv/character/62496",
+        "categorie": "person"
+      },
+      {
+        "id": "62498",
+        "label": "秋野真月",
+        "info": "おっこの同級生で、花の湯温泉―の大旅館・秋好旅館のあととり娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/14/62498_crt_h2Uh5.jpg",
+        "link": "https://bgm.tv/character/62498",
+        "categorie": "person"
+      },
+      {
+        "id": "62497",
+        "label": "立卖诚",
+        "info": "春の屋に住みつくユーレイ少年。姿は12歳だが、中身は70代の幽霊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/95/62497_crt_B1wMN.jpg",
+        "link": "https://bgm.tv/character/62497",
+        "categorie": "person"
+      },
+      {
+        "id": "62499",
+        "label": "关峰子",
+        "info": "おっこの母方の祖母。春の屋をひとりで切り盛りする。少女時代にウリ坊とは幼馴染だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/06/62499_crt_tAvgv.jpg",
+        "link": "https://bgm.tv/character/62499",
+        "categorie": "person"
+      },
+      {
+        "id": "62500",
+        "label": "田岛悦子",
+        "info": "春の屋のベテラン仲居。働き者で涙もろい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/6e/62500_crt_drU1z.jpg",
+        "link": "https://bgm.tv/character/62500",
+        "categorie": "person"
+      },
+      {
+        "id": "62501",
+        "label": "蓑田康之介",
+        "info": "春の屋の板前。春の屋の厨房をあずかる、昔かたぎの料理人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/ed/62501_crt_Bmpk3.jpg",
+        "link": "https://bgm.tv/character/62501",
+        "categorie": "person"
+      },
+      {
+        "id": "62503",
+        "label": "秋野美阳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/1f/62503_crt_QD6Ig.jpg",
+        "link": "https://bgm.tv/character/62503",
+        "categorie": "person"
+      },
+      {
+        "id": "62502",
+        "label": "铃鬼",
+        "info": "古い鈴に住み着いていた小さな子鬼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/c3/62502_crt_uXj8j.jpg?r=1550916474",
+        "link": "https://bgm.tv/character/62502",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

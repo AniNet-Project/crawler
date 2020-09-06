@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47559",
+        "label": "长谷川平藏",
+        "info": "火付盗賊改方・長官。罪人たちを厳しく取り締まることから鬼の平蔵と言われているが、＜盗人ぬすっと三箇条＞を守る盗賊には寛容さを持ち合わせており、人情に溢れた人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/4f/47559_crt_8686f.jpg",
+        "link": "https://bgm.tv/character/47559",
+        "categorie": "person"
+      },
+      {
+        "id": "47560",
+        "label": "おまさ",
+        "info": "平蔵を慕う女密偵。かつて盗賊「狐火」の一味として盗みを働いていたが、ある時平蔵に助けられたことがあり、その恩義から今は密偵として平蔵に仕えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/3b/47560_crt_63t6z.jpg",
+        "link": "https://bgm.tv/character/47560",
+        "categorie": "person"
+      },
+      {
+        "id": "47561",
+        "label": "长谷川辰藏",
+        "info": "平蔵の息子。遊びたい盛りで、平蔵や久栄を困らせることも多々あるが、平蔵のことを尊敬している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/58/47561_crt_z1Xjy.jpg",
+        "link": "https://bgm.tv/character/47561",
+        "categorie": "person"
+      },
+      {
+        "id": "49613",
+        "label": "お順",
+        "info": "平蔵の娘。実の娘ではなく、養女として平蔵宅に迎え入れられる。おてんばだが皆に愛され、すくすくと育っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/46/49613_crt_qK0kK.jpg?r=1482881590",
+        "link": "https://bgm.tv/character/49613",
+        "categorie": "person"
+      },
+      {
+        "id": "49614",
+        "label": "久荣",
+        "info": "平蔵の妻。料理上手でさばけた性格。久栄が実家に住んでいた頃、平蔵とは隣人だった。平蔵に嫁いでからは幸せな日々を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/d0/49614_crt_v77Wv.jpg",
+        "link": "https://bgm.tv/character/49614",
+        "categorie": "person"
+      },
+      {
+        "id": "49615",
+        "label": "木村忠吾",
+        "info": "火付盗賊改方・同心。色気、食い気が盛ん。うさぎ饅頭に似ているので「うさ忠」と呼ばれる、愛嬌のある存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/16/49615_crt_136GE.jpg",
+        "link": "https://bgm.tv/character/49615",
+        "categorie": "person"
+      },
+      {
+        "id": "49616",
+        "label": "佐嶋忠介",
+        "info": "火付盗賊改方・筆頭与力。平蔵が頭を下げて自分の配下にきてもらったほど、全幅の信頼を置いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a6/49616_crt_DCTyT.jpg",
+        "link": "https://bgm.tv/character/49616",
+        "categorie": "person"
+      },
+      {
+        "id": "49617",
+        "label": "酒井祐助",
+        "info": "火付盗賊改方・筆頭同心。剣の達人。与力の佐嶋を助けて、他の同心を束ねていく冷静有能な士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/ef/49617_crt_4aJAE.jpg",
+        "link": "https://bgm.tv/character/49617",
+        "categorie": "person"
+      },
+      {
+        "id": "49618",
+        "label": "小柳安五郎",
+        "info": "火付盗賊改方・同心。妻子を亡くし、以来、独り身を貫いて仕事一途。もともとは心優しい男である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/8a/49618_crt_1lZH9.jpg",
+        "link": "https://bgm.tv/character/49618",
+        "categorie": "person"
+      },
+      {
+        "id": "49619",
+        "label": "彦十",
+        "info": "老密偵。無頼時代の平蔵の取り巻きで元香具師。平蔵に頼まれ手助けしたのをきっかけに、密偵となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/dc/49619_crt_4OIJn.jpg",
+        "link": "https://bgm.tv/character/49619",
+        "categorie": "person"
+      },
+      {
+        "id": "49620",
+        "label": "粂八",
+        "info": "密偵。元盗賊。平蔵に捕縛され、凄絶な拷問にも仲間を裏切らなかったが、そののち密偵になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/81/49620_crt_Vzkzl.jpg",
+        "link": "https://bgm.tv/character/49620",
+        "categorie": "person"
+      },
+      {
+        "id": "49621",
+        "label": "岸井左馬之助",
+        "info": "平蔵の親友。同い年で、若い頃は共に高杉道場で剣の腕を磨いた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/67/49621_crt_aCA4d.jpg",
+        "link": "https://bgm.tv/character/49621",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

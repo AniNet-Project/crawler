@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35388",
+        "label": "木幡真琴",
+        "info": "魔女。マイペースでおっとりした性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/73/35388_crt_6TwkR.jpg?r=1455675174",
+        "link": "https://bgm.tv/character/35388",
+        "categorie": "person"
+      },
+      {
+        "id": "35390",
+        "label": "仓本圭",
+        "info": "倉本家の長男で千夏の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/7e/35390_crt_85CC8.jpg?r=1455675290",
+        "link": "https://bgm.tv/character/35390",
+        "categorie": "person"
+      },
+      {
+        "id": "35391",
+        "label": "仓本千夏",
+        "info": "好奇心旺盛で活発な小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/d3/35391_crt_nXT04.jpg?r=1455675344",
+        "link": "https://bgm.tv/character/35391",
+        "categorie": "person"
+      },
+      {
+        "id": "39269",
+        "label": "千户",
+        "info": "真琴の使い魔。17年間生きていて真琴よりも年上。頭がよく、冷静で落ち着いているが、 いたずら好き。出不精のため太りやすく、時々ダイエットをすることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/61/39269_crt_to1Ja.jpg?r=1457190642",
+        "link": "https://bgm.tv/character/39269",
+        "categorie": "person"
+      },
+      {
+        "id": "35392",
+        "label": "犬养",
+        "info": "茜の友人。とある一件をきっかけに昼間は犬の姿になってしまうようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/5e/35392_crt_C4UJh.jpg?r=1457190370",
+        "link": "https://bgm.tv/character/35392",
+        "categorie": "person"
+      },
+      {
+        "id": "35393",
+        "label": "石渡直",
+        "info": "真琴のクラスメイトで、圭とは幼馴染。おしゃれとスタイルには、常に気を遣っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/a3/35393_crt_m32G7.jpg?r=1457190240",
+        "link": "https://bgm.tv/character/35393",
+        "categorie": "person"
+      },
+      {
+        "id": "37916",
+        "label": "木幡茜",
+        "info": "自由奔放な真琴の姉。魔術の才能があり、魔女の中ではちょっとした有名人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/a9/37916_crt_3B3wg.jpg?r=1457189626",
+        "link": "https://bgm.tv/character/37916",
+        "categorie": "person"
+      },
+      {
+        "id": "37917",
+        "label": "椎名杏子",
+        "info": "考古学が趣味の中学生。普段は落ち着いているが、古い建造物などを見るとテンションが上がる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/18/37917_crt_5tKVB.jpg?r=1457190296",
+        "link": "https://bgm.tv/character/37917",
+        "categorie": "person"
+      },
+      {
+        "id": "39271",
+        "label": "肯尼",
+        "info": "茜の使い魔。人類学、考古学に詳しく、博学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/25/39271_crt_Ryc7Y.jpg?r=1457190135",
+        "link": "https://bgm.tv/character/39271",
+        "categorie": "person"
+      },
+      {
+        "id": "39272",
+        "label": "阿尔",
+        "info": "犬養の使い魔のハムスター。猫が苦手でチト、ケニーの前では少し挙動不審になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/57/39272_crt_MZ7Di.jpg?r=1457190678",
+        "link": "https://bgm.tv/character/39272",
+        "categorie": "person"
+      },
+      {
+        "id": "40598",
+        "label": "仓本奈奈",
+        "info": "圭と千夏の母親。絵本作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/b8/40598_crt_UDtYb.jpg?r=1460891003",
+        "link": "https://bgm.tv/character/40598",
+        "categorie": "person"
+      },
+      {
+        "id": "40599",
+        "label": "春之搬运工",
+        "info": "覆面をした長身の男。冬を送り、春を運んでくる。弘前に魔女がやって来たと聞いて、真琴の元を訪ねる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/ab/40599_crt_tbH22.jpg?r=1460891455",
+        "link": "https://bgm.tv/character/40599",
+        "categorie": "person"
+      },
+      {
+        "id": "40751",
+        "label": "仓本启司",
+        "info": "圭と千夏の父親。農家をしている。津軽弁の訛りが強い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/ae/40751_crt_35WJ4.jpg?r=1461477935",
+        "link": "https://bgm.tv/character/40751",
+        "categorie": "person"
+      },
+      {
+        "id": "41937",
+        "label": "雏",
+        "info": "「コンクルシオ」の店員の幽霊。明治39年生まれ。恥ずかしがり屋なため、普段は姿を消して筆談で応対している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/08/41937_crt_b1Nuz.jpg?r=1463914500",
+        "link": "https://bgm.tv/character/41937",
+        "categorie": "person"
+      },
+      {
+        "id": "42062",
+        "label": "杏子的母亲",
+        "info": "「コンクルシオ」のオーナーで、おっとりとした腕の立つ魔女。\"向こう\"との交流の場である喫茶店に魔法をかけて一般の人には廃墟に見えるようしている。また、その魔法は喫茶店の前で二礼二拍手一礼すると一時的に解ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/53/42062_crt_i0tVS.jpg?r=1464515351",
+        "link": "https://bgm.tv/character/42062",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "40752",
+        "label": "天气预报的姐姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/00/40752_crt_uNSls.jpg?r=1462101727",
+        "link": "https://bgm.tv/character/40752",
+        "categorie": "person"
+      },
+      {
+        "id": "41119",
+        "label": "お婆ちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/02/41119_crt_256F1.jpg",
+        "link": "https://bgm.tv/character/41119",
+        "categorie": "person"
+      },
+      {
+        "id": "41120",
+        "label": "店员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/d1/41120_crt_SCfZt.jpg?r=1462100669",
+        "link": "https://bgm.tv/character/41120",
+        "categorie": "person"
+      },
+      {
+        "id": "41376",
+        "label": "老大娘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/01/41376_crt_e211E.jpg",
+        "link": "https://bgm.tv/character/41376",
+        "categorie": "person"
+      },
+      {
+        "id": "41377",
+        "label": "少年",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/3e/41377_crt_qiRjx.jpg",
+        "link": "https://bgm.tv/character/41377",
+        "categorie": "person"
+      },
+      {
+        "id": "42061",
+        "label": "おじさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/36/42061_crt_f2n6g.jpg",
+        "link": "https://bgm.tv/character/42061",
+        "categorie": "person"
+      },
+      {
+        "id": "42463",
+        "label": "家庭科の先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/aa/42463_crt_bKID4.jpg?r=1465693283",
+        "link": "https://bgm.tv/character/42463",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72144",
+        "label": "久我悠人",
+        "info": "海沿いの街に暮らす１７歳の高校生。GBNのダイバー歴は長く、ビルダー、ファイター共にその腕前は上級者クラス。しかし最近では傭兵プレイを行いながら、GBN中のディメンションの中でかつて失った誰かを探し続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/cf/72144_crt_51jpS.jpg?r=1586432693",
+        "link": "https://bgm.tv/character/72144",
+        "categorie": "person"
+      },
+      {
+        "id": "72145",
+        "label": "鸟町风见",
+        "info": "動画共有サービスG-Tubeの有名配信ダイバー、キャプテン・ジオンに憧れ、様々なパーティを渡り歩きながらヒーローを目指すお調子者ダイバー。しかし連携が苦手で、戦績も決してほめられたものではないが、持ち前の気楽さでＧＢＮを楽しんでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/c0/72145_crt_nCpz9.jpg?r=1586432808",
+        "link": "https://bgm.tv/character/72145",
+        "categorie": "person"
+      },
+      {
+        "id": "72147",
+        "label": "芽依",
+        "info": "ソロプレイを信条とする女性ダイバー。ガンプラバトルにしか興味がなく、日々ＧＢＮでバトルを行っている。最善の戦略をすぐに割り出し、冷静に相手を追い詰めていくバトルスタイルで、ダイバー達から恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a0/72147_crt_Dd66q.jpg?r=1586432895",
+        "link": "https://bgm.tv/character/72147",
+        "categorie": "person"
+      },
+      {
+        "id": "72148",
+        "label": "帕特里克•亚历山大•莱奥纳•阿尔及尔",
+        "info": "尊敬する兄のすすめでＧＢＮを始めたばかりの初心者。オンラインゲームの醍醐味であるパーティープレイやフォース結成などに強い憧れを抱くが、引っ込み思案で小心者な性格のためにいまだ未経験。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/12/72148_crt_yqUao.jpg?r=1586433067",
+        "link": "https://bgm.tv/character/72148",
+        "categorie": "person"
+      },
+      {
+        "id": "72149",
+        "label": "佛莱迪",
+        "info": "ヒロト達を新たなステージへみちびく水先案内人。とても好奇心旺盛で、とても早とちりな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/62/72149_crt_iE2ht.jpg?r=1586433105",
+        "link": "https://bgm.tv/character/72149",
+        "categorie": "person"
+      },
+      {
+        "id": "76625",
+        "label": "向居雏田",
+        "info": "クガ家とは家族ぐるみの付き合いがあるムカイ家の一人娘で、ヒロトの幼なじみ。学校では弓道部に所属している朗らかな文系少女。「G-CAFÉ」のスタッフとしてアルバイトを始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/52/76625_crt_ZKSMq.jpg?r=1586433366",
+        "link": "https://bgm.tv/character/76625",
+        "categorie": "person"
+      },
+      {
+        "id": "76626",
+        "label": "迈雅",
+        "info": "フレディの姉。面倒見がよく、正義感も強い山の民の女性。そのせいか、あまり冗談の通じない性格でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/7d/76626_crt_tT636.jpg?r=1586433432",
+        "link": "https://bgm.tv/character/76626",
+        "categorie": "person"
+      },
+      {
+        "id": "76624",
+        "label": "依芙",
+        "info": "ヒロトがかつてＧＢＮで出会った女性ダイバー。彼女と共に過ごした時間は、ヒロトにとって何よりも大切な記憶となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/3b/76624_crt_U7iJU.jpg?r=1586433270",
+        "link": "https://bgm.tv/character/76624",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

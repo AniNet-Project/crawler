@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44423",
+        "label": "飯井原なお",
+        "info": "学園の女学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/47/44423_crt_Nj75Z.jpg",
+        "link": "https://bgm.tv/character/44423",
+        "categorie": "person"
+      },
+      {
+        "id": "44425",
+        "label": "筑紫野みつぐ",
+        "info": "学園の女学生。なおのクラスメートで大の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a7/44425_crt_26269.jpg",
+        "link": "https://bgm.tv/character/44425",
+        "categorie": "person"
+      },
+      {
+        "id": "44426",
+        "label": "一条大介",
+        "info": "主人公。私立衣更学園の新任教師。実家は病院を経営している。祖母と透子に無理矢理、「職業適性診断」の担当者に任命される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/44426",
+        "categorie": "person"
+      },
+      {
+        "id": "44427",
+        "label": "衣更麻耶",
+        "info": "料理、勉強、スポーツ、何でも出来るパーフェクト少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/01/44427_crt_ExcxV.jpg",
+        "link": "https://bgm.tv/character/44427",
+        "categorie": "person"
+      },
+      {
+        "id": "44429",
+        "label": "天宮桃菜",
+        "info": "性格はおとなしく照れ屋でドジっ子。しかし、幼児体形に似合わぬバストの持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/bb/44429_crt_V466W.jpg",
+        "link": "https://bgm.tv/character/44429",
+        "categorie": "person"
+      },
+      {
+        "id": "44431",
+        "label": "宮鴬住藍銀煤竹出雲守明朝仁ミカ",
+        "info": "勝気で人を見下す傾向があるが従順な人間に対しては甘い。様々な要望に「かわいいじゃねーか！」などと言いながら、答えてくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/d7/44431_crt_PI9s4.jpg",
+        "link": "https://bgm.tv/character/44431",
+        "categorie": "person"
+      },
+      {
+        "id": "44432",
+        "label": "新条叶",
+        "info": "海が大好きな困ったお人。性格はのんきというかマイペース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/a5/44432_crt_z1A2d.jpg",
+        "link": "https://bgm.tv/character/44432",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

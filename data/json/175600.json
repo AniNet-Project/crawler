@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15132",
+        "label": "间桐脏砚",
+        "info": "\"五百多年——呵。回想起来，只是瞬间即逝的宿愿。\"",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/21/15132_crt_b90g7.jpg?r=1560504010",
+        "link": "https://bgm.tv/character/15132",
+        "categorie": "person"
+      },
+      {
+        "id": "27912",
+        "label": "阿萨辛派",
+        "info": "阿萨辛派属于伊斯兰教伊斯玛仪派支系尼查里派的异端，以里海南岸山区为根据地。“阿萨辛派”在中国古籍中被称为木剌夷，木罗夷或木乃奚。英语单词“assassin（暗杀）”的词源便是由教派之名而来。他们因各种不同的政治或宗教目的而受雇于人，约活跃在公元8世纪到14世纪，专门对阿拔斯王朝的精英进行恐怖主义式的大胆处决或政治性的暗杀，是一个激进好战的组织。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/29/27912_crt_5Z857.jpg",
+        "link": "https://bgm.tv/character/27912",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

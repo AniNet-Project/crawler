@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11625",
+        "label": "逢泽步",
+        "info": "沉默寡言的初中生，在夏季来到父亲的所在的乡村“田菜”。个性不是积极与人交往的类型，因此没有朋友。喜欢乘山地车外游，是最初认识神秘少年的人，在追寻神秘发光体的过程中常有不可思议的经验。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/02/11625_crt_RbNBG.jpg",
+        "link": "https://bgm.tv/character/11625",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

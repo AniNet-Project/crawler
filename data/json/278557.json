@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70562",
+        "label": "慎之／金室慎之介",
+        "info": "来自13年前的、18岁的金室慎之介。为什么他穿越了时间，本人也是一头雾水。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/e8/70562_crt_SES8Z.jpg?r=1592035586",
+        "link": "https://bgm.tv/character/70562",
+        "categorie": "person"
+      },
+      {
+        "id": "70563",
+        "label": "相生茜",
+        "info": "葵的姐姐。工作于市役所，31岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d4/70563_crt_GdV8O.jpg?r=1571294324",
+        "link": "https://bgm.tv/character/70563",
+        "categorie": "person"
+      },
+      {
+        "id": "70564",
+        "label": "相生葵",
+        "info": "毕业进路未定的17岁高二学生。13年前因事故而失去了双亲，与姐姐·茜两人相依为命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/e4/70564_crt_24U77.jpg?r=1593461384",
+        "link": "https://bgm.tv/character/70564",
+        "categorie": "person"
+      },
+      {
+        "id": "70561",
+        "label": "中村正道",
+        "info": "负责音乐祭的运营的市役所职员。离过一次婚的31岁，昵称是みちんこ（阿道）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/f5/70561_crt_Z4izh.jpg?r=1571305210",
+        "link": "https://bgm.tv/character/70561",
+        "categorie": "person"
+      },
+      {
+        "id": "72291",
+        "label": "中村正嗣",
+        "info": "正道的独子，昵称是“ツグ（阿嗣）”。小学五年级，11岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/22/72291_crt_q9Mwc.jpg?r=1571314083",
+        "link": "https://bgm.tv/character/72291",
+        "categorie": "person"
+      },
+      {
+        "id": "72292",
+        "label": "大泷千佳",
+        "info": "和葵同学年，高二的17岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/f0/72292_crt_Y8LV3.jpg?r=1571314096",
+        "link": "https://bgm.tv/character/72292",
+        "categorie": "person"
+      },
+      {
+        "id": "70565",
+        "label": "新渡户团吉",
+        "info": "知名演歌歌手，慎之介是他的伴奏乐队其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/fe/70565_crt_3sW5R.jpg?r=1571248203",
+        "link": "https://bgm.tv/character/70565",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

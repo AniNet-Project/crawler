@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9160",
+        "label": "ケロロ軍曹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/12/9160_crt_22xJk.jpg",
+        "link": "https://bgm.tv/character/9160",
+        "categorie": "person"
+      },
+      {
+        "id": "9489",
+        "label": "ギロロ伍長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/08/9489_crt_E11NZ.jpg",
+        "link": "https://bgm.tv/character/9489",
+        "categorie": "person"
+      },
+      {
+        "id": "13208",
+        "label": "日向冬树",
+        "info": "Keroro所寓居之日向家中的长子，排行第二；母亲是日向秋，日向夏美则是他的姊姊，同时也是Keroro的最佳伙伴兼好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/71/13208_crt_XXPHA.jpg",
+        "link": "https://bgm.tv/character/13208",
+        "categorie": "person"
+      },
+      {
+        "id": "26305",
+        "label": "タママ二等兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/d3/26305_crt_tITcF.jpg",
+        "link": "https://bgm.tv/character/26305",
+        "categorie": "person"
+      },
+      {
+        "id": "60480",
+        "label": "米拉拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/7d/60480_crt_Z544Y.jpg",
+        "link": "https://bgm.tv/character/60480",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

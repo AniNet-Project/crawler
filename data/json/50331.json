@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17362",
+        "label": "小鸟游六花",
+        "info": "メインヒロイン。現役中二病患者で、自称「邪王真眼の使い手」。理数系は壊滅的なほどできないが、中二病の影響で国語や社会および英語はそこそこできる。裁縫は得意だが料理はできない。作者あとがきによると最終的にお馬鹿でまったく面影もなくなってしまったが涼宮ハルヒシリーズの長門有希がモデルの模様。アニメ公式HPのトップでもっている銃はモーゼルC96(モーゼルミリタリー)である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/6c/17362_crt_arOme.jpg?r=1361630021",
+        "link": "https://bgm.tv/character/17362",
+        "categorie": "person"
+      },
+      {
+        "id": "17363",
+        "label": "富樫勇太",
+        "info": "主人公。元中二病患者で高校生活を充実した物にするため中学卒業とともに猛勉強して中二病も卒業した。しかし、屋上で隠れて中二病的なセリフを叫んだり、学校に「闇」の文字が入ったTシャツを着てきたりするなどまだ完治はしていない。そこを六花に目撃され、契約する羽目になった。周囲に元中二病だったことを隠しているが、Tシャツなどの件はバレバレ。猛勉強したため成績は全般的に優秀。英語が比較的苦手の模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/83/17363_crt_efqIF.jpg?r=1361630049",
+        "link": "https://bgm.tv/character/17363",
+        "categorie": "person"
+      },
+      {
+        "id": "17364",
+        "label": "丹生谷森夏",
+        "info": "高等部1年4組→2年4組。勇太のクラスメイトで委員長。容姿端麗、クラスでも一、二を争う美少女で男子の人気を集めるマドンナであり「学級王」とも呼ばれる。ピンクのクリップで前髪を整えている。学業成績は優秀だが数学だけは苦手。ダンス部に所属している。「もりさま」と呼ばれると怒る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/20/17364_crt_klp1q.jpg",
+        "link": "https://bgm.tv/character/17364",
+        "categorie": "person"
+      },
+      {
+        "id": "17366",
+        "label": "富樫樟叶",
+        "info": "勇太の上の妹。中学1年生。不在の父母の代わりに家事をこなしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/bc/17366_crt_GXsXk.jpg?r=1443446796",
+        "link": "https://bgm.tv/character/17366",
+        "categorie": "person"
+      },
+      {
+        "id": "17367",
+        "label": "富樫梦叶",
+        "info": "勇太の下の妹。5歳。将来有望（中二病患者として）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/e0/17367_crt_GajqQ.jpg",
+        "link": "https://bgm.tv/character/17367",
+        "categorie": "person"
+      },
+      {
+        "id": "17369",
+        "label": "凸守早苗",
+        "info": "現役中二病患者で、六花の唯一無二な「サーヴァント」という設定。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/04/17369_crt_Zt1b8.jpg",
+        "link": "https://bgm.tv/character/17369",
+        "categorie": "person"
+      },
+      {
+        "id": "17370",
+        "label": "勇太的母亲",
+        "info": "勇太の母親",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/87/17370_crt_p6FKY.jpg",
+        "link": "https://bgm.tv/character/17370",
+        "categorie": "person"
+      },
+      {
+        "id": "72919",
+        "label": "奇美拉",
+        "info": "动画原创角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/8f/72919_crt_Km33l.jpg",
+        "link": "https://bgm.tv/character/72919",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

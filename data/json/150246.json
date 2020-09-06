@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2901",
+        "label": "相良宗介",
+        "info": "この物語の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/02/2901_crt_ocDCJ.jpg",
+        "link": "https://bgm.tv/character/2901",
+        "categorie": "person"
+      },
+      {
+        "id": "2903",
+        "label": "千鸟要",
+        "info": "「阵代最不想成为恋人的No.1偶像」",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/30/2903_crt_R9HCA.jpg?r=1528196673",
+        "link": "https://bgm.tv/character/2903",
+        "categorie": "person"
+      },
+      {
+        "id": "2902",
+        "label": "泰蕾莎·泰斯塔罗莎",
+        "info": "在秘银作战部西太平洋支队Tuatha de Danaan总司令，强袭扬陆潜舰“Tuatha de Danaan”（以后以TDD-1记载）的舰长。军阶是大佐（上校）。爱称“泰莎（Tessa）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/45/2902_crt_2iLUM.jpg?r=1524978105",
+        "link": "https://bgm.tv/character/2902",
+        "categorie": "person"
+      },
+      {
+        "id": "62593",
+        "label": "Al",
+        "info": "ARX-7 アーバレスト及びARX-8 レーバテインに搭載されているAI。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/3d/62593_crt_60639.jpg",
+        "link": "https://bgm.tv/character/62593",
+        "categorie": "person"
+      },
+      {
+        "id": "2905",
+        "label": "克鲁兹·威巴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/29/2905_crt_Q9UQW.jpg",
+        "link": "https://bgm.tv/character/2905",
+        "categorie": "person"
+      },
+      {
+        "id": "2904",
+        "label": "梅利莎·毛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/23/2904_crt_ZTBDl.jpg",
+        "link": "https://bgm.tv/character/2904",
+        "categorie": "person"
+      },
+      {
+        "id": "20328",
+        "label": "贝尔夫冈·克鲁佐",
+        "info": "趣味はアニメ鑑賞で、新作チェックのためにニュータイプU.S.A.を愛読。また、その手の評論サイトの常連でもあるらしい。その事は他の隊員には秘密にしているが、本人はこれをあくまで部隊の士気に関わるためであり、決して「恥ずかしいから」等という理由ではないと強調していた。日本語の勉強を少しずつ進めており、引退後は翻訳家をしたいと考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ad/20328_crt_JnbJ3.jpg",
+        "link": "https://bgm.tv/character/20328",
+        "categorie": "person"
+      },
+      {
+        "id": "20329",
+        "label": "雷纳德·泰斯塔罗莎",
+        "info": "テレサ・テスタロッサの双子の兄。線の細い美男子。謎のテロリスト組織「アマルガム」の主要なメンバーの1人。かなめや妹テレサと同じく、高度な科学技術の知識を持つ「ウィスパード」である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/ec/20329_crt_nySY3.jpg",
+        "link": "https://bgm.tv/character/20329",
+        "categorie": "person"
+      },
+      {
+        "id": "62589",
+        "label": "克拉马",
+        "info": "謎の東洋人。国籍は不明。今回、ガウルン、ゲイツに続いて、相良宗介の仇敵となる。千鳥かなめの奪取を図るため、無慈悲に殺戮を繰り返す非情な人物。目下、禁煙中で、シガレットケースにはタバコの代わりに人参スティックが入っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/2c/62589_crt_0LLLy.jpg?r=1523673507",
+        "link": "https://bgm.tv/character/62589",
+        "categorie": "person"
+      },
+      {
+        "id": "62590",
+        "label": "李·福勒",
+        "info": "レナード・テスタロッサの部下。AS 『コダール』の発展型になる『エリゴール』に搭乗する。常に平常心を保ち、紳士的な口調で話す。ASによる格闘戦にも長けており、AS『ファルケ』と互角に渡り合う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/e6/62590_crt_1q95j.jpg?r=1523673531",
+        "link": "https://bgm.tv/character/62590",
+        "categorie": "person"
+      },
+      {
+        "id": "63557",
+        "label": "莎比娜·莱夫尼奥",
+        "info": "レナード・テスタロッサの部下。ファウラー同様、AS 『コダール』の発展型になる『エリゴール』に搭乗、電子戦術に優れた能力を持つ。いつも、眼鏡をかけ黒のスーツに身を包んでおり、レナードに深い忠誠心を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/16/63557_crt_opwM0.jpg?r=1526656850",
+        "link": "https://bgm.tv/character/63557",
+        "categorie": "person"
+      },
+      {
+        "id": "2907",
+        "label": "安德鲁·赛格维奇·加里宁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/5f/2907_crt_u9qlF.jpg",
+        "link": "https://bgm.tv/character/2907",
+        "categorie": "person"
+      },
+      {
+        "id": "2906",
+        "label": "理查德·马度卡斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/82/2906_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2906",
+        "categorie": "person"
+      },
+      {
+        "id": "49464",
+        "label": "幽灵",
+        "info": "《ミスリル》情報部に所属する謎のエージェント。かなめを護衛する任務に就いているが、全く姿を現さない。男か女か、若いのか年配なのかも一切不明なのは、変装の名手だからと言われている。作戦部の宗介とは折り合いが悪い。レイスから見れば、作戦部が余計にしゃしゃり出ていると思い、宗介としてはレイスが護衛の任を果たせていないと、お互いにその存在を疎ましく思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/af/49464_crt_Vs0G6.jpg",
+        "link": "https://bgm.tv/character/49464",
+        "categorie": "person"
+      },
+      {
+        "id": "62591",
+        "label": "篠原幸",
+        "info": "メリダ島基地の通信担当下士官。階級は軍曹。自衛隊からミスリルに移籍した日本人女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/48/62591_crt_Pz2vp.jpg?r=1523673548",
+        "link": "https://bgm.tv/character/62591",
+        "categorie": "person"
+      },
+      {
+        "id": "63554",
+        "label": "娜美",
+        "info": "東南アジアの都市、ナムサクの闘技場でAS「サベージRk-91」（クロスボウ）で戦うチームのオーナー兼整備士。ポニーテールの似合う勝ち気のある少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/24/63554_crt_J97lY.jpg?r=1526656889",
+        "link": "https://bgm.tv/character/63554",
+        "categorie": "person"
+      },
+      {
+        "id": "63555",
+        "label": "米歇尔·雷蒙",
+        "info": "売れないフォトグラファーとしてナムサクにやって来たフランス人。眼鏡をかけた細身の人物でIQはかなり高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/8a/63555_crt_Jpff7.jpg?r=1526656925",
+        "link": "https://bgm.tv/character/63555",
+        "categorie": "person"
+      },
+      {
+        "id": "63556",
+        "label": "陶",
+        "info": "ナミと同様、ナムサクの闘技場で戦うチーム「オーガ」でAS「M６」を操る。勝つためなら手段を選ばない悪党。普段の素行も悪く手に負えない男だが、ASの操縦はなかなかの腕前である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/bd/63556_crt_t9a1l.jpg?r=1526656954",
+        "link": "https://bgm.tv/character/63556",
+        "categorie": "person"
+      },
+      {
+        "id": "49466",
+        "label": "杰洛姆·博达",
+        "info": "《ミスリル》の作戦部長。豊かな黒髪には白髪が混じり始めたが、年相応の貫禄と威厳を湛える初老の提督。かつてテッサの父親とも交友関係があり、テッサを幼い頃から知っている。《ミスリル》創設に携わった人物の一人。情報部のアミット将軍とは犬猿の仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/14/49466_crt_55m3B.jpg",
+        "link": "https://bgm.tv/character/49466",
+        "categorie": "person"
+      },
+      {
+        "id": "42050",
+        "label": "常盘恭子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/c1/42050_crt_903av.jpg",
+        "link": "https://bgm.tv/character/42050",
+        "categorie": "person"
+      },
+      {
+        "id": "20331",
+        "label": "林水敦信",
+        "info": "3年生で、第53代生徒会長。相良宗介からは会長閣下と呼ばれており、「何か」が通じ合ってしまう仲。いつも扇子を持っている。類稀なる頭脳の持ち主で、本来ならもっと上の高校にいけたはずだが、ある理由により陣代高校に入学した。それが原因で大物政治家である父親とは互いにいがみ合うだけの仲となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/08/20331_crt_8sjbm.jpg",
+        "link": "https://bgm.tv/character/20331",
+        "categorie": "person"
+      },
+      {
+        "id": "42051",
+        "label": "神乐坂惠里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/e7/42051_crt_S1z8L.jpg",
+        "link": "https://bgm.tv/character/42051",
+        "categorie": "person"
+      },
+      {
+        "id": "63114",
+        "label": "由加莉",
+        "info": "克鲁兹·威巴的机体搭载AI。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/39/63114_crt_07Y7R.jpg?r=1524836570",
+        "link": "https://bgm.tv/character/63114",
+        "categorie": "person"
+      },
+      {
+        "id": "64460",
+        "label": "Rk-92",
+        "info": "由苏联雅克设计局所研制开发的第二代AS，经历过从Rk-91和Rk-92的强化，是Rk-89 三叶苜蓿（シャムロック，Shamrock）的后继品种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/0d/64460_crt_Rd757.jpg",
+        "link": "https://bgm.tv/character/64460",
+        "categorie": "person"
+      },
+      {
+        "id": "65499",
+        "label": "强弩",
+        "info": "ガーンスバック（M9）の試作機を基にブラックテクノロジーによって生み出された最新型AS。型式番号はARX-7。相良宗介が搭乗する主人公機。斥力を発生させ、物理攻撃を跳ね返す「ラムダ・ドライバ」を搭載した「ミスリル」唯一の機体。当初はAI「アル」との相性が合わず、なかなか「ラムダ・ドライバ」を発動させることができなかった。M9との大きな違いは頭部。口に巻物を加えた忍者のような風貌をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/cf/65499_crt_jj6wZ.jpg",
+        "link": "https://bgm.tv/character/65499",
+        "categorie": "person"
+      },
+      {
+        "id": "65500",
+        "label": "烈焰魔剑",
+        "info": "正式ではないが、型式番号は「ARX-8」。極秘裏にその開発が進められていたAS。北欧神話に登場する魔剣「レーバテイン」が由来。外見はアーバレストに似ているもアーバレストが白に濃紺のカラーリングに対して、白に赤のカラーリングとなっている。ガーンスバックやアーバレストと同じ第三世代型ASだが、その機体性能は計り知れない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/cd/65500_crt_Gbec0.jpg",
+        "link": "https://bgm.tv/character/65500",
+        "categorie": "person"
+      },
+      {
+        "id": "65501",
+        "label": "M9",
+        "info": "在M6的基础上进行大幅度改良和优化性能后诞生出来的后续型号，是西方阵营中最优越的第二代AS替代机型，是美军计划中的主战机体。EMD测试机完成后于1998年12月开始装备美军，第一批只生产了26机。然而同期的秘银已经完成了量化生产，各战区部队已经开始大量配备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/18/65501_crt_gO9iQ.jpg",
+        "link": "https://bgm.tv/character/65501",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

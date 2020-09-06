@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9493",
+        "label": "古代進",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/2e/9493_crt_5ySZb.jpg",
+        "link": "https://bgm.tv/character/9493",
+        "categorie": "person"
+      },
+      {
+        "id": "9494",
+        "label": "森雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/15/9494_crt_C6fqJ.jpg",
+        "link": "https://bgm.tv/character/9494",
+        "categorie": "person"
+      },
+      {
+        "id": "9496",
+        "label": "島大介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/22/9496_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9496",
+        "categorie": "person"
+      },
+      {
+        "id": "20079",
+        "label": "冲田十三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/2a/20079_crt_Qup88.jpg",
+        "link": "https://bgm.tv/character/20079",
+        "categorie": "person"
+      },
+      {
+        "id": "9495",
+        "label": "佐渡酒造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e6/9495_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9495",
+        "categorie": "person"
+      },
+      {
+        "id": "9497",
+        "label": "真田志郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/53/9497_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9497",
+        "categorie": "person"
+      },
+      {
+        "id": "9498",
+        "label": "アナライザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/fd/9498_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9498",
+        "categorie": "person"
+      },
+      {
+        "id": "9499",
+        "label": "徳川彦左衛門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/16/9499_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9499",
+        "categorie": "person"
+      },
+      {
+        "id": "9500",
+        "label": "斯塔莎·伊斯坎達爾",
+        "info": "伊斯坎達爾星的女王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/40/9500_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9500",
+        "categorie": "person"
+      },
+      {
+        "id": "9501",
+        "label": "デスラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/50/9501_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9501",
+        "categorie": "person"
+      },
+      {
+        "id": "9588",
+        "label": "加藤三郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/66/9588_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9588",
+        "categorie": "person"
+      },
+      {
+        "id": "45686",
+        "label": "Android（大和号）",
+        "info": "宇宙战舰大和号的AI语音",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/01/45686_crt_tTzzd.jpg?r=1472917424",
+        "link": "https://bgm.tv/character/45686",
+        "categorie": "person"
+      },
+      {
+        "id": "9492",
+        "label": "ヤマト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/8f/9492_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9492",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

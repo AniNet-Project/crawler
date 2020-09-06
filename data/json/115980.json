@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26002",
+        "label": "有马公生",
+        "info": "中学3年生（14歳）。世界的なピアニストを夢見ていた母の早希に鍛えられ、天才的なピアニストに成長する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/0c/26002_crt_56rQg.jpg?r=1420760312",
+        "link": "https://bgm.tv/character/26002",
+        "categorie": "person"
+      },
+      {
+        "id": "26006",
+        "label": "相座武士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/2c/26006_crt_uMYud.jpg?r=1420760508",
+        "link": "https://bgm.tv/character/26006",
+        "categorie": "person"
+      },
+      {
+        "id": "26007",
+        "label": "井川绘见",
+        "info": "同年代トップクラスの実力を持つピアニスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/56/26007_crt_I97ij.jpg?r=1420760500",
+        "link": "https://bgm.tv/character/26007",
+        "categorie": "person"
+      },
+      {
+        "id": "26003",
+        "label": "宫园薰",
+        "info": "公生と同じ中学三年生。天真爛漫、奇想天外、時には喧嘩上等。ジェットコースターのような性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/77/26003_crt_jv644.jpg?r=1420760358",
+        "link": "https://bgm.tv/character/26003",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

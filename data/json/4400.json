@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23980",
+        "label": "キャナル・ヴォルフィード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/3b/23980_crt_IWR47.jpg",
+        "link": "https://bgm.tv/character/23980",
+        "categorie": "person"
+      },
+      {
+        "id": "23981",
+        "label": "ミレニアム・フェリア・ノクターン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/72/23981_crt_339r9.jpg",
+        "link": "https://bgm.tv/character/23981",
+        "categorie": "person"
+      },
+      {
+        "id": "23982",
+        "label": "カイン・ブルーリバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/13/23982_crt_fptMo.jpg",
+        "link": "https://bgm.tv/character/23982",
+        "categorie": "person"
+      },
+      {
+        "id": "23983",
+        "label": "ニーナ・メルキオーレ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/78/23983_crt_FYzW1.jpg",
+        "link": "https://bgm.tv/character/23983",
+        "categorie": "person"
+      },
+      {
+        "id": "23984",
+        "label": "レイル・フレイマー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/8a/23984_crt_q3n32.jpg",
+        "link": "https://bgm.tv/character/23984",
+        "categorie": "person"
+      },
+      {
+        "id": "23985",
+        "label": "カーリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/70/23985_crt_pCqsv.jpg",
+        "link": "https://bgm.tv/character/23985",
+        "categorie": "person"
+      },
+      {
+        "id": "23986",
+        "label": "红莲爷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/47/23986_crt_7APH3.jpg?r=1572946521",
+        "link": "https://bgm.tv/character/23986",
+        "categorie": "person"
+      },
+      {
+        "id": "23987",
+        "label": "スターゲイザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/97/23987_crt_N4SX6.jpg",
+        "link": "https://bgm.tv/character/23987",
+        "categorie": "person"
+      },
+      {
+        "id": "23988",
+        "label": "闇を撒く者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/fd/23988_crt_RZm72.jpg",
+        "link": "https://bgm.tv/character/23988",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

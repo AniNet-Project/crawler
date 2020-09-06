@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16651",
+        "label": "水谷雫",
+        "info": "女主角，就读松杨高中的一年级B班学生。性格冷静且坦率。非常重视自己的成绩，尤其是模拟考的成绩。认为念书能够巩固自己的未来，所以一有空闲时间，基本上全是用来念书。学习成绩很好，惟体育十分差劲，逃走速度超慢，成绩亦经常比不上春而考获第二名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/ee/16651_crt_C8F72.jpg",
+        "link": "https://bgm.tv/character/16651",
+        "categorie": "person"
+      },
+      {
+        "id": "16652",
+        "label": "吉田春",
+        "info": "男主角，就读松杨高中的一年级B班学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/0a/16652_crt_1aToO.jpg?r=1473064875",
+        "link": "https://bgm.tv/character/16652",
+        "categorie": "person"
+      },
+      {
+        "id": "16653",
+        "label": "夏目朝子",
+        "info": "就读松杨高中的一年级B班学生。与雫和春同班。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/b6/16653_crt_17MOl.jpg",
+        "link": "https://bgm.tv/character/16653",
+        "categorie": "person"
+      },
+      {
+        "id": "16654",
+        "label": "佐佐原宗平",
+        "info": "就读松杨高中的一年级B班学生。雫和春的同班同学，通称“阿佐”。有三个哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/3a/16654_crt_m7WRi.jpg?r=1473065091",
+        "link": "https://bgm.tv/character/16654",
+        "categorie": "person"
+      },
+      {
+        "id": "16655",
+        "label": "山口贤二",
+        "info": "海明学院的学生，通称“山贤”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/c6/16655_crt_pq1N7.jpg?r=1473065177",
+        "link": "https://bgm.tv/character/16655",
+        "categorie": "person"
+      },
+      {
+        "id": "16656",
+        "label": "大岛千鹤",
+        "info": "就读松杨高中的一年级A班学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/85/16656_crt_EeyEg.jpg?r=1473065269",
+        "link": "https://bgm.tv/character/16656",
+        "categorie": "person"
+      },
+      {
+        "id": "16657",
+        "label": "吉田优山",
+        "info": "春的哥哥，是大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/3d/16657_crt_FO48o.jpg?r=1473065374",
+        "link": "https://bgm.tv/character/16657",
+        "categorie": "person"
+      },
+      {
+        "id": "16658",
+        "label": "三泽满善",
+        "info": "春的表兄，25岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/d1/16658_crt_BiBAZ.jpg?r=1473065431",
+        "link": "https://bgm.tv/character/16658",
+        "categorie": "person"
+      },
+      {
+        "id": "17448",
+        "label": "名古屋",
+        "info": "不知道春从哪里捡来的公鸡",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/e4/17448_crt_8D36q.jpg",
+        "link": "https://bgm.tv/character/17448",
+        "categorie": "person"
+      },
+      {
+        "id": "34567",
+        "label": "宫间有",
+        "info": "音羽女子高中的学生，大岛千鹤中学时代的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/90/34567_crt_0Jgz3.jpg",
+        "link": "https://bgm.tv/character/34567",
+        "categorie": "person"
+      },
+      {
+        "id": "39522",
+        "label": "二宫冴子",
+        "info": "雫和春的班导师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/ef/39522_crt_IPrar.jpg?r=1458146067",
+        "link": "https://bgm.tv/character/39522",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

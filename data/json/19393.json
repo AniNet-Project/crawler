@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9726",
+        "label": "神久夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/cb/9726_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9726",
+        "categorie": "person"
+      },
+      {
+        "id": "6533",
+        "label": "犬夜叉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/fd/6533_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6533",
+        "categorie": "person"
+      },
+      {
+        "id": "6534",
+        "label": "日暮戈薇",
+        "info": "日暮戈薇是一个来自现代的初中三的学生，她也是战国时代桔梗的转世过来的巫女。在她疏忽之下将四魂之玉射成碎片，散落到每个世界的角落。为了不要让魍魉鬼怪得到四魂碎片，阿篱只好与其他相同命运的伙伴一起踏上收集四魂之玉碎片旅程。奈落被打到后，通往战国与现代的食骨之井就此失去效用三年。三年后再与犬夜叉相见，结婚后就决定留在战国定居下来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/44/6534_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6534",
+        "categorie": "person"
+      },
+      {
+        "id": "8821",
+        "label": "桔梗",
+        "info": "弓矢の名手で破魔矢で敵を浄化する。作中の戦国時代にある村では巫女を務めていた。楓の姉であり、日暮かごめの前世。死人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/9d/8821_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8821",
+        "categorie": "person"
+      },
+      {
+        "id": "9536",
+        "label": "珊瑚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/9a/9536_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9536",
+        "categorie": "person"
+      },
+      {
+        "id": "9542",
+        "label": "神無",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/da/9542_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9542",
+        "categorie": "person"
+      },
+      {
+        "id": "8927",
+        "label": "奈落",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/33/8927_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8927",
+        "categorie": "person"
+      },
+      {
+        "id": "9535",
+        "label": "弥勒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/82/9535_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9535",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

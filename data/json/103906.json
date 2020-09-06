@@ -1,0 +1,349 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16891",
+        "label": "狡啮慎也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/83/16891_crt_5wglE.jpg?r=1411138115",
+        "link": "https://bgm.tv/character/16891",
+        "categorie": "person"
+      },
+      {
+        "id": "16934",
+        "label": "常守朱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/61/16934_crt_ZdKud.jpg?r=1573978996",
+        "link": "https://bgm.tv/character/16934",
+        "categorie": "person"
+      },
+      {
+        "id": "17000",
+        "label": "槙岛圣护",
+        "info": "数々の事件の裏で暗躍する謎の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e2/17000_crt_ImbSW.jpg?r=1411138093",
+        "link": "https://bgm.tv/character/17000",
+        "categorie": "person"
+      },
+      {
+        "id": "16978",
+        "label": "宜野座伸元",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/45/16978_crt_k2dlL.jpg?r=1412947398",
+        "link": "https://bgm.tv/character/16978",
+        "categorie": "person"
+      },
+      {
+        "id": "16979",
+        "label": "征陆智己",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/a7/16979_crt_j0eJt.jpg?r=1573954552",
+        "link": "https://bgm.tv/character/16979",
+        "categorie": "person"
+      },
+      {
+        "id": "16977",
+        "label": "縢秀星",
+        "info": "公安局刑事課一係に所属する執行官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/1c/16977_crt_1p0dY.jpg?r=1498470776",
+        "link": "https://bgm.tv/character/16977",
+        "categorie": "person"
+      },
+      {
+        "id": "16980",
+        "label": "六合冢弥生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/58/16980_crt_m3a2t.jpg?r=1412947237",
+        "link": "https://bgm.tv/character/16980",
+        "categorie": "person"
+      },
+      {
+        "id": "16981",
+        "label": "唐之杜志恩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/02/16981_crt_5P3PA.jpg?r=1412947190",
+        "link": "https://bgm.tv/character/16981",
+        "categorie": "person"
+      },
+      {
+        "id": "18413",
+        "label": "支配者",
+        "info": "携帯型心理診断鎮圧執行システム。有事の際に、監視官と執行官だけが携帯・使用・発砲可能な特殊な拳銃。現場までは厳重な専用カートで運ばれる。シビュラシステムに優先的リンクをしており、被疑者や対象に照準を向けることで瞬時に犯罪係数を計測する機能を持つ。握っている者にだけ聞こえる指向性音声で状況や計測値を案内し、対象の犯罪係数が規定値に満たない場合は発砲できず、犯罪係数が規定値を越えていればセーフティが自動的に解除され、対象の状況にふさわしい段階に合わせて狙撃効果を選択・変更・変形するシステムが実装されている。確保・制圧が選択された場合は基本モードのパラライザー（麻痺銃/ノン・リーサル）だが、対象の危険性が高くなると排除の判断が下され、エリミネーター（殺人銃/リーサル）に切り替わる。さらに大きな危険が及ぶと最大威力であるデコンポーザー（分子分解銃/デストロイ）に設定される。シビュラシステムへのアクセス・リンクが不可能な場所や状況では使用できない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/fc/18413_crt_4Vzv7.jpg?r=1574053790",
+        "link": "https://bgm.tv/character/18413",
+        "categorie": "person"
+      },
+      {
+        "id": "18636",
+        "label": "禾生壤宗",
+        "info": "公安局局長。銀白色系のショートカットで眼鏡を着用している中高年齢の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b8/18636_crt_wQFfU.jpg?r=1411138191",
+        "link": "https://bgm.tv/character/18636",
+        "categorie": "person"
+      },
+      {
+        "id": "18472",
+        "label": "崔具成",
+        "info": "槙島の元で行動し、犯罪に協力する男。六本木のクラブ「エグゾゼ」の経営者。腕利きのハッカーで、内装ホログラフや他者のホロアバター・スーツでさえクラッキングできる技術を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/e6/18472_crt_O96Qw.jpg",
+        "link": "https://bgm.tv/character/18472",
+        "categorie": "person"
+      },
+      {
+        "id": "28143",
+        "label": "藤间幸三郎",
+        "info": "私立桜霜学園の教員であった泣きぼくろのある青年。3年前の「標本事件」の被疑者。公式には行方不明の扱いになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/54/28143_crt_7k9cF.jpg",
+        "link": "https://bgm.tv/character/28143",
+        "categorie": "person"
+      },
+      {
+        "id": "18474",
+        "label": "佐佐山光留",
+        "info": "監視官時代の狡噛の部下であった執行官。3年前に「標本事件」の捜査中、生きたまま身体切断された上、プラスティネーションによって標本化され、殉職した。享年25。短気で助平な上に凶暴だが面白い奴だったと、狡噛は述懐している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/3a/18474_crt_RRZhe.jpg?r=1411138540",
+        "link": "https://bgm.tv/character/18474",
+        "categorie": "person"
+      },
+      {
+        "id": "28139",
+        "label": "杂贺让二",
+        "info": "第一季第9话与第19话登场。原是公安局的临床心理学教授，拥有很高的观察力、分析力和洞察力，非常了解犯罪者的思考模式，但也因此许多监视官听其讲课后出现犯罪系数升高的清况。后来辞去职位在埼玉县秩父山里弃世隐居，讨厌全息投影和合成加工食品。因为狡啮的请求，教授常守朱分析技巧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/f7/28139_crt_19gKM.jpg",
+        "link": "https://bgm.tv/character/28139",
+        "categorie": "person"
+      },
+      {
+        "id": "26967",
+        "label": "青柳璃彩",
+        "info": "第15話と第17話と第19話に登場。公安局捜査課2係所属の監視官で、目元に黒子のある女性。宜野座とは気心の知れた仲で、彼女自身も縢の失踪に不審を抱いていたこともあり、執行官のトレードによって狡噛の行動の制限を回避する作戦に協力するが、局長によって阻まれてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/82/26967_crt_4xCIE.jpg?r=1573985077",
+        "link": "https://bgm.tv/character/26967",
+        "categorie": "person"
+      },
+      {
+        "id": "73177",
+        "label": "大仓信夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/d3/73177_crt_ydu6B.jpg?r=1574056192",
+        "link": "https://bgm.tv/character/73177",
+        "categorie": "person"
+      },
+      {
+        "id": "73183",
+        "label": "岛津千香",
+        "info": "26岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/b7/73183_crt_2lJIh.jpg?r=1574056580",
+        "link": "https://bgm.tv/character/73183",
+        "categorie": "person"
+      },
+      {
+        "id": "18471",
+        "label": "船原雪",
+        "info": "朱の友人。身体を動かす仕事に就いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/12/18471_crt_M034Z.jpg?r=1411138396",
+        "link": "https://bgm.tv/character/18471",
+        "categorie": "person"
+      },
+      {
+        "id": "18473",
+        "label": "水无濑佳织",
+        "info": "朱の友人。システムエンジニア。ゆきと一緒に朱に会っては、仕事上の悩みなどを話し合っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/65/18473_crt_k6VHq.jpg?r=1411138487",
+        "link": "https://bgm.tv/character/18473",
+        "categorie": "person"
+      },
+      {
+        "id": "73184",
+        "label": "乡田藏人",
+        "info": "八王子无人机制造工厂的负责人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/fb/73184_crt_KI89F.jpg?r=1574057076",
+        "link": "https://bgm.tv/character/73184",
+        "categorie": "person"
+      },
+      {
+        "id": "17768",
+        "label": "金原佑治",
+        "info": "第3話に登場。八王子に存在する、ドローン製造及び挙動チェック工場の作業員。仕事環境の事情のため、職場内で1年間も上司黙認による同僚達からのいじめを受け続けていた。その復讐心でドローンを操り、事故を装って同僚達を殺害していたが、狡噛の陽動にはまって執行され確保された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ee/17768_crt_D9ft2.jpg",
+        "link": "https://bgm.tv/character/17768",
+        "categorie": "person"
+      },
+      {
+        "id": "18481",
+        "label": "御堂将刚",
+        "info": "ヴァーチャルスポーツ運営会社社員。ネットの世界にのめり込んでソーシャル・ネットワーク上の人気アイドル・アバターを崇拝するあまり、その個性に興味を持った槙島から助力を受けながら、犯行に及んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/4f/18481_crt_3pPMP.jpg",
+        "link": "https://bgm.tv/character/18481",
+        "categorie": "person"
+      },
+      {
+        "id": "73182",
+        "label": "叶山公彦",
+        "info": "社交场（Community field）Talisman Saloon的运营者，32岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/e4/73182_crt_222j2.jpg?r=1574055894",
+        "link": "https://bgm.tv/character/73182",
+        "categorie": "person"
+      },
+      {
+        "id": "73181",
+        "label": "菅原昭子",
+        "info": "社交场（Community field）Boogie Garden的运营者，20岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/5e/73181_crt_VMpTN.jpg?r=1574055888",
+        "link": "https://bgm.tv/character/73181",
+        "categorie": "person"
+      },
+      {
+        "id": "18475",
+        "label": "王陵璃华子",
+        "info": "牢一の娘で、私立桜霜学園に在籍する女子高生。美術部部長を務める。才色兼備で社交的な性格から、女子生徒達にとって憧れの存在である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/4c/18475_crt_49PP9.jpg",
+        "link": "https://bgm.tv/character/18475",
+        "categorie": "person"
+      },
+      {
+        "id": "18477",
+        "label": "大久保苇歌",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/5d/18477_crt_tatRZ.jpg",
+        "link": "https://bgm.tv/character/18477",
+        "categorie": "person"
+      },
+      {
+        "id": "18478",
+        "label": "川原崎加贺美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/98/18478_crt_dQQ2O.jpg?r=1411138353",
+        "link": "https://bgm.tv/character/18478",
+        "categorie": "person"
+      },
+      {
+        "id": "18476",
+        "label": "霜月美佳",
+        "info": "樱霜学院的学生，初登场于第6话~第8话的“王陵璃华子事件”，与大久保苇歌和川原崎加贺美是非常要好的同学，察觉到王陵璃华子的一些异常举动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b1/18476_crt_iy42T.jpg",
+        "link": "https://bgm.tv/character/18476",
+        "categorie": "person"
+      },
+      {
+        "id": "18479",
+        "label": "王陵牢一",
+        "info": "璃華子の父。少女の肉体をモチーフにした残酷な画風で高名なイラストレーターであったが、本人は道徳的かつ高潔な人物であり、「人々の絶望や暗黒面への啓蒙」としての創作活動に勤しんでいた。シビュラシステムによって仕事を失ったものの、理想世界の到来をシビュラシステムに見出し、精神メンテナンスに依存しすぎたために、ユーストレス欠乏性脳梗塞を発症して廃人となっており、作中で死亡した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/6a/18479_crt_679A1.jpg",
+        "link": "https://bgm.tv/character/18479",
+        "categorie": "person"
+      },
+      {
+        "id": "73185",
+        "label": "足利纮一",
+        "info": "激进艺术家，犯罪系数很高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/bb/73185_crt_f29FK.jpg",
+        "link": "https://bgm.tv/character/73185",
+        "categorie": "person"
+      },
+      {
+        "id": "18480",
+        "label": "泉宫寺丰久",
+        "info": "地下再開発を手がけている帝都ネットワーク建設の会長で、槙島と通じている110歳の老人。28歳のころに紛争地域で右腕と左足を失って義手義足となり、今ではサイボーグのパイオニアとして脳と神経細胞以外の全身をサイボーグ化しており、医療目的を超えた人間の機械化としてのサイボーグを、賛美かつ推進している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/17/18480_crt_cBZhc.jpg?r=1411138283",
+        "link": "https://bgm.tv/character/18480",
+        "categorie": "person"
+      },
+      {
+        "id": "73190",
+        "label": "泷崎丽娜",
+        "info": "主唱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/89/73190_crt_2gfp0.jpg?r=1574058945",
+        "link": "https://bgm.tv/character/73190",
+        "categorie": "person"
+      },
+      {
+        "id": "73186",
+        "label": "向岛陆",
+        "info": "宜野座伸元的心理医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/cd/73186_crt_BpG39.jpg?r=1574058119",
+        "link": "https://bgm.tv/character/73186",
+        "categorie": "person"
+      },
+      {
+        "id": "73187",
+        "label": "伊藤纯铭",
+        "info": "28岁，藤井博子的同事，有着巨大的心理压力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e2/73187_crt_bvKp2.jpg?r=1574058980",
+        "link": "https://bgm.tv/character/73187",
+        "categorie": "person"
+      },
+      {
+        "id": "73188",
+        "label": "藤井博子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/e0/73188_crt_6vHVf.jpg?r=1574058968",
+        "link": "https://bgm.tv/character/73188",
+        "categorie": "person"
+      },
+      {
+        "id": "73189",
+        "label": "管卷宣昭",
+        "info": "厚生省农业部董事长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/66/73189_crt_ZCCyK.jpg?r=1574058958",
+        "link": "https://bgm.tv/character/73189",
+        "categorie": "person"
+      },
+      {
+        "id": "28141",
+        "label": "珂美莎",
+        "info": "公安局的吉祥物。名字方面，男孩子是太郎、女孩子是花子。有着可爱的外表，公安局的刑警和多隆的全像外观而采用。珂美莎的样子让市民们缓和紧张感，以不给压力的状态在路上进行道路检查和职务质问、巡逻和辅导等行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/6a/28141_crt_z8ioL.jpg",
+        "link": "https://bgm.tv/character/28141",
+        "categorie": "person"
+      },
+      {
+        "id": "28142",
+        "label": "Candy",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/27/28142_crt_5OkTN.jpg?r=1417012783",
+        "link": "https://bgm.tv/character/28142",
+        "categorie": "person"
+      },
+      {
+        "id": "26968",
+        "label": "神月凌吾",
+        "info": "在槙岛制造的混乱中趁机逃跑的二係执行官，被监视官青柳璃彩找到击毙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/39/26968_crt_zkWhh.jpg?r=1417013806",
+        "link": "https://bgm.tv/character/26968",
+        "categorie": "person"
+      },
+      {
+        "id": "73180",
+        "label": "时任雄一",
+        "info": "社交场（Community field）Rainy blue的运营者。因事故去世，享年14岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/37/73180_crt_1Hr9a.jpg?r=1574054762",
+        "link": "https://bgm.tv/character/73180",
+        "categorie": "person"
+      },
+      {
+        "id": "73176",
+        "label": "葛原沙月",
+        "info": "全住宿制女子高等课程教育机关樱霜学园的学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/22/73176_crt_N73rH.jpg?r=1574048537",
+        "link": "https://bgm.tv/character/73176",
+        "categorie": "person"
+      },
+      {
+        "id": "73178",
+        "label": "山口昌美",
+        "info": "全住宿制女子高等课程教育机关樱霜学园的学生，B班，与樋口祥子是王陵璃华子的跟班。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c3/73178_crt_q1M1o.jpg?r=1574046486",
+        "link": "https://bgm.tv/character/73178",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

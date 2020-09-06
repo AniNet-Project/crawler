@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69508",
+        "label": "纱仓响",
+        "info": "食べることが大好きな皇桜 女学院に通う2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/39/69508_crt_w9ww8.jpg?r=1562938696",
+        "link": "https://bgm.tv/character/69508",
+        "categorie": "person"
+      },
+      {
+        "id": "69509",
+        "label": "奏流院朱美",
+        "info": "ひびきと同じ学校に通う同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/fb/69509_crt_nr5qq.jpg?r=1589888359",
+        "link": "https://bgm.tv/character/69509",
+        "categorie": "person"
+      },
+      {
+        "id": "69510",
+        "label": "上原彩也香",
+        "info": "ひびきの親友。友だち思いの常識人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/67/69510_crt_58dhD.jpg?r=1556531354",
+        "link": "https://bgm.tv/character/69510",
+        "categorie": "person"
+      },
+      {
+        "id": "69511",
+        "label": "吉娜·沃伊德",
+        "info": "ロシア出身、クレムリン西高校に在学中の2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/cc/69511_crt_h529x.jpg?r=1556531327",
+        "link": "https://bgm.tv/character/69511",
+        "categorie": "person"
+      },
+      {
+        "id": "69512",
+        "label": "立花里美",
+        "info": "29歳、独身の皇桜女学院世界史教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/71/69512_crt_aCote.jpg?r=1556531365",
+        "link": "https://bgm.tv/character/69512",
+        "categorie": "person"
+      },
+      {
+        "id": "70567",
+        "label": "街雄鸣造",
+        "info": "ひびきたちの通うシルバーマンジムのトレーナー。20代半ばの爽やかイケメン。スポーツ理論を学ぶために留学していた経験もあり、人間の体やトレーニングについては非常に詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/f7/70567_crt_4u6zg.jpg?r=1560244683",
+        "link": "https://bgm.tv/character/70567",
+        "categorie": "person"
+      },
+      {
+        "id": "70933",
+        "label": "爱菜留美香",
+        "info": "皇桜女学院2年B組の担任教師。気怠げな印象の女性。30歳独身。婚期を焦っている。悪気はないが失言が口をついて出てしまうタイプ。元ヤン。アラサーになって脇腹のたるみが気になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/37/70933_crt_4Jvj7.jpg?r=1563346069",
+        "link": "https://bgm.tv/character/70933",
+        "categorie": "person"
+      },
+      {
+        "id": "71017",
+        "label": "小津俊夫",
+        "info": "拳願仕合戦績11勝0敗",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/e6/71017_crt_98H3Z.jpg?r=1564031849",
+        "link": "https://bgm.tv/character/71017",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

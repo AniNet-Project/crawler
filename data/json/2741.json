@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11300",
+        "label": "上杉达也",
+        "info": "故事刚开始与和也相反，缺乏运动。没有确切理由去与和也竞争。达也潜在能力被忽视，经由2年的练习成为一个一流的棒球选手。和也死亡后2年，成为甲子园胜利投手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/ec/11300_crt_Ej5ef.jpg",
+        "link": "https://bgm.tv/character/11300",
+        "categorie": "person"
+      },
+      {
+        "id": "6860",
+        "label": "上杉和也",
+        "info": "アニメ - CV難波圭一 、幼少時代 - CV深見理佳 、映画 - CV斉藤慶太、ドラマ - CV岡本健一",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/a6/6860_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6860",
+        "categorie": "person"
+      },
+      {
+        "id": "6861",
+        "label": "浅仓南",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/09/6861_crt_C4xZ2.jpg",
+        "link": "https://bgm.tv/character/6861",
+        "categorie": "person"
+      },
+      {
+        "id": "6862",
+        "label": "原田正平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/ed/6862_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6862",
+        "categorie": "person"
+      },
+      {
+        "id": "10396",
+        "label": "南の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/d1/10396_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10396",
+        "categorie": "person"
+      },
+      {
+        "id": "10397",
+        "label": "黑木武",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/88/10397_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10397",
+        "categorie": "person"
+      },
+      {
+        "id": "10398",
+        "label": "監督",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/c1/10398_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10398",
+        "categorie": "person"
+      },
+      {
+        "id": "10400",
+        "label": "先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/5e/10400_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10400",
+        "categorie": "person"
+      },
+      {
+        "id": "10402",
+        "label": "母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d3/10402_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10402",
+        "categorie": "person"
+      },
+      {
+        "id": "10410",
+        "label": "片桐",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/10410",
+        "categorie": "person"
+      },
+      {
+        "id": "69347",
+        "label": "西村勇",
+        "info": "西村拓味の父親。勢南高校野球部の監督。野球部員として同校に在籍していた当時は、エースで4番打者。右投右打、変化の大きいカーブを武器とする変化球投手だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/13/69347_crt_2aDy3.jpg?r=1554513547",
+        "link": "https://bgm.tv/character/69347",
+        "categorie": "person"
+      },
+      {
+        "id": "10392",
+        "label": "パンチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ed/10392_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10392",
+        "categorie": "person"
+      },
+      {
+        "id": "10405",
+        "label": "友子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/c0/10405_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10405",
+        "categorie": "person"
+      },
+      {
+        "id": "10403",
+        "label": "カメラマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/a3/10403_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10403",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

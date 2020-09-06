@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28284",
+        "label": "德基姆",
+        "info": "クイーンデキム(15F)の裁定者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/40/28284_crt_71fTI.jpg?r=1418057428",
+        "link": "https://bgm.tv/character/28284",
+        "categorie": "person"
+      },
+      {
+        "id": "28285",
+        "label": "知幸",
+        "info": "クイーンデキムで働くことになった女性店員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/fd/28285_crt_O1thV.jpg?r=1418057630",
+        "link": "https://bgm.tv/character/28285",
+        "categorie": "person"
+      },
+      {
+        "id": "51052",
+        "label": "男人",
+        "info": "BAR「クイーンデキム」に突如連れてこられた若者。学生時代にビリヤードの上手い彼女のため、毎日ビリヤード場に通った経験がある。クイーンデキムに来たのは、彼女の部屋を尋ねた後だという。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/75/51052_crt_Uod7E.jpg",
+        "link": "https://bgm.tv/character/51052",
+        "categorie": "person"
+      },
+      {
+        "id": "51051",
+        "label": "老人",
+        "info": "クイーンデキムに突如連れてこられた老人。婆さん（妻）と2人暮らしをしている。若い頃に剣道を鍛錬していたうえ、ビリヤードも大会で優勝するほどの実力。人生の最後には、婆さんの糠漬けを食べて死にたいと思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e3/51051_crt_1W1Mj.jpg",
+        "link": "https://bgm.tv/character/51051",
+        "categorie": "person"
+      },
+      {
+        "id": "51047",
+        "label": "上村幸子",
+        "info": "82歳の主婦であり漫画家の女性。趣味は読書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/b6/51047_crt_59987.jpg",
+        "link": "https://bgm.tv/character/51047",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

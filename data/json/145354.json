@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39560",
+        "label": "安",
+        "info": "玛娜利亚魔法学院的所在地——玛娜利亚王国的公主。有着压倒性的魔法才能，年纪轻轻就掌握了英灵召唤术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/00/39560_crt_XxnuC.jpg?r=1548150698",
+        "link": "https://bgm.tv/character/39560",
+        "categorie": "person"
+      },
+      {
+        "id": "39561",
+        "label": "古蕾雅",
+        "info": "龙与人之间诞生的混血少女。因为在龙巢中的格格不入，所以为了与人类一同生活而入学了玛娜利亚魔法学院。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/0e/39561_crt_RCclP.jpg?r=1548932656",
+        "link": "https://bgm.tv/character/39561",
+        "categorie": "person"
+      },
+      {
+        "id": "39562",
+        "label": "汉娜",
+        "info": "玛娜利亚魔法学院学生会会长。比谁都要热爱着学院，因为她的这份责任感，让她深受学生们的爱戴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/bf/39562_crt_xZFXL.jpg?r=1550670279",
+        "link": "https://bgm.tv/character/39562",
+        "categorie": "person"
+      },
+      {
+        "id": "39563",
+        "label": "露",
+        "info": "以「～ですぅ」为习惯语句的天然呆新生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/96/39563_crt_X4Qqm.jpg?r=1549855271",
+        "link": "https://bgm.tv/character/39563",
+        "categorie": "person"
+      },
+      {
+        "id": "39564",
+        "label": "米兰达",
+        "info": "玛娜利亚魔法学院的教师，专攻圣魔术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/a8/39564_crt_W4vhO.jpg?r=1551086173",
+        "link": "https://bgm.tv/character/39564",
+        "categorie": "person"
+      },
+      {
+        "id": "39565",
+        "label": "欧文",
+        "info": "作为安的护卫入学的近卫骑士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f9/39565_crt_cm9ej.jpg?r=1551360220",
+        "link": "https://bgm.tv/character/39565",
+        "categorie": "person"
+      },
+      {
+        "id": "39566",
+        "label": "威廉",
+        "info": "マナリア魔法学院の生徒。成績優秀で学院では図書委員としても活動している。しかし、焦ると生まれ故郷の言葉が出てしまう一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/56/39566_crt_qagLP.jpg?r=1551929572",
+        "link": "https://bgm.tv/character/39566",
+        "categorie": "person"
+      },
+      {
+        "id": "39567",
+        "label": "海因莱因",
+        "info": "マナリア魔法学院の教師で、専攻は闇魔術。闇魔術のエキスパートで、どんな状況でも冷静に対処する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/0a/39567_crt_9ezFg.jpg?r=1552505655",
+        "link": "https://bgm.tv/character/39567",
+        "categorie": "person"
+      },
+      {
+        "id": "63990",
+        "label": "吉尔",
+        "info": "高齢ながらマナリア魔法学院の現役教師。専攻は魔術基礎論。おおらかな性格で生徒をやさしく導く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/f3/63990_crt_AW236.jpg?r=1553081109",
+        "link": "https://bgm.tv/character/63990",
+        "categorie": "person"
+      },
+      {
+        "id": "67484",
+        "label": "ポピー",
+        "info": "マナリア魔法学院の生徒。生徒会長であるハンナを慕い、右腕として仕える書記。博識な頭脳と冷静さを併せ持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/11/67484_crt_Hd2HY.jpg",
+        "link": "https://bgm.tv/character/67484",
+        "categorie": "person"
+      },
+      {
+        "id": "69812",
+        "label": "リーズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/0f/69812_crt_vZ6xU.jpg",
+        "link": "https://bgm.tv/character/69812",
+        "categorie": "person"
+      },
+      {
+        "id": "69813",
+        "label": "エルフ娘",
+        "info": "アニメ第1話登場。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/69813",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

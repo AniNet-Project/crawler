@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32047",
+        "label": "熊彻",
+        "info": "九太の師匠。【渋天街】で一二を争う最強のバケモノで、次の宗師候補の１人。宗師になるには弟子がいることが条件なのだが、熊徹が粗暴な性格で品格のカケラも無いため、誰も弟子にはなりたがらない。ところが、身寄りのない九太を引き取り、バケモノ界ではご法度の人間を弟子にしてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/86/32047_crt_Y2i55.jpg?r=1456333489",
+        "link": "https://bgm.tv/character/32047",
+        "categorie": "person"
+      },
+      {
+        "id": "39142",
+        "label": "九太／莲",
+        "info": "本作のもう一人の主人公。9歳のとき、ある事をきっかけに両親と離ればなれになってしまった少年。両親は離婚しており、母親と暮らしていたが、9歳の時に母親が他界したことで身寄りがなくなり、渋谷の路地裏を彷徨っていたときに熊徹と出逢い、【渋天街】に迷い込む。行き場がないため仕方なく熊徹の弟子となり、共同生活を経て成長していく。青年期には偶然【渋天街】から【渋谷】へと戻る方法を見つける。9歳以降学校教育を受けていないため、文字の読み書きは不得意であったが、【渋谷】で出会った女子高生の楓から勉強を教わり（楓の教え方が上手いようで短期間で学習内容が小学生レベルから高校生レベルへと上がっていく）、大学受験を進められる。ひ弱な体力であったが、熊徹の指導を受けるうちに武術の才能に目覚め、最後は熊徹を一本背負いでたやすく放り投げるなど熊徹を超えた面も見せつけた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/2c/39142_crt_cBgBd.jpg?r=1456334130",
+        "link": "https://bgm.tv/character/39142",
+        "categorie": "person"
+      },
+      {
+        "id": "39143",
+        "label": "枫",
+        "info": "【渋谷】にある進学校に通う女子高生。九太と図書館で出会い、一緒に勉強をする。楓は、読み書きを教えてもらっている九太にとって、人間界での師匠のような存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/56/39143_crt_C0cIC.jpg?r=1456329424",
+        "link": "https://bgm.tv/character/39143",
+        "categorie": "person"
+      },
+      {
+        "id": "39144",
+        "label": "多多良",
+        "info": "老けた猿顔のバケモノで、熊徹の悪友。頭の切れる、口の悪い皮肉屋。人間のくせに熊徹の弟子となった九太に冷たい態度で接する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/ac/39144_crt_O3BUY.jpg?r=1456323698",
+        "link": "https://bgm.tv/character/39144",
+        "categorie": "person"
+      },
+      {
+        "id": "39145",
+        "label": "百秋坊",
+        "info": "瘦せた豚顔のバケモノで、熊徹の悪友。聡明で、誰にでも優しく接する僧侶。熊徹との師弟関係に悩む九太に助言を与える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/9e/39145_crt_p161A.jpg?r=1456323775",
+        "link": "https://bgm.tv/character/39145",
+        "categorie": "person"
+      },
+      {
+        "id": "39146",
+        "label": "宗师",
+        "info": "【渋天街】に棲む10万を超えるバケモノを長年束ねてきた長老。引退して神様に転生すると宣言。新たな宗師となる、強さ、品格とも一流のバケモノを探している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/35/39146_crt_korfu.jpg?r=1456323844",
+        "link": "https://bgm.tv/character/39146",
+        "categorie": "person"
+      },
+      {
+        "id": "39147",
+        "label": "猪王山",
+        "info": "【渋天街】の誰もが、強さ、品格ともに一流と認めるバケモノ。数多くの弟子をもち、次期宗師の最有力候補。一郎彦と二郎丸の父親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/d6/39147_crt_D15nZ.jpg?r=1456323905",
+        "link": "https://bgm.tv/character/39147",
+        "categorie": "person"
+      },
+      {
+        "id": "39148",
+        "label": "一郎彦",
+        "info": "猪王山の長男。親ゆずりの強さ・品格をもち、父のような立派な剣士になることを夢見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/af/39148_crt_vsqs8.jpg?r=1456323975",
+        "link": "https://bgm.tv/character/39148",
+        "categorie": "person"
+      },
+      {
+        "id": "39149",
+        "label": "二郎丸",
+        "info": "猪王山の次男。強いものに憧れ、父と兄を自慢に思っている。天真爛漫で、無類の食いしん坊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/79/39149_crt_W1xw6.jpg?r=1456324063",
+        "link": "https://bgm.tv/character/39149",
+        "categorie": "person"
+      },
+      {
+        "id": "39150",
+        "label": "琪可",
+        "info": "九太と【渋谷】の路地裏で出会って以来、いつも一緒に行動している不思議な小動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/86/39150_crt_k6ZvX.jpg?r=1456324130",
+        "link": "https://bgm.tv/character/39150",
+        "categorie": "person"
+      },
+      {
+        "id": "39151",
+        "label": "九太的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/46/39151_crt_DWctk.jpg?r=1456324222",
+        "link": "https://bgm.tv/character/39151",
+        "categorie": "person"
+      },
+      {
+        "id": "39152",
+        "label": "九太的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/16/39152_crt_790Gt.jpg?r=1456324245",
+        "link": "https://bgm.tv/character/39152",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14756",
+        "label": "哈克奥罗",
+        "info": "戴着一个无法摘除的面具。身受重伤而且失去过去记忆的他被艾露露所救，并且成为了她们家的新的一名成员。似乎在这个有点怪异的世界中感到一些困惑。由于想不起来自己的本名，图斯库尔给他起名为哈克奥罗（艾露露和阿露露父亲的名字）。他的武器是图斯库尔给他的一把铁做的折扇。哈克奥罗在阿伊努语中意为“白皇”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/34/14756_crt_qKigx.jpg?r=1515329417",
+        "link": "https://bgm.tv/character/14756",
+        "categorie": "person"
+      },
+      {
+        "id": "2880",
+        "label": "艾露露",
+        "info": "哈克奥罗醒来后看到的第一个人。在哈克奥罗伤好之前一直在照料他。充满阳光而且非常温柔的少女，不过有时候也很严厉。她的名字来自一种传说中的花。在祖母去世后继承了药师之职。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/98/2880_crt_b27VK.jpg?r=1565106816",
+        "link": "https://bgm.tv/character/2880",
+        "categorie": "person"
+      },
+      {
+        "id": "2881",
+        "label": "阿露露",
+        "info": "艾露露的妹妹。非常害羞且怕生的女孩，但是很会在熟人面前撒娇，非常可爱。她的名字也是来自一种传说中的花。据说艾露露和阿露露着两种花总长在一起。在森林之主被杀死后，阿露露收养了它的孩子，并且给它取名为穆克鲁。一直称呼哈克奥罗为“爸爸”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/04/2881_crt_nQL5l.jpg?r=1565106842",
+        "link": "https://bgm.tv/character/2881",
+        "categorie": "person"
+      },
+      {
+        "id": "14787",
+        "label": "铁奥罗",
+        "info": "性格豪爽的男子，村子里的领导性人物。称呼哈克奥罗为“小哥”，像兄弟一般相处，实际上比外貌要年轻很多，手持斧头直到坎纳贝西科乌鲁贝皇都压制站为止与哈克奥罗共同战斗，之后回到亚玛尤拉生活。为向哈克奥罗通报库查·凯查的袭击，因中箭受伤，最后安祥地死去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/67/14787_crt_vP2By.jpg?r=1515329746",
+        "link": "https://bgm.tv/character/14787",
+        "categorie": "person"
+      },
+      {
+        "id": "2889",
+        "label": "索波克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/96/2889_crt_m8mv5.jpg?r=1515329796",
+        "link": "https://bgm.tv/character/2889",
+        "categorie": "person"
+      },
+      {
+        "id": "2888",
+        "label": "图斯库尔",
+        "info": "艾露露和阿露露的祖母及村长。非常慈祥，被大家所敬爱的长者。也是有名的药师。哈克奥罗建立的新国家也命名为图斯库尔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/ec/2888_crt_NZ3Lp.jpg?r=1515330004",
+        "link": "https://bgm.tv/character/2888",
+        "categorie": "person"
+      },
+      {
+        "id": "2882",
+        "label": "胧",
+        "info": "一个城寨的年轻首领，后来成为哈克奥罗的左右手，因哈克奥罗曾2度救过他的性命，敬仰的称呼其“大哥”。血气方刚的青年，单方面地把贝纳威视为宿敌。动作迅速的二刀流尤其得意，是图斯库尔步兵队队长。非常关心体弱多病的妹妹柚叶。有时候会做一些非常滑稽的事（一般来说总和柚叶有关）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f0/2882_crt_Dw2yK.jpg?r=1515329592",
+        "link": "https://bgm.tv/character/2882",
+        "categorie": "person"
+      },
+      {
+        "id": "14786",
+        "label": "柚叶",
+        "info": "胧的妹妹。天生被病魔困扰的失明少女，患有何时都可能死去的重病，受到胧的保护，与世隔绝般的度日，但与哈克奥罗怡型结识后开始积极地生活。以前连朋友都不知道是什么，但现在已经与阿露露、卡缪成为朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8b/14786_crt_f3QzE.jpg?r=1515329505",
+        "link": "https://bgm.tv/character/14786",
+        "categorie": "person"
+      },
+      {
+        "id": "2884",
+        "label": "贝纳威",
+        "info": "坎纳西科乌鲁贝的侍大将，精通枪术，统领骑兵队，非常冷静的男人。对国家有非常强烈的责任感。后来辅佐哈克奥罗处理国政，是他不可或缺的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/c7/2884_crt_g7zBg.jpg?r=1470751462",
+        "link": "https://bgm.tv/character/2884",
+        "categorie": "person"
+      },
+      {
+        "id": "2885",
+        "label": "克罗",
+        "info": "坎纳西科乌鲁贝的骑兵队副长。贝纳威的忠诚部下，骑兵队副队长。浑身引以为豪的肌肉。性格粗暴但却很可靠的男人。武器是刀。和贝纳威一起投入哈克奥罗地麾下。很喜欢开胧的玩笑，两人的争吵总是给大家带来乐趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/ee/2885_crt_vaOZ5.jpg?r=1470751556",
+        "link": "https://bgm.tv/character/2885",
+        "categorie": "person"
+      },
+      {
+        "id": "2883",
+        "label": "多利、古拉",
+        "info": "胧部下的一对双子神箭手，两人分别担任图斯库尔弓箭队青组与红组的组长。游戏原设定为男性，动画并未表示性别，外表以及性格都很女性化。称呼胧“少主”，对他忠心耿耿。在动画第六集中，他们把玩女性装饰品及商人的言词，几乎可以证明动画设定为女性。(但在DVD特典中有提到多利、古拉为男性。)",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/71/2883_crt_aEMwp.jpg?r=1515329639",
+        "link": "https://bgm.tv/character/2883",
+        "categorie": "person"
+      },
+      {
+        "id": "2890",
+        "label": "乌露托利",
+        "info": "欧卡米亚凯国的长公主，卡缪的姐姐。充满善良和慈爱的心灵，被称为公主中的公主。对哈克奥罗一行很有兴趣，以国师的身份来到图斯库尔，在撒哈兰岛救回沃贝后，出任贤大僧正。之后以〝解放者〞之名将反库涅卡门的势力集中起来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/94/2890_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2890",
+        "categorie": "person"
+      },
+      {
+        "id": "2891",
+        "label": "卡谬",
+        "info": "欧卡米亚凯的公主，乌露托利的妹妹。作为国师辅佐正式来到图斯库尔。称呼哈克奥罗为“大叔”朝气蓬勃但又充满迷团的女孩，和阿露露及柚叶非常要好。进攻库涅卡门皇都时突然被德伊召唤，使得体内潜在的睦美人格觉醒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/fc/2891_crt_AHT0t.jpg?r=1470751395",
+        "link": "https://bgm.tv/character/2891",
+        "categorie": "person"
+      },
+      {
+        "id": "2887",
+        "label": "卡露拉",
+        "info": "帝都で評判の旅籠屋、白楼閣の主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/34/2887_crt_6m2A1.jpg?r=1470751405",
+        "link": "https://bgm.tv/character/2887",
+        "categorie": "person"
+      },
+      {
+        "id": "2886",
+        "label": "藤香",
+        "info": "艾文库鲁加族的少女，非常重义的女武士。开始由于误会作为哈克奥罗的敌人出现，后来为了弥补过失，成为其贴身护卫。擅长拔刀术。据说艾文库鲁加族的人都是为正义而战的强大战士。平常很冷酷，但只要看到可爱的东西就会露出本性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/76/2886_crt_32n80.jpg?r=1564752586",
+        "link": "https://bgm.tv/character/2886",
+        "categorie": "person"
+      },
+      {
+        "id": "37170",
+        "label": "穆库鲁",
+        "info": "「アルルゥ」が連れているムティカバ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/de/37170_crt_031QR.jpg?r=1449287851",
+        "link": "https://bgm.tv/character/37170",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

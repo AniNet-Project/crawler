@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "84",
+        "label": "草薙素子",
+        "info": "自卫军出身,军衔三佐.",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/7b/84_crt_xc45y.jpg?r=1587737580",
+        "link": "https://bgm.tv/character/84",
+        "categorie": "person"
+      },
+      {
+        "id": "3002",
+        "label": "巴特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/95/3002_crt_DyxyG.jpg",
+        "link": "https://bgm.tv/character/3002",
+        "categorie": "person"
+      },
+      {
+        "id": "36174",
+        "label": "笑脸男",
+        "info": "瀬良野绑架案的制造者，“笑脸男现象”的引发者，第一季的灵魂人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/7b/36174_crt_zw4T4.jpg?r=1444986754",
+        "link": "https://bgm.tv/character/36174",
+        "categorie": "person"
+      },
+      {
+        "id": "3008",
+        "label": "公安9課",
+        "info": "概要",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c8/3008_crt_ftTsK.jpg",
+        "link": "https://bgm.tv/character/3008",
+        "categorie": "person"
+      },
+      {
+        "id": "3006",
+        "label": "荒卷大辅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/07/3006_crt_zLPL5.jpg",
+        "link": "https://bgm.tv/character/3006",
+        "categorie": "person"
+      },
+      {
+        "id": "3010",
+        "label": "户草",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a0/3010_crt_aH961.jpg",
+        "link": "https://bgm.tv/character/3010",
+        "categorie": "person"
+      },
+      {
+        "id": "3013",
+        "label": "石川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/6b/3013_crt_Nt55I.jpg?r=1587740410",
+        "link": "https://bgm.tv/character/3013",
+        "categorie": "person"
+      },
+      {
+        "id": "3018",
+        "label": "斋藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/b3/3018_crt_V24Z5.jpg?r=1587802358",
+        "link": "https://bgm.tv/character/3018",
+        "categorie": "person"
+      },
+      {
+        "id": "3046",
+        "label": "帕兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/a6/3046_crt_oBq1L.jpg?r=1587721595",
+        "link": "https://bgm.tv/character/3046",
+        "categorie": "person"
+      },
+      {
+        "id": "7996",
+        "label": "塔奇克马",
+        "info": "タチコマ：公安9課に9機配備されている小型の思考戦車。右腕内にチェーンガン、口部分にグレネードランチャーを標準装備している。後部に人が搭乗するコクピットもあるが、ニューロチップの高度なAI制御により、操縦者なしでも単独で行動することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d4/7996_crt_S5hzo.jpg",
+        "link": "https://bgm.tv/character/7996",
+        "categorie": "person"
+      },
+      {
+        "id": "31635",
+        "label": "博马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/1b/31635_crt_oZ7k0.jpg?r=1587802373",
+        "link": "https://bgm.tv/character/31635",
+        "categorie": "person"
+      },
+      {
+        "id": "53124",
+        "label": "内務大臣",
+        "info": "公安9課は内務省直属であるため、肩書き上では内務大臣が公安9課のトップである。荒巻に直接指示を下すこともあるが、荒巻は彼を「良くも悪くも、ただの民衆の代表に過ぎん」と評している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/ee/53124_crt_yAn1Q.jpg",
+        "link": "https://bgm.tv/character/53124",
+        "categorie": "person"
+      },
+      {
+        "id": "53125",
+        "label": "久保田",
+        "info": "陸上自衛軍情報部長。自衛軍統合幕僚会議情報部長でもある[9]。荒巻や辻崎と共に、「殿田塾三羽烏（さんばがらす）」と呼ばれた軍情報部員の一人で、壮年の域を超えた今でもその友情は固い。荒巻にとっては重要な情報提供者（ディープ・スロート）でもある",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/1f/53125_crt_es8H5.jpg",
+        "link": "https://bgm.tv/character/53125",
+        "categorie": "person"
+      },
+      {
+        "id": "36173",
+        "label": "操作员",
+        "info": "有着统一制服和可爱大姐姐外貌的智能机器人。工作包括接待，日常生活服务，一般数据操作。智能水平低于塔奇克马，曾因思考塔奇克马提出的自我指涉悖论陷入当机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/f7/36173_crt_1PqPu.jpg",
+        "link": "https://bgm.tv/character/36173",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

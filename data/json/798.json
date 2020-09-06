@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "629",
+        "label": "森宫依人",
+        "info": "本作男主角，开朗的高校生，就读御池高校，喜欢拍摄天空，15岁。双亲逝世后和亲姊苍乃生活，和石月真名等人是同校友人。当姊姊苍乃入院时，每天放学也会去探望，还会每天买一只外表奇怪的布偶（只有茉莉觉得可爱）送给苍乃。另外在一次偶然机会下，在准备拍摄黎明的天空时和茉莉邂逅。在同居相处的情况下，茉莉已成为对依人十分重要的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/1e/629_6EnmE.jpg",
+        "link": "https://bgm.tv/character/629",
+        "categorie": "person"
+      },
+      {
+        "id": "628",
+        "label": "四方茉莉",
+        "info": "女主角其一，是个机械白痴，连自动售卖机的基本操作也不懂，认为坏了的机器用“踢”的方式就可以修好。喜欢“番茄红豆汁”（初期设定是番茄汁），也喜欢买一些奇怪的食物（例如即食鳄梨拉面）。以卖掉暂住教会的地下藏书室的书来赚取日常生活费。很渴望看到晴空，不喜欢黑夜。持有一把外边是全天蓝色，内里是画著晴空的伞子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/e7/628_uW5zj.jpg",
+        "link": "https://bgm.tv/character/628",
+        "categorie": "person"
+      },
+      {
+        "id": "630",
+        "label": "森宫苍乃",
+        "info": "女主角其二，依人的亲姊，喜欢折纸。依人对她来说十分重要。性格冷静而不多说话，看上去表情不多，实际上是外冷内热。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/c1/630_UcG11.jpg",
+        "link": "https://bgm.tv/character/630",
+        "categorie": "person"
+      },
+      {
+        "id": "631",
+        "label": "石月真名",
+        "info": "依人的同班同学，特别留意着他，但否认对他抱有恋爱的感情。在有名的海鲜餐厅“Ajour”兼职。不喜欢妹妹小依称自己为“真名小姐”，并会以手刀打头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/bb/631_Ax1bR.jpg",
+        "link": "https://bgm.tv/character/631",
+        "categorie": "person"
+      },
+      {
+        "id": "632",
+        "label": "石月小依",
+        "info": "真名的妹妹，小学2年级生。待人有礼，对任何人也会使用敬语，称呼姐姐真名为“真名さん”，因而常遭受姐姐的手刀惩罚。因身体不佳要经常入院，并于住院期间认识了苍乃。喜欢和苍乃折纸。顺便一提她称呼真名为“真名さん”而不是“姐姐”的原因是一次看到真名用手刀把包围她的一群大汉全部打倒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d8/632_Dx14j.jpg",
+        "link": "https://bgm.tv/character/632",
+        "categorie": "person"
+      },
+      {
+        "id": "633",
+        "label": "辻堂刚史",
+        "info": "经常和茧子一起的男人，27岁。不断追杀茉莉，擅长使用剑和飞镖，身体能力也十分厉害，能在短时间内跑上数层楼。经常会买一些“怪口味饭团”给茧子吃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/dd/633_42Fb8.jpg",
+        "link": "https://bgm.tv/character/633",
+        "categorie": "person"
+      },
+      {
+        "id": "11724",
+        "label": "神河茧子",
+        "info": "经常和刚史一起，穿着哥德萝莉衣服、拿着兔玩偶的女孩，在餐厅时喜欢吃儿童套餐。平时待在一个放在街边的纸盒或垃圾桶中睡觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/25/11724_crt_1NW1E.jpg?r=1526266116",
+        "link": "https://bgm.tv/character/11724",
+        "categorie": "person"
+      },
+      {
+        "id": "635",
+        "label": "佐仓纱绘",
+        "info": "依人的同班同学，除了和真名一样在海鲜餐厅“Ajour”兼职，也有在一间便利店工作。好奇心和想像力丰富，经常对身边的事乱猜。喜欢有胡子的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/2d/635_crt_ZcBAT.jpg",
+        "link": "https://bgm.tv/character/635",
+        "categorie": "person"
+      },
+      {
+        "id": "636",
+        "label": "上原塔子",
+        "info": "依人的同班同学。比真名、纱绘和千里高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/14/636_crt_NTTR1.jpg",
+        "link": "https://bgm.tv/character/636",
+        "categorie": "person"
+      },
+      {
+        "id": "637",
+        "label": "水口千里",
+        "info": "依人的同班同学。对可爱的事物没有抵抗力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/59/637_crt_1UQ2X.jpg",
+        "link": "https://bgm.tv/character/637",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

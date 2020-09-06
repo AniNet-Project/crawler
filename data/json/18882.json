@@ -1,0 +1,453 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "273",
+        "label": "阿尔托莉雅·潘德拉贡",
+        "info": "身長150cm程と一見して小柄だが、最も優れたサーヴァントと言われる「セイバー」の名にふさわしい能力を備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/58/273_crt_IMrqS.jpg?r=1559445536",
+        "link": "https://bgm.tv/character/273",
+        "categorie": "person"
+      },
+      {
+        "id": "11324",
+        "label": "猫姬",
+        "info": "ねこねこアルク猛レース",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/d5/11324_crt_eEteK.jpg",
+        "link": "https://bgm.tv/character/11324",
+        "categorie": "person"
+      },
+      {
+        "id": "11325",
+        "label": "混沌猫姬",
+        "info": "ネコカオスとも呼ばれる。突然変異によって爆誕した、謎の生命体。ネコアルクと似た姿を持つが、その関係は不明であり、もうわけがわからない（アルクェイドおよびネロとの関係も同意）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/e3/11325_crt_TKfWg.jpg",
+        "link": "https://bgm.tv/character/11325",
+        "categorie": "person"
+      },
+      {
+        "id": "855",
+        "label": "爱尔奎特·布伦史坦德",
+        "info": "生存了八百年以上的吸血鬼，真祖的公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c9/855_crt_28a2X.jpg?r=1398532372",
+        "link": "https://bgm.tv/character/855",
+        "categorie": "person"
+      },
+      {
+        "id": "856",
+        "label": "远野志贵",
+        "info": "本作的男主角，个性上随和，因为八年前的事件而拥有可杀死万物的“直死之魔眼”。为避免带给脑部过大的负担，平常则是戴着“魔眼杀”的眼镜来抑止。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/4a/856_crt_C8X46.jpg?r=1421330440",
+        "link": "https://bgm.tv/character/856",
+        "categorie": "person"
+      },
+      {
+        "id": "3214",
+        "label": "卫宫士郎",
+        "info": "穗群原学园（Homurabara）高中部二年级学生及见习中的魔术师、10年前冬木市（Fuyuki）大火中的少数生还者之一。被身为魔术师的卫宫切嗣所救并收养，受卫宫切嗣的影响，是个英雄迷，并发誓长大之后一定要成为“正义的伙伴”拯救所有受到苦难的人们。所以只要是他人的请求他从不会拒绝。擅长分析物件构造（可以解析眼中所见的任何东西的构造）和修理电器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ca/3214_crt_8GtBn.jpg?r=1492257195",
+        "link": "https://bgm.tv/character/3214",
+        "categorie": "person"
+      },
+      {
+        "id": "857",
+        "label": "远野秋叶",
+        "info": "远野志贵的妹妹，本作里篇的女主角之一，远野家的现任当家。无论是外表或是礼仪态度上都无懈可击，个性上十分刚强，小时候则是完全相反的柔弱性格。对志贵有相当的执著心，抱有着超越兄妹的感情，志贵回到远野家的也是秋叶的命令。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/19/857_crt_zwE6P.jpg?r=1421292585",
+        "link": "https://bgm.tv/character/857",
+        "categorie": "person"
+      },
+      {
+        "id": "858",
+        "label": "巫净翡翠",
+        "info": "远野家的女仆，双子的妹，本作里篇的女主角之一，和姊姊琥珀从小被远野家收养，个性沉默寡言，不擅于表达自己的态度或意见。有着极度的洁癖症，在远野家担任除了厨房外的一切杂务（想自杀请让翡翠做饭=v=）。自从志贵回来后也负责照顾志贵的生活起居，不过有男性恐惧症。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/20/858_crt_T3p2a.jpg?r=1446655751",
+        "link": "https://bgm.tv/character/858",
+        "categorie": "person"
+      },
+      {
+        "id": "859",
+        "label": "巫净琥珀",
+        "info": "远野家的烹饪妇，双子的姊，本作里篇的女主角之一，个性开朗明亮，和沉默的翡翠为正反的存在，但有着悲惨的过去。负责控管远野家金钱使用和健康管理，过去负责照顾远野前当家，因此现在也负责照顾秋叶的生活起居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/54/859_crt_7e7Kh.jpg?r=1421292269",
+        "link": "https://bgm.tv/character/859",
+        "categorie": "person"
+      },
+      {
+        "id": "861",
+        "label": "希耶尔",
+        "info": "在《月姬》故事中突然出现于远野志贵等人身旁的学姐，就读三年级。对志贵周遭的大小事都相当关心，而志贵在遇到问题时也会寻求她的协助。咖哩魔人，每天三餐吃咖哩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/e6/861_crt_2Ww58.jpg?r=1421292444",
+        "link": "https://bgm.tv/character/861",
+        "categorie": "person"
+      },
+      {
+        "id": "1227",
+        "label": "吉尔伽美什",
+        "info": "号称拥有最强宝具的Servant，将其他所有人都蔑称为“杂种”的傲慢的王者。其真身乃是人类最古老的英灵——英雄王吉尔伽美什。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ca/1227_crt_Dq9kZ.jpg?r=1498989532",
+        "link": "https://bgm.tv/character/1227",
+        "categorie": "person"
+      },
+      {
+        "id": "3215",
+        "label": "间桐樱",
+        "info": "過去のちょっとしたきっかけから、主人公や藤村先生とは家族同然の付き合いを続けている一学年下の後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a0/3215_crt_76333.jpg?r=1526789646",
+        "link": "https://bgm.tv/character/3215",
+        "categorie": "person"
+      },
+      {
+        "id": "3216",
+        "label": "卫宫",
+        "info": "与凛订定契约·弓兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a1/3216_crt_OMAL4.jpg?r=1492586676",
+        "link": "https://bgm.tv/character/3216",
+        "categorie": "person"
+      },
+      {
+        "id": "3217",
+        "label": "美狄亚",
+        "info": "魔术师的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/ec/3217_crt_cu3qU.jpg?r=1421298067",
+        "link": "https://bgm.tv/character/3217",
+        "categorie": "person"
+      },
+      {
+        "id": "3218",
+        "label": "伊莉雅斯菲尔·冯·爱因兹贝伦",
+        "info": "サーヴァント・バーサーカーのマスターとして聖杯戦争に参加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c1/3218_crt_FqI3U.jpg?r=1566383322",
+        "link": "https://bgm.tv/character/3218",
+        "categorie": "person"
+      },
+      {
+        "id": "10596",
+        "label": "远坂凛",
+        "info": "穂群原学園2年A組に通う女生徒で、魔術師。魔術の名門、遠坂家の後継者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f0/10596_crt_Y5u47.jpg?r=1559445518",
+        "link": "https://bgm.tv/character/10596",
+        "categorie": "person"
+      },
+      {
+        "id": "12260",
+        "label": "赫拉克勒斯",
+        "info": "狂战士的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/52/12260_crt_8H3cr.jpg",
+        "link": "https://bgm.tv/character/12260",
+        "categorie": "person"
+      },
+      {
+        "id": "12261",
+        "label": "库·丘林",
+        "info": "枪骑兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/08/12261_crt_2HhHw.jpg?r=1485260373",
+        "link": "https://bgm.tv/character/12261",
+        "categorie": "person"
+      },
+      {
+        "id": "12262",
+        "label": "美杜莎",
+        "info": "骑兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a1/12262_crt_Ub110.jpg",
+        "link": "https://bgm.tv/character/12262",
+        "categorie": "person"
+      },
+      {
+        "id": "12263",
+        "label": "佐佐木小次郎",
+        "info": "暗杀者的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e3/12263_crt_U525u.jpg",
+        "link": "https://bgm.tv/character/12263",
+        "categorie": "person"
+      },
+      {
+        "id": "13680",
+        "label": "希翁·艾尔多娜·亚特拉斯",
+        "info": "全名Sion Eltnam Atlasia。出身于魔术协会三大部门之一Altas的炼金术师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/e0/13680_crt_ROrwY.jpg?r=1376685328",
+        "link": "https://bgm.tv/character/13680",
+        "categorie": "person"
+      },
+      {
+        "id": "15075",
+        "label": "藤村大河",
+        "info": "月世界最强的三人之一，具有制造圣杯并发动圣杯战争的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/7d/15075_crt_tCJww.jpg?r=1410079521",
+        "link": "https://bgm.tv/character/15075",
+        "categorie": "person"
+      },
+      {
+        "id": "16214",
+        "label": "葛木宗一郎",
+        "info": "远坂凛班上的班主任，世界史和伦理课的老师，实际上是……",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ea/16214_crt_yJZYH.jpg?r=1514751047",
+        "link": "https://bgm.tv/character/16214",
+        "categorie": "person"
+      },
+      {
+        "id": "16225",
+        "label": "万华露比",
+        "info": "魔法少女四天王之一，由神秘的魔术礼装·万华杖露比的引导而出现。是能够自由穿梭于平行世界，为了爱与和平而元气满满地发射着魔弹的赤之魔法少女。由其主役的《无限妖精卡莲多露比》正在和Phantas-Moon主役的《白之月姬幻象之月》进行着激烈的收视率战争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/13/16225_crt_UgTpN.jpg?r=1449043834",
+        "link": "https://bgm.tv/character/16225",
+        "categorie": "person"
+      },
+      {
+        "id": "65681",
+        "label": "セブン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/c7/65681_crt_2O4Hl.jpg?r=1534829286",
+        "link": "https://bgm.tv/character/65681",
+        "categorie": "person"
+      },
+      {
+        "id": "3219",
+        "label": "间桐慎二",
+        "info": "间桐家长男，前任家督间桐鹤野的亲生子。个性相当差劲，欺软怕硬，好色、冷血，在男生之中如同公敌般受到敌视，但因外貌和家中有钱等原因受到一些女孩子欢迎。曾经追求过凛，却被其无视。卫宫士郎中学以来的同学，与士郎曾经关系不错，不过在上了高中之后便开始疏远，后来因为性格等原因而在第五次圣杯战争之中成为对手。弓道部副主将，在弓道上有一定实力。很受女同学欢迎，但在学校的男性朋友就只有士郎。对待自己名义上的妹妹间桐樱十分粗暴，曾因殴打樱让其留下伤痕而被士郎揍过。（之后樱也仍然原谅并对士郎说要好好对待哥哥，原因是「因为哥哥只有你一个朋友」）",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/28/3219_crt_Eq5a9.jpg?r=1498990499",
+        "link": "https://bgm.tv/character/3219",
+        "categorie": "person"
+      },
+      {
+        "id": "299",
+        "label": "卡莲·奥尔黛西亚",
+        "info": "银发金瞳的美少女，冬木教会的代理司祭，Lancer和吉尔伽美什的Master。接替言峰绮礼，在第五次圣杯战争之后半年，由圣堂教会派到冬木市调查疑似圣杯的魔力波动的真相。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/46/299_crt_1VgGG.jpg?r=1389517070",
+        "link": "https://bgm.tv/character/299",
+        "categorie": "person"
+      },
+      {
+        "id": "300",
+        "label": "巴泽特·弗拉加·麦克雷米茨",
+        "info": "“夜之圣杯战争”的主人公/女主角。23岁，爱尔兰人。隶属魔术协会的封印指定执行者，被派遣到冬木市参加第五次圣杯战争，召唤出库丘林，Lancer英灵的原Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/af/300_crt_eJll6.jpg?r=1535535934",
+        "link": "https://bgm.tv/character/300",
+        "categorie": "person"
+      },
+      {
+        "id": "860",
+        "label": "弓塚五月",
+        "info": "志贵的同学，国中被志贵救了之后，从此对主角存有好感，据称原本应该有专属路线，但被删成为最悲情的路人。因意外成为吸血鬼，一脚踏进了非人的世界，最后被主角刺中死点死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/ac/860_crt_Vx1Yx.jpg?r=1421292210",
+        "link": "https://bgm.tv/character/860",
+        "categorie": "person"
+      },
+      {
+        "id": "3220",
+        "label": "言峰绮礼",
+        "info": "此次的圣杯战争担任监督的神父，也是教会的“代行者（Executer）”，有着言行复杂常人不能理解的地方。曾参加过上次（第四次）的圣杯战争。远坂凛的监护人及师兄，爱吃麻婆豆腐，虽是代行者，本作中并未使用过圣典（于HF线中绮礼曾提到若想与从者对战取得胜利，必须配备代行者专用武器-圣典，关于圣典使用者，可参照月姬中埋葬机关的代行者－希耶尔（Ciel（シエル））。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/3220_crt_0bm1O.jpg?r=1514751314",
+        "link": "https://bgm.tv/character/3220",
+        "categorie": "person"
+      },
+      {
+        "id": "3221",
+        "label": "卫宫切嗣",
+        "info": "Fate/Zero 中Saber的Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/8e/3221_crt_Rz66r.jpg?r=1499148483",
+        "link": "https://bgm.tv/character/3221",
+        "categorie": "person"
+      },
+      {
+        "id": "11250",
+        "label": "莲",
+        "info": "夢に駆ける黒猫",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/9f/11250_crt_XWjF8.jpg?r=1421330541",
+        "link": "https://bgm.tv/character/11250",
+        "categorie": "person"
+      },
+      {
+        "id": "11251",
+        "label": "白莲",
+        "info": "蒼崎青子がレンの使われていなかった“能動的な人格”をタタリの残滓によって具現化したもの。レンの写し鏡のような存在であり、基本色もレンとは対照的に白。タタリとしての力や知識も一部持っている。心象世界は「真夏の雪原」。青子は使い魔にしようとしていたのだが、彼女の制御を受け付けず、『Re・ ACT』の事件を引き起こすことになった。『Actress Again』における青子ルートでの両者の会話によると、青子は彼女を具現化した際に失敗をやらかしたとのこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/e9/11251_crt_epl7L.jpg?r=1421330394",
+        "link": "https://bgm.tv/character/11251",
+        "categorie": "person"
+      },
+      {
+        "id": "12616",
+        "label": "咒腕的哈桑",
+        "info": "本名哈纳姆（日语：ハナム；英语：Hanam）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/f8/12616_crt_QiNqn.jpg",
+        "link": "https://bgm.tv/character/12616",
+        "categorie": "person"
+      },
+      {
+        "id": "14383",
+        "label": "莉兹拜斐·斯托琳多巴利",
+        "info": "圣堂教会旗下异端审问骑士团之一，韦斯特尔弦盾骑士团团长。圣盾骑士。武器为拥有类似弦乐器外表的概念武装·正式外典迦玛列（日语：正式外典ガマリエル）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/2c/14383_crt_zxPh2.jpg?r=1376685127",
+        "link": "https://bgm.tv/character/14383",
+        "categorie": "person"
+      },
+      {
+        "id": "14384",
+        "label": "尼禄·卡欧斯",
+        "info": "死徒27祖之一，排名第十，实力极强。冷静而不抱有感情的学者，出身于移动石柩·北之彷徨海的魔术师，被称为「彷徨悔的鬼之子」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/e9/14384_crt_04g2g.jpg?r=1421330418",
+        "link": "https://bgm.tv/character/14384",
+        "categorie": "person"
+      },
+      {
+        "id": "15072",
+        "label": "迪尔姆德·奥迪那",
+        "info": "真实身份为爱尔兰神话英雄迪尔姆德·奥迪那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e2/15072_crt_beWB2.jpg?r=1421291401",
+        "link": "https://bgm.tv/character/15072",
+        "categorie": "person"
+      },
+      {
+        "id": "15074",
+        "label": "索拉·娜泽莱·索非亚莉",
+        "info": "英国人。时钟塔降灵科部长的女儿。对Lancer有爱慕之情，即使自身具有抵御魔貌的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a8/15074_crt_7CCP2.jpg?r=1421291265",
+        "link": "https://bgm.tv/character/15074",
+        "categorie": "person"
+      },
+      {
+        "id": "15105",
+        "label": "美缀绫子",
+        "info": "十八般武艺样样精通的弓道部主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b0/15105_crt_ef0EJ.jpg?r=1514751801",
+        "link": "https://bgm.tv/character/15105",
+        "categorie": "person"
+      },
+      {
+        "id": "15113",
+        "label": "尼禄·克劳狄乌斯",
+        "info": "「仰望朕之艺才！",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/8c/15113_crt_QtqZs.jpg?r=1518177673",
+        "link": "https://bgm.tv/character/15113",
+        "categorie": "person"
+      },
+      {
+        "id": "15131",
+        "label": "间桐雁夜",
+        "info": "Berserker的Master，『Fate/stay night』中间桐慎二的叔父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/c3/15131_crt_FBiDS.jpg?r=1498990345",
+        "link": "https://bgm.tv/character/15131",
+        "categorie": "person"
+      },
+      {
+        "id": "16226",
+        "label": "幻象之月",
+        "info": "魔法少女四天王之一，以真祖之姿降临，代表着地球的意志力惩罚邪恶的白之魔法少女，是在满月的状态下几乎无敌的强健派。由其主役的《白色月姬·幻象之月》由于每一话莲在关键时刻都会拿出各种意味不明的食材而拥有着微妙的收视率，已经到了发售剧场版的程度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/0d/16226_crt_7HX2s.jpg?r=1421330491",
+        "link": "https://bgm.tv/character/16226",
+        "categorie": "person"
+      },
+      {
+        "id": "16227",
+        "label": "魔法少女卡莲酱",
+        "info": "魔法少女四天王之一，万华杖露比（魔法少女琥珀）所选定的继任者，由私自将虎圣杯据为己有的腹黑修女进化而成的超级腹黑魔法少女。身为毒舌女，心为食虫花，将满满的爱灌注于惩罚的铁球，以千钧之力治愈（破坏）一切的终末少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/97/16227_crt_KKUkP.jpg",
+        "link": "https://bgm.tv/character/16227",
+        "categorie": "person"
+      },
+      {
+        "id": "16247",
+        "label": "狮SABER",
+        "info": "嗷嗷嗷嗷嗷嗷嗷嗷，嗷嗷嗷嗷嗷嗷、嗷嗷、嗷嗷嗷嗷嗷~",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/50/16247_crt_YYsBw.jpg",
+        "link": "https://bgm.tv/character/16247",
+        "categorie": "person"
+      },
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "13731",
+        "label": "伊斯坎达尔",
+        "info": "真实身份为征服王伊斯坎达尔（イスカンダル），史称为亚历山大大帝。是一名可用“豪放不羁”形容的男人，身高更高达2m。性格是典型的豪杰型，完全欠缺从者与御主关系的常识。想要征服世界，圣杯只是他长远计划的一环。在战斗中途甚至招募其他从者作为手下，共同征服世界，还可以讨论待遇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/c8/13731_crt_DMUcd.jpg?r=1477830784",
+        "link": "https://bgm.tv/character/13731",
+        "categorie": "person"
+      },
+      {
+        "id": "14377",
+        "label": "有间都古",
+        "info": "志貴が八年間暮らしていた有間家の長女で、小学6年生。いわばもう一人の志貴の「妹」である。『月姫』以後に設定が作られ、『歌月十夜』では名前のみ登場している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/8d/14377_crt_2X48B.jpg?r=1421330374",
+        "link": "https://bgm.tv/character/14377",
+        "categorie": "person"
+      },
+      {
+        "id": "15073",
+        "label": "肯尼斯·艾尔梅洛伊·阿奇博尔德",
+        "info": "肯尼斯是延续了九代的魔术师家系——阿奇博尔德家的家主，是功绩卓越的天才魔术师。他在统率全世界魔术师的魔术协会总部（通称“时钟塔”）担任降灵科的一级讲师，并与降灵科部长的女儿索拉·娜泽莱·索非亚莉订有婚约。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/23/15073_crt_z7uul.jpg?r=1498990364",
+        "link": "https://bgm.tv/character/15073",
+        "categorie": "person"
+      },
+      {
+        "id": "15076",
+        "label": "兰斯洛特",
+        "info": "被讴歌为圆桌骑士中最强者的“湖之骑士”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/82/15076_crt_J9jCW.jpg?r=1568190509",
+        "link": "https://bgm.tv/character/15076",
+        "categorie": "person"
+      },
+      {
+        "id": "16239",
+        "label": "红宝石之星",
+        "info": "自称爱和正义的魔法杖。被称之为愉快型魔术礼装，虽然是人工精灵但是性格有小恶魔的倾向，喜好谈论八卦话题跟恶作剧，尤其喜欢捉弄自己的主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/2c/16239_crt_5hy50.jpg?r=1376255343",
+        "link": "https://bgm.tv/character/16239",
+        "categorie": "person"
+      },
+      {
+        "id": "16240",
+        "label": "魔法少女琥珀",
+        "info": "魔法少女四天王之首，足以被称为魔法少女的起源的超强魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/b7/16240_crt_mngRe.jpg?r=1424096117",
+        "link": "https://bgm.tv/character/16240",
+        "categorie": "person"
+      },
+      {
+        "id": "18247",
+        "label": "莉洁莉特",
+        "info": "相对于塞拉而言更加亲切的人造人女仆，手持大戟作战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/ca/18247_crt_h85aH.jpg",
+        "link": "https://bgm.tv/character/18247",
+        "categorie": "person"
+      },
+      {
+        "id": "19007",
+        "label": "日比乃响",
+        "info": "アーネンエルベのアルバイト店員。16歳。加々美崎高校1年生で、千鍵とはクラスメイト。髪型特徴はアホ毛。明るく朗らかな性格。調理担当だが、掃除など後片付けは非常に苦手らしい。話を綺麗にまとめるのが得意で、少々くさい台詞をも厭わず周囲も彼女のペースに巻き込まれることがある。第七聖典を一人で運んだり、千鍵を持ち上げたまま走ったりと、身体能力に恵まれている様子。自身と千鍵アーネンエルベにバイトするようになったのは、彼女の伝手である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/83/19007_crt_appK6.jpg",
+        "link": "https://bgm.tv/character/19007",
+        "categorie": "person"
+      },
+      {
+        "id": "19008",
+        "label": "桂木千键",
+        "info": "アーネンエルベのアルバイト店員。16歳。加々美崎高校1年生。通称はチカちゃん。緑とも言われる事がある。髪型特徴はツインテール。非常に面倒くさがりで、休日は家に引き籠もるなど怠惰な日々を送っている。またあまり社交的な性格ではない。常連客には人気らしいが、本人はちやほやされる事に慣れていない。他称「ツンデレ」で相方のひびきにすら言われているが、本人は否定している。アーネンエルベのアルバイトは、ひびきの誘いによって始めた。父母と姉の4人家族だが、父母は海外赴任で家を空ける事が多く、姉の千鳥も大学進学後は家を出たため、実質的に一人暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/1d/19008_crt_RFDRX.jpg",
+        "link": "https://bgm.tv/character/19008",
+        "categorie": "person"
+      },
+      {
+        "id": "29709",
+        "label": "熊猫师傅",
+        "info": "人間大の、どう見ても着ぐるみの怪しい人。背中に七つ夜という刺繍が入っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/68/29709_crt_K9L28.jpg?r=1424097027",
+        "link": "https://bgm.tv/character/29709",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

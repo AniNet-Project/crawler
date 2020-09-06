@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16237",
+        "label": "樱木花道",
+        "info": "樱木花道是日本漫画及动画《灌篮高手》中的主角，湘北高中篮球队的球员，拥有惊人的体能特质，经常以天才自称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/97/16237_crt_NbC37.jpg",
+        "link": "https://bgm.tv/character/16237",
+        "categorie": "person"
+      },
+      {
+        "id": "16242",
+        "label": "赤木晴子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/17/16242_crt_a55m9.jpg",
+        "link": "https://bgm.tv/character/16242",
+        "categorie": "person"
+      },
+      {
+        "id": "4185",
+        "label": "安西光义",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/07/4185_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4185",
+        "categorie": "person"
+      },
+      {
+        "id": "7155",
+        "label": "三井寿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/cf/7155_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7155",
+        "categorie": "person"
+      },
+      {
+        "id": "16241",
+        "label": "赤木刚宪",
+        "info": "湘北队的队长，以NBA巨星尤因为模板刻画出的角色。他是球队的队长，也是球队的支柱。攻防俱佳，是全国顶尖的中锋。县大赛五位明星球员之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/15/16241_crt_86JR1.jpg",
+        "link": "https://bgm.tv/character/16241",
+        "categorie": "person"
+      },
+      {
+        "id": "7152",
+        "label": "流川枫",
+        "info": "1年10組在籍。中学時代からバスケットのスタープレイヤーで、湘北高校女生徒の憧れの的。花道とは「終生のライバル」といわれるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/5e/7152_crt_anidb.jpg?r=1425454644",
+        "link": "https://bgm.tv/character/7152",
+        "categorie": "person"
+      },
+      {
+        "id": "7154",
+        "label": "宫城良田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/83/7154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7154",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

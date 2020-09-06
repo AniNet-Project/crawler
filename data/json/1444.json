@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4451",
+        "label": "宫永咲",
+        "info": "清澄高中一年级，担任团体战的大将兼ACE。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/e6/4451_crt_JWWtL.jpg?r=1572006289",
+        "link": "https://bgm.tv/character/4451",
+        "categorie": "person"
+      },
+      {
+        "id": "4452",
+        "label": "原村和",
+        "info": "清澄高中一年级，于清澄高中团体赛担任副将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/47/4452_crt_8p8Fi.jpg?r=1572945251",
+        "link": "https://bgm.tv/character/4452",
+        "categorie": "person"
+      },
+      {
+        "id": "15551",
+        "label": "片冈优希",
+        "info": "清澄学院高中一年级，团体战先锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/32/15551_crt_Lu5q9.jpg?r=1572945276",
+        "link": "https://bgm.tv/character/15551",
+        "categorie": "person"
+      },
+      {
+        "id": "4455",
+        "label": "竹井久",
+        "info": "清澄高中三年级。是清澄高中的学生会长，麻将部的部长。在团体战中担任指挥者和中坚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/c3/4455_crt_5d4py.jpg?r=1572945295",
+        "link": "https://bgm.tv/character/4455",
+        "categorie": "person"
+      },
+      {
+        "id": "4453",
+        "label": "染谷真子",
+        "info": "清澄高中二年级。麻将部预备主将，团体战次锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/c0/4453_crt_sBkXK.jpg?r=1572945306",
+        "link": "https://bgm.tv/character/4453",
+        "categorie": "person"
+      },
+      {
+        "id": "22356",
+        "label": "须贺京太郎",
+        "info": "高校１年生。清澄高校麻雀部、唯一の男性部員。幼なじみの咲を麻雀部に誘った張本人。しかし、麻雀はまだ覚えたばかり…。和のようにナイス・バ ディな美少女をついつい目で追ってしまうお年頃。ただ、それ以上の度胸は全く無いので、一人で青い妄想とかなんとかしている程度である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/e9/22356_crt_LE7u0.jpg?r=1572005992",
+        "link": "https://bgm.tv/character/22356",
+        "categorie": "person"
+      },
+      {
+        "id": "15549",
+        "label": "井上纯",
+        "info": "龙门渕高中二年级，团体战先锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/a3/15549_crt_4Nj8W.jpg?r=1572943016",
+        "link": "https://bgm.tv/character/15549",
+        "categorie": "person"
+      },
+      {
+        "id": "4448",
+        "label": "泽村智纪",
+        "info": "龙门渕高中二年级，团体战次锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/e1/4448_crt_anidb.jpg?r=1572942978",
+        "link": "https://bgm.tv/character/4448",
+        "categorie": "person"
+      },
+      {
+        "id": "4449",
+        "label": "国广一",
+        "info": "龙门渕高中二年级，团体战中坚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/07/4449_crt_1SKK9.jpg?r=1597563237",
+        "link": "https://bgm.tv/character/4449",
+        "categorie": "person"
+      },
+      {
+        "id": "11889",
+        "label": "龙门渕透华",
+        "info": "龙门渕高中二年级，麻将部部长，团体战副将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/03/11889_crt_5GRN7.jpg?r=1572942937",
+        "link": "https://bgm.tv/character/11889",
+        "categorie": "person"
+      },
+      {
+        "id": "4450",
+        "label": "天江衣",
+        "info": "龙门渕高中二年级，团体战大将兼王牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/06/4450_crt_monNr.jpg",
+        "link": "https://bgm.tv/character/4450",
+        "categorie": "person"
+      },
+      {
+        "id": "22357",
+        "label": "荻良",
+        "info": "龙门渕透华家的管家。随时侍候透华的能干的执事，裁缝也相当拿手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/e5/22357_crt_Ybn8Q.jpg",
+        "link": "https://bgm.tv/character/22357",
+        "categorie": "person"
+      },
+      {
+        "id": "6465",
+        "label": "杉乃步",
+        "info": "龍門渕高校1年生。アニメ版オリジナルキャラクター（原作でも第49局に同じ髪型のメイドが登場している）。団体戦の補欠で龍門渕家のメイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/84/6465_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6465",
+        "categorie": "person"
+      },
+      {
+        "id": "15550",
+        "label": "福路美穗子",
+        "info": "风越女子学院的三年级生，麻将部部长，团体战先锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/fc/15550_crt_oS2RN.jpg",
+        "link": "https://bgm.tv/character/15550",
+        "categorie": "person"
+      },
+      {
+        "id": "68571",
+        "label": "吉留未春",
+        "info": "眼鏡とラフなショートカットが魅力的な風越女子高校の2年生。ニックネームは「みはるん」。風越女子高校・麻雀部は部員同士が競い合い、一人一人にランキングをつけている。一見すると穏やかでおとなしく見える彼女も、風越の麻雀部では上位ランカーで実力をもった雀士である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/2f/68571_crt_MPzx7.jpg?r=1572006127",
+        "link": "https://bgm.tv/character/68571",
+        "categorie": "person"
+      },
+      {
+        "id": "71828",
+        "label": "文堂星夏",
+        "info": "細目が特徴的な高校１年生。風越女子高校の麻雀部は、８０名を要する強豪校であり、文堂は当時78位だった。しかし福路の麻雀に対するひたむきな姿を見ることによって情熱を燃やし、わずか数ヶ月で部内のランキング上位に登りつめ、団体戦のメンバーに選ばれるにまで成長した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a1/71828_crt_CJSyA.jpg?r=1572943036",
+        "link": "https://bgm.tv/character/71828",
+        "categorie": "person"
+      },
+      {
+        "id": "4749",
+        "label": "深堀纯代",
+        "info": "风越女子学院高中二年级学生，在团体战中以副将的身份出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/66/4749_crt_anidb.jpg?r=1572943050",
+        "link": "https://bgm.tv/character/4749",
+        "categorie": "person"
+      },
+      {
+        "id": "4748",
+        "label": "池田华菜",
+        "info": "风越女子高校二年级学生，担任团体战中的大将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/5f/4748_crt_anidb.jpg?r=1572943063",
+        "link": "https://bgm.tv/character/4748",
+        "categorie": "person"
+      },
+      {
+        "id": "4697",
+        "label": "津山睦月",
+        "info": "鹤贺学园高中二年级生。在团体战中作为先锋出战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/0f/4697_crt_anidb.jpg?r=1572943079",
+        "link": "https://bgm.tv/character/4697",
+        "categorie": "person"
+      },
+      {
+        "id": "4698",
+        "label": "妹尾佳织",
+        "info": "鹤贺学园高中二年级，团体战次锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/68/4698_crt_anidb.jpg?r=1572943090",
+        "link": "https://bgm.tv/character/4698",
+        "categorie": "person"
+      },
+      {
+        "id": "16196",
+        "label": "蒲原智美",
+        "info": "鹤贺学园高中三年级，麻将部部长，团体战中坚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/c0/16196_crt_Rfir5.jpg?r=1572787005",
+        "link": "https://bgm.tv/character/16196",
+        "categorie": "person"
+      },
+      {
+        "id": "16197",
+        "label": "东横桃子",
+        "info": "鹤贺学园高中一年级，团体战副将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/c4/16197_crt_Ddw77.jpg?r=1572943100",
+        "link": "https://bgm.tv/character/16197",
+        "categorie": "person"
+      },
+      {
+        "id": "16195",
+        "label": "加治木由美",
+        "info": "鹤贺学园高中三年级，团体战大将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c1/16195_crt_ZgLGw.jpg?r=1572943115",
+        "link": "https://bgm.tv/character/16195",
+        "categorie": "person"
+      },
+      {
+        "id": "22740",
+        "label": "南浦数绘",
+        "info": "南浦聪雀士的孙女，参加了长野县预选赛的女子个人战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/de/22740_crt_K9ZkB.jpg",
+        "link": "https://bgm.tv/character/22740",
+        "categorie": "person"
+      },
+      {
+        "id": "6459",
+        "label": "藤田靖子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/e8/6459_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6459",
+        "categorie": "person"
+      },
+      {
+        "id": "6462",
+        "label": "小川芹香",
+        "info": "千曲東高校3年",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/a4/6462_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6462",
+        "categorie": "person"
+      },
+      {
+        "id": "6460",
+        "label": "门松叶子",
+        "info": "在长野县预选赛预赛E组时与片冈优希对局。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d0/6460_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6460",
+        "categorie": "person"
+      },
+      {
+        "id": "6464",
+        "label": "堂山由香里",
+        "info": "今宮女子1年",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/4a/6464_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6464",
+        "categorie": "person"
+      },
+      {
+        "id": "6471",
+        "label": "河内智世美",
+        "info": "東福寺高校2年",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/74/6471_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6471",
+        "categorie": "person"
+      },
+      {
+        "id": "6463",
+        "label": "三濑晶子",
+        "info": "東福寺高校1年",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/f0/6463_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6463",
+        "categorie": "person"
+      },
+      {
+        "id": "6271",
+        "label": "原村惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b6/6271_crt_anidb.jpg?r=1572944747",
+        "link": "https://bgm.tv/character/6271",
+        "categorie": "person"
+      },
+      {
+        "id": "8670",
+        "label": "龙门渕高中",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8d/8670_crt_r8Fss.jpg",
+        "link": "https://bgm.tv/character/8670",
+        "categorie": "person"
+      },
+      {
+        "id": "8669",
+        "label": "鹤贺学园",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/24/8669_crt_EN8Yv.jpg",
+        "link": "https://bgm.tv/character/8669",
+        "categorie": "person"
+      },
+      {
+        "id": "22365",
+        "label": "辻垣内智叶",
+        "info": "临海女子高校今年全国大会正选阵容中唯一的日本籍选手，麻将部部长，去年全国个人战第三名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/b2/22365_crt_W3yk3.jpg?r=1428401239",
+        "link": "https://bgm.tv/character/22365",
+        "categorie": "person"
+      },
+      {
+        "id": "31723",
+        "label": "郝慧宇",
+        "info": "临海女子高中代表队队次锋，香港人，曾在仁川亚洲大会上得到银牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/7b/31723_crt_xwppX.jpg?r=1428401978",
+        "link": "https://bgm.tv/character/31723",
+        "categorie": "person"
+      },
+      {
+        "id": "31722",
+        "label": "雀明华",
+        "info": "出场的时候总打着一把雨伞。在欧洲选手圈赛里被称为“风神”的世界级选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/19/31722_crt_ttLK0.jpg?r=1428401653",
+        "link": "https://bgm.tv/character/31722",
+        "categorie": "person"
+      },
+      {
+        "id": "23022",
+        "label": "梅根·戴文",
+        "info": "临海女子高校的留学生，去年和今年均担任副将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/c6/23022_crt_OrrpF.jpg?r=1428400854",
+        "link": "https://bgm.tv/character/23022",
+        "categorie": "person"
+      },
+      {
+        "id": "31724",
+        "label": "涅莉·薇萨拉兹",
+        "info": "高中一年级，格鲁吉亚人，在世界青少年大赛里活跃的选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/b0/31724_crt_vV0ze.jpg?r=1428402304",
+        "link": "https://bgm.tv/character/31724",
+        "categorie": "person"
+      },
+      {
+        "id": "6116",
+        "label": "宫永照",
+        "info": "白糸台高中三年级，团体战先锋兼王牌，麻将部部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/e7/6116_crt_2511V.jpg?r=1454051055",
+        "link": "https://bgm.tv/character/6116",
+        "categorie": "person"
+      },
+      {
+        "id": "18628",
+        "label": "弘世堇",
+        "info": "白糸台高中三年级，麻将部部长，团体战次锋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ec/18628_crt_625z9.jpg?r=1359769750",
+        "link": "https://bgm.tv/character/18628",
+        "categorie": "person"
+      },
+      {
+        "id": "22387",
+        "label": "梦乃真帆",
+        "info": "原村和、片冈优希在国中时的学妹，尽管打了很长一段时间麻将但还是初学者的水平。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/92/22387_crt_1izd5.jpg",
+        "link": "https://bgm.tv/character/22387",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      },
+      {
+        "id": "35639",
+        "label": "男学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35639",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

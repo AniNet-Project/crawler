@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26123",
+        "label": "罗小黑",
+        "info": "一只天真、勇敢而强大的小黑猫。实为猫妖，因盗取老君天明珠而被谛听打回原形。躲入纸箱中避雨误被小白捡回家，取名罗小黑。在罗家安心恢复中。尾巴是身长的两倍，可变成翅膀（到第九集为止，翅膀都只能短暂出现），也可分裂成名为嘿咻的有意识体，一般为四个，可以无限分裂，但总体积不变。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/88/26123_crt_2jc5g.jpg",
+        "link": "https://bgm.tv/character/26123",
+        "categorie": "person"
+      },
+      {
+        "id": "62361",
+        "label": "九月",
+        "info": "活了两百年而已的九尾狐，白发齐肩的少女，喜欢白色T恤下身裤子，有些男孩子气，没入宅以前形象是普通的黑长直少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/b1/62361_crt_iST92.jpg",
+        "link": "https://bgm.tv/character/62361",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

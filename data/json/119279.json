@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28504",
+        "label": "春野遥／花神天使",
+        "info": "13岁的贵族学园初中一年级生。充满活力和笑容的女孩，时刻怀抱梦想的性格，使之面对困难时不会轻言放弃。总会拿出封面印有公主的图画书去鼓励自己，直到现在都是以成为真正公主作为最大的梦想。在优秀的南和绮罗面前被形容为还没开花的小花蕾，为此加倍努力去追赶步伐。非常喜欢鲜花和小动物，对彼方王子有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/96/28504_crt_dI25T.jpg",
+        "link": "https://bgm.tv/character/28504",
+        "categorie": "person"
+      },
+      {
+        "id": "28505",
+        "label": "海藤南／人鱼天使",
+        "info": "14岁的贵族学园初中二年级生。为大型企业“海藤集团”的千金，担当学生会会长，亦被称为学园的公主，有一名兄长。文武双全，擅长芭蕾舞、马术和射箭。富有责任感，做事十分细心，扮演着一名温柔可靠的姐姐型角色，自身亦盼望对外竖立有体面的形象，成为像哥哥和爸爸那样有助于别人的人。非常喜欢大海，爱喝红茶。害怕鬼怪。生日7月20日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/7f/28505_crt_AemJg.jpg",
+        "link": "https://bgm.tv/character/28505",
+        "categorie": "person"
+      },
+      {
+        "id": "28506",
+        "label": "天之川绮罗／闪亮天使",
+        "info": "13岁的贵族学园初中一年级生，同时是人气模特儿。每日都为了兼顾两边工作，而显得十分忙碌，有点自我中心。对遥昵称为“春春（はるはる）”、对南昵称为“小南（みなみん）”、对唯昵称作“唯唯（ゆいゆい）”及对永久昵称作“永久亲（トワっち）”。自幼受母亲史黛拉影响而梦想成为世界级最顶尖的模特儿，为此一直勇往直前和培养实力。非常喜欢星星，爱吃甜点，特别是甜甜圈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/56/28506_crt_x3P3r.jpg",
+        "link": "https://bgm.tv/character/28506",
+        "categorie": "person"
+      },
+      {
+        "id": "37195",
+        "label": "红城永久／黛维莱德／赤红天使",
+        "info": "第13话登场，自称迪斯达克的绝望公主，拥有一头银色长发（变身前为红色），一双尖耳朵及红眼晴，身穿黑红色礼服，手里总是拿着一把能演奏出冰冷音色小提琴的神秘少女，性格冷酷残忍，为组织中仅次于首领迪丝比娅的第二号人物，同时也是其女儿兼正统继承人，自称高尚、尊贵和美丽，蔑视Princess光之美少女们的立场及梦想。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/67/37195_crt_INP22.jpg",
+        "link": "https://bgm.tv/character/37195",
+        "categorie": "person"
+      },
+      {
+        "id": "28907",
+        "label": "泡芙",
+        "info": "甘えんぼうでのんびりやさんのようせい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/c5/28907_crt_cJC74.jpg",
+        "link": "https://bgm.tv/character/28907",
+        "categorie": "person"
+      },
+      {
+        "id": "28908",
+        "label": "熏香",
+        "info": "明るくしっかり者のようせい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/78/28908_crt_F6r65.jpg",
+        "link": "https://bgm.tv/character/28908",
+        "categorie": "person"
+      },
+      {
+        "id": "28909",
+        "label": "彼方王子",
+        "info": "『ホープキングダム』の心やさしくゆうかんな王子さま。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/a5/28909_crt_eZfu0.jpg",
+        "link": "https://bgm.tv/character/28909",
+        "categorie": "person"
+      },
+      {
+        "id": "69131",
+        "label": "七濑唯",
+        "info": "春野遥的同学兼室友，住在同一间宿舍里。与遥一样喜欢图画书，梦想是成为一名图画书作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/fb/69131_crt_485GE.jpg?r=1551898085",
+        "link": "https://bgm.tv/character/69131",
+        "categorie": "person"
+      },
+      {
+        "id": "72179",
+        "label": "夏慕尔小姐",
+        "info": "ホープキングダムに伝わる「プリンセスレッスンパッド」に宿る妖精。一人称は「ミー」。英語まじりの会話が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/06/72179_crt_I2oeV.jpg?r=1570870046",
+        "link": "https://bgm.tv/character/72179",
+        "categorie": "person"
+      },
+      {
+        "id": "72180",
+        "label": "クローズ",
+        "info": "ディスダークの三銃士を務めている男性怪人。尖った耳とトゲトゲしい黒髪が特徴。一人称は「オレ」で、語尾に「だぜ」と付けて話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/e3/72180_crt_gEiVI.jpg",
+        "link": "https://bgm.tv/character/72180",
+        "categorie": "person"
+      },
+      {
+        "id": "72184",
+        "label": "シャット",
+        "info": "ディスダークの三銃士を務めている男性怪人。尖った耳と縦ロールにした金髪が特徴。一人称は「わたし」で、語尾に「のみ」と付けて話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/37/72184_crt_ay2lC.jpg",
+        "link": "https://bgm.tv/character/72184",
+        "categorie": "person"
+      },
+      {
+        "id": "72186",
+        "label": "クロロ / ロック",
+        "info": "ディスダークの三銃士を務めている少年怪人。目元を隠した茶髪が特徴。一人称は「ボク」で、語尾に「だね」と付けて話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/2e/72186_crt_oisOo.jpg",
+        "link": "https://bgm.tv/character/72186",
+        "categorie": "person"
+      },
+      {
+        "id": "72187",
+        "label": "ストップ",
+        "info": "第31話にて、クローズが「絶望の種」から生みだした双子の戦士。両者とも金色と銀色の鎧仮面のような顔が特徴で、機械的な言動をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/fd/72187_crt_A7piI.jpg?r=1570902071",
+        "link": "https://bgm.tv/character/72187",
+        "categorie": "person"
+      },
+      {
+        "id": "72188",
+        "label": "フリーズ",
+        "info": "第31話にて、クローズが「絶望の種」から生みだした双子の戦士。両者とも金色と銀色の鎧仮面のような顔が特徴で、機械的な言動をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/ee/72188_crt_NLkNO.jpg?r=1570902433",
+        "link": "https://bgm.tv/character/72188",
+        "categorie": "person"
+      },
+      {
+        "id": "72189",
+        "label": "蓝原裕树",
+        "info": "ノーブル学園の男子生徒で、はるかのクラスメイト。茶色の短髪の少年。一人称は「オレ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/7f/72189_crt_6qXex.jpg",
+        "link": "https://bgm.tv/character/72189",
+        "categorie": "person"
+      },
+      {
+        "id": "72190",
+        "label": "濑川瞳",
+        "info": "ノーブル学園の女子生徒で、きららのクラスメイト。ツインテールの少女。一人称は「わたし」。きららから「ひとみん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/51/72190_crt_01J01.jpg?r=1570908410",
+        "link": "https://bgm.tv/character/72190",
+        "categorie": "person"
+      },
+      {
+        "id": "72191",
+        "label": "神田阳子",
+        "info": "ノーブル学園の女子生徒で、きららのクラスメイトにして、ひとみの親友。セミロングの少女。一人称はひとみと同じ「わたし」。きららからは「ようたん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/fc/72191_crt_dl2D2.jpg?r=1570908655",
+        "link": "https://bgm.tv/character/72191",
+        "categorie": "person"
+      },
+      {
+        "id": "72192",
+        "label": "狩野沙也加",
+        "info": "ノーブル学園の女子生徒で、はるかのクラスメイト。リボン付のカチューシャを付けたショートボブの少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/27/72192_crt_QM63c.jpg?r=1570909448",
+        "link": "https://bgm.tv/character/72192",
+        "categorie": "person"
+      },
+      {
+        "id": "72193",
+        "label": "小卷法子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/7b/72193_crt_YVha3.jpg",
+        "link": "https://bgm.tv/character/72193",
+        "categorie": "person"
+      },
+      {
+        "id": "72194",
+        "label": "栗田舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/37/72194_crt_B5faU.jpg?r=1570910088",
+        "link": "https://bgm.tv/character/72194",
+        "categorie": "person"
+      },
+      {
+        "id": "72195",
+        "label": "小森花惠",
+        "info": "ノーブル学園の女子生徒で、はるかのクラスメイト。黄色いカチューシャを付けたショートカットの少女。一人称は「わたし」。名前の漢字表記では「花恵」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/a5/72195_crt_xybLs.jpg?r=1570910992",
+        "link": "https://bgm.tv/character/72195",
+        "categorie": "person"
+      },
+      {
+        "id": "72196",
+        "label": "古屋理子",
+        "info": "ノーブル学園の女子生徒で、はるかのクラスメイト。黒色のロングヘアが特徴で、眼鏡をかけている。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/17/72196_crt_1G1Gj.jpg",
+        "link": "https://bgm.tv/character/72196",
+        "categorie": "person"
+      },
+      {
+        "id": "72197",
+        "label": "平野健太",
+        "info": "ノーブル学園の男子生徒で、はるかのクラスメイト。演劇部に所属している。眼鏡をかけている。一人称は「ボク」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/b7/72197_crt_H9U7c.jpg",
+        "link": "https://bgm.tv/character/72197",
+        "categorie": "person"
+      },
+      {
+        "id": "72198",
+        "label": "如月玲子",
+        "info": "ノーブル学園の風紀委員長。黒髪のロングヘアで銀縁アンダーリムのオーバル眼鏡をかけた少女。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/91/72198_crt_q4MMP.jpg?r=1570912003",
+        "link": "https://bgm.tv/character/72198",
+        "categorie": "person"
+      },
+      {
+        "id": "72199",
+        "label": "东星罗",
+        "info": "ノーブル学園の生徒会副会長。ベリーショートヘアの少女で、みなみとは小学校からの幼なじみ。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/ee/72199_crt_tcMaG.jpg",
+        "link": "https://bgm.tv/character/72199",
+        "categorie": "person"
+      },
+      {
+        "id": "72200",
+        "label": "西峰绫香",
+        "info": "ノーブル学園の生徒会書記。金髪ウェーブヘアの少女で、みなみとは小学校からの幼なじみ。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/9e/72200_crt_2o1Ku.jpg",
+        "link": "https://bgm.tv/character/72200",
+        "categorie": "person"
+      },
+      {
+        "id": "72201",
+        "label": "今川秀",
+        "info": "ノーブル学園の生徒会副会長。茶髪の少年で、爽やかで少々気取った性格。男子寮のリーダー的存在。一人称は「ボク」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/ab/72201_crt_QIWOb.jpg",
+        "link": "https://bgm.tv/character/72201",
+        "categorie": "person"
+      },
+      {
+        "id": "72202",
+        "label": "古芝直人",
+        "info": "ノーブル学園の生徒会書記。眼鏡をかけた黒髪の少年で、比較的冷静な性格。男子生徒の中では1番の秀才とされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/aa/72202_crt_D5Dj2.jpg",
+        "link": "https://bgm.tv/character/72202",
+        "categorie": "person"
+      },
+      {
+        "id": "72203",
+        "label": "伊集院君麿",
+        "info": "ノーブル学園の生徒で、みなみの許嫁と自称する少年。現在はイギリスに留学中。一人称は「ボク」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/24/72203_crt_9OFG3.jpg",
+        "link": "https://bgm.tv/character/72203",
+        "categorie": "person"
+      },
+      {
+        "id": "72204",
+        "label": "一条兰子",
+        "info": "ノーブル学園の3年生で、金髪ツインテールの小柄な少女。情報番組「サンデーGOGO」のレギュラーリポーターを務めているアイドル。一人称は「わたし」で、愛称は「ランラン」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/e5/72204_crt_O5AFH.jpg?r=1570914190",
+        "link": "https://bgm.tv/character/72204",
+        "categorie": "person"
+      },
+      {
+        "id": "72205",
+        "label": "白金",
+        "info": "ノーブル学園の女子寮の寮母。白髪の高齢の女性で、小ぶりな丸眼鏡をかけている。一人称は「わたし」。登場するときは「寮母の白金です」と挨拶するのがお決まりだが、このように名乗り出なかった回もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/d4/72205_crt_5Om0i.jpg?r=1570914458",
+        "link": "https://bgm.tv/character/72205",
+        "categorie": "person"
+      },
+      {
+        "id": "72206",
+        "label": "望月梦",
+        "info": "声 - 沢田敏子",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/35/72206_crt_BT7iH.jpg",
+        "link": "https://bgm.tv/character/72206",
+        "categorie": "person"
+      },
+      {
+        "id": "72207",
+        "label": "座间堇",
+        "info": "ノーブル学園の教師。縁のとがった、フォックス眼鏡をかけており、普段は目が描かれていない。語尾に「ザマス」とつける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/f7/72207_crt_n22C4.jpg",
+        "link": "https://bgm.tv/character/72207",
+        "categorie": "person"
+      },
+      {
+        "id": "72208",
+        "label": "春野伊吹",
+        "info": "はるかの父親。ボサボサの髪に太い眉毛が特徴の恰幅の良い（はるかが幼い頃はもう少し細身だった）男性。ウサギ柄の私服を愛用し、仕事時には紺色の作務衣を着用する。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/d5/72208_crt_v11IG.jpg",
+        "link": "https://bgm.tv/character/72208",
+        "categorie": "person"
+      },
+      {
+        "id": "72209",
+        "label": "春野萌",
+        "info": "はるかの母親。茶色のショートヘア（はるかが幼い頃はロングヘア）の女性で、眼鏡をかけており、仕事時には赤紫色の作務衣を着用する。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e8/72209_crt_XqVdA.jpg?r=1570916761",
+        "link": "https://bgm.tv/character/72209",
+        "categorie": "person"
+      },
+      {
+        "id": "72211",
+        "label": "天之川史黛拉",
+        "info": "きららの母親であり、スーパーモデルとして活躍している金色のロングヘアの女性。ノーブル学園の出身者でもある。一人称は「あたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c7/72211_crt_88P88.jpg",
+        "link": "https://bgm.tv/character/72211",
+        "categorie": "person"
+      },
+      {
+        "id": "72213",
+        "label": "波罗罗·波安努",
+        "info": "原型取材自现实人物卡尔·拉格斐（Karl Lagerfeld）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/42/72213_crt_a44h6.jpg",
+        "link": "https://bgm.tv/character/72213",
+        "categorie": "person"
+      },
+      {
+        "id": "72214",
+        "label": "馆响子",
+        "info": "きららが所属するモデル事務所の社長を務めている女性。黒色のショートヘアをしており、眼鏡をかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/5e/72214_crt_FK57i.jpg",
+        "link": "https://bgm.tv/character/72214",
+        "categorie": "person"
+      },
+      {
+        "id": "72215",
+        "label": "锦户",
+        "info": "第13話に登場。みなみと親しいバイオリン職人であり、「バイオリン工房」でバイオリン教室も開いている老人。みなみのバイオリンの先生でもあり、彼女のバイオリンを修理していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/69/72215_crt_90lQm.jpg",
+        "link": "https://bgm.tv/character/72215",
+        "categorie": "person"
+      },
+      {
+        "id": "72216",
+        "label": "海藤渡",
+        "info": "みなみの兄。普段はラフな私服を着用している。一人称は「ボク」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/e8/72216_crt_3KeaX.jpg",
+        "link": "https://bgm.tv/character/72216",
+        "categorie": "person"
+      },
+      {
+        "id": "72217",
+        "label": "北风明日香",
+        "info": "海洋学者であり、海洋生物を専門とする獣医の女性。水族館での作業着を普段着としている。一人称は「あたし」。趣味はウィンドサーフィン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/b4/72217_crt_Qz2PD.jpg",
+        "link": "https://bgm.tv/character/72217",
+        "categorie": "person"
+      },
+      {
+        "id": "72218",
+        "label": "明星花铃",
+        "info": "第42話から登場した、きららの事務所に新たに所属した新人モデル。紫色のボブカットの少女で、きららがニューヨークで開催される「ジャパンコレクション」に出演するために響子の計らいできららのアシスタントを任されることになり、きららも「りんりん」と呼んでかわいがっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/90/72218_crt_oOO4H.jpg",
+        "link": "https://bgm.tv/character/72218",
+        "categorie": "person"
+      },
+      {
+        "id": "72219",
+        "label": "海藤典",
+        "info": "わたるとみなみの父親にして、「海藤グループ」の代表。口ヒゲを生やしている男性。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/cf/72219_crt_p66Y1.jpg",
+        "link": "https://bgm.tv/character/72219",
+        "categorie": "person"
+      },
+      {
+        "id": "72220",
+        "label": "海藤真澄",
+        "info": "わたるとみなみの母親。緑色のロングヘアをしている美しい女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/a7/72220_crt_9qyeD.jpg",
+        "link": "https://bgm.tv/character/72220",
+        "categorie": "person"
+      },
+      {
+        "id": "72221",
+        "label": "缇娜",
+        "info": "海藤家の所有地であるリゾート施設の近海に住む、野生のイルカ。名前はみなみが名前を聞いた際、声が「ティナ」に聞こえたので、みなみが名付けた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/8a/72221_crt_OO2Sr.jpg",
+        "link": "https://bgm.tv/character/72221",
+        "categorie": "person"
+      },
+      {
+        "id": "72222",
+        "label": "チエリ / 先代キュアフローラ",
+        "info": "頭部に花飾りを付けたピンク色のロングヘアが特徴の少女。一人称は「わたし」。桃色を基調としたドレスを着ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/c2/72222_crt_yr23s.jpg",
+        "link": "https://bgm.tv/character/72222",
+        "categorie": "person"
+      },
+      {
+        "id": "72223",
+        "label": "ユラ / 先代キュアマーメイド",
+        "info": "青いリボンを付けた水色の巻き髪が特徴の少女。一人称は「わたし」。青色を基調としたドレスを着ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/b0/72223_crt_cM7mH.jpg",
+        "link": "https://bgm.tv/character/72223",
+        "categorie": "person"
+      },
+      {
+        "id": "72224",
+        "label": "セイ / 先代キュアトゥインクル",
+        "info": "白いリボンでツインテールにした黄色の髪と褐色の肌が特徴の少女。一人称は「あたし」。黄色を基調とした衣服を着ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/11/72224_crt_Nf696.jpg",
+        "link": "https://bgm.tv/character/72224",
+        "categorie": "person"
+      },
+      {
+        "id": "72225",
+        "label": "迪丝比娅",
+        "info": "ディスダークを支配している絶望の魔女。顔面に角つきの禍々しい仮面を付けている。一人称は「わたし」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/82/72225_crt_c0Oz5.jpg",
+        "link": "https://bgm.tv/character/72225",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

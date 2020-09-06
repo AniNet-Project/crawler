@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6691",
+        "label": "ウォルター・C（クム）・ドルネーズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/78/6691_crt_anidb.jpg?r=1491929112",
+        "link": "https://bgm.tv/character/6691",
+        "categorie": "person"
+      },
+      {
+        "id": "6696",
+        "label": "少校",
+        "info": "诸君，我喜欢战争！（诸君　私は戦争が好きだ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/c0/6696_crt_3Jd3F.jpg?r=1410184432",
+        "link": "https://bgm.tv/character/6696",
+        "categorie": "person"
+      },
+      {
+        "id": "15029",
+        "label": "阿卡德",
+        "info": "王立國教騎士團的王牌(垃圾處理員)，過去不詳的吸血鬼，通常使用常人臂力所無法使用的超大口徑手槍「豺狼」（Jackal）和「加斯爾」（caskal）作戰，對於敵人不管是人或超自然生物都是虐殺",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/0b/15029_crt_mKzV7.jpg",
+        "link": "https://bgm.tv/character/15029",
+        "categorie": "person"
+      },
+      {
+        "id": "20059",
+        "label": "天主教会",
+        "info": "天主教会，即罗马大公教会，是以罗马主教(教宗)为首的教会，为基督宗教的主要宗派之一，自承其历史从耶稣基督创立以来一脉相承。在大多数场合，天主教会即等同于天主教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b0/20059_crt_sN2R7.jpg",
+        "link": "https://bgm.tv/character/20059",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

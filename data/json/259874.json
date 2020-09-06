@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13204",
+        "label": "赫莱森·阿利亚达斯特",
+        "info": "　　多摩住人，面包屋兼快餐店店员，无口自动人形。似乎是去年乘上武藏的自动人形。目前兼任面包屋与快餐厅的店员中。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/42/13204_crt_ZjPNZ.jpg",
+        "link": "https://bgm.tv/character/13204",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

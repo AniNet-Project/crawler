@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2123",
+        "label": "齐格飞·吉尔菲艾斯",
+        "info": "衔至一级上将。追封元帅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/1e/2123_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2123",
+        "categorie": "person"
+      },
+      {
+        "id": "2122",
+        "label": "莱因哈特·冯·罗严克拉姆",
+        "info": "萊因哈特·馮·羅嚴克拉姆（ラインハルト・フォン・ローエングラム, Reinhard von Lohengramm）（帝國曆467年3月14日至－新帝國曆003年7月26日）為日本作家田中芳樹所著科幻小说《銀河英雄傳說》主角。原名萊因哈特·馮·缪杰尔（Reinhard von Müsel），羅嚴克拉姆王朝初代皇帝，擁有一頭金黃色頭髮、冰藍色眼眸、修長身軀和像古代名匠雕刻出來之美貌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/db/2122_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2122",
+        "categorie": "person"
+      },
+      {
+        "id": "12423",
+        "label": "杨文里",
+        "info": "　　黑发，黑眼睛，中等身材。喜欢掺白兰地的红茶，讨厌咖啡，酒量不小。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/68/12423_crt_7OXpx.jpg?r=1524744346",
+        "link": "https://bgm.tv/character/12423",
+        "categorie": "person"
+      },
+      {
+        "id": "2141",
+        "label": "安妮罗洁·冯·格里华德",
+        "info": "原姓缪杰尔，莱因哈特之姊，十五岁时被召入宫，得到银河帝国皇帝佛瑞德里希四世的宠爱，被册封格里华德伯爵夫人。莱茵哈特称帝后，加封她为大公夫人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/66/2141_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2141",
+        "categorie": "person"
+      },
+      {
+        "id": "2144",
+        "label": "乌里希·克斯拉",
+        "info": "银河帝国军\"狮子之泉的七元帅\"之一。法学士官出身，任宪兵总监及帝都防卫司令官，在维护治安和打击反对力量的时候不吝使用残酷手段，但是也不乏人性的一面。在地球教策划的危及皇妃和皇子诞生的佟馆大火事件中身先士卒，营救了皇妃希尔德和皇姐安妮罗杰，保证了皇子的顺利出生。并由此得到了皇妃首席侍女的爱慕，后来结为夫妇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/c1/2144_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2144",
+        "categorie": "person"
+      },
+      {
+        "id": "2152",
+        "label": "卡尔·爱德华·拜耶尔蓝",
+        "info": "衔至上将。长期在米达麦亚手下服役",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/86/2152_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2152",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

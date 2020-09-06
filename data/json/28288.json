@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14494",
+        "label": "阿童木",
+        "info": "诞生于2003年4月7日。制作者是天马博士，因为儿子飞雄（トビオ，华视旧译为托比欧、中国译飞马）在交通意外中死亡，因为无法忍受失子之痛而制造了阿童木，并将其当作儿子一样疼爱以自我慰藉。可是，天马博士后来放弃了阿童木，之后阿童木曾经失灵，但在科学省省长御茶水博士的努力下，阿童木正式重生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/68/14494_crt_b7H8w.jpg",
+        "link": "https://bgm.tv/character/14494",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6747",
+        "label": "サル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/45/6747_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6747",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

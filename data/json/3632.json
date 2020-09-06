@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "689",
+        "label": "泷泽朗",
+        "info": "Seleção No.09。本名、年龄不明，消去了有关自己过去的记忆。“泷泽朗”是被准备的许多护照中其中一个名字。护照里面记载生日是昭和64年1月7日。22岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/a9/689_mjxma.jpg",
+        "link": "https://bgm.tv/character/689",
+        "categorie": "person"
+      },
+      {
+        "id": "690",
+        "label": "森美咲",
+        "info": "即将毕业的大学4年级生。1989年1月6日、昭和64年的7日间出生。双亲事故身亡，与姊姊、姊夫住在一起，原本内定在姊夫良助原本的公司里工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/6d/690_sl6rb.jpg",
+        "link": "https://bgm.tv/character/690",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

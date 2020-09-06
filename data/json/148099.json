@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16489",
+        "label": "桐人／桐谷和人",
+        "info": "主人公。开始玩SAO时是14岁，2年后的故事本篇是16岁。生日日期为10月7号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/4e/16489_crt_mHSx3.jpg?r=1505068032",
+        "link": "https://bgm.tv/character/16489",
+        "categorie": "person"
+      },
+      {
+        "id": "16490",
+        "label": "亚丝娜／结城明日奈",
+        "info": "女主角，开始玩SAO时是15岁，2年后的故事本篇是17岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/bd/16490_crt_s5s5C.jpg",
+        "link": "https://bgm.tv/character/16490",
+        "categorie": "person"
+      },
+      {
+        "id": "49018",
+        "label": "尤娜",
+        "info": "《序列之争》里第一次作为AR（增强现实）偶像拥有高人气的《歌姬》。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/38/49018_crt_KZ7b0.jpg",
+        "link": "https://bgm.tv/character/49018",
+        "categorie": "person"
+      },
+      {
+        "id": "16491",
+        "label": "克莱因／壶井辽太郎",
+        "info": "在和亚丝娜第一次认识时说出了自己的年龄是24岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/80/16491_crt_Dzdbd.jpg?r=1461952832",
+        "link": "https://bgm.tv/character/16491",
+        "categorie": "person"
+      },
+      {
+        "id": "16493",
+        "label": "艾基尔／安德鲁·基尔博德·密鲁茲",
+        "info": "因为本名很长的缘故，所以在现实世界中仍被称为艾基尔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/2a/16493_crt_0dtIk.jpg?r=1461952592",
+        "link": "https://bgm.tv/character/16493",
+        "categorie": "person"
+      },
+      {
+        "id": "16494",
+        "label": "莉兹贝特／篠崎里香",
+        "info": "居住于艾恩葛朗特的48层“琳达司街”，经营冶炼商店的少女，与亚丝娜十分友好，打造出亚丝娜的细剑“闪烁之光”和桐人双剑之一的“逐闇者”，对桐人有好感，但得知桐人与亚丝娜的关系后决定退让，不过曾言回到现实后要进行第二回合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/a7/16494_crt_9m1Nq.jpg",
+        "link": "https://bgm.tv/character/16494",
+        "categorie": "person"
+      },
+      {
+        "id": "16495",
+        "label": "茅场晶彦",
+        "info": "为NERvGear的基础和SAO游戏的设计者。本故事的元凶，幕后黑手般的存在。以量子物理学者兼天才游戏设计师而闻名于世，但很少在媒体上露脸，是桐人曾经景仰的对象。在SAO正式营运的首日绑架了一万名玩家成为NERvGear的囚犯，并宣布SAO死亡游戏化。目的是想实现“真正的异世界”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/ad/16495_crt_Q5Anm.jpg?r=1461951830",
+        "link": "https://bgm.tv/character/16495",
+        "categorie": "person"
+      },
+      {
+        "id": "16496",
+        "label": "西莉卡／绫野圭子",
+        "info": "稀有的“驯兽师”少女（“驯兽师”并非游戏设定的职业），被中层玩家称为“龙使．西莉卡”，刚登入游戏时年仅十二岁，在现实中是独生女，故将帮助自己的桐人当成兄长般仰慕，使用短剑技能，使魔“羽翼龙”的名字为“毕娜”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/9b/16496_crt_un27Q.jpg?r=1505069662",
+        "link": "https://bgm.tv/character/16496",
+        "categorie": "person"
+      },
+      {
+        "id": "17647",
+        "label": "结衣",
+        "info": "倒在桐人和亚丝娜过新婚生活的艾恩葛朗特22层森林里的小女孩。除了记忆错乱，身边还有许多不可解的Bug现象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/19/17647_crt_x346a.jpg",
+        "link": "https://bgm.tv/character/17647",
+        "categorie": "person"
+      },
+      {
+        "id": "25240",
+        "label": "诗乃／朝田诗乃",
+        "info": "幽灵子弹篇的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/16/25240_crt_5QNP1.jpg",
+        "link": "https://bgm.tv/character/25240",
+        "categorie": "person"
+      },
+      {
+        "id": "17646",
+        "label": "莉法／桐谷直叶",
+        "info": "和人现实世界的妹妹，15岁，被和人昵称“小直”，妖精之舞篇登场的另一位女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/86/17646_crt_353qM.jpg",
+        "link": "https://bgm.tv/character/17646",
+        "categorie": "person"
+      },
+      {
+        "id": "49019",
+        "label": "瑛二／后泽锐二",
+        "info": "出现在桐人面前的神秘年轻剑士，在《OS》里的“排名”为第二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/41/49019_crt_eG155.jpg",
+        "link": "https://bgm.tv/character/49019",
+        "categorie": "person"
+      },
+      {
+        "id": "49020",
+        "label": "重村彻大",
+        "info": "东都工业大学电器电子工学科教授，茅场晶彦的老师，提出 VR （虚拟实境）装置的危险性及反对其存在的理由，但因为研究风格过于激进，而被电生理学界视为异端。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/0b/49020_crt_7e2l6.jpg",
+        "link": "https://bgm.tv/character/49020",
+        "categorie": "person"
+      },
+      {
+        "id": "27331",
+        "label": "有纪／绀野木棉季",
+        "info": "圣母圣咏篇的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/04/27331_crt_H3qtn.jpg",
+        "link": "https://bgm.tv/character/27331",
+        "categorie": "person"
+      },
+      {
+        "id": "34396",
+        "label": "尤金",
+        "info": "火精灵中的最强战士。火精灵领主－蒙提法的弟弟。在现实世界亦为兄弟。持有传说级武器“魔剑瓦兰姆”，被誉为ALO中最强的玩家。率领大军攻击风精灵与猫妖的会谈地点时与桐人交战，剑术实力虽与只用一把剑的桐人相近且装备方面占了优势，但还是败给桐人的二刀流。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/8e/34396_crt_V7V9f.jpg?r=1461952795",
+        "link": "https://bgm.tv/character/34396",
+        "categorie": "person"
+      },
+      {
+        "id": "45792",
+        "label": "克里斯海特 / 菊冈诚二郎",
+        "info": "キリトに新型フルダイブシステムである《ソウル・トランスレーター》のテストプレイを依頼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/78/45792_crt_3xykf.jpg?r=1541327105",
+        "link": "https://bgm.tv/character/45792",
+        "categorie": "person"
+      },
+      {
+        "id": "52703",
+        "label": "朔夜",
+        "info": "风精灵的领主，身材高挑的巨乳美女，穿着类似和式的服装，武器为一把大太刀。虽是风精灵但习得了圣属性与水属性的高位技能“复活魔法”，在桐人攻略世界树时率领由风精灵的高手组成的部队襄助。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/c1/52703_crt_Nnhxg.jpg",
+        "link": "https://bgm.tv/character/52703",
+        "categorie": "person"
+      },
+      {
+        "id": "52704",
+        "label": "亚丽莎·露",
+        "info": "猫妖的领主，娇小的美少女，与朔夜是好友，使用钩爪系武器。在桐人攻略世界树时率领猫妖的龙骑士部队襄助。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/46/52704_crt_UcoZX.jpg",
+        "link": "https://bgm.tv/character/52704",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

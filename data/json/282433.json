@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72138",
+        "label": "浅草绿",
+        "info": "本作品の主人公の一人。芝浜高校1年生で映像研のメンバー。黒髪に迷彩柄のハットを被り、軍用リュックを背負って行動する。アニメ制作では「設定が命」。自分の考えた「最強の世界」で大冒険するのが夢。好奇心が強く探検好き、面白いものを見て刺激を受けると猛烈な勢いでイメージボードに空想の世界を描き出す。芝浜高校に入学したらアニメ研に入ってアニメを作りたかったが一人では中々行動できなかった。水崎と出会い、金森に乗せられて映像研を創設する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/4d/72138_crt_mi200.jpg",
+        "link": "https://bgm.tv/character/72138",
+        "categorie": "person"
+      },
+      {
+        "id": "72139",
+        "label": "水崎燕",
+        "info": "本作品の主人公の一人で映像研のメンバー。美人のカリスマ読モで街中にポスターが貼ってあるほどの有名人、さらに実家がお金持ちだが、アニメーター志望。浅草並みに好奇心が強く、探検に出掛ける時には目を輝かせる。アニメーションによる動きのリアルさを表現することにこだわりを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/b9/72139_crt_Ml1S1.jpg?r=1580228401",
+        "link": "https://bgm.tv/character/72139",
+        "categorie": "person"
+      },
+      {
+        "id": "72140",
+        "label": "金森沙耶香",
+        "info": "本作品の主人公の一人で映像研のメンバー。電車に乗ると人目を引くほどの長身。美脚。黒い長髪で、いつもおでこの上に眼鏡を乗せている。幼少期の体験から金に執着し、利益の出ない活動が嫌い。アニメの知識はないが、マネージメントと利益を創造するのが得意。浅草とは同じ中学校（上狸沢学校）の出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/d1/72140_crt_gRobv.jpg?r=1581429379",
+        "link": "https://bgm.tv/character/72140",
+        "categorie": "person"
+      },
+      {
+        "id": "72141",
+        "label": "百目鬼",
+        "info": "音響部の唯一の部員。浅黒い肌に明るい色の髪。4部屋分の部室が一杯になるほどの音の標本を代々受け継いでおり、さらに常日頃から音の収集を行っている。映像研のアニメーションに効果音を付けるのに協力する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/ae/72141_crt_uxzHv.jpg",
+        "link": "https://bgm.tv/character/72141",
+        "categorie": "person"
+      },
+      {
+        "id": "72517",
+        "label": "さかき・ソワンデ",
+        "info": "生徒会書記。浅黒い肌に黒髪。生徒会のブレーン。何かと映像研の活動に注文をつけようとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/d9/72517_crt_bW8g2.jpg",
+        "link": "https://bgm.tv/character/72517",
+        "categorie": "person"
+      },
+      {
+        "id": "74162",
+        "label": "小野",
+        "info": "ロボ研の部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c0/74162_crt_mddj1.jpg",
+        "link": "https://bgm.tv/character/74162",
+        "categorie": "person"
+      },
+      {
+        "id": "74163",
+        "label": "小林",
+        "info": "ロボ研の副部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/17/74163_crt_XMBr2.jpg",
+        "link": "https://bgm.tv/character/74163",
+        "categorie": "person"
+      },
+      {
+        "id": "74806",
+        "label": "後藤",
+        "info": "ロボ研の常識人..だと思います。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/74806",
+        "categorie": "person"
+      },
+      {
+        "id": "74808",
+        "label": "関",
+        "info": "ロボ研メンバーの女の子です。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/74808",
+        "categorie": "person"
+      },
+      {
+        "id": "72142",
+        "label": "藤本先生",
+        "info": "映像研の顧問。もみあげから顎に掛けて豊富な髭をたくわえており、その姿はダレイオス1世、シャムシ・アダド1世、レオニダス1世に例えられる。「必要以上に働かない！隙を見つけては遊ぶ！」を仕事の極意としており、顧問として映像研の活動に極力干渉しない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/02/72142_crt_6F7va.jpg",
+        "link": "https://bgm.tv/character/72142",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

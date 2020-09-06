@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39748",
+        "label": "帕皮卡",
+        "info": "突然在可可娜面前的少女，个性开朗活泼，以获得耳之碎片为目标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/15/39748_crt_2BnB0.jpg?r=1475801676",
+        "link": "https://bgm.tv/character/39748",
+        "categorie": "person"
+      },
+      {
+        "id": "39749",
+        "label": "可可娜",
+        "info": "与奶奶一起生活的国中二年级少女。成绩优秀，是班上的班长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/cc/39749_crt_x0X82.jpg?r=1475801748",
+        "link": "https://bgm.tv/character/39749",
+        "categorie": "person"
+      },
+      {
+        "id": "44165",
+        "label": "雅雅卡",
+        "info": "可可娜的青梅竹马与同学，有着不输给男生的个性，对可可娜来说也是最好的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/e6/44165_crt_D3N56.jpg?r=1475801803",
+        "link": "https://bgm.tv/character/44165",
+        "categorie": "person"
+      },
+      {
+        "id": "44166",
+        "label": "索尔特",
+        "info": "也在搜集耳之碎片的太阳眼镜的男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/a6/44166_crt_VyXt2.jpg?r=1475801855",
+        "link": "https://bgm.tv/character/44166",
+        "categorie": "person"
+      },
+      {
+        "id": "44167",
+        "label": "托托",
+        "info": "谜样的小学生，优优的双胞胎哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/de/44167_crt_OyG44.jpg?r=1475801903",
+        "link": "https://bgm.tv/character/44167",
+        "categorie": "person"
+      },
+      {
+        "id": "44169",
+        "label": "优优",
+        "info": "谜样的小学生，托托的双胞胎妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/ed/44169_crt_Qi1l6.jpg?r=1475801946",
+        "link": "https://bgm.tv/character/44169",
+        "categorie": "person"
+      },
+      {
+        "id": "44172",
+        "label": "希达卡",
+        "info": "研究耳之碎片的科学家，TT-392的发明者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/db/44172_crt_mJ0h9.jpg?r=1475802029",
+        "link": "https://bgm.tv/character/44172",
+        "categorie": "person"
+      },
+      {
+        "id": "44173",
+        "label": "小百合",
+        "info": "从事作业员职务的女性，对于日高奇怪的发明感到苦恼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/4e/44173_crt_WpMN1.jpg?r=1475802094",
+        "link": "https://bgm.tv/character/44173",
+        "categorie": "person"
+      },
+      {
+        "id": "44174",
+        "label": "TT-392",
+        "info": "日高制作的机器人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/51/44174_crt_Zk9y9.jpg?r=1475802150",
+        "link": "https://bgm.tv/character/44174",
+        "categorie": "person"
+      },
+      {
+        "id": "44175",
+        "label": "尤库斯裘鲁",
+        "info": "可可娜饲养的宠物，能伸缩成各种型态，喜欢狭窄的地方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/8a/44175_crt_ddNCZ.jpg?r=1475802206",
+        "link": "https://bgm.tv/character/44175",
+        "categorie": "person"
+      },
+      {
+        "id": "44176",
+        "label": "前辈",
+        "info": "可可娜学校的三年级学生，美术社成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/43/44176_crt_d4Zx9.jpg?r=1475802240",
+        "link": "https://bgm.tv/character/44176",
+        "categorie": "person"
+      },
+      {
+        "id": "44177",
+        "label": "可可娜的奶奶",
+        "info": "与可可娜一起生活并负责照顾可可娜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/3e/44177_crt_H2FiW.jpg?r=1475802279",
+        "link": "https://bgm.tv/character/44177",
+        "categorie": "person"
+      },
+      {
+        "id": "49969",
+        "label": "妞妞",
+        "info": "3人目のアモルファスの子ども。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/5c/49969_crt_9lNl3.jpg",
+        "link": "https://bgm.tv/character/49969",
+        "categorie": "person"
+      },
+      {
+        "id": "50826",
+        "label": "咪咪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/73/50826_crt_nmJg6.jpg?r=1485938074",
+        "link": "https://bgm.tv/character/50826",
+        "categorie": "person"
+      },
+      {
+        "id": "47544",
+        "label": "村长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/bd/47544_crt_979Vz.jpg",
+        "link": "https://bgm.tv/character/47544",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "788",
+        "label": "小矶健二",
+        "info": "17岁，东京都内久远寺院高中二年级学生，从属于物理部，性格畏缩的理科男子。原本打算在暑假里和朋友一起做网络维护来打工，不过，出乎意料的被自己憧憬的前辈筱原夏希邀请，访问其位于长野县上田市的老家。拿手的科目是数学，不过却很遗憾的失去了数学奥林匹克运动会的日本代表选手权的资格。只是他那最拿手的数学，不久以后，就将成为解决世界的危机的王牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/5d/788_QvxuR.jpg",
+        "link": "https://bgm.tv/character/788",
+        "categorie": "person"
+      },
+      {
+        "id": "789",
+        "label": "筱原夏希",
+        "info": "1992年（平成4年）7月19日生。18岁，筱原家的长女，同时亦是阵内荣的曾孙女。从属于剑术部的校园偶像，健二的前辈。为了向曾祖母阵内荣祝寿而回到了位于长野县的上田市的老家。为了完成与曾祖母“下次再来的话，就把未婚夫带来”的约定，拜托小矶健二来冒充自己的未婚夫。是个喜欢穿白色连衣裙的清爽少女，不过其实是个天然呆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/05/789_1O1hq.jpg",
+        "link": "https://bgm.tv/character/789",
+        "categorie": "person"
+      },
+      {
+        "id": "6410",
+        "label": "池泽佳主马",
+        "info": "13岁，夏希的表弟。阵内荣曾孙之一。总是喜欢一个人待在房间里，看起来与普通的宅男少年没有什么不同，实际却是网络格斗大赛的世界冠军。在OZ中的身份为“KING KAZMA（王者·和马）”，是拥有跨国企业赞助的超级玩家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/32/6410_crt_K8w4o.jpg?r=1449746118",
+        "link": "https://bgm.tv/character/6410",
+        "categorie": "person"
+      },
+      {
+        "id": "71750",
+        "label": "阵内荣",
+        "info": "1920年（大正9年）8月1日生。89岁。夏希的曾祖母。从战国时代延续至今拥有几百年历史的阵内家族第16代族长。90岁生日之际，迎来分散在日本各地的亲戚。继承祖先的武家性格，在政界财界拥有广泛的人脉。接受了以夏希的未婚夫身份突然出现的小矶健二，率家族全体迎战世界危机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/66/71750_crt_DLSW4.jpg",
+        "link": "https://bgm.tv/character/71750",
+        "categorie": "person"
+      },
+      {
+        "id": "71751",
+        "label": "阵内侘助",
+        "info": "41岁。阵内家前家主陣内徳衛私生子。曾携家族财产逃走，赴美留学，十年杳无音信，却在阵内荣90岁生日前夕突然出现。此前似乎在美国从事人工智能方面的研究。夏希崇拜的对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/fd/71751_crt_1AvTt.jpg",
+        "link": "https://bgm.tv/character/71751",
+        "categorie": "person"
+      },
+      {
+        "id": "9010",
+        "label": "佐久间敬",
+        "info": "17岁。健二的同学，同样与健二一同加入物理社，并且以资深“OZ”管理员的身份邀请健二也来担任管理员一职。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f1/9010_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9010",
+        "categorie": "person"
+      },
+      {
+        "id": "9011",
+        "label": "筱原雪子",
+        "info": "47岁，筱原夏希的母亲。同时也是万藏的长女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/0c/9011_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9011",
+        "categorie": "person"
+      },
+      {
+        "id": "9012",
+        "label": "筱原和雄",
+        "info": "55岁，筱原夏希的父亲，担任东京都水道局局员一职。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/c5/9012_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9012",
+        "categorie": "person"
+      },
+      {
+        "id": "9013",
+        "label": "阵内万助",
+        "info": "70岁，阵内栄的次子。同时也是池泽佳主马的外祖父。平日于新潟渔港经营水产业并拥有自己的渔船，本人在当地鱼市场之中也有一定的威望，在荣即将渡过90岁生日时准备大量鱿鱼来庆生。在空闲时候会通过“OZ”来教导孙子佳主马少林寺拳法，“OZ”中的角色形象是鱿鱼忍者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/ab/9013_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9013",
+        "categorie": "person"
+      },
+      {
+        "id": "9014",
+        "label": "阵内太助",
+        "info": "45岁，阵内万助的长子。是阵内电器店的店主，主要客户则是附近公共机关的设备更新与补充订单。“OZ”中的角色形象是穿着如同牛仔服饰的鳗鱼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/55/9014_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9014",
+        "categorie": "person"
+      },
+      {
+        "id": "9015",
+        "label": "阵内翔太",
+        "info": "21岁，阵内太助的长子。是一名警察，不过常常拿自己私人的白色马自达RX-7作为警务车使用。在篠原夏希出生后便不断看着她成长，因此对于小矶健二的突然出现感到不满。“OZ”中的角色形象是孙悟空。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/50/9015_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9015",
+        "categorie": "person"
+      },
+      {
+        "id": "9017",
+        "label": "阵内典子",
+        "info": "37岁，阵内赖彦的妻子。“OZ”中的角色形象是大熊猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/b6/9017_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9017",
+        "categorie": "person"
+      },
+      {
+        "id": "9018",
+        "label": "阵内奈奈",
+        "info": "32岁，新婚，阵内邦彦的妻子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4b/9018_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9018",
+        "categorie": "person"
+      },
+      {
+        "id": "9016",
+        "label": "阵内由美",
+        "info": "38岁，阵内克彦的妻子。为长子阵内了平的高中棒球比赛成绩喜忧参半。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/78/9016_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9016",
+        "categorie": "person"
+      },
+      {
+        "id": "9019",
+        "label": "阵内真绪",
+        "info": "9岁，阵内赖彦的长女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/cc/9019_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9019",
+        "categorie": "person"
+      },
+      {
+        "id": "9020",
+        "label": "阵内祐平",
+        "info": "7岁，阵内克彦的次子。与堂弟阵内真悟的感情很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e7/9020_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9020",
+        "categorie": "person"
+      },
+      {
+        "id": "9021",
+        "label": "阵内恭平",
+        "info": "0岁，阵内克彦的三男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/46/9021_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9021",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

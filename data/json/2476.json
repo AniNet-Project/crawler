@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1724",
+        "label": "葛修·史威德",
+        "info": "（也叫 高修）主人公的引导者，18岁。一名优秀的信蜂，貌似很厉害的样子。在十二年前人工太阳的一次闪耀中丧失了对其母亲的所有记忆，似乎是想要补偿一样，十分爱自己的妹妹。三年后因不明原因再次失去记忆且成为了与“信蜂”敌对的神秘组织成员“掠夺者”，现在在拉格的努力下被带回蜂巢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/88/1724_K40Rz.jpg",
+        "link": "https://bgm.tv/character/1724",
+        "categorie": "person"
+      },
+      {
+        "id": "1725",
+        "label": "拉格·辛谷",
+        "info": "一名拥有琥珀之眼的优秀信蜂",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/7e/1725_53xA1.jpg",
+        "link": "https://bgm.tv/character/1725",
+        "categorie": "person"
+      },
+      {
+        "id": "1726",
+        "label": "妮琦",
+        "info": "妮琦是摩柯之子，",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/56/1726_EjaE0.jpg",
+        "link": "https://bgm.tv/character/1726",
+        "categorie": "person"
+      },
+      {
+        "id": "36826",
+        "label": "安奴·辛谷",
+        "info": "拉格的母亲，被不明人士绑走带去「晓」。在尤达卡居住的时候和萨布莉娜关系很好，谜一样的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/9e/36826_crt_Qoicm.jpg?r=1447577745",
+        "link": "https://bgm.tv/character/36826",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

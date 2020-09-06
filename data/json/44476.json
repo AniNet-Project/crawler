@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35555",
+        "label": "麻丘玲奈",
+        "info": "宣传部推广科所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/0a/35555_crt_KqWA6.jpg",
+        "link": "https://bgm.tv/character/35555",
+        "categorie": "person"
+      },
+      {
+        "id": "35556",
+        "label": "藤山真优美",
+        "info": "企划部企划二科所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/e2/35556_crt_za7i3.jpg",
+        "link": "https://bgm.tv/character/35556",
+        "categorie": "person"
+      },
+      {
+        "id": "35557",
+        "label": "野野山有栖",
+        "info": "营业部促销科所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/37/35557_crt_jXy7M.jpg",
+        "link": "https://bgm.tv/character/35557",
+        "categorie": "person"
+      },
+      {
+        "id": "35558",
+        "label": "樱井千纱",
+        "info": "技术开发部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/70/35558_crt_PS99p.jpg",
+        "link": "https://bgm.tv/character/35558",
+        "categorie": "person"
+      },
+      {
+        "id": "35559",
+        "label": "中西勇介",
+        "info": "人材派遣会社に登録している派遣社員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/45/35559_crt_vqQXd.jpg",
+        "link": "https://bgm.tv/character/35559",
+        "categorie": "person"
+      },
+      {
+        "id": "35560",
+        "label": "财津幸夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/20/35560_crt_llPSQ.jpg?r=1442457785",
+        "link": "https://bgm.tv/character/35560",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

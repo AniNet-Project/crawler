@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21934",
+        "label": "霍默·杰伊·辛普森",
+        "info": "霍默·杰伊·辛普森（Homer Jay Simpson）是美国电视动画《辛普森一家》中的一名虚构角色，辛普森一家五口中的父亲，由丹·卡斯泰拉内塔配音。在众多的辛普森卡通人物中，霍默可能是最受欢迎的成员之一，他的口头禅“D'oh!”还被收录进了牛津英语词典。霍默一名取自《辛普森一家》创始人马特·格勒宁父亲的名字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/61/21934_crt_eezaN.jpg",
+        "link": "https://bgm.tv/character/21934",
+        "categorie": "person"
+      },
+      {
+        "id": "21935",
+        "label": "玛乔丽·“玛琦”·辛普森",
+        "info": "玛乔丽·“玛琦”·辛普森（Marjorie \"Marge\" Simpson），本姓布维尔（Bouvier），是美国动画电视剧《辛普森一家》中的一名虚构角色，由朱莉·凯夫纳配音。她是一位善良且极具耐心的角色，是霍默·辛普森的妻子，巴特、莉萨和玛吉的母亲。她最引人注目的特点便是她以一种罕见的高度伫立的蓝色头发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/29/21935_crt_Mj3Vi.jpg",
+        "link": "https://bgm.tv/character/21935",
+        "categorie": "person"
+      },
+      {
+        "id": "21936",
+        "label": "巴特·辛普森",
+        "info": "巴塞洛缪“巴特”·约约·辛普森（英语：Bartholomew JoJo \"Bart\" Simpson）是美国动画电视剧《辛普森一家》中的虚构角色，是辛普森家的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/ab/21936_crt_OoumB.jpg",
+        "link": "https://bgm.tv/character/21936",
+        "categorie": "person"
+      },
+      {
+        "id": "21937",
+        "label": "莉萨·辛普森",
+        "info": "莉萨·玛丽·辛普森（英语：Lisa Marie Simpson）是动画片《辛普森一家》中的虚构人物，由亚德利·史密斯配音。莉萨是辛普森家的第二个孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/58/21937_crt_pzcPI.jpg",
+        "link": "https://bgm.tv/character/21937",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

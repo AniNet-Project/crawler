@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59544",
+        "label": "卫庄",
+        "info": "“流沙”组织现任的最高首领。韩国人，自小就因不明原因在韩国王宫中生活。纵横家，鬼谷横剑术传人，浑身充满邪气与霸气，武功深不可测，是霸气与力量型的剑客。最大目的是击败师哥盖聂，证明自己的实力，继承鬼谷绝学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/69/59544_crt_UFfU5.jpg?r=1512551354",
+        "link": "https://bgm.tv/character/59544",
+        "categorie": "person"
+      },
+      {
+        "id": "77126",
+        "label": "张良",
+        "info": "胸怀大志的激进青年，样貌洒脱不羁，天资聪慧，未卜先知，常被荀子称赞。出身韩国，家族“五代为相”。秦统一天下后，为桑海儒家小圣贤庄三当家，与掌门师兄伏念、二师兄颜路被并称为“齐鲁三杰”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/b8/77126_crt_crMM1.jpg?r=1589541258",
+        "link": "https://bgm.tv/character/77126",
+        "categorie": "person"
+      },
+      {
+        "id": "77127",
+        "label": "白凤",
+        "info": "神秘优雅的白衣美男子，轻功举世无双，能够借助鸟类或羽毛飞翔，时常驾驭着白色的巨鸟在天空飞过。天赋异禀，具有控制与指挥鸟类的能力，被称为“百鸟之王”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/61/77127_crt_Wku4W.jpg?r=1589541237",
+        "link": "https://bgm.tv/character/77127",
+        "categorie": "person"
+      },
+      {
+        "id": "20963",
+        "label": "盖聂",
+        "info": "气质从容淡定，处事冷静。被称为秦国最强的剑客，在江湖上享有剑圣的名号，但是却意外地从秦国叛逃，带着故人之子天明，亡命天涯。剑术出神入化，佩带名剑”渊虹“。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/c4/20963_crt_ITPLz.jpg?r=1529837799",
+        "link": "https://bgm.tv/character/20963",
+        "categorie": "person"
+      },
+      {
+        "id": "55668",
+        "label": "司徒万里",
+        "info": "农家六堂之一四岳堂的堂主，与神农堂众人是以兄弟相称的好友，开设的四岳赌场日进万金。韩亡前曾是农家潜龙堂主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/c0/55668_crt_00yYy.jpg?r=1529838113",
+        "link": "https://bgm.tv/character/55668",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

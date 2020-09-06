@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9803",
+        "label": "ベン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b2/9803_crt_uofmn.jpg",
+        "link": "https://bgm.tv/character/9803",
+        "categorie": "person"
+      },
+      {
+        "id": "9804",
+        "label": "アキコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/66/9804_crt_Vt6fw.jpg",
+        "link": "https://bgm.tv/character/9804",
+        "categorie": "person"
+      },
+      {
+        "id": "9805",
+        "label": "サエ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/00/9805_crt_CJ3nm.jpg",
+        "link": "https://bgm.tv/character/9805",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

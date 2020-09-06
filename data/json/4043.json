@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18332",
+        "label": "神山高志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/07/18332_crt_RZKjw.jpg",
+        "link": "https://bgm.tv/character/18332",
+        "categorie": "person"
+      },
+      {
+        "id": "2423",
+        "label": "林田慎二郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/5d/2423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2423",
+        "categorie": "person"
+      },
+      {
+        "id": "2425",
+        "label": "前田彰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/36/2425_crt_anidb.jpg?r=1566059550",
+        "link": "https://bgm.tv/character/2425",
+        "categorie": "person"
+      },
+      {
+        "id": "18383",
+        "label": "机械泽新一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/62/18383_crt_8Vd8f.jpg?r=1566059528",
+        "link": "https://bgm.tv/character/18383",
+        "categorie": "person"
+      },
+      {
+        "id": "2424",
+        "label": "弗雷迪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/06/2424_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2424",
+        "categorie": "person"
+      },
+      {
+        "id": "2428",
+        "label": "北斗武士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/09/2428_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2428",
+        "categorie": "person"
+      },
+      {
+        "id": "2426",
+        "label": "山口升",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/5d/2426_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2426",
+        "categorie": "person"
+      },
+      {
+        "id": "2435",
+        "label": "石川淳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/30/2435_crt_anidb.jpg?r=1566059484",
+        "link": "https://bgm.tv/character/2435",
+        "categorie": "person"
+      },
+      {
+        "id": "2437",
+        "label": "藤本贵一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/47/2437_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2437",
+        "categorie": "person"
+      },
+      {
+        "id": "2433",
+        "label": "竹城秋夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e4/2433_crt_anidb.jpg?r=1566059497",
+        "link": "https://bgm.tv/character/2433",
+        "categorie": "person"
+      },
+      {
+        "id": "2430",
+        "label": "Putan的朋友",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b2/2430_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2430",
+        "categorie": "person"
+      },
+      {
+        "id": "2432",
+        "label": "机械泽β",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/65/2432_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2432",
+        "categorie": "person"
+      },
+      {
+        "id": "16110",
+        "label": "数码子",
+        "info": "本名Chocola（法文：意指巧克力），Di Gi Charat星（数码星）的公主，有著腹黑的性格。可以从眼睛发射出“目からビーム”（眼睛射线／眼部火焰炮）。因为怀念母星Di Gi Charat而改名为与母星同名。说话时句尾会加上“Nyo”（喵）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/d4/16110_crt_2gjaG.jpg?r=1565742609",
+        "link": "https://bgm.tv/character/16110",
+        "categorie": "person"
+      },
+      {
+        "id": "5986",
+        "label": "布子",
+        "info": "プチ・キャラット / カプチーノ（卡布奇诺）",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/01/5986_crt_16TI5.jpg?r=1565743079",
+        "link": "https://bgm.tv/character/5986",
+        "categorie": "person"
+      },
+      {
+        "id": "5989",
+        "label": "初古拉模拟星三世",
+        "info": "アナローグ星（デ・ジ・キャラット星の隣）の出身。通称「ぴよこ」。悪の軍団「ブラックゲマゲマ団（以下BG団）」女首領。「フロムゲーマーズ」平成12年4月号（3月30日発行）で初登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/d1/5989_crt_qO79G.jpg?r=1565516939",
+        "link": "https://bgm.tv/character/5989",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

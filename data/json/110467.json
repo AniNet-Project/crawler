@@ -1,0 +1,485 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27234",
+        "label": "宫森葵",
+        "info": "武蔵野アニメーションの制作進行。現在一年目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b7/27234_crt_4jLT6.jpg?r=1566224239",
+        "link": "https://bgm.tv/character/27234",
+        "categorie": "person"
+      },
+      {
+        "id": "27235",
+        "label": "安原绘麻",
+        "info": "武蔵野アニメーションの原画マン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/eb/27235_crt_3i4Vj.jpg?r=1566224305",
+        "link": "https://bgm.tv/character/27235",
+        "categorie": "person"
+      },
+      {
+        "id": "27236",
+        "label": "坂木静香",
+        "info": "声優志望。あおいと学生時代、共にアニメを作っていた仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/ea/27236_crt_211e1.jpg?r=1566224365",
+        "link": "https://bgm.tv/character/27236",
+        "categorie": "person"
+      },
+      {
+        "id": "27237",
+        "label": "藤堂美沙",
+        "info": "CG制作会社スーパーメディア・クリエイションズ勤務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/c8/27237_crt_7YSkB.jpg?r=1566224444",
+        "link": "https://bgm.tv/character/27237",
+        "categorie": "person"
+      },
+      {
+        "id": "27238",
+        "label": "今井绿",
+        "info": "脚本家志望。あおいの二学年後輩で、一緒にアニメを制作していた仲間。現在、大学生。卒業後はアニメ業界に進みたいと考えているが、きっかけが見出だせずにいる。好きなことに関してはとことん調査・追求し、のめりこんでいくタイプ。体育会系ノリの言葉遣いが特徴的。あおい達からは「りーちゃん」と呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/32/27238_crt_vP3BS.jpg?r=1566224479",
+        "link": "https://bgm.tv/character/27238",
+        "categorie": "person"
+      },
+      {
+        "id": "27244",
+        "label": "小笠原纶子",
+        "info": "『えくそだすっ！』キャラクターデザイン及び総作画監督。名実ともに武蔵野アニメーションの看板アニメーター。常にゴスロリ服のため、ゴスロリ様と呼ばれることも。優雅な振る舞いが特徴で、総作画監督修正を載せる際も書道家のような美しい所作で描く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/e3/27244_crt_BT9xf.jpg?r=1412912606",
+        "link": "https://bgm.tv/character/27244",
+        "categorie": "person"
+      },
+      {
+        "id": "27239",
+        "label": "本田丰",
+        "info": "武蔵野アニメーション所属。『えくそだすっ！』デスクとして、アニメーション制作の司令塔を任されている。穏やかで優秀だが、極度の心配症なのが玉に瑕。口癖は「万策尽きた！」。武蔵野アニメーション七年ぶりの元請け作品である『えくそだすっ！』に、人一倍思い入れを持って臨んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/73/27239_crt_42JB8.jpg?r=1412911880",
+        "link": "https://bgm.tv/character/27239",
+        "categorie": "person"
+      },
+      {
+        "id": "27240",
+        "label": "高梨太郎",
+        "info": "武蔵野アニメーション制作進行一年目。あおいとはほぼ同期。根拠のない自信を持ち、無自覚に人に迷惑を掛けるタイプ。それゆえに現場を混乱させることも。「しゃっす！」など独特の若者（？）言葉を多用する。声優に対し熱く語ったりとミーハーな面も持ちあわせており、相応に楽しんで仕事をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/ac/27240_crt_5suJ8.jpg?r=1412911985",
+        "link": "https://bgm.tv/character/27240",
+        "categorie": "person"
+      },
+      {
+        "id": "27241",
+        "label": "矢野艾莉卡",
+        "info": "武蔵野アニメーション制作進行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/e3/27241_crt_vVobn.jpg?r=1412912108",
+        "link": "https://bgm.tv/character/27241",
+        "categorie": "person"
+      },
+      {
+        "id": "27242",
+        "label": "落合达也",
+        "info": "武蔵野アニメーション制作進行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/1f/27242_crt_Vy443.jpg?r=1412912253",
+        "link": "https://bgm.tv/character/27242",
+        "categorie": "person"
+      },
+      {
+        "id": "27243",
+        "label": "渡边隼",
+        "info": "武蔵野アニメーションのラインプロデューサー。通称ナベP。麻雀好きで、職務時間の多くを雀荘で過ごす。そのため何もしていないと思われがちだが……？",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/63/27243_crt_O6444.jpg?r=1412912367",
+        "link": "https://bgm.tv/character/27243",
+        "categorie": "person"
+      },
+      {
+        "id": "27245",
+        "label": "兴津由佳",
+        "info": "武蔵野アニメーションの総務。事務・管理周りを一手に引き受けるクールビューティ。常に周りの状況に気を配りながら仕事をしており、現場が浮ついた際に助け舟を出すことも。不夜城と化しやすい制作会社では珍しいノー残業主義。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/4e/27245_crt_mm6lJ.jpg?r=1412912759",
+        "link": "https://bgm.tv/character/27245",
+        "categorie": "person"
+      },
+      {
+        "id": "28428",
+        "label": "丸川正人",
+        "info": "武蔵野アニメーション社長。坊主頭に丸眼鏡がトレードマーク。性格は穏やかで、どんな時にも笑顔を絶やさない。趣味は料理。社内で自慢の逸品を振る舞うのが何よりの楽しみで、エプロン姿でいることも多い。旧知の友人との様々な縁が、時に制作チームの窮地を救うことも!?",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/fd/28428_crt_8rXX6.jpg?r=1419153132",
+        "link": "https://bgm.tv/character/28428",
+        "categorie": "person"
+      },
+      {
+        "id": "27894",
+        "label": "木下诚一",
+        "info": "武蔵野アニメーション制作『えくそだすっ！』の監督。若干メタボ気味。これまで様々な作品でヒットを飛ばしてきたが、前作『ぷるんぷるん天国』にて盛大に「やらかして」しまう。『えくそだすっ！』にて久しぶりにTVアニメーションシリーズの監督を受ける。作品に対する情熱は格別だが、エンジンが掛かるまで時間が掛かるために、スケジュールを食い潰してしまうことも。唐揚げが大好物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/ac/27894_crt_Ir8ei.jpg?r=1419129529",
+        "link": "https://bgm.tv/character/27894",
+        "categorie": "person"
+      },
+      {
+        "id": "28429",
+        "label": "圆宏则",
+        "info": "フリーランスの演出家。武蔵野アニメーションで『えくそだすっ！』の演出を担当する。撮影出身で、デジタル方面に強い。そのためデジタルコンテを描くことができ、重宝される。あまり熱くなるほうではなく、どちらかといえば淡々とカットを捌いていくタイプ。ネットの感想や実況なども一歩引いた目で楽しんでおり、心の余裕を持って仕事をこなしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/77/28429_crt_gomk5.jpg?r=1419153464",
+        "link": "https://bgm.tv/character/28429",
+        "categorie": "person"
+      },
+      {
+        "id": "28430",
+        "label": "山田昌志",
+        "info": "フリーランス、作画上がりの演出家。武蔵野アニメーションで『えくそだすっ！』の演出を担当する。普段は穏やかだが、頑固な面を見せることも−−。木下監督の前作『ぷるんぷるん天国』第９話にて、演出デビュー。その回は（悪い意味で）伝説となってしまう……。日本映画が好きで、キャラクター芝居など随所にその片鱗を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/90/28430_crt_1Fw92.jpg?r=1419153633",
+        "link": "https://bgm.tv/character/28430",
+        "categorie": "person"
+      },
+      {
+        "id": "28431",
+        "label": "井口祐未",
+        "info": "『えくそだすっ！』総作画監督補。若手の頃から小笠原に学び、経験を積んで今に至る。明るくはっちゃけたような口ぶりが特徴的だが、仕事に対する姿勢は真剣そのもの。その実力は小笠原と並び、武蔵野アニメーションの看板アニメーターとされるほどの腕前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/3f/28431_crt_G8gNg.jpg?r=1419153842",
+        "link": "https://bgm.tv/character/28431",
+        "categorie": "person"
+      },
+      {
+        "id": "28432",
+        "label": "远藤亮介",
+        "info": "フリーランスのアニメーター。『えくそだすっ！』では武蔵野アニメーションに机を置きつつ、各話の作画監督を務めている。生理的な気持ちよさを重視したアニメーションが好みで、それを活かしたアクションを得意とする。なかでもミサイルや爆発といったエフェクトカットには、人一倍のこだわりを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/fc/28432_crt_q7c59.jpg?r=1419154433",
+        "link": "https://bgm.tv/character/28432",
+        "categorie": "person"
+      },
+      {
+        "id": "28318",
+        "label": "瀬川美里",
+        "info": "フリーランスのアニメーター。『えくそだすっ！』では各話の作画監督を務める。画の質、スピード共に業界内で高い評価を受けており、武蔵野アニメーションでも信頼が厚い。感覚ではなく、どちらかというと現実に則した理屈を優先したキャラクターの動きを描く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/c1/28318_crt_XZ2VZ.jpg?r=1419128951",
+        "link": "https://bgm.tv/character/28318",
+        "categorie": "person"
+      },
+      {
+        "id": "28433",
+        "label": "杉江茂",
+        "info": "武蔵野アニメーション所属。アニメーター。武蔵野アニメーションの中でも最古参にあたる大ベテラン。現在は社外の子供向けアニメーションを担当しており、『えくそだすっ！』には参加していない。「世界の子供達が笑顔になってくれたら」と願いながら今日も鉛筆を手に取る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/70/28433_crt_g1v4I.jpg?r=1419154596",
+        "link": "https://bgm.tv/character/28433",
+        "categorie": "person"
+      },
+      {
+        "id": "28434",
+        "label": "下柳雄一郎",
+        "info": "武蔵野アニメーション所属、『えくそだすっ！』３D監督。温厚な性格で、人当たりもよく、チーフとして武蔵野アニメーション３D班をまとめている。業界入りの原点は『伝説巨大ロボット イデポン』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/5a/28434_crt_CkoSX.jpg?r=1419154750",
+        "link": "https://bgm.tv/character/28434",
+        "categorie": "person"
+      },
+      {
+        "id": "28435",
+        "label": "佐仓良树",
+        "info": "武蔵野アニメーション所属。『えくそだすっ！』撮影監督。アニメーション制作における最終工程に近い役職なので、制作が逼迫してくるとその分しわ寄せが来ることが多い。だがそんな時でも慌てず、冷静沈着に仕事をこなしていく。折り紙が趣味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/3e/28435_crt_xXsYG.jpg?r=1419154890",
+        "link": "https://bgm.tv/character/28435",
+        "categorie": "person"
+      },
+      {
+        "id": "28436",
+        "label": "堂本知惠美",
+        "info": "武蔵野アニメーション所属。動画検査。柔和で温かな笑顔が印象的なお姉さん。動画部のチーフとして、動きのチェックを行っている。動画マンの新人育成にもあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/6d/28436_crt_vEo38.jpg?r=1419155046",
+        "link": "https://bgm.tv/character/28436",
+        "categorie": "person"
+      },
+      {
+        "id": "28437",
+        "label": "新川奈绪",
+        "info": "色指定・検査を担当。カットに対して色を決め込んでいき、その指示をする。また、指示通りに画が塗られているかの確認役も兼ねる。制作に対し少しあたりがきついこともあるが、それは当人に仕事への理解を促すため。実際は面倒見の良い性格で、周りからの信頼も厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/47/28437_crt_63Bsh.jpg?r=1419155206",
+        "link": "https://bgm.tv/character/28437",
+        "categorie": "person"
+      },
+      {
+        "id": "28438",
+        "label": "葛城刚太郎",
+        "info": "メーカープロデューサー。『えくそだすっ！』を担当。納品に対して常に危機感を募らせなければならないが、作品に対しての思い入れもあり、板挟みになりやすい損な役回り。メーカープロデューサーとして、ナベPと共に原作元にアプローチすることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/02/28438_crt_iiz0o.jpg?r=1419155368",
+        "link": "https://bgm.tv/character/28438",
+        "categorie": "person"
+      },
+      {
+        "id": "29262",
+        "label": "安藤椿",
+        "info": "武蔵野アニメーションの新入社員。制作進行として入社。生粋のアニメファンで、高校時代は同人活動を行っていた。そのためアニメのスタッフ周りには妙に詳しい。元気が取り柄で、新人ながらバイタリティ溢れる仕事振りを見せるが、その性格ゆえ勢いのみで話をしてしまうことも……。また、新人故のうっかりミスもあり、課題も多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/58/29262_crt_a2Gz8.jpg?r=1423823202",
+        "link": "https://bgm.tv/character/29262",
+        "categorie": "person"
+      },
+      {
+        "id": "29263",
+        "label": "佐藤沙罗",
+        "info": "武蔵野アニメーションの新入社員。制作進行として入社。幕張のショッピングモールで接客と事務を３年担当し、転職した。アニメはあまり見ないが、通勤時間を短くするため、自宅近くにあった武蔵野アニメーションの門を叩く。社会人経験があるため一般常識をわきまえており、丁寧な態度で仕事をするが、現場を知らないが故に、周りに戸惑いを与えることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/14/29263_crt_ZoTx6.jpg?r=1423823325",
+        "link": "https://bgm.tv/character/29263",
+        "categorie": "person"
+      },
+      {
+        "id": "29279",
+        "label": "平冈大辅",
+        "info": "武蔵野アニメーションに中途で入社した制作進行。進行としてすでに5年のキャリアがあり、「スタジオアミン」「ルーインフィルム」「鬼門プロ」「チャペック」といったスタジオを転々とした。そのため、特定のスタジオに顔が利くこともある。仕事への考え方は効率重視。ひねくれたところがあり、物の言い方もそっけないため、周りと軋轢を生じることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/da/29279_crt_9iIfl.jpg?r=1423823419",
+        "link": "https://bgm.tv/character/29279",
+        "categorie": "person"
+      },
+      {
+        "id": "29278",
+        "label": "久乃木爱",
+        "info": "武蔵野アニメーションの新人原画マン。『えくそだすっ！』では動画だったが、『第三飛行少女隊』から原画となった。人とコミュニケーションを取るのが極端に苦手で、非常に無口。また、話を振られると慌ててしまい、パニックに陥りやすい。絵麻が新人指導の役を担っているため、彼女を通して他人とやり取りをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/16/29278_crt_v8g86.jpg?r=1423823032",
+        "link": "https://bgm.tv/character/29278",
+        "categorie": "person"
+      },
+      {
+        "id": "27246",
+        "label": "米姆基&洛洛",
+        "info": "あおいがいつも一緒にいる眼帯のファッションドールと熊のぬいぐるみ。あおいが悩むと、彼女の心の代弁をしてくれる（実際はあおいが操って代弁させる）。たいていはミムジーが問題について疑問や不満を投げかけ、ロロがそれを諦観を交えながら諭す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/93/27246_crt_S191Z.jpg?r=1412940553",
+        "link": "https://bgm.tv/character/27246",
+        "categorie": "person"
+      },
+      {
+        "id": "28370",
+        "label": "茅菜梦衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/d4/28370_crt_UVZmv.jpg",
+        "link": "https://bgm.tv/character/28370",
+        "categorie": "person"
+      },
+      {
+        "id": "28371",
+        "label": "中春鸣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/b7/28371_crt_Nzh1K.jpg",
+        "link": "https://bgm.tv/character/28371",
+        "categorie": "person"
+      },
+      {
+        "id": "28372",
+        "label": "伊藤铃鹿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/16/28372_crt_c66cr.jpg",
+        "link": "https://bgm.tv/character/28372",
+        "categorie": "person"
+      },
+      {
+        "id": "29572",
+        "label": "菅野光明",
+        "info": "庵野痞子",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/db/29572_crt_O2Z8s.jpg?r=1429282572",
+        "link": "https://bgm.tv/character/29572",
+        "categorie": "person"
+      },
+      {
+        "id": "30994",
+        "label": "茶泽信辅",
+        "info": "夜鷹書房の『第三飛行少女隊』担当編集者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/79/30994_crt_oRroR.jpg",
+        "link": "https://bgm.tv/character/30994",
+        "categorie": "person"
+      },
+      {
+        "id": "31189",
+        "label": "野龟武藏",
+        "info": "『第三飛行少女隊』の原作者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/c8/31189_crt_vB4WV.jpg?r=1426909562",
+        "link": "https://bgm.tv/character/31189",
+        "categorie": "person"
+      },
+      {
+        "id": "31906",
+        "label": "内田茜",
+        "info": "原画师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/39/31906_crt_66i6N.jpg",
+        "link": "https://bgm.tv/character/31906",
+        "categorie": "person"
+      },
+      {
+        "id": "31908",
+        "label": "森忍",
+        "info": "24プロデュース所属。『俺様のハーレムが少しずつ崩壊してるかもしれないけどたぶん気のせいかもしれない（仮）』オーディションに来た声優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/f5/31908_crt_Akp6v.jpg",
+        "link": "https://bgm.tv/character/31908",
+        "categorie": "person"
+      },
+      {
+        "id": "31909",
+        "label": "佐久间广美",
+        "info": "赤鬼プロダクションに所属する声優。しずかと共に『野球のプリンス様』のガヤを担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/ef/31909_crt_vi5Ry.jpg",
+        "link": "https://bgm.tv/character/31909",
+        "categorie": "person"
+      },
+      {
+        "id": "31910",
+        "label": "藤明日香",
+        "info": "R&B Studio录音助手担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/e9/31910_crt_I75Ei.jpg",
+        "link": "https://bgm.tv/character/31910",
+        "categorie": "person"
+      },
+      {
+        "id": "32086",
+        "label": "木佐光秀",
+        "info": "於居所工作的原畫師。單車愛好者，積極參賽，最終弄傷了腳。曾經有一小時內處理八組鏡頭卡的紀錄，但現在經常顯得散漫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/8d/32086_crt_73IXM.jpg?r=1429251681",
+        "link": "https://bgm.tv/character/32086",
+        "categorie": "person"
+      },
+      {
+        "id": "32090",
+        "label": "稻浪良和",
+        "info": "《EXODUS！》的音響監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c9/32090_crt_a1GhG.jpg?r=1429255293",
+        "link": "https://bgm.tv/character/32090",
+        "categorie": "person"
+      },
+      {
+        "id": "32091",
+        "label": "中田惠理",
+        "info": "《EXODUS！》的音響製作主管。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/3c/32091_crt_W69HA.jpg?r=1429255831",
+        "link": "https://bgm.tv/character/32091",
+        "categorie": "person"
+      },
+      {
+        "id": "32092",
+        "label": "大山匠",
+        "info": "《EXODUS！》的音響效果製作人員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e4/32092_crt_XOd3q.jpg?r=1429271499",
+        "link": "https://bgm.tv/character/32092",
+        "categorie": "person"
+      },
+      {
+        "id": "32093",
+        "label": "富谷",
+        "info": "G.I.STAFF的製作助理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/50/32093_crt_JBOBB.jpg?r=1429254867",
+        "link": "https://bgm.tv/character/32093",
+        "categorie": "person"
+      },
+      {
+        "id": "32094",
+        "label": "纵尾真理",
+        "info": "聲優養成所的老師，亦是坂木的指導教師。在坂木的聲優試音落選後與之碰上並且給予鼓勵，也帶她參觀其所指導的舞台劇《等待果陀》。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/fb/32094_crt_4D4gI.jpg?r=1429269819",
+        "link": "https://bgm.tv/character/32094",
+        "categorie": "person"
+      },
+      {
+        "id": "32095",
+        "label": "山渊笃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/a2/32095_crt_0233D.jpg?r=1429255554",
+        "link": "https://bgm.tv/character/32095",
+        "categorie": "person"
+      },
+      {
+        "id": "32096",
+        "label": "明日川源",
+        "info": "《棒球王子》音響監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/05/32096_crt_CCBa7.jpg?r=1429269373",
+        "link": "https://bgm.tv/character/32096",
+        "categorie": "person"
+      },
+      {
+        "id": "32097",
+        "label": "舞茸蘑菇",
+        "info": "《EXODUS！》編劇，一直單純依循木下監督意願編寫故事。因第13集分鏡工作的阻滯，重新與監督整理思路，快速記下各個故事重點並予以完成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/be/32097_crt_1PnG1.jpg?r=1429269497",
+        "link": "https://bgm.tv/character/32097",
+        "categorie": "person"
+      },
+      {
+        "id": "32098",
+        "label": "宫森薰",
+        "info": "あおいの姉。あおいには「ねいちゃん」と呼ばれており、あおいの携帯電話の着信名も「ねいちゃん」で登録されている。地元の信用金庫に勤務しており、有給休暇をとってあおいのもとへ遊びに来て、あおいの留守中に、あおいのとっておきの海栗の缶詰を無断で開けて食べたり、シャンプーや服などを借りて使うなど、奔放な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/53/32098_crt_YLL11.jpg",
+        "link": "https://bgm.tv/character/32098",
+        "categorie": "person"
+      },
+      {
+        "id": "32099",
+        "label": "河野幸泰",
+        "info": "花柏工作室的音效師。為人自由奔放，在葵為工作室帶來原音樂器時，隨意地叫其協助製作一系列關於女孩子的音響效果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/36/32099_crt_segaN.jpg?r=1429274669",
+        "link": "https://bgm.tv/character/32099",
+        "categorie": "person"
+      },
+      {
+        "id": "32100",
+        "label": "相馬玲奈",
+        "info": "曾參與《本大爺的後宮或許在一點點地崩壞 但可能只是錯覺（暫定）》的試音，人氣聲優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/16/32100_crt_OooV5.jpg",
+        "link": "https://bgm.tv/character/32100",
+        "categorie": "person"
+      },
+      {
+        "id": "32104",
+        "label": "竹仓圭司",
+        "info": "NETA J.C.STAFF执行董事、制作本部长松仓友二",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/c7/32104_crt_mI5z3.jpg?r=1429282151",
+        "link": "https://bgm.tv/character/32104",
+        "categorie": "person"
+      },
+      {
+        "id": "32105",
+        "label": "伊波政彦",
+        "info": "NETA 南雅彦，BONES董事长",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/3c/32105_crt_pxD2N.jpg?r=1429282475",
+        "link": "https://bgm.tv/character/32105",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28373",
+        "label": "阿鲁瓶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/f2/28373_crt_DhaSA.jpg?r=1418795415",
+        "link": "https://bgm.tv/character/28373",
+        "categorie": "person"
+      },
+      {
+        "id": "32144",
+        "label": "恰奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/43/32144_crt_3oT5R.jpg?r=1429535227",
+        "link": "https://bgm.tv/character/32144",
+        "categorie": "person"
+      },
+      {
+        "id": "28374",
+        "label": "小茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e0/28374_crt_ID4Eo.jpg?r=1418795639",
+        "link": "https://bgm.tv/character/28374",
+        "categorie": "person"
+      },
+      {
+        "id": "28375",
+        "label": "小绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/b6/28375_crt_0gCSz.jpg?r=1418795731",
+        "link": "https://bgm.tv/character/28375",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

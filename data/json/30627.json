@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22511",
+        "label": "泡泡",
+        "info": "Bubbles (voiced by Tara Strong in the series and by Kath Soucie in the What a Cartoon! episodes) is \"the cute one\". Her personality is \"sugar\", her signature color is light blue, and she has blond hair worn in pigtails. She was named for her cute and bubbly personality, as revealed when she giggled after the Professor named Blossom. Her best friend is a stuffed octopus doll she calls \"Octi\".",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/7e/22511_crt_28v8E.jpg?r=1387360442",
+        "link": "https://bgm.tv/character/22511",
+        "categorie": "person"
+      },
+      {
+        "id": "33206",
+        "label": "花花",
+        "info": "“飞天小女警”的领袖，排行老大。有着橘色的长发与红色的蝴蝶结，粉红色的眼晴，穿着红色的裙子。在队中，她是最成熟、最有头脑，以及最镇定的一员。不过缺点是她难以取悦，傲慢，以及过分着重分析。有时候，她也变得十分正直，连教授也觉得麻烦。她拥有“冷冻呼吸”[闪电]（Ice-Breathe）的特殊能力。原料：所有美好的味道",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/25/33206_crt_iggiO.jpg",
+        "link": "https://bgm.tv/character/33206",
+        "categorie": "person"
+      },
+      {
+        "id": "33207",
+        "label": "毛毛",
+        "info": "“飞天小女警”中最好战的一个，排行老二。黑色的短发，绿色的眼晴，穿着绿色的裙子。她不像其他小女警，本身极度男子气。她也十分鲁莽和顽固。她也有着其他小女警所没有的卑劣、怀狠。尤教授替她取名字的理由非常敷衍，只要一提及此事她便十分在意。除了比其他小女警强之外，她本身就没有其他特殊能力。原料：香料",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/29/33207_crt_JtQS2.jpg",
+        "link": "https://bgm.tv/character/33207",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

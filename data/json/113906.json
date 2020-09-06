@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23470",
+        "label": "丸尾荣一郎",
+        "info": "きちょうめんな性格で、勉強に真面目にとり組む優等生。小学生の頃から成績はオールＡ、名前も栄一郎（えいいちろう）ということから『エーちゃん』と呼ばれている。ノートを丁寧に書くことが得意で参考書よりもわかりやすいと評判。ふとしたきっかけでテニスクラブへと行くことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/53/23470_crt_3jk11.jpg?r=1394348811",
+        "link": "https://bgm.tv/character/23470",
+        "categorie": "person"
+      },
+      {
+        "id": "23471",
+        "label": "鹰崎奈津",
+        "info": "栄一郎（えいいちろう）と同じ高校に通うアイドル的存在。学年一かわいいと評判の女の子。ノートを借りに来たことがきっかけで栄一郎と出会った。天真らんまんで大ざっぱな性格。テニスクラブに通っていてかなりの実力の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/84/23471_crt_n99Go.jpg?r=1394348839",
+        "link": "https://bgm.tv/character/23471",
+        "categorie": "person"
+      },
+      {
+        "id": "23472",
+        "label": "江川逞",
+        "info": "栄一郎（えいいちろう）と同じ高校に通う一つ年上の先輩。学校では不良だと恐れられているが、奈津と同じテニスクラブに通う、全国トップクラスの実力者でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/4c/23472_crt_WW2w2.jpg?r=1394348856",
+        "link": "https://bgm.tv/character/23472",
+        "categorie": "person"
+      },
+      {
+        "id": "23473",
+        "label": "影山小次郎",
+        "info": "栄一郎（えいいちろう）と同じクラスで、将棋部に所属している。栄一郎とは子供の頃からのつきあいで、親友。真面目できちょうめんな栄一郎をからかうが、テニスの練習や試合の応援に来てくれたり、本当はいいやつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/66/23473_crt_vikfF.jpg?r=1394348888",
+        "link": "https://bgm.tv/character/23473",
+        "categorie": "person"
+      },
+      {
+        "id": "32779",
+        "label": "深沢諭吉",
+        "info": "栄一郎と同い年でＳＴＣに通っている。情報通で、多くの選手の細かいデータを持っていて、栄一郎に対戦相手の情報などを教えてくれる。江川逞に立ち向かった栄一郎を尊敬して「アニキ」と呼ぶようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/36/32779_crt_94oUK.jpg",
+        "link": "https://bgm.tv/character/32779",
+        "categorie": "person"
+      },
+      {
+        "id": "32780",
+        "label": "田岛勇树",
+        "info": "栄一郎と同じＳＴＣに通う小学生の男の子。ウォームアップでバテる栄一郎をバカにしたりと、気が強くて生意気な性格。しかし、１２歳以下では天才児と言われている実力の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/3a/32780_crt_aaol4.jpg",
+        "link": "https://bgm.tv/character/32780",
+        "categorie": "person"
+      },
+      {
+        "id": "32781",
+        "label": "三浦教练",
+        "info": "栄一郎が通うＳＴＣのコーチ。まだ初心者である栄一郎のノートやプレーを見て、栄一郎の眼の良さに気がついた。江川逞のコーチをしている一方、栄一郎がプロを目指す事を決意した時には、２か月にわたり、肉体改造特訓を行い、栄一郎の身体能力を大幅に強化した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/4b/32781_crt_adzXo.jpg",
+        "link": "https://bgm.tv/character/32781",
+        "categorie": "person"
+      },
+      {
+        "id": "32784",
+        "label": "池爽儿",
+        "info": "１６歳でプロデビューを果たした天才プレーヤー。技術面、身体面、精神面全てにおいて、既に世界を舞台にプロで戦えるレベルを持ち合わせている。栄一郎とは同い年で、奈津とは幼なじみ。栄一郎が留学するフロリダのテニスアカデミーに所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/cd/32784_crt_of0GC.jpg",
+        "link": "https://bgm.tv/character/32784",
+        "categorie": "person"
+      },
+      {
+        "id": "32785",
+        "label": "阿列克斯",
+        "info": "フロリダのテニスアカデミーに所属する１９歳の若きプロ選手。マーシャの兄で負けず嫌いな性格。ルームメートで、アメリカのテニスにとまどう栄一郎にアドバイスをしてくれる優しい一面も…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/1a/32785_crt_dpeBA.jpg",
+        "link": "https://bgm.tv/character/32785",
+        "categorie": "person"
+      },
+      {
+        "id": "32786",
+        "label": "玛莎",
+        "info": "アレックスの妹で、気が強く負けず嫌いな女子ジュニア選手。フロリダのテニスアカデミーにやってきた栄一郎に強気な発言で何かと突っかかる。兄のことを心から慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/35/32786_crt_4IovO.jpg",
+        "link": "https://bgm.tv/character/32786",
+        "categorie": "person"
+      },
+      {
+        "id": "32787",
+        "label": "平敦士",
+        "info": "アメリカの学校に通いながらプロを目指している１９歳の日本人。栄一郎とはルームメートで何かと気にかけてくれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/30/32787_crt_SZA66.jpg",
+        "link": "https://bgm.tv/character/32787",
+        "categorie": "person"
+      },
+      {
+        "id": "32788",
+        "label": "克里修那",
+        "info": "インドからの留学生で栄一郎より１歳年下の１６歳のルームメート。全米ジュニアのトップクラスで戦う、成長株。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/e8/32788_crt_5r77F.jpg",
+        "link": "https://bgm.tv/character/32788",
+        "categorie": "person"
+      },
+      {
+        "id": "32790",
+        "label": "麦克",
+        "info": "フロリダのテニスアカデミーで選手たちのメンタル面をサポートするメンタルコンディショニングコーチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/cc/32790_crt_XdvmV.jpg",
+        "link": "https://bgm.tv/character/32790",
+        "categorie": "person"
+      },
+      {
+        "id": "32789",
+        "label": "ケビン",
+        "info": "フロリダのテニスアカデミーで技術面を教える技術専門コーチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/48/32789_crt_nu3Pn.jpg",
+        "link": "https://bgm.tv/character/32789",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

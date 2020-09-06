@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19391",
+        "label": "大鳥真緒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/65/19391_crt_en9L2.jpg?r=1363835368",
+        "link": "https://bgm.tv/character/19391",
+        "categorie": "person"
+      },
+      {
+        "id": "19392",
+        "label": "亀山瞳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/36/19392_crt_8VXTl.jpg?r=1363835382",
+        "link": "https://bgm.tv/character/19392",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

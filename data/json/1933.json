@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6317",
+        "label": "速水鉄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/9b/6317_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6317",
+        "categorie": "person"
+      },
+      {
+        "id": "23863",
+        "label": "紀之真弓",
+        "info": "グランパス操縦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/38/23863_crt_wNsWT.jpg",
+        "link": "https://bgm.tv/character/23863",
+        "categorie": "person"
+      },
+      {
+        "id": "6318",
+        "label": "伊賀徳洋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/eb/6318_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6318",
+        "categorie": "person"
+      },
+      {
+        "id": "6319",
+        "label": "黄美鈴",
+        "info": "ロレンツィニ・システム担当手の幼女。サヴァン症候群。人見知りが激しく、普段は山田と行動を共にしているらしい。海洋生物の出す微弱な電位差を感じ取れる能力を持っており、ロレンツィニ・システムは彼女の能力を増幅・拡大することで機能している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f2/6319_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6319",
+        "categorie": "person"
+      },
+      {
+        "id": "6321",
+        "label": "ベルグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/b3/6321_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6321",
+        "categorie": "person"
+      },
+      {
+        "id": "23864",
+        "label": "ミューティオ",
+        "info": "正確には、女性型ミュータント「ミューティオ」の中の一人。速水に命を助けられて以後、彼に好意を抱いたかのような行動を見せるが、そのせいで他のミューティオたちから排斥される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/d7/23864_crt_7HVpj.jpg",
+        "link": "https://bgm.tv/character/23864",
+        "categorie": "person"
+      },
+      {
+        "id": "6320",
+        "label": "円波博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/92/6320_crt_zgCgS.jpg",
+        "link": "https://bgm.tv/character/6320",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28322",
+        "label": "迪普·派恩斯",
+        "info": "\"Dipper\" Pines is the protagonist of [Gravity Falls]. He is the younger twin brother (by five minutes) of Mabel Pines, and is a curious, clever, and inventive 12-year-old. With Mabel along for the ride, he endeavors to uncover the secrets in the mysterious town of Gravity Falls over the summer.",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/da/28322_crt_1g0q1.jpg?r=1429619831",
+        "link": "https://bgm.tv/character/28322",
+        "categorie": "person"
+      },
+      {
+        "id": "28323",
+        "label": "梅宝·派恩斯",
+        "info": "Mabel Pines is the elder twin sister (by five minutes) of Dipper Pines. Energetic, bouncy, and optimistic, Mabel makes the best of every situation with a big, goofy smile, and a variety of colorful sweaters.",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/1c/28323_crt_qtvAM.jpg?r=1429619833",
+        "link": "https://bgm.tv/character/28323",
+        "categorie": "person"
+      },
+      {
+        "id": "28324",
+        "label": "斯坦·派恩斯",
+        "info": "Stanford \"Stan\" Pines, also known as Grunkle Stan, is Mabel and Dipper's sly, greedy, miserly great uncle and summer guardian. He loves to make profit, most commonly using scandals involving the \"supernatural\" to attract tourists to his Mystery Shack, which many fall prey to. Despite his antics, he professes a skepticism for Gravity Falls' supernatural side, though this is later revealed to be a facade to cover his own secrets about the town.",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/34/28324_crt_GoAgH.jpg?r=1429619835",
+        "link": "https://bgm.tv/character/28324",
+        "categorie": "person"
+      },
+      {
+        "id": "28326",
+        "label": "苏斯·拉米雷斯",
+        "info": "Jesus \"Soos\" Alzamirano Ramirez is the awkward, lovable, and friendly man-child who works as the Mystery Shack's handyman, in addition to other odd jobs. He often accompanies Dipper and Mabel on their adventures.",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/8e/28326_crt_U2Qs4.jpg?r=1429619829",
+        "link": "https://bgm.tv/character/28326",
+        "categorie": "person"
+      },
+      {
+        "id": "65726",
+        "label": "Bill Cipher",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/a6/65726_crt_kB8Xm.jpg",
+        "link": "https://bgm.tv/character/65726",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

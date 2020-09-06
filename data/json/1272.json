@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4679",
+        "label": "川添珠姬",
+        "info": "室江高校1年9班。身高149cm。人称“小珠”。是剑道道场的独生女，从幼年开始便锻炼剑道，拥有即使连成年人都无法匹敌的高超身手。兴趣是欣赏特摄与动画，尤其憧憬《超剑战队》剧中的英雄人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/78/4679_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4679",
+        "categorie": "person"
+      },
+      {
+        "id": "12004",
+        "label": "千叶纪梨乃",
+        "info": "剑道社社长，是故事一开始实质存在的唯一社员。通称“纪梨乃”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/2a/12004_crt_uF2pf.jpg",
+        "link": "https://bgm.tv/character/12004",
+        "categorie": "person"
+      },
+      {
+        "id": "4680",
+        "label": "桑原鞘子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/5c/4680_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4680",
+        "categorie": "person"
+      },
+      {
+        "id": "12005",
+        "label": "宫崎都",
+        "info": "室江高中一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/b2/12005_crt_34833.jpg",
+        "link": "https://bgm.tv/character/12005",
+        "categorie": "person"
+      },
+      {
+        "id": "4681",
+        "label": "东聪莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/6b/4681_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4681",
+        "categorie": "person"
+      },
+      {
+        "id": "4682",
+        "label": "石田虎侍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/eb/4682_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4682",
+        "categorie": "person"
+      },
+      {
+        "id": "12195",
+        "label": "中田勇次",
+        "info": "小学时就在珠姬家的川添道场受训，与她是青梅竹马。中学时代打进县大赛八强，具有一定剑道实力，珠姬称其实力在外山之上，校内考试成绩是全学年第四名，不过在故事里剑道远远比不上珠姬，考试成绩又总是在荣花之后，也没有像他有漂亮的女朋友，所以自认为是厉害不起来的平凡人。作为社团中最正经的人，成为了故事的解说角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/3f/12195_crt_VCvnj.jpg",
+        "link": "https://bgm.tv/character/12195",
+        "categorie": "person"
+      },
+      {
+        "id": "12194",
+        "label": "荣花段十朗",
+        "info": "室江高校1年3班。通称“段郎”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/6c/12194_crt_YZ6Uz.jpg",
+        "link": "https://bgm.tv/character/12194",
+        "categorie": "person"
+      },
+      {
+        "id": "5405",
+        "label": "小田岛礼美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/6a/5405_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5405",
+        "categorie": "person"
+      },
+      {
+        "id": "70637",
+        "label": "谷口悟朗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/f6/70637_crt_FwWSu.jpg",
+        "link": "https://bgm.tv/character/70637",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

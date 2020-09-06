@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10453",
+        "label": "卖药郎",
+        "info": "持有退魔之剑，以“形”、“真”、“理”之名斩杀妖怪的神秘男子，通常的职业是卖药人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/94/10453_crt_BJj7b.jpg",
+        "link": "https://bgm.tv/character/10453",
+        "categorie": "person"
+      },
+      {
+        "id": "53867",
+        "label": "加世",
+        "info": "坂井家的女佣。很中意卖药郎的风趣，并且帮助他击退引发这次事件的妖怪。在她的左眼有着一个小黑痣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/2c/53867_crt_wo503.jpg",
+        "link": "https://bgm.tv/character/53867",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

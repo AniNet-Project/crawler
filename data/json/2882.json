@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18174",
+        "label": "大庭叶藏",
+        "info": "叶藏生于二战时日本不愁吃穿的政治富家，是个体弱多病的家族末子，又从小看遍人情冷暖、正面背面的一套，所以感觉自己人生没有意义，从小学会看别人脸色、讨别人笑容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/83/18174_crt_DOm2z.jpg",
+        "link": "https://bgm.tv/character/18174",
+        "categorie": "person"
+      },
+      {
+        "id": "63572",
+        "label": "竹一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/54/63572_crt_87PPo.jpg",
+        "link": "https://bgm.tv/character/63572",
+        "categorie": "person"
+      },
+      {
+        "id": "18175",
+        "label": "恒子",
+        "info": "叶蔵被追杀，逃到咖啡厅所遇到的女性，后来与叶蔵成为亲密的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/9b/18175_crt_u6YYH.jpg",
+        "link": "https://bgm.tv/character/18175",
+        "categorie": "person"
+      },
+      {
+        "id": "63571",
+        "label": "堀木",
+        "info": "葉蔵の悪友で、一緒に反社会的な運動に参加している。強引なところがあり、葉蔵の仕送りを当てにするような一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/cc/63571_crt_Qf22A.jpg",
+        "link": "https://bgm.tv/character/63571",
+        "categorie": "person"
+      },
+      {
+        "id": "63573",
+        "label": "ヒラメ",
+        "info": "葉蔵の目付役。その生活を監視し、家との橋渡しをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/fc/63573_crt_qMzxX.jpg",
+        "link": "https://bgm.tv/character/63573",
+        "categorie": "person"
+      },
+      {
+        "id": "63574",
+        "label": "志津子",
+        "info": "雑誌社の女性記者。茂子という娘がおり、二人で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/09/63574_crt_Yu9J9.jpg",
+        "link": "https://bgm.tv/character/63574",
+        "categorie": "person"
+      },
+      {
+        "id": "63575",
+        "label": "茂子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/8b/63575_crt_7wRBe.jpg",
+        "link": "https://bgm.tv/character/63575",
+        "categorie": "person"
+      },
+      {
+        "id": "35019",
+        "label": "彰子",
+        "info": "都暮らしの女性。山道を行く最中、繁丸に襲われ、夫を殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/63/35019_crt_D99bH.jpg",
+        "link": "https://bgm.tv/character/35019",
+        "categorie": "person"
+      },
+      {
+        "id": "63569",
+        "label": "繁丸",
+        "info": "誰よりも力の強い山賊。女房達と暮らし、山を愛する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/86/63569_crt_t0m9R.jpg",
+        "link": "https://bgm.tv/character/63569",
+        "categorie": "person"
+      },
+      {
+        "id": "63570",
+        "label": "千代",
+        "info": "繁丸の女房のひとりで、少し天然気味。のちに彰子の女中となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/0e/63570_crt_XN325.jpg",
+        "link": "https://bgm.tv/character/63570",
+        "categorie": "person"
+      },
+      {
+        "id": "19220",
+        "label": "老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/64/19220_crt_DxwfL.jpg",
+        "link": "https://bgm.tv/character/19220",
+        "categorie": "person"
+      },
+      {
+        "id": "19221",
+        "label": "K",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/2a/19221_crt_WCocy.jpg",
+        "link": "https://bgm.tv/character/19221",
+        "categorie": "person"
+      },
+      {
+        "id": "19223",
+        "label": "寡妇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/3d/19223_crt_0EEYe.jpg",
+        "link": "https://bgm.tv/character/19223",
+        "categorie": "person"
+      },
+      {
+        "id": "19222",
+        "label": "小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/7a/19222_crt_CKkY0.jpg",
+        "link": "https://bgm.tv/character/19222",
+        "categorie": "person"
+      },
+      {
+        "id": "63576",
+        "label": "梅洛斯",
+        "info": "高田が編集者より依頼されたギリシャの小咄、「走れメロス」の主人公。正義感 が強く、暴君に対し義憤を露わにする。友人であるセリヌンティウスの約束を守 るため、走り続ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/a1/63576_crt_JMSfR.jpg",
+        "link": "https://bgm.tv/character/63576",
+        "categorie": "person"
+      },
+      {
+        "id": "63577",
+        "label": "蒂奥尼斯",
+        "info": "暴君。人は信じられぬものと放言する。約束を守ろうと走るメロスの行く手を塞 ぐこととなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/b8/63577_crt_mqT8I.jpg",
+        "link": "https://bgm.tv/character/63577",
+        "categorie": "person"
+      },
+      {
+        "id": "63578",
+        "label": "赛里努蒂乌斯",
+        "info": "メロスの友人で石工。メロスにディオニスへの人質として置いておかれ死の淵に立つも、メロスを信じて待ち続ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/4f/63578_crt_Sfz7F.jpg",
+        "link": "https://bgm.tv/character/63578",
+        "categorie": "person"
+      },
+      {
+        "id": "63579",
+        "label": "梅洛斯的妹妹",
+        "info": "結婚式を控える、メロスの妹。メロスは彼女のために自分の延命を申し出た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/f2/63579_crt_9VSf0.jpg",
+        "link": "https://bgm.tv/character/63579",
+        "categorie": "person"
+      },
+      {
+        "id": "63580",
+        "label": "高田",
+        "info": "戯曲家。編集者より「走れメロス」の依頼を受け悩む。学生時代、親友であった 城島に裏切られた経験があり、「走れメロス」を元の構成どおりに書くことに抵 抗がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/26/63580_crt_dG41G.jpg",
+        "link": "https://bgm.tv/character/63580",
+        "categorie": "person"
+      },
+      {
+        "id": "63581",
+        "label": "城岛",
+        "info": "高田の親友。学生時代、戯曲を書くことに悩んでいた高田を叱咤し、勇気づけた。 高田ととある約束をするが、それが果たされることはなく……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/1b/63581_crt_11xCC.jpg",
+        "link": "https://bgm.tv/character/63581",
+        "categorie": "person"
+      },
+      {
+        "id": "63582",
+        "label": "编辑",
+        "info": "高田に「走れメロス」の戯曲を依頼した編集者。。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/9e/63582_crt_BBn6j.jpg",
+        "link": "https://bgm.tv/character/63582",
+        "categorie": "person"
+      },
+      {
+        "id": "63583",
+        "label": "犍陀多",
+        "info": "名うての盗賊。 傍若無人で、国王ですら手玉にとる器だが、そのために死刑となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/bf/63583_crt_q5Q7Z.jpg",
+        "link": "https://bgm.tv/character/63583",
+        "categorie": "person"
+      },
+      {
+        "id": "63584",
+        "label": "良秀",
+        "info": "当代随一の絵師。 国王にも眼を掛けられていたが、 あることをきっかけに、王が治める国に疑問を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/4d/63584_crt_7099k.jpg",
+        "link": "https://bgm.tv/character/63584",
+        "categorie": "person"
+      },
+      {
+        "id": "63585",
+        "label": "国王",
+        "info": "栄華を極めた国の王。貴族のみが栄える現状に満足し、民を虐げる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/bb/63585_crt_7X11D.jpg",
+        "link": "https://bgm.tv/character/63585",
+        "categorie": "person"
+      },
+      {
+        "id": "63586",
+        "label": "美月",
+        "info": "良秀の娘。親思いで良秀に付添い、その信念を成就させようとする。 その果てに待っていたのは……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/a4/63586_crt_V7rdZ.jpg",
+        "link": "https://bgm.tv/character/63586",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

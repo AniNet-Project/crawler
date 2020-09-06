@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39437",
+        "label": "阿凡提",
+        "info": "阿凡提是个疾恶如仇、幽默风趣的人，他利用自己的智慧，为穷苦百姓伸张正义，让贪婪愚蠢的巴依、国王受到惩罚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/cc/39437_crt_tkKfZ.jpg",
+        "link": "https://bgm.tv/character/39437",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

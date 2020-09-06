@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23229",
+        "label": "マリア",
+        "info": "女魔導師。容姿こそ男の目を惹く淑やかな美女だが、侮ると痛い目を見る実力の持ち主。生真面目かつ潔癖で、争いを好まない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/8c/23229_crt_f44F5.jpg?r=1401228620",
+        "link": "https://bgm.tv/character/23229",
+        "categorie": "person"
+      },
+      {
+        "id": "23498",
+        "label": "シルヴァーナ",
+        "info": "男言葉を使う強気でお転婆な女剣士。最強と名乗る割には弱く、アストラルにも歯が立たない。ダルクと組んで再戦を挑むが、やはり歯が立たずに倒され、その場で2人とも抱かれてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/c2/23498_crt_xQRxM.jpg?r=1401228855",
+        "link": "https://bgm.tv/character/23498",
+        "categorie": "person"
+      },
+      {
+        "id": "23847",
+        "label": "シャロン",
+        "info": "ヒロインの1人。凄腕の剣士で、主人公の婚約者。自分より強い男にしか興味を示さない性格。王子という立場からも実戦に参加できないアストラルには歯痒い思いをしているが、彼の上達に伴って見直し始め、やがて本当の愛情を抱くようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/52/23847_crt_sJiT8.jpg?r=1401228753",
+        "link": "https://bgm.tv/character/23847",
+        "categorie": "person"
+      },
+      {
+        "id": "23573",
+        "label": "デルタ",
+        "info": "シナリオ後半から登場。戦力としては全く役立たずで、妨害とエロを専門とした役回りの美女。DOS版ではそういう存在でしかないが、Win95版やXP版では専用エンディングが追加されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/92/23573_crt_8Cr2U.jpg?r=1401228919",
+        "link": "https://bgm.tv/character/23573",
+        "categorie": "person"
+      },
+      {
+        "id": "23691",
+        "label": "リタ",
+        "info": "サブリナの娘。戦いには消極的で、非常に臆病な性格。剣の腕前も母には大きく劣る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/57/23691_crt_quuaE.jpg?r=1401228689",
+        "link": "https://bgm.tv/character/23691",
+        "categorie": "person"
+      },
+      {
+        "id": "23867",
+        "label": "エポ",
+        "info": "褐色の肌が眩しい女剣士。豪気さと淑やかさの二面性を持つが、剣の腕前は彼氏のノーマン共々今一つ。シナリオ後半では剣士を引退し、道具屋へと転職する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/bc/23867_crt_Tx4Z7.jpg?r=1401228801",
+        "link": "https://bgm.tv/character/23867",
+        "categorie": "person"
+      },
+      {
+        "id": "23868",
+        "label": "ペルシャ",
+        "info": "サブリナの部下を務める女剣士。戦いには向かない穏やかな性格で、ほぼいじめられ役専門となっている。Win95版、XP版、アダルトアニメ版ではペルシア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/7c/23868_crt_2AR80.jpg?r=1401228573",
+        "link": "https://bgm.tv/character/23868",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

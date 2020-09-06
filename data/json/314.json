@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6784",
+        "label": "鲁邦三世",
+        "info": "亚森·罗苹（法国作家莫理斯·卢布朗所创造的绅士怪盗，即鲁邦一世）之孙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/4e/6784_crt_bQQph.jpg?r=1446820910",
+        "link": "https://bgm.tv/character/6784",
+        "categorie": "person"
+      },
+      {
+        "id": "7253",
+        "label": "峰不二子",
+        "info": "搞不清楚她到底是间谍、小偷或者是杀手，是个谜一般的女人。基本上算是鲁邦的同伙，不过随时都会背叛鲁邦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/0b/7253_crt_V6dHh.jpg?r=1446819708",
+        "link": "https://bgm.tv/character/7253",
+        "categorie": "person"
+      },
+      {
+        "id": "7254",
+        "label": "钱形幸一",
+        "info": "东京警视厅的警察，警衔为警部，国际刑警组织鲁邦专任搜查官。碍于工作非得逮捕鲁邦不成，同时也将鲁邦视为对手，一心只想赢过鲁邦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/48/7254_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7254",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

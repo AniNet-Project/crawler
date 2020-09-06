@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57396",
+        "label": "太刀花陆",
+        "info": "中学一年、12歳。本編の主人公。O型うお座。天神中学校ボート部所属の天流闘神士。千年前から飛ばされてきた天流宗家であった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a7/57396_crt_XuXlp.jpg",
+        "link": "https://bgm.tv/character/57396",
+        "categorie": "person"
+      },
+      {
+        "id": "57397",
+        "label": "虎源太",
+        "info": "リクと契約した信頼を司る白虎族の式神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/70/57397_crt_vwd6G.jpg",
+        "link": "https://bgm.tv/character/57397",
+        "categorie": "person"
+      },
+      {
+        "id": "57399",
+        "label": "八云",
+        "info": "天流闘神士、17歳。源流零神操機（ゼロドライブ）もって“青龍のブリュネ”“消雪のタンカムイ”“雷火のタカマル”“黒鉄のリクドウ”“榎のサネマロ”五体の式神を同時に降神させる強力な闘神士。ウツホと神流の野望を打ち砕くべく奮戦中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/00/57399_crt_4o98v.jpg",
+        "link": "https://bgm.tv/character/57399",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

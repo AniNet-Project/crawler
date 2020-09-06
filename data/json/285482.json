@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72801",
+        "label": "史坦克",
+        "info": "“レビュアーズ”の筆頭格。種族は人間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/fc/72801_crt_fqTF4.jpg",
+        "link": "https://bgm.tv/character/72801",
+        "categorie": "person"
+      },
+      {
+        "id": "72802",
+        "label": "杰尔",
+        "info": "スタンクの相棒。種族はエルフ。見た目も性欲も少年のようだが、実際の年齢は200歳を超えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/9a/72802_crt_6XfmF.jpg",
+        "link": "https://bgm.tv/character/72802",
+        "categorie": "person"
+      },
+      {
+        "id": "72803",
+        "label": "可利姆维儿",
+        "info": "怪物に襲われている所をスタンクとゼルに助けられた天使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/67/72803_crt_IIH3M.jpg?r=1582627635",
+        "link": "https://bgm.tv/character/72803",
+        "categorie": "person"
+      },
+      {
+        "id": "72804",
+        "label": "甘丘",
+        "info": "酒場兼宿屋の“食酒亭”にたむろしているレビュアーズの一人。種族はハーフリング。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/b2/72804_crt_gm4LN.jpg",
+        "link": "https://bgm.tv/character/72804",
+        "categorie": "person"
+      },
+      {
+        "id": "72805",
+        "label": "梅多莉",
+        "info": "レビュアー達の溜まり場である“食酒亭”勤務の有翼人ウェイトレス。店を訪れるスケベ共に囲まれながらも真面目に働くメイドの鑑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/77/72805_crt_GKK87.jpg?r=1581990985",
+        "link": "https://bgm.tv/character/72805",
+        "categorie": "person"
+      },
+      {
+        "id": "74903",
+        "label": "芦荟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/0a/74903_crt_qJsKH.jpg?r=1579706977",
+        "link": "https://bgm.tv/character/74903",
+        "categorie": "person"
+      },
+      {
+        "id": "74928",
+        "label": "艾莎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f3/74928_crt_znU33.jpg",
+        "link": "https://bgm.tv/character/74928",
+        "categorie": "person"
+      },
+      {
+        "id": "74929",
+        "label": "莱米",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d7/74929_crt_UdR6s.jpg?r=1580010136",
+        "link": "https://bgm.tv/character/74929",
+        "categorie": "person"
+      },
+      {
+        "id": "75070",
+        "label": "蒂雅普雷特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/b6/75070_crt_Tll38.jpg?r=1580797862",
+        "link": "https://bgm.tv/character/75070",
+        "categorie": "person"
+      },
+      {
+        "id": "75729",
+        "label": "デリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/23/75729_crt_7T0GO.jpg",
+        "link": "https://bgm.tv/character/75729",
+        "categorie": "person"
+      },
+      {
+        "id": "76055",
+        "label": "迪斯阿比斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/c0/76055_crt_i1aKx.jpg",
+        "link": "https://bgm.tv/character/76055",
+        "categorie": "person"
+      },
+      {
+        "id": "76224",
+        "label": "デミア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/9b/76224_crt_zUlKb.jpg",
+        "link": "https://bgm.tv/character/76224",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

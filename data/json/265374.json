@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60637",
+        "label": "河野都",
+        "info": "利己主义·关西腔",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/7d/60637_crt_jLnzN.jpg?r=1568209494",
+        "link": "https://bgm.tv/character/60637",
+        "categorie": "person"
+      },
+      {
+        "id": "60639",
+        "label": "斋藤妮可儿",
+        "info": "偶像",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/db/60639_crt_7XjJ7.jpg?r=1568209566",
+        "link": "https://bgm.tv/character/60639",
+        "categorie": "person"
+      },
+      {
+        "id": "60640",
+        "label": "佐藤丽华",
+        "info": "学生会长·优等生",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/7b/60640_crt_3gGN8.jpg?r=1568209607",
+        "link": "https://bgm.tv/character/60640",
+        "categorie": "person"
+      },
+      {
+        "id": "60641",
+        "label": "立川绚香",
+        "info": "攻击性·武斗派",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/58/60641_crt_4hxj4.jpg?r=1568209655",
+        "link": "https://bgm.tv/character/60641",
+        "categorie": "person"
+      },
+      {
+        "id": "60642",
+        "label": "泷川美羽",
+        "info": "御宅·无",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/73/60642_crt_ArggV.jpg?r=1580364500",
+        "link": "https://bgm.tv/character/60642",
+        "categorie": "person"
+      },
+      {
+        "id": "60643",
+        "label": "户田纯",
+        "info": "大小姐·傲娇",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/08/60643_crt_wzG8T.jpg?r=1568210599",
+        "link": "https://bgm.tv/character/60643",
+        "categorie": "person"
+      },
+      {
+        "id": "60644",
+        "label": "藤间樱",
+        "info": "良家大小姐",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/02/60644_crt_i9wa9.jpg?r=1568210670",
+        "link": "https://bgm.tv/character/60644",
+        "categorie": "person"
+      },
+      {
+        "id": "60646",
+        "label": "丸山茜",
+        "info": "酷",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/99/60646_crt_B484p.jpg?r=1568210956",
+        "link": "https://bgm.tv/character/60646",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

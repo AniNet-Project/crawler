@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19039",
+        "label": "比企谷八幡",
+        "info": "本作的主人公。总武高校2年F组所属。从小就是孤独一人，至今留下无数心灵创伤，也因此常玩自问自答的猜谜或脑筋急转弯，偶尔会自言自语。根据雪乃及结衣的说法，常一边看书一边傻笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/60/19039_crt_BcOgO.jpg",
+        "link": "https://bgm.tv/character/19039",
+        "categorie": "person"
+      },
+      {
+        "id": "19040",
+        "label": "雪之下雪乃",
+        "info": "本作的女主角之一。总武高校2年J组（国際教養科）所属。侍奉部部长，十全十美的美少女，但个性教人不敢恭维，非常毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/02/19040_crt_wQQO2.jpg?r=1515405272",
+        "link": "https://bgm.tv/character/19040",
+        "categorie": "person"
+      },
+      {
+        "id": "19041",
+        "label": "由比滨结衣",
+        "info": "本作的女主角之一。总武高校2年F组所属。发言欠气质（会在不注意的情况下掀开别人的心里创伤），料理很差。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/90/19041_crt_FG0PO.jpg?r=1574587160",
+        "link": "https://bgm.tv/character/19041",
+        "categorie": "person"
+      },
+      {
+        "id": "19042",
+        "label": "户冢彩加",
+        "info": "总武高校2年F组所属。网球社社员。长相可爱，言行举止都很接近女生，但却是个男生，本人亦不希望被弄错性别。由于非常可爱，在班中被女生称为“王子”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7f/19042_crt_IeGmS.jpg?r=1503143215",
+        "link": "https://bgm.tv/character/19042",
+        "categorie": "person"
+      },
+      {
+        "id": "21586",
+        "label": "材木座义辉",
+        "info": "総武高校二年C組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/81/21586_crt_7T8uA.jpg?r=1421722742",
+        "link": "https://bgm.tv/character/21586",
+        "categorie": "person"
+      },
+      {
+        "id": "19043",
+        "label": "比企谷小町",
+        "info": "八幡的妹妹，初中3年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/04/19043_crt_l8w8a.jpg",
+        "link": "https://bgm.tv/character/19043",
+        "categorie": "person"
+      },
+      {
+        "id": "19219",
+        "label": "平冢静",
+        "info": "国文老师，喜欢少年漫画。擅长格斗技。非常关心比企谷，是标准的奔三。很在意自己年龄和未婚的现状，虽然极力隐瞒但总是会不经意的说出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/46/19219_crt_VajjV.jpg?r=1421290642",
+        "link": "https://bgm.tv/character/19219",
+        "categorie": "person"
+      },
+      {
+        "id": "20323",
+        "label": "雪之下阳乃",
+        "info": "雪乃的姊姊。19岁。总武高中毕业生，平冢老师的学生。昵称平冢为“小静”。在本地的国立大学的理工系学部就读。姿容端丽的完美超人。待人接物的态度非常好。但由于常参与社交场合，要负责家中的一部分对外场合，学会长期带着伪装。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/c5/20323_crt_y8336.jpg?r=1416050753",
+        "link": "https://bgm.tv/character/20323",
+        "categorie": "person"
+      },
+      {
+        "id": "21584",
+        "label": "叶山隼人",
+        "info": "比企谷八幡的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/46/21584_crt_y6od6.jpg?r=1427989954",
+        "link": "https://bgm.tv/character/21584",
+        "categorie": "person"
+      },
+      {
+        "id": "21587",
+        "label": "三浦优美子",
+        "info": "比企谷八幡的同班同学，班内现充组的核心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/bf/21587_crt_W55cu.jpg?r=1424591210",
+        "link": "https://bgm.tv/character/21587",
+        "categorie": "person"
+      },
+      {
+        "id": "21583",
+        "label": "海老名姫菜",
+        "info": "八幡のクラスメイト。7月14日生まれ。AB型。他の葉山グループ同様、八幡を「ヒキタニくん」と呼ぶ。座右の銘「ホモが嫌いな女子なんていません！」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/db/21583_crt_cIMHP.jpg?r=1421722904",
+        "link": "https://bgm.tv/character/21583",
+        "categorie": "person"
+      },
+      {
+        "id": "21585",
+        "label": "川崎沙希",
+        "info": "八幡的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f6/21585_crt_H35b3.jpg?r=1421289033",
+        "link": "https://bgm.tv/character/21585",
+        "categorie": "person"
+      },
+      {
+        "id": "26144",
+        "label": "相模南",
+        "info": "八幡のクラスメイト。6月26日生まれ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/dd/26144_crt_eRORC.jpg",
+        "link": "https://bgm.tv/character/26144",
+        "categorie": "person"
+      },
+      {
+        "id": "28038",
+        "label": "城回巡",
+        "info": "生徒会長。6巻から登場。雪ノ下陽乃とは知り合いで、彼女の後輩にあたる。文化祭では急遽でっち上げられた有志バンドとしてキーボード担当で参加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c4/28038_crt_P9bBP.jpg",
+        "link": "https://bgm.tv/character/28038",
+        "categorie": "person"
+      },
+      {
+        "id": "28037",
+        "label": "户部翔",
+        "info": "八幡のクラスメイト。葉山グループの1人で葉山と同じくサッカー部所属。金髪に染めた長めの髪を後ろに流してヘアバンドで留めており、ブレザーの下にはパーカーを着込んでいる。「マジ○○だわー」と言ったような若者言葉を駆使し、外見も言動も軽薄そのものの青年だが、性根は悪い人間ではない。葉山曰く「見た目は悪そうだがノリの良いムードメーカー、イベントにも積極的に動く良い奴」。雪乃曰く「騒ぐしか能がないお調子者」。同じ部活ゆえか、葉山とセットで登場することが多い。八幡を「ヒキタニ君」と呼んだ最初の人物であり、時々勝手に八幡を会話のネタにしており、当人からは「ウザいチャラ男」と思われている。同じグループの大和や大岡とは、葉山を間に挟んだ「友達の友達」でしかなかったが、職場見学の一件の後はそれなりに仲良くなった模様。海老名に好意を寄せていて、修学旅行の直前にその件で奉仕部に依頼をしに来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/7b/28037_crt_fCxCx.jpg",
+        "link": "https://bgm.tv/character/28037",
+        "categorie": "person"
+      },
+      {
+        "id": "26145",
+        "label": "鹤见留美",
+        "info": "小学六年生。4巻に登場。林間学校の旅行先で八幡達と出会った少女。友達にはぶられた経験からか内向性が強く引っ込み思案な性格になり由香達のグループから孤立しているが、雪乃と似て気が強いところがある。クリスマスパーティーの準備にて八幡たちと再会している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/18/26145_crt_9y4mC.jpg",
+        "link": "https://bgm.tv/character/26145",
+        "categorie": "person"
+      },
+      {
+        "id": "31372",
+        "label": "川崎大志",
+        "info": "川崎沙希的弟弟，中学三年级，与小町在同一个补习学校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ee/31372_crt_b06vq.jpg?r=1427563960",
+        "link": "https://bgm.tv/character/31372",
+        "categorie": "person"
+      },
+      {
+        "id": "31376",
+        "label": "大和",
+        "info": "八幡のクラスメイト。葉山グループの1人でラグビー部所属。ラグビー部らしく大柄で体格も良い青年。葉山曰く「冷静で人の話をよく聞く。マイペースで人を安心させる、寡黙で慎重な性格の良い奴」。雪乃曰く「反応が鈍い上に優柔不断」。職場見学の一件の後は、戸部や大岡と3人でつるむようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/60/31376_crt_RccV7.jpg",
+        "link": "https://bgm.tv/character/31376",
+        "categorie": "person"
+      },
+      {
+        "id": "31377",
+        "label": "大冈",
+        "info": "八幡のクラスメイト。葉山グループの1人で野球部所属。小柄で猿っぽい顔立ちの青年。制服の袖は常に捲っている。葉山曰く「人懐こく、何時も誰かの味方をしてくれる気の良い性格。上下関係に気を配って礼儀正しい良い奴」。雪乃曰く「人の顔色を窺う風見鶏」。八幡には童貞であると見抜かれてしまった。職場見学の一件の後は、戸部や大和と3人でつるむようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/99/31377_crt_TzTgA.jpg?r=1503142302",
+        "link": "https://bgm.tv/character/31377",
+        "categorie": "person"
+      },
+      {
+        "id": "29050",
+        "label": "卡玛库拉",
+        "info": "比企谷家里养的猫",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/c2/29050_crt_fuZ1i.jpg?r=1421295643",
+        "link": "https://bgm.tv/character/29050",
+        "categorie": "person"
+      },
+      {
+        "id": "29051",
+        "label": "萨布雷",
+        "info": "由比滨结衣的爱犬, 特长是挣脱狗绳, 奔向八幡",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/10/29051_crt_UH1nO.jpg?r=1421296124",
+        "link": "https://bgm.tv/character/29051",
+        "categorie": "person"
+      },
+      {
+        "id": "31374",
+        "label": "熊猫潘先生",
+        "info": "作中设定，某ディスティニー（Disney→Destiny）角色",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/69/31374_crt_qXX8d.jpg?r=1427564147",
+        "link": "https://bgm.tv/character/31374",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

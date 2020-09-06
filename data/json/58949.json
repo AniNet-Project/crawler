@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19080",
+        "label": "秋月孝雄",
+        "info": "高校一年生で一五歳。靴職人を目指し、日々、バイトをしながら制作活動を行っている。家庭環境もあって、年齢より大人びた性格。雨の日の午前中は学校に行かず、庭園で靴のデザインを考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/9e/19080_crt_r4rEg.jpg?r=1361668987",
+        "link": "https://bgm.tv/character/19080",
+        "categorie": "person"
+      },
+      {
+        "id": "19081",
+        "label": "雪野百香里",
+        "info": "タカオが雨の日の庭園で出会った、謎めいた女性。朝からチョコレートを片手にビールを飲んでいる。声を掛けたタカオにある和歌を口にして、そこから雨の日の午前中だけの交流が始まるが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/28/19081_crt_qZfTr.jpg?r=1361669328",
+        "link": "https://bgm.tv/character/19081",
+        "categorie": "person"
+      },
+      {
+        "id": "19082",
+        "label": "タカオの母",
+        "info": "家族を愛しつつも、家庭より恋愛を優先する奔放な女性。タカオの父とは離婚している。四七歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/d2/19082_crt_75yy5.jpg?r=1361670231",
+        "link": "https://bgm.tv/character/19082",
+        "categorie": "person"
+      },
+      {
+        "id": "19083",
+        "label": "タカオの兄の彼女",
+        "info": "明るい性格でタカオにも気さくに接する。関西出身の二四歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/fd/19083_crt_7Xk51.jpg?r=1361670344",
+        "link": "https://bgm.tv/character/19083",
+        "categorie": "person"
+      },
+      {
+        "id": "19084",
+        "label": "タカオの兄",
+        "info": "タカオとともに、奔放な母に手を焼いている。彼女と暮らすため家を出ることに。二六歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/15/19084_crt_9LnL9.jpg?r=1361670696",
+        "link": "https://bgm.tv/character/19084",
+        "categorie": "person"
+      },
+      {
+        "id": "19085",
+        "label": "松本",
+        "info": "タカオの同級生で、友人。一学年上の佐藤と付き合っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/95/19085_crt_Yyf20.jpg?r=1361670813",
+        "link": "https://bgm.tv/character/19085",
+        "categorie": "person"
+      },
+      {
+        "id": "19086",
+        "label": "佐藤",
+        "info": "松本の彼女で高校二年。友人が多く、校内の事情にも詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/2d/19086_crt_p9bD9.jpg",
+        "link": "https://bgm.tv/character/19086",
+        "categorie": "person"
+      },
+      {
+        "id": "19087",
+        "label": "相泽",
+        "info": "高校三年。プライドが高く、いつも取り巻きに囲まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/40/19087_crt_cWm9C.jpg?r=1361671191",
+        "link": "https://bgm.tv/character/19087",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

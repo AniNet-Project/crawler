@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2655",
+        "label": "アルベール・ド・モルセール子爵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/68/2655_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2655",
+        "categorie": "person"
+      },
+      {
+        "id": "14048",
+        "label": "基督山伯爵",
+        "info": "自称：東方宇宙の田舎貴族。莫大な富と途方もない権力の持ち主。その博識と優雅な立ち振る舞いにより、一躍パリ社交界の花形となる。かつて無実の罪で投獄されたことがあり、その復讐の手始めにアルベールに接近した。「巌窟王」 (Gankutsuou) の異名を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/42/14048_crt_P7dq8.jpg",
+        "link": "https://bgm.tv/character/14048",
+        "categorie": "person"
+      },
+      {
+        "id": "1984",
+        "label": "ユージェニー・ド・ダングラール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/36/1984_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/1984",
+        "categorie": "person"
+      },
+      {
+        "id": "2658",
+        "label": "ぺッポ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ad/2658_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2658",
+        "categorie": "person"
+      },
+      {
+        "id": "2659",
+        "label": "モルセール将軍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/8a/2659_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2659",
+        "categorie": "person"
+      },
+      {
+        "id": "2660",
+        "label": "フランツ・デピネー男爵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/98/2660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2660",
+        "categorie": "person"
+      },
+      {
+        "id": "4206",
+        "label": "リュシアン・ドプレー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/9a/4206_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4206",
+        "categorie": "person"
+      },
+      {
+        "id": "4207",
+        "label": "ボーシャン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b7/4207_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4207",
+        "categorie": "person"
+      },
+      {
+        "id": "4209",
+        "label": "ジェラール・ド・ヴィルフォール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/04/4209_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4209",
+        "categorie": "person"
+      },
+      {
+        "id": "4210",
+        "label": "バティスタン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/35/4210_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4210",
+        "categorie": "person"
+      },
+      {
+        "id": "4212",
+        "label": "カドルッス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b4/4212_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4212",
+        "categorie": "person"
+      },
+      {
+        "id": "14049",
+        "label": "海黛",
+        "info": "与基督山伯爵的关系极为亲密，擅长弹奏竖琴。因为海黛·铁贝林的父亲被弗南特·德·莫尔赛夫陷害身亡，所以对他极为赠恨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/6e/14049_crt_2spmX.jpg",
+        "link": "https://bgm.tv/character/14049",
+        "categorie": "person"
+      },
+      {
+        "id": "4208",
+        "label": "ラウル・ド・シャトー＝ルノー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/71/4208_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4208",
+        "categorie": "person"
+      },
+      {
+        "id": "4211",
+        "label": "ノワルティエ・ド・ヴィルフォール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/b0/4211_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4211",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

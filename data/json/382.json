@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7153",
+        "label": "清太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/55/7153_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7153",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

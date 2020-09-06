@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7201",
+        "label": "野原新之助",
+        "info": "野原新之助是日本漫画家臼井仪人的漫画作品《蜡笔小新》中的主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/8f/7201_crt_RwG32.jpg",
+        "link": "https://bgm.tv/character/7201",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

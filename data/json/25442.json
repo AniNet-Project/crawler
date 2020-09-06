@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1988",
+        "label": "凯尔·布罗福洛夫斯基",
+        "info": "四人组中的犹太人(台湾翻成客家人)，常与阿ㄆ一ㄚˇ发生冲突，但有时会受阿ㄆ一ㄚˇ影响一起闹事，当他受影响时常会闹出天大的灾难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/68/1988_crt_8sxoL.jpg",
+        "link": "https://bgm.tv/character/1988",
+        "categorie": "person"
+      },
+      {
+        "id": "28036",
+        "label": "斯坦·马希",
+        "info": "斯坦利·兰德尔·“斯坦”·马希（英语：Stanley Randall \"Stan\" Marsh，港译粉肠，台译屎蛋），是动画片《南方公园》的四名主角之一，英文版由特雷·帕克配音，这一角色的特点亦基本来自于特雷·帕克。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/94/28036_crt_4AzrJ.jpg",
+        "link": "https://bgm.tv/character/28036",
+        "categorie": "person"
+      },
+      {
+        "id": "29350",
+        "label": "肯尼·麦克康米克",
+        "info": "阿尼在南方公園中最著名的一點就是他的家庭最有問題。父親史杜特是個酒鬼，因為沒有工作使得一家人相當的貧苦，要靠著社會救濟金過日子，阿尼也因此常常被卡特曼所取笑。阿尼還有兩個兄弟姐妹：哥哥Kevin和妹妹Karen。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/fa/29350_crt_Dg1c7.jpg",
+        "link": "https://bgm.tv/character/29350",
+        "categorie": "person"
+      },
+      {
+        "id": "30262",
+        "label": "艾瑞克·西欧多·卡特曼",
+        "info": "埃里克·西奥多·卡特曼（英语：Eric Theodore Cartman，港译蛋散，台译阿ㄆㄧㄚˇ）是美国动画电视剧集《南方公园》的四名主要角色之一，由该剧集创作人之一的特雷·帕克配音。最早创作于1992年的动画短片《耶稣与雪人》中，并于1997年8月13日以《南方公园》人物首次在电视上播出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/04/30262_crt_KUMHz.jpg",
+        "link": "https://bgm.tv/character/30262",
+        "categorie": "person"
+      },
+      {
+        "id": "1970",
+        "label": "帽子先生",
+        "info": "曾为葛屁老师的助教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/af/1970_crt_5r99g.jpg",
+        "link": "https://bgm.tv/character/1970",
+        "categorie": "person"
+      },
+      {
+        "id": "1991",
+        "label": "大厨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/d4/1991_crt_7u2LC.jpg",
+        "link": "https://bgm.tv/character/1991",
+        "categorie": "person"
+      },
+      {
+        "id": "1993",
+        "label": "麦奇先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/cb/1993_crt_GU4M9.jpg",
+        "link": "https://bgm.tv/character/1993",
+        "categorie": "person"
+      },
+      {
+        "id": "1994",
+        "label": "吉拉德·布罗福洛夫斯基",
+        "info": "41岁。凯尔的父亲。常带粉红的帽子，是位律师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/aa/1994_crt_EZ95x.jpg",
+        "link": "https://bgm.tv/character/1994",
+        "categorie": "person"
+      },
+      {
+        "id": "1996",
+        "label": "蓝迪·马许",
+        "info": "35岁，斯坦的父亲。是位地质学家，虽然得过诺贝尔奖，但是不务正业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e7/1996_crt_0S4s3.jpg",
+        "link": "https://bgm.tv/character/1996",
+        "categorie": "person"
+      },
+      {
+        "id": "1997",
+        "label": "莎朗·马许",
+        "info": "37岁，斯坦的母亲。由第二季第十五集可看出相当爱护斯坦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/81/1997_crt_3P53n.jpg",
+        "link": "https://bgm.tv/character/1997",
+        "categorie": "person"
+      },
+      {
+        "id": "1998",
+        "label": "雪莉·马许",
+        "info": "13岁。斯坦的姐姐。常叫斯坦们活化石。带着牙套，对斯坦相当暴力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/cb/1998_crt_i1VDz.jpg",
+        "link": "https://bgm.tv/character/1998",
+        "categorie": "person"
+      },
+      {
+        "id": "2000",
+        "label": "马文·马许",
+        "info": "102岁。斯坦的爷爷。经常把斯坦的名字叫成比利(滷蛋)。以电动轮椅行动。曾带领老人军团攻占南方公园",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/7c/2000_crt_9baR9.jpg",
+        "link": "https://bgm.tv/character/2000",
+        "categorie": "person"
+      },
+      {
+        "id": "2001",
+        "label": "金波·柯恩",
+        "info": "斯坦的叔叔。是蓝迪同母异父的哥哥，经营枪支专卖店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/60/2001_crt_8slDr.jpg",
+        "link": "https://bgm.tv/character/2001",
+        "categorie": "person"
+      },
+      {
+        "id": "2007",
+        "label": "艾克·布罗福洛夫斯基",
+        "info": "3岁。凯尔的弟弟，脸上有雀斑，受到凯尔疼爱。养子，加拿大人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/0b/2007_crt_xx6Z2.jpg",
+        "link": "https://bgm.tv/character/2007",
+        "categorie": "person"
+      },
+      {
+        "id": "2098",
+        "label": "卡萝·麦寇米克",
+        "info": "26岁。肯尼的母亲。常穿印着：I'm with a stupid.→Mr. McCormic. 的T-shirt。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/16/2098_crt_Fhfht.jpg",
+        "link": "https://bgm.tv/character/2098",
+        "categorie": "person"
+      },
+      {
+        "id": "2099",
+        "label": "史蒂芬·史塔奇",
+        "info": "36岁。巴特斯的父亲。常误导巴特斯一些事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/0f/2099_crt_SDeOn.jpg",
+        "link": "https://bgm.tv/character/2099",
+        "categorie": "person"
+      },
+      {
+        "id": "2100",
+        "label": "理查德·齐克",
+        "info": "槌哥的父亲。槌槌咖啡店的老板，相当会形容咖啡口感及意境，但自家咖啡却是意外地难喝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/42/2100_crt_O0V7Z.jpg",
+        "link": "https://bgm.tv/character/2100",
+        "categorie": "person"
+      },
+      {
+        "id": "30798",
+        "label": "琳达·史塔奇",
+        "info": "34岁。巴特斯的母亲。把巴特斯看得很重要。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/3f/30798_crt_MMS5U.jpg",
+        "link": "https://bgm.tv/character/30798",
+        "categorie": "person"
+      },
+      {
+        "id": "30803",
+        "label": "史都华·麦寇米克",
+        "info": "33岁。肯尼的父亲。是个酒鬼，似乎没有工作，和凯尔爸爸年轻时是好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/16/30803_crt_K8kiQ.jpg",
+        "link": "https://bgm.tv/character/30803",
+        "categorie": "person"
+      },
+      {
+        "id": "30804",
+        "label": "莉安·卡特曼",
+        "info": "Cartman的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/da/30804_crt_be0d5.jpg",
+        "link": "https://bgm.tv/character/30804",
+        "categorie": "person"
+      },
+      {
+        "id": "30812",
+        "label": "席拉·布罗福洛夫斯基",
+        "info": "40岁。凯尔的母亲，红发。对小孩的教育相当重视，具有相当大的影响力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/aa/30812_crt_bzEYg.jpg",
+        "link": "https://bgm.tv/character/30812",
+        "categorie": "person"
+      },
+      {
+        "id": "30815",
+        "label": "赫伯特·盖瑞森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/f5/30815_crt_f9UyK.jpg",
+        "link": "https://bgm.tv/character/30815",
+        "categorie": "person"
+      },
+      {
+        "id": "30817",
+        "label": "维多利亚校长",
+        "info": "南方公园小学女校长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/59/30817_crt_Y7cAE.jpg",
+        "link": "https://bgm.tv/character/30817",
+        "categorie": "person"
+      },
+      {
+        "id": "41921",
+        "label": "温蒂·泰斯伯格",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/54/41921_crt_0h1R1.jpg",
+        "link": "https://bgm.tv/character/41921",
+        "categorie": "person"
+      },
+      {
+        "id": "41922",
+        "label": "贝蓓·斯蒂文斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/fe/41922_crt_IIbbv.jpg",
+        "link": "https://bgm.tv/character/41922",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14437",
+        "label": "宮浦もも",
+        "info": "東京から汐島に引っ越してきた小学6年生の女の子。人見知りだが、打ち解けた人には自分を出せる少し内弁慶なタイプ。芯は強く自分の考えをしっかり持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/31/14437_crt_yQSZG.jpg",
+        "link": "https://bgm.tv/character/14437",
+        "categorie": "person"
+      },
+      {
+        "id": "14438",
+        "label": "宮浦いく子",
+        "info": "もものお母さん。明るく美人で、決断力と行動力がある。周りの人に心配をかけないように、いつも元気に振舞うので、親しい人には無理をして頑張っているようにも見える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/67/14438_crt_I00Xc.jpg",
+        "link": "https://bgm.tv/character/14438",
+        "categorie": "person"
+      },
+      {
+        "id": "14439",
+        "label": "イワ",
+        "info": "3人の妖怪の中ではリーダー格だが、どこか抜けていて、いつも仲間に突っ込まれている。怖い顔だが、心根はとても優しい。「ござる」言葉を使う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/17/14439_crt_yqLOo.jpg",
+        "link": "https://bgm.tv/character/14439",
+        "categorie": "person"
+      },
+      {
+        "id": "18283",
+        "label": "川",
+        "info": "面倒くさがりでズル賢いところがあるが、ひょうきんで変に人間くさいところが憎めない。チンピラ口調で話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/b1/18283_crt_6IfVf.jpg",
+        "link": "https://bgm.tv/character/18283",
+        "categorie": "person"
+      },
+      {
+        "id": "18284",
+        "label": "豆子",
+        "info": "天然でマイペース。物覚えがわるい。マスコット的キモカワキャラで、いつの間にか友達が周りに集まるタイプ。「〜だなぁ」が口癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/9a/18284_crt_lzTLg.jpg",
+        "link": "https://bgm.tv/character/18284",
+        "categorie": "person"
+      },
+      {
+        "id": "18281",
+        "label": "大伯父",
+        "info": "ももの大おじ。汐島でみかん農家を営む。ユーモアがあり元気。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/87/18281_crt_G9OO9.jpg",
+        "link": "https://bgm.tv/character/18281",
+        "categorie": "person"
+      },
+      {
+        "id": "18282",
+        "label": "大叔母",
+        "info": "ももの大おば。いつも優しく、ももといく子を気にかける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/dc/18282_crt_HK31H.jpg",
+        "link": "https://bgm.tv/character/18282",
+        "categorie": "person"
+      },
+      {
+        "id": "18285",
+        "label": "幸市",
+        "info": "島の郵便屋さん。おっちょこちょいだが人は良く憎めない。いく子の幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/59/18285_crt_M7P7p.jpg",
+        "link": "https://bgm.tv/character/18285",
+        "categorie": "person"
+      },
+      {
+        "id": "18286",
+        "label": "阳太",
+        "info": "転校生のももを気遣う優しい少年。島の子供達のリーダー格。少し口下手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/f9/18286_crt_UZn9k.jpg",
+        "link": "https://bgm.tv/character/18286",
+        "categorie": "person"
+      },
+      {
+        "id": "18287",
+        "label": "海美",
+        "info": "陽太の妹。人懐こく可愛い。「普通は見えない何か」が見えるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/80/18287_crt_77aR0.jpg",
+        "link": "https://bgm.tv/character/18287",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

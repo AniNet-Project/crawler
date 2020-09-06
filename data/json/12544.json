@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15895",
+        "label": "银",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/c9/15895_crt_4FP4s.jpg?r=1565255276",
+        "link": "https://bgm.tv/character/15895",
+        "categorie": "person"
+      },
+      {
+        "id": "15896",
+        "label": "竹川萤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/5c/15896_crt_46UUx.jpg?r=1565255257",
+        "link": "https://bgm.tv/character/15896",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

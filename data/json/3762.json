@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9160",
+        "label": "ケロロ軍曹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/12/9160_crt_22xJk.jpg",
+        "link": "https://bgm.tv/character/9160",
+        "categorie": "person"
+      },
+      {
+        "id": "9489",
+        "label": "ギロロ伍長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/08/9489_crt_E11NZ.jpg",
+        "link": "https://bgm.tv/character/9489",
+        "categorie": "person"
+      },
+      {
+        "id": "13208",
+        "label": "日向冬树",
+        "info": "Keroro所寓居之日向家中的长子，排行第二；母亲是日向秋，日向夏美则是他的姊姊，同时也是Keroro的最佳伙伴兼好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/71/13208_crt_XXPHA.jpg",
+        "link": "https://bgm.tv/character/13208",
+        "categorie": "person"
+      },
+      {
+        "id": "9490",
+        "label": "日向夏美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/c8/9490_crt_MeL22.jpg",
+        "link": "https://bgm.tv/character/9490",
+        "categorie": "person"
+      },
+      {
+        "id": "26305",
+        "label": "タママ二等兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/d3/26305_crt_tITcF.jpg",
+        "link": "https://bgm.tv/character/26305",
+        "categorie": "person"
+      },
+      {
+        "id": "57002",
+        "label": "西泽桃华",
+        "info": "日向家を囲む四方の風の西。タママ二等兵が居候している西澤家御令嬢。二重人格である。吉祥学園の同級生である冬樹に恋心を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/34/57002_crt_7akK2.jpg?r=1502948314",
+        "link": "https://bgm.tv/character/57002",
+        "categorie": "person"
+      },
+      {
+        "id": "57043",
+        "label": "东谷小雪",
+        "info": "日向家を囲む四方の風の東。忍野村（しのびのむら）という忍者の村で暮らしていたくノ一。夏美のことが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/4f/57043_crt_OQ4OK.jpg?r=1503043380",
+        "link": "https://bgm.tv/character/57043",
+        "categorie": "person"
+      },
+      {
+        "id": "57050",
+        "label": "天王寺麻美",
+        "info": "睦実と同じ学校に通う不良の女子高生。アンゴル＝モアの普段の姿の元になっている人物で「自分のためなら友をも裏切る勇気」を持っていることから彼女の姿と心をコピーした（モアはその後、頭を打ったショックで麻美の粗暴さが封印された）。ドッペルゲンガーを称して現れたモアにお灸をすえられたが、改心はせずに、その後もカツアゲなどを行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/2a/57050_crt_Wr8Ai.jpg?r=1503059505",
+        "link": "https://bgm.tv/character/57050",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

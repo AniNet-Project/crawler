@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10532",
+        "label": "镝木·T·虎彻",
+        "info": "正义感强，坚持信念，行动常不经过大脑，总体而言是个热血男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/c2/10532_crt_cf3hA.jpg",
+        "link": "https://bgm.tv/character/10532",
+        "categorie": "person"
+      },
+      {
+        "id": "10533",
+        "label": "巴纳比·布鲁克斯·Jr",
+        "info": "给人好青年的印象，认为工作就是工作、讨厌多余行动的理想主义者，为了某个目的而直接使用本名行动并公开真实相貌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/24/10533_crt_5uUzO.jpg",
+        "link": "https://bgm.tv/character/10533",
+        "categorie": "person"
+      },
+      {
+        "id": "22401",
+        "label": "Ryan Goldsmith",
+        "info": "新ヒーローとして売り出すためにシュナイダーに雇われたヒーロー。バーナビーより若いが、海外で活躍してきた経験もあり実力もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/75/22401_crt_hvuhK.jpg?r=1386693780",
+        "link": "https://bgm.tv/character/22401",
+        "categorie": "person"
+      },
+      {
+        "id": "12401",
+        "label": "HERO TV",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/a3/12401_crt_aEz40.jpg",
+        "link": "https://bgm.tv/character/12401",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

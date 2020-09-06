@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13388",
+        "label": "结城新十郎",
+        "info": "とっくの昔に流行らなくなった「探偵」をいまどき名乗る珍しい青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/d0/13388_crt_oqy7Z.jpg",
+        "link": "https://bgm.tv/character/13388",
+        "categorie": "person"
+      },
+      {
+        "id": "13389",
+        "label": "因果",
+        "info": "新十郎と行動をともにする美少年。いつもは新十郎に守られることが多いが、いざとなると…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e2/13389_crt_qf6oF.jpg",
+        "link": "https://bgm.tv/character/13389",
+        "categorie": "person"
+      },
+      {
+        "id": "13626",
+        "label": "海胜麟六",
+        "info": "戦後に復旧した通信インフラとその技術を独占するＪＪシステムの会長。メディア王として君臨し、政財界にも顔が広く、検察庁・警察庁などの情報分析顧問も務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/7e/13626_crt_zZaIT.jpg",
+        "link": "https://bgm.tv/character/13626",
+        "categorie": "person"
+      },
+      {
+        "id": "13627",
+        "label": "虎山泉",
+        "info": "検察庁連合調整部の検事。連合調整部は、諸外国からの圧力と各省庁の調整を行うため戦後新設された部署。独自の判断で捜査を行う権限を持っており、新十郎の事件にしばしば絡んでくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/05/13627_crt_i9ysK.jpg",
+        "link": "https://bgm.tv/character/13627",
+        "categorie": "person"
+      },
+      {
+        "id": "13628",
+        "label": "速水星玄",
+        "info": "警察庁警備局課長。警察の立場から、さまざまな事件にかかわることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/35/13628_crt_0s48B.jpg",
+        "link": "https://bgm.tv/character/13628",
+        "categorie": "person"
+      },
+      {
+        "id": "22396",
+        "label": "仓田由子",
+        "info": "战场歌唱协会成员，在山洞中为了避免被因果附身的结城新十郎吃掉灵魂，为了救新十郎，在新十郎面前自杀，因果转而附身到由子身上，之后因果想动用恶魔的力量时就会以由子的形象出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/21/22396_crt_FoKwV.jpg",
+        "link": "https://bgm.tv/character/22396",
+        "categorie": "person"
+      },
+      {
+        "id": "54241",
+        "label": "世良田莳郎",
+        "info": "战场高歌会成员，新十郎高中时期的友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/fb/54241_crt_doPoW.jpg?r=1495618112",
+        "link": "https://bgm.tv/character/54241",
+        "categorie": "person"
+      },
+      {
+        "id": "15857",
+        "label": "别天王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/6b/15857_crt_V7qqg.jpg",
+        "link": "https://bgm.tv/character/15857",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

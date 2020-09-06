@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6885",
+        "label": "竹本祐太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e7/6885_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6885",
+        "categorie": "person"
+      },
+      {
+        "id": "6887",
+        "label": "花本叶久美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/c4/6887_crt_pGG22.jpg",
+        "link": "https://bgm.tv/character/6887",
+        "categorie": "person"
+      },
+      {
+        "id": "6889",
+        "label": "真山巧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/55/6889_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6889",
+        "categorie": "person"
+      },
+      {
+        "id": "8385",
+        "label": "原田理花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/2a/8385_crt_X7Der.jpg",
+        "link": "https://bgm.tv/character/8385",
+        "categorie": "person"
+      },
+      {
+        "id": "13114",
+        "label": "山田亚由美",
+        "info": "美大研修生，陶艺专精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f6/13114_crt_kup8t.jpg?r=1421721436",
+        "link": "https://bgm.tv/character/13114",
+        "categorie": "person"
+      },
+      {
+        "id": "16803",
+        "label": "森田忍",
+        "info": "彫刻科（8年在籍後卒業）→日本画科（3年として編入）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ac/16803_crt_nPD4r.jpg",
+        "link": "https://bgm.tv/character/16803",
+        "categorie": "person"
+      },
+      {
+        "id": "55754",
+        "label": "花本修司",
+        "info": "滨田山美术大学温柔幽默，平易近人的美术史讲师，大烟枪，故事开始时29-31岁左右。女主角花本叶久美是他堂兄的女儿，比阿久大11,12岁。是他带着阿久从长野的乡下来到东京，来到美大并把她介绍给竹本等人。主角五人组朋友一样的老师，办公室也成为了五人组的温馨欢乐的聚会室，并且见证了四年中各式各样的离别与重聚~亲人一般大方的为主角们提供各类帮助，却很不幸没有女朋友的大叔~经常与真山相互吐槽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/7a/55754_crt_P2Ral.jpg?r=1587025344",
+        "link": "https://bgm.tv/character/55754",
+        "categorie": "person"
+      },
+      {
+        "id": "8386",
+        "label": "合田稼头男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/63/8386_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8386",
+        "categorie": "person"
+      },
+      {
+        "id": "8387",
+        "label": "德大寺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/7e/8387_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8387",
+        "categorie": "person"
+      },
+      {
+        "id": "8388",
+        "label": "森田馨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/2a/8388_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8388",
+        "categorie": "person"
+      },
+      {
+        "id": "8389",
+        "label": "野宫匠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/a6/8389_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8389",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

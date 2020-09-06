@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15890",
+        "label": "狩乃夏鲁鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e1/15890_crt_gz8oG.jpg",
+        "link": "https://bgm.tv/character/15890",
+        "categorie": "person"
+      },
+      {
+        "id": "15891",
+        "label": "法娜·迪尔·莫拉鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/df/15891_crt_cOcW7.jpg",
+        "link": "https://bgm.tv/character/15891",
+        "categorie": "person"
+      },
+      {
+        "id": "15893",
+        "label": "卡尔洛王子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/41/15893_crt_cTzpE.jpg",
+        "link": "https://bgm.tv/character/15893",
+        "categorie": "person"
+      },
+      {
+        "id": "15894",
+        "label": "乔金",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/fb/15894_crt_4aaCt.jpg",
+        "link": "https://bgm.tv/character/15894",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

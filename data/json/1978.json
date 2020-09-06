@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3519",
+        "label": "丹羽大助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/30/3519_crt_1daaW.jpg",
+        "link": "https://bgm.tv/character/3519",
+        "categorie": "person"
+      },
+      {
+        "id": "12928",
+        "label": "ダーク・マウジー",
+        "info": "40年ぶりに現れた、伝説の大怪盗。毎回艶やかに、美術品を盗む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/05/12928_crt_ICvAe.jpg",
+        "link": "https://bgm.tv/character/12928",
+        "categorie": "person"
+      },
+      {
+        "id": "3520",
+        "label": "日渡怜",
+        "info": "中学生にして、ダーク捜査の総司令。ダークとは正反対の存在であるクラッドに変身する。旧姓・氷狩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/1a/3520_crt_c60vb.jpg",
+        "link": "https://bgm.tv/character/3520",
+        "categorie": "person"
+      },
+      {
+        "id": "3521",
+        "label": "原田梨紗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/9c/3521_crt_xQxou.jpg",
+        "link": "https://bgm.tv/character/3521",
+        "categorie": "person"
+      },
+      {
+        "id": "12926",
+        "label": "原田梨红",
+        "info": "双子の姉。色々あったが、ようやく大助と両思いに！大助がダークと疑っている…!？",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/72/12926_crt_86AQ8.jpg",
+        "link": "https://bgm.tv/character/12926",
+        "categorie": "person"
+      },
+      {
+        "id": "12927",
+        "label": "ウィズ",
+        "info": "丹羽家のペットでダークの仕え魔。大助やダークの姿に変身得きる。ダークの黒い羽もウィズの変身後の姿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/77/12927_crt_6qDLd.jpg",
+        "link": "https://bgm.tv/character/12927",
+        "categorie": "person"
+      },
+      {
+        "id": "6693",
+        "label": "宮本むっしゅ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/dc/6693_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6693",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

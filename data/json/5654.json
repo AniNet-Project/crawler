@@ -1,0 +1,357 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18441",
+        "label": "莱纳·龙特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e8/18441_crt_jjZXj.jpg",
+        "link": "https://bgm.tv/character/18441",
+        "categorie": "person"
+      },
+      {
+        "id": "18442",
+        "label": "菲莉丝·艾利斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/f1/18442_crt_wa8w9.jpg",
+        "link": "https://bgm.tv/character/18442",
+        "categorie": "person"
+      },
+      {
+        "id": "18443",
+        "label": "西昂·阿斯塔尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/ec/18443_crt_xwpCH.jpg",
+        "link": "https://bgm.tv/character/18443",
+        "categorie": "person"
+      },
+      {
+        "id": "18446",
+        "label": "迪亚·卢米布尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/24/18446_crt_kTNlD.jpg",
+        "link": "https://bgm.tv/character/18446",
+        "categorie": "person"
+      },
+      {
+        "id": "18447",
+        "label": "路西尔·艾利斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/1f/18447_crt_4103P.jpg",
+        "link": "https://bgm.tv/character/18447",
+        "categorie": "person"
+      },
+      {
+        "id": "18448",
+        "label": "米兰·弗洛瓦德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/0a/18448_crt_2WwLI.jpg",
+        "link": "https://bgm.tv/character/18448",
+        "categorie": "person"
+      },
+      {
+        "id": "39008",
+        "label": "ラッヘル・ミラー",
+        "info": "忌破り追撃隊隊長。身長175cm。かつての革命を計画・実行した人物だが、忌み破り追撃部隊は重要な役職であり、また下からの目線も大事だと主張して元帥への昇進を蹴り、少佐の地位に留まっていた。しかしシオンから「世界の本当の姿」を聞いてその考えを改め、晴れて元帥の地位を受けた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/ee/39008_crt_7wFOx.jpg",
+        "link": "https://bgm.tv/character/39008",
+        "categorie": "person"
+      },
+      {
+        "id": "39009",
+        "label": "クラウ・クロム",
+        "info": "紅指のクラウとして隣国に名をはせている現ローランド帝国元帥にして、シオンの右腕。身長190cm。幼少時から貴族の私兵育成機関で過酷極まる訓練を受けて、ライナ以上の戦闘力を身につけた。ライナやカルネらからは「筋肉バカ」とも呼ばれているが魔法能力も極めて高く、ライナからはローランド最強の魔道兵という評価を受け、指揮官としてもその地位に相応しい能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/65/39009_crt_3W5ct.jpg",
+        "link": "https://bgm.tv/character/39009",
+        "categorie": "person"
+      },
+      {
+        "id": "39010",
+        "label": "ルーク・スタッカート",
+        "info": "ミルク・カラード隊の副官を務めている人物。身長183cm。白髪長身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/1d/39010_crt_87s89.jpg",
+        "link": "https://bgm.tv/character/39010",
+        "categorie": "person"
+      },
+      {
+        "id": "39011",
+        "label": "カルネ・カイウェル",
+        "info": "現ローランド帝国の少将、シオンの左腕。身長170cm。クラウの同門の後輩で、やはり貴族を嫌っている。人妻や未亡人好きで常に3人はキープしてあるらしい。またエスリナとは相思相愛だが、エスリナの兄であるフィオルと仲が良かったことと、自分が軍人であるためいつ死ぬかわからないといった理由から告白をしないでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/f1/39011_crt_8lp7L.jpg",
+        "link": "https://bgm.tv/character/39011",
+        "categorie": "person"
+      },
+      {
+        "id": "39012",
+        "label": "バユーズ・ワイト",
+        "info": "元エスタブール大佐。茶色の瞳とくねくねと編み込んだ茶髪が特徴の青年で、歳は初登場時で25歳。エスタブールでは知らぬ者は居ないほどの有名かつ有能な軍人で、多くのエスタブール兵から慕われる一方、個人としてもクラウとほぼ互角の魔法戦闘技術を有している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/2f/39012_crt_SM1Jj.jpg",
+        "link": "https://bgm.tv/character/39012",
+        "categorie": "person"
+      },
+      {
+        "id": "39013",
+        "label": "ミルク・カラード",
+        "info": "軍部でその名を上げるために貴族のカラード家に引き取られた元孤児。身長145cm。幼い頃ライナと結婚する約束を交わしたと思い込んでいる（もっともそれはミルクの中で勝手に歪曲されていて、実際はそんな約束はしていない）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/75/39013_crt_P4fH7.jpg",
+        "link": "https://bgm.tv/character/39013",
+        "categorie": "person"
+      },
+      {
+        "id": "39014",
+        "label": "ムー・ベラリオール",
+        "info": "ミルク・カラード隊の隊員。身長160cm。孤児であったが、育て親がローランドを出奔。ラッヘル・ミラーの隊が捕らえるが殺さずこっそりローランドへ連れて帰り、ルーク隊に所属していたが後にミルク隊に入隊した。ラッハ・ベラリオールとは兄弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/09/39014_crt_XnxhZ.jpg",
+        "link": "https://bgm.tv/character/39014",
+        "categorie": "person"
+      },
+      {
+        "id": "39015",
+        "label": "ラッハ・ベラリオール",
+        "info": "ミルク・カラード隊の隊員。身長165cm。ムー・ベラリオールとは兄弟であり、彼と同じように入隊した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/1f/39015_crt_101p8.jpg",
+        "link": "https://bgm.tv/character/39015",
+        "categorie": "person"
+      },
+      {
+        "id": "39016",
+        "label": "リーレ・リンクル",
+        "info": "ミルク・カラード隊の情報を司っている。身長168cm。。人間離れした戦闘力と冷徹な思考・天才的な情報整理の能力を併せ持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/72/39016_crt_dSBoK.jpg",
+        "link": "https://bgm.tv/character/39016",
+        "categorie": "person"
+      },
+      {
+        "id": "39017",
+        "label": "ノア・エン",
+        "info": "エスタブール国王ルウェ・エンの一人娘で公主。初登場時で17歳。身長160cm。凛とした雰囲気を持つ美女で、聡明さと相成って国民から高い人気を得ていた。紺青の長い髪をポニーテールでまとめている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/19/39017_crt_5ntTD.jpg",
+        "link": "https://bgm.tv/character/39017",
+        "categorie": "person"
+      },
+      {
+        "id": "39018",
+        "label": "サラウェル・セイル",
+        "info": "エスタブール王立学院を首席で卒業した秀才で、ノアの教育係を務めていた青年。ノアからは全幅の信頼を寄せられていたが、その正体は自身の出世のためなら手段を選ばない奸臣で、当初からノアを娶ってエスタブールを乗っ取ろうと企んでいた。エスタブールがローランドの属国になると、今度はフロワードと通じてローランド内での地位と引き換えに自国を売り払うも、最期は用済みと見なされたフロワードによって殺された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/e6/39018_crt_a35ZS.jpg",
+        "link": "https://bgm.tv/character/39018",
+        "categorie": "person"
+      },
+      {
+        "id": "39019",
+        "label": "エスリナ・フォークル",
+        "info": "シオンの秘書をしていたフィオル・フォークル（声 - 入野自由）の妹。肩口で切り揃えられた琥珀色の髪と青い眼が特徴の聡明な少女。初登場時14歳。8歳の頃に戦争で両親を失って以来、兄と二人で身を寄せ合うようにして暮らしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/57/39019_crt_Z0lx7.jpg",
+        "link": "https://bgm.tv/character/39019",
+        "categorie": "person"
+      },
+      {
+        "id": "39020",
+        "label": "シュス・シラーズ",
+        "info": "クラウの側近を務める金髪青年。少年時代にクラウによって見出され、革命以前から彼に付き従ってきた古参の腹心。クラウに心酔しており、彼に対して絶対的な忠誠を誓っている。冷静かつ真面目な性格で、主に戦況の分析や情報収集を任務としている。若輩ながら切れ者で、旧敵同士だったローランド兵と元エスタブール兵間の軋轢を解消するため、バユーズの挑発を利用してエスタブールを侮辱し、クラウにワザと自分を殴らせるといった演技を成功させ、元エスタブール兵たちの敵意を和らげる一助と成した。が、戦闘力自体は並で、ネルファ侵攻の際、フェリスに気絶させられた（当人はクラウの足手まといになることを嫌い、自決しようとしたために気絶させられた）上に人質され、クラウに助けられるといった醜態をさらした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/96/39020_crt_12Q0i.jpg",
+        "link": "https://bgm.tv/character/39020",
+        "categorie": "person"
+      },
+      {
+        "id": "39022",
+        "label": "スゥルド・ステアリード",
+        "info": "爵位は公爵、ローランドの貴族のトップに君臨する大貴族。前王の側近であったにもかかわらず、前王の失脚後も貴族のトップに座り続けており、反国王（シオン）派の筆頭だが、他の反国王派貴族がシオンに対して露骨な態度をとる中で一人だけ慇懃な態度に終始していたが、ネルファの貴族と手を結んでルシルの手の届かない他国でシオン暗殺を試みるなど、影で思惑を進めようとしていた。エスタブール反乱の際、鎮圧作戦の指揮を外されたフロワードの不満を敏感に見抜き、懐柔を試みるが逆に脅される。フロワードのあまりの恐ろしさに、以降は一転して親国王派（というより、ほとんどフロワードの下僕）に寝返った。フロワードが反国王派貴族の大粛清を行った際も彼に組したが、直後にリルの手によって殺害された。アニメ版登場話数は第5話・8話・10話・12話。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/61/39022_crt_kVEKm.jpg",
+        "link": "https://bgm.tv/character/39022",
+        "categorie": "person"
+      },
+      {
+        "id": "39023",
+        "label": "カーラル・フロワード",
+        "info": "アークメル地方を治めるローランドの大貴族、フロワード家の当主。小太りの背の低い老人で、ミラン・フロワードの養父。元々フロワード家の当主はカーラルの兄だったが、彼を含めたフロワード家の親族全員が不慮の事故で他界したため、幸運にも当主になれた経緯を持つ。ステアリードと同じく反国王派に組していた。同性愛者で、5歳の頃からミランに性的虐待を加えていたが、カーラル自身はミランのことを愛おしく思っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/59/39023_crt_u8LZZ.jpg",
+        "link": "https://bgm.tv/character/39023",
+        "categorie": "person"
+      },
+      {
+        "id": "39024",
+        "label": "ファル・ペニー",
+        "info": "ローランド帝国王立特殊学院の生徒で、眼鏡をかけた小柄な少女。見た目はあまり運動神経が良さそうには見えないが、実は隠密行動の成績優秀者であり、それを見越したシオンが自身の班に引き入れた。他人の恋愛話が大好物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/3a/39024_crt_AfW40.jpg",
+        "link": "https://bgm.tv/character/39024",
+        "categorie": "person"
+      },
+      {
+        "id": "39026",
+        "label": "レファル・エディア",
+        "info": "ガスターク国王。飄々としており掴み所のない性格をしている。一撃で数万もの軍を消し飛ばす剣の忘却欠片、グロウヴィルを所有しているが、使用の代償として嗅覚と左目、右足を失っている。忘却欠片や魔眼に関する情報を数多く手にし、大陸を覆う闇の正体を知る数少ない人物である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/2f/39026_crt_hlRz0.jpg",
+        "link": "https://bgm.tv/character/39026",
+        "categorie": "person"
+      },
+      {
+        "id": "39027",
+        "label": "リーグルワーズ・ペンテスト",
+        "info": "ガスターク地方の名門ペンテスト家の長男で、レファルの右腕であると同時に悪友でもあり、彼からは“リーズ”という愛称で呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/4c/39027_crt_Gz8lw.jpg",
+        "link": "https://bgm.tv/character/39027",
+        "categorie": "person"
+      },
+      {
+        "id": "39028",
+        "label": "リル・オルラ",
+        "info": "スイとクゥの兄。ローランド帝国の担当で有力貴族とのつながりもあった。來獣の指輪という忘却欠片を使用。ライナと接触するが彼を逃がす（理由は現時点では不明）忘却欠片や魔眼等に詳しい。ゲイルフィックラントとの戦いの最中、再びライナたちの前に現れ、彼の複写眼を奪うことに成功するが、それが切っ掛けでライナは「すべての式を解くもの」として覚醒した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/dd/39028_crt_T9W2T.jpg",
+        "link": "https://bgm.tv/character/39028",
+        "categorie": "person"
+      },
+      {
+        "id": "39029",
+        "label": "スイ・オルラ",
+        "info": "クゥの兄で、彼女と共に行動している。身長172cm（182cm説も）普段は作家志望の人当たりの良いにこやかな青年だが、レファルの考えに強く賛同しており、彼の考えを否定する者には容赦しない。かつてはエレミーオの櫛を使用していた。複写眼を暴走させたライナによって左手を失う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/c0/39029_crt_X9h86.jpg",
+        "link": "https://bgm.tv/character/39029",
+        "categorie": "person"
+      },
+      {
+        "id": "39030",
+        "label": "クゥ・オルラ",
+        "info": "一見楚々とした美少女だが、かなりの饒舌かつ毒舌。身長140cm。兄スイの「面倒を見て」おり、そんな兄妹の様子にはライナ達も騙されかけた。アイルクローノの鎌という忘却欠片を使用。これを使用しているときは別人のように黙り込み、表情も消える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/3a/39030_crt_4674M.jpg",
+        "link": "https://bgm.tv/character/39030",
+        "categorie": "person"
+      },
+      {
+        "id": "39031",
+        "label": "キファ・ノールズ",
+        "info": "赤髪、赤瞳の美女。エスタブール帝国出身であり姉のナイア（声 - 寿美菜子）と妹のレミル（声 - 高森奈津美）と共にローランドへ送りこまれたが、姉を殺され妹を人質に取られ、エスタブールを罠に嵌めるための二重の間者として利用されていた。学院時代からライナの優しさに気付いており、弁当を作るなどして想いを寄せていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/0a/39031_crt_CH781.jpg",
+        "link": "https://bgm.tv/character/39031",
+        "categorie": "person"
+      },
+      {
+        "id": "39032",
+        "label": "イリス・エリス",
+        "info": "エリス家の末っ子でフェリスの妹。身長130cm。長い金髪をツインテールに纏めた美少女。いつもフリルのたくさんついたドレスを着ている。明るく無邪気な天然ボケの性格で、姉のフェリスを慕っており、彼女と同様、団子が大好物。才能が無いと判断した両親によって訓練を受けさせてもらえなかったため、兄姉に比べて感情が豊か。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/13/39032_crt_TqPp1.jpg",
+        "link": "https://bgm.tv/character/39032",
+        "categorie": "person"
+      },
+      {
+        "id": "39033",
+        "label": "アルア",
+        "info": "ルーナ帝国レジット村出身で複写眼（アルファ・スティグマ）保持者の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/2c/39033_crt_QPa2O.jpg",
+        "link": "https://bgm.tv/character/39033",
+        "categorie": "person"
+      },
+      {
+        "id": "39034",
+        "label": "クク",
+        "info": "ルーナ帝国レジット村出身の少女でアルアの幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/0c/39034_crt_Ndn77.jpg",
+        "link": "https://bgm.tv/character/39034",
+        "categorie": "person"
+      },
+      {
+        "id": "39035",
+        "label": "トアレ・ネルフィ",
+        "info": "ネルファ皇国王グリード・ネルフィの孫。暗愚で有名なスターネル・ネルフィの妾腹の子で、同じ境遇の異母兄妹たちと共に王都の一角で静かに暮らしていた。優しく面倒見の良い好青年で、異母兄妹たちはもとよりネルファ国民からも大変慕われており、貴族の圧制や専横などを王に奏上して解決するなど、国民と国を繋ぐ窓口のような役割を担っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/c7/39035_crt_LL1Gm.jpg",
+        "link": "https://bgm.tv/character/39035",
+        "categorie": "person"
+      },
+      {
+        "id": "39037",
+        "label": "リューラ・リュートルー",
+        "info": "ライナの父。元々はローランドの公爵であり、「魔術を統べるリュートルー家」と呼ばれ、エリス家と並ぶほどの大貴族だった。ローランドのほぼ全ての魔法の基礎を作った天才にして、魔導学者を束ねていた男で、ローランドの貴族や魔導学者たちからは「狂った貴族」とも呼ばれていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/b2/39037_crt_xczD7.jpg",
+        "link": "https://bgm.tv/character/39037",
+        "categorie": "person"
+      },
+      {
+        "id": "39038",
+        "label": "イルナ・リュートルー",
+        "info": "ライナの母でリューラの妻。旧姓はラースウェルで、リューラと結婚する前はごく普通の村娘だった。我が子が複写眼保持者とわかった時は、自分の血のせいで息子が呪われたと思いつめ、フェルナと心中しようとした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/05/39038_crt_PGTNv.jpg",
+        "link": "https://bgm.tv/character/39038",
+        "categorie": "person"
+      },
+      {
+        "id": "39039",
+        "label": "フィオル・フォークル",
+        "info": "ローランド帝国の平民の出。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/89/39039_crt_Yt883.jpg",
+        "link": "https://bgm.tv/character/39039",
+        "categorie": "person"
+      },
+      {
+        "id": "39021",
+        "label": "シルワーウェスト・シルウェルト",
+        "info": "通称シル。槍の一族とも呼ばれている、武芸の腕を認められ貴族になった旧家の末っ子。剣の一族のエリス家には対抗心を持つ。シオンから、ライナが勇者の遺物探しの旅に出ていた間の伝令役を受けていた。頭にフォークとナイフを無理やりつけられたかわいらしいピンクのブタのぬいぐるみ「ブーちゃん」を、最強の槍と信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/17/39021_crt_bbMbI.jpg",
+        "link": "https://bgm.tv/character/39021",
+        "categorie": "person"
+      },
+      {
+        "id": "39025",
+        "label": "ビオ・メンテ",
+        "info": "かつて「ローランド最高の暗殺者」と称された暗部に飼われた女性。ライナ暗殺の任を受けて家政婦として派遣されるが実際はライナによって処分される計画だった。罰を受けるのにもかかわらず自分を国外に逃がそうとするライナを好きになりライナと共に国外に逃亡しようとするが、軍上層部はそのことを読んでおりビオ自身を殺すことによってライナを暴走させる実験をしようとしていた。ライナが自分を守り、人を殺すことで傷付くのを望まなかった彼女は自ら命を絶つ。最期はライナの傍で眠りについた。第一回伝勇伝キャラ投票1位となった。そして死後夢の中で彼女は昼寝王国で暖かな日に寝ているライナとゆっくり穏やかに過ごしていた。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/39025",
+        "categorie": "person"
+      },
+      {
+        "id": "39090",
+        "label": "レミル・ノールズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/47/39090_crt_g61N3.jpg",
+        "link": "https://bgm.tv/character/39090",
+        "categorie": "person"
+      },
+      {
+        "id": "39091",
+        "label": "ナイア・ノールズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/30/39091_crt_yZ0Ky.jpg",
+        "link": "https://bgm.tv/character/39091",
+        "categorie": "person"
+      },
+      {
+        "id": "39093",
+        "label": "少女の声",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/95/39093_crt_qmMzZ.jpg",
+        "link": "https://bgm.tv/character/39093",
+        "categorie": "person"
+      },
+      {
+        "id": "39094",
+        "label": "エナ・アストー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1e/39094_crt_EhL27.jpg",
+        "link": "https://bgm.tv/character/39094",
+        "categorie": "person"
+      },
+      {
+        "id": "39103",
+        "label": "ラフラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/12/39103_crt_LkNmU.jpg",
+        "link": "https://bgm.tv/character/39103",
+        "categorie": "person"
+      },
+      {
+        "id": "39104",
+        "label": "プエカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/41/39104_crt_0FiI3.jpg",
+        "link": "https://bgm.tv/character/39104",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

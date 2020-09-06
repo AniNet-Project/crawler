@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3717",
+        "label": "墨村良守",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/af/3717_crt_gxzqX.jpg",
+        "link": "https://bgm.tv/character/3717",
+        "categorie": "person"
+      },
+      {
+        "id": "34199",
+        "label": "雪村时音",
+        "info": "本作のヒロイン。雪村家22代目（予定）の結界師。現在烏森学園高等部2年。髪がかなり長く、一箇所にまとめて結っている。ゴキブリが大の苦手（しかし、ゴキブリ以外の昆虫は割と平気である）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c3/34199_crt_SccB3.jpg",
+        "link": "https://bgm.tv/character/34199",
+        "categorie": "person"
+      },
+      {
+        "id": "3718",
+        "label": "斑尾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/85/3718_crt_e2sXi.jpg",
+        "link": "https://bgm.tv/character/3718",
+        "categorie": "person"
+      },
+      {
+        "id": "3719",
+        "label": "墨村正守",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/74/3719_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3719",
+        "categorie": "person"
+      },
+      {
+        "id": "3720",
+        "label": "墨村守美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/e7/3720_crt_y0l2D.jpg",
+        "link": "https://bgm.tv/character/3720",
+        "categorie": "person"
+      },
+      {
+        "id": "3721",
+        "label": "白尾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/2f/3721_crt_Xp4qA.jpg",
+        "link": "https://bgm.tv/character/3721",
+        "categorie": "person"
+      },
+      {
+        "id": "3722",
+        "label": "雪村静江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/86/3722_crt_sjjz4.jpg",
+        "link": "https://bgm.tv/character/3722",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

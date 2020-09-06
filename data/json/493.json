@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15029",
+        "label": "阿卡德",
+        "info": "王立國教騎士團的王牌(垃圾處理員)，過去不詳的吸血鬼，通常使用常人臂力所無法使用的超大口徑手槍「豺狼」（Jackal）和「加斯爾」（caskal）作戰，對於敵人不管是人或超自然生物都是虐殺",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/0b/15029_crt_mKzV7.jpg",
+        "link": "https://bgm.tv/character/15029",
+        "categorie": "person"
+      },
+      {
+        "id": "6688",
+        "label": "因特古拉·范布隆克·温盖茨·海辛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/e7/6688_crt_anidb.jpg?r=1491908314",
+        "link": "https://bgm.tv/character/6688",
+        "categorie": "person"
+      },
+      {
+        "id": "6689",
+        "label": "塞拉斯·维克多利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/25/6689_crt_wqW0T.jpg?r=1475205209",
+        "link": "https://bgm.tv/character/6689",
+        "categorie": "person"
+      },
+      {
+        "id": "6696",
+        "label": "少校",
+        "info": "诸君，我喜欢战争！（诸君　私は戦争が好きだ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/c0/6696_crt_3Jd3F.jpg?r=1410184432",
+        "link": "https://bgm.tv/character/6696",
+        "categorie": "person"
+      },
+      {
+        "id": "6691",
+        "label": "ウォルター・C（クム）・ドルネーズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/78/6691_crt_anidb.jpg?r=1491929112",
+        "link": "https://bgm.tv/character/6691",
+        "categorie": "person"
+      },
+      {
+        "id": "6694",
+        "label": "エンリコ・マクスウェル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/db/6694_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6694",
+        "categorie": "person"
+      },
+      {
+        "id": "28187",
+        "label": "培尔纳德",
+        "info": "家族世世代代总共 8 代皆从事佣兵的工作，因此幼少时期常遭同侪排挤...",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/cb/28187_crt_Fi2Jc.jpg?r=1491908341",
+        "link": "https://bgm.tv/character/28187",
+        "categorie": "person"
+      },
+      {
+        "id": "6692",
+        "label": "亚历山大·安德鲁森",
+        "info": "吾等自问 汝等为何物？",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/c3/6692_crt_5M554.jpg?r=1491911618",
+        "link": "https://bgm.tv/character/6692",
+        "categorie": "person"
+      },
+      {
+        "id": "15433",
+        "label": "大德意志帝国",
+        "info": "二次元出现得最频繁的国家之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/15433_crt_qcrPC.jpg",
+        "link": "https://bgm.tv/character/15433",
+        "categorie": "person"
+      },
+      {
+        "id": "20059",
+        "label": "天主教会",
+        "info": "天主教会，即罗马大公教会，是以罗马主教(教宗)为首的教会，为基督宗教的主要宗派之一，自承其历史从耶稣基督创立以来一脉相承。在大多数场合，天主教会即等同于天主教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b0/20059_crt_sN2R7.jpg",
+        "link": "https://bgm.tv/character/20059",
+        "categorie": "person"
+      },
+      {
+        "id": "75296",
+        "label": "大不列颠及北爱尔兰联合王国",
+        "info": "大不列颠及北爱尔兰联合王国，简称联合王国，中文通称“英国”，是本土位于西欧并具有海外领地的主权国家，英国位于欧洲大陆西北面，由大不列颠岛、爱尔兰岛东北部分及一系列较小岛屿组成。英国和另一国家唯一的陆上国境线位于北爱尔兰，和爱尔兰共和国相邻。英国由大西洋所环绕，东为北海，南为英吉利海峡，西南偏南为凯尔特海，与爱尔兰隔爱尔兰海相望。该国总面积达243,610平方千米（94,060平方英里），人口约6636万，其中以英格兰人（盎格鲁-撒克逊人）为主体民族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/67/75296_crt_vc7Fv.jpg",
+        "link": "https://bgm.tv/character/75296",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

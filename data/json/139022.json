@@ -1,0 +1,397 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33774",
+        "label": "人吉尔朗",
+        "info": "新宿擾乱後に超人課から離脱。政府の超人弾圧に対し、「超人を護りたい」という自らの信念を貫くため、同志たちと活動を続ける。時として古巣の超人課と対立する場合も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/7d/33774_crt_38P8h.jpg?r=1460303191",
+        "link": "https://bgm.tv/character/33774",
+        "categorie": "person"
+      },
+      {
+        "id": "33775",
+        "label": "星野辉子",
+        "info": "かつて「魔界の魔女」となりクロードに味方したが、笑美の妖力でダークな部分を人虎として分離。超人課に残ったが、事件を追うことで爾朗と関わり続けられるという期待がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/94/33775_crt_bacE7.jpg?r=1460303363",
+        "link": "https://bgm.tv/character/33775",
+        "categorie": "person"
+      },
+      {
+        "id": "33776",
+        "label": "鬼野笑美",
+        "info": "超人課の創設にも関係がある中核メンバー。かつては爾朗と付き合っていた。絵や写真から姿を借りて自身の容姿とする特殊能力をもつため、爾朗と同年代のはずだが年齢不詳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/65/33776_crt_RPs22.jpg?r=1443190757",
+        "link": "https://bgm.tv/character/33776",
+        "categorie": "person"
+      },
+      {
+        "id": "33828",
+        "label": "芳村兵马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/ca/33828_crt_o4S3P.jpg?r=1443190720",
+        "link": "https://bgm.tv/character/33828",
+        "categorie": "person"
+      },
+      {
+        "id": "33829",
+        "label": "风郎太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/18/33829_crt_4F9lK.jpg?r=1443190693",
+        "link": "https://bgm.tv/character/33829",
+        "categorie": "person"
+      },
+      {
+        "id": "35704",
+        "label": "秋田大司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/b9/35704_crt_LHtCH.jpg?r=1443188463",
+        "link": "https://bgm.tv/character/35704",
+        "categorie": "person"
+      },
+      {
+        "id": "35751",
+        "label": "柴来人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/4c/35751_crt_z5z5m.jpg?r=1443188906",
+        "link": "https://bgm.tv/character/35751",
+        "categorie": "person"
+      },
+      {
+        "id": "35752",
+        "label": "人吉孙竹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/35/35752_crt_4Dhg0.jpg?r=1443189116",
+        "link": "https://bgm.tv/character/35752",
+        "categorie": "person"
+      },
+      {
+        "id": "35753",
+        "label": "乌尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/86/35753_crt_CUzXU.jpg?r=1443189256",
+        "link": "https://bgm.tv/character/35753",
+        "categorie": "person"
+      },
+      {
+        "id": "37572",
+        "label": "里见义昭",
+        "info": "世界最大广告代理店·帝都广告社的顾问。在同时也被称为\"神化元禄\"的神化40年代初期，以怪兽热潮以及原创超人的出道等，谋计着操作大众对超人和怪兽的印象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/30/37572_crt_s2qZm.jpg?r=1450637398",
+        "link": "https://bgm.tv/character/37572",
+        "categorie": "person"
+      },
+      {
+        "id": "37573",
+        "label": "东崎伦子",
+        "info": "广告代理店·帝都广告社市场部的王牌社员，熟知媒体之道。里见顾问的直属部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/e8/37573_crt_O97J8.jpg?r=1450637494",
+        "link": "https://bgm.tv/character/37573",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "35754",
+        "label": "S游星人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/94/35754_crt_maAwx.jpg?r=1443189869",
+        "link": "https://bgm.tv/character/35754",
+        "categorie": "person"
+      },
+      {
+        "id": "35755",
+        "label": "Gross Orgen",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/15/35755_crt_nLnn7.jpg?r=1443190105",
+        "link": "https://bgm.tv/character/35755",
+        "categorie": "person"
+      },
+      {
+        "id": "36146",
+        "label": "卡姆贝",
+        "info": "塔耳塔洛斯女王",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b4/36146_crt_fUCu7.jpg?r=1462721931",
+        "link": "https://bgm.tv/character/36146",
+        "categorie": "person"
+      },
+      {
+        "id": "36347",
+        "label": "兴梠美枝子",
+        "info": "战时由生田研究所制造，寻找成对男性型人造人的乙号机械",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c1/36347_crt_qGSGM.jpg",
+        "link": "https://bgm.tv/character/36347",
+        "categorie": "person"
+      },
+      {
+        "id": "37000",
+        "label": "白田晃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/fd/37000_crt_Da8N2.jpg?r=1448263796",
+        "link": "https://bgm.tv/character/37000",
+        "categorie": "person"
+      },
+      {
+        "id": "37001",
+        "label": "半田馨",
+        "info": "人造人\"人造合体メガッシン\"之中，与美枝子（乙号）同时制造出的男型人造人。制造后在不知乙号的存在的情况下，被送往南方作为一位兵卒参加了战争。终战后，于神化47年与在关岛被找到的原日本兵同时归国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/1b/37001_crt_fFRr9.jpg?r=1448264017",
+        "link": "https://bgm.tv/character/37001",
+        "categorie": "person"
+      },
+      {
+        "id": "37002",
+        "label": "美嘎贡",
+        "info": "由松本正次通过某个途径获得的宇宙怪兽的死骸与拥有惊人的细胞再生力的小嘎贡融合而来的合体怪兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/f8/37002_crt_Kp07e.jpg?r=1448264616",
+        "link": "https://bgm.tv/character/37002",
+        "categorie": "person"
+      },
+      {
+        "id": "37003",
+        "label": "音无弓彦／牧大铁",
+        "info": "1期：",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/24/37003_crt_7eqz6.jpg?r=1448265265",
+        "link": "https://bgm.tv/character/37003",
+        "categorie": "person"
+      },
+      {
+        "id": "37004",
+        "label": "阿斯酱",
+        "info": "神化26年开始被人目击的少女型超人。平常以变形为收纳起手足、戴着天线的球形的样式滞空于低轨道卫星高度。收到陷于危机的人的脑中发出的特定脑波后会作出反应，画下虹色的光轨降于地表，与独自认定为恶的人物战斗。动力为太阳光发电。制造者的真身与真意尚不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/02/37004_crt_Y6m34.jpg?r=1449648793",
+        "link": "https://bgm.tv/character/37004",
+        "categorie": "person"
+      },
+      {
+        "id": "37005",
+        "label": "犹大／三纯光",
+        "info": "1期：",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/d1/37005_crt_scrSJ.jpg?r=1448265838",
+        "link": "https://bgm.tv/character/37005",
+        "categorie": "person"
+      },
+      {
+        "id": "37568",
+        "label": "唐",
+        "info": "人气搞笑乐队Mountain Horse的队长兼鼓手。神化41年获得超人能力：物体潜入。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/65/37568_crt_IPp71.jpg?r=1450630391",
+        "link": "https://bgm.tv/character/37568",
+        "categorie": "person"
+      },
+      {
+        "id": "37569",
+        "label": "哈尔",
+        "info": "人气搞笑乐队Mountain Horse的吉他手。神化41年获得超人能力：物体移动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/f7/37569_crt_BXDdy.jpg?r=1450630382",
+        "link": "https://bgm.tv/character/37569",
+        "categorie": "person"
+      },
+      {
+        "id": "37570",
+        "label": "弗里兹",
+        "info": "人气搞笑乐队Mountain Horse的贝斯手。神化41年获得超人能力：放电。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/0b/37570_crt_f5f5h.jpg?r=1450630374",
+        "link": "https://bgm.tv/character/37570",
+        "categorie": "person"
+      },
+      {
+        "id": "37571",
+        "label": "迪",
+        "info": "人气搞笑乐队Mountain Horse的钢琴手。神化41年获得超人能力：身体硬化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/26/37571_crt_ggV7F.jpg?r=1450630365",
+        "link": "https://bgm.tv/character/37571",
+        "categorie": "person"
+      },
+      {
+        "id": "37574",
+        "label": "天弓骑士",
+        "info": "作为「正义的伙伴」给予了战后日本民众们勇气的代表性假面超人。无人知晓他的真身，但他的存在被广为所知。以摩托车迅速地赶向事件现场，事件解决后又如风一般地离去。装备着三日月枪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/69/37574_crt_zuF5O.jpg?r=1450639714",
+        "link": "https://bgm.tv/character/37574",
+        "categorie": "person"
+      },
+      {
+        "id": "37575",
+        "label": "南零一",
+        "info": "都立八方高校的一年级学生、成绩优秀。少年超人时的名号为超能喷射器。身着以球形透明头盔为特征的强化服，作为超能力者活动着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/40/37575_crt_PL7O8.jpg?r=1450639695",
+        "link": "https://bgm.tv/character/37575",
+        "categorie": "person"
+      },
+      {
+        "id": "39287",
+        "label": "乌尔缇玛大师",
+        "info": "米国超人の頂点に立つ偉大な存在。宇宙人と地球人のハーフとされる天才科学者で、自ら開発した宇宙船で太陽系内を自在に行き来している。捕獲した宇宙怪獣を地球に持ちこみ、米軍の兵器にして空母に搭載。戦後日米の密接な政治的関係から、帝都広告社を通じてさまざまな干渉を行い、特に爾朗の示す能力に深い関心を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ff/39287_crt_QBSO2.jpg?r=1457277260",
+        "link": "https://bgm.tv/character/39287",
+        "categorie": "person"
+      },
+      {
+        "id": "39288",
+        "label": "怪剑克劳德",
+        "info": "横須賀港で潜水艦アンタレス号を剣で真っ二つにして米国の陰謀を暴き、現場にいた若者たちを「超人主義者」にアジテートした仮面の超人。触れた金属を体内に吸収し、武器に再精製する能力を有している。ドクロを模したヘルメットは、さらに能力を増幅する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/98/39288_crt_eREZ4.jpg?r=1457277603",
+        "link": "https://bgm.tv/character/39288",
+        "categorie": "person"
+      },
+      {
+        "id": "39289",
+        "label": "长川神",
+        "info": "府立八方高校的教师，会给辉子提供长得像是植物根的魔女用感冒药。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ae/39289_crt_e6Lkv.jpg?r=1457278141",
+        "link": "https://bgm.tv/character/39289",
+        "categorie": "person"
+      },
+      {
+        "id": "40573",
+        "label": "杰绮",
+        "info": "「天使星」的主唱兼领队。（声 - 大橋彩香 / 歌 - ささかまリス子）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a2/40573_crt_NBa31.jpg?r=1460792477",
+        "link": "https://bgm.tv/character/40573",
+        "categorie": "person"
+      },
+      {
+        "id": "40574",
+        "label": "萝丝",
+        "info": "「天使星」的吉他手。（声 - 深川芹亜 / 歌 - 上花風裏）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/3c/40574_crt_OJaof.jpg?r=1460792495",
+        "link": "https://bgm.tv/character/40574",
+        "categorie": "person"
+      },
+      {
+        "id": "40575",
+        "label": "法妮",
+        "info": "「天使星」的鼓手。（声 - 香坂さき / 歌 - 思春ももせ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/74/40575_crt_ajjUD.jpg?r=1460792513",
+        "link": "https://bgm.tv/character/40575",
+        "categorie": "person"
+      },
+      {
+        "id": "40576",
+        "label": "阿剌克涅／遥秋",
+        "info": "「天使星」的键盘手。又名遥秋。（声 - 明坂聡美 / 歌 - 舞川みやこ、キャンディスン）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/ed/40576_crt_X66Im.jpg?r=1460792530",
+        "link": "https://bgm.tv/character/40576",
+        "categorie": "person"
+      },
+      {
+        "id": "40577",
+        "label": "克劳迪娅",
+        "info": "「天使星」的贝斯手。（声 - 沢井美優 / 歌 - キャンディスン）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/ee/40577_crt_d4YLA.jpg?r=1460792545",
+        "link": "https://bgm.tv/character/40577",
+        "categorie": "person"
+      },
+      {
+        "id": "40578",
+        "label": "赤光",
+        "info": "国家公共保安部内部组织·对超人部队的部队长。忍者装扮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/42/40578_crt_9Bnhw.jpg?r=1460793395",
+        "link": "https://bgm.tv/character/40578",
+        "categorie": "person"
+      },
+      {
+        "id": "40579",
+        "label": "加尔伯伊·莱卡",
+        "info": "史上第一位以肉身成功进行了宇宙飞行的苏联英雄超人·航天员。能力是凭借重力和磁力在空中、宇宙空间高速移动，并且不会被雷达探测到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/63/40579_crt_1ozzc.jpg?r=1460796212",
+        "link": "https://bgm.tv/character/40579",
+        "categorie": "person"
+      },
+      {
+        "id": "40580",
+        "label": "泷诚介",
+        "info": "奇异力量危机管理办公室=SPR的超人。运用着无限接近科学的魔法，日日忙于解明各种奇怪现象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/d8/40580_crt_lLjo3.jpg",
+        "link": "https://bgm.tv/character/40580",
+        "categorie": "person"
+      },
+      {
+        "id": "40581",
+        "label": "高原枫",
+        "info": "奇异力量危机管理办公室=SPR的女性超人。运用着无限接近科学的魔法，日日忙于解明各种奇怪现象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/44/40581_crt_ZqOG2.jpg?r=1460797193",
+        "link": "https://bgm.tv/character/40581",
+        "categorie": "person"
+      },
+      {
+        "id": "40582",
+        "label": "千夏",
+        "info": "人吉家的女仆。似乎不太喜欢笑美。默默支持着辉子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/1d/40582_crt_eRffH.jpg?r=1460797566",
+        "link": "https://bgm.tv/character/40582",
+        "categorie": "person"
+      },
+      {
+        "id": "41054",
+        "label": "松本正次",
+        "info": "\"日本怪兽电波社\"的社长。实为以嘎贡的细胞养殖巨大怪兽，并售卖怪兽得以盈利的恶人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e9/41054_crt_7Q95H.jpg?r=1461947093",
+        "link": "https://bgm.tv/character/41054",
+        "categorie": "person"
+      },
+      {
+        "id": "41055",
+        "label": "大和右京",
+        "info": "\"日本怪兽电波社\"的女性社员，虽知道松本社长所做之事并非正道，但仍旧帮助松本。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/5d/41055_crt_xJX84.jpg?r=1461947102",
+        "link": "https://bgm.tv/character/41055",
+        "categorie": "person"
+      },
+      {
+        "id": "41466",
+        "label": "内畑丰至",
+        "info": "「世论新闻社」社长。实际为宇宙生命体「幽魔」。一种会凭依于人的尸体上的生命体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/8b/41466_crt_wO4yq.jpg",
+        "link": "https://bgm.tv/character/41466",
+        "categorie": "person"
+      },
+      {
+        "id": "41467",
+        "label": "岛津星七",
+        "info": "厚生省的要人。实际为宇宙生命体「幽魔」。一种会凭依于人的尸体上的生命体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/e9/41467_crt_11b7k.jpg?r=1462794516",
+        "link": "https://bgm.tv/character/41467",
+        "categorie": "person"
+      },
+      {
+        "id": "41468",
+        "label": "三矢准一",
+        "info": "国会议员。赞成「机能秘密法(超人秘密法)」的改正。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/eb/41468_crt_j0hhH.jpg",
+        "link": "https://bgm.tv/character/41468",
+        "categorie": "person"
+      },
+      {
+        "id": "42031",
+        "label": "娜娜",
+        "info": "与明(AKIRA)共同行动IQ成员之一。AKIRA被打倒后，IQ实质上解散但仍旧留在了日本。新宿骚动中作为超人主义者参加了游行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/7a/42031_crt_pOeaa.jpg?r=1465665524",
+        "link": "https://bgm.tv/character/42031",
+        "categorie": "person"
+      },
+      {
+        "id": "42032",
+        "label": "真理",
+        "info": "与明(AKIRA)共同行动IQ成员之一。AKIRA被打倒后，IQ实质上解散但仍旧留在了日本。新宿骚动中作为超人主义者参加了游行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/49/42032_crt_0Z1l8.jpg?r=1465665595",
+        "link": "https://bgm.tv/character/42032",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

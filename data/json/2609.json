@@ -1,0 +1,557 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11589",
+        "label": "纳兹·多拉格尼尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a4/11589_crt_4XdeV.jpg",
+        "link": "https://bgm.tv/character/11589",
+        "categorie": "person"
+      },
+      {
+        "id": "11604",
+        "label": "露西·哈特菲利亚",
+        "info": "《妖精的尾巴》中的女主角。是魔导师公会妖精尾巴的星灵魔导士。擅长吐槽，性格活泼开朗、非常重视伙伴和公会成员关系，在与同伴的冒险中成为一名十分优秀的星灵魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/71/11604_crt_018Zm.jpg?r=1493876788",
+        "link": "https://bgm.tv/character/11604",
+        "categorie": "person"
+      },
+      {
+        "id": "9592",
+        "label": "格雷·佛尔帕斯塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/03/9592_crt_QZRzc.jpg",
+        "link": "https://bgm.tv/character/9592",
+        "categorie": "person"
+      },
+      {
+        "id": "9591",
+        "label": "艾尔莎·史卡雷特",
+        "info": "「妖精の尻尾」の中でも数少ない、S級の仕事を請け負うことのできるS級魔導士。「妖精女王（ティターニア）」の異名を持つ。19歳で、左腕に青い紋章がある。好きなものは武具・鎧、嫌いなものは悪。好きな食べ物はチーズケーキとスフレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/14/9591_crt_x1X3k.jpg",
+        "link": "https://bgm.tv/character/9591",
+        "categorie": "person"
+      },
+      {
+        "id": "9325",
+        "label": "哈比",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4f/9325_crt_1zX1v.jpg",
+        "link": "https://bgm.tv/character/9325",
+        "categorie": "person"
+      },
+      {
+        "id": "13621",
+        "label": "温蒂·玛贝尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/49/13621_crt_fQVvm.jpg",
+        "link": "https://bgm.tv/character/13621",
+        "categorie": "person"
+      },
+      {
+        "id": "13622",
+        "label": "夏璐璐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/da/13622_crt_bQZuB.jpg",
+        "link": "https://bgm.tv/character/13622",
+        "categorie": "person"
+      },
+      {
+        "id": "13623",
+        "label": "戈吉尔·雷德福克斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/f7/13623_crt_008jq.jpg",
+        "link": "https://bgm.tv/character/13623",
+        "categorie": "person"
+      },
+      {
+        "id": "53792",
+        "label": "潘瑟力利",
+        "info": "元エドラス王国軍第一魔戦部隊隊長。愛称はリリー。背中に白い紋章がある。好きなものはキウイ、嫌いなものは雷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/85/53792_crt_4Ydu5.jpg",
+        "link": "https://bgm.tv/character/53792",
+        "categorie": "person"
+      },
+      {
+        "id": "10366",
+        "label": "米拉珍·斯特劳斯",
+        "info": "「妖精の尻尾」の看板娘。通称ミラ。19歳で、左ももに白い紋章がある。好きなものは料理、嫌いなものはゴキブリ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/bd/10366_crt_X50eH.jpg",
+        "link": "https://bgm.tv/character/10366",
+        "categorie": "person"
+      },
+      {
+        "id": "53793",
+        "label": "朱毕安·罗克丝",
+        "info": "元「幽鬼の支配者」の一員で、「エレメント4」の紅一点。別名「大海のジュビア」。17歳で、左ももに青い紋章がある。好きなものはグレイ様、嫌いなものは雨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/3e/53793_crt_pH30t.jpg",
+        "link": "https://bgm.tv/character/53793",
+        "categorie": "person"
+      },
+      {
+        "id": "10367",
+        "label": "卡娜·阿尔贝罗纳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/eb/10367_crt_ZHR7Z.jpg",
+        "link": "https://bgm.tv/character/10367",
+        "categorie": "person"
+      },
+      {
+        "id": "10368",
+        "label": "蕾比·马库扎特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/2b/10368_crt_V2vZ0.jpg",
+        "link": "https://bgm.tv/character/10368",
+        "categorie": "person"
+      },
+      {
+        "id": "53794",
+        "label": "艾尔夫曼·斯特劳斯",
+        "info": "“妖精的尾巴”公会成员之一，是米拉珍的弟弟，丽莎娜的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/8d/53794_crt_pPAyc.jpg",
+        "link": "https://bgm.tv/character/53794",
+        "categorie": "person"
+      },
+      {
+        "id": "53795",
+        "label": "丽莎娜·斯特劳斯",
+        "info": "斯特劳斯家族的一员，米拉杰和艾尔夫曼的妹妹，跟米拉和艾尔夫曼一样拥有白色的头发和蓝色的瞳孔。是纳兹的青梅竹马，小时候曾表示想做纳兹的新娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/db/53795_crt_NaHan.jpg?r=1493874599",
+        "link": "https://bgm.tv/character/53795",
+        "categorie": "person"
+      },
+      {
+        "id": "53799",
+        "label": "基尔达斯·克莱维",
+        "info": "S級魔導士。カナの父。45歳で、左胸に黒い紋章がある。好きなものはギルド、嫌いなものはイワン・ドレアー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/c7/53799_crt_DvgyP.jpg?r=1493875812",
+        "link": "https://bgm.tv/character/53799",
+        "categorie": "person"
+      },
+      {
+        "id": "53815",
+        "label": "马卡罗夫·朵勒阿",
+        "info": "妖精的尾巴第三代会长，魔力和实力在圣十中名列前茅。对待公会成员温柔体贴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/c5/53815_crt_Uohzh.jpg",
+        "link": "https://bgm.tv/character/53815",
+        "categorie": "person"
+      },
+      {
+        "id": "53797",
+        "label": "拉克萨斯·朵勒阿",
+        "info": "S級魔導士。マカロフの実孫。23歳で、左胸下に黒い紋章がある。好きなものは最強、嫌いなものは弱者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/48/53797_crt_AACAK.jpg?r=1493875256",
+        "link": "https://bgm.tv/character/53797",
+        "categorie": "person"
+      },
+      {
+        "id": "53801",
+        "label": "菲利德·贾斯汀",
+        "info": "动漫《妖精的尾巴》人物之一，非常崇拜拉格萨斯，并且是拉克萨斯的亲卫队“雷神众”的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/66/53801_crt_yy7Sz.jpg",
+        "link": "https://bgm.tv/character/53801",
+        "categorie": "person"
+      },
+      {
+        "id": "53802",
+        "label": "艾芭葛琳",
+        "info": "「雷神衆」の紅一点。20歳で、右胸に黄緑の紋章がある。好きなものは妖精、嫌いなものは悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/27/53802_crt_NNuuU.jpg?r=1493876503",
+        "link": "https://bgm.tv/character/53802",
+        "categorie": "person"
+      },
+      {
+        "id": "53803",
+        "label": "毕可斯罗",
+        "info": "「雷神衆」の一員。22歳で、舌に黒い紋章がある。好きなものは魂、嫌いなものは白魔術。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/7d/53803_crt_vKWCl.jpg",
+        "link": "https://bgm.tv/character/53803",
+        "categorie": "person"
+      },
+      {
+        "id": "10369",
+        "label": "杰拉尔·费尔南迪斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/49/10369_crt_i0x83.jpg",
+        "link": "https://bgm.tv/character/10369",
+        "categorie": "person"
+      },
+      {
+        "id": "53796",
+        "label": "洛基",
+        "info": "背中に緑色の紋章がある。好きなものは女の子、嫌いなものは星霊魔導士（?）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/44/53796_crt_pXXNC.jpg?r=1493874926",
+        "link": "https://bgm.tv/character/53796",
+        "categorie": "person"
+      },
+      {
+        "id": "53798",
+        "label": "梅斯特·格莱德",
+        "info": "新生評議院諜報部に潜入していたスパイ。右肩に紋章がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/af/53798_crt_xIM9c.jpg?r=1493875655",
+        "link": "https://bgm.tv/character/53798",
+        "categorie": "person"
+      },
+      {
+        "id": "53800",
+        "label": "密斯特岗",
+        "info": "S級魔導士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/a0/53800_crt_Sm91h.jpg?r=1493875989",
+        "link": "https://bgm.tv/character/53800",
+        "categorie": "person"
+      },
+      {
+        "id": "10385",
+        "label": "阿尔扎克·可奈尔",
+        "info": "ビスカと同じく西部大陸からの移民。18歳⇒25歳（7年後）。好きなものはビスカとアスカ、嫌いなものは辛いもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/2f/10385_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10385",
+        "categorie": "person"
+      },
+      {
+        "id": "53807",
+        "label": "碧丝卡·穆兰",
+        "info": "西部大陸からの移民。18歳⇒25歳（7年後）。好きなものはアルザックとアスカ、嫌いなものは甘いもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/94/53807_crt_2Q8qA.jpg?r=1493877676",
+        "link": "https://bgm.tv/character/53807",
+        "categorie": "person"
+      },
+      {
+        "id": "54053",
+        "label": "明日香·可奈尔",
+        "info": "アルザックとビスカの娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/b1/54053_crt_29d4C.jpg?r=1495002948",
+        "link": "https://bgm.tv/character/54053",
+        "categorie": "person"
+      },
+      {
+        "id": "53804",
+        "label": "马卡欧·空波",
+        "info": "青年の頃からギルドに所属していた年輩の魔導士。36歳⇒43歳（7年後）で、右腕に紫色のギルドの紋章がある。好きなものは息子（ロメオ）、嫌いなものはローン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/41/53804_crt_v7ZxX.jpg?r=1493877051",
+        "link": "https://bgm.tv/character/53804",
+        "categorie": "person"
+      },
+      {
+        "id": "53805",
+        "label": "罗密欧·空波",
+        "info": "マカオの息子。6歳⇒13歳（7年後）で、左肩に赤いギルドの紋章がある。好きなものはギルド、嫌いなものは「黄昏の鬼」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/ed/53805_crt_lv1YY.jpg?r=1493877271",
+        "link": "https://bgm.tv/character/53805",
+        "categorie": "person"
+      },
+      {
+        "id": "54052",
+        "label": "波流西卡",
+        "info": "「妖精の尻尾」の顧問薬剤師。マカロフの古い友人で治癒魔導士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/dd/54052_crt_j7t53.jpg",
+        "link": "https://bgm.tv/character/54052",
+        "categorie": "person"
+      },
+      {
+        "id": "18444",
+        "label": "利昂·巴斯提亚",
+        "info": "グレイの兄弟子。別名「零帝」。19歳⇒26歳（7年後）で、右胸に紺色の紋章がある。好きなものはウル、嫌いなものはグレイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/1b/18444_crt_gCIW1.jpg",
+        "link": "https://bgm.tv/character/18444",
+        "categorie": "person"
+      },
+      {
+        "id": "54048",
+        "label": "乌鲁蒂亚·米尔科维奇",
+        "info": "元「悪魔の心臓」の一員で、「煉獄の七眷属」のリーダー。グレイの師であるウルの娘。背中に紋章がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/ab/54048_crt_723ii.jpg",
+        "link": "https://bgm.tv/character/54048",
+        "categorie": "person"
+      },
+      {
+        "id": "54049",
+        "label": "梅尔蒂",
+        "info": "元「悪魔の心臓」の一員で、「煉獄の七眷属」の一人。マントに紋章がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b8/54049_crt_46a6C.jpg",
+        "link": "https://bgm.tv/character/54049",
+        "categorie": "person"
+      },
+      {
+        "id": "21320",
+        "label": "响·雷提斯",
+        "info": "別名「白夜のヒビキ」。20歳⇒27歳（7年後）で、左肩に水色の紋章がある。好きなものは女性全員、嫌いなものは虫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/55/21320_crt_l1EMO.jpg",
+        "link": "https://bgm.tv/character/21320",
+        "categorie": "person"
+      },
+      {
+        "id": "54051",
+        "label": "安杰尔",
+        "info": "元「六魔将軍」の紅一点。「剣咬の虎」の一員であるユキノの姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/08/54051_crt_Ttahn.jpg",
+        "link": "https://bgm.tv/character/54051",
+        "categorie": "person"
+      },
+      {
+        "id": "53814",
+        "label": "吉娜娜",
+        "info": "好きなものは辛子、嫌いなものはヘビ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/73/53814_crt_s3VC2.jpg?r=1493879157",
+        "link": "https://bgm.tv/character/53814",
+        "categorie": "person"
+      },
+      {
+        "id": "54050",
+        "label": "克布拉",
+        "info": "元「六魔将軍」の一員。「毒竜のコブラ」の異名を持つ。背中に紫色の紋章がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/70/54050_crt_7CNoL.jpg",
+        "link": "https://bgm.tv/character/54050",
+        "categorie": "person"
+      },
+      {
+        "id": "54042",
+        "label": "斯汀·尤克利夫",
+        "info": "剑咬之虎公会的灭龙魔导士二人组之一的白龙，崇拜纳兹。是第三代灭龙魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/7e/54042_crt_nmwgx.jpg?r=1494999503",
+        "link": "https://bgm.tv/character/54042",
+        "categorie": "person"
+      },
+      {
+        "id": "54043",
+        "label": "罗格·切尼",
+        "info": "「剣咬の虎」最強の五人の一人。双竜の片割れ。「影竜のローグ」の異名を持つ。19歳（7年後）で、マントの左肩に白い紋章がある。好きなものはフロッシュ、嫌いなものは昼間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/a8/54043_crt_djEiu.jpg",
+        "link": "https://bgm.tv/character/54043",
+        "categorie": "person"
+      },
+      {
+        "id": "54044",
+        "label": "雷克特",
+        "info": "背中に桃色の紋章がある。好きなものはスティングくん、嫌いなものはいじめっ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/a5/54044_crt_gD6WF.jpg?r=1494999987",
+        "link": "https://bgm.tv/character/54044",
+        "categorie": "person"
+      },
+      {
+        "id": "54045",
+        "label": "弗洛修",
+        "info": "年齢は不明で、背中に黒いギルドの紋章がある。好きなものはカエル、嫌いなものはミミズ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/de/54045_crt_pCi6P.jpg?r=1495000084",
+        "link": "https://bgm.tv/character/54045",
+        "categorie": "person"
+      },
+      {
+        "id": "53806",
+        "label": "瓦卡巴·米涅",
+        "info": "青年の頃から「妖精の尻尾」に所属していた古株。36歳⇒43歳（7年後）で、右胸に黄色いギルドの紋章がある。好きなものは酒・タバコ・女、嫌いなものは嫁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/26/53806_crt_5tvD6.jpg?r=1493877442",
+        "link": "https://bgm.tv/character/53806",
+        "categorie": "person"
+      },
+      {
+        "id": "53808",
+        "label": "沃廉·拉考",
+        "info": "动漫《妖精的尾巴》人物之一。使用被称作传心术的心灵会话术魔法，战斗时可以读出对手的想法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/37/53808_crt_aVXxs.jpg?r=1493878099",
+        "link": "https://bgm.tv/character/53808",
+        "categorie": "person"
+      },
+      {
+        "id": "53809",
+        "label": "马库斯·阿罗泽",
+        "info": "动漫《妖精的尾巴》人物之一，魔导士公会妖精的尾巴成员之一，沙之魔法的魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/81/53809_crt_fTki8.jpg?r=1493878310",
+        "link": "https://bgm.tv/character/53809",
+        "categorie": "person"
+      },
+      {
+        "id": "53810",
+        "label": "里达素·炯纳",
+        "info": "《妖精的尾巴》人物之一。能让自己画的图活动并变成武器的魔法。绘画魔法的佼佼者。可是，并不是画在任何地方都能发动此魔法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/a7/53810_crt_4b7ri.jpg?r=1493878520",
+        "link": "https://bgm.tv/character/53810",
+        "categorie": "person"
+      },
+      {
+        "id": "53811",
+        "label": "拿布·拉萨罗",
+        "info": "左胸に紋章がある。好きなものはホラー小説、嫌いなものはセロリ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ac/53811_crt_1mMTB.jpg?r=1493878668",
+        "link": "https://bgm.tv/character/53811",
+        "categorie": "person"
+      },
+      {
+        "id": "53812",
+        "label": "比吉塔·艾可",
+        "info": "平时就很喜欢跳舞，在公会内部也经常会翩翩起舞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/5d/53812_crt_ciicT.jpg?r=1493878853",
+        "link": "https://bgm.tv/character/53812",
+        "categorie": "person"
+      },
+      {
+        "id": "53813",
+        "label": "乐琪·奥力埃塔",
+        "info": "好きなものは眼鏡、嫌いなものはHな人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/89/53813_crt_nZQ1I.jpg?r=1493878994",
+        "link": "https://bgm.tv/character/53813",
+        "categorie": "person"
+      },
+      {
+        "id": "18518",
+        "label": "雪乃·阿古丽亚",
+        "info": "水色のボブヘアに、薔薇の髪飾りが特徴の女性。星霊魔導士で、「黄道十二門」の星霊の鍵を2つ持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/4a/18518_crt_E41mf.jpg",
+        "link": "https://bgm.tv/character/18518",
+        "categorie": "person"
+      },
+      {
+        "id": "18519",
+        "label": "神楽 御神槌",
+        "info": "「人魚の踵」最強の魔導士。頭上にリボンをした、姫カットの女性。常に気丈とした態度の冷静な性格。怨刀「不倶戴天」を持つが、決まった相手にしかその刀を抜くことは無い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/36/18519_crt_5PVpR.jpg",
+        "link": "https://bgm.tv/character/18519",
+        "categorie": "person"
+      },
+      {
+        "id": "18520",
+        "label": "巴卡斯",
+        "info": "シニヨン風の髪型と、目元のしみが特徴の男。「酔いの鷹」の異名を持つ。「ワイルドフォー」と言うのがギルドメンバーとの掛け声。酒と女を好み、特に酒はカナと飲み比べて圧勝するほど。普段は酔っ払いの印象だが、S級相当の実力者で、手の平に魔力を集中させ武術で戦う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/b8/18520_crt_583HI.jpg",
+        "link": "https://bgm.tv/character/18520",
+        "categorie": "person"
+      },
+      {
+        "id": "54046",
+        "label": "米涅芭·奥兰多",
+        "info": "「剣咬の虎」最強の五人の一人。同所ギルドのマスターであったジエンマの娘。左腹部に青い紋章がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/2f/54046_crt_1l7Z9.jpg?r=1495000419",
+        "link": "https://bgm.tv/character/54046",
+        "categorie": "person"
+      },
+      {
+        "id": "54047",
+        "label": "米莉安娜",
+        "info": "人鱼之踵公会一员，艾尔莎的旧相识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/91/54047_crt_ZMd58.jpg?r=1495001216",
+        "link": "https://bgm.tv/character/54047",
+        "categorie": "person"
+      },
+      {
+        "id": "36849",
+        "label": "梅比斯·维维亚米利欧",
+        "info": "妖精尾巴初代会长，有着可爱的外表，善良的内心，极聪明的头脑和自身都无法低估的能力，创造了“妖精的法律’‘、’‘妖精的光辉’‘、’‘妖精之球’‘三大超魔法，另外还有着“妖精军师”的称号，大魔导演武展现她惊人的推算能力。现自身状况为已故。妖精的尾巴公会的终极武器光子重构为冰封的梅比斯的身体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/2d/36849_crt_7amsL.jpg",
+        "link": "https://bgm.tv/character/36849",
+        "categorie": "person"
+      },
+      {
+        "id": "12217",
+        "label": "妖精的尾巴",
+        "info": "光明行会之一，光明联盟一员，名望很高，行会内高手云集。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/41/12217_crt_WDh6O.jpg",
+        "link": "https://bgm.tv/character/12217",
+        "categorie": "person"
+      },
+      {
+        "id": "10370",
+        "label": "凯沙",
+        "info": "巨蟹宮の星霊。契約者はレイラ→ルーシィ。火曜・木曜・土曜・日曜に呼び出せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b5/10370_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10370",
+        "categorie": "person"
+      },
+      {
+        "id": "10383",
+        "label": "芭露歌",
+        "info": "処女宮の星霊。契約者はエバルー→ルーシィ。月曜〜土曜に呼び出せるが、呼ばれてもいないのに出てくることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/86/10383_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10383",
+        "categorie": "person"
+      },
+      {
+        "id": "53816",
+        "label": "杰米尼",
+        "info": "双子宮の星霊。契約者はエンジェル→ルーシィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/ec/53816_crt_4Ae5A.jpg?r=1493879983",
+        "link": "https://bgm.tv/character/53816",
+        "categorie": "person"
+      },
+      {
+        "id": "53817",
+        "label": "塔罗斯",
+        "info": "金牛宮の星霊。契約者はルーシィ。月曜・水曜・金曜・土曜に呼び出せるが、呼ばれてもいないのに出てくることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/38/53817_crt_GN08k.jpg?r=1493880149",
+        "link": "https://bgm.tv/character/53817",
+        "categorie": "person"
+      },
+      {
+        "id": "53818",
+        "label": "阿莉耶丝",
+        "info": "白羊宮の星霊。契約者はカレン→エンジェル→ルーシィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/a8/53818_crt_ZNc8I.jpg?r=1493880252",
+        "link": "https://bgm.tv/character/53818",
+        "categorie": "person"
+      },
+      {
+        "id": "53819",
+        "label": "斯卡皮欧",
+        "info": "天蝎宮の星霊。契約者はエンジェル→ルーシィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/12/53819_crt_lMUFk.jpg?r=1493880416",
+        "link": "https://bgm.tv/character/53819",
+        "categorie": "person"
+      },
+      {
+        "id": "53820",
+        "label": "萨奇达利乌斯",
+        "info": "人馬宮の星霊。契約者はルーシィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/38/53820_crt_yX5bf.jpg?r=1493880528",
+        "link": "https://bgm.tv/character/53820",
+        "categorie": "person"
+      },
+      {
+        "id": "53821",
+        "label": "阿葵亚",
+        "info": "宝瓶宮の星霊。契約者はレイラ→ルーシィ。水曜日に呼び出せる（後に呼び出せる曜日が増えた模様）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/cc/53821_crt_A7EC7.jpg?r=1493880671",
+        "link": "https://bgm.tv/character/53821",
+        "categorie": "person"
+      },
+      {
+        "id": "53822",
+        "label": "凯普利考恩",
+        "info": "磨羯宮の星霊。契約者はレイラ→ルーシィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/1a/53822_crt_r5YDD.jpg?r=1493880804",
+        "link": "https://bgm.tv/character/53822",
+        "categorie": "person"
+      },
+      {
+        "id": "53823",
+        "label": "莱布拉",
+        "info": "天秤宮の星霊。契約者はユキノ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/87/53823_crt_v7VW7.jpg?r=1493881013",
+        "link": "https://bgm.tv/character/53823",
+        "categorie": "person"
+      },
+      {
+        "id": "53824",
+        "label": "比斯凯斯",
+        "info": "双魚宮の星霊。契約者はユキノ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/ba/53824_crt_zCBqc.jpg",
+        "link": "https://bgm.tv/character/53824",
+        "categorie": "person"
+      },
+      {
+        "id": "13633",
+        "label": "普鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/e9/13633_crt_17i39.jpg",
+        "link": "https://bgm.tv/character/13633",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

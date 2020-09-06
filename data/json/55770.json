@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18101",
+        "label": "艾伦·耶格尔",
+        "info": "本作的男主角。15岁（835年生）。拥有强韧的精神力与非凡的行动力，对墙壁外的世界拥有比任何人都要高的憧憬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/2f/18101_crt_343At.jpg?r=1410320023",
+        "link": "https://bgm.tv/character/18101",
+        "categorie": "person"
+      },
+      {
+        "id": "18102",
+        "label": "三笠·阿克曼",
+        "info": "本作的女主角。15岁（835年生）。由于身为艾连的青梅竹马之故，两人经常一起行动。沉默寡言、表情稀少的美少女，有腹肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/40/18102_crt_efUIu.jpg?r=1561309019",
+        "link": "https://bgm.tv/character/18102",
+        "categorie": "person"
+      },
+      {
+        "id": "19616",
+        "label": "阿明·阿诺德",
+        "info": "艾连与米卡莎的儿时玩伴。15岁（835年生）。缺乏体力，身体能力也不高，本人说过，光是能通过毕业战斗模拟测验就已经是奇迹了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/67/19616_crt_88rMm.jpg?r=1410320151",
+        "link": "https://bgm.tv/character/19616",
+        "categorie": "person"
+      },
+      {
+        "id": "19622",
+        "label": "马可·波特",
+        "info": "第104期训练兵团第7名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/72/19622_crt_64o32.jpg?r=1410321346",
+        "link": "https://bgm.tv/character/19622",
+        "categorie": "person"
+      },
+      {
+        "id": "59318",
+        "label": "安卡·莱茵伯格",
+        "info": "棕发女子。达特·皮克希斯的左右手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/8d/59318_crt_f3VLD.jpg",
+        "link": "https://bgm.tv/character/59318",
+        "categorie": "person"
+      },
+      {
+        "id": "66731",
+        "label": "迪墨·利布斯",
+        "info": "利布斯商会会长。提供镇守托洛斯特区的士兵们粮食与武器，自认出资金者最大，认为自己的货物比居民的安危重要，受米卡莎威胁而改变做法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/60/66731_crt_n2RMp.jpg",
+        "link": "https://bgm.tv/character/66731",
+        "categorie": "person"
+      },
+      {
+        "id": "19619",
+        "label": "莎夏·布劳斯",
+        "info": "第104期训练兵团第9名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ac/19619_crt_ceQ3C.jpg?r=1532062264",
+        "link": "https://bgm.tv/character/19619",
+        "categorie": "person"
+      },
+      {
+        "id": "19620",
+        "label": "克里斯塔·连兹",
+        "info": "第104期训练兵团第10名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/b6/19620_crt_mvKGz.jpg?r=1410320875",
+        "link": "https://bgm.tv/character/19620",
+        "categorie": "person"
+      },
+      {
+        "id": "19633",
+        "label": "艾尔文·史密斯",
+        "info": "调查军团分队长→调查兵团第13任团长",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/c5/19633_crt_8hFNc.jpg?r=1410321853",
+        "link": "https://bgm.tv/character/19633",
+        "categorie": "person"
+      },
+      {
+        "id": "19546",
+        "label": "利威尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/b3/19546_crt_aDdZA.jpg?r=1373284119",
+        "link": "https://bgm.tv/character/19546",
+        "categorie": "person"
+      },
+      {
+        "id": "19625",
+        "label": "尤米尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/e7/19625_crt_GTq18.jpg?r=1410321733",
+        "link": "https://bgm.tv/character/19625",
+        "categorie": "person"
+      },
+      {
+        "id": "19623",
+        "label": "莱纳·布朗",
+        "info": "第104期训练兵团第2名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/c6/19623_crt_23cp2.jpg?r=1410321514",
+        "link": "https://bgm.tv/character/19623",
+        "categorie": "person"
+      },
+      {
+        "id": "26899",
+        "label": "韩吉·佐伊",
+        "info": "调查兵团第四分队长→调查兵团第14任团长。对巨人有着意外的热忱。有着强烈的热情及好奇心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/db/26899_crt_9Nrrt.jpg",
+        "link": "https://bgm.tv/character/26899",
+        "categorie": "person"
+      },
+      {
+        "id": "19617",
+        "label": "让·基尔休坦",
+        "info": "第104期训练兵团第6名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/76/19617_crt_5ffza.jpg?r=1410320344",
+        "link": "https://bgm.tv/character/19617",
+        "categorie": "person"
+      },
+      {
+        "id": "26901",
+        "label": "达特·皮克希斯",
+        "info": "駐屯兵団の司令官にしてトロスト区を含む南側領土を束ねる最高責任者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/73/26901_crt_lvEVP.jpg",
+        "link": "https://bgm.tv/character/26901",
+        "categorie": "person"
+      },
+      {
+        "id": "19621",
+        "label": "柯尼·史普林格",
+        "info": "第104期训练兵团第8名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/56/19621_crt_5FAy3.jpg?r=1410321103",
+        "link": "https://bgm.tv/character/19621",
+        "categorie": "person"
+      },
+      {
+        "id": "53110",
+        "label": "卡尔菈·耶格尔",
+        "info": "艾伦的母亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/54/53110_crt_8Nkzw.jpg?r=1491217049",
+        "link": "https://bgm.tv/character/53110",
+        "categorie": "person"
+      },
+      {
+        "id": "19618",
+        "label": "亚妮·雷恩哈特",
+        "info": "第104期训练兵团第4名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/aa/19618_crt_dOIIW.jpg?r=1493555519",
+        "link": "https://bgm.tv/character/19618",
+        "categorie": "person"
+      },
+      {
+        "id": "19624",
+        "label": "贝尔托特·胡佛",
+        "info": "第104期训练兵团第3名毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/31/19624_crt_DFAKn.jpg?r=1410321620",
+        "link": "https://bgm.tv/character/19624",
+        "categorie": "person"
+      },
+      {
+        "id": "59312",
+        "label": "凯奇",
+        "info": "登场于漫画27话，动画20话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/b5/59312_crt_Jm12p.jpg",
+        "link": "https://bgm.tv/character/59312",
+        "categorie": "person"
+      },
+      {
+        "id": "59307",
+        "label": "尼克神父",
+        "info": "初登场为动画第1集。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/f6/59307_crt_mjB84.jpg",
+        "link": "https://bgm.tv/character/59307",
+        "categorie": "person"
+      },
+      {
+        "id": "59309",
+        "label": "奇兹·威尔曼",
+        "info": "棕发的中年男子，留有络腮胡。托洛斯特区内的驻扎兵团队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/fb/59309_crt_S2Fqh.jpg",
+        "link": "https://bgm.tv/character/59309",
+        "categorie": "person"
+      },
+      {
+        "id": "59314",
+        "label": "达兹",
+        "info": "第104期训练兵团毕业生之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/3e/59314_crt_CXrcD.jpg",
+        "link": "https://bgm.tv/character/59314",
+        "categorie": "person"
+      },
+      {
+        "id": "59317",
+        "label": "フーゴ",
+        "info": "駐屯兵団所属の兵士。太めの体格にオールバック風の髪型の男性。ハンネスや仲間とともに飲んだくれており、その様子を怒るエレンを窘めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/1e/59317_crt_EpEAA.jpg",
+        "link": "https://bgm.tv/character/59317",
+        "categorie": "person"
+      },
+      {
+        "id": "59319",
+        "label": "ペール",
+        "info": "調査兵団兵士で、第49回壁外調査と第57回壁外調査に参加。ペールは漫画原作には登場しないアニオリのキャラクターである。ペールはアニメ本編とOVA『イルゼの手帳』に登場します。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/49/59319_crt_Mu11t.jpg",
+        "link": "https://bgm.tv/character/59319",
+        "categorie": "person"
+      },
+      {
+        "id": "26902",
+        "label": "黎各·布雷琴斯卡",
+        "info": "精鋭部隊班長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/88/26902_crt_4iw4R.jpg?r=1491217615",
+        "link": "https://bgm.tv/character/26902",
+        "categorie": "person"
+      },
+      {
+        "id": "26900",
+        "label": "欧鲁·波札德",
+        "info": "特別作戦班所属の男性兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/bb/26900_crt_4fu1D.jpg",
+        "link": "https://bgm.tv/character/26900",
+        "categorie": "person"
+      },
+      {
+        "id": "26903",
+        "label": "艾鲁多・琴",
+        "info": "特別作戦班所属の男性兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/86/26903_crt_UyDyn.jpg",
+        "link": "https://bgm.tv/character/26903",
+        "categorie": "person"
+      },
+      {
+        "id": "26904",
+        "label": "格达·修兹",
+        "info": "特別作戦班所属の男性兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/ed/26904_crt_30JLQ.jpg",
+        "link": "https://bgm.tv/character/26904",
+        "categorie": "person"
+      },
+      {
+        "id": "21331",
+        "label": "佩托拉·拉尔",
+        "info": "隶属于调查兵团特别作战小组。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/24/21331_crt_y33aE.jpg?r=1410321930",
+        "link": "https://bgm.tv/character/21331",
+        "categorie": "person"
+      },
+      {
+        "id": "28283",
+        "label": "米可·萨卡利亚斯",
+        "info": "调查兵团第二分队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8a/28283_crt_b6lhK.jpg",
+        "link": "https://bgm.tv/character/28283",
+        "categorie": "person"
+      },
+      {
+        "id": "28276",
+        "label": "基斯·沙迪斯",
+        "info": "训练兵团第104期的教官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/4f/28276_crt_CcVdf.jpg",
+        "link": "https://bgm.tv/character/28276",
+        "categorie": "person"
+      },
+      {
+        "id": "28277",
+        "label": "汉尼斯",
+        "info": "飲んだくれの駐屯兵団所属の兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/e7/28277_crt_uiCz3.jpg?r=1418020463",
+        "link": "https://bgm.tv/character/28277",
+        "categorie": "person"
+      },
+      {
+        "id": "28279",
+        "label": "希琪·朵丽丝",
+        "info": "第104期训练兵毕业生之一和斯托贝斯区宪兵团支部的新兵之一，亚妮的宪兵团同僚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/cd/28279_crt_frb3F.jpg",
+        "link": "https://bgm.tv/character/28279",
+        "categorie": "person"
+      },
+      {
+        "id": "28280",
+        "label": "马尔洛·桑德",
+        "info": "原为第104期训练兵毕业生之一和斯托贝斯区宪兵团支部的新兵之一，亚妮的宪兵团同僚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/77/28280_crt_6D46G.jpg",
+        "link": "https://bgm.tv/character/28280",
+        "categorie": "person"
+      },
+      {
+        "id": "53109",
+        "label": "格里夏·耶格尔",
+        "info": "艾伦的父亲，职业是医生",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/4e/53109_crt_SOx8E.jpg?r=1491216913",
+        "link": "https://bgm.tv/character/53109",
+        "categorie": "person"
+      },
+      {
+        "id": "28278",
+        "label": "纳拿巴",
+        "info": "登场于漫画27话，动画20话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/05/28278_crt_pIPId.jpg",
+        "link": "https://bgm.tv/character/28278",
+        "categorie": "person"
+      },
+      {
+        "id": "28274",
+        "label": "莫布里特·柏纳",
+        "info": "调查兵团第四分队副分队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/8f/28274_crt_uyxsl.jpg",
+        "link": "https://bgm.tv/character/28274",
+        "categorie": "person"
+      },
+      {
+        "id": "53106",
+        "label": "托马斯·瓦格纳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/fd/53106_crt_N8nG1.jpg?r=1491215942",
+        "link": "https://bgm.tv/character/53106",
+        "categorie": "person"
+      },
+      {
+        "id": "21118",
+        "label": "米娜·卡罗莱纳",
+        "info": "　　米娜·卡罗莱纳（ミーナ·カロライナ，Mina Carolina，声：安济知佳）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/f5/21118_crt_W5coc.jpg?r=1410321909",
+        "link": "https://bgm.tv/character/21118",
+        "categorie": "person"
+      },
+      {
+        "id": "53104",
+        "label": "弗兰兹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/13/53104_crt_f88y6.jpg?r=1491215683",
+        "link": "https://bgm.tv/character/53104",
+        "categorie": "person"
+      },
+      {
+        "id": "53105",
+        "label": "汉娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/93/53105_crt_kze4N.jpg?r=1491215762",
+        "link": "https://bgm.tv/character/53105",
+        "categorie": "person"
+      },
+      {
+        "id": "53107",
+        "label": "米塔比·亚尔纳哈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/83/53107_crt_U6i9U.jpg?r=1491216535",
+        "link": "https://bgm.tv/character/53107",
+        "categorie": "person"
+      },
+      {
+        "id": "53108",
+        "label": "伊安·迪特里希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/7d/53108_crt_4rrRv.jpg?r=1491216690",
+        "link": "https://bgm.tv/character/53108",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

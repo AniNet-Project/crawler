@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14950",
+        "label": "西见薰",
+        "info": "本作の主人公。船乗りの父親の仕事の都合で、幼い頃から何度も転校を繰り返してきた。秀才で真面目だが、繊細で人付き合いも苦手。ある時からストレスで吐く癖がついてしまう。伯父の家に居候しているが、年下のいとこと伯母に嫌味を言われる日々を送っており、窮屈な思いをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/d3/14950_crt_J5G6Z.jpg",
+        "link": "https://bgm.tv/character/14950",
+        "categorie": "person"
+      },
+      {
+        "id": "14951",
+        "label": "川渊千太郎",
+        "info": "大柄で野蛮な少年。豪快かつ型破りな性格で、学校中から「札付きのワル」と恐れられているが、面倒見が良く正義感も強い。クリスチャン。首に母親の形見のロザリオを下げている。律子とは幼なじみ。日本とアメリカのハーフだが、日本人の母親は千太郎を残して姿を消し、叔父夫婦に引き取られた。妹と弟（叔父の子）が2人ずつおり、とても慕われている。百合香のことを好きになる。サラ･ボーンという鳩を飼っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/70/14951_crt_j2JD2.jpg",
+        "link": "https://bgm.tv/character/14951",
+        "categorie": "person"
+      },
+      {
+        "id": "14952",
+        "label": "迎律子",
+        "info": "薫のクラスのクラス委員。そばかす顔の少女。純粋で優しい性格。クリスチャン。家はレコード店。千太郎の幼なじみで、面倒見がよく素朴な子。千太郎を好きだったが、薫の優しさに惹かれていき、薫と両想いに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/42/14952_crt_oBeD7.jpg",
+        "link": "https://bgm.tv/character/14952",
+        "categorie": "person"
+      },
+      {
+        "id": "14953",
+        "label": "深堀百合香",
+        "info": "薫達の上級生。ミステリアスな雰囲気を持つ美少女。薫・千太郎・律子が3人で遊びに行った時、不良に絡まれているところを千太郎に助けられる。淳一のことが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/64/14953_crt_Mzztt.jpg",
+        "link": "https://bgm.tv/character/14953",
+        "categorie": "person"
+      },
+      {
+        "id": "14954",
+        "label": "桂木淳一",
+        "info": "律子の隣人で、家は『しらゆり』というケーキ店。東京の大学に通っている。トランペット奏者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/21/14954_crt_a3ADY.jpg",
+        "link": "https://bgm.tv/character/14954",
+        "categorie": "person"
+      },
+      {
+        "id": "14955",
+        "label": "丸尾重虎",
+        "info": "薫たちのクラスメイト。メガネをかけた小太りの、人の良さそうな少年。無線部に入っており、趣味はQSLカード集め。薫を無線部に勧誘するがあっさり断られる。兄がベンチャーズのファンで、その影響で実はギターの腕前もなかなか。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/61/14955_crt_ixm3n.jpg",
+        "link": "https://bgm.tv/character/14955",
+        "categorie": "person"
+      },
+      {
+        "id": "14956",
+        "label": "松冈星儿",
+        "info": "2年に進級し、千太郎と同じクラスになった。歌を歌うのが好きで、将来は上京してスターになり、兄弟や両親を楽させるのが夢で、そのために方言を使わないように心がけている。千太郎をロックバンドに誘う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/2d/14956_crt_O0x38.jpg",
+        "link": "https://bgm.tv/character/14956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

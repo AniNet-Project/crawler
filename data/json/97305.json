@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10570",
+        "label": "两仪式",
+        "info": "　　两仪式是奈须きのこ笔下人物，《空之境界》的主角。她最有代表性的一句话“只要是活着的东西，即使是神也杀给你看！”（生きたものでさえすれば、たとえ神だとしても、殺して見せである）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/4f/10570_crt_pp75y.jpg?r=1534586952",
+        "link": "https://bgm.tv/character/10570",
+        "categorie": "person"
+      },
+      {
+        "id": "10902",
+        "label": "黑桐干也",
+        "info": "《空之境界》男主角。看似没有任何特异能力以及潮流感的男人，除了人缘好之外似乎没有其他特点，然而却意外的有着连橙子也为之惊讶的资料搜查能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e4/10902_crt_6bkUi.jpg",
+        "link": "https://bgm.tv/character/10902",
+        "categorie": "person"
+      },
+      {
+        "id": "23626",
+        "label": "宫月理理栖",
+        "info": "礼園女学院の生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/cc/23626_crt_46ZWS.jpg?r=1394339574",
+        "link": "https://bgm.tv/character/23626",
+        "categorie": "person"
+      },
+      {
+        "id": "10722",
+        "label": "浅上藤乃",
+        "info": "荒耶宗莲为了得到两仪式而利用的三个祭品中的一人。“接触死亡而快乐的存在不适合者（原文引用）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ae/10722_crt_pF32m.jpg",
+        "link": "https://bgm.tv/character/10722",
+        "categorie": "person"
+      },
+      {
+        "id": "3205",
+        "label": "苍崎橙子",
+        "info": "　　奈须小说《空之境界》中的最高位的人形使，整部《空之境界》的故事导向者。礼园女学院的校友，被魔术协会制定封印的人偶师。个性独特，二十多岁就升到支配者层级，有魔眼，拥有魔术回路二十左右。虽身为魔术师却有接近魔法使的实力。在魔术协会学习期间以追求肉体的原型为目标，结识了同样研究卢文字和人偶制作的柯尼勒斯·阿鲁巴和追求魂之原型的荒耶宗莲，对荒耶有着相当复杂的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/1d/3205_crt_41oeX.jpg?r=1498990565",
+        "link": "https://bgm.tv/character/3205",
+        "categorie": "person"
+      },
+      {
+        "id": "10592",
+        "label": "黑桐鲜花",
+        "info": "　《空之境界》中的角色",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ac/10592_crt_ivZRW.jpg",
+        "link": "https://bgm.tv/character/10592",
+        "categorie": "person"
+      },
+      {
+        "id": "8890",
+        "label": "濑尾静音",
+        "info": "黑桐鲜花在礼园女学院的室友，有著未来视的能力。饲养着一条叫做Akira的狗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/c3/8890_crt_uMT3X.jpg?r=1393233681",
+        "link": "https://bgm.tv/character/8890",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

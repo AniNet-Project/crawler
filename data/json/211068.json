@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10721",
+        "label": "奇诺",
+        "info": "声 - 前田愛 / 悠木碧 / 久川綾（ラジオドラマ・電撃FC）",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/65/10721_crt_d72zI.jpg",
+        "link": "https://bgm.tv/character/10721",
+        "categorie": "person"
+      },
+      {
+        "id": "52330",
+        "label": "汉密斯",
+        "info": "声 - 相ヶ瀬龍史 / 斉藤壮馬 / 野田順子（ラジオドラマ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/7e/52330_crt_Z0T18.jpg",
+        "link": "https://bgm.tv/character/52330",
+        "categorie": "person"
+      },
+      {
+        "id": "56245",
+        "label": "伙伴",
+        "info": "声 - 千葉進歩(PS2游戏) / 興津和幸",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/8e/56245_crt_U823s.jpg",
+        "link": "https://bgm.tv/character/56245",
+        "categorie": "person"
+      },
+      {
+        "id": "56237",
+        "label": "西兹",
+        "info": "第三主线的主角。某国的王子，武器是一把武士刀，具有积极助人的个性，开着跟自己有相同命运的越野车以及会说话的狗“陆”一起旅行。旅行的目的是找可以移民的地方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/09/56237_crt_2xXsc.jpg",
+        "link": "https://bgm.tv/character/56237",
+        "categorie": "person"
+      },
+      {
+        "id": "56238",
+        "label": "陆",
+        "info": "有着一副看起来开心笑脸的可爱大白狗，虽然他并不是真的很开心，跟西兹一起旅行，会跟汉密斯斗嘴。原形应是作者养的同名萨摩耶犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/c1/56238_crt_SAA1l.jpg",
+        "link": "https://bgm.tv/character/56238",
+        "categorie": "person"
+      },
+      {
+        "id": "56239",
+        "label": "蒂",
+        "info": "声 - 能登麻美子(PS2游戏) / 佐倉綾音",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/6e/56239_crt_V2B8l.jpg",
+        "link": "https://bgm.tv/character/56239",
+        "categorie": "person"
+      },
+      {
+        "id": "56243",
+        "label": "师父",
+        "info": "師匠（ししょう） / レジー",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a4/56243_crt_wZTzg.jpg",
+        "link": "https://bgm.tv/character/56243",
+        "categorie": "person"
+      },
+      {
+        "id": "59704",
+        "label": "旅人奇诺",
+        "info": "旅行者，网络上也称之为“前奇诺”。在路过主角所在的国家——大人之国向主角灌输了身为旅行者的思想后，主角因为不想成为大人而不愿进行改做手术，该国家要杀掉当时11岁的主角时，舍身挡下刺向主角的刀并当场死去，自此主角便以奇诺之名旅行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/62/59704_crt_F080f.jpg?r=1513356136",
+        "link": "https://bgm.tv/character/59704",
+        "categorie": "person"
+      },
+      {
+        "id": "58178",
+        "label": "芙特",
+        "info": "国から旅商人たちに代金の代わりとして売られてしまった身寄りの無い孤児。真面目で誠実な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b8/58178_crt_43n9W.jpg",
+        "link": "https://bgm.tv/character/58178",
+        "categorie": "person"
+      },
+      {
+        "id": "58179",
+        "label": "苏",
+        "info": "小さな折りたたみ式のモトラド。とある出来事をきっかけにフォトと行動をともにすることに。口は悪いが、純粋で天然で世俗に疎いフォトを気にかけて、いろいろと指南してくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/8b/58179_crt_CxKxl.jpg",
+        "link": "https://bgm.tv/character/58179",
+        "categorie": "person"
+      },
+      {
+        "id": "66462",
+        "label": "樱",
+        "info": "声 - 八武崎碧（現・悠木碧） / 天野心愛 / 佐藤朱（ドラマCD版）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f2/66462_crt_9g9p6.jpg?r=1538398766",
+        "link": "https://bgm.tv/character/66462",
+        "categorie": "person"
+      },
+      {
+        "id": "59200",
+        "label": "男",
+        "info": "等待恋人归来的男青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/97/59200_crt_AY7mR.jpg",
+        "link": "https://bgm.tv/character/59200",
+        "categorie": "person"
+      },
+      {
+        "id": "59201",
+        "label": "女",
+        "info": "照顾男青年的家政妇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/1a/59201_crt_0A0vv.jpg",
+        "link": "https://bgm.tv/character/59201",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

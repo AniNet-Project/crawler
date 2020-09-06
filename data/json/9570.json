@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4613",
+        "label": "多纳泰罗",
+        "info": "Donatello is the Turtle that is commonly accepted to be the smartest of the group, specifically in matters related to scientific pursuits and technology. He is an accomplished inventor who is able to develop multiple advanced devices with minimal resources, which he devotes to helping himself and his brothers. In most incarnations, he wears a purple bandana and wields a Bō staff.",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/ae/4613_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4613",
+        "categorie": "person"
+      },
+      {
+        "id": "17515",
+        "label": "列奥纳多",
+        "info": "队长，戴蓝色眼罩，武器是双刀，四神龟中最为年长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/4e/17515_crt_4rt0J.jpg",
+        "link": "https://bgm.tv/character/17515",
+        "categorie": "person"
+      },
+      {
+        "id": "17516",
+        "label": "米开朗基罗",
+        "info": "戴橙色眼罩，武器是双截棍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/4c/17516_crt_p3agj.jpg",
+        "link": "https://bgm.tv/character/17516",
+        "categorie": "person"
+      },
+      {
+        "id": "28305",
+        "label": "拉斐尔",
+        "info": "Raphael is the Turtle best known for his sarcastic mouth and hair-trigger temper, which are present in almost all incarnations of the character. He is characterized by a red headband, being the only one of the four to wear it in all forms in media, and wields two Sai in combat.",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/d8/28305_crt_MpSvP.jpg",
+        "link": "https://bgm.tv/character/28305",
+        "categorie": "person"
+      },
+      {
+        "id": "81328",
+        "label": "艾蓓丽尔·奥尼尔",
+        "info": "April O'Neil is a young human woman who has appeared in virtually every version of the Teenage Mutant Ninja Turtles franchise. April is usually the Ninja Turtles' first human ally in most incarnations, and is generally portrayed as being a very good friend of the Turtles: Leonardo, Donatello, Raphael, and Michelangelo, often acting as a big sister or surrogate mother to them. April's love interest in the franchise is oftentimes Casey Jones, who is also a close friend and human ally of the Turtles.",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/60/81328_crt_M1hVU.jpg",
+        "link": "https://bgm.tv/character/81328",
+        "categorie": "person"
+      },
+      {
+        "id": "4614",
+        "label": "斯普林特",
+        "info": "Splinter, is a mutant rat and an important character in each incarnation of the TMNT franchise, serving as the teacher, martial arts instructor, and foster father of the Ninja Turtles. In some incarnations, he is a mutated or reincarnated Hamato Yoshi; in others, he was Yoshi's pet rat who is sometimes known as Hamato Splinter.",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/c0/4614_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4614",
+        "categorie": "person"
+      },
+      {
+        "id": "81221",
+        "label": "斯莱德",
+        "info": "The Shredder is the archenemy of Splinter and the Turtles in TMNT history, and usually serves as the main antagonist, Oroku Saki.",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/7d/81221_crt_AAf5H.jpg",
+        "link": "https://bgm.tv/character/81221",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

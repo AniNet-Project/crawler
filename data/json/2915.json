@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8486",
+        "label": "仰木高耶",
+        "info": "本作の主人公。長野県松本市在住の城北高校二年生。16歳。7月23日生まれ。身長178.5cm。血液型はO型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/56/8486_crt_m3G3b.jpg",
+        "link": "https://bgm.tv/character/8486",
+        "categorie": "person"
+      },
+      {
+        "id": "10874",
+        "label": "直江信纲",
+        "info": "高耶の前に現れた謎の青年でもう一人の主人公。現名は橘義明。夜叉衆参謀で景虎（高耶）の後見人。28歳。5月3日生まれ。身長187cm。血液型はAB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/f4/10874_crt_ejK6K.jpg",
+        "link": "https://bgm.tv/character/10874",
+        "categorie": "person"
+      },
+      {
+        "id": "43513",
+        "label": "门协绫子",
+        "info": "柿崎晴家の換生者。ソバージュの長い髪をなびかせるスレンダー美女。21歳現役女子大生。12月9日生まれ。血液型はA型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/d7/43513_crt_wMjPI.jpg?r=1468941510",
+        "link": "https://bgm.tv/character/43513",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15897",
+        "label": "砚周",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/ee/15897_crt_094di.jpg",
+        "link": "https://bgm.tv/character/15897",
+        "categorie": "person"
+      },
+      {
+        "id": "15898",
+        "label": "边见瑞纪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/3e/15898_crt_ujRsa.jpg",
+        "link": "https://bgm.tv/character/15898",
+        "categorie": "person"
+      },
+      {
+        "id": "15899",
+        "label": "娘蜘蛛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e8/15899_crt_hoGKp.jpg",
+        "link": "https://bgm.tv/character/15899",
+        "categorie": "person"
+      },
+      {
+        "id": "15900",
+        "label": "月吠庵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/92/15900_crt_C8cAf.jpg",
+        "link": "https://bgm.tv/character/15900",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

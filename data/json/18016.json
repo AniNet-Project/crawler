@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2054",
+        "label": "宫藤芳佳",
+        "info": "隶属扶桑皇国海军遣欧舰队第24航空战队288航空队，军衔为军曹（OVA版为上等飞行兵曹，剧场版为少尉）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/b8/2054_crt_Zpv82.jpg?r=1554891766",
+        "link": "https://bgm.tv/character/2054",
+        "categorie": "person"
+      },
+      {
+        "id": "15150",
+        "label": "服部静夏",
+        "info": "强袭魔女剧场版原创角色。扶桑皇国海军兵学校飞行学生，军衔军曹，爱媛县出身，但因家里的关系而移居横须贺。因发现其身为魔女的力量，而志愿成为飞行预科生，以优秀的成绩学习着，并借此推荐进入兵学校接受军官训练。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/81/15150_crt_eDu3u.jpg?r=1528121832",
+        "link": "https://bgm.tv/character/15150",
+        "categorie": "person"
+      },
+      {
+        "id": "2050",
+        "label": "坂本美绪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c7/2050_crt_O5Z02.jpg?r=1555512310",
+        "link": "https://bgm.tv/character/2050",
+        "categorie": "person"
+      },
+      {
+        "id": "13068",
+        "label": "莉涅特·毕晓普",
+        "info": "年龄15岁，身高156厘米，生日6月11日，通称“莉涅”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/6f/13068_crt_5hUhq.jpg?r=1556120225",
+        "link": "https://bgm.tv/character/13068",
+        "categorie": "person"
+      },
+      {
+        "id": "2045",
+        "label": "佩琳·克洛斯特曼",
+        "info": "年龄15岁，身高152厘米，生日2月28日。通称“克洛斯特”“Bleu Premier”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/2d/2045_crt_lw3pN.jpg?r=1528122738",
+        "link": "https://bgm.tv/character/2045",
+        "categorie": "person"
+      },
+      {
+        "id": "13067",
+        "label": "明娜·迪特琳德·威尔克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/f3/13067_crt_W93I5.jpg?r=1528122793",
+        "link": "https://bgm.tv/character/13067",
+        "categorie": "person"
+      },
+      {
+        "id": "2086",
+        "label": "歌尔特露德·巴克霍隆",
+        "info": "隶属卡尔斯兰空军JG52第2飞行队司令，军衔上尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/b5/2086_crt_9097d.jpg?r=1528122878",
+        "link": "https://bgm.tv/character/2086",
+        "categorie": "person"
+      },
+      {
+        "id": "13071",
+        "label": "艾莉卡·哈特曼",
+        "info": "隶属卡尔斯兰空军JG52的超级王牌，军衔中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/b9/13071_crt_vaXyr.jpg?r=1528122926",
+        "link": "https://bgm.tv/character/13071",
+        "categorie": "person"
+      },
+      {
+        "id": "2039",
+        "label": "弗朗切斯卡·鲁基尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/64/2039_crt_70RcI.jpg?r=1528122970",
+        "link": "https://bgm.tv/character/2039",
+        "categorie": "person"
+      },
+      {
+        "id": "13070",
+        "label": "夏洛特·E·叶格",
+        "info": "隶属利比里昂陆军第363战斗飞行队，军衔上尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/2b/13070_crt_tt38c.jpg?r=1528123013",
+        "link": "https://bgm.tv/character/13070",
+        "categorie": "person"
+      },
+      {
+        "id": "2095",
+        "label": "桑妮亚·V·利特维亚克",
+        "info": "出身于欧拉西亚帝国，军衔中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/06/2095_crt_0h1IG.jpg?r=1528123073",
+        "link": "https://bgm.tv/character/2095",
+        "categorie": "person"
+      },
+      {
+        "id": "2093",
+        "label": "艾拉·伊尔马塔·尤蒂莱南",
+        "info": "隶属索穆斯空军飞行第24战队，军衔少尉，是北欧索穆斯的顶级王牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/04/2093_crt_aNLCN.jpg?r=1528123125",
+        "link": "https://bgm.tv/character/2093",
+        "categorie": "person"
+      },
+      {
+        "id": "69687",
+        "label": "山川美千子",
+        "info": "所属：扶桑皇国横須賀第四女子中学校（第1期）→横浜の師範学校（第2期以降）",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/58/69687_crt_4ZOdJ.jpg",
+        "link": "https://bgm.tv/character/69687",
+        "categorie": "person"
+      },
+      {
+        "id": "17678",
+        "label": "海德玛瑞·W·施瑙佛",
+        "info": "隶属卡尔斯兰空军第1夜间战斗航空团第4飞行队，军衔上尉。剧场版中军衔少佐。是卡尔斯兰最强的夜战魔女，1944年末在夜间战斗即到达100架的击坠数。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/24/17678_crt_nrkNx.jpg",
+        "link": "https://bgm.tv/character/17678",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17724",
+        "label": "妮卡·爱德华汀·卡塔雅南",
+        "info": "隶属索穆斯空军第24战斗机队第三中队，军衔曹长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1d/17724_crt_xxUMH.jpg?r=1463127540",
+        "link": "https://bgm.tv/character/17724",
+        "categorie": "person"
+      },
+      {
+        "id": "17723",
+        "label": "亚历珊朵拉·I·波克尔什金",
+        "info": "隶属第16亲卫战斗机连队长，后来转入第502统合战斗航空团（战斗队长）。军衔上尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/54/17723_crt_rghJO.jpg?r=1463127190",
+        "link": "https://bgm.tv/character/17723",
+        "categorie": "person"
+      },
+      {
+        "id": "17679",
+        "label": "海茵莉凯·祖·塞因·维特根斯坦女亲王",
+        "info": "家系是起源于欧拉西亚，移民卡尔斯兰的名门贵族。是对欧洲各国具有影响力的名门。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/cd/17679_crt_KVi2K.jpg?r=1528112237",
+        "link": "https://bgm.tv/character/17679",
+        "categorie": "person"
+      },
+      {
+        "id": "42067",
+        "label": "管野直枝",
+        "info": "原隶属扶桑皇国海军遣欧舰队第201航空战队的王牌，后加入第502统合战斗航空团。军衔中尉，惯用飞行脚为紫电二一型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/46/42067_crt_IKIBq.jpg",
+        "link": "https://bgm.tv/character/42067",
+        "categorie": "person"
+      },
+      {
+        "id": "42068",
+        "label": "瓦尔特鲁德·库宾斯基",
+        "info": "原隶属卡尔斯兰空军JG52的超级王牌，后加入第502统合战斗航空团。军衔中尉，惯用飞行脚为Bf-109K-4。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ff/42068_crt_IBW36.jpg",
+        "link": "https://bgm.tv/character/42068",
+        "categorie": "person"
+      },
+      {
+        "id": "42069",
+        "label": "乔洁特·莱马尔",
+        "info": "原隶属自由高卢空军诺曼第1大队的王牌，后加入第502统合战斗航空团。军衔少尉，惯用飞行脚为 Arsenal VG-39。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/f9/42069_crt_eQ5KQ.jpg",
+        "link": "https://bgm.tv/character/42069",
+        "categorie": "person"
+      },
+      {
+        "id": "42070",
+        "label": "下原定子",
+        "info": "原隶属扶桑皇国海军遣欧舰队第24航空战队的王牌，后加入第502统合战斗航空团。军衔少尉，惯用飞行脚为紫电二一型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/9e/42070_crt_kIVFl.jpg",
+        "link": "https://bgm.tv/character/42070",
+        "categorie": "person"
+      },
+      {
+        "id": "42071",
+        "label": "艾迪塔·罗斯曼",
+        "info": "原隶属卡尔斯兰空军JG52的王牌，后加入第502统合战斗航空团担任教官。军衔曹长，惯用飞行脚为Bf-109G-2。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/94/42071_crt_L9l1F.jpg?r=1528104830",
+        "link": "https://bgm.tv/character/42071",
+        "categorie": "person"
+      },
+      {
+        "id": "39486",
+        "label": "昆杜菈·拉尔",
+        "info": "原隶属卡尔斯兰空军JG52的超级王牌，担任第502统合战斗航空团（勇气魔女）队长，军衔上尉（后来晋升少校），惯用飞行脚为BF-109系列，武器是MG42，使魔是狼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/c7/39486_crt_fgjzZ.jpg?r=1463127435",
+        "link": "https://bgm.tv/character/39486",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

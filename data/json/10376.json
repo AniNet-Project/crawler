@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22495",
+        "label": "椎名翼",
+        "info": "北海道に住む小学4年生の少女。心優しいものの内向的な性格であり、何事にも悲観的になりがちである。父親との2人暮らし（母親はすでに他界している）だが、父親はパン職人の修行に没頭しており、家ではほとんど1人で過ごしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/a7/22495_crt_33u0k.jpg",
+        "link": "https://bgm.tv/character/22495",
+        "categorie": "person"
+      },
+      {
+        "id": "7394",
+        "label": "椎名光",
+        "info": "D.D随身携带的备份用\"Rebels\"请求官方正式名称[›](リベルズ)在不明原因之下意外与翼结合变身并因此诞生的少女。于诞生的同时继承翼原有的长相、记忆加以共享，拥有与翼相反的乐观开朗与具有正义感的正面性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/2e/7394_crt_CY5Qv.jpg",
+        "link": "https://bgm.tv/character/7394",
+        "categorie": "person"
+      },
+      {
+        "id": "7406",
+        "label": "堂本大辅",
+        "info": "外星人警察。因为太空船一时的事故而在地球上迫降，然后在受伤的时候遇到了翼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/52/7406_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7406",
+        "categorie": "person"
+      },
+      {
+        "id": "24801",
+        "label": "欧尔迪娜",
+        "info": "D.D的同僚。为了支援D.D的击退任务而来到地球。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/7e/24801_crt_000p2.jpg",
+        "link": "https://bgm.tv/character/24801",
+        "categorie": "person"
+      },
+      {
+        "id": "7396",
+        "label": "萩原健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/06/7396_crt_anidb.jpg?r=1566818987",
+        "link": "https://bgm.tv/character/7396",
+        "categorie": "person"
+      },
+      {
+        "id": "7398",
+        "label": "伊藤典子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/39/7398_crt_anidb.jpg?r=1571152574",
+        "link": "https://bgm.tv/character/7398",
+        "categorie": "person"
+      },
+      {
+        "id": "7399",
+        "label": "泽田美奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/45/7399_crt_anidb.jpg?r=1566818982",
+        "link": "https://bgm.tv/character/7399",
+        "categorie": "person"
+      },
+      {
+        "id": "7401",
+        "label": "椎名英夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/91/7401_crt_anidb.jpg?r=1566818975",
+        "link": "https://bgm.tv/character/7401",
+        "categorie": "person"
+      },
+      {
+        "id": "7403",
+        "label": "茨城新一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/e8/7403_crt_anidb.jpg?r=1566818967",
+        "link": "https://bgm.tv/character/7403",
+        "categorie": "person"
+      },
+      {
+        "id": "7404",
+        "label": "茨城樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/c5/7404_crt_anidb.jpg?r=1566818962",
+        "link": "https://bgm.tv/character/7404",
+        "categorie": "person"
+      },
+      {
+        "id": "7405",
+        "label": "黑田勇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/5e/7405_crt_anidb.jpg?r=1566818804",
+        "link": "https://bgm.tv/character/7405",
+        "categorie": "person"
+      },
+      {
+        "id": "24802",
+        "label": "唐泽飞鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/01/24802_crt_WRw8u.jpg",
+        "link": "https://bgm.tv/character/24802",
+        "categorie": "person"
+      },
+      {
+        "id": "24803",
+        "label": "小川真二",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/02/24803_crt_8qXQr.jpg?r=1571152564",
+        "link": "https://bgm.tv/character/24803",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

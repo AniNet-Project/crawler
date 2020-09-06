@@ -1,0 +1,461 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35675",
+        "label": "佐藤和真",
+        "info": "本作的主人公，是个喜欢电玩、动画、漫画的茧居尼特高中生。某天偶尔外出时碰上交通意外而身亡（被车子吓死）之后，带着阿克娅一起转生到异世界去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1d/35675_crt_9UAbW.jpg?r=1486080586",
+        "link": "https://bgm.tv/character/35675",
+        "categorie": "person"
+      },
+      {
+        "id": "35678",
+        "label": "阿克娅",
+        "info": "指引英年早逝者的女神，因为惹火和真而被和真指定为携带的东西而与和真一起转生到异世界。在那里,她是阿克西斯教团祭拜的神体，“阿克娅女神”本尊……话虽如此，却没任何人相信这件事。有着水蓝色的及腰长发跟眼睛，年龄不祥（自称跟和真差不多），职业是大祭司。因为是神体的关系所以能力值一开始就封顶，也习得了“大祭司”“宴会才艺”（杂耍）的所有技能，甚至具有碰到液体就能将其净化的体质，但却有着有别于她美少女形象的傲娇个性。做事常常少一根筋，常常对和真颐指气使，但遇到挫折或害怕的事就会像小孩一样嚎啕大哭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/b4/35678_crt_eiT0T.jpg?r=1486082939",
+        "link": "https://bgm.tv/character/35678",
+        "categorie": "person"
+      },
+      {
+        "id": "35681",
+        "label": "惠惠",
+        "info": "自称红魔族当中首屈一指的天才魔法师，黑发红眼，年龄14岁，职业是大魔法师。深受名为“爆裂魔法”的最强魔法之魅力所吸引，所以只会用这招，也只肯用这招。是个有严重的中二病的萝莉，最喜欢的东西、专长、兴趣都是爆裂魔法，不过因为本人自身魔力不够高的关系，一天的魔力只够用一发爆裂魔法，用完就会不支倒地。因为家庭的经济关系而外出找工作，并以此为契机加入和真的小队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/ba/35681_crt_vjSjx.jpg?r=1509793412",
+        "link": "https://bgm.tv/character/35681",
+        "categorie": "person"
+      },
+      {
+        "id": "35683",
+        "label": "达克妮斯",
+        "info": "外表是个金发碧眼，身材丰满的冰山美人，但真正的本性是有重度受虐癖和妄想癖的大抖M，年龄18岁，职业是防御力最高的“十字骑士”。（而选择这个职业是因为遭受怪物攻击对她而言是种快感，并将之当成一种SM玩法并乐在其中）力气很大，但因为没有习得攻击类技能所以攻击命中率超低。是贵族家的千金，所以对平民生活不是很了解。似乎对和真抱有异性的感情？",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/ba/35683_crt_z6ZKg.jpg?r=1486083433",
+        "link": "https://bgm.tv/character/35683",
+        "categorie": "person"
+      },
+      {
+        "id": "35684",
+        "label": "克莉丝",
+        "info": "职业是盗贼的白发少女，达克妮丝的好友。也是教和真“Steal”的人。一开始想占和真便宜，但却反被偷走内裤。在王都时偷走众多贵族家的财物并分发出去而被称为义贼，但本人表示只是顺便而已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/28/35684_crt_GDekg.jpg?r=1486084838",
+        "link": "https://bgm.tv/character/35684",
+        "categorie": "person"
+      },
+      {
+        "id": "35685",
+        "label": "厄里斯",
+        "info": "国教“艾莉丝教”的神体，是个白发及腰的蓝眼美少女，为阿克娅的后辈，年龄不详。（外表16岁左右）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ca/35685_crt_Z82rR.jpg?r=1486083779",
+        "link": "https://bgm.tv/character/35685",
+        "categorie": "person"
+      },
+      {
+        "id": "35686",
+        "label": "维斯",
+        "info": "魔王军的干部之一，“维斯魔道具店”的店主，是个外表20岁的褐色卷发美女。曾是个著名的大魔法师，退休后隐居在新手的城镇里当道具店的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/94/35686_crt_80eWH.jpg?r=1486084592",
+        "link": "https://bgm.tv/character/35686",
+        "categorie": "person"
+      },
+      {
+        "id": "35687",
+        "label": "芸芸",
+        "info": "惠惠的朋友兼竞争对手，黑发红眼，与惠惠一样是14岁，职业是大魔法师，是红魔族族长的女儿，跟惠惠的关系好到接近百合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/33/35687_crt_3mMEl.jpg?r=1486082474",
+        "link": "https://bgm.tv/character/35687",
+        "categorie": "person"
+      },
+      {
+        "id": "36486",
+        "label": "露娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/37/36486_crt_fX8Of.jpg?r=1486087003",
+        "link": "https://bgm.tv/character/36486",
+        "categorie": "person"
+      },
+      {
+        "id": "38358",
+        "label": "小米",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/19/38358_crt_4nXWA.jpg",
+        "link": "https://bgm.tv/character/38358",
+        "categorie": "person"
+      },
+      {
+        "id": "38490",
+        "label": "御剑响夜",
+        "info": "跟和真一样从日本转生过来的冒险者，职业是剑术大师。因为有阿克娅给的魔剑，所以在异世界的生活一直相当优渥，也因此而有点自大。在遇见和真的小队后立刻向和真要求决斗想把阿克娅带走，但却被打晕并被和真拿走魔剑卖掉。似乎因为这样而造成心理创伤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/48/38490_crt_xDBZS.jpg?r=1486080801",
+        "link": "https://bgm.tv/character/38490",
+        "categorie": "person"
+      },
+      {
+        "id": "49994",
+        "label": "瑟娜",
+        "info": "王国検察官。長い黒髪の明晰そうな女性。20歳。婚活中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/c0/49994_crt_np66X.jpg?r=1486079374",
+        "link": "https://bgm.tv/character/49994",
+        "categorie": "person"
+      },
+      {
+        "id": "49995",
+        "label": "阿列克谢·巴尼斯·阿尔达普",
+        "info": "アクセルの街を含む領地の領主。大柄で太った好色な中年男で、絵に描いたような悪徳領主。予ねてからダクネスに入れ込んでおり度々婚姻を申し込んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/e9/49995_crt_M8OYo.jpg?r=1484189793",
+        "link": "https://bgm.tv/character/49995",
+        "categorie": "person"
+      },
+      {
+        "id": "49996",
+        "label": "裁判官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/b6/49996_crt_Tn64K.jpg?r=1486079752",
+        "link": "https://bgm.tv/character/49996",
+        "categorie": "person"
+      },
+      {
+        "id": "50565",
+        "label": "基尔",
+        "info": "かつて凄腕と謡われたアークウィザード。愛する女性を守るためにリッチーになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/c1/50565_crt_1iaDl.jpg?r=1485410652",
+        "link": "https://bgm.tv/character/50565",
+        "categorie": "person"
+      },
+      {
+        "id": "50659",
+        "label": "达斯特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/af/50659_crt_fkFFN.jpg?r=1485875079",
+        "link": "https://bgm.tv/character/50659",
+        "categorie": "person"
+      },
+      {
+        "id": "50662",
+        "label": "巴尼尔",
+        "info": "魔王军的干部之一，也是维兹少数的朋友。自称“地狱的公爵，看透一切的恶魔”“或许比魔王还强的巴尼尔先生”，基本上以分身行动，面具才是本体。分身的外表是个戴着面具、身穿燕尾服的男性。喜欢调戏人类并吸取羞耻性的负面感情，所以坚持“不伤害人类”的原则。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/48/50662_crt_FejPE.jpg?r=1486084451",
+        "link": "https://bgm.tv/character/50662",
+        "categorie": "person"
+      },
+      {
+        "id": "50665",
+        "label": "豆助",
+        "info": "惠惠的使魔，是只背上有小翅膀的黑色母猫。吃鱼之前还会喷火烤鱼，只有被和真看过，和真说给其他人听，但没有人相信。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/38/50665_crt_cCaSi.jpg?r=1485707015",
+        "link": "https://bgm.tv/character/50665",
+        "categorie": "person"
+      },
+      {
+        "id": "50677",
+        "label": "沃尔巴克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/31/50677_crt_2u32h.jpg?r=1485707511",
+        "link": "https://bgm.tv/character/50677",
+        "categorie": "person"
+      },
+      {
+        "id": "50738",
+        "label": "汉斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/47/50738_crt_31DmM.jpg?r=1485872268",
+        "link": "https://bgm.tv/character/50738",
+        "categorie": "person"
+      },
+      {
+        "id": "50861",
+        "label": "アレクセイ・バーネス・バルター",
+        "info": "アルダープの息子。アルダープが「拾って来た」と回想していることから養子であることが窺える。父親とは似ても似つかぬ爽やかな好青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/02/50861_crt_625t5.jpg?r=1486087813",
+        "link": "https://bgm.tv/character/50861",
+        "categorie": "person"
+      },
+      {
+        "id": "36487",
+        "label": "粗暴者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/b7/36487_crt_zKzRk.jpg?r=1485701806",
+        "link": "https://bgm.tv/character/36487",
+        "categorie": "person"
+      },
+      {
+        "id": "39431",
+        "label": "贝尔迪亚",
+        "info": "魔王軍の幹部の一人。デュラハン(テレビアニメ版ではこちらでクレジットされた)。恐ろしげな容姿とは裏腹に良識的な性格。騎士としての誇りが高く、基本的に一般人には危害を加えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/a1/39431_crt_bnTMN.jpg?r=1486077716",
+        "link": "https://bgm.tv/character/39431",
+        "categorie": "person"
+      },
+      {
+        "id": "50566",
+        "label": "国王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/ef/50566_crt_yUZxz.jpg?r=1485410727",
+        "link": "https://bgm.tv/character/50566",
+        "categorie": "person"
+      },
+      {
+        "id": "50663",
+        "label": "泰勒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/87/50663_crt_Xr85Y.jpg?r=1485720253",
+        "link": "https://bgm.tv/character/50663",
+        "categorie": "person"
+      },
+      {
+        "id": "50673",
+        "label": "ダスティネス・フォード・イグニス",
+        "info": "达克尼斯的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/60/50673_crt_W9603.jpg?r=1485720612",
+        "link": "https://bgm.tv/character/50673",
+        "categorie": "person"
+      },
+      {
+        "id": "50713",
+        "label": "公会的女招待",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/f7/50713_crt_erOxz.jpg?r=1485790593",
+        "link": "https://bgm.tv/character/50713",
+        "categorie": "person"
+      },
+      {
+        "id": "50718",
+        "label": "クレメア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/6a/50718_crt_rYh62.jpg?r=1485788430",
+        "link": "https://bgm.tv/character/50718",
+        "categorie": "person"
+      },
+      {
+        "id": "50720",
+        "label": "フィオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/47/50720_crt_sTFH0.jpg?r=1485789776",
+        "link": "https://bgm.tv/character/50720",
+        "categorie": "person"
+      },
+      {
+        "id": "50721",
+        "label": "セドル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/43/50721_crt_xq0x2.jpg?r=1485875490",
+        "link": "https://bgm.tv/character/50721",
+        "categorie": "person"
+      },
+      {
+        "id": "50722",
+        "label": "ヘインズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/94/50722_crt_l125p.jpg",
+        "link": "https://bgm.tv/character/50722",
+        "categorie": "person"
+      },
+      {
+        "id": "50723",
+        "label": "ガリル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/dc/50723_crt_Sf26u.jpg?r=1485875553",
+        "link": "https://bgm.tv/character/50723",
+        "categorie": "person"
+      },
+      {
+        "id": "50863",
+        "label": "女仆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d9/50863_crt_FV42O.jpg",
+        "link": "https://bgm.tv/character/50863",
+        "categorie": "person"
+      },
+      {
+        "id": "51354",
+        "label": "铁匠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/96/51354_crt_q6J34.jpg",
+        "link": "https://bgm.tv/character/51354",
+        "categorie": "person"
+      },
+      {
+        "id": "51867",
+        "label": "魔法使",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/a4/51867_crt_VJPx3.jpg",
+        "link": "https://bgm.tv/character/51867",
+        "categorie": "person"
+      },
+      {
+        "id": "51868",
+        "label": "盗贼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/f6/51868_crt_81UZ6.jpg",
+        "link": "https://bgm.tv/character/51868",
+        "categorie": "person"
+      },
+      {
+        "id": "51869",
+        "label": "御者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/a6/51869_crt_kIc3o.jpg",
+        "link": "https://bgm.tv/character/51869",
+        "categorie": "person"
+      },
+      {
+        "id": "51870",
+        "label": "オーナー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/37/51870_crt_8WB53.jpg",
+        "link": "https://bgm.tv/character/51870",
+        "categorie": "person"
+      },
+      {
+        "id": "51875",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/e8/51875_crt_LGe45.jpg",
+        "link": "https://bgm.tv/character/51875",
+        "categorie": "person"
+      },
+      {
+        "id": "51876",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/89/51876_crt_gc8i4.jpg",
+        "link": "https://bgm.tv/character/51876",
+        "categorie": "person"
+      },
+      {
+        "id": "51877",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ee/51877_crt_3sj88.jpg?r=1538558228",
+        "link": "https://bgm.tv/character/51877",
+        "categorie": "person"
+      },
+      {
+        "id": "51878",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/e2/51878_crt_d4zm0.jpg",
+        "link": "https://bgm.tv/character/51878",
+        "categorie": "person"
+      },
+      {
+        "id": "51879",
+        "label": "自称同级生的女生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ff/51879_crt_9fSQr.jpg",
+        "link": "https://bgm.tv/character/51879",
+        "categorie": "person"
+      },
+      {
+        "id": "51880",
+        "label": "服务生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/7f/51880_crt_RWVrJ.jpg",
+        "link": "https://bgm.tv/character/51880",
+        "categorie": "person"
+      },
+      {
+        "id": "51881",
+        "label": "入教书的小女孩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/6b/51881_crt_W6Lms.jpg",
+        "link": "https://bgm.tv/character/51881",
+        "categorie": "person"
+      },
+      {
+        "id": "51882",
+        "label": "阿库西斯教的老婆婆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/41/51882_crt_t7l9Z.jpg",
+        "link": "https://bgm.tv/character/51882",
+        "categorie": "person"
+      },
+      {
+        "id": "50661",
+        "label": "奇斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/4e/50661_crt_05226.jpg?r=1485719142",
+        "link": "https://bgm.tv/character/50661",
+        "categorie": "person"
+      },
+      {
+        "id": "50664",
+        "label": "凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/69/50664_crt_iqySU.jpg?r=1485690217",
+        "link": "https://bgm.tv/character/50664",
+        "categorie": "person"
+      },
+      {
+        "id": "50687",
+        "label": "公会的女招待",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/dd/50687_crt_nrKJK.jpg?r=1485790569",
+        "link": "https://bgm.tv/character/50687",
+        "categorie": "person"
+      },
+      {
+        "id": "50688",
+        "label": "公会的女招待",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/f1/50688_crt_54Ixt.jpg?r=1485790577",
+        "link": "https://bgm.tv/character/50688",
+        "categorie": "person"
+      },
+      {
+        "id": "50716",
+        "label": "魔法使",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/65/50716_crt_trhX7.jpg?r=1485790535",
+        "link": "https://bgm.tv/character/50716",
+        "categorie": "person"
+      },
+      {
+        "id": "50726",
+        "label": "受付嬢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/00/50726_crt_0QXw7.jpg?r=1485875401",
+        "link": "https://bgm.tv/character/50726",
+        "categorie": "person"
+      },
+      {
+        "id": "51871",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/fd/51871_crt_61i72.jpg",
+        "link": "https://bgm.tv/character/51871",
+        "categorie": "person"
+      },
+      {
+        "id": "51872",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/07/51872_crt_zrn9H.jpg",
+        "link": "https://bgm.tv/character/51872",
+        "categorie": "person"
+      },
+      {
+        "id": "51873",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/0c/51873_crt_WWNmo.jpg",
+        "link": "https://bgm.tv/character/51873",
+        "categorie": "person"
+      },
+      {
+        "id": "51874",
+        "label": "阿库西斯教徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/b6/51874_crt_sl7wV.jpg",
+        "link": "https://bgm.tv/character/51874",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

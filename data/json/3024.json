@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "2608",
+        "label": "エンテイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/56/2608_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2608",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12814",
+        "label": "小霞",
+        "info": "小霞（英文：Misty，日文：カスミ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪》的女主角。她的梦想是成为世界上最伟大的口袋妖怪水系训练家。她拥有海星星、波克基古及太阳珊瑚等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/29/12814_crt_ARhGn.jpg?r=1582457732",
+        "link": "https://bgm.tv/character/12814",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "30707",
+        "label": "未知图腾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/16/30707_crt_juRjA.jpg",
+        "link": "https://bgm.tv/character/30707",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "3658",
+        "label": "小次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/06/3658_crt_Ce2Gz.jpg?r=1472497255",
+        "link": "https://bgm.tv/character/3658",
+        "categorie": "person"
+      },
+      {
+        "id": "9779",
+        "label": "大木雪成",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/58/9779_crt_GPXdr.jpg",
+        "link": "https://bgm.tv/character/9779",
+        "categorie": "person"
+      },
+      {
+        "id": "14548",
+        "label": "小建",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/1a/14548_crt_SXxXS.jpg",
+        "link": "https://bgm.tv/character/14548",
+        "categorie": "person"
+      },
+      {
+        "id": "2417",
+        "label": "菊草叶",
+        "info": "菊草叶是种主要色调是淡绿色的小型宝可梦，头上有一片深绿色的叶子，脖子长著一圈芽。跟身体其他部位相比头部相当大，红色的大眼中看上去没有瞳孔，四只短脚分别有一根带指甲的脚趾，它还有一条小小的尾巴。它最大的特点是头上的大叶子，叶片长度常常超过身体其他部份的长度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/d5/2417_crt_4zYJL.jpg",
+        "link": "https://bgm.tv/character/2417",
+        "categorie": "person"
+      },
+      {
+        "id": "2418",
+        "label": "小锯鳄",
+        "info": "小锯鳄是个蓝色双足的小鳄鱼。拥有发达的下颚，上颌有两颗尖牙，下颌两侧各有一排三颗尖牙，肚子上有著浅黄色像V形的条纹，一直延伸到臂部，背部有四个红色的角，手掌长有五爪，脚则有三趾。它眼瞳为红色的，眼睛周围有著黑色的花纹。小锯鳄通常活泼好动，对任何事物都感到好奇，也受许多训练家的喜爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/8e/2418_crt_NvVYG.jpg",
+        "link": "https://bgm.tv/character/2418",
+        "categorie": "person"
+      },
+      {
+        "id": "3223",
+        "label": "火箭队",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/73/3223_crt_AxCA8.jpg",
+        "link": "https://bgm.tv/character/3223",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

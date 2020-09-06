@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6801",
+        "label": "早濑未沙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b3/6801_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6801",
+        "categorie": "person"
+      },
+      {
+        "id": "6654",
+        "label": "林明美",
+        "info": "名前の漢字表記は「鈴 明美」,中国語圏におけるテレビ放送では姓を林（リン）とした「林明美」表記が見られる。アルファベット表記は「Linn Minmei」（ピン音表記では「Ling Mingmei」）。ポスター、アルバムなどでは「Lynn Minmay」表記が多く見られる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/83/6654_crt_e9Pxm.jpg?r=1406412826",
+        "link": "https://bgm.tv/character/6654",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

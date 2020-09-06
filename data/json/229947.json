@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36029",
+        "label": "小日向光",
+        "info": "物語の主人公その1。15歳。身長148センチメートル、1月31日生まれ、みずがめ座のO型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/bf/36029_crt_rGru2.jpg?r=1468034536",
+        "link": "https://bgm.tv/character/36029",
+        "categorie": "person"
+      },
+      {
+        "id": "36030",
+        "label": "大木双叶",
+        "info": "主人公その2。この物語の主観視点人物でもある。16歳。身長170センチメートル、4月3日生まれ、牡羊座のAB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/bc/36030_crt_LwRpP.jpg?r=1522598481",
+        "link": "https://bgm.tv/character/36030",
+        "categorie": "person"
+      },
+      {
+        "id": "36031",
+        "label": "二宫爱",
+        "info": "静岡県立夢ヶ丘高校2年3組。ダイビング部部長。16歳。身長160センチメートル、1月7日生まれ、山羊座のA型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/8f/36031_crt_n88G1.jpg?r=1522602861",
+        "link": "https://bgm.tv/character/36031",
+        "categorie": "person"
+      },
+      {
+        "id": "36032",
+        "label": "二宫诚",
+        "info": "愛の双子の弟で、通称「弟くん（先輩）」。静岡県立夢ヶ丘高校2年生。ダイビング部部員。16歳。身長178センチメートル、1月7日生まれ、山羊座のA型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/3f/36032_crt_V53qe.jpg?r=1461837679",
+        "link": "https://bgm.tv/character/36032",
+        "categorie": "person"
+      },
+      {
+        "id": "36033",
+        "label": "火鸟真斗",
+        "info": "光と同じく、スキューバダイビングが趣味。入学式の登校時の道中で、光と競争を繰り広げたのち、ダイビング仲間と知り意気投合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/4a/36033_crt_GWGVo.jpg?r=1461837774",
+        "link": "https://bgm.tv/character/36033",
+        "categorie": "person"
+      },
+      {
+        "id": "36034",
+        "label": "茶顾问",
+        "info": "高校の校長の飼いネコ。ちょくちょく学校へ連れてくる模様、ダイビング部に居るところを飼い猫と知らなかった光が「ちゃ」と勝手に命名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/13/36034_crt_U9Ama.jpg",
+        "link": "https://bgm.tv/character/36034",
+        "categorie": "person"
+      },
+      {
+        "id": "36037",
+        "label": "小日向木灵",
+        "info": "光の妹で初登場時は中学生。年齢、身長、誕生日、血液型は不明。昔は光と一緒によく潜っていた。小学生の頃、光とともにミドルライセンス（ジュニア・オープンウォーター・ダイバー認定）を受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/29/36037_crt_efuYM.jpg?r=1461836210",
+        "link": "https://bgm.tv/character/36037",
+        "categorie": "person"
+      },
+      {
+        "id": "36038",
+        "label": "岬小鸟",
+        "info": "こだまの中学時代からの友人。年齢、身長、誕生日、血液型は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/ff/36038_crt_tn69b.jpg",
+        "link": "https://bgm.tv/character/36038",
+        "categorie": "person"
+      },
+      {
+        "id": "36039",
+        "label": "岬心",
+        "info": "地元の子供で、ことりの弟。初登場時は11歳。身長128センチメートル、3月3日生まれ、B型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/f0/36039_crt_DMWvV.jpg",
+        "link": "https://bgm.tv/character/36039",
+        "categorie": "person"
+      },
+      {
+        "id": "36040",
+        "label": "小日向纪乃",
+        "info": "今現在は海の家とダイビングサービスを営んでいる。真斗も常連のようで顔見知り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/28/36040_crt_9t3Tf.jpg?r=1461837935",
+        "link": "https://bgm.tv/character/36040",
+        "categorie": "person"
+      },
+      {
+        "id": "63400",
+        "label": "彼得",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/99/63400_crt_NJX2O.jpg?r=1525922232",
+        "link": "https://bgm.tv/character/63400",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

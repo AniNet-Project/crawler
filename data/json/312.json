@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5087",
+        "label": "哈尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/c6/5087_crt_sD1jd.jpg?r=1446190179",
+        "link": "https://bgm.tv/character/5087",
+        "categorie": "person"
+      },
+      {
+        "id": "8267",
+        "label": "ソフィーハッター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/07/8267_crt_EK6Kb.jpg",
+        "link": "https://bgm.tv/character/8267",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

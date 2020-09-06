@@ -1,0 +1,989 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12814",
+        "label": "小霞",
+        "info": "小霞（英文：Misty，日文：カスミ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪》的女主角。她的梦想是成为世界上最伟大的口袋妖怪水系训练家。她拥有海星星、波克基古及太阳珊瑚等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/29/12814_crt_ARhGn.jpg?r=1582457732",
+        "link": "https://bgm.tv/character/12814",
+        "categorie": "person"
+      },
+      {
+        "id": "14541",
+        "label": "小茂",
+        "info": "小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak）是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，在神奥地区进行化石宝可梦的相关研究，梦想是成为像他爷爷一样的宝可梦博士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/e9/14541_crt_kUPKu.jpg",
+        "link": "https://bgm.tv/character/14541",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "14548",
+        "label": "小建",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/1a/14548_crt_SXxXS.jpg",
+        "link": "https://bgm.tv/character/14548",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "3658",
+        "label": "小次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/06/3658_crt_Ce2Gz.jpg?r=1472497255",
+        "link": "https://bgm.tv/character/3658",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "1967",
+        "label": "妙蛙种子",
+        "info": "妙蛙种子是爬行动物形态的宝可梦，外表类似蟾蜍或小型恐龙。它的皮肤呈蓝绿色，并附有深绿色的斑纹。它有四条腿，每条腿有三个白色的尖爪子。它有着鲜红色的眼睛，在头顶上长着类似耳朵一样的一对凸起，并且有着一张大嘴，上颚的两颗牙齿清晰可见。这个宝可梦最显著的特点就是它背后那个洋葱状的鳞茎。这个鳞茎与宝可梦有着共生关系，从它出生起，鳞茎就在它的背上开始生长了。鳞茎通过白天的光合作用为妙蛙种子提供能量，同时鳞茎含有的许多能吸取养分的种子使得鳞茎能在夜间保持强劲长势。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/2d/1967_crt_anidb.jpg?r=1507957704",
+        "link": "https://bgm.tv/character/1967",
+        "categorie": "person"
+      },
+      {
+        "id": "1990",
+        "label": "杰尼龟",
+        "info": "杰尼龟是以双足行走为主的乌龟外形的宝可梦。其身体呈亮蓝色，圆形的头部可以提高杰尼龟游泳的速度。眼睛是紫色的。前后肢都有是三趾，而且很短。它长有小型波浪状的尾巴。杰尼龟的躯干藏在龟壳里。龟壳的背面是褐色的，腹部的龟壳为淡黄色，两部分之间有着白色的波浪型边缘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/5f/1990_crt_QAGZn.jpg",
+        "link": "https://bgm.tv/character/1990",
+        "categorie": "person"
+      },
+      {
+        "id": "2244",
+        "label": "コイル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/47/2244_crt_anidb.jpg?r=1524492880",
+        "link": "https://bgm.tv/character/2244",
+        "categorie": "person"
+      },
+      {
+        "id": "2251",
+        "label": "ベトベター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e2/2251_crt_anidb.jpg?r=1480704438",
+        "link": "https://bgm.tv/character/2251",
+        "categorie": "person"
+      },
+      {
+        "id": "2253",
+        "label": "大舌贝",
+        "info": "大舌贝是水属性宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/6c/2253_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2253",
+        "categorie": "person"
+      },
+      {
+        "id": "2260",
+        "label": "イワーク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/b8/2260_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2260",
+        "categorie": "person"
+      },
+      {
+        "id": "2268",
+        "label": "マルマイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/8e/2268_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2268",
+        "categorie": "person"
+      },
+      {
+        "id": "2272",
+        "label": "カラカラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/33/2272_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2272",
+        "categorie": "person"
+      },
+      {
+        "id": "2278",
+        "label": "ドガース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/7e/2278_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2278",
+        "categorie": "person"
+      },
+      {
+        "id": "2280",
+        "label": "マタドガス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/16/2280_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2280",
+        "categorie": "person"
+      },
+      {
+        "id": "2313",
+        "label": "タッツー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/ac/2313_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2313",
+        "categorie": "person"
+      },
+      {
+        "id": "2315",
+        "label": "トサキント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/bf/2315_crt_anidb.jpg?r=1524464316",
+        "link": "https://bgm.tv/character/2315",
+        "categorie": "person"
+      },
+      {
+        "id": "2318",
+        "label": "ヒトデマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/6f/2318_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2318",
+        "categorie": "person"
+      },
+      {
+        "id": "2321",
+        "label": "魔墙人偶",
+        "info": "魔墙人偶长得有点像人类，在它的四根指头上都长着一个吸盘，除了战斗以外，它还是做家务的好帮手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/1c/2321_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2321",
+        "categorie": "person"
+      },
+      {
+        "id": "2323",
+        "label": "迷唇姐",
+        "info": "迷唇姐（日文︰ルージュラ，英文︰Jynx）是冰属性和超能力属性宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/98/2323_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2323",
+        "categorie": "person"
+      },
+      {
+        "id": "2329",
+        "label": "コイキング",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/53/2329_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2329",
+        "categorie": "person"
+      },
+      {
+        "id": "2331",
+        "label": "拉普拉斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/34/2331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2331",
+        "categorie": "person"
+      },
+      {
+        "id": "2344",
+        "label": "フリーザー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/28/2344_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2344",
+        "categorie": "person"
+      },
+      {
+        "id": "2345",
+        "label": "サンダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/b0/2345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2345",
+        "categorie": "person"
+      },
+      {
+        "id": "2346",
+        "label": "ファイヤー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/76/2346_crt_anidb.jpg?r=1421030999",
+        "link": "https://bgm.tv/character/2346",
+        "categorie": "person"
+      },
+      {
+        "id": "2347",
+        "label": "迷你龙",
+        "info": "迷你龙是日本任天堂公司发售的掌机游戏《口袋妖怪》系列和根据它改编的动画《神奇宝贝》中登场的虚构角色怪兽中的一种。迷你龙在神奇宝贝图鉴中，排名第147号。迷你龙的身体主要为蓝色，肚皮为白色。它有一对迷人的眼睛和翅膀形状的耳朵。虽然迷你龙是龙系的小精灵，但是它能够学习很多不同系的功击。在动画片中，迷你龙最早在第35集“迷你龙的传说”中出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/39/2347_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2347",
+        "categorie": "person"
+      },
+      {
+        "id": "2351",
+        "label": "梦幻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/bd/2351_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2351",
+        "categorie": "person"
+      },
+      {
+        "id": "2609",
+        "label": "洛奇亚",
+        "info": "洛奇亚的肚子、眼睛周围像面罩一样的物体、背上的突起是蓝色的,其余部分均为白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/23/2609_crt_aZVtt.jpg",
+        "link": "https://bgm.tv/character/2609",
+        "categorie": "person"
+      },
+      {
+        "id": "14550",
+        "label": "大木茂",
+        "info": "小智的劲敌，同是出身于真新镇，是大木博士的孙子，全名为大木茂。动画版小智的对手。原来的目标是成为神奇宝贝大师。小茂之后改变志向，换为成为神奇宝贝研究者，到现在主要在神奥地方进行研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/63/14550_crt_a2cDf.jpg",
+        "link": "https://bgm.tv/character/14550",
+        "categorie": "person"
+      },
+      {
+        "id": "30792",
+        "label": "胖丁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/41/30792_crt_dZf65.jpg",
+        "link": "https://bgm.tv/character/30792",
+        "categorie": "person"
+      },
+      {
+        "id": "47815",
+        "label": "花子",
+        "info": "花子是动画中的小智的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/66/47815_crt_nRQpt.jpg?r=1477716961",
+        "link": "https://bgm.tv/character/47815",
+        "categorie": "person"
+      },
+      {
+        "id": "53320",
+        "label": "乔伊",
+        "info": "乔伊小姐是在世界各地的宝可梦中心工作的护士，以宝可梦中心护士为原型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/18/53320_crt_fgwvw.jpg?r=1526649198",
+        "link": "https://bgm.tv/character/53320",
+        "categorie": "person"
+      },
+      {
+        "id": "65974",
+        "label": "马志士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/42/65974_crt_5tvTM.jpg",
+        "link": "https://bgm.tv/character/65974",
+        "categorie": "person"
+      },
+      {
+        "id": "66618",
+        "label": "莉佳",
+        "info": "玉虹道馆的道馆馆主，擅长草属性，在战斗中战胜她的训练家能获得到彩虹徽章。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/99/66618_crt_OWPhW.jpg?r=1582458068",
+        "link": "https://bgm.tv/character/66618",
+        "categorie": "person"
+      },
+      {
+        "id": "75314",
+        "label": "模仿少女",
+        "info": "模仿少女（日文︰モノマネむすめ，英文︰Copycat），《精灵宝可梦》系列角色，是住在金黄市的一个女孩，擅长模仿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/d9/75314_crt_ORnbb.jpg?r=1582860229",
+        "link": "https://bgm.tv/character/75314",
+        "categorie": "person"
+      },
+      {
+        "id": "75316",
+        "label": "娜姿",
+        "info": "娜姿（日文︰ナツメ，英文︰Sabrina）是金黄市官方的道馆——金黄道馆的道馆馆主，专长为超能力属性，在战斗中战胜她的训练家能获得到金色徽章。她是个拥有超能力的女士，就此训练超能力属性宝可梦。宝可梦《黑２／白２》中，她在宝可梦好莱坞里当演员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/92/75316_crt_c85Fs.jpg?r=1582457827",
+        "link": "https://bgm.tv/character/75316",
+        "categorie": "person"
+      },
+      {
+        "id": "1987",
+        "label": "小火龙",
+        "info": "小火龙是两足爬行动物形态的宝可梦，有一些恐龙的特征，类似于兽脚亚目食肉恐龙。小火龙周身呈橙色，肚子和尾巴下方是奶油色的。可以看见有四颗小小的牙齿分立在它的上下颚。小火龙眼睛呈蓝色。它拥有较短的四肢，并且有四根极短的手指和三根脚爪。它最显着的特点是它的尾巴尖在出生时就有燃烧着的火焰。火焰反映了它的健康状况和心情：身体健康时火焰变旺，虚弱时火焰变弱，开心时火焰左右摇摆，愤怒时火焰剧烈燃烧。据说，如果火焰熄灭这只宝可梦就会死亡，虽然这从来没有在动画、漫画或游戏中发生过。但有时在动画中，的确会以尾巴火焰的强弱来表示小火龙（或其进化形）身体状况的好坏。尾巴上的火焰就算碰到水也不会消失，只要活著就会继续燃烧。小火龙的身体与心情状况反映尾巴的火焰情况，并不是由火焰的变化决定小火龙的生命。因其设定的缘故，部分人容易误会成“只要将尾巴的火焰熄灭就能令其死亡”，例如用水扑灭尾巴的火焰就能令小火龙死亡（在同人上也很常使用这个梗）。实际上并不会成功，只要小火龙的身体依然健康，火焰就算进入水中也不会消失（但水对于小火龙的身体确实会有坏影响）。因此，在动画中小火龙其进化型的喷火龙跳入了水中时，大部分的观众都会调侃这一行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ae/1987_crt_be0bK.jpg",
+        "link": "https://bgm.tv/character/1987",
+        "categorie": "person"
+      },
+      {
+        "id": "1999",
+        "label": "波波",
+        "info": "波波的外形形似某些小型鸟类。它的羽毛颜色很不起眼，脸部，腹部和翅膀末端的羽毛是奶油色的，其他部位是褐色的。在它黑色的眼睛周围是黑色。喙和爪子是紫色的，爪子有三个趾，两根朝前，一根朝后。头顶上有三簇毛，两边的毛是白色的，中间是褐色的，这使它看起来有点严肃。尾羽由三簇褐色羽毛组成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/cf/1999_crt_m5Se7.jpg",
+        "link": "https://bgm.tv/character/1999",
+        "categorie": "person"
+      },
+      {
+        "id": "2003",
+        "label": "小拉达",
+        "info": "小拉达外形是老鼠，四足行走。身体主要为淡紫色，脸颊、下颔直至腹部以及四只脚掌为奶油色。其最大的特征就是两颗大门牙。拉达长有大耳朵，三角形的眼睛中有红色的眼珠。脸颊长着一根奶油色的长胡须。尾巴微卷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/dc/2003_crt_GauTJ.jpg",
+        "link": "https://bgm.tv/character/2003",
+        "categorie": "person"
+      },
+      {
+        "id": "2006",
+        "label": "烈雀",
+        "info": "烈雀是一种鸟类。烈雀背上为黑色，整个胸腹部为米色且有细条纹。它的头上有蓬乱的褐色羽冠。鸟喙形状类似猛禽，是短但有钩的。 烈雀的浅粉红色的脚有三个爪子。它的翅膀为粉红色，边缘为浅粉色的。 有3个褐色的尾羽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/3c/2006_crt_RuX0B.jpg",
+        "link": "https://bgm.tv/character/2006",
+        "categorie": "person"
+      },
+      {
+        "id": "2097",
+        "label": "穿山鼠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/3f/2097_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2097",
+        "categorie": "person"
+      },
+      {
+        "id": "2103",
+        "label": "尼多力诺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/1c/2103_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2103",
+        "categorie": "person"
+      },
+      {
+        "id": "2159",
+        "label": "猴怪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/d9/2159_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2159",
+        "categorie": "person"
+      },
+      {
+        "id": "2237",
+        "label": "ゴローン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/66/2237_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2237",
+        "categorie": "person"
+      },
+      {
+        "id": "2238",
+        "label": "ゴローニャ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/52/2238_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2238",
+        "categorie": "person"
+      },
+      {
+        "id": "2239",
+        "label": "ポニータ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/7d/2239_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2239",
+        "categorie": "person"
+      },
+      {
+        "id": "2240",
+        "label": "ギャロップ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/dd/2240_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2240",
+        "categorie": "person"
+      },
+      {
+        "id": "2241",
+        "label": "ヤドン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/e3/2241_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2241",
+        "categorie": "person"
+      },
+      {
+        "id": "2242",
+        "label": "ヤドラン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/3f/2242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2242",
+        "categorie": "person"
+      },
+      {
+        "id": "2245",
+        "label": "レアコイル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/90/2245_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2245",
+        "categorie": "person"
+      },
+      {
+        "id": "2246",
+        "label": "カモネギ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/8a/2246_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2246",
+        "categorie": "person"
+      },
+      {
+        "id": "2247",
+        "label": "ドードー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/1f/2247_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2247",
+        "categorie": "person"
+      },
+      {
+        "id": "2248",
+        "label": "嘟嘟利",
+        "info": "嘟嘟利有三个头，分别代表着开心，愤怒与悲伤。每个头上有两根黑色的羽毛，大腿部分覆盖了黑色的羽毛，拥有粉红色的尾巴。嘟嘟利的每个头都拥有独立的情绪和思想，使得它会同时表现出三种截然不同甚至互相对立的性情。若要正常行动，三个头必须团结一致、意见统一，然而它们常常会互相吵架，甚至扭打在一起。训练家要尤其注意协调它们的关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/29/2248_crt_7Pv3Z.jpg",
+        "link": "https://bgm.tv/character/2248",
+        "categorie": "person"
+      },
+      {
+        "id": "2249",
+        "label": "小海狮",
+        "info": "进化",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/3f/2249_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2249",
+        "categorie": "person"
+      },
+      {
+        "id": "2250",
+        "label": "ジュゴン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/7c/2250_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2250",
+        "categorie": "person"
+      },
+      {
+        "id": "2252",
+        "label": "ベトベトン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/54/2252_crt_anidb.jpg?r=1480704423",
+        "link": "https://bgm.tv/character/2252",
+        "categorie": "person"
+      },
+      {
+        "id": "2255",
+        "label": "パルシェン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ba/2255_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2255",
+        "categorie": "person"
+      },
+      {
+        "id": "2256",
+        "label": "ゴース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/c7/2256_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2256",
+        "categorie": "person"
+      },
+      {
+        "id": "2257",
+        "label": "ゴースト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/28/2257_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2257",
+        "categorie": "person"
+      },
+      {
+        "id": "2259",
+        "label": "ゲンガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/ad/2259_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2259",
+        "categorie": "person"
+      },
+      {
+        "id": "2261",
+        "label": "スリープ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/aa/2261_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2261",
+        "categorie": "person"
+      },
+      {
+        "id": "2262",
+        "label": "スリーパー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/33/2262_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2262",
+        "categorie": "person"
+      },
+      {
+        "id": "2263",
+        "label": "クラブ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/50/2263_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2263",
+        "categorie": "person"
+      },
+      {
+        "id": "2265",
+        "label": "キングラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/e8/2265_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2265",
+        "categorie": "person"
+      },
+      {
+        "id": "2266",
+        "label": "ビリリダマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/76/2266_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2266",
+        "categorie": "person"
+      },
+      {
+        "id": "2270",
+        "label": "タマタマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/0f/2270_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2270",
+        "categorie": "person"
+      },
+      {
+        "id": "2271",
+        "label": "椰蛋树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/87/2271_crt_1816L.jpg",
+        "link": "https://bgm.tv/character/2271",
+        "categorie": "person"
+      },
+      {
+        "id": "2273",
+        "label": "ガラガラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/41/2273_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2273",
+        "categorie": "person"
+      },
+      {
+        "id": "2275",
+        "label": "飞腿郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/0c/2275_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2275",
+        "categorie": "person"
+      },
+      {
+        "id": "2276",
+        "label": "快拳郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/50/2276_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2276",
+        "categorie": "person"
+      },
+      {
+        "id": "2277",
+        "label": "ベロリンガ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/40/2277_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2277",
+        "categorie": "person"
+      },
+      {
+        "id": "2282",
+        "label": "サイホーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/bc/2282_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2282",
+        "categorie": "person"
+      },
+      {
+        "id": "2283",
+        "label": "サイドン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/6e/2283_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2283",
+        "categorie": "person"
+      },
+      {
+        "id": "2284",
+        "label": "ラッキー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/53/2284_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2284",
+        "categorie": "person"
+      },
+      {
+        "id": "2311",
+        "label": "モンジャラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/6d/2311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2311",
+        "categorie": "person"
+      },
+      {
+        "id": "2312",
+        "label": "ガルーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/da/2312_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2312",
+        "categorie": "person"
+      },
+      {
+        "id": "2314",
+        "label": "シードラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/9e/2314_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2314",
+        "categorie": "person"
+      },
+      {
+        "id": "2317",
+        "label": "金鱼王",
+        "info": "进化链",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/d3/2317_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2317",
+        "categorie": "person"
+      },
+      {
+        "id": "2319",
+        "label": "スターミー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/1f/2319_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2319",
+        "categorie": "person"
+      },
+      {
+        "id": "2322",
+        "label": "ストライク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/8b/2322_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2322",
+        "categorie": "person"
+      },
+      {
+        "id": "2324",
+        "label": "エレブー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e2/2324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2324",
+        "categorie": "person"
+      },
+      {
+        "id": "2325",
+        "label": "ブーバー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/97/2325_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2325",
+        "categorie": "person"
+      },
+      {
+        "id": "2326",
+        "label": "カイロス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e2/2326_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2326",
+        "categorie": "person"
+      },
+      {
+        "id": "2327",
+        "label": "ケンタロス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/25/2327_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2327",
+        "categorie": "person"
+      },
+      {
+        "id": "2330",
+        "label": "ギャラドス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/92/2330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2330",
+        "categorie": "person"
+      },
+      {
+        "id": "2332",
+        "label": "百变怪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/7d/2332_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2332",
+        "categorie": "person"
+      },
+      {
+        "id": "2333",
+        "label": "伊布",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/89/2333_crt_50fss.jpg",
+        "link": "https://bgm.tv/character/2333",
+        "categorie": "person"
+      },
+      {
+        "id": "2334",
+        "label": "シャワーズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/3b/2334_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2334",
+        "categorie": "person"
+      },
+      {
+        "id": "2335",
+        "label": "サンダース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/47/2335_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2335",
+        "categorie": "person"
+      },
+      {
+        "id": "2336",
+        "label": "ブースター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/eb/2336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2336",
+        "categorie": "person"
+      },
+      {
+        "id": "2337",
+        "label": "ポリゴン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/6f/2337_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2337",
+        "categorie": "person"
+      },
+      {
+        "id": "2338",
+        "label": "オムナイト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/cd/2338_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2338",
+        "categorie": "person"
+      },
+      {
+        "id": "2339",
+        "label": "オムスター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/93/2339_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2339",
+        "categorie": "person"
+      },
+      {
+        "id": "2340",
+        "label": "カブト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/e4/2340_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2340",
+        "categorie": "person"
+      },
+      {
+        "id": "2341",
+        "label": "カブトプス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/df/2341_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2341",
+        "categorie": "person"
+      },
+      {
+        "id": "2342",
+        "label": "プテラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/21/2342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2342",
+        "categorie": "person"
+      },
+      {
+        "id": "2343",
+        "label": "卡比兽",
+        "info": "卡比兽是日本任天堂公司开发的掌机游戏系列《口袋妖怪》和根据它改编的动画系列《神奇宝贝》中登场的虚构生物（神奇宝贝）的一种，首次登场于《口袋妖怪 红·绿》。是一般系神奇宝贝，可由小卡比兽在高亲密度时升级进化得到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/c5/2343_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2343",
+        "categorie": "person"
+      },
+      {
+        "id": "2348",
+        "label": "ハクリュー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/c9/2348_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2348",
+        "categorie": "person"
+      },
+      {
+        "id": "2349",
+        "label": "快龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/fc/2349_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2349",
+        "categorie": "person"
+      },
+      {
+        "id": "2417",
+        "label": "菊草叶",
+        "info": "菊草叶是种主要色调是淡绿色的小型宝可梦，头上有一片深绿色的叶子，脖子长著一圈芽。跟身体其他部位相比头部相当大，红色的大眼中看上去没有瞳孔，四只短脚分别有一根带指甲的脚趾，它还有一条小小的尾巴。它最大的特点是头上的大叶子，叶片长度常常超过身体其他部份的长度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/d5/2417_crt_4zYJL.jpg",
+        "link": "https://bgm.tv/character/2417",
+        "categorie": "person"
+      },
+      {
+        "id": "2610",
+        "label": "凤王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/59/2610_crt_KP95K.jpg",
+        "link": "https://bgm.tv/character/2610",
+        "categorie": "person"
+      },
+      {
+        "id": "3229",
+        "label": "ドミノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/ae/3229_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3229",
+        "categorie": "person"
+      },
+      {
+        "id": "3659",
+        "label": "バショウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/84/3659_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3659",
+        "categorie": "person"
+      },
+      {
+        "id": "3660",
+        "label": "ブソン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/27/3660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3660",
+        "categorie": "person"
+      },
+      {
+        "id": "3664",
+        "label": "席奴拉博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/7f/3664_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3664",
+        "categorie": "person"
+      },
+      {
+        "id": "46229",
+        "label": "皮卡丘",
+        "info": "皮卡丘独有的能力是在紧张时通过它脸上的电气袋释放电气。这个电能可用各种方式操纵，常被用在对战中，不过有时它也被皮卡丘用来烤树果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/20/46229_crt_d5DRl.jpg?r=1525315776",
+        "link": "https://bgm.tv/character/46229",
+        "categorie": "person"
+      },
+      {
+        "id": "46235",
+        "label": "喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/85/46235_crt_QDE9r.jpg",
+        "link": "https://bgm.tv/character/46235",
+        "categorie": "person"
+      },
+      {
+        "id": "63037",
+        "label": "樱花",
+        "info": "她是华蓝道馆道馆馆主之一，也是小霞的大姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/49/63037_crt_0LbLU.jpg?r=1524792862",
+        "link": "https://bgm.tv/character/63037",
+        "categorie": "person"
+      },
+      {
+        "id": "63038",
+        "label": "菖蒲",
+        "info": "她是华蓝道馆道馆馆主之一，也是小霞的二姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/62/63038_crt_y51y6.jpg",
+        "link": "https://bgm.tv/character/63038",
+        "categorie": "person"
+      },
+      {
+        "id": "63039",
+        "label": "牡丹",
+        "info": "她是华蓝道馆道馆馆主之一，也是小霞的三姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/71/63039_crt_89F7L.jpg?r=1524793177",
+        "link": "https://bgm.tv/character/63039",
+        "categorie": "person"
+      },
+      {
+        "id": "9779",
+        "label": "大木雪成",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/58/9779_crt_GPXdr.jpg",
+        "link": "https://bgm.tv/character/9779",
+        "categorie": "person"
+      },
+      {
+        "id": "30820",
+        "label": "妙蛙草",
+        "info": "妙蛙草是一只四足行走的宝可梦，外表类似蟾蜍或小型恐龙。和妙蛙种子一样，妙蛙草有着蓝绿色带有深绿色斑块的皮肤，不过颜色要更深一些。它有着红色的眼睛，黑色的瞳孔，不过在精灵宝可梦动画与梦境世界中，它的眼睛是紫色的。它头顶的耳朵有了黑色的内耳，上颚的牙齿也要比进化前更长。妙蛙草最显著的特点在于妙蛙草后背上的鳞茎变成一颗粉色花朵的蓓蕾，蓓蕾四周长着四片绿色的长叶片。鲜花蓓蕾很重，这让它的后肢变得更加强壮结实，以便支撑住它。但以此为代价的是它再也不能抬起它的后腿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/56/30820_crt_vkgU1.jpg",
+        "link": "https://bgm.tv/character/30820",
+        "categorie": "person"
+      },
+      {
+        "id": "3227",
+        "label": "坂木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c6/3227_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3227",
+        "categorie": "person"
+      },
+      {
+        "id": "2350",
+        "label": "超梦",
+        "info": "超梦是使用梦幻的细胞人工制造出的传说的宝可梦，但体形与梦幻相去甚远：其形象类似于双足猫科动物，通体银灰，尾巴和腹部呈现紫色，由背部中心伸出的体外神经束一直延伸到后脖颈。身高和人类相当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/c8/2350_crt_C3hsH.jpg?r=1555424323",
+        "link": "https://bgm.tv/character/2350",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "3223",
+        "label": "火箭队",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/73/3223_crt_AxCA8.jpg",
+        "link": "https://bgm.tv/character/3223",
+        "categorie": "person"
+      },
+      {
+        "id": "9257",
+        "label": "圣诞老人",
+        "info": "圣诞老人，在西方文化与传说中的一位神话人物，在圣诞节前夕会发送礼物给小孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/77/9257_crt_9g5gG.jpg?r=1441869816",
+        "link": "https://bgm.tv/character/9257",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

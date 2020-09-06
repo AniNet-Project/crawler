@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34434",
+        "label": "克拉维斯·谢泼德",
+        "info": "暗殺を請け負う唯一の特殊部隊アメリカ情報軍事特殊検索群i分遣隊の大尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/98/34434_crt_B9sSC.jpg?r=1499673492",
+        "link": "https://bgm.tv/character/34434",
+        "categorie": "person"
+      },
+      {
+        "id": "34439",
+        "label": "ルツィア・シュクロウプ",
+        "info": "ジョン・ポールの元教え子で現在はプラハ在住のチェコ語の教師。2年ぶりに彼女の許にジョン・ポールが現れたという報告のもと、クラヴィス達はチェコに向かう。クラヴィスは、ファム・ファタール的な魅力を持つ年上の彼女に惹かれていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/9e/34439_crt_PE2e9.jpg?r=1499673941",
+        "link": "https://bgm.tv/character/34439",
+        "categorie": "person"
+      },
+      {
+        "id": "34440",
+        "label": "约翰·保罗",
+        "info": "“虐殺の王”と呼ばれるアメリカ人元言語学者。ある事件がきっかけで大学を去り、国家をクライアントとする戦略コーディネーターとして活動を始めるが、彼の訪れる先々で虐殺が起こる。世界各地で混沌を引き起こしているとされ、祖国アメリカから暗殺命令を受け続ける謎の人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/9a/34440_crt_FnokK.jpg?r=1499673927",
+        "link": "https://bgm.tv/character/34440",
+        "categorie": "person"
+      },
+      {
+        "id": "34435",
+        "label": "威廉斯",
+        "info": "クラヴィス率いる特殊検索群i分遣隊メンバーで、クラヴィスとはプライベートでも親交がある。豪快さと軽快なユーモアセンスを持ち、対照的な性格のクラヴィスとは良いコンビネーションを発揮。同僚の死に際しては上官にも楯突くなど熱い一面を見せる。クラヴィスのプラハ潜入に同行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/ba/34435_crt_2Q5Vz.jpg",
+        "link": "https://bgm.tv/character/34435",
+        "categorie": "person"
+      },
+      {
+        "id": "34436",
+        "label": "亚历克斯",
+        "info": "クラヴィス率いる特殊検索群i分遣隊メンバーの若者。クリスチャンで戦地でも思慮深い言動を貫いていたが、彼のある発言と行動がその後のクラヴィス達に重く突き刺さる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/d6/34436_crt_vRYRo.jpg?r=1499673647",
+        "link": "https://bgm.tv/character/34436",
+        "categorie": "person"
+      },
+      {
+        "id": "34437",
+        "label": "里兰德",
+        "info": "クラヴィス率いる特殊検索群i分遣隊メンバー。若者らしく明快な性格で、同期のアレックスを茶化す一面も。銃撃戦を含む多くの作戦行動に参加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/cc/34437_crt_9xEjY.jpg?r=1499673680",
+        "link": "https://bgm.tv/character/34437",
+        "categorie": "person"
+      },
+      {
+        "id": "34438",
+        "label": "罗克韦尔",
+        "info": "アメリカ情報軍・特殊検索群i分遣隊指揮官でクラヴィス達の上司。世界各地で「虐殺の種」をばら撒いている謎のアメリカ人言語学者ジョン・ポールの容疑を固め、捜索任務をクラヴィス達に命ずる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/e3/34438_crt_2O9P2.jpg?r=1499673710",
+        "link": "https://bgm.tv/character/34438",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

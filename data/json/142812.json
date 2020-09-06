@@ -1,0 +1,493 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37243",
+        "label": "结城中佐",
+        "info": "帝国陸軍のスパイマスターであり、スパイ養成部門“Ｄ機関”の設立者。“魔王”の異名を取る、底知れぬ頭脳の持ち主。かつては自身も優秀なスパイとして活躍。トレードマークともいえる白手袋と杖は、敵国に潜入中、仲間の裏切りによって捕えられ、拷問を受けた結果とも噂されるが、詳細は不明。敵味方、様々な人間がその正体を探ろうとするが、その試みはいずれも挫折している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/5b/37243_crt_86rlq.jpg?r=1451839341",
+        "link": "https://bgm.tv/character/37243",
+        "categorie": "person"
+      },
+      {
+        "id": "37244",
+        "label": "佐久间中尉",
+        "info": "大日本帝国陸軍の中尉。上官である武藤大佐の指示により、陸軍内に秘密裏に設立されたD機関に出向。参謀本部との連絡係を務める。D機関員の様子を査察するなか、常識を超えた彼らの能力に驚愕する。軍人らしい実直な性格で、三好らの遠慮のない発言に憤りを覚えることも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/e5/37244_crt_TpbSt.jpg?r=1451839610",
+        "link": "https://bgm.tv/character/37244",
+        "categorie": "person"
+      },
+      {
+        "id": "37245",
+        "label": "三好",
+        "info": "相手に対して常に冷笑的な態度で接し、 上から目線のナルシスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/0e/37245_crt_KBwKJ.jpg?r=1462380582",
+        "link": "https://bgm.tv/character/37245",
+        "categorie": "person"
+      },
+      {
+        "id": "37246",
+        "label": "神永",
+        "info": "やんちゃなプレイボーイで一見お調子者に見えるが、その反面プライドが高く、言ったことは必ずやり遂げる気概を持っている。三好と同じく、機関員たちの仕切り役を買って出ることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/6f/37246_crt_riyv8.jpg?r=1451843436",
+        "link": "https://bgm.tv/character/37246",
+        "categorie": "person"
+      },
+      {
+        "id": "37247",
+        "label": "小田切",
+        "info": "陸軍幼年学校から士官学校を経て少尉に任官した経歴を持つ、異色のＤ機関員。寡黙で滅多に笑うことがない。出自の違いにくわえて、何か内に秘めたものがあるらしく、他の機関員との間にはどこか壁がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/dc/37247_crt_4WDOK.jpg?r=1451843551",
+        "link": "https://bgm.tv/character/37247",
+        "categorie": "person"
+      },
+      {
+        "id": "37248",
+        "label": "甘利",
+        "info": "神永とともに機関員のなかでは最年長。性格も社交的で面倒見がよく、機関員たちの兄貴分的な存在。自由人の気質を持ち、細かいことにこだわらない。女性の扱いに慣れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/2d/37248_crt_Bup6p.jpg?r=1451843816",
+        "link": "https://bgm.tv/character/37248",
+        "categorie": "person"
+      },
+      {
+        "id": "37249",
+        "label": "波多野",
+        "info": "D機関員の中ではいちばん小柄。愛嬌がある一方プライドが高く、小生意気な性格をしている。機敏で体術の達人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/c1/37249_crt_GmYRo.jpg?r=1451843907",
+        "link": "https://bgm.tv/character/37249",
+        "categorie": "person"
+      },
+      {
+        "id": "37250",
+        "label": "实井",
+        "info": "気さくな性格で、参謀本部から送り込まれてきた佐久間がD機関員と生活を共にしていた時にも、何かと気にかけることが多かった。中性的で普段は物腰柔らかいが、敵対する相手に対しては時にサディスティックな冷酷さを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/37/37250_crt_naVhM.jpg?r=1451844053",
+        "link": "https://bgm.tv/character/37250",
+        "categorie": "person"
+      },
+      {
+        "id": "37251",
+        "label": "福本",
+        "info": "D機関員の中では一番背が高い。天然で少しぼけっとしているところがある。寡黙で感情をあまり表に出さず、無口な小田切とは気が合うらしい。料理好きで機関員に料理を振る舞うこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/7a/37251_crt_Zi1I7.jpg?r=1451844104",
+        "link": "https://bgm.tv/character/37251",
+        "categorie": "person"
+      },
+      {
+        "id": "37252",
+        "label": "田崎",
+        "info": "人あたりが柔らかく、知的な雰囲気を持つ好青年。落ち着いているので実際の年齢よりも上に見られることが多い。考え事をする際、手近なものを使って無意識に手品をする癖がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/f7/37252_crt_JaJFV.jpg?r=1451844194",
+        "link": "https://bgm.tv/character/37252",
+        "categorie": "person"
+      },
+      {
+        "id": "37608",
+        "label": "蒲生次郎",
+        "info": "身だしなみに気を遣っているが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/64/37608_crt_o5C6C.jpg?r=1454424037",
+        "link": "https://bgm.tv/character/37608",
+        "categorie": "person"
+      },
+      {
+        "id": "38562",
+        "label": "武藤大佐",
+        "info": "日本帝国陸軍大佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/07/38562_crt_D3701.jpg?r=1454424149",
+        "link": "https://bgm.tv/character/38562",
+        "categorie": "person"
+      },
+      {
+        "id": "39675",
+        "label": "阿久津中将",
+        "info": "本名は阿久津泰政。日本帝国陸軍中将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/6f/39675_crt_cTTH5.jpg?r=1458709070",
+        "link": "https://bgm.tv/character/39675",
+        "categorie": "person"
+      },
+      {
+        "id": "41204",
+        "label": "风户中佐",
+        "info": "本名は、風戸哲正。日本帝国陸軍中佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/4c/41204_crt_Az15x.jpg?r=1462382395",
+        "link": "https://bgm.tv/character/41204",
+        "categorie": "person"
+      },
+      {
+        "id": "43736",
+        "label": "约尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/39/43736_crt_0FcNf.jpg?r=1469879679",
+        "link": "https://bgm.tv/character/43736",
+        "categorie": "person"
+      },
+      {
+        "id": "38943",
+        "label": "约翰·戈登",
+        "info": "アメリカ人技師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/59/38943_crt_YHh7k.jpg?r=1455525325",
+        "link": "https://bgm.tv/character/38943",
+        "categorie": "person"
+      },
+      {
+        "id": "38944",
+        "label": "阿兰·雷尔涅",
+        "info": "フランス市民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/8c/38944_crt_pku0i.jpg?r=1455525987",
+        "link": "https://bgm.tv/character/38944",
+        "categorie": "person"
+      },
+      {
+        "id": "38945",
+        "label": "让·维克托尔",
+        "info": "フランス市民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/fd/38945_crt_II4LD.jpg?r=1455526009",
+        "link": "https://bgm.tv/character/38945",
+        "categorie": "person"
+      },
+      {
+        "id": "38946",
+        "label": "玛丽·托雷斯",
+        "info": "フランス市民。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/98/38946_crt_mCN01.jpg?r=1455526025",
+        "link": "https://bgm.tv/character/38946",
+        "categorie": "person"
+      },
+      {
+        "id": "39676",
+        "label": "本间军曹",
+        "info": "本名は本間英司。日本帝国陸軍軍曹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/e1/39676_crt_FR5Lj.jpg?r=1458709299",
+        "link": "https://bgm.tv/character/39676",
+        "categorie": "person"
+      },
+      {
+        "id": "39677",
+        "label": "及川大尉",
+        "info": "本名は及川政幸。日本帝国陸軍大尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/73/39677_crt_CfY0r.jpg?r=1458709455",
+        "link": "https://bgm.tv/character/39677",
+        "categorie": "person"
+      },
+      {
+        "id": "39678",
+        "label": "马克斯中佐",
+        "info": "本名はハワード・マークス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/b1/39678_crt_UqWjf.jpg?r=1458709686",
+        "link": "https://bgm.tv/character/39678",
+        "categorie": "person"
+      },
+      {
+        "id": "40972",
+        "label": "吉野丰上等兵",
+        "info": "及川大尉的部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/fa/40972_crt_WohnR.jpg?r=1461688765",
+        "link": "https://bgm.tv/character/40972",
+        "categorie": "person"
+      },
+      {
+        "id": "40973",
+        "label": "杰姆兹警部",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a2/40973_crt_dDjZz.jpg",
+        "link": "https://bgm.tv/character/40973",
+        "categorie": "person"
+      },
+      {
+        "id": "41006",
+        "label": "宫田伸照伍长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e7/41006_crt_Vz1H1.jpg?r=1461854781",
+        "link": "https://bgm.tv/character/41006",
+        "categorie": "person"
+      },
+      {
+        "id": "41199",
+        "label": "杰弗里·摩根",
+        "info": "サンフランシスコで小さな貿易会社を経営している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/f7/41199_crt_7hPw0.jpg?r=1462380627",
+        "link": "https://bgm.tv/character/41199",
+        "categorie": "person"
+      },
+      {
+        "id": "41200",
+        "label": "辛西娅·格伦",
+        "info": "イギリス人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/45/41200_crt_T2599.jpg?r=1462381100",
+        "link": "https://bgm.tv/character/41200",
+        "categorie": "person"
+      },
+      {
+        "id": "41201",
+        "label": "艾玛·格伦",
+        "info": "シンシアの娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/9e/41201_crt_YIrI9.jpg?r=1462381346",
+        "link": "https://bgm.tv/character/41201",
+        "categorie": "person"
+      },
+      {
+        "id": "41202",
+        "label": "欧内斯特·格拉汉姆",
+        "info": "英国領事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/94/41202_crt_Psj4y.jpg?r=1462382228",
+        "link": "https://bgm.tv/character/41202",
+        "categorie": "person"
+      },
+      {
+        "id": "41203",
+        "label": "简·格拉汉姆",
+        "info": "アーネスト・グラハムの妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/3a/41203_crt_3h5cD.jpg?r=1462382297",
+        "link": "https://bgm.tv/character/41203",
+        "categorie": "person"
+      },
+      {
+        "id": "41213",
+        "label": "英国军宪兵",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/41213",
+        "categorie": "person"
+      },
+      {
+        "id": "41214",
+        "label": "女性の声",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/41214",
+        "categorie": "person"
+      },
+      {
+        "id": "41215",
+        "label": "外村均",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/41215",
+        "categorie": "person"
+      },
+      {
+        "id": "41216",
+        "label": "特別部捜査官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/8c/41216_crt_R030O.jpg?r=1462427608",
+        "link": "https://bgm.tv/character/41216",
+        "categorie": "person"
+      },
+      {
+        "id": "41217",
+        "label": "尋問官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/24/41217_crt_mwuMB.jpg",
+        "link": "https://bgm.tv/character/41217",
+        "categorie": "person"
+      },
+      {
+        "id": "41567",
+        "label": "少年(長男)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/ae/41567_crt_7Fh8P.jpg?r=1462981382",
+        "link": "https://bgm.tv/character/41567",
+        "categorie": "person"
+      },
+      {
+        "id": "41575",
+        "label": "少年(次男)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/3c/41575_crt_DXOX9.jpg?r=1462981483",
+        "link": "https://bgm.tv/character/41575",
+        "categorie": "person"
+      },
+      {
+        "id": "41576",
+        "label": "少年(従兄弟)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/3b/41576_crt_6tS88.jpg?r=1462981691",
+        "link": "https://bgm.tv/character/41576",
+        "categorie": "person"
+      },
+      {
+        "id": "41577",
+        "label": "埃莲娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ef/41577_crt_mZ110.jpg?r=1462982369",
+        "link": "https://bgm.tv/character/41577",
+        "categorie": "person"
+      },
+      {
+        "id": "41578",
+        "label": "安东・莫洛佐夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/99/41578_crt_L9LxQ.jpg?r=1462982671",
+        "link": "https://bgm.tv/character/41578",
+        "categorie": "person"
+      },
+      {
+        "id": "41579",
+        "label": "スメルシュの暗殺者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/f4/41579_crt_7mz8h.jpg?r=1462982873",
+        "link": "https://bgm.tv/character/41579",
+        "categorie": "person"
+      },
+      {
+        "id": "41580",
+        "label": "母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/58/41580_crt_QGoxO.jpg?r=1462982908",
+        "link": "https://bgm.tv/character/41580",
+        "categorie": "person"
+      },
+      {
+        "id": "41854",
+        "label": "雷蒙德·格林",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/0c/41854_crt_D1mdT.jpg?r=1463584700",
+        "link": "https://bgm.tv/character/41854",
+        "categorie": "person"
+      },
+      {
+        "id": "41855",
+        "label": "汤浅船长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/a1/41855_crt_SQRMF.jpg?r=1463586100",
+        "link": "https://bgm.tv/character/41855",
+        "categorie": "person"
+      },
+      {
+        "id": "41955",
+        "label": "亚伦·普莱斯",
+        "info": "英国タイムズ紙極東派遣員の記者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/82/41955_crt_SN7f2.jpg?r=1464138056",
+        "link": "https://bgm.tv/character/41955",
+        "categorie": "person"
+      },
+      {
+        "id": "41956",
+        "label": "沃尔夫大佐",
+        "info": "本名はヘルマン・ヴォルフ。ドイツ国防軍大佐。アプヴェア所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/c1/41956_crt_I3esL.jpg?r=1464138649",
+        "link": "https://bgm.tv/character/41956",
+        "categorie": "person"
+      },
+      {
+        "id": "41957",
+        "label": "鲍尔中尉",
+        "info": "本名はヨハン・バウアー。ドイツ国防軍中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/77/41957_crt_1UcUG.jpg?r=1464138871",
+        "link": "https://bgm.tv/character/41957",
+        "categorie": "person"
+      },
+      {
+        "id": "41958",
+        "label": "野上百合子",
+        "info": "劇団員。美人で聡明な女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/ea/41958_crt_BQf3b.jpg?r=1464139383",
+        "link": "https://bgm.tv/character/41958",
+        "categorie": "person"
+      },
+      {
+        "id": "41959",
+        "label": "安原美代子",
+        "info": "劇団員。野上百合子の後輩であり友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/d0/41959_crt_xPxSf.jpg?r=1464139407",
+        "link": "https://bgm.tv/character/41959",
+        "categorie": "person"
+      },
+      {
+        "id": "41983",
+        "label": "张大明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/9e/41983_crt_ERcE9.jpg?r=1464258454",
+        "link": "https://bgm.tv/character/41983",
+        "categorie": "person"
+      },
+      {
+        "id": "42200",
+        "label": "仲居",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/42200",
+        "categorie": "person"
+      },
+      {
+        "id": "42201",
+        "label": "風機関員",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/42201",
+        "categorie": "person"
+      },
+      {
+        "id": "42214",
+        "label": "春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/07/42214_crt_gXqDG.jpg?r=1464860320",
+        "link": "https://bgm.tv/character/42214",
+        "categorie": "person"
+      },
+      {
+        "id": "42215",
+        "label": "白幡树一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/e4/42215_crt_1x2g4.jpg?r=1464860845",
+        "link": "https://bgm.tv/character/42215",
+        "categorie": "person"
+      },
+      {
+        "id": "42342",
+        "label": "有崎直哉子爵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/78/42342_crt_w6GiC.jpg?r=1465405021",
+        "link": "https://bgm.tv/character/42342",
+        "categorie": "person"
+      },
+      {
+        "id": "42343",
+        "label": "陸軍幼年学校校長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/dd/42343_crt_FNrcN.jpg?r=1465405167",
+        "link": "https://bgm.tv/character/42343",
+        "categorie": "person"
+      },
+      {
+        "id": "42344",
+        "label": "里村",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/3a/42344_crt_Au7UP.jpg?r=1465406254",
+        "link": "https://bgm.tv/character/42344",
+        "categorie": "person"
+      },
+      {
+        "id": "42345",
+        "label": "有崎晃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/11/42345_crt_k8cEc.jpg?r=1465406316",
+        "link": "https://bgm.tv/character/42345",
+        "categorie": "person"
+      },
+      {
+        "id": "42351",
+        "label": "艾伦・普莱斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/61/42351_crt_QbQJJ.jpg?r=1465406837",
+        "link": "https://bgm.tv/character/42351",
+        "categorie": "person"
+      },
+      {
+        "id": "42539",
+        "label": "看護師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/ea/42539_crt_l8Vfa.jpg?r=1465988197",
+        "link": "https://bgm.tv/character/42539",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

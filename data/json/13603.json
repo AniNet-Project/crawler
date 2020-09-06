@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26123",
+        "label": "罗小黑",
+        "info": "一只天真、勇敢而强大的小黑猫。实为猫妖，因盗取老君天明珠而被谛听打回原形。躲入纸箱中避雨误被小白捡回家，取名罗小黑。在罗家安心恢复中。尾巴是身长的两倍，可变成翅膀（到第九集为止，翅膀都只能短暂出现），也可分裂成名为嘿咻的有意识体，一般为四个，可以无限分裂，但总体积不变。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/88/26123_crt_2jc5g.jpg",
+        "link": "https://bgm.tv/character/26123",
+        "categorie": "person"
+      },
+      {
+        "id": "26401",
+        "label": "罗小白",
+        "info": "一名红领巾，善良正义，天然活泼以致有些许冒失，常帮好朋友山新打掩护、看护爱猫皇受。能很快亲近动物，有怪力，处变不惊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/16/26401_crt_YyM65.jpg",
+        "link": "https://bgm.tv/character/26401",
+        "categorie": "person"
+      },
+      {
+        "id": "26403",
+        "label": "谛听",
+        "info": "听令于老君，虏获了3匹会变出黄色翅膀的狼用于侦察。看护天明珠不力致宝珠被猫妖盗走，于是主动请缨捉拿猫妖、寻回天明珠以将功抵罪。会腾云，可穿墙、远程释放分身，听、嗅觉灵敏，身手不凡。讨厌下雨。将猫妖打回原形后，根据手下的目击情报找到了罗家所在，可惜扑空。后追踪附近最强的妖气（阿根的）找到了小黑。与阿根（玄离）是旧识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/2c/26403_crt_6sFa9.jpg",
+        "link": "https://bgm.tv/character/26403",
+        "categorie": "person"
+      },
+      {
+        "id": "26404",
+        "label": "阿根",
+        "info": "外在身份是罗小白亲切的乡下堂哥，实际上是一个妖怪，寻常动物靠近他都会忍不住咬他一口，可以控制水的形态，放置有独立意识的分身。妖力强大，但具体能力仍不详。谛听唤其玄离，与老君有不明协议，现今隐居在乡下，保护着村子和山林。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/d5/26404_crt_4Ty1y.jpg",
+        "link": "https://bgm.tv/character/26404",
+        "categorie": "person"
+      },
+      {
+        "id": "74450",
+        "label": "山新",
+        "info": "没有太多表情，行动力惊人，曾用头发打羽毛球，频繁出入罗小白家及乡下老家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b5/74450_crt_v68zn.jpg",
+        "link": "https://bgm.tv/character/74450",
+        "categorie": "person"
+      },
+      {
+        "id": "26124",
+        "label": "比丢",
+        "info": "基色屎黄色。团鼠在吃下一种东西后，会变成那种东西的主色，所以会有各种颜色，这算是一种对自身的保护机制，五分钟左右就会恢复原样。只是由于这样特殊的皮毛而被捕杀，因此只剩下很少的一些。看似呆呆的比丢其实很狡猾敏捷，只有小黑能制服他。如果吃了金属和生物会暴走（身体巨大化，变成蓝色），暴走纹在眉心，碰一下就会变回原样，但会消耗生命。现今被放生于深山中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/24/26124_crt_v5jvu.jpg",
+        "link": "https://bgm.tv/character/26124",
+        "categorie": "person"
+      },
+      {
+        "id": "74451",
+        "label": "皇受",
+        "info": "被山新捡回家的灰色虎斑小公猫。开始时对罗小黑感到恐惧，后因被小黑从大狗SATAN身边救下，对小黑产生感情，穷追猛打，被山新称之为小黑的克星。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/92/74451_crt_6YacX.jpg",
+        "link": "https://bgm.tv/character/74451",
+        "categorie": "person"
+      },
+      {
+        "id": "74452",
+        "label": "老君",
+        "info": "动画《罗小黑战记》的主要角色之一。法力高强，年龄不计其数，拥有无数法宝。被赋予“神仙”的称号。现闭关三十年沉迷ACG。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/f3/74452_crt_DZXFG.jpg",
+        "link": "https://bgm.tv/character/74452",
+        "categorie": "person"
+      },
+      {
+        "id": "74453",
+        "label": "云飞",
+        "info": "罗小白的爷爷，初登场时从土里钻出，身手不凡。很爱惜自己的财物，藏了不少私房钱。时常替观众发表官方吐槽",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/ea/74453_crt_yzYGq.jpg",
+        "link": "https://bgm.tv/character/74453",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

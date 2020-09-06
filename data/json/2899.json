@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35103",
+        "label": "Cuddles",
+        "info": "Cuddles是一个金黄色的兔子，穿着粉色小兔拖鞋。许多粉丝认为Cuddles是主角，就像Giggles、Toothy和Lumpy出现在许多广告中。Cuddles是最先被创作出来的角色之一。 这个节目的另一个作者 Kenn Navarro为他配音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/51/35103_crt_U6Sf0.jpg",
+        "link": "https://bgm.tv/character/35103",
+        "categorie": "person"
+      },
+      {
+        "id": "35104",
+        "label": "Giggles",
+        "info": "一只头上有个红色蝴蝶结的粉色花栗鼠。她有着小女孩般的个性，例如她喜欢在花丛中玩耍，和她的朋友们开茶会。她的名字来自于她喜欢笑的习惯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/b5/35104_crt_496FN.jpg",
+        "link": "https://bgm.tv/character/35104",
+        "categorie": "person"
+      },
+      {
+        "id": "35105",
+        "label": "Toothy",
+        "info": "一个浅紫色，有着非常巨大牙缝的海狸。虽然在官方网站上说他的大板牙比别的角色的都大，（就像海绵宝宝（SpongeBob SquarePants））他有时候也会有正常大小的大板牙。这归功于懒惰的作者们，但是万幸的是，当开心树朋友上电视后，这个问题就消失了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/2c/35105_crt_r6916.jpg",
+        "link": "https://bgm.tv/character/35105",
+        "categorie": "person"
+      },
+      {
+        "id": "35106",
+        "label": "Lumpy",
+        "info": "一个智商非常低的浅蓝色麋鹿，有着坏牙、扭曲的眼睛及错位的鹿角，扮演着其他动物的保姆或大哥。他的性格挺善良的，只是行为举止十分笨拙。Lumpy住在他的拖车房里，不过在\"Aw, Shucks!\" 和 \"Junk In The Trunk\" 中，他有一栋特别的大屋子。他的眼睛和其他人都不同。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/3b/35106_crt_vHmHm.jpg",
+        "link": "https://bgm.tv/character/35106",
+        "categorie": "person"
+      },
+      {
+        "id": "35107",
+        "label": "The Mole",
+        "info": "一个紫灰色鼹鼠，脸上有颗痣，是个瞎子，但经常做一些瞎子做不了的事情，例如看报纸、开救护车、当医生等。也因此总是惹出很大的麻烦而常常会导致别人的死亡，(有时也导致自己死亡)但是自己却毫不知情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/59/35107_crt_KMkQR.jpg",
+        "link": "https://bgm.tv/character/35107",
+        "categorie": "person"
+      },
+      {
+        "id": "35108",
+        "label": "Petunia",
+        "info": "一个蓝色臭鼬，经常在脖子上挂着一个松香味的汽车空气清新剂，或者除臭剂（她有时也会被这个除臭剂害死），来掩盖她的臭鼬味道。官方网站上说她每天要洗好多次澡。许多fans认为她比Giggles年纪更大些。她喜欢和Giggles一起玩，还喜欢开茶会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/ca/35108_crt_pHzkc.jpg",
+        "link": "https://bgm.tv/character/35108",
+        "categorie": "person"
+      },
+      {
+        "id": "35109",
+        "label": "Nutty",
+        "info": "一个头上粘着很多糖果的绿色的松鼠。他头上有棒棒糖，糖拐杖，和一个苹果糖，甚至他的衣橱上也这样。而且经常改变糖果的种类。他一个眼睛像是玩具眼（动眼），另一个则是金色的疯子眼。 由于他对糖果的巨大兴趣，他时常有点神经质，而且平时总是傻笑。要是掉了一个糖糖的话，他就会变成Tasmanian Devil（华纳动画中的那个）他在得到糖果或任何甜点的时候，会口吐白沫。那提会为了得到他想要的糖果而去做任何事。如果得不到的话，他就会发怒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/f5/35109_crt_20T8h.jpg",
+        "link": "https://bgm.tv/character/35109",
+        "categorie": "person"
+      },
+      {
+        "id": "35110",
+        "label": "Sniffles",
+        "info": "一个蓝灰色的食蚁兽，是最聪明的角色。他常做些学校的作业，或读些学校的课本，特别是关于科学和数学的，喜欢长除法(见A Hard Act To Swallow )。如果把他的鼻子拿掉的话，他就和星际旅行中的史波克差不多。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a3/35110_crt_tndOL.jpg",
+        "link": "https://bgm.tv/character/35110",
+        "categorie": "person"
+      },
+      {
+        "id": "35111",
+        "label": "Flaky",
+        "info": "一个如她的名字一样长满头屑的豪猪。她是一个比较受欢迎的角色，性格非常害羞和胆小，还怕小鸡。然而，Flaky的性格会让一些fans和他的朋友误解，例如，她想去救她的朋友，但是却鼓不起勇气去这么做。 Flaky常被人看作是一个胆小鬼。但是在剧中，她的行为有力的反击了这个谣言，而且好几次拯救了她的性命。此外她和Cuddles一起出现时，Flaky总会把他们两带去死亡的场景，而且Cuddles经常会忽视她的警告，最后导致两人一起死掉。不过也有Flaky幸存而Cuddles死掉的集数。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/0c/35111_crt_3Gnn1.jpg",
+        "link": "https://bgm.tv/character/35111",
+        "categorie": "person"
+      },
+      {
+        "id": "35112",
+        "label": "Handy",
+        "info": "橘红色的工匠海狸，没有解释的断手。他的残肢上包裹着绷带。穿着一条工具袋，带着黄色的工地帽。他的水坝是用他的工具，手工拼起来的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/8a/35112_crt_E810R.jpg",
+        "link": "https://bgm.tv/character/35112",
+        "categorie": "person"
+      },
+      {
+        "id": "35113",
+        "label": "Splendid",
+        "info": "一个蓝色的超级英雄飞鼠。他的超能力和超人差不多，能飞，能从眼睛里射出激光，超级力量，超级听力，能倒转时间，能喷冰。他常常在家务的时候听到有人在呼救。可能参照了 Rocky & Bullwinkle中的Rocky J. Squirrel。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d0/35113_crt_MAHhh.jpg",
+        "link": "https://bgm.tv/character/35113",
+        "categorie": "person"
+      },
+      {
+        "id": "35114",
+        "label": "Disco Bear",
+        "info": "一个橘红色爆炸头的金色的熊，喜欢跳Disco舞。他穿着70年代衣服（裤子和舞鞋）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/e0/35114_crt_t2y55.jpg",
+        "link": "https://bgm.tv/character/35114",
+        "categorie": "person"
+      },
+      {
+        "id": "35115",
+        "label": "Russell",
+        "info": "一个青色的海盗海獭，有着传统的海盗的装备，就像Jolly Roger的帽子，钩子手，一个眼罩和两个木头假腿，和一只鹦鹉（在：Sea What I Found一集中有出现叫他起床）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/0b/35115_crt_9Es6z.jpg",
+        "link": "https://bgm.tv/character/35115",
+        "categorie": "person"
+      },
+      {
+        "id": "35116",
+        "label": "Mime",
+        "info": "紫色的鹿，脸上涂着油彩，身上穿着黑(或紫)和白色条纹的衬衫。通常不说话，因为他是个默剧演员，这就导致了别的角色很难理解他的意思。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/0a/35116_crt_omEZ6.jpg",
+        "link": "https://bgm.tv/character/35116",
+        "categorie": "person"
+      },
+      {
+        "id": "35117",
+        "label": "Shifty & Lifty",
+        "info": "两个深绿色的浣熊双胞胎兄弟，他们常常偷别人的东西。最常偷Lumpy的东西（\"Milkin' It\"中，从Lumpy的农场里偷了头奶牛，\"Meat Me For Lunch\"里，他们从Lumpy的肉店里偷了肉肠和烤肉，\"Concrete Solution\" 中偷了他的钱包。）",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/b1/35117_crt_hSvAI.jpg",
+        "link": "https://bgm.tv/character/35117",
+        "categorie": "person"
+      },
+      {
+        "id": "35118",
+        "label": "Cro-Marmot",
+        "info": "Cro-Marmot是一个被冰在冰块里的土拨鼠。他好像能在冰块里做很多事，例如扔雪球，指导Handy怎么完善他的设计。为了不让自己融化，他常呆在寒冷的地区，有时候也开着他的冰淇淋车。他住在一个巨大的雪花盆景球里。 Cro-Marmot有好多兴趣爱好，例如卖冰淇淋，滑雪，冲浪，他甚至还赢过冲浪比赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/c0/35118_crt_6dU1G.jpg",
+        "link": "https://bgm.tv/character/35118",
+        "categorie": "person"
+      },
+      {
+        "id": "35119",
+        "label": "Flippy",
+        "info": "浅绿色的熊，是个退伍兵。在剧中，他总穿着他的迷彩服，脖子上戴着兵籍牌，从他的肩章判断，在军队的阶级应为中士，头上戴着和美国陆军特种部队相似的绿色贝雷帽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/38/35119_crt_N7LC6.jpg",
+        "link": "https://bgm.tv/character/35119",
+        "categorie": "person"
+      },
+      {
+        "id": "35120",
+        "label": "Pop",
+        "info": "一个浅棕色的熊。他是另一个成年角色。有些人认为他是个老古董，穿着浴袍，吸烟斗，就像50年代[喜剧]里的父亲一样。他每次出现都会和Cub在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/91/35120_crt_2tYq5.jpg",
+        "link": "https://bgm.tv/character/35120",
+        "categorie": "person"
+      },
+      {
+        "id": "35121",
+        "label": "Cub",
+        "info": "一个非常小的浅棕色小熊，Pop的儿子。虽然看起来他还是一个小宝宝，但是智力和敏捷却像一个小孩。他是欢乐树的朋友们中最小最年轻的角色。他的眼睛和别的角色都不同。（和Mole一样）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/ff/35121_crt_dov1v.jpg",
+        "link": "https://bgm.tv/character/35121",
+        "categorie": "person"
+      },
+      {
+        "id": "35122",
+        "label": "Lammy& Mr. Pickles",
+        "info": "皆于\"A Bit of a Pickle \"正式登场，于\"Royal Flush\"再次担任主角，却与Truffles在\"All in Vein (Halloween Special)\"成为吸血鬼傻鹿吃剩而扔掉的速食垃圾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/ef/35122_crt_S3qbF.jpg",
+        "link": "https://bgm.tv/character/35122",
+        "categorie": "person"
+      },
+      {
+        "id": "35124",
+        "label": "Truffles",
+        "info": "身穿水手服的青蓝色小猪，与Lammy同为开心树朋友两名新登场的角色，由于在投票比赛中输给Lammy，所以没有成为主要的角色。不过可在以下这几集中发现到他:\"A Bit of a Pickle\"、\"See You Later, Elevator\"、\"Clause For Concern\"、\"The Chokes on You \"、\"All in Vein (Halloween Special) \"\"By The Seat Of Your Pants\"等等(但不是躲在树后，就是只出现个几秒)。粉丝们在观看动画时，不妨注意一下这个小家伙躲在哪里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/70/35124_crt_uBJom.jpg",
+        "link": "https://bgm.tv/character/35124",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

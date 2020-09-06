@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14350",
+        "label": "雷狼龙",
+        "info": "《怪物猎人：携带版3》登场的新怪物，是本作的标志性怪物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/64/14350_crt_szkpD.jpg",
+        "link": "https://bgm.tv/character/14350",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

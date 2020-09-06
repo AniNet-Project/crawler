@@ -1,0 +1,357 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "670",
+        "label": "天野雪辉",
+        "info": "所持有的日记：手机记载的“无差别日记”，把自己身边事物钜细无遗记录下来，是所有日记中情报量最高的，偏偏没有记载的是自己的事，故此跟由乃（2nd）联手可以达到“完全预知”的效果。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/c2/670_xHXVd.jpg",
+        "link": "https://bgm.tv/character/670",
+        "categorie": "person"
+      },
+      {
+        "id": "671",
+        "label": "我妻由乃",
+        "info": "所持有的日记：手机记载的“雪辉日记”，日记以十分钟为单位，记载着雪辉（1st）的行动，当中包含少量的美化，可以完全预知雪辉（1st）之后会发生的事，故此跟雪辉（1st）联手可以达到“完全预知”的效果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/23/671_crt_8xhC2.jpg?r=1581589648",
+        "link": "https://bgm.tv/character/671",
+        "categorie": "person"
+      },
+      {
+        "id": "672",
+        "label": "火山高夫",
+        "info": "所持有的日记：手机记载的“杀人日记”，记载了他的杀人情况，地点，计划等等。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/ea/672_J8j99.jpg",
+        "link": "https://bgm.tv/character/672",
+        "categorie": "person"
+      },
+      {
+        "id": "673",
+        "label": "来须圭悟",
+        "info": "所持有的日记：手机记载的“搜查日记”，日记记载了他调查案件的未来，是一名警官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/39/673_IfgFC.jpg",
+        "link": "https://bgm.tv/character/673",
+        "categorie": "person"
+      },
+      {
+        "id": "674",
+        "label": "豊穰礼佑",
+        "info": "所持有的日记：绘本图画日记—“高画质日记”，记载小礼的生活，只有每日早午晚三次记录，是现时作品中最弱的日记。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/7d/674_rmdSd.jpg",
+        "link": "https://bgm.tv/character/674",
+        "categorie": "person"
+      },
+      {
+        "id": "675",
+        "label": "春日野椿",
+        "info": "所持有的日记：书卷记载的“千里眼日记”，原本书卷是记载着客人们说话内容的日记。她能使用超能力千里眼，预测他人未来并百发百中。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/ec/675_ZH0SC.jpg",
+        "link": "https://bgm.tv/character/675",
+        "categorie": "person"
+      },
+      {
+        "id": "676",
+        "label": "战场马克",
+        "info": "所持有的日记：“交换日记”，会将各自未来的讯息传递给另一人。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/36/676_crt_0tv61.jpg",
+        "link": "https://bgm.tv/character/676",
+        "categorie": "person"
+      },
+      {
+        "id": "52433",
+        "label": "美神爱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/77/52433_crt_3k72k.jpg",
+        "link": "https://bgm.tv/character/52433",
+        "categorie": "person"
+      },
+      {
+        "id": "677",
+        "label": "上下夏窗",
+        "info": "所持有的日记：持有“租借Blog日记终端机”，可使其他人成为未来日记的“子持有者”。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/a3/677_5EoJH.jpg",
+        "link": "https://bgm.tv/character/677",
+        "categorie": "person"
+      },
+      {
+        "id": "678",
+        "label": "雨流美弥音",
+        "info": "所持有的日记：手机记载的“逃亡日记”，记载安全的逃亡路线，所以要追捕她是极为困难。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/e8/678_rsoHz.jpg",
+        "link": "https://bgm.tv/character/678",
+        "categorie": "person"
+      },
+      {
+        "id": "679",
+        "label": "月岛狩人",
+        "info": "所持有的日记：持有“饲养日记”，记载爱犬的饲养状态，曾向Deus提出移转日记所有权的请求，但被拒绝。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/9c/679_tohmB.jpg",
+        "link": "https://bgm.tv/character/679",
+        "categorie": "person"
+      },
+      {
+        "id": "680",
+        "label": "约翰·巴克斯",
+        "info": "所持有的日记：持有“观测者日记”，目前显示可以做到身边事物和自己身上发生的事的“完全预知”，甚至可了解远方发生的事，其实际具体机能未明。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/cb/680_oL9Fj.jpg",
+        "link": "https://bgm.tv/character/680",
+        "categorie": "person"
+      },
+      {
+        "id": "681",
+        "label": "平坂黄泉",
+        "info": "所持有的日记：录音机记载的“正义日记”，记载着要保护的弱者和要打倒的邪恶。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/95/681_7GoYY.jpg",
+        "link": "https://bgm.tv/character/681",
+        "categorie": "person"
+      },
+      {
+        "id": "15768",
+        "label": "12th Yellow",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/4e/15768_crt_vdl5L.jpg",
+        "link": "https://bgm.tv/character/15768",
+        "categorie": "person"
+      },
+      {
+        "id": "15767",
+        "label": "12th Pink",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/c9/15767_crt_jD313.jpg",
+        "link": "https://bgm.tv/character/15767",
+        "categorie": "person"
+      },
+      {
+        "id": "15766",
+        "label": "12th Green",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/d9/15766_crt_fToF7.jpg",
+        "link": "https://bgm.tv/character/15766",
+        "categorie": "person"
+      },
+      {
+        "id": "15765",
+        "label": "12th Blue",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/2f/15765_crt_7ecXC.jpg",
+        "link": "https://bgm.tv/character/15765",
+        "categorie": "person"
+      },
+      {
+        "id": "687",
+        "label": "秋濑或",
+        "info": "梅里中学学生，雪辉（1st）班上的同学，坐在雪辉（1st）的左边，但常玩侦探游戏而旷课。梦想成为世界有名的侦探。第六感超强，体能亦不下于由乃（2nd），是最强的非持有者。在外传中，秋濑或承认自己喜欢雪辉（1st），并想帮助他成为神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/5d/687_6BZFi.jpg",
+        "link": "https://bgm.tv/character/687",
+        "categorie": "person"
+      },
+      {
+        "id": "684",
+        "label": "高坂王子",
+        "info": "雪辉（1st）和由乃在樱见中学时同学，弥音（9th）事件中最先出卖雪辉（1st）的人之一。后来亦转校到梅里中学，跟雪辉（1st）还是在同一班中。因猎狗袭击事件开始卷进了事件。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/6f/684_60psa.jpg",
+        "link": "https://bgm.tv/character/684",
+        "categorie": "person"
+      },
+      {
+        "id": "685",
+        "label": "日野日向",
+        "info": "梅里中学学生，雪辉（1st）班上的同学，爱管闲事，天生喜欢照顾别人。是雪辉（1st）在梅里中学交到的第一个朋友。表面上因猎狗袭击事件而死。但其实尸体和被袭都只是人为伪装的。真正身份是月岛狩人（10th）的女儿，因为父亲开始被秋濑调查而接收了月岛狩人（10th）的“饲养日记”和犬只，目的是想把秋濑捉住。为得到秋濑的未来日记，以雪辉（1st）为人质，与秋濑进行抛硬币的赌博游戏。后来加入雪辉的行列并参与部分行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/28/685_9YiyO.jpg",
+        "link": "https://bgm.tv/character/685",
+        "categorie": "person"
+      },
+      {
+        "id": "688",
+        "label": "西岛真澄",
+        "info": "来须圭悟（4th）的属下，在圭悟死后便继承他的遗志，多次帮助秋濑和雪辉（1st）等人。曾经与雨流美弥音（9th）有过多次邂逅。并于此后向美弥音求婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/99/688_1Y1Z3.jpg",
+        "link": "https://bgm.tv/character/688",
+        "categorie": "person"
+      },
+      {
+        "id": "668",
+        "label": "时空王宙斯",
+        "info": "掌管所有时间与空间的神，是这次生存游戏的主办者。身型巨大。可以到任何一个时空中，包括人的想像世界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/2f/668_5BneP.jpg",
+        "link": "https://bgm.tv/character/668",
+        "categorie": "person"
+      },
+      {
+        "id": "669",
+        "label": "姆鲁姆鲁",
+        "info": "Deus的下仆，外貌是一个身材短小的女孩子。出场机会不多，但在书侧的简介中形容自古以来已是一个世袭的部族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/04/669_9G4G4.jpg",
+        "link": "https://bgm.tv/character/669",
+        "categorie": "person"
+      },
+      {
+        "id": "683",
+        "label": "天野九郎",
+        "info": "雪辉（1st）之父，早期与妻子离异，后来又回来探望雪辉（但似乎没有与礼亚见面），但目的其实是受人唆使破坏雪辉（1st）的日记并还清自己所欠的高利贷。起先雪辉（1st）并不相信早已发现其意图的由乃（2nd），后来在与7th二次交手时发现其真面目。其实他对不能好好待在雪辉（1st）和礼亚身旁也感到愧疚，所以小心翼翼保管雪辉（1st）的天文望远镜，后遭市长（11th）所派的人杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/68/683_q3Fxx.jpg",
+        "link": "https://bgm.tv/character/683",
+        "categorie": "person"
+      },
+      {
+        "id": "682",
+        "label": "天野礼亚",
+        "info": "雪辉（1st）之母，游戏公司的程式设计师。对于我妻由乃（2nd）作为自己的媳妇是感到满意的。一年前与雪辉的父亲离婚。但在樱见塔事件中与天野九郎争执是否要去救雪辉（1st）时被九郎失手杀死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d9/682_6w65B.jpg",
+        "link": "https://bgm.tv/character/682",
+        "categorie": "person"
+      },
+      {
+        "id": "15769",
+        "label": "我妻潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/67/15769_crt_zxhIr.jpg",
+        "link": "https://bgm.tv/character/15769",
+        "categorie": "person"
+      },
+      {
+        "id": "15778",
+        "label": "我妻西果",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/93/15778_crt_inNFz.jpg",
+        "link": "https://bgm.tv/character/15778",
+        "categorie": "person"
+      },
+      {
+        "id": "15781",
+        "label": "日向の母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/15/15781_crt_C77Cc.jpg",
+        "link": "https://bgm.tv/character/15781",
+        "categorie": "person"
+      },
+      {
+        "id": "15779",
+        "label": "母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/e9/15779_crt_Fyv95.jpg",
+        "link": "https://bgm.tv/character/15779",
+        "categorie": "person"
+      },
+      {
+        "id": "686",
+        "label": "野野坂真央",
+        "info": "梅里中学学生，雪辉（1st）班上的同学，喜欢摄影。是日野日向的好朋友，亦是同党。根据雪辉（1st）指示把猎犬击退后，胁持雪辉（1st）作人质，其后被由乃（2nd）趁隙持美工刀重创。出院后与日向加入1st的行列。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/9a/686_RQ56P.jpg",
+        "link": "https://bgm.tv/character/686",
+        "categorie": "person"
+      },
+      {
+        "id": "15780",
+        "label": "母親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/37/15780_crt_333KN.jpg",
+        "link": "https://bgm.tv/character/15780",
+        "categorie": "person"
+      },
+      {
+        "id": "15782",
+        "label": "来須直子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/9f/15782_crt_xpuC9.jpg",
+        "link": "https://bgm.tv/character/15782",
+        "categorie": "person"
+      },
+      {
+        "id": "15785",
+        "label": "若葉萌絵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/89/15785_crt_Tw3d0.jpg",
+        "link": "https://bgm.tv/character/15785",
+        "categorie": "person"
+      },
+      {
+        "id": "15783",
+        "label": "宮代お鈴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/fa/15783_crt_KxYi6.jpg",
+        "link": "https://bgm.tv/character/15783",
+        "categorie": "person"
+      },
+      {
+        "id": "15775",
+        "label": "難波太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/bc/15775_crt_XZtJJ.jpg",
+        "link": "https://bgm.tv/character/15775",
+        "categorie": "person"
+      },
+      {
+        "id": "15772",
+        "label": "黑崎龙司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/51/15772_crt_9poZf.jpg",
+        "link": "https://bgm.tv/character/15772",
+        "categorie": "person"
+      },
+      {
+        "id": "15774",
+        "label": "森谷先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/72/15774_crt_SW9U7.jpg",
+        "link": "https://bgm.tv/character/15774",
+        "categorie": "person"
+      },
+      {
+        "id": "15773",
+        "label": "教師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/41/15773_crt_zCpjo.jpg",
+        "link": "https://bgm.tv/character/15773",
+        "categorie": "person"
+      },
+      {
+        "id": "15771",
+        "label": "医師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/86/15771_crt_dbE9c.jpg",
+        "link": "https://bgm.tv/character/15771",
+        "categorie": "person"
+      },
+      {
+        "id": "15770",
+        "label": "議員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/eb/15770_crt_aJ8I9.jpg",
+        "link": "https://bgm.tv/character/15770",
+        "categorie": "person"
+      },
+      {
+        "id": "15777",
+        "label": "たけし",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/ab/15777_crt_CDJEq.jpg",
+        "link": "https://bgm.tv/character/15777",
+        "categorie": "person"
+      },
+      {
+        "id": "15776",
+        "label": "TVアナウンサー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/29/15776_crt_aR6EF.jpg",
+        "link": "https://bgm.tv/character/15776",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

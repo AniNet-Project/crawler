@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9530",
+        "label": "塞尔提·史特路尔森",
+        "info": "デュラララ!!の主人公。「首なしライダー」と呼ばれる、池袋の生きた都市伝説。その正体はデュラハンと呼ばれる欧州（アイルランド）の妖精の一種で、性別は女性。服装から男性と誤解されるが、ファッションモデルのようなスタイルを持つ。一部を除く周りの人には化け物扱いされる。岸谷新羅には一女性として愛されている。最も常識外れなその存在に反して、極めて常識的な性格。また、お人よしで面倒見がいい一面もある。趣味はネットとテレビとDVD鑑賞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/19/9530_crt_kxKpN.jpg",
+        "link": "https://bgm.tv/character/9530",
+        "categorie": "person"
+      },
+      {
+        "id": "10936",
+        "label": "龙峰帝人",
+        "info": "第一部の狂言回し的存在。非日常に憧れを抱く男子高校生。一見平凡な人間で、普段は内向的な性格だが、それゆえ非日常の刺激に対して渇望とも言える深い欲求を抱いている。危機的状況下に際して無意識に笑みを浮かべることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/cf/10936_crt_q481L.jpg",
+        "link": "https://bgm.tv/character/10936",
+        "categorie": "person"
+      },
+      {
+        "id": "9531",
+        "label": "纪田正臣",
+        "info": "居住在日本池袋的少年，是竜之峰帝人的小学同学。他邀请帝人来池袋一起读高中。就读于来良学院。兴趣是搞笑，但通常都是冷笑话。对池袋十分熟悉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/60/9531_crt_PE7Bk.jpg",
+        "link": "https://bgm.tv/character/9531",
+        "categorie": "person"
+      },
+      {
+        "id": "10996",
+        "label": "园原杏里",
+        "info": "帝人のクラスメイト。眼鏡をかけた地味な風貌だが、どこか浮世離れした美少女で、来良学園でベスト3に入る巨乳の持ち主。加えて成績優秀で、体育も含め通知票はオール10。両親はおらず、一人暮らしをしている。料理は全く出来ないらしく、料理の点数は30点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/ee/10996_crt_Ku3MH.jpg",
+        "link": "https://bgm.tv/character/10996",
+        "categorie": "person"
+      },
+      {
+        "id": "10630",
+        "label": "折原临也",
+        "info": "新宿を拠点に活動する有力な情報屋。本編の多くの事件の黒幕的存在。眉目秀麗という言葉を具現化したような痩身の美青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/dd/10630_crt_7dhvq.jpg",
+        "link": "https://bgm.tv/character/10630",
+        "categorie": "person"
+      },
+      {
+        "id": "10631",
+        "label": "平和岛静雄",
+        "info": "常時バーテン服にサングラスがトレードマークの金髪の青年。「池袋最強の男」「絶対に喧嘩を売ってはいけない人間」「池袋の自動喧嘩人形」と呼ばれ数多の伝説を持ち、“池袋で絶対に敵に回してはいけない人間”として、彼を知るあらゆる人物・勢力から恐れられている。常時バーテン服なのは、過去にバーテンダーのバイトをしていた際に弟が「今度こそ辞めないように」と20着もバーテン服を送ってきたため。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/19/10631_crt_8s768.jpg",
+        "link": "https://bgm.tv/character/10631",
+        "categorie": "person"
+      },
+      {
+        "id": "9532",
+        "label": "岸谷新罗",
+        "info": "池袋に居を構える闇医者（もぐりの医者）。セルティと同棲している。眼鏡を着用し、白衣姿でインドア派。住むマンションの真下の部屋には「相模原」という人物が住む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1f/9532_crt_V8QuZ.jpg",
+        "link": "https://bgm.tv/character/9532",
+        "categorie": "person"
+      },
+      {
+        "id": "10745",
+        "label": "DOLLARS",
+        "info": "DOLLARS没有规则，没有拘束。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/76/10745_crt_yHgc2.jpg",
+        "link": "https://bgm.tv/character/10745",
+        "categorie": "person"
+      },
+      {
+        "id": "11602",
+        "label": "门田京平",
+        "info": "昵称“小田田”，命名者是折原临也，虽然不喜欢这个昵称，但是周遭的人却无法停止“小田田”这种叫法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/35/11602_crt_S6GQ5.jpg",
+        "link": "https://bgm.tv/character/11602",
+        "categorie": "person"
+      },
+      {
+        "id": "10356",
+        "label": "游马崎沃克",
+        "info": "曾和门田他们一样隶属蓝色平方，现在则是DOLLARS的一员。门田京平等人的朋友，与门田京平、狩沢绘理华、渡草三郎四个人常常一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/48/10356_crt_5zoD3.jpg",
+        "link": "https://bgm.tv/character/10356",
+        "categorie": "person"
+      },
+      {
+        "id": "11603",
+        "label": "狩泽绘理华",
+        "info": "“DOLLARS”的一员。热爱电击文库，御宅族两人组之一。将所有自己看不顺眼的东西都视为“非现实”，会轻易做出一般人无法做出的事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/28/11603_crt_pwWpH.jpg",
+        "link": "https://bgm.tv/character/11603",
+        "categorie": "person"
+      },
+      {
+        "id": "26613",
+        "label": "渡草三郎",
+        "info": "喜欢的食物：拉面",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/42/26613_crt_eY8Y0.jpg",
+        "link": "https://bgm.tv/character/26613",
+        "categorie": "person"
+      },
+      {
+        "id": "24930",
+        "label": "矢雾诚二",
+        "info": "位于池袋的矢雾制药公司的社长的侄子。从小爱着赛尔提的‘头颅’。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/21/24930_crt_JC2Sb.jpg",
+        "link": "https://bgm.tv/character/24930",
+        "categorie": "person"
+      },
+      {
+        "id": "10354",
+        "label": "矢雾波江",
+        "info": "帝人的同班同学－矢雾 诚二的姐姐。对自己的弟弟有着扭曲的爱意。冷酷的女强人，除了弟弟不管他人死活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7f/10354_crt_1Jz0C.jpg",
+        "link": "https://bgm.tv/character/10354",
+        "categorie": "person"
+      },
+      {
+        "id": "25860",
+        "label": "张间美香",
+        "info": "成绩优秀，家世有钱，现在与帝人、杏里是同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/22/25860_crt_tz121.jpg",
+        "link": "https://bgm.tv/character/25860",
+        "categorie": "person"
+      },
+      {
+        "id": "10355",
+        "label": "赛门·布里兹涅夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/2e/10355_crt_iGb7Y.jpg",
+        "link": "https://bgm.tv/character/10355",
+        "categorie": "person"
+      },
+      {
+        "id": "25863",
+        "label": "葛原金之助",
+        "info": "为了与塞尔提对抗而特地请来的交警探员，是个经常因为把人逼得太紧而被警告的问题警官。动漫第十三话中带了十辆左右的交警摩托和警车，把塞尔提逼到角落，自称是“强大的存在”，对塞尔提宣言“怪物，别小看交通警察”，被塞尔提称为“好可怕，最近的警察真是怪物啊，是我自大了，我以后会老老实实的，对不起对不起对不起……”敢于在赛尔提伸出的影子上开车。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/44/25863_crt_Q6QXh.jpg",
+        "link": "https://bgm.tv/character/25863",
+        "categorie": "person"
+      },
+      {
+        "id": "25864",
+        "label": "岸谷森严",
+        "info": "岸谷新罗的父亲，平时总是带着防毒面具，穿着研究员袍。热衷于研究各种奇怪的东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/fe/25864_crt_m2fzr.jpg",
+        "link": "https://bgm.tv/character/25864",
+        "categorie": "person"
+      },
+      {
+        "id": "25870",
+        "label": "那须岛隆志",
+        "info": "来良学园的老师，在学校中有些不好性骚扰的传闻，曾骚扰杏里，后被开除。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/04/25870_crt_DHY8X.jpg?r=1404728331",
+        "link": "https://bgm.tv/character/25870",
+        "categorie": "person"
+      },
+      {
+        "id": "25867",
+        "label": "贽川周二",
+        "info": "三流杂志记者，春奈的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/be/25867_crt_33Q13.jpg?r=1404727557",
+        "link": "https://bgm.tv/character/25867",
+        "categorie": "person"
+      },
+      {
+        "id": "25861",
+        "label": "田中汤姆",
+        "info": "静雄的上司，本作少数可以跟静雄和平相处的人之一，曾经是静雄中学的前辈，在静雄中学的时候帮助过静雄摆脱受“暴力”困扰的生活。目前一直和静雄一起行动，四处讨债。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0a/25861_crt_33uDz.jpg",
+        "link": "https://bgm.tv/character/25861",
+        "categorie": "person"
+      },
+      {
+        "id": "25859",
+        "label": "三岛沙树",
+        "info": "纪田正臣的女友。监护人为折原临也。是折原临也的信徒一样的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a4/25859_crt_22crF.jpg",
+        "link": "https://bgm.tv/character/25859",
+        "categorie": "person"
+      },
+      {
+        "id": "11066",
+        "label": "平和岛幽",
+        "info": "好物は自家製カレーライス、プリン、乳製品など。捨てるタイミングがわからないためにガムを嫌っている。猫派。噂だけで人を決めつける人が嫌い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/9e/11066_crt_y4ydq.jpg",
+        "link": "https://bgm.tv/character/11066",
+        "categorie": "person"
+      },
+      {
+        "id": "25868",
+        "label": "贽川春奈",
+        "info": "一年前从来良学园退学，此后一直关在家里。实际身份是“罪歌”之子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/eb/25868_crt_4jNAJ.jpg?r=1404727801",
+        "link": "https://bgm.tv/character/25868",
+        "categorie": "person"
+      },
+      {
+        "id": "51264",
+        "label": "法螺田",
+        "info": "ライトノベル『デュラララ!!』の登場人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/7e/51264_crt_7LNlH.jpg?r=1486750752",
+        "link": "https://bgm.tv/character/51264",
+        "categorie": "person"
+      },
+      {
+        "id": "51265",
+        "label": "比贺",
+        "info": "「藍色平方」的小弟，幫其他成員跑腿的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/80/51265_crt_B6mZl.jpg?r=1486750759",
+        "link": "https://bgm.tv/character/51265",
+        "categorie": "person"
+      },
+      {
+        "id": "38232",
+        "label": "泉井兰",
+        "info": "青叶之兄。从弟弟手中让渡到了Blue Square之座。因对沙树的暴行而进入了少年看守所。脸上有着大片的烧伤痕迹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/20/38232_crt_5Klc6.jpg?r=1452976621",
+        "link": "https://bgm.tv/character/38232",
+        "categorie": "person"
+      },
+      {
+        "id": "25869",
+        "label": "四木春也",
+        "info": "黑社会组织粟楠会中的一名干部。在粟楠会年纪轻轻就当上了干部实际执行事务，跟临也、新罗、塞尔提进行事务联系和委托的人。平时是个严肃冷静的人，有着细长凌厉的双眼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b4/25869_crt_fsOiO.jpg",
+        "link": "https://bgm.tv/character/25869",
+        "categorie": "person"
+      },
+      {
+        "id": "38229",
+        "label": "神近莉绪",
+        "info": "来良学园1年B班学生，入学第二年后与杏里同班。动画原创角色，后逆输入小说原作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/cf/38229_crt_e77aA.jpg?r=1486750789",
+        "link": "https://bgm.tv/character/38229",
+        "categorie": "person"
+      },
+      {
+        "id": "51268",
+        "label": "泷口亮",
+        "info": "テレビアニメ「デュラララ!!」10話から登場しているアニメオリジナルキャラクターである。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/af/51268_crt_Aw1TT.jpg?r=1486750807",
+        "link": "https://bgm.tv/character/51268",
+        "categorie": "person"
+      },
+      {
+        "id": "58701",
+        "label": "浅沼",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/c3/58701_crt_uw3m3.jpg",
+        "link": "https://bgm.tv/character/58701",
+        "categorie": "person"
+      },
+      {
+        "id": "58703",
+        "label": "森田",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/f4/58703_crt_mfuVy.jpg",
+        "link": "https://bgm.tv/character/58703",
+        "categorie": "person"
+      },
+      {
+        "id": "58705",
+        "label": "金泽",
+        "info": "アニメ1期1話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/9e/58705_crt_MbFpr.jpg",
+        "link": "https://bgm.tv/character/58705",
+        "categorie": "person"
+      },
+      {
+        "id": "51269",
+        "label": "阳子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/b9/51269_crt_twArR.jpg?r=1486750815",
+        "link": "https://bgm.tv/character/51269",
+        "categorie": "person"
+      },
+      {
+        "id": "51270",
+        "label": "晴子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/3b/51270_crt_h75zG.jpg?r=1486750827",
+        "link": "https://bgm.tv/character/51270",
+        "categorie": "person"
+      },
+      {
+        "id": "51271",
+        "label": "秋绘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/e6/51271_crt_969Z3.jpg?r=1486750838",
+        "link": "https://bgm.tv/character/51271",
+        "categorie": "person"
+      },
+      {
+        "id": "51266",
+        "label": "丹尼斯",
+        "info": "俄罗斯籍白人，“露西亚”寿司店的店长，原前苏联特殊部队成员，白刃战专家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e0/51266_crt_q2VD7.jpg?r=1486750778",
+        "link": "https://bgm.tv/character/51266",
+        "categorie": "person"
+      },
+      {
+        "id": "58707",
+        "label": "ヒロシ",
+        "info": "アニメ1期3話、2期11話登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/ac/58707_crt_pA9m2.jpg?r=1508701199",
+        "link": "https://bgm.tv/character/58707",
+        "categorie": "person"
+      },
+      {
+        "id": "51267",
+        "label": "北驹正二郎",
+        "info": "来良学園１年A組担任。地学教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/c9/51267_crt_G7EZp.jpg",
+        "link": "https://bgm.tv/character/51267",
+        "categorie": "person"
+      },
+      {
+        "id": "28337",
+        "label": "折原九琉璃",
+        "info": "来良学園の新入生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ca/28337_crt_ri676.jpg",
+        "link": "https://bgm.tv/character/28337",
+        "categorie": "person"
+      },
+      {
+        "id": "28338",
+        "label": "折原舞流",
+        "info": "来良学園の新入生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/1c/28338_crt_Y0ewy.jpg",
+        "link": "https://bgm.tv/character/28338",
+        "categorie": "person"
+      },
+      {
+        "id": "11067",
+        "label": "圣边琉璃",
+        "info": "好物はレバ刺しや鉄分の多いもの。ニンニク料理が嫌い。猫派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/11/11067_crt_Ax4nc.jpg",
+        "link": "https://bgm.tv/character/11067",
+        "categorie": "person"
+      },
+      {
+        "id": "10739",
+        "label": "艾萨克·迪安",
+        "info": "外观：二十岁左右。咖啡色头发，身材高眺的男士。经常穿着引人瞩目的衣装。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/2e/10739_crt_sPssD.jpg?r=1418351788",
+        "link": "https://bgm.tv/character/10739",
+        "categorie": "person"
+      },
+      {
+        "id": "3133",
+        "label": "蜜莉亚·哈文德",
+        "info": "外观：二十岁左右。金发白人女性，比费洛矮一些。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/21/3133_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3133",
+        "categorie": "person"
+      },
+      {
+        "id": "495",
+        "label": "乃木坂春香",
+        "info": "　　本作的女主角，也是裕人的同班同学。是夸耀能撼动世界的乃木坂财阀家族的千金，拥",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/09/495_crt_w1kyp.jpg",
+        "link": "https://bgm.tv/character/495",
+        "categorie": "person"
+      },
+      {
+        "id": "1976",
+        "label": "赫萝",
+        "info": "外表是拥有狼耳与尾巴的少女，但实际上是神话中被称为神明的巨狼。自称为贤狼赫萝，寄宿在帕斯罗村的麦子中带来长期丰收。在帕斯罗村的庆典中从帕斯罗村的仓库逃入罗伦斯马车上的麦子(因为赫萝可以从小把的麦逃到大把的麦中,村民也有说过:「如果收割太贪心的话,丰收之神赫萝会逃走的」这句话)，与罗伦斯一同行商，想回到遥远北方的出生故乡“约伊兹森林”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/bf/1976_crt_j8bq9.jpg",
+        "link": "https://bgm.tv/character/1976",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

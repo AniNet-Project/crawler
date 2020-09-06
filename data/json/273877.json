@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69356",
+        "label": "彼方·星岛",
+        "info": "抜群の運動能力とサバイバル能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/35/69356_crt_iu6FR.jpg?r=1553258524",
+        "link": "https://bgm.tv/character/69356",
+        "categorie": "person"
+      },
+      {
+        "id": "69357",
+        "label": "白羊·春",
+        "info": "一度見たものを完全に覚えられる映像記憶能力を持つ少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/80/69357_crt_N70LA.jpg?r=1553259132",
+        "link": "https://bgm.tv/character/69357",
+        "categorie": "person"
+      },
+      {
+        "id": "70011",
+        "label": "ザック・ウォーカー",
+        "info": "宇宙科学を専攻するIQ200の天才。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/d4/70011_crt_fj77U.jpg?r=1557494022",
+        "link": "https://bgm.tv/character/70011",
+        "categorie": "person"
+      },
+      {
+        "id": "70012",
+        "label": "キトリー・ラファエリ",
+        "info": "医師を目指し、医学を学んでいるお嬢さま。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/0c/70012_crt_7Ddf1.jpg?r=1557494046",
+        "link": "https://bgm.tv/character/70012",
+        "categorie": "person"
+      },
+      {
+        "id": "70013",
+        "label": "フニシア・ラファエリ",
+        "info": "キトリーの義妹で、実の姉のように慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/3f/70013_crt_0qQQx.jpg?r=1557494082",
+        "link": "https://bgm.tv/character/70013",
+        "categorie": "person"
+      },
+      {
+        "id": "70014",
+        "label": "ルカ・エスポジト",
+        "info": "手先が器用でセンスも抜群の芸術家肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/04/70014_crt_TXWNS.jpg?r=1557494103",
+        "link": "https://bgm.tv/character/70014",
+        "categorie": "person"
+      },
+      {
+        "id": "70015",
+        "label": "ウルガー・ツヴァイク",
+        "info": "メンバーとの馴れ合いを拒む無愛想な皮肉屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/ca/70015_crt_AJ95X.jpg?r=1557494120",
+        "link": "https://bgm.tv/character/70015",
+        "categorie": "person"
+      },
+      {
+        "id": "70016",
+        "label": "ユンファ・ルー",
+        "info": "黒髪と眼鏡が特徴の女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/fa/70016_crt_eXTR2.jpg?r=1557494133",
+        "link": "https://bgm.tv/character/70016",
+        "categorie": "person"
+      },
+      {
+        "id": "70017",
+        "label": "シャルス・ラクロワ",
+        "info": "生物に関する知識が豊富で、惑星探査で力を発揮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/42/70017_crt_49LoL.jpg?r=1557494142",
+        "link": "https://bgm.tv/character/70017",
+        "categorie": "person"
+      },
+      {
+        "id": "71835",
+        "label": "ポリーナ・リヴィンスカヤ",
+        "info": "アーク6号の機関士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/90/71835_crt_2O22A.jpg?r=1568859712",
+        "link": "https://bgm.tv/character/71835",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

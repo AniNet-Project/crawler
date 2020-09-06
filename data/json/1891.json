@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "509",
+        "label": "天上欧蒂娜",
+        "info": "年齡：14",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/35/509_crt_Vg5z2.jpg?r=1424222943",
+        "link": "https://bgm.tv/character/509",
+        "categorie": "person"
+      },
+      {
+        "id": "510",
+        "label": "姬宫安希",
+        "info": "年齡：14",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/bc/510_crt_v1Yc8.jpg?r=1445739529",
+        "link": "https://bgm.tv/character/510",
+        "categorie": "person"
+      },
+      {
+        "id": "515",
+        "label": "凤晓生",
+        "info": "星座：處女座",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/43/515_crt_UnXAs.jpg",
+        "link": "https://bgm.tv/character/515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

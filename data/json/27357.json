@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6587",
+        "label": "火野丽",
+        "info": "居住在火川神社的巫女。4月17日出生，本身有很强的灵感，有灵力能驱赶恶灵，可变身成Sailor Mars。时常与小兔斗嘴，其实心里很关心她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/fb/6587_crt_E51yy.jpg?r=1465481752",
+        "link": "https://bgm.tv/character/6587",
+        "categorie": "person"
+      },
+      {
+        "id": "6592",
+        "label": "木野真琴",
+        "info": "沉醉在恋爱中的怪力少女。12月5日出生，力量十分强壮，可变身成Sailor Jupiter。和小兔是同一所学校但是穿的是转学之前的制服，原因是没有大尺寸的制服。非常害怕飞机，事缘因为她父母是在飞机上遇到空难而死。守护星是木星，兴趣是做家务、厨艺、园艺。对以前暗恋过的学长念念不忘，经常说男生“好像我以前喜欢的学长（师兄）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/1a/6592_crt_Q21q1.jpg?r=1465481530",
+        "link": "https://bgm.tv/character/6592",
+        "categorie": "person"
+      },
+      {
+        "id": "6594",
+        "label": "爱野美奈子",
+        "info": "爱野美奈子，是著名的日本动漫《美少女战士》中的主要人物之一。五战士中最早觉醒的人。她有一只公猫叫阿尔特米斯，跟小兔的黑猫露娜是恋人，可变身成Sailor Venus。使用金星力量，漫画提及在苏醒成为Sailor Venus前，她一直都是以水手V（Sailor V）身份作战，目的是击败黑暗帝国的敌人和找寻同伴。与Sailor Moon一样，她拥有一只月亮形的镜子，是变身的法宝，梦想成为名歌手，守护星金星，经验比其他战士丰富，是四个守护神战士的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/45/6594_crt_E9D9C.jpg?r=1465481690",
+        "link": "https://bgm.tv/character/6594",
+        "categorie": "person"
+      },
+      {
+        "id": "6699",
+        "label": "露娜",
+        "info": "会说话的雌性黑猫，额头上有一个弯月形状的记号，如果被贴住会不能说话而且其他的能力也会大大降低。登场时以寻找战士和月亮公主为目标。是月野兔的伙伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/58/6699_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6699",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

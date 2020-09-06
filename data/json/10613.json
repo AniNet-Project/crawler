@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21058",
+        "label": "小花",
+        "info": "被敬一郎捡回来的家事型电子亲人，其实她是第一代的PS，已完全停产。身高145cm，体重39公斤，足吋20-21cm，渴望能永远待在敬一郎的身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/28/21058_crt_dn5yZ.jpg",
+        "link": "https://bgm.tv/character/21058",
+        "categorie": "person"
+      },
+      {
+        "id": "21059",
+        "label": "九路敬一郎",
+        "info": "游手好闲的青年，因为失去所爱的家人，受了严重的心灵创伤而放弃音乐的梦想。偶然在垃圾堆里发现了被丢弃的Parents——机器人小花。在小花的影响下，最终他重新弹起那把搁置很久的吉他。可以从家族的墓碑上看出他的姓是“九路”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/b4/21059_crt_C59ht.jpg?r=1377064554",
+        "link": "https://bgm.tv/character/21059",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

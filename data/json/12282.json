@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11897",
+        "label": "阿莱蒂",
+        "info": "仿如笼中的小鸟，被关在高塔上的公主。每天都俯视着平民的生活，以书本来消磨自己的时间，从而丰富了知识和内心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/b0/11897_crt_Dwgf2.jpg",
+        "link": "https://bgm.tv/character/11897",
+        "categorie": "person"
+      },
+      {
+        "id": "11898",
+        "label": "鲍克斯",
+        "info": "千年前灭亡的魔法王国的生还者，梦想着当年盛极一时的王国复兴，并一直等待这一刻的来临。水晶球预言阿莱蒂会打破鲍克斯平静稳定的生活，所以派手下将阿莱蒂掳来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/58/11898_crt_zc1Uu.jpg",
+        "link": "https://bgm.tv/character/11898",
+        "categorie": "person"
+      },
+      {
+        "id": "11899",
+        "label": "安普鲁",
+        "info": "为了保证村庄的水源而服务于鲍克斯的普通农妇，本身已经厌烦了这样的宿命。想帮助阿莱蒂公主逃出来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/0e/11899_crt_mX1Ny.jpg",
+        "link": "https://bgm.tv/character/11899",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8",
+        "label": "坂上智代",
+        "info": "朋也的后辈……虽说应当是如此，说起话来的口气却像是个前辈一样。她待人很好，又有领导才能，因此在她的身边很自然地就聚集起了许多人。她的目标是成为学生会的会长，但这却成为了她与朋也之间的鸿沟……",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/96/8_crt_1L1cI.jpg",
+        "link": "https://bgm.tv/character/8",
+        "categorie": "person"
+      },
+      {
+        "id": "1007",
+        "label": "冈崎朋也",
+        "info": "故事的主人公。作为不良少年而为全校闻名的高三学生，经常迟到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/2b/1007_crt_ZLqlZ.jpg",
+        "link": "https://bgm.tv/character/1007",
+        "categorie": "person"
+      },
+      {
+        "id": "42511",
+        "label": "D組担任",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/b0/42511_crt_yDZmQ.jpg?r=1465885847",
+        "link": "https://bgm.tv/character/42511",
+        "categorie": "person"
+      },
+      {
+        "id": "42512",
+        "label": "校長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/30/42512_crt_HhEt8.jpg?r=1465914967",
+        "link": "https://bgm.tv/character/42512",
+        "categorie": "person"
+      },
+      {
+        "id": "42513",
+        "label": "生徒会役員(二年)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/3b/42513_crt_79t5w.jpg?r=1465915647",
+        "link": "https://bgm.tv/character/42513",
+        "categorie": "person"
+      },
+      {
+        "id": "1014",
+        "label": "春原阳平",
+        "info": "爱逞能、好色，本作的搞笑角色。作为体育推荐生入学，而后又因为一些原因被迫退出了足球部。自那以后就一直过着懒散的生活。与和他境况相似的朋也是挚友……虽然他是这么认为的，（事实上他被朋也像奴仆一样的对待）是个内心很阳光的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/08/1014_crt_HO05Z.jpg?r=1499737306",
+        "link": "https://bgm.tv/character/1014",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

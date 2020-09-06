@@ -1,0 +1,325 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3575",
+        "label": "御坂美琴",
+        "info": "在学园都市中只有七人的等级五超能力者排行第三。拥有“超电磁炮(Railgun)”称号的电击超能力者。对电流和电磁力的控制出神入化。独有招牌特技“超电磁炮”，以电磁力将金属作为电磁炮以3倍音速射出，一般使用方便携带的游戏币，但也可控制更大的物体。使用电击产生的电磁波对机器有不好的影响，在本作中破坏了手机、有线电视，警备机器人等无数机械。还可放出高压电流枪、使用电磁力自由控制金属，招来真正的雷击或是制造电磁爆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/f1/3575_crt_F99OI.jpg?r=1559386543",
+        "link": "https://bgm.tv/character/3575",
+        "categorie": "person"
+      },
+      {
+        "id": "3576",
+        "label": "白井黑子",
+        "info": "《魔法禁书目录》系列配角、外传《科学超电磁炮》主角，学园都市中名校常盘台女子中学的一年级生，御坂美琴的学妹兼室友，能力为Level 4的空间移动，双马尾茶色头发的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/40/3576_crt_NCpE2.jpg?r=1579399532",
+        "link": "https://bgm.tv/character/3576",
+        "categorie": "person"
+      },
+      {
+        "id": "8492",
+        "label": "初春饰利",
+        "info": "栅川初中一年级，和黑子同为第177支部的风纪委员。留着黑色短发，头戴花圈，远看好像头顶着花瓶。白井的好友兼拍挡。对贵族大小姐的生活相当憧憬，很喜欢婚后光子所饲养名叫爱卡迪莉娜的蟒蛇。害羞谦逊，喜欢吃甜食，体能很差。但对风纪委员这项工作很认真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/4d/8492_crt_FngwT.jpg?r=1580042313",
+        "link": "https://bgm.tv/character/8492",
+        "categorie": "person"
+      },
+      {
+        "id": "1937",
+        "label": "佐天泪子",
+        "info": "栅川中学一年级，初春饰利的同班同学，表面上是无能力者（LV0），实质上是掀裙能力（underwear-peeking)LV5的超能力者。留着长发及肩的黑发，发饰是樱花。以掀裙子代替打招呼，并且每天都这样对待初春。拥有天真烂漫、充满幻想的性格。对于初春的内裤有着强烈的憧憬，也对掀裙子能力没有进步的事比较烦恼，所以对于“幻想御手（LEVELUPPER,可以使能力升级)”很有兴趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/5b/1937_crt_aGM1N.jpg?r=1598704585",
+        "link": "https://bgm.tv/character/1937",
+        "categorie": "person"
+      },
+      {
+        "id": "3578",
+        "label": "月咏小萌",
+        "info": "上条的班导（所教的科目是化学）。外表怎么看都是个小学生（身高135厘米），实际是二十岁以上、早已大学毕业的成人，被誉为学院都市七大不可思议事件之一。喜欢抽烟喝酒，被黄泉川称为“堆积如山的人体烟灰缸”，酒量非常好，能轻松饮最少5升的酒。主要教授的科目是化学，喜欢照顾别人，兴趣是保护离家出走的少女，因本人精通社会心理学、环境心理学、行动心理学及交通心理学，所以经常出现在离家出走的少女的场所，找到离家出走的少女就会去帮助。一般的车脚踩不到油门和煞车，只能开残障者用车。非常喜欢教导学生，失去教学机会时会相当难过。上条曰：“越看到坏孩子就越开心”。经常和黄泉川和铁装一起去澡堂以及去酒会。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/ff/3578_crt_7kULQ.jpg?r=1582964037",
+        "link": "https://bgm.tv/character/3578",
+        "categorie": "person"
+      },
+      {
+        "id": "9663",
+        "label": "婚后光子",
+        "info": "常盘台中学2年级生，暑假期间转学进来的转学生，是努力系少女。等级4的空气控制类能力者（空力使い（エアロハンド／Aero Hand）），可以将碰触的物体使其像导弹一样射出。能够轻易将一台大卡车甚至重达几十吨重的电波塔喷射出去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/8d/9663_crt_XiT8b.jpg?r=1584743129",
+        "link": "https://bgm.tv/character/9663",
+        "categorie": "person"
+      },
+      {
+        "id": "9664",
+        "label": "铁装缀里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/b7/9664_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9664",
+        "categorie": "person"
+      },
+      {
+        "id": "9964",
+        "label": "湾内绢保",
+        "info": "常盘台初中一年级生，游泳部社员，白井黑子的同班同学。能力为水流操作系（Hydro hand），Level 3。曾在被混混调戏时为御坂美琴搭救，之后对美琴抱有仰慕之情。和泡浮一起成为婚后光子的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/03/9964_crt_dIId0.jpg?r=1585408258",
+        "link": "https://bgm.tv/character/9964",
+        "categorie": "person"
+      },
+      {
+        "id": "9965",
+        "label": "泡浮万彬",
+        "info": "常盘台初中一年级生，游泳部社员，白井黑子的同班同学。能力为流体反发（フロートダイヤル，Floatdial），Level 3。对御坂美琴抱有仰慕之情。湾内绢保的好友，和湾内一起成为婚后光子的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/99/9965_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9965",
+        "categorie": "person"
+      },
+      {
+        "id": "9966",
+        "label": "固法美伟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/f6/9966_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9966",
+        "categorie": "person"
+      },
+      {
+        "id": "9968",
+        "label": "重福省帆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/08/9968_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9968",
+        "categorie": "person"
+      },
+      {
+        "id": "9969",
+        "label": "木山春生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f3/9969_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9969",
+        "categorie": "person"
+      },
+      {
+        "id": "10290",
+        "label": "黄泉川爱穗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/c2/10290_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10290",
+        "categorie": "person"
+      },
+      {
+        "id": "12469",
+        "label": "最后之作",
+        "info": "小说第5卷首度登场。在御坂妹妹中的地位最高， 是御坂网络的管理者。检体编号20001。是为了防止“妹妹们”反叛、失控而制作出来的。身体调整尚未完成，原本不该离开培养器，却因某些原因流落街头，正彷徨时遇见了一方通行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c6/12469_crt_wOxiy.jpg?r=1574844107",
+        "link": "https://bgm.tv/character/12469",
+        "categorie": "person"
+      },
+      {
+        "id": "13001",
+        "label": "亚雷斯塔·克劳利",
+        "info": "学园都市概括理事长。住在没有门窗的建筑当中，身穿绿色手术衣，白色长发，头下脚上浸泡在红色液体中的“人类”，被形容成既是男人也是女人，是圣人也是罪人，是老人也是小孩的“人类”。依周围机械推算能有1700年的寿命。一直在策划一个巨大的计划，似是将人类带入“荷鲁斯时代”，上条的能力、一方通行也是计划的一部份。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/ec/13001_crt_HVzBZ.jpg?r=1538899866",
+        "link": "https://bgm.tv/character/13001",
+        "categorie": "person"
+      },
+      {
+        "id": "24163",
+        "label": "春上衿衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/6b/24163_crt_5i2Du.jpg?r=1396104092",
+        "link": "https://bgm.tv/character/24163",
+        "categorie": "person"
+      },
+      {
+        "id": "66609",
+        "label": "冥土追魂",
+        "info": "学园都市中号称“冥土追魂”的优秀医疗研究员，微胖的中年青蛙脸医生。医术精湛，再严重的伤势或疾病都不是其对手。能将被切断的手腕完全不留痕迹的接回、靠局部麻醉进行心脏手术，号称“不死就能救活”的地步，据说可以打破生死界限的医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/91/66609_crt_b2gEu.jpg",
+        "link": "https://bgm.tv/character/66609",
+        "categorie": "person"
+      },
+      {
+        "id": "78470",
+        "label": "柳迫碧美",
+        "info": "固法美伟的同学和室友，同样是风纪委员。自称由于正忙于投身于恋爱和青春当中而很少在支部露面，仅在校内活动，而作为风纪委员的她声称嫌臂章太土了而将它放在包里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/67/78470_crt_5e1jc.jpg",
+        "link": "https://bgm.tv/character/78470",
+        "categorie": "person"
+      },
+      {
+        "id": "78629",
+        "label": "黑妻绵流",
+        "info": "无能力者武装集团“大蜘蛛(Big spider)”的前首领，具有很强正义感。两年前结识了固法美伟，两人结下很深的羁绊。由于受伤被捕而一度失踪。在被释放后，与固法美伟一起制裁了冒用他的名字袭击能力者的蛇谷次雄。背部有蜘蛛和蜘蛛网的刺青，喜欢武藏野牌牛奶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/08/78629_crt_rH39V.jpg",
+        "link": "https://bgm.tv/character/78629",
+        "categorie": "person"
+      },
+      {
+        "id": "3498",
+        "label": "上条当麻",
+        "info": "高中1年级生，拥有能消除一切异能之力的右手“幻想杀手”（Imagine Breaker）。由于机器无法测量，被当作LV0的无能力者。（科学势力所重点“看护”的原石之一）因其右手，接二连三被卷入各种灾难事件。如果用守恒定律解释的话、他的好运并不是无缘无故的消失了，而是转移给别人（桃花运的原因）。常用“让我打碎这个幻想！”作为使用“幻想杀手”时的台词。其“幻想杀手”被亚雷斯塔认为阻碍自我计划的误差与意外，在保持着中立态度的同时用其右手帮助并救赎了不少角色（收入后宫），目前仍对其真实能力不明，上条当麻也开始准备去了解自己的右手（新约2结尾）目前与一方通行滨面一同面对新的敌人~",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/4b/3498_crt_qvHqd.jpg?r=1588398536",
+        "link": "https://bgm.tv/character/3498",
+        "categorie": "person"
+      },
+      {
+        "id": "3577",
+        "label": "姬神秋沙",
+        "info": "就读学园都市名校“雾之丘女子学院”。穿着巫女服的长发美人。拥有非常稀有的原石类能力“吸血杀手（Deep Blood）”，血液能吸引吸血鬼，但吸血鬼一接触她的血就会被立刻死去（母亲、好友也因此被害），小时候住在京都的小村，但因吸血杀手的能力而引来外来的吸血鬼，因此村民被吸血而成为吸血鬼村民后也去吸姬神的血，所以全部村民也死亡，后来姬神被三泽补习班带走（因想研究吸血杀手），因而被卷入三泽补习班的争斗。事件结束后，配戴简易版的“移动教会”凯尔特十字架，封住能力并寄住小萌老师家中（小说SS时搬入学生宿舍），同时转入上条班上。在大霸星季被欧莉安娜·汤森误认为敌人而被打成重伤[2]。虽然表情变化少，但也不是完全面无表情，否认自己是电波系，最初和上条等人见面时自称是魔法师，原因是因为有带着魔杖（但其实这魔杖是一根警棍）以及因为小时候的梦想是成为魔法师，声称自己的魔杖（警棍）是新素材。拥有十分强劲的医疗知识（特别有关血液方面）及医疗技术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/8f/3577_crt_So6SS.jpg",
+        "link": "https://bgm.tv/character/3577",
+        "categorie": "person"
+      },
+      {
+        "id": "9967",
+        "label": "宿管",
+        "info": "本名不明，常盘台中学宿舍的舍监，29岁。执法严厉。黑子与美琴都极怕的恐怖人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/46/9967_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9967",
+        "categorie": "person"
+      },
+      {
+        "id": "10126",
+        "label": "バスガイド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/26/10126_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10126",
+        "categorie": "person"
+      },
+      {
+        "id": "10128",
+        "label": "介旅初矢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/a0/10128_crt_zt16f.jpg",
+        "link": "https://bgm.tv/character/10128",
+        "categorie": "person"
+      },
+      {
+        "id": "10129",
+        "label": "棚川中学教师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/1f/10129_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10129",
+        "categorie": "person"
+      },
+      {
+        "id": "10130",
+        "label": "店员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/33/10130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10130",
+        "categorie": "person"
+      },
+      {
+        "id": "10131",
+        "label": "姉御",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/d2/10131_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10131",
+        "categorie": "person"
+      },
+      {
+        "id": "10133",
+        "label": "アケミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/ee/10133_crt_9bbq0.jpg",
+        "link": "https://bgm.tv/character/10133",
+        "categorie": "person"
+      },
+      {
+        "id": "10134",
+        "label": "マコちん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/f8/10134_crt_o61tx.jpg",
+        "link": "https://bgm.tv/character/10134",
+        "categorie": "person"
+      },
+      {
+        "id": "10135",
+        "label": "むーちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/99/10135_crt_koggZ.jpg",
+        "link": "https://bgm.tv/character/10135",
+        "categorie": "person"
+      },
+      {
+        "id": "10137",
+        "label": "トリック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/5e/10137_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10137",
+        "categorie": "person"
+      },
+      {
+        "id": "10140",
+        "label": "丘原燎多",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/56/10140_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10140",
+        "categorie": "person"
+      },
+      {
+        "id": "10291",
+        "label": "木原幻生",
+        "info": "『木原』一族のひとりで、『神ならぬ身にて天上の意思に辿り着くもの（SYSTEM）』研究の第一人者。先進教育局木原研究所所長、特殊学問法人ＲＦＯ会長など、多くの肩書を持つ。『絶対能力（レベル６）』の実現に向けた合法非合法を問わない研究に手を染めており、人体実験も厭わないマッドサイエンティストとして知られている。『絶対能力進化（レベル６シフト）』計画の提唱者であり、『能力体結晶』の研究、『置き去り（チャイルドエラー）』を使った暴走能力の法則解析用誘爆実験も彼の主導で行われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/6f/10291_crt_IzGQ9.jpg?r=1586576088",
+        "link": "https://bgm.tv/character/10291",
+        "categorie": "person"
+      },
+      {
+        "id": "10293",
+        "label": "枝先绊理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/f2/10293_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10293",
+        "categorie": "person"
+      },
+      {
+        "id": "10311",
+        "label": "银行强盗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a5/10311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10311",
+        "categorie": "person"
+      },
+      {
+        "id": "10312",
+        "label": "银行强盗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/0c/10312_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10312",
+        "categorie": "person"
+      },
+      {
+        "id": "10336",
+        "label": "中邑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/26/10336_crt_7g1m0.jpg",
+        "link": "https://bgm.tv/character/10336",
+        "categorie": "person"
+      },
+      {
+        "id": "16924",
+        "label": "硲舎佳茄",
+        "info": "在学园都市频繁出现的女童，称呼美琴为「常盘台的大姐姐」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/5c/16924_crt_8b248.jpg",
+        "link": "https://bgm.tv/character/16924",
+        "categorie": "person"
+      },
+      {
+        "id": "2629",
+        "label": "茵蒂克斯",
+        "info": "隶属于英国清教第零圣堂区“必要之恶教会”的修女。正式名称为“Index-Librorum-Prohibitorum”（禁书目录），年龄约14-15岁，外表是12-13岁的幼儿体型。平常穿着有金色刺绣的纯白修女服。描写时经常使用纯白修女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ff/2629_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2629",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

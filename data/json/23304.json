@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4624",
+        "label": "卡拉拉·阿吉巴",
+        "info": "ソロシップに乗り込むこととなった異星人。無限力“イデ”を欲するバッフ・クランの宇宙軍総司令ドバ・アジバの末娘。イデ探索隊に加わり“ソロ星（＝ロゴ・ダウ）”に降り立ったがゆえに、地球人とバッフ・クランとの長い戦いのきっかけをつくった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/47/4624_crt_zK6z1.jpg?r=1486133716",
+        "link": "https://bgm.tv/character/4624",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

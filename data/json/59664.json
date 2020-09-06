@@ -1,0 +1,261 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19783",
+        "label": "八轩勇吾",
+        "info": "本作的主人公。平日基本上都以眼镜配校服或配连帽上衣形象示人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/03/19783_crt_qRBBl.jpg",
+        "link": "https://bgm.tv/character/19783",
+        "categorie": "person"
+      },
+      {
+        "id": "19784",
+        "label": "御影秋",
+        "info": "本作的女主角。开朗的社交型少女，外貌特征为黑色短发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/eb/19784_crt_ayRhR.jpg",
+        "link": "https://bgm.tv/character/19784",
+        "categorie": "person"
+      },
+      {
+        "id": "19785",
+        "label": "驹场一郎",
+        "info": "眼神锐利，一头黑色短发的大个子少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/c5/19785_crt_Ep1ZE.jpg",
+        "link": "https://bgm.tv/character/19785",
+        "categorie": "person"
+      },
+      {
+        "id": "19786",
+        "label": "常盘惠次",
+        "info": "有着“三白眼”，将长发在脑后结成一条马尾辫的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/5d/19786_crt_08P90.jpg",
+        "link": "https://bgm.tv/character/19786",
+        "categorie": "person"
+      },
+      {
+        "id": "19787",
+        "label": "稻田多摩子",
+        "info": "像是鸡蛋般的体形丰满的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/8a/19787_crt_l28lf.jpg",
+        "link": "https://bgm.tv/character/19787",
+        "categorie": "person"
+      },
+      {
+        "id": "19788",
+        "label": "相川进之介",
+        "info": "平时都眯缝着眼睛的稳重少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/cd/19788_crt_ZLPCe.jpg",
+        "link": "https://bgm.tv/character/19788",
+        "categorie": "person"
+      },
+      {
+        "id": "21011",
+        "label": "吉野真由美",
+        "info": "脸上长有雀斑的双马尾少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/26/21011_crt_YyurL.jpg",
+        "link": "https://bgm.tv/character/21011",
+        "categorie": "person"
+      },
+      {
+        "id": "21012",
+        "label": "八轩慎吾",
+        "info": "八轩勇吾的哥哥。其体格健壮，个子高大，性格轻浮，好开玩笑。虽然给人的印象与弟弟勇吾完全相反，但他真心支持着开始探索自己生存之道的弟弟勇吾。价值观似乎与常人不同，爱车是Cub。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/52/21012_crt_Yqawf.jpg",
+        "link": "https://bgm.tv/character/21012",
+        "categorie": "person"
+      },
+      {
+        "id": "21014",
+        "label": "校长",
+        "info": "大蝦夷農業高校の校長。小柄でにこやかなお人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/7b/21014_crt_01kLz.jpg",
+        "link": "https://bgm.tv/character/21014",
+        "categorie": "person"
+      },
+      {
+        "id": "21015",
+        "label": "中岛美雪",
+        "info": "马术部的顾问老师。外貌特征为像是大佛般的容貌与两撇小泥鳅胡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/9f/21015_crt_MDRS4.jpg",
+        "link": "https://bgm.tv/character/21015",
+        "categorie": "person"
+      },
+      {
+        "id": "21052",
+        "label": "别府太郎",
+        "info": "和尚头的富态少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/7e/21052_crt_g2l9X.jpg",
+        "link": "https://bgm.tv/character/21052",
+        "categorie": "person"
+      },
+      {
+        "id": "21054",
+        "label": "西川一",
+        "info": "额头有一丛突出的头发，常常眯着眼睛的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/f2/21054_crt_uz2Yq.jpg",
+        "link": "https://bgm.tv/character/21054",
+        "categorie": "person"
+      },
+      {
+        "id": "46859",
+        "label": "稻田真一郎",
+        "info": "食品科学科3年生 → 卒業。タマコの兄。八軒らからは「スモークチキン先輩」の通称で呼ばれる。顔立ちは妹同様の美形で、こちらは標準体型。無添加食品の研究を行っており、食品添加物も上手く取り入れて使うべきと考えているタマコとたびたび衝突している。逃げた実習用鶏を捕まえてもらったことで八軒と知り合い、お礼にと持参した自作のスモークチキンを無添加食品と見抜いた八軒を気に入る。八軒が「豚丼」（後述）をベーコンに加工する際に作り方を教え、手伝った。冬休み終了時点で大学への進学が決まっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/e3/46859_crt_s3Gnt.jpg",
+        "link": "https://bgm.tv/character/46859",
+        "categorie": "person"
+      },
+      {
+        "id": "46860",
+        "label": "池田千鸟",
+        "info": "食品科学科1年生 → 3年生。小柄で黒髪ロングの肉食系（文字通りの意味で）女子。豚肉絡みのエピソードになると登場する。引っ込み思案でいつももじもじしているが目的は常に肉であるため、そこを攻略ポイントと見切った西川にあっさり手懐けられた。しかし西川に恋愛感情を抱いているわけではなく、学園祭でホルスタイン部が廃用牛肉ハンバーグを作っていると知るや相川にすり寄っていた。ピザ試食会にてベーコンがなくなると号泣していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/85/46860_crt_StRcR.jpg",
+        "link": "https://bgm.tv/character/46860",
+        "categorie": "person"
+      },
+      {
+        "id": "46861",
+        "label": "八轩美沙子",
+        "info": "八軒兄弟の母。二人とも顔立ちはどちらかというと母親似である。昔から子ども達のことを考えて手料理を作っており、それが結果として勇吾と慎吾の味覚センスを育んだことに繋がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/c6/46861_crt_uUX3J.jpg",
+        "link": "https://bgm.tv/character/46861",
+        "categorie": "person"
+      },
+      {
+        "id": "46862",
+        "label": "八轩数正",
+        "info": "八軒兄弟の父。職業はサラリーマンだが、普段から固く厳つい顔つきを崩さない上に鋭い目つきのせいもあって、動物からは畏怖され初対面の人（特に勇吾と同世代の学生）にはヤクザと勘違いされている（本人に自覚は無い）。虚栄心と共に学歴に対する執着が強く、「学生の本分は学業である」と一貫しており、学業以外のことに興味は基本的に示さない。その考えに背くように東大を中退した慎吾と、進学校からエゾノーへ入学した勇吾を「碌でもない」と非難している。家族とあまり会話がなく、正論で立つ瀬もないまでに追い詰めてしまう傾向があるために、勇吾がイメージする父は背中を向けたまま冷徹な言葉を発する姿が多い。エゾノー祭の準備で忙殺されて過労で入院した勇吾にも心配とは思えない心無い言葉を投げつけ、見舞いに来た担任の桜木にも勇吾の過労は学業に専念させていなかった学校の管理体制が原因だと強く罵倒した。ただし表情や口調を省けば内容のほとんどは至極真っ当なものであり、多摩子以上に冷徹で徹底したリアリストである様子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/8b/46862_crt_j0mM0.jpg",
+        "link": "https://bgm.tv/character/46862",
+        "categorie": "person"
+      },
+      {
+        "id": "46863",
+        "label": "御影豪志",
+        "info": "アキの父親。持病のヘルニアが悪化したため、アキが夏休み帰省する期間に合わせて手術・入院をする。その間、八軒が住み込みのアルバイトとしてやってきたが、溺愛している愛娘のアキを取る（恋仲になる）のではないかと過剰なほど心配して、初対面からいきなり｢認めんぞ！｣｢手ぇ出すなよ！｣等と威嚇・警戒した。アルバイト後もアキに関することで八軒を警戒している様子。厳つい顔立ちと愛想の無い口の悪さで話す癖があるが悪気はない。八軒のことを「バイト」と呼ぶ。8巻で御影牧場の社長業をアキの祖父から受け継いでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/83/46863_crt_jJrJh.jpg",
+        "link": "https://bgm.tv/character/46863",
+        "categorie": "person"
+      },
+      {
+        "id": "46864",
+        "label": "御影政子",
+        "info": "アキの母親。八軒がサラリーマン家庭の次男と聞き、八軒の婿入りと跡継ぎを期待して夫にしばしば提案しているが退けられている。さり気ない言葉でアキや八軒を励ます気の良い女性。アキの面立ちは母譲り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/73/46864_crt_SURau.jpg",
+        "link": "https://bgm.tv/character/46864",
+        "categorie": "person"
+      },
+      {
+        "id": "46865",
+        "label": "御影大作",
+        "info": "アキの祖父で御影牧場社長（社長業は8巻で豪志に明け渡している）。面倒見の良い気のいい老爺で、アキが「じいちゃんほどじゃない」と言うほど馬好き。八軒にエゾシカの解体を指南した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ce/46865_crt_Jd664.jpg",
+        "link": "https://bgm.tv/character/46865",
+        "categorie": "person"
+      },
+      {
+        "id": "46867",
+        "label": "御影志乃",
+        "info": "アキの曾祖母で御影牧場会長。明治生まれの107歳（登場時）であり、北海道開拓時代の生き証人。小柄な老婆で普段は寡黙だが、時に的を射る言葉で諭すこともある。動物が本能的に恐れを抱く程の覇気を放つ。御影家の人間では唯一、慎吾の作る料理を「開拓時代に食べた豚のエサのような飯に比べれば美味い」とまともに食べていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/a7/46867_crt_UGMum.jpg",
+        "link": "https://bgm.tv/character/46867",
+        "categorie": "person"
+      },
+      {
+        "id": "46868",
+        "label": "御影优志",
+        "info": "アキの叔父（豪志の弟）でばんえい競走馬の調教師。アキがエゾノー祭で輓馬を行うことを相談した際、使用していない馬そり2台を貸与し協力した。八軒の下宿先を探して紹介するなど、面倒見が良い性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/3e/46868_crt_g1bub.jpg?r=1474902008",
+        "link": "https://bgm.tv/character/46868",
+        "categorie": "person"
+      },
+      {
+        "id": "46869",
+        "label": "荣真奈美",
+        "info": "農業科学科1年生 → 3年生。ポニーテールの女子生徒。幕別東中出身。同じ部で同性ということで、御影と仲が良い。豊西と同じく全く進展しない八軒と御影の恋愛模様にやきもきしつつ突っ込みを入れる立ち位置を確保している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/64/46869_crt_JRzzJ.jpg",
+        "link": "https://bgm.tv/character/46869",
+        "categorie": "person"
+      },
+      {
+        "id": "46870",
+        "label": "大川进英",
+        "info": "大虾夷农业高校农业土木工学科的毕业生，马术部的原部长。毕业后找不到工作，与八轩一起成立公司，担任社长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/d3/46870_crt_GMuG6.jpg",
+        "link": "https://bgm.tv/character/46870",
+        "categorie": "person"
+      },
+      {
+        "id": "48681",
+        "label": "松山雄一",
+        "info": "野球部。大樹中央中出身。駒場とは違い補欠にも入れない程度の力量。ガールフレンド欲しい派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/7f/48681_crt_oS5oW.jpg",
+        "link": "https://bgm.tv/character/48681",
+        "categorie": "person"
+      },
+      {
+        "id": "50072",
+        "label": "樱木义久",
+        "info": "八軒がいる1年D組の担任。担当科目は国語。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/fd/50072_crt_QifBf.jpg",
+        "link": "https://bgm.tv/character/50072",
+        "categorie": "person"
+      },
+      {
+        "id": "50073",
+        "label": "富士一子",
+        "info": "豚舎管理の担当教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/d2/50073_crt_Tcm66.jpg",
+        "link": "https://bgm.tv/character/50073",
+        "categorie": "person"
+      },
+      {
+        "id": "50074",
+        "label": "白桦树",
+        "info": "鶏舎を担当する先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b2/50074_crt_WA32T.jpg",
+        "link": "https://bgm.tv/character/50074",
+        "categorie": "person"
+      },
+      {
+        "id": "23320",
+        "label": "栗子号",
+        "info": "颜艺之豪驹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/64/23320_crt_jUrPW.jpg",
+        "link": "https://bgm.tv/character/23320",
+        "categorie": "person"
+      },
+      {
+        "id": "46866",
+        "label": "御影サト",
+        "info": "アキの祖母。高齢だが農作業を現役でこなす、かなり気丈夫な老女。普段は温厚だが仕事に関しては手厳しい。政子同様、八軒の婿入りと跡継ぎを期待している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/79/46866_crt_2O823.jpg?r=1474901799",
+        "link": "https://bgm.tv/character/46866",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "21053",
+        "label": "副部长",
+        "info": "勇吾在清理校园时捡到的幼犬，得到教师的许可后饲养在马术部的马厩做为看门狗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/52/21053_crt_6Sc55.jpg",
+        "link": "https://bgm.tv/character/21053",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

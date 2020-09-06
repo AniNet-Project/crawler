@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67403",
+        "label": "石神千空",
+        "info": "喜欢科学的少年，相信科学的力量，拥有丰富的知识贮备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/58/67403_crt_sslKQ.jpg?r=1562399191",
+        "link": "https://bgm.tv/character/67403",
+        "categorie": "person"
+      },
+      {
+        "id": "69405",
+        "label": "大木大树",
+        "info": "千空的朋友，暗恋着杠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/f1/69405_crt_5eGLm.jpg?r=1562250103",
+        "link": "https://bgm.tv/character/69405",
+        "categorie": "person"
+      },
+      {
+        "id": "69406",
+        "label": "小川杠",
+        "info": "大树的同学兼暗恋对象。性格开朗，喜欢恶作剧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/1e/69406_crt_T9wKH.jpg?r=1562250170",
+        "link": "https://bgm.tv/character/69406",
+        "categorie": "person"
+      },
+      {
+        "id": "70123",
+        "label": "琥珀",
+        "info": "16岁，居住于石神村的少女，身手矫健、力量不输男性、视力11.0，会基本算术。琉璃的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/2f/70123_crt_pPv66.jpg?r=1566020380",
+        "link": "https://bgm.tv/character/70123",
+        "categorie": "person"
+      },
+      {
+        "id": "70124",
+        "label": "克罗姆",
+        "info": "16岁，村中的“妖术使”，喜欢搜集各种材料的热血少年，靠着自己的实验而懂得许多科学知识，让千空十分惊讶。对科学充满热忱，因此与千空结为挚友。喜欢琉璃，与琉璃是青梅竹马，曾发誓过要治好琉璃的病。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/7b/70124_crt_4T4te.jpg?r=1566020330",
+        "link": "https://bgm.tv/character/70124",
+        "categorie": "person"
+      },
+      {
+        "id": "69407",
+        "label": "狮子王司",
+        "info": "灵长类最强的高中生，能够徒手打倒狮子的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/61/69407_crt_q5zlN.jpg?r=1562250202",
+        "link": "https://bgm.tv/character/69407",
+        "categorie": "person"
+      },
+      {
+        "id": "70125",
+        "label": "金狼",
+        "info": "18岁，保护村子的门卫，银狼的哥哥。一开始不太欢迎千空这个外人，但在他给他制作的长枪涂上金色后，稍稍改观。患有模糊病(近视)，为看清事物经常用力瞪大眼睛，因此给人凶恶的印象，实力约与玛古玛持平但因病无法发挥，在科学组制作眼镜得到矫正。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a8/70125_crt_y3xy5.jpg?r=1566020485",
+        "link": "https://bgm.tv/character/70125",
+        "categorie": "person"
+      },
+      {
+        "id": "70126",
+        "label": "银狼",
+        "info": "16岁，保护村子的门卫，金狼的弟弟。意志力薄弱，容易得意忘形，也经常因感到害怕而退缩示弱，得到了众人一致\"不能让这个人当上村长\"的评价，但在关键时刻意外有可靠的一面，并因此救过克罗姆一命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/a3/70126_crt_aB53J.jpg?r=1566020536",
+        "link": "https://bgm.tv/character/70126",
+        "categorie": "person"
+      },
+      {
+        "id": "70595",
+        "label": "琉璃",
+        "info": "18歳。传承“百物语”的巫女，琥珀的姐姐。因为患有肺炎而体虚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/29/70595_crt_ekPAG.jpg?r=1566020650",
+        "link": "https://bgm.tv/character/70595",
+        "categorie": "person"
+      },
+      {
+        "id": "70596",
+        "label": "西瓜",
+        "info": "9岁。戴着整个西瓜皮的小个子少女，因为患有近视而利用西瓜皮上挖出的洞才看得清楚(小孔效果)。可以将身体完全缩在西瓜皮里伪装成单纯的西瓜来收集情报。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/90/70596_crt_8evMB.jpg",
+        "link": "https://bgm.tv/character/70596",
+        "categorie": "person"
+      },
+      {
+        "id": "70597",
+        "label": "浅雾幻",
+        "info": "19岁（石化前），魔术师，擅长操控人心，因此被司以优先序列复活，后被司派去打听千空的下落。性格上以自身利益为优先，只追随胜利的一方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/ee/70597_crt_rxsx2.jpg?r=1566020439",
+        "link": "https://bgm.tv/character/70597",
+        "categorie": "person"
+      },
+      {
+        "id": "70598",
+        "label": "卡瑟吉",
+        "info": "60岁，经验丰富且满怀热忱的工匠，因为擅长工艺而协助千空与克罗姆，并与他们成为忘年之交。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/4a/70598_crt_0Z0ZG.jpg?r=1566020692",
+        "link": "https://bgm.tv/character/70598",
+        "categorie": "person"
+      },
+      {
+        "id": "72537",
+        "label": "石神百夜",
+        "info": "千空の父親。前職は大学の講師。夢であったJAXAの宇宙飛行士候補生の採用試験に合格し、宇宙飛行士となった。アホなことが好きで、ロマンチスト。ムードメーカー的な能力も買われ、宇宙船ソユーズの飛行士に抜擢された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/38/72537_crt_BbFg4.jpg?r=1572042548",
+        "link": "https://bgm.tv/character/72537",
+        "categorie": "person"
+      },
+      {
+        "id": "72538",
+        "label": "リリアン・ワインバーグ",
+        "info": "世界的に有名な歌姫。冒険好きで。宇宙船（ソユーズ）の民間向け座席を購入した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/54/72538_crt_198Fl.jpg?r=1572042640",
+        "link": "https://bgm.tv/character/72538",
+        "categorie": "person"
+      },
+      {
+        "id": "72539",
+        "label": "シャミール・ヴォルコフ",
+        "info": "宇宙船ソユーズの船長。趣味はチェス。百夜と真逆で、感情に流されずに判断を下せる点が評価されている。前職はパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ef/72539_crt_PyS91.jpg?r=1572042731",
+        "link": "https://bgm.tv/character/72539",
+        "categorie": "person"
+      },
+      {
+        "id": "72540",
+        "label": "コニー・リー",
+        "info": "宇宙船ソユーズの船員。無人島でシャミールと結婚。本人たちはそれどころじゃないと考えていたが、百夜やリリアンが囃し立ててそうなった。前職はNASA職員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/ab/72540_crt_ay6OE.jpg?r=1572042812",
+        "link": "https://bgm.tv/character/72540",
+        "categorie": "person"
+      },
+      {
+        "id": "72541",
+        "label": "ヤコフ・ニキーチン",
+        "info": "宇宙船ソユーズの船員。ステーション唯一の二度目の滞在者。見た目に反して気が小さいが、研究者としての能力は高い。前職は医師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/e2/72541_crt_TzAlL.jpg?r=1572042888",
+        "link": "https://bgm.tv/character/72541",
+        "categorie": "person"
+      },
+      {
+        "id": "72542",
+        "label": "ダリヤ・ニキーチナ",
+        "info": "宇宙船ソユーズの船員。口は悪いが実際は親切。ヤコフを尻に敷いているが本人たちはとても仲がよい。前職は医師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/af/72542_crt_Hhnry.jpg?r=1572042966",
+        "link": "https://bgm.tv/character/72542",
+        "categorie": "person"
+      },
+      {
+        "id": "74470",
+        "label": "冰月",
+        "info": "枪使，精通使用长枪的格斗术，流派是“尾张贯流枪术（日语：貫流）”。个性冷酷自私，面对毒气威胁时，毫不犹豫地将同伴当作牺牲品。其使用的长枪是“管枪”，但被幻以碳钢刀破坏，持管枪时的实力可说和司不相上下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/e3/74470_crt_G6NFi.jpg?r=1577932586",
+        "link": "https://bgm.tv/character/74470",
+        "categorie": "person"
+      },
+      {
+        "id": "74471",
+        "label": "红叶焰",
+        "info": "原体操选手，身手非常矫健。冰月的心腹，对冰月极度忠诚。粉色头发，厚嘴唇且沉默寡言。收下千空作为“礼物”的棉花糖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/06/74471_crt_ONM2q.jpg?r=1577932778",
+        "link": "https://bgm.tv/character/74471",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

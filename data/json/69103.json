@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22796",
+        "label": "关俊成",
+        "info": "授業をまったく聞かずに遊んでばかりいる不真面目な男子生徒。しかし常にオリジナルの遊びを開発し、黙々と遊びに打ち込む姿は真面目そのもの。サボリを先生に発見されない技も超一流。本名は関俊成（としなり）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/87/22796_crt_rFgx9.jpg",
+        "link": "https://bgm.tv/character/22796",
+        "categorie": "person"
+      },
+      {
+        "id": "22797",
+        "label": "横井留美",
+        "info": "関くんの隣の席の女子生徒。真面目に授業を受けたいと思っているが、つい関くんの遊びが気になってしまう。関くんの遊びを妨害することもあるが、ときには遊びに本気で参加してしまうことも。本名は横井るみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/92/22797_crt_2ic26.jpg",
+        "link": "https://bgm.tv/character/22797",
+        "categorie": "person"
+      },
+      {
+        "id": "24892",
+        "label": "后藤樱子",
+        "info": "声 - 佐藤聡美/ 演 - 真山りか",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/fc/24892_crt_eqv68.jpg",
+        "link": "https://bgm.tv/character/24892",
+        "categorie": "person"
+      },
+      {
+        "id": "31789",
+        "label": "关同学的小机器人们",
+        "info": "声 - 櫻井トオル（父）、慶長佑香（母）、水野麻里絵（子）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/85/31789_crt_Aii1E.jpg",
+        "link": "https://bgm.tv/character/31789",
+        "categorie": "person"
+      },
+      {
+        "id": "58842",
+        "label": "王将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/ba/58842_crt_r6gEZ.jpg",
+        "link": "https://bgm.tv/character/58842",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

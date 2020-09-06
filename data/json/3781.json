@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "104",
+        "label": "莉娜·因巴斯",
+        "info": "Lina.Inverse（リナ·インバ－ス）  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a6/104_crt_DHH1D.jpg?r=1587932893",
+        "link": "https://bgm.tv/character/104",
+        "categorie": "person"
+      },
+      {
+        "id": "6846",
+        "label": "白蛇娜卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/9a/6846_crt_E8q9O.jpg?r=1587933698",
+        "link": "https://bgm.tv/character/6846",
+        "categorie": "person"
+      },
+      {
+        "id": "6913",
+        "label": "Joylock",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/bb/6913_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6913",
+        "categorie": "person"
+      },
+      {
+        "id": "6914",
+        "label": "Rowdy Gabriev",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/2d/6914_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6914",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

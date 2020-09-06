@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "890",
+        "label": "琪露诺",
+        "info": "在雾之湖的附近，即使是夏天也会出现极端低温。这时候常能遇到的妖精就是冰之妖精。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ff/890_crt_KW636.jpg?r=1522064417",
+        "link": "https://bgm.tv/character/890",
+        "categorie": "person"
+      },
+      {
+        "id": "20127",
+        "label": "大妖精",
+        "info": "大妖精是个住在红魔馆附近湖畔的妖精。跟其他妖精一样，她总是很精神也很喜欢恶作剧，性格简单，凭感情行事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/fa/20127_crt_fTTu5.jpg?r=1561418169",
+        "link": "https://bgm.tv/character/20127",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

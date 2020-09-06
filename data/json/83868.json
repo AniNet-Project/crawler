@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25792",
+        "label": "半田清舟",
+        "info": "23歳。清舟は雅号で、本名は「清」（せい）。誕生日は4/15。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/0b/25792_crt_pxSX2.jpg?r=1414000570",
+        "link": "https://bgm.tv/character/25792",
+        "categorie": "person"
+      },
+      {
+        "id": "25793",
+        "label": "琴石奈瑠",
+        "info": "生徒数9人の分校に通っているいたずら盛りの少女。祖父と2人暮らしの7歳。髪は茶色。左手にミサンガをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/d0/25793_crt_cgsuS.jpg?r=1414000661",
+        "link": "https://bgm.tv/character/25793",
+        "categorie": "person"
+      },
+      {
+        "id": "25966",
+        "label": "山村美和",
+        "info": "地元の女子中学生。ボーイッシュで勝気な少女。なるやタマと清舟が借りた空き家を隠れ家にして遊んでいた。なるに色々と良からぬ知識を吹き込んでいる。自称ソフト部のエースピッチャー。名前は母親が命名した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/cb/25966_crt_8wqzu.jpg?r=1405222325",
+        "link": "https://bgm.tv/character/25966",
+        "categorie": "person"
+      },
+      {
+        "id": "25967",
+        "label": "新井珠子",
+        "info": "通称「タマ」。美和の友達の女子中学生。14歳。三つ編みで眼鏡をかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/65/25967_crt_b7gpe.jpg?r=1405222479",
+        "link": "https://bgm.tv/character/25967",
+        "categorie": "person"
+      },
+      {
+        "id": "25968",
+        "label": "木户浩志",
+        "info": "高校3年生になる郷長夫婦の息子。清舟からは「ヒロ」、美和やタマからは「ヒロ兄」と呼ばれている。金髪。中学生の時に成績表でオール3を取って落ち込み、更に両親から凡人扱いされたことで荒れてしまい、不良になっていた。清舟が書にかける努力を目の当たりにして心を入れ替えるなど、根は良い人物。野球部。料理がうまいという特技があり、清舟にそれを指摘されて以来、進路に関して思うところがある様子。料理人になることを決めてからは、髪を黒く染めた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/f5/25968_crt_m65gw.jpg?r=1405222649",
+        "link": "https://bgm.tv/character/25968",
+        "categorie": "person"
+      },
+      {
+        "id": "25969",
+        "label": "久保田阳菜",
+        "info": "通称「ひな」。分校に通う少女。なるの親友でいつも一緒にいる。7歳。髪飾りがチャームポイント。人見知りが激しく、哀しくても嬉しくてもすぐに泣く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/1a/25969_crt_2wyqS.jpg?r=1405222881",
+        "link": "https://bgm.tv/character/25969",
+        "categorie": "person"
+      },
+      {
+        "id": "25971",
+        "label": "新井明彦",
+        "info": "通称「あっきー」。タマの弟。同じく眼鏡着用者。しっかり者。姉の夢を真剣に応援している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/69/25971_crt_gOTkp.jpg?r=1405223347",
+        "link": "https://bgm.tv/character/25971",
+        "categorie": "person"
+      },
+      {
+        "id": "25973",
+        "label": "坂本一行",
+        "info": "なるが通う分校の教頭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/e6/25973_crt_je9jd.jpg?r=1405223631",
+        "link": "https://bgm.tv/character/25973",
+        "categorie": "person"
+      },
+      {
+        "id": "25974",
+        "label": "川藤鹰生",
+        "info": "半田の中学時代からの友人で良き理解者。画商を営む。眼鏡をかけていて、両肩に鷹のタトゥーを入れている。酒に滅法弱い。あっきーを気に入っており、株の相談などを持ちかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/e3/25974_crt_wEy5Q.jpg?r=1405223929",
+        "link": "https://bgm.tv/character/25974",
+        "categorie": "person"
+      },
+      {
+        "id": "25975",
+        "label": "神崎康介",
+        "info": "書道家。18歳。高校生。童顔の美青年だが、腹黒。半田をリスペクトしており、書風も島暮らしを始める前の彼にそっくりだった。鳴華院展大賞受賞者。根っからのインドア派で、虫や貝などがとにかく苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/dd/25975_crt_Bh5hn.jpg?r=1405224131",
+        "link": "https://bgm.tv/character/25975",
+        "categorie": "person"
+      },
+      {
+        "id": "25970",
+        "label": "大滨谦太郎",
+        "info": "通称「ケン太」。分校に通うガキ大将の少年。漁師の子。坊主頭。なるのことが気になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/4b/25970_crt_3zNFF.jpg?r=1405223016",
+        "link": "https://bgm.tv/character/25970",
+        "categorie": "person"
+      },
+      {
+        "id": "25972",
+        "label": "木户裕次郎",
+        "info": "清舟が住む借家の管理人で、集落の代表を務める壮年の男性。ヒロシの父親。眼鏡をかけている。自称メタボ。家では野菜を育てている。噂を広めるのが好き。実は半田清舟の父親とは知り合いである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/db/25972_crt_TLslO.jpg?r=1405223518",
+        "link": "https://bgm.tv/character/25972",
+        "categorie": "person"
+      },
+      {
+        "id": "34232",
+        "label": "オンデの踊り子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34232",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

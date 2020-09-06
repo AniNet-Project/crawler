@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16380",
+        "label": "樱市子",
+        "info": "容姿端麗・頭脳明晰・無病息災を地でいく超絶ラッキーガール。努力をしたことが無く、自己中心的で利己主義。だが寂しがり屋な一面も合わせ持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/2a/16380_crt_6y3it.jpg",
+        "link": "https://bgm.tv/character/16380",
+        "categorie": "person"
+      },
+      {
+        "id": "16381",
+        "label": "贫保田红叶",
+        "info": "为了保持「幸」と「不幸」的均衡，贫乏之神从上级接管了市子，没什么可让贫乳之神担心的。为了从市子身上夺取幸福能力，贫乏之神需要自己掏钱购买使用各种各样的神道具。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/48/16381_crt_IKc18.jpg",
+        "link": "https://bgm.tv/character/16381",
+        "categorie": "person"
+      },
+      {
+        "id": "16383",
+        "label": "山吹",
+        "info": "貧乏界での紅葉の上司。電話を使って人間界の紅葉に指令を出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/63/16383_crt_r64v1.jpg",
+        "link": "https://bgm.tv/character/16383",
+        "categorie": "person"
+      },
+      {
+        "id": "16384",
+        "label": "诹访野菊之进",
+        "info": "市子の幼少時から仕えていた執事。誰よりも市子の事を知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/eb/16384_crt_7f34L.jpg",
+        "link": "https://bgm.tv/character/16384",
+        "categorie": "person"
+      },
+      {
+        "id": "16385",
+        "label": "艳光路抚子",
+        "info": "世界トップクラスの大財閥・艶光路家の長女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/91/16385_crt_A8iiH.jpg",
+        "link": "https://bgm.tv/character/16385",
+        "categorie": "person"
+      },
+      {
+        "id": "16812",
+        "label": "石蕗惠汰",
+        "info": "市子の同級生。不在の両親に代わり４人の弟妹の面倒をみている一家の大黒柱。 アルバイト命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/29/16812_crt_zlbkb.jpg",
+        "link": "https://bgm.tv/character/16812",
+        "categorie": "person"
+      },
+      {
+        "id": "16814",
+        "label": "龙胆岚丸",
+        "info": "転校してきた市子の同級生。男勝りで熱血硬派な空手少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/a8/16814_crt_mqqMV.jpg",
+        "link": "https://bgm.tv/character/16814",
+        "categorie": "person"
+      },
+      {
+        "id": "16815",
+        "label": "犬神桃央",
+        "info": "紅葉が召喚した犬神。超ドMな性格でチワワに変身できる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a5/16815_crt_52HkP.jpg",
+        "link": "https://bgm.tv/character/16815",
+        "categorie": "person"
+      },
+      {
+        "id": "16816",
+        "label": "懋毘威",
+        "info": "悪霊退治の旅をする僧侶。霊感を持つが、かなりのドスケベ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/fc/16816_crt_v8vEc.jpg",
+        "link": "https://bgm.tv/character/16816",
+        "categorie": "person"
+      },
+      {
+        "id": "16382",
+        "label": "熊谷",
+        "info": "紅葉をサポートする謎のぬいぐるみ。意外としっかりモノ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/7e/16382_crt_uGIxO.jpg",
+        "link": "https://bgm.tv/character/16382",
+        "categorie": "person"
+      },
+      {
+        "id": "1684",
+        "label": "贝吉塔",
+        "info": "赛亚人的王子，是一个强壮、骄傲、寂寞而且严肃的人。贝吉塔的妻子是布尔玛，他们生有一子特兰克斯，一女布拉。虽然贝吉塔的自尊心很强，不过他的实力始终不及主角孙悟空。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f9/1684_u91WP.jpg",
+        "link": "https://bgm.tv/character/1684",
+        "categorie": "person"
+      },
+      {
+        "id": "58836",
+        "label": "バスの運転手",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ea/58836_crt_Aczwc.jpg",
+        "link": "https://bgm.tv/character/58836",
+        "categorie": "person"
+      },
+      {
+        "id": "58838",
+        "label": "駐車場の男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/95/58838_crt_I9FfI.jpg",
+        "link": "https://bgm.tv/character/58838",
+        "categorie": "person"
+      },
+      {
+        "id": "58839",
+        "label": "医師",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/4c/58839_crt_79Nx7.jpg",
+        "link": "https://bgm.tv/character/58839",
+        "categorie": "person"
+      },
+      {
+        "id": "3333",
+        "label": "龟仙人",
+        "info": "武天老師（むてんろうし）と称される武術の達人にして、孫悟飯、牛魔王、孫悟空、クリリン、ヤムチャらの師。守銭奴であの世へ自由に出入り出来る占い師・占いババは実姉。身長165cm、体重44kg。エイジ430年生まれで、年齢は319歳（初登場時）～354歳（原作、『ドラゴンボールZ』終了時）。劇中ではピッコロ大魔王編、魔人ブウ編にて2度、死を迎えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/e9/3333_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3333",
+        "categorie": "person"
+      },
+      {
+        "id": "3345",
+        "label": "孙悟空",
+        "info": "孙悟空是日本漫画《七龙珠》和系列动画《七龙珠》、《七龙珠Z》、《七龙珠GT》、《七龙珠改》中登场的主角。重情重义、绝不欺骗朋友、喜欢帮助人，就算对着敌人也会帮助他（曾给短笛仙豆，把气给了命垂的弗利萨）。 多次救了地球和全人类，妻子为琪琪，有孙悟饭和孙悟天两个儿子。成名绝技有龟派气功、界王拳、元气弹等等。 成人时身高175cm、体重62kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/a7/3345_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3345",
+        "categorie": "person"
+      },
+      {
+        "id": "6893",
+        "label": "眼珠老爹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/d0/6893_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6893",
+        "categorie": "person"
+      },
+      {
+        "id": "15697",
+        "label": "黒神目泷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/6d/15697_crt_J437z.jpg?r=1459506728",
+        "link": "https://bgm.tv/character/15697",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

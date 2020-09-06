@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1698",
+        "label": "四月一日君寻",
+        "info": "　私立十字学园的高中生。有看得见和吸引妖怪的能力，因为那个能力而在另一个世界是名人。雨童女曾说过“其本身的存在就是不可能的”。戴着眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/87/1698_crt_AL2He.jpg",
+        "link": "https://bgm.tv/character/1698",
+        "categorie": "person"
+      },
+      {
+        "id": "1699",
+        "label": "百目鬼静",
+        "info": "　四月一日的同学，学级委员。参加弓道社、是一间庙宇住持的独生子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/69/1699_crt_3I31A.jpg?r=1416813491",
+        "link": "https://bgm.tv/character/1699",
+        "categorie": "person"
+      },
+      {
+        "id": "2626",
+        "label": "五月七日小羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/54/2626_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2626",
+        "categorie": "person"
+      },
+      {
+        "id": "1697",
+        "label": "壹原侑子",
+        "info": "　能以同等代价实现愿望的店的前任店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/bc/1697_crt_L8tBf.jpg",
+        "link": "https://bgm.tv/character/1697",
+        "categorie": "person"
+      },
+      {
+        "id": "1701",
+        "label": "全露",
+        "info": "　侑子创造的两名侍童之一，被昵称为小全，没有灵魂，不能离开侑子的店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/ad/1701_crt_0eE80.jpg",
+        "link": "https://bgm.tv/character/1701",
+        "categorie": "person"
+      },
+      {
+        "id": "2624",
+        "label": "多露",
+        "info": "　侑子创造的两名侍童之一，被昵称为小多，没有灵魂，不能离开侑子的店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/74/2624_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2624",
+        "categorie": "person"
+      },
+      {
+        "id": "1700",
+        "label": "九轩葵",
+        "info": "　四月一日的同班同学，长相可爱，个性天真善良，但却是与四月一日相反的家事白痴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/e0/1700_4ewve.jpg",
+        "link": "https://bgm.tv/character/1700",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

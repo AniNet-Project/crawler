@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18431",
+        "label": "阿鲁巴·弗流林戈",
+        "info": "非常阳光开朗勇于直接指出错误的少年。是国王召集来讨伐魔王的“传说中勇者的子孙”中的一员，初出茅庐的新人勇者。得意技是吐槽——虽然本人不想承认。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/39/18431_crt_LFp15.jpg?r=1364444051",
+        "link": "https://bgm.tv/character/18431",
+        "categorie": "person"
+      },
+      {
+        "id": "18432",
+        "label": "罗斯",
+        "info": "アルバの相棒となる王宮戦士。身の丈ほどの大きな剣を背中に担ぎ、左腕に謎の機械を装備している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/36/18432_crt_N7t96.jpg?r=1366089911",
+        "link": "https://bgm.tv/character/18432",
+        "categorie": "person"
+      },
+      {
+        "id": "18433",
+        "label": "露琪",
+        "info": "ある目的のため、人間界をひとりで旅していた魔族の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/33/18433_crt_yZYdY.jpg?r=1364444080",
+        "link": "https://bgm.tv/character/18433",
+        "categorie": "person"
+      },
+      {
+        "id": "18434",
+        "label": "弗伊弗伊",
+        "info": "顔に大きな傷を持つ金髪の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/ca/18434_crt_Pxw5x.jpg?r=1364444089",
+        "link": "https://bgm.tv/character/18434",
+        "categorie": "person"
+      },
+      {
+        "id": "18435",
+        "label": "鲁道鲁夫",
+        "info": "フォイフォイ付きの王宮老兵士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/f4/18435_crt_kzQIw.jpg?r=1364444099",
+        "link": "https://bgm.tv/character/18435",
+        "categorie": "person"
+      },
+      {
+        "id": "18436",
+        "label": "小公主",
+        "info": "ハンチング帽をかぶった美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/ff/18436_crt_wjwJx.jpg?r=1364444161",
+        "link": "https://bgm.tv/character/18436",
+        "categorie": "person"
+      },
+      {
+        "id": "19129",
+        "label": "1月",
+        "info": "戦勇。に登場する魔族である ",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/cd/19129_crt_A17hW.jpg",
+        "link": "https://bgm.tv/character/19129",
+        "categorie": "person"
+      },
+      {
+        "id": "18437",
+        "label": "伪熊猫",
+        "info": "黄色い体、長い首、つぶらな瞳、という愛くるしい外見に反し、凶暴なモンスター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/6c/18437_crt_t3tRt.jpg",
+        "link": "https://bgm.tv/character/18437",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

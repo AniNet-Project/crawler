@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7057",
+        "label": "工藤有希子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/5b/7057_crt_LxllL.jpg?r=1444824170",
+        "link": "https://bgm.tv/character/7057",
+        "categorie": "person"
+      },
+      {
+        "id": "9962",
+        "label": "安部麻巳子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/82/9962_crt_anidb.jpg?r=1444814478",
+        "link": "https://bgm.tv/character/9962",
+        "categorie": "person"
+      },
+      {
+        "id": "9971",
+        "label": "安斎明日香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/dd/9971_crt_anidb.jpg?r=1444814449",
+        "link": "https://bgm.tv/character/9971",
+        "categorie": "person"
+      },
+      {
+        "id": "7053",
+        "label": "工藤優作",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/66/7053_crt_sJujN.jpg?r=1444824067",
+        "link": "https://bgm.tv/character/7053",
+        "categorie": "person"
+      },
+      {
+        "id": "9963",
+        "label": "若林先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/c7/9963_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9963",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

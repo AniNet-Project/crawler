@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61850",
+        "label": "本田华子",
+        "info": "明るく活発で、勉強も運動もできる女の子。しかし、残念ながらあまり頭が良くない。リア充に憧れており、自らもリア充になるため中学ではソフトテニス部で活動しているが、一向にリア充になれる気配はない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/2a/61850_crt_4BRqR.jpg?r=1531115253",
+        "link": "https://bgm.tv/character/61850",
+        "categorie": "person"
+      },
+      {
+        "id": "61851",
+        "label": "奥莉薇",
+        "info": "華子たちの中学に転校してきた金髪碧眼の女の子。両親共に外国人で、一見すると英語が堪能なように見えるが、日本生まれの日本育ちのため、英語は不得意でほとんど喋ることができない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ad/61851_crt_WqwWT.jpg?r=1533534947",
+        "link": "https://bgm.tv/character/61851",
+        "categorie": "person"
+      },
+      {
+        "id": "61852",
+        "label": "野村香纯",
+        "info": "放課後に教室で本を読んでいるような優等生タイプに見えるが、英語が壊滅的にできない残念な女の子。苦手な英語を克服するため、オリヴィアに英語を教えて欲しいとお願いをする。中学生とは思えない巨乳の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/76/61852_crt_qRYPQ.jpg?r=1531300426",
+        "link": "https://bgm.tv/character/61852",
+        "categorie": "person"
+      },
+      {
+        "id": "65276",
+        "label": "樋口千纱都",
+        "info": "華子たちが通う女子校の英語教師で副担任。ショートカットが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/60/65276_crt_8IfXe.jpg",
+        "link": "https://bgm.tv/character/65276",
+        "categorie": "person"
+      },
+      {
+        "id": "65271",
+        "label": "前多",
+        "info": "華子の家が雇っている執事の男性。華子やその弟が幼少の頃から雇われており家族同然の付き合いである。オリヴィアからは「前多ちゃん」と呼ばれている。運転免許は持っていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/59/65271_crt_0NWah.jpg?r=1533970323",
+        "link": "https://bgm.tv/character/65271",
+        "categorie": "person"
+      },
+      {
+        "id": "65272",
+        "label": "学生会长",
+        "info": "華子たちが通う女子校の生徒会長。たまちゃんのような容姿。あそ研の行動に手を焼くことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/e2/65272_crt_nVhyC.jpg",
+        "link": "https://bgm.tv/character/65272",
+        "categorie": "person"
+      },
+      {
+        "id": "66877",
+        "label": "副会长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/c9/66877_crt_eOSvz.jpg?r=1540357286",
+        "link": "https://bgm.tv/character/66877",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

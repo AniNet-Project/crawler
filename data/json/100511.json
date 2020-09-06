@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1228",
+        "label": "塞巴斯蒂安·米卡利斯",
+        "info": "凡多姆海威家的执事，与夏尔订下了契约。他真正身份是恶魔。品格、修养、知识、样貌都是完美，是真正完美的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/9b/1228_crt_66huh.jpg",
+        "link": "https://bgm.tv/character/1228",
+        "categorie": "person"
+      },
+      {
+        "id": "1229",
+        "label": "夏尔·凡多姆海威",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/68/1229_crt_ii44s.jpg?r=1422632634",
+        "link": "https://bgm.tv/character/1229",
+        "categorie": "person"
+      },
+      {
+        "id": "30853",
+        "label": "杰尔米牧师",
+        "info": "教会の牧師。シエルとは昔からの知り合い。 セバスチャンが密かに手配した伝書梟の手紙を受け取り、嵐の中ファントムハイヴ邸にやって来る。 アーサー以上の観察眼を持ち、ファントムハイヴ邸連続殺人事件の捜査に乗り出す。 正体は変装したセバスチャン。捜査の際、常に先回りする形で、自身の死体役とジェレミー役とを行き来していた。また、ジェレミーとしてセバスチャンの遺体を検死する際は遺体をフェルペスにすり替え、後にグレイ伯爵が白布を剥ぐまでのうちに着替えて死体役に戻っている（その際、手袋だけ殺害当時のものに替え忘れている）。 自身が“シロ”だという証拠となったライシーアム劇場の『湖上の美人』のチケットは、前日にセバスチャンが夜会を抜け出して実際に鑑賞したもの（ただし2分しか観られなかった）。 名前はシャーロック・ホームズを演じた俳優であるジェレミー・ブレットとベイジル・ラスボーンに由来すると思われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/ed/30853_crt_6AtTO.jpg?r=1425878817",
+        "link": "https://bgm.tv/character/30853",
+        "categorie": "person"
+      },
+      {
+        "id": "18445",
+        "label": "菲尼安",
+        "info": "通稱「菲尼」，凡多姆海伍家的園丁。男性。個性爽朗但迷糊非凡的年輕人，為最典型的笨蛋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/e4/18445_crt_8925c.jpg?r=1455808052",
+        "link": "https://bgm.tv/character/18445",
+        "categorie": "person"
+      },
+      {
+        "id": "26264",
+        "label": "スネーク",
+        "info": "サーカス団員。担当演目は蛇使い。寡黙で、発言は常に連れている蛇の言葉として話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/8b/26264_crt_ESkKM.jpg?r=1410080363",
+        "link": "https://bgm.tv/character/26264",
+        "categorie": "person"
+      },
+      {
+        "id": "26675",
+        "label": "梅琳",
+        "info": "ファントムハイヴ家の家女中。眼鏡をかけた極度のドジ。極度の遠視。「～ですだよ」など訛りの入った口調で話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/a1/26675_crt_kfha1.jpg",
+        "link": "https://bgm.tv/character/26675",
+        "categorie": "person"
+      },
+      {
+        "id": "26676",
+        "label": "巴鲁托",
+        "info": "ファントムハイヴ家の料理人。だがいつも料理は黒こげで、今までまともな料理を作ったことは一度もない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/2f/26676_crt_B466z.jpg",
+        "link": "https://bgm.tv/character/26676",
+        "categorie": "person"
+      },
+      {
+        "id": "26677",
+        "label": "田中",
+        "info": "ファントムハイヴ家の家令。シエルの父の代からファントムハイヴ家に仕えている。時にリアルな姿となることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/26/26677_crt_wp076.jpg",
+        "link": "https://bgm.tv/character/26677",
+        "categorie": "person"
+      },
+      {
+        "id": "26678",
+        "label": "葬仪屋",
+        "info": "シエルの知人で、度々情報を提供している。情報料として「極上の笑い」を要求するお笑いマニアでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/56/26678_crt_Ffp3M.jpg",
+        "link": "https://bgm.tv/character/26678",
+        "categorie": "person"
+      },
+      {
+        "id": "26679",
+        "label": "刘",
+        "info": "貿易会社「崑崙」支店長だが、実は上海マフィア「青幇(チンパン)」の幹部で裏社会にも詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/e1/26679_crt_xN6JC.jpg?r=1410583498",
+        "link": "https://bgm.tv/character/26679",
+        "categorie": "person"
+      },
+      {
+        "id": "26680",
+        "label": "阿格尼",
+        "info": "仕事、人柄共によく出来た、ソーマに付き従う執事。神の右手を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/7a/26680_crt_8W8wx.jpg",
+        "link": "https://bgm.tv/character/26680",
+        "categorie": "person"
+      },
+      {
+        "id": "26681",
+        "label": "蓝猫",
+        "info": "劉(ラウ)の側にいつも寄り添う義妹。無表情で寡黙だが、チャイナ服が似合う美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/63/26681_crt_RHXC6.jpg?r=1425878970",
+        "link": "https://bgm.tv/character/26681",
+        "categorie": "person"
+      },
+      {
+        "id": "26702",
+        "label": "索玛·阿斯曼·加达尔",
+        "info": "ベンガル藩王国第26王子。英国人にさらわれた自分の乳母を連れ戻すため、渡英してきたインドの王子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/4a/26702_crt_A0efq.jpg",
+        "link": "https://bgm.tv/character/26702",
+        "categorie": "person"
+      },
+      {
+        "id": "26703",
+        "label": "查尔斯·格雷",
+        "info": "女王守護を執り行う秘書武官兼執事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/1f/26703_crt_tuj82.jpg",
+        "link": "https://bgm.tv/character/26703",
+        "categorie": "person"
+      },
+      {
+        "id": "26705",
+        "label": "查尔斯·菲普斯",
+        "info": "女王守護を執り行う秘書武官兼執事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/6e/26705_crt_bTyv6.jpg?r=1410583376",
+        "link": "https://bgm.tv/character/26705",
+        "categorie": "person"
+      },
+      {
+        "id": "26731",
+        "label": "伊丽莎白·米多福特",
+        "info": "シエルのいとこにあたる許婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/b2/26731_crt_DNKgN.jpg",
+        "link": "https://bgm.tv/character/26731",
+        "categorie": "person"
+      },
+      {
+        "id": "30847",
+        "label": "亚瑟",
+        "info": "眼科医兼、若手の売れない小説家。気が弱いが冷静な性格。服の袖口にメモをとる癖がある。 マイナー誌に一度だけ掲載された長編小説をシエルが非常に気に入っていたことから、ファントムハイヴ邸で行われた正餐会へ招待され事件に遭遇する。 事件解決後、その裏に隠された真実を知ることになり、その際に交わした口止めの約束を守るため、逃げるようにさまざまな作品を生み出し続ける。その事件を基にした小説も書いていたが、後年暖炉に入れて焼却した。作中で語られる事件の全容は、この小説を基にしている。 当時の時代設定、ファーストネームや職業などの人物設定から、彼の素性はあのイギリスの有名な推理小説家であることが仄めかされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/8b/30847_crt_hw0z3.jpg?r=1425874972",
+        "link": "https://bgm.tv/character/30847",
+        "categorie": "person"
+      },
+      {
+        "id": "30848",
+        "label": "凯欧陆克·冯·纪门斯",
+        "info": "ヴィクトリア女王陛下の遠縁でありドイツからの客人で、正餐会の主賓。バンベルガー銀行名誉役員。 堅物で厳格な人物だが非常に酒癖が悪く、酔っ払ってアイリーンやメイリンに手を出すなどの一面も見られる。また、熟成中のワインを勝手に拝借する一面も見せる。 正餐会の夜、ファントムハイヴ邸の客室で何者かに殺害されているところを発見されるが、それはグレイに唆されての狂言だった。しかし正餐会の目的はヴィクトリア女王の仕組んだドイツ軍事力強化阻止のためのジーメンス殺害であり、その命を受けていたグレイに後に本当に殺害される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/ca/30848_crt_9nf97.jpg?r=1425875555",
+        "link": "https://bgm.tv/character/30848",
+        "categorie": "person"
+      },
+      {
+        "id": "30849",
+        "label": "卡尔·乌多利",
+        "info": "ダイヤモンド研磨業を営むウッドリー社の社長。正餐会の招待客。 プライドが高く、企業の経営者として、シエルに密かに対抗意識を抱いている。事件が起こると真っ先にシエルを疑い、彼に殴りかかろうとしてタナカに止められた。 ダイヤで手に入れた非合法な武器を紛争地域に売り捌く武器商人という裏の顔を持ち、シエル達に目をつけられていた。 シエル達の策略で連続殺人事件の真犯人の濡れ衣を着せられ連行されるが、シエルに罪を着せられず苛立ったグレイに腹いせに頭部を剣で貫かれ死亡する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/81/30849_crt_M8MP2.jpg?r=1425875832",
+        "link": "https://bgm.tv/character/30849",
+        "categorie": "person"
+      },
+      {
+        "id": "30850",
+        "label": "巴特立克·菲尔佩斯",
+        "info": "造船・海運企業の大手であるブルー・スター・ライン社の御曹司。正餐会の招待客。 非常に気が弱く常におどおどしているが、会社の貿易課を任されるほどの手腕を持つ。劉とは商売敵の関係にある。 死亡したジーメンスの隣の部屋で宿泊することを恐れたためシエルの部屋を借りることになるが、シエルの命を狙って侵入したスネーク（の毒蛇）に殺害される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/2f/30850_crt_00tVb.jpg?r=1425876368",
+        "link": "https://bgm.tv/character/30850",
+        "categorie": "person"
+      },
+      {
+        "id": "30851",
+        "label": "格利姆史毕·金",
+        "info": "有名な舞台演出家。正餐会の招待客。正餐会に連れ添ったアイリーンとは密かに交際している。 明るい性格だが気が短く喧嘩っ早い。酔った勢いでアイリーンに手を出したジーメンスに激昂してトラブルを起こしかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/54/30851_crt_7729X.jpg?r=1425878261",
+        "link": "https://bgm.tv/character/30851",
+        "categorie": "person"
+      },
+      {
+        "id": "30852",
+        "label": "爱琳·迪亚斯",
+        "info": "オペラ歌手。正餐会の招待客。 国立劇場を満席にするほどの実力と美貌を持つ。グリムズビーと密かに交際している。 グリムズビーより12歳年上。アンチエイジングの一環として、赤シソのエキスを飲んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/23/30852_crt_vtNHP.jpg?r=1425878407",
+        "link": "https://bgm.tv/character/30852",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

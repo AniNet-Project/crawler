@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6447",
+        "label": "藤原千代子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/cc/6447_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6447",
+        "categorie": "person"
+      },
+      {
+        "id": "54530",
+        "label": "钥匙先生",
+        "info": "絵描きの青年。千代子が想いを寄せる相手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/fa/54530_crt_ChUqw.jpg?r=1496149571",
+        "link": "https://bgm.tv/character/54530",
+        "categorie": "person"
+      },
+      {
+        "id": "54531",
+        "label": "立花源也",
+        "info": "60歳。映像制作会社「VISUAL STUDIO LOTUS」の社長。若い頃は「銀映」に所属していた。千代子の熱烈なファンであり、彼女に対する暴言は許さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d3/54531_crt_rX4R4.jpg?r=1496149710",
+        "link": "https://bgm.tv/character/54531",
+        "categorie": "person"
+      },
+      {
+        "id": "54532",
+        "label": "井田恭二",
+        "info": "28歳。「VISUAL STUDIO LOTUS」のカメラマン。千代子については「昔有名だった女優」程度の認識しかない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/d6/54532_crt_qM8MF.jpg?r=1496149784",
+        "link": "https://bgm.tv/character/54532",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

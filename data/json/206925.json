@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42202",
+        "label": "张楚岚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/1a/42202_crt_z9f5l.jpg?r=1465022630",
+        "link": "https://bgm.tv/character/42202",
+        "categorie": "person"
+      },
+      {
+        "id": "42203",
+        "label": "冯宝宝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/c3/42203_crt_blXSX.jpg?r=1465023218",
+        "link": "https://bgm.tv/character/42203",
+        "categorie": "person"
+      },
+      {
+        "id": "42208",
+        "label": "张灵玉",
+        "info": "龙虎山正一派天师的关门弟子，天师候选人，张楚岚的竞争对手之一，阴五雷使用者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/fd/42208_crt_A4XR1.jpg",
+        "link": "https://bgm.tv/character/42208",
+        "categorie": "person"
+      },
+      {
+        "id": "61836",
+        "label": "诸葛青",
+        "info": "是汉丞相诸葛亮的后代。据说是几十年来唯一掌握所有武侯奇门的武侯派传人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/16/61836_crt_0DdvG.jpg",
+        "link": "https://bgm.tv/character/61836",
+        "categorie": "person"
+      },
+      {
+        "id": "61837",
+        "label": "王也",
+        "info": "武当派弟子，八奇技之一风后奇门的继承人，靠占卜洞察并悟出天道，却又自我作出甘于投身乱世的选择。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/db/61837_crt_2eGGE.jpg",
+        "link": "https://bgm.tv/character/61837",
+        "categorie": "person"
+      },
+      {
+        "id": "42204",
+        "label": "徐三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f7/42204_crt_8z67v.jpg?r=1467376042",
+        "link": "https://bgm.tv/character/42204",
+        "categorie": "person"
+      },
+      {
+        "id": "42205",
+        "label": "徐四",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/aa/42205_crt_XUqZC.jpg?r=1467376071",
+        "link": "https://bgm.tv/character/42205",
+        "categorie": "person"
+      },
+      {
+        "id": "42207",
+        "label": "夏禾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/e3/42207_crt_IGjZb.jpg?r=1465022835",
+        "link": "https://bgm.tv/character/42207",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}
