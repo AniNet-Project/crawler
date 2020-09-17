@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9504",
+        "label": "葵杏奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/3d/9504_crt_VwuDd.jpg",
+        "link": "https://bgm.tv/character/9504",
+        "categorie": "person"
+      },
+      {
+        "id": "76175",
+        "label": "ルウ・ルー",
+        "info": "地球衛星軌道上の宇宙ステーション\"コスモベース\"指令セクションのオペレーターで、１２歳の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/9a/76175_crt_uR25P.jpg?r=1584050354",
+        "link": "https://bgm.tv/character/76175",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14028",
+        "label": "麻生花奈",
+        "info": "眼鏡に拘りのある文学部の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/96/14028_crt_tkZ70.jpg",
+        "link": "https://bgm.tv/character/14028",
+        "categorie": "person"
+      },
+      {
+        "id": "14029",
+        "label": "神谷纯一",
+        "info": "文学部の後輩。眼鏡をかけていない花奈に一目惚れするが、眼鏡は大嫌いなので事あるごとに眼鏡を外させようとする。目が悪いのを花奈に指摘され眼鏡をかけることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/8e/14029_crt_ATnYz.jpg",
+        "link": "https://bgm.tv/character/14029",
+        "categorie": "person"
+      },
+      {
+        "id": "14030",
+        "label": "一户绫",
+        "info": "超売れっ子アイドル。プライベートで来ていた行き付けのカフェで宮口に声をかけられ、偽名「きむらしずか」を名乗ってデートする事に。1話にもカメオ登場している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/93/14030_crt_8zdxw.jpg",
+        "link": "https://bgm.tv/character/14030",
+        "categorie": "person"
+      },
+      {
+        "id": "14031",
+        "label": "宫口孝史",
+        "info": "カフェでウェイターのバイトをしている青年。常連客の女の子をアイドルとは知らずにデートに誘う。かなりの鈍感で芸能人だと明かされても一戸綾とは気づかなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/c5/14031_crt_dDxQz.jpg",
+        "link": "https://bgm.tv/character/14031",
+        "categorie": "person"
+      },
+      {
+        "id": "14032",
+        "label": "木村美月",
+        "info": "白樺文化大学に通う大学生のカップル。付き合って半年なのに淡白な徹の態度に不安を抱いており、ちょっとした興味で徹の眼鏡をかけてみることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/d4/14032_crt_KWBcM.jpg",
+        "link": "https://bgm.tv/character/14032",
+        "categorie": "person"
+      },
+      {
+        "id": "14033",
+        "label": "田中徹",
+        "info": "大学生のカップル。かなりの奥手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/35/14033_crt_Hz2W1.jpg",
+        "link": "https://bgm.tv/character/14033",
+        "categorie": "person"
+      },
+      {
+        "id": "14034",
+        "label": "苍本千秋",
+        "info": "中学3年の時に転校して辰也と同じクラスになる。中学の頃はアガリ症でよく辰也にからかわれていたが、高校に入ってクール&ビューティな性格になり辰也を避けていた。アガると眼鏡が曇る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/90/14034_crt_n8ooS.jpg",
+        "link": "https://bgm.tv/character/14034",
+        "categorie": "person"
+      },
+      {
+        "id": "14035",
+        "label": "高塚辰也",
+        "info": "中学の頃はよく千秋をからかっていたり仲がよかったが、高校に入ってからは避けられるようになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/32/14035_crt_87CN1.jpg",
+        "link": "https://bgm.tv/character/14035",
+        "categorie": "person"
+      },
+      {
+        "id": "14036",
+        "label": "眼镜店的店员",
+        "info": "ヒロイン達が利用している眼鏡ショップの店員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/dc/14036_crt_Kniu7.jpg",
+        "link": "https://bgm.tv/character/14036",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

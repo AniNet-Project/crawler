@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21023",
+        "label": "五郎",
+        "info": "德国牧羊犬种警犬。本作品唯一识破杀手先生真面目的角色，但是却因为杀手先生很喜欢动物，加上自己的动物本能，所以每次举发杀手先生的行动都以失败收场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/89/21023_crt_HiBiB.jpg?r=1376933109",
+        "link": "https://bgm.tv/character/21023",
+        "categorie": "person"
+      },
+      {
+        "id": "21024",
+        "label": "杀手",
+        "info": "本名是“佐佐木龙一”，本作品的主角，职业就是职业杀手，本作登场的角色也多用杀手先生称呼主角，兴趣是捐血。杀手先生从小就立志要成为一个顶尖杀手，高中毕业之后便进入杀手专科学校（二年制）就读。虽然拥有超一流的杀人技巧，热衷开发各种崭新的杀人方式，但是只有在接到委托时才会杀人，如果没有委托则什么生命都不能伤害，杀手先生也严格遵守除了和杀人有关以外的全部法律。收受的委托费用从1日圆到数十亿日圆不等，端看要杀害的对象是“萝蔔”或是人。喜爱使用的枪械是贝瑞塔M92F手枪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/bc/21024_crt_5rsnE.jpg",
+        "link": "https://bgm.tv/character/21024",
+        "categorie": "person"
+      },
+      {
+        "id": "21025",
+        "label": "警长",
+        "info": "中年警官，本名原田，作品中通称“警长”。为了连续杀人事件而苦恼，虽然与杀手先生有多次近距离接触，但是一直没发现杀手先生的真面目。与杀手先生有许多暧昧的BL桥段。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/d0/21025_crt_VMrfI.jpg",
+        "link": "https://bgm.tv/character/21025",
+        "categorie": "person"
+      },
+      {
+        "id": "21026",
+        "label": "为父报仇的少女",
+        "info": "日本福井县内浦半岛人，由于父亲在5年前（第2集是6年前）被杀害，因此执意要向杀手先生报复的17岁水手服巨乳美少女。使用的武器是日本刀（初期是命名为“爱刀”的竹刀）。女高中生在剧情中的对话经常因为发音类似而被杀手先生曲解为带有色情意味的话语，例如：免疫→Men液→进而联想到精液。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/c1/21026_crt_66pEz.jpg?r=1376933055",
+        "link": "https://bgm.tv/character/21026",
+        "categorie": "person"
+      },
+      {
+        "id": "21027",
+        "label": "弟子",
+        "info": "父母双亡的小学生，因为崇拜杀手这项职业而主动拜杀手先生为师。是登场角色里面最具有常识的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/72/21027_crt_t24PI.jpg?r=1376933074",
+        "link": "https://bgm.tv/character/21027",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

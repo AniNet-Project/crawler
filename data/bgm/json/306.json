@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4266",
+        "label": "日高佐菜",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/ba/4266_crt_1Ee8x.jpg",
+        "link": "https://bgm.tv/character/4266",
+        "categorie": "person"
+      },
+      {
+        "id": "4267",
+        "label": "八代菜菜香",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/75/4267_crt_10ho1.jpg",
+        "link": "https://bgm.tv/character/4267",
+        "categorie": "person"
+      },
+      {
+        "id": "4268",
+        "label": "若月朱里",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/fd/4268_crt_KP1G3.jpg",
+        "link": "https://bgm.tv/character/4268",
+        "categorie": "person"
+      },
+      {
+        "id": "19985",
+        "label": "若月修辅",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/ed/19985_crt_DttMt.jpg",
+        "link": "https://bgm.tv/character/19985",
+        "categorie": "person"
+      },
+      {
+        "id": "4269",
+        "label": "藤村柚希",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/36/4269_crt_znH58.jpg",
+        "link": "https://bgm.tv/character/4269",
+        "categorie": "person"
+      },
+      {
+        "id": "19986",
+        "label": "织部麻绪衣",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/c5/19986_crt_d85xX.jpg",
+        "link": "https://bgm.tv/character/19986",
+        "categorie": "person"
+      },
+      {
+        "id": "19998",
+        "label": "星野爱沙美",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/04/19998_crt_k86Rz.jpg",
+        "link": "https://bgm.tv/character/19998",
+        "categorie": "person"
+      },
+      {
+        "id": "19999",
+        "label": "持田雏子",
+        "info": "アニメ版",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d3/19999_crt_mfAWN.jpg",
+        "link": "https://bgm.tv/character/19999",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38024",
+        "label": "羽岛伊月",
+        "info": "为了创造出前所未有的终极妹妹而努力奋斗，爱妹成痴的小说家。乍看之下自信满满但却意外的纤细，个性似乎很单纯却又复杂，爱闹别扭但本性直率。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/56/38024_crt_Y3Boo.jpg?r=1508011709",
+        "link": "https://bgm.tv/character/38024",
+        "categorie": "person"
+      },
+      {
+        "id": "38025",
+        "label": "羽岛千寻",
+        "info": "伊月的义弟。（但在第一卷末透露，实际上是义妹）",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/9b/38025_crt_LV5kV.jpg?r=1508012150",
+        "link": "https://bgm.tv/character/38025",
+        "categorie": "person"
+      },
+      {
+        "id": "38026",
+        "label": "可儿那由多",
+        "info": "爱慕伊月的后辈作家。高中时期读了羽岛伊月的小说后，才成为小说家。出道瞬间便成为旗下第一的人气作家，不世出的天才。行动原理是100%对伊月的爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/d9/38026_crt_WcheP.jpg?r=1508652248",
+        "link": "https://bgm.tv/character/38026",
+        "categorie": "person"
+      },
+      {
+        "id": "38027",
+        "label": "白川京",
+        "info": "伊月的大学同学，在伊月大学休学后仍维持着交情。迷惘于恋爱、友情与梦想之间的青春三冠王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/ce/38027_crt_yS5Q6.jpg?r=1508942178",
+        "link": "https://bgm.tv/character/38027",
+        "categorie": "person"
+      },
+      {
+        "id": "38029",
+        "label": "不破春斗",
+        "info": "伊月同期的作家。擅长独立制作，自制动画的进度也很顺利。是个爽朗的帅哥，但其实胸中暗藏着热血情感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/f7/38029_crt_Su2NF.jpg?r=1508012471",
+        "link": "https://bgm.tv/character/38029",
+        "categorie": "person"
+      },
+      {
+        "id": "58442",
+        "label": "土岐健次郎",
+        "info": "伊月的责任编辑。被伊月与剎那等个性刁钻的创作者们摆弄而疲于奔命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/76/58442_crt_NebBc.jpg?r=1508013031",
+        "link": "https://bgm.tv/character/58442",
+        "categorie": "person"
+      },
+      {
+        "id": "38028",
+        "label": "惠那刹那",
+        "info": "插画师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/c7/38028_crt_m6MID.jpg?r=1509900429",
+        "link": "https://bgm.tv/character/38028",
+        "categorie": "person"
+      },
+      {
+        "id": "38030",
+        "label": "大野艾希莉",
+        "info": "税务人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/85/38030_crt_m4glW.jpg",
+        "link": "https://bgm.tv/character/38030",
+        "categorie": "person"
+      },
+      {
+        "id": "57677",
+        "label": "三国山蚕",
+        "info": "羽岛伊月作品《妹妹的一切》的漫画作者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/be/57677_crt_70fzw.jpg?r=1509900811",
+        "link": "https://bgm.tv/character/57677",
+        "categorie": "person"
+      },
+      {
+        "id": "59830",
+        "label": "三田洞彩音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/63/59830_crt_SS0zR.jpg",
+        "link": "https://bgm.tv/character/59830",
+        "categorie": "person"
+      },
+      {
+        "id": "58450",
+        "label": "春斗的妹妹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/dc/58450_crt_6XE1Z.jpg?r=1508082977",
+        "link": "https://bgm.tv/character/58450",
+        "categorie": "person"
+      },
+      {
+        "id": "58390",
+        "label": "爱丽丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/3e/58390_crt_0d5ob.jpg",
+        "link": "https://bgm.tv/character/58390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

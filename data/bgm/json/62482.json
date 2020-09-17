@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46230",
+        "label": "蛯原うらら",
+        "info": "連帯保証人になっていたフィアンセの借金のカタに黒銅学園へ2学期から赴任することになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/d1/46230_crt_H0VG1.jpg",
+        "link": "https://bgm.tv/character/46230",
+        "categorie": "person"
+      },
+      {
+        "id": "46232",
+        "label": "沖田明日香",
+        "info": "体育大学卒業後、学園生を更正させる目的のため、自らの意志で黒銅学園へ赴任を決めた熱血体育教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/d7/46232_crt_Oftt7.jpg",
+        "link": "https://bgm.tv/character/46232",
+        "categorie": "person"
+      },
+      {
+        "id": "46233",
+        "label": "水島果穂",
+        "info": "良家の子女が通うことで有名な聖華女学園に通う女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/29/46233_crt_QgZHD.jpg",
+        "link": "https://bgm.tv/character/46233",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

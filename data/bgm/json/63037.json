@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45664",
+        "label": "市ノ瀬沙夜香",
+        "info": "眼鏡女教師。24才。藤ノ宮学園音楽教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/d2/45664_crt_fZlGu.jpg",
+        "link": "https://bgm.tv/character/45664",
+        "categorie": "person"
+      },
+      {
+        "id": "45665",
+        "label": "森川有紀",
+        "info": "瑛里華を尊敬し、慕う同級生。藤ノ宮学園１年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/dc/45665_crt_2xKnz.jpg",
+        "link": "https://bgm.tv/character/45665",
+        "categorie": "person"
+      },
+      {
+        "id": "45663",
+        "label": "藤堂瑛里華",
+        "info": "高飛車な義姉。18才。藤ノ宮学園３年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/82/45663_crt_3R8p3.jpg",
+        "link": "https://bgm.tv/character/45663",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

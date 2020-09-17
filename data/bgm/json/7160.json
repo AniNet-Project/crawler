@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4735",
+        "label": "ピート・パンプス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/12/4735_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4735",
+        "categorie": "person"
+      },
+      {
+        "id": "14585",
+        "label": "樱野鹤纱",
+        "info": "一部外伝的物語を除く本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/29/14585_crt_0dCMX.jpg?r=1402739002",
+        "link": "https://bgm.tv/character/14585",
+        "categorie": "person"
+      },
+      {
+        "id": "4736",
+        "label": "リア・ガーネット・ジュイティエフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f6/4736_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4736",
+        "categorie": "person"
+      },
+      {
+        "id": "4737",
+        "label": "高島優司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/2e/4737_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4737",
+        "categorie": "person"
+      },
+      {
+        "id": "4738",
+        "label": "桜野ヨーコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/e0/4738_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4738",
+        "categorie": "person"
+      },
+      {
+        "id": "4739",
+        "label": "新田一也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/50/4739_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4739",
+        "categorie": "person"
+      },
+      {
+        "id": "14586",
+        "label": "三代雪江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/1c/14586_crt_RvP2G.jpg",
+        "link": "https://bgm.tv/character/14586",
+        "categorie": "person"
+      },
+      {
+        "id": "14587",
+        "label": "本城ミカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/55/14587_crt_awffT.jpg",
+        "link": "https://bgm.tv/character/14587",
+        "categorie": "person"
+      },
+      {
+        "id": "14588",
+        "label": "桜野ミイ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14588",
+        "categorie": "person"
+      },
+      {
+        "id": "14589",
+        "label": "至藤响子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/f5/14589_crt_UuUPk.jpg",
+        "link": "https://bgm.tv/character/14589",
+        "categorie": "person"
+      },
+      {
+        "id": "14590",
+        "label": "ガブリエラ・パピィ・ポッゾ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/07/14590_crt_wGb5u.jpg",
+        "link": "https://bgm.tv/character/14590",
+        "categorie": "person"
+      },
+      {
+        "id": "14591",
+        "label": "ドミニク・ミラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/63/14591_crt_XGX4x.jpg",
+        "link": "https://bgm.tv/character/14591",
+        "categorie": "person"
+      },
+      {
+        "id": "14592",
+        "label": "オルガ・モトコワ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/90/14592_crt_Th0c7.jpg",
+        "link": "https://bgm.tv/character/14592",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

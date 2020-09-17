@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40305",
+        "label": "ファウナ",
+        "info": "突然主人公の前に現れた女神3姉妹の次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/22/40305_crt_zvCQP.jpg",
+        "link": "https://bgm.tv/character/40305",
+        "categorie": "person"
+      },
+      {
+        "id": "40306",
+        "label": "ヨルズ",
+        "info": "ファウナの姉で女神3姉妹の長女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b4/40306_crt_q45HQ.jpg",
+        "link": "https://bgm.tv/character/40306",
+        "categorie": "person"
+      },
+      {
+        "id": "40307",
+        "label": "レウコテア",
+        "info": "ファウナの妹で女神3姉妹の三女。 性格はおてんばで見栄っ張り。 ファウナのことは慕っているが、ヨルズにはよくからかわれているので仲が悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/a1/40307_crt_YyK77.jpg",
+        "link": "https://bgm.tv/character/40307",
+        "categorie": "person"
+      },
+      {
+        "id": "40309",
+        "label": "川神幸介",
+        "info": "弁天荘に住む大学1年生。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/40309",
+        "categorie": "person"
+      },
+      {
+        "id": "40308",
+        "label": "黒崎なつき",
+        "info": "前管理人の孫娘で、この夏休みから管理人代行を務めている。 しっかり者を装うがかなりのドジっ娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/de/40308_crt_sS6Sz.jpg",
+        "link": "https://bgm.tv/character/40308",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

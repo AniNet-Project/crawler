@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59373",
+        "label": "倉沢綾奈",
+        "info": "明るく元気、困っている人を見過ごせない性格の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/3b/59373_crt_oprEZ.jpg",
+        "link": "https://bgm.tv/character/59373",
+        "categorie": "person"
+      },
+      {
+        "id": "59375",
+        "label": "松浦杏樹",
+        "info": "学園に勤めるエロティックな国語教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/d5/59375_crt_przHr.jpg",
+        "link": "https://bgm.tv/character/59375",
+        "categorie": "person"
+      },
+      {
+        "id": "59376",
+        "label": "高崎愛歌",
+        "info": "主人公の義妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/ea/59376_crt_iI1fy.jpg",
+        "link": "https://bgm.tv/character/59376",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

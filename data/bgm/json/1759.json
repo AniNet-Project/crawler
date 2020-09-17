@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3797",
+        "label": "兰顿·萨斯顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2f/3797_crt_02Z0C.jpg?r=1469283816",
+        "link": "https://bgm.tv/character/3797",
+        "categorie": "person"
+      },
+      {
+        "id": "13282",
+        "label": "优莱卡",
+        "info": "年龄不明，高性能LFO \"Nirvash\"尼尔瓦修 的驾驶员，从外表上看是个留有青色头发的15、16岁少女。优莱卡是由珊瑚岩产生的与人类以同等形态交流的媒介，最初本身并没有任何感情。由于能够良好的驾驭LFO并听从命令，最初被作为军队的杀人工具。但她在与人类的接触中逐渐学习到了情感，在一次屠杀行动中收留了三个家人被自己杀死的孤儿。后脱离军队加入了月光号，偶然认识兰顿后，对自己的存在感产生疑惑，并出现了情绪不稳定的状况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/f1/13282_crt_K1g56.jpg?r=1469283769",
+        "link": "https://bgm.tv/character/13282",
+        "categorie": "person"
+      },
+      {
+        "id": "3798",
+        "label": "塔荷",
+        "info": "月光号の操舵士。26歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/72/3798_crt_hmMvM.jpg?r=1469283857",
+        "link": "https://bgm.tv/character/3798",
+        "categorie": "person"
+      },
+      {
+        "id": "3796",
+        "label": "安妮莫奈",
+        "info": "交響詩篇エウレカセブン",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/02/3796_crt_ZYOA4.jpg?r=1469283732",
+        "link": "https://bgm.tv/character/3796",
+        "categorie": "person"
+      },
+      {
+        "id": "3819",
+        "label": "霍兰德·诺瓦克",
+        "info": "月光州舰长，29岁。因为成为世界滑空大赛史上最年轻的冠军而一举成名，成为无数年轻人的偶像。同时也是前军队的成员，优秀的LFO驾驶员，驾驶著909，并且在领导能力、战术安排、战斗力上都有着过人的能力。表面上对人对事漫不经心，实际上非常重视船上的每一个成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/96/3819_crt_lfLgL.jpg?r=1469283925",
+        "link": "https://bgm.tv/character/3819",
+        "categorie": "person"
+      },
+      {
+        "id": "13295",
+        "label": "多米尼克·索莱尔",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/67/13295_crt_Kff2J.jpg",
+        "link": "https://bgm.tv/character/13295",
+        "categorie": "person"
+      },
+      {
+        "id": "16435",
+        "label": "月光号",
+        "info": "神出鬼没的反体制组织月光州的母舰，是大约三年前从塔州连邦军叛逃的霍兰德等人夺取的军队巡洋舰SL-1200系列的二号舰，船体外表是白底和黄绿色。月光号本是军队上层秘密开发，作为特殊部队用的最新型飞船，装备了火箭助推器，可以在大气层外高速航行以及弹道飞行；高性能雷达和隐形装置CIF等特殊装置。武装有三筒激光加农炮X2，24筒导弹垂直发射器X4，大型导弹发射器X2。以搭载LFO的大型舰来说具有极高的机动性，在战斗中由主舵手调整速度角度等可以做出侧滚翻、翻跟斗等机动动作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/3b/16435_crt_8mIMu.jpg",
+        "link": "https://bgm.tv/character/16435",
+        "categorie": "person"
+      },
+      {
+        "id": "16441",
+        "label": "尼尔瓦修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/04/16441_crt_MvDqW.jpg",
+        "link": "https://bgm.tv/character/16441",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

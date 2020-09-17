@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12852",
+        "label": "伊達・ウィングフィールド・黎子",
+        "info": "担任网球部的部长，唯一的三年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/85/12852_crt_hl5Jb.jpg",
+        "link": "https://bgm.tv/character/12852",
+        "categorie": "person"
+      },
+      {
+        "id": "12855",
+        "label": "杉山修一",
+        "info": "本作的主人公，网球部的二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/93/12855_crt_W0l0i.jpg",
+        "link": "https://bgm.tv/character/12855",
+        "categorie": "person"
+      },
+      {
+        "id": "16103",
+        "label": "神和住真夜",
+        "info": "转入修一班级的转校生少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/72/16103_crt_s1mvw.jpg",
+        "link": "https://bgm.tv/character/16103",
+        "categorie": "person"
+      },
+      {
+        "id": "12854",
+        "label": "松冈萤",
+        "info": "主人公的青梅竹马兼同学，担任网球部副部长的二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/20/12854_crt_JLzR8.jpg",
+        "link": "https://bgm.tv/character/12854",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

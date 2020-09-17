@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4346",
+        "label": "テンコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/2a/4346_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4346",
+        "categorie": "person"
+      },
+      {
+        "id": "4347",
+        "label": "神山治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/b3/4347_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4347",
+        "categorie": "person"
+      },
+      {
+        "id": "4348",
+        "label": "神山美佐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5d/4348_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4348",
+        "categorie": "person"
+      },
+      {
+        "id": "4349",
+        "label": "霧島進一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/d5/4349_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4349",
+        "categorie": "person"
+      },
+      {
+        "id": "4350",
+        "label": "橘愛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/4e/4350_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4350",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

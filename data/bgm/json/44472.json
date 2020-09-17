@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34632",
+        "label": "白河友美",
+        "info": "白河学园理事长的女儿，学园的支配者，女王大人。由于孤独而表现得极其骄傲任性，对羽丘美久抱着强烈的恨意。打算让暗之新体操蔓延到学园每个角落，让大家都来体味她的孤独感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/8f/34632_crt_7Ants.jpg?r=1438470673",
+        "link": "https://bgm.tv/character/34632",
+        "categorie": "person"
+      },
+      {
+        "id": "34634",
+        "label": "羽丘美久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/94/34634_crt_c7jz3.jpg?r=1438470643",
+        "link": "https://bgm.tv/character/34634",
+        "categorie": "person"
+      },
+      {
+        "id": "34633",
+        "label": "樱井若菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/26/34633_crt_bbL2o.jpg",
+        "link": "https://bgm.tv/character/34633",
+        "categorie": "person"
+      },
+      {
+        "id": "34635",
+        "label": "相泽优",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/ca/34635_crt_0sGdI.jpg",
+        "link": "https://bgm.tv/character/34635",
+        "categorie": "person"
+      },
+      {
+        "id": "34636",
+        "label": "森下梢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/70/34636_crt_K9W2W.jpg",
+        "link": "https://bgm.tv/character/34636",
+        "categorie": "person"
+      },
+      {
+        "id": "34637",
+        "label": "千家圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/9e/34637_crt_0Ww1W.jpg",
+        "link": "https://bgm.tv/character/34637",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

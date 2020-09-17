@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25087",
+        "label": "史雷",
+        "info": "子どもの頃に偶然手にした「天遺見聞録」と呼ばれる古代遺跡の",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/40/25087_crt_re1Zp.jpg?r=1594787133",
+        "link": "https://bgm.tv/character/25087",
+        "categorie": "person"
+      },
+      {
+        "id": "25088",
+        "label": "艾莉莎",
+        "info": "ハイランド王国の王位継承権の末席に位置する王女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/d3/25088_crt_554QF.jpg?r=1464885240",
+        "link": "https://bgm.tv/character/25088",
+        "categorie": "person"
+      },
+      {
+        "id": "25089",
+        "label": "米库里欧",
+        "info": "赤ん坊の頃からスレイと一緒に成長してきた天族の青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/1b/25089_crt_0TUuZ.jpg?r=1419963368",
+        "link": "https://bgm.tv/character/25089",
+        "categorie": "person"
+      },
+      {
+        "id": "25090",
+        "label": "艾多娜",
+        "info": "パワフルな地属性の天響術（てんきょうじゅつ）を操る天族の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/f9/25090_crt_VHf4M.jpg",
+        "link": "https://bgm.tv/character/25090",
+        "categorie": "person"
+      },
+      {
+        "id": "25091",
+        "label": "莱菈",
+        "info": "『引き抜いた者は導師になる』とされる伝説の聖剣に宿る、天族の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/bf/25091_crt_8R8jW.jpg",
+        "link": "https://bgm.tv/character/25091",
+        "categorie": "person"
+      },
+      {
+        "id": "25171",
+        "label": "戴泽尔",
+        "info": "友を奪った憑魔を捜し出して復讐を果たすため、人間社会の影で暗躍を続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/45/25171_crt_G33Tn.jpg",
+        "link": "https://bgm.tv/character/25171",
+        "categorie": "person"
+      },
+      {
+        "id": "29053",
+        "label": "扎比达",
+        "info": "「憑魔は地獄へ連れてってやるのが俺の流儀さ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/02/29053_crt_kIu0l.jpg",
+        "link": "https://bgm.tv/character/29053",
+        "categorie": "person"
+      },
+      {
+        "id": "29054",
+        "label": "罗洁",
+        "info": "「もう遅いぞ？助けたこと後悔しても」",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/ba/29054_crt_pVRVU.jpg",
+        "link": "https://bgm.tv/character/29054",
+        "categorie": "person"
+      },
+      {
+        "id": "42244",
+        "label": "ルナール",
+        "info": "暗殺ギルド「風の骨」のメンバー。物心がついた頃から盗みを行っており、人殺しを楽しむ歪んだ心のため憑魔となっている。人と狐が混じった異形の姿をしており、憑魔を認識しているスレイたちからは「キツネ男」と呼ばれている。当初は依頼通りアリーシャを暗殺しようとするも、スレイたちに邪魔をされ仕返しにスレイを殺そうとした為、一般人を殺そうとしたことからロゼたちから牽制を受ける。その後は姿を消し、憑魔としてサイモンやヘルダルフに従っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/04/42244_crt_vXgqn.jpg?r=1464887972",
+        "link": "https://bgm.tv/character/42244",
+        "categorie": "person"
+      },
+      {
+        "id": "43086",
+        "label": "马尔德兰",
+        "info": "「蒼き戦乙女（ヴァルキリー）」の異名を持つハイランド王国の女性騎士。アリーシャの師匠であり目標とする人物でもある。若年期は病弱であり、没落した家のために大変な苦労をして身を立てており、アリーシャ以上に潔癖な性格だった。アリーシャに対しては複雑な愛憎を抱くが、自身とは正反対の道を行く弟子の行く末を見届けたいという真情も確かに抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/6d/43086_crt_bBbrp.jpg?r=1467703336",
+        "link": "https://bgm.tv/character/43086",
+        "categorie": "person"
+      },
+      {
+        "id": "43087",
+        "label": "西蒙",
+        "info": "導師に従わず、天族の仲間も持たず単独で行動する謎の天族。地水火風の属性によらない特殊な力を持つ。己に誓約をかけ、幻術を操ることができる。本人も意図せず、加護を与えた者に幻覚や悪夢を見せてしまう業を抱えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/a3/43087_crt_cecVi.jpg?r=1475071691",
+        "link": "https://bgm.tv/character/43087",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73250",
+        "label": "白河彩音",
+        "info": "白河姉妹の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/36/73250_crt_9h11p.jpg",
+        "link": "https://bgm.tv/character/73250",
+        "categorie": "person"
+      },
+      {
+        "id": "73251",
+        "label": "白河琴音",
+        "info": "白河姉妹の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/ab/73251_crt_lLj3N.jpg",
+        "link": "https://bgm.tv/character/73251",
+        "categorie": "person"
+      },
+      {
+        "id": "73252",
+        "label": "须藤和志",
+        "info": "白河家の近所のアパートに暮らす大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/70/73252_crt_BHhIt.jpg",
+        "link": "https://bgm.tv/character/73252",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

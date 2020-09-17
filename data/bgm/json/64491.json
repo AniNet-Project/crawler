@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51555",
+        "label": "帯刀一花",
+        "info": "帯刀 一花（たてわき いちか）",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/77/51555_crt_T4UO8.jpg",
+        "link": "https://bgm.tv/character/51555",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

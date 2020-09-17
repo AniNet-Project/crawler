@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42388",
+        "label": "僵尸猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/af/42388_crt_dBsAH.jpg",
+        "link": "https://bgm.tv/character/42388",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

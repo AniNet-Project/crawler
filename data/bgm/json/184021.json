@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46768",
+        "label": "山田乌鹭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/01/46768_crt_46e1z.jpg",
+        "link": "https://bgm.tv/character/46768",
+        "categorie": "person"
+      },
+      {
+        "id": "46769",
+        "label": "卡戎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/00/46769_crt_N5il9.jpg",
+        "link": "https://bgm.tv/character/46769",
+        "categorie": "person"
+      },
+      {
+        "id": "46770",
+        "label": "面鸣白亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/e7/46770_crt_ZB3tJ.jpg",
+        "link": "https://bgm.tv/character/46770",
+        "categorie": "person"
+      },
+      {
+        "id": "46771",
+        "label": "面鸣红玉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/79/46771_crt_Ad7sV.jpg",
+        "link": "https://bgm.tv/character/46771",
+        "categorie": "person"
+      },
+      {
+        "id": "46772",
+        "label": "仓敷隘路",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/33/46772_crt_4xI3o.jpg",
+        "link": "https://bgm.tv/character/46772",
+        "categorie": "person"
+      },
+      {
+        "id": "46773",
+        "label": "叶蕾卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b8/46773_crt_qiWWW.jpg",
+        "link": "https://bgm.tv/character/46773",
+        "categorie": "person"
+      },
+      {
+        "id": "46774",
+        "label": "眼镜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c0/46774_crt_0N99f.jpg",
+        "link": "https://bgm.tv/character/46774",
+        "categorie": "person"
+      },
+      {
+        "id": "46775",
+        "label": "爱丽丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/53/46775_crt_fZZIx.jpg",
+        "link": "https://bgm.tv/character/46775",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

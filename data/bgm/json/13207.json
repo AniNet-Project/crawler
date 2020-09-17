@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74507",
+        "label": "瑶玲",
+        "info": "天国的负责守护书籍的小狐狸，贪玩淘气，会使用魔法。因弄丢《圆梦书》来到人间，可又在1000年的寻找期限里虚度了999年，直到最后一年才真正认真寻找。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/2a/74507_crt_FW5g0.jpg",
+        "link": "https://bgm.tv/character/74507",
+        "categorie": "person"
+      },
+      {
+        "id": "74509",
+        "label": "江贤",
+        "info": "小学三年级男生，喜欢独自思考，喜欢和大自然中的各种生物对话，不喜欢运动。虽然在很多人面前不会讲话或着表现，可有时对自己认为正确的东西会很固执己见。江贤因母亲去世而变得消沉，现居住在父母的故乡狐狸村。在与瑶玲共同寻找《圆梦书》的过程中，江贤逐渐变得开朗起来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/18/74509_crt_qvGvW.jpg",
+        "link": "https://bgm.tv/character/74509",
+        "categorie": "person"
+      },
+      {
+        "id": "74511",
+        "label": "瑶兰",
+        "info": "瑶玲在遇到危机时的变身，一个擅长魔法的女孩。有一头桃红色的长发、约人类九岁女孩的样貌，穿着多变。瑶玲在变身前所使用的魔杖，会在变身为瑶兰后变成一条项链，佩戴在她的脖子上。喜欢听人家称赞她可爱。可瑶玲变身为瑶兰有时间限制，关于瑶兰的真实身份，江贤开始不知情，后来才知道真相。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/e9/74511_crt_T9B4D.jpg",
+        "link": "https://bgm.tv/character/74511",
+        "categorie": "person"
+      },
+      {
+        "id": "74512",
+        "label": "江贤爸",
+        "info": "很爱妻子和孩子的温暖感性的人。作为童话作家连插图都亲自画出来。爱好是做料理和缝制娃娃。虽然马马虎虎，却是不无视儿子的意见的像朋友一样的爸爸，一个拥有独特的时尚感的男人，后与花店姐姐坠入爱河。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/69/74512_crt_ikdsp.jpg",
+        "link": "https://bgm.tv/character/74512",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

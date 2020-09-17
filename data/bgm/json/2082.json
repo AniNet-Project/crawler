@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9621",
+        "label": "松丸文彦",
+        "info": "胃ノ上製菓（のち、ブリスコイノウエ）に勤めるサラリーマン。当初は総務部に所属していたが、木の葉型スナック「は」の社内公募CM企画で松丸の企画が採用され、念願の企画部に異動。劇場アニメ「ジュピター大帝」のジュピターロボの声優に一般人ながら抜擢される。26歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/97/9621_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9621",
+        "categorie": "person"
+      },
+      {
+        "id": "28466",
+        "label": "恩田赤",
+        "info": "女主角，「傑內事務所」（ジェネプロ）所屬的新人聲優，20歲，最大的夢想是為奧黛麗·赫本配音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/7d/28466_crt_bGrIQ.jpg?r=1539484800",
+        "link": "https://bgm.tv/character/28466",
+        "categorie": "person"
+      },
+      {
+        "id": "9622",
+        "label": "田中",
+        "info": "胃ノ上製菓（のち、ブリスコイノウエ）に勤める女子社員で経理担当。松丸が想いを寄せていたが、振られてしまう相手。異性関係に現在の性格を作った過去を持つらしい、謎を秘めている幸薄い女性でもある。年齢的には松丸と同世代である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/c8/9622_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9622",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

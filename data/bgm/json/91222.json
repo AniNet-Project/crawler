@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24777",
+        "label": "关谷鸣",
+        "info": "容姿も頭も、何だってフツウの中学２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/fd/24777_crt_7V5yr.jpg?r=1399118396",
+        "link": "https://bgm.tv/character/24777",
+        "categorie": "person"
+      },
+      {
+        "id": "24776",
+        "label": "哈娜·N·芳婷史坦",
+        "info": "アメリカから転校してきた中学２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/a6/24776_crt_1P1uj.jpg?r=1399117965",
+        "link": "https://bgm.tv/character/24776",
+        "categorie": "person"
+      },
+      {
+        "id": "24778",
+        "label": "笹目夜弥",
+        "info": "なるの同級生で、小学校からの親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/2a/24778_crt_zuUkL.jpg?r=1399118682",
+        "link": "https://bgm.tv/character/24778",
+        "categorie": "person"
+      },
+      {
+        "id": "24780",
+        "label": "西御门多美",
+        "info": "なるの幼なじみで、生徒会副会長を務める中学３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/b4/24780_crt_h2Z2h.jpg?r=1399119656",
+        "link": "https://bgm.tv/character/24780",
+        "categorie": "person"
+      },
+      {
+        "id": "24779",
+        "label": "常盘真智",
+        "info": "タミと同級生の生徒会会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/bb/24779_crt_m1icN.jpg?r=1399119212",
+        "link": "https://bgm.tv/character/24779",
+        "categorie": "person"
+      },
+      {
+        "id": "26295",
+        "label": "常盘沙里",
+        "info": "由比浜学園中学の教師であり、真智の姉。25歳独身。なる達のクラスの担任であり、担当教科は英語。教師になってから3年と新任ではあるが、生徒の間での信頼は厚く、「サリーちゃん」という仇名で呼び親しまれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/32/26295_crt_Dh42P.jpg?r=1407224023",
+        "link": "https://bgm.tv/character/26295",
+        "categorie": "person"
+      },
+      {
+        "id": "26061",
+        "label": "大船胜",
+        "info": "よさこいショップ「勝」の店長。33歳独身。スキンヘッドにサングラスが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/2c/26061_crt_CwtYt.jpg?r=1406020194",
+        "link": "https://bgm.tv/character/26061",
+        "categorie": "person"
+      },
+      {
+        "id": "35539",
+        "label": "梶原亚里沙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/31/35539_crt_PFyFf.jpg",
+        "link": "https://bgm.tv/character/35539",
+        "categorie": "person"
+      },
+      {
+        "id": "26810",
+        "label": "哈娜的父亲",
+        "info": "マンションでハナと2人で暮らしている。活動的なハナにもっと女の子らしく振る舞って欲しく思い、女の子らしい家具を買い与えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e8/26810_crt_9u16U.jpg?r=1410291817",
+        "link": "https://bgm.tv/character/26810",
+        "categorie": "person"
+      },
+      {
+        "id": "26198",
+        "label": "多美的父亲",
+        "info": "顎鬚を蓄えスーツを纏った長身の人物。娘の事を誇りに思っており、多美からも「お父様」と慕われている。なるの父親・直正とは親友である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/79/26198_crt_0F5dZ.jpg?r=1406699492",
+        "link": "https://bgm.tv/character/26198",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

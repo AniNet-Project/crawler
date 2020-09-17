@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29200",
+        "label": "多龙芝",
+        "info": "本名：レパード　９歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/54/29200_crt_qGHXr.jpg?r=1421665739",
+        "link": "https://bgm.tv/character/29200",
+        "categorie": "person"
+      },
+      {
+        "id": "29201",
+        "label": "伯亚基",
+        "info": "本名：ヴォルトカッツェ　25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/47/29201_crt_mBN5K.jpg?r=1421665974",
+        "link": "https://bgm.tv/character/29201",
+        "categorie": "person"
+      },
+      {
+        "id": "29202",
+        "label": "东兹拉",
+        "info": "トンズラー",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a7/29202_crt_alT9R.jpg?r=1421666517",
+        "link": "https://bgm.tv/character/29202",
+        "categorie": "person"
+      },
+      {
+        "id": "29203",
+        "label": "欧达",
+        "info": "ドロンジョのペットで木登りが好きな子豚。ドロンジョの住む辺境の地ではブタを大切にする伝承が残っており、人々から「オダさま」と崇められ、甘やかされていたために丸々と太っている。カタコトの単語を喋るが性格は悪く、それが目つきや態度に表れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/93/29203_crt_hqseH.jpg",
+        "link": "https://bgm.tv/character/29203",
+        "categorie": "person"
+      },
+      {
+        "id": "29204",
+        "label": "多萝西",
+        "info": "ヤッターマンによって辺境の地へ追いやられたドロンジョの末裔。レパードの母親で、従者のヴォルトカッツェやエレパントゥスと共に穏やかに暮らしていた。いつか先祖の罪が許され、娘がヤッター・キングダムで幸せに暮らすことを夢見ていたが、ある日、不治の病にかかってしまったことから、ドロンボーの冒険の旅が始まることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/c0/29204_crt_xybHr.jpg?r=1421666856",
+        "link": "https://bgm.tv/character/29204",
+        "categorie": "person"
+      },
+      {
+        "id": "29205",
+        "label": "ガリナ",
+        "info": "17歳。気弱でひ弱だが正義感の強い少年。幼なじみのアルエットを守るため、強くなりたいと思っている。手先は器用で、得意の裁縫でアルエットの服をたくさん作っている。父母はヤッターマンに連行され強制労働のあげく死亡。そのため、ヤッターマンを憎んでいる。ひょんな事からドロンジョたちと出会い、共に旅をするようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e7/29205_crt_580mP.jpg?r=1421667011",
+        "link": "https://bgm.tv/character/29205",
+        "categorie": "person"
+      },
+      {
+        "id": "29206",
+        "label": "アルエット",
+        "info": "17歳。おっとりとした性格だが、ささいな事ですぐにメソメソしてしまう内向的な面を持つ。幼なじみのガリナと同じように、父母と愛犬のワンちゃんを強制労働のためヤッター・キングダムに連行されてしまう。その精神的なショックから視力を失ってしまった……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/92/29206_crt_75eTJ.jpg?r=1421667144",
+        "link": "https://bgm.tv/character/29206",
+        "categorie": "person"
+      },
+      {
+        "id": "29207",
+        "label": "骷髅兵卫",
+        "info": "CAST",
+        "image": "https:",
+        "link": "https://bgm.tv/character/29207",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

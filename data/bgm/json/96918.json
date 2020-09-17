@@ -1,0 +1,237 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24786",
+        "label": "界冢伊奈帆",
+        "info": "地球に暮らす高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/23/24786_crt_O9ttL.jpg?r=1399121451",
+        "link": "https://bgm.tv/character/24786",
+        "categorie": "person"
+      },
+      {
+        "id": "24783",
+        "label": "斯雷因·特洛耶特",
+        "info": "火星に暮らす地球人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/59/24783_crt_EEc6X.jpg?r=1399121506",
+        "link": "https://bgm.tv/character/24783",
+        "categorie": "person"
+      },
+      {
+        "id": "24785",
+        "label": "艾瑟依拉姆·薇瑟·艾莉欧斯亚",
+        "info": "火星の独立国家・ヴァース帝国の皇女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/56/24785_crt_yUUB3.jpg?r=1399121556",
+        "link": "https://bgm.tv/character/24785",
+        "categorie": "person"
+      },
+      {
+        "id": "26402",
+        "label": "莱艾·阿里亚修",
+        "info": "新芦原市内に住む少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/09/26402_crt_IQ7n8.jpg?r=1410079773",
+        "link": "https://bgm.tv/character/26402",
+        "categorie": "person"
+      },
+      {
+        "id": "26345",
+        "label": "网文韵子",
+        "info": "地球に暮らす高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/5a/26345_crt_kHnH4.jpg?r=1410079656",
+        "link": "https://bgm.tv/character/26345",
+        "categorie": "person"
+      },
+      {
+        "id": "26693",
+        "label": "加姆・格拉弗特曼",
+        "info": "地球に暮らす高校生。伊奈帆の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/43/26693_crt_IIHvf.jpg?r=1410080021",
+        "link": "https://bgm.tv/character/26693",
+        "categorie": "person"
+      },
+      {
+        "id": "26695",
+        "label": "尼娜·克莱因",
+        "info": "地球に暮らす高校生。伊奈帆の同級生で、韻子の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/e8/26695_crt_8fe4p.jpg?r=1410080071",
+        "link": "https://bgm.tv/character/26695",
+        "categorie": "person"
+      },
+      {
+        "id": "26697",
+        "label": "箕国起助",
+        "info": "地球に暮らす高校生。伊奈帆の同級生で、アダ名は「オコジョ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/10/26697_crt_5J5j6.jpg?r=1410080125",
+        "link": "https://bgm.tv/character/26697",
+        "categorie": "person"
+      },
+      {
+        "id": "26346",
+        "label": "界冢雪",
+        "info": "地球連邦軍の軍人。階級は准尉。伊奈帆の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/95/26346_crt_xF5YB.jpg?r=1410079627",
+        "link": "https://bgm.tv/character/26346",
+        "categorie": "person"
+      },
+      {
+        "id": "26347",
+        "label": "鞠户孝一郎",
+        "info": "地球連邦軍の軍人。階級は大尉。伊奈帆達が通う芦原高校の訓練教官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/93/26347_crt_3sXpP.jpg?r=1410079482",
+        "link": "https://bgm.tv/character/26347",
+        "categorie": "person"
+      },
+      {
+        "id": "26701",
+        "label": "耶贺赖苍真",
+        "info": "新芦原市内に住む医師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/a3/26701_crt_AIpTd.jpg?r=1410080221",
+        "link": "https://bgm.tv/character/26701",
+        "categorie": "person"
+      },
+      {
+        "id": "26348",
+        "label": "达尔扎娜·马克芭蕾吉",
+        "info": "地球連合軍の軍人。階級は大佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/c4/26348_crt_JZBdh.jpg?r=1410079374",
+        "link": "https://bgm.tv/character/26348",
+        "categorie": "person"
+      },
+      {
+        "id": "26698",
+        "label": "不见咲薰",
+        "info": "地球連合軍の軍人。階級は中佐。ダルザナの補佐を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a5/26698_crt_v7HyK.jpg?r=1410080147",
+        "link": "https://bgm.tv/character/26698",
+        "categorie": "person"
+      },
+      {
+        "id": "26687",
+        "label": "埃德尔利佐",
+        "info": "火星人。アセイラムの侍女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/fc/26687_crt_3Y4yJ.jpg?r=1410079802",
+        "link": "https://bgm.tv/character/26687",
+        "categorie": "person"
+      },
+      {
+        "id": "26688",
+        "label": "库鲁特欧",
+        "info": "火星人。爵位は伯爵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/df/26688_crt_vwXx4.jpg?r=1410079839",
+        "link": "https://bgm.tv/character/26688",
+        "categorie": "person"
+      },
+      {
+        "id": "26689",
+        "label": "扎兹巴鲁姆",
+        "info": "火星人。爵位は伯爵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/66/26689_crt_XNScK.jpg?r=1410079863",
+        "link": "https://bgm.tv/character/26689",
+        "categorie": "person"
+      },
+      {
+        "id": "26690",
+        "label": "托尔兰",
+        "info": "火星騎士で身分は男爵。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/38/26690_crt_40l0p.jpg?r=1410079892",
+        "link": "https://bgm.tv/character/26690",
+        "categorie": "person"
+      },
+      {
+        "id": "26692",
+        "label": "布兰德",
+        "info": "火星騎士のひとりで、身分は騎士。クルーテオの揚陸城に逗留している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/64/26692_crt_ZQZbQ.jpg?r=1410080000",
+        "link": "https://bgm.tv/character/26692",
+        "categorie": "person"
+      },
+      {
+        "id": "26696",
+        "label": "祭阳希咲",
+        "info": "芦原高校の生徒で、伊奈帆たちの先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/60/26696_crt_w9fFs.jpg?r=1410080105",
+        "link": "https://bgm.tv/character/26696",
+        "categorie": "person"
+      },
+      {
+        "id": "26699",
+        "label": "诘城佑太朗",
+        "info": "芦原高校の生徒で、祭陽の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/c4/26699_crt_C9P3r.jpg?r=1410080166",
+        "link": "https://bgm.tv/character/26699",
+        "categorie": "person"
+      },
+      {
+        "id": "26694",
+        "label": "笕至刚",
+        "info": "地球連合軍の軍人。階級は軍曹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/a8/26694_crt_gmsgS.jpg?r=1410080042",
+        "link": "https://bgm.tv/character/26694",
+        "categorie": "person"
+      },
+      {
+        "id": "26691",
+        "label": "费米安",
+        "info": "火星騎士のひとりで、身分は伯爵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/23/26691_crt_bRiYH.jpg?r=1410079945",
+        "link": "https://bgm.tv/character/26691",
+        "categorie": "person"
+      },
+      {
+        "id": "26700",
+        "label": "雷利加利亚·薇瑟·莱巴瑟",
+        "info": "火星の初代皇帝。アセイラムの祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/c3/26700_crt_5h20i.jpg?r=1410080197",
+        "link": "https://bgm.tv/character/26700",
+        "categorie": "person"
+      },
+      {
+        "id": "26910",
+        "label": "ジョン・ヒュームレイ",
+        "info": "鞠戸の戦友だった連合軍の軍人で、ダルザナの実兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/32/26910_crt_DY512.jpg?r=1410708690",
+        "link": "https://bgm.tv/character/26910",
+        "categorie": "person"
+      },
+      {
+        "id": "26908",
+        "label": "オルレイン",
+        "info": "ザーツバルムの婚約者だった火星騎士の女性。身分は子爵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d2/26908_crt_22529.jpg",
+        "link": "https://bgm.tv/character/26908",
+        "categorie": "person"
+      },
+      {
+        "id": "26909",
+        "label": "ウォルフ・アリアーシュ",
+        "info": "アセイラム暗殺未遂事件の実行犯で、ライエの父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d6/26909_crt_xx20N.jpg?r=1410708563",
+        "link": "https://bgm.tv/character/26909",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      },
+      {
+        "id": "74434",
+        "label": "斯雷普尼尔",
+        "info": "地球联合军的训练用机体。似乎利用15年前落在种子岛而“天堂殒落”事件受破坏的火星甲胄骑士“DEUCALION”进行逆向工程所制造的机体。机体颜色为橙色，高度为13.5米，动力来源为燃气涡轮发动机，而电力来源为燃料电池。上一代的主力机，现时作为预备机并在高等学校的兵科训练时使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/04/74434_crt_rVzjM.jpg",
+        "link": "https://bgm.tv/character/74434",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15909",
+        "label": "逢泽驱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d2/15909_crt_s668s.jpg",
+        "link": "https://bgm.tv/character/15909",
+        "categorie": "person"
+      },
+      {
+        "id": "15910",
+        "label": "逢泽杰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/3b/15910_crt_UGT7O.jpg",
+        "link": "https://bgm.tv/character/15910",
+        "categorie": "person"
+      },
+      {
+        "id": "15911",
+        "label": "美岛奈奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/34/15911_crt_Afeu4.jpg",
+        "link": "https://bgm.tv/character/15911",
+        "categorie": "person"
+      },
+      {
+        "id": "15912",
+        "label": "荒木龙一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/ba/15912_crt_k7mmL.jpg",
+        "link": "https://bgm.tv/character/15912",
+        "categorie": "person"
+      },
+      {
+        "id": "15954",
+        "label": "中塚公太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/2f/15954_crt_InFax.jpg?r=1463208446",
+        "link": "https://bgm.tv/character/15954",
+        "categorie": "person"
+      },
+      {
+        "id": "15955",
+        "label": "岩城铁平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/f9/15955_crt_AN7Eh.jpg",
+        "link": "https://bgm.tv/character/15955",
+        "categorie": "person"
+      },
+      {
+        "id": "15956",
+        "label": "织田凉真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/88/15956_crt_F61Br.jpg",
+        "link": "https://bgm.tv/character/15956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32111",
+        "label": "三条杏奈",
+        "info": "優馬の恋人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/30/32111_crt_SZqsW.jpg",
+        "link": "https://bgm.tv/character/32111",
+        "categorie": "person"
+      },
+      {
+        "id": "32120",
+        "label": "优马",
+        "info": "杏奈の恋人で物語の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/27/32120_crt_a6sSs.jpg",
+        "link": "https://bgm.tv/character/32120",
+        "categorie": "person"
+      },
+      {
+        "id": "32113",
+        "label": "宮原真樹",
+        "info": "縄綱の養子。智樹の実妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/bc/32113_crt_7O1w4.jpg",
+        "link": "https://bgm.tv/character/32113",
+        "categorie": "person"
+      },
+      {
+        "id": "32114",
+        "label": "鈴音",
+        "info": "河原崎家に仕えるメイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/15/32114_crt_5BggN.jpg",
+        "link": "https://bgm.tv/character/32114",
+        "categorie": "person"
+      },
+      {
+        "id": "32115",
+        "label": "美香",
+        "info": "河原崎家に仕えるメイド。生い立ちの詳細は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/db/32115_crt_taW04.jpg",
+        "link": "https://bgm.tv/character/32115",
+        "categorie": "person"
+      },
+      {
+        "id": "32116",
+        "label": "上山奈津子",
+        "info": "恋人の健吾と共に河原崎邸を訪れた女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/ca/32116_crt_oa0dl.jpg",
+        "link": "https://bgm.tv/character/32116",
+        "categorie": "person"
+      },
+      {
+        "id": "32117",
+        "label": "宮原智樹",
+        "info": "縄綱の養子、真樹の実兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/a9/32117_crt_z5dDu.jpg",
+        "link": "https://bgm.tv/character/32117",
+        "categorie": "person"
+      },
+      {
+        "id": "32118",
+        "label": "稲垣",
+        "info": "古くから河原崎家に仕えてる執事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/60/32118_crt_S99xb.jpg",
+        "link": "https://bgm.tv/character/32118",
+        "categorie": "person"
+      },
+      {
+        "id": "32119",
+        "label": "河原崎縄綱",
+        "info": "一代で莫大な財を成した河原崎家の主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/49/32119_crt_STMfZ.jpg",
+        "link": "https://bgm.tv/character/32119",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

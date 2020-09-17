@@ -1,0 +1,269 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39116",
+        "label": "祇园健次",
+        "info": "1年。ラグビー初心者。神奈川高校入学式の日、運命的にラグビーと石清水に出会う。タックルが大好きで、小柄だが負けん気は人一倍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/24/39116_crt_UmpyH.jpg",
+        "link": "https://bgm.tv/character/39116",
+        "categorie": "person"
+      },
+      {
+        "id": "39117",
+        "label": "石清水澄明",
+        "info": "1年。ポジションはロック。ラグビー経験者で高身長だが普段はオドオドしており、入学式の日上級生に絡まれているところを祇園に助けられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/20/39117_crt_aMEBi.jpg",
+        "link": "https://bgm.tv/character/39117",
+        "categorie": "person"
+      },
+      {
+        "id": "39118",
+        "label": "赤山濯也",
+        "info": "3年。ポジションはナンバーエイトでキャプテン。口数は少ないが、熱い闘志を胸に秘めており、背中で部員を引っ張る。礼儀に厳しい性格だが、意外な一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/2a/39118_crt_clLsP.jpg",
+        "link": "https://bgm.tv/character/39118",
+        "categorie": "person"
+      },
+      {
+        "id": "39119",
+        "label": "八王子睦",
+        "info": "3年。ポジションはフッカーで副キャプテン。ニコニコしていて面倒見の良い、ラグビー部の緩衝剤的存在。祇園をラグビー部に勧誘する。石清水とは同じ中学校出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/50/39119_crt_uUWV3.jpg",
+        "link": "https://bgm.tv/character/39119",
+        "categorie": "person"
+      },
+      {
+        "id": "42785",
+        "label": "大原野越吾",
+        "info": "1年・ポジションはスタンドオフ。小学校からのラグビー経験者でプレーはうまいが生意気。常に斜に構えている。同じくラグビー経験を持つ弟がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d9/42785_crt_0mjKZ.jpg",
+        "link": "https://bgm.tv/character/42785",
+        "categorie": "person"
+      },
+      {
+        "id": "44961",
+        "label": "江文优",
+        "info": "2年。ポジションはウイング。チームイチの俊足。ヤンキーでケンカっ早く、チームメイトとの衝突もしばしばだが、実は1人でトレーニングをしていたりする陰の努力家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/2f/44961_crt_ZKN33.jpg",
+        "link": "https://bgm.tv/character/44961",
+        "categorie": "person"
+      },
+      {
+        "id": "42786",
+        "label": "諏訪勇作",
+        "info": "2年・ポジションはウイング。一見おとなしそうだが口が悪い。地道にトレーニングを積む努力家だが、何でも器用にこなす大原野に嫉妬心を抱いている？",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/e7/42786_crt_4ngM3.jpg",
+        "link": "https://bgm.tv/character/42786",
+        "categorie": "person"
+      },
+      {
+        "id": "43169",
+        "label": "贵船公",
+        "info": "2年。ポジションはフルバック。努力家で、安定感のあるプレーが評価されている。気が弱く控えめなので、石清水に一方的に仲間意識を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/25/43169_crt_9rwP3.jpg",
+        "link": "https://bgm.tv/character/43169",
+        "categorie": "person"
+      },
+      {
+        "id": "44962",
+        "label": "贺茂雷太",
+        "info": "3年。ポジションはスクラムハーフ。いたずらが大好きで、同じ中学出身の鹿島にいつもちょっかいを出している。小柄な体格同士、祇園と仲が良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/51/44962_crt_kT355.jpg",
+        "link": "https://bgm.tv/character/44962",
+        "categorie": "person"
+      },
+      {
+        "id": "44972",
+        "label": "吉备翔太",
+        "info": "2年。ポジションはフルバック。見た目はヤンチャっぽいが、実はけっこう真面目で面倒見たがりな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/3f/44972_crt_66Ma7.jpg",
+        "link": "https://bgm.tv/character/44972",
+        "categorie": "person"
+      },
+      {
+        "id": "44973",
+        "label": "客人考助",
+        "info": "2年・ポジションはウイング。わりと周りに流されやすい楽天家。よく健部とつるんでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/55/44973_crt_0L2zh.jpg",
+        "link": "https://bgm.tv/character/44973",
+        "categorie": "person"
+      },
+      {
+        "id": "44974",
+        "label": "健部知道",
+        "info": "2年。ポジションはセンター。おっとりしているが、ツッコミはいれるタイプ。客人と仲が良い。いつも寝癖がついている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/84/44974_crt_JfIoc.jpg",
+        "link": "https://bgm.tv/character/44974",
+        "categorie": "person"
+      },
+      {
+        "id": "45007",
+        "label": "大比叡太一",
+        "info": "3年。ポジションはプロップ。おだやかでのんびりやだが、波風を立たせずに後輩を操縦するのがうまい頭脳派。実はすごく頭がいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/13/45007_crt_vyeA3.jpg",
+        "link": "https://bgm.tv/character/45007",
+        "categorie": "person"
+      },
+      {
+        "id": "45013",
+        "label": "广田锐一",
+        "info": "3年。ポジションはプロップ。身長174cm・体重115kgを誇る、チームイチの巨漢で、ひたすら何かを食べている。見た目は柔らかいが、性格はきつめ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/5b/45013_crt_ZjfWG.jpg",
+        "link": "https://bgm.tv/character/45013",
+        "categorie": "person"
+      },
+      {
+        "id": "45020",
+        "label": "春日宽邦",
+        "info": "3年。ポジションはフランカー。基本的に無口で硬派な性格。強面ながら意外に面倒見が良く、兄貴肌。タックルが好きなので祇園には一目置いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/2d/45020_crt_ki7V6.jpg",
+        "link": "https://bgm.tv/character/45020",
+        "categorie": "person"
+      },
+      {
+        "id": "45021",
+        "label": "鹿岛耕一郎",
+        "info": "3年。ポジションはロック。同じ中学出身の賀茂から6年間いたずらされ続けているが、気に留めていない。普段は寡黙だが、熱い心の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/36/45021_crt_8kZK8.jpg",
+        "link": "https://bgm.tv/character/45021",
+        "categorie": "person"
+      },
+      {
+        "id": "45022",
+        "label": "平野良贵",
+        "info": "1年。ラグビー未経験でポジションは未定。好奇心が旺盛でグイグイ行くタイプ。同じクラスの北町があまりに楽しそうなので、ラグビー部に入部することに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/8d/45022_crt_wy5qM.jpg",
+        "link": "https://bgm.tv/character/45022",
+        "categorie": "person"
+      },
+      {
+        "id": "45027",
+        "label": "北町进",
+        "info": "1年。ラグビー未経験でポジションは未定。初めてのことに挑戦するのが大好き。キャプテンの赤山に憧れていて、体作りを頑張っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/de/45027_crt_pFcfY.jpg",
+        "link": "https://bgm.tv/character/45027",
+        "categorie": "person"
+      },
+      {
+        "id": "45033",
+        "label": "住吉道生",
+        "info": "２年・ポジションはスクラムハーフ。何となく楽しいのでラグビーを続けている。真剣さには欠けるが器用でなんでもできるタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/74/45033_crt_2icJc.jpg",
+        "link": "https://bgm.tv/character/45033",
+        "categorie": "person"
+      },
+      {
+        "id": "45034",
+        "label": "苗鹿大平",
+        "info": "2年。ポジションはウイング。やめる理由がないので、なんとなくラグビーを続けている。顔はそこそこいいのに、私服がダサいことで有名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/b3/45034_crt_yM87t.jpg",
+        "link": "https://bgm.tv/character/45034",
+        "categorie": "person"
+      },
+      {
+        "id": "45035",
+        "label": "気田悠人",
+        "info": "1年。ラグビー未経験でポジションは未定。運動はほとんどしてこなかったが、部の雰囲気につられ入部。ボヤーっとしていてあまり体力はないが、頑張りやさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/07/45035_crt_w9QQ3.jpg",
+        "link": "https://bgm.tv/character/45035",
+        "categorie": "person"
+      },
+      {
+        "id": "45036",
+        "label": "松尾年乃助",
+        "info": "3年。ポジションはスタンドオフ。世話好きで、みんなから慕われる兄貴。キャプテンの赤山から相談を受けることも。実家は植木屋さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/cb/45036_crt_obztt.jpg",
+        "link": "https://bgm.tv/character/45036",
+        "categorie": "person"
+      },
+      {
+        "id": "45037",
+        "label": "伊势夏树",
+        "info": "2年。ポジションはセンター。よく江文とつるんでいる。ラグビー部に誘ってくれた八王子に懐いている。歳の離れた兄と二人暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/fa/45037_crt_zk8w7.jpg",
+        "link": "https://bgm.tv/character/45037",
+        "categorie": "person"
+      },
+      {
+        "id": "45038",
+        "label": "笼信吾",
+        "info": "神奈川高校ラグビー部コーチ。元日本代表。定年後にコーチをやろうとブログを開設したところ、祇園の目に留まる。指導は厳しいが愛があり、弱小チームの神高を導いて行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/3f/45038_crt_p9K97.jpg",
+        "link": "https://bgm.tv/character/45038",
+        "categorie": "person"
+      },
+      {
+        "id": "45039",
+        "label": "火明うめの",
+        "info": "神奈川高校ラグビー部2年、マネージャー。明るい性格でサバサバと仕事をこなす、神高ラグビー部の紅一点。初心者の祇園を叱咤激励しながら、ざっくりとルールを教えてくれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/66/45039_crt_J6PNa.jpg",
+        "link": "https://bgm.tv/character/45039",
+        "categorie": "person"
+      },
+      {
+        "id": "48962",
+        "label": "雾岛关人",
+        "info": "3年生。ポジションはフランカー。国人の双子の兄。アニメ「みらくらリリンちゃん」が大好き。「神奈川NO.1フランカー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/16/48962_crt_BJkX0.jpg",
+        "link": "https://bgm.tv/character/48962",
+        "categorie": "person"
+      },
+      {
+        "id": "48963",
+        "label": "雾岛国人",
+        "info": "3年生。ポジションはフランカー。関人の双子の弟。賀茂と仲良くなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/a9/48963_crt_eEGEc.jpg",
+        "link": "https://bgm.tv/character/48963",
+        "categorie": "person"
+      },
+      {
+        "id": "52203",
+        "label": "御门翔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/0a/52203_crt_005Jx.jpg",
+        "link": "https://bgm.tv/character/52203",
+        "categorie": "person"
+      },
+      {
+        "id": "44988",
+        "label": "真子丰",
+        "info": "3年・ポジションはプロップ。悩みごとは走って忘れるタイプ。赤山と同じクラスで、後ろの席なのでよくちょっかいを出している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/d9/44988_crt_v47YS.jpg",
+        "link": "https://bgm.tv/character/44988",
+        "categorie": "person"
+      },
+      {
+        "id": "45016",
+        "label": "热田猛雄",
+        "info": "2年。ポジションはプロップ。身体は大きいが気が弱く、時に1年にも敬語を使ってしまう。同じポジションでチームイチの巨漢・広田のことを大尊敬している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/33/45016_crt_2kRjW.jpg",
+        "link": "https://bgm.tv/character/45016",
+        "categorie": "person"
+      },
+      {
+        "id": "45018",
+        "label": "兵主进乃介",
+        "info": "3年。ポジションはフランカー。賀茂と仲良しで、よく悪だくみをする。リアクションが激しい。頼まれると断れないタイプで、後輩の面倒見も良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/8f/45018_crt_GTqmJ.jpg",
+        "link": "https://bgm.tv/character/45018",
+        "categorie": "person"
+      },
+      {
+        "id": "45031",
+        "label": "三上季吉",
+        "info": "1年。ラグビー未経験でポジションは未定。フォワード陣に連行され入部に至る。祇園とは同じクラスで、よくケンカしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/0a/45031_crt_D5Pk1.jpg",
+        "link": "https://bgm.tv/character/45031",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

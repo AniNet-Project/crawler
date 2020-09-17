@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37342",
+        "label": "神島千晴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/10/37342_crt_Q664a.jpg?r=1450151375",
+        "link": "https://bgm.tv/character/37342",
+        "categorie": "person"
+      },
+      {
+        "id": "37343",
+        "label": "内海十四日",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/b6/37343_crt_geUSP.jpg?r=1450151390",
+        "link": "https://bgm.tv/character/37343",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

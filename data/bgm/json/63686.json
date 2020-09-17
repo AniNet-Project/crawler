@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75054",
+        "label": "希洛",
+        "info": "通称ヒロ。移民四世。軍の戦闘バイク部隊“HOUND”にスカウトされる。地球へ行くことを夢見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/d7/75054_crt_6gUHo.jpg",
+        "link": "https://bgm.tv/character/75054",
+        "categorie": "person"
+      },
+      {
+        "id": "75055",
+        "label": "苏珊",
+        "info": "本作女主角，是一名记者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/65/75055_crt_6iaOG.jpg",
+        "link": "https://bgm.tv/character/75055",
+        "categorie": "person"
+      },
+      {
+        "id": "75056",
+        "label": "玛姬",
+        "info": "通称マギー。ヒロのガールフレンド。世話焼き。戦争で家族と共に難民となる",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/f0/75056_crt_JPEpc.jpg",
+        "link": "https://bgm.tv/character/75056",
+        "categorie": "person"
+      },
+      {
+        "id": "75057",
+        "label": "蜜兰达",
+        "info": "ヒロが所属するバイクゲームチームの女リーダー。後に“HOUND”に志願。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/62/75057_crt_BSfKi.jpg",
+        "link": "https://bgm.tv/character/75057",
+        "categorie": "person"
+      },
+      {
+        "id": "75058",
+        "label": "库尔兹",
+        "info": "“HOUND”戦闘部隊の指揮を執る士官。階級は中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/88/75058_crt_744kI.jpg",
+        "link": "https://bgm.tv/character/75058",
+        "categorie": "person"
+      },
+      {
+        "id": "75059",
+        "label": "希姆斯",
+        "info": "“HOUND”指揮官。階級は少佐（後に大佐）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/c1/75059_crt_q057z.jpg",
+        "link": "https://bgm.tv/character/75059",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

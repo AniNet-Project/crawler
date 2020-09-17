@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26067",
+        "label": "佐田恭也",
+        "info": "エリカと同じ高校に通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/c7/26067_crt_9MZ18.jpg?r=1412612804",
+        "link": "https://bgm.tv/character/26067",
+        "categorie": "person"
+      },
+      {
+        "id": "26068",
+        "label": "筱原绘里香",
+        "info": "彼氏がいたこともないのに、嘘の恋愛経験を語る見栄っ張り女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/4b/26068_crt_6XPiw.jpg?r=1413162614",
+        "link": "https://bgm.tv/character/26068",
+        "categorie": "person"
+      },
+      {
+        "id": "26811",
+        "label": "三田亚由美",
+        "info": "エリカの親友。あだ名はさんちゃん。エリカと出会ったのは中3の時。弟が2人いる。そのためか、細かい配慮ができたり校外学習の班のリーダーを務めたりと、かなりしっかりした性格。化粧はしていないようだが美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/fa/26811_crt_LdO95.jpg?r=1413752737",
+        "link": "https://bgm.tv/character/26811",
+        "categorie": "person"
+      },
+      {
+        "id": "26812",
+        "label": "日比谷健",
+        "info": "恭也の中学時代の友達。ハーフアップのような髪型をしている。親や友達など周りの人を大切に思う性格で、初対面の時のエリカの頼みにも親身に全力でこたえ、自宅のカフェの経営が苦しい時はどうすればいいか悩んでいた。たまにズバッと真理をつく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/a3/26812_crt_LyKSE.jpg?r=1411839057",
+        "link": "https://bgm.tv/character/26812",
+        "categorie": "person"
+      },
+      {
+        "id": "26813",
+        "label": "立花麻琳",
+        "info": "エリカのクラスメイト。彼氏の名前はアツム。彼氏からはマリリンと呼ばれている。海のデートで起こったある事件で彼氏と別れそうになるも、それを乗り越えてより仲が深まった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/12/26813_crt_xy2wd.jpg?r=1414443895",
+        "link": "https://bgm.tv/character/26813",
+        "categorie": "person"
+      },
+      {
+        "id": "26814",
+        "label": "手冢爱姬",
+        "info": "エリカのクラスメイト。年上の彼氏がいる。デートは、外車でドライブや赤坂のホテルで夜景ディナー・沖縄旅行などなかなかリッチ。バレンタインにはゴデバのチョコレートをあげた。恭也いわく、マリンと合わせてビッチコンビ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/fa/26814_crt_dF1w1.jpg?r=1414443868",
+        "link": "https://bgm.tv/character/26814",
+        "categorie": "person"
+      },
+      {
+        "id": "27032",
+        "label": "神谷望",
+        "info": "エリカ・恭也・さんちゃんらと高校2年のクラス替えで同じクラスになる。自分と同じ人種だと思っている恭也がエリカと付き合っていることに納得がいかず、色々な手を使って恭也を女遊びの世界に引き入れようとしたが、逆に恭也に虚しさを気づかされる形で一連の騒動は終わった。その後は恭也にべったりで、一部の女子からあらぬ噂をたてられてエリカには怒られ、さんちゃんには気持ち悪がられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f4/27032_crt_UAoG7.jpg?r=1416433350",
+        "link": "https://bgm.tv/character/27032",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

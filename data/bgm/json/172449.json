@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25310",
+        "label": "九堂舞",
+        "info": "幼い頃からずっと主人公の家の血筋を絶やさないようにと、祖父母によって育てられた女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/6c/25310_crt_FkmUd.jpg",
+        "link": "https://bgm.tv/character/25310",
+        "categorie": "person"
+      },
+      {
+        "id": "25311",
+        "label": "野々原みお",
+        "info": "主人公のご近所＆幼なじみで、神社の人手が足りない時は巫女さんとして手伝ってくれたりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/68/25311_crt_JkI2e.jpg",
+        "link": "https://bgm.tv/character/25311",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

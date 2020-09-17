@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26046",
+        "label": "渡良濑准",
+        "info": "もう長いこと主人公と付き合っている友人。 いわゆる腐れ縁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/54/26046_crt_R38DL.jpg",
+        "link": "https://bgm.tv/character/26046",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

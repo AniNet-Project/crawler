@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "438",
+        "label": "麻生祇燐",
+        "info": "主人公。看起来二十五六岁，但实际年龄不明，独身。戴眼镜是她的魅力之处。平时常穿黑色的套装。在西新宿古旧大楼中经营着“麻生祇咨询（麻生祇コンサルティング）”事务所。拥有不死之身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/d6/438_crt_lzaCr.jpg?r=1423096105",
+        "link": "https://bgm.tv/character/438",
+        "categorie": "person"
+      },
+      {
+        "id": "439",
+        "label": "咪咪",
+        "info": "作为燐的助手，在“麻生祗咨询”工作。工作内容是财务管理以及其他杂事。一直劝燐好好工作。一样拥有不死之身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/0b/439_crt_leqT2.jpg?r=1389762279",
+        "link": "https://bgm.tv/character/439",
+        "categorie": "person"
+      },
+      {
+        "id": "440",
+        "label": "罗拉",
+        "info": "外表看来比燐年龄稍小，擅长使用枪械等各种兵器的一流追踪者。一直执拗地追杀着燐，但指示者不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/f2/440_crt_yE70h.jpg?r=1411958467",
+        "link": "https://bgm.tv/character/440",
+        "categorie": "person"
+      },
+      {
+        "id": "441",
+        "label": "埃伯斯",
+        "info": "不顾人间伦理生活着的美青年。有着独特的审美观，不正常的杀戮者。为现任守树人，企图永远做守树人。此人为雌雄同体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/11/441_crt_59g4U.jpg?r=1411958562",
+        "link": "https://bgm.tv/character/441",
+        "categorie": "person"
+      },
+      {
+        "id": "442",
+        "label": "山之边沙耶罗",
+        "info": "青山制药狭山研究所的所长。正在研究着不合法的技术。自尊心很高，重度虐待倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/10/442_crt_6bzFd.jpg?r=1411958585",
+        "link": "https://bgm.tv/character/442",
+        "categorie": "person"
+      },
+      {
+        "id": "443",
+        "label": "前埜光辉",
+        "info": "记忆模糊的青年，处在困境中时被磷所救助",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/2f/443_crt_lIIet.jpg?r=1529255925",
+        "link": "https://bgm.tv/character/443",
+        "categorie": "person"
+      },
+      {
+        "id": "444",
+        "label": "柳原保",
+        "info": "磷的友人，警官，为磷提供了关键的情报，亦因提供情报而遭他人杀害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/77/444_crt_dWg92.jpg",
+        "link": "https://bgm.tv/character/444",
+        "categorie": "person"
+      },
+      {
+        "id": "14042",
+        "label": "前埜辉纪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/42/14042_crt_BYiBq.jpg",
+        "link": "https://bgm.tv/character/14042",
+        "categorie": "person"
+      },
+      {
+        "id": "14043",
+        "label": "神山琉音",
+        "info": "第四话登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/5f/14043_crt_Pq6je.jpg",
+        "link": "https://bgm.tv/character/14043",
+        "categorie": "person"
+      },
+      {
+        "id": "14044",
+        "label": "井光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/7f/14044_crt_LNQAG.jpg",
+        "link": "https://bgm.tv/character/14044",
+        "categorie": "person"
+      },
+      {
+        "id": "14045",
+        "label": "前埜美汐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/d2/14045_crt_cjA1q.jpg",
+        "link": "https://bgm.tv/character/14045",
+        "categorie": "person"
+      },
+      {
+        "id": "14046",
+        "label": "多岛桂",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14046",
+        "categorie": "person"
+      },
+      {
+        "id": "14047",
+        "label": "老天使",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14047",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

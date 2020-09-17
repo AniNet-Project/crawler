@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13353",
+        "label": "比良坂龙二",
+        "info": "圣尤利安娜医院医生，年轻时驾驶过Z高达参加过格利普斯战争，从医院离职后加入不明的极端组织参与了对伦敦的某次恐怖袭击。自参加工作以来，连续六年被镇府评为“先进工作者”，并于1999年获“第五届十佳青年”提名奖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/b6/13353_crt_0RMmp.jpg",
+        "link": "https://bgm.tv/character/13353",
+        "categorie": "person"
+      },
+      {
+        "id": "21410",
+        "label": "七濑恋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/74/21410_crt_zx4Qh.jpg?r=1379494202",
+        "link": "https://bgm.tv/character/21410",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

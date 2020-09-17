@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26161",
+        "label": "市松小雏",
+        "info": "把自己当成是人偶，无论遇到什么事情都一动不动的电波系少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/ad/26161_crt_vfHLH.jpg",
+        "link": "https://bgm.tv/character/26161",
+        "categorie": "person"
+      },
+      {
+        "id": "26162",
+        "label": "银仙",
+        "info": "住在小雏家的万能家庭妇男，自称是美男子的狐狸精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/61/26162_crt_C2HHs.jpg",
+        "link": "https://bgm.tv/character/26162",
+        "categorie": "person"
+      },
+      {
+        "id": "26163",
+        "label": "狗神",
+        "info": "拥有反社会的能力，总是容易陷入烦恼之中的职业跟踪狂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/8f/26163_crt_WmdJ6.jpg",
+        "link": "https://bgm.tv/character/26163",
+        "categorie": "person"
+      },
+      {
+        "id": "26164",
+        "label": "信乐",
+        "info": "沉迷于烟酒、 女人和赌博的堕落狸猫精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/09/26164_crt_DxcbW.jpg",
+        "link": "https://bgm.tv/character/26164",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "26734",
+        "label": "タマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/a0/26734_crt_hXAeE.jpg",
+        "link": "https://bgm.tv/character/26734",
+        "categorie": "person"
+      },
+      {
+        "id": "26735",
+        "label": "じめ子さん",
+        "info": "こひなの机の上に毎日嫌がらせの花瓶を飾るいじめっ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/59/26735_crt_dTW5x.jpg",
+        "link": "https://bgm.tv/character/26735",
+        "categorie": "person"
+      },
+      {
+        "id": "26736",
+        "label": "山本君",
+        "info": "こひなのクラスメイト。自称地球人、はたから見ればどう考えても宇宙人。だが、なぜかこひなを始めとする彼のクラスメイトたちは、彼が地球人であることを微塵も疑っていない。そのために洗脳疑惑がかかっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d7/26736_crt_skRYu.jpg",
+        "link": "https://bgm.tv/character/26736",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

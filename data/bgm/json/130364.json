@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59850",
+        "label": "神荼",
+        "info": "神荼，由腾讯动漫和像素软件联合制作、《盗墓笔记》作者南派三叔架构世界观的悬疑探秘3D动漫《勇者大冒险》的双男主之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/63/59850_crt_aid5P.jpg",
+        "link": "https://bgm.tv/character/59850",
+        "categorie": "person"
+      },
+      {
+        "id": "59851",
+        "label": "安岩",
+        "info": "由腾讯动漫和像素软件联合制作、《盗墓笔记》作者南派三叔架构世界观的悬疑探秘3D动漫《勇者大冒险》的双男主之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/43/59851_crt_gkhRg.jpg",
+        "link": "https://bgm.tv/character/59851",
+        "categorie": "person"
+      },
+      {
+        "id": "59852",
+        "label": "丰绅殷德",
+        "info": "主要反派人物。清朝人，和珅的儿子，固伦和孝公主的丈夫，持重老成，一心想复活妻子，但遭到和珅的阻挠。武器是精卫之喙，第一季附体了Earth哥，曾与马里森合作。将安岩炼成鬼曼童失败后，与安岩性命相连，偶尔共享视角，手背出现与安岩略有不同的郁垒印记。第二季加入帝国余晖，曾以面具人的身份与贝希摩斯合作但被反利用。想借机用云半程的三样宝物复活妻子。对阿赛尔下过定身咒（也正是因为云半程利用阿赛尔复活这个原因被神荼等人打败），但一直受和珅的摆布。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/aa/59852_crt_jQYA7.jpg?r=1563206369",
+        "link": "https://bgm.tv/character/59852",
+        "categorie": "person"
+      },
+      {
+        "id": "59873",
+        "label": "允诺",
+        "info": "宝藏猎人协会（Tearsure Hunters Association，简称T.H.A.）成员。华语歌手，是常在荧幕亮相的明星美少女。私人助理为龙傲娇，拥有飞行器“美呆号”。喜欢吃棒棒糖。有些迟钝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/86/59873_crt_4SUlz.jpg",
+        "link": "https://bgm.tv/character/59873",
+        "categorie": "person"
+      },
+      {
+        "id": "59874",
+        "label": "龙傲娇",
+        "info": "宝藏猎人协会（Tearsure Hunters Association，简称T.H.A.）成员。允诺的私人助理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/0d/59874_crt_g0R9W.jpg",
+        "link": "https://bgm.tv/character/59874",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

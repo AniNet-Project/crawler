@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19199",
+        "label": "里见孝太郎",
+        "info": "本作主角。高中入学前父亲雄一郎突然被调职而开始独自生活，租下了月租5000日圆的超便宜房间可乐娜庄106号房。国中参加棒球社，升上高中后为了打工而放弃了棒球社，改加入编织社。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/35/19199_crt_eSm74.jpg?r=1362896460",
+        "link": "https://bgm.tv/character/19199",
+        "categorie": "person"
+      },
+      {
+        "id": "19200",
+        "label": "东本愿早苗",
+        "info": "住在106号房的地缚灵，外表像是国中生少女。主张自己要在房间等父母回来，每当有人搬进106号房就用心灵现象把房客吓走。因为孝太郎能看到也能摸到她而没办法把孝太郎赶走，不得不暂时休战。对孝太郎有好感，两人之间的情感近似于兄妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/04/19200_crt_dq8FJ.jpg?r=1362896417",
+        "link": "https://bgm.tv/character/19200",
+        "categorie": "person"
+      },
+      {
+        "id": "19201",
+        "label": "虹野由莉佳",
+        "info": "突然打破窗户飞进房间的魔法少女。自称是“爱与勇气的公主☆魔法少女彩虹由莉佳”，却因太夸张的衣服被当成角色扮演狂，没人愿意听她说话。后来在106号房发生战斗时张开结界保护房间，证明了自己是货真价实的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/21/19201_crt_A0188.jpg",
+        "link": "https://bgm.tv/character/19201",
+        "categorie": "person"
+      },
+      {
+        "id": "19202",
+        "label": "仓野奇莉华",
+        "info": "从106号房地板下的洞里出现，自称是名为“大地之民”的古代文明之末裔。106号房胸部最大的人。在学校时自称“仓野桐叶”。大地之民一千年前因为采矿而被赶到地底下，在地底建立了独自的文明，现今为了在原地（正好是106号房）重建失去的祭坛，希望孝太郎等人能让出房间。然而，重建祭坛的目的是为了征服地上世界，孝太郎知道后拒绝了她的要求。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/5a/19202_crt_oxYoo.jpg?r=1405654615",
+        "link": "https://bgm.tv/character/19202",
+        "categorie": "person"
+      },
+      {
+        "id": "19203",
+        "label": "提亚蜜思林·葛雷·佛德赛",
+        "info": "从106号房墙壁上的空间跳跃点出现的神圣佛德赛银河皇国第七王女，昵称提亚。为了完成得到佛德赛皇国王位继承权的仪式，从一千万光年外远道而来。提亚的仪式是征服宇宙的某个座标点，原意是试炼继承者有航向未知宙域的勇气，通常只是在空无一物的宇宙立根旗子就可以了，但却偶然选到有文明存在的地球上的106号房，而被加上了“不靠杀戮让原住民（里见孝太郎）臣服于皇国之下”的条件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a2/19203_crt_F0lsl.jpg",
+        "link": "https://bgm.tv/character/19203",
+        "categorie": "person"
+      },
+      {
+        "id": "19206",
+        "label": "樱庭晴海",
+        "info": "二年级学生，编织研究会会长。在放榜日招募会员时被搭讪，正当她不知该如何是好时，孝太郎出手帮了她的忙，因此认识了孝太郎，成为他加入同好会的契机。不习惯和异性相处，对孝太郎以外的男学生都保持距离。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/b2/19206_crt_07c2B.jpg",
+        "link": "https://bgm.tv/character/19206",
+        "categorie": "person"
+      },
+      {
+        "id": "19208",
+        "label": "松平贤治",
+        "info": "孝太郎的朋友，昵称阿贤。和孝太郎一起参加遗迹挖掘的打工。是个带着眼镜的帅哥，在女学生中相当有人气，不但没有和特定人交往，而且过去自己心仪的女生都是喜欢孝太郎的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a4/19208_crt_0rhDr.jpg",
+        "link": "https://bgm.tv/character/19208",
+        "categorie": "person"
+      },
+      {
+        "id": "19204",
+        "label": "露丝卡妮亚·那依·巴多姆西哈",
+        "info": "提亚的护卫官兼儿时玩伴，昵称露丝。为了见证提亚的仪式进行而随行到了地球。和常生气的失去理智的提亚相反，总是保持着沉着冷静，协调性亦很高，却因为胆小而自觉不适合武官的职位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/3d/19204_crt_H44p8.jpg",
+        "link": "https://bgm.tv/character/19204",
+        "categorie": "person"
+      },
+      {
+        "id": "19207",
+        "label": "笠置静香",
+        "info": "可乐娜庄房东，住在206号室。孝太郎的同班同学，",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/c0/19207_crt_10Io7.jpg",
+        "link": "https://bgm.tv/character/19207",
+        "categorie": "person"
+      },
+      {
+        "id": "19209",
+        "label": "可拉莉欧萨·达欧拉·佛德赛",
+        "info": "全名为可拉莉欧萨·达欧拉·修瓦卡·梅尔兹菲因·佛德赛(クラリオーサ・ダオラ・シュワィガ・メルツフェン・フォーア・フォルトーゼ)，昵称可蓝，佛德赛银河皇国的二皇女。拥有的战舰‘胧月’和小型宇宙飞船‘摇笼’拥有高度的匿踪能力。从小就和提亚常常为了一些小事起争执。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/2f/19209_crt_wvNWa.jpg",
+        "link": "https://bgm.tv/character/19209",
+        "categorie": "person"
+      },
+      {
+        "id": "19205",
+        "label": "蓝华真希",
+        "info": "由莉佳的“彩虹之心”的死对头，“暗黑彩虹”旗下的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/0f/19205_crt_poRpH.jpg",
+        "link": "https://bgm.tv/character/19205",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

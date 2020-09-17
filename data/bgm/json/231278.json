@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63708",
+        "label": "山本爱理",
+        "info": "本名山本健太郎。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/0f/63708_crt_KaEgU.jpg?r=1530803705",
+        "link": "https://bgm.tv/character/63708",
+        "categorie": "person"
+      },
+      {
+        "id": "63709",
+        "label": "立花真理",
+        "info": "本名立花亮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/4d/63709_crt_v8C25.jpg?r=1527560261",
+        "link": "https://bgm.tv/character/63709",
+        "categorie": "person"
+      },
+      {
+        "id": "63710",
+        "label": "杉原千佳",
+        "info": "本名杉原和哉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/2c/63710_crt_K5g1B.jpg?r=1531933894",
+        "link": "https://bgm.tv/character/63710",
+        "categorie": "person"
+      },
+      {
+        "id": "63711",
+        "label": "犬金组长",
+        "info": "犬金组的组长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/90/63711_crt_u5B4k.jpg?r=1532510069",
+        "link": "https://bgm.tv/character/63711",
+        "categorie": "person"
+      },
+      {
+        "id": "64387",
+        "label": "曼德林木下",
+        "info": "数々のアイドルを育て上げ、トップスターにする、マネージャー界の生きる伝説。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/67/64387_crt_3LKk3.jpg?r=1534154772",
+        "link": "https://bgm.tv/character/64387",
+        "categorie": "person"
+      },
+      {
+        "id": "65213",
+        "label": "莉娜",
+        "info": "本名喬治。後街女孩研究生第1期生。25岁。美國人，出身自紐約貧民街，是義大利黑幫GOD MONEY的成員。但由於表現失態，為了獲得如何經營偶像團體的知識而被送往犬金組，並因此遭到變性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/a8/65213_crt_exIzX.jpg?r=1533209757",
+        "link": "https://bgm.tv/character/65213",
+        "categorie": "person"
+      },
+      {
+        "id": "65557",
+        "label": "中村结衣",
+        "info": "ゴクドルズの研究生・第2期生。17歳。ゴクドルズ唯一の純粋な女性かつカタギ。もちろん（リナも含めて）ゴクドルズのメンバーが元男であることは知らない。犬金組長も「本物の女性」が入ってきたため、彼女にだけは無茶を要求しない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/0d/65557_crt_mZVM3.jpg?r=1534407208",
+        "link": "https://bgm.tv/character/65557",
+        "categorie": "person"
+      },
+      {
+        "id": "65784",
+        "label": "田中夏子",
+        "info": "世間では名の知れた大御所演歌歌手。57歳。眉間に大きなほくろがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/c6/65784_crt_CCcHr.jpg?r=1535560965",
+        "link": "https://bgm.tv/character/65784",
+        "categorie": "person"
+      },
+      {
+        "id": "75342",
+        "label": "木村",
+        "info": "千佳的小弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/10/75342_crt_Z29ou.jpg",
+        "link": "https://bgm.tv/character/75342",
+        "categorie": "person"
+      },
+      {
+        "id": "75346",
+        "label": "广",
+        "info": "真理的粉丝",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/20/75346_crt_MjJXg.jpg",
+        "link": "https://bgm.tv/character/75346",
+        "categorie": "person"
+      },
+      {
+        "id": "75358",
+        "label": "溝口カリン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/a0/75358_crt_9Mpc0.jpg",
+        "link": "https://bgm.tv/character/75358",
+        "categorie": "person"
+      },
+      {
+        "id": "75359",
+        "label": "ボンジョルノ娘:ユイ",
+        "info": "和后街女孩一起做广播节目的二人组合",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/ec/75359_crt_h7H74.jpg",
+        "link": "https://bgm.tv/character/75359",
+        "categorie": "person"
+      },
+      {
+        "id": "75360",
+        "label": "ボンジョルノ娘:ひゆゆ",
+        "info": "和后街女孩一起做广播节目的二人组合",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/8c/75360_crt_F12s9.jpg",
+        "link": "https://bgm.tv/character/75360",
+        "categorie": "person"
+      },
+      {
+        "id": "75361",
+        "label": "ラジオ番組の司会者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/8c/75361_crt_zAuM7.jpg",
+        "link": "https://bgm.tv/character/75361",
+        "categorie": "person"
+      },
+      {
+        "id": "75362",
+        "label": "永田晃司",
+        "info": "カシラ",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/f8/75362_crt_bepBP.jpg",
+        "link": "https://bgm.tv/character/75362",
+        "categorie": "person"
+      },
+      {
+        "id": "75363",
+        "label": "映画監督",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/31/75363_crt_3LKKZ.jpg?r=1582091059",
+        "link": "https://bgm.tv/character/75363",
+        "categorie": "person"
+      },
+      {
+        "id": "75364",
+        "label": "映画プロデューサー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/7e/75364_crt_cMRnn.jpg",
+        "link": "https://bgm.tv/character/75364",
+        "categorie": "person"
+      },
+      {
+        "id": "75365",
+        "label": "竹村真治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/0d/75365_crt_010i7.jpg",
+        "link": "https://bgm.tv/character/75365",
+        "categorie": "person"
+      },
+      {
+        "id": "75366",
+        "label": "オイルショック山越",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/97/75366_crt_mu399.jpg",
+        "link": "https://bgm.tv/character/75366",
+        "categorie": "person"
+      },
+      {
+        "id": "75367",
+        "label": "らん",
+        "info": "千佳的（前）女友",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a5/75367_crt_Pfvi6.jpg",
+        "link": "https://bgm.tv/character/75367",
+        "categorie": "person"
+      },
+      {
+        "id": "75368",
+        "label": "村田",
+        "info": "采访后街女孩的女记者",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/e2/75368_crt_44RNR.jpg",
+        "link": "https://bgm.tv/character/75368",
+        "categorie": "person"
+      },
+      {
+        "id": "75369",
+        "label": "みゆき",
+        "info": "真理的（前）女朋友",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/5d/75369_crt_w9w5N.jpg",
+        "link": "https://bgm.tv/character/75369",
+        "categorie": "person"
+      },
+      {
+        "id": "75370",
+        "label": "岩村太郎",
+        "info": "『你，你知道我们是男的吧』",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/26/75370_crt_kr8zB.jpg",
+        "link": "https://bgm.tv/character/75370",
+        "categorie": "person"
+      },
+      {
+        "id": "75371",
+        "label": "冈本铁平",
+        "info": "后街女孩受害者协会会长",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/ad/75371_crt_Jg1Lg.jpg",
+        "link": "https://bgm.tv/character/75371",
+        "categorie": "person"
+      },
+      {
+        "id": "75372",
+        "label": "高村仁",
+        "info": "硬汉演员",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/44/75372_crt_AgP0u.jpg",
+        "link": "https://bgm.tv/character/75372",
+        "categorie": "person"
+      },
+      {
+        "id": "75380",
+        "label": "マイケル",
+        "info": "乔治以前的小弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/b3/75380_crt_8TGb1.jpg",
+        "link": "https://bgm.tv/character/75380",
+        "categorie": "person"
+      },
+      {
+        "id": "75382",
+        "label": "田村警視",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/40/75382_crt_V75zY.jpg",
+        "link": "https://bgm.tv/character/75382",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

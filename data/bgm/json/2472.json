@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1235",
+        "label": "羽濑川拓人",
+        "info": "主角。长相平庸，成绩平凡（被称为平均分数计算机），看起来非常普通的少年。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/96/1235_X1YYW.jpg?r=1593607879",
+        "link": "https://bgm.tv/character/1235",
+        "categorie": "person"
+      },
+      {
+        "id": "1236",
+        "label": "塔娜罗特",
+        "info": "拓人创造出的“未分化魔神”。褐色肌肤，瞳孔为红色。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/7e/1236_crt_5JsEs.jpg",
+        "link": "https://bgm.tv/character/1236",
+        "categorie": "person"
+      },
+      {
+        "id": "1237",
+        "label": "羽濑川铃穗",
+        "info": "拓人的堂姐。个性柔弱、温顺。由于失语症无法说话，在笔记本上写字表明意见。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/eb/1237_aZ9dD.jpg?r=1593607876",
+        "link": "https://bgm.tv/character/1237",
+        "categorie": "person"
+      },
+      {
+        "id": "1238",
+        "label": "法尔雀·萨·瓦利亚布鲁汪德",
+        "info": "神格化的魔杖，人型状态是相当美丽的少女。口气从容，但认真说话时会改用理智口吻。会对随便得到的资讯认真，具有让物体拟人化的能力，由于RPG攻略的影响扮演的魔王角色和拟人化的魔法道具部下在学园仓库据地为王让打扫学园仓库的主角一行人吃足了苦头。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/89/1238_FjWW4.jpg?r=1593607872",
+        "link": "https://bgm.tv/character/1238",
+        "categorie": "person"
+      },
+      {
+        "id": "1239",
+        "label": "佐久间荣太郎",
+        "info": "在学园就读许多年的学长。能够研究、教学，被当作准教师。对萌相当执着，并且对“太阳にほえろ!”相当了解。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/ba/1239_33BJ6.jpg?r=1593607868",
+        "link": "https://bgm.tv/character/1239",
+        "categorie": "person"
+      },
+      {
+        "id": "1240",
+        "label": "艾妮乌斯·萨·巴杰斯多",
+        "info": "荣太郎的使魔。长着兽耳、尾巴，女仆装打扮。相当优秀的上位魔物。武器为“迪斯钦（デスキン）”，是在拖把上装有戟的武器，在佐久间暴走的时候常常会使用它来制止。此武器每四个星期会变形一次。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/b8/1240_crt_BHbBT.jpg?r=1571450034",
+        "link": "https://bgm.tv/character/1240",
+        "categorie": "person"
+      },
+      {
+        "id": "3091",
+        "label": "雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/b8/3091_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3091",
+        "categorie": "person"
+      },
+      {
+        "id": "3101",
+        "label": "乔治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/f9/3101_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3101",
+        "categorie": "person"
+      },
+      {
+        "id": "3082",
+        "label": "寒河江教授",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/4b/3082_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3082",
+        "categorie": "person"
+      },
+      {
+        "id": "3092",
+        "label": "亚嘉里亚莱普特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/d4/3092_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3092",
+        "categorie": "person"
+      },
+      {
+        "id": "3094",
+        "label": "加百列",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/2f/3094_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3094",
+        "categorie": "person"
+      },
+      {
+        "id": "3061",
+        "label": "羽濑川铃果",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/a0/3061_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3061",
+        "categorie": "person"
+      },
+      {
+        "id": "3085",
+        "label": "雾岛叶月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/b0/3085_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3085",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

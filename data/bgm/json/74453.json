@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55088",
+        "label": "ジャンヌ・フィリエール",
+        "info": "東欧の小国・リブファールの貴族のお嬢様だったが、5年前に父の仕事の都合で来日して、日本が気に入りそのまま居着いてしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/a7/55088_crt_M56m6.jpg",
+        "link": "https://bgm.tv/character/55088",
+        "categorie": "person"
+      },
+      {
+        "id": "55091",
+        "label": "エリーヌ・神居・フィリエール",
+        "info": "ジャンヌの母親。 日本人の血を四分の一ほど引き継ぐクォーター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/1b/55091_crt_z7SzL.jpg",
+        "link": "https://bgm.tv/character/55091",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

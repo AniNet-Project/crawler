@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68022",
+        "label": "乔伊",
+        "info": "本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d1/68022_crt_0acT0.jpg",
+        "link": "https://bgm.tv/character/68022",
+        "categorie": "person"
+      },
+      {
+        "id": "68023",
+        "label": "ヒーローマン",
+        "info": "ジョーイと共に戦う、巨大なロボットを模したヒーロー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/71/68023_crt_hJqhP.jpg",
+        "link": "https://bgm.tv/character/68023",
+        "categorie": "person"
+      },
+      {
+        "id": "68024",
+        "label": "サイ",
+        "info": "ジョーイの幼なじみにして親友でもあるクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/3e/68024_crt_53AAA.jpg",
+        "link": "https://bgm.tv/character/68024",
+        "categorie": "person"
+      },
+      {
+        "id": "68025",
+        "label": "リナ",
+        "info": "ジョーイのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/21/68025_crt_fog4c.jpg",
+        "link": "https://bgm.tv/character/68025",
+        "categorie": "person"
+      },
+      {
+        "id": "68026",
+        "label": "デントン",
+        "info": "スクールの科学教師で、あだ名は教授。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/ad/68026_crt_XZx2p.jpg",
+        "link": "https://bgm.tv/character/68026",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

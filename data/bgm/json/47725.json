@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29170",
+        "label": "カオル",
+        "info": "第二章登场的人物，能够对花的香味进行干涉，并且能够控制闻到该味道的人的感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/49/29170_crt_fQewl.jpg",
+        "link": "https://bgm.tv/character/29170",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

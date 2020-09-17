@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2162",
+        "label": "漩涡鸣人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/f5/2162_crt_u5Z59.jpg?r=1532380992",
+        "link": "https://bgm.tv/character/2162",
+        "categorie": "person"
+      },
+      {
+        "id": "6500",
+        "label": "宇智波佐助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/a3/6500_crt_Fzb24.jpg?r=1419948585",
+        "link": "https://bgm.tv/character/6500",
+        "categorie": "person"
+      },
+      {
+        "id": "6540",
+        "label": "日向雏田",
+        "info": "木叶名门“日向一族”宗家的成员，妹妹日向花火。很喜欢漩涡鸣人，在鸣人的面前经常会害羞。原本是个性格柔弱的女孩，但是在鸣人的影响下逐渐变得坚强，并逐渐成长为一名优秀的忍者。拥有能看穿一切事物的“白眼”，并擅长使用日向家流传的名为“柔拳”的体术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/33/6540_crt_BCPF7.jpg?r=1421298921",
+        "link": "https://bgm.tv/character/6540",
+        "categorie": "person"
+      },
+      {
+        "id": "6827",
+        "label": "春野樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8f/6827_crt_jhQZP.jpg",
+        "link": "https://bgm.tv/character/6827",
+        "categorie": "person"
+      },
+      {
+        "id": "6833",
+        "label": "油女志乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/51/6833_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6833",
+        "categorie": "person"
+      },
+      {
+        "id": "7353",
+        "label": "犬冢牙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d2/7353_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7353",
+        "categorie": "person"
+      },
+      {
+        "id": "7355",
+        "label": "纲手",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/6e/7355_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7355",
+        "categorie": "person"
+      },
+      {
+        "id": "7364",
+        "label": "奈良鹿丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/2f/7364_crt_anidb.jpg?r=1421299037",
+        "link": "https://bgm.tv/character/7364",
+        "categorie": "person"
+      },
+      {
+        "id": "7365",
+        "label": "山中井野",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c8/7365_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7365",
+        "categorie": "person"
+      },
+      {
+        "id": "7366",
+        "label": "秋道丁次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/be/7366_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7366",
+        "categorie": "person"
+      },
+      {
+        "id": "8838",
+        "label": "御手洗红豆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/f5/8838_crt_anidb.jpg?r=1494517963",
+        "link": "https://bgm.tv/character/8838",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

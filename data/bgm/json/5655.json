@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11632",
+        "label": "内田文明",
+        "info": "矢作紗友里（少年時代1999年、クレジット表記は「ブンメー君」）",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/11632_crt_CCGCc.jpg",
+        "link": "https://bgm.tv/character/11632",
+        "categorie": "person"
+      },
+      {
+        "id": "11631",
+        "label": "神代玛雅",
+        "info": "超自然学院的学院长也是其中的学生，前学院长的唯一女儿。父亲死后，出现在学院并接任了学院长一职。初时希望废除学院，现在则为了调查父亲的死的真相而与文明联手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/de/11631_crt_o5Wm0.jpg",
+        "link": "https://bgm.tv/character/11631",
+        "categorie": "person"
+      },
+      {
+        "id": "11634",
+        "label": "成濑梢",
+        "info": "亚美的同班同学。异常热衷于超自然现象，崇拜著前学院长，梦想是成为超自然学说的专家。自言从未在清晰知觉下体验超自然现象，所以持续著修行，时不时会独自跑到深山里闭关修行等等。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/8a/11634_crt_mY5R3.jpg",
+        "link": "https://bgm.tv/character/11634",
+        "categorie": "person"
+      },
+      {
+        "id": "11633",
+        "label": "黑木亚美",
+        "info": "玛雅的儿时玩伴，受玛雅影响小时候一同研究超自然现象。确信着玛雅还喜欢著超自然学说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/12/11633_crt_WmYsH.jpg",
+        "link": "https://bgm.tv/character/11633",
+        "categorie": "person"
+      },
+      {
+        "id": "11617",
+        "label": "中川美风",
+        "info": "在中川食堂工作，制作的食物包罗万有但质素不稳。对市内的超自然事物有一定认识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/6b/11617_crt_McVgF.jpg",
+        "link": "https://bgm.tv/character/11617",
+        "categorie": "person"
+      },
+      {
+        "id": "11638",
+        "label": "川岛千寻",
+        "info": "学院的训导主任，知道关于学院长逝世的秘密。因其发型像当时流行的“团子2兄弟”而被学生们嘲笑。因为夸奖了其发型而喜欢上了文明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/a4/11638_crt_M2ydt.jpg",
+        "link": "https://bgm.tv/character/11638",
+        "categorie": "person"
+      },
+      {
+        "id": "11635",
+        "label": "JK",
+        "info": "真名不详的学院发明家。一头红发的胖子，在第一话时被玛雅称为“红猪”还颇自豪的认同。是个耳朵灵敏的顺风耳，专长是探测灵物。常与斯马尔一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/95/11635_crt_76U77.jpg",
+        "link": "https://bgm.tv/character/11635",
+        "categorie": "person"
+      },
+      {
+        "id": "11636",
+        "label": "斯马尔",
+        "info": "学院专属的机械工，喜欢争吵和擅长打架。工作服的胸前佩戴着微笑表情的徽章。常与JK一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/5e/11636_crt_2ut2b.jpg",
+        "link": "https://bgm.tv/character/11636",
+        "categorie": "person"
+      },
+      {
+        "id": "11637",
+        "label": "神代纯一郎",
+        "info": "超自然学院前院长。一生钻研超自然学说，成立的学院亦有很多异样，对外宣传死因为心肌梗死，但当中有很大的秘密。其生前为了解开世纪末预言而私底下去寻找诺斯特拉达缪斯之钥。之后留下一本笔记给玛雅，并说明该笔记本会成为保护玛雅的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/93/11637_crt_3ZGQL.jpg",
+        "link": "https://bgm.tv/character/11637",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

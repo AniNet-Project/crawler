@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34061",
+        "label": "罗·裘尔",
+        "info": "原本是在垃圾山被人发现的孤儿，原名是“LOVE”，由于输入错误变成“LOWE”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/10/34061_crt_60P46.jpg?r=1436541811",
+        "link": "https://bgm.tv/character/34061",
+        "categorie": "person"
+      },
+      {
+        "id": "34062",
+        "label": "丛云劾",
+        "info": "佣兵部队巨蛇之尾（Serpent Tail）的首领，深受战友们的信赖。巨蛇之尾以完成不可能完成的任务而在地下世界久负盛名，而作为团队绝对核心的丛云劾更是有着“最强调整者”的传奇佣兵。他的能力既有来自于调整者的天赋，也有来自后天养成的努力，但是更多的来自于战场上日积月累的经验。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/14/34062_crt_1dpBv.jpg?r=1436542293",
+        "link": "https://bgm.tv/character/34062",
+        "categorie": "person"
+      },
+      {
+        "id": "2994",
+        "label": "プラント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/cf/2994_crt_LAmjj.jpg",
+        "link": "https://bgm.tv/character/2994",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

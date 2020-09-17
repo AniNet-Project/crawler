@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24551",
+        "label": "梅菲斯特",
+        "info": "来自充满悲伤乐曲的国家“小调岛”的国王。打算将“幸福的旋律”改写成“不幸的旋律”，使世界陷入悲伤。个性易怒、孩子气，爱吃棒棒糖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/1d/24551_crt_L18mM.jpg?r=1559139059",
+        "link": "https://bgm.tv/character/24551",
+        "categorie": "person"
+      },
+      {
+        "id": "24552",
+        "label": "阿佛洛狄忒",
+        "info": "音乐王国“大调岛”的女王，小调岛国王梅菲斯特的妻子，亚子的母亲，音吉的女儿。为了阻止被洗脑的梅菲斯特将“传说的乐谱”——“幸福的旋律”变成“不幸的旋律”让乐谱中的音符们逃往人类世界避难，并让哈米带着音符精灵们一起前往人类世界阻止梅菲斯特的手下收集音符。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/b7/24552_crt_AeY6F.jpg?r=1559141975",
+        "link": "https://bgm.tv/character/24552",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

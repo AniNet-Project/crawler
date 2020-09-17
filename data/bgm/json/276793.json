@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45948",
+        "label": "桐叶",
+        "info": "　　和服腰带幻化成的付丧神，真名为“彩樱”，于上冈东中学校里用的假名为“带奈桐叶”。能够以分身腰带编织出攻击或防御用的道具。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/15/45948_crt_KO2J5.jpg?r=1573034295",
+        "link": "https://bgm.tv/character/45948",
+        "categorie": "person"
+      },
+      {
+        "id": "45949",
+        "label": "加贺见一也",
+        "info": "　　有着吸引离奇现象体质的“忌讳之子”。在一次意外下被时时刻刻带在身边的腰带幻化成的付丧神桐叶所救，在与菊理一战中以奏歌给予的提示成为了桐叶的新任持有者，并以八重刃打倒菊理（面具）成为了新任降灵大将。在多起的离奇现象与素直的指责下曾一度陷入低潮，后在桐叶的打气之下恢复。在与素直一战中虽借由特训的效果一时占了上风，却被素直看穿其单调的攻击方式而陷于劣势，最终为了驳回素直把付丧神当道具使用的想法而使用“人神合体”与素直正面对决，并以“神力腰带”接下秘剑“羽羽斩”以及用“縒蛇”给予定胜负的一击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/10/45949_crt_4TlHQ.jpg?r=1491143984",
+        "link": "https://bgm.tv/character/45949",
+        "categorie": "person"
+      },
+      {
+        "id": "45950",
+        "label": "菊理",
+        "info": "　　一也所居住的城镇上冈的土地神“菊理媛大神”，同时还是有着操控水的能力的“水神”。因不明原因丧失了原本的力量而变成小孩子的模样，借由依附在面具上可以恢复一定程度的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/a2/45950_crt_e73sp.jpg?r=1491144143",
+        "link": "https://bgm.tv/character/45950",
+        "categorie": "person"
+      },
+      {
+        "id": "45951",
+        "label": "近石千里",
+        "info": "　　一也的青梅竹马与班上的班长，身上总是携带着百折扇当武器使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/c3/45951_crt_0XEsa.jpg?r=1491144034",
+        "link": "https://bgm.tv/character/45951",
+        "categorie": "person"
+      },
+      {
+        "id": "45952",
+        "label": "皇素直",
+        "info": "　　皇家的长女以及皇流剑术继承者。因认为一也没资格继承奏歌的腰带而提出了决斗的要求，虽然有着比一也高的实力，但其只把付丧神当工具使用的心态让虎铁累积了不少损伤，最后因刀柄破损露出了空隙而败北。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/6e/45952_crt_Md48y.jpg?r=1495631479",
+        "link": "https://bgm.tv/character/45952",
+        "categorie": "person"
+      },
+      {
+        "id": "51761",
+        "label": "黑耀",
+        "info": "菊理的侍者，原型是乌鸦，人型姿态是个散发古典气质，表情淡漠的巨乳美女。称呼桐叶“抹布女”。原本在流浪期间因过度饥饿而昏倒，被菊理收容成为其神使。受菊理指示，前来调查守护区的异常现象和寻找一也，和桐叶在学校展开腕力对决，以分毫之差败给桐叶。带领一行人会见菊理。据菊理所称，黑耀的能力仅略弱于她，但其实两者的实力接近伯仲之间。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/ac/51761_crt_WaIDO.jpg?r=1491144231",
+        "link": "https://bgm.tv/character/51761",
+        "categorie": "person"
+      },
+      {
+        "id": "74918",
+        "label": "虎铁",
+        "info": "皇家に伝わる「刀」の付喪神で、「つぐもも」の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/6f/74918_crt_C884O.jpg?r=1579933824",
+        "link": "https://bgm.tv/character/74918",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

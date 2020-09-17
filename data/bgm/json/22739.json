@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11619",
+        "label": "ヒナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/fb/11619_crt_xnLNl.jpg",
+        "link": "https://bgm.tv/character/11619",
+        "categorie": "person"
+      },
+      {
+        "id": "17698",
+        "label": "安",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ec/17698_crt_bePEN.jpg",
+        "link": "https://bgm.tv/character/17698",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

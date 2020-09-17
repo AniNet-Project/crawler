@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18336",
+        "label": "蛯原爱",
+        "info": "本名「蛯原愛」。16歳。漫画研究部（漫研）で唯一真面目に漫画を制作しようとする常識人で、ミイ達に対するツッコミ役。麻衣たちに絡まれることも多いが、喧嘩では一度も負けたことがない。黒髪で、最初はロングストレートだったが、途中でポニーテールに変更している。夏菜子という妹が居る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/93/18336_crt_55xuL.jpg?r=1405004684",
+        "link": "https://bgm.tv/character/18336",
+        "categorie": "person"
+      },
+      {
+        "id": "18335",
+        "label": "麻衣",
+        "info": "無邪気な漫研部員。両側頭部で大きく渦を描くセミロングの髪型が特徴。流され易い性格で、しばしばミイと共にボケ役となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/64/18335_crt_41ZS4.jpg?r=1406629342",
+        "link": "https://bgm.tv/character/18335",
+        "categorie": "person"
+      },
+      {
+        "id": "18334",
+        "label": "美依",
+        "info": "ボケる漫研部員。頭頂部に房の突き出たセミロングの髪型が特徴。麻衣の怒りを買って餅にされた弟が居る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/00/18334_crt_MJ1j8.jpg?r=1448059535",
+        "link": "https://bgm.tv/character/18334",
+        "categorie": "person"
+      },
+      {
+        "id": "18333",
+        "label": "步乃香学姐",
+        "info": "青い長髪をハーフアップにまとめた、謎の多い先輩。漫研部員だが、同級生である他の3人より登場頻度は少なく、登場時には大抵謎めいたことが起きる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/69/18333_crt_SBDqO.jpg?r=1484185331",
+        "link": "https://bgm.tv/character/18333",
+        "categorie": "person"
+      },
+      {
+        "id": "16339",
+        "label": "柴犬子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/6a/16339_crt_39366.jpg",
+        "link": "https://bgm.tv/character/16339",
+        "categorie": "person"
+      },
+      {
+        "id": "26947",
+        "label": "其他",
+        "info": "没有名字的其他人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c7/26947_crt_hYT2F.jpg",
+        "link": "https://bgm.tv/character/26947",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

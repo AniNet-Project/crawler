@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41059",
+        "label": "冬月花",
+        "info": "本篇の主人公。任務の一環として、江の島のとある公立高校に転校してくる。素直で家族想いの17歳の少女で典型的な日本の女子高生。フラワーズの一員で、父、母、弟を人質に取られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/54/41059_crt_gZkGZ.jpg",
+        "link": "https://bgm.tv/character/41059",
+        "categorie": "person"
+      },
+      {
+        "id": "41061",
+        "label": "安西娅·卡伦伯格",
+        "info": "本シリーズの主人公、フラワーズの一員。北欧系の17歳の少女。潜入暗殺を得意とし、戦闘能力も飛び抜けて高い。その存在は広く世界の軍関係者に知られ、恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/60/41061_crt_mctqF.jpg?r=1470740032",
+        "link": "https://bgm.tv/character/41061",
+        "categorie": "person"
+      },
+      {
+        "id": "41066",
+        "label": "七濑俊一",
+        "info": "江の島にあるとある公立高校に通う16歳の少年。クラスでは地味で目立たない存在。何故か、転校生の冬月ハナから強い興味を持たれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/40/41066_crt_U85r8.jpg?r=1470740100",
+        "link": "https://bgm.tv/character/41066",
+        "categorie": "person"
+      },
+      {
+        "id": "41062",
+        "label": "小百合",
+        "info": "中学時代からフラワーズに参加させられている理知的な女子高生。日本人で17歳。諜報活動を担当し、エステラと組むことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c2/41062_crt_VCH6U.jpg?r=1470740118",
+        "link": "https://bgm.tv/character/41062",
+        "categorie": "person"
+      },
+      {
+        "id": "41064",
+        "label": "埃斯特拉",
+        "info": "ほかのメンバーより早く、8歳からフラワーズに参加している。ヒスパニック系アメリカ人で現在17歳。狙撃が得意でさゆりと組むことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/c0/41064_crt_Rw48W.jpg?r=1470740196",
+        "link": "https://bgm.tv/character/41064",
+        "categorie": "person"
+      },
+      {
+        "id": "41065",
+        "label": "天方顺一",
+        "info": "インターナショナルスクールのフラワーズが所属するクラスの教員。実際は国連軍の大佐でフラワーズ直属の指揮官。32歳の元NATO軍人で、北欧にて極秘任務中に人身売買組織からアンシアを救出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/b0/41065_crt_o8z4Y.jpg?r=1470740166",
+        "link": "https://bgm.tv/character/41065",
+        "categorie": "person"
+      },
+      {
+        "id": "44225",
+        "label": "冬月圭吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/bd/44225_crt_o8in4.jpg?r=1470740337",
+        "link": "https://bgm.tv/character/44225",
+        "categorie": "person"
+      },
+      {
+        "id": "44226",
+        "label": "冬月京子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/76/44226_crt_1VzZz.jpg",
+        "link": "https://bgm.tv/character/44226",
+        "categorie": "person"
+      },
+      {
+        "id": "44227",
+        "label": "冬月优人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/d7/44227_crt_OdLDd.jpg?r=1470740391",
+        "link": "https://bgm.tv/character/44227",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

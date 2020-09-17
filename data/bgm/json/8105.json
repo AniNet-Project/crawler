@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11213",
+        "label": "川上纪衣子",
+        "info": "17岁的高中二年级生。具备着能够移动一小部分物体的不可思议超能力，脑内充满着妄想。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/f8/11213_crt_S5elj.jpg",
+        "link": "https://bgm.tv/character/11213",
+        "categorie": "person"
+      },
+      {
+        "id": "11214",
+        "label": "齐藤亚绫",
+        "info": "16岁的高中二年级生。春天刚刚转入纪衣子的班级，成绩优秀，喜欢不可思议的事物，有一些强势的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/6e/11214_crt_z7Gp2.jpg",
+        "link": "https://bgm.tv/character/11214",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

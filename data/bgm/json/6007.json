@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41528",
+        "label": "小惠惠",
+        "info": "专业杀虫机器人",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/b2/41528_crt_BOCpv.jpg",
+        "link": "https://bgm.tv/character/41528",
+        "categorie": "person"
+      },
+      {
+        "id": "41529",
+        "label": "Combat酱",
+        "info": "另一款（有Bug的）杀虫机器人",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/3a/41529_crt_MwJEm.jpg",
+        "link": "https://bgm.tv/character/41529",
+        "categorie": "person"
+      },
+      {
+        "id": "41530",
+        "label": "不死川睦美",
+        "info": "出羽的友人，热爱战斗玩偶",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/9e/41530_crt_Ee5jQ.jpg?r=1462960381",
+        "link": "https://bgm.tv/character/41530",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

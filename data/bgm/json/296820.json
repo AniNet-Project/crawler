@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19452",
+        "label": "幸平创真",
+        "info": "本作品の主人公。15歳。大衆食堂「食事処 ゆきひら」の跡取り息子で、店主である父との二人暮らし[注 1]。左眉付近にある切り傷が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/80/19452_crt_lwli1.jpg?r=1530151046",
+        "link": "https://bgm.tv/character/19452",
+        "categorie": "person"
+      },
+      {
+        "id": "19453",
+        "label": "薙切绘里奈",
+        "info": "本作品におけるヒロインの一人で、主人公のライバル的存在。15歳。遠月学園総帥の孫娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/40/19453_crt_6pACb.jpg?r=1530151009",
+        "link": "https://bgm.tv/character/19453",
+        "categorie": "person"
+      },
+      {
+        "id": "76446",
+        "label": "才波朝阳",
+        "info": "曾是才波城一郎在美国的养子，年轻时曾与他习得厨艺，成年后通过在暗黑料理人比赛中战败所有对手而一战成名，成了统领暗黑料理界的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/27/76446_crt_Nm0gI.jpg?r=1586344156",
+        "link": "https://bgm.tv/character/76446",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

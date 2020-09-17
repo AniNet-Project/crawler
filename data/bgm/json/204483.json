@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55866",
+        "label": "城根御前",
+        "info": "陽菜野市の名家の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/db/55866_crt_VTrrn.jpg?r=1500736534",
+        "link": "https://bgm.tv/character/55866",
+        "categorie": "person"
+      },
+      {
+        "id": "55867",
+        "label": "赤来杏",
+        "info": "医師と看護師の娘。新体操部の幽霊部員",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/69/55867_crt_7CDaS.jpg?r=1500736447",
+        "link": "https://bgm.tv/character/55867",
+        "categorie": "person"
+      },
+      {
+        "id": "56735",
+        "label": "黑酒路子",
+        "info": "ローカル線駅長の娘。御前の親友であり、生徒会副会長。とても頼りになる存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/9f/56735_crt_rhLll.jpg?r=1504546768",
+        "link": "https://bgm.tv/character/56735",
+        "categorie": "person"
+      },
+      {
+        "id": "55736",
+        "label": "黄濑美甘",
+        "info": "レモン農家の娘。元チアリーディング部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/52/55736_crt_n3nNN.jpg?r=1499465781",
+        "link": "https://bgm.tv/character/55736",
+        "categorie": "person"
+      },
+      {
+        "id": "56736",
+        "label": "绿川末那",
+        "info": "陽菜野市の由緒ある寺の一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ab/56736_crt_r3Oo4.jpg?r=1502312757",
+        "link": "https://bgm.tv/character/56736",
+        "categorie": "person"
+      },
+      {
+        "id": "56737",
+        "label": "青山元气",
+        "info": "美容院の娘。電脳同好会所属する、めがねっこ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/54/56737_crt_Loq6j.jpg?r=1505408551",
+        "link": "https://bgm.tv/character/56737",
+        "categorie": "person"
+      },
+      {
+        "id": "56738",
+        "label": "青山勇气",
+        "info": "美容院の娘。大人気アイドルグループに所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c3/56738_crt_eoaUc.jpg?r=1505653758",
+        "link": "https://bgm.tv/character/56738",
+        "categorie": "person"
+      },
+      {
+        "id": "56739",
+        "label": "桃井初莉",
+        "info": "城ヶ根家と縁の深い建設会社の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/f7/56739_crt_Dordx.jpg?r=1505829874",
+        "link": "https://bgm.tv/character/56739",
+        "categorie": "person"
+      },
+      {
+        "id": "56501",
+        "label": "紫村果音",
+        "info": "高校2年生で、杏の中学時代の新体操のライバル。杏からは「ムラムラちゃん」と呼ばれている。誕生日は6月6日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/77/56501_crt_e7D99.jpg?r=1501434826",
+        "link": "https://bgm.tv/character/56501",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

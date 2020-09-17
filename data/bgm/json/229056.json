@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48111",
+        "label": "天咲彩愛",
+        "info": "忍に一目惚れして、ギャルからオタクにジョブチェンジを果たしたクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/63/48111_crt_A3aG7.jpg",
+        "link": "https://bgm.tv/character/48111",
+        "categorie": "person"
+      },
+      {
+        "id": "48112",
+        "label": "宮之上環奈",
+        "info": "クール系女子に見えるけど、ちょっぴりヤキモチ焼きで甘えん坊な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/cc/48112_crt_2VuMX.jpg",
+        "link": "https://bgm.tv/character/48112",
+        "categorie": "person"
+      },
+      {
+        "id": "48113",
+        "label": "里神ゆり",
+        "info": "忍の幼なじみでお隣さん。豊満な愛されボディが武器なクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ae/48113_crt_NmrVo.jpg",
+        "link": "https://bgm.tv/character/48113",
+        "categorie": "person"
+      },
+      {
+        "id": "57999",
+        "label": "鳥居卯衣",
+        "info": "身長：155cm　バスト：93cm（G）",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/5b/57999_crt_L62n4.jpg",
+        "link": "https://bgm.tv/character/57999",
+        "categorie": "person"
+      },
+      {
+        "id": "48115",
+        "label": "松永・A・恋",
+        "info": "ハーフの生徒会長で、一つ上の先輩。 炊事洗濯なんでもOKな完璧超人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/c4/48115_crt_kl5qx.jpg",
+        "link": "https://bgm.tv/character/48115",
+        "categorie": "person"
+      },
+      {
+        "id": "48114",
+        "label": "咲楽花沙音",
+        "info": "忍のクラスメイトで、環奈の親友。 風紀員でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/e7/48114_crt_gzg2k.jpg",
+        "link": "https://bgm.tv/character/48114",
+        "categorie": "person"
+      },
+      {
+        "id": "48116",
+        "label": "里神なずな",
+        "info": "ゆりの母親で、長期出張で親が不在な忍の母親代わりのような存在でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/41/48116_crt_8pzbO.jpg",
+        "link": "https://bgm.tv/character/48116",
+        "categorie": "person"
+      },
+      {
+        "id": "48117",
+        "label": "八重桜みる",
+        "info": "婚期を逃した、かわいそうなクラス担任。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/05/48117_crt_BMfm0.jpg",
+        "link": "https://bgm.tv/character/48117",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

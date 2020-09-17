@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26416",
+        "label": "赤堤桃子",
+        "info": "声优：日本→加藤英美里；台湾→杨凯凯；香港→曾秀清",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/54/26416_crt_tYeVz.jpg?r=1408566519",
+        "link": "https://bgm.tv/character/26416",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

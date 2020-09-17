@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61294",
+        "label": "爱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/d2/61294_crt_ZQb63.jpg?r=1519445483",
+        "link": "https://bgm.tv/character/61294",
+        "categorie": "person"
+      },
+      {
+        "id": "61295",
+        "label": "トモ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/13/61295_crt_LRBzV.jpg?r=1519445537",
+        "link": "https://bgm.tv/character/61295",
+        "categorie": "person"
+      },
+      {
+        "id": "61296",
+        "label": "真島さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/cb/61296_crt_slZu4.jpg?r=1519445597",
+        "link": "https://bgm.tv/character/61296",
+        "categorie": "person"
+      },
+      {
+        "id": "61297",
+        "label": "田西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/7c/61297_crt_V31G4.jpg?r=1519445651",
+        "link": "https://bgm.tv/character/61297",
+        "categorie": "person"
+      },
+      {
+        "id": "61298",
+        "label": "駒場みさき",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/be/61298_crt_ykH9H.jpg?r=1519445688",
+        "link": "https://bgm.tv/character/61298",
+        "categorie": "person"
+      },
+      {
+        "id": "61299",
+        "label": "駒場たかし",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/00/61299_crt_zxsT4.jpg?r=1519445725",
+        "link": "https://bgm.tv/character/61299",
+        "categorie": "person"
+      },
+      {
+        "id": "61300",
+        "label": "詩子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/df/61300_crt_yi1ym.jpg?r=1519445781",
+        "link": "https://bgm.tv/character/61300",
+        "categorie": "person"
+      },
+      {
+        "id": "61301",
+        "label": "黑部",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/5a/61301_crt_xi60I.jpg?r=1519445824",
+        "link": "https://bgm.tv/character/61301",
+        "categorie": "person"
+      },
+      {
+        "id": "61302",
+        "label": "先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6f/61302_crt_XdEDZ.jpg?r=1519445867",
+        "link": "https://bgm.tv/character/61302",
+        "categorie": "person"
+      },
+      {
+        "id": "63388",
+        "label": "福留",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/28/63388_crt_6BPlJ.jpg?r=1525959461",
+        "link": "https://bgm.tv/character/63388",
+        "categorie": "person"
+      },
+      {
+        "id": "63389",
+        "label": "斋藤",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/5e/63389_crt_8gZhJ.jpg?r=1525959474",
+        "link": "https://bgm.tv/character/63389",
+        "categorie": "person"
+      },
+      {
+        "id": "63523",
+        "label": "あけみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/0e/63523_crt_8ztAD.jpg?r=1526565138",
+        "link": "https://bgm.tv/character/63523",
+        "categorie": "person"
+      },
+      {
+        "id": "63531",
+        "label": "八朔大叔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/70/63531_crt_2TKpF.jpg?r=1526565153",
+        "link": "https://bgm.tv/character/63531",
+        "categorie": "person"
+      },
+      {
+        "id": "66476",
+        "label": "雪子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e2/66476_crt_vtAHe.jpg?r=1538543666",
+        "link": "https://bgm.tv/character/66476",
+        "categorie": "person"
+      },
+      {
+        "id": "66477",
+        "label": "斉木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/50/66477_crt_zN73l.jpg?r=1538543710",
+        "link": "https://bgm.tv/character/66477",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13190",
+        "label": "蜷川安室",
+        "info": "戴着X型绷带发饰的活泼少女，左撇子，对人非常友善热情。在家里是大姐，有3个弟弟和2个妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/d8/13190_crt_MQMjf.jpg",
+        "link": "https://bgm.tv/character/13190",
+        "categorie": "person"
+      },
+      {
+        "id": "13191",
+        "label": "冲浦要",
+        "info": "海商游泳社经理人。由于幼年时的“人鱼目击事件”，对入水有心理障碍。不会游泳但相关的知识却很丰富，能够得到部员的信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/53/13191_crt_VJn0z.jpg",
+        "link": "https://bgm.tv/character/13191",
+        "categorie": "person"
+      },
+      {
+        "id": "5385",
+        "label": "静冈美玲",
+        "info": "祖上是企业家的大家闺秀，F罩杯巨乳美少女。项目是个人混合以及混合接力，特长是自由泳和蝶泳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/22/5385_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5385",
+        "categorie": "person"
+      },
+      {
+        "id": "5386",
+        "label": "生田时辉",
+        "info": "总是很开心，能够活跃气氛的角色。游泳初学者，还要使用辅助道具。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/98/5386_crt_anidb.jpg?r=1476145947",
+        "link": "https://bgm.tv/character/5386",
+        "categorie": "person"
+      },
+      {
+        "id": "5387",
+        "label": "魚々戸真綾",
+        "info": "知名模特，实力游泳运动员，全国初中大赛连续2年仰泳冠军。我行我素，对别人就算是前辈也从来不用敬语。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/40/5387_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5387",
+        "categorie": "person"
+      },
+      {
+        "id": "5388",
+        "label": "碇矢雅",
+        "info": "海商游泳社初任部长，一般称作“Ikamasa”。项目是100米、200米蝶泳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/e4/5388_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5388",
+        "categorie": "person"
+      },
+      {
+        "id": "13194",
+        "label": "织冢桃子",
+        "info": "海商游泳社副部长，实力派选手。项目是100米、200米自由泳和混合接力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/02/13194_crt_07uPT.jpg",
+        "link": "https://bgm.tv/character/13194",
+        "categorie": "person"
+      },
+      {
+        "id": "13200",
+        "label": "黄濑早苗",
+        "info": "桃子初中时代的好友，海商游泳社创始人之一。项目是蛙泳和混合接力。喜欢八卦，也是麻烦制造者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b0/13200_crt_4X76c.jpg",
+        "link": "https://bgm.tv/character/13200",
+        "categorie": "person"
+      },
+      {
+        "id": "13202",
+        "label": "武田圣斗",
+        "info": "特征是三角头，色狼。项目是100米、200米蛙泳。喜欢游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/20/13202_crt_Fg1Tw.jpg",
+        "link": "https://bgm.tv/character/13202",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

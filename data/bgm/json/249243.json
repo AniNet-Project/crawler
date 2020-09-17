@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65716",
+        "label": "阿淼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/54/65716_crt_ZN77N.jpg?r=1535970136",
+        "link": "https://bgm.tv/character/65716",
+        "categorie": "person"
+      },
+      {
+        "id": "65717",
+        "label": "大树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d4/65717_crt_8xpN2.jpg?r=1535970135",
+        "link": "https://bgm.tv/character/65717",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

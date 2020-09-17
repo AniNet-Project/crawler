@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33605",
+        "label": "高海千歌",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中2年级生。为分队“CYaRon！”的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/46/33605_crt_0pX2C.jpg?r=1509631294",
+        "link": "https://bgm.tv/character/33605",
+        "categorie": "person"
+      },
+      {
+        "id": "37802",
+        "label": "樱内梨子",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中2年级生。为分队“Guilty Kiss”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/ef/37802_crt_6B8bS.jpg?r=1509631363",
+        "link": "https://bgm.tv/character/37802",
+        "categorie": "person"
+      },
+      {
+        "id": "37803",
+        "label": "松浦果南",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中3年级生。分队“AZALEA”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1a/37803_crt_72Oam.jpg?r=1460908026",
+        "link": "https://bgm.tv/character/37803",
+        "categorie": "person"
+      },
+      {
+        "id": "37804",
+        "label": "黑泽黛雅",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中3年级生。分队“AZALEA”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/20/37804_crt_7vjQ3.jpg?r=1510848010",
+        "link": "https://bgm.tv/character/37804",
+        "categorie": "person"
+      },
+      {
+        "id": "37805",
+        "label": "渡边曜",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中2年级生。分队“CYaRon!”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/af/37805_crt_NK7kN.jpg?r=1510848054",
+        "link": "https://bgm.tv/character/37805",
+        "categorie": "person"
+      },
+      {
+        "id": "37806",
+        "label": "津岛善子",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中1年级生。为分队“Guilty Kiss”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/ad/37806_crt_hEsyH.jpg?r=1510848092",
+        "link": "https://bgm.tv/character/37806",
+        "categorie": "person"
+      },
+      {
+        "id": "37807",
+        "label": "国木田花丸",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中1年级生。为分队“AZALEA”的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/30/37807_crt_gWELT.jpg?r=1513511982",
+        "link": "https://bgm.tv/character/37807",
+        "categorie": "person"
+      },
+      {
+        "id": "37808",
+        "label": "小原鞠莉",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中3年级生。为分队“Guilty Kiss”的队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/03/37808_crt_4Bqg1.jpg?r=1514292831",
+        "link": "https://bgm.tv/character/37808",
+        "categorie": "person"
+      },
+      {
+        "id": "37809",
+        "label": "黑泽露比",
+        "info": "浦之星女子学院的学园偶像团体Aqours成员。高中1年级生。分队“CYaRon!”的队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/0f/37809_crt_tSNes.jpg?r=1514885203",
+        "link": "https://bgm.tv/character/37809",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

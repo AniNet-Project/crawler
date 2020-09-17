@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27828",
+        "label": "忍足侑士",
+        "info": "氷帝きっての天才肌。関西弁のポーカーフェイス。曲者と呼ばれ、試合中でも滅多に感情を表に出さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/84/27828_crt_cLSAW.jpg",
+        "link": "https://bgm.tv/character/27828",
+        "categorie": "person"
+      },
+      {
+        "id": "27830",
+        "label": "向日岳人",
+        "info": "ずば抜けた跳躍力と柔軟な身体能力を駆使し、「アクロバティックプレイ」をみせる。飛躍の美学に魅入られた、Mr.アクロバティック。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/75/27830_crt_46faA.jpg",
+        "link": "https://bgm.tv/character/27830",
+        "categorie": "person"
+      },
+      {
+        "id": "27831",
+        "label": "芥川慈郎",
+        "info": "徹底的な実力主義の氷帝の中で、いつもマイペース。優れたプレイヤーと対峙することで、眠っていた力が覚醒する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/c9/27831_crt_dI50y.jpg",
+        "link": "https://bgm.tv/character/27831",
+        "categorie": "person"
+      },
+      {
+        "id": "27834",
+        "label": "日吉若",
+        "info": "強い向上心で次代氷帝を担う若武者。古武術の型を取り入れた独自のフォームは勝利と魅せることへのこだわり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/e9/27834_crt_7ivjo.jpg",
+        "link": "https://bgm.tv/character/27834",
+        "categorie": "person"
+      },
+      {
+        "id": "27850",
+        "label": "仁王雅治",
+        "info": "変幻自在、予測不可能なプレイで対戦相手を翻弄させる。コート上の詐欺（ペテン）師とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/50/27850_crt_vVntf.jpg",
+        "link": "https://bgm.tv/character/27850",
+        "categorie": "person"
+      },
+      {
+        "id": "27857",
+        "label": "甲斐裕次郎",
+        "info": "変幻自在な裏手の名手。気分屋だがいったん「本気モード」に入ると、そのテンションを制止するのは至難の業。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/2a/27857_crt_IvNFv.jpg",
+        "link": "https://bgm.tv/character/27857",
+        "categorie": "person"
+      },
+      {
+        "id": "27861",
+        "label": "千岁千里",
+        "info": "ひたすらにテニスと己の「可能性」を求める。一瞬でゲームの流れを予測する「絶対予告」を得意とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/84/27861_crt_Sf9Bs.jpg",
+        "link": "https://bgm.tv/character/27861",
+        "categorie": "person"
+      },
+      {
+        "id": "27863",
+        "label": "一氏裕次",
+        "info": "金色小春とペアを組み、私生活でも小春一筋・・・!?　相手の技だけでなく、声、仕草までもコピーし、混乱の渦を巻き起こす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/02/27863_crt_tt2GF.jpg",
+        "link": "https://bgm.tv/character/27863",
+        "categorie": "person"
+      },
+      {
+        "id": "27865",
+        "label": "财前光",
+        "info": "2年生にして、四天宝寺のレギュラーの座を勝ち取った逸材。先輩にも物怖じせず軽口をたたき、ひょうひょうと我が道を行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/6e/27865_crt_hnz25.jpg",
+        "link": "https://bgm.tv/character/27865",
+        "categorie": "person"
+      },
+      {
+        "id": "27866",
+        "label": "远山金太郎",
+        "info": "天真爛漫な性格そのままな、プレイスタイル。小さな肉体に、恐るべき筋力、瞬発力、持久力を秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b2/27866_crt_0j5V6.jpg",
+        "link": "https://bgm.tv/character/27866",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

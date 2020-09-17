@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35654",
+        "label": "番场宗介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/12/35654_crt_y80mW.jpg",
+        "link": "https://bgm.tv/character/35654",
+        "categorie": "person"
+      },
+      {
+        "id": "35973",
+        "label": "木村雅贵",
+        "info": "製薬会社のエージェント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/42/35973_crt_AKEp4.jpg?r=1461343916",
+        "link": "https://bgm.tv/character/35973",
+        "categorie": "person"
+      },
+      {
+        "id": "42021",
+        "label": "本間丈二",
+        "info": "木村の後釜として就任した猿楽製薬の重役及び生物兵器開発局局長の男性。強面な顔つきと体中にある無数の傷が特徴で、スマートフォンを握り潰すほどの握力を持つ。奇獣の兵器開発に異常なまでの執着心を抱いている。木村とその関係者に対抗心を抱いており、EPISODE 4では甲斐博士を工場の奇獣を利用しての抹殺を試みている。エリートを蹴落させることを生きがいを感じており木村に対しては慇懃無礼な態度をとっている。また冷酷非情で強引かつ合理的な性格で、一般人はおろか関係者である秋良の娘・莉央を餌にしようとしたりと、目的のためなら手段を選ばない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/64/42021_crt_6bi5H.jpg?r=1464363824",
+        "link": "https://bgm.tv/character/42021",
+        "categorie": "person"
+      },
+      {
+        "id": "40714",
+        "label": "凪·亚古鲁",
+        "info": "中国雲南省の奥地・ヤグル族の村の出身",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/5d/40714_crt_x06tD.jpg?r=1461949090",
+        "link": "https://bgm.tv/character/40714",
+        "categorie": "person"
+      },
+      {
+        "id": "37786",
+        "label": "シーロン・メイ",
+        "info": "中国雲南省の奥地・メイ族の村の出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/3c/37786_crt_EzXON.jpg?r=1461949925",
+        "link": "https://bgm.tv/character/37786",
+        "categorie": "person"
+      },
+      {
+        "id": "42022",
+        "label": "甲斐博士",
+        "info": "猿楽製薬の奇獣研究チームに所属する研究者の男性。木村に協力しており木村を救った人物でもある。奇獣の兵器化実験の事故現場となった工場に取り残され、工場の奇獣に襲われるが木村の依頼で救助に現れた番場に救出される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/52/42022_crt_EkedV.jpg",
+        "link": "https://bgm.tv/character/42022",
+        "categorie": "person"
+      },
+      {
+        "id": "42023",
+        "label": "秋良",
+        "info": "本間の研究チームに所属する猿楽製薬の研究員。休暇中に娘・莉央と共にショッピングモールに訪れた際にショッピングモールの奇獣の襲撃を受けて莉央とはぐれてしまうが、木村の協力を得て莉央の元へ辿り着き、特殊部隊の隊員から奪ったマシンガンでショッピングモールの奇獣を射殺して莉央を救った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/86/42023_crt_D0HpV.jpg?r=1464364017",
+        "link": "https://bgm.tv/character/42023",
+        "categorie": "person"
+      },
+      {
+        "id": "37677",
+        "label": "小森智",
+        "info": "CV：あろまほっと（M.S.S Project）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/0f/37677_crt_3MXPi.jpg",
+        "link": "https://bgm.tv/character/37677",
+        "categorie": "person"
+      },
+      {
+        "id": "37678",
+        "label": "ダイキ",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/be/37678_crt_iaI8l.jpg",
+        "link": "https://bgm.tv/character/37678",
+        "categorie": "person"
+      },
+      {
+        "id": "37680",
+        "label": "ショウ",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/93/37680_crt_m9Qei.jpg",
+        "link": "https://bgm.tv/character/37680",
+        "categorie": "person"
+      },
+      {
+        "id": "37681",
+        "label": "シゲル",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/4c/37681_crt_8b5gb.jpg",
+        "link": "https://bgm.tv/character/37681",
+        "categorie": "person"
+      },
+      {
+        "id": "41293",
+        "label": "莉央",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/00/41293_crt_1Skxt.jpg",
+        "link": "https://bgm.tv/character/41293",
+        "categorie": "person"
+      },
+      {
+        "id": "41678",
+        "label": "雾子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/de/41678_crt_RwQr7.jpg?r=1463159824",
+        "link": "https://bgm.tv/character/41678",
+        "categorie": "person"
+      },
+      {
+        "id": "41895",
+        "label": "ナギの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/e2/41895_crt_SS1Wo.jpg?r=1463757809",
+        "link": "https://bgm.tv/character/41895",
+        "categorie": "person"
+      },
+      {
+        "id": "36992",
+        "label": "圣乔治",
+        "info": "【性格】正義感あふれる真面目な性格。人に対しては優しいが、自分に対してはストイック。時々強引な所がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/f8/36992_crt_99ww4.jpg",
+        "link": "https://bgm.tv/character/36992",
+        "categorie": "person"
+      },
+      {
+        "id": "36993",
+        "label": "美第奇",
+        "info": "【性格】頭が良く、のびのびとした自由人。芸術を好み、時々マニアックな発言をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/2c/36993_crt_f1mHm.jpg",
+        "link": "https://bgm.tv/character/36993",
+        "categorie": "person"
+      },
+      {
+        "id": "36994",
+        "label": "赫尔墨斯",
+        "info": "【性格】口がうまく、色んな人と仲良くなれる末っ子気質。場の空気、流行を大切にする。明るいが、かなりしたたか。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/4c/36994_crt_P1BCL.jpg",
+        "link": "https://bgm.tv/character/36994",
+        "categorie": "person"
+      },
+      {
+        "id": "36995",
+        "label": "玛尔斯",
+        "info": "【性格】豪快で何事にもまっすぐな性格。喜怒哀楽が他に比べてわかりやすい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/51/36995_crt_4uDBB.jpg",
+        "link": "https://bgm.tv/character/36995",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

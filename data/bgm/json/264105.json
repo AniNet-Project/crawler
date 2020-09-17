@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66779",
+        "label": "三乃波罗蜜",
+        "info": "【年龄】15岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ce/66779_crt_gGXbZ.jpg?r=1539942191",
+        "link": "https://bgm.tv/character/66779",
+        "categorie": "person"
+      },
+      {
+        "id": "66780",
+        "label": "舞坂舞",
+        "info": "【年龄】14岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/0e/66780_crt_gLlr8.jpg?r=1539942138",
+        "link": "https://bgm.tv/character/66780",
+        "categorie": "person"
+      },
+      {
+        "id": "66781",
+        "label": "草薙·K",
+        "info": "【年龄】17岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/b6/66781_crt_5O3l8.jpg?r=1539942151",
+        "link": "https://bgm.tv/character/66781",
+        "categorie": "person"
+      },
+      {
+        "id": "66782",
+        "label": "兰",
+        "info": "【年龄】11岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/ca/66782_crt_zyxXI.jpg?r=1539942107",
+        "link": "https://bgm.tv/character/66782",
+        "categorie": "person"
+      },
+      {
+        "id": "66783",
+        "label": "阿涅莉亚",
+        "info": "【年龄】18岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/64/66783_crt_uBkii.jpg",
+        "link": "https://bgm.tv/character/66783",
+        "categorie": "person"
+      },
+      {
+        "id": "66784",
+        "label": "本天沼久美",
+        "info": "18歳。亡くなった祖母の駄菓子屋を継ぐために京都に引っ越し、美術大学に通う苦学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/70/66784_crt_nUcyH.jpg?r=1539942051",
+        "link": "https://bgm.tv/character/66784",
+        "categorie": "person"
+      },
+      {
+        "id": "66785",
+        "label": "鹭之宫优子",
+        "info": "【年龄】25岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/3a/66785_crt_ioXac.jpg?r=1539941996",
+        "link": "https://bgm.tv/character/66785",
+        "categorie": "person"
+      },
+      {
+        "id": "66786",
+        "label": "莱纳德",
+        "info": "【年龄】？？？",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/c3/66786_crt_NeE58.jpg?r=1539942011",
+        "link": "https://bgm.tv/character/66786",
+        "categorie": "person"
+      },
+      {
+        "id": "66787",
+        "label": "龙",
+        "info": "【职业】住在粗点心店左邻的中华料理店店主",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/a5/66787_crt_CHTFT.jpg?r=1539942025",
+        "link": "https://bgm.tv/character/66787",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

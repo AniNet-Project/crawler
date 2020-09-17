@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6299",
+        "label": "皮拉夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/0a/6299_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6299",
+        "categorie": "person"
+      },
+      {
+        "id": "6310",
+        "label": "阿修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/81/6310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6310",
+        "categorie": "person"
+      },
+      {
+        "id": "6311",
+        "label": "小舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/01/6311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6311",
+        "categorie": "person"
+      },
+      {
+        "id": "6336",
+        "label": "司仪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/eb/6336_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6336",
+        "categorie": "person"
+      },
+      {
+        "id": "7242",
+        "label": "鶴仙人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/9b/7242_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7242",
+        "categorie": "person"
+      },
+      {
+        "id": "7600",
+        "label": "メタリック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/97/7600_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7600",
+        "categorie": "person"
+      },
+      {
+        "id": "9098",
+        "label": "餃子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/03/9098_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9098",
+        "categorie": "person"
+      },
+      {
+        "id": "9103",
+        "label": "加林仙人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6b/9103_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9103",
+        "categorie": "person"
+      },
+      {
+        "id": "9110",
+        "label": "天津飯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cb/9110_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9110",
+        "categorie": "person"
+      },
+      {
+        "id": "6305",
+        "label": "海龟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/e6/6305_crt_anidb.jpg?r=1543638811",
+        "link": "https://bgm.tv/character/6305",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38478",
+        "label": "乌丸千岁",
+        "info": "本作的主人公，长相可爱但个性很差的新人声优。一边上大学一边在新人声优的道路上努力奋斗着。外表可爱，却对工作和人生采取轻蔑的态度。很容易得意忘形，很容易服输。对于尽在演些路人角色的现状有着危机感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/b6/38478_crt_qaWAI.jpg?r=1476449430",
+        "link": "https://bgm.tv/character/38478",
+        "categorie": "person"
+      },
+      {
+        "id": "38514",
+        "label": "苑生百花",
+        "info": "现役女高中生声优。在偶像、声优、音乐界都很活跃的高中生。双亲是业界的大人物，虽然也有着性格有些狂妄自大的一面，但比起千岁来还算是有常识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/47/38514_crt_HCnUp.jpg?r=1476449710",
+        "link": "https://bgm.tv/character/38514",
+        "categorie": "person"
+      },
+      {
+        "id": "38515",
+        "label": "柴崎万叶",
+        "info": "自视甚高系声优。虽然很受欢迎，但却总接一些有关轻改动画以及除表演以外的工作，对于这一现状感到不满。作为艺人，对于声优过分执著，经常和周围发生冲突。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/9e/38515_crt_080YA.jpg?r=1478337499",
+        "link": "https://bgm.tv/character/38515",
+        "categorie": "person"
+      },
+      {
+        "id": "38516",
+        "label": "久我山八重",
+        "info": "千岁在声优养成所的同期友人。体质容易发胖，因此一年到头总是在节食。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/0c/38516_crt_FnXpg.jpg?r=1476583950",
+        "link": "https://bgm.tv/character/38516",
+        "categorie": "person"
+      },
+      {
+        "id": "38517",
+        "label": "片仓京",
+        "info": "关西出身。和千岁隶属于同一事务所，却完全没法把自己推销出去，26岁还在靠打工维生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/da/38517_crt_LFU0w.jpg?r=1476450118",
+        "link": "https://bgm.tv/character/38517",
+        "categorie": "person"
+      },
+      {
+        "id": "48923",
+        "label": "樱丘七海",
+        "info": "高校3年生で来年は大学に進学する予定。千歳と同じ事務所に入所する新人声優。ナンプロ主催の次世代声優オーディションに合格し、声優デビュー。さらにソロでCDデビューを果たすなど着実に成長しているその姿は千歳に無言のプレッシャーを与えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/8a/48923_crt_vTtNg.jpg?r=1482598097",
+        "link": "https://bgm.tv/character/48923",
+        "categorie": "person"
+      },
+      {
+        "id": "42116",
+        "label": "九头P",
+        "info": "企划·制作动画作品的精明干练制作人。外表与内在都相当轻浮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/37/42116_crt_RJu11.jpg?r=1479857312",
+        "link": "https://bgm.tv/character/42116",
+        "categorie": "person"
+      },
+      {
+        "id": "42117",
+        "label": "乌丸悟净",
+        "info": "千岁的哥哥与经纪人，对于妹妹的态度感到头痛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/e9/42117_crt_fY64N.jpg?r=1479857347",
+        "link": "https://bgm.tv/character/42117",
+        "categorie": "person"
+      },
+      {
+        "id": "46103",
+        "label": "十和田AP",
+        "info": "辅佐九头P的助手制作人。性格温和，由于上司很轻浮的缘故因而工作的样子很认真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/70/46103_crt_PP773.jpg?r=1476450542",
+        "link": "https://bgm.tv/character/46103",
+        "categorie": "person"
+      },
+      {
+        "id": "46105",
+        "label": "难波社长",
+        "info": "No.1 Produce的社长。性格豪爽又容易起劲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/7f/46105_crt_0rZ3m.jpg?r=1476450598",
+        "link": "https://bgm.tv/character/46105",
+        "categorie": "person"
+      },
+      {
+        "id": "49314",
+        "label": "松冈重三",
+        "info": "ナンプロのマネージャーで悟浄に代わる新たな千歳の担当。熱血漢でテニスウェアでマネージャー業務を行っている。男性だが髪型はポニーテール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/78/49314_crt_X4HDv.jpg?r=1481950551",
+        "link": "https://bgm.tv/character/49314",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "47251",
+        "label": "イベントMC",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ed/47251_crt_Epg7p.jpg?r=1475823334",
+        "link": "https://bgm.tv/character/47251",
+        "categorie": "person"
+      },
+      {
+        "id": "47252",
+        "label": "万叶经纪人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/9d/47252_crt_3Uamj.jpg?r=1475824619",
+        "link": "https://bgm.tv/character/47252",
+        "categorie": "person"
+      },
+      {
+        "id": "47253",
+        "label": "轻小说原作者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/fb/47253_crt_0gAwJ.jpg?r=1475825310",
+        "link": "https://bgm.tv/character/47253",
+        "categorie": "person"
+      },
+      {
+        "id": "47370",
+        "label": "製作P",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/c5/47370_crt_S4Rh4.jpg",
+        "link": "https://bgm.tv/character/47370",
+        "categorie": "person"
+      },
+      {
+        "id": "47371",
+        "label": "監督・追畑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1f/47371_crt_IK6oC.jpg?r=1476424631",
+        "link": "https://bgm.tv/character/47371",
+        "categorie": "person"
+      },
+      {
+        "id": "47372",
+        "label": "スタジオ社長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/e7/47372_crt_dYzhg.jpg?r=1476424737",
+        "link": "https://bgm.tv/character/47372",
+        "categorie": "person"
+      },
+      {
+        "id": "47556",
+        "label": "クースレ原作者・角倉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/41/47556_crt_4fdX4.jpg?r=1477043593",
+        "link": "https://bgm.tv/character/47556",
+        "categorie": "person"
+      },
+      {
+        "id": "47557",
+        "label": "クースレ音響監督",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/5b/47557_crt_aWCsA.jpg?r=1477043719",
+        "link": "https://bgm.tv/character/47557",
+        "categorie": "person"
+      },
+      {
+        "id": "47558",
+        "label": "声優E",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/7e/47558_crt_3893r.jpg?r=1481965965",
+        "link": "https://bgm.tv/character/47558",
+        "categorie": "person"
+      },
+      {
+        "id": "47804",
+        "label": "担当編集・月島",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/2b/47804_crt_kAay1.jpg?r=1477662706",
+        "link": "https://bgm.tv/character/47804",
+        "categorie": "person"
+      },
+      {
+        "id": "47951",
+        "label": "編集長・叢野",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/d0/47951_crt_G8hc9.jpg?r=1478280310",
+        "link": "https://bgm.tv/character/47951",
+        "categorie": "person"
+      },
+      {
+        "id": "48338",
+        "label": "河原 睦美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/62/48338_crt_P8cvr.jpg",
+        "link": "https://bgm.tv/character/48338",
+        "categorie": "person"
+      },
+      {
+        "id": "48339",
+        "label": "苑生樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/36/48339_crt_8ZrO9.jpg?r=1480042291",
+        "link": "https://bgm.tv/character/48339",
+        "categorie": "person"
+      },
+      {
+        "id": "48881",
+        "label": "万葉の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/80/48881_crt_ss5Ph.jpg?r=1480042604",
+        "link": "https://bgm.tv/character/48881",
+        "categorie": "person"
+      },
+      {
+        "id": "48893",
+        "label": "万葉の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/68/48893_crt_LNpsF.jpg?r=1480089248",
+        "link": "https://bgm.tv/character/48893",
+        "categorie": "person"
+      },
+      {
+        "id": "49279",
+        "label": "麦麦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/35/49279_crt_wJchB.jpg?r=1481907508",
+        "link": "https://bgm.tv/character/49279",
+        "categorie": "person"
+      },
+      {
+        "id": "49280",
+        "label": "石神井P",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/8d/49280_crt_Xb6Gr.jpg?r=1481907558",
+        "link": "https://bgm.tv/character/49280",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

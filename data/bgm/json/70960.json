@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21695",
+        "label": "冴木真琴",
+        "info": "荷稻神社的第十五代继承人的女子高中生。虽然有些冒失但不屈服的性格。希望能给别人帮上忙。神眼的所有者，能够看到神使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/1d/21695_crt_z8Ozw.jpg",
+        "link": "https://bgm.tv/character/21695",
+        "categorie": "person"
+      },
+      {
+        "id": "21696",
+        "label": "银太郎",
+        "info": "荷稻神社的神使。平时维持着狐狸的姿态。自己能被真看到，但是一般人是看不见的。是个说话不好听怕麻烦的家伙。最喜欢的东西是蜜柑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/3c/21696_crt_98DY3.jpg",
+        "link": "https://bgm.tv/character/21696",
+        "categorie": "person"
+      },
+      {
+        "id": "21697",
+        "label": "冴木达夫",
+        "info": "真琴的父亲，冴木神社的神官。因为是入赘进来的所以看不到银太郎。性格悠闲且稍微有些天然。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/f1/21697_crt_27eZZ.jpg",
+        "link": "https://bgm.tv/character/21697",
+        "categorie": "person"
+      },
+      {
+        "id": "21698",
+        "label": "神尾悟",
+        "info": "达夫的熟人的儿子，也是神社出身。因为某些原因寄居在冴木神社。拥有神眼，能看到银太郎及其他神使。和真琴是同一所高中的同一年级。剑道部部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/d9/21698_crt_921OF.jpg",
+        "link": "https://bgm.tv/character/21698",
+        "categorie": "person"
+      },
+      {
+        "id": "21699",
+        "label": "春",
+        "info": "悟的神社的神使，和悟一起寄居在冴木神社。虽然对悟很放纵，但对银太郎和真琴很严格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f6/21699_crt_t4Ist.jpg",
+        "link": "https://bgm.tv/character/21699",
+        "categorie": "person"
+      },
+      {
+        "id": "21700",
+        "label": "船桥日轮子",
+        "info": "真琴的同班同学。父亲是议员，母亲是茶道家，家境好的大小姐。有些憧憬达夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/03/21700_crt_Q4a14.jpg",
+        "link": "https://bgm.tv/character/21700",
+        "categorie": "person"
+      },
+      {
+        "id": "21701",
+        "label": "池上由美",
+        "info": "真琴的同班同学。直率而不服输的性格，但对于猫等动物很喜欢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/fe/21701_crt_h8N77.jpg",
+        "link": "https://bgm.tv/character/21701",
+        "categorie": "person"
+      },
+      {
+        "id": "21702",
+        "label": "天本将平",
+        "info": "由美的男友，與真琴她們就讀不同高中，2年級生，天吹寺的繼承人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e9/21702_crt_1bK04.jpg",
+        "link": "https://bgm.tv/character/21702",
+        "categorie": "person"
+      },
+      {
+        "id": "21703",
+        "label": "桐岛清志郎",
+        "info": "3年級生，學生會長，祖母為義大利人的混血兒。雙親經營貿易關係的公司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/91/21703_crt_ZQ6I0.jpg",
+        "link": "https://bgm.tv/character/21703",
+        "categorie": "person"
+      },
+      {
+        "id": "21704",
+        "label": "吉住真一",
+        "info": "27歲，日輪子父親的秘書。負責接送日輪子上下課。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/4f/21704_crt_l6lay.jpg",
+        "link": "https://bgm.tv/character/21704",
+        "categorie": "person"
+      },
+      {
+        "id": "21705",
+        "label": "金次郎",
+        "info": "昔日冴木神社的狐狸神使。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/14/21705_crt_tpJ76.jpg",
+        "link": "https://bgm.tv/character/21705",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

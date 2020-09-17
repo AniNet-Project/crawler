@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46230",
+        "label": "蛯原うらら",
+        "info": "連帯保証人になっていたフィアンセの借金のカタに黒銅学園へ2学期から赴任することになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/d1/46230_crt_H0VG1.jpg",
+        "link": "https://bgm.tv/character/46230",
+        "categorie": "person"
+      },
+      {
+        "id": "46232",
+        "label": "沖田明日香",
+        "info": "体育大学卒業後、学園生を更正させる目的のため、自らの意志で黒銅学園へ赴任を決めた熱血体育教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/d7/46232_crt_Oftt7.jpg",
+        "link": "https://bgm.tv/character/46232",
+        "categorie": "person"
+      },
+      {
+        "id": "46233",
+        "label": "水島果穂",
+        "info": "良家の子女が通うことで有名な聖華女学園に通う女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/29/46233_crt_QgZHD.jpg",
+        "link": "https://bgm.tv/character/46233",
+        "categorie": "person"
+      },
+      {
+        "id": "46234",
+        "label": "一ノ瀬莉子",
+        "info": "結婚を機に電撃引退した元カリスマファッションモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/2e/46234_crt_74e60.jpg",
+        "link": "https://bgm.tv/character/46234",
+        "categorie": "person"
+      },
+      {
+        "id": "46236",
+        "label": "一ノ瀬杏奈",
+        "info": "姉の莉子とは容姿、性格ともに対照的な、引っ込み思案で自分に自信を持てない女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/31/46236_crt_6EoO4.jpg",
+        "link": "https://bgm.tv/character/46236",
+        "categorie": "person"
+      },
+      {
+        "id": "46238",
+        "label": "榊香織",
+        "info": "莉子と尚美が受講することになる 「性欲抑制クラス」 を男性講師の梶朋之と共に担当する講師＝“導き手”。莉子の面接も行った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/90/46238_crt_C6X1C.jpg",
+        "link": "https://bgm.tv/character/46238",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

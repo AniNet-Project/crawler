@@ -1,0 +1,301 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19452",
+        "label": "幸平创真",
+        "info": "本作品の主人公。15歳。大衆食堂「食事処 ゆきひら」の跡取り息子で、店主である父との二人暮らし[注 1]。左眉付近にある切り傷が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/80/19452_crt_lwli1.jpg?r=1530151046",
+        "link": "https://bgm.tv/character/19452",
+        "categorie": "person"
+      },
+      {
+        "id": "19453",
+        "label": "薙切绘里奈",
+        "info": "本作品におけるヒロインの一人で、主人公のライバル的存在。15歳。遠月学園総帥の孫娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/40/19453_crt_6pACb.jpg?r=1530151009",
+        "link": "https://bgm.tv/character/19453",
+        "categorie": "person"
+      },
+      {
+        "id": "19454",
+        "label": "田所惠",
+        "info": "本作品のもう一人のヒロイン。中等部から遠月学園に在籍している女生徒で、創真の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/5d/19454_crt_7uU3U.jpg",
+        "link": "https://bgm.tv/character/19454",
+        "categorie": "person"
+      },
+      {
+        "id": "19946",
+        "label": "一色慧",
+        "info": "遠月学園高等部2年生の男子生徒。「遠月十傑評議会」の第七席。極星寮生たちのリーダー的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/bd/19946_crt_flt5T.jpg?r=1530151223",
+        "link": "https://bgm.tv/character/19946",
+        "categorie": "person"
+      },
+      {
+        "id": "19947",
+        "label": "吉野悠姬",
+        "info": "遠月学園高等部1年生の女子生徒。極星寮116号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/87/19947_crt_eee9b.jpg?r=1530151137",
+        "link": "https://bgm.tv/character/19947",
+        "categorie": "person"
+      },
+      {
+        "id": "19948",
+        "label": "榊凉子",
+        "info": "遠月学園高等部1年生の女子生徒。極星寮112号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/08/19948_crt_O4444.jpg?r=1530151096",
+        "link": "https://bgm.tv/character/19948",
+        "categorie": "person"
+      },
+      {
+        "id": "20104",
+        "label": "伊武崎峻",
+        "info": "遠月学園高等部1年生の男子生徒。極星寮208号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2b/20104_crt_KbBXI.jpg?r=1530151248",
+        "link": "https://bgm.tv/character/20104",
+        "categorie": "person"
+      },
+      {
+        "id": "20105",
+        "label": "丸井善二",
+        "info": "遠月学園高等部1年生の男子生徒。極星寮205号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/66/20105_crt_QpdXp.jpg?r=1530151271",
+        "link": "https://bgm.tv/character/20105",
+        "categorie": "person"
+      },
+      {
+        "id": "20106",
+        "label": "水户郁魅",
+        "info": "遠月学園高等部1年生の女子生徒。えりなの派閥に属する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/67/20106_crt_r2IaF.jpg?r=1530150818",
+        "link": "https://bgm.tv/character/20106",
+        "categorie": "person"
+      },
+      {
+        "id": "20107",
+        "label": "塔克米·阿尔迪尼",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/d8/20107_crt_4JrUU.jpg?r=1530150571",
+        "link": "https://bgm.tv/character/20107",
+        "categorie": "person"
+      },
+      {
+        "id": "20108",
+        "label": "勇·阿尔迪尼",
+        "info": "遠月学園高等部1年生の男子生徒。タクミの双子の弟で、同じく「トラットリア・アルディーニ」の跡取り息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/84/20108_crt_97I7L.jpg?r=1524833382",
+        "link": "https://bgm.tv/character/20108",
+        "categorie": "person"
+      },
+      {
+        "id": "20111",
+        "label": "薙切仙左卫门",
+        "info": "遠月学園総帥。えりなの祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/7d/20111_crt_tQLNL.jpg",
+        "link": "https://bgm.tv/character/20111",
+        "categorie": "person"
+      },
+      {
+        "id": "20114",
+        "label": "堂岛银",
+        "info": "遠月リゾート総料理長兼取締役会役員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/59/20114_crt_W1Ypy.jpg?r=1530150176",
+        "link": "https://bgm.tv/character/20114",
+        "categorie": "person"
+      },
+      {
+        "id": "20120",
+        "label": "幸平城一郎",
+        "info": "創真の父で、大衆食堂「食事処 ゆきひら」の店主。38歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/a2/20120_crt_Hi4jD.jpg?r=1530150160",
+        "link": "https://bgm.tv/character/20120",
+        "categorie": "person"
+      },
+      {
+        "id": "21289",
+        "label": "川岛丽",
+        "info": "遠月学園高等部1年生の女子生徒。創真と郁魅の「食戟」で司会を担当した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/d1/21289_crt_000Ff.jpg?r=1530151375",
+        "link": "https://bgm.tv/character/21289",
+        "categorie": "person"
+      },
+      {
+        "id": "27051",
+        "label": "薙切爱丽丝",
+        "info": "遠月学園高等部1年生の女子生徒。えりなの従姉妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/0f/27051_crt_n552P.jpg?r=1530150363",
+        "link": "https://bgm.tv/character/27051",
+        "categorie": "person"
+      },
+      {
+        "id": "29650",
+        "label": "新户绯沙子",
+        "info": "遠月学園高等部1年生の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/55/29650_crt_M3XOm.jpg?r=1530150284",
+        "link": "https://bgm.tv/character/29650",
+        "categorie": "person"
+      },
+      {
+        "id": "29652",
+        "label": "汐见润",
+        "info": "遠月学園教師。遠月学園卒業生で極星寮OG。34歳（第45話時点）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/a8/29652_crt_SEV9e.jpg",
+        "link": "https://bgm.tv/character/29652",
+        "categorie": "person"
+      },
+      {
+        "id": "29655",
+        "label": "贞冢奈绪",
+        "info": "遠月学園高等部1年生の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/7e/29655_crt_IR4qd.jpg?r=1440839938",
+        "link": "https://bgm.tv/character/29655",
+        "categorie": "person"
+      },
+      {
+        "id": "29657",
+        "label": "黑木场辽",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ae/29657_crt_EcQVv.jpg?r=1530150664",
+        "link": "https://bgm.tv/character/29657",
+        "categorie": "person"
+      },
+      {
+        "id": "29658",
+        "label": "叶山煌",
+        "info": "遠月学園高等部1年生の男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/6e/29658_crt_7avuj.jpg?r=1530150737",
+        "link": "https://bgm.tv/character/29658",
+        "categorie": "person"
+      },
+      {
+        "id": "42311",
+        "label": "叡山枝津也",
+        "info": "遠月学園高等部2年生で遠月十傑評議会の第九席。「錬金術師」の異名を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/2c/42311_crt_YcTP3.jpg?r=1524833398",
+        "link": "https://bgm.tv/character/42311",
+        "categorie": "person"
+      },
+      {
+        "id": "43033",
+        "label": "青木大吾",
+        "info": "それぞれ極星寮107号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/fa/43033_crt_tPJT9.jpg?r=1524833437",
+        "link": "https://bgm.tv/character/43033",
+        "categorie": "person"
+      },
+      {
+        "id": "43034",
+        "label": "佐藤昭二",
+        "info": "それぞれ極星寮211号室の寮生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/30/43034_crt_UgUHd.jpg?r=1530151443",
+        "link": "https://bgm.tv/character/43034",
+        "categorie": "person"
+      },
+      {
+        "id": "45974",
+        "label": "久我照纪",
+        "info": "遠月学園高等部2年生の男子生徒。「遠月十傑評議会」の元第八席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/72/45974_crt_S86iu.jpg",
+        "link": "https://bgm.tv/character/45974",
+        "categorie": "person"
+      },
+      {
+        "id": "49752",
+        "label": "司瑛士",
+        "info": "遠月学園高等部3年生の男子生徒。「遠月十傑評議会」の第一席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/53/49752_crt_WwMXq.jpg?r=1489814692",
+        "link": "https://bgm.tv/character/49752",
+        "categorie": "person"
+      },
+      {
+        "id": "52611",
+        "label": "小林龙胆",
+        "info": "遠月学園高等部3年生の女子生徒。「遠月十傑評議会」の第二席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/19/52611_crt_7E6Nz.jpg",
+        "link": "https://bgm.tv/character/52611",
+        "categorie": "person"
+      },
+      {
+        "id": "52612",
+        "label": "茜久保桃",
+        "info": "遠月学園高等部3年生の女子生徒。「遠月十傑評議会」の第四席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/91/52612_crt_xXcg7.jpg?r=1489814268",
+        "link": "https://bgm.tv/character/52612",
+        "categorie": "person"
+      },
+      {
+        "id": "52613",
+        "label": "纪之国宁宁",
+        "info": "遠月学園高等部2年生の女子生徒。「遠月十傑評議会」の第六席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/f1/52613_crt_HHhHh.jpg?r=1489814573",
+        "link": "https://bgm.tv/character/52613",
+        "categorie": "person"
+      },
+      {
+        "id": "58887",
+        "label": "薙切蓟",
+        "info": "えりなの実父で、遠月学園のOB。何年も前に遠月から追放されたらしいが、なにやら陰謀を巡らせているらしい…？えりなからは、非常に恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/35/58887_crt_2MT5v.jpg?r=1524833419",
+        "link": "https://bgm.tv/character/58887",
+        "categorie": "person"
+      },
+      {
+        "id": "62574",
+        "label": "楠连太郎",
+        "info": "遠月茶寮料理學園高等部２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/48/62574_crt_85Xp1.jpg?r=1530149911",
+        "link": "https://bgm.tv/character/62574",
+        "categorie": "person"
+      },
+      {
+        "id": "62577",
+        "label": "斋藤综明",
+        "info": "「遠月十傑」第五席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/c3/62577_crt_1744X.jpg",
+        "link": "https://bgm.tv/character/62577",
+        "categorie": "person"
+      },
+      {
+        "id": "63303",
+        "label": "シーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/d9/63303_crt_2555N.jpg",
+        "link": "https://bgm.tv/character/63303",
+        "categorie": "person"
+      },
+      {
+        "id": "63304",
+        "label": "ベルタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/d5/63304_crt_00Xqb.jpg",
+        "link": "https://bgm.tv/character/63304",
+        "categorie": "person"
+      },
+      {
+        "id": "64306",
+        "label": "女木岛冬辅",
+        "info": "「遠月十傑」第三席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/f5/64306_crt_qmsBm.jpg",
+        "link": "https://bgm.tv/character/64306",
+        "categorie": "person"
+      },
+      {
+        "id": "64307",
+        "label": "白津树利夫",
+        "info": "遠月学園高等部2年生の男子生徒。「遠月十傑評議会」の第八席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/6f/64307_crt_cyhKD.jpg",
+        "link": "https://bgm.tv/character/64307",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

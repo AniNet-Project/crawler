@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66156",
+        "label": "鸭居燕",
+        "info": "鋼の肉体を持つ元・航空自衛官の家政婦さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/60/66156_crt_NYcJO.jpg",
+        "link": "https://bgm.tv/character/66156",
+        "categorie": "person"
+      },
+      {
+        "id": "66157",
+        "label": "高梨米夏",
+        "info": "母を亡くし少し荒れ気味のインドア派小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/3e/66157_crt_ed15p.jpg",
+        "link": "https://bgm.tv/character/66157",
+        "categorie": "person"
+      },
+      {
+        "id": "66158",
+        "label": "鹫崎美美香",
+        "info": "ミーシャのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/86/66158_crt_F6c2L.jpg",
+        "link": "https://bgm.tv/character/66158",
+        "categorie": "person"
+      },
+      {
+        "id": "66159",
+        "label": "森川结衣",
+        "info": "ミーシャのクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/64/66159_crt_cye41.jpg",
+        "link": "https://bgm.tv/character/66159",
+        "categorie": "person"
+      },
+      {
+        "id": "66160",
+        "label": "鹈饲绿",
+        "info": "自衛隊でつばめの上官だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/3a/66160_crt_OP09N.jpg",
+        "link": "https://bgm.tv/character/66160",
+        "categorie": "person"
+      },
+      {
+        "id": "66161",
+        "label": "高梨康弘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/9f/66161_crt_FgPOz.jpg",
+        "link": "https://bgm.tv/character/66161",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

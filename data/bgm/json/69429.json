@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59223",
+        "label": "木戸悟",
+        "info": "本作の主人公。27歳。『（株）中山＆木戸探偵事務所』の雇われ探偵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/91/59223_crt_X7g80.jpg",
+        "link": "https://bgm.tv/character/59223",
+        "categorie": "person"
+      },
+      {
+        "id": "59225",
+        "label": "中小路绫乃",
+        "info": "物語の舞台となる中小路家の令嬢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/7a/59225_crt_wW3OW.jpg",
+        "link": "https://bgm.tv/character/59225",
+        "categorie": "person"
+      },
+      {
+        "id": "31955",
+        "label": "渡濑望",
+        "info": "北海道出身，父母早亡身寄ウし，后被中小路家雇佣",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/b0/31955_crt_WL9O1.jpg?r=1428888053",
+        "link": "https://bgm.tv/character/31955",
+        "categorie": "person"
+      },
+      {
+        "id": "59224",
+        "label": "中山芽衣",
+        "info": "木戸の仕事上のパートナー。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/c1/59224_crt_ySSd4.jpg",
+        "link": "https://bgm.tv/character/59224",
+        "categorie": "person"
+      },
+      {
+        "id": "59226",
+        "label": "谷村薫",
+        "info": "綾乃の家庭教師として、中小路家に住み込んでいる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/eb/59226_crt_u81Hn.jpg",
+        "link": "https://bgm.tv/character/59226",
+        "categorie": "person"
+      },
+      {
+        "id": "59227",
+        "label": "柴田寿三郎",
+        "info": "中小路家の執事。59歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/d0/59227_crt_b5NMY.jpg",
+        "link": "https://bgm.tv/character/59227",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

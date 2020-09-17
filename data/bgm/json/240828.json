@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53677",
+        "label": "松坂砂糖",
+        "info": "本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/2b/53677_crt_88nSE.jpg?r=1493346956",
+        "link": "https://bgm.tv/character/53677",
+        "categorie": "person"
+      },
+      {
+        "id": "53678",
+        "label": "神户盐",
+        "info": "不知道谁家丢的小萝莉被砂糖捡到了，居住在砂糖家里，十分依赖砂糖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/c1/53678_crt_Y40JW.jpg?r=1493359588",
+        "link": "https://bgm.tv/character/53678",
+        "categorie": "person"
+      },
+      {
+        "id": "61902",
+        "label": "神户旭",
+        "info": "带兜帽的少年，四处张贴告示寻找神户盐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/9b/61902_crt_eGnqF.jpg?r=1530715064",
+        "link": "https://bgm.tv/character/61902",
+        "categorie": "person"
+      },
+      {
+        "id": "53680",
+        "label": "三星太阳",
+        "info": "さとうのバイト先で働いていた青年。さとうに好意を持ち、告白するが断られる。それがバイト先の店長にばれて監禁され、さとうに助けられるが、大人の女性を恐れるようになってしまう。偶然しおの捜索チラシを見つけ、欲情して、しおと実際に出会ってその思いを確かにする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/a1/53680_crt_yiiZz.jpg?r=1530714956",
+        "link": "https://bgm.tv/character/53680",
+        "categorie": "person"
+      },
+      {
+        "id": "53679",
+        "label": "飞騨翔子",
+        "info": "砂糖在Cure A Cute打工的伙伴，曾经是砂糖钓男人的伙伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/1b/53679_crt_4z6zs.jpg?r=1530714843",
+        "link": "https://bgm.tv/character/53679",
+        "categorie": "person"
+      },
+      {
+        "id": "53682",
+        "label": "北埋川大地",
+        "info": "牧巣原高校の教師で、学年主任をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/58/53682_crt_2j47h.jpg?r=1530714860",
+        "link": "https://bgm.tv/character/53682",
+        "categorie": "person"
+      },
+      {
+        "id": "64501",
+        "label": "砂糖的叔母",
+        "info": "さとうの保護者にあたる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/58/64501_crt_oVmsp.jpg?r=1530714875",
+        "link": "https://bgm.tv/character/64501",
+        "categorie": "person"
+      },
+      {
+        "id": "53681",
+        "label": "店长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/53/53681_crt_G15ju.jpg",
+        "link": "https://bgm.tv/character/53681",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

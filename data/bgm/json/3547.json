@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13205",
+        "label": "秋津正人",
+        "info": "主人公，在温馨的家庭里安然的度过了15年的岁月。某日突然被Last Guardian绑架，成为了天之志雷马的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/5e/13205_crt_199br.jpg",
+        "link": "https://bgm.tv/character/13205",
+        "categorie": "person"
+      },
+      {
+        "id": "13209",
+        "label": "冰室美久",
+        "info": "外表看上去和秋津正人同龄的少女，有着普通人类不可能拥有的身体机能，是志雷马的副驾驶员（不在的情况下志雷马只能发挥出不足1/3的性能）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/e8/13209_crt_z240G.jpg",
+        "link": "https://bgm.tv/character/13209",
+        "categorie": "person"
+      },
+      {
+        "id": "13210",
+        "label": "幽罗帝",
+        "info": "企图支配世界的秘密组织“铁甲龙”的首领。被选为帝以前也是八卦众之一，预定作为志雷马的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/6c/13210_crt_nBHrX.jpg",
+        "link": "https://bgm.tv/character/13210",
+        "categorie": "person"
+      },
+      {
+        "id": "13211",
+        "label": "耐爬",
+        "info": "八卦众之一，风之兰斯塔的驾驶员，幽罗帝的恋人。由于幽罗帝成为八卦众的首领，耐爬受到其他八卦众的偏见。为了证明自己的能力，让铁甲龙全员接受自己和幽罗帝的恋爱关系，驾驶兰斯塔出击但是不敌已经觉醒了的魔沙树驾驶的志雷马，被消灭。因此幽罗帝发誓向魔沙树和最终防卫者报仇雪恨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/f1/13211_crt_561M5.jpg",
+        "link": "https://bgm.tv/character/13211",
+        "categorie": "person"
+      },
+      {
+        "id": "13212",
+        "label": "夕颜",
+        "info": "八卦机甲火之布莱斯特的驾驶员。沉着冷静、武艺高强。驾驶技术高于双胞胎妹妹夕桃，夕桃对此耿耿于怀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/09/13212_crt_OwkxD.jpg",
+        "link": "https://bgm.tv/character/13212",
+        "categorie": "person"
+      },
+      {
+        "id": "13213",
+        "label": "夕桃",
+        "info": "八卦众之一，水之加罗温的驾驶员。对于“双胞胎姐姐夕颜的能力更强，自己只能做支援”这一现状非常不满。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/4d/13213_crt_HdVv6.jpg",
+        "link": "https://bgm.tv/character/13213",
+        "categorie": "person"
+      },
+      {
+        "id": "13214",
+        "label": "葎",
+        "info": "八卦众之一，月之罗切斯拉维（玫瑰人生）的驾驶员。魔沙树将其制造成为有着美丽的女性面容却强烈渴望成为“纯爷们”（男の中の男）的人。因此平时带着面具，非常憎恨魔沙树。驾驶技术在耐爬和夕姐妹之上，罗切斯拉维的性能也相当高，几乎打败了志雷马。但是面对因觉醒而改变容貌的正人以及连接了次元连接系统（美久）的志雷马时产生了动摇，被冥王攻击消灭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/5b/13214_crt_iS6BJ.jpg",
+        "link": "https://bgm.tv/character/13214",
+        "categorie": "person"
+      },
+      {
+        "id": "13215",
+        "label": "洛克菲尔",
+        "info": "八卦众之一，地之迪诺迪洛斯的驾驶员，敬仰塞卧。魔沙树告诉她真相的时候，由于迪诺迪洛斯已经失去了双手，洛克菲尔对志雷马进行特攻，被次元连接炮击破。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/7a/13215_crt_c6NST.jpg",
+        "link": "https://bgm.tv/character/13215",
+        "categorie": "person"
+      },
+      {
+        "id": "13216",
+        "label": "祇枪",
+        "info": "八卦众之一，山之巴斯通的驾驶员，塞卧的狐朋狗友。虽然没说过，但是倾慕着洛克菲尔。由于洛克菲尔的死而向志雷马发动特攻，与塞卧一起被消灭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/0a/13216_crt_E7EZz.jpg",
+        "link": "https://bgm.tv/character/13216",
+        "categorie": "person"
+      },
+      {
+        "id": "13217",
+        "label": "塞卧",
+        "info": "八卦众之一，雷之奥姆扎克的驾驶员，喜欢挑衅其他八卦众。功利心很强，因此不惜利用洛克菲尔的好意，并且与魔沙树暗通。但是当洛克菲尔被次元连接炮轰杀，并且得知自己被魔沙树利用的时候也向志雷马发动特攻而死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/32/13217_crt_IUH1X.jpg",
+        "link": "https://bgm.tv/character/13217",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

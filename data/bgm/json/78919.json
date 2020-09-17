@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22362",
+        "label": "雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/c4/22362_crt_639vT.jpg",
+        "link": "https://bgm.tv/character/22362",
+        "categorie": "person"
+      },
+      {
+        "id": "22363",
+        "label": "周防",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/c6/22363_crt_ft01y.jpg",
+        "link": "https://bgm.tv/character/22363",
+        "categorie": "person"
+      },
+      {
+        "id": "22381",
+        "label": "雨专用谢尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/28/22381_crt_4hHhY.jpg",
+        "link": "https://bgm.tv/character/22381",
+        "categorie": "person"
+      },
+      {
+        "id": "22364",
+        "label": "三田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/e8/22364_crt_Sj9s6.jpg",
+        "link": "https://bgm.tv/character/22364",
+        "categorie": "person"
+      },
+      {
+        "id": "22366",
+        "label": "月读",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/33/22366_crt_AqpCJ.jpg",
+        "link": "https://bgm.tv/character/22366",
+        "categorie": "person"
+      },
+      {
+        "id": "22367",
+        "label": "和佐信",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/2e/22367_crt_6aViE.jpg",
+        "link": "https://bgm.tv/character/22367",
+        "categorie": "person"
+      },
+      {
+        "id": "22368",
+        "label": "羽柴日向",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/38/22368_crt_QejS3.jpg",
+        "link": "https://bgm.tv/character/22368",
+        "categorie": "person"
+      },
+      {
+        "id": "22369",
+        "label": "前田神我人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/42/22369_crt_0NRF3.jpg",
+        "link": "https://bgm.tv/character/22369",
+        "categorie": "person"
+      },
+      {
+        "id": "22371",
+        "label": "雨的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/63/22371_crt_59650.jpg",
+        "link": "https://bgm.tv/character/22371",
+        "categorie": "person"
+      },
+      {
+        "id": "22372",
+        "label": "花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/d0/22372_crt_ULRfu.jpg",
+        "link": "https://bgm.tv/character/22372",
+        "categorie": "person"
+      },
+      {
+        "id": "22373",
+        "label": "柚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/bc/22373_crt_5K0bi.jpg",
+        "link": "https://bgm.tv/character/22373",
+        "categorie": "person"
+      },
+      {
+        "id": "22374",
+        "label": "凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/8f/22374_crt_WGqNx.jpg",
+        "link": "https://bgm.tv/character/22374",
+        "categorie": "person"
+      },
+      {
+        "id": "22375",
+        "label": "恵里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/f0/22375_crt_vdBq0.jpg",
+        "link": "https://bgm.tv/character/22375",
+        "categorie": "person"
+      },
+      {
+        "id": "22370",
+        "label": "刀儀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/8f/22370_crt_ee2NI.jpg",
+        "link": "https://bgm.tv/character/22370",
+        "categorie": "person"
+      },
+      {
+        "id": "22376",
+        "label": "村长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/e4/22376_crt_KJ26c.jpg",
+        "link": "https://bgm.tv/character/22376",
+        "categorie": "person"
+      },
+      {
+        "id": "22377",
+        "label": "柳生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e6/22377_crt_IYa6i.jpg",
+        "link": "https://bgm.tv/character/22377",
+        "categorie": "person"
+      },
+      {
+        "id": "22379",
+        "label": "忍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/26/22379_crt_5k55i.jpg",
+        "link": "https://bgm.tv/character/22379",
+        "categorie": "person"
+      },
+      {
+        "id": "22380",
+        "label": "谢尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/25/22380_crt_eZ9HY.jpg",
+        "link": "https://bgm.tv/character/22380",
+        "categorie": "person"
+      },
+      {
+        "id": "22382",
+        "label": "三田专用谢尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/90/22382_crt_v0gMP.jpg",
+        "link": "https://bgm.tv/character/22382",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

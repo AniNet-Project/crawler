@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4213",
+        "label": "柚原木实",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/2d/4213_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4213",
+        "categorie": "person"
+      },
+      {
+        "id": "4214",
+        "label": "向坂环",
+        "info": "向坂雄二的姐姐，有种大人的感觉，但还是有孩子气的一面。体育、学习、家务都难不到她。哪方面都擅长。家住古式日本房屋，很有钱。受优质教育，经常以姐姐身份帮主角。统称“环姐/tamane”。擅长使用许多招式（沙包乃弟弟雄二），不过最经常使用的还是铁爪手，曾用此使贵明失忆。格斗能力（误）较高。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/c5/4214_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4214",
+        "categorie": "person"
+      },
+      {
+        "id": "7317",
+        "label": "河野贵明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/05/7317_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7317",
+        "categorie": "person"
+      },
+      {
+        "id": "4215",
+        "label": "小牧爱佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/54/4215_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4215",
+        "categorie": "person"
+      },
+      {
+        "id": "4216",
+        "label": "笹森花梨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/85/4216_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4216",
+        "categorie": "person"
+      },
+      {
+        "id": "4217",
+        "label": "露西·玛莉亚·美空",
+        "info": "充满神秘色彩的少女，自称外星人(来自大熊座47号的第3惑星)。贵明称她为“露子”，自称“露”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/96/4217_crt_anidb.jpg?r=1379396296",
+        "link": "https://bgm.tv/character/4217",
+        "categorie": "person"
+      },
+      {
+        "id": "4218",
+        "label": "姫百合珊瑚",
+        "info": "姬百合琉璃的姊姊，有天才般的脑袋，为琉璃做了不少机械人偶，甚至作为来栖川公司的技术顾问主导了新一代智能AI机器人的开发，HMX-17c 西露法是该系列的第一个成员。(从各个方面都和普通人一样)。家事好像一点不会，一直受琉璃照顾。和露子一样，经常高举双手喊“RU”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/78/4218_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4218",
+        "categorie": "person"
+      },
+      {
+        "id": "4219",
+        "label": "草壁优季",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/b4/4219_crt_anidb.jpg?r=1379396328",
+        "link": "https://bgm.tv/character/4219",
+        "categorie": "person"
+      },
+      {
+        "id": "4220",
+        "label": "向坂雄二",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/d0/4220_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4220",
+        "categorie": "person"
+      },
+      {
+        "id": "4221",
+        "label": "柚原春夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/d9/4221_crt_anidb.jpg?r=1379396346",
+        "link": "https://bgm.tv/character/4221",
+        "categorie": "person"
+      },
+      {
+        "id": "13820",
+        "label": "姫百合瑠璃",
+        "info": "姬百合双胞胎的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/d5/13820_crt_bqmrC.jpg",
+        "link": "https://bgm.tv/character/13820",
+        "categorie": "person"
+      },
+      {
+        "id": "13821",
+        "label": "十波由真",
+        "info": "主人公隔壁班的女生，是主人公班上班长小牧爱佳中学时代的朋友，每天骑着MTB上学和回家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/1e/13821_crt_872ie.jpg",
+        "link": "https://bgm.tv/character/13821",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

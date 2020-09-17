@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66614",
+        "label": "岩永琴子",
+        "info": "ステッキとベレー帽がトレードマークの小柄で可愛らしい大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/2c/66614_crt_lXPEP.jpg?r=1578439785",
+        "link": "https://bgm.tv/character/66614",
+        "categorie": "person"
+      },
+      {
+        "id": "68374",
+        "label": "樱川九郎",
+        "info": "岩永琴子の片想いの相手であり、同じ大学に通う大学院生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/f0/68374_crt_RSL1T.jpg?r=1547477485",
+        "link": "https://bgm.tv/character/68374",
+        "categorie": "person"
+      },
+      {
+        "id": "68375",
+        "label": "弓原纱季",
+        "info": "長身でスタイルが良く、美人な警察官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/2d/68375_crt_5533z.jpg?r=1580741748",
+        "link": "https://bgm.tv/character/68375",
+        "categorie": "person"
+      },
+      {
+        "id": "68376",
+        "label": "樱川六花",
+        "info": "九郎の従姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/84/68376_crt_L41lO.jpg?r=1578536313",
+        "link": "https://bgm.tv/character/68376",
+        "categorie": "person"
+      },
+      {
+        "id": "72354",
+        "label": "七濑花凛",
+        "info": "胸の大きいアイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/7b/72354_crt_edC5T.jpg?r=1578536327",
+        "link": "https://bgm.tv/character/72354",
+        "categorie": "person"
+      },
+      {
+        "id": "74619",
+        "label": "寺田刑事",
+        "info": "真倉坂警察署に務める大柄な刑事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/34/74619_crt_WxvDy.jpg?r=1578536342",
+        "link": "https://bgm.tv/character/74619",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

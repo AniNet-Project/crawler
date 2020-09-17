@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20409",
+        "label": "朝日奈绘麻",
+        "info": "就读于阳出高校的16岁女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/19/20409_crt_4tiUe.jpg",
+        "link": "https://bgm.tv/character/20409",
+        "categorie": "person"
+      },
+      {
+        "id": "20416",
+        "label": "朝日奈雅臣",
+        "info": "※弱气型小儿科医生（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/f9/20416_crt_uq353.jpg?r=1408242025",
+        "link": "https://bgm.tv/character/20416",
+        "categorie": "person"
+      },
+      {
+        "id": "20417",
+        "label": "朝日奈右京",
+        "info": "※妈妈型律师（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/28/20417_crt_d50VV.jpg",
+        "link": "https://bgm.tv/character/20417",
+        "categorie": "person"
+      },
+      {
+        "id": "20420",
+        "label": "朝日奈要",
+        "info": "※男公关型僧侣（←官方定的型系）",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/9e/20420_crt_lRpqm.jpg",
+        "link": "https://bgm.tv/character/20420",
+        "categorie": "person"
+      },
+      {
+        "id": "20423",
+        "label": "朝日奈光",
+        "info": "※女装型小说家（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/37/20423_crt_g1y76.jpg",
+        "link": "https://bgm.tv/character/20423",
+        "categorie": "person"
+      },
+      {
+        "id": "20424",
+        "label": "朝日奈椿",
+        "info": "※轻浮型声优（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/fd/20424_crt_F1qjQ.jpg",
+        "link": "https://bgm.tv/character/20424",
+        "categorie": "person"
+      },
+      {
+        "id": "20425",
+        "label": "朝日奈梓",
+        "info": "※沉稳型声优（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/70/20425_crt_Ogxwl.jpg",
+        "link": "https://bgm.tv/character/20425",
+        "categorie": "person"
+      },
+      {
+        "id": "20426",
+        "label": "朝日奈枣",
+        "info": "※沉默寡言型上班族（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/f2/20426_crt_p3hb1.jpg",
+        "link": "https://bgm.tv/character/20426",
+        "categorie": "person"
+      },
+      {
+        "id": "20427",
+        "label": "朝日奈琉生",
+        "info": "※不思议型美容师（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/5a/20427_crt_RrUUu.jpg",
+        "link": "https://bgm.tv/character/20427",
+        "categorie": "person"
+      },
+      {
+        "id": "20428",
+        "label": "朝日奈昴",
+        "info": "※运动型大学生（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/5e/20428_crt_5r63l.jpg",
+        "link": "https://bgm.tv/character/20428",
+        "categorie": "person"
+      },
+      {
+        "id": "20429",
+        "label": "朝日奈祈织",
+        "info": "※王子型高校生（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/f2/20429_crt_5zgPV.jpg",
+        "link": "https://bgm.tv/character/20429",
+        "categorie": "person"
+      },
+      {
+        "id": "20430",
+        "label": "朝日奈侑介",
+        "info": "※不良少年型同级生（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/42/20430_crt_U175u.jpg",
+        "link": "https://bgm.tv/character/20430",
+        "categorie": "person"
+      },
+      {
+        "id": "20431",
+        "label": "朝日奈风斗",
+        "info": "※小恶魔型偶像（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/40/20431_crt_wrOD6.jpg",
+        "link": "https://bgm.tv/character/20431",
+        "categorie": "person"
+      },
+      {
+        "id": "20432",
+        "label": "朝日奈弥",
+        "info": "※治愈系小学生（←官方指定型款）",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/c9/20432_crt_KY00Z.jpg",
+        "link": "https://bgm.tv/character/20432",
+        "categorie": "person"
+      },
+      {
+        "id": "20410",
+        "label": "朱利",
+        "info": "主人公从小饲养着的宠物松鼠（雄）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/33/20410_crt_NNN21.jpg",
+        "link": "https://bgm.tv/character/20410",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

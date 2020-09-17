@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1",
+        "label": "鲁路修·兰佩路基",
+        "info": "一年前的东京攻略战中，黑色骑士团因为首领Zero的离开而最终战败。之后一年间，鲁路修的Geass能力被人封印而平静的生活在阿什弗德学园，在第二季开头，鲁路修重新与C.C相遇之后，Geass封印被解开，鲁路修也恢复了记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3a/1_crt_h47Z4.jpg",
+        "link": "https://bgm.tv/character/1",
+        "categorie": "person"
+      },
+      {
+        "id": "13349",
+        "label": "天子",
+        "info": "中華連邦の頂点に君臨する少女。超合集国建国後は合衆国中華の代表となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a8/13349_crt_RVV2S.jpg",
+        "link": "https://bgm.tv/character/13349",
+        "categorie": "person"
+      },
+      {
+        "id": "33549",
+        "label": "藤堂镜志朗",
+        "info": "７年前の対ブリタニア戦で一度も負けなかった伝説の将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/82/33549_crt_3DA0u.jpg?r=1573783037",
+        "link": "https://bgm.tv/character/33549",
+        "categorie": "person"
+      },
+      {
+        "id": "72153",
+        "label": "玉城真一郎",
+        "info": "皇暦1994年3月3日生まれ(24-25歳)。カレンが所属する小規模レジスタンスグループのメンバーの一人。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ab/72153_crt_dx5BU.jpg?r=1570776044",
+        "link": "https://bgm.tv/character/72153",
+        "categorie": "person"
+      },
+      {
+        "id": "72261",
+        "label": "修奈泽尔·EI·布里塔尼亚",
+        "info": "ブリタニア帝国第二皇子。ブリタニア皇帝に次ぐ帝国の実力者で、故・クロヴィスによれば、ルルーシュの母マリアンヌの暗殺事件の真相を知っている人物の一人だといわれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/82/72261_crt_RXe7B.jpg?r=1571118149",
+        "link": "https://bgm.tv/character/72261",
+        "categorie": "person"
+      },
+      {
+        "id": "72262",
+        "label": "迪特哈鲁特·利特",
+        "info": "TV局のプロデューサー。事件があると好奇心全開で謎に迫ろうとするタイプ。 ブリタニア人であるがゼロに興味を持ち、黒の騎士団に参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/5d/72262_crt_k58JK.jpg?r=1571118438",
+        "link": "https://bgm.tv/character/72262",
+        "categorie": "person"
+      },
+      {
+        "id": "39615",
+        "label": "V.V.",
+        "info": "查尔斯的哥哥，与C.C一样 拥有不老不死的Code（赋予他人Geass的能力），所以看起来是少年的样子，在年轻时被卷入神圣不列颠帝国的继承权纷争，与弟弟查尔斯一起计划创建一个虚假的世界，但同时兄弟二人互相约定“永远不欺骗对方”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/bb/39615_crt_N2i28.jpg",
+        "link": "https://bgm.tv/character/39615",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

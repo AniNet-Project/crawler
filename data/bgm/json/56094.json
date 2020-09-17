@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19488",
+        "label": "久世响希",
+        "info": "ごくごく普通の高校3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/fb/19488_crt_9ohO5.jpg",
+        "link": "https://bgm.tv/character/19488",
+        "categorie": "person"
+      },
+      {
+        "id": "19489",
+        "label": "志岛大地",
+        "info": "ヒビキの親友で同じ学校に通う高校3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/0d/19489_crt_IAGzd.jpg",
+        "link": "https://bgm.tv/character/19489",
+        "categorie": "person"
+      },
+      {
+        "id": "19490",
+        "label": "新田维绪",
+        "info": "ヒビキらと同じ学校に通う高校3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/cf/19490_crt_zGXDG.jpg",
+        "link": "https://bgm.tv/character/19490",
+        "categorie": "person"
+      },
+      {
+        "id": "19491",
+        "label": "峰津院大和",
+        "info": "気象庁・指定地磁気調査部、通称「ジプス」の若き局長。ジプスの創始者一門である峰津院家の嫡男であり、17歳の若さで組織のトップとして局員を統率している。傲岸不遜な性格で、日本守護のためには手段を選ばない冷徹さも持ち合わせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/bf/19491_crt_Krg49.jpg",
+        "link": "https://bgm.tv/character/19491",
+        "categorie": "person"
+      },
+      {
+        "id": "19492",
+        "label": "忧郁者",
+        "info": "ヒビキたちの前に現れる神秘的で人ならざる雰囲気を持つ謎の存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/9e/19492_crt_1O7ES.jpg",
+        "link": "https://bgm.tv/character/19492",
+        "categorie": "person"
+      },
+      {
+        "id": "19493",
+        "label": "迫真琴",
+        "info": "ジプス東京支局の局員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/d3/19493_crt_9n6cJ.jpg",
+        "link": "https://bgm.tv/character/19493",
+        "categorie": "person"
+      },
+      {
+        "id": "19494",
+        "label": "和久井启太",
+        "info": "大阪に住む高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/55/19494_crt_YnLid.jpg",
+        "link": "https://bgm.tv/character/19494",
+        "categorie": "person"
+      },
+      {
+        "id": "19495",
+        "label": "九条绯那子",
+        "info": "大阪に住むダンサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/14/19495_crt_x0MOx.jpg",
+        "link": "https://bgm.tv/character/19495",
+        "categorie": "person"
+      },
+      {
+        "id": "19496",
+        "label": "柳谷乙女",
+        "info": "ジプス大阪本局の局員で、医者としてジプスの医療全般を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/b4/19496_crt_5E2hv.jpg",
+        "link": "https://bgm.tv/character/19496",
+        "categorie": "person"
+      },
+      {
+        "id": "19497",
+        "label": "菅野史",
+        "info": "ジプス名古屋支局の局員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/b2/19497_crt_49SSO.jpg",
+        "link": "https://bgm.tv/character/19497",
+        "categorie": "person"
+      },
+      {
+        "id": "19498",
+        "label": "伴亚衣梨",
+        "info": "名古屋に住む高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/54/19498_crt_90H8C.jpg",
+        "link": "https://bgm.tv/character/19498",
+        "categorie": "person"
+      },
+      {
+        "id": "19499",
+        "label": "鸟居纯吾",
+        "info": "名古屋に住む板前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/db/19499_crt_0tsc0.jpg",
+        "link": "https://bgm.tv/character/19499",
+        "categorie": "person"
+      },
+      {
+        "id": "19500",
+        "label": "秋江让",
+        "info": "通称「ジョー」、貿易会社に勤めるサラリーマン。常に飄々としており、テキトーな男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/bd/19500_crt_316q9.jpg",
+        "link": "https://bgm.tv/character/19500",
+        "categorie": "person"
+      },
+      {
+        "id": "19501",
+        "label": "栗木罗纳尔多",
+        "info": "名古屋に住む刑事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/e3/19501_crt_WG7gB.jpg",
+        "link": "https://bgm.tv/character/19501",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

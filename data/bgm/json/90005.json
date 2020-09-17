@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9160",
+        "label": "ケロロ軍曹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/12/9160_crt_22xJk.jpg",
+        "link": "https://bgm.tv/character/9160",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

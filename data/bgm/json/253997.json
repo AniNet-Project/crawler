@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69164",
+        "label": "安海琉花",
+        "info": "自分の気持ちを上手く言葉にして他人と接することが苦手な中学生。運動神経が高く、ハンドボール部に所属している。トラブルで部活禁止になった夏休みに海と空に出会い、事件へと巻き込まれていく。水中でも地上と同じようにピントを合わせて物を見ることができる体質を持つ。空が消える直前、彼から隕石を託され体内に宿す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/41/69164_crt_0Mxc6.jpg",
+        "link": "https://bgm.tv/character/69164",
+        "categorie": "person"
+      },
+      {
+        "id": "69165",
+        "label": "海",
+        "info": "琉花が夜の東京湾で出会った不思議な少年。泳ぎがとてもうまく、魚たちと交感する能力の持ち主。兄の空ほどではないが乾燥に弱く、水中の方が活発に活動できる。生まれてから2、3歳頃まで空と共に野生のジュゴンの群れの中で暮らしていたが、デデとジムに保護される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/dd/69165_crt_Qg34L.jpg?r=1556061276",
+        "link": "https://bgm.tv/character/69165",
+        "categorie": "person"
+      },
+      {
+        "id": "69166",
+        "label": "空",
+        "info": "海の双子の『兄』。ジムのサーフィンの教師。海とは異なる白い肌を持ち、乾燥に極端に弱く陸にずっといるのが苦手。海を守るべくジムとアングラードに自らの身体を調べるように依頼する。小笠原沖で自ら入手した隕石を琉花に託した後、光となって姿を消す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/20/69166_crt_02Gnn.jpg",
+        "link": "https://bgm.tv/character/69166",
+        "categorie": "person"
+      },
+      {
+        "id": "70084",
+        "label": "アングラード",
+        "info": "若き天才海洋学者でジムのかつての相棒。非常に中性的な外見が特徴。現在はジムの元を離れ、ジムとは異なるアプローチで海の謎に迫ろうとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/d2/70084_crt_XXZ5X.jpg",
+        "link": "https://bgm.tv/character/70084",
+        "categorie": "person"
+      },
+      {
+        "id": "70085",
+        "label": "ジム・キューザック",
+        "info": "水族館に勤務している科学者。身体に自分が旅をしてきたそれぞれの地方のタトゥーを彫っている。若いころ、空によく似た「海の子供」を自分の過失で死なせてしまったことがトラウマになっている。空や海を調べることで「海の子供」や世界の元とされる「原人」の謎を追っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/23/70085_crt_TxiWz.jpg",
+        "link": "https://bgm.tv/character/70085",
+        "categorie": "person"
+      },
+      {
+        "id": "69168",
+        "label": "安海加奈子",
+        "info": "琉花の母親。ずっと家で大量のビールを飲んでいる。正明とは別居している。海女の家系に生まれたが、後継になるのを嫌い両親とは離縁している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/84/69168_crt_q9TW9.jpg",
+        "link": "https://bgm.tv/character/69168",
+        "categorie": "person"
+      },
+      {
+        "id": "69167",
+        "label": "安海正明",
+        "info": "琉花の父親。水族館に勤務し、ジムとともに研究をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/6c/69167_crt_afhFz.jpg",
+        "link": "https://bgm.tv/character/69167",
+        "categorie": "person"
+      },
+      {
+        "id": "69169",
+        "label": "蒂蒂",
+        "info": "占い師であり科学者である老婆で自称『海のなんでも屋』。ジム・アングラードとは旧知の仲である。失踪した琉花達を探すために加奈子と共に船を出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/66/69169_crt_5DoZ9.jpg?r=1556061223",
+        "link": "https://bgm.tv/character/69169",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76132",
+        "label": "芥川龙之介",
+        "info": "代表作は、「歯車」、「地獄変」、「羅生門」",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/52/76132_crt_Gsg0H.jpg?r=1583896206",
+        "link": "https://bgm.tv/character/76132",
+        "categorie": "person"
+      },
+      {
+        "id": "76133",
+        "label": "太宰治",
+        "info": "代表作は、「走れメロス」、「斜陽」、「人間失格」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/8f/76133_crt_3qv6q.jpg?r=1583896437",
+        "link": "https://bgm.tv/character/76133",
+        "categorie": "person"
+      },
+      {
+        "id": "76134",
+        "label": "中原中也",
+        "info": "代表作は「山羊の歌」、「在りし日の歌」、「汚れつちまつた悲しみに…」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/6b/76134_crt_5ex5m.jpg?r=1583896734",
+        "link": "https://bgm.tv/character/76134",
+        "categorie": "person"
+      },
+      {
+        "id": "76135",
+        "label": "岛崎藤村",
+        "info": "代表作は、「破戒」、「新生」、「夜明け前」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/fa/76135_crt_362GA.jpg?r=1583897072",
+        "link": "https://bgm.tv/character/76135",
+        "categorie": "person"
+      },
+      {
+        "id": "76136",
+        "label": "织田作之助",
+        "info": "代表作は、「夫婦善哉」、「青春の逆説」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/94/76136_crt_5sQQq.jpg?r=1583898145",
+        "link": "https://bgm.tv/character/76136",
+        "categorie": "person"
+      },
+      {
+        "id": "76137",
+        "label": "德田秋声",
+        "info": "代表作は、「黴」、「縮図」、「あらくれ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/ac/76137_crt_QOLw6.jpg?r=1583898608",
+        "link": "https://bgm.tv/character/76137",
+        "categorie": "person"
+      },
+      {
+        "id": "76138",
+        "label": "坂口安吾",
+        "info": "代表作は、「桜の森の満開の下」、「風博士」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/94/76138_crt_8Z15A.jpg?r=1583898925",
+        "link": "https://bgm.tv/character/76138",
+        "categorie": "person"
+      },
+      {
+        "id": "76139",
+        "label": "萩原朔太郎",
+        "info": "代表作は、「月に吠える」、「青猫」、「氷島」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/f3/76139_crt_eeAxw.jpg?r=1583899370",
+        "link": "https://bgm.tv/character/76139",
+        "categorie": "person"
+      },
+      {
+        "id": "76140",
+        "label": "室生犀星",
+        "info": "代表作は、「抒情小曲集」、「愛の詩集」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/4a/76140_crt_EN33U.jpg?r=1583902232",
+        "link": "https://bgm.tv/character/76140",
+        "categorie": "person"
+      },
+      {
+        "id": "76141",
+        "label": "志贺直哉",
+        "info": "代表作は、「城の崎にて」、「和解」、「小僧の神様」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/23/76141_crt_gwE1f.jpg?r=1583902641",
+        "link": "https://bgm.tv/character/76141",
+        "categorie": "person"
+      },
+      {
+        "id": "76142",
+        "label": "武者小路实笃",
+        "info": "代表作は、「お目出たき人」、「友情」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/c6/76142_crt_kqAWa.jpg?r=1583902944",
+        "link": "https://bgm.tv/character/76142",
+        "categorie": "person"
+      },
+      {
+        "id": "76143",
+        "label": "菊池宽",
+        "info": "代表作は、「恩讐の彼方に」、「真珠夫人」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/dd/76143_crt_s0AUs.jpg?r=1583903233",
+        "link": "https://bgm.tv/character/76143",
+        "categorie": "person"
+      },
+      {
+        "id": "76144",
+        "label": "久米正雄",
+        "info": "代表作は、「受験生の手記」、「父の死」、「破船」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/d9/76144_crt_Do7zC.jpg?r=1583903474",
+        "link": "https://bgm.tv/character/76144",
+        "categorie": "person"
+      },
+      {
+        "id": "76145",
+        "label": "佐藤春夫",
+        "info": "代表作は、「田園の憂鬱」、「西班牙犬の家」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/67/76145_crt_O38PG.jpg?r=1583904048",
+        "link": "https://bgm.tv/character/76145",
+        "categorie": "person"
+      },
+      {
+        "id": "76146",
+        "label": "谷崎润一郎",
+        "info": "代表作は、「刺青」、「痴人の愛」、「細雪」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/71/76146_crt_ZKna7.jpg?r=1583904400",
+        "link": "https://bgm.tv/character/76146",
+        "categorie": "person"
+      },
+      {
+        "id": "76147",
+        "label": "堀辰雄",
+        "info": "代表作は、「聖家族」、「風立ちぬ」、「菜穂子」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/52/76147_crt_tTuHt.jpg?r=1583904691",
+        "link": "https://bgm.tv/character/76147",
+        "categorie": "person"
+      },
+      {
+        "id": "76148",
+        "label": "猫",
+        "info": "ドライめな性格の、しゃべるオス猫。名前はまだない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/3f/76148_crt_n89kW.jpg?r=1583904957",
+        "link": "https://bgm.tv/character/76148",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

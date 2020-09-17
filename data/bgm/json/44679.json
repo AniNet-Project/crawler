@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27948",
+        "label": "杨过",
+        "info": "杨康与穆念慈之子，杨家将的后人，自幼丧父，由母独立养大，生于江南但祖籍山东省，绰号“西狂”，又被尊称为“神雕大侠”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/86/27948_crt_tXlzl.jpg",
+        "link": "https://bgm.tv/character/27948",
+        "categorie": "person"
+      },
+      {
+        "id": "27973",
+        "label": "小龙女",
+        "info": "小龙女披着一袭轻纱般的白衣，犹如身在烟中雾里，除了黑发外，全身雪白，面容秀美绝俗，只是肌肤间少层血色，显得苍白异常。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/cf/27973_crt_svsoG.jpg",
+        "link": "https://bgm.tv/character/27973",
+        "categorie": "person"
+      },
+      {
+        "id": "27974",
+        "label": "李莫愁",
+        "info": "李莫愁是小龙女的师姐，有两名徒弟洪凌波及陆无双。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/f4/27974_crt_jqjqh.jpg",
+        "link": "https://bgm.tv/character/27974",
+        "categorie": "person"
+      },
+      {
+        "id": "27975",
+        "label": "郭靖",
+        "info": "郭靖虽然个性刚毅木讷，但已成熟，领导襄阳群雄抵抗蒙古军时精通兵法可见他具有领导才能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/fd/27975_crt_11WCH.jpg",
+        "link": "https://bgm.tv/character/27975",
+        "categorie": "person"
+      },
+      {
+        "id": "27977",
+        "label": "郭芙",
+        "info": "郭芙是郭靖和黄蓉的长女，“东邪”黄药师的外孙女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/e5/27977_crt_EqoNq.jpg",
+        "link": "https://bgm.tv/character/27977",
+        "categorie": "person"
+      },
+      {
+        "id": "27979",
+        "label": "欧阳锋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e3/27979_crt_uiee8.jpg",
+        "link": "https://bgm.tv/character/27979",
+        "categorie": "person"
+      },
+      {
+        "id": "27976",
+        "label": "黄蓉",
+        "info": "黄蓉是一位成熟的贤妻良母，又是足智多谋、武功高强、精通五行八卦阵和奇门遁甲之术的“女中诸葛”，可说是身兼“东邪”和“北丐”两家绝技的高手，而且多年来和丈夫郭靖一起助守南宋的军事重镇襄阳以抵抗蒙古大军的侵略，因而受到中原武林群雄的敬重。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/b0/27976_crt_h7n0H.jpg",
+        "link": "https://bgm.tv/character/27976",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

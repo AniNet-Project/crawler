@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18130",
+        "label": "无",
+        "info": "本作的主角，生日、年龄、血型不明，身高157cm。天然呆，单纯。会露出让花砾招架不能的不明小动物的可爱表情。身份不明。一直在寻找嘉禄。是嘉禄根据一种名叫“虹”的动物制造出来的。从小与嘉禄一起生活在森林中，当嘉禄消失后开始踏上寻找之旅，是会把血认为是单纯的红水的天然系少年。左腕带有嘉禄留下的轮腕。在轮里和其他人变得要好，开始出现舍不得离开轮的想法。双耳能够听接人类听不见的声音，也可以听见人们心中的声音（情感）。目前和津云一起学习知识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/1a/18130_crt_9BoAo.jpg",
+        "link": "https://bgm.tv/character/18130",
+        "categorie": "person"
+      },
+      {
+        "id": "18131",
+        "label": "花砾",
+        "info": "本作的另一位主角，15岁。在非法入侵他人住宅时，因缘际会救下了正在被怪阿姨推倒的无，由最初单纯想要从无手中骗走腕轮变成照顾他踏上旅程。看似冷酷，其实很温柔。爱对无发脾气，有着招牌式笑容。有着不愿提及的过去。从小生活在社会的底层，见识过诸多人性黑暗面。但是对无的天然系攻击抵抗无能。面对自己的无能为力，选择前往政府学校就读来提升自己的实力，以便成为能够帮助轮的人。对机械系的东西非常拿手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/a1/18131_crt_f86i7.jpg",
+        "link": "https://bgm.tv/character/18131",
+        "categorie": "person"
+      },
+      {
+        "id": "18132",
+        "label": "与仪",
+        "info": "贰号艇的战斗员，21岁。平门的下属，轮之第二艇队员。金发紫眼，出生于偏远的小国，有一个妹妹。性格直爽阳光，但常常因为一些问题发言而让人觉得他有点轻浮，属于搞笑派。虽然已是成年人，但个性仍然和小孩子一样，喜欢甜食、可爱的东西、玩游戏（例如：捉迷藏），也常跟人拥抱（多半是无和花砾），当无和花砾到壹组时，也流露出小孩子朋友被抢走的态度，另外也是个典型的爱哭鬼，害怕烛医生以及灵异事物，也不喜欢战斗。因为扮演喵莉娜而非常喜欢小孩子。和无、花砾相遇后成为同伴，时常与他们行动，对无非常照顾，曾对于花砾没有叫过自己的名字以及没有回他短信而耿耿于怀。登场台词为：“充满男子气慨，热血沸腾的耀眼王子”，武器是可以自由伸缩的玫瑰花式剑，必杀技为“蔷薇之墙”。另外有被人所惧怕的神秘力量，左脸贴著的贴布脱落的话会暴走，发色变成银色性格也跟着改变。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/6d/18132_crt_VU0L9.jpg",
+        "link": "https://bgm.tv/character/18132",
+        "categorie": "person"
+      },
+      {
+        "id": "18133",
+        "label": "津云",
+        "info": "贰号艇的战斗员，16岁。平门的下属，轮之第二艇队员。身形看似柔弱，实际上十分擅长格斗。性格认真具有责任感，平日里沉默少言，在听到要对平门不利的言论时却会挺身而出，关心着无的安全，憧憬著伊娃那样的开朗个性。为了保护无被夏切和麒春捉住，后被嘉禄放走。能力是操纵多个星形物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/09/18133_crt_WjGon.jpg",
+        "link": "https://bgm.tv/character/18133",
+        "categorie": "person"
+      },
+      {
+        "id": "18134",
+        "label": "平门",
+        "info": "贰号艇艇长，27岁。现任职务是轮之第二艇艇长，与无和花砾在火车绑架事件中结识，对无不经意间表现出的特殊能力抱有兴趣。帮助花砾前往政府学校就读。三不五时喜欢惹烛生气。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/12/18134_crt_fKrkr.jpg",
+        "link": "https://bgm.tv/character/18134",
+        "categorie": "person"
+      },
+      {
+        "id": "18135",
+        "label": "伊娃",
+        "info": "贰号艇的战斗员，25岁。轮之第二艇队员，平时最先对平门提出意见，但接受案件后一点也不犹豫。大姐姐般的存在，作风强硬，女王样性格。能力是操纵宝石。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/cd/18135_crt_7V1E7.jpg",
+        "link": "https://bgm.tv/character/18135",
+        "categorie": "person"
+      },
+      {
+        "id": "18136",
+        "label": "喰",
+        "info": "壹号艇的战斗员，20岁。轮之第一艇队员，因眼睛能捕捉到一切细微的反射，所以平时戴着眼镜。现与第二艇队员共同行动，保护着无。关于名字的读音，官方定为“can”，爱称“喰具”或者“喰具兄”。对伊娃的性格较难以应付。喜欢药草与栽培作物。可以操控昆虫进行攻击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a1/18136_crt_03GAy.jpg",
+        "link": "https://bgm.tv/character/18136",
+        "categorie": "person"
+      },
+      {
+        "id": "18137",
+        "label": "朔",
+        "info": "壹号艇艇长，27岁。轮之第一艇队长，和平门为同期生。领着喰和奇琪，性格开朗乐观。平时给人的印象为态度随便又不懂礼节，但实际上却是个能够掌握内部情报、慎思熟虑的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/e2/18137_crt_7bEHb.jpg",
+        "link": "https://bgm.tv/character/18137",
+        "categorie": "person"
+      },
+      {
+        "id": "18138",
+        "label": "奇琪",
+        "info": "壹号艇的战斗员，15岁。轮之第一艇队员，语气强硬的少女，自尊心强，完美主义者，觉得第二艇的战斗员都很笨，但实际上很关心他人。武器为镰刀，可将被能力者感染的部分切开。对津云称呼为“前辈”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/76/18138_crt_duXnf.jpg",
+        "link": "https://bgm.tv/character/18138",
+        "categorie": "person"
+      },
+      {
+        "id": "18139",
+        "label": "烛",
+        "info": "国家防卫最高机关“研案塔”的医生和研究人员，33岁。疗师的弟子，被政府订为“SSS级”重要保护人员。为平门与朔在“训练生时代”的教导人员。与平门感情不好。被朔以“燭ちゃん”称呼。因为态度的关系所以护士们都不怎么喜欢他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/75/18139_crt_7CbzI.jpg",
+        "link": "https://bgm.tv/character/18139",
+        "categorie": "person"
+      },
+      {
+        "id": "19737",
+        "label": "嘉禄",
+        "info": "无在寻找的人，18岁、血型不明。父母曾是“轮”的成员，对医术很拿手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/fd/19737_crt_W0w76.jpg",
+        "link": "https://bgm.tv/character/19737",
+        "categorie": "person"
+      },
+      {
+        "id": "19738",
+        "label": "艾莉西卡",
+        "info": "14岁，为“火不火”组织的相关企业CEO的孙女，现在和嘉禄住同个屋檐下，喜欢嘉禄，有些娇纵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/9f/19738_crt_7qUGG.jpg",
+        "link": "https://bgm.tv/character/19738",
+        "categorie": "person"
+      },
+      {
+        "id": "19739",
+        "label": "黑白",
+        "info": "“火不火”组织的干部，性格冷静。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/75/19739_crt_3TwZG.jpg",
+        "link": "https://bgm.tv/character/19739",
+        "categorie": "person"
+      },
+      {
+        "id": "19740",
+        "label": "羊",
+        "info": "国家防卫机关“轮”贰号艇的防御系统黑羊，不管是日常杂务还是警备等事情都能高效处理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/62/19740_crt_Dijjn.jpg?r=1365741238",
+        "link": "https://bgm.tv/character/19740",
+        "categorie": "person"
+      },
+      {
+        "id": "19741",
+        "label": "兔",
+        "info": "国家防卫机关“轮”贰号艇的防御系统白兔，喜欢梳理毛发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/77/19741_crt_GbtL1.jpg",
+        "link": "https://bgm.tv/character/19741",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

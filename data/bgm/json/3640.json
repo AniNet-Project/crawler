@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46733",
+        "label": "北神未海",
+        "info": "たよりになるモテモテのクラス委員長",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/0e/46733_crt_0tV0t.jpg?r=1474720099",
+        "link": "https://bgm.tv/character/46733",
+        "categorie": "person"
+      },
+      {
+        "id": "5483",
+        "label": "東條潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/2a/5483_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5483",
+        "categorie": "person"
+      },
+      {
+        "id": "5484",
+        "label": "南雲波人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/b2/5484_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5484",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43411",
+        "label": "伊泽塔",
+        "info": "先祖代々、不思議な力を受け継いできた魔女の一族の末裔。手で触れたものに魔力を付与し、自在に操ることができる。その力を隠すため、幼い頃から祖母と一緒に欧州各地を旅しながら生活していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/78/43411_crt_IZ4FF.jpg?r=1475590040",
+        "link": "https://bgm.tv/character/43411",
+        "categorie": "person"
+      },
+      {
+        "id": "43412",
+        "label": "菲涅",
+        "info": "艾露史塔德公国元首鲁道夫三世的独生女及继承者。自小聪明又温柔，官员甚至民众都爱戴她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/d3/43412_crt_TQtzs.jpg?r=1474734017",
+        "link": "https://bgm.tv/character/43412",
+        "categorie": "person"
+      },
+      {
+        "id": "45527",
+        "label": "ビアンカ",
+        "info": "エイルシュタット大公家直属の近衛兵のリーダー。銃器の扱いに長け、格闘技も得意で、フィーネを護衛する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/15/45527_crt_Bg25p.jpg",
+        "link": "https://bgm.tv/character/45527",
+        "categorie": "person"
+      },
+      {
+        "id": "45528",
+        "label": "ロッテ",
+        "info": "ランツブルックの宮殿で働いているフィーネ付きのメイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/16/45528_crt_JwiJJ.jpg",
+        "link": "https://bgm.tv/character/45528",
+        "categorie": "person"
+      },
+      {
+        "id": "45529",
+        "label": "エルヴィラ",
+        "info": "フィーネ専属の家庭教師。以前は、大西洋の西にある大国アトランタ合衆国の新聞社やラジオ局で働いており、エイルシュタットの広報や諜報を担う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/8d/45529_crt_DswYe.jpg",
+        "link": "https://bgm.tv/character/45529",
+        "categorie": "person"
+      },
+      {
+        "id": "45530",
+        "label": "ジーク",
+        "info": "エイルシュタット大公の補佐官の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/7d/45530_crt_u5bVx.jpg",
+        "link": "https://bgm.tv/character/45530",
+        "categorie": "person"
+      },
+      {
+        "id": "45531",
+        "label": "ハンス",
+        "info": "エイルシュタット軍の若き少佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/1f/45531_crt_bdOGm.jpg",
+        "link": "https://bgm.tv/character/45531",
+        "categorie": "person"
+      },
+      {
+        "id": "45532",
+        "label": "ベルクマン",
+        "info": "ゲルマニア帝国軍の少佐。諜報活動や特殊作戦を主な任務とする機密情報局に所属しており、魔女の力に興味を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/6d/45532_crt_DRdGu.jpg",
+        "link": "https://bgm.tv/character/45532",
+        "categorie": "person"
+      },
+      {
+        "id": "45533",
+        "label": "リッケルト",
+        "info": "ゲルマニア帝国軍の機密情報局に所属。階級は少尉。ベルクマンの片腕として、行動をともにする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/db/45533_crt_hINp2.jpg",
+        "link": "https://bgm.tv/character/45533",
+        "categorie": "person"
+      },
+      {
+        "id": "45534",
+        "label": "バスラー",
+        "info": "ゲルマニア帝国空軍のパイロットで、階級は大尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/5a/45534_crt_1UUkm.jpg",
+        "link": "https://bgm.tv/character/45534",
+        "categorie": "person"
+      },
+      {
+        "id": "45555",
+        "label": "赫尔曼",
+        "info": "エイルシュタット公国軍所属のフィーネの護衛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/0c/45555_crt_Z70un.jpg",
+        "link": "https://bgm.tv/character/45555",
+        "categorie": "person"
+      },
+      {
+        "id": "45556",
+        "label": "トビアス",
+        "info": "エイルシュタット公国軍所属のフィーネの護衛。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/b7/45556_crt_jwBBt.jpg",
+        "link": "https://bgm.tv/character/45556",
+        "categorie": "person"
+      },
+      {
+        "id": "45558",
+        "label": "ゲルツ",
+        "info": "ゲルマニア帝国の親衛隊。階級は中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/73/45558_crt_3Ycu2.jpg",
+        "link": "https://bgm.tv/character/45558",
+        "categorie": "person"
+      },
+      {
+        "id": "45559",
+        "label": "エリオット",
+        "info": "オットーの盲目の側近。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/ce/45559_crt_Rfj72.jpg?r=1482025922",
+        "link": "https://bgm.tv/character/45559",
+        "categorie": "person"
+      },
+      {
+        "id": "45561",
+        "label": "鲁道夫",
+        "info": "エイルシュタットの元首である大公。現在は病床に伏せっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/ef/45561_crt_Q9pVF.jpg?r=1482026192",
+        "link": "https://bgm.tv/character/45561",
+        "categorie": "person"
+      },
+      {
+        "id": "47297",
+        "label": "施耐德",
+        "info": "エイルシュタット公国軍の将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/7b/47297_crt_1ALcZ.jpg?r=1482040604",
+        "link": "https://bgm.tv/character/47297",
+        "categorie": "person"
+      },
+      {
+        "id": "47428",
+        "label": "约纳斯",
+        "info": "エイルシュタット公国軍の歩兵小隊に属する二等兵",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/11/47428_crt_ZAIVa.jpg?r=1482026513",
+        "link": "https://bgm.tv/character/47428",
+        "categorie": "person"
+      },
+      {
+        "id": "47653",
+        "label": "格罗斯科普夫",
+        "info": "ゲルマニア帝国陸軍の中将。イゼッタに部隊を壊滅させられ、彼女の存在を皇帝に報告した後、左遷させられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/e2/47653_crt_Kzb1K.jpg?r=1482027290",
+        "link": "https://bgm.tv/character/47653",
+        "categorie": "person"
+      },
+      {
+        "id": "47654",
+        "label": "奥托",
+        "info": "ゲルマニア帝国の皇帝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/f9/47654_crt_Astw1.jpg?r=1482026840",
+        "link": "https://bgm.tv/character/47654",
+        "categorie": "person"
+      },
+      {
+        "id": "47656",
+        "label": "瓦尔马",
+        "info": "首相",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/31/47656_crt_70an1.jpg",
+        "link": "https://bgm.tv/character/47656",
+        "categorie": "person"
+      },
+      {
+        "id": "48072",
+        "label": "伊丽莎白",
+        "info": "新兵器や魔女について研究する帝立技術工廠の設計局長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/1c/48072_crt_ierwH.jpg?r=1482025995",
+        "link": "https://bgm.tv/character/48072",
+        "categorie": "person"
+      },
+      {
+        "id": "48073",
+        "label": "洛伦茨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/8f/48073_crt_6jOwa.jpg?r=1478425803",
+        "link": "https://bgm.tv/character/48073",
+        "categorie": "person"
+      },
+      {
+        "id": "48901",
+        "label": "佐菲",
+        "info": "白き魔女",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/09/48901_crt_1cYC9.jpg",
+        "link": "https://bgm.tv/character/48901",
+        "categorie": "person"
+      },
+      {
+        "id": "49347",
+        "label": "フェルナー",
+        "info": "エイルシュタット公国軍の中将",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/b2/49347_crt_0xDy5.jpg",
+        "link": "https://bgm.tv/character/49347",
+        "categorie": "person"
+      },
+      {
+        "id": "49348",
+        "label": "グローマン",
+        "info": "ブリタニア王国空軍の中佐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e0/49348_crt_8513H.jpg",
+        "link": "https://bgm.tv/character/49348",
+        "categorie": "person"
+      },
+      {
+        "id": "47126",
+        "label": "雷德福德卿",
+        "info": "同盟国の一つ、ブリタニア王国の外務大臣",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/8f/47126_crt_JgW94.jpg",
+        "link": "https://bgm.tv/character/47126",
+        "categorie": "person"
+      },
+      {
+        "id": "47298",
+        "label": "イゼッタの祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/e4/47298_crt_JCGCG.jpg",
+        "link": "https://bgm.tv/character/47298",
+        "categorie": "person"
+      },
+      {
+        "id": "47427",
+        "label": "哈尔特迈耶",
+        "info": "エイルシュタットの軍医。ハンスの部隊に同行しており、傷を負っていたフィーネとイゼッタを治療した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/82/47427_crt_2e6Es.jpg",
+        "link": "https://bgm.tv/character/47427",
+        "categorie": "person"
+      },
+      {
+        "id": "47429",
+        "label": "科勒",
+        "info": "ゲルマニア帝国空軍の少佐",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/e5/47429_crt_SQ24g.jpg",
+        "link": "https://bgm.tv/character/47429",
+        "categorie": "person"
+      },
+      {
+        "id": "47655",
+        "label": "托马斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/0b/47655_crt_aEWxs.jpg?r=1477284761",
+        "link": "https://bgm.tv/character/47655",
+        "categorie": "person"
+      },
+      {
+        "id": "47822",
+        "label": "祭司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e6/47822_crt_r6vt5.jpg?r=1477758199",
+        "link": "https://bgm.tv/character/47822",
+        "categorie": "person"
+      },
+      {
+        "id": "48074",
+        "label": "基施鲍姆店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/f4/48074_crt_Gf2DB.jpg?r=1478426192",
+        "link": "https://bgm.tv/character/48074",
+        "categorie": "person"
+      },
+      {
+        "id": "48075",
+        "label": "キルシュバウム女将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/fa/48075_crt_Z4n4w.jpg",
+        "link": "https://bgm.tv/character/48075",
+        "categorie": "person"
+      },
+      {
+        "id": "48076",
+        "label": "女の子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/e8/48076_crt_I7W1v.jpg?r=1478426358",
+        "link": "https://bgm.tv/character/48076",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2500",
+        "label": "朝仓纯一",
+        "info": "ゲーム本編およびアニメ一作目（俗称ファーストシーズン）では風見学園付属の3年1組在籍（出席番号は常に1番）。両親は海外へ赴任中で、血の繋がらない妹（誕生日が同じなので表向きは似ていない双子で通している）朝倉音夢と共に初音島で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/69/2500_crt_z3393.jpg",
+        "link": "https://bgm.tv/character/2500",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

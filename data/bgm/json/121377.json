@@ -1,0 +1,325 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29716",
+        "label": "一之濑双叶",
+        "info": "デビューしたての超新人声優。自己PRが苦手で、まだ自分の個性がイマイチわかっていない。たからものは、子供のころ大好きだった、アニメ『息の根コロリちゃん』のぬいぐるみ。華はないけど主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/18/29716_crt_P3KvF.jpg?r=1436390643",
+        "link": "https://bgm.tv/character/29716",
+        "categorie": "person"
+      },
+      {
+        "id": "33366",
+        "label": "小花铃",
+        "info": "5歳で子役デビューし、今年で芸歴10年目を迎える、現役中学生声優。仕事と学生生活を両立させるしっかりもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/b8/33366_crt_DadDE.jpg?r=1565176387",
+        "link": "https://bgm.tv/character/33366",
+        "categorie": "person"
+      },
+      {
+        "id": "33367",
+        "label": "萌咲莓",
+        "info": "双葉とほぼ同時にデビューした新人声優。「歌って踊れる」アイドル型声優になるのが夢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/f1/33367_crt_H33Cp.jpg?r=1565176396",
+        "link": "https://bgm.tv/character/33367",
+        "categorie": "person"
+      },
+      {
+        "id": "33365",
+        "label": "汐留光",
+        "info": "芸歴14年を誇る青空プロの大御所声優。十代のデビュー当初より「ヒカりゅん」の愛称で親しまれているが、可愛すぎる愛称と自身の実年齢とのギャップに悩むアラサー。地上波ラジオで自身の冠番組である『ヒカリ☆電波局』を持つ。アニメでは「仏戦隊ボサツオン」の主人公エスタ役をしており、同じ事務所の双葉を始めとする「イヤホンズ」を静かに見守る。彼女らが道に躓いた時には先達として優しく厳しく導いていく。双葉に対しては事務所が同じであるためにカラミは多く、からかったり茶化したり励ましたりとオチャメな言動も多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/61/33365_crt_ddgxx.jpg",
+        "link": "https://bgm.tv/character/33365",
+        "categorie": "person"
+      },
+      {
+        "id": "33368",
+        "label": "集さん",
+        "info": "青空プロダクションに所属するマネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/6d/33368_crt_cmC74.jpg",
+        "link": "https://bgm.tv/character/33368",
+        "categorie": "person"
+      },
+      {
+        "id": "33369",
+        "label": "紺野あおい",
+        "info": "青空プロダクションに所属する新人マネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/c9/33369_crt_crP9v.jpg?r=1565174447",
+        "link": "https://bgm.tv/character/33369",
+        "categorie": "person"
+      },
+      {
+        "id": "33370",
+        "label": "サヨちゃん",
+        "info": "鈴の幼馴染にしてクラスメートで新聞部に所属。劇団入団時（4歳）からの親友でもある。友達として鈴の事を誇らしく思い応援もしている。劇団員だが親がレッスン料を支払い暇な時に趣味状態で演劇をしているだけで、鈴と違って劇団を通した役者としての仕事はしておらず、自身はいたって「普通の中学生」である。鈴とともに学校近くの喫茶店である「喫茶どんぐり」の常連。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/56/33370_crt_Fmz04.jpg",
+        "link": "https://bgm.tv/character/33370",
+        "categorie": "person"
+      },
+      {
+        "id": "33371",
+        "label": "劇団さくらんぼマネージャー",
+        "info": "鈴に仕事を回してくれる女性マネージャーさん。ヒロCのファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/a5/33371_crt_HERrr.jpg",
+        "link": "https://bgm.tv/character/33371",
+        "categorie": "person"
+      },
+      {
+        "id": "33372",
+        "label": "海原さん",
+        "info": "「仏戦隊ボサツオン」のプロデューサー。後に双葉・鈴・いちごの3人に目をつけて彼女らにユニット「イヤホンズ」を組ませる。ちなみにプロデューサーのはずなのにセンスは少々ビミョーである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/44/33372_crt_4x4LO.jpg",
+        "link": "https://bgm.tv/character/33372",
+        "categorie": "person"
+      },
+      {
+        "id": "33373",
+        "label": "ディレクター",
+        "info": "「仏戦隊ボサツオン」のディレクター",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33373",
+        "categorie": "person"
+      },
+      {
+        "id": "33374",
+        "label": "音响监督",
+        "info": "「仏戦隊ボサツオン」の音響監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/d9/33374_crt_77044.jpg",
+        "link": "https://bgm.tv/character/33374",
+        "categorie": "person"
+      },
+      {
+        "id": "33375",
+        "label": "息の根コロリ",
+        "info": "双葉の宝物のぬいぐるみであり、よき相談相手(?)",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/9d/33375_crt_ZcY17.jpg",
+        "link": "https://bgm.tv/character/33375",
+        "categorie": "person"
+      },
+      {
+        "id": "33376",
+        "label": "鈴のお母さん",
+        "info": "引っ込み思案な鈴の将来を案じて（家が商売をしているため、家業を継がせるにしても商売が立ち行かなくなる）その矯正のために児童劇団に彼女を放り込んだ。基本的にそれ以外では鈴の意思を尊重してくれる優しい母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/1b/33376_crt_ocvUM.jpg",
+        "link": "https://bgm.tv/character/33376",
+        "categorie": "person"
+      },
+      {
+        "id": "33377",
+        "label": "いちごのお父さん",
+        "info": "苦しい生活の中、男手ひとつでいちごを育ててきた立派な父。少女時代、娘にフリルのひとつも買ってあげられなかった（その意味を解ってあげられなかった）事を悔やみつつ、優しくいちごの行く末を見守り応援する。時にいちごを応援するため自身に何らかの苦しみを背負い続け、無理がたたり倒れる事もある。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33377",
+        "categorie": "person"
+      },
+      {
+        "id": "33378",
+        "label": "ボイスエンタテイメントマネージャー",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33378",
+        "categorie": "person"
+      },
+      {
+        "id": "34118",
+        "label": "家守",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/f6/34118_crt_Q62Rp.jpg",
+        "link": "https://bgm.tv/character/34118",
+        "categorie": "person"
+      },
+      {
+        "id": "34405",
+        "label": "ボサツオンラジオディレクター",
+        "info": "菩萨音web广播的导演",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/e6/34405_crt_M91P6.jpg",
+        "link": "https://bgm.tv/character/34405",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "34119",
+        "label": "レイジ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34119",
+        "categorie": "person"
+      },
+      {
+        "id": "34120",
+        "label": "関上",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34120",
+        "categorie": "person"
+      },
+      {
+        "id": "34406",
+        "label": "ヒカリ電波局ディレクター",
+        "info": "汐留广播的导演",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/fd/34406_crt_cp6Gc.jpg",
+        "link": "https://bgm.tv/character/34406",
+        "categorie": "person"
+      },
+      {
+        "id": "34407",
+        "label": "ヒカリ電波局ミキサー",
+        "info": "汐留广播的混音师",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/98/34407_crt_7KRXP.jpg",
+        "link": "https://bgm.tv/character/34407",
+        "categorie": "person"
+      },
+      {
+        "id": "34409",
+        "label": "店長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/5e/34409_crt_df4Vc.jpg",
+        "link": "https://bgm.tv/character/34409",
+        "categorie": "person"
+      },
+      {
+        "id": "35341",
+        "label": "ミキサー",
+        "info": "トークと音楽の切り替えや、音声を調整したりする方",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35341",
+        "categorie": "person"
+      },
+      {
+        "id": "35846",
+        "label": "ウエスタン刑事音響監督",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/5d/35846_crt_5a8NL.jpg",
+        "link": "https://bgm.tv/character/35846",
+        "categorie": "person"
+      },
+      {
+        "id": "36010",
+        "label": "すーちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/a0/36010_crt_5z3o2.jpg",
+        "link": "https://bgm.tv/character/36010",
+        "categorie": "person"
+      },
+      {
+        "id": "36011",
+        "label": "ゆりちん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/7d/36011_crt_dvt2V.jpg",
+        "link": "https://bgm.tv/character/36011",
+        "categorie": "person"
+      },
+      {
+        "id": "36012",
+        "label": "まっすー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/f3/36012_crt_BFeLU.jpg",
+        "link": "https://bgm.tv/character/36012",
+        "categorie": "person"
+      },
+      {
+        "id": "33994",
+        "label": "野泽雅子",
+        "info": "アニメのみ登場。第1話ではナレーションも兼任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/90/33994_crt_V0zN0.jpg",
+        "link": "https://bgm.tv/character/33994",
+        "categorie": "person"
+      },
+      {
+        "id": "33997",
+        "label": "神谷浩史",
+        "info": "第二话、第十话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/55/33997_crt_Bb1mb.jpg",
+        "link": "https://bgm.tv/character/33997",
+        "categorie": "person"
+      },
+      {
+        "id": "34296",
+        "label": "田村由香里",
+        "info": "第三话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/25/34296_crt_6kxWf.jpg",
+        "link": "https://bgm.tv/character/34296",
+        "categorie": "person"
+      },
+      {
+        "id": "34520",
+        "label": "银河万丈",
+        "info": "第四话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/f6/34520_crt_Ln4y4.jpg",
+        "link": "https://bgm.tv/character/34520",
+        "categorie": "person"
+      },
+      {
+        "id": "33995",
+        "label": "堀江由衣",
+        "info": "第五话、第十二话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/3b/33995_crt_fPyyJ.jpg",
+        "link": "https://bgm.tv/character/33995",
+        "categorie": "person"
+      },
+      {
+        "id": "34964",
+        "label": "钉宫理惠",
+        "info": "第六话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/84/34964_crt_482y5.jpg",
+        "link": "https://bgm.tv/character/34964",
+        "categorie": "person"
+      },
+      {
+        "id": "35020",
+        "label": "小山力也",
+        "info": "第七话中客串出演",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6b/35020_crt_76V2k.jpg?r=1461689167",
+        "link": "https://bgm.tv/character/35020",
+        "categorie": "person"
+      },
+      {
+        "id": "35244",
+        "label": "日高法子",
+        "info": "第9话客串",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/7e/35244_crt_959p4.jpg",
+        "link": "https://bgm.tv/character/35244",
+        "categorie": "person"
+      },
+      {
+        "id": "35342",
+        "label": "真地勇志",
+        "info": "第8話に登場。劇中のテレビ番組のナレーションとして、双葉と共演する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/b9/35342_crt_A1HJU.jpg?r=1565174421",
+        "link": "https://bgm.tv/character/35342",
+        "categorie": "person"
+      },
+      {
+        "id": "33996",
+        "label": "白石涼子",
+        "info": "第十一话出场",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/56/33996_crt_XVmoV.jpg",
+        "link": "https://bgm.tv/character/33996",
+        "categorie": "person"
+      },
+      {
+        "id": "34121",
+        "label": "浅野真澄",
+        "info": "就是作者本人啦。手里的书也是作者的作品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f9/34121_crt_9Yooo.jpg",
+        "link": "https://bgm.tv/character/34121",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

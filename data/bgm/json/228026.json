@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58452",
+        "label": "佑河树里",
+        "info": "本作品の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/ff/58452_crt_I2Kdg.jpg?r=1508163443",
+        "link": "https://bgm.tv/character/58452",
+        "categorie": "person"
+      },
+      {
+        "id": "58453",
+        "label": "爷爷",
+        "info": "樹里の祖父。貴文の父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/6a/58453_crt_sfgzh.jpg?r=1508164323",
+        "link": "https://bgm.tv/character/58453",
+        "categorie": "person"
+      },
+      {
+        "id": "58457",
+        "label": "间岛翔子",
+        "info": "佐河の相談役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/52/58457_crt_14EGj.jpg?r=1508164943",
+        "link": "https://bgm.tv/character/58457",
+        "categorie": "person"
+      },
+      {
+        "id": "58458",
+        "label": "佐河顺治",
+        "info": "真純実愛会の現教祖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/de/58458_crt_03srr.jpg?r=1508165094",
+        "link": "https://bgm.tv/character/58458",
+        "categorie": "person"
+      },
+      {
+        "id": "58454",
+        "label": "佑河贵文",
+        "info": "樹里、翼、早苗の父親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/f3/58454_crt_194qe.jpg?r=1508164474",
+        "link": "https://bgm.tv/character/58454",
+        "categorie": "person"
+      },
+      {
+        "id": "58455",
+        "label": "佑河翼",
+        "info": "樹里の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/24/58455_crt_a1bUb.jpg?r=1508164654",
+        "link": "https://bgm.tv/character/58455",
+        "categorie": "person"
+      },
+      {
+        "id": "58456",
+        "label": "佑河真",
+        "info": "樹里・翼の甥で、貴文の孫、じいさんの曾孫。好奇心旺盛で、翼よりしっかりしている時もしばしばある。家族は真だけはまっとうに育ってほしいと願っている共通認識がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/37/58456_crt_2D262.jpg?r=1508164687",
+        "link": "https://bgm.tv/character/58456",
+        "categorie": "person"
+      },
+      {
+        "id": "58459",
+        "label": "迫",
+        "info": "雇われ組を集めた男。気性が荒く、突発的な行動をする事が多い反面、他人の意見に聞く耳を持ち、最善の行動をしたいと考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/bd/58459_crt_ts5ct.jpg?r=1508165128",
+        "link": "https://bgm.tv/character/58459",
+        "categorie": "person"
+      },
+      {
+        "id": "58460",
+        "label": "潮见",
+        "info": "佐河に雇われた誘拐実行部隊の一人。非常に頭のキレがよく、どんな時も冷静沈着に行動し最も合理的な選択をする。佐河の懐刀的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/aa/58460_crt_F8In2.jpg?r=1508165144",
+        "link": "https://bgm.tv/character/58460",
+        "categorie": "person"
+      },
+      {
+        "id": "61168",
+        "label": "间岛洋介",
+        "info": "間島翔子的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/27/61168_crt_X3P3b.jpg",
+        "link": "https://bgm.tv/character/61168",
+        "categorie": "person"
+      },
+      {
+        "id": "62142",
+        "label": "玛利亚",
+        "info": "止界创始人，天生体内存在灵回忍的女性，拥有不老的身躯，年龄不详。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/fd/62142_crt_aC5Nf.jpg",
+        "link": "https://bgm.tv/character/62142",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

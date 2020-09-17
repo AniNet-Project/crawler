@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45246",
+        "label": "清水美紗子",
+        "info": "主人公・荒浜の会社の同僚。年齢は荒浜と同年代（25） くらい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/ab/45246_crt_NVIV7.jpg",
+        "link": "https://bgm.tv/character/45246",
+        "categorie": "person"
+      },
+      {
+        "id": "45247",
+        "label": "柳涼子",
+        "info": "荒浜の家の近くにある喫茶店を経営している女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/75/45247_crt_Urlme.jpg",
+        "link": "https://bgm.tv/character/45247",
+        "categorie": "person"
+      },
+      {
+        "id": "45248",
+        "label": "星野小鳥",
+        "info": "市内の学園に通う女子学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/71/45248_crt_z3fJz.jpg",
+        "link": "https://bgm.tv/character/45248",
+        "categorie": "person"
+      },
+      {
+        "id": "45249",
+        "label": "遠藤真貴子",
+        "info": "有名な企業の会社社長。年齢は三十代中頃、熟女一歩手前くらい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/39/45249_crt_In7nQ.jpg",
+        "link": "https://bgm.tv/character/45249",
+        "categorie": "person"
+      },
+      {
+        "id": "45250",
+        "label": "神島藍那",
+        "info": "学園では生真面目な生徒会長として通っているが、本人はそのレッテルを嬉しく思っていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/86/45250_crt_WXoxi.jpg",
+        "link": "https://bgm.tv/character/45250",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

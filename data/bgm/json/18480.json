@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3320",
+        "label": "黑崎一护",
+        "info": "本作の主人公。虚（ホロウ）に襲われた際にルキアから死神の力を譲り受け、以降彼女の代わりに死神の仕事をこなす。白哉に死神の力を消された後は、浦原との修行で自分自身の中にあった死神の力を手に入れた。オレンジ髪（地毛）に茶色の瞳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/56/3320_crt_zMFuH.jpg",
+        "link": "https://bgm.tv/character/3320",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

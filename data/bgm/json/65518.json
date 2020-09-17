@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35343",
+        "label": "新堂巧",
+        "info": "新堂巧(しんどう たくみ)",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/b5/35343_crt_QsN26.jpg",
+        "link": "https://bgm.tv/character/35343",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

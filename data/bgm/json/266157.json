@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70827",
+        "label": "龙宫院圣哉",
+        "info": "新米女神のリスタルテに召喚された、ありえないほど慎重な勇者。能力値は高いが、異常なまでに用心深い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/81/70827_crt_m4eeq.jpg?r=1570800407",
+        "link": "https://bgm.tv/character/70827",
+        "categorie": "person"
+      },
+      {
+        "id": "70828",
+        "label": "莉丝妲黛",
+        "info": "治癒の能力を持った新米の女神。難度Sの世界・ゲアブランデを救うべく聖哉を召喚したが、聖哉の異常なほど慎重な性格に、いつも振り回されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/d1/70828_crt_QJ7fF.jpg?r=1570796998",
+        "link": "https://bgm.tv/character/70828",
+        "categorie": "person"
+      },
+      {
+        "id": "71941",
+        "label": "马修",
+        "info": "竜族の血を引く戦士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/77/71941_crt_Xxs25.jpg",
+        "link": "https://bgm.tv/character/71941",
+        "categorie": "person"
+      },
+      {
+        "id": "71942",
+        "label": "艾鲁鲁",
+        "info": "マッシュと幼なじみの竜族の血を引く魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/07/71942_crt_HMoTX.jpg?r=1575693454",
+        "link": "https://bgm.tv/character/71942",
+        "categorie": "person"
+      },
+      {
+        "id": "71943",
+        "label": "阿丽雅朵亚",
+        "info": "封印の能力を持ったリスタルテの先輩女神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/92/71943_crt_Np8Td.jpg?r=1575693489",
+        "link": "https://bgm.tv/character/71943",
+        "categorie": "person"
+      },
+      {
+        "id": "57320",
+        "label": "赛尔瑟乌斯",
+        "info": "筋骨隆々の剣神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/21/57320_crt_KgGJI.jpg",
+        "link": "https://bgm.tv/character/57320",
+        "categorie": "person"
+      },
+      {
+        "id": "72946",
+        "label": "阿黛妮拉",
+        "info": "軍神。剣技はセルセウスを上回る。特技は連撃剣。いつもボロボロの服と髪で、とても女神には見えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/52/72946_crt_5cbN7.jpg?r=1575693326",
+        "link": "https://bgm.tv/character/72946",
+        "categorie": "person"
+      },
+      {
+        "id": "74205",
+        "label": "沃尔克斯·罗兹加尔多",
+        "info": "戦帝と呼ばれる『ゲアブランデ』の最強騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/0b/74205_crt_3VV8l.jpg?r=1577187856",
+        "link": "https://bgm.tv/character/74205",
+        "categorie": "person"
+      },
+      {
+        "id": "74204",
+        "label": "罗莎莉·罗兹加尔多",
+        "info": "戦帝の娘で、ロズガルド騎士団の守備隊長。偉大な父親を尊敬しており、慎重すぎる聖哉が勇者であることに不満を持つ。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/74204",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

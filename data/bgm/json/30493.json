@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17883",
+        "label": "塞西尔·冯·吉伦",
+        "info": "セシル・フォン・ギーレン。双子の妹。帝国騎士の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/88/17883_crt_kE11e.jpg?r=1482459175",
+        "link": "https://bgm.tv/character/17883",
+        "categorie": "person"
+      },
+      {
+        "id": "49551",
+        "label": "萨拉·斯科毕奥",
+        "info": "本作の主人公。帝国騎士の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/97/49551_crt_w9mQB.jpg?r=1581619887",
+        "link": "https://bgm.tv/character/49551",
+        "categorie": "person"
+      },
+      {
+        "id": "49553",
+        "label": "カリン・フォン・ギーレン",
+        "info": "ギーレン男爵家の当主。双子姉妹の姉。帝国騎士の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/1f/49553_crt_xll8b.jpg",
+        "link": "https://bgm.tv/character/49553",
+        "categorie": "person"
+      },
+      {
+        "id": "49552",
+        "label": "シリア・フォン・ベルンシュタイン",
+        "info": "ウェールズ諸侯同盟の英雄、白銀のシリアと恐れられる女騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/b6/49552_crt_O9gMK.jpg",
+        "link": "https://bgm.tv/character/49552",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56822",
+        "label": "pop子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/1f/56822_crt_ydDQ9.jpg",
+        "link": "https://bgm.tv/character/56822",
+        "categorie": "person"
+      },
+      {
+        "id": "56823",
+        "label": "pipi美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/c1/56823_crt_0dAB0.jpg",
+        "link": "https://bgm.tv/character/56823",
+        "categorie": "person"
+      },
+      {
+        "id": "61991",
+        "label": "苍井翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/7e/61991_crt_uTW7f.jpg?r=1570353390",
+        "link": "https://bgm.tv/character/61991",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

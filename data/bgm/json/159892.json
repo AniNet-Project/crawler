@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19639",
+        "label": "A型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f0/19639_crt_KKpB7.jpg",
+        "link": "https://bgm.tv/character/19639",
+        "categorie": "person"
+      },
+      {
+        "id": "19640",
+        "label": "B型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/46/19640_crt_66ju2.jpg",
+        "link": "https://bgm.tv/character/19640",
+        "categorie": "person"
+      },
+      {
+        "id": "19641",
+        "label": "O型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/04/19641_crt_Y11Mt.jpg",
+        "link": "https://bgm.tv/character/19641",
+        "categorie": "person"
+      },
+      {
+        "id": "19642",
+        "label": "AB型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/9d/19642_crt_HE8e8.jpg",
+        "link": "https://bgm.tv/character/19642",
+        "categorie": "person"
+      },
+      {
+        "id": "28403",
+        "label": "A型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/0f/28403_crt_mB13t.jpg",
+        "link": "https://bgm.tv/character/28403",
+        "categorie": "person"
+      },
+      {
+        "id": "28404",
+        "label": "B型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/3b/28404_crt_aSRNd.jpg",
+        "link": "https://bgm.tv/character/28404",
+        "categorie": "person"
+      },
+      {
+        "id": "28405",
+        "label": "O型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/ad/28405_crt_TMgNo.jpg",
+        "link": "https://bgm.tv/character/28405",
+        "categorie": "person"
+      },
+      {
+        "id": "28406",
+        "label": "AB型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/8c/28406_crt_MA6l6.jpg",
+        "link": "https://bgm.tv/character/28406",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

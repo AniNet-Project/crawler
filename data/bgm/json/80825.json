@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39432",
+        "label": "白鸟深琴",
+        "info": "本作のメインヒロイン 兼 主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/c9/39432_crt_fDc9f.jpg?r=1501799758",
+        "link": "https://bgm.tv/character/39432",
+        "categorie": "person"
+      },
+      {
+        "id": "39438",
+        "label": "白鸟武",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/2c/39438_crt_qe2Ru.jpg?r=1501949032",
+        "link": "https://bgm.tv/character/39438",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

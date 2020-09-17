@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34567",
+        "label": "宫间有",
+        "info": "音羽女子高中的学生，大岛千鹤中学时代的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/90/34567_crt_0Jgz3.jpg",
+        "link": "https://bgm.tv/character/34567",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

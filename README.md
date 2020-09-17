@@ -28,5 +28,5 @@ $ python bgm.py $(seq 1 100 | tr '\n' ',') --workers 10
 
 ### 数据
 
-前 100 页作品的 json 文件位于 [`./data/json`](./data/json) 目录下，
-作品名与 id 对应关系见[此文件](./data/bgm.json)。
+前 200 页作品的 json 文件位于 [`./data/bgm/json`](./data/bgm/json) 目录下，
+作品名与 id 对应关系见[此文件](./data/bgm/index.json)。

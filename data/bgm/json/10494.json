@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10450",
+        "label": "小颜",
+        "info": "作品的主人公，是个拥有世上数一数二的暴力美貌的天然呆(咦？)少女，日本之宝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/97/10450_crt_6nTg7.jpg",
+        "link": "https://bgm.tv/character/10450",
+        "categorie": "person"
+      },
+      {
+        "id": "10448",
+        "label": "苍夜薰",
+        "info": "拥有“漆黑的堕天使与白银的堕天使之间诞生的金色堕天使”这样华丽的中二病设定的转学生，对数学一窍不通，然而很擅长唱歌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/04/10448_crt_ILO30.jpg",
+        "link": "https://bgm.tv/character/10448",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

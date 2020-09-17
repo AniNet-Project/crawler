@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67584",
+        "label": "雪白七七子",
+        "info": "本作の主人公。柄井高校の1年生で、部活動は文芸部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/26/67584_crt_zitNT.jpg?r=1555251724",
+        "link": "https://bgm.tv/character/67584",
+        "categorie": "person"
+      },
+      {
+        "id": "67585",
+        "label": "毒岛英二",
+        "info": "柄井高校の1年生で、七々子の同級生。部活動は文芸部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/0d/67585_crt_0JvaG.jpg?r=1547428576",
+        "link": "https://bgm.tv/character/67585",
+        "categorie": "person"
+      },
+      {
+        "id": "67599",
+        "label": "片桐天音",
+        "info": "柄井高校の2年生で、文芸部の部長。「北金まりあ」のペンネームで小説家としても活動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6d/67599_crt_a48IA.jpg?r=1547428617",
+        "link": "https://bgm.tv/character/67599",
+        "categorie": "person"
+      },
+      {
+        "id": "67601",
+        "label": "大月琴",
+        "info": "柄井高校の3年生で、エイジの幼馴染。エイジの姉貴分であり、彼からは「琴姉」と呼ばれる。部活動はアメリカ陸軍格闘術部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/dc/67601_crt_6zgSS.jpg?r=1547428637",
+        "link": "https://bgm.tv/character/67601",
+        "categorie": "person"
+      },
+      {
+        "id": "68320",
+        "label": "矢工部纪",
+        "info": "柄井高校の1年生。美術部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/73/68320_crt_wdgGW.jpg?r=1547429052",
+        "link": "https://bgm.tv/character/68320",
+        "categorie": "person"
+      },
+      {
+        "id": "68321",
+        "label": "花买道",
+        "info": "柄井高校の1年生。占い部（同好会）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/35/68321_crt_VtsV7.jpg?r=1547429027",
+        "link": "https://bgm.tv/character/68321",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

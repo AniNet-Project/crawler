@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13277",
+        "label": "蛮吉",
+        "info": "没心没肺的热血少年，他的身世是一个谜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c6/13277_crt_61c41.jpg",
+        "link": "https://bgm.tv/character/13277",
+        "categorie": "person"
+      },
+      {
+        "id": "13278",
+        "label": "蛮大人",
+        "info": "中二有志青年，理想主义者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/c9/13278_crt_0hQqJ.jpg",
+        "link": "https://bgm.tv/character/13278",
+        "categorie": "person"
+      },
+      {
+        "id": "14490",
+        "label": "镜心",
+        "info": "镜心是一名天神，而天神的社会是一个绝对理性统治的社会。在那里，个体知识、能力和责任高度统一、有能力的人才能掌握高深的知识，而掌握高深的知识就必然意味着对社会的负责和回报。在魁拔复活，威胁宇宙之际，镜心从魁拔司（一个专门处理魁拔问题的组织）考试中脱颖而出，成了掌握天神绝密武器的魁拔司成员。她独自携带能够摧毁魁拔的武器来到地界，准备消除这个恶魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/2a/14490_crt_pOg6p.jpg?r=1402240880",
+        "link": "https://bgm.tv/character/14490",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

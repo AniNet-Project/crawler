@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43018",
+        "label": "阿基拉/宫下阿姬",
+        "info": "口数が少なく地味な性格で、目立つことが苦手。趣味や夢中になれることがない、イマドキな女の子。目つきが悪く、眠そうに見えることを気にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/48/43018_crt_879y5.jpg",
+        "link": "https://bgm.tv/character/43018",
+        "categorie": "person"
+      },
+      {
+        "id": "43019",
+        "label": "米克拉斯/牛丸咪库",
+        "info": "超健康優良児。生まれてこの方、風邪もひいたことがない。考えるより先に体が動いてしまう、いわゆる脳筋。怪獣娘同士の格闘スポーツ「大怪獣ファイト」のファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/2d/43019_crt_9c9se.jpg",
+        "link": "https://bgm.tv/character/43019",
+        "categorie": "person"
+      },
+      {
+        "id": "43020",
+        "label": "乌英达姆/白银玲华",
+        "info": "何事にも真面目で、知的好奇心が強い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/14/43020_crt_lR1FL.jpg",
+        "link": "https://bgm.tv/character/43020",
+        "categorie": "person"
+      },
+      {
+        "id": "43647",
+        "label": "皮古蒙/冈田伴美",
+        "info": "GIRLSの指導係であると同時にアイドル的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/71/43647_crt_J0Wjw.jpg",
+        "link": "https://bgm.tv/character/43647",
+        "categorie": "person"
+      },
+      {
+        "id": "43648",
+        "label": "杰顿",
+        "info": "「大怪獣ファイト」絶対王者にして、GIRLS最強の怪獣娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d4/43648_crt_AMzNJ.jpg",
+        "link": "https://bgm.tv/character/43648",
+        "categorie": "person"
+      },
+      {
+        "id": "43649",
+        "label": "雷德王/歌川红音",
+        "info": "「大怪獣ファイト」の実力派選手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/24/43649_crt_GZdZN.jpg",
+        "link": "https://bgm.tv/character/43649",
+        "categorie": "person"
+      },
+      {
+        "id": "43650",
+        "label": "艾雷王/湖上兰",
+        "info": "アギラたちの先輩にあたる怪獣娘のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/93/43650_crt_i8D8w.jpg",
+        "link": "https://bgm.tv/character/43650",
+        "categorie": "person"
+      },
+      {
+        "id": "43651",
+        "label": "哥莫拉/黑田三日月",
+        "info": "「大怪獣ファイト」界でいま注目の若手ホープ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/5f/43651_crt_PbmLL.jpg",
+        "link": "https://bgm.tv/character/43651",
+        "categorie": "person"
+      },
+      {
+        "id": "43652",
+        "label": "赞德利亚斯/道理美智子",
+        "info": "GIRLSに所属していない、いわば野良の怪獣娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/86/43652_crt_In9aE.jpg",
+        "link": "https://bgm.tv/character/43652",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

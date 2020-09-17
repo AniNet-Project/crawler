@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66886",
+        "label": "上野",
+        "info": "科学部部長。中学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d5/66886_crt_OUM9T.jpg",
+        "link": "https://bgm.tv/character/66886",
+        "categorie": "person"
+      },
+      {
+        "id": "66885",
+        "label": "田中",
+        "info": "科学部部員。中学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/fb/66885_crt_nZ1xo.jpg",
+        "link": "https://bgm.tv/character/66885",
+        "categorie": "person"
+      },
+      {
+        "id": "66887",
+        "label": "山下",
+        "info": "科学部部員。中学1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/9b/66887_crt_2jbpf.jpg",
+        "link": "https://bgm.tv/character/66887",
+        "categorie": "person"
+      },
+      {
+        "id": "32656",
+        "label": "田中水菜",
+        "info": "田中の妹で、双子の姉中学一年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ca/32656_crt_N12X1.jpg",
+        "link": "https://bgm.tv/character/32656",
+        "categorie": "person"
+      },
+      {
+        "id": "32657",
+        "label": "田中蓬",
+        "info": "田中の妹で、双子の妹中学1年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/a6/32657_crt_hkJ3d.jpg",
+        "link": "https://bgm.tv/character/32657",
+        "categorie": "person"
+      },
+      {
+        "id": "32658",
+        "label": "タモン",
+        "info": "発明品”サモンスタット”により顕現したマスコット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/49/32658_crt_D9rBd.jpg",
+        "link": "https://bgm.tv/character/32658",
+        "categorie": "person"
+      },
+      {
+        "id": "68198",
+        "label": "北长",
+        "info": "水泳部部長。中学３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/57/68198_crt_ZZtfy.jpg",
+        "link": "https://bgm.tv/character/68198",
+        "categorie": "person"
+      },
+      {
+        "id": "68199",
+        "label": "西原",
+        "info": "陸上部部長。中学３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/5f/68199_crt_58E72.jpg",
+        "link": "https://bgm.tv/character/68199",
+        "categorie": "person"
+      },
+      {
+        "id": "68200",
+        "label": "南峰",
+        "info": "テニス部部長。中学３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/4b/68200_crt_9Ub20.jpg",
+        "link": "https://bgm.tv/character/68200",
+        "categorie": "person"
+      },
+      {
+        "id": "68201",
+        "label": "东川",
+        "info": "新体操部部長。中学３年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/d8/68201_crt_34Wm3.jpg",
+        "link": "https://bgm.tv/character/68201",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

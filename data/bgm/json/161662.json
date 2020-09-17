@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28650",
+        "label": "高社紗雪",
+        "info": "まじめでお淑やかな同級生。 実家は街で有名な高社神社。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/7e/28650_crt_F7iV9.jpg",
+        "link": "https://bgm.tv/character/28650",
+        "categorie": "person"
+      },
+      {
+        "id": "28651",
+        "label": "上林聖",
+        "info": "主人公の祖父母が管理している寮の一室に住んでいる同居人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/4d/28651_crt_8Jnix.jpg",
+        "link": "https://bgm.tv/character/28651",
+        "categorie": "person"
+      },
+      {
+        "id": "28652",
+        "label": "星川こはる",
+        "info": "後輩の女の子で、温泉街の甘味処 『こはるびより』 の看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/77/28652_crt_tcsB7.jpg",
+        "link": "https://bgm.tv/character/28652",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

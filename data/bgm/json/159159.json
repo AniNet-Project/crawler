@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40021",
+        "label": "冰鹰北斗",
+        "info": "冷静沈着、努力家で完璧主義。自分のペースを乱されることを嫌う。神経質なところもあるが普段は仲間思い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/51/40021_crt_0vvvW.jpg?r=1563289241",
+        "link": "https://bgm.tv/character/40021",
+        "categorie": "person"
+      },
+      {
+        "id": "40022",
+        "label": "明星昴流",
+        "info": "楽天的なムードメーカー、何でもプラス思考の頑張り屋でいつも動き回っていて、落ち着かない。お金が好き（いやしい意味ではなく、キラキラしたものが好きで額に頓着はなく小銭が好き）",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/2b/40022_crt_8Q22H.jpg?r=1563882346",
+        "link": "https://bgm.tv/character/40022",
+        "categorie": "person"
+      },
+      {
+        "id": "40023",
+        "label": "游木真",
+        "info": "元気なムードメイカーを装っているが、実は口下手。女の子とふたりきりで話すのも苦手。本人は口下手を克服しようと、積極的に努力を心がけアイドルを目指している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/16/40023_crt_k7ktm.jpg?r=1564508992",
+        "link": "https://bgm.tv/character/40023",
+        "categorie": "person"
+      },
+      {
+        "id": "40024",
+        "label": "衣更真绪",
+        "info": "文句を言いつつも手助けしてくれる、世話焼きのしっかり者。生徒会役員（会計）でありながら、生徒会に対抗するユニット『Trickstar』に所属。やっかい事には首をつっこみたくないと思っているが、巻き込まれる体質で苦労している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/27/40024_crt_vTT9G.jpg?r=1492277233",
+        "link": "https://bgm.tv/character/40024",
+        "categorie": "person"
+      },
+      {
+        "id": "70632",
+        "label": "杏",
+        "info": "プレイヤー。「私立夢ノ咲学院」唯一の女子生徒。プロデューサー科所属の2年生。プロデュース科の在籍者は「転校生」のみなので、授業や教室はアイドル科2年A組と合同となる。ゲーム好きな弟がいる様子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/84/70632_crt_9Didh.jpg?r=1562634651",
+        "link": "https://bgm.tv/character/70632",
+        "categorie": "person"
+      },
+      {
+        "id": "40058",
+        "label": "天祥院英智",
+        "info": "微笑みをたやさない学院の最高権力者、生徒会長。病弱で長期入院していた。家は大財閥で芸能界にも影響力をもっている。同じクラスで副会長の蓮巳 敬人とは、家同士で仲が良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/e5/40058_crt_0u6ze.jpg?r=1492276131",
+        "link": "https://bgm.tv/character/40058",
+        "categorie": "person"
+      },
+      {
+        "id": "40059",
+        "label": "日日树涉",
+        "info": "気まぐれでつかみ所のない、独特の世界を持っている。『三奇人』のひとり。話し言葉や動きが常に芝居がかっており、演劇部員は彼の突飛な行動の餌食になっている。よく仮面をつけているせいで、部員から『変態仮面』と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/6c/40059_crt_d01p8.jpg?r=1492278038",
+        "link": "https://bgm.tv/character/40059",
+        "categorie": "person"
+      },
+      {
+        "id": "40056",
+        "label": "姬宫桃李",
+        "info": "天使のような外見とは裏腹に、中身は小悪魔な金持ちの子息。自身の外見の魅力を最大限に活用する術を心得ている。権力を愛し、脚光を浴びるのが好き。生徒会役員（書記）で、生徒会長の天祥院 英智を熱烈に慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/8e/40056_crt_YGh39.jpg?r=1492271894",
+        "link": "https://bgm.tv/character/40056",
+        "categorie": "person"
+      },
+      {
+        "id": "40057",
+        "label": "伏见弓弦",
+        "info": "礼儀正しい、にこやかな青年。一年生の姫宮 桃李の有能な使用人だが、桃李の我が儘にいつも振り回されて嘆いている。桃李のお目付役もかねて、姫宮家の援助で学院に入学。生徒会役員ではないが、桃李の付き添いでよく手伝いをしており、副会長の蓮巳 敬人からは桃李より能力を買われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/de/40057_crt_4Z4Qq.jpg?r=1492276648",
+        "link": "https://bgm.tv/character/40057",
+        "categorie": "person"
+      },
+      {
+        "id": "42147",
+        "label": "莲巳敬人",
+        "info": "冷静沈着で生真面目な性格。生徒会の副会長として、幼馴染みでもある天祥院英智を支えている。ルールには厳しく、長い説教をするのが趣味。生徒会とはあまりそりが合わないユニット『UNDEAD』の朔間零とは昔からの友人。ユニット『紅月』に所属し、リーダーを務めている。同期生の鬼龍紅郎と、後輩の神崎颯馬と共に足並みを揃えて堅実なパフォーマンスで学院No.2の座を守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/1a/42147_crt_SRki7.jpg?r=1492276322",
+        "link": "https://bgm.tv/character/42147",
+        "categorie": "person"
+      },
+      {
+        "id": "42146",
+        "label": "鬼龙红郎",
+        "info": "真面目で義理堅く、面倒見がいい。中学生のころは荒れていたが、当時唯一大切に思っていた妹がきっかけで夢ノ咲学院に入学している。空手部では後輩の南雲鉄虎に『大将』と呼び慕われている。裁縫が得意で、数々のユニットの衣装の制作も手がけている。ユニット『紅月』に所属。生徒会との二足のわらじで忙しい蓮巳敬人を気にかけつつ、後輩の神崎颯馬の面倒も見ながらユニットをしっかりと支えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/7a/42146_crt_opi1L.jpg?r=1492277897",
+        "link": "https://bgm.tv/character/42146",
+        "categorie": "person"
+      },
+      {
+        "id": "42145",
+        "label": "神崎飒马",
+        "info": "真面目で真っ直ぐな性格。短絡的なところがあり、ミスを犯すと切腹で詫びようとしてしまう。海洋生物部の部長、深海奏汰を尊敬しているが、先輩部員の羽風薫とはそりが合わない。クラスメイトの乙狩アドニスと仲良く、行動を共にしていることが多い。ユニット『紅月』に所属。先輩である蓮巳敬人、鬼龍紅郎のふたりをとても尊敬しており、ふたりの支えになれるよう日々鍛錬に明け暮れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/3c/42145_crt_KkNKY.jpg?r=1492274798",
+        "link": "https://bgm.tv/character/42145",
+        "categorie": "person"
+      },
+      {
+        "id": "38295",
+        "label": "朔间零",
+        "info": "ーー早朝や日の光に照らされるとダウンしてしまう、自称『吸血鬼』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/0b/38295_crt_OoTJp.jpg",
+        "link": "https://bgm.tv/character/38295",
+        "categorie": "person"
+      },
+      {
+        "id": "38313",
+        "label": "羽风薰",
+        "info": "ーー口調も性格ものんびりと優しいフェミニスト。女の子が好きで、目の前にいると口説かずにはいられない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/16/38313_crt_M2e2B.jpg",
+        "link": "https://bgm.tv/character/38313",
+        "categorie": "person"
+      },
+      {
+        "id": "38309",
+        "label": "大神晃牙",
+        "info": "ーー豪快な性格で野性的。自信家で自分が一番だと思っている。自称『狼』で、どんな人間にも噛み付いた態度をとる。鼻が利くため、強烈な匂いのするものは苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/4b/38309_crt_WoP2a.jpg",
+        "link": "https://bgm.tv/character/38309",
+        "categorie": "person"
+      },
+      {
+        "id": "38310",
+        "label": "乙狩阿多尼斯",
+        "info": "ーー寡黙なハーフの青年、異国出身だが日本語が下手なわけではない。父親が外国人、母親が日本人。寡黙なので、不機嫌で怖い印象を与えているが本人にそんなつもりはない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/82/38310_crt_Q1VWV.jpg",
+        "link": "https://bgm.tv/character/38310",
+        "categorie": "person"
+      },
+      {
+        "id": "40051",
+        "label": "月永雷欧",
+        "info": "2年生の春休みから不登校状態。妹と妄想（インスピレーション）を愛し、様々なものから常に刺激を求めているため神出鬼没。作曲を得意とし、自他共に認める音楽の天才。妹の前では騎士として振る舞っているため、妹は兄の本質を知らない。ユニット『Knights』に所属し、リーダーを務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/bd/40051_crt_clzu8.jpg?r=1492278288",
+        "link": "https://bgm.tv/character/40051",
+        "categorie": "person"
+      },
+      {
+        "id": "40050",
+        "label": "濑名泉",
+        "info": "素直ではなく、口が悪い。態度が大きく、自信満々で飄々としている。誰にでも会うたびに憎まれ口を叩く。気性の激しい猫のよう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/02/40050_crt_UDvvX.jpg",
+        "link": "https://bgm.tv/character/40050",
+        "categorie": "person"
+      },
+      {
+        "id": "40048",
+        "label": "朔间凛月",
+        "info": "いつも眠たげ、気怠げに話す。夜行性で眠るのが好き、ところかまわず眠っている。授業中の居眠りや遅刻が多すぎるせいで留年したが、本人は気にしていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/2c/40048_crt_ZIhQC.jpg?r=1492275850",
+        "link": "https://bgm.tv/character/40048",
+        "categorie": "person"
+      },
+      {
+        "id": "40049",
+        "label": "鸣上岚",
+        "info": "気さくで明るいオネェ口調の青年。主人公に対しては『お姉ちゃん』として可愛がっている。『なんでもほどほど』が信条。器用で、あらゆる分野に手を出すものの、本気で取り組まない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/0f/40049_crt_WxCO7.jpg",
+        "link": "https://bgm.tv/character/40049",
+        "categorie": "person"
+      },
+      {
+        "id": "40047",
+        "label": "朱樱司",
+        "info": "真面目で落ち着いており、年齢よりも大人びた受け答えをする。慇懃無礼（本人は自覚なし）なお坊ちゃま。家訓を重んじ、一生懸命で向上心があるが、世間一般とすこしズレている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/89/40047_crt_jiy5U.jpg",
+        "link": "https://bgm.tv/character/40047",
+        "categorie": "person"
+      },
+      {
+        "id": "42150",
+        "label": "守泽千秋",
+        "info": "喜欢被依靠，想承担所有事情。胸襟宽广，即使天气闷热也充满干劲的前辈。身体接触也比较激烈，憧憬特摄片中的英雄形象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/08/42150_crt_n1xGN.jpg?r=1492277463",
+        "link": "https://bgm.tv/character/42150",
+        "categorie": "person"
+      },
+      {
+        "id": "42184",
+        "label": "深海奏汰",
+        "info": "おっとりとしていて、マイペースで仲間思い。海を誰よりも愛しているが、金槌で泳ぐことはできない。肌が乾燥して息苦しいという理由で、学院敷地内の噴水で水浴びする姿をよく目撃されている。『三奇人』のひとりで元『五奇人』のひとりでもある。海洋生物部の部長を務めており、部室で飼育しているすべての海洋生物の管理もしている。ユニット『流星隊』の流星ブルーを担当。猪突猛進なリーダーの守沢千秋と振り回されているメンバーをあたたかく見守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/09/42184_crt_xhDwZ.jpg?r=1492277629",
+        "link": "https://bgm.tv/character/42184",
+        "categorie": "person"
+      },
+      {
+        "id": "42183",
+        "label": "南云铁虎",
+        "info": "——踏实认真、在一件事上专心致志，不会分心。虽然非常努力，却总是无功而返，笨手笨脚，做不了细活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/94/42183_crt_odenu.jpg?r=1492270656",
+        "link": "https://bgm.tv/character/42183",
+        "categorie": "person"
+      },
+      {
+        "id": "42151",
+        "label": "高峯翠",
+        "info": "年级中最高的人。明明颜值和体格都占尽优势，但不自信，有些胆怯。有时会无意地失言或者抱怨。不擅长用敬语。因为学校离家近而入学。家庭地址是学校附近商店街里的一家蔬菜店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/23/42151_crt_M344R.jpg?r=1492271671",
+        "link": "https://bgm.tv/character/42151",
+        "categorie": "person"
+      },
+      {
+        "id": "42185",
+        "label": "仙石忍",
+        "info": "有点中二，很憧憬忍者，一个人撑起忍者同好会，日夜埋头修行。虽然积极向上，但由于性格单纯容易上当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b5/42185_crt_s77s7.jpg?r=1492272008",
+        "link": "https://bgm.tv/character/42185",
+        "categorie": "person"
+      },
+      {
+        "id": "40055",
+        "label": "仁兔成鸣",
+        "info": "普段の性格は、元気で明るく人懐っこいが『子供っぽい』扱いや『可愛い』といわれることを嫌っている。後輩に『に～ちゃん』と呼ばせたり、気遣うなどと年上としての意識が高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/09/40055_crt_EHhgr.jpg?r=1492277793",
+        "link": "https://bgm.tv/character/40055",
+        "categorie": "person"
+      },
+      {
+        "id": "40054",
+        "label": "天满光",
+        "info": "明るく元気、能天気で鈍感。よく笑っている。何も考えていないお馬鹿さん。よく話を聞いていないが、嫌味をも聞き流す。難しい言葉が苦手。運動神経のよさで一年生ながらも、いろんな運動部から助っ人としてひっぱりだこ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/14/40054_crt_x8LyS.jpg?r=1492273332",
+        "link": "https://bgm.tv/character/40054",
+        "categorie": "person"
+      },
+      {
+        "id": "40053",
+        "label": "真白友也",
+        "info": "一般家庭で育った、平凡な感覚をもった少年。押しに弱い。個性的な周囲のせいで自分も変に見られることを嫌っているが、『普通』と思われることも嫌がる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/ce/40053_crt_k48v4.jpg?r=1492271320",
+        "link": "https://bgm.tv/character/40053",
+        "categorie": "person"
+      },
+      {
+        "id": "40052",
+        "label": "紫之创",
+        "info": "所属ユニット『Ra＊bits』のために校内アルバイトをし、洗濯など雑務も引き受ける献身的なタイプ。花の世話が日課、紅茶部でもよくお茶だし係を率先してやる。初対面の人と目を合わせて話すのが苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/37/40052_crt_jfvzF.jpg?r=1492271146",
+        "link": "https://bgm.tv/character/40052",
+        "categorie": "person"
+      },
+      {
+        "id": "42424",
+        "label": "葵日向",
+        "info": "开朗活泼，元气满满的双胞胎哥哥，总是和弟弟裕太在一起。喜欢恶作剧，偶尔会和裕太交换身份去上课。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/71/42424_crt_00Yz2.jpg?r=1492271466",
+        "link": "https://bgm.tv/character/42424",
+        "categorie": "person"
+      },
+      {
+        "id": "42422",
+        "label": "葵裕太",
+        "info": "喜欢恶作剧的双胞胎弟弟，但性格沉稳。总是和日向一起。很受哥哥日向宠爱，经常被哥哥拿来炫耀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/0a/42422_crt_VpiBN.jpg?r=1492272134",
+        "link": "https://bgm.tv/character/42422",
+        "categorie": "person"
+      },
+      {
+        "id": "42148",
+        "label": "斋宫宗",
+        "info": "聡明ではあるものの、神経質で短気。親しくない人とはかわいがっている人形の「マドモアゼル」を介して話すこともある。元『五奇人』のひとり。手芸が得意で紅郎とは幼馴染み。手芸部の部長で同期生の青葉つむぎと、ユニットの後輩でもある影片みかと衣装制作に勤しんでいる。ユニット『Valkyrie』に所属し、リーダーを務めている。かつて所属していた仁兎なずなとわだかまりを抱えているが、みかとふたりで新たな『Valkyrie』として活動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/bc/42148_crt_0HAzg.jpg?r=1492276780",
+        "link": "https://bgm.tv/character/42148",
+        "categorie": "person"
+      },
+      {
+        "id": "42149",
+        "label": "影片美伽",
+        "info": "人見知りをするが、一度仲良くなれば人懐っこい性格。宗と彼が普段から持っている人形の「マドモアゼル」を敬愛している。金欠のためアルバイトを複数掛け持ちして、ユニットの活動資金や生活費に充てている。クラスメイトの鳴上嵐とは気が合い仲が良い。ユニット『Valkyrie』に所属。宗の側で指示通りに動くことが自分の価値であり生きがいだと考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/70/42149_crt_o5352.jpg?r=1492276030",
+        "link": "https://bgm.tv/character/42149",
+        "categorie": "person"
+      },
+      {
+        "id": "48374",
+        "label": "逆先夏目",
+        "info": "皮肉屋で天邪鬼な性格。不思議な言動で相手を翻弄して楽しんでいる。元『五奇人』のひとりで、『奇人』の先輩たちをとても慕っている。ユニット『Switch』に所属し、リーダーを務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/1b/48374_crt_P28S6.jpg?r=1478892361",
+        "link": "https://bgm.tv/character/48374",
+        "categorie": "person"
+      },
+      {
+        "id": "48375",
+        "label": "青叶纺",
+        "info": "ときどき神経質になるも、普段は穏やかな性格。運勢や占いを気にしており、おまじないをしておくことが日課。図書委員長を務めている。夏目からは度々ひどい扱いを受けている。ユニット『Switch』に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e0/48375_crt_2GLe2.jpg?r=1478892571",
+        "link": "https://bgm.tv/character/48375",
+        "categorie": "person"
+      },
+      {
+        "id": "48376",
+        "label": "春川宙",
+        "info": "明るいがマイペースな性格。感覚で行動するためコミュニケーションがやや不得意。音やにおいに色を感じる共感覚の持ち主。夏目とつむぎを慕っている。ユニット『Switch』に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/2d/48376_crt_oeRww.jpg?r=1478892854",
+        "link": "https://bgm.tv/character/48376",
+        "categorie": "person"
+      },
+      {
+        "id": "53383",
+        "label": "三毛缟斑",
+        "info": "猪突猛進で豪快な性格。助っ人としてあらゆる場所に現れては、すぐにどこかへいってしまう放浪癖がある。笑顔を愛し、「お祭り」あるところどこへでも飛んでいく。学院ではソロユニット、『MaM』として活動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d2/53383_crt_QKJQk.jpg?r=1492277037",
+        "link": "https://bgm.tv/character/53383",
+        "categorie": "person"
+      },
+      {
+        "id": "63775",
+        "label": "乱凪砂",
+        "info": "秀越学園の三年生。あらゆる力を自分のものにすることができる天才。博愛主義者で積極的な行動は取らないが、茨のマネージメントにより 真価を発揮している。ユニット『Adam』、『Eden』に所属し、リーダーを務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/6c/63775_crt_1R4KW.jpg?r=1528180236",
+        "link": "https://bgm.tv/character/63775",
+        "categorie": "person"
+      },
+      {
+        "id": "55728",
+        "label": "巴日和",
+        "info": "「陽光の貴公子」",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/64/55728_crt_Vi5iD.jpg?r=1499420776",
+        "link": "https://bgm.tv/character/55728",
+        "categorie": "person"
+      },
+      {
+        "id": "63778",
+        "label": "七种茨",
+        "info": "秀越学園の二年生。学生実業家。 腰は低いが言いたいことはストレートに伝える性格。学生実業家でマネージメントが得意。ユニット『Adam』および『Eden』に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/da/63778_crt_y0zE9.jpg?r=1528180842",
+        "link": "https://bgm.tv/character/63778",
+        "categorie": "person"
+      },
+      {
+        "id": "55729",
+        "label": "涟纯",
+        "info": "「影の従僕」",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/39/55729_crt_H32X6.jpg?r=1499420741",
+        "link": "https://bgm.tv/character/55729",
+        "categorie": "person"
+      },
+      {
+        "id": "48412",
+        "label": "佐贺美阵",
+        "info": "だらしない保険医",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/5c/48412_crt_nZk9G.jpg?r=1492278228",
+        "link": "https://bgm.tv/character/48412",
+        "categorie": "person"
+      },
+      {
+        "id": "48413",
+        "label": "椚章臣",
+        "info": "生活指導担当教員",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/fa/48413_crt_4y0Y4.jpg?r=1492278246",
+        "link": "https://bgm.tv/character/48413",
+        "categorie": "person"
+      },
+      {
+        "id": "67982",
+        "label": "冰鹰诚矢",
+        "info": "閃光のホークアイ",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/2d/67982_crt_1iqzi.jpg?r=1545796253",
+        "link": "https://bgm.tv/character/67982",
+        "categorie": "person"
+      },
+      {
+        "id": "72951",
+        "label": "天城一彩",
+        "info": "大空切り裂く真っ赤なツバメ",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d8/72951_crt_juzz5.jpg?r=1573275242",
+        "link": "https://bgm.tv/character/72951",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

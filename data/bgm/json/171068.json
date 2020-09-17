@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35241",
+        "label": "中岛敦",
+        "info": "　　本作的主角，个性单纯耿直，但却因为无法控制自身异能而暴走，变成巨虎到处伤人，后来在武装侦探社成员的太宰治帮助下，以“人间失格”能力解除暴走，并且被邀请加入异能侦探社。因为不明的原因，被港口黑手党与海外异能组织Guild追捕中，目前和从港口黑手党脱离的泉镜花同居中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/16/35241_crt_QjBQE.jpg?r=1446950805",
+        "link": "https://bgm.tv/character/35241",
+        "categorie": "person"
+      },
+      {
+        "id": "35238",
+        "label": "太宰治",
+        "info": "　　前港口黑手党成员，现在则是武装异能侦探社成员。与港口黑手党的中原中也过去并称为“双黑”的实力派角色，并且受到现任港口黑手党首领森鸥外的信任。毒舌、讨厌麻烦、总是喊着想要自杀跟美女殉情，看似性格扭曲的烂人，但实际上是个温柔的好人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/25/35238_crt_vs2vv.jpg?r=1446950816",
+        "link": "https://bgm.tv/character/35238",
+        "categorie": "person"
+      },
+      {
+        "id": "35239",
+        "label": "国木田独步",
+        "info": "　　个性认真、喜欢作笔记的侦探社社长左右手，有着一副无论何时看起来都很生气的眼神。原本是在学校教书的数学老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d0/35239_crt_G9b58.jpg?r=1448896185",
+        "link": "https://bgm.tv/character/35239",
+        "categorie": "person"
+      },
+      {
+        "id": "35243",
+        "label": "江户川乱步",
+        "info": "　　穿着披风、戴着侦探帽，个性吊儿郎当的少年，武装异能侦探社中真正负责侦探推理的智能人物，全社除事务员外唯一并非异能者的普通人，但本人很坚持自己是异能者。有一副社长福泽谕吉送他的眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/a4/35243_crt_H2dG1.jpg?r=1448896228",
+        "link": "https://bgm.tv/character/35243",
+        "categorie": "person"
+      },
+      {
+        "id": "35886",
+        "label": "芥川龙之介",
+        "info": "　　港口黑手党的成员，原本是太宰治的弟子，因此对于太宰治脱离港口黑手党一事相当不谅解。性格虽然凶暴，但是很体贴部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/62/35886_crt_h5i39.jpg?r=1446950952",
+        "link": "https://bgm.tv/character/35886",
+        "categorie": "person"
+      },
+      {
+        "id": "35883",
+        "label": "谷崎润一郎",
+        "info": "　　武装异能侦探社成员，与其妹谷崎直美一同，妹妹有着异常的恋兄癖。两人都还是学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/e0/35883_crt_pF6p6.jpg?r=1448896309",
+        "link": "https://bgm.tv/character/35883",
+        "categorie": "person"
+      },
+      {
+        "id": "35240",
+        "label": "宫泽贤治",
+        "info": "　　武装异能侦探社的成员，原本只是一个小村庄的农家子弟，在故事开始前两个月，才刚被社长福泽谕吉请来加入侦探社。个性憨厚，总是戴着草帽穿着农夫的工作服，受到街坊邻居们的喜爱。家训是“如果牛不乖就拿身边的东西打它”",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e4/35240_crt_3413Q.jpg?r=1448896266",
+        "link": "https://bgm.tv/character/35240",
+        "categorie": "person"
+      },
+      {
+        "id": "35242",
+        "label": "与谢野晶子",
+        "info": "　　武装异能侦探社的医生，非常讨厌不尊重生命的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/c3/35242_crt_ttyEi.jpg?r=1450266998",
+        "link": "https://bgm.tv/character/35242",
+        "categorie": "person"
+      },
+      {
+        "id": "35884",
+        "label": "谷崎直美",
+        "info": "　　武装异能侦探社的事务员，有着严重恋兄癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/12/35884_crt_qJ1AL.jpg?r=1450267388",
+        "link": "https://bgm.tv/character/35884",
+        "categorie": "person"
+      },
+      {
+        "id": "35885",
+        "label": "福泽谕吉",
+        "info": "　　武装异能侦探社的社长，与森鸥外的港口黑手党并称横滨的两大组织。在对主角进行入社测验后，同意了主角的加入，但也随即因为海外异能组织Guild、以及港口黑手党对主角的追捕，而卷入一连串麻烦。有着孤剑客“银狼”的别称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/e3/35885_crt_aHa2j.jpg?r=1450267688",
+        "link": "https://bgm.tv/character/35885",
+        "categorie": "person"
+      },
+      {
+        "id": "37393",
+        "label": "梶井基次郎",
+        "info": "　　港口黑手党的成员，在电车中对上武装侦探社的与谢野晶子落败，后来单枪匹马以能力炸毁了海外异能组织Guild停靠在横滨的货船基地。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/c2/37393_crt_qJXzJ.jpg?r=1450965208",
+        "link": "https://bgm.tv/character/37393",
+        "categorie": "person"
+      },
+      {
+        "id": "37394",
+        "label": "樋口一叶",
+        "info": "　　港口黑手党的成员，芥川龙之介的部下，相当忠于组织与芥川龙之介，总是身着一身西装的女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/6e/37394_crt_4XB98.jpg?r=1450965230",
+        "link": "https://bgm.tv/character/37394",
+        "categorie": "person"
+      },
+      {
+        "id": "35888",
+        "label": "泉镜花",
+        "info": "　　前港口黑手党成员，现在加入武装侦探社，总是身着和服的娇小少女，个性善良、并不喜欢杀生，但因能力的缘故总是不由自主。奉命暗杀主角失败后，被带回武装侦探社保护起来，与主角同居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/9d/35888_crt_n3chV.jpg?r=1454497818",
+        "link": "https://bgm.tv/character/35888",
+        "categorie": "person"
+      },
+      {
+        "id": "35887",
+        "label": "中原中也",
+        "info": "　　黑手党成员，过去在太宰治还没脱离黑手党之前的搭档，两人的组合被世人称为“双黑”，极其恶劣。虽然是搭档，但是跟太宰治的关系一直很不好。在海外组织Guild攻入横滨后，与太宰治再度合作出击，救出被敌方利用了的诅咒能力者“Q”(梦野久作)，并且击破史坦贝克、以及洛夫克拉夫特两人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/b8/35887_crt_22Nw2.jpg?r=1450971369",
+        "link": "https://bgm.tv/character/35887",
+        "categorie": "person"
+      },
+      {
+        "id": "41007",
+        "label": "广津柳浪",
+        "info": "武闘派組織「黒蜥蜴」百人長。黒いコートに色の薄いストールを巻き、片眼鏡を身に着けている50歳の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/c2/41007_crt_1Z3Bh.jpg?r=1475756223",
+        "link": "https://bgm.tv/character/41007",
+        "categorie": "person"
+      },
+      {
+        "id": "41009",
+        "label": "银",
+        "info": "黑手党武斗组织“黑蜥蜴”十人长。沉着无口，与另一十人长立原道造不睦。惯用武器是细长的双匕首。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ae/41009_crt_aj8Pz.jpg",
+        "link": "https://bgm.tv/character/41009",
+        "categorie": "person"
+      },
+      {
+        "id": "42831",
+        "label": "森鸥外",
+        "info": "能力名：Vita Sexualis(ヰタ・セクスアリス)",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/f7/42831_crt_Dg999.jpg?r=1467716978",
+        "link": "https://bgm.tv/character/42831",
+        "categorie": "person"
+      },
+      {
+        "id": "42832",
+        "label": "爱丽丝",
+        "info": "鷗外と共に過ごす、金髪で可愛らしい幼女。鷗外のことを「リンタロウ」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/49/42832_crt_v99SJ.jpg?r=1466656067",
+        "link": "https://bgm.tv/character/42832",
+        "categorie": "person"
+      },
+      {
+        "id": "47226",
+        "label": "织田作之助",
+        "info": "ポートマフィアの最下級構成員。太宰も一目置く凄腕ながら「何があろうと人を殺さない」という信条を持ち、組織の「何でも屋」的な存在に甘んじている奇特な男。抗争で親を失った孤児を養っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/cb/47226_crt_8O5ir.jpg?r=1475753053",
+        "link": "https://bgm.tv/character/47226",
+        "categorie": "person"
+      },
+      {
+        "id": "47228",
+        "label": "坂口安吾",
+        "info": "ポートマフィアの秘密情報員。丸眼鏡を掛けたインテリな風貌だが、その頭の中には黄金よりも貴重なポート・マフィア内部情報が詰まっており、どんな拷問にも耐えうる強靭さを持つと推測される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/fd/47228_crt_ocXA5.jpg?r=1475752893",
+        "link": "https://bgm.tv/character/47228",
+        "categorie": "person"
+      },
+      {
+        "id": "26959",
+        "label": "尾崎红叶",
+        "info": "能力名；金色夜叉",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/95/26959_crt_7B7Fw.jpg?r=1478287346",
+        "link": "https://bgm.tv/character/26959",
+        "categorie": "person"
+      },
+      {
+        "id": "42331",
+        "label": "弗朗西斯·菲茨杰拉德",
+        "info": "能力名：了不起的菲茨杰拉德",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/53/42331_crt_5GMm9.jpg?r=1467718527",
+        "link": "https://bgm.tv/character/42331",
+        "categorie": "person"
+      },
+      {
+        "id": "42780",
+        "label": "露西·莫德·蒙哥马利",
+        "info": "能力名：深渊的红发安妮",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/51/42780_crt_rUEk1.jpg?r=1467719951",
+        "link": "https://bgm.tv/character/42780",
+        "categorie": "person"
+      },
+      {
+        "id": "45581",
+        "label": "玛格丽特·芒内尔林·米切尔",
+        "info": "能力名：飘",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/c6/45581_crt_k2FSF.jpg?r=1478287013",
+        "link": "https://bgm.tv/character/45581",
+        "categorie": "person"
+      },
+      {
+        "id": "45583",
+        "label": "纳撒尼尔·霍桑",
+        "info": "能力名：红字",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/4b/45583_crt_9Ns83.jpg?r=1478286919",
+        "link": "https://bgm.tv/character/45583",
+        "categorie": "person"
+      },
+      {
+        "id": "45868",
+        "label": "约翰·斯坦贝克",
+        "info": "組合（ギルド）の職人（フェロークラフト）。故郷に似た田舎の空気を好む。大家族を養うべく、支払いの良い組合に参加している。可愛い妹のためなら、悪虐と取られる行為も厭わない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/18/45868_crt_9a4RG.jpg?r=1478285063",
+        "link": "https://bgm.tv/character/45868",
+        "categorie": "person"
+      },
+      {
+        "id": "45869",
+        "label": "霍华德·菲利普·洛夫克拉夫特",
+        "info": "組合（ギルド）の職人（フェロークラフト）。長い黒髪を垂らした陰気な男。常に気怠く、息をするのも億劫な様子。任務により４年ぶりに外出し、ジョン・Sと行動を共にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/34/45869_crt_AaqyN.jpg?r=1478286736",
+        "link": "https://bgm.tv/character/45869",
+        "categorie": "person"
+      },
+      {
+        "id": "46098",
+        "label": "马克·吐温",
+        "info": "能力：〖哈克·芬&汤姆·索伊尔〗，让迷你艺能生命体──哈克·芬&汤姆·索伊尔附于子弹上，进行精准无误的射击。由于哈克和汤姆的意识相通，所以可以利用子弹进行远距离侦查。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/ff/46098_crt_c4sx9.jpg?r=1478287099",
+        "link": "https://bgm.tv/character/46098",
+        "categorie": "person"
+      },
+      {
+        "id": "47373",
+        "label": "纪德",
+        "info": "かつて欧州で権勢を誇った異能犯罪組織「ミミック」の首領。その冷徹さと強力な異能力で、旧大戦の敗残兵たちを統率する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c3/47373_crt_YVDPr.jpg?r=1476426891",
+        "link": "https://bgm.tv/character/47373",
+        "categorie": "person"
+      },
+      {
+        "id": "41205",
+        "label": "春野绮罗子",
+        "info": "侦探社社长秘书",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/79/41205_crt_NAU82.jpg",
+        "link": "https://bgm.tv/character/41205",
+        "categorie": "person"
+      },
+      {
+        "id": "48415",
+        "label": "路易莎·梅·奥尔科特",
+        "info": "組合（ギルド）の徒弟（アプレンティス）。眼鏡を掛けた極度に人見知りの女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/f2/48415_crt_WTcmo.jpg?r=1478949647",
+        "link": "https://bgm.tv/character/48415",
+        "categorie": "person"
+      },
+      {
+        "id": "48937",
+        "label": "赫尔曼·梅尔维尔",
+        "info": "能力名：白鲸",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/4f/48937_crt_ffZGQ.jpg?r=1480708344",
+        "link": "https://bgm.tv/character/48937",
+        "categorie": "person"
+      },
+      {
+        "id": "48414",
+        "label": "梦野久作",
+        "info": "Qと呼ばれる13歳の少年。黒と白の2色の髪に小さい帽子を載せているのが特徴。誕生日：1月4日・身長146cm・体重38kg・血液型：AB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/5f/48414_crt_79F97.jpg?r=1480701239",
+        "link": "https://bgm.tv/character/48414",
+        "categorie": "person"
+      },
+      {
+        "id": "48936",
+        "label": "埃德加·爱伦·坡",
+        "info": "能力名：莫尔格街的黑猫",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/38/48936_crt_5c99F.jpg?r=1480707694",
+        "link": "https://bgm.tv/character/48936",
+        "categorie": "person"
+      },
+      {
+        "id": "41206",
+        "label": "箕浦刑事",
+        "info": "敦初次陪同乱步探案时，探案现场中的警方代表。起初对侦探社并不信赖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/da/41206_crt_EMBe4.jpg?r=1462386815",
+        "link": "https://bgm.tv/character/41206",
+        "categorie": "person"
+      },
+      {
+        "id": "47388",
+        "label": "店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/59/47388_crt_Rh8H9.jpg?r=1476497833",
+        "link": "https://bgm.tv/character/47388",
+        "categorie": "person"
+      },
+      {
+        "id": "47621",
+        "label": "幸介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/1f/47621_crt_dX1xd.jpg?r=1477114555",
+        "link": "https://bgm.tv/character/47621",
+        "categorie": "person"
+      },
+      {
+        "id": "47622",
+        "label": "信嗣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/d6/47622_crt_wwa7V.jpg?r=1477114569",
+        "link": "https://bgm.tv/character/47622",
+        "categorie": "person"
+      },
+      {
+        "id": "47623",
+        "label": "优",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/83/47623_crt_2kZSz.jpg?r=1477114681",
+        "link": "https://bgm.tv/character/47623",
+        "categorie": "person"
+      },
+      {
+        "id": "47624",
+        "label": "克己",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ab/47624_crt_YnZDa.jpg?r=1477114780",
+        "link": "https://bgm.tv/character/47624",
+        "categorie": "person"
+      },
+      {
+        "id": "47625",
+        "label": "咲乐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/f8/47625_crt_Ui8nQ.jpg?r=1477114847",
+        "link": "https://bgm.tv/character/47625",
+        "categorie": "person"
+      },
+      {
+        "id": "47630",
+        "label": "种田山头火",
+        "info": "内務省異能特務課長官である男性。特務機関の重役で、異能者の管理と情報統制を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/79/47630_crt_sZN2k.jpg?r=1477117304",
+        "link": "https://bgm.tv/character/47630",
+        "categorie": "person"
+      },
+      {
+        "id": "47631",
+        "label": "夏目漱石",
+        "info": "神出鬼没でどんな調査機関にも尻尾を摑ませない。それでいて政府と黒社会の両方に通じ、横浜を廻るあらゆる陰謀と作戦の近傍にいるとも云われている老人。過去の話にのみ登場しており現在の生死は不明。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47631",
+        "categorie": "person"
+      },
+      {
+        "id": "49540",
+        "label": "费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基",
+        "info": "异能：罪与罚",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/0f/49540_crt_0aAE0.jpg?r=1509707434",
+        "link": "https://bgm.tv/character/49540",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

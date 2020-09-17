@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26628",
+        "label": "莉雅",
+        "info": "精灵弓箭手、兰伯特女朋友",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/59/26628_crt_CLOgJ.jpg",
+        "link": "https://bgm.tv/character/26628",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

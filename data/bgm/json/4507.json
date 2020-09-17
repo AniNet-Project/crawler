@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7145",
+        "label": "夕城美朱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/b6/7145_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7145",
+        "categorie": "person"
+      },
+      {
+        "id": "7146",
+        "label": "鬼宿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/00/7146_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7146",
+        "categorie": "person"
+      },
+      {
+        "id": "7147",
+        "label": "翼宿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/d8/7147_crt_sF2Kb.jpg",
+        "link": "https://bgm.tv/character/7147",
+        "categorie": "person"
+      },
+      {
+        "id": "7149",
+        "label": "星宿",
+        "info": "朱雀七星士にして英明且つ誠実な、紅南国の皇帝。剣を使った戦闘を主に得意とし、後には太一君から神剣を授かる。女性と見紛うほどの美形で、極度のナルシスト。権力争いの関係で母親から厳しい幼少期を送らされており、そんな中で聞いた朱雀の巫女という存在に心の拠り所を得ていた。実際に出会ってからも美朱自身の朗らかさに心癒され求婚するが、美朱と鬼宿の想いの強さを認め、二人の幸せを側で見守り、后・鳳綺を娶る。倶東国の軍勢が攻め寄せる中、七星士としての能力を封じられたまま赴いた戦場で、心宿と戦い殉死する。劇中未登場だが、異母兄弟が数名いる。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/f8/7149_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7149",
+        "categorie": "person"
+      },
+      {
+        "id": "7150",
+        "label": "井宿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/0b/7150_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7150",
+        "categorie": "person"
+      },
+      {
+        "id": "25903",
+        "label": "柳宿",
+        "info": "星宿の後宮で暮していた朱雀七星士。左目の下に泣きぼくろがある。自身の数倍はある岩をも軽々と持ち上げられる、怪力の持ち主。太一君から力を増幅させる腕輪を授かり、本気になると腕輪は手甲に変化する。女装しているのは、馬車に轢かれ死んだ妹の康琳（こうりん）を偲んでのこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ac/25903_crt_tAWe1.jpg",
+        "link": "https://bgm.tv/character/25903",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

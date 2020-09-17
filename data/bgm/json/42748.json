@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37377",
+        "label": "神崎纱耶香",
+        "info": "ヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/4d/37377_crt_z9hjh.jpg?r=1450226244",
+        "link": "https://bgm.tv/character/37377",
+        "categorie": "person"
+      },
+      {
+        "id": "38569",
+        "label": "神崎萌美",
+        "info": "紗耶香の妹で、学園の１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/f4/38569_crt_Q6uHu.jpg?r=1454428078",
+        "link": "https://bgm.tv/character/38569",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

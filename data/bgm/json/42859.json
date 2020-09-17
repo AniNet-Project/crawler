@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16586",
+        "label": "汐崎春乃",
+        "info": "本作の主人公。愛車はホンダ・ジョルノ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/c1/16586_crt_CpBWR.jpg",
+        "link": "https://bgm.tv/character/16586",
+        "categorie": "person"
+      },
+      {
+        "id": "16590",
+        "label": "辛西娅·B·罗杰斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/29/16590_crt_cgsqv.jpg",
+        "link": "https://bgm.tv/character/16590",
+        "categorie": "person"
+      },
+      {
+        "id": "16587",
+        "label": "镝木小夜",
+        "info": "愛車はホンダ・リトルカブ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/93/16587_crt_NxUjP.jpg",
+        "link": "https://bgm.tv/character/16587",
+        "categorie": "person"
+      },
+      {
+        "id": "16588",
+        "label": "別所杏里",
+        "info": "愛車はホンダ・ベンリィ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/25/16588_crt_qMQd1.jpg",
+        "link": "https://bgm.tv/character/16588",
+        "categorie": "person"
+      },
+      {
+        "id": "16589",
+        "label": "前园利绘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/79/16589_crt_DNZlu.jpg",
+        "link": "https://bgm.tv/character/16589",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26963",
+        "label": "朝比奈桃子",
+        "info": "1年A組         軽音楽部",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/1f/26963_crt_6m7xJ.jpg?r=1416275312",
+        "link": "https://bgm.tv/character/26963",
+        "categorie": "person"
+      },
+      {
+        "id": "27358",
+        "label": "椎名心实",
+        "info": "ミス聖櫻コンテストで常に上位をキープする、学園のマドンナ的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/76/27358_crt_48Jvv.jpg?r=1413230519",
+        "link": "https://bgm.tv/character/27358",
+        "categorie": "person"
+      },
+      {
+        "id": "27812",
+        "label": "克洛艾·鲁梅尔",
+        "info": "3年A組         日本文化研究会",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/4a/27812_crt_ef4bZ.jpg",
+        "link": "https://bgm.tv/character/27812",
+        "categorie": "person"
+      },
+      {
+        "id": "32455",
+        "label": "久仁城雅",
+        "info": "鳳歌院の絶対的トップ！カリスマ生徒会長 鳳歌院高校の3年生。圧倒的なカリスマ性を持つ生徒会長。文武両道、公明正大な性格、礼節を重んじるが柔軟さも備え持つ高校生らしからぬ存在。多くの生徒から支持を集め、生徒会長を務めている。一見完璧に見える彼女だが、日常的な些事には疎い意外な一面をもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/c2/32455_crt_uNdz7.jpg",
+        "link": "https://bgm.tv/character/32455",
+        "categorie": "person"
+      },
+      {
+        "id": "32456",
+        "label": "朝门春日",
+        "info": "雅を支える良き理解者！敏腕副生徒会長 鳳歌院高校の3年生。幼馴染の雅を支える副生徒会長。雅が見えていない些事を滞りなく処理し、陰ながら支える右腕。幼馴染ゆえに、周りが驚くような雅の発言に対しても動じず手慣れた対応をとる。尊敬か冗談か、雅のことを「姫」と呼んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/c5/32456_crt_5Rkk5.jpg",
+        "link": "https://bgm.tv/character/32456",
+        "categorie": "person"
+      },
+      {
+        "id": "32457",
+        "label": "牧濑昴",
+        "info": "目指せ雅様！頑張り屋の勝気な乙女 鳳歌院高校の2年生。雅を崇拝する勝気な乙女。わがままで一言多いところが目立つ一方で、入学時に雅のカリスマ性に魅せられ彼女に一歩でも近づこうと努力を惜しまない実直な一面も。夢中になると周りが見えなくなる節があり、朝門に注意されることもしばしば。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/2f/32457_crt_4qJ19.jpg",
+        "link": "https://bgm.tv/character/32457",
+        "categorie": "person"
+      },
+      {
+        "id": "27435",
+        "label": "樱井明音",
+        "info": "2年C組         放送委員会",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/7e/27435_crt_zgA6N.jpg?r=1413833698",
+        "link": "https://bgm.tv/character/27435",
+        "categorie": "person"
+      },
+      {
+        "id": "27884",
+        "label": "村上文绪",
+        "info": "3年A組         図書委員会",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/03/27884_crt_Klml2.jpg?r=1415661558",
+        "link": "https://bgm.tv/character/27884",
+        "categorie": "person"
+      },
+      {
+        "id": "32217",
+        "label": "神乐坂砂夜",
+        "info": "普段は上品で丁寧だが、部活の時はキビキビと効率的に指示を出す新聞部の部長。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/c2/32217_crt_Cat2b.jpg",
+        "link": "https://bgm.tv/character/32217",
+        "categorie": "person"
+      },
+      {
+        "id": "32453",
+        "label": "鴫野睦",
+        "info": "生徒会書記の1年生。非常に真面目で働き者。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/26/32453_crt_3sLRD.jpg",
+        "link": "https://bgm.tv/character/32453",
+        "categorie": "person"
+      },
+      {
+        "id": "32454",
+        "label": "风町阳歌",
+        "info": "軽音部の2年生。担当はボーカルで、カードの絵柄からしてギターも弾ける様子。恒常の最終進展ではピアノで作曲している他、［妖怪仮装］では和太鼓の演奏も披露しており、恐らくオールラウンダーだと思われる。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/b2/32454_crt_cjqCz.jpg",
+        "link": "https://bgm.tv/character/32454",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

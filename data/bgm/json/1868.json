@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "951",
+        "label": "夏娜",
+        "info": "继承了第一代“炎发灼眼的杀手”的火雾战士，作品的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/d6/951_crt_68tGo.jpg",
+        "link": "https://bgm.tv/character/951",
+        "categorie": "person"
+      },
+      {
+        "id": "952",
+        "label": "坂井悠二",
+        "info": "御崎高中一年二班的学生，故事的开始时遇到封绝，在封绝中被磷子发现自身为内有宝具的密斯提斯因而被牵扯进了磷子与夏娜的战斗，也开始了身为体内藏有宝具“零时迷子”的“密斯提斯”的命运。其实真正的人类悠二早已被吞灭其存在之力，在故事一开始他就只是一个“火炬”，却在不明的情况下得到“零时迷子”且可以在封绝中自由行动，因此严格上他并非人类。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/cb/952_wndKG.jpg?r=1571382465",
+        "link": "https://bgm.tv/character/952",
+        "categorie": "person"
+      },
+      {
+        "id": "953",
+        "label": "吉田一美",
+        "info": "御崎高中一年二班的学生，内向且可爱的女生，在受过悠二和夏娜的帮助之后对他产生了好感，本片第二个女主角。面对的是最具压迫感的情敌，固执起来也是很可怕。其身材在同学之间闻名（主要可见于动画第一季OVA）。曾帮助过“调音师”卡姆辛。她有饲养一只名叫“艾卡特利娜”的小狗；自己也有一个名叫“小健”的弟弟（以上情节有在漫画版、动画版第一季提及）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/32/953_KXw6L.jpg",
+        "link": "https://bgm.tv/character/953",
+        "categorie": "person"
+      },
+      {
+        "id": "957",
+        "label": "佐藤启作",
+        "info": "御崎高中一年二班的学生，长相俊美、言行轻佻的财团少爷，家中有珍藏好酒的酒吧，在动画第一季第五集成为玛琼琳·朵的部下，一心想要帮忙玛琼琳·朵，但是多次遭到阻碍跟拒绝，成为玛琼琳·朵心中影响力大的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/a5/957_AYs1A.jpg",
+        "link": "https://bgm.tv/character/957",
+        "categorie": "person"
+      },
+      {
+        "id": "958",
+        "label": "田中荣太",
+        "info": "御崎高中一年二班的学生，个性温和的大块头，跟佐藤一起成为玛琼琳·朵的部下，崇拜玛琼琳，尊称她为“大姐”，与同班同学绪方真竹发展为情侣关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/40/958_9zoO0.jpg",
+        "link": "https://bgm.tv/character/958",
+        "categorie": "person"
+      },
+      {
+        "id": "959",
+        "label": "绪方真竹",
+        "info": "御崎高中一年二班的学生，班中活跃得像男孩子的女生，排球社的强力打手。身材一般，扮演领导者的角色，对田中荣太有好感，曾经向他表达好感，并且多次受到玛琼琳·朵的指导。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/bc/959_crt_Y7BTb.jpg",
+        "link": "https://bgm.tv/character/959",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

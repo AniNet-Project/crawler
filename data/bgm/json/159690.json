@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57235",
+        "label": "环伊吕波",
+        "info": "“等着我哦，忧。姐姐一定会找到你的”",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/e8/57235_crt_d2zZq.jpg?r=1585483538",
+        "link": "https://bgm.tv/character/57235",
+        "categorie": "person"
+      },
+      {
+        "id": "57236",
+        "label": "七海八千代",
+        "info": "“得到教训的话就停手吧。身为魔法少女而生活，可是很不得了的事情呢。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/33/57236_crt_zz4A6.jpg?r=1585483580",
+        "link": "https://bgm.tv/character/57236",
+        "categorie": "person"
+      },
+      {
+        "id": "57238",
+        "label": "由比鹤乃",
+        "info": "“船到桥头自然直不也挺好的吗！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/66/57238_crt_guZLK.jpg?r=1585370137",
+        "link": "https://bgm.tv/character/57238",
+        "categorie": "person"
+      },
+      {
+        "id": "57237",
+        "label": "深月菲莉希亚",
+        "info": "“魔女就由我来全部解决掉……！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/31/57237_crt_AAjD1.jpg?r=1585484674",
+        "link": "https://bgm.tv/character/57237",
+        "categorie": "person"
+      },
+      {
+        "id": "57239",
+        "label": "二叶莎奈",
+        "info": "“不再多改变一下自己是不行的吗？”",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/e2/57239_crt_dOMXD.jpg?r=1585483665",
+        "link": "https://bgm.tv/character/57239",
+        "categorie": "person"
+      },
+      {
+        "id": "74535",
+        "label": "小丘比",
+        "info": "只在神滨市存在的被认为是丘比一员的个体。和其他个体不同，看起来十分年幼。曾经被目击到在街道徘徊，现在常常和三日月庄的居民们接触。它有何目的尚不明了，充满谜团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/c9/74535_crt_1rDZ8.jpg?r=1578905878",
+        "link": "https://bgm.tv/character/74535",
+        "categorie": "person"
+      },
+      {
+        "id": "57240",
+        "label": "十咎桃子",
+        "info": "“不必担心。就交给姐姐吧！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/b7/57240_crt_YYL2U.jpg?r=1585483782",
+        "link": "https://bgm.tv/character/57240",
+        "categorie": "person"
+      },
+      {
+        "id": "57241",
+        "label": "秋野枫",
+        "info": "“呜喔～对不起。我实在是太没用了……”",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/55/57241_crt_GfZ9W.jpg?r=1585483740",
+        "link": "https://bgm.tv/character/57241",
+        "categorie": "person"
+      },
+      {
+        "id": "57242",
+        "label": "水波玲奈",
+        "info": "“玲奈我啊，最讨厌水波玲奈什么的了……！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/dc/57242_crt_cZhNa.jpg?r=1585483729",
+        "link": "https://bgm.tv/character/57242",
+        "categorie": "person"
+      },
+      {
+        "id": "71693",
+        "label": "黑江",
+        "info": "住在宝崎市的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/ce/71693_crt_Bj955.jpg?r=1567946888",
+        "link": "https://bgm.tv/character/71693",
+        "categorie": "person"
+      },
+      {
+        "id": "10446",
+        "label": "丘比",
+        "info": "魔法的使者，通过与选中的少女缔结契约，使其成为魔法少女。魔法少女身负与魔女战斗的使命，作为补偿，丘比会实现少女的一个愿望，无论怎样的愿望都可以实现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/83/10446_crt_32C24.jpg",
+        "link": "https://bgm.tv/character/10446",
+        "categorie": "person"
+      },
+      {
+        "id": "3047",
+        "label": "环忧",
+        "info": "总是在迷茫如何才能获得幸福的魔法少女。由于从小不知外面的世界，作为魔法少女也是新手，为了不输给周围人而持续努力着。善于发现对方的优点，不会讨厌别人。是灯花和音梦的青梅竹马，伊吕波的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/c1/3047_crt_4wuwr.jpg?r=1571882189",
+        "link": "https://bgm.tv/character/3047",
+        "categorie": "person"
+      },
+      {
+        "id": "72260",
+        "label": "里见灯花",
+        "info": "着手创造着没有魔女化的世界的魔法少女。是所住医院“里见医疗中心”的院长的女儿，年纪轻轻就已修习天体物理学的理科天才。平时在无数机器的包围中持续着研究，梦想知晓宇宙的一切。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/b7/72260_crt_hEEgH.jpg?r=1571882558",
+        "link": "https://bgm.tv/character/72260",
+        "categorie": "person"
+      },
+      {
+        "id": "72505",
+        "label": "柊音梦",
+        "info": "着手创造着没有魔女化的世界的魔法少女。为了满足自我承认欲而开始撰写故事，自从发表到网络上之后开始被称为天才作家；但直到现在，没有任何人能接触到她。梦想将自己的故事具现至全世界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/41/72505_crt_8c8uS.jpg?r=1571882781",
+        "link": "https://bgm.tv/character/72505",
+        "categorie": "person"
+      },
+      {
+        "id": "72519",
+        "label": "八云御魂",
+        "info": "在神滨市的外围经营着调整屋的魔法少女。通过魔力的调整服务和销售商品赚取悲叹之种，很少参与战斗。平常轻松愉快地待人接物，而了解她的经历的魔法少女甚少。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/49/72519_crt_U6Y69.jpg?r=1571983610",
+        "link": "https://bgm.tv/character/72519",
+        "categorie": "person"
+      },
+      {
+        "id": "10441",
+        "label": "巴麻美",
+        "info": "于鹿目圆等人之前在见泷原市与魔女持续作战的魔法少女。见泷原中学校的三年级生。作为魔法少女也是小圆等人的好前辈，是个很会照顾人的大姐姐般的存在。以拯救他人为荣，喜爱红茶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/4b/10441_crt_4bTz4.jpg",
+        "link": "https://bgm.tv/character/10441",
+        "categorie": "person"
+      },
+      {
+        "id": "72259",
+        "label": "梓美冬",
+        "info": "7年间，作为八千代的搭档跟魔女战斗的老手魔法少女。因为切实感受到了自身的魔力衰减，为获得作为独立的女性的幸福，成为了Magius之翼的干部。温柔而内心脆弱，有时会判断失误。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/23/72259_crt_65R67.jpg?r=1571115120",
+        "link": "https://bgm.tv/character/72259",
+        "categorie": "person"
+      },
+      {
+        "id": "10672",
+        "label": "佐仓杏子",
+        "info": "出身于风见野市的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/88/10672_crt_OExoI.jpg",
+        "link": "https://bgm.tv/character/10672",
+        "categorie": "person"
+      },
+      {
+        "id": "72520",
+        "label": "天音月夜",
+        "info": "月咲的双胞胎姐姐，期望解放的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/28/72520_crt_UY2QQ.jpg?r=1571983866",
+        "link": "https://bgm.tv/character/72520",
+        "categorie": "person"
+      },
+      {
+        "id": "72521",
+        "label": "天音月咲",
+        "info": "月夜的双胞胎妹妹，希望解放的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f5/72521_crt_Uudkm.jpg?r=1571984024",
+        "link": "https://bgm.tv/character/72521",
+        "categorie": "person"
+      },
+      {
+        "id": "75886",
+        "label": "无名人工智能之谣",
+        "info": "无名人工智能之谣是出现于《魔法纪录》主线剧情第5章/动画第7-10话的一个谣（ウワサ），在游戏存档的图鉴中是#128号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3e/75886_crt_cdOjM.jpg?r=1583074585",
+        "link": "https://bgm.tv/character/75886",
+        "categorie": "person"
+      },
+      {
+        "id": "72375",
+        "label": "阿莉娜·格雷",
+        "info": "着手创造着没有魔女化的世界的魔法少女。以所谓生与死为主题的天才艺术家，在低谷时也会以自己为题材。认为自己的目的至高无上并为之不惜付出任何努力的她，梦想着把魔女变成最优秀的艺术品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ee/72375_crt_f25eI.jpg?r=1571882520",
+        "link": "https://bgm.tv/character/72375",
+        "categorie": "person"
+      },
+      {
+        "id": "72783",
+        "label": "雪野加奈惠",
+        "info": "原本幼时有着成熟温柔的性格，但随着年龄增长，由于眼神凶狠被恶党缠身，偏生性格又不服输，渐渐演变成每天都在打架斗殴。与音乐邂逅之后，开始弹奏吉他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/f9/72783_crt_W5Uuq.jpg?r=1572507806",
+        "link": "https://bgm.tv/character/72783",
+        "categorie": "person"
+      },
+      {
+        "id": "72780",
+        "label": "安名梅露",
+        "info": "一天的行动全靠每天早晨占卜决定的魔法少女。要是占卜结果良好就万分积极，反之就闭门不出，连魔女狩猎都会咸鱼掉。虽然酷爱占卜，因为准到可怕，魔法少女内部发行了占卜禁止令。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/3e/72780_crt_3W2fZ.jpg?r=1584953292",
+        "link": "https://bgm.tv/character/72780",
+        "categorie": "person"
+      },
+      {
+        "id": "10445",
+        "label": "美树沙耶香",
+        "info": "正直且有正义感的魔法少女。见泷原中学二年生，与同班同学小圆是亲友。尊敬作为魔法少女先辈的麻美，量产武器的战斗模式也是相似的。以前会经常去青梅竹马上条恭介所住院的医院。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/a0/10445_crt_ToPro.jpg",
+        "link": "https://bgm.tv/character/10445",
+        "categorie": "person"
+      },
+      {
+        "id": "71701",
+        "label": "五十铃怜",
+        "info": "自幼便很内向，不擅长和人交谈的魔法少女。被长期受到孤立的生活所折磨，走投无路之时，得知了魔法少女的世界，而从深渊中脱离了。虽然精神上也有成长，但还有着软弱的方面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/fc/71701_crt_RtV28.jpg?r=1572140589",
+        "link": "https://bgm.tv/character/71701",
+        "categorie": "person"
+      },
+      {
+        "id": "72777",
+        "label": "梢麻友",
+        "info": "不自觉地吸引了男性的好感的、富有魅力的魔法少女。出于对父爱的向往，因此往往会在年长的男性露出破绽。现因受亡父的影响而喜欢上美术，以从事修复美术品的工作为目标，在美术馆打工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/83/72777_crt_rmy55.jpg?r=1572507521",
+        "link": "https://bgm.tv/character/72777",
+        "categorie": "person"
+      },
+      {
+        "id": "72778",
+        "label": "史乃沙优希",
+        "info": "有着收集日本刀这样，稍微奇怪的嗜好的魔法少女。关系到刀就会兴奋起来，有时甚至会漏出有些别扭的感叹声，是在有关喜欢的事情时就注意不到周围的性格。也作为宣传颇有历史的水名街道的地方偶像而活跃中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/ef/72778_crt_NttZU.jpg?r=1572507560",
+        "link": "https://bgm.tv/character/72778",
+        "categorie": "person"
+      },
+      {
+        "id": "72735",
+        "label": "阿见莉爱‎‎",
+        "info": "作为模特大为活跃的魔法少女。也有人将她称为神滨首屈一指的美少女。有着一定要让自己最引人注目的性格，凡事都要争先。虽然她自己在行动时非常有自信，但在别人看来总觉得有些傻傻的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/b5/72735_crt_491n2.jpg?r=1572444439",
+        "link": "https://bgm.tv/character/72735",
+        "categorie": "person"
+      },
+      {
+        "id": "72734",
+        "label": "胡桃爱香",
+        "info": "继承了父亲的料理手艺，烹饪系的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/21/72734_crt_66P8A.jpg?r=1589796247",
+        "link": "https://bgm.tv/character/72734",
+        "categorie": "person"
+      },
+      {
+        "id": "72730",
+        "label": "常盘七夏",
+        "info": "生于继承江户时代花道名门“华心流”宗家的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/9d/72730_crt_2N42p.jpg?r=1572441772",
+        "link": "https://bgm.tv/character/72730",
+        "categorie": "person"
+      },
+      {
+        "id": "72733",
+        "label": "志伸晶",
+        "info": "外表言行都很男孩气的魔法少女。自小从经营空手道场的父亲那里接受了和男孩子们同等的锻炼和培育。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/d7/72733_crt_RtcBB.jpg?r=1572444399",
+        "link": "https://bgm.tv/character/72733",
+        "categorie": "person"
+      },
+      {
+        "id": "72736",
+        "label": "夏目佳子",
+        "info": "总而言之是个爱书的魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/a0/72736_crt_MAOCo.jpg?r=1572444460",
+        "link": "https://bgm.tv/character/72736",
+        "categorie": "person"
+      },
+      {
+        "id": "72737",
+        "label": "纯美雨",
+        "info": "日裔香港人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/74/72737_crt_B8PPz.jpg?r=1572444492",
+        "link": "https://bgm.tv/character/72737",
+        "categorie": "person"
+      },
+      {
+        "id": "72784",
+        "label": "牧野郁美",
+        "info": "无论何时何地都想变得可爱，装可爱的魔法少女。平时在女仆咖啡馆当女仆工作，尽情地让她炸裂心跳的光束。可是，也许是感觉有点过时吧，无意中被当成了搞笑角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/80/72784_crt_weShH.jpg?r=1572507837",
+        "link": "https://bgm.tv/character/72784",
+        "categorie": "person"
+      },
+      {
+        "id": "72742",
+        "label": "七濑幸佳",
+        "info": "从小就被安排好一切不允许改变的魔法少女。因为她大小姐的出身，她在许多地方都能做得完美无瑕，但是由于她周围有很多有才华的女孩，她的自我评价极低。她早已对无聊的日常感到厌倦，不过，成为了魔法少女之后状况一变，净是被卷进纠纷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/16/72742_crt_OT3Ol.jpg?r=1572447807",
+        "link": "https://bgm.tv/character/72742",
+        "categorie": "person"
+      },
+      {
+        "id": "72518",
+        "label": "和泉十七夜",
+        "info": "盼望着平等与和平的魔法少女。洋溢着无私的正义感，姿态言语的强势中有着令人心折的吸引力。为了养护贫困的家庭不得不挣取生活费用，做着兼职并每日为之鞠躬尽瘁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/4d/72518_crt_gg22O.jpg?r=1571983345",
+        "link": "https://bgm.tv/character/72518",
+        "categorie": "person"
+      },
+      {
+        "id": "10439",
+        "label": "鹿目圆",
+        "info": "原本是随处可见的平凡中学2年生，性格温柔，非常珍重家人与朋友。遇到魔法的使者丘比之后，成为了魔法少女的候选人，其命运亦逐渐走向未知的道路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/95/10439_crt_r7R2s.jpg?r=1501259367",
+        "link": "https://bgm.tv/character/10439",
+        "categorie": "person"
+      },
+      {
+        "id": "72732",
+        "label": "保澄雫",
+        "info": "奔走寻求着容身之处，无所适从的魔法少女。喜欢的东西也好、将来的梦想也罢，找不见自己的身份，对未来抱持着淡薄的不安。似乎是纯吃茶馆的独生女，什么时候都很冷静。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/4f/72732_crt_YjqDp.jpg?r=1572444363",
+        "link": "https://bgm.tv/character/72732",
+        "categorie": "person"
+      },
+      {
+        "id": "74925",
+        "label": "谣小姐",
+        "info": "神浜市のいたるところに出没する、うわさを人々に吹聴して回る「使い魔のようななにか」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/ea/74925_crt_U6fX6.jpg?r=1590154043",
+        "link": "https://bgm.tv/character/74925",
+        "categorie": "person"
+      },
+      {
+        "id": "75006",
+        "label": "Magius之翼",
+        "info": "Magius之翼是《魔法纪录》主线剧情第1部中登场的一个魔法少女团体，于神滨市进行活动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/b2/75006_crt_3k7rB.jpg?r=1580318022",
+        "link": "https://bgm.tv/character/75006",
+        "categorie": "person"
+      },
+      {
+        "id": "74926",
+        "label": "环伊吕波的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/f3/74926_crt_0KGvz.jpg?r=1580010994",
+        "link": "https://bgm.tv/character/74926",
+        "categorie": "person"
+      },
+      {
+        "id": "74927",
+        "label": "环伊吕波的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/50/74927_crt_2AQ2q.jpg?r=1580011029",
+        "link": "https://bgm.tv/character/74927",
+        "categorie": "person"
+      },
+      {
+        "id": "74930",
+        "label": "教师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/17/74930_crt_W57MS.jpg?r=1580010755",
+        "link": "https://bgm.tv/character/74930",
+        "categorie": "person"
+      },
+      {
+        "id": "74924",
+        "label": "由比鹤乃的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/cf/74924_crt_t034F.jpg?r=1580200645",
+        "link": "https://bgm.tv/character/74924",
+        "categorie": "person"
+      },
+      {
+        "id": "75575",
+        "label": "DJ Hammer",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/40/75575_crt_mg7qR.jpg?r=1582442082",
+        "link": "https://bgm.tv/character/75575",
+        "categorie": "person"
+      },
+      {
+        "id": "75574",
+        "label": "警察",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/98/75574_crt_qzV32.jpg?r=1582442122",
+        "link": "https://bgm.tv/character/75574",
+        "categorie": "person"
+      },
+      {
+        "id": "76062",
+        "label": "二叶家",
+        "info": "父 CV: 小林康介",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/a2/76062_crt_A16Nc.jpg?r=1583688054",
+        "link": "https://bgm.tv/character/76062",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

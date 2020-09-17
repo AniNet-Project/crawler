@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26451",
+        "label": "古宫乃乃香",
+        "info": "父親の転勤によって、東京から、昔暮らしていたという「円盤の街」に引っ越してきた中学三年生。やや人に流されやすいものの、意外と行動派な一面を持つ女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/02/26451_crt_rzX68.jpg",
+        "link": "https://bgm.tv/character/26451",
+        "categorie": "person"
+      },
+      {
+        "id": "26456",
+        "label": "诺艾尔",
+        "info": "背格好は小学校低学年程度の年齢不詳。性格は天真爛漫で明るく、アクティブに行動しているが、掴み所の無い感じが、どこか不思議な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/6f/26456_crt_iVr1z.jpg?r=1413234709",
+        "link": "https://bgm.tv/character/26456",
+        "categorie": "person"
+      },
+      {
+        "id": "26454",
+        "label": "户川汐音",
+        "info": "柚季、こはる、湊太らのクラスメイト。いつもヘッドフォンをしていて、周囲とのコミュニケーションを拒んでいる。現在は別の街に引っ越し、親とも離れて一人暮らしをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/e8/26454_crt_5dJ9o.jpg",
+        "link": "https://bgm.tv/character/26454",
+        "categorie": "person"
+      },
+      {
+        "id": "26452",
+        "label": "水坂柚季",
+        "info": "「円盤の街」に暮らす中学三年生。もうすっかり街に溶け込んでしまっている円盤のことを目の敵にしていて、たった一人で、街から円盤を追い出そうとしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/37/26452_crt_aUWUW.jpg?r=1413234668",
+        "link": "https://bgm.tv/character/26452",
+        "categorie": "person"
+      },
+      {
+        "id": "26453",
+        "label": "椎原小春",
+        "info": "中学三年生。「円盤の街」の土産物屋の娘。柚季、湊太の双子兄妹とは幼馴染で、今でも二人のことをそれとなく気にかけている。性格はおっとりしていて物静か。自称、看板娘である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/e4/26453_crt_Of2Ec.jpg",
+        "link": "https://bgm.tv/character/26453",
+        "categorie": "person"
+      },
+      {
+        "id": "26455",
+        "label": "水坂凑太",
+        "info": "柚季の双子の兄。柚季、そして幼馴染のこはるとは、小さい頃にはよく一緒に遊んでいたものの、円盤が現れてからは双子の妹の柚季とは犬猿の仲となっていて、ことある事に絡まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/82/26455_crt_cbE9E.jpg",
+        "link": "https://bgm.tv/character/26455",
+        "categorie": "person"
+      },
+      {
+        "id": "30046",
+        "label": "古宫修一",
+        "info": "古宫乃乃香的父亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/e4/30046_crt_kTv82.jpg",
+        "link": "https://bgm.tv/character/30046",
+        "categorie": "person"
+      },
+      {
+        "id": "72146",
+        "label": "古宫花织",
+        "info": "古宫乃乃香的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/7e/72146_crt_02316.jpg?r=1577765505",
+        "link": "https://bgm.tv/character/72146",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56231",
+        "label": "鹿岛龙一",
+        "info": "両親を亡くし、弟の虎太郎とともに森ノ宮学園の理事長に引き取られた。面倒を見てもらう代わりに、ベビーシッター部の部員として学園の保育ルームの手伝いをすることに。健気でしっかりもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a3/56231_crt_XaZAa.jpg",
+        "link": "https://bgm.tv/character/56231",
+        "categorie": "person"
+      },
+      {
+        "id": "56232",
+        "label": "鹿岛虎太郎",
+        "info": "竜一の弟。おっとりしていて、よく絵本を読んでいる。感情をあまり表に出さないので、何を考えているのかわからないことも。にちゃ（竜一）のことが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/0d/56232_crt_9bbus.jpg?r=1510108761",
+        "link": "https://bgm.tv/character/56232",
+        "categorie": "person"
+      },
+      {
+        "id": "56233",
+        "label": "狼谷隼",
+        "info": "竜一のクラスメイトで鷹の兄で野球部のエース。見た目も話し方も無愛想で弟のわがままにすぐ手が出てしまうが、まっすぐな性格で情には厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/43/56233_crt_jJ916.jpg",
+        "link": "https://bgm.tv/character/56233",
+        "categorie": "person"
+      },
+      {
+        "id": "56234",
+        "label": "狼谷鹰",
+        "info": "保育ルームで一番やんちゃで泣き虫。兄の隼に反発して怒られてばかりいるが、隼のことが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/6e/56234_crt_KhzJL.jpg",
+        "link": "https://bgm.tv/character/56234",
+        "categorie": "person"
+      },
+      {
+        "id": "58947",
+        "label": "森之宫羊子",
+        "info": "竜一と虎太郎を引き取った森ノ宮学園の理事長。何事にも厳しく容赦がないが、実は深い愛情の持ち主で、竜一たちを支えてくれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/ab/58947_crt_aP7GH.jpg",
+        "link": "https://bgm.tv/character/58947",
+        "categorie": "person"
+      },
+      {
+        "id": "58948",
+        "label": "犀川惠吾",
+        "info": "謎が多い理事長の秘書。家事が万能でクールな立ち振る舞いだが、心優しい性格でユーモアもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/4b/58948_crt_m6VGF.jpg",
+        "link": "https://bgm.tv/character/58948",
+        "categorie": "person"
+      },
+      {
+        "id": "58949",
+        "label": "兔田义仁",
+        "info": "森ノ宮学園の卒業生の一人で、保育ルーム唯一の職員。ダラダラすることが好きで寝ていることが多いが、子供たちからは懐かれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/e0/58949_crt_72NL8.jpg",
+        "link": "https://bgm.tv/character/58949",
+        "categorie": "person"
+      },
+      {
+        "id": "58950",
+        "label": "熊塚奇凛",
+        "info": "ちょっぴりおませで好奇心旺盛な女の子。優しいママのことが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f8/58950_crt_14y31.jpg",
+        "link": "https://bgm.tv/character/58950",
+        "categorie": "person"
+      },
+      {
+        "id": "58951",
+        "label": "狸塚拓马",
+        "info": "数馬の双子の兄。母親に似て元気でにこにこ。いつも数馬と一緒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/f7/58951_crt_qW8Mw.jpg?r=1510109450",
+        "link": "https://bgm.tv/character/58951",
+        "categorie": "person"
+      },
+      {
+        "id": "58952",
+        "label": "狸塚数马",
+        "info": "拓馬の双子の弟。父親に似て気弱でうるうる。いつも拓馬と一緒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/57/58952_crt_GvL0V.jpg?r=1510109550",
+        "link": "https://bgm.tv/character/58952",
+        "categorie": "person"
+      },
+      {
+        "id": "58953",
+        "label": "猿渡美鸟",
+        "info": "保育ルームの最年少でひとつ結びがかわいい女の子。兎田になついている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/2b/58953_crt_aATpZ.jpg?r=1510109848",
+        "link": "https://bgm.tv/character/58953",
+        "categorie": "person"
+      },
+      {
+        "id": "59729",
+        "label": "猪又玛莉亚",
+        "info": "特進クラスに在籍し、成績は学年トップ。曲がったことが大嫌いで子供たちに対しても厳しい態度をとってしまうが、そんな自分に実はコンプレックスを持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/e5/59729_crt_qeVOT.jpg",
+        "link": "https://bgm.tv/character/59729",
+        "categorie": "person"
+      },
+      {
+        "id": "59730",
+        "label": "牛丸雪",
+        "info": "竜一に想いを寄せる、クラスでもかわいいと評判の女の子。小さい子に対して苦手意識を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/56/59730_crt_HcV1i.jpg",
+        "link": "https://bgm.tv/character/59730",
+        "categorie": "person"
+      },
+      {
+        "id": "59731",
+        "label": "山羊朋也",
+        "info": "特進クラスの男子。校内でも有名なさわやかイケメンだが、実は小さな子供が好きすぎてしまい…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/b5/59731_crt_1Rm1S.jpg?r=1513650934",
+        "link": "https://bgm.tv/character/59731",
+        "categorie": "person"
+      },
+      {
+        "id": "59732",
+        "label": "根津中吉",
+        "info": "特進クラスの男子。暴走する山羊のストッパー。六人兄弟の二男で家事もこなすしっかり者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/73/59732_crt_puCgR.jpg",
+        "link": "https://bgm.tv/character/59732",
+        "categorie": "person"
+      },
+      {
+        "id": "60217",
+        "label": "狼谷 静",
+        "info": "隼と鷹の母。中等部の理科教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/32/60217_crt_URuMM.jpg",
+        "link": "https://bgm.tv/character/60217",
+        "categorie": "person"
+      },
+      {
+        "id": "60218",
+        "label": "狸塚 海",
+        "info": "拓馬と数馬の母。体育教師で、新体操部の顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/f8/60218_crt_328l3.jpg",
+        "link": "https://bgm.tv/character/60218",
+        "categorie": "person"
+      },
+      {
+        "id": "60219",
+        "label": "熊塚 弥生",
+        "info": "ミステリアスな印象とは裏腹に部活では体育会的なノリの熱血指導を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d7/60219_crt_YYGTC.jpg",
+        "link": "https://bgm.tv/character/60219",
+        "categorie": "person"
+      },
+      {
+        "id": "60220",
+        "label": "猿渡 ゆかり",
+        "info": "美鳥の母。高等部の事務室勤務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/e5/60220_crt_z07EK.jpg",
+        "link": "https://bgm.tv/character/60220",
+        "categorie": "person"
+      },
+      {
+        "id": "60531",
+        "label": "犬井博幸",
+        "info": "竜一たちより一つ上の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/73/60531_crt_1Tnw8.jpg",
+        "link": "https://bgm.tv/character/60531",
+        "categorie": "person"
+      },
+      {
+        "id": "60645",
+        "label": "狸塚恒介",
+        "info": "双胞胎的爸爸，是个人气演员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/43/60645_crt_vo168.jpg",
+        "link": "https://bgm.tv/character/60645",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

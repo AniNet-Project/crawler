@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40660",
+        "label": "歌姬亚瑟",
+        "info": "吟遊詩人バードとなるためのオーディションに出かけたつもりが目的地を誤り、エクスカリバーの選定試験に参加してしまう。「王」になるつもりはさらさらないが、現状をこれ以上ないスポットライトと考えを切り替えて芸能活動（?）に没頭する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/c1/40660_crt_8EUer.jpg?r=1583816912",
+        "link": "https://bgm.tv/character/40660",
+        "categorie": "person"
+      },
+      {
+        "id": "64404",
+        "label": "盗贼亚瑟",
+        "info": "キヤャメロット宮殿にある財宝を盗み出すために忍び込んだものの、内部にあったエクスカリバ一を誤って抜いてしまった事から「王」の候補に選ばれてしまう。「王」としての責務は一ミリも感じていないが、根は義賊に近いので向かってくる敵から民衆を守ろうとする心性も備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/77/64404_crt_2qe5u.jpg?r=1583816636",
+        "link": "https://bgm.tv/character/64404",
+        "categorie": "person"
+      },
+      {
+        "id": "64395",
+        "label": "亚瑟 剑术之城",
+        "info": "ブリテンの王の候補者として、エクスカリバーに挑戦した者の一人。 政治を学び武術の鍛錬も欠かさないが、剣を抜くまでは実戦を経験した事はなかった。 剣の技と騎士の儀礼を重んじ、内外の騒乱に揺れるブリテンを秩序によって安定させようとしている。 選択次第で、名君にも暴君にもなる可能性を秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/3e/64395_crt_dg2Te.jpg?r=1583696571",
+        "link": "https://bgm.tv/character/64395",
+        "categorie": "person"
+      },
+      {
+        "id": "64393",
+        "label": "亚瑟 技巧之场",
+        "info": "ブリテンの王の候補者として、エクスカリバーに挑戦した者の一人。 見た目こそ可憐であるものの、エクスカリバーに挑戦するより前から戦場に身を置いた経験があり、その言動は極めてシビア。 技術の向上と直接的な兵力の増強によって窮地に立たされたブリテンを守り抜こうとする。 選択次第で、名君にも暴君にもなる可能性を秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/c3/64393_crt_wYYy8.jpg?r=1583696539",
+        "link": "https://bgm.tv/character/64393",
+        "categorie": "person"
+      },
+      {
+        "id": "64394",
+        "label": "亚瑟 魔法之派",
+        "info": "ブリテンの王の候補者として、エクスカリバーに挑戦した者の一人。 試練には成功したのだが、元来の弱気が災いして周囲に振り回される事も多い。 女難の相あり。ブリテンの歴史を支えてきた魔法の技術の向上によって、ただの技術では解決できない問題の突破口を探そうとする。 選択次第で名君にも暴君にもなる可能性を秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/1c/64394_crt_p5lFp.jpg?r=1583696505",
+        "link": "https://bgm.tv/character/64394",
+        "categorie": "person"
+      },
+      {
+        "id": "37676",
+        "label": "艾尔",
+        "info": "魔法の派のサポート妖精。見た目は子供のようであり、たまに容姿相応の子供らしい言動を見せる事もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/a5/37676_crt_EeawP.jpg?r=1583697654",
+        "link": "https://bgm.tv/character/37676",
+        "categorie": "person"
+      },
+      {
+        "id": "64392",
+        "label": "毕斯克拉乌莉特",
+        "info": "優れた騎士として製造されたが、身内からの憎悪によって魔法を受け、人狼と化した少女。 逆にその魔法を逆手に取り、並の騎士を凌駕する戦闘能力を手に入れた。 その気になれば元の騎士に戻る事もできるのだが、本当に戻るべきか否か悩み中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/ce/64392_crt_9FPdo.jpg?r=1584095402",
+        "link": "https://bgm.tv/character/64392",
+        "categorie": "person"
+      },
+      {
+        "id": "64396",
+        "label": "高文",
+        "info": "ランスロットなどと共に、王をサポートするため、それ専用に作られた特殊な騎士。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/e8/64396_crt_ZiED1.jpg?r=1583698434",
+        "link": "https://bgm.tv/character/64396",
+        "categorie": "person"
+      },
+      {
+        "id": "40500",
+        "label": "加拉哈德",
+        "info": "妖精と人が対等の関係を築いていた『断絶の時代』の遺跡・遺物などを発掘するため、それ専用に作られた特殊な騎士。 因子構造のベースにはランスロットの設計図が応用されているが、それとは別種の強さを手に入れる事に成功した。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/14/40500_crt_1Vx9y.jpg?r=1583698318",
+        "link": "https://bgm.tv/character/40500",
+        "categorie": "person"
+      },
+      {
+        "id": "64405",
+        "label": "哈维",
+        "info": "騎士達に次世代の騎士を育てさせるべく、子供の姿で製造された騎士。グリゴレたちに幼女として愛されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/ac/64405_crt_JdDDc.jpg",
+        "link": "https://bgm.tv/character/64405",
+        "categorie": "person"
+      },
+      {
+        "id": "64397",
+        "label": "格林格莱特",
+        "info": "極めて優れた名馬達から因子を抜き取って製造された騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/af/64397_crt_c4GG1.jpg",
+        "link": "https://bgm.tv/character/64397",
+        "categorie": "person"
+      },
+      {
+        "id": "64399",
+        "label": "欧文之狮",
+        "info": "騎士ユーウェインが森の中で出会ったとされるライオン。そこそこの変態。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/a1/64399_crt_694y4.jpg",
+        "link": "https://bgm.tv/character/64399",
+        "categorie": "person"
+      },
+      {
+        "id": "64402",
+        "label": "佣兵亚瑟",
+        "info": "仕事を請け負うにあたって金よりも「後味の良さ」を優先する変わり者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a5/64402_crt_aLfcC.jpg?r=1583816436",
+        "link": "https://bgm.tv/character/64402",
+        "categorie": "person"
+      },
+      {
+        "id": "64403",
+        "label": "富豪亚瑟",
+        "info": "ブリテンと「外敵」の争いなんぞさらさら興味がなく、海の向こうの「外敵」、もしくは「それ以上の東の国」との自由な交易を模索する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/63/64403_crt_aL7p8.jpg?r=1583816752",
+        "link": "https://bgm.tv/character/64403",
+        "categorie": "person"
+      },
+      {
+        "id": "64406",
+        "label": "乌莎哈",
+        "info": "スカアハが遺跡「影の国」解析のために連れてきた妖精であるものの、ちっとも役に立たないので今では家事全般を任せてしまっているメイド妖精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/63/64406_crt_yLN7n.jpg?r=1583818730",
+        "link": "https://bgm.tv/character/64406",
+        "categorie": "person"
+      },
+      {
+        "id": "64407",
+        "label": "斯卡哈",
+        "info": "「断絶の時代」の遺跡である「影の国」に勝手に住み着いている研究者。今では「影の国」のシステムを一番熟知している存在となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d9/64407_crt_2zTl4.jpg?r=1583817365",
+        "link": "https://bgm.tv/character/64407",
+        "categorie": "person"
+      },
+      {
+        "id": "64408",
+        "label": "库丘林",
+        "info": "アルスターから来た槍泥棒。ゲイ・ボルグという槍が好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/8d/64408_crt_3mt6G.jpg",
+        "link": "https://bgm.tv/character/64408",
+        "categorie": "person"
+      },
+      {
+        "id": "64415",
+        "label": "法莎莉亚",
+        "info": "「文明を滅ぼす者」として、あの「断絶の時代」でさえ恐れられていた謎の存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/13/64415_crt_44pN6.jpg?r=1583817163",
+        "link": "https://bgm.tv/character/64415",
+        "categorie": "person"
+      },
+      {
+        "id": "40501",
+        "label": "殿坦斯",
+        "info": "他人のボケに鋭くつっこむことを生きがいとしている一風変わった騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/8a/40501_crt_P6UH1.jpg?r=1460565937",
+        "link": "https://bgm.tv/character/40501",
+        "categorie": "person"
+      },
+      {
+        "id": "64411",
+        "label": "兰斯洛特",
+        "info": "アーサーの代では最古にあたる騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/46/64411_crt_Ztw2D.jpg?r=1583698209",
+        "link": "https://bgm.tv/character/64411",
+        "categorie": "person"
+      },
+      {
+        "id": "64413",
+        "label": "摩根·露·菲",
+        "info": "3人の魔女の三女。フルネームは「モーガン・ル・フェイ」。回りくどい策などを好まず、直接的な行動を好む攻撃的な性格。言動は凶暴で残虐。ユリエンス王と手を組み、魔法兵器「ドラグーンファング」を完成させようとしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/c5/64413_crt_h5OdH.jpg?r=1583699840",
+        "link": "https://bgm.tv/character/64413",
+        "categorie": "person"
+      },
+      {
+        "id": "64414",
+        "label": "摩高斯",
+        "info": "3人の魔女の長女。騎士の因子に関して長けた能力を持ち、騎士を弱体化させたりモードレッドを製造する。マーリンの計画に否定的な考えを持ち、妹達と供に11人の支配者と合流する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/29/64414_crt_HjQ28.jpg?r=1583699965",
+        "link": "https://bgm.tv/character/64414",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

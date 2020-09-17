@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33335",
+        "label": "沃里克·阿尔坎杰洛",
+        "info": "声 - 諏訪部順一（少年期：村瀬歩）",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/74/33335_crt_n7YTe.jpg",
+        "link": "https://bgm.tv/character/33335",
+        "categorie": "person"
+      },
+      {
+        "id": "33336",
+        "label": "尼古拉斯·布朗",
+        "info": "声 - 津田健次郎（少年期：花江夏樹）",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/ec/33336_crt_0vbz3.jpg",
+        "link": "https://bgm.tv/character/33336",
+        "categorie": "person"
+      },
+      {
+        "id": "33337",
+        "label": "爱丽克斯·贝奈戴托",
+        "info": "24歳。褐色の肌を持つ元娼婦で、かつて古参マフィアの縄張りを荒らす新興売春グループに飼われ、禁止区域での売春を行わされていた。とある事件をきっかけに「戦利品」として便利屋に引き取られる。現在は電話番として便利屋に居候しており、徐々にニックとウォリックの抱えているものに興味を抱くようになる。美しい歌声を持ち、ウォリック曰く「美尻」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/21/33337_crt_jopFO.jpg",
+        "link": "https://bgm.tv/character/33337",
+        "categorie": "person"
+      },
+      {
+        "id": "33338",
+        "label": "泰奥",
+        "info": "31歳。腕はいいが喧嘩っ早く口も悪い性格。エルガストルムで唯一黄昏種を差別しない医者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/6a/33338_crt_CTOjF.jpg",
+        "link": "https://bgm.tv/character/33338",
+        "categorie": "person"
+      },
+      {
+        "id": "33339",
+        "label": "妮娜",
+        "info": "12歳。看護婦。純真で心優しい少女で、ニックをとても慕っておりニックも彼女に優しさを見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/f2/33339_crt_uxOfJ.jpg",
+        "link": "https://bgm.tv/character/33339",
+        "categorie": "person"
+      },
+      {
+        "id": "33340",
+        "label": "茶渡·阿德金斯",
+        "info": "56歳。警部。便利屋と懇意。モンロー・ファミリーの行為に目をつぶる、便利屋を拘束し、解放する代わりにウォリックの能力を使わせるなど正義の刑事とは言えないが彼なりの信念を持つ。便利屋の過去を知っており「チャドさん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/9e/33340_crt_LL3XZ.jpg",
+        "link": "https://bgm.tv/character/33340",
+        "categorie": "person"
+      },
+      {
+        "id": "33341",
+        "label": "科迪·巴尔弗",
+        "info": "26歳。チャドの部下。常識的な人間であり、周囲に振り回され気味",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/31/33341_crt_22t8q.jpg",
+        "link": "https://bgm.tv/character/33341",
+        "categorie": "person"
+      },
+      {
+        "id": "33342",
+        "label": "丹尼尔·蒙洛",
+        "info": "61歳。モンロー組の総代。若い頃は「ガンスリンガ・ダニー」で名の知れた銃の名手であり、今も腕前は健在。常に余裕ある態度を崩さない男であり、構成員たちの敬意を集める存在。便利屋にも慕われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/cb/33342_crt_Jd1DX.jpg",
+        "link": "https://bgm.tv/character/33342",
+        "categorie": "person"
+      },
+      {
+        "id": "33343",
+        "label": "迈尔斯·麦尔",
+        "info": "54歳。ダニエルとの付き合いは長く、補佐役をつとめる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6c/33343_crt_Cps3x.jpg",
+        "link": "https://bgm.tv/character/33343",
+        "categorie": "person"
+      },
+      {
+        "id": "33344",
+        "label": "扬",
+        "info": "26歳。茶目っ気のある性格。デリコの兄貴分。ダニエルに忠誠を誓い慕っている。普通の人間であるが黄昏種を差別しない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/0a/33344_crt_9S5HM.jpg",
+        "link": "https://bgm.tv/character/33344",
+        "categorie": "person"
+      },
+      {
+        "id": "33345",
+        "label": "德里寇",
+        "info": "26歳。ストイックな性格。ダニエルに忠誠を誓い慕っている。D/0級黄昏種であり、能力の低さがコンプレックスとなっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/ed/33345_crt_Pu1rz.jpg",
+        "link": "https://bgm.tv/character/33345",
+        "categorie": "person"
+      },
+      {
+        "id": "33346",
+        "label": "伊万·格拉济耶夫",
+        "info": "32歳。他人を揶揄することが多い。モンロー組の一員ではあるがその言動・行動ともに何か含みのある一面を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/2b/33346_crt_Jj447.jpg",
+        "link": "https://bgm.tv/character/33346",
+        "categorie": "person"
+      },
+      {
+        "id": "33347",
+        "label": "吉娜·帕可丽",
+        "info": "組合のリーダー。180を越える長身。黄昏種を束ねる長に相応しく凄まじい気迫を持ち、秩序の維持のためにはあらゆる荒っぽい手段をも辞さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/9e/33347_crt_DGnNz.jpg",
+        "link": "https://bgm.tv/character/33347",
+        "categorie": "person"
+      },
+      {
+        "id": "33348",
+        "label": "金吉",
+        "info": "17歳。赤毛にメガネの女性。ジーナの秘書に近い。普段は赤面症でおどおどした喋り方をするが、ジーナに敵意を向ける者に対しては豹変し冷厳な殺意を向ける。S級黄昏種",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/9c/33348_crt_fJymF.jpg",
+        "link": "https://bgm.tv/character/33348",
+        "categorie": "person"
+      },
+      {
+        "id": "33349",
+        "label": "道格",
+        "info": "21歳。好戦的な性格で常に強い者との闘いを望んでいる。成長を失っており外見は10代の少年であり、外見年齢を使った奇襲も行う。A/0級黄昏種",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/7a/33349_crt_N3JJp.jpg",
+        "link": "https://bgm.tv/character/33349",
+        "categorie": "person"
+      },
+      {
+        "id": "33350",
+        "label": "洛蕾塔·克里斯蒂亚诺·阿莫迪奥",
+        "info": "クリスチアーノ組の少女当主。年相応の可愛らしい一面も持つが有事には誇り高き当主として振る舞い組員に慕われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/ae/33350_crt_hVJT2.jpg?r=1443885545",
+        "link": "https://bgm.tv/character/33350",
+        "categorie": "person"
+      },
+      {
+        "id": "33351",
+        "label": "马可·阿德里亚诺",
+        "info": "クリスチアーノ組の構成員。顔に傷のある青年、恋人がおり彼女から託された指輪を何より大事にしている。ワイヤーを用いて戦う。過去にとある部隊に所属し、殺戮の日々を送っていた。「GANGSTA:CURSED. EP_MARCO ADRIANO」の主人公",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/d7/33351_crt_Tiiso.jpg",
+        "link": "https://bgm.tv/character/33351",
+        "categorie": "person"
+      },
+      {
+        "id": "33352",
+        "label": "加拉哈德·沃夫",
+        "info": "クリスチアーノ組の構成員。豪快で気のいい男。両手に嵌めたナックルで戦う。黄昏種。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f9/33352_crt_2y2F6.jpg",
+        "link": "https://bgm.tv/character/33352",
+        "categorie": "person"
+      },
+      {
+        "id": "33838",
+        "label": "约尔·拉沃",
+        "info": "エルガストルムで一つしか無い煙草屋の主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/08/33838_crt_uR4Dl.jpg",
+        "link": "https://bgm.tv/character/33838",
+        "categorie": "person"
+      },
+      {
+        "id": "33839",
+        "label": "康斯塔丝·拉沃",
+        "info": "ヨエルの孫で、武器屋を経営している。愛称はコニー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/02/33839_crt_1rXfy.jpg",
+        "link": "https://bgm.tv/character/33839",
+        "categorie": "person"
+      },
+      {
+        "id": "35889",
+        "label": "艾莉卡",
+        "info": "黄昏人种。契约主人是伊万·格拉济耶夫。和米哈伊尔一起受伊万之令狩猎黄昏人种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/ca/35889_crt_z5Ia5.jpg?r=1443551578",
+        "link": "https://bgm.tv/character/35889",
+        "categorie": "person"
+      },
+      {
+        "id": "35890",
+        "label": "米哈伊尔",
+        "info": "和艾莉卡一起受伊万之令狩猎黄昏人种。实力和A0级不相上下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3e/35890_crt_GrQnt.jpg?r=1443551551",
+        "link": "https://bgm.tv/character/35890",
+        "categorie": "person"
+      },
+      {
+        "id": "35891",
+        "label": "斯特瑞克",
+        "info": "第二驱逐队出身。第三驱逐队成员，银发，左胳膊上有图腾刺青，武器是铁质拐棍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/4f/35891_crt_8d9Wp.jpg?r=1443551698",
+        "link": "https://bgm.tv/character/35891",
+        "categorie": "person"
+      },
+      {
+        "id": "35892",
+        "label": "贝瑞塔",
+        "info": "第二驱逐队出身。第三驱逐队成员。武器是类似刺鞭的鞭子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/1e/35892_crt_cOxod.jpg?r=1443551787",
+        "link": "https://bgm.tv/character/35892",
+        "categorie": "person"
+      },
+      {
+        "id": "35893",
+        "label": "西格",
+        "info": "第三驱逐队成员。右眼戴眼罩，双马尾，武器是战斧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/61/35893_crt_FNwQc.jpg?r=1443551937",
+        "link": "https://bgm.tv/character/35893",
+        "categorie": "person"
+      },
+      {
+        "id": "35894",
+        "label": "柯尔特",
+        "info": "第三驱逐队成员，沉默寡言，武器是狩猎刃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/ea/35894_crt_h4XdI.jpg?r=1443552044",
+        "link": "https://bgm.tv/character/35894",
+        "categorie": "person"
+      },
+      {
+        "id": "35895",
+        "label": "埃米利奥",
+        "info": "来到耶尔卡斯特姆寻找在此工作的姐姐的青年，与驱逐队共同行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f5/35895_crt_SnYdW.jpg?r=1443552271",
+        "link": "https://bgm.tv/character/35895",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "33841",
+        "label": "乌拉诺斯·科西嘉",
+        "info": "科西嘉家族首领，十分厌恶黄昏人种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/b9/33841_crt_FvFu9.jpg?r=1436421030",
+        "link": "https://bgm.tv/character/33841",
+        "categorie": "person"
+      },
+      {
+        "id": "33840",
+        "label": "巴里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/50/33840_crt_J2c2c.jpg",
+        "link": "https://bgm.tv/character/33840",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

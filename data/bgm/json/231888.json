@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15102",
+        "label": "冰室钟",
+        "info": "穗群原学园2年A班学生，远坂凛、美缀绫子的同班同学。三年级升入3年A班。田径部三人组之首(另外两人是莳寺枫和三枝由纪香)，吐槽役。被莳寺强行拉进田径部，却也是跳高王牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/dc/15102_crt_kKk3Q.jpg?r=1421297801",
+        "link": "https://bgm.tv/character/15102",
+        "categorie": "person"
+      },
+      {
+        "id": "3225",
+        "label": "莳寺枫",
+        "info": "穗群原学园2年A班学生，远坂凛、美缀绫子的同班同学。三年级升入3年A班。田径部三人组之一，搞笑役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/fe/3225_crt_anidb.jpg?r=1421298108",
+        "link": "https://bgm.tv/character/3225",
+        "categorie": "person"
+      },
+      {
+        "id": "3226",
+        "label": "三枝由纪香",
+        "info": "穗群原学园的学生。田径部关系好三人组之一。负责吐槽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/7e/3226_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3226",
+        "categorie": "person"
+      },
+      {
+        "id": "47912",
+        "label": "藤丸立香",
+        "info": "人理継続保障機関(カルデア)のマスター候補の1人だが、数合わせとして呼ばれた「素人」。人類史を正すため、英霊召喚システム「フェイト」を使ってサーヴァントを召喚し、7つの聖杯探索(グランドオーダー)を巡ることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/59/47912_crt_645i4.jpg",
+        "link": "https://bgm.tv/character/47912",
+        "categorie": "person"
+      },
+      {
+        "id": "29048",
+        "label": "玛修·基列莱特",
+        "info": "登场于Fate/Grand Order, 源于Fate/stay night最初设定的, 持有巨大盾牌的迷之少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/ac/29048_crt_ZM4FW.jpg?r=1498989510",
+        "link": "https://bgm.tv/character/29048",
+        "categorie": "person"
+      },
+      {
+        "id": "59917",
+        "label": "后藤劾以",
+        "info": "士郎的同班同学之一。会因为最近看的电视或者漫画而变化说话的语气语调，例如武士口气等。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/fe/59917_crt_Y6igP.jpg?r=1514750558",
+        "link": "https://bgm.tv/character/59917",
+        "categorie": "person"
+      },
+      {
+        "id": "15105",
+        "label": "美缀绫子",
+        "info": "十八般武艺样样精通的弓道部主将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b0/15105_crt_ef0EJ.jpg?r=1514751801",
+        "link": "https://bgm.tv/character/15105",
+        "categorie": "person"
+      },
+      {
+        "id": "59916",
+        "label": "佐伯直美",
+        "info": "「氷室の天地 Fate/school life」中的原创人物。田径部部员之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/f2/59916_crt_vTN7V.jpg?r=1514749872",
+        "link": "https://bgm.tv/character/59916",
+        "categorie": "person"
+      },
+      {
+        "id": "3222",
+        "label": "柳洞一成",
+        "info": "与士郎同年级的学生会长，也是士郎的朋友，忠诚老实认真的好青年。身为柳洞家的长子，是柳洞寺的继承人，具有看穿远坂凛的本质的尖锐洞察力，也因此讨厌凛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/7f/3222_crt_anidb.jpg?r=1421298168",
+        "link": "https://bgm.tv/character/3222",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

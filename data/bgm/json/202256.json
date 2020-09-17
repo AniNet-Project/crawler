@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54161",
+        "label": "玛丽·史密斯",
+        "info": "作品主角，是一名有着红发、脸上长有雀斑的11岁女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/41/54161_crt_YML1m.jpg?r=1495535930",
+        "link": "https://bgm.tv/character/54161",
+        "categorie": "person"
+      },
+      {
+        "id": "63130",
+        "label": "彼得",
+        "info": "性格和顺、平时送报打工的12岁少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/10/63130_crt_TCDz7.jpg?r=1524936057",
+        "link": "https://bgm.tv/character/63130",
+        "categorie": "person"
+      },
+      {
+        "id": "54162",
+        "label": "曼波楚克夫人",
+        "info": "玛丽所闯入的魔法世界里头，管理魔法学院“恩多大学”（エンドア大学）的校长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/45/54162_crt_h4PYl.jpg?r=1495536173",
+        "link": "https://bgm.tv/character/54162",
+        "categorie": "person"
+      },
+      {
+        "id": "54163",
+        "label": "迪博士",
+        "info": "任于魔法学院的科学家，外形身形矮小，常坐在外形奇异的载具上行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/c1/54163_crt_UKUIX.jpg?r=1495536299",
+        "link": "https://bgm.tv/character/54163",
+        "categorie": "person"
+      },
+      {
+        "id": "54165",
+        "label": "弗拉纳根",
+        "info": "在魔法学院里扫帚小屋的看守员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c1/54165_crt_G4mFs.jpg?r=1495537467",
+        "link": "https://bgm.tv/character/54165",
+        "categorie": "person"
+      },
+      {
+        "id": "63131",
+        "label": "赛贝迪",
+        "info": "红色房馆的园丁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/15/63131_crt_QF33Y.jpg?r=1524936033",
+        "link": "https://bgm.tv/character/63131",
+        "categorie": "person"
+      },
+      {
+        "id": "54166",
+        "label": "班克斯",
+        "info": "负责打理红色房馆家务的帮佣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/17/54166_crt_KueZW.jpg?r=1495537478",
+        "link": "https://bgm.tv/character/54166",
+        "categorie": "person"
+      },
+      {
+        "id": "54167",
+        "label": "夏洛特",
+        "info": "赤い館の主人で、メアリの大叔母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/af/54167_crt_FrIBp.jpg?r=1495537579",
+        "link": "https://bgm.tv/character/54167",
+        "categorie": "person"
+      },
+      {
+        "id": "63158",
+        "label": "红发魔女",
+        "info": "夜間飛行を使用して危険な実験を続けるマンブルチュークやドクターから、夜間飛行を盗み出した謎の魔女。メアリと同じく赤毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/ec/63158_crt_TY4ui.jpg?r=1525347677",
+        "link": "https://bgm.tv/character/63158",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76544",
+        "label": "加贺谷修一",
+        "info": "優れた嗅覚を持ち、犬の着ぐるみに変身できる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/e8/76544_crt_gS54l.jpg?r=1586167270",
+        "link": "https://bgm.tv/character/76544",
+        "categorie": "person"
+      },
+      {
+        "id": "76545",
+        "label": "青木红爱",
+        "info": "彼女自身が主人公の変身着ぐるのみの中に入ることで主人公の力を引き出すことができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/96/76545_crt_AqAid.jpg?r=1586167380",
+        "link": "https://bgm.tv/character/76545",
+        "categorie": "person"
+      },
+      {
+        "id": "76546",
+        "label": "外星人",
+        "info": "潰れたラブホテルのそばにある自動販売機にいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/53/76546_crt_6yHIC.jpg?r=1586167466",
+        "link": "https://bgm.tv/character/76546",
+        "categorie": "person"
+      },
+      {
+        "id": "76547",
+        "label": "三船奈奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/ae/76547_crt_oV6tT.jpg?r=1586167528",
+        "link": "https://bgm.tv/character/76547",
+        "categorie": "person"
+      },
+      {
+        "id": "76548",
+        "label": "冰川",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/64/76548_crt_LX7am.jpg?r=1586167611",
+        "link": "https://bgm.tv/character/76548",
+        "categorie": "person"
+      },
+      {
+        "id": "76549",
+        "label": "吉冈千寻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/e5/76549_crt_MRTCF.jpg?r=1586167874",
+        "link": "https://bgm.tv/character/76549",
+        "categorie": "person"
+      },
+      {
+        "id": "76550",
+        "label": "青木江丽奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/d0/76550_crt_h4zZu.jpg?r=1586167945",
+        "link": "https://bgm.tv/character/76550",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

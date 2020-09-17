@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38907",
+        "label": "绪方圭",
+        "info": "『PureMail -ピュアメール-』に登場",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/22/38907_crt_Efa25.jpg",
+        "link": "https://bgm.tv/character/38907",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

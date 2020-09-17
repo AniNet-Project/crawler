@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73503",
+        "label": "梅普露 / 本条枫",
+        "info": "本名は本条楓。防御力に極振りしてしまい、どんな攻撃も防ぐ大盾使いとなっていくが、本人はその防御力の異常さに気付いていない。なんでも楽しめる性格で、好奇心のままに突っ走っていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/66/73503_crt_IIGBE.jpg?r=1574741707",
+        "link": "https://bgm.tv/character/73503",
+        "categorie": "person"
+      },
+      {
+        "id": "73505",
+        "label": "莎莉 / 白峰理沙",
+        "info": "本名は白峯理沙。メイプルの親友で、VRMMO『NewWorld Online』に誘った張本人。ゲームの経験が豊富で、ずば抜けた集中力とプレイヤースキルですべての攻撃を回避する。友達思いのしっかり者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/a6/73505_crt_dzq5d.jpg?r=1579407574",
+        "link": "https://bgm.tv/character/73505",
+        "categorie": "person"
+      },
+      {
+        "id": "73506",
+        "label": "奏",
+        "info": "色白で中性的な顔立ちをした記 憶力抜群の天才少年。特殊なスキルが使えるというルービックキューブ型の杖を使用する。笑顔を絶やさないが、本心が見えず掴みどころがない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/2d/73506_crt_xxxm6.jpg?r=1574741741",
+        "link": "https://bgm.tv/character/73506",
+        "categorie": "person"
+      },
+      {
+        "id": "74596",
+        "label": "霞",
+        "info": "イベントで上位に入賞したことのある刀使い。生真面目な常識人で、冷静に戦況を見極め的確な判断で行動する。攻撃力と敏捷性が高く、敵に安定したダメージを与えられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/85/74596_crt_XTIb4.jpg?r=1580364567",
+        "link": "https://bgm.tv/character/74596",
+        "categorie": "person"
+      },
+      {
+        "id": "74597",
+        "label": "麻衣",
+        "info": "攻撃力に極振りした初心者プレイヤー。ユイの双子の姉。慎重すぎる性格で、 やや優柔不断かつ心配性なところもあるが、みんなに迷惑をかけないよう精一杯努力している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/87/74597_crt_006m2.jpg?r=1581421059",
+        "link": "https://bgm.tv/character/74597",
+        "categorie": "person"
+      },
+      {
+        "id": "74598",
+        "label": "结衣",
+        "info": "攻撃力に極振りした初心者プレイヤー。マイの双子の妹。マイに比べ、前向きで積極的な性格。心配性のマイを気遣うことが多い。双子揃って楓の木のメンバーに鍛えられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/04/74598_crt_Pmp7r.jpg?r=1581633885",
+        "link": "https://bgm.tv/character/74598",
+        "categorie": "person"
+      },
+      {
+        "id": "74599",
+        "label": "伊兹",
+        "info": "生産に特化したプレイヤー。武器と防具の鍛冶が専門だが、アクセサリーやアイテムの製作、製造など生産に関することはなんでもできる。モノづくりへのこだわりが強い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/0c/74599_crt_GyZNY.jpg?r=1582171730",
+        "link": "https://bgm.tv/character/74599",
+        "categorie": "person"
+      },
+      {
+        "id": "74600",
+        "label": "克罗姆",
+        "info": "『NewWorld Online』のトッププレイヤーで、メイプルと同じ大盾使い。前衛で大盾によって攻撃を弾き、パーティーを守る堅実な戦い方を徹底している。面倒見のよい兄貴肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/2c/74600_crt_4DJXd.jpg?r=1582962039",
+        "link": "https://bgm.tv/character/74600",
+        "categorie": "person"
+      },
+      {
+        "id": "76010",
+        "label": "芙蕾德丽卡",
+        "info": "女性魔法師玩家。武器是一把十分華麗的法杖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/c2/76010_crt_11B5A.jpg?r=1583441404",
+        "link": "https://bgm.tv/character/76010",
+        "categorie": "person"
+      },
+      {
+        "id": "80840",
+        "label": "马克斯",
+        "info": "战斗方式以陷阱作主体，一旦准备充足就会非常强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/38/80840_crt_2hjlJ.jpg?r=1597705531",
+        "link": "https://bgm.tv/character/80840",
+        "categorie": "person"
+      },
+      {
+        "id": "76033",
+        "label": "ミザリー",
+        "info": "ギルド【炎帝ノ国】に所属する女性プレイヤー。第一回イベントでは10位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/3c/76033_crt_QT4Qv.jpg",
+        "link": "https://bgm.tv/character/76033",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

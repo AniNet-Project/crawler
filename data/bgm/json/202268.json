@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54168",
+        "label": "犬屋敷壹郎",
+        "info": "58歳には到底見えないほど白髪に皺だらけの老け顔サラリーマン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/bd/54168_crt_wsfBI.jpg?r=1498045711",
+        "link": "https://bgm.tv/character/54168",
+        "categorie": "person"
+      },
+      {
+        "id": "54169",
+        "label": "狮子神皓",
+        "info": "母、そして幼馴染みである安堂のことを誰よりも気にかけているが、それ以外の人間には全くの無関心という極端な二面性を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/04/54169_crt_k8mKE.jpg?r=1498045694",
+        "link": "https://bgm.tv/character/54169",
+        "categorie": "person"
+      },
+      {
+        "id": "58899",
+        "label": "井上文乃",
+        "info": "弁当屋で働く美女。背が低いことを気にしている。鮫島に気に入られたことで拉致されてしまい、覚醒剤を注射された上に強姦されそうになるが、日本刀で鮫島の手を斬りつけ逃走。悟の待つ自宅に帰るが再び鮫島に拉致されてしまう。鮫島含め暴力団を壊滅させた犬屋敷に助けられ、無事に悟の元へ帰る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/a3/58899_crt_KzV1e.jpg",
+        "link": "https://bgm.tv/character/58899",
+        "categorie": "person"
+      },
+      {
+        "id": "57634",
+        "label": "安堂直行",
+        "info": "獅子神が唯一心を許す幼馴染。あだ名は名前を音読みした「チョッコー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/06/57634_crt_EZMLP.jpg",
+        "link": "https://bgm.tv/character/57634",
+        "categorie": "person"
+      },
+      {
+        "id": "57914",
+        "label": "犬屋敷麻理",
+        "info": "犬屋敷の娘で、獅子神と安堂のクラスメイト。容姿端麗な自分とは違い、老けている父のことをうっとうしく思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d2/57914_crt_GIEZO.jpg",
+        "link": "https://bgm.tv/character/57914",
+        "categorie": "person"
+      },
+      {
+        "id": "57915",
+        "label": "渡边诗音",
+        "info": "獅子神と安堂のクラスメイト。祖母と二人暮らし。特徴的な癖っ毛のせいで同級生からバカにされているが、いじめられていた安堂を助ける獅子神の姿を見て、好意を寄せるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/62/57915_crt_dnI3f.jpg",
+        "link": "https://bgm.tv/character/57915",
+        "categorie": "person"
+      },
+      {
+        "id": "58439",
+        "label": "犬屋敷万理江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/ae/58439_crt_i6Tbp.jpg",
+        "link": "https://bgm.tv/character/58439",
+        "categorie": "person"
+      },
+      {
+        "id": "58440",
+        "label": "犬屋敷刚史",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/13/58440_crt_80VXp.jpg",
+        "link": "https://bgm.tv/character/58440",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

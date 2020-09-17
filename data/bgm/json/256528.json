@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66265",
+        "label": "朏素晴",
+        "info": "人付き合いが苦手なミステリー作家。両親は旅先の事故で他界。偶然出会ったノラ猫のハルに創作意欲を掻き立てられ、一緒に暮らし始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/69/66265_crt_r8Gzl.jpg?r=1545037862",
+        "link": "https://bgm.tv/character/66265",
+        "categorie": "person"
+      },
+      {
+        "id": "66266",
+        "label": "阳",
+        "info": "過酷なノラ生活を送ってきた、目つきの鋭い猫。性別はメス。ひょんなことから、素晴に拾われ一緒に暮らすことに。人間なのにほっとけない素晴に、猫なりの世話を焼き始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/38/66266_crt_oxzV8.jpg",
+        "link": "https://bgm.tv/character/66266",
+        "categorie": "person"
+      },
+      {
+        "id": "67785",
+        "label": "押守奈奈",
+        "info": "ペットショップ店員。猫と暮らし始めて何かと悩む素晴にアドバイスをする。猫のろくとはちと暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/32/67785_crt_XYB45.jpg?r=1545038098",
+        "link": "https://bgm.tv/character/67785",
+        "categorie": "person"
+      },
+      {
+        "id": "67786",
+        "label": "矢坂大翔",
+        "info": "素晴の幼馴染。大雑把なように見えるが、社交的であり、両親を亡くした素晴を気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/6f/67786_crt_zkr54.jpg?r=1545038852",
+        "link": "https://bgm.tv/character/67786",
+        "categorie": "person"
+      },
+      {
+        "id": "67787",
+        "label": "河濑笃",
+        "info": "「こぐま出版」に勤める、素晴の担当編集。人見知りの素晴にも積極的に接する。無類の猫好きでハルを可愛がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/87/67787_crt_v1R7h.jpg?r=1545039044",
+        "link": "https://bgm.tv/character/67787",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19639",
+        "label": "A型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f0/19639_crt_KKpB7.jpg",
+        "link": "https://bgm.tv/character/19639",
+        "categorie": "person"
+      },
+      {
+        "id": "19640",
+        "label": "B型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/46/19640_crt_66ju2.jpg",
+        "link": "https://bgm.tv/character/19640",
+        "categorie": "person"
+      },
+      {
+        "id": "19641",
+        "label": "O型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/04/19641_crt_Y11Mt.jpg",
+        "link": "https://bgm.tv/character/19641",
+        "categorie": "person"
+      },
+      {
+        "id": "19642",
+        "label": "AB型君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/9d/19642_crt_HE8e8.jpg",
+        "link": "https://bgm.tv/character/19642",
+        "categorie": "person"
+      },
+      {
+        "id": "28403",
+        "label": "A型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/0f/28403_crt_mB13t.jpg",
+        "link": "https://bgm.tv/character/28403",
+        "categorie": "person"
+      },
+      {
+        "id": "28404",
+        "label": "B型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/3b/28404_crt_aSRNd.jpg",
+        "link": "https://bgm.tv/character/28404",
+        "categorie": "person"
+      },
+      {
+        "id": "28405",
+        "label": "O型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/ad/28405_crt_TMgNo.jpg",
+        "link": "https://bgm.tv/character/28405",
+        "categorie": "person"
+      },
+      {
+        "id": "28406",
+        "label": "AB型酱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/8c/28406_crt_MA6l6.jpg",
+        "link": "https://bgm.tv/character/28406",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

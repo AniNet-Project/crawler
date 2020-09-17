@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32234",
+        "label": "橘陆郎",
+        "info": "ep.01 CV - 逢坂良太",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/e1/32234_crt_5ODy5.jpg",
+        "link": "https://bgm.tv/character/32234",
+        "categorie": "person"
+      },
+      {
+        "id": "33661",
+        "label": "アンネローゼ・ヴァジュラ",
+        "info": "CV - 青山華",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/8e/33661_crt_s35s9.jpg",
+        "link": "https://bgm.tv/character/33661",
+        "categorie": "person"
+      },
+      {
+        "id": "33662",
+        "label": "ミチコ",
+        "info": "CV - 姫川あいり",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/05/33662_crt_QeBWi.jpg",
+        "link": "https://bgm.tv/character/33662",
+        "categorie": "person"
+      },
+      {
+        "id": "33663",
+        "label": "アイシュワリヤ・レイ",
+        "info": "褐色の肌をもつ、魔界出身の妖女。表向きは凄腕の占い師だが、アミダハラの一地域「紅天楼」を支配し、アミダハラ全体を支配する組織とは相互不可侵条約を結んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/41/33663_crt_v4Y4v.jpg",
+        "link": "https://bgm.tv/character/33663",
+        "categorie": "person"
+      },
+      {
+        "id": "33664",
+        "label": "李美鳳",
+        "info": "魔女にして凄腕の暗殺者。元々は人間だったが、ある魔女を暗殺してその刺青を自らの背中に移す形でその魔力を得て、魔女となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/28/33664_crt_sA818.jpg",
+        "link": "https://bgm.tv/character/33664",
+        "categorie": "person"
+      },
+      {
+        "id": "33665",
+        "label": "音无美树",
+        "info": "兄を探しにアミダハラを訪れた少女。明るい体育会系の少女で、魔力にも強い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/e5/33665_crt_KIGgt.jpg",
+        "link": "https://bgm.tv/character/33665",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

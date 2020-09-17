@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22915",
+        "label": "恒",
+        "info": "貌似是主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/64/22915_crt_4z4XG.jpg?r=1389332296",
+        "link": "https://bgm.tv/character/22915",
+        "categorie": "person"
+      },
+      {
+        "id": "22916",
+        "label": "巧美",
+        "info": "恒的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/2b/22916_crt_o4Uol.jpg?r=1389332542",
+        "link": "https://bgm.tv/character/22916",
+        "categorie": "person"
+      },
+      {
+        "id": "22917",
+        "label": "正宗",
+        "info": "美国侦探事务所的一员，负责力气活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/d6/22917_crt_pfdPB.jpg?r=1389332946",
+        "link": "https://bgm.tv/character/22917",
+        "categorie": "person"
+      },
+      {
+        "id": "22918",
+        "label": "美羽",
+        "info": "美国侦探事务所的秘书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/d3/22918_crt_m7PDL.jpg?r=1389333520",
+        "link": "https://bgm.tv/character/22918",
+        "categorie": "person"
+      },
+      {
+        "id": "22919",
+        "label": "尾杜",
+        "info": "无证医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/cc/22919_crt_mw2Th.jpg",
+        "link": "https://bgm.tv/character/22919",
+        "categorie": "person"
+      },
+      {
+        "id": "26971",
+        "label": "奈々",
+        "info": "美国探偵事務所と同様、何でも屋の女性。25歳。自称「心は乙女のクールガール」",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/19/26971_crt_ENAaH.jpg",
+        "link": "https://bgm.tv/character/26971",
+        "categorie": "person"
+      },
+      {
+        "id": "48669",
+        "label": "管野",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/e4/48669_crt_e7r7L.jpg",
+        "link": "https://bgm.tv/character/48669",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

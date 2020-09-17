@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63215",
+        "label": "秋山时乃",
+        "info": "会長候補。黄色（オレンジ）の髪をしている。かなりの天然ボケで、大のキノコ好き。キノコを一口口にするとその場にあるキノコ全てを食べ尽してしまうという恐るべき悪癖の持ち主。巻が進むにつれ髪型が外骨格化してゆく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/60/63215_crt_OYK3w.jpg?r=1525254431",
+        "link": "https://bgm.tv/character/63215",
+        "categorie": "person"
+      },
+      {
+        "id": "63221",
+        "label": "律子·库贝尔·凯顿古拉德",
+        "info": "現・生徒会長。ドイツ人とのハーフで、千尋の2歳年上の幼馴染み。千尋の事が好きで、幼い頃に泣き虫を克服する事でお嫁さんになる約束をしていた。生徒会会長に代々受け継がれるヘルメットを常に着用している。ちなみに、千尋との回想シーンは原作漫画とアニメでは演出が異なっており、斑目はアニメ版を評価していない模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/7c/63221_crt_X0w6p.jpg",
+        "link": "https://bgm.tv/character/63221",
+        "categorie": "person"
+      },
+      {
+        "id": "63224",
+        "label": "榎本千寻",
+        "info": "書記候補として時乃、小牧、いづみらとチームを組むことになる高校生で、この作品の主人公。メガネをかけた小柄な少年。入学式当日に図書館で出会った時乃に一目惚れ。以来、地道に努力を続けている。姉の榎本忍と2人暮らしで、家事を担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/a5/63224_crt_l97gv.jpg",
+        "link": "https://bgm.tv/character/63224",
+        "categorie": "person"
+      },
+      {
+        "id": "63222",
+        "label": "朝霧小牧",
+        "info": "会計候補。ピンク色の髪をしていて八重歯がチャームポイント。3人の弟と妹1人（小雪）の面倒を見つつ家事の一切を引き受ける苦労人。千尋の事が好きだが、千尋の時乃への思いを知って言い出せないでいる。常に首にマフラーを巻いており、我慢比べの時でも外さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/30/63222_crt_N7SLs.jpg",
+        "link": "https://bgm.tv/character/63222",
+        "categorie": "person"
+      },
+      {
+        "id": "63223",
+        "label": "橘泉",
+        "info": "副会長候補。ゴーグルがトレードマーク。生粋のギャンブラーで、如月香澄の実家「如月組」では「四つ目の橘」の二つ名で麻雀の代打ちなどの仕事をしており、如月家の人間には顔が売れている。時乃の親友（設定では“それ以上の感情”も持っているらしい）。普段のボーイッシュで勝気な性格とは裏腹に、怪談やお化け屋敷が大の苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/db/63223_crt_EFXZk.jpg",
+        "link": "https://bgm.tv/character/63223",
+        "categorie": "person"
+      },
+      {
+        "id": "5981",
+        "label": "莉莎·哈维",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/b9/5981_crt_anidb.jpg?r=1579418673",
+        "link": "https://bgm.tv/character/5981",
+        "categorie": "person"
+      },
+      {
+        "id": "63220",
+        "label": "如月香澄",
+        "info": "現・副会長。「如月組」の一人娘で、任侠の世界で生きる。彼女にはアレッサンドロ・ベルルスコーニというイタリアマフィアの跡取りの婚約者がおり、卒業と同時に結婚する予定。人とのスキンシップが極端に苦手で、人に抱きつかれると失神する（唯一の例外は律子）。銘刀「斬雪（ざんせつ）」をいつも持ち歩いている。通称「副会長」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/53/63220_crt_veEpg.jpg",
+        "link": "https://bgm.tv/character/63220",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

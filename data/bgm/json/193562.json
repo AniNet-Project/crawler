@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12062",
+        "label": "天王寺瑚太朗",
+        "info": "主人公。以捉弄人为趣、有点容易得意忘形。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/ce/12062_crt_BUvxK.jpg?r=1517012433",
+        "link": "https://bgm.tv/character/12062",
+        "categorie": "person"
+      },
+      {
+        "id": "13111",
+        "label": "键",
+        "info": "白と黒のヒナギクが埋め尽くす丘で佇む謎の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ed/13111_crt_99450.jpg",
+        "link": "https://bgm.tv/character/13111",
+        "categorie": "person"
+      },
+      {
+        "id": "12086",
+        "label": "西九条灯花",
+        "info": "瑚太朗所在学校的新任教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/35/12086_crt_af3y7.jpg",
+        "link": "https://bgm.tv/character/12086",
+        "categorie": "person"
+      },
+      {
+        "id": "43441",
+        "label": "津久野",
+        "info": "朱音の専属秘書。異様に身体能力が高いなど謎が多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/bc/43441_crt_v1X93.jpg?r=1468741456",
+        "link": "https://bgm.tv/character/43441",
+        "categorie": "person"
+      },
+      {
+        "id": "43443",
+        "label": "江坂宗源",
+        "info": "アンティークショップ「フォレスト」を町で営んでいる実業家のナイスミドル。たまに笑えないGAG（ギャグ）を飛ばしており、彼を知る者からは病気とまで言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/e2/43443_crt_DmzRg.jpg?r=1468742589",
+        "link": "https://bgm.tv/character/43443",
+        "categorie": "person"
+      },
+      {
+        "id": "43639",
+        "label": "今宫新",
+        "info": "町の遊び人。若作りしているが、オッサンの兆しが出てきて焦っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/aa/43639_crt_zz3YP.jpg?r=1469444271",
+        "link": "https://bgm.tv/character/43639",
+        "categorie": "person"
+      },
+      {
+        "id": "44756",
+        "label": "加岛樱",
+        "info": "環境保護団体日本マーテルの象徴とされる人物。卓越した眼力があるカリスマだが、今は一線を引いていて、ほとんど表舞台には出ない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/14/44756_crt_W5KjA.jpg?r=1471918786",
+        "link": "https://bgm.tv/character/44756",
+        "categorie": "person"
+      },
+      {
+        "id": "44759",
+        "label": "洲崎周一郎",
+        "info": "瑚太朗の両親も通う、環境保護団体マーテル日本支部の重鎮。元陸上自衛隊一等陸佐。魔物使いとしての能力は弱いが、現代的思考による組織改革に着手し、大きな成果を得ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/53/44759_crt_Kf6Q4.jpg",
+        "link": "https://bgm.tv/character/44759",
+        "categorie": "person"
+      },
+      {
+        "id": "46444",
+        "label": "亚斯茗",
+        "info": "Terra編に登場。親兄弟のいない、貧しい少女。とあるきっかけで瑚太朗やルイスと親しくなる。離れてからもメールのやり取りをし、瑚太朗を手助けする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/26/46444_crt_DVYg9.jpg",
+        "link": "https://bgm.tv/character/46444",
+        "categorie": "person"
+      },
+      {
+        "id": "12063",
+        "label": "神户小鸟",
+        "info": "瑚太朗的好朋友。身材娇小但精力充沛、像小动物一样的女孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/4e/12063_crt_v6rzv.jpg",
+        "link": "https://bgm.tv/character/12063",
+        "categorie": "person"
+      },
+      {
+        "id": "12065",
+        "label": "凤千早",
+        "info": "突然转学到瑚太朗所在学校的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/32/12065_crt_wFLhM.jpg",
+        "link": "https://bgm.tv/character/12065",
+        "categorie": "person"
+      },
+      {
+        "id": "12072",
+        "label": "千里朱音",
+        "info": "被暗地里称作「学园的魔女」的神秘研究会部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/4b/12072_crt_Yb0ur.jpg",
+        "link": "https://bgm.tv/character/12072",
+        "categorie": "person"
+      },
+      {
+        "id": "12074",
+        "label": "中津静流",
+        "info": "主人公的后辈、风纪委员会所属。无口但很直率。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/dd/12074_crt_GH9Gc.jpg",
+        "link": "https://bgm.tv/character/12074",
+        "categorie": "person"
+      },
+      {
+        "id": "12082",
+        "label": "此花露西娅",
+        "info": "作为富有（人格）魅力的班长，在临近的班级也颇有名气。似乎有洁癖，极不擅长和男孩子打交道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/5c/12082_crt_rX86J.jpg",
+        "link": "https://bgm.tv/character/12082",
+        "categorie": "person"
+      },
+      {
+        "id": "12083",
+        "label": "吉野晴彦",
+        "info": "自称「狂犬」的法外者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/21/12083_crt_656p9.jpg",
+        "link": "https://bgm.tv/character/12083",
+        "categorie": "person"
+      },
+      {
+        "id": "12085",
+        "label": "凤咲夜",
+        "info": "ちはや自称的 「兄长」。但是并没有血缘关系、作为管家一直照顾着她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/3e/12085_crt_Wb1Io.jpg",
+        "link": "https://bgm.tv/character/12085",
+        "categorie": "person"
+      },
+      {
+        "id": "43025",
+        "label": "神户理香子",
+        "info": "小鳥の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/eb/43025_crt_ohIWR.jpg?r=1467493844",
+        "link": "https://bgm.tv/character/43025",
+        "categorie": "person"
+      },
+      {
+        "id": "43442",
+        "label": "御堂",
+        "info": "町を徘徊している怪しいフードの男。｢ミドウ｣の名は偽名。瑚太朗はある事件に巻き込まれた時、この男と深く関わってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/8e/43442_crt_uEkYE.jpg?r=1472373391",
+        "link": "https://bgm.tv/character/43442",
+        "categorie": "person"
+      },
+      {
+        "id": "43444",
+        "label": "盖纳吉·艾德阿鲁特维奇·卡瓦齐艾瓦",
+        "info": "静流が通うラーメン屋の親父。静流曰く、よくメンラ―を奢ってくれる良い親父。筋骨隆々で腕っぷしも強く、町のことにも詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/9e/43444_crt_5VyKT.jpg?r=1468742724",
+        "link": "https://bgm.tv/character/43444",
+        "categorie": "person"
+      },
+      {
+        "id": "44104",
+        "label": "滨田美智子",
+        "info": "居住在世田谷区的OL，某条线里和瑚太朗结婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/c5/44104_crt_10P99.jpg",
+        "link": "https://bgm.tv/character/44104",
+        "categorie": "person"
+      },
+      {
+        "id": "46433",
+        "label": "神户圭介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/72/46433_crt_dcnOt.jpg",
+        "link": "https://bgm.tv/character/46433",
+        "categorie": "person"
+      },
+      {
+        "id": "46439",
+        "label": "マルキュス・ノエ",
+        "info": "ゲンさんのラーメン屋の常連の一人（バンダナをした人）。ガーディアンの超人で、現役時代は江坂とバイアーン帯剣緑地騎士団を組んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/90/46439_crt_zVVLQ.jpg",
+        "link": "https://bgm.tv/character/46439",
+        "categorie": "person"
+      },
+      {
+        "id": "46442",
+        "label": "天马",
+        "info": "ミドウと行動を共にするフードの男。わがまま放題のミドウを諌める苦労人だが、結構仲間思い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/14/46442_crt_8h999.jpg",
+        "link": "https://bgm.tv/character/46442",
+        "categorie": "person"
+      },
+      {
+        "id": "46443",
+        "label": "天神",
+        "info": "ミドウと共に活動しているフードの男。三人の中で一番無口で,ハゲている。Harvest Festa!でハゲているのではなく剃っていることが判明した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/48/46443_crt_l866N.jpg",
+        "link": "https://bgm.tv/character/46443",
+        "categorie": "person"
+      },
+      {
+        "id": "51043",
+        "label": "福井子",
+        "info": "在孤儿院【缘之家】工作的女性。擅长卖萌（雾）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/4b/51043_crt_d58KD.jpg",
+        "link": "https://bgm.tv/character/51043",
+        "categorie": "person"
+      },
+      {
+        "id": "51048",
+        "label": "天王寺数夫",
+        "info": "天王寺瑚太朗的父亲。在母神会工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/fc/51048_crt_XAz25.jpg",
+        "link": "https://bgm.tv/character/51048",
+        "categorie": "person"
+      },
+      {
+        "id": "51050",
+        "label": "天王寺幸枝",
+        "info": "天王寺瑚太朗的母亲。在母神会工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/10/51050_crt_D8XjP.jpg",
+        "link": "https://bgm.tv/character/51050",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

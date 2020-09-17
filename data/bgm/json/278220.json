@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71414",
+        "label": "圣瑞姬",
+        "info": "平穏に暮らしたい女子高生。なぜか厨二病男子たちの仲間に。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/58/71414_crt_25G87.jpg",
+        "link": "https://bgm.tv/character/71414",
+        "categorie": "person"
+      },
+      {
+        "id": "71415",
+        "label": "野田大和",
+        "info": "ヒーローに憧れる永遠の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/d2/71415_crt_8fey7.jpg",
+        "link": "https://bgm.tv/character/71415",
+        "categorie": "person"
+      },
+      {
+        "id": "71416",
+        "label": "高岛智树",
+        "info": "二次元しか愛せない残念系イケメン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/81/71416_crt_w0KZQ.jpg",
+        "link": "https://bgm.tv/character/71416",
+        "categorie": "person"
+      },
+      {
+        "id": "71417",
+        "label": "中村和博",
+        "info": "暗黒神を右腕に宿す(？)孤独な秀才。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/42/71417_crt_ZmY6g.jpg",
+        "link": "https://bgm.tv/character/71417",
+        "categorie": "person"
+      },
+      {
+        "id": "71418",
+        "label": "九十九零",
+        "info": "意味深な言動を繰り返す黒幕的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/58/71418_crt_nb47u.jpg",
+        "link": "https://bgm.tv/character/71418",
+        "categorie": "person"
+      },
+      {
+        "id": "71419",
+        "label": "厨二叶",
+        "info": "リア充かと思われたが、実はナルシストな歌い手(しかも音痴)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/a5/71419_crt_Zsufa.jpg",
+        "link": "https://bgm.tv/character/71419",
+        "categorie": "person"
+      },
+      {
+        "id": "72064",
+        "label": "渡濑 菜菜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/af/72064_crt_OAAM4.jpg",
+        "link": "https://bgm.tv/character/72064",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43980",
+        "label": "久我山奈々子",
+        "info": "優雅でお嬢さま的な気品を漂わせる “アイドル声優キャラ”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ad/43980_crt_MIuPF.jpg",
+        "link": "https://bgm.tv/character/43980",
+        "categorie": "person"
+      },
+      {
+        "id": "43981",
+        "label": "逢沢桃夏",
+        "info": "学園一のカップ数を誇る、人気急上昇中のグラビアアイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/80/43981_crt_zh7bl.jpg",
+        "link": "https://bgm.tv/character/43981",
+        "categorie": "person"
+      },
+      {
+        "id": "43982",
+        "label": "雛形こばと",
+        "info": "カメラ＆アガリ症＆人見知り を克服するため、両親の勧めでアイドルになってしまった女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/c5/43982_crt_DL2pQ.jpg",
+        "link": "https://bgm.tv/character/43982",
+        "categorie": "person"
+      },
+      {
+        "id": "43984",
+        "label": "五十鈴川秋乃",
+        "info": "おでんとお好み焼き・お漬物が好きな、演歌歌手を親に持つ古風な家に生まれた女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/68/43984_crt_3889c.jpg",
+        "link": "https://bgm.tv/character/43984",
+        "categorie": "person"
+      },
+      {
+        "id": "43985",
+        "label": "黒木シオン",
+        "info": "一見 気難しそうな女の子にカモフラージュされているが、実はすでに “殺し屋” として裏世界に “デビュー” している女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/0f/43985_crt_JhVA9.jpg",
+        "link": "https://bgm.tv/character/43985",
+        "categorie": "person"
+      },
+      {
+        "id": "43979",
+        "label": "星咲天音",
+        "info": "主人公の義妹で、小さい頃から母親のようなアイドルになることを夢見ている女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/68/43979_crt_MXT63.jpg",
+        "link": "https://bgm.tv/character/43979",
+        "categorie": "person"
+      },
+      {
+        "id": "43983",
+        "label": "南波愛沙",
+        "info": "故郷の島の人たちに見送られやって来た沖縄出身の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/75/43983_crt_95597.jpg",
+        "link": "https://bgm.tv/character/43983",
+        "categorie": "person"
+      },
+      {
+        "id": "43986",
+        "label": "如月空",
+        "info": "動画投稿サイトなど、ネットで人気のヴァーチャルアイドル “エア” の中の人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/bc/43986_crt_kB5ol.jpg",
+        "link": "https://bgm.tv/character/43986",
+        "categorie": "person"
+      },
+      {
+        "id": "43987",
+        "label": "松田勇歌理",
+        "info": "身長：157cm　 スリーサイズ：B120（S）/ W60/ H88",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/a1/43987_crt_jKJhn.jpg",
+        "link": "https://bgm.tv/character/43987",
+        "categorie": "person"
+      },
+      {
+        "id": "43988",
+        "label": "星咲姫",
+        "info": "人間の姿になることができるポメラニアン少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b2/43988_crt_CoxRS.jpg",
+        "link": "https://bgm.tv/character/43988",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

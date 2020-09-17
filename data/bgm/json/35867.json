@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15747",
+        "label": "黑鸟千代子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ab/15747_crt_ClRJA.jpg?r=1364648267",
+        "link": "https://bgm.tv/character/15747",
+        "categorie": "person"
+      },
+      {
+        "id": "15748",
+        "label": "纠比特",
+        "info": "黑魔女二段，千子的导师。常穿着黑皮斗篷。有着银色的头发和黄色的眼睛，脸很白的超美型，说话口气像男孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/a3/15748_crt_mbBzZ.jpg?r=1364648279",
+        "link": "https://bgm.tv/character/15748",
+        "categorie": "person"
+      },
+      {
+        "id": "22413",
+        "label": "紫苑惠",
+        "info": "誕生日 8月8日 血液型 B型 星座 獅子座",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/30/22413_crt_pCyvS.jpg",
+        "link": "https://bgm.tv/character/22413",
+        "categorie": "person"
+      },
+      {
+        "id": "23893",
+        "label": "一路舞",
+        "info": "誕生日 9月14日 血液型 O型 星座 乙女座",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/6e/23893_crt_037dQ.jpg?r=1394152337",
+        "link": "https://bgm.tv/character/23893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

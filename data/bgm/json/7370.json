@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13682",
+        "label": "伊藤启太",
+        "info": "『学園ヘヴン』の主人公。 運のいい少年。前向きな性格で素直。楽天的でやや単純。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/6a/13682_crt_u41cH.jpg?r=1405399417",
+        "link": "https://bgm.tv/character/13682",
+        "categorie": "person"
+      },
+      {
+        "id": "25985",
+        "label": "远藤和希",
+        "info": "主人公のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/2d/25985_crt_06igi.jpg?r=1405398795",
+        "link": "https://bgm.tv/character/25985",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

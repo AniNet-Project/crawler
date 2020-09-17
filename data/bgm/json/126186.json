@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45291",
+        "label": "柊玖留々",
+        "info": "ビルのオーナーの娘で、主人公が勤める前から漫画喫茶には出入りしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/51/45291_crt_MnTt3.jpg",
+        "link": "https://bgm.tv/character/45291",
+        "categorie": "person"
+      },
+      {
+        "id": "45292",
+        "label": "観月音那",
+        "info": "体型：スレンダーな感じでアイドルだけあって整った身体。特にウエストは細い",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/62/45292_crt_288w9.jpg",
+        "link": "https://bgm.tv/character/45292",
+        "categorie": "person"
+      },
+      {
+        "id": "45293",
+        "label": "涼川麗",
+        "info": "昔から勤めている古株の店員で、よく入れ替わる店員たちの中では一番勤務時間が長い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/91/45293_crt_Z2hGw.jpg",
+        "link": "https://bgm.tv/character/45293",
+        "categorie": "person"
+      },
+      {
+        "id": "45294",
+        "label": "御堂紗弥香",
+        "info": "ライバル店の偵察にやって来た大きな会社の社長令嬢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/33/45294_crt_iBhHZ.jpg",
+        "link": "https://bgm.tv/character/45294",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

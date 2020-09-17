@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58092",
+        "label": "緋月結衣子",
+        "info": "鮎美たちの姉で、遠縁の正和と結婚した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/4d/58092_crt_fZ88G.jpg",
+        "link": "https://bgm.tv/character/58092",
+        "categorie": "person"
+      },
+      {
+        "id": "58089",
+        "label": "緋月鮎美",
+        "info": "【三女】",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/3b/58089_crt_S91xG.jpg",
+        "link": "https://bgm.tv/character/58089",
+        "categorie": "person"
+      },
+      {
+        "id": "58090",
+        "label": "緋月美津菜",
+        "info": "　【四女】",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/b7/58090_crt_jb9jF.jpg",
+        "link": "https://bgm.tv/character/58090",
+        "categorie": "person"
+      },
+      {
+        "id": "58091",
+        "label": "緋月詩乃",
+        "info": "　【次女】",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/36/58091_crt_KbG0G.jpg",
+        "link": "https://bgm.tv/character/58091",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62880",
+        "label": "六冰透",
+        "info": "经营“六冰魔法律事务所”的魔法律家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/9e/62880_crt_g2TW6.jpg",
+        "link": "https://bgm.tv/character/62880",
+        "categorie": "person"
+      },
+      {
+        "id": "62881",
+        "label": "草野次郎",
+        "info": "六冰的助手，同时是在魔法律家中等级最低的“二级书记官”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/fe/62881_crt_pwpnn.jpg",
+        "link": "https://bgm.tv/character/62881",
+        "categorie": "person"
+      },
+      {
+        "id": "62882",
+        "label": "圆宙继",
+        "info": "六冰在魔法律学校时代的同级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b1/62882_crt_yJTTj.jpg?r=1585462478",
+        "link": "https://bgm.tv/character/62882",
+        "categorie": "person"
+      },
+      {
+        "id": "62883",
+        "label": "火向洋一",
+        "info": "六冰在魔法律学校时代的同级生，法官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/98/62883_crt_t4F74.jpg",
+        "link": "https://bgm.tv/character/62883",
+        "categorie": "person"
+      },
+      {
+        "id": "63602",
+        "label": "黑鸟理绪",
+        "info": "孙子的师父，教主级魔具师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/4a/63602_crt_w88zc.jpg",
+        "link": "https://bgm.tv/character/63602",
+        "categorie": "person"
+      },
+      {
+        "id": "63603",
+        "label": "我孙子优",
+        "info": "六冰在魔法律学校时代的同级生，魔具师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/ee/63603_crt_es5bj.jpg",
+        "link": "https://bgm.tv/character/63603",
+        "categorie": "person"
+      },
+      {
+        "id": "63604",
+        "label": "班治·克劳斯",
+        "info": "魔法律协会与调查本部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/a3/63604_crt_y8Ad7.jpg?r=1585463437",
+        "link": "https://bgm.tv/character/63604",
+        "categorie": "person"
+      },
+      {
+        "id": "63605",
+        "label": "今井玲子",
+        "info": "法官，洋一的前辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/bc/63605_crt_1EKLL.jpg",
+        "link": "https://bgm.tv/character/63605",
+        "categorie": "person"
+      },
+      {
+        "id": "63606",
+        "label": "竹乃内菜菜",
+        "info": "想成为摄影师的女子高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/a7/63606_crt_t5XPL.jpg",
+        "link": "https://bgm.tv/character/63606",
+        "categorie": "person"
+      },
+      {
+        "id": "76427",
+        "label": "提基",
+        "info": "八百年来，持续遭魔法律协会锁定的叛徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/49/76427_crt_0fR0o.jpg?r=1585462723",
+        "link": "https://bgm.tv/character/76427",
+        "categorie": "person"
+      },
+      {
+        "id": "76428",
+        "label": "佐藤建二",
+        "info": "ちょっと生意気なイタズラ少年",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/9e/76428_crt_wiIGv.jpg",
+        "link": "https://bgm.tv/character/76428",
+        "categorie": "person"
+      },
+      {
+        "id": "76429",
+        "label": "前田",
+        "info": "第18魔監獄所属の監獄守",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/3e/76429_crt_m9Xj9.jpg?r=1585463324",
+        "link": "https://bgm.tv/character/76429",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

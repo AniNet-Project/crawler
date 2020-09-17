@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4197",
+        "label": "凉宫遥",
+        "info": "メインヒロインの一人。速瀬水月の親友。童話や絵本が好きなおとなしい性格。様々な“伝説”を持ち、ゲーム中でも「遙伝説」として語られる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/9b/4197_crt_gj8YS.jpg?r=1529398565",
+        "link": "https://bgm.tv/character/4197",
+        "categorie": "person"
+      },
+      {
+        "id": "16407",
+        "label": "鸣海孝之",
+        "info": "白陵柊学园三年级生，性格温柔体贴但有时优柔寡断，与另一位主角速濑水月及平慎二是好朋友。某一次因速濑水月介绍下认识了一直对他抱有好感的凉宫遥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/80/16407_crt_71e7s.jpg?r=1451020719",
+        "link": "https://bgm.tv/character/16407",
+        "categorie": "person"
+      },
+      {
+        "id": "4198",
+        "label": "凉宫茜",
+        "info": "遙の妹。水泳部に所属しており中学の日本記録保持者でもある。水月に憧れており、そのせいか姉の遙よりも水月に似た性格をしている。遙と付き合っている孝之のことを「お兄ちゃん」と呼んで慕い、自身も孝之に甘えようとしては遙に注意されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/4c/4198_crt_PCddV.jpg?r=1440424854",
+        "link": "https://bgm.tv/character/4198",
+        "categorie": "person"
+      },
+      {
+        "id": "4199",
+        "label": "大空寺亚由",
+        "info": "孝之所工作餐厅的同事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/cb/4199_crt_tMZ44.jpg",
+        "link": "https://bgm.tv/character/4199",
+        "categorie": "person"
+      },
+      {
+        "id": "19282",
+        "label": "速濑水月",
+        "info": "メインヒロインの一人。遙の親友で孝之・平慎二のクラスメイト。さっぱりした性格。「…3, 2, 1, はい」「ぶっとばすわよ」などとよく言う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/58/19282_crt_Aovzk.jpg",
+        "link": "https://bgm.tv/character/19282",
+        "categorie": "person"
+      },
+      {
+        "id": "22897",
+        "label": "平慎二",
+        "info": "与鸣海孝之为好朋友及同班同学。他的学校成绩优异，决定到白陵大升学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/d9/22897_crt_rTj93.jpg",
+        "link": "https://bgm.tv/character/22897",
+        "categorie": "person"
+      },
+      {
+        "id": "43010",
+        "label": "玉野真由",
+        "info": "第二章から登場する、バイトの新人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/4f/43010_crt_J77f0.jpg",
+        "link": "https://bgm.tv/character/43010",
+        "categorie": "person"
+      },
+      {
+        "id": "43012",
+        "label": "香月素子",
+        "info": "榉町镇医院女医生，亦是凉宫遥的主治医生。性格爽朗：对大大小小的事件抱着不介意的性格，亦是孝之其中一位倾诉的对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/4d/43012_crt_N67R7.jpg",
+        "link": "https://bgm.tv/character/43012",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

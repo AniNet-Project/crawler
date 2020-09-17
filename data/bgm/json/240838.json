@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66142",
+        "label": "百鬼丸",
+        "info": "生まれる際に12体の鬼神に奪われた身体を取り戻すために旅をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/77/66142_crt_e881t.jpg?r=1537243424",
+        "link": "https://bgm.tv/character/66142",
+        "categorie": "person"
+      },
+      {
+        "id": "66143",
+        "label": "多罗罗",
+        "info": "根は優しいが、一方で生意気かつ強かな一面も持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/98/66143_crt_zL66L.jpg?r=1537243638",
+        "link": "https://bgm.tv/character/66143",
+        "categorie": "person"
+      },
+      {
+        "id": "67594",
+        "label": "寿海",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1b/67594_crt_upV47.jpg",
+        "link": "https://bgm.tv/character/67594",
+        "categorie": "person"
+      },
+      {
+        "id": "67596",
+        "label": "缝夫人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/59/67596_crt_MU0oU.jpg",
+        "link": "https://bgm.tv/character/67596",
+        "categorie": "person"
+      },
+      {
+        "id": "67597",
+        "label": "琵琶丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/89/67597_crt_w3E3N.jpg",
+        "link": "https://bgm.tv/character/67597",
+        "categorie": "person"
+      },
+      {
+        "id": "67605",
+        "label": "醍醐景光",
+        "info": "室町時代の武士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/2e/67605_crt_FJ2fz.jpg",
+        "link": "https://bgm.tv/character/67605",
+        "categorie": "person"
+      },
+      {
+        "id": "67606",
+        "label": "多宝丸",
+        "info": "百鬼丸の弟で醍醐景光の次男。百鬼丸が捨てられた後に生まれた。右目を盲いている。腕は立つが、それ以上に奸計や残忍さは父譲りのものがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/5b/67606_crt_DxHIS.jpg",
+        "link": "https://bgm.tv/character/67606",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

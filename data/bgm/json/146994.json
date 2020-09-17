@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35643",
+        "label": "鹿田九",
+        "info": "高校1年生。夢は漫画家になること。父に実家の駄菓子屋を継いでほしいと願うが、本人は継ぎたくない。基本的にツッコミ役の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/1f/35643_crt_csr9h.jpg?r=1516264545",
+        "link": "https://bgm.tv/character/35643",
+        "categorie": "person"
+      },
+      {
+        "id": "35644",
+        "label": "枝垂萤",
+        "info": "大手菓子会社「枝垂カンパニー」の社長令嬢。夢は世界一の菓子メーカーを自分でつくること。巨乳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/f8/35644_crt_7i659.jpg?r=1520703007",
+        "link": "https://bgm.tv/character/35644",
+        "categorie": "person"
+      },
+      {
+        "id": "35647",
+        "label": "远藤沙耶",
+        "info": "ココノツの友人。豆の双子の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/4a/35647_crt_3n99N.jpg?r=1516271217",
+        "link": "https://bgm.tv/character/35647",
+        "categorie": "person"
+      },
+      {
+        "id": "35645",
+        "label": "鹿田洋",
+        "info": "ココノツの父親。シカダ駄菓子八代目店主。息子に店の跡を継いでもらいたいと色々策を練ってはいるが、どれも空振りに終わってしまう。駄菓子に関するうんちく話に詳しく、駄菓子界では有名人らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/e7/35645_crt_0kKLK.jpg?r=1516271341",
+        "link": "https://bgm.tv/character/35645",
+        "categorie": "person"
+      },
+      {
+        "id": "35646",
+        "label": "远藤豆",
+        "info": "ココノツの友人。サヤの双子の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/f7/35646_crt_HfJpn.jpg?r=1516271240",
+        "link": "https://bgm.tv/character/35646",
+        "categorie": "person"
+      },
+      {
+        "id": "39751",
+        "label": "少年",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/1c/39751_crt_6DeBl.jpg?r=1458916622",
+        "link": "https://bgm.tv/character/39751",
+        "categorie": "person"
+      },
+      {
+        "id": "39752",
+        "label": "少女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/7c/39752_crt_4Nwc8.jpg?r=1458916715",
+        "link": "https://bgm.tv/character/39752",
+        "categorie": "person"
+      },
+      {
+        "id": "39824",
+        "label": "培里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/1b/39824_crt_Nmp8q.jpg",
+        "link": "https://bgm.tv/character/39824",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

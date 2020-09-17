@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23200",
+        "label": "黑田砂雪",
+        "info": "人を近寄らせない、怜悧な美貌を持つ主人公の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/b7/23200_crt_hDKOK.jpg?r=1449853169",
+        "link": "https://bgm.tv/character/23200",
+        "categorie": "person"
+      },
+      {
+        "id": "35738",
+        "label": "小早川夕夏",
+        "info": "文太郎や亜登夢の幼馴染。子供の頃から、役者になりたい",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/45/35738_crt_I6d96.jpg?r=1449853192",
+        "link": "https://bgm.tv/character/35738",
+        "categorie": "person"
+      },
+      {
+        "id": "35740",
+        "label": "结城莺",
+        "info": "学園の１年生。小さい頃から絵を書くのが好きで、",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/df/35740_crt_Wzd6g.jpg?r=1449853213",
+        "link": "https://bgm.tv/character/35740",
+        "categorie": "person"
+      },
+      {
+        "id": "35745",
+        "label": "安东映叶",
+        "info": "学園の２年生。重度のオタク。さばさばしており、",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/83/35745_crt_U8X2U.jpg?r=1449853233",
+        "link": "https://bgm.tv/character/35745",
+        "categorie": "person"
+      },
+      {
+        "id": "36436",
+        "label": "北条文太郎",
+        "info": "本編主人公。陽気でノリがよく、お人好し。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/96/36436_crt_u06XU.jpg?r=1449853134",
+        "link": "https://bgm.tv/character/36436",
+        "categorie": "person"
+      },
+      {
+        "id": "36437",
+        "label": "甲斐亚登梦",
+        "info": "文太郎の親友。人見知りするタイプだが、慣れ親しんだ",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/8e/36437_crt_RCYcR.jpg?r=1449853255",
+        "link": "https://bgm.tv/character/36437",
+        "categorie": "person"
+      },
+      {
+        "id": "39842",
+        "label": "女教师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/ed/39842_crt_NcDCH.jpg",
+        "link": "https://bgm.tv/character/39842",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

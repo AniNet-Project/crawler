@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20460",
+        "label": "艾露",
+        "info": "开朗元气还点点呆。不管做什么事情都全力以赴，为了大家而努力。擅长料理。肚子上的肉球印是艾露魅力所在~非常喜欢メラルー和プーキー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/4f/20460_crt_y0J44.jpg",
+        "link": "https://bgm.tv/character/20460",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

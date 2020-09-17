@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60615",
+        "label": "白石由竹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/9f/60615_crt_Eoe1E.jpg?r=1569906310",
+        "link": "https://bgm.tv/character/60615",
+        "categorie": "person"
+      },
+      {
+        "id": "60729",
+        "label": "尾形百之助",
+        "info": "上等兵。300メートル以内であれば確実に頭部を撃ち抜く腕を持った狙撃手で、格闘の間隙を縫って歩兵銃の遊底を抜き取り無力化させるなど白兵戦にも長けている。鶴見をして「敵に回すと非常に厄介」とまで評され、表情に乏しく飄々とし腹の中が探りにくく、その時々の状況に応じ独断で先んずるため「コウモリ野郎」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/e4/60729_crt_o00X9.jpg?r=1529815695",
+        "link": "https://bgm.tv/character/60729",
+        "categorie": "person"
+      },
+      {
+        "id": "61970",
+        "label": "土方岁三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/e8/61970_crt_Ofz6U.jpg?r=1529815384",
+        "link": "https://bgm.tv/character/61970",
+        "categorie": "person"
+      },
+      {
+        "id": "61974",
+        "label": "永仓新八",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ae/61974_crt_03mMZ.jpg?r=1529815316",
+        "link": "https://bgm.tv/character/61974",
+        "categorie": "person"
+      },
+      {
+        "id": "56511",
+        "label": "杉元佐一",
+        "info": "前大日本帝国陆军一等兵，原隶属第1师团。带着军帽且围着围巾，其特征是面容带有撕裂伤痕的约20多岁青年。拥有惊人的战斗力和恢复力及能在死地中寻见活路的超凡胆量，被称为“不死身杉元”（不死身の杉元），战斗起来如同鬼神一样可怕，即使受了濒死的重伤、第二天也能跑动。但其实内心纤细，对于战争的残酷，以及因此泯灭人性的自己其实无法接受。喜欢的食物是柿饼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/28/56511_crt_LrYrl.jpg?r=1569906281",
+        "link": "https://bgm.tv/character/56511",
+        "categorie": "person"
+      },
+      {
+        "id": "56512",
+        "label": "阿席莉帕",
+        "info": "阿伊努人的猎人，原名欸卡西欧噗咚伊，名字的意思是“祖父的屁眼”。约12至13岁的天真无邪少女，能说流利的日语，出身于小樽附近的“寇坦”（爱努语“部落”之意）。告诉杉元各种关于北海道的动植物、料理、阿伊努族风俗文化习惯等知识。对编织、刺绣等传统阿伊努人女性工作毫无兴趣，擅长使用弓箭的高手、制作陷阱打猎及野外求生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/ea/56512_crt_94z4T.jpg?r=1569906263",
+        "link": "https://bgm.tv/character/56512",
+        "categorie": "person"
+      },
+      {
+        "id": "63504",
+        "label": "キロランケ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/9d/63504_crt_OO6ui.jpg?r=1529815599",
+        "link": "https://bgm.tv/character/63504",
+        "categorie": "person"
+      },
+      {
+        "id": "63505",
+        "label": "二瓶铁造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/aa/63505_crt_J72nw.jpg?r=1529815302",
+        "link": "https://bgm.tv/character/63505",
+        "categorie": "person"
+      },
+      {
+        "id": "64255",
+        "label": "边见和雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/42/64255_crt_6DyH3.jpg?r=1529814818",
+        "link": "https://bgm.tv/character/64255",
+        "categorie": "person"
+      },
+      {
+        "id": "70575",
+        "label": "宫泽修女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6c/70575_crt_o6peZ.jpg",
+        "link": "https://bgm.tv/character/70575",
+        "categorie": "person"
+      },
+      {
+        "id": "70576",
+        "label": "熊岸长庵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/84/70576_crt_HFa5f.jpg",
+        "link": "https://bgm.tv/character/70576",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

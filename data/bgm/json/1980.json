@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4152",
+        "label": "エドガー・J・C・アシェンバート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/ff/4152_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4152",
+        "categorie": "person"
+      },
+      {
+        "id": "57871",
+        "label": "莉迪雅·克鲁顿·艾歇尔巴顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/2c/57871_crt_qoNKP.jpg",
+        "link": "https://bgm.tv/character/57871",
+        "categorie": "person"
+      },
+      {
+        "id": "4153",
+        "label": "レイヴン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/58/4153_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4153",
+        "categorie": "person"
+      },
+      {
+        "id": "4154",
+        "label": "アーミン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/22/4154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4154",
+        "categorie": "person"
+      },
+      {
+        "id": "4155",
+        "label": "ユリシス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/a9/4155_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4155",
+        "categorie": "person"
+      },
+      {
+        "id": "4156",
+        "label": "カールトン教授",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/a6/4156_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4156",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

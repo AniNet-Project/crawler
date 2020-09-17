@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71260",
+        "label": "芹沢香穂",
+        "info": "演劇部長で、校内のアイドル的存在。画家である父親と丘の上にある豪邸で2人暮らしをしている。趣味はバレエ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/2e/71260_crt_h3eNO.jpg",
+        "link": "https://bgm.tv/character/71260",
+        "categorie": "person"
+      },
+      {
+        "id": "71261",
+        "label": "牧村耕太郎",
+        "info": "主人公（名前変更不可）。時間移動の能力を身に付けたことで香穂が不慮の事故に巻き込まれる最悪の未来を回避する為に行動する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/5f/71261_crt_8ne4q.jpg",
+        "link": "https://bgm.tv/character/71261",
+        "categorie": "person"
+      },
+      {
+        "id": "7129",
+        "label": "瀬能あい",
+        "info": "サッカー部マネージャー。耕太郎とは幼馴染みで、香穂の同級生でもある。明るく人懐っこい性格。やや病弱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/c2/7129_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7129",
+        "categorie": "person"
+      },
+      {
+        "id": "7131",
+        "label": "川村真鱼",
+        "info": "水泳部員。高飛び込みが専門だが、耕太郎は真魚が近く、選手生命に関わる重傷を負うことを知ってしまう（なお、PC版については、マニュアルのローマ字標記が「MAO」となっている）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/e2/7131_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7131",
+        "categorie": "person"
+      },
+      {
+        "id": "7132",
+        "label": "リージェン",
+        "info": "タイムパトローラー。のりが軽く何事もいい加減。耕太郎が時間移動能力を身に付けてしまったことと関係しているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/b1/7132_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7132",
+        "categorie": "person"
+      },
+      {
+        "id": "71262",
+        "label": "柳原朋美",
+        "info": "理科教師。超常現象の研究が趣味で、耕太郎の時間移動能力を「デイドロップ」と命名する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f3/71262_crt_ZnZ6p.jpg",
+        "link": "https://bgm.tv/character/71262",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

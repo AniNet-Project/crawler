@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48500",
+        "label": "亚伦·亚当斯",
+        "info": "プラフスキー粒子発生システムを一社独占するＰＰＳＥ社……その、ＰＰＳＥ・ガンプラワークス部門に所属する若きエンジニア。ガンプラビルダーとして、世界でもトップレベルの実力を誇る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/ec/48500_crt_VSaPk.jpg",
+        "link": "https://bgm.tv/character/48500",
+        "categorie": "person"
+      },
+      {
+        "id": "48510",
+        "label": "川口名人",
+        "info": "初めてガンプラが発売された頃、彗星のように現れたガンプラビルダー。その作品は神の手によって作られたと称賛され、「名人」と呼ばれるほど孤高の存在となった。メイジンの名は引き継がれ、現在は、ユウキ・タツヤが三代目カワグチを名乗っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/67/48510_crt_2AkXC.jpg",
+        "link": "https://bgm.tv/character/48510",
+        "categorie": "person"
+      },
+      {
+        "id": "25998",
+        "label": "高坂佑马",
+        "info": "聖鳳学園中等部２年で、コウサカ・チナの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/cf/25998_crt_CbxsQ.jpg?r=1420415601",
+        "link": "https://bgm.tv/character/25998",
+        "categorie": "person"
+      },
+      {
+        "id": "28746",
+        "label": "坂井湊",
+        "info": "大阪生まれ、大阪育ちの中学生ビルダーで、ガンプラ心形流の門下生。関東で名を馳せたビルダー、コウサカ・ユウマをライバル視している。好きな飲み物はレイコー（アイスコーヒー）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/47/28746_crt_2zK2H.jpg",
+        "link": "https://bgm.tv/character/28746",
+        "categorie": "person"
+      },
+      {
+        "id": "3410",
+        "label": "利冯兹·阿尔马克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f7/3410_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3410",
+        "categorie": "person"
+      },
+      {
+        "id": "4545",
+        "label": "阿姆罗·雷",
+        "info": "U.C.0079年：15～16岁。出生在地球，幼年时随父亲移民到宇宙，在殖民卫星Side 7生活，喜欢研究机械。由于追随地球联邦战舰白色基地号而来的吉恩军入侵Side 7，被卷入了战斗，偶然之间搭乘了父亲制造的机动战士，成为地球联邦军的士兵参加敖德萨战役、星一号战役和阿·堡瓦·库战役，并且在战争中得知了自己可能是“新人类”（Newtype、NT）这一事实。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/a2/4545_crt_zAgpC.jpg",
+        "link": "https://bgm.tv/character/4545",
+        "categorie": "person"
+      },
+      {
+        "id": "13245",
+        "label": "夏亚·阿兹纳布",
+        "info": "宇宙世纪（U.C.）一世纪末期杰出的军事家、政治家、演说家及王牌驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/47/13245_crt_Ag8BX.jpg?r=1416820329",
+        "link": "https://bgm.tv/character/13245",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

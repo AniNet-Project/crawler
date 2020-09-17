@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33941",
+        "label": "洲崎绫",
+        "info": "愛称「あやっぺ」。基本的にはマジメな性格だが、周囲からは「天然」と見なされている模様。人見知りしないほうなので、同じ日に転校してきた明日香ともすぐに仲良くなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/9c/33941_crt_BeaBA.jpg?r=1436101136",
+        "link": "https://bgm.tv/character/33941",
+        "categorie": "person"
+      },
+      {
+        "id": "33942",
+        "label": "西明日香",
+        "info": "愛称「あすか」。関西方面から転校してきたからか、誰とでも良く話し、良くツッコミ、良くボケる。この性格のお陰で綾とも即友達になれた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/e3/33942_crt_mI42W.jpg?r=1437827044",
+        "link": "https://bgm.tv/character/33942",
+        "categorie": "person"
+      },
+      {
+        "id": "35689",
+        "label": "内山夕实",
+        "info": "愛称「ゆみりん」。洲崎、西の後に第11話で転校してきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/e3/35689_crt_n00E4.jpg?r=1442793211",
+        "link": "https://bgm.tv/character/35689",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

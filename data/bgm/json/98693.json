@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19524",
+        "label": "五河士道",
+        "info": "本作主角。都立来禅高中2年级生。年幼时曾发生被双亲抛弃，而后被五河家接继的过往经历。因此，对其他人绝望的感触非常敏锐，像是对抱持着绝望的十香在初次见面即被其所察觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/ab/19524_crt_575jE.jpg?r=1457682189",
+        "link": "https://bgm.tv/character/19524",
+        "categorie": "person"
+      },
+      {
+        "id": "19529",
+        "label": "时崎狂三",
+        "info": "出现于故事中的第3个精灵。识别名为：梦魇（Nightmare）（ナイトメア）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/da/19529_crt_61qzh.jpg?r=1457682259",
+        "link": "https://bgm.tv/character/19529",
+        "categorie": "person"
+      },
+      {
+        "id": "19525",
+        "label": "夜刀神十香",
+        "info": "本作女主角之一。与迷团般的大爆炸一并现身于士道前的精灵少女，拥有一头及膝的黑色长发与水晶般不可思议色彩的眼睛。士道对她的第一印象，就是那可以被称为暴力一般美丽。没有包含名子在内和自己相关的一切记忆，在第二次与士道相遇后，希望士道为她命名，士道基于两人第一次见面的日子（四月十日）而命名为“十香”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/ff/19525_crt_443IJ.jpg?r=1457682205",
+        "link": "https://bgm.tv/character/19525",
+        "categorie": "person"
+      },
+      {
+        "id": "19527",
+        "label": "五河琴里",
+        "info": "本作女主角之一。14岁，士道名义上的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/6e/19527_crt_88IeP.jpg?r=1457682272",
+        "link": "https://bgm.tv/character/19527",
+        "categorie": "person"
+      },
+      {
+        "id": "19528",
+        "label": "四糸乃",
+        "info": "出现在士道前的第2个精灵。识别名为隐居者（Hermit）（ハーミット）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ca/19528_crt_clh1A.jpg?r=1547788926",
+        "link": "https://bgm.tv/character/19528",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

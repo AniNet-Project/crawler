@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36778",
+        "label": "叶波柚香",
+        "info": "本作の主人公の中学2年生。魔法少女モノの主人公によく見られる「明るい性格だが勉強や運動がダメなドジっ娘」とは逆の「内気だが勉強や運動が得意で、料理もこなすしっかりもの」タイプ。両親は家に不在がち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/37/36778_crt_xHhxK.jpg?r=1452607701",
+        "link": "https://bgm.tv/character/36778",
+        "categorie": "person"
+      },
+      {
+        "id": "36779",
+        "label": "米咚",
+        "info": "ゆずかがゴミ捨て場で出会った小さな生き物で、魔法少女としての彼女のパートナーとなる。球体状の胴体から翼と尻尾が生え、セクハラまがいの言動を使う。魔法少女の素質がない普通の人間には姿が見えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/d2/36779_crt_u9771.jpg?r=1449246056",
+        "link": "https://bgm.tv/character/36779",
+        "categorie": "person"
+      },
+      {
+        "id": "36780",
+        "label": "坂上千叶",
+        "info": "ゆずかの同級生で友人。おかっぱにぱっつんの黒髪が特徴的な優等生。クールな性格で、魔法少女となったゆずかの事も多少混乱しながらも受け入れている。ミトンの姿が見えるので魔法少女の素質があるらしいが、ミトンが管轄できる少女は一人だけ（腕輪の数とリンクする）なので変身したことはない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/3b/36780_crt_iaGai.jpg?r=1449246177",
+        "link": "https://bgm.tv/character/36780",
+        "categorie": "person"
+      },
+      {
+        "id": "36781",
+        "label": "黛雅",
+        "info": "謎の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/6d/36781_crt_MkJ3S.jpg?r=1453823671",
+        "link": "https://bgm.tv/character/36781",
+        "categorie": "person"
+      },
+      {
+        "id": "36782",
+        "label": "篠木真冬",
+        "info": "ゆずかが出会った初めての魔法少女。ポチのパートナー。変身後はサンタクロース風のコスチュームに身を包む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/9c/36782_crt_Ee0r8.jpg?r=1449246339",
+        "link": "https://bgm.tv/character/36782",
+        "categorie": "person"
+      },
+      {
+        "id": "36783",
+        "label": "波奇",
+        "info": "真冬のパートナー。ペンギンの姿をしている。ミトンとは同じ世界からやってきた、かつての仲間である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/a6/36783_crt_zJzPd.jpg?r=1449246420",
+        "link": "https://bgm.tv/character/36783",
+        "categorie": "person"
+      },
+      {
+        "id": "39050",
+        "label": "柚香的父亲",
+        "info": "毎朝始発電車で出社し、最終電車で帰宅するワーカホリックな人物。娘の「隠し事をしたくない」という希望で魔法少女への変身を見せるが、同時にミトンによる記憶操作で気を失い、翌朝には以前にも増して元気になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/c6/39050_crt_K6MIi.jpg?r=1455697827",
+        "link": "https://bgm.tv/character/39050",
+        "categorie": "person"
+      },
+      {
+        "id": "47514",
+        "label": "老爷爷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/8b/47514_crt_f0Lef.jpg?r=1484348106",
+        "link": "https://bgm.tv/character/47514",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

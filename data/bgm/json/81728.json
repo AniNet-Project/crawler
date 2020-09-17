@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "81382",
+        "label": "佐伯沙夜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/b1/81382_crt_zY5A1.jpg",
+        "link": "https://bgm.tv/character/81382",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

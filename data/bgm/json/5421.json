@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43147",
+        "label": "渡",
+        "info": "ブレイブストーリーの主人公である、ゲームが好きなごく普通の男の子。両親の離婚で離散してしまった家族を取り戻す為に、転校生・芦川美鶴が教えてくれた幻界へ赴き見習い勇者となり、願いを叶えてくれる運命の女神に会うために旅立ちをすることになる。小説版と映画版と新説版で設定や結末が異なる ",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/df/43147_crt_RlwL9.jpg",
+        "link": "https://bgm.tv/character/43147",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

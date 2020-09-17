@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34251",
+        "label": "九条樱子",
+        "info": "旭川に古くから建っているモダンな白い屋敷に邸を構える、20代半ばの女性。良家の出身ながら『骨』に対して強い執着を持ち、拾った死骸を材料に骨格標本を作る趣味の持ち主。標本士としての資格を持ち、素人ながら検死に関する知識も持ち合わせている。過去にまだ幼かった弟を亡くしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/87/34251_crt_u88eC.jpg",
+        "link": "https://bgm.tv/character/34251",
+        "categorie": "person"
+      },
+      {
+        "id": "35225",
+        "label": "馆胁正太郎",
+        "info": "本作の語り部。旭川市在住の高校生で、平凡ながらもそれなりに真面目な人生を過ごしていると自負している。ある切っ掛けで櫻子と知人となり、以来彼女に振り回されながらも事件解決に協力するように。母はアパート経営を務めており、父は早くに亡くしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/91/35225_crt_nhr1j.jpg",
+        "link": "https://bgm.tv/character/35225",
+        "categorie": "person"
+      },
+      {
+        "id": "35226",
+        "label": "鸿上百合子",
+        "info": "正太郎の同級生。正太郎の親友・今居の想い人で、明るい性格だが、祖母を喪ったトラウマを持っている。2巻収録の『夏に眠る骨』の事件後、正太郎達と関わるようになり、第4巻『猫はなんと言った』を経て正太郎に好意を持つようになる。櫻子にも好意を持っているが、同時に正太郎と櫻子の親密度も非常に気にしている模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/c8/35226_crt_V33T8.jpg",
+        "link": "https://bgm.tv/character/35226",
+        "categorie": "person"
+      },
+      {
+        "id": "35227",
+        "label": "矶崎斋",
+        "info": "正太郎のクラスの担任で、生物教師。中々のイケメンだが、少々残念な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/67/35227_crt_f484P.jpg",
+        "link": "https://bgm.tv/character/35227",
+        "categorie": "person"
+      },
+      {
+        "id": "35228",
+        "label": "内海洋贵",
+        "info": "正太郎たちの知り合い。交番勤務。俳優の大泉洋がモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/d0/35228_crt_OL555.jpg",
+        "link": "https://bgm.tv/character/35228",
+        "categorie": "person"
+      },
+      {
+        "id": "35229",
+        "label": "今居阳人",
+        "info": "正太郎のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5a/35229_crt_oVhh9.jpg",
+        "link": "https://bgm.tv/character/35229",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

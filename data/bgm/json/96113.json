@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34291",
+        "label": "ローニャ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/26/34291_crt_T2dqj.jpg",
+        "link": "https://bgm.tv/character/34291",
+        "categorie": "person"
+      },
+      {
+        "id": "34292",
+        "label": "ビルク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/05/34292_crt_J33d1.jpg",
+        "link": "https://bgm.tv/character/34292",
+        "categorie": "person"
+      },
+      {
+        "id": "34293",
+        "label": "マッティス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/6a/34293_crt_RAzVP.jpg",
+        "link": "https://bgm.tv/character/34293",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

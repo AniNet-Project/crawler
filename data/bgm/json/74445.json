@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37374",
+        "label": "鹿岛祐二",
+        "info": "本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/c5/37374_crt_31otk.jpg",
+        "link": "https://bgm.tv/character/37374",
+        "categorie": "person"
+      },
+      {
+        "id": "38518",
+        "label": "鹿島ゆり",
+        "info": "主人公的姐姐，活泼强硬的女学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/ac/38518_crt_sPCkB.jpg",
+        "link": "https://bgm.tv/character/38518",
+        "categorie": "person"
+      },
+      {
+        "id": "38519",
+        "label": "鹿島あおい",
+        "info": "主人公的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/3c/38519_crt_lvZRV.jpg",
+        "link": "https://bgm.tv/character/38519",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

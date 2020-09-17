@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27903",
+        "label": "小日",
+        "info": "茶色長髮的女店員，負責指導海雄，不過對漫畫並不熟。個性純真，常不自覺得說出讓人害羞的台詞，也不時被監督玩弄。個性冒失，做事容易失誤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/b0/27903_crt_ucUdD.jpg",
+        "link": "https://bgm.tv/character/27903",
+        "categorie": "person"
+      },
+      {
+        "id": "27902",
+        "label": "老师",
+        "info": "黑色長髮、戴眼鏡，說話的語氣很冷淡。以「喬娜太郎」的筆名參加同人活動，以職業漫畫家為目標。和調酒師一樣喜愛讀書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/19/27902_crt_rRkgR.jpg",
+        "link": "https://bgm.tv/character/27902",
+        "categorie": "person"
+      },
+      {
+        "id": "27901",
+        "label": "腐妞",
+        "info": "紅色短髮，牙齒畫成鋸齒狀的女店員，16歲的高一女生。熱愛殭屍，常把其他人誤認為殭屍而用球棒追打。喜歡調酒師，不過雙方都沒有注意到對方的想法。根据所穿学校泳衣可知，本姓为「谷津」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/0b/27901_crt_NxzCZ.jpg",
+        "link": "https://bgm.tv/character/27901",
+        "categorie": "person"
+      },
+      {
+        "id": "27900",
+        "label": "相机子",
+        "info": "帶著帽子的女性店員，隨身攜帶單眼相機，喜歡拍照。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/e1/27900_crt_OavQA.jpg",
+        "link": "https://bgm.tv/character/27900",
+        "categorie": "person"
+      },
+      {
+        "id": "27898",
+        "label": "海雄",
+        "info": "男性店員。黑髮、戴眼鏡的打工學生，因為是新人還沒有綽號，大家都用本名稱呼他。擅長畫漫畫，以前曾在漫畫店公開募集POP廣告時投稿被選上，後來也常幫老師畫同人。平時雖然不起眼，但實際上對漫畫和遊戲要求很高，常狂熱的發表長篇大論。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/32/27898_crt_o6h6O.jpg",
+        "link": "https://bgm.tv/character/27898",
+        "categorie": "person"
+      },
+      {
+        "id": "27899",
+        "label": "监督",
+        "info": "茶髮男店員，職務不明，但有監督其他員工的立場。是七個店員裡資歷最深的一個。曾與津守交往過。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/80/27899_crt_4cH97.jpg",
+        "link": "https://bgm.tv/character/27899",
+        "categorie": "person"
+      },
+      {
+        "id": "27897",
+        "label": "调酒师",
+        "info": "瀏海長到遮住眼睛的男性店員。個性沉默寡言，擁有豐富的漫畫知識，能夠正確的選出客人想看的書，每次舉辦調酒大會時都會吸引大量客人參加。喜歡腐妞，不過兩人都沒注意到對方的心意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/e4/27897_crt_9cg1U.jpg",
+        "link": "https://bgm.tv/character/27897",
+        "categorie": "person"
+      },
+      {
+        "id": "27895",
+        "label": "津守",
+        "info": "以筆名「津守春香」發表書籍的輕小說作家。個性開朗的女性，BOOKS 馬之骨前店員，並為監督的前女友。酒品差。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/39/27895_crt_gVD3d.jpg",
+        "link": "https://bgm.tv/character/27895",
+        "categorie": "person"
+      },
+      {
+        "id": "27896",
+        "label": "色情刊物检官",
+        "info": "負責調查限制級書級管理狀況的公務員。將長髮束在背後，帶著邊緣有稜角的眼鏡。實際上也喜歡限制級書刊，尤其是BL系的漫畫，同時是調酒師的書迷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/66/27896_crt_9QFsZ.jpg",
+        "link": "https://bgm.tv/character/27896",
+        "categorie": "person"
+      },
+      {
+        "id": "36016",
+        "label": "店长",
+        "info": "本作にたびたび登場する。カントクと同じく正社員で、うまのほねデンキ街本店の店長をしている。つもりんがうまのほねにいた時はアルバイトとして働いており、カントク、つもりんとよく一緒に行動をしていた。つもりんには「ちーちゃん」と呼ばれていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/93/36016_crt_9lTvY.jpg?r=1444278908",
+        "link": "https://bgm.tv/character/36016",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53111",
+        "label": "冬空凩",
+        "info": "肉体派的灵能力者的高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/c4/53111_crt_Wtn77.jpg?r=1531925045",
+        "link": "https://bgm.tv/character/53111",
+        "categorie": "person"
+      },
+      {
+        "id": "53112",
+        "label": "汤之花幽奈",
+        "info": "女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/5d/53112_crt_c1tXI.jpg?r=1531925166",
+        "link": "https://bgm.tv/character/53112",
+        "categorie": "person"
+      },
+      {
+        "id": "53120",
+        "label": "宫崎千纱希",
+        "info": "女主角之一，冬风凩的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/69/53120_crt_rb55F.jpg",
+        "link": "https://bgm.tv/character/53120",
+        "categorie": "person"
+      },
+      {
+        "id": "53115",
+        "label": "雨野狭雾",
+        "info": "女主角之一，住在摇曳庄202号室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/d4/53115_crt_cPpNI.jpg?r=1531924585",
+        "link": "https://bgm.tv/character/53115",
+        "categorie": "person"
+      },
+      {
+        "id": "53113",
+        "label": "仲居千岁",
+        "info": "女主角之一，汤摇庄的招待员也是管理人，居住在管理人室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/82/53113_crt_B503a.jpg?r=1531924379",
+        "link": "https://bgm.tv/character/53113",
+        "categorie": "person"
+      },
+      {
+        "id": "53114",
+        "label": "荒霸吐吞子",
+        "info": "女主角之一，住在摇曳庄201室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/a4/53114_crt_C8E8B.jpg?r=1531924630",
+        "link": "https://bgm.tv/character/53114",
+        "categorie": "person"
+      },
+      {
+        "id": "53116",
+        "label": "伏黑夜夜",
+        "info": "女主角之一，摇曳庄的203号室的房客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/3a/53116_crt_9nd5t.jpg?r=1531925973",
+        "link": "https://bgm.tv/character/53116",
+        "categorie": "person"
+      },
+      {
+        "id": "53117",
+        "label": "信乐小柚",
+        "info": "10岁的狸妖少女，住在管理人室。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/25/53117_crt_u6Kds.jpg?r=1531925674",
+        "link": "https://bgm.tv/character/53117",
+        "categorie": "person"
+      },
+      {
+        "id": "53118",
+        "label": "胧",
+        "info": "女主角之一，本体为侍奉龙雅家的神刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/ac/53118_crt_508i7.jpg",
+        "link": "https://bgm.tv/character/53118",
+        "categorie": "person"
+      },
+      {
+        "id": "53119",
+        "label": "雨野云雀",
+        "info": "女主角之一，雨野狭雾的堂妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/72/53119_crt_UfGpG.jpg?r=1491227858",
+        "link": "https://bgm.tv/character/53119",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

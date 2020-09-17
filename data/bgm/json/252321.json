@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68939",
+        "label": "式宫舞菜",
+        "info": "圧倒的なアイドルの素質を秘める少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c4/68939_crt_1iqFI.jpg?r=1562637479",
+        "link": "https://bgm.tv/character/68939",
+        "categorie": "person"
+      },
+      {
+        "id": "68940",
+        "label": "月坂纱由",
+        "info": "アイドルへの強い思い抱き、努力する天才少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/f4/68940_crt_3Gz5b.jpg?r=1563165560",
+        "link": "https://bgm.tv/character/68940",
+        "categorie": "person"
+      },
+      {
+        "id": "68941",
+        "label": "市杵岛瑞叶",
+        "info": "謡舞踊部の部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/22/68941_crt_AkemA.jpg?r=1563867230",
+        "link": "https://bgm.tv/character/68941",
+        "categorie": "person"
+      },
+      {
+        "id": "68942",
+        "label": "柊香惠",
+        "info": "舞菜のクラスメイト",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/e8/68942_crt_HPklk.jpg?r=1564386309",
+        "link": "https://bgm.tv/character/68942",
+        "categorie": "person"
+      },
+      {
+        "id": "68943",
+        "label": "本城香澄",
+        "info": "サバイバルゲーム部のエース",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/72/68943_crt_D9CSd.jpg?r=1565173088",
+        "link": "https://bgm.tv/character/68943",
+        "categorie": "person"
+      },
+      {
+        "id": "68944",
+        "label": "长谷川美衣",
+        "info": "ソロ活動中のアイドルの卵",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/79/68944_crt_yT0nt.jpg?r=1566724210",
+        "link": "https://bgm.tv/character/68944",
+        "categorie": "person"
+      },
+      {
+        "id": "68945",
+        "label": "伊津村紫",
+        "info": "オルタンシアの1人",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/a1/68945_crt_h4tk7.jpg?r=1567355571",
+        "link": "https://bgm.tv/character/68945",
+        "categorie": "person"
+      },
+      {
+        "id": "68946",
+        "label": "伊津村阳花",
+        "info": "オルタンシアの1人",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/5c/68946_crt_48MDD.jpg?r=1567715930",
+        "link": "https://bgm.tv/character/68946",
+        "categorie": "person"
+      },
+      {
+        "id": "68947",
+        "label": "式宫碧音",
+        "info": "ステラマリスのリーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/c9/68947_crt_2ue62.jpg?r=1567868664",
+        "link": "https://bgm.tv/character/68947",
+        "categorie": "person"
+      },
+      {
+        "id": "68948",
+        "label": "一条瑠夏",
+        "info": "私立稀星学園本校アイドル部の部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/6a/68948_crt_940ye.jpg",
+        "link": "https://bgm.tv/character/68948",
+        "categorie": "person"
+      },
+      {
+        "id": "68949",
+        "label": "岬珊瑚",
+        "info": "ステラマリス期待の1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/89/68949_crt_6c52s.jpg",
+        "link": "https://bgm.tv/character/68949",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21766",
+        "label": "千早群像",
+        "info": "潜水艦イ401艦長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/30/21766_crt_xSKL0.jpg?r=1381578797",
+        "link": "https://bgm.tv/character/21766",
+        "categorie": "person"
+      },
+      {
+        "id": "21767",
+        "label": "伊欧娜",
+        "info": "潜水艦イ401のメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/d9/21767_crt_bJ5v9.jpg?r=1579412996",
+        "link": "https://bgm.tv/character/21767",
+        "categorie": "person"
+      },
+      {
+        "id": "21772",
+        "label": "高雄",
+        "info": "霧の重巡洋艦タカオのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/6b/21772_crt_M1tsH.jpg?r=1579412807",
+        "link": "https://bgm.tv/character/21772",
+        "categorie": "person"
+      },
+      {
+        "id": "29978",
+        "label": "比叡",
+        "info": "「霧の艦隊」に所属する大戦艦ヒエイのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/fa/29978_crt_RKbIL.jpg?r=1424849337",
+        "link": "https://bgm.tv/character/29978",
+        "categorie": "person"
+      },
+      {
+        "id": "29979",
+        "label": "妙高",
+        "info": "「霧の艦隊」に所属する重巡洋艦ミョウコウのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/c1/29979_crt_55s1k.jpg?r=1424849570",
+        "link": "https://bgm.tv/character/29979",
+        "categorie": "person"
+      },
+      {
+        "id": "29980",
+        "label": "那智",
+        "info": "「霧の艦隊」に所属する重巡洋艦ナチのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/fa/29980_crt_sKZ4V.jpg?r=1424849772",
+        "link": "https://bgm.tv/character/29980",
+        "categorie": "person"
+      },
+      {
+        "id": "29981",
+        "label": "足柄",
+        "info": "「霧の艦隊」に所属する重巡洋艦アシガラのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/2c/29981_crt_JpAcS.jpg?r=1424849901",
+        "link": "https://bgm.tv/character/29981",
+        "categorie": "person"
+      },
+      {
+        "id": "29982",
+        "label": "羽黒",
+        "info": "「霧の艦隊」に所属する重巡洋艦ハグロのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/d2/29982_crt_t39X6.jpg?r=1424850023",
+        "link": "https://bgm.tv/character/29982",
+        "categorie": "person"
+      },
+      {
+        "id": "29983",
+        "label": "武藏",
+        "info": "「霧の艦隊」の超戦艦ムサシのメンタルモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/86/29983_crt_LzuGp.jpg?r=1424850152",
+        "link": "https://bgm.tv/character/29983",
+        "categorie": "person"
+      },
+      {
+        "id": "29984",
+        "label": "千早翔像",
+        "info": "千早群像の父親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/7b/29984_crt_9p2a2.jpg?r=1424850425",
+        "link": "https://bgm.tv/character/29984",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

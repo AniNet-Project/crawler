@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70138",
+        "label": "布罗利",
+        "info": "传说中的花椰菜（ブロッコリー，Broccoli）",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/a7/70138_crt_E95Dp.jpg?r=1558540676",
+        "link": "https://bgm.tv/character/70138",
+        "categorie": "person"
+      },
+      {
+        "id": "9095",
+        "label": "巴布鲁斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/fa/9095_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9095",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

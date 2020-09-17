@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70523",
+        "label": "カタガキナオミ",
+        "info": "未来の「堅書直実」。10年前の自分に会うためにやって来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/99/70523_crt_r3oOj.jpg",
+        "link": "https://bgm.tv/character/70523",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

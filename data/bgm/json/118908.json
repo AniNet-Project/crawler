@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20890",
+        "label": "栗山未来",
+        "info": "高中1年级。有操纵血能力的家族的异界士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/e2/20890_crt_3HO34.jpg?r=1420875960",
+        "link": "https://bgm.tv/character/20890",
+        "categorie": "person"
+      },
+      {
+        "id": "20891",
+        "label": "神原秋人",
+        "info": "高中2年级。妖梦与人类之间出生的，不死之身（与其说不死，不如说是有着伤好的比较快的特性）。学校文艺部一员。擅长照顾他人，主要擅长吐槽大家被当做活宝。因为是半血，所以既不被妖梦也不被人类所承认，有着孤独的的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/9f/20891_crt_wT8tT.jpg?r=1461579343",
+        "link": "https://bgm.tv/character/20891",
+        "categorie": "person"
+      },
+      {
+        "id": "20892",
+        "label": "名濑博臣",
+        "info": "高中3年级学生。异界士，名濑家的长男。使用槛の能力的异界士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/52/20892_crt_YHvF0.jpg",
+        "link": "https://bgm.tv/character/20892",
+        "categorie": "person"
+      },
+      {
+        "id": "20893",
+        "label": "名濑美月",
+        "info": "高中2年级。作为异界士中名门望族的名濑家次女，身负监视秋人的任务，实际上却十分担心秋人。可以为秋人切腹的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/aa/20893_crt_tXtAe.jpg",
+        "link": "https://bgm.tv/character/20893",
+        "categorie": "person"
+      },
+      {
+        "id": "21450",
+        "label": "新堂爱",
+        "info": "新堂彩華の同居人で、美少女の姿をした猫又（ネコとしての姿はスコティッシュフォールド似）の妖夢。秋人たちと同じ学校に通う高校1年生。誕生日8月25日、血液型不明。身長146cm。人間に対して敵意は無く、秋人とも親しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/76/21450_crt_0HH3Y.jpg",
+        "link": "https://bgm.tv/character/21450",
+        "categorie": "person"
+      },
+      {
+        "id": "21572",
+        "label": "二之宫雫",
+        "info": "背広姿の美女異界士。誕生日6月18日、血液型A型。身長168cm。空間を捻じ曲げる異能力を持つ。主に防御に特化した名瀬に攻撃の専門家として雇われている。戦闘を好む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/74/21572_crt_XqkKZ.jpg",
+        "link": "https://bgm.tv/character/21572",
+        "categorie": "person"
+      },
+      {
+        "id": "22135",
+        "label": "名濑泉",
+        "info": "名濑家的长女，博臣与美月的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/9e/22135_crt_Byqky.jpg",
+        "link": "https://bgm.tv/character/22135",
+        "categorie": "person"
+      },
+      {
+        "id": "22516",
+        "label": "藤真弥勒",
+        "info": "异界士协会派遣来的男人。 难以捉摸，不好对付的性格。 时常采取可疑的行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/a3/22516_crt_5BLnO.jpg?r=1461582284",
+        "link": "https://bgm.tv/character/22516",
+        "categorie": "person"
+      },
+      {
+        "id": "29586",
+        "label": "神原弥生",
+        "info": "秋人の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/18/29586_crt_lxxuh.jpg",
+        "link": "https://bgm.tv/character/29586",
+        "categorie": "person"
+      },
+      {
+        "id": "40954",
+        "label": "新堂彩华",
+        "info": "和菓子店を営む着物姿の異界士。京都弁を話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/24/40954_crt_bng8m.jpg",
+        "link": "https://bgm.tv/character/40954",
+        "categorie": "person"
+      },
+      {
+        "id": "40985",
+        "label": "烤红薯",
+        "info": "美月养的妖梦，因为长的像松软的红薯，所以被命名成“烤红薯”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/40/40985_crt_A2TA2.jpg",
+        "link": "https://bgm.tv/character/40985",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "41342",
+        "label": "未来的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/c6/41342_crt_6uIbM.jpg",
+        "link": "https://bgm.tv/character/41342",
+        "categorie": "person"
+      },
+      {
+        "id": "41343",
+        "label": "名瀬家給仕",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/b6/41343_crt_R86P2.jpg",
+        "link": "https://bgm.tv/character/41343",
+        "categorie": "person"
+      },
+      {
+        "id": "41344",
+        "label": "异界士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/ad/41344_crt_oxfXr.jpg",
+        "link": "https://bgm.tv/character/41344",
+        "categorie": "person"
+      },
+      {
+        "id": "41346",
+        "label": "未来の先祖",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/41346",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

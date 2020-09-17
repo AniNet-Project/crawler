@@ -1,0 +1,237 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "78965",
+        "label": "天空侍斗牙",
+        "info": "グランカイザーのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/d9/78965_crt_7777e.jpg",
+        "link": "https://bgm.tv/character/78965",
+        "categorie": "person"
+      },
+      {
+        "id": "78966",
+        "label": "紅エイジ",
+        "info": "行方不明の姉を探すため「サンドマンの城」に侵入した血気盛んな少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/a6/78966_crt_3X9i9.jpg",
+        "link": "https://bgm.tv/character/78966",
+        "categorie": "person"
+      },
+      {
+        "id": "78967",
+        "label": "城琉菜",
+        "info": "やんちゃで明るい、いまどきの女の子で、何事も前向きに考える性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/f0/78967_crt_9454a.jpg",
+        "link": "https://bgm.tv/character/78967",
+        "categorie": "person"
+      },
+      {
+        "id": "78968",
+        "label": "ミヅキ・立花",
+        "info": "実戦経験豊富な戦闘のプロであり、パイロット達のリーダー的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/85/78968_crt_5eB51.jpg",
+        "link": "https://bgm.tv/character/78968",
+        "categorie": "person"
+      },
+      {
+        "id": "78969",
+        "label": "エィナ",
+        "info": "｢サンドマンの城｣で働くメイドの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/c6/78969_crt_C05wD.jpg",
+        "link": "https://bgm.tv/character/78969",
+        "categorie": "person"
+      },
+      {
+        "id": "78970",
+        "label": "リィル",
+        "info": "一人だけ基地の奥の部屋に暮らしており、一般の隊員達にはその存在すら 明かされていなかったためサンドマン以外には、心を開いていない時期もあった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/c9/78970_crt_FZ6Gw.jpg",
+        "link": "https://bgm.tv/character/78970",
+        "categorie": "person"
+      },
+      {
+        "id": "78971",
+        "label": "クライン・サンドマン",
+        "info": "グラヴィオンの発進基地を兼ねた湖城に住んでいる途方もない富と権力をもった謎多き富豪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/c7/78971_crt_ry8HH.jpg",
+        "link": "https://bgm.tv/character/78971",
+        "categorie": "person"
+      },
+      {
+        "id": "78972",
+        "label": "レイヴン",
+        "info": "アースガルツの戦闘指揮官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/6f/78972_crt_5Rtv8.jpg",
+        "link": "https://bgm.tv/character/78972",
+        "categorie": "person"
+      },
+      {
+        "id": "78973",
+        "label": "紅アヤカ",
+        "info": "エイジの実姉。本来、Gアタッカーに乗るはずだったのだが、G因子が薄かったせいでパイロットになれなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/7f/78973_crt_F3LsF.jpg",
+        "link": "https://bgm.tv/character/78973",
+        "categorie": "person"
+      },
+      {
+        "id": "78983",
+        "label": "フェイ・シンルー",
+        "info": "地球統合政府EFA所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/2c/78983_crt_RxbjU.jpg",
+        "link": "https://bgm.tv/character/78983",
+        "categorie": "person"
+      },
+      {
+        "id": "78974",
+        "label": "テセラ",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/47/78974_crt_yhqRs.jpg",
+        "link": "https://bgm.tv/character/78974",
+        "categorie": "person"
+      },
+      {
+        "id": "78975",
+        "label": "チュイル",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/60/78975_crt_Nbb5B.jpg",
+        "link": "https://bgm.tv/character/78975",
+        "categorie": "person"
+      },
+      {
+        "id": "78976",
+        "label": "マリニア",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/17/78976_crt_1nBhn.jpg",
+        "link": "https://bgm.tv/character/78976",
+        "categorie": "person"
+      },
+      {
+        "id": "78977",
+        "label": "ブリギッタ",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/0a/78977_crt_0nZN0.jpg",
+        "link": "https://bgm.tv/character/78977",
+        "categorie": "person"
+      },
+      {
+        "id": "78978",
+        "label": "アーニャ",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/86/78978_crt_d3rSD.jpg",
+        "link": "https://bgm.tv/character/78978",
+        "categorie": "person"
+      },
+      {
+        "id": "78979",
+        "label": "セシル",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/37/78979_crt_S3oAP.jpg",
+        "link": "https://bgm.tv/character/78979",
+        "categorie": "person"
+      },
+      {
+        "id": "78980",
+        "label": "クッキー",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/15/78980_crt_KH1i9.jpg",
+        "link": "https://bgm.tv/character/78980",
+        "categorie": "person"
+      },
+      {
+        "id": "78981",
+        "label": "トリア",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/b7/78981_crt_X2Wbv.jpg",
+        "link": "https://bgm.tv/character/78981",
+        "categorie": "person"
+      },
+      {
+        "id": "78982",
+        "label": "アレックス・スミス",
+        "info": "地球統合政府EFA所属。階級は中尉。アメリカ出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/4e/78982_crt_14z2r.jpg",
+        "link": "https://bgm.tv/character/78982",
+        "categorie": "person"
+      },
+      {
+        "id": "78984",
+        "label": "ヒューギ・ゼラバイア",
+        "info": "遂に、その姿を現したゼラバイア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/0b/78984_crt_47395.jpg",
+        "link": "https://bgm.tv/character/78984",
+        "categorie": "person"
+      },
+      {
+        "id": "78985",
+        "label": "ルフィーラ",
+        "info": "ゼラバイア博士の傍に控える謎の美女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ae/78985_crt_RrB09.jpg",
+        "link": "https://bgm.tv/character/78985",
+        "categorie": "person"
+      },
+      {
+        "id": "78986",
+        "label": "ウィリアム・ウォーレス・フィッツジェラルド",
+        "info": "地球統合政府EFAの最高責任者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/b2/78986_crt_niNI5.jpg",
+        "link": "https://bgm.tv/character/78986",
+        "categorie": "person"
+      },
+      {
+        "id": "78987",
+        "label": "バーネット博士",
+        "info": "地球統合政府EFA量産型グラヴィオン開発チーム所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/d8/78987_crt_ulN2i.jpg",
+        "link": "https://bgm.tv/character/78987",
+        "categorie": "person"
+      },
+      {
+        "id": "78988",
+        "label": "ローザ",
+        "info": "サンドマンの秘書メイドさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/29/78988_crt_2U4l3.jpg",
+        "link": "https://bgm.tv/character/78988",
+        "categorie": "person"
+      },
+      {
+        "id": "78989",
+        "label": "ディカ",
+        "info": "「サンジェルマン城」でお世話する",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/2b/78989_crt_ssJZZ.jpg",
+        "link": "https://bgm.tv/character/78989",
+        "categorie": "person"
+      },
+      {
+        "id": "78991",
+        "label": "ヨシズミ博士",
+        "info": "EFA所属。当初グラヴィオンについて研究を重ねていた。現在はゼラバイアの生態について専門的に研究を行っている。研究を突き詰めていくことに最大の喜びを感じており、時折自分を見失うほど興奮してしまうことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/2d/78991_crt_v0Vxs.jpg",
+        "link": "https://bgm.tv/character/78991",
+        "categorie": "person"
+      },
+      {
+        "id": "8136",
+        "label": "アース・ガルツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/60/8136_crt_eC8zo.jpg",
+        "link": "https://bgm.tv/character/8136",
+        "categorie": "person"
+      },
+      {
+        "id": "78990",
+        "label": "井上",
+        "info": "地球統合政府ＥＦＡ大統領の秘書を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ca/78990_crt_bl5nb.jpg",
+        "link": "https://bgm.tv/character/78990",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

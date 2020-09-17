@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8296",
+        "label": "高町薇薇欧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/8e/8296_crt_IVpMj.jpg?r=1548812662",
+        "link": "https://bgm.tv/character/8296",
+        "categorie": "person"
+      },
+      {
+        "id": "20192",
+        "label": "艾茵哈特·斯崔特斯",
+        "info": "继承了远古霸王的血统和记忆的格斗少女，为了贯彻霸王之道而不断与各式对手交战。沉默寡言而个性温柔，和薇薇欧一样拥有着异色的双瞳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/e2/20192_crt_s34DI.jpg?r=1548812708",
+        "link": "https://bgm.tv/character/20192",
+        "categorie": "person"
+      },
+      {
+        "id": "45299",
+        "label": "阿斯提翁",
+        "info": "艾茵哈特的爱机。自律行动型智能魔导器。正式名称是阿斯提翁，爱称是提奥。其模型并不是“猫”而是“豹”。很喜欢呆在人的肩上或膝上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/1f/45299_crt_tp2lZ.jpg",
+        "link": "https://bgm.tv/character/45299",
+        "categorie": "person"
+      },
+      {
+        "id": "31567",
+        "label": "莉奥·维斯利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ce/31567_crt_T2w9n.jpg?r=1548812906",
+        "link": "https://bgm.tv/character/31567",
+        "categorie": "person"
+      },
+      {
+        "id": "31568",
+        "label": "珂罗娜·缇米尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/8d/31568_crt_rrmJb.jpg?r=1548812873",
+        "link": "https://bgm.tv/character/31568",
+        "categorie": "person"
+      },
+      {
+        "id": "31569",
+        "label": "诺威",
+        "info": "“序印者”9号。IS（先天固有技能）为“爆碎航道”，负责在前方进行直击，擅长近身格斗与射击。使用的武器是和昴一样的拳套和滑轮靴组合，不同的是旋流甲安置于滑轮靴上。性格爱恨分明，因为昴曾打伤琴柯而对昴怀有恨意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/93/31569_crt_fxhh4.jpg?r=1493495176",
+        "link": "https://bgm.tv/character/31569",
+        "categorie": "person"
+      },
+      {
+        "id": "2782",
+        "label": "高町奈叶",
+        "info": "无印（TV第一期）与A's（TV第二期）中的奈叶",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/52/2782_crt_9fAi0.jpg?r=1472814152",
+        "link": "https://bgm.tv/character/2782",
+        "categorie": "person"
+      },
+      {
+        "id": "2792",
+        "label": "菲特·泰斯特罗莎",
+        "info": "无印（TV第一期）与A's（TV第二期）中的菲特",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e0/2792_crt_qDcaH.jpg?r=1559754207",
+        "link": "https://bgm.tv/character/2792",
+        "categorie": "person"
+      },
+      {
+        "id": "20193",
+        "label": "昴·中岛",
+        "info": "拥有男性气质、精通于格斗技的魔法少女，曾隶属于机动六课，并在与战斗机人的战斗中大为活跃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/be/20193_crt_fQKdG.jpg?r=1560086819",
+        "link": "https://bgm.tv/character/20193",
+        "categorie": "person"
+      },
+      {
+        "id": "20687",
+        "label": "蒂安娜·兰斯达",
+        "info": "变化型米德切尔达式魔导师，使用枪型带填弹系统的魔导器。最初是自制的魔导器“射锚枪”，SS第4集中首次新领的枪型智能型魔导器“交鸣幻境”。双手都惯用，可以同时操作2具魔导器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/14/20687_crt_241lx.jpg?r=1560086801",
+        "link": "https://bgm.tv/character/20687",
+        "categorie": "person"
+      },
+      {
+        "id": "20688",
+        "label": "艾力奥·曼迪尔",
+        "info": "StrikerS正篇中为10岁。新历71年时，只在照片中出现过，当时6岁（SS漫画第3话）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/db/20688_crt_UFcuy.jpg?r=1561907441",
+        "link": "https://bgm.tv/character/20688",
+        "categorie": "person"
+      },
+      {
+        "id": "20690",
+        "label": "凯珞·露·露茜",
+        "info": "StrikerS正篇中是10岁，是机动六科最年幼的队员。但实际上，机动六科最年幼的应该是在8年前被创造后的琳芙斯II（8岁）。与艾力奥一样受到菲特的监护，同样隶属于雷光分队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/01/20690_crt_D6sH2.jpg?r=1561907429",
+        "link": "https://bgm.tv/character/20690",
+        "categorie": "person"
+      },
+      {
+        "id": "20692",
+        "label": "璐缇希雅·阿尔菲诺",
+        "info": "梅格奴·阿尔菲诺的女儿，龙召唤骑士，经常与扎斯特一起行动的谜之少女，年纪跟凯珞及艾力奥相仿。因为心神遭到斯卡利艾迪的操控，常给人冷漠的印象，为了唤醒沉眠的母亲，她一直配合斯卡利艾迪而行动。也因此多次与同样身为召唤师的凯珞交手。使用魔导器为“幽月灵蛇”，魔法阵的颜色是紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/90/20692_crt_ZUHuh.jpg?r=1548813030",
+        "link": "https://bgm.tv/character/20692",
+        "categorie": "person"
+      },
+      {
+        "id": "70443",
+        "label": "梅格奴·阿尔菲诺",
+        "info": "所属单位：时空管理局地面陆士部队",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/11/70443_crt_8jaRs.jpg?r=1559984809",
+        "link": "https://bgm.tv/character/70443",
+        "categorie": "person"
+      },
+      {
+        "id": "31570",
+        "label": "琴柯",
+        "info": "“序印者”5号。负责在前线进行潜入行动，IS（先天固有技能）为“眩鸣裂刃”，以此也可执行定点爆破及歼灭等任务。右眼在多年前与杰斯特的战斗中失去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/91/31570_crt_xj16Q.jpg",
+        "link": "https://bgm.tv/character/31570",
+        "categorie": "person"
+      },
+      {
+        "id": "31571",
+        "label": "温蒂",
+        "info": "“序印者”11号。负责担任前卫攻击或担任后卫防御。IS（先天固有技能）为“驱风狂啸”，武器是可当盾牌、飞行滑板、炮击管三用的巨型滑板。性格相当开朗、常与诺威一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/ef/31571_crt_J7Z7I.jpg",
+        "link": "https://bgm.tv/character/31571",
+        "categorie": "person"
+      },
+      {
+        "id": "31572",
+        "label": "迪艾琦",
+        "info": "“序印者”10号。负责从后方进行狙击或炮击，武器是可装填魔力弹的重型狙击加农炮，IS（先天固有技能）为大型魔力炮击“业火神弩”。性格温和、无口，曾对博士的目的产生质疑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/48/31572_crt_oBU8V.jpg",
+        "link": "https://bgm.tv/character/31572",
+        "categorie": "person"
+      },
+      {
+        "id": "34088",
+        "label": "缪拉·芮那尔蒂",
+        "info": "12岁。区立学校中等科1年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/2b/34088_crt_oEEjw.jpg?r=1436674293",
+        "link": "https://bgm.tv/character/34088",
+        "categorie": "person"
+      },
+      {
+        "id": "16683",
+        "label": "八神疾风",
+        "info": "関西出身で、柔らかな関西弁を話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/38/16683_crt_4kJy9.jpg?r=1575438538",
+        "link": "https://bgm.tv/character/16683",
+        "categorie": "person"
+      },
+      {
+        "id": "18426",
+        "label": "琳芙斯Ⅱ",
+        "info": "八神はやて自らが創った人格型ユニゾンデバイス。その際関わったマリエルに全幅の信頼を置いている。闇の書／夜天の書の機能としての「管制人格」だった初代リインフォースと異なり、リインフォースIIは彼女自身が人格型のデバイスである模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/e5/18426_crt_1czO1.jpg?r=1560409974",
+        "link": "https://bgm.tv/character/18426",
+        "categorie": "person"
+      },
+      {
+        "id": "2810",
+        "label": "维塔",
+        "info": "守護騎士ヴォルケンリッターの一員で、『鉄槌の騎士』。 闇の書の意志による二つ名は『紅の鉄騎』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/e3/2810_crt_AuD5d.jpg?r=1561911275",
+        "link": "https://bgm.tv/character/2810",
+        "categorie": "person"
+      },
+      {
+        "id": "18423",
+        "label": "希格纳姆",
+        "info": "闇の書より出でし守護騎士ヴォルケンリッターの将たる『剣の騎士』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/a9/18423_crt_j6P3M.jpg?r=1561911966",
+        "link": "https://bgm.tv/character/18423",
+        "categorie": "person"
+      },
+      {
+        "id": "2812",
+        "label": "莎玛尔",
+        "info": "守護騎士ヴォルケンリッターの一員で、参謀の『湖の騎士』。闇の書の意志による二つ名は『風の癒し手』。 金髪のショートボブの似合う、ほんわかタイプの美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/0e/2812_crt_4V84V.jpg?r=1548814149",
+        "link": "https://bgm.tv/character/2812",
+        "categorie": "person"
+      },
+      {
+        "id": "18424",
+        "label": "扎菲拉",
+        "info": "守護騎士ヴォルケンリッターの一員で、『盾の守護獣』。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/53/18424_crt_Y6QoK.jpg?r=1548814165",
+        "link": "https://bgm.tv/character/18424",
+        "categorie": "person"
+      },
+      {
+        "id": "70441",
+        "label": "埃基特",
+        "info": "首次登场：StrikerS第11话（名字介绍于第7话）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ee/70441_crt_2kE0e.jpg?r=1559835700",
+        "link": "https://bgm.tv/character/70441",
+        "categorie": "person"
+      },
+      {
+        "id": "34091",
+        "label": "香缇·阿匹尼奥",
+        "info": "14岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/a5/34091_crt_M8x9P.jpg?r=1436675403",
+        "link": "https://bgm.tv/character/34091",
+        "categorie": "person"
+      },
+      {
+        "id": "31573",
+        "label": "卡莉姆·格莱希亚",
+        "info": "圣王教会・教会骑士团所属的骑士兼时空管理局的理事官(阶级同少将)，同时为维洛萨·艾克斯的义姐。与克罗洛、疾风都是好友，疾风将她当做姐姐一样的存在。深知疾风个性的她，时常担心着疾风，但也同时在各方面尽力帮助机动六课的营运。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/ac/31573_crt_7P6mb.jpg",
+        "link": "https://bgm.tv/character/31573",
+        "categorie": "person"
+      },
+      {
+        "id": "70442",
+        "label": "莎赫·努艾拉",
+        "info": "圣王教会所属的修女，卡莉姆的秘书。拥有能自在操纵贝尔卡式魔力弹装填系统的高战斗力，也擅长空间移动等魔法，法器为“花棱之铁”，魔法阵的颜色是橙色。在以保护卡莉姆及其义弟维洛萨为主要职责，在维洛萨的教育方面有相当大的贡献。与希格诺的交情很好，不但于公常常合作，于私还经常配合希格诺的决斗兴趣与她进行模拟战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/bd/70442_crt_62MYm.jpg?r=1559868965",
+        "link": "https://bgm.tv/character/70442",
+        "categorie": "person"
+      },
+      {
+        "id": "31591",
+        "label": "萨依",
+        "info": "“序印者”6号。负责隐密潜行，探查情报等等。辅助型，能以IS（先天固有技能）“禁界潜行”穿越任何实体进行潜入作业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a8/31591_crt_HzcBx.jpg?r=1428185261",
+        "link": "https://bgm.tv/character/31591",
+        "categorie": "person"
+      },
+      {
+        "id": "34090",
+        "label": "米嘉娅·舍韦勒",
+        "info": "18岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/25/34090_crt_IsiJ0.jpg?r=1436675152",
+        "link": "https://bgm.tv/character/34090",
+        "categorie": "person"
+      },
+      {
+        "id": "20693",
+        "label": "银河·中岛",
+        "info": "昴的姐姐。登场年龄为17岁，阶级为陆曹，在108部队中担任搜查官副官一职。是心智成长比昴早熟很多，她不但是最了解昴的人，而且也以姐代母职的身份陪伴着昴的成长。和昴同样身为战斗机人“TYPE-0”号机，拥有固有技能“旋流钻刺”，魔法阵的颜色是蓝紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/86/20693_crt_R2tjL.jpg?r=1374762184",
+        "link": "https://bgm.tv/character/20693",
+        "categorie": "person"
+      },
+      {
+        "id": "31574",
+        "label": "欧特",
+        "info": "“序印者”8号。IS（先天固有技能）为“寒光风暴”，和12号蒂多是从同样的素材出生的（亦即有血缘关系），因此性格相似。负责后方支援，擅长结界魔法及广域攻击，攻防能力都十分优秀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/1a/31574_crt_rjs44.jpg",
+        "link": "https://bgm.tv/character/31574",
+        "categorie": "person"
+      },
+      {
+        "id": "31575",
+        "label": "蒂多",
+        "info": "“序印者”12号。负责游击，是空陆两战型。使用双剑作为武器，擅长近身的一击必杀攻击，IS（先天固有技能）为“赤影双剑”。和欧特因为有血缘羁绊关系，对于欧特的一举一动都能提前感受到。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/67/31575_crt_KXzwB.jpg",
+        "link": "https://bgm.tv/character/31575",
+        "categorie": "person"
+      },
+      {
+        "id": "33531",
+        "label": "齐格琳德·耶利米",
+        "info": "16岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/81/33531_crt_O9Z58.jpg?r=1548813387",
+        "link": "https://bgm.tv/character/33531",
+        "categorie": "person"
+      },
+      {
+        "id": "34086",
+        "label": "维多利亚·达尔格林",
+        "info": "17岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/81/34086_crt_I4yft.jpg?r=1436673876",
+        "link": "https://bgm.tv/character/34086",
+        "categorie": "person"
+      },
+      {
+        "id": "34087",
+        "label": "艾尔斯·塔斯明",
+        "info": "16岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/59/34087_crt_XUhOb.jpg?r=1436674327",
+        "link": "https://bgm.tv/character/34087",
+        "categorie": "person"
+      },
+      {
+        "id": "34089",
+        "label": "哈利·翠贝卡",
+        "info": "15岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/49/34089_crt_i3Bs6.jpg?r=1436674807",
+        "link": "https://bgm.tv/character/34089",
+        "categorie": "person"
+      },
+      {
+        "id": "34093",
+        "label": "珐比娅·克罗捷古",
+        "info": "13岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/56/34093_crt_1YRRW.jpg?r=1548813343",
+        "link": "https://bgm.tv/character/34093",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "70788",
+        "label": "奥利维尔·瑟格布雷希特",
+        "info": "薇薇欧的母体original。故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/42/70788_crt_xI4Gj.jpg?r=1562560680",
+        "link": "https://bgm.tv/character/70788",
+        "categorie": "person"
+      },
+      {
+        "id": "70789",
+        "label": "克劳斯·G·S·英格瓦尔特",
+        "info": "被称为“修托拉的霸王”，在文学作品中也作为英雄人物出现的古代贝尔卡王。已故。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/1b/70789_crt_q9oIz.jpg?r=1562560624",
+        "link": "https://bgm.tv/character/70789",
+        "categorie": "person"
+      },
+      {
+        "id": "77302",
+        "label": "旭日之心",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/6e/77302_crt_DA02R.jpg?r=1590217586",
+        "link": "https://bgm.tv/character/77302",
+        "categorie": "person"
+      },
+      {
+        "id": "18427",
+        "label": "时空管理局",
+        "info": "Administrative bureau",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/20/18427_crt_NBVz8.jpg",
+        "link": "https://bgm.tv/character/18427",
+        "categorie": "person"
+      },
+      {
+        "id": "34092",
+        "label": "伊克斯威莉娅",
+        "info": "古代贝尔卡・加雷亚之王。拥有体内无限产生玛丽亚治核的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/a2/34092_crt_oDc7c.jpg?r=1436676969",
+        "link": "https://bgm.tv/character/34092",
+        "categorie": "person"
+      },
+      {
+        "id": "77304",
+        "label": "雷光战斧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/57/77304_crt_7gOkO.jpg?r=1590217824",
+        "link": "https://bgm.tv/character/77304",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

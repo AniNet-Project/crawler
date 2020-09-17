@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60054",
+        "label": "八木沢 萌",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60054",
+        "categorie": "person"
+      },
+      {
+        "id": "60055",
+        "label": "森村奈々",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60055",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

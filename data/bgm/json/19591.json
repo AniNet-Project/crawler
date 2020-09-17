@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "824",
+        "label": "罗密欧·康多雷邦特·蒙太古",
+        "info": "蒙太古的儿子，对于14年前的惨剧毫不知情。平日以龙马希艾罗代步，个性温柔、善良，与父亲的性格完全截然不同，而且私底下不认同父亲的暴政，故意三番四次为赤色旋风解围。在城堡内举行的玫瑰舞会中，邂逅茱丽叶并对她一见钟情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/7e/824_wIB9u.jpg",
+        "link": "https://bgm.tv/character/824",
+        "categorie": "person"
+      },
+      {
+        "id": "825",
+        "label": "茱丽叶·赫尔玛塔·阿斯洛·凯普莱特",
+        "info": "凯普莱特家族的唯一幸存者。遭逢惨剧之后，为避开追杀而假扮男性的身份奥丁（オーディン）活到时至今日。由于看不过眼蒙太古的苛刻暴政，时常以正义使者赤色旋风（赤い旋風）为民拯命。误打误撞被强行带进城堡参加玫瑰舞会，在水池休憩时邂逅罗密欧而一见钟情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/54/825_uzgMT.jpg",
+        "link": "https://bgm.tv/character/825",
+        "categorie": "person"
+      },
+      {
+        "id": "826",
+        "label": "弗朗西斯科",
+        "info": "沈静、见多识广，负责参谋的工作，也是位弓箭手。说话有时候会尖酸刻薄，和裘里奥是青梅竹马的好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/5c/826_DcC7t.jpg",
+        "link": "https://bgm.tv/character/826",
+        "categorie": "person"
+      },
+      {
+        "id": "827",
+        "label": "裘里奥",
+        "info": "拥有一流的剑术,也是朱丽叶的老师,狭义心肠的男人.不管做什么事都很认真,不善言词.与弗朗西斯科相同,父亲皆死于14年前的事件中.",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/3a/827_eAED6.jpg",
+        "link": "https://bgm.tv/character/827",
+        "categorie": "person"
+      },
+      {
+        "id": "828",
+        "label": "安东尼奥",
+        "info": "康拉德的孙子,朱丽叶伙伴之间的联络人.",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/62/828_4X6HL.jpg",
+        "link": "https://bgm.tv/character/828",
+        "categorie": "person"
+      },
+      {
+        "id": "829",
+        "label": "蒙太古",
+        "info": "罗密欧的父亲,现任新·维罗纳公国的大公(国王),14年前杀死当时的大公,也就是朱丽叶的父母亲,发动政变夺取政权.",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/78/829_xPy7i.jpg",
+        "link": "https://bgm.tv/character/829",
+        "categorie": "person"
+      },
+      {
+        "id": "9133",
+        "label": "考狄莉亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/b2/9133_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9133",
+        "categorie": "person"
+      },
+      {
+        "id": "9135",
+        "label": "エミリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/65/9135_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9135",
+        "categorie": "person"
+      },
+      {
+        "id": "9136",
+        "label": "ペンヴォーリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/89/9136_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9136",
+        "categorie": "person"
+      },
+      {
+        "id": "9137",
+        "label": "赤い旋風",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/3d/9137_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9137",
+        "categorie": "person"
+      },
+      {
+        "id": "9138",
+        "label": "コンラッド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/50/9138_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9138",
+        "categorie": "person"
+      },
+      {
+        "id": "9139",
+        "label": "ポーシア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/f9/9139_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9139",
+        "categorie": "person"
+      },
+      {
+        "id": "9140",
+        "label": "タイタス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/6e/9140_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9140",
+        "categorie": "person"
+      },
+      {
+        "id": "9141",
+        "label": "ランスロット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/77/9141_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9141",
+        "categorie": "person"
+      },
+      {
+        "id": "48808",
+        "label": "梅丘西奥",
+        "info": "罗密欧的堂兄弟，时常在蒙太古的面前表现自己。对罗密欧存有嫉妒之心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/42/48808_crt_499b1.jpg",
+        "link": "https://bgm.tv/character/48808",
+        "categorie": "person"
+      },
+      {
+        "id": "9142",
+        "label": "キャピュレット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/21/9142_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9142",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

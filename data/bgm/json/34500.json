@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53064",
+        "label": "杵筑萤子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/18/53064_crt_6N3gz.jpg?r=1491021142",
+        "link": "https://bgm.tv/character/53064",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

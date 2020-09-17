@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7380",
+        "label": "基鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/3b/7380_crt_8UsQO.jpg?r=1377157562",
+        "link": "https://bgm.tv/character/7380",
+        "categorie": "person"
+      },
+      {
+        "id": "2771",
+        "label": "カーヤ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/e1/2771_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2771",
+        "categorie": "person"
+      },
+      {
+        "id": "2773",
+        "label": "メルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/65/2773_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2773",
+        "categorie": "person"
+      },
+      {
+        "id": "2770",
+        "label": "库葩",
+        "info": "梅尔特的随从（库葩出生的家族代代皆服侍梅尔特的家族），擅长兵站的大力女孩，外貌的特色是前额扎上一条粗粗的大丝带。跟随着任性的主人，整天忙个不停，不过她也把自己忙碌的份用嘴巴讨还回来了。主要的责任是收拾和携著梅尔特的多种类魔杖的皮箱。当梅尔特使用攻击魔法时，像球童般待命在侧，也会不时对于使用哪个魔杖最好向主人提出忠告。有时亦会使用烟雾弹协助众人逃脱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/94/2770_crt_bpXdL.jpg",
+        "link": "https://bgm.tv/character/2770",
+        "categorie": "person"
+      },
+      {
+        "id": "2774",
+        "label": "ニーバ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/d1/2774_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2774",
+        "categorie": "person"
+      },
+      {
+        "id": "2772",
+        "label": "ファティナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/bf/2772_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2772",
+        "categorie": "person"
+      },
+      {
+        "id": "70986",
+        "label": "伍德",
+        "info": "年齢不詳。巨漢で全身に鎧を纏い、大型の斧と手投げ弾を武器とし、第2期ではスイッチを入れることでエネルギーの刃が構築される斧（ハンマーなどにも変化可能）を使用（本人曰くこれに賞金のほとんどを費やしたらしい）。戦闘力も高く、落ち着いた性格で頼りになる男。子供好きな面もあり、パーティーと離ればなれになったクーパを背負ったりカイの世話をしたりなど外見に似合わない優しさを持つ。第2期でカリーと再会した際にはその喜びから、しばらく常春の館に留まることを望んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/ce/70986_crt_TAAtU.jpg",
+        "link": "https://bgm.tv/character/70986",
+        "categorie": "person"
+      },
+      {
+        "id": "3712",
+        "label": "ヘナロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/ae/3712_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3712",
+        "categorie": "person"
+      },
+      {
+        "id": "3706",
+        "label": "凯伊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/64/3706_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3706",
+        "categorie": "person"
+      },
+      {
+        "id": "3709",
+        "label": "ケルブ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/db/3709_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3709",
+        "categorie": "person"
+      },
+      {
+        "id": "3710",
+        "label": "エタナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/05/3710_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3710",
+        "categorie": "person"
+      },
+      {
+        "id": "3713",
+        "label": "グレミカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/53/3713_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3713",
+        "categorie": "person"
+      },
+      {
+        "id": "3715",
+        "label": "吉尔伽美什",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/d2/3715_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3715",
+        "categorie": "person"
+      },
+      {
+        "id": "70987",
+        "label": "艾梅",
+        "info": "豊富な登頂経験を持つ橙色の髪の女戦士。当初はカーヤに雇われていた。穂先が高速回転するギミックを備えた槍を装備し、ジルが敵の前進を食い止めている間、主にオフェンスに回る。パーティの運営面においてもジルのブレーキ役であり、口数は少なめだが、冒険者としては良き先輩で、先生であり、越えるべき壁でもある。第1期の最終決戦でドルアーガの後頭部に槍を突き刺すも直後に致命の一撃を受け、落命。その後、この槍は刺さったままになっていたところをジルが手にし、ドルアーガに止めを刺すのに使われた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/68/70987_crt_oN9Tt.jpg",
+        "link": "https://bgm.tv/character/70987",
+        "categorie": "person"
+      },
+      {
+        "id": "3711",
+        "label": "卡里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/a1/3711_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3711",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

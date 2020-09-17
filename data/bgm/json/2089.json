@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5864",
+        "label": "入江直樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/da/5864_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5864",
+        "categorie": "person"
+      },
+      {
+        "id": "10645",
+        "label": "相原琴子",
+        "info": "相原琴子（あいはらことこ，演：佐藤蓝子、声：水树奈奈／香港：张颂欣）",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/bb/10645_crt_t4b66.jpg",
+        "link": "https://bgm.tv/character/10645",
+        "categorie": "person"
+      },
+      {
+        "id": "5865",
+        "label": "入江重樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/69/5865_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5865",
+        "categorie": "person"
+      },
+      {
+        "id": "5866",
+        "label": "相原重雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/47/5866_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5866",
+        "categorie": "person"
+      },
+      {
+        "id": "5867",
+        "label": "石川理美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/95/5867_crt_ZJ63Y.jpg",
+        "link": "https://bgm.tv/character/5867",
+        "categorie": "person"
+      },
+      {
+        "id": "5868",
+        "label": "渡辺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/1d/5868_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5868",
+        "categorie": "person"
+      },
+      {
+        "id": "5869",
+        "label": "格次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/26/5869_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5869",
+        "categorie": "person"
+      },
+      {
+        "id": "5870",
+        "label": "須藤先輩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/74/5870_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5870",
+        "categorie": "person"
+      },
+      {
+        "id": "5871",
+        "label": "鴨狩啓太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/bb/5871_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5871",
+        "categorie": "person"
+      },
+      {
+        "id": "5872",
+        "label": "品川真里奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/f1/5872_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5872",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

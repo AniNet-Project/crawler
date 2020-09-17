@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18455",
+        "label": "空深彼方",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/4c/18455_crt_dWrow.jpg",
+        "link": "https://bgm.tv/character/18455",
+        "categorie": "person"
+      },
+      {
+        "id": "18456",
+        "label": "和宫梨旺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e1/18456_crt_b08jy.jpg",
+        "link": "https://bgm.tv/character/18456",
+        "categorie": "person"
+      },
+      {
+        "id": "18457",
+        "label": "墨野谷暮羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/c3/18457_crt_0gA3T.jpg",
+        "link": "https://bgm.tv/character/18457",
+        "categorie": "person"
+      },
+      {
+        "id": "18458",
+        "label": "寒凪乃绘留",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a2/18458_crt_mL4EO.jpg?r=1566933045",
+        "link": "https://bgm.tv/character/18458",
+        "categorie": "person"
+      },
+      {
+        "id": "18459",
+        "label": "费利西娅·海德曼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/85/18459_crt_y1inn.jpg?r=1566933068",
+        "link": "https://bgm.tv/character/18459",
+        "categorie": "person"
+      },
+      {
+        "id": "31582",
+        "label": "由美娜",
+        "info": "驻地小镇的修女，照顾着许多战争孤儿。在彼方生病的时候提供了药品救了彼方",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/df/31582_crt_i3wLV.jpg",
+        "link": "https://bgm.tv/character/31582",
+        "categorie": "person"
+      },
+      {
+        "id": "31583",
+        "label": "玛丽亚",
+        "info": "第四话中玻璃工厂的女工",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/14/31583_crt_1yFf3.jpg",
+        "link": "https://bgm.tv/character/31583",
+        "categorie": "person"
+      },
+      {
+        "id": "31584",
+        "label": "克劳斯少校",
+        "info": "部队联络官。因为与军中英雄“沙漠之狼”克劳斯名字一样，被暮羽误认为是沙漠之狼。被暮羽当作父亲一般的依赖",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b2/31584_crt_i4g9S.jpg",
+        "link": "https://bgm.tv/character/31584",
+        "categorie": "person"
+      },
+      {
+        "id": "31585",
+        "label": "伊莉雅·阿尔卡迪亚",
+        "info": "赫尔维亚国的皇女，在各条战线游走，鼓舞士气。引导彼方走上号手之路的人",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/9f/31585_crt_K9hwH.jpg",
+        "link": "https://bgm.tv/character/31585",
+        "categorie": "person"
+      },
+      {
+        "id": "31586",
+        "label": "由吉珂",
+        "info": "费利西娅原来所在的1147战车小队队长。曾与费利西娅探讨过战争的意义。后来在战斗中阵亡（全队仅费利西娅幸存）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/10/31586_crt_uoGs9.jpg",
+        "link": "https://bgm.tv/character/31586",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

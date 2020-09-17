@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62766",
+        "label": "早見拓郎",
+        "info": "主人公。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/62766",
+        "categorie": "person"
+      },
+      {
+        "id": "62767",
+        "label": "音川沙織",
+        "info": "早見の同級生で寄宿舎の住人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/f9/62767_crt_zx4Q4.jpg",
+        "link": "https://bgm.tv/character/62767",
+        "categorie": "person"
+      },
+      {
+        "id": "62768",
+        "label": "宮岸 勇気",
+        "info": "早見の同級生で寄宿舎の住人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/99/62768_crt_3jj9j.jpg",
+        "link": "https://bgm.tv/character/62768",
+        "categorie": "person"
+      },
+      {
+        "id": "62769",
+        "label": "野々宮瑠璃",
+        "info": "早見の同級生で寄宿舎の住人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/18/62769_crt_4JcFX.jpg",
+        "link": "https://bgm.tv/character/62769",
+        "categorie": "person"
+      },
+      {
+        "id": "62770",
+        "label": "金田麻衣子",
+        "info": "早見の同級生で寄宿舎の住人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/bb/62770_crt_fzWE0.jpg",
+        "link": "https://bgm.tv/character/62770",
+        "categorie": "person"
+      },
+      {
+        "id": "62771",
+        "label": "森本レオナ",
+        "info": "早見のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/25/62771_crt_IGrOD.jpg",
+        "link": "https://bgm.tv/character/62771",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

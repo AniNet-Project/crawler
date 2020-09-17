@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29173",
+        "label": "ツトム",
+        "info": "第三章中，薙想救出的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/84/29173_crt_EPXFX.jpg",
+        "link": "https://bgm.tv/character/29173",
+        "categorie": "person"
+      },
+      {
+        "id": "29174",
+        "label": "风见理沙",
+        "info": "第三章及第四章中登场，风见瞬的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/63/29174_crt_37V3B.jpg",
+        "link": "https://bgm.tv/character/29174",
+        "categorie": "person"
+      },
+      {
+        "id": "29183",
+        "label": "永远",
+        "info": "第三章中登场，久远的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/e5/29183_crt_qCb6y.jpg",
+        "link": "https://bgm.tv/character/29183",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

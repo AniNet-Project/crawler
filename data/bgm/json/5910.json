@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3590",
+        "label": "麻井麦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/6e/3590_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3590",
+        "categorie": "person"
+      },
+      {
+        "id": "3591",
+        "label": "西田理咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/01/3591_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3591",
+        "categorie": "person"
+      },
+      {
+        "id": "3592",
+        "label": "西田甲斐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f3/3592_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3592",
+        "categorie": "person"
+      },
+      {
+        "id": "3593",
+        "label": "神奈ちとせ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/d0/3593_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3593",
+        "categorie": "person"
+      },
+      {
+        "id": "77073",
+        "label": "远山佳代",
+        "info": "双鱼座熊鹰艺术学院一年级。跟小麦从中学开始就是同班同学。不断在背後鼓励没有自信而靠不住的小麦。对小麦照顾有佳。将来的梦想是成为摄影家或摄影记者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/3a/77073_crt_UrN0d.jpg",
+        "link": "https://bgm.tv/character/77073",
+        "categorie": "person"
+      },
+      {
+        "id": "77074",
+        "label": "一之濑野乃",
+        "info": "天蝎座熊鹰艺术学院三年级。话剧研究会的代表，冷漠又强势的学姐。放榜时听见小麦的声音，对小麦的潜在能力感到兴趣。患有声带麻痹的疾病，却不顾声音可能消失的危险，隐瞒事实专注於话剧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/cc/77074_crt_2TItm.jpg",
+        "link": "https://bgm.tv/character/77074",
+        "categorie": "person"
+      },
+      {
+        "id": "77075",
+        "label": "榊美丽",
+        "info": "射手座熊鹰艺术学院三年级。担任与话剧研究会势不两立的话剧社社长。与话剧研究会的野乃曾经是演戏的好伙伴，却因故反目成仇。以前两人的感情很好…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/9c/77075_crt_4STKt.jpg",
+        "link": "https://bgm.tv/character/77075",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

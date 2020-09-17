@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17254",
+        "label": "高宫茄乃",
+        "info": "不管什么都用金钱来解决的、充满谜团的天然大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/a3/17254_crt_ZJZOx.jpg?r=1429057521",
+        "link": "https://bgm.tv/character/17254",
+        "categorie": "person"
+      },
+      {
+        "id": "31911",
+        "label": "押本阳太",
+        "info": "百合的弟弟，中学二年级，在高宫家担任茄乃的随身侍从。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/27/31911_crt_w3rYy.jpg?r=1501765001",
+        "link": "https://bgm.tv/character/31911",
+        "categorie": "person"
+      },
+      {
+        "id": "32378",
+        "label": "高宫绫乃",
+        "info": "茄乃的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/89/32378_crt_qke44.jpg?r=1503239194",
+        "link": "https://bgm.tv/character/32378",
+        "categorie": "person"
+      },
+      {
+        "id": "17255",
+        "label": "板东鞠萌",
+        "info": "完全无法预料的关西风大变态2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ac/17255_crt_99H11.jpg?r=1428453975",
+        "link": "https://bgm.tv/character/17255",
+        "categorie": "person"
+      },
+      {
+        "id": "17252",
+        "label": "新庄佳苗",
+        "info": "明明是网球部的一员却完全不会打网球的笨蛋2年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/17252_crt_0dRf5.jpg?r=1429831189",
+        "link": "https://bgm.tv/character/17252",
+        "categorie": "person"
+      },
+      {
+        "id": "17253",
+        "label": "押本百合",
+        "info": "在被愚笨的前辈们折腾的途中变成了吐槽立场的后辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/6b/17253_crt_iRzpj.jpg?r=1430571391",
+        "link": "https://bgm.tv/character/17253",
+        "categorie": "person"
+      },
+      {
+        "id": "56833",
+        "label": "茄乃的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/9a/56833_crt_7qINu.jpg?r=1502461170",
+        "link": "https://bgm.tv/character/56833",
+        "categorie": "person"
+      },
+      {
+        "id": "56782",
+        "label": "形木矢貂千雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/31/56782_crt_N2k2W.jpg",
+        "link": "https://bgm.tv/character/56782",
+        "categorie": "person"
+      },
+      {
+        "id": "56844",
+        "label": "古平助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/cd/56844_crt_Lae90.jpg?r=1502464277",
+        "link": "https://bgm.tv/character/56844",
+        "categorie": "person"
+      },
+      {
+        "id": "56847",
+        "label": "马场宫子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/2e/56847_crt_55pst.jpg?r=1502464659",
+        "link": "https://bgm.tv/character/56847",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

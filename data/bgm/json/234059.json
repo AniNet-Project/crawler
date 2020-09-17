@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65586",
+        "label": "潮火之丸",
+        "info": "小学生日本一の実績があり国宝「鬼丸国綱」の異名を持つ。中学生時代は身長が伸びず周囲から終わった選手と思われたが、その裏で体格差を帳消しにする稽古を積み高校相撲に帰ってきた。夢は大相撲の横綱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/c4/65586_crt_J1m7D.jpg?r=1534473075",
+        "link": "https://bgm.tv/character/65586",
+        "categorie": "person"
+      },
+      {
+        "id": "65587",
+        "label": "小关信也",
+        "info": "相撲部部長。火ノ丸の入部まで、たった1人で相撲部を守ってきた。涙もろく、気弱に見えるが、いざという時に頼りになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/35/65587_crt_h2dZc.jpg?r=1534473311",
+        "link": "https://bgm.tv/character/65587",
+        "categorie": "person"
+      },
+      {
+        "id": "65588",
+        "label": "五条佑真",
+        "info": "相撲部の道場をたまり場とし、喧嘩やいじめをしていた。火ノ丸と出会い、相撲の道へ。空手有段者で喧嘩が強い。根は真面目で成績は優秀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/4d/65588_crt_207Cj.jpg?r=1534473449",
+        "link": "https://bgm.tv/character/65588",
+        "categorie": "person"
+      },
+      {
+        "id": "65589",
+        "label": "国崎千比路",
+        "info": "元レスリング部で、国体王者になった力量の持ち主。夢は総合格闘家になり、アメリカで頂点を取ること。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/31/65589_crt_z8Lp4.jpg?r=1534473601",
+        "link": "https://bgm.tv/character/65589",
+        "categorie": "person"
+      },
+      {
+        "id": "65590",
+        "label": "三桥萤",
+        "info": "相撲初心者。気が弱い性格だが、火ノ丸に憧れて相撲部への入部を決意した度胸を持っている",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/dc/65590_crt_3y0u5.jpg?r=1534473734",
+        "link": "https://bgm.tv/character/65590",
+        "categorie": "person"
+      },
+      {
+        "id": "65591",
+        "label": "辻桐仁",
+        "info": "小学校からの火ノ丸の親友で、彼の力になるために相撲部へ加入した。監督として相撲部を指揮する。力士としての実力は折り紙つきだが…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2d/65591_crt_DDeeZ.jpg?r=1534475079",
+        "link": "https://bgm.tv/character/65591",
+        "categorie": "person"
+      },
+      {
+        "id": "65592",
+        "label": "五条礼奈",
+        "info": "五條佑真の妹で、大太刀高校の生徒会長。かなりのブラコンで兄の佑真のことが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/a4/65592_crt_OS7MZ.jpg?r=1534475295",
+        "link": "https://bgm.tv/character/65592",
+        "categorie": "person"
+      },
+      {
+        "id": "65593",
+        "label": "堀千鹤子",
+        "info": "インターハイ予選を観戦した際、いたく感動し相撲部マネージャーになる。火ノ丸に興味がある様子で、入学前に火ノ丸と接点がある…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/de/65593_crt_vHbhf.jpg?r=1534475454",
+        "link": "https://bgm.tv/character/65593",
+        "categorie": "person"
+      },
+      {
+        "id": "65756",
+        "label": "ちゃんこ",
+        "info": "ダチ校相撲部室に住みついた野良猫。どことなく小関に似ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/e3/65756_crt_18E1I.jpg",
+        "link": "https://bgm.tv/character/65756",
+        "categorie": "person"
+      },
+      {
+        "id": "65594",
+        "label": "久世草介",
+        "info": "父が元横綱「大和国」という相撲界のサラブレッドで、底知れぬ実力を持つ。国宝「草薙剣」と呼ばれる。試合をした相手に大怪我をさせて以来、公式戦に出るのを禁じられ、過去数年は出場していなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/0d/65594_crt_4zM2O.jpg?r=1534475579",
+        "link": "https://bgm.tv/character/65594",
+        "categorie": "person"
+      },
+      {
+        "id": "65595",
+        "label": "狩谷俊",
+        "info": "小柄な体格だが、スピードと技術に長ける。久世とは幼馴染。同じ小兵として活躍していた火ノ丸に対し強いライバル意識をもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/16/65595_crt_mml21.jpg?r=1534475674",
+        "link": "https://bgm.tv/character/65595",
+        "categorie": "person"
+      },
+      {
+        "id": "65596",
+        "label": "四方田尽",
+        "info": "栄華大附属の主将。個人戦ではいつも上位に名を連ねている実力者。ひょうひょうとした雰囲気の反面、周りを良く観察し分析力に長ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/a7/65596_crt_eybMc.jpg?r=1534475774",
+        "link": "https://bgm.tv/character/65596",
+        "categorie": "person"
+      },
+      {
+        "id": "65597",
+        "label": "泽井理音",
+        "info": "口は悪いが優しい性格。責任感が強く成績優秀で、試合においても冷静に相手を分析する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/3b/65597_crt_D4H2p.jpg?r=1534475866",
+        "link": "https://bgm.tv/character/65597",
+        "categorie": "person"
+      },
+      {
+        "id": "65598",
+        "label": "丹尼尔·斯特凡诺夫",
+        "info": "ブルガリア出身。大和国に魅せられ、海を渡り栄華大附属へ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/91/65598_crt_84P9p.jpg?r=1534476287",
+        "link": "https://bgm.tv/character/65598",
+        "categorie": "person"
+      },
+      {
+        "id": "69582",
+        "label": "兵藤真磋人",
+        "info": "栄華大附属高校相撲部3年生で千比路の実兄。トリッキーな取り口と恵まれた身体能力でその実力は国宝級と言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/35/69582_crt_bADbd.jpg?r=1554157520",
+        "link": "https://bgm.tv/character/69582",
+        "categorie": "person"
+      },
+      {
+        "id": "65757",
+        "label": "沙田美月",
+        "info": "中学生横綱の実績があり、国宝「三日月宗近」と呼ばれている。火ノ丸に憧れて相撲を始めたという過去を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/a9/65757_crt_71d4Q.jpg?r=1535340021",
+        "link": "https://bgm.tv/character/65757",
+        "categorie": "person"
+      },
+      {
+        "id": "65761",
+        "label": "金盛刚",
+        "info": "石神高校の相撲部部長を務め、通称「金剛力」と呼ばれる。強面だが、情に厚い一面を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ff/65761_crt_OrF5A.jpg?r=1535350987",
+        "link": "https://bgm.tv/character/65761",
+        "categorie": "person"
+      },
+      {
+        "id": "65758",
+        "label": "荒木源之助",
+        "info": "柔道で中学王者となった経歴の持ち主。國崎千比路と同じく、夢は総合格闘技で頂点を獲ること。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/64/65758_crt_d1pDd.jpg?r=1535341430",
+        "link": "https://bgm.tv/character/65758",
+        "categorie": "person"
+      },
+      {
+        "id": "65759",
+        "label": "真田勇气",
+        "info": "「血煙の一夜」という伝説の事件を経て、地元で恐れられる存在となった。普段はとても温厚。相撲をこよなく愛する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/38/65759_crt_RljUS.jpg?r=1535344092",
+        "link": "https://bgm.tv/character/65759",
+        "categorie": "person"
+      },
+      {
+        "id": "65760",
+        "label": "间宫圭一",
+        "info": "石神相撲部で最も体が大きく、その体格を生かした相撲が得意。大人しく、あまり動じない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/03/65760_crt_nXeED.jpg?r=1535347423",
+        "link": "https://bgm.tv/character/65760",
+        "categorie": "person"
+      },
+      {
+        "id": "68626",
+        "label": "天王寺狮童",
+        "info": "鳥取白楼高校3年で主将。比類なき実力で、高校相撲界の頂点に君臨する最強の高校横綱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/9e/68626_crt_4oW5v.jpg?r=1554157533",
+        "link": "https://bgm.tv/character/68626",
+        "categorie": "person"
+      },
+      {
+        "id": "68932",
+        "label": "加纳彰平",
+        "info": "[ 鳥取白楼高校３年 ]",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/bf/68932_crt_wm3rD.jpg?r=1554157543",
+        "link": "https://bgm.tv/character/68932",
+        "categorie": "person"
+      },
+      {
+        "id": "69573",
+        "label": "首藤正臣",
+        "info": "寡黙で優しい性格だが、体格にも恵まれその怪力を活かした相撲を取る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/78/69573_crt_PZ0M0.jpg?r=1554157553",
+        "link": "https://bgm.tv/character/69573",
+        "categorie": "person"
+      },
+      {
+        "id": "69572",
+        "label": "榎木晋太郎",
+        "info": "中学時代に天王寺に出会い、本格的に相撲に入れ込むことになる。大柄な体格ではないが合気道を活かし、入部から2年生の現在に至るまでレギュラーの座を守り続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/6b/69572_crt_Dh5Aa.jpg?r=1554157563",
+        "link": "https://bgm.tv/character/69572",
+        "categorie": "person"
+      },
+      {
+        "id": "69574",
+        "label": "巴特蒙夫·巴特拜尔",
+        "info": "モンゴル出身。大相撲力士になるために来日した。外国人としてプロ力士を目指す難しさを強く感じているため、人一倍負けん気が強い。愛称は「バト」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/cc/69574_crt_V3nO3.jpg?r=1554157574",
+        "link": "https://bgm.tv/character/69574",
+        "categorie": "person"
+      },
+      {
+        "id": "69575",
+        "label": "天王寺咲",
+        "info": "天王寺獅童の妹で鳥取白桜のマネージャー。休日はプロ入りを目指している兄の代わりに相撲部屋の偵察をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/6b/69575_crt_1pqnp.jpg?r=1554157587",
+        "link": "https://bgm.tv/character/69575",
+        "categorie": "person"
+      },
+      {
+        "id": "68627",
+        "label": "日景典马",
+        "info": "[ 金沢北高校２年 ]",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/9d/68627_crt_coADt.jpg",
+        "link": "https://bgm.tv/character/68627",
+        "categorie": "person"
+      },
+      {
+        "id": "69576",
+        "label": "相泽亮",
+        "info": "細身ながら強豪金沢北高の主将を務める実力者。一見して明るく人当たりが良さそうだが、勝負事に関しては非常にシビアな考えを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/a6/69576_crt_ei15I.jpg",
+        "link": "https://bgm.tv/character/69576",
+        "categorie": "person"
+      },
+      {
+        "id": "69577",
+        "label": "米村龙二",
+        "info": "豪快な性格で口は悪いが、気取りのない爽やかな性格の持ち主。しかしながら典馬のマイペースな行動にいつも困らされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/3b/69577_crt_tmQWR.jpg",
+        "link": "https://bgm.tv/character/69577",
+        "categorie": "person"
+      },
+      {
+        "id": "69578",
+        "label": "濑良拓海",
+        "info": "石川県個人戦4位。北高のムードメーカーで、明るく人懐っこい性格をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/a0/69578_crt_AmsCn.jpg",
+        "link": "https://bgm.tv/character/69578",
+        "categorie": "person"
+      },
+      {
+        "id": "68628",
+        "label": "骏海登喜雄",
+        "info": "元横綱。横暴に見える振る舞いのために誤解を受けることも多いが、引退してからも横綱を二人も育てた実力者である。火ノ丸の相撲に魅せられた一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/ad/68628_crt_U5HwF.jpg",
+        "link": "https://bgm.tv/character/68628",
+        "categorie": "person"
+      },
+      {
+        "id": "69579",
+        "label": "柴木山亲方",
+        "info": "現役当時、小兵ながらも横綱・大和国から勝利を奪うほどの実力を持った力士であった。桐仁の売り込みにより火ノ丸の体験入門を受け入れ、そこで火ノ丸の相撲に惚れ込み指導をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/b3/69579_crt_1y0yk.jpg",
+        "link": "https://bgm.tv/character/69579",
+        "categorie": "person"
+      },
+      {
+        "id": "69580",
+        "label": "寺原拓哉",
+        "info": "柴木山部屋のムードメーカー。面倒見が良く、火ノ丸のことを可愛がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/39/69580_crt_M14rr.jpg",
+        "link": "https://bgm.tv/character/69580",
+        "categorie": "person"
+      },
+      {
+        "id": "69581",
+        "label": "冴之山纪洋",
+        "info": "西前頭九枚目。柴木山部屋のホープであり、柴木山が横綱の夢を託した関取。ポーカーフェイスで淡々としているが、好奇心旺盛で優しい一面を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/26/69581_crt_IYWZK.jpg",
+        "link": "https://bgm.tv/character/69581",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

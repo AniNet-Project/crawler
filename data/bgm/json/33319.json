@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23334",
+        "label": "欧莉卡·内斯特米尔",
+        "info": "欧莉卡·内斯特米尔",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/8f/23334_crt_PLZjS.jpg",
+        "link": "https://bgm.tv/character/23334",
+        "categorie": "person"
+      },
+      {
+        "id": "23336",
+        "label": "莱纳·巴尔赛尔特",
+        "info": "莱纳·巴尔赛尔特",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/e2/23336_crt_F55HB.jpg",
+        "link": "https://bgm.tv/character/23336",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

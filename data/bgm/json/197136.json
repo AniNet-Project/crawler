@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51180",
+        "label": "黑影",
+        "info": "“我可以黑掉任何东西……以及任何人。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/3c/51180_crt_Rf9q3.jpg?r=1488018747",
+        "link": "https://bgm.tv/character/51180",
+        "categorie": "person"
+      },
+      {
+        "id": "45982",
+        "label": "死神",
+        "info": "“死神来了。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/40/45982_crt_qms51.jpg?r=1488018050",
+        "link": "https://bgm.tv/character/45982",
+        "categorie": "person"
+      },
+      {
+        "id": "45986",
+        "label": "黑百合",
+        "info": "“一枪，一个。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ed/45986_crt_e48w4.jpg?r=1488020994",
+        "link": "https://bgm.tv/character/45986",
+        "categorie": "person"
+      },
+      {
+        "id": "46917",
+        "label": "查莉娅",
+        "info": "“团结就是力量。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/01/46917_crt_N3hKk.jpg?r=1488025223",
+        "link": "https://bgm.tv/character/46917",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

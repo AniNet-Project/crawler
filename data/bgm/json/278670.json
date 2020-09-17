@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70829",
+        "label": "索玛丽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/4c/70829_crt_b345R.jpg",
+        "link": "https://bgm.tv/character/70829",
+        "categorie": "person"
+      },
+      {
+        "id": "70830",
+        "label": "格雷姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/c3/70830_crt_KsSQS.jpg",
+        "link": "https://bgm.tv/character/70830",
+        "categorie": "person"
+      },
+      {
+        "id": "71574",
+        "label": "锡佐",
+        "info": "住在森林中的草药师。以“爸爸”身体的一部分作为交换，教会“爸爸”制药的方法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1d/71574_crt_srhO7.jpg",
+        "link": "https://bgm.tv/character/71574",
+        "categorie": "person"
+      },
+      {
+        "id": "71575",
+        "label": "亚芭希",
+        "info": "锡佐的助手。和锡佐一起生活，负责饮食起居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/9b/71575_crt_Ob4NT.jpg",
+        "link": "https://bgm.tv/character/71575",
+        "categorie": "person"
+      },
+      {
+        "id": "71576",
+        "label": "乌佐伊",
+        "info": "为了医治海特拉的病而旅行着，试图得到索玛丽的鲜血。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/30/71576_crt_6kfGG.jpg",
+        "link": "https://bgm.tv/character/71576",
+        "categorie": "person"
+      },
+      {
+        "id": "71577",
+        "label": "海特拉",
+        "info": "患有重病带着鸟头面具的人类，带着乌佐伊在旅途中寻找医治自己的方法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/3d/71577_crt_gzG4b.jpg",
+        "link": "https://bgm.tv/character/71577",
+        "categorie": "person"
+      },
+      {
+        "id": "71578",
+        "label": "吉吉拉",
+        "info": "索玛丽交到的第一个毛茸茸的朋友。有点调皮。带索玛丽寻找“可以实现愿望”的花朵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/32/71578_crt_1W1j1.jpg",
+        "link": "https://bgm.tv/character/71578",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

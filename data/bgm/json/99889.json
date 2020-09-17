@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36177",
+        "label": "艾岚",
+        "info": "アランとは、ポケットモンスター XY 特別編 最強メガシンカの主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/33/36177_crt_WvWw2.jpg?r=1446379159",
+        "link": "https://bgm.tv/character/36177",
+        "categorie": "person"
+      },
+      {
+        "id": "45220",
+        "label": "玛农",
+        "info": "玛农是一位刚开展旅程的新手训练家，拍挡的哈力栗叫做“哈力君”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/16/45220_crt_6RlGA.jpg?r=1472498328",
+        "link": "https://bgm.tv/character/45220",
+        "categorie": "person"
+      },
+      {
+        "id": "45219",
+        "label": "小软",
+        "info": "小软是宝可梦动画《精灵宝可梦 XY》中柚丽嘉照顾的一只未收服的宝可梦，其真身是基格尔德的核心之一，被闪焰队称为Z1。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/29/45219_crt_sEeAs.jpg",
+        "link": "https://bgm.tv/character/45219",
+        "categorie": "person"
+      },
+      {
+        "id": "46592",
+        "label": "弗拉达利",
+        "info": "弗拉达利是闪焰队的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/2d/46592_crt_b1lXZ.jpg?r=1474552006",
+        "link": "https://bgm.tv/character/46592",
+        "categorie": "person"
+      },
+      {
+        "id": "46598",
+        "label": "帕琦拉",
+        "info": "帕琦拉是卡洛斯地方的火系专家，也是卡洛斯地方的四天王其中之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/ca/46598_crt_wGggx.jpg",
+        "link": "https://bgm.tv/character/46598",
+        "categorie": "person"
+      },
+      {
+        "id": "46591",
+        "label": "闪焰队",
+        "info": "闪焰队是《精灵宝可梦 X·Y》中出现的有组织犯罪集团。在卡洛斯地区各处的街上都可以看到身著红色西装的集团。似乎抱持著无论其他的训练家或宝可梦发生什么事，只要自己快乐就好的自私想法。他们的技术已经渗透至卡洛斯地区的生活之中，并因此赚取了大量金钱，但是他们的技术并非仅仅只是为了方便生活，似乎还有其他目的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/01/46591_crt_1E1is.jpg",
+        "link": "https://bgm.tv/character/46591",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

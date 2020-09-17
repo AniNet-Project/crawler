@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48621",
+        "label": "金",
+        "info": "外表看起来是一个无知无畏开朗阳光的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/17/48621_crt_b67y6.jpg?r=1479444849",
+        "link": "https://bgm.tv/character/48621",
+        "categorie": "person"
+      },
+      {
+        "id": "48625",
+        "label": "格瑞",
+        "info": "凹凸大赛公认的几个战斗天才之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/98/48625_crt_21wca.jpg?r=1479445600",
+        "link": "https://bgm.tv/character/48625",
+        "categorie": "person"
+      },
+      {
+        "id": "48635",
+        "label": "紫堂幻",
+        "info": "来自幻兽星名门望族紫堂家族，该家族可以与动物交谈并驯化它们为其战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/80/48635_crt_EwUhx.jpg?r=1479446157",
+        "link": "https://bgm.tv/character/48635",
+        "categorie": "person"
+      },
+      {
+        "id": "48636",
+        "label": "凯莉",
+        "info": "臭名远扬的“掠夺者”之一，靠击杀其他参赛者来获取积分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/e9/48636_crt_aBZdk.jpg?r=1479446840",
+        "link": "https://bgm.tv/character/48636",
+        "categorie": "person"
+      },
+      {
+        "id": "51589",
+        "label": "丹尼尔",
+        "info": "大天使裁判长，地位只在七神使之下，负责管理凹凸大赛的各项事务，但似乎隐藏不少秘密的样子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/dc/51589_crt_6X568.jpg?r=1487545897",
+        "link": "https://bgm.tv/character/51589",
+        "categorie": "person"
+      },
+      {
+        "id": "58846",
+        "label": "雷狮",
+        "info": "“雷狮海盗团”的首领，之前是雷王星的三皇子，因此性格兼具海盗的狡猾残忍和皇族的霸道嚣张。就像他当年抛弃了皇位继承权转职宇宙海盗的行为一样，雷狮的行事风格一直是这么百无禁忌，思想动机也完全让人捉摸不透。凹凸大赛预赛排名第4位。（漫画中透露雷狮在预赛时有保存实力）",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/3f/58846_crt_zq5jO.jpg?r=1512807985",
+        "link": "https://bgm.tv/character/58846",
+        "categorie": "person"
+      },
+      {
+        "id": "58848",
+        "label": "卡米尔",
+        "info": "雷狮的堂弟，雷王星皇族私生子，因为从小就受到雷狮的庇护，所以对雷狮忠心耿耿，哪怕后来雷狮丢掉皇子的身份当了宇宙海盗也不离不弃。称呼雷狮为“大哥”，凡事都以雷狮的利益考虑为最优先。其头脑睿智，性格冷静，是雷狮海盗团不可缺少的军师和“制动装置”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/df/58848_crt_ssyuJ.jpg?r=1512808680",
+        "link": "https://bgm.tv/character/58848",
+        "categorie": "person"
+      },
+      {
+        "id": "58849",
+        "label": "佩利",
+        "info": "从小就在社会底层打杀求生，被称为“狂犬”。后学武，学成后根据流派传承，弑师出山。将战斗奉为唯一的生存之道，只有在无尽的战斗中才能找到自我。欺软不怕硬，有架可打便开心。唯一残念的是头脑不太好，常被帕洛斯等人耍的团团转，凹凸大赛预赛排名第11位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/9c/58849_crt_vz3zf.jpg?r=1512808969",
+        "link": "https://bgm.tv/character/58849",
+        "categorie": "person"
+      },
+      {
+        "id": "58845",
+        "label": "嘉德罗斯",
+        "info": "圣空星禁忌研究的产物，仿造“神”制造出来的“完美存在”，圣空星王的王位继承人。为了印证真正的“神”的力量而参加凹凸大赛。凹凸大赛预赛排名第1位，因而傲慢，自大，目空一切。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/36/58845_crt_1jP1w.jpg?r=1512807881",
+        "link": "https://bgm.tv/character/58845",
+        "categorie": "person"
+      },
+      {
+        "id": "68765",
+        "label": "艾比",
+        "info": "来自玳瑁星，埃米的姐姐，外号呆毛姐。要在凹凸大赛中找到“全宇宙最拽的男朋友”而拉着弟弟强行参赛。虽然给人智商堪忧的感觉，但有她在就不会物料，是个能让气氛轻松愉悦起来的开心果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/9a/68765_crt_bS38P.jpg",
+        "link": "https://bgm.tv/character/68765",
+        "categorie": "person"
+      },
+      {
+        "id": "68766",
+        "label": "埃米",
+        "info": "来自玳瑁星，艾比的弟弟，外号呆毛弟。因为姐姐的无厘头行动而不得不跟随参赛。常年被姐坑而牢骚满腹，可一旦姐姐真出什么大问题，埃米又总是义无反顾主动躺枪。以姐姐的监护人自居，讨厌被当成小孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/56/68766_crt_St975.jpg",
+        "link": "https://bgm.tv/character/68766",
+        "categorie": "person"
+      },
+      {
+        "id": "68768",
+        "label": "帕洛斯",
+        "info": "为人自私贪婪，见风使舵，毫无节操。曾经是星际通缉犯，因诈骗和劫掠多个星球的资源而被通缉。在偶然被雷狮所救后，顺势加入了雷狮海盗团。但对海盗团的忠诚度严重欠缺，随时打算利用和背叛。对他来说，加入海盗团只是“暂时在这儿度个假”，业余爱好是坑佩利。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/b6/68768_crt_AGone.jpg",
+        "link": "https://bgm.tv/character/68768",
+        "categorie": "person"
+      },
+      {
+        "id": "68769",
+        "label": "安迷修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/c3/68769_crt_Oeoec.jpg",
+        "link": "https://bgm.tv/character/68769",
+        "categorie": "person"
+      },
+      {
+        "id": "58844",
+        "label": "鬼狐天冲",
+        "info": "经常隐藏在披风面具中，善于以语言和谋略蛊惑诱导他人，达成自己的目的。在凹凸大赛中集结了一大批的参赛者，组成了超过百人的庞大团队“鬼天盟”。号称要集弱成强、团结大家的力量去战胜那些强大到不可战胜的敌人，带领“鬼天盟”的所有人一起通过预赛。放低身姿去依附强者，其实却是最大阴谋者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/40/58844_crt_9xze9.jpg?r=1512808358",
+        "link": "https://bgm.tv/character/58844",
+        "categorie": "person"
+      },
+      {
+        "id": "58847",
+        "label": "黑洞",
+        "info": "有着恐怖的力量和成长才能，并且像病毒一样在系统中穿梭，大BOSS一般的存在。突然出现在本届凹凸大赛中的黑洞，似乎正在寻找着什么的样子。其实力在大天使长之上，十分强大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/dd/58847_crt_XzKd6.jpg?r=1512808455",
+        "link": "https://bgm.tv/character/58847",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20891",
+        "label": "神原秋人",
+        "info": "高中2年级。妖梦与人类之间出生的，不死之身（与其说不死，不如说是有着伤好的比较快的特性）。学校文艺部一员。擅长照顾他人，主要擅长吐槽大家被当做活宝。因为是半血，所以既不被妖梦也不被人类所承认，有着孤独的的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/9f/20891_crt_wT8tT.jpg?r=1461579343",
+        "link": "https://bgm.tv/character/20891",
+        "categorie": "person"
+      },
+      {
+        "id": "20890",
+        "label": "栗山未来",
+        "info": "高中1年级。有操纵血能力的家族的异界士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/e2/20890_crt_3HO34.jpg?r=1420875960",
+        "link": "https://bgm.tv/character/20890",
+        "categorie": "person"
+      },
+      {
+        "id": "20892",
+        "label": "名濑博臣",
+        "info": "高中3年级学生。异界士，名濑家的长男。使用槛の能力的异界士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/52/20892_crt_YHvF0.jpg",
+        "link": "https://bgm.tv/character/20892",
+        "categorie": "person"
+      },
+      {
+        "id": "20893",
+        "label": "名濑美月",
+        "info": "高中2年级。作为异界士中名门望族的名濑家次女，身负监视秋人的任务，实际上却十分担心秋人。可以为秋人切腹的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/aa/20893_crt_tXtAe.jpg",
+        "link": "https://bgm.tv/character/20893",
+        "categorie": "person"
+      },
+      {
+        "id": "21450",
+        "label": "新堂爱",
+        "info": "新堂彩華の同居人で、美少女の姿をした猫又（ネコとしての姿はスコティッシュフォールド似）の妖夢。秋人たちと同じ学校に通う高校1年生。誕生日8月25日、血液型不明。身長146cm。人間に対して敵意は無く、秋人とも親しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/76/21450_crt_0HH3Y.jpg",
+        "link": "https://bgm.tv/character/21450",
+        "categorie": "person"
+      },
+      {
+        "id": "21572",
+        "label": "二之宫雫",
+        "info": "背広姿の美女異界士。誕生日6月18日、血液型A型。身長168cm。空間を捻じ曲げる異能力を持つ。主に防御に特化した名瀬に攻撃の専門家として雇われている。戦闘を好む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/74/21572_crt_XqkKZ.jpg",
+        "link": "https://bgm.tv/character/21572",
+        "categorie": "person"
+      },
+      {
+        "id": "22516",
+        "label": "藤真弥勒",
+        "info": "异界士协会派遣来的男人。 难以捉摸，不好对付的性格。 时常采取可疑的行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/a3/22516_crt_5BLnO.jpg?r=1461582284",
+        "link": "https://bgm.tv/character/22516",
+        "categorie": "person"
+      },
+      {
+        "id": "22135",
+        "label": "名濑泉",
+        "info": "名濑家的长女，博臣与美月的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/9e/22135_crt_Byqky.jpg",
+        "link": "https://bgm.tv/character/22135",
+        "categorie": "person"
+      },
+      {
+        "id": "40954",
+        "label": "新堂彩华",
+        "info": "和菓子店を営む着物姿の異界士。京都弁を話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/24/40954_crt_bng8m.jpg",
+        "link": "https://bgm.tv/character/40954",
+        "categorie": "person"
+      },
+      {
+        "id": "40955",
+        "label": "伊波唯",
+        "info": "故人。未来と優斗の師匠的な女性異界士。被害を最小限に抑えるため、自身に憑依した虚ろな影ごと未来に斬らせ、自ら命を絶った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/87/40955_crt_34xMi.jpg?r=1461581854",
+        "link": "https://bgm.tv/character/40955",
+        "categorie": "person"
+      },
+      {
+        "id": "40985",
+        "label": "烤红薯",
+        "info": "美月养的妖梦，因为长的像松软的红薯，所以被命名成“烤红薯”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/40/40985_crt_A2TA2.jpg",
+        "link": "https://bgm.tv/character/40985",
+        "categorie": "person"
+      },
+      {
+        "id": "22389",
+        "label": "伊波樱",
+        "info": "唯の妹で、未来と深い因縁がある。未来を追って長月市へとやって来た。冷徹な印象を与えるが、実際は大変な姉思いの心優しい性格である。誕生日4月29日、血液型A型。身長159cm。唯の死後より、彼女の意志を継いで異界士になろうとしていたが、異界士としての才能や力には恵まれていない。そのため、未来の力に羨望や嫉妬とも言える感情を抱いていたため、そこを弥勒に付け込まれ、「栗山未来の殺害」を条件に彼から妖夢石を糧に強力になる異能の武器を預かった。しかしこの武器は彼女には適しておらず、力が増すごとに彼女の手に余る代物なっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/61/22389_crt_qQrg2.jpg",
+        "link": "https://bgm.tv/character/22389",
+        "categorie": "person"
+      },
+      {
+        "id": "29586",
+        "label": "神原弥生",
+        "info": "秋人の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/18/29586_crt_lxxuh.jpg",
+        "link": "https://bgm.tv/character/29586",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47321",
+        "label": "艾思卡",
+        "info": "以一头长发与澄澈的双瞳为特征的美少女，散发着神秘的氛围。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/72/47321_crt_L0WJM.jpg?r=1498540410",
+        "link": "https://bgm.tv/character/47321",
+        "categorie": "person"
+      },
+      {
+        "id": "47322",
+        "label": "柯蓉",
+        "info": "魅力在于她的明朗笑容的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/0c/47322_crt_HFhvQ.jpg?r=1498540611",
+        "link": "https://bgm.tv/character/47322",
+        "categorie": "person"
+      },
+      {
+        "id": "55415",
+        "label": "笠井隼太",
+        "info": "曾在人气乐队中担任过作曲·主唱·吉他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/46/55415_crt_AEDtt.jpg?r=1498539969",
+        "link": "https://bgm.tv/character/55415",
+        "categorie": "person"
+      },
+      {
+        "id": "55416",
+        "label": "齐藤栞",
+        "info": "做上了梦想的工作，在都内勤奋努力着的独居OL。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/0e/55416_crt_58Wov.jpg?r=1498540230",
+        "link": "https://bgm.tv/character/55416",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

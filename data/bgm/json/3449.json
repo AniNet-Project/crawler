@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9193",
+        "label": "野井原绯鞠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/17/9193_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9193",
+        "categorie": "person"
+      },
+      {
+        "id": "9194",
+        "label": "静水久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/c9/9194_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9194",
+        "categorie": "person"
+      },
+      {
+        "id": "48848",
+        "label": "天河优人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/e4/48848_crt_1Xe9H.jpg",
+        "link": "https://bgm.tv/character/48848",
+        "categorie": "person"
+      },
+      {
+        "id": "48849",
+        "label": "九崎凛子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/1e/48849_crt_FGS3P.jpg",
+        "link": "https://bgm.tv/character/48849",
+        "categorie": "person"
+      },
+      {
+        "id": "48850",
+        "label": "莉兹丽特·L·查尔斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/92/48850_crt_FQPP1.jpg",
+        "link": "https://bgm.tv/character/48850",
+        "categorie": "person"
+      },
+      {
+        "id": "9195",
+        "label": "神宫寺玖惠澄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/82/9195_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9195",
+        "categorie": "person"
+      },
+      {
+        "id": "9196",
+        "label": "柾木泰三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/87/9196_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9196",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

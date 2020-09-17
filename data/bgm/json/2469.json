@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6487",
+        "label": "南樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/b3/6487_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6487",
+        "categorie": "person"
+      },
+      {
+        "id": "6488",
+        "label": "野山野林檎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/fe/6488_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6488",
+        "categorie": "person"
+      },
+      {
+        "id": "6489",
+        "label": "シムカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/5b/6489_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6489",
+        "categorie": "person"
+      },
+      {
+        "id": "9860",
+        "label": "鰐島亜紀人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/fa/9860_crt_GgcPE.jpg",
+        "link": "https://bgm.tv/character/9860",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

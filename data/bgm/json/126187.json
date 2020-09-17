@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44892",
+        "label": "江澄芽依",
+        "info": "22歳。 スポーツインストラクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/fb/44892_crt_k9wrP.jpg",
+        "link": "https://bgm.tv/character/44892",
+        "categorie": "person"
+      },
+      {
+        "id": "44894",
+        "label": "鳴賀多紗希",
+        "info": "25歳。 警備保障会社勤務。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/91/44894_crt_98vR7.jpg",
+        "link": "https://bgm.tv/character/44894",
+        "categorie": "person"
+      },
+      {
+        "id": "44895",
+        "label": "イバラキ",
+        "info": "『生粋荘』 の屋上にある時計台の付喪神で、自称座敷童。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/8d/44895_crt_6L486.jpg",
+        "link": "https://bgm.tv/character/44895",
+        "categorie": "person"
+      },
+      {
+        "id": "44893",
+        "label": "蒼海瑠璃香",
+        "info": "25歳。 レディコミ作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/2a/44893_crt_8LUzH.jpg",
+        "link": "https://bgm.tv/character/44893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

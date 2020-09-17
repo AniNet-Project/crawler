@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74907",
+        "label": "神户大助",
+        "info": "大富豪「神戸家」の御曹司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/f8/74907_crt_kW6ri.jpg?r=1579778261",
+        "link": "https://bgm.tv/character/74907",
+        "categorie": "person"
+      },
+      {
+        "id": "74909",
+        "label": "加藤春",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/c5/74909_crt_s33sq.jpg?r=1579778375",
+        "link": "https://bgm.tv/character/74909",
+        "categorie": "person"
+      },
+      {
+        "id": "76281",
+        "label": "清水幸宏",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/8f/76281_crt_2EpDt.jpg?r=1584751817",
+        "link": "https://bgm.tv/character/76281",
+        "categorie": "person"
+      },
+      {
+        "id": "76282",
+        "label": "仲本长介",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/08/76282_crt_5a669.jpg?r=1584751893",
+        "link": "https://bgm.tv/character/76282",
+        "categorie": "person"
+      },
+      {
+        "id": "76283",
+        "label": "龟井新之助",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/b3/76283_crt_y3NgB.jpg?r=1584751999",
+        "link": "https://bgm.tv/character/76283",
+        "categorie": "person"
+      },
+      {
+        "id": "76284",
+        "label": "佐伯まほろ",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b5/76284_crt_913M6.jpg?r=1584752205",
+        "link": "https://bgm.tv/character/76284",
+        "categorie": "person"
+      },
+      {
+        "id": "76285",
+        "label": "汤本铁平",
+        "info": "警視庁「現代犯罪対策本部準備室」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/9a/76285_crt_B6332.jpg?r=1584752354",
+        "link": "https://bgm.tv/character/76285",
+        "categorie": "person"
+      },
+      {
+        "id": "76286",
+        "label": "武井克弘",
+        "info": "警視庁「捜査一課」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/12/76286_crt_2Hzw8.jpg?r=1584752445",
+        "link": "https://bgm.tv/character/76286",
+        "categorie": "person"
+      },
+      {
+        "id": "76287",
+        "label": "星野凉",
+        "info": "警視庁「捜査一課」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/24/76287_crt_07vbR.jpg?r=1584752545",
+        "link": "https://bgm.tv/character/76287",
+        "categorie": "person"
+      },
+      {
+        "id": "76288",
+        "label": "神户铃江",
+        "info": "大助と加藤が関わることになった事件の捜査線上に浮上した女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/d6/76288_crt_9f1Fj.jpg?r=1584752623",
+        "link": "https://bgm.tv/character/76288",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

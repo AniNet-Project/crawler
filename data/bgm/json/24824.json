@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14473",
+        "label": "柠檬",
+        "info": "超一流的间谍，小新的搭档，7岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/fd/14473_crt_wLK22.jpg",
+        "link": "https://bgm.tv/character/14473",
+        "categorie": "person"
+      },
+      {
+        "id": "7201",
+        "label": "野原新之助",
+        "info": "野原新之助是日本漫画家臼井仪人的漫画作品《蜡笔小新》中的主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/8f/7201_crt_RwG32.jpg",
+        "link": "https://bgm.tv/character/7201",
+        "categorie": "person"
+      },
+      {
+        "id": "14474",
+        "label": "ナーラオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/c2/14474_crt_Zx0Xt.jpg",
+        "link": "https://bgm.tv/character/14474",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58094",
+        "label": "美原あかね",
+        "info": "幼い頃の約束を果たすため、強引に祥悟の妻となった謎の美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/4f/58094_crt_Uu9ou.jpg",
+        "link": "https://bgm.tv/character/58094",
+        "categorie": "person"
+      },
+      {
+        "id": "58095",
+        "label": "宮本静玖",
+        "info": "豊永学園２年生で進也の幼なじみ。進也とは小学校の頃から同じクラスで今も同じクラス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/b3/58095_crt_z8p63.jpg",
+        "link": "https://bgm.tv/character/58095",
+        "categorie": "person"
+      },
+      {
+        "id": "58096",
+        "label": "富士見紗由美",
+        "info": "勇二の妻で静玖の姉。豊永学園の校医でもある。勇二とは３年前に結婚した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/35/58096_crt_NvHHN.jpg",
+        "link": "https://bgm.tv/character/58096",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

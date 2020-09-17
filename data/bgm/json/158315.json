@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39921",
+        "label": "佐藤阳菜",
+        "info": "東北の港町に住む13歳の女の子。元気いっぱいだが少しおっちょこちょいで、いつも周りをはらはらさせる。フィギュアスケートの練習に励むものの、最近は壁にぶつかることも・・・",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/31/39921_crt_fj66k.jpg?r=1459679494",
+        "link": "https://bgm.tv/character/39921",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

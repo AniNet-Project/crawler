@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8706",
+        "label": "宗方実良",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/88/8706_crt_anidb.jpg?r=1414465999",
+        "link": "https://bgm.tv/character/8706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

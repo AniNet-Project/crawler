@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "108",
+        "label": "ボッカ・セレナーデ",
+        "info": "本作主人公。17歳。劣等性だったボッカは、モンスターと黒船の戦いの中で忘却の旋律を見て、アイバーマシン「エランヴィタール」と共にメロスの戦士として旅立つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c6/108_c2974270fd093ee8a9bf8ae7d0b_aSm2J.jpg",
+        "link": "https://bgm.tv/character/108",
+        "categorie": "person"
+      },
+      {
+        "id": "109",
+        "label": "月之森小夜子",
+        "info": "17歳。黒船を追いかけて旅する少女。黒船の居場所を特殊な超能力で見つけることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/23/109_092b63885e0d7c260cc007e8b9d_UgN8P.jpg",
+        "link": "https://bgm.tv/character/109",
+        "categorie": "person"
+      },
+      {
+        "id": "110",
+        "label": "黒船・バラード",
+        "info": "流れ者のメロスの戦士。アイバーマシン”ジャガーの太陽号”を駆る。迷宮に閉じ込められ何十年も歳をとらなかったらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/93/110_983524def3dca464469d2cf9f3e_rxJTm.jpg",
+        "link": "https://bgm.tv/character/110",
+        "categorie": "person"
+      },
+      {
+        "id": "111",
+        "label": "忘却的旋律",
+        "info": "メロスの戦士にだけ見える少女の姿の幻影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/8d/111_1a19d8a121ce581499d7b701668_tW8dH.jpg",
+        "link": "https://bgm.tv/character/111",
+        "categorie": "person"
+      },
+      {
+        "id": "114",
+        "label": "遠音・レクイエム",
+        "info": "弓矢を持ち、鳴弦という技を使う少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d0/114_37cd7dbbb00f97ba6ce92bf5add_1WQXw.jpg",
+        "link": "https://bgm.tv/character/114",
+        "categorie": "person"
+      },
+      {
+        "id": "115",
+        "label": "スカイブルー",
+        "info": "モンスターユニオンの支配する「涙ダム」の穴を腕で塞ぎ続けている「蒼い瞳の少年」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/44/115_28ae11fb9384c4cf38708677c48_AjK2k.jpg",
+        "link": "https://bgm.tv/character/115",
+        "categorie": "person"
+      },
+      {
+        "id": "116",
+        "label": "ココ・ニンナナンナ",
+        "info": "四人組の武装演劇集団&quot;チェンタウロ&quot;のマスコットガール",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/51/116_7dee729311ef5b5c3003946c48f_pYqJD.jpg",
+        "link": "https://bgm.tv/character/116",
+        "categorie": "person"
+      },
+      {
+        "id": "123",
+        "label": "ホル",
+        "info": "この世を支配しているといわれるモンスターの一匹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/2c/123_962ac59075b964b07152d234b70_f80f4.jpg",
+        "link": "https://bgm.tv/character/123",
+        "categorie": "person"
+      },
+      {
+        "id": "112",
+        "label": "ツナギじいさん（武蔵野三郎）",
+        "info": "メロスの戦士の武器であるアイバ－マシンを制作、修理することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/6f/112_aa6bb0b408017b62254211691b5_LITBM.jpg",
+        "link": "https://bgm.tv/character/112",
+        "categorie": "person"
+      },
+      {
+        "id": "113",
+        "label": "エル（園田エル）",
+        "info": "ボッカのクラスメート。市長の娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/27/113_a4a86960eeb576a8fd4c9ec6997_rzUxk.jpg",
+        "link": "https://bgm.tv/character/113",
+        "categorie": "person"
+      },
+      {
+        "id": "118",
+        "label": "ヒカリ",
+        "info": "武装演劇集団「チェンタウロ」のメンバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f0/118_9938ba799aaa845e1c2e8a762bd_cqncx.jpg",
+        "link": "https://bgm.tv/character/118",
+        "categorie": "person"
+      },
+      {
+        "id": "117",
+        "label": "クロン",
+        "info": "武装演劇集団「チェンタウロ」のメンバー。ココを慕う",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/16/117_de1de89d9058fcb0b968dbbbd68_J5bRi.jpg",
+        "link": "https://bgm.tv/character/117",
+        "categorie": "person"
+      },
+      {
+        "id": "119",
+        "label": "ニック",
+        "info": "武装演劇集団「チェンタウロ」のメンバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/e1/119_d7dca89a1678042477183b7ac3f_JncuU.jpg",
+        "link": "https://bgm.tv/character/119",
+        "categorie": "person"
+      },
+      {
+        "id": "121",
+        "label": "ソロ",
+        "info": "迷宮内でモンスターへの生贄としてボッカの前に現れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/56/121_f4ce4aaf9573aa5dff913df997a_znNc2.jpg",
+        "link": "https://bgm.tv/character/121",
+        "categorie": "person"
+      },
+      {
+        "id": "124",
+        "label": "たまころがし",
+        "info": "モンスターの一人。犬を連れ、ボッカに襲いかかる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/ff/124_9a587b126f152ed3d89a146b445_ND41y.jpg",
+        "link": "https://bgm.tv/character/124",
+        "categorie": "person"
+      },
+      {
+        "id": "125",
+        "label": "ミッドナイトひよこ",
+        "info": "第２部白夜岬編に登場",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/ef/125_84ad8f4755ff269862ea77393dd_JFHd2.jpg",
+        "link": "https://bgm.tv/character/125",
+        "categorie": "person"
+      },
+      {
+        "id": "126",
+        "label": "ミリオネアびーばー",
+        "info": "ネズミ型のロボットを操るエージェントの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/90/126_9b7ef840f0c74a814ec9237b6ec_YgWpK.jpg",
+        "link": "https://bgm.tv/character/126",
+        "categorie": "person"
+      },
+      {
+        "id": "128",
+        "label": "ハッスルもんきー",
+        "info": "サル型のロボットを操るエージェントの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/dc/128_11d6ebaafc66cc0879c71b5db5c_vOe95.jpg",
+        "link": "https://bgm.tv/character/128",
+        "categorie": "person"
+      },
+      {
+        "id": "129",
+        "label": "ディスカウントうりぼう",
+        "info": "ブタのような形をしたロボットを操るエージェントの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/f4/129_1a404d6854880943e5c3cd9ca25_uzdU0.jpg",
+        "link": "https://bgm.tv/character/129",
+        "categorie": "person"
+      },
+      {
+        "id": "130",
+        "label": "グローバルやまねこ",
+        "info": "ロボットを操りボッカに襲いかかるエージェントの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/86/130_9251a19057cff70779273e95aa6_vhJ2n.jpg",
+        "link": "https://bgm.tv/character/130",
+        "categorie": "person"
+      },
+      {
+        "id": "132",
+        "label": "エランヴィタール",
+        "info": "ボッカの乗るアイバーマシン 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/de/132_5353c5ee48d0b7d48c591b8f430_xR6NV.jpg",
+        "link": "https://bgm.tv/character/132",
+        "categorie": "person"
+      },
+      {
+        "id": "133",
+        "label": "ジャガーの太陽号",
+        "info": "黒船の乗るアイバーマシン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/c3/133_7152ba9336a670e36d0ed79bc43_c3O53.jpg",
+        "link": "https://bgm.tv/character/133",
+        "categorie": "person"
+      },
+      {
+        "id": "134",
+        "label": "スカイブルー（アイバーマシン形態）",
+        "info": "スカイブルーのアイバーマシン形態",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/52/134_a2b2726fb0a03bb19f2d8d9524d_pVKht.jpg",
+        "link": "https://bgm.tv/character/134",
+        "categorie": "person"
+      },
+      {
+        "id": "136",
+        "label": "ケイ",
+        "info": "ボッカの中学時代の同級生。遠足の朝以来、行方不明だった。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/a0/136_188f5033bc65bf8d78622277c4e_J4xrT.jpg",
+        "link": "https://bgm.tv/character/136",
+        "categorie": "person"
+      },
+      {
+        "id": "70734",
+        "label": "牧场的大叔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d9/70734_crt_V764R.jpg?r=1562123928",
+        "link": "https://bgm.tv/character/70734",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

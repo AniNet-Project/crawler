@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36973",
+        "label": "贝多芬",
+        "info": "偏屈、傲慢、だが天才。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/af/36973_crt_XjVv8.jpg",
+        "link": "https://bgm.tv/character/36973",
+        "categorie": "person"
+      },
+      {
+        "id": "36974",
+        "label": "莫扎特",
+        "info": "奔放、幼稚、だが天才。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/99/36974_crt_BhAq1.jpg",
+        "link": "https://bgm.tv/character/36974",
+        "categorie": "person"
+      },
+      {
+        "id": "42286",
+        "label": "神乐奏助",
+        "info": "歌苗の幼なじみで、ありとあらゆる意味で普通の高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/be/42286_crt_yvfJQ.jpg",
+        "link": "https://bgm.tv/character/42286",
+        "categorie": "person"
+      },
+      {
+        "id": "42287",
+        "label": "音羽歌苗",
+        "info": "祖母から受け継いだ古い洋館・音羽館を大家として守っている高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/0f/42287_crt_n7666.jpg",
+        "link": "https://bgm.tv/character/42287",
+        "categorie": "person"
+      },
+      {
+        "id": "42288",
+        "label": "巴赫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/41/42288_crt_anbE3.jpg?r=1470747476",
+        "link": "https://bgm.tv/character/42288",
+        "categorie": "person"
+      },
+      {
+        "id": "42289",
+        "label": "肖邦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/d2/42289_crt_h8FUH.jpg",
+        "link": "https://bgm.tv/character/42289",
+        "categorie": "person"
+      },
+      {
+        "id": "42985",
+        "label": "李斯特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/3a/42985_crt_9ud90.jpg",
+        "link": "https://bgm.tv/character/42985",
+        "categorie": "person"
+      },
+      {
+        "id": "42986",
+        "label": "舒伯特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/bf/42986_crt_N656i.jpg",
+        "link": "https://bgm.tv/character/42986",
+        "categorie": "person"
+      },
+      {
+        "id": "43226",
+        "label": "パッド君",
+        "info": "人工知能が搭載された情報端末。奏助がいつも持ち歩いている、相棒的な存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/2b/43226_crt_ff7xU.jpg",
+        "link": "https://bgm.tv/character/43226",
+        "categorie": "person"
+      },
+      {
+        "id": "44280",
+        "label": "柴可夫斯基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/b5/44280_crt_7trs7.jpg",
+        "link": "https://bgm.tv/character/44280",
+        "categorie": "person"
+      },
+      {
+        "id": "44282",
+        "label": "巴达捷夫斯卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/fe/44282_crt_F89UA.jpg",
+        "link": "https://bgm.tv/character/44282",
+        "categorie": "person"
+      },
+      {
+        "id": "47295",
+        "label": "歌苗の祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/20/47295_crt_aavFT.jpg?r=1475936990",
+        "link": "https://bgm.tv/character/47295",
+        "categorie": "person"
+      },
+      {
+        "id": "47424",
+        "label": "海月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/cf/47424_crt_PGF55.jpg?r=1476551101",
+        "link": "https://bgm.tv/character/47424",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "47638",
+        "label": "宅配業者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/94/47638_crt_3i4Ix.jpg?r=1477141819",
+        "link": "https://bgm.tv/character/47638",
+        "categorie": "person"
+      },
+      {
+        "id": "47821",
+        "label": "饺子餐车的店主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/e2/47821_crt_hbkKB.jpg?r=1477755521",
+        "link": "https://bgm.tv/character/47821",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

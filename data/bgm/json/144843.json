@@ -1,0 +1,389 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36451",
+        "label": "岬明乃",
+        "info": "主人公",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/19/36451_crt_33G5y.jpg?r=1463278164",
+        "link": "https://bgm.tv/character/36451",
+        "categorie": "person"
+      },
+      {
+        "id": "38528",
+        "label": "宗谷真白",
+        "info": "代々ブルーマーメイドを輩出してきた名家の娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/f2/38528_crt_0jNLg.jpg?r=1463278239",
+        "link": "https://bgm.tv/character/38528",
+        "categorie": "person"
+      },
+      {
+        "id": "38543",
+        "label": "立石志摩",
+        "info": "物静かでほとんど言葉を交わさない",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/50/38543_crt_z675g.jpg?r=1463278275",
+        "link": "https://bgm.tv/character/38543",
+        "categorie": "person"
+      },
+      {
+        "id": "38546",
+        "label": "西崎芽依",
+        "info": "身材娇小、任性、好胜心强（小柄でわがままで負けず嫌い）",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/08/38546_crt_g83rS.jpg?r=1463278318",
+        "link": "https://bgm.tv/character/38546",
+        "categorie": "person"
+      },
+      {
+        "id": "38547",
+        "label": "纳沙幸子",
+        "info": "何でも屋。でも現実は見たくない",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/56/38547_crt_JnfU9.jpg?r=1498931709",
+        "link": "https://bgm.tv/character/38547",
+        "categorie": "person"
+      },
+      {
+        "id": "38542",
+        "label": "知床铃",
+        "info": "逃げるとなると途端にイキイキする",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/45/38542_crt_59Zx5.jpg?r=1463278397",
+        "link": "https://bgm.tv/character/38542",
+        "categorie": "person"
+      },
+      {
+        "id": "38539",
+        "label": "小笠原光",
+        "info": "役職  砲術員・主砲照準担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/20/38539_crt_h3N3P.jpg?r=1460294918",
+        "link": "https://bgm.tv/character/38539",
+        "categorie": "person"
+      },
+      {
+        "id": "38540",
+        "label": "武田美千留",
+        "info": "役職  砲術員・主砲旋回担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/9f/38540_crt_68E43.jpg?r=1460294891",
+        "link": "https://bgm.tv/character/38540",
+        "categorie": "person"
+      },
+      {
+        "id": "38541",
+        "label": "日置顺子",
+        "info": "役職  砲術員・主砲発射担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/0e/38541_crt_62YY2.jpg?r=1460294865",
+        "link": "https://bgm.tv/character/38541",
+        "categorie": "person"
+      },
+      {
+        "id": "38537",
+        "label": "松永理都子",
+        "info": "役職  水雷員・一番発射管担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/10/38537_crt_Z393k.jpg?r=1463261050",
+        "link": "https://bgm.tv/character/38537",
+        "categorie": "person"
+      },
+      {
+        "id": "38538",
+        "label": "姬路果代子",
+        "info": "役職  水雷員・二番発射管担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/d1/38538_crt_M19A4.jpg?r=1460294834",
+        "link": "https://bgm.tv/character/38538",
+        "categorie": "person"
+      },
+      {
+        "id": "38548",
+        "label": "万里小路枫",
+        "info": "超·大小姐（超お嬢様）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/bf/38548_crt_IiTP7.jpg?r=1463261089",
+        "link": "https://bgm.tv/character/38548",
+        "categorie": "person"
+      },
+      {
+        "id": "39245",
+        "label": "胜田聪子",
+        "info": "役職  航海員",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/b2/39245_crt_KfaH8.jpg?r=1460294815",
+        "link": "https://bgm.tv/character/39245",
+        "categorie": "person"
+      },
+      {
+        "id": "39247",
+        "label": "山下秀子",
+        "info": "役職  左舷航海管制員",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/39/39247_crt_23AV4.jpg?r=1461427359",
+        "link": "https://bgm.tv/character/39247",
+        "categorie": "person"
+      },
+      {
+        "id": "39246",
+        "label": "内田真弓",
+        "info": "役職  右舷航海管制員",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/56/39246_crt_HfnRO.jpg?r=1460294786",
+        "link": "https://bgm.tv/character/39246",
+        "categorie": "person"
+      },
+      {
+        "id": "38544",
+        "label": "八木鸫",
+        "info": "役職  電信員",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/4c/38544_crt_JXxpQ.jpg?r=1460294765",
+        "link": "https://bgm.tv/character/38544",
+        "categorie": "person"
+      },
+      {
+        "id": "38545",
+        "label": "宇田慧",
+        "info": "役職  電測員",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/de/38545_crt_525g2.jpg?r=1460294734",
+        "link": "https://bgm.tv/character/38545",
+        "categorie": "person"
+      },
+      {
+        "id": "38549",
+        "label": "野间真智子",
+        "info": "受女孩子欢迎（女の子にモテる）。远视眼，一直戴着眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/f1/38549_crt_k442X.jpg?r=1463261139",
+        "link": "https://bgm.tv/character/38549",
+        "categorie": "person"
+      },
+      {
+        "id": "38531",
+        "label": "柳原麻仑",
+        "info": "黑木的发小（黒木の幼なじみ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/84/38531_crt_x2221.jpg?r=1463261185",
+        "link": "https://bgm.tv/character/38531",
+        "categorie": "person"
+      },
+      {
+        "id": "38529",
+        "label": "黑木洋美",
+        "info": "麻仑的发小（マロンの幼なじみ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/25/38529_crt_vr94y.jpg?r=1463261219",
+        "link": "https://bgm.tv/character/38529",
+        "categorie": "person"
+      },
+      {
+        "id": "39238",
+        "label": "若狭丽绪",
+        "info": "ウワサ好きな仲良し4人組",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/2d/39238_crt_N0s08.jpg?r=1463261271",
+        "link": "https://bgm.tv/character/39238",
+        "categorie": "person"
+      },
+      {
+        "id": "39240",
+        "label": "伊势樱良",
+        "info": "ウワサ好きな仲良し4人組",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/68/39240_crt_OHyab.jpg?r=1463261301",
+        "link": "https://bgm.tv/character/39240",
+        "categorie": "person"
+      },
+      {
+        "id": "39241",
+        "label": "骏河留奈",
+        "info": "ウワサ好きな仲良し4人組",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/53/39241_crt_9kt19.jpg?r=1463261335",
+        "link": "https://bgm.tv/character/39241",
+        "categorie": "person"
+      },
+      {
+        "id": "39242",
+        "label": "广田空",
+        "info": "ウワサ好きな仲良し4人組",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/4c/39242_crt_YBijJ.jpg?r=1463261375",
+        "link": "https://bgm.tv/character/39242",
+        "categorie": "person"
+      },
+      {
+        "id": "38535",
+        "label": "和住媛萌",
+        "info": "一直都在为保持体形而健身（いつもダイエットをしている）",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/22/38535_crt_Js4jz.jpg?r=1463261405",
+        "link": "https://bgm.tv/character/38535",
+        "categorie": "person"
+      },
+      {
+        "id": "38536",
+        "label": "青木百百",
+        "info": "喜欢画漫画、看漫画（マンガを描くのも読むのも好き）",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/78/38536_crt_IJBm2.jpg?r=1463261434",
+        "link": "https://bgm.tv/character/38536",
+        "categorie": "person"
+      },
+      {
+        "id": "39243",
+        "label": "等松美海",
+        "info": "物流のエキスパート",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/34/39243_crt_XAD0O.jpg?r=1463261468",
+        "link": "https://bgm.tv/character/39243",
+        "categorie": "person"
+      },
+      {
+        "id": "38532",
+        "label": "伊良子美甘",
+        "info": "喜欢摄影的料理委员（写真好きな料理係）",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/e6/38532_crt_Lv8Um.jpg?r=1463261499",
+        "link": "https://bgm.tv/character/38532",
+        "categorie": "person"
+      },
+      {
+        "id": "38533",
+        "label": "杵崎穗希",
+        "info": "和菓子铺的女儿，双胞胎中的姐姐（和菓子屋の娘 双子の姉）",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/7c/38533_crt_q4d1M.jpg?r=1463261527",
+        "link": "https://bgm.tv/character/38533",
+        "categorie": "person"
+      },
+      {
+        "id": "38534",
+        "label": "杵崎茜",
+        "info": "和菓子铺的女儿，双胞胎中的妹妹（和菓子屋の娘 双子の妹）",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/81/38534_crt_huu0u.jpg?r=1463261569",
+        "link": "https://bgm.tv/character/38534",
+        "categorie": "person"
+      },
+      {
+        "id": "39244",
+        "label": "镝木美波",
+        "info": "疯狂科学家（マッドサイエンティスト）",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4d/39244_crt_jU9u5.jpg?r=1463261606",
+        "link": "https://bgm.tv/character/39244",
+        "categorie": "person"
+      },
+      {
+        "id": "36452",
+        "label": "知名萌香",
+        "info": "明乃的发小",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/d3/36452_crt_QAu01.jpg?r=1462972625",
+        "link": "https://bgm.tv/character/36452",
+        "categorie": "person"
+      },
+      {
+        "id": "40294",
+        "label": "五十六",
+        "info": "「晴風」大艦長。明乃が埠頭で出会ったドラ猫。その後「晴風」のブリッジに入り込み、彼女たちと航海を共にすることとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/af/40294_crt_JklLU.jpg?r=1460259026",
+        "link": "https://bgm.tv/character/40294",
+        "categorie": "person"
+      },
+      {
+        "id": "40735",
+        "label": "威廉敏娜·布伦瑞克·因格诺尔·弗里德堡",
+        "info": "职位：德意志级直教舰“施佩海军上将”副舰长",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/fb/40735_crt_sa3Co.jpg?r=1461426693",
+        "link": "https://bgm.tv/character/40735",
+        "categorie": "person"
+      },
+      {
+        "id": "40295",
+        "label": "古庄薰",
+        "info": "指導教官。演習航海に遅刻した「晴風」に教官艦「猿島」から砲撃を加えるが逆に砲撃され、公安管理局に打電を打った後に気絶してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/42/40295_crt_9KR63.jpg?r=1460257543",
+        "link": "https://bgm.tv/character/40295",
+        "categorie": "person"
+      },
+      {
+        "id": "40297",
+        "label": "宗谷真雪",
+        "info": "海洋学校の校長でましろの母。9年前は旗艦「大和」の艦長を務めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/91/40297_crt_9495y.jpg",
+        "link": "https://bgm.tv/character/40297",
+        "categorie": "person"
+      },
+      {
+        "id": "40298",
+        "label": "大贺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/48/40298_crt_SZ4ay.jpg?r=1466934150",
+        "link": "https://bgm.tv/character/40298",
+        "categorie": "person"
+      },
+      {
+        "id": "40590",
+        "label": "宗谷真霜",
+        "info": "宗谷家長女。安全監督室長で、ブルーマーメイドの現統括者。母・真雪の指令を受け、晴風をはじめとする教育艦の発見・保護や、事態の調査等に奔走する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/36/40590_crt_4VART.jpg",
+        "link": "https://bgm.tv/character/40590",
+        "categorie": "person"
+      },
+      {
+        "id": "40592",
+        "label": "宗谷真冬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/b9/40592_crt_GRzlJ.jpg?r=1465086369",
+        "link": "https://bgm.tv/character/40592",
+        "categorie": "person"
+      },
+      {
+        "id": "41116",
+        "label": "杉本珊瑚",
+        "info": "補給艦「明石」の艦長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/dd/41116_crt_QiBLw.jpg",
+        "link": "https://bgm.tv/character/41116",
+        "categorie": "person"
+      },
+      {
+        "id": "41117",
+        "label": "藤田优衣",
+        "info": "補給艦「間宮」の艦長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/09/41117_crt_4iLL7.jpg?r=1465141807",
+        "link": "https://bgm.tv/character/41117",
+        "categorie": "person"
+      },
+      {
+        "id": "41118",
+        "label": "平贺",
+        "info": "晴風の補給のために、接触してきた人物。安全監督室所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/56/41118_crt_peK1y.jpg?r=1462319134",
+        "link": "https://bgm.tv/character/41118",
+        "categorie": "person"
+      },
+      {
+        "id": "41381",
+        "label": "福内",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/45/41381_crt_ZHcJn.jpg",
+        "link": "https://bgm.tv/character/41381",
+        "categorie": "person"
+      },
+      {
+        "id": "41383",
+        "label": "东舞校主任",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/59/41383_crt_l0I4W.jpg?r=1462677642",
+        "link": "https://bgm.tv/character/41383",
+        "categorie": "person"
+      },
+      {
+        "id": "41384",
+        "label": "东舞校教头",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/3d/41384_crt_4J53U.jpg?r=1462678057",
+        "link": "https://bgm.tv/character/41384",
+        "categorie": "person"
+      },
+      {
+        "id": "41928",
+        "label": "岸间",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/33/41928_crt_Z9Taz.jpg?r=1465141789",
+        "link": "https://bgm.tv/character/41928",
+        "categorie": "person"
+      },
+      {
+        "id": "42284",
+        "label": "西娅·克罗歇尔",
+        "info": "ドイツのヴィルヘルムスハーフェン海軍基地所属。アドミラルシュペー艦長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/c8/42284_crt_C9sCS.jpg?r=1471571698",
+        "link": "https://bgm.tv/character/42284",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

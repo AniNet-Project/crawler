@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45889",
+        "label": "白川恭子",
+        "info": "In 『恥辱診察室』",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/b9/45889_crt_49sv9.jpg",
+        "link": "https://bgm.tv/character/45889",
+        "categorie": "person"
+      },
+      {
+        "id": "45890",
+        "label": "早瀬 ともみ",
+        "info": "某都内学園に通う学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/41/45890_crt_AJjk6.jpg",
+        "link": "https://bgm.tv/character/45890",
+        "categorie": "person"
+      },
+      {
+        "id": "45891",
+        "label": "東十条 沙月",
+        "info": "東十条財閥の一人娘。病気のため長塚病院に入院している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/36/45891_crt_omez9.jpg",
+        "link": "https://bgm.tv/character/45891",
+        "categorie": "person"
+      },
+      {
+        "id": "45893",
+        "label": "木下 愛恵",
+        "info": "極一般的な住宅住まいの主婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e9/45893_crt_quj71.jpg",
+        "link": "https://bgm.tv/character/45893",
+        "categorie": "person"
+      },
+      {
+        "id": "45895",
+        "label": "長塚 萌香",
+        "info": "長塚病院医院長の娘。実は過去に主人公と義理の兄弟同士であった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/fa/45895_crt_AxslK.jpg",
+        "link": "https://bgm.tv/character/45895",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

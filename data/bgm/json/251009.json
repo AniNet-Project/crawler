@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38830",
+        "label": "芦屋花绘",
+        "info": "为了支付祓除费用，而作为“物怪庵”的奉公人打工的高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/7c/38830_crt_bJ6zG.jpg",
+        "link": "https://bgm.tv/character/38830",
+        "categorie": "person"
+      },
+      {
+        "id": "38831",
+        "label": "安倍晴斋",
+        "info": "从事祓除妖怪的“物怪庵”的主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/d1/38831_crt_JKMFS.jpg",
+        "link": "https://bgm.tv/character/38831",
+        "categorie": "person"
+      },
+      {
+        "id": "38832",
+        "label": "毛茸茸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/ad/38832_crt_j83t8.jpg",
+        "link": "https://bgm.tv/character/38832",
+        "categorie": "person"
+      },
+      {
+        "id": "41728",
+        "label": "藤原禅子",
+        "info": "寺庙主的女儿。外表看起来像幼女的高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/72/41728_crt_qsN69.jpg",
+        "link": "https://bgm.tv/character/41728",
+        "categorie": "person"
+      },
+      {
+        "id": "41729",
+        "label": "弥彦",
+        "info": "狐妖。被化作童子的姿态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/01/41729_crt_zes3N.jpg",
+        "link": "https://bgm.tv/character/41729",
+        "categorie": "person"
+      },
+      {
+        "id": "41731",
+        "label": "甲罗",
+        "info": "隐世的药房，龟药堂的主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/2e/41731_crt_46aye.jpg",
+        "link": "https://bgm.tv/character/41731",
+        "categorie": "person"
+      },
+      {
+        "id": "41734",
+        "label": "雫",
+        "info": "龟药堂的奉公人。非常喜欢主人河原。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/1f/41734_crt_0FDhR.jpg",
+        "link": "https://bgm.tv/character/41734",
+        "categorie": "person"
+      },
+      {
+        "id": "41737",
+        "label": "立法",
+        "info": "统治隐世的三个权力者之一，雫的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/b8/41737_crt_CZKzc.jpg",
+        "link": "https://bgm.tv/character/41737",
+        "categorie": "person"
+      },
+      {
+        "id": "69690",
+        "label": "司法",
+        "info": "与立法和行政一起统管隠世的三名权力者之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/01/69690_crt_N2xab.jpg",
+        "link": "https://bgm.tv/character/69690",
+        "categorie": "person"
+      },
+      {
+        "id": "69691",
+        "label": "行政",
+        "info": "与司法和立法一起统管隠世的三名权力者之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/12/69691_crt_GtjE7.jpg",
+        "link": "https://bgm.tv/character/69691",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

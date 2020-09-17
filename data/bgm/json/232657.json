@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53111",
+        "label": "冬空凩",
+        "info": "肉体派的灵能力者的高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/c4/53111_crt_Wtn77.jpg?r=1531925045",
+        "link": "https://bgm.tv/character/53111",
+        "categorie": "person"
+      },
+      {
+        "id": "53112",
+        "label": "汤之花幽奈",
+        "info": "女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/5d/53112_crt_c1tXI.jpg?r=1531925166",
+        "link": "https://bgm.tv/character/53112",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

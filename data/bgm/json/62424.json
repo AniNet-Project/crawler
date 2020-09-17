@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66491",
+        "label": "フィリネ・レイヤード",
+        "info": "不運極致のお嬢様",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/36/66491_crt_Eeyh6.jpg",
+        "link": "https://bgm.tv/character/66491",
+        "categorie": "person"
+      },
+      {
+        "id": "66492",
+        "label": "ライラ・フェンディ",
+        "info": "視野狭窄の姐御",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/b9/66492_crt_4ACy0.jpg",
+        "link": "https://bgm.tv/character/66492",
+        "categorie": "person"
+      },
+      {
+        "id": "66493",
+        "label": "彩边朱里",
+        "info": "絶対前向きのドジっ娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/8b/66493_crt_Ph288.jpg",
+        "link": "https://bgm.tv/character/66493",
+        "categorie": "person"
+      },
+      {
+        "id": "66494",
+        "label": "中立卖白羽",
+        "info": "興味皆無の護り手",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/ba/66494_crt_nLOx6.jpg",
+        "link": "https://bgm.tv/character/66494",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

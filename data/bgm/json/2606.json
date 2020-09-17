@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1625",
+        "label": "刘备",
+        "info": "字玄德（げんとく）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/50/1625_crt_emaEJ.jpg?r=1502607643",
+        "link": "https://bgm.tv/character/1625",
+        "categorie": "person"
+      },
+      {
+        "id": "11050",
+        "label": "张飞",
+        "info": "初代：",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/45/11050_crt_3cC9T.jpg?r=1484304571",
+        "link": "https://bgm.tv/character/11050",
+        "categorie": "person"
+      },
+      {
+        "id": "11051",
+        "label": "诸葛亮",
+        "info": "字孔明（こうめい）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/16/11051_crt_j309b.jpg?r=1484299637",
+        "link": "https://bgm.tv/character/11051",
+        "categorie": "person"
+      },
+      {
+        "id": "22864",
+        "label": "关羽",
+        "info": "一刀刚来到三国志世界时遇见的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/93/22864_crt_eyeY7.jpg?r=1484248868",
+        "link": "https://bgm.tv/character/22864",
+        "categorie": "person"
+      },
+      {
+        "id": "22905",
+        "label": "赵云",
+        "info": "有着细长而清秀的眼睛，舞动于空中的长发，仿佛舞蹈一般击败敌人的勇者。总的来说是个酷姐，对于美有着只属于自己的坚持，但因为其之美意识与他人有着相当的偏差，显得很是奇异。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/d6/22905_crt_OjOsw.jpg?r=1485854058",
+        "link": "https://bgm.tv/character/22905",
+        "categorie": "person"
+      },
+      {
+        "id": "11052",
+        "label": "马超",
+        "info": "字孟起（もうき）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/7d/11052_crt_WukUY.jpg",
+        "link": "https://bgm.tv/character/11052",
+        "categorie": "person"
+      },
+      {
+        "id": "11053",
+        "label": "马岱",
+        "info": "字不详。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/dd/11053_crt_s32qX.jpg?r=1502525198",
+        "link": "https://bgm.tv/character/11053",
+        "categorie": "person"
+      },
+      {
+        "id": "22898",
+        "label": "荀彧",
+        "info": "荀彧（Xún Yù），字文若。曹操的重要谋士，智谋堪比孔明，有轻微的妄想症，对自己的贫乳有点在意。喜爱曹操。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/55/22898_crt_4C9dr.jpg?r=1483502590",
+        "link": "https://bgm.tv/character/22898",
+        "categorie": "person"
+      },
+      {
+        "id": "22899",
+        "label": "曹操",
+        "info": "魏国主公。不折不扣的女王，为人孤傲少话。在第三话遇到关羽，喜爱关羽一头黑发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/0b/22899_crt_Ahh72.jpg?r=1484284647",
+        "link": "https://bgm.tv/character/22899",
+        "categorie": "person"
+      },
+      {
+        "id": "22900",
+        "label": "夏侯惇",
+        "info": "跟随曹操的重要武将，第四话抓到马超后告诉她父亲真正的死因。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/2f/22900_crt_t9E6S.jpg?r=1484304965",
+        "link": "https://bgm.tv/character/22900",
+        "categorie": "person"
+      },
+      {
+        "id": "22901",
+        "label": "夏侯渊",
+        "info": "初代：",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/2f/22901_crt_zlLJx.jpg?r=1485854294",
+        "link": "https://bgm.tv/character/22901",
+        "categorie": "person"
+      },
+      {
+        "id": "22902",
+        "label": "颜良",
+        "info": "袁绍手下家将。经常被嘲笑是智力34的少女，因此对自己的智力相当在意，其实她的智力偶尔还会被别人误会得更低。总是勉强应付着袁绍小姐般的任性和精力过盛的文丑毫无计划的行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/a5/22902_crt_OBdOE.jpg?r=1484246672",
+        "link": "https://bgm.tv/character/22902",
+        "categorie": "person"
+      },
+      {
+        "id": "22903",
+        "label": "文丑",
+        "info": "袁绍手下家将。总是和袁绍计划一些无意义的行动，对于自家的主人可是由衷的关心。自己也和主人没什么两样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/67/22903_crt_37npA.jpg",
+        "link": "https://bgm.tv/character/22903",
+        "categorie": "person"
+      },
+      {
+        "id": "22904",
+        "label": "袁绍",
+        "info": "字本初。身为太守，因自己出身名门而极其骄傲，实际上是个纯天然的笨蛋。对于曹操有着强烈的敌意，好像前世与她有仇一样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/3e/22904_crt_119ND.jpg?r=1484246690",
+        "link": "https://bgm.tv/character/22904",
+        "categorie": "person"
+      },
+      {
+        "id": "49781",
+        "label": "凤统",
+        "info": "配音：九条信乃 / 后藤邑子",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/43/49781_crt_v84Fn.jpg?r=1484299804",
+        "link": "https://bgm.tv/character/49781",
+        "categorie": "person"
+      },
+      {
+        "id": "49783",
+        "label": "程昱",
+        "info": "昱(yù)",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/43/49783_crt_Pifv2.jpg?r=1484256690",
+        "link": "https://bgm.tv/character/49783",
+        "categorie": "person"
+      },
+      {
+        "id": "49784",
+        "label": "袁术",
+        "info": "初次登场于《恋姬无双》系列第二季，是个任性傲娇的萝莉公主，跟她的姐姐丽羽一样，对于治理领地方面也是很无能，曾因这一点而被爱纱吐槽，发型也跟丽羽很像，自称在姐姐面前完全变得没有气势，喜欢在被别人夸奖后说“是啊是啊，继续夸我吧”。对唱歌很有天赋，喜欢唱歌后喝蜂蜜水。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/23/49784_crt_qQZTE.jpg?r=1483504938",
+        "link": "https://bgm.tv/character/49784",
+        "categorie": "person"
+      },
+      {
+        "id": "50027",
+        "label": "张角",
+        "info": "是个天然呆的萌妹，也是张三姐妹的大姐，但是完全不会做任何事，全是靠着妹妹张宝，张梁的帮助，因为贫困而在街头卖艺唱歌，在张宝得到太平要术之后组成了名为张三姐妹的偶像团体，并且粉丝极多，是刘备的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/bf/50027_crt_7Vohh.jpg?r=1484251714",
+        "link": "https://bgm.tv/character/50027",
+        "categorie": "person"
+      },
+      {
+        "id": "50028",
+        "label": "郭嘉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/38/50028_crt_0K3TC.jpg?r=1484299523",
+        "link": "https://bgm.tv/character/50028",
+        "categorie": "person"
+      },
+      {
+        "id": "50038",
+        "label": "典韦",
+        "info": "通稱：惡來典韋（惡來是在末端紂王時代的官僚，剛力無雙的人物）和許緒一樣擔任曹操親衛隊和許緒是大好的親友，時常兩人一起邊走邊尋找好吃的東西，但基本上不是興趣因是美食家，所以擔任曹操所烹調的料理的試吃和評審身高和體形都差不多和許緒一樣憧憬冷靜為賣點的夏侯淵，常與許緒一起爭論夏侯惇和夏侯淵到底哪一個比較強而吵架。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/05/50038_crt_IDSY6.jpg?r=1484293251",
+        "link": "https://bgm.tv/character/50038",
+        "categorie": "person"
+      },
+      {
+        "id": "50041",
+        "label": "张勋",
+        "info": "從袁術幼小時便開始服務的守護人兼僕人兼武將。也是吐嘈兼鼓勵的角色。說袁術的壞性格有些意義上是這人的錯也不是誇大其詞從幼小開始，以太守的身份發揮自己的力量（=將他人斬職）的事而贊不絕口，推介了各種各樣令人討厭的策案的女子 但本人全無自覺，只是“為了喜歡的袁術大人...”這樣想著，為了令袁術高興獻上的策案而已。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/41/50041_crt_y8U88.jpg?r=1484293832",
+        "link": "https://bgm.tv/character/50041",
+        "categorie": "person"
+      },
+      {
+        "id": "50047",
+        "label": "陈宫",
+        "info": "在被小孩子們說成[矮子矮子]欺負的時候，得到從洛陽來的呂布的幫助，也從此仰慕著呂布而一起行動補助著發呆的呂布，提供戰術的就是陳宮的工作與[陳宮-飛-踢！]的喊聲而一同登場把一刀踢飛等，兩人為呂布而爭奪著。但是呂布完全沒有興趣，只是在那兒發呆夥伴是呂布所養的狗隻，聖伯納犬的張張。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/67/50047_crt_vhSR6.jpg?r=1484292590",
+        "link": "https://bgm.tv/character/50047",
+        "categorie": "person"
+      },
+      {
+        "id": "49782",
+        "label": "董卓",
+        "info": "灭亡汉王朝的罪魁祸首，暴戾得简直不是人……但是，她本人其实很懦弱，总是提心吊胆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/9d/49782_crt_8u3Sk.jpg",
+        "link": "https://bgm.tv/character/49782",
+        "categorie": "person"
+      },
+      {
+        "id": "50048",
+        "label": "吕布",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/b3/50048_crt_8NG1O.jpg?r=1484293001",
+        "link": "https://bgm.tv/character/50048",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5851",
+        "label": "マリン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/ec/5851_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5851",
+        "categorie": "person"
+      },
+      {
+        "id": "56038",
+        "label": "宫守夏音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/6e/56038_crt_Lu81Y.jpg",
+        "link": "https://bgm.tv/character/56038",
+        "categorie": "person"
+      },
+      {
+        "id": "5852",
+        "label": "ウリン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/51/5852_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5852",
+        "categorie": "person"
+      },
+      {
+        "id": "6755",
+        "label": "ワリン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/16/6755_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6755",
+        "categorie": "person"
+      },
+      {
+        "id": "6756",
+        "label": "松本",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/1f/6756_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6756",
+        "categorie": "person"
+      },
+      {
+        "id": "6757",
+        "label": "鈴木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/1e/6757_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6757",
+        "categorie": "person"
+      },
+      {
+        "id": "6758",
+        "label": "宮守都",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/e3/6758_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6758",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

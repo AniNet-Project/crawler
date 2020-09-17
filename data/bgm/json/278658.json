@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48417",
+        "label": "レビウス=クロムウェル",
+        "info": "究極の格闘技「機関拳闘」の若き闘士。右腕が機械になっているが拳闘用ではなく医療用の腕である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/90/48417_crt_c1sfm.jpg",
+        "link": "https://bgm.tv/character/48417",
+        "categorie": "person"
+      },
+      {
+        "id": "48418",
+        "label": "A.J.ラングドン",
+        "info": "謎の美少女機関拳闘士。背後には軍事会社アメジストがある。身体全体が改造されており、手を模した圧縮蒸気を発生させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/68/48418_crt_O0e81.jpg",
+        "link": "https://bgm.tv/character/48418",
+        "categorie": "person"
+      },
+      {
+        "id": "72385",
+        "label": "ザックス=クロムウェル",
+        "info": "レビウスの伯父であり機関拳闘のトレーナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/4a/72385_crt_Z46X5.jpg?r=1571525560",
+        "link": "https://bgm.tv/character/72385",
+        "categorie": "person"
+      },
+      {
+        "id": "72386",
+        "label": "ビル=ウェインバーグ",
+        "info": "ザックスジムの専属技師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/7f/72386_crt_J8O3b.jpg?r=1571525530",
+        "link": "https://bgm.tv/character/72386",
+        "categorie": "person"
+      },
+      {
+        "id": "72387",
+        "label": "ナタリア・ガーネット",
+        "info": "ザックスジム所属のGrade-Ⅲ機関拳闘士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/2f/72387_crt_7pN57.jpg?r=1571525509",
+        "link": "https://bgm.tv/character/72387",
+        "categorie": "person"
+      },
+      {
+        "id": "72388",
+        "label": "マルコム・イーデン",
+        "info": "Grade-Ⅲ 5位にランクするベテラン機関拳闘士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/d7/72388_crt_HRv8q.jpg?r=1571525739",
+        "link": "https://bgm.tv/character/72388",
+        "categorie": "person"
+      },
+      {
+        "id": "72389",
+        "label": "ヒューゴ=ストラタス",
+        "info": "Grade-Ⅲ、最強の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/32/72389_crt_03399.jpg?r=1571525863",
+        "link": "https://bgm.tv/character/72389",
+        "categorie": "person"
+      },
+      {
+        "id": "72390",
+        "label": "Dr.クラウン ジャック=プディング",
+        "info": "軍産複合体の超巨大企業アメジストの最高幹部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/30/72390_crt_23NHd.jpg?r=1571526127",
+        "link": "https://bgm.tv/character/72390",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

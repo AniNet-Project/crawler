@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40718",
+        "label": "坂口亮",
+        "info": "通称「グッチ」。あらゆるものをBLに見立ててしまうほどのBL好き。その発言に周囲は引いてしまっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/35/40718_crt_v5yBt.jpg",
+        "link": "https://bgm.tv/character/40718",
+        "categorie": "person"
+      },
+      {
+        "id": "40719",
+        "label": "中村俊明",
+        "info": "坂口の友人。ただしBLに興味のないノーマル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/3c/40719_crt_1lw1e.jpg",
+        "link": "https://bgm.tv/character/40719",
+        "categorie": "person"
+      },
+      {
+        "id": "40723",
+        "label": "西原ルミ",
+        "info": "一見は普通の女子高生だが、実は腐女子。ひょんなことから坂口とBL好き仲間として仲良くなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/be/40723_crt_aMm9p.jpg?r=1468392809",
+        "link": "https://bgm.tv/character/40723",
+        "categorie": "person"
+      },
+      {
+        "id": "40720",
+        "label": "白鸟勇次郎",
+        "info": "坂口の友人でオカマ。女子力が高い一方、ヤンキーを手なずけるほどのケンカの腕を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/5c/40720_crt_oepEa.jpg",
+        "link": "https://bgm.tv/character/40720",
+        "categorie": "person"
+      },
+      {
+        "id": "40721",
+        "label": "上田アキラ",
+        "info": "白鳥の下僕。彼の為ならばどんな事でもする。ただしホモではない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/14/40721_crt_tSgGf.jpg?r=1467267639",
+        "link": "https://bgm.tv/character/40721",
+        "categorie": "person"
+      },
+      {
+        "id": "40722",
+        "label": "台后",
+        "info": "坂口の隣のクラスの同級生でBL好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/32/40722_crt_fUvqy.jpg",
+        "link": "https://bgm.tv/character/40722",
+        "categorie": "person"
+      },
+      {
+        "id": "42989",
+        "label": "宫崎圭一",
+        "info": "白鳥の後輩でレイジの幼馴染。圭一の歴史はレイジ抜きでは語れぬほど彼になつかれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/bf/42989_crt_587GM.jpg",
+        "link": "https://bgm.tv/character/42989",
+        "categorie": "person"
+      },
+      {
+        "id": "42990",
+        "label": "戸崎レイジ",
+        "info": "圭一の幼馴染。基本的にだらしない。幼馴染という美味しい設定にも関わらず、圭一におんぶにだっこで迷惑を掛けまくり、もはや萌えるどころではない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/33/42990_crt_rRcRu.jpg",
+        "link": "https://bgm.tv/character/42990",
+        "categorie": "person"
+      },
+      {
+        "id": "42991",
+        "label": "かなちょん",
+        "info": "西原の普通の友達。一般人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/bc/42991_crt_Cjzbp.jpg?r=1469589988",
+        "link": "https://bgm.tv/character/42991",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "44231",
+        "label": "サークル主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/d5/44231_crt_r4tmw.jpg?r=1470761761",
+        "link": "https://bgm.tv/character/44231",
+        "categorie": "person"
+      },
+      {
+        "id": "45843",
+        "label": "戸崎ゆかり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/ae/45843_crt_OK5RZ.jpg?r=1473238996",
+        "link": "https://bgm.tv/character/45843",
+        "categorie": "person"
+      },
+      {
+        "id": "46055",
+        "label": "美由纪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/00/46055_crt_9oEez.jpg",
+        "link": "https://bgm.tv/character/46055",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

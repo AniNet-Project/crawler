@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64739",
+        "label": "新村茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/6b/64739_crt_fdKP3.jpg",
+        "link": "https://bgm.tv/character/64739",
+        "categorie": "person"
+      },
+      {
+        "id": "64740",
+        "label": "朝仓真央",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/47/64740_crt_PQ5I7.jpg",
+        "link": "https://bgm.tv/character/64740",
+        "categorie": "person"
+      },
+      {
+        "id": "64741",
+        "label": "大桥澄香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/37/64741_crt_zHllX.jpg",
+        "link": "https://bgm.tv/character/64741",
+        "categorie": "person"
+      },
+      {
+        "id": "64742",
+        "label": "伊藤绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c5/64742_crt_489nX.jpg",
+        "link": "https://bgm.tv/character/64742",
+        "categorie": "person"
+      },
+      {
+        "id": "64743",
+        "label": "相原爱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/e3/64743_crt_5tHgX.jpg",
+        "link": "https://bgm.tv/character/64743",
+        "categorie": "person"
+      },
+      {
+        "id": "64744",
+        "label": "爱莲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/75/64744_crt_5bz2w.jpg",
+        "link": "https://bgm.tv/character/64744",
+        "categorie": "person"
+      },
+      {
+        "id": "64745",
+        "label": "千绘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f2/64745_crt_T2qKA.jpg",
+        "link": "https://bgm.tv/character/64745",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

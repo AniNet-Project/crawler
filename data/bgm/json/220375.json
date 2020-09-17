@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62004",
+        "label": "大空遥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/5f/62004_crt_JMZ2K.jpg?r=1531113216",
+        "link": "https://bgm.tv/character/62004",
+        "categorie": "person"
+      },
+      {
+        "id": "62005",
+        "label": "比嘉彼方",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/97/62005_crt_0Gaj1.jpg?r=1531552734",
+        "link": "https://bgm.tv/character/62005",
+        "categorie": "person"
+      },
+      {
+        "id": "62008",
+        "label": "远井成美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/3b/62008_crt_XUN3R.jpg?r=1533458477",
+        "link": "https://bgm.tv/character/62008",
+        "categorie": "person"
+      },
+      {
+        "id": "62009",
+        "label": "立花彩纱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/80/62009_crt_4ubLL.jpg?r=1534256405",
+        "link": "https://bgm.tv/character/62009",
+        "categorie": "person"
+      },
+      {
+        "id": "62006",
+        "label": "托马斯·红爱",
+        "info": "惠美理的双胞胎姐姐",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/45/62006_crt_BEwe3.jpg?r=1532279417",
+        "link": "https://bgm.tv/character/62006",
+        "categorie": "person"
+      },
+      {
+        "id": "62007",
+        "label": "托马斯·惠美理",
+        "info": "红爱的双胞胎妹妹。戴着眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/24/62007_crt_xiRw0.jpg?r=1533191001",
+        "link": "https://bgm.tv/character/62007",
+        "categorie": "person"
+      },
+      {
+        "id": "62010",
+        "label": "大城明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/08/62010_crt_Qu1Qt.jpg?r=1534588665",
+        "link": "https://bgm.tv/character/62010",
+        "categorie": "person"
+      },
+      {
+        "id": "65741",
+        "label": "棚原爱衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/9a/65741_crt_331qX.jpg?r=1536501986",
+        "link": "https://bgm.tv/character/65741",
+        "categorie": "person"
+      },
+      {
+        "id": "65742",
+        "label": "砂川舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/77/65742_crt_X0Uum.jpg?r=1536949178",
+        "link": "https://bgm.tv/character/65742",
+        "categorie": "person"
+      },
+      {
+        "id": "65744",
+        "label": "托马斯·玛丽莎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/f4/65744_crt_7O8RT.jpg",
+        "link": "https://bgm.tv/character/65744",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

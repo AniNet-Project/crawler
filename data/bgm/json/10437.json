@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12661",
+        "label": "雪子姬",
+        "info": "地狱界的名门雪女家的公主，炎魔君的青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/40/12661_crt_W5WHA.jpg",
+        "link": "https://bgm.tv/character/12661",
+        "categorie": "person"
+      },
+      {
+        "id": "12662",
+        "label": "炎魔君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/f0/12662_crt_SWLSw.jpg",
+        "link": "https://bgm.tv/character/12662",
+        "categorie": "person"
+      },
+      {
+        "id": "13567",
+        "label": "晴美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/97/13567_crt_EJ1wL.jpg",
+        "link": "https://bgm.tv/character/13567",
+        "categorie": "person"
+      },
+      {
+        "id": "12663",
+        "label": "河童埃尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/1b/12663_crt_Azaaa.jpg",
+        "link": "https://bgm.tv/character/12663",
+        "categorie": "person"
+      },
+      {
+        "id": "13117",
+        "label": "艳靡酱",
+        "info": "人間界を、もっともっとエッチで楽しい世界にしてあげちゃうわよん",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/c8/13117_crt_Z9248.jpg",
+        "link": "https://bgm.tv/character/13117",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58159",
+        "label": "莲／小比类卷香莲",
+        "info": "身長150センチに満たない小柄な女性プレイヤー。敏捷性（AGI）に優れており、スピードを活かした近距離戦を得意とする。可愛いものが大好きで、全身の装備をピンクで統一している。メインアームはP90で「ピーちゃん」と呼んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/6a/58159_crt_n3CCF.jpg?r=1523631379",
+        "link": "https://bgm.tv/character/58159",
+        "categorie": "person"
+      },
+      {
+        "id": "58160",
+        "label": "Pitohui / 神崎艾莎",
+        "info": "レンのフレンドで、頬にタトゥーを入れた長身の美女。《GGO》のベテランプレイヤーで、プレイのたびに違う銃を使うほどのガンマニアということ以外は何もわからない謎多き人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/5b/58160_crt_EQ60M.jpg?r=1523166914",
+        "link": "https://bgm.tv/character/58160",
+        "categorie": "person"
+      },
+      {
+        "id": "58161",
+        "label": "M／阿僧祇豪志",
+        "info": "ピトフーイの知り合いの男性プレイヤー。身長190センチを超える巨漢で、中距離～遠距離戦を得意とし、特に狙撃の腕に長ける。冷静で作戦立案能力にも優れており、チームの参謀役を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/5c/58161_crt_Grc1R.jpg?r=1523166935",
+        "link": "https://bgm.tv/character/58161",
+        "categorie": "person"
+      },
+      {
+        "id": "58162",
+        "label": "不可次郎／筱原美优",
+        "info": "レンの知り合いで、彼女と同じくらい小柄な女性プレイヤー。VRMMORPG《ALO（アルヴヘイム・オンライン）》からキャラクターをコンバートしているためステータスが高い。その高い筋力（STR）を活かして、六連装グレネードランチャーの二丁持ちで戦う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/10/58162_crt_yo9MZ.jpg?r=1523166954",
+        "link": "https://bgm.tv/character/58162",
+        "categorie": "person"
+      },
+      {
+        "id": "62856",
+        "label": "小说家",
+        "info": "一位热爱GGO，并给运营商提供资金设立特攻强袭比赛的小说家",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/20/62856_crt_ZE87P.jpg",
+        "link": "https://bgm.tv/character/62856",
+        "categorie": "person"
+      },
+      {
+        "id": "64475",
+        "label": "冬馬／米蘭·斯德諾娃",
+        "info": "高中一年級→二年級，金髮碧眼的俄羅斯人，父母親是貿易商。喜歡車子的父親教過她駕駛手排車。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/63/64475_crt_dqrRp.jpg",
+        "link": "https://bgm.tv/character/64475",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1605",
+        "label": "小日向早美",
+        "info": "琢磨が知り合った同じクラスの気丈な子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3f/1605_crt_mLpPW.jpg",
+        "link": "https://bgm.tv/character/1605",
+        "categorie": "person"
+      },
+      {
+        "id": "11209",
+        "label": "弘濑琢磨",
+        "info": "先天性の奇病を患い目の見えない少年である。父の仕事の都合で田舎にある叔父の家に預けられることになった。見えていた時期はあるので、見知らぬ土地でも風景を想像して気持ちを紛らわせている。おとなしく人当たりは良いが、ときに頑固な一面も。過去に母の死から心に深い傷を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/ef/11209_crt_HhQmT.jpg",
+        "link": "https://bgm.tv/character/11209",
+        "categorie": "person"
+      },
+      {
+        "id": "11239",
+        "label": "神乐雏田",
+        "info": "琢磨のクラスの学級委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/3a/11239_crt_9b991.jpg",
+        "link": "https://bgm.tv/character/11239",
+        "categorie": "person"
+      },
+      {
+        "id": "11252",
+        "label": "音羽",
+        "info": "琢磨が出会った不思議な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/48/11252_crt_r71rr.jpg",
+        "link": "https://bgm.tv/character/11252",
+        "categorie": "person"
+      },
+      {
+        "id": "4964",
+        "label": "田端唯",
+        "info": "琢磨のクラスのいじめっ娘。 はやみをいじめたり、琢磨がひなたと仲良くするのを邪魔したりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/de/4964_crt_2WuiT.jpg",
+        "link": "https://bgm.tv/character/4964",
+        "categorie": "person"
+      },
+      {
+        "id": "11303",
+        "label": "八云滨路",
+        "info": "琢磨のクラスの男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ea/11303_crt_N0x9u.jpg",
+        "link": "https://bgm.tv/character/11303",
+        "categorie": "person"
+      },
+      {
+        "id": "11477",
+        "label": "久门真纪",
+        "info": "琢磨のクラスの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/fe/11477_crt_u4hFH.jpg",
+        "link": "https://bgm.tv/character/11477",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

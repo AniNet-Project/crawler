@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68169",
+        "label": "江古田酱",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/68169",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

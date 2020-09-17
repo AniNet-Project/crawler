@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44750",
+        "label": "格兰",
+        "info": "ザンクティンゼルに羽トカゲのビィと共に暮らす少年。失踪した父親からの手紙に記された「星の島、イスタルシア」を目指すため、日頃からの鍛錬を欠かさず、困った人には手を差し伸べる優しさをもつ。ルリアとの出会いをきっかけに、故郷を旅立つことに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/f7/44750_crt_hJoFk.jpg",
+        "link": "https://bgm.tv/character/44750",
+        "categorie": "person"
+      },
+      {
+        "id": "41014",
+        "label": "露莉亚",
+        "info": "年龄: 不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/bd/41014_crt_j7Qrm.jpg?r=1574647061",
+        "link": "https://bgm.tv/character/41014",
+        "categorie": "person"
+      },
+      {
+        "id": "41019",
+        "label": "碧",
+        "info": "主人公の運命を導く、羽が生えたトカゲのような謎の生物。リンゴが大好物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/76/41019_crt_ej00e.jpg",
+        "link": "https://bgm.tv/character/41019",
+        "categorie": "person"
+      },
+      {
+        "id": "44751",
+        "label": "卡塔莉娜·亚利洁",
+        "info": "年齢: 24歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/f9/44751_crt_mkZCn.jpg",
+        "link": "https://bgm.tv/character/44751",
+        "categorie": "person"
+      },
+      {
+        "id": "44752",
+        "label": "拉卡姆",
+        "info": "年齢: 29歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/91/44752_crt_717oM.jpg",
+        "link": "https://bgm.tv/character/44752",
+        "categorie": "person"
+      },
+      {
+        "id": "44755",
+        "label": "欧根",
+        "info": "年齢: 50歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/6b/44755_crt_rxeAC.jpg",
+        "link": "https://bgm.tv/character/44755",
+        "categorie": "person"
+      },
+      {
+        "id": "44753",
+        "label": "伊欧·由克里斯",
+        "info": "年齢: 11歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/fe/44753_crt_054ck.jpg?r=1534731142",
+        "link": "https://bgm.tv/character/44753",
+        "categorie": "person"
+      },
+      {
+        "id": "41018",
+        "label": "萝赛塔",
+        "info": "年齢: 不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/5a/41018_crt_8489U.jpg",
+        "link": "https://bgm.tv/character/41018",
+        "categorie": "person"
+      },
+      {
+        "id": "41015",
+        "label": "维拉",
+        "info": "年齢: 22歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/a1/41015_crt_Sj0B9.jpg",
+        "link": "https://bgm.tv/character/41015",
+        "categorie": "person"
+      },
+      {
+        "id": "73587",
+        "label": "菲莉",
+        "info": "緑に名を受け島を旅立った少女は、旅の途中に一つの悪霊と出会う。その姿すら失った悪霊に、少女はかつての己の末路を重ね、寂しげな咆哮に応じるように、少女は悪霊に名を与える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e0/73587_crt_E1hH3.jpg",
+        "link": "https://bgm.tv/character/73587",
+        "categorie": "person"
+      },
+      {
+        "id": "72263",
+        "label": "诺亚",
+        "info": "幼き約束をついに果たし、星の船頭は空へと漕ぎ出す。数々の憂いを微笑みの裏に隠しながらも、若き旅人達の未来に想いを馳せ、その行く末に幸多からんことを祈る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/3d/72263_crt_ACAp4.jpg?r=1590425746",
+        "link": "https://bgm.tv/character/72263",
+        "categorie": "person"
+      },
+      {
+        "id": "51929",
+        "label": "榭洛科特",
+        "info": "年齢: 不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/a8/51929_crt_K94tK.jpg",
+        "link": "https://bgm.tv/character/51929",
+        "categorie": "person"
+      },
+      {
+        "id": "51932",
+        "label": "费洛斯",
+        "info": "年齢: 23歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/93/51932_crt_1GPz5.jpg",
+        "link": "https://bgm.tv/character/51932",
+        "categorie": "person"
+      },
+      {
+        "id": "10111",
+        "label": "杜兰克",
+        "info": "年齢: 不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/5f/10111_crt_c8aTw.jpg",
+        "link": "https://bgm.tv/character/10111",
+        "categorie": "person"
+      },
+      {
+        "id": "51930",
+        "label": "斯图姆",
+        "info": "身長: 130cm",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/80/51930_crt_55Jz5.jpg",
+        "link": "https://bgm.tv/character/51930",
+        "categorie": "person"
+      },
+      {
+        "id": "51933",
+        "label": "艾波罗妮亚·华尔",
+        "info": "年齢: 不明",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/d4/51933_crt_o5kW2.jpg",
+        "link": "https://bgm.tv/character/51933",
+        "categorie": "person"
+      },
+      {
+        "id": "63981",
+        "label": "奥契丝",
+        "info": "己が力を示すため、眼差しを青くきらめかせ、常に获物を狙う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/19/63981_crt_1OaRE.jpg",
+        "link": "https://bgm.tv/character/63981",
+        "categorie": "person"
+      },
+      {
+        "id": "73805",
+        "label": "芙莉希雅",
+        "info": "The Prime Minister of the Erste Empire. Devout only to the Emperor of Erste, she seeks to use the Black Knight and Orchis as pawns in her plan. She will do anything to achieve her goals; the lives of commoners are but a small price to pay for victory",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/c7/73805_crt_yH3r3.jpg",
+        "link": "https://bgm.tv/character/73805",
+        "categorie": "person"
+      },
+      {
+        "id": "74304",
+        "label": "莉夏",
+        "info": "仲间达と别れあるべき场所へ戻った少女は、伟大なる父の代わりを务めるよう命じられる。その重みは彼女の心を悩ませながら、同时に大きな成长を促す契机となった。大空を守らんとする少女の白き翼に、幸いあれ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/79/74304_crt_YkEOy.jpg",
+        "link": "https://bgm.tv/character/74304",
+        "categorie": "person"
+      },
+      {
+        "id": "41016",
+        "label": "阿丽莎",
+        "info": "年齢: 17歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/22/41016_crt_9WOj3.jpg",
+        "link": "https://bgm.tv/character/41016",
+        "categorie": "person"
+      },
+      {
+        "id": "74305",
+        "label": "泽塔",
+        "info": "己が力を示すため、眼差しを青くきらめかせ、常に获物を狙う。その意志と燃ゆる穂により、いかなる壁、いかなる敌をも贯かんと。花が咲いたかの如く美しい貌とは里腹に、放つ言叶は手にした枪に劣らず鋭いが、それもまた强者であるがゆえ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/91/74305_crt_LUldD.jpg",
+        "link": "https://bgm.tv/character/74305",
+        "categorie": "person"
+      },
+      {
+        "id": "74306",
+        "label": "贝阿朵莉丝",
+        "info": "誉れ高き未来を奪われた幼き少女は零落するも、決して折れず、たった一人で戦い続ける。やがて少女は因果を喰らう剣と出会い、如何なる逆境が訪れようと絶対に生還する剣士となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/63/74306_crt_rz6GC.jpg",
+        "link": "https://bgm.tv/character/74306",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

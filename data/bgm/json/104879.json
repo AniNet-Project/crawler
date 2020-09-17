@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21561",
+        "label": "黑白小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4f/21561_crt_JzWqM.jpg?r=1436995149",
+        "link": "https://bgm.tv/character/21561",
+        "categorie": "person"
+      },
+      {
+        "id": "21565",
+        "label": "露酱",
+        "info": "ロボット掃除機",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/16/21565_crt_bAbCr.jpg",
+        "link": "https://bgm.tv/character/21565",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

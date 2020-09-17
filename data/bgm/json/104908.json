@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24214",
+        "label": "爱徒勇气",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/e3/24214_crt_dGLNv.jpg?r=1396647768",
+        "link": "https://bgm.tv/character/24214",
+        "categorie": "person"
+      },
+      {
+        "id": "24215",
+        "label": "足须沙穗都",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/90/24215_crt_G0ls1.jpg?r=1396648354",
+        "link": "https://bgm.tv/character/24215",
+        "categorie": "person"
+      },
+      {
+        "id": "24216",
+        "label": "音砂见张",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/06/24216_crt_ZJ73R.jpg?r=1396648927",
+        "link": "https://bgm.tv/character/24216",
+        "categorie": "person"
+      },
+      {
+        "id": "24217",
+        "label": "黑井濑奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/28/24217_crt_wUWfR.jpg?r=1396649407",
+        "link": "https://bgm.tv/character/24217",
+        "categorie": "person"
+      },
+      {
+        "id": "24218",
+        "label": "风羽玲奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/b1/24218_crt_9Eso9.jpg?r=1396649766",
+        "link": "https://bgm.tv/character/24218",
+        "categorie": "person"
+      },
+      {
+        "id": "24219",
+        "label": "皆野缠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/00/24219_crt_Er46i.jpg?r=1396649995",
+        "link": "https://bgm.tv/character/24219",
+        "categorie": "person"
+      },
+      {
+        "id": "24220",
+        "label": "足须沙穗乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/14/24220_crt_SE066.jpg?r=1396650297",
+        "link": "https://bgm.tv/character/24220",
+        "categorie": "person"
+      },
+      {
+        "id": "24221",
+        "label": "胸罩猫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/a9/24221_crt_XF0HH.jpg",
+        "link": "https://bgm.tv/character/24221",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

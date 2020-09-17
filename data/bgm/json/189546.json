@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64291",
+        "label": "行合渚",
+        "info": "本作の主人公。神奈川県立日ノ坂高校に通っている高校2年の女子高生。ラクロス部に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/63/64291_crt_A5MaR.jpg",
+        "link": "https://bgm.tv/character/64291",
+        "categorie": "person"
+      },
+      {
+        "id": "64292",
+        "label": "龙之口枫",
+        "info": "なぎさの幼馴染。神奈川県立日ノ坂高校に通っている高校2年の女子高生。ラクロス部に所属し、3年生引退試合ののち部長に選出される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/4d/64292_crt_lpACS.jpg",
+        "link": "https://bgm.tv/character/64292",
+        "categorie": "person"
+      },
+      {
+        "id": "64293",
+        "label": "土桥雫",
+        "info": "なぎさの幼馴染。神奈川県立日ノ坂高校に通っている高校2年の女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/5a/64293_crt_12Yt4.jpg",
+        "link": "https://bgm.tv/character/64293",
+        "categorie": "person"
+      },
+      {
+        "id": "64294",
+        "label": "滨须贺夕",
+        "info": "なぎさの幼馴染。通っている高校は、なぎさたちと違い、私立・鶴ヶ岡女子学園高校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/28/64294_crt_DWJTt.jpg",
+        "link": "https://bgm.tv/character/64294",
+        "categorie": "person"
+      },
+      {
+        "id": "64295",
+        "label": "中原菖蒲",
+        "info": "神奈川県立日ノ坂高校に通っている女子高生ではあるが、なぎさたちと同学年かどうかは画面上からはうかがい知れない",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/d1/64295_crt_4N8m4.jpg",
+        "link": "https://bgm.tv/character/64295",
+        "categorie": "person"
+      },
+      {
+        "id": "64296",
+        "label": "琵琶小路乙叶",
+        "info": "あやめの友人で、湘南音楽学院に通う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/cd/64296_crt_mhMHl.jpg",
+        "link": "https://bgm.tv/character/64296",
+        "categorie": "person"
+      },
+      {
+        "id": "64297",
+        "label": "矢泽紫音",
+        "info": "喫茶店兼ミニFM局「アクアマリン」を所有していた矢沢家の一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/a8/64297_crt_aUlOc.jpg",
+        "link": "https://bgm.tv/character/64297",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

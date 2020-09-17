@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54263",
+        "label": "葵 未来",
+        "info": "2年B組の参謀的な役割を務め、「キャプテン」と呼ばれ恐れられる危険な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/42/54263_crt_7A9Q7.jpg",
+        "link": "https://bgm.tv/character/54263",
+        "categorie": "person"
+      },
+      {
+        "id": "54265",
+        "label": "卯月 あむ",
+        "info": "天才子役の呼び声も高い芸能人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/19/54265_crt_pZIxt.jpg",
+        "link": "https://bgm.tv/character/54265",
+        "categorie": "person"
+      },
+      {
+        "id": "54262",
+        "label": "秋穂 もみじ",
+        "info": "演劇部所属の天才演劇少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/65/54262_crt_313Wo.jpg",
+        "link": "https://bgm.tv/character/54262",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34164",
+        "label": "ルリア・フォンディーナ",
+        "info": "小さな島国・フォンディーナのお姫様。 主人公に王位を継承してもらおうとやってきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/d5/34164_crt_Qs6fr.jpg",
+        "link": "https://bgm.tv/character/34164",
+        "categorie": "person"
+      },
+      {
+        "id": "34165",
+        "label": "ラティーファ",
+        "info": "中東の国・マリニスタンのお姫様。 日本には語学留学のためにやってきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/c2/34165_crt_t5jQB.jpg",
+        "link": "https://bgm.tv/character/34165",
+        "categorie": "person"
+      },
+      {
+        "id": "34166",
+        "label": "王舞華",
+        "info": "主人公の一つ年下の、気の強い猫かぶりなお姫様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/2c/34166_crt_M7m94.jpg",
+        "link": "https://bgm.tv/character/34166",
+        "categorie": "person"
+      },
+      {
+        "id": "34168",
+        "label": "九条八尋",
+        "info": "どちらかというと おとなしい性格だが、やる時はやるタイプ。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34168",
+        "categorie": "person"
+      },
+      {
+        "id": "34169",
+        "label": "咲乃",
+        "info": "舞華の教育係 兼 メイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/77/34169_crt_6c67Q.jpg",
+        "link": "https://bgm.tv/character/34169",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71570",
+        "label": "小仓光",
+        "info": "千鸟高中1年级。对光线枪的热情比任何人都强，虽然平时的射击成绩是在平均分以下，但集中精神的话可发挥出全国大赛选手的水平。和谁都能成为好朋友的性格，每次参加大赛时都会交到射击选手的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/30/71570_crt_ufiXV.jpg?r=1571658974",
+        "link": "https://bgm.tv/character/71570",
+        "categorie": "person"
+      },
+      {
+        "id": "71571",
+        "label": "涩泽泉水",
+        "info": "千鸟高中1年级。在小仓光的诱惑下从小学时代就开始玩光线枪，射击技术是平均水平。很会照料人的性格，有时也会被光瞎折腾。和父亲二人一起生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/9a/71571_crt_Ai1kN.jpg?r=1571659014",
+        "link": "https://bgm.tv/character/71571",
+        "categorie": "person"
+      },
+      {
+        "id": "71572",
+        "label": "姪滨艾丽卡",
+        "info": "千鸟高中1年级。成绩优秀 运动万能，容姿端丽的混血儿，家境富裕的大小姐。但是在射击方面是十分努力和有毅力的人。执着于跟小仓光的胜负，对实力选手雪绪燃起的竞争心理。也有为朋友着想的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/87/71572_crt_GB9rY.jpg?r=1572346135",
+        "link": "https://bgm.tv/character/71572",
+        "categorie": "person"
+      },
+      {
+        "id": "71573",
+        "label": "五十岚雪绪",
+        "info": "千鸟高中1年级。在射击方面是全国顶尖水平，中学时代的大赛中也是名列前茅的常胜选手。但是因为沉默寡言、面无表情的性格，被周围的人视为怪人。其实她很喜欢猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/d4/71573_crt_35G0A.jpg?r=1572894369",
+        "link": "https://bgm.tv/character/71573",
+        "categorie": "person"
+      },
+      {
+        "id": "73108",
+        "label": "鹤卷裕子",
+        "info": "千鳥高校の新任教師。前任の顧問が兼任の将棋部に専念するため顧問を外れるにあたり、自ら申し出て新たに顧問となった。射撃競技未経験者であり、ライフル射撃に対してアニメファンならではの偏った印象を持っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/45/73108_crt_OmSSW.jpg?r=1573513805",
+        "link": "https://bgm.tv/character/73108",
+        "categorie": "person"
+      },
+      {
+        "id": "73192",
+        "label": "东云晶",
+        "info": "射撃部の部長で、全日本ジュニア代表。オリンピック強化指定選手ということもあり、エアライフル競技者でもある。エリカの従姉妹で千鳥との練習試合をその伝手で受ける。いい加減で冗談ばかり口にするためか、たまに真面目なことを言っても内容よりその姿に驚かれることが多い困った性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/88/73192_crt_W43ET.jpg?r=1574872037",
+        "link": "https://bgm.tv/character/73192",
+        "categorie": "person"
+      },
+      {
+        "id": "73193",
+        "label": "黑井美沙",
+        "info": "射撃部の副部長。あきらがいい加減なため、部内の実質的なまとめ役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/71/73193_crt_Izgg3.jpg?r=1574872005",
+        "link": "https://bgm.tv/character/73193",
+        "categorie": "person"
+      },
+      {
+        "id": "73194",
+        "label": "坂下花恋",
+        "info": "高校に入学してから射撃競技を始めた初心者だが、朝香の1年生エース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/0e/73194_crt_W884z.jpg?r=1576005971",
+        "link": "https://bgm.tv/character/73194",
+        "categorie": "person"
+      },
+      {
+        "id": "73195",
+        "label": "望月涼子",
+        "info": "花恋とよく一緒にいる1年生。ミサを尊敬し憧れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/32/73195_crt_7sZHi.jpg?r=1576509708",
+        "link": "https://bgm.tv/character/73195",
+        "categorie": "person"
+      },
+      {
+        "id": "73196",
+        "label": "绀野小樱",
+        "info": "射撃はなんとなく始めた競技だったが成績は良く、部長をしている。部員からの人望は厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/17/73196_crt_2aN34.jpg",
+        "link": "https://bgm.tv/character/73196",
+        "categorie": "person"
+      },
+      {
+        "id": "73197",
+        "label": "朝仓零",
+        "info": "部長。運動は苦手で大抵のスポーツは経験済みだが、まともにできたのは射撃だけであった（要するに運動音痴）。あきらと共に県内で2人だけの女子エアライフル競技者。試合前はコンセントレーションを高めるためにトイレに篭もる。自己にも他者にも厳しい求道者で、飄々として見えるあきらを強くライバル視している。厳格な姿勢から人を寄せ付けない雰囲気を醸し出しているが、接してみると柔らかい人格でひかりとは予選で意気投合した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/29/73197_crt_uiqiU.jpg",
+        "link": "https://bgm.tv/character/73197",
+        "categorie": "person"
+      },
+      {
+        "id": "73198",
+        "label": "榎本小町",
+        "info": "3年生。特に理由はないようだが、常にマスクをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/2b/73198_crt_AtjfX.jpg",
+        "link": "https://bgm.tv/character/73198",
+        "categorie": "person"
+      },
+      {
+        "id": "73202",
+        "label": "真田汐",
+        "info": "2年生。本射の最中にバナナを食べるなどマイペースだが、僅差でインターハイ全国大会出場を逃した際に指導してくれた零に申し訳ないと涙するなど、射撃には真面目に取り組んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/33/73202_crt_6dZf9.jpg",
+        "link": "https://bgm.tv/character/73202",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

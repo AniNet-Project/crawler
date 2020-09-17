@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33849",
+        "label": "仲野羽月",
+        "info": "仲野きょうだいの三女・羽月（小３）。咲月とは双子。 年齢にしては少し幼いところもあり、かまってほしいのか晴輝にはイタズラばかりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/27/33849_crt_Qt7tz.jpg?r=1436629496",
+        "link": "https://bgm.tv/character/33849",
+        "categorie": "person"
+      },
+      {
+        "id": "34059",
+        "label": "仲野弥生",
+        "info": "夢月・晴輝の妹で、羽月・咲月の姉にあたる次女の弥生（中３）。運動は好きだけど勉強はちょっと（!?）苦手。兄・晴輝に対して素直になれない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/c2/34059_crt_F4tvZ.jpg?r=1436530542",
+        "link": "https://bgm.tv/character/34059",
+        "categorie": "person"
+      },
+      {
+        "id": "34073",
+        "label": "仲野梦月",
+        "info": "圧倒的なお姉さん力で弟と妹の４人をまとめる包容力にあふれた長女の夢月（高２）。普段は才色兼備でまじめだけど、弟・晴輝と二人きりのときだけ”隙”を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/2e/34073_crt_Ewmka.jpg?r=1436629528",
+        "link": "https://bgm.tv/character/34073",
+        "categorie": "person"
+      },
+      {
+        "id": "34074",
+        "label": "仲野咲月",
+        "info": "仲野きょうだいの四女・咲月（小３）。趣味の近い晴輝とはオタク仲間。人見知りで無口だけど、アニメのことになるとテンションが高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/1e/34074_crt_XB9N2.jpg?r=1436629587",
+        "link": "https://bgm.tv/character/34074",
+        "categorie": "person"
+      },
+      {
+        "id": "34075",
+        "label": "仲野晴辉",
+        "info": "仲野きょうだいの中で唯一の男（高１）。夢月は姉で、弥生・羽月・咲月は妹。暇があればいつもゲームをしているインドア派人間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/7c/34075_crt_EGflG.jpg?r=1436629550",
+        "link": "https://bgm.tv/character/34075",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

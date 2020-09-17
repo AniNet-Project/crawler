@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22783",
+        "label": "春日步",
+        "info": "通称「大阪」（以下大阪と記す）。身長は156cmだが、アニメ版では154cmの智よりも低めに描かれている。髪形はストレートのセミショート。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/10/22783_crt_F65n5.jpg?r=1388553094",
+        "link": "https://bgm.tv/character/22783",
+        "categorie": "person"
+      },
+      {
+        "id": "6700",
+        "label": "神乐",
+        "info": "身長156cm。髪型は毛先の尖った独特なショートヘアで、後に大阪からシーサーに例えられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/fc/6700_crt_anidb.jpg?r=1405425081",
+        "link": "https://bgm.tv/character/6700",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44843",
+        "label": "矶部矶兵卫",
+        "info": "本作の主人公。立派な武士を目指す青年。「武士道学校」の生徒だが、遅刻の常習犯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/20/44843_crt_lTLA7.jpg?r=1473078078",
+        "link": "https://bgm.tv/character/44843",
+        "categorie": "person"
+      },
+      {
+        "id": "44844",
+        "label": "犬",
+        "info": "磯部家で飼われている犬。　",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b9/44844_crt_OB8b0.jpg",
+        "link": "https://bgm.tv/character/44844",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

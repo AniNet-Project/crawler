@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36093",
+        "label": "鼠",
+        "info": "大好きなネコをこっそり干支の仲間に入れようと企んでいる男の子。干支の中で一番エライので、ちょっといばっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/35/36093_crt_KW4S5.jpg",
+        "link": "https://bgm.tv/character/36093",
+        "categorie": "person"
+      },
+      {
+        "id": "38119",
+        "label": "猫",
+        "info": "ネズミに手を引かれるままあっちに行ったりこっちに行ったり。ちょっとおとなしめの子。アメが大好き！",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/06/38119_crt_S1nzk.jpg",
+        "link": "https://bgm.tv/character/38119",
+        "categorie": "person"
+      },
+      {
+        "id": "37046",
+        "label": "马",
+        "info": "ゲヘゲヘしたおちょうしもののオタク。声優のハルカちゃんが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/51/37046_crt_irI4X.jpg",
+        "link": "https://bgm.tv/character/37046",
+        "categorie": "person"
+      },
+      {
+        "id": "38120",
+        "label": "牛",
+        "info": "干支のナンバー2的存在。まじめな性格なので、ネコの干支入りにはあまり賛成していない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/5a/38120_crt_FwG0n.jpg",
+        "link": "https://bgm.tv/character/38120",
+        "categorie": "person"
+      },
+      {
+        "id": "38121",
+        "label": "鸡",
+        "info": "短気で怒りっぽい白色レグホン娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/cf/38121_crt_kSxEJ.jpg",
+        "link": "https://bgm.tv/character/38121",
+        "categorie": "person"
+      },
+      {
+        "id": "38122",
+        "label": "狗",
+        "info": "トリの子分で、いつもこき使われているヘタレ系男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/77/38122_crt_9s9zG.jpg",
+        "link": "https://bgm.tv/character/38122",
+        "categorie": "person"
+      },
+      {
+        "id": "38123",
+        "label": "蛇",
+        "info": "のーてんきで少しオバカなヘビ。イノシシと仲良し。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/53/38123_crt_XXWw0.jpg",
+        "link": "https://bgm.tv/character/38123",
+        "categorie": "person"
+      },
+      {
+        "id": "38124",
+        "label": "猪",
+        "info": "ちょっとオバカな男の子。みんなと仲良くしたい寂しがりやさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/f6/38124_crt_P2Xcc.jpg",
+        "link": "https://bgm.tv/character/38124",
+        "categorie": "person"
+      },
+      {
+        "id": "38125",
+        "label": "龙",
+        "info": "さわやかなお兄さん。それ以外は特に特徴がない普通系男子。竜に変化することができるが見かけ倒し。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/b9/38125_crt_H8P00.jpg",
+        "link": "https://bgm.tv/character/38125",
+        "categorie": "person"
+      },
+      {
+        "id": "38126",
+        "label": "羊",
+        "info": "可愛くて優しい良識のある女の子。ウサギと仲良しだけど振り回されがち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/b7/38126_crt_IG5Zq.jpg",
+        "link": "https://bgm.tv/character/38126",
+        "categorie": "person"
+      },
+      {
+        "id": "38127",
+        "label": "兔",
+        "info": "自己中でワガママな女の子。ヒツジと仲良し？",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/ef/38127_crt_UhdWf.jpg",
+        "link": "https://bgm.tv/character/38127",
+        "categorie": "person"
+      },
+      {
+        "id": "38128",
+        "label": "虎",
+        "info": "みんなのたよれるお兄さん。見た目は厳ついがおっとりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/73/38128_crt_9Q555.jpg",
+        "link": "https://bgm.tv/character/38128",
+        "categorie": "person"
+      },
+      {
+        "id": "38129",
+        "label": "猴",
+        "info": "男。友達がいない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/17/38129_crt_4jAaN.jpg",
+        "link": "https://bgm.tv/character/38129",
+        "categorie": "person"
+      },
+      {
+        "id": "38130",
+        "label": "神",
+        "info": "面倒くさがりな神様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/20/38130_crt_p41ff.jpg",
+        "link": "https://bgm.tv/character/38130",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

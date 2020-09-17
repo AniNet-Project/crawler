@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32691",
+        "label": "战士",
+        "info": "角色設計：Hisasi",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/fe/32691_crt_2QoHl.jpg?r=1442574152",
+        "link": "https://bgm.tv/character/32691",
+        "categorie": "person"
+      },
+      {
+        "id": "32692",
+        "label": "圣骑士",
+        "info": "弱きを助け強きを挫く、正義感の塊。剣などあらゆる武器を得意とする。しかし家の戒律が厳しく、それが足枷になることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/35/32692_crt_XqOqo.jpg?r=1442574218",
+        "link": "https://bgm.tv/character/32692",
+        "categorie": "person"
+      },
+      {
+        "id": "32693",
+        "label": "魔法师",
+        "info": "魔法使いで、腕力はないが強力な魔法で敵をやっつける。コミュ障。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/1a/32693_crt_BR8m1.jpg?r=1442574182",
+        "link": "https://bgm.tv/character/32693",
+        "categorie": "person"
+      },
+      {
+        "id": "32695",
+        "label": "暗精灵",
+        "info": "剣と魔法の両方を使いこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/8a/32695_crt_Ll8dj.jpg?r=1442574243",
+        "link": "https://bgm.tv/character/32695",
+        "categorie": "person"
+      },
+      {
+        "id": "32699",
+        "label": "猎人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/8c/32699_crt_hHHMF.jpg?r=1442574263",
+        "link": "https://bgm.tv/character/32699",
+        "categorie": "person"
+      },
+      {
+        "id": "32703",
+        "label": "女武神",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a4/32703_crt_2J0Xf.jpg?r=1442574284",
+        "link": "https://bgm.tv/character/32703",
+        "categorie": "person"
+      },
+      {
+        "id": "53634",
+        "label": "牧师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/b8/53634_crt_9XxPq.jpg?r=1578130137",
+        "link": "https://bgm.tv/character/53634",
+        "categorie": "person"
+      },
+      {
+        "id": "53635",
+        "label": "女忍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/1b/53635_crt_Dd3m2.jpg?r=1578130147",
+        "link": "https://bgm.tv/character/53635",
+        "categorie": "person"
+      },
+      {
+        "id": "74513",
+        "label": "黑骑士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/22/74513_crt_s5ss5.jpg?r=1578130397",
+        "link": "https://bgm.tv/character/74513",
+        "categorie": "person"
+      },
+      {
+        "id": "74514",
+        "label": "死灵术士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/fc/74514_crt_U1kSX.jpg?r=1578130449",
+        "link": "https://bgm.tv/character/74514",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

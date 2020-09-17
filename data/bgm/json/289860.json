@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63430",
+        "label": "苍江红音",
+        "info": "太壱のクラスメイト。吸血鬼と雪女のハーフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/b6/63430_crt_o5a85.jpg",
+        "link": "https://bgm.tv/character/63430",
+        "categorie": "person"
+      },
+      {
+        "id": "63431",
+        "label": "鬼上铃鹿",
+        "info": "クールでSな鬼族の娘で学園の二年生。太壱の後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/7c/63431_crt_LfN52.jpg",
+        "link": "https://bgm.tv/character/63431",
+        "categorie": "person"
+      },
+      {
+        "id": "63432",
+        "label": "セイラ・アドライグ・仙賀",
+        "info": "結構いい加減な性格の人竜族の娘。太壱とはグラスが違う学園の三年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/7d/63432_crt_qq0W8.jpg",
+        "link": "https://bgm.tv/character/63432",
+        "categorie": "person"
+      },
+      {
+        "id": "63433",
+        "label": "苍江舞冻",
+        "info": "紅音の母親。雪女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/e3/63433_crt_76uTL.jpg",
+        "link": "https://bgm.tv/character/63433",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

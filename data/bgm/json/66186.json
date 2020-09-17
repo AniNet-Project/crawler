@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19835",
+        "label": "新藤葵",
+        "info": "晴喜の幼馴染",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/48/19835_crt_TTSdi.jpg",
+        "link": "https://bgm.tv/character/19835",
+        "categorie": "person"
+      },
+      {
+        "id": "19836",
+        "label": "橫川晴喜",
+        "info": "雕刻師の息子",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/44/19836_crt_0hXUD.jpg",
+        "link": "https://bgm.tv/character/19836",
+        "categorie": "person"
+      },
+      {
+        "id": "19837",
+        "label": "石倉夏子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/6f/19837_crt_3h33f.jpg",
+        "link": "https://bgm.tv/character/19837",
+        "categorie": "person"
+      },
+      {
+        "id": "19838",
+        "label": "西匠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/b2/19838_crt_rEgMW.jpg",
+        "link": "https://bgm.tv/character/19838",
+        "categorie": "person"
+      },
+      {
+        "id": "19839",
+        "label": "逢沢千晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/fc/19839_crt_wwzVh.jpg",
+        "link": "https://bgm.tv/character/19839",
+        "categorie": "person"
+      },
+      {
+        "id": "19840",
+        "label": "須川耀司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/4f/19840_crt_y04x9.jpg",
+        "link": "https://bgm.tv/character/19840",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

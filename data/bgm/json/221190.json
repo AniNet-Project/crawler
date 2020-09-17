@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18546",
+        "label": "飞鸟",
+        "info": "いつも元気いっぱいで、どんなことにも一生懸命。忍の道とは何か、本人なりに一生懸命に考えている。忍としての実力はまだまだだが、偉大な忍を祖父「半蔵」に持っており、潜在能力は抜群。好きな物はじっちゃん（半蔵）の太巻き。趣味は修行。秘伝忍法はガマ。属性は土。長短2本の脇差を振るう戦闘をする二刀流での斬撃が中心の戦闘スタイル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/f0/18546_crt_BLwQI.jpg?r=1539440241",
+        "link": "https://bgm.tv/character/18546",
+        "categorie": "person"
+      },
+      {
+        "id": "18554",
+        "label": "焰",
+        "info": "2年生でありながら生徒会代表を務める。蛇女選抜メンバーでもその実力は随一で実質のリーダー格。最強の忍となることを目指しており、そのためなら手段は選ばないないが、仲間に情が厚く、敵に厳しいが、敵であっても強い者を認める。言葉使いが男性っぽいが、礼儀作法はしっかりと身につけており、意外と女の子らしい一面もある。根が真面目で融通がきかないところもあるため、たまに暴走して空回りしてしまい他のメンバーからあきれられることも。飛鳥とは縁があり、互いを高め合うライバルとなる。趣味は戦いで、好きな食べ物は和食。六刀を振るう剣技の他に、最終決戦ではもう一本の太刀を使う一刀流の技を使う。太刀を使用している状態では「紅蓮の焔」と表記されており、蛇女編では一定条件を満たした後に使用可能になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/1b/18554_crt_Hz2zZ.jpg?r=1541221885",
+        "link": "https://bgm.tv/character/18554",
+        "categorie": "person"
+      },
+      {
+        "id": "21789",
+        "label": "雪泉",
+        "info": "死塾月閃女学館の3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/37/21789_crt_kcJV9.jpg?r=1540053613",
+        "link": "https://bgm.tv/character/21789",
+        "categorie": "person"
+      },
+      {
+        "id": "32073",
+        "label": "雅绯",
+        "info": "秘立蛇女子学園の3年生で選抜メンバーの筆頭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/87/32073_crt_8R8Gv.jpg?r=1540920197",
+        "link": "https://bgm.tv/character/32073",
+        "categorie": "person"
+      },
+      {
+        "id": "36260",
+        "label": "神乐",
+        "info": "かぐら CV：松岡 由貴",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/68/36260_crt_tDH2b.jpg?r=1544888584",
+        "link": "https://bgm.tv/character/36260",
+        "categorie": "person"
+      },
+      {
+        "id": "67418",
+        "label": "雪不归",
+        "info": "謎の忍",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/47/67418_crt_x6oA9.jpg?r=1543160807",
+        "link": "https://bgm.tv/character/67418",
+        "categorie": "person"
+      },
+      {
+        "id": "18548",
+        "label": "斑鸠",
+        "info": "冷静沈着な優等生で、クラス委員も務める。普段は優しい思慮深いが、いったん怒ると手がつけられなくなる。好きな物は懐石料理と日本茶だが、創作料理の見た目は微妙とのこと。趣味は読書。秘伝忍法は火の鳥。属性は火。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/cc/18548_crt_556wT.jpg?r=1543161013",
+        "link": "https://bgm.tv/character/18548",
+        "categorie": "person"
+      },
+      {
+        "id": "18549",
+        "label": "葛城",
+        "info": "通称「かつ姉」。戦い強くなることが生きがいで、とにかく考える前に手が出てしまう。情に厚く涙もろい親分肌で、めちゃくちゃなことも言うが仲間からも好かれている。セクハラが趣味で美少女を見ると誰かれ構わずついセクハラしたくなるが、されるのは苦手。好きな物はラーメン。秘伝忍法は龍。属性は風。具足を用いた蹴り技が得意で、切り裂くように蹴りまくる戦闘スタイルは、力強い蹴り技で敵を圧倒する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/27/18549_crt_9SdWT.jpg?r=1429322747",
+        "link": "https://bgm.tv/character/18549",
+        "categorie": "person"
+      },
+      {
+        "id": "18550",
+        "label": "柳生",
+        "info": "一人称は「オレ」。新入生でありながら忍の世界の非情さを幼いころから知っており、優れた実力を持つ。自分のことに一切無口で、基本クール。ムダなことが嫌いで、感情を出さないように孤独を気取るも、寂しがり屋さんのところがあり、そんな彼女を理解している雲雀のことが大好きで、いつも気に掛けている。好きな物はスルメ。趣味は寝ること。秘伝忍法はイカ。属性は雨。刃や銃の仕込まれた番傘を使った多彩な攻撃が得意で、傘を使った打撃、斬撃にイカの秘伝忍法というトリッキーなスタイルで敵を翻弄する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/59/18550_crt_h35S5.jpg?r=1429322786",
+        "link": "https://bgm.tv/character/18550",
+        "categorie": "person"
+      },
+      {
+        "id": "18551",
+        "label": "云雀",
+        "info": "ちょっと幼い感じで、小動物系の可愛らしい子。諜報活動は得意とするが、自分の意思による行動は未熟でしばしば問題を起こしてしまう。甘いものに日々興味津々。代々続く歴史のある忍一族の名門の生まれであり、本人は頑張っているものの、よく問題を起こすトラブルメーカー。子供の喧嘩のような体術を使うが戦闘はやや苦手で、諜報活動が得意。好きな物は甘い物全般。趣味はテレビゲーム。秘伝忍法はウサギ。属性は雷。戦闘スタイルは「ポカポカ変則格闘術」と呼ばれる謎の格闘術で、でたらめな動きだが威力は抜群。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/18/18551_crt_907Q0.jpg?r=1429322803",
+        "link": "https://bgm.tv/character/18551",
+        "categorie": "person"
+      },
+      {
+        "id": "18555",
+        "label": "咏",
+        "info": "お嬢様口調で、見た目は穏やかだが内面は憎悪が渦巻く激烈な性格。服装や見た目、喋り方はお嬢様っぽいが、実態は食べるものにも困る日々を送っていたが、本人はそれにめげずに明るく強くたくましく生きている。趣味は裁縫。好きな食べ物はもやし。重火器と大剣による距離を問わないコンビネーション攻撃に加え爆弾を使う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/69/18555_crt_YVc2V.jpg?r=1429322870",
+        "link": "https://bgm.tv/character/18555",
+        "categorie": "person"
+      },
+      {
+        "id": "18556",
+        "label": "日影",
+        "info": "実力はあるが「感情がない」と自称する無表情で口数も少なく、何を考えているのかよくわからない無気力な少女。葛城からの挑戦に気乗りせず、受け流している。手足に暗器を仕込み、柔軟な体と合わせた変幻自在の体術を使う。一定以上の痛みを受けると極度の興奮状態、狂乱モードになる。クールに戦うその姿はまるで戦闘マシーン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/c9/18556_crt_ZtIbx.jpg?r=1429322898",
+        "link": "https://bgm.tv/character/18556",
+        "categorie": "person"
+      },
+      {
+        "id": "18557",
+        "label": "未来",
+        "info": "大人ぶってひねたところを見せるが、 見た目通り幼く、子供っぽさがなかなか抜けない素直な子供。無視されるのが人一倍嫌い。個性的な先輩たちに囲まれて苦労するところもあるようだが、蛇女の居心地はよい模様。趣味はインターネット。好きな食べ物は鍋物。銃を仕込んだ西洋傘と呪術を駆使した戦闘スタイルを使う。本来は善忍の家系だが、幼少期のいじめが原因で蛇女の門をたたくことになった。そのため、人から無視されるのが一番嫌いで、最初に戦った柳生の反応が気に入らずつけ回している。蛇女入学の理由はかつて自分をいじめていた連中へ仕返しするための実力を付けるためである。 蛇女序盤から中盤にかけては彼女を中心にしたストーリー展開が多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/7e/18557_crt_2KZw9.jpg?r=1429322945",
+        "link": "https://bgm.tv/character/18557",
+        "categorie": "person"
+      },
+      {
+        "id": "18558",
+        "label": "春花",
+        "info": "弱い者いじめが大好きなサドっ気の強い女王様系。しかし脱がされると喜んでいるところを見るとマゾの気もあるらしい。トロい雲雀に目をつけている。 一見弱いものをいじめるのが大好物なサドっ気の強い女王様キャラであるが、本当は仲間のことを大切に思う気持ちが蛇女選抜メンバーの中でも誰よりも強く、常にみんなのことを気にかけている。実際、下僕と雲雀のことさえも彼女なりに気に掛けていいた。また、感情豊かな後輩と接するうちに、母性が大きく育つ。そのため、悪の道の中でも仲間の4人が不幸にならないように広い視点で見守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/de/18558_crt_Uui8q.jpg?r=1544203744",
+        "link": "https://bgm.tv/character/18558",
+        "categorie": "person"
+      },
+      {
+        "id": "21790",
+        "label": "丛",
+        "info": "死塾月閃女学館の3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/cd/21790_crt_B7s1B.jpg?r=1544384026",
+        "link": "https://bgm.tv/character/21790",
+        "categorie": "person"
+      },
+      {
+        "id": "32070",
+        "label": "夜樱",
+        "info": "死塾月閃女学館の2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/24/32070_crt_25n2J.jpg?r=1429323168",
+        "link": "https://bgm.tv/character/32070",
+        "categorie": "person"
+      },
+      {
+        "id": "32071",
+        "label": "四季",
+        "info": "死塾月閃女学館の1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/79/32071_crt_tRQ5x.jpg?r=1429323178",
+        "link": "https://bgm.tv/character/32071",
+        "categorie": "person"
+      },
+      {
+        "id": "32072",
+        "label": "美野里",
+        "info": "死塾月閃女学館の1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/2c/32072_crt_thD30.jpg?r=1429323186",
+        "link": "https://bgm.tv/character/32072",
+        "categorie": "person"
+      },
+      {
+        "id": "32074",
+        "label": "紫",
+        "info": "秘立蛇女子学園の2年生で忌夢の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/99/32074_crt_n2126.jpg?r=1429323021",
+        "link": "https://bgm.tv/character/32074",
+        "categorie": "person"
+      },
+      {
+        "id": "32075",
+        "label": "忌梦",
+        "info": "秘立蛇女子学園の3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/7d/32075_crt_wRFl3.jpg?r=1429323038",
+        "link": "https://bgm.tv/character/32075",
+        "categorie": "person"
+      },
+      {
+        "id": "32076",
+        "label": "两备",
+        "info": "秘立蛇女子学園の1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/41/32076_crt_S0222.jpg?r=1429323090",
+        "link": "https://bgm.tv/character/32076",
+        "categorie": "person"
+      },
+      {
+        "id": "32077",
+        "label": "两奈",
+        "info": "秘立蛇女子学園の1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/d6/32077_crt_0AmX9.jpg?r=1429323107",
+        "link": "https://bgm.tv/character/32077",
+        "categorie": "person"
+      },
+      {
+        "id": "32079",
+        "label": "凛",
+        "info": "秘立蛇女子学園の選抜クラス担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/02/32079_crt_gV9Aw.jpg?r=1429323201",
+        "link": "https://bgm.tv/character/32079",
+        "categorie": "person"
+      },
+      {
+        "id": "32082",
+        "label": "莲华",
+        "info": "巫神楽（みかぐら）三姉妹の長女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/5b/32082_crt_jvsA4.jpg?r=1429322586",
+        "link": "https://bgm.tv/character/32082",
+        "categorie": "person"
+      },
+      {
+        "id": "32084",
+        "label": "华毗",
+        "info": "巫神楽三姉妹の次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/e6/32084_crt_Q62Gn.jpg?r=1429322274",
+        "link": "https://bgm.tv/character/32084",
+        "categorie": "person"
+      },
+      {
+        "id": "32085",
+        "label": "华风流",
+        "info": "巫神楽三姉妹の三女。ワガママさと計算高さを持つ少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/fe/32085_crt_4ww0W.jpg?r=1429322350",
+        "link": "https://bgm.tv/character/32085",
+        "categorie": "person"
+      },
+      {
+        "id": "36261",
+        "label": "奈乐",
+        "info": "かぐらと共に京に現れた少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/a4/36261_crt_Obd7f.jpg",
+        "link": "https://bgm.tv/character/36261",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

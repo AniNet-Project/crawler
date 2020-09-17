@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21780",
+        "label": "东叶月",
+        "info": "片子里面力量超强和超人气的女主角之一，一直和初美生活在一起，虽然不是血亲但和初美情同亲姐妹。初中生。喜欢初美，在初美16岁生日消失后，在小健的引领下来到图书馆，见到对自己一见钟情的莉莉丝（因为莉莉丝觉得叶月长得像亚当，所以很快就喜欢上了她）一心想找到初美，并且因此和莉莉丝在各个世界旅游。她是《暗帽》中战斗力最强的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/a6/21780_crt_Y955a.jpg?r=1381586946",
+        "link": "https://bgm.tv/character/21780",
+        "categorie": "person"
+      },
+      {
+        "id": "21782",
+        "label": "莉莉丝",
+        "info": "她是图书馆的管理员，eve的亲姐姐，总是待在图书馆的中心部分，人类是看不见她的。她外表看来是14岁的小女孩，但是说起话来却总是一副十分伟大的样子。她非常聪明，本身是完美主义者，个性单纯直率，对自己喜欢的人会毫不犹豫的表白。有任性和腹黑的一面。她身上所穿的衣服，是被称作ジョウ君的生物。ジョウ君是有一顶帽子和斗篷组成，斗篷的垂边可以无限分支和延伸。通过控制ジョウ君，她可以在这个大小可以与宇宙匹敌的图书馆中轻松地管理书本。她喜欢叶月，和叶月一起在各个世界寻找eve。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/37/21782_crt_Fblgj.jpg?r=1381586947",
+        "link": "https://bgm.tv/character/21782",
+        "categorie": "person"
+      },
+      {
+        "id": "21781",
+        "label": "赛伦",
+        "info": "在多个世界中出现，lilith所创造，主要出现在小岛的世界中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/e9/21781_crt_jPBak.jpg?r=1381586954",
+        "link": "https://bgm.tv/character/21781",
+        "categorie": "person"
+      },
+      {
+        "id": "21783",
+        "label": "アーヤ",
+        "info": "神秘的角色，平民妖精的最高位，可以自由穿行于不同的世界中，很喜欢恶作剧，也很有来头。在片中他总是在帮助叶月和莉莉丝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/1b/21783_crt_SCVaS.jpg?r=1381586949",
+        "link": "https://bgm.tv/character/21783",
+        "categorie": "person"
+      },
+      {
+        "id": "21784",
+        "label": "格尔刚裘亚",
+        "info": "同叶月一样沐浴了夏娃的圣光而获得超越人类能力的人，因为小时候误杀了夏娃而造成心灵创伤，想要赎罪，在片中一直寻找夏娃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/3c/21784_crt_ZV5mg.jpg",
+        "link": "https://bgm.tv/character/21784",
+        "categorie": "person"
+      },
+      {
+        "id": "21785",
+        "label": "东初美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/4b/21785_crt_vQCtu.jpg?r=1381586952",
+        "link": "https://bgm.tv/character/21785",
+        "categorie": "person"
+      },
+      {
+        "id": "77933",
+        "label": "ken-chan",
+        "info": "莉莉丝的随从鹦鹉，说大阪方言，经常遭到莉莉丝的各种虐待，是个搞笑的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/b9/77933_crt_YluuS.jpg",
+        "link": "https://bgm.tv/character/77933",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

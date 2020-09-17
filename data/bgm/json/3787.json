@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6782",
+        "label": "荷莉叶特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/29/6782_crt_rBI6d.jpg",
+        "link": "https://bgm.tv/character/6782",
+        "categorie": "person"
+      },
+      {
+        "id": "8022",
+        "label": "黎可",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/86/8022_crt_Vj8Vu.jpg",
+        "link": "https://bgm.tv/character/8022",
+        "categorie": "person"
+      },
+      {
+        "id": "8021",
+        "label": "崔耶拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/62/8021_crt_Ayk7y.jpg",
+        "link": "https://bgm.tv/character/8021",
+        "categorie": "person"
+      },
+      {
+        "id": "8026",
+        "label": "克拉耶丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/a2/8026_crt_47XSX.jpg",
+        "link": "https://bgm.tv/character/8026",
+        "categorie": "person"
+      },
+      {
+        "id": "23369",
+        "label": "恩莉卡·库洛奇",
+        "info": "吉安与乔瑟的妹妹，国中生；除了加入足球社外，在乐器上也展现全方面的才华。乔邦尼怕吉安和乔瑟常不在家恩莉卡会寂寞，所以收养了一只由吉安和乔瑟取名为‘佛鲁格列’〔意为闪电〕的大麦町狗，取名典故是他们祖父当年任职的‘佛鲁格列空特师团’。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/05/23369_crt_vmODM.jpg",
+        "link": "https://bgm.tv/character/23369",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

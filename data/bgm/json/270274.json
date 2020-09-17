@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29790",
+        "label": "巧克力",
+        "info": "明快的一直很喜欢嘉祥主人的犬系猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/b2/29790_crt_FbxSx.jpg?r=1474630749",
+        "link": "https://bgm.tv/character/29790",
+        "categorie": "person"
+      },
+      {
+        "id": "29791",
+        "label": "香子兰",
+        "info": "话少老实聪明的猫娘。喜欢巧克力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/58/29791_crt_E1qCY.jpg",
+        "link": "https://bgm.tv/character/29791",
+        "categorie": "person"
+      },
+      {
+        "id": "72729",
+        "label": "可可",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/d8/72729_crt_iTCgc.jpg?r=1579930211",
+        "link": "https://bgm.tv/character/72729",
+        "categorie": "person"
+      },
+      {
+        "id": "29794",
+        "label": "红豆",
+        "info": "自由且随意，无所畏惧。水無月家的长女猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/92/29794_crt_lAAya.jpg",
+        "link": "https://bgm.tv/character/29794",
+        "categorie": "person"
+      },
+      {
+        "id": "29792",
+        "label": "枫",
+        "info": "自尊心强，头脑很灵活，有些娇蛮的猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/08/29792_crt_20lKl.jpg",
+        "link": "https://bgm.tv/character/29792",
+        "categorie": "person"
+      },
+      {
+        "id": "29793",
+        "label": "桂",
+        "info": "总是嘻嘻笑着的悠闲自在的的治愈系猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/b1/29793_crt_07ZUM.jpg",
+        "link": "https://bgm.tv/character/29793",
+        "categorie": "person"
+      },
+      {
+        "id": "29795",
+        "label": "椰子",
+        "info": "做事稳当，身材高挑的肉感型猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/b8/29795_crt_RE1wj.jpg",
+        "link": "https://bgm.tv/character/29795",
+        "categorie": "person"
+      },
+      {
+        "id": "29796",
+        "label": "水无月时雨",
+        "info": "嘉祥的实妹，猫娘们的饲主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/1f/29796_crt_zL3Ow.jpg",
+        "link": "https://bgm.tv/character/29796",
+        "categorie": "person"
+      },
+      {
+        "id": "49604",
+        "label": "水无月嘉祥",
+        "info": "【小猫篇】",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/36/49604_crt_32726.jpg?r=1532771130",
+        "link": "https://bgm.tv/character/49604",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

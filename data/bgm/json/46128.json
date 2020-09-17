@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66691",
+        "label": "阿宝",
+        "info": "在面条店长大的熊猫阿宝，从小做着功夫梦，终于有一天阴错阳差地成为神龙大侠……",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/39/66691_crt_5Llol.jpg",
+        "link": "https://bgm.tv/character/66691",
+        "categorie": "person"
+      },
+      {
+        "id": "66690",
+        "label": "悍娇虎",
+        "info": "师父的得意弟子，盖世五侠之首，性格严厉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ad/66690_crt_3h3Z3.jpg",
+        "link": "https://bgm.tv/character/66690",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

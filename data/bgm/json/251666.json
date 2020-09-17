@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61199",
+        "label": "斯巴鲁·一之濑",
+        "info": "地球連邦に所属する天才エースパイロット。艦内の集団生活に馴染めず、自身の専用機である最新汎用人型兵器【デュランダル】のコックピットにひきこもってばかりいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/de/61199_crt_9l6Te.jpg",
+        "link": "https://bgm.tv/character/61199",
+        "categorie": "person"
+      },
+      {
+        "id": "61200",
+        "label": "五十铃·一之濑",
+        "info": "スバルの兄。若くして地球連邦軍に入隊し、瞬く間に頭角を現し出世したが、自身の主義との違いによって脱退。現在は、敵対する宇宙移民組織【メトゥスの民】の幹部であり、実の弟・スバルと対立することに…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/0f/61200_crt_JWfF4.jpg",
+        "link": "https://bgm.tv/character/61200",
+        "categorie": "person"
+      },
+      {
+        "id": "61201",
+        "label": "伏尔加·悍马",
+        "info": "スバルの先輩パイロット。ガサツな性格だが、スバルのことを気にかけてくれる男気あふれる兄貴的存在。だが、スバルは、その熱血ぶりを少々面倒くさく感じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d5/61201_crt_g2pWS.jpg",
+        "link": "https://bgm.tv/character/61201",
+        "categorie": "person"
+      },
+      {
+        "id": "61202",
+        "label": "斯巴鲁·彼洋德",
+        "info": "【メトゥスの民】によって作られたスバルのコピー生命体の突然変異体。スバルとその専用機【デュランダル】に執着心を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/b4/61202_crt_qqlZ9.jpg",
+        "link": "https://bgm.tv/character/61202",
+        "categorie": "person"
+      },
+      {
+        "id": "66542",
+        "label": "凯雷德·凯迪拉克",
+        "info": "地球連邦と敵対する宇宙移民組織【メトゥスの民】を率いる最高司令官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/38/66542_crt_U8l5P.jpg",
+        "link": "https://bgm.tv/character/66542",
+        "categorie": "person"
+      },
+      {
+        "id": "66543",
+        "label": "宗一郎·一之濑",
+        "info": "イチノセ兄弟の父。デュランダルをはじめ数々の機動兵器を生み出してきた一流開発者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/b0/66543_crt_7XoOp.jpg",
+        "link": "https://bgm.tv/character/66543",
+        "categorie": "person"
+      },
+      {
+        "id": "61943",
+        "label": "文图瑞·勒罗伊",
+        "info": "【宇宙戦艦ティラミス】の艦長。クルー達を厳しく統率しているが、娘のリージュには甘いところがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/d3/61943_crt_nVCSs.jpg",
+        "link": "https://bgm.tv/character/61943",
+        "categorie": "person"
+      },
+      {
+        "id": "61944",
+        "label": "莉裘·勒罗伊",
+        "info": "【宇宙戦艦ティラミス】のヴェンチュリー艦長の愛娘で、抜群のスタイルの持ち主と容姿。溺愛されて育ったため、少々わがままな性格。時折スバルに見せる眼差しは、まるで弟を見るようである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/ef/61944_crt_1Xu18.jpg",
+        "link": "https://bgm.tv/character/61944",
+        "categorie": "person"
+      },
+      {
+        "id": "61945",
+        "label": "茂子·本田",
+        "info": "【宇宙戦艦ティラミス】のメカニック担当。メカニックらしからぬ容貌だが、ティラミス艦内の兵器全般を扱う頼れる技術者である。スバルのことは母のように気にかけているのだが、やや鬱陶しがられている節がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/52/61945_crt_UqjkQ.jpg",
+        "link": "https://bgm.tv/character/61945",
+        "categorie": "person"
+      },
+      {
+        "id": "61946",
+        "label": "パッカー",
+        "info": "【宇宙戦艦ティラミス】で、中古で購入されたアシストロボット。艦内のみんなから愛されている感情認識ヒューマノイドロボットだと思っていたが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/26/61946_crt_nwE76.jpg",
+        "link": "https://bgm.tv/character/61946",
+        "categorie": "person"
+      },
+      {
+        "id": "66544",
+        "label": "迈巴赫·威尔海姆",
+        "info": "常にイスズの傍らに控え、支える腹心の部下。イスズ部隊唯一の常識人だが、なぜか上官であるイスズのことは「いっくん大佐」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/88/66544_crt_ILQuR.jpg",
+        "link": "https://bgm.tv/character/66544",
+        "categorie": "person"
+      },
+      {
+        "id": "66545",
+        "label": "勒布朗·施皮里",
+        "info": "地球連邦監査局局長代理を務めている。大人の女性。いち早くスバルがネオユニヴァース感覚者であることに気づき、英雄としての素質を見て、期待を寄せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/70/66545_crt_qtUHI.jpg",
+        "link": "https://bgm.tv/character/66545",
+        "categorie": "person"
+      },
+      {
+        "id": "66546",
+        "label": "菲·加莱威",
+        "info": "イスズの部下で人工ユニヴァース感覚覚醒者。大人しそうな見た目だが、パイロットとしての才能を見出し、引き立ててくれたイスズに恩義を感じており、彼の喜ぶ顔を見るためならば、少々の犠牲も厭わない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/4a/66546_crt_wYG6L.jpg",
+        "link": "https://bgm.tv/character/66546",
+        "categorie": "person"
+      },
+      {
+        "id": "66547",
+        "label": "罗密欧·阿尔法",
+        "info": "宇宙戦艦【ティラミス】に所属する新人パイロット。スバルのことを憧れの先輩として慕っている、ちょっとツイてない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/3b/66547_crt_ea6WT.jpg",
+        "link": "https://bgm.tv/character/66547",
+        "categorie": "person"
+      },
+      {
+        "id": "61922",
+        "label": "阴毛",
+        "info": "【デュランダル】の発射トリガーに引っかかっていた恥毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/16/61922_crt_SsBdy.jpg?r=1521768025",
+        "link": "https://bgm.tv/character/61922",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

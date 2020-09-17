@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63641",
+        "label": "东方淮竹",
+        "info": "东方淮竹，中国漫画《狐妖小红娘》及其衍生作品中的角色。来自东方灵族，王权富贵的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/08/63641_crt_Y69IN.jpg?r=1527130708",
+        "link": "https://bgm.tv/character/63641",
+        "categorie": "person"
+      },
+      {
+        "id": "79197",
+        "label": "东方秦兰",
+        "info": "东方秦兰，中国漫画《狐妖小红娘》以及其衍生作品中的角色之一。东方月初的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/22/79197_crt_7zrvy.jpg?r=1597244445",
+        "link": "https://bgm.tv/character/79197",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16785",
+        "label": "沈王爷",
+        "info": "Lord Shen is the main antagonist in Kung Fu Panda 2. He was the son of the royal Peacock family and the heir to the Gongmen City throne.",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/dc/16785_crt_u0urd.jpg",
+        "link": "https://bgm.tv/character/16785",
+        "categorie": "person"
+      },
+      {
+        "id": "66690",
+        "label": "悍娇虎",
+        "info": "师父的得意弟子，盖世五侠之首，性格严厉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ad/66690_crt_3h3Z3.jpg",
+        "link": "https://bgm.tv/character/66690",
+        "categorie": "person"
+      },
+      {
+        "id": "66691",
+        "label": "阿宝",
+        "info": "在面条店长大的熊猫阿宝，从小做着功夫梦，终于有一天阴错阳差地成为神龙大侠……",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/39/66691_crt_5Llol.jpg",
+        "link": "https://bgm.tv/character/66691",
+        "categorie": "person"
+      },
+      {
+        "id": "73865",
+        "label": "羊仙姑",
+        "info": "The Soothsayer is an aged goat who was named for her unique gifts and abilities; it is unknown if she ever had a previous name. She serves as a supporting character in Kung Fu Panda 2.",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/4d/73865_crt_p8C59.jpg",
+        "link": "https://bgm.tv/character/73865",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

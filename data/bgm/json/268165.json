@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69145",
+        "label": "仙狐",
+        "info": "中野くんをお世話し、癒やすためにやってきた。一見幼い女の子に見えるが、その正体は齢800歳を越える神使の狐！",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b2/69145_crt_Nhzg6.jpg?r=1556771759",
+        "link": "https://bgm.tv/character/69145",
+        "categorie": "person"
+      },
+      {
+        "id": "69146",
+        "label": "中野玄人",
+        "info": "ブラックな会社に勤め、疲労困憊な日々を過ごす若者。猫などのしっぽや耳をもふることに情熱を注ぐ隠れモフモフマニアでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/6f/69146_crt_f8vFX.jpg?r=1552217792",
+        "link": "https://bgm.tv/character/69146",
+        "categorie": "person"
+      },
+      {
+        "id": "69147",
+        "label": "小白",
+        "info": "仙狐に続き、中野の元に現れた神使のキツネ。 純白の尾は純血の証！人の心を読む千里眼などの神通力を使いこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/b7/69147_crt_Za1Bt.jpg?r=1552217820",
+        "link": "https://bgm.tv/character/69147",
+        "categorie": "person"
+      },
+      {
+        "id": "69148",
+        "label": "高圆寺安子",
+        "info": "大学に通いながら漫画家をしている、中野の隣人。眼鏡にポニーテール、ジャージがトレードマーク！",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/f8/69148_crt_gg3g3.jpg?r=1552217866",
+        "link": "https://bgm.tv/character/69148",
+        "categorie": "person"
+      },
+      {
+        "id": "69149",
+        "label": "夜空",
+        "info": "仙狐とシロの上司的存在である神使の狐。黒い毛並みと4本の尻尾が特徴のグラマーな女性の姿をしており、会話には関西訛りが入る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/c0/69149_crt_C7t2H.jpg?r=1552217913",
+        "link": "https://bgm.tv/character/69149",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

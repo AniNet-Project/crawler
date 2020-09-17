@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10712",
+        "label": "瓜生樱乃",
+        "info": "新吾的义妹，各台武学园一年级生。因为约十年前新吾的母亲于樱乃的父亲再婚，所以两人成为了义兄妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/42/10712_crt_wU3XT.jpg",
+        "link": "https://bgm.tv/character/10712",
+        "categorie": "person"
+      },
+      {
+        "id": "11808",
+        "label": "瓜生新吾",
+        "info": "这个故事的男主角，私立各务台学园的二年级生，忠厚老实的好青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/59/11808_crt_G5kSV.jpg",
+        "link": "https://bgm.tv/character/11808",
+        "categorie": "person"
+      },
+      {
+        "id": "11809",
+        "label": "濑名爱理",
+        "info": "私立结姬女子学园的二年级生，也是学园长的独生女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/c8/11809_crt_3EMRu.jpg",
+        "link": "https://bgm.tv/character/11809",
+        "categorie": "person"
+      },
+      {
+        "id": "11810",
+        "label": "安洁莉娜·菜夏·史威尔",
+        "info": "结女学园二年级生，昵称为安洁（アンジェ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/83/11810_crt_zq67N.jpg",
+        "link": "https://bgm.tv/character/11810",
+        "categorie": "person"
+      },
+      {
+        "id": "11811",
+        "label": "天羽美羽",
+        "info": "结女学园三年级生，新吾等的学姐，可是个子很矮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/7a/11811_crt_8mK5H.jpg",
+        "link": "https://bgm.tv/character/11811",
+        "categorie": "person"
+      },
+      {
+        "id": "11812",
+        "label": "乾纱凪",
+        "info": "结女学园二年级生，二年T班成员，爱理的老朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/c6/11812_crt_Gv3J6.jpg",
+        "link": "https://bgm.tv/character/11812",
+        "categorie": "person"
+      },
+      {
+        "id": "11814",
+        "label": "瀬名兰华",
+        "info": "喜欢的东西：巧克力",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/02/11814_crt_AAtkF.jpg",
+        "link": "https://bgm.tv/character/11814",
+        "categorie": "person"
+      },
+      {
+        "id": "11815",
+        "label": "八冢万智",
+        "info": "喜欢的东西：乌冬",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/7b/11815_crt_4Ndgj.jpg",
+        "link": "https://bgm.tv/character/11815",
+        "categorie": "person"
+      },
+      {
+        "id": "14710",
+        "label": "帕喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/90/14710_crt_51H5A.jpg",
+        "link": "https://bgm.tv/character/14710",
+        "categorie": "person"
+      },
+      {
+        "id": "11823",
+        "label": "小野宫结月",
+        "info": "就读立结姬女子学园的二年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/9a/11823_crt_QSAwT.jpg",
+        "link": "https://bgm.tv/character/11823",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

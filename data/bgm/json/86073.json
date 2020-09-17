@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1241",
+        "label": "荆天明",
+        "info": "为人古灵精怪却又有些不知天高地厚，但十分重义气。他迷离的身世牵动整片大地的风云变幻，但自己并不知情。因身世原因而被秦始皇追杀，流落街头。后被“剑圣”盖聂找到，对盖聂十分敬仰，渐生父子之情，跟随盖聂学习剑术。在逃亡的过程中，天明渐渐成长，并且陆续结识了众多江湖高人，相继与年纪相仿的项少羽、高月、石兰成为好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/f9/1241_crt_psJZQ.jpg?r=1529834385",
+        "link": "https://bgm.tv/character/1241",
+        "categorie": "person"
+      },
+      {
+        "id": "20801",
+        "label": "高月",
+        "info": "燕太子丹之女，原是燕国公主，封号“高月”。天真无邪，温柔婉约，在燕国灭亡后和普通百姓一样过着平常生活，但言谈举止间却仍有一股与生俱来的高贵气质。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/a6/20801_crt_49NpN.jpg?r=1529837232",
+        "link": "https://bgm.tv/character/20801",
+        "categorie": "person"
+      },
+      {
+        "id": "20800",
+        "label": "项少羽",
+        "info": "楚将项燕之孙，被秦国用重金悬赏的楚国项氏一族少主。天赋异禀，有千斤拔鼎之神力。智勇双全，年纪虽小，临阵决敌却已有大将之风。为人仗义，是天明的好朋友，同时也是竞争对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/60/20800_crt_suc39.jpg?r=1529837353",
+        "link": "https://bgm.tv/character/20800",
+        "categorie": "person"
+      },
+      {
+        "id": "20949",
+        "label": "石兰",
+        "info": "庖丁在桑海的“有间客栈”中打杂的小伙计，外表柔弱，唯唯诺诺，总是无害的、默默关注着周遭所发生的一切。有时化身为月下的夜行人，如精灵一般身轻如燕，身手矫捷，有一双冰冷的眼眸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/68/20949_crt_78Xc7.jpg?r=1529837579",
+        "link": "https://bgm.tv/character/20949",
+        "categorie": "person"
+      },
+      {
+        "id": "20963",
+        "label": "盖聂",
+        "info": "气质从容淡定，处事冷静。被称为秦国最强的剑客，在江湖上享有剑圣的名号，但是却意外地从秦国叛逃，带着故人之子天明，亡命天涯。剑术出神入化，佩带名剑”渊虹“。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/c4/20963_crt_ITPLz.jpg?r=1529837799",
+        "link": "https://bgm.tv/character/20963",
+        "categorie": "person"
+      },
+      {
+        "id": "59544",
+        "label": "卫庄",
+        "info": "“流沙”组织现任的最高首领。韩国人，自小就因不明原因在韩国王宫中生活。纵横家，鬼谷横剑术传人，浑身充满邪气与霸气，武功深不可测，是霸气与力量型的剑客。最大目的是击败师哥盖聂，证明自己的实力，继承鬼谷绝学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/69/59544_crt_UFfU5.jpg?r=1512551354",
+        "link": "https://bgm.tv/character/59544",
+        "categorie": "person"
+      },
+      {
+        "id": "77127",
+        "label": "白凤",
+        "info": "神秘优雅的白衣美男子，轻功举世无双，能够借助鸟类或羽毛飞翔，时常驾驭着白色的巨鸟在天空飞过。天赋异禀，具有控制与指挥鸟类的能力，被称为“百鸟之王”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/61/77127_crt_Wku4W.jpg?r=1589541237",
+        "link": "https://bgm.tv/character/77127",
+        "categorie": "person"
+      },
+      {
+        "id": "20964",
+        "label": "端木蓉",
+        "info": "清丽脱俗，冷若冰霜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/e9/20964_crt_1D1Sh.jpg?r=1529837951",
+        "link": "https://bgm.tv/character/20964",
+        "categorie": "person"
+      },
+      {
+        "id": "77126",
+        "label": "张良",
+        "info": "胸怀大志的激进青年，样貌洒脱不羁，天资聪慧，未卜先知，常被荀子称赞。出身韩国，家族“五代为相”。秦统一天下后，为桑海儒家小圣贤庄三当家，与掌门师兄伏念、二师兄颜路被并称为“齐鲁三杰”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/b8/77126_crt_crMM1.jpg?r=1589541258",
+        "link": "https://bgm.tv/character/77126",
+        "categorie": "person"
+      },
+      {
+        "id": "77128",
+        "label": "高渐离",
+        "info": "燕国琴师，气质忧郁高雅，容颜俊美。原在燕国酒肆、妃雪阁等多地弹琴，较有名气。后成为墨家统领，被墨家众人称作“小高”，武功在六国灭亡后仅存的墨家成员中仅次于墨家巨子燕丹，地位上也和班大师一样仅次于巨子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/9e/77128_crt_EZBvc.jpg?r=1589541286",
+        "link": "https://bgm.tv/character/77128",
+        "categorie": "person"
+      },
+      {
+        "id": "59545",
+        "label": "晓梦",
+        "info": "现任道家天宗掌门，持有名剑秋骊，无\"讨厌\"和\"喜欢\"的区分，不认同他人把生死看得太重。因辈分极高又年少有为且极其傲慢，对周围的人和事看似不屑一顾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/4a/59545_crt_7jIXJ.jpg?r=1512551668",
+        "link": "https://bgm.tv/character/59545",
+        "categorie": "person"
+      },
+      {
+        "id": "55668",
+        "label": "司徒万里",
+        "info": "农家六堂之一四岳堂的堂主，与神农堂众人是以兄弟相称的好友，开设的四岳赌场日进万金。韩亡前曾是农家潜龙堂主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/c0/55668_crt_00yYy.jpg?r=1529838113",
+        "link": "https://bgm.tv/character/55668",
+        "categorie": "person"
+      },
+      {
+        "id": "26482",
+        "label": "少司命",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/b4/26482_crt_YggGX.jpg?r=1529838178",
+        "link": "https://bgm.tv/character/26482",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

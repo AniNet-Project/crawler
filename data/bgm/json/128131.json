@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22906",
+        "label": "艾莎",
+        "info": "Anna的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/fb/22906_crt_fOJPv.jpg?r=1392299027",
+        "link": "https://bgm.tv/character/22906",
+        "categorie": "person"
+      },
+      {
+        "id": "22907",
+        "label": "安娜",
+        "info": "Elsa的妹妹，从小就开朗活泼好动。外加乙女心满满。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/de/22907_crt_a5f9j.jpg",
+        "link": "https://bgm.tv/character/22907",
+        "categorie": "person"
+      },
+      {
+        "id": "73914",
+        "label": "雪宝",
+        "info": "He's Olaf and he likes warm hugs. Sprung from Elsa's magical powers, Olaf is by far the friendliest snowman to walk the mountains above Arendelle. His innocence, outgoing personality, and uncanny ability to disassemble himself at good and not-so-good times lead to some awkward, albeit laughable moments. He may also have the world's most impossible dream, but what he doesn't know won't melt him—or will it?",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/11/73914_crt_BszQF.jpg",
+        "link": "https://bgm.tv/character/73914",
+        "categorie": "person"
+      },
+      {
+        "id": "74094",
+        "label": "克里斯托夫",
+        "info": "Kristoff Bjorgman is a Sami ice harvester who, alongside his friend and reindeer, Sven, was raised by the trolls. He generally kept to himself and only interacted with other humans when necessary, preferring the company of Sven. As such, Kristoff only accompanied Anna on her quest to retrieve Elsa strictly as a business arrangement but would eventually develop feelings for the princess; to this end, he strove to ensure her safety as she worked to restore both summer and her bond with her estranged sister.",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/85/74094_crt_T0EM4.jpg",
+        "link": "https://bgm.tv/character/74094",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

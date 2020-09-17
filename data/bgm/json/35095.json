@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69960",
+        "label": "风林寺 悟空",
+        "info": "元警察官、現在は探偵を生業にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/7e/69960_crt_znSw9.jpg",
+        "link": "https://bgm.tv/character/69960",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

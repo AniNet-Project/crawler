@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16532",
+        "label": "织田信奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/0d/16532_crt_clT57.jpg?r=1446558967",
+        "link": "https://bgm.tv/character/16532",
+        "categorie": "person"
+      },
+      {
+        "id": "16533",
+        "label": "相良良晴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/bc/16533_crt_hh68H.jpg?r=1446558473",
+        "link": "https://bgm.tv/character/16533",
+        "categorie": "person"
+      },
+      {
+        "id": "16534",
+        "label": "前田犬千代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/73/16534_crt_LOY1a.jpg?r=1446558500",
+        "link": "https://bgm.tv/character/16534",
+        "categorie": "person"
+      },
+      {
+        "id": "16535",
+        "label": "柴田胜家",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/0c/16535_crt_3N802.jpg?r=1446558525",
+        "link": "https://bgm.tv/character/16535",
+        "categorie": "person"
+      },
+      {
+        "id": "16536",
+        "label": "丹羽长秀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f9/16536_crt_hQOh3.jpg?r=1446558549",
+        "link": "https://bgm.tv/character/16536",
+        "categorie": "person"
+      },
+      {
+        "id": "16537",
+        "label": "蜂须贺五右卫门",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/0b/16537_crt_riZEz.jpg?r=1446558575",
+        "link": "https://bgm.tv/character/16537",
+        "categorie": "person"
+      },
+      {
+        "id": "16538",
+        "label": "宁宁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/56/16538_crt_2zayn.jpg?r=1446558593",
+        "link": "https://bgm.tv/character/16538",
+        "categorie": "person"
+      },
+      {
+        "id": "16539",
+        "label": "明智光秀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/e6/16539_crt_3Oy2A.jpg?r=1446558612",
+        "link": "https://bgm.tv/character/16539",
+        "categorie": "person"
+      },
+      {
+        "id": "16540",
+        "label": "竹中半兵卫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/eb/16540_crt_4hj66.jpg?r=1446558630",
+        "link": "https://bgm.tv/character/16540",
+        "categorie": "person"
+      },
+      {
+        "id": "16541",
+        "label": "今川义元",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/26/16541_crt_3GI6z.jpg?r=1446558667",
+        "link": "https://bgm.tv/character/16541",
+        "categorie": "person"
+      },
+      {
+        "id": "16542",
+        "label": "松平元康",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/43/16542_crt_xx9n9.jpg?r=1446558686",
+        "link": "https://bgm.tv/character/16542",
+        "categorie": "person"
+      },
+      {
+        "id": "16543",
+        "label": "齐藤道三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/e7/16543_crt_1p0KI.jpg?r=1446558707",
+        "link": "https://bgm.tv/character/16543",
+        "categorie": "person"
+      },
+      {
+        "id": "16544",
+        "label": "服部半藏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/ba/16544_crt_LunB6.jpg?r=1446558727",
+        "link": "https://bgm.tv/character/16544",
+        "categorie": "person"
+      },
+      {
+        "id": "16545",
+        "label": "织田信胜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/bf/16545_crt_z7Vj7.jpg?r=1446558745",
+        "link": "https://bgm.tv/character/16545",
+        "categorie": "person"
+      },
+      {
+        "id": "16546",
+        "label": "齐藤义龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/a0/16546_crt_f1WWO.jpg?r=1446558787",
+        "link": "https://bgm.tv/character/16546",
+        "categorie": "person"
+      },
+      {
+        "id": "76856",
+        "label": "姬巫女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1b/76856_crt_g1070.jpg",
+        "link": "https://bgm.tv/character/76856",
+        "categorie": "person"
+      },
+      {
+        "id": "76849",
+        "label": "梵天丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/41/76849_crt_1P4gI.jpg",
+        "link": "https://bgm.tv/character/76849",
+        "categorie": "person"
+      },
+      {
+        "id": "76857",
+        "label": "露易丝·弗洛伊斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/e2/76857_crt_g5078.jpg",
+        "link": "https://bgm.tv/character/76857",
+        "categorie": "person"
+      },
+      {
+        "id": "76858",
+        "label": "松永久秀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/c7/76858_crt_VbasB.jpg",
+        "link": "https://bgm.tv/character/76858",
+        "categorie": "person"
+      },
+      {
+        "id": "61174",
+        "label": "朝仓义景",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/00/61174_crt_83nZM.jpg",
+        "link": "https://bgm.tv/character/61174",
+        "categorie": "person"
+      },
+      {
+        "id": "20792",
+        "label": "浅井长政",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/e7/20792_crt_kK31Z.jpg",
+        "link": "https://bgm.tv/character/20792",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

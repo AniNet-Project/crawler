@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13761",
+        "label": "式森和树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/07/13761_crt_R9zrG.jpg",
+        "link": "https://bgm.tv/character/13761",
+        "categorie": "person"
+      },
+      {
+        "id": "13762",
+        "label": "宫间夕菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/fe/13762_crt_syntl.jpg",
+        "link": "https://bgm.tv/character/13762",
+        "categorie": "person"
+      },
+      {
+        "id": "13763",
+        "label": "风椿玖里子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/33/13763_crt_9czCt.jpg",
+        "link": "https://bgm.tv/character/13763",
+        "categorie": "person"
+      },
+      {
+        "id": "13764",
+        "label": "神城凛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/2b/13764_crt_2lIj0.jpg",
+        "link": "https://bgm.tv/character/13764",
+        "categorie": "person"
+      },
+      {
+        "id": "13765",
+        "label": "エリザベート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/3f/13765_crt_SBVTg.jpg",
+        "link": "https://bgm.tv/character/13765",
+        "categorie": "person"
+      },
+      {
+        "id": "13766",
+        "label": "红尉晴明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/76/13766_crt_TLq00.jpg",
+        "link": "https://bgm.tv/character/13766",
+        "categorie": "person"
+      },
+      {
+        "id": "13768",
+        "label": "红尉紫乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/fc/13768_crt_DUg26.jpg",
+        "link": "https://bgm.tv/character/13768",
+        "categorie": "person"
+      },
+      {
+        "id": "13767",
+        "label": "寻崎华怜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/de/13767_crt_4z4o1.jpg",
+        "link": "https://bgm.tv/character/13767",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

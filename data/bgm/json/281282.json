@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "80141",
+        "label": "欢都落兰",
+        "info": "欢都落兰是南国毒皇的女儿，南国的公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/fe/80141_crt_3sqZX.jpg?r=1597380897",
+        "link": "https://bgm.tv/character/80141",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

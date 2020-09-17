@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36203",
+        "label": "范马刃牙",
+        "info": "17歳の高校生ながら、地下闘技場のチャンピオンに君臨する。父親は地上最強の生物と称される範馬勇次郎（詳細は後述）。母親は朱沢コンツェルンの総帥・朱沢江珠。異母兄にジャック・ハンマーがいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/4d/36203_crt_dp4P9.jpg",
+        "link": "https://bgm.tv/character/36203",
+        "categorie": "person"
+      },
+      {
+        "id": "64675",
+        "label": "范马勇次郎",
+        "info": "「地上最強の生物」の異名を持つ。刃牙の父。素手のみで軍隊を殲滅するほどの戦闘力を誇る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/80/64675_crt_u88tG.jpg",
+        "link": "https://bgm.tv/character/64675",
+        "categorie": "person"
+      },
+      {
+        "id": "63715",
+        "label": "愚地独步",
+        "info": "世界最大の勢力を誇る空手道（フルコンタクト空手）団体・神心会の総帥。「武神」「人食いオロチ」「虎殺し」など数々の異名を持つ。かつて地下闘技場の闘士として戦い、1対1で虎を倒す荒業を成し遂げた。その強さは生きながら伝説的存在と称され、空手家に限らず多くの格闘家から尊敬を集めている。闘士としては長く一線を退いていたが、鍛錬は怠っておらず未だ現役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/54/63715_crt_88L8j.jpg",
+        "link": "https://bgm.tv/character/63715",
+        "categorie": "person"
+      },
+      {
+        "id": "63716",
+        "label": "渋川剛気",
+        "info": "実戦合気柔術の達人。「近代武道の最高峰」「武の体現」など数多くの異名をもつ生きる伝説。1926年生まれ、75歳。身長155cm、体重47kg。警視庁にて逮捕術の指導員を務める。普段飄々とした気さくな好々爺であるが、エキサイトすると生来の好戦的な性格を露にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/2f/63716_crt_hXHaR.jpg",
+        "link": "https://bgm.tv/character/63716",
+        "categorie": "person"
+      },
+      {
+        "id": "63717",
+        "label": "烈海王",
+        "info": "香港出身。色黒で髪を辮髪に編んだ中国人。中国武術界における高位の称号「海王」（洋王の上で、最高位である海皇の下）を受け継ぐ中国拳法の達人である。その海王の中でも群を抜いて優秀な人物であり、修行した黒竜江省の白林寺では「魔拳」と呼ばれている。アニメ版オリジナルシナリオでは、海王認定は怒李庵（ドリアン）海王の推薦となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/07/63717_crt_UUDsN.jpg",
+        "link": "https://bgm.tv/character/63717",
+        "categorie": "person"
+      },
+      {
+        "id": "63718",
+        "label": "花山薫",
+        "info": "五代目藤木組系暴力団花山組二代目組長。初代組長であった父親の花山景三が抗争で早世したため、弱冠15歳にして花山組の二代目組長に就任した。非武装・非鍛錬の美学を持つ素手喧嘩（ステゴロ）の天才で、「日本一の喧嘩師」として全国のヤクザ・不良から畏敬の念を受けている。本編の主人公である範馬刃牙とは死闘を経て以後、固い友情で結ばれた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/9a/63718_crt_EOME3.jpg",
+        "link": "https://bgm.tv/character/63718",
+        "categorie": "person"
+      },
+      {
+        "id": "63406",
+        "label": "ドリアン",
+        "info": "アメリカの刑務所にて死刑を執行されるも生還する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/5a/63406_crt_ePca4.jpg?r=1525923709",
+        "link": "https://bgm.tv/character/63406",
+        "categorie": "person"
+      },
+      {
+        "id": "63410",
+        "label": "ドイル",
+        "info": "電気椅子に座らされようと動じることはない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/ff/63410_crt_T8BM2.jpg?r=1525923719",
+        "link": "https://bgm.tv/character/63410",
+        "categorie": "person"
+      },
+      {
+        "id": "63412",
+        "label": "シコルスキー",
+        "info": "ロシアの刑務所から脱獄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/b6/63412_crt_m0jUX.jpg?r=1525923730",
+        "link": "https://bgm.tv/character/63412",
+        "categorie": "person"
+      },
+      {
+        "id": "63413",
+        "label": "スペック",
+        "info": "アメリカの海底刑務所から脱獄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/b6/63413_crt_hhFvB.jpg",
+        "link": "https://bgm.tv/character/63413",
+        "categorie": "person"
+      },
+      {
+        "id": "63414",
+        "label": "柳龙光",
+        "info": "日本の刑務所から脱獄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/06/63414_crt_81axA.jpg?r=1525923755",
+        "link": "https://bgm.tv/character/63414",
+        "categorie": "person"
+      },
+      {
+        "id": "64672",
+        "label": "德川光成",
+        "info": "徳川財閥十三代目当主。格闘技の聖地である地下闘技場の支配人。最凶死刑囚の来訪をいち早く知ると、彼らに「敗北をプレゼント」するため最大トーナメントに出場した実戦的な戦士たちを集める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a0/64672_crt_F4TqX.jpg?r=1531214941",
+        "link": "https://bgm.tv/character/64672",
+        "categorie": "person"
+      },
+      {
+        "id": "64673",
+        "label": "愚地克巳",
+        "info": "実戦空手神心会の創始者、愚地独歩の養子。修行の旅に出た独歩から神心会を引き継ぐ。規格外の身体能力と才能を持ち、空手界の最終兵器（リーサルウェポン）と評される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/ca/64673_crt_js2br.jpg?r=1531215043",
+        "link": "https://bgm.tv/character/64673",
+        "categorie": "person"
+      },
+      {
+        "id": "64674",
+        "label": "松本梢江",
+        "info": "バキと同じ高校に通っている、バキの下宿先の大家の娘。バキが最大トーナメントに出場したことを知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/82/64674_crt_8O4YY.jpg",
+        "link": "https://bgm.tv/character/64674",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

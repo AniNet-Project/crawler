@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10779",
+        "label": "岳画杀",
+        "info": "悪司の叔母(山本一発の娘)で本作における重要キャラの一人(死亡、捕縛、解雇などでいなくなるとゲームオーバーになる)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/16/10779_crt_058Pu.jpg",
+        "link": "https://bgm.tv/character/10779",
+        "categorie": "person"
+      },
+      {
+        "id": "10777",
+        "label": "山本恶司",
+        "info": "本作の主人公でわかめ組の先代組長である山本百発の嫡子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d6/10777_crt_y3Oza.jpg",
+        "link": "https://bgm.tv/character/10777",
+        "categorie": "person"
+      },
+      {
+        "id": "79233",
+        "label": "小原小春",
+        "info": "洋葱老师的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/ad/79233_crt_8519o.jpg",
+        "link": "https://bgm.tv/character/79233",
+        "categorie": "person"
+      },
+      {
+        "id": "79234",
+        "label": "洋葱老师",
+        "info": "调教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e9/79234_crt_TCeH4.jpg",
+        "link": "https://bgm.tv/character/79234",
+        "categorie": "person"
+      },
+      {
+        "id": "79235",
+        "label": "石原千手",
+        "info": "洋葱老师的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/61/79235_crt_VCsDr.jpg?r=1597319522",
+        "link": "https://bgm.tv/character/79235",
+        "categorie": "person"
+      },
+      {
+        "id": "79688",
+        "label": "桃山琳达",
+        "info": "桃山组的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/88/79688_crt_AUkDU.jpg",
+        "link": "https://bgm.tv/character/79688",
+        "categorie": "person"
+      },
+      {
+        "id": "79690",
+        "label": "支仓雾香",
+        "info": "桃山组成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/50/79690_crt_F8lIc.jpg",
+        "link": "https://bgm.tv/character/79690",
+        "categorie": "person"
+      },
+      {
+        "id": "79693",
+        "label": "支仓亚恩",
+        "info": "桃山组成员，与雾香是姐妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/2a/79693_crt_0tWTV.jpg",
+        "link": "https://bgm.tv/character/79693",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50694",
+        "label": "春",
+        "info": "亡くなったハルの姿をしたロボット。ハルの代わりとして、ケアセンターから派遣される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/db/50694_crt_a79cq.jpg",
+        "link": "https://bgm.tv/character/50694",
+        "categorie": "person"
+      },
+      {
+        "id": "50695",
+        "label": "来未",
+        "info": "恋人のハルを事故で失い、生きる力をなくしてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/ad/50695_crt_DW5NU.jpg",
+        "link": "https://bgm.tv/character/50695",
+        "categorie": "person"
+      },
+      {
+        "id": "50696",
+        "label": "龙",
+        "info": "ハルの旧友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/34/50696_crt_Ey6ay.jpg",
+        "link": "https://bgm.tv/character/50696",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

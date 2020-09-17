@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37833",
+        "label": "疾风·英麦曼",
+        "info": "有话直说，稍显粗鲁的少年。17岁，天生有着良好的节奏感，但本人对此无自觉。没有找到具体的梦想或是目标，也没有持久的工作，辗转来往于银河当中。胸口挂有颜色跟雪露的耳坠十分相似的挂坠，为父亲的遗物。实际上对猫过敏，连海猫和龙猫也不意外。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/33/37833_crt_yWoyF.jpg?r=1461771892",
+        "link": "https://bgm.tv/character/37833",
+        "categorie": "person"
+      },
+      {
+        "id": "36560",
+        "label": "芙蕾雅·薇恩",
+        "info": "银河边境的乡下出身的温塔米亚族少女。14歳，憧憬著战术音乐组合“Walküre”。天真烂漫的性格和说话帯有奇怪的方言。特征是头上像发饰的心形Lun，会随兴奋而伸长发光。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/b3/36560_crt_faeQF.jpg?r=1461771740",
+        "link": "https://bgm.tv/character/36560",
+        "categorie": "person"
+      },
+      {
+        "id": "37834",
+        "label": "米拉洁·法莉娜·吉纳斯",
+        "info": "戦術音楽ユニット「ワルキューレ」の護衛を担うΔ小隊の紅一点。18歳。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/d8/37834_crt_7xZxX.jpg?r=1461772057",
+        "link": "https://bgm.tv/character/37834",
+        "categorie": "person"
+      },
+      {
+        "id": "37345",
+        "label": "美云·金努梅尔",
+        "info": "战术音乐组合“Walküre”的主唱。品性、经历、私人状况全部被谜团包围的神秘女孩。她持有可以令“瓦尔综合症”镇静化效果的歌声。被视为“凯厄斯”的王牌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/24/37345_crt_Sns9J.jpg?r=1461772468",
+        "link": "https://bgm.tv/character/37345",
+        "categorie": "person"
+      },
+      {
+        "id": "37346",
+        "label": "要·巴卡妮雅",
+        "info": "战术音乐组合“Walküre”的队长。22岁，在队伍里照顾其他成员如姐姐一般的存在，也是担任队伍的经理人。在加入“Walküre”之前有进行过偶像活动的经历。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d8/37346_crt_WFP4W.jpg?r=1461772559",
+        "link": "https://bgm.tv/character/37346",
+        "categorie": "person"
+      },
+      {
+        "id": "37347",
+        "label": "玛基娜·中岛",
+        "info": "战术音乐组合“Walküre”的成员。18岁，软绵绵的女孩子，负责机械。会给自己中意的机械起名并疼爱着它。与同为“Walküre”成员的蕾娜如同姐妹般亲密，住在同一屋檐下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/eb/37347_crt_9f6cc.jpg?r=1461772650",
+        "link": "https://bgm.tv/character/37347",
+        "categorie": "person"
+      },
+      {
+        "id": "37348",
+        "label": "蕾娜·普劳拉",
+        "info": "战术音乐组合“Walküre”的成员。15岁，如沉默寡言，很少展露出表情，实际上是一名厉害的黑客。在队中担任电子技术员。与同为“Walküre”成员的玛基娜关系亲密。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/57/37348_crt_nb2s9.jpg?r=1461772717",
+        "link": "https://bgm.tv/character/37348",
+        "categorie": "person"
+      },
+      {
+        "id": "37828",
+        "label": "基斯·爱罗·温德米尔",
+        "info": "风之王国的Valkyrie部队“空中骑士团”所属，19岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/41/37828_crt_QD79s.jpg?r=1461772804",
+        "link": "https://bgm.tv/character/37828",
+        "categorie": "person"
+      },
+      {
+        "id": "37829",
+        "label": "罗伊德·布雷姆",
+        "info": "王国宰相，同时是统率王国军的指挥官。20岁。待人温和，和眼镜很相配的知性青年。似乎对眼镜有着特别的执著，拥有不少适合各种场合的藏品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/b5/37829_crt_CzdEn.jpg?r=1461773063",
+        "link": "https://bgm.tv/character/37829",
+        "categorie": "person"
+      },
+      {
+        "id": "37836",
+        "label": "梅瑟·埃勒菲尔德",
+        "info": "Δ小队里面的王牌，驾驶VF-31F，机身上画有死神的标志，21岁。冷静沉着，很少露出感情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/f7/37836_crt_5P6ZT.jpg?r=1461773302",
+        "link": "https://bgm.tv/character/37836",
+        "categorie": "person"
+      },
+      {
+        "id": "40608",
+        "label": "海因茨·内里希·温德米尔",
+        "info": "温德米尔王国的年轻王子，同时被称为海因茨二世。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/69/40608_crt_bA043.jpg?r=1460990702",
+        "link": "https://bgm.tv/character/40608",
+        "categorie": "person"
+      },
+      {
+        "id": "37832",
+        "label": "鲍格·肯法尔特",
+        "info": "空中骑士团中最年轻的驾驶员，15岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/24/37832_crt_e0Z90.jpg?r=1461773006",
+        "link": "https://bgm.tv/character/37832",
+        "categorie": "person"
+      },
+      {
+        "id": "37835",
+        "label": "恰克·玛斯唐",
+        "info": "Δ小队的开心果，驾驶VF-31E，24岁。在惑星拉格纳出生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/f0/37835_crt_fIvwP.jpg?r=1461773142",
+        "link": "https://bgm.tv/character/37835",
+        "categorie": "person"
+      },
+      {
+        "id": "37837",
+        "label": "阿拉德·莫德士",
+        "info": "Δ小队的队长，驾驶VF-31S，33岁。一名兼具包容力与严格个性的可靠大哥。曾经属于新统合军，与“Walküre”共同执行任务的人选被全权委托给他，有着招揽人才的眼光。但不知为什么集结的都是一些很有本事但个性古怪的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/fe/37837_crt_tou9r.jpg?r=1461773358",
+        "link": "https://bgm.tv/character/37837",
+        "categorie": "person"
+      },
+      {
+        "id": "37838",
+        "label": "欧内斯特·约翰逊",
+        "info": "拉格纳分部所属Macross级战舰Elysion的舰长，40来岁。Δ小队的上司，同时也是名格斗技教官。为天顶星人与地球人的混血，微缩化的状态时身高有227公分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/a9/37838_crt_W89F3.jpg?r=1461773408",
+        "link": "https://bgm.tv/character/37838",
+        "categorie": "person"
+      },
+      {
+        "id": "37830",
+        "label": "泰奥·尤西拉",
+        "info": "空中骑士团的驾驶员，16岁。双胞胎的哥哥，商家出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/48/37830_crt_z8UZ3.jpg?r=1461772874",
+        "link": "https://bgm.tv/character/37830",
+        "categorie": "person"
+      },
+      {
+        "id": "37831",
+        "label": "扎奥·尤西拉",
+        "info": "空中骑士团的驾驶员，16岁。双胞胎的弟弟，个性比哥哥好战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/30/37831_crt_ognz3.jpg?r=1461772928",
+        "link": "https://bgm.tv/character/37831",
+        "categorie": "person"
+      },
+      {
+        "id": "40616",
+        "label": "赫尔曼·克罗斯",
+        "info": "脸上有着白色老化痕迹的老牌机师。空中骑士团一员。被鲍格称呼为「大师(Master)」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/8e/40616_crt_pcXev.jpg?r=1461604771",
+        "link": "https://bgm.tv/character/40616",
+        "categorie": "person"
+      },
+      {
+        "id": "40960",
+        "label": "卡希姆·埃伯哈德",
+        "info": "空中骑士团一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/cd/40960_crt_OebA4.jpg?r=1461608379",
+        "link": "https://bgm.tv/character/40960",
+        "categorie": "person"
+      },
+      {
+        "id": "42310",
+        "label": "伯格·斯通",
+        "info": "ウィンダミア王国の王宮に来訪したイプシロン財団の男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/68/42310_crt_iIo11.jpg?r=1465210409",
+        "link": "https://bgm.tv/character/42310",
+        "categorie": "person"
+      },
+      {
+        "id": "41161",
+        "label": "格拉米亚·内里希·温德米尔",
+        "info": "温德米尔王国的国王，基思与海因茨的父亲。基思的前一代「德文特之白骑士」名号的拥有者，曾经是Valkyrie(瓦尔基里)的机师。现在在床上久病不起，似乎命不久矣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/b5/41161_crt_AjYYe.jpg?r=1462172534",
+        "link": "https://bgm.tv/character/41161",
+        "categorie": "person"
+      },
+      {
+        "id": "44560",
+        "label": "诺曼·克罗斯",
+        "info": "ヘルマンの息子で、ハインツの即位後に王宮に赴任してきた武官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/56/44560_crt_ghqPM.jpg?r=1471570897",
+        "link": "https://bgm.tv/character/44560",
+        "categorie": "person"
+      },
+      {
+        "id": "41946",
+        "label": "レオ・ララサーバル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/72/41946_crt_1733S.jpg?r=1463974195",
+        "link": "https://bgm.tv/character/41946",
+        "categorie": "person"
+      },
+      {
+        "id": "43449",
+        "label": "罗伯特·基诺",
+        "info": "新統合軍のパイロット。空中騎士団に所属艦隊を壊滅させられ宇宙を漂流していたが、ハヤテにより救助される。アラドやライトと面識がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/f3/43449_crt_y37kw.jpg?r=1469546758",
+        "link": "https://bgm.tv/character/43449",
+        "categorie": "person"
+      },
+      {
+        "id": "42757",
+        "label": "キュルル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/09/42757_crt_CTWwY.jpg",
+        "link": "https://bgm.tv/character/42757",
+        "categorie": "person"
+      },
+      {
+        "id": "42756",
+        "label": "劳里·马兰",
+        "info": "新統合軍参謀局二部に所属する少佐。惑星ラグナを訪れ、ケイオスの面々にラグナのプロトカルチャー遺跡をウィンダミア側に歌で利用されないように爆破する、という指示を伝える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/98/42756_crt_r45eE.jpg?r=1466403916",
+        "link": "https://bgm.tv/character/42756",
+        "categorie": "person"
+      },
+      {
+        "id": "41947",
+        "label": "ミーヤ・ララサーバル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/3e/41947_crt_d66ii.jpg?r=1463974219",
+        "link": "https://bgm.tv/character/41947",
+        "categorie": "person"
+      },
+      {
+        "id": "41945",
+        "label": "アルベルト・ララサーバル",
+        "info": "新統合軍ヴォルドール航空団のエースパイロット。階級は大尉。搭乗機はVF-171。ヴァール化しているため、息子レオと娘ミーヤの呼びかけに応じなくなっていたが、フレイアの歌で正気を取り戻した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/cc/41945_crt_3YyZt.jpg",
+        "link": "https://bgm.tv/character/41945",
+        "categorie": "person"
+      },
+      {
+        "id": "40615",
+        "label": "哈利·高杉",
+        "info": "整备班一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/9b/40615_crt_PNsON.jpg?r=1461608435",
+        "link": "https://bgm.tv/character/40615",
+        "categorie": "person"
+      },
+      {
+        "id": "40614",
+        "label": "盖伊·吉尔古德",
+        "info": "整备班一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/87/40614_crt_waCGh.jpg?r=1461596354",
+        "link": "https://bgm.tv/character/40614",
+        "categorie": "person"
+      },
+      {
+        "id": "40956",
+        "label": "瑞希·尤利",
+        "info": "舰桥operator一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/70/40956_crt_vM9zg.jpg",
+        "link": "https://bgm.tv/character/40956",
+        "categorie": "person"
+      },
+      {
+        "id": "40613",
+        "label": "妮娜·欧布莱恩",
+        "info": "舰桥operator一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/63/40613_crt_aYpuP.jpg?r=1461608958",
+        "link": "https://bgm.tv/character/40613",
+        "categorie": "person"
+      },
+      {
+        "id": "40958",
+        "label": "贝丝·马斯喀特",
+        "info": "舰桥operator一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/dc/40958_crt_lWHGM.jpg?r=1461608045",
+        "link": "https://bgm.tv/character/40958",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "41465",
+        "label": "古拉",
+        "info": "空中骑士团中的新人。开战后迟迟未获得战果，于惑星伊欧尼德斯卫星轨道上的战役中，在赫尔曼的辅助攻击下与米拉洁的VF-31C交战。虽然将米拉洁追至穷地，但受到了赶到的疾风的背后攻击。未能及时逃离而卷入了爆炸，死亡。成为了疾风在战场上第一个杀死的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/06/41465_crt_W42Wx.jpg",
+        "link": "https://bgm.tv/character/41465",
+        "categorie": "person"
+      },
+      {
+        "id": "43663",
+        "label": "老大娘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/9b/43663_crt_Ilhh7.jpg?r=1469546358",
+        "link": "https://bgm.tv/character/43663",
+        "categorie": "person"
+      },
+      {
+        "id": "44229",
+        "label": "医者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/b5/44229_crt_Q8JVi.jpg?r=1470758554",
+        "link": "https://bgm.tv/character/44229",
+        "categorie": "person"
+      },
+      {
+        "id": "44914",
+        "label": "丽迪·露·格隆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/8e/44914_crt_6l3L7.jpg?r=1472141502",
+        "link": "https://bgm.tv/character/44914",
+        "categorie": "person"
+      },
+      {
+        "id": "44915",
+        "label": "克莱尔·帕多尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/90/44915_crt_8W844.jpg?r=1472141525",
+        "link": "https://bgm.tv/character/44915",
+        "categorie": "person"
+      },
+      {
+        "id": "46153",
+        "label": "裁判官A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/86/46153_crt_vVjAO.jpg?r=1473870580",
+        "link": "https://bgm.tv/character/46153",
+        "categorie": "person"
+      },
+      {
+        "id": "46155",
+        "label": "裁判官B",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/de/46155_crt_HMNVN.jpg?r=1473870565",
+        "link": "https://bgm.tv/character/46155",
+        "categorie": "person"
+      },
+      {
+        "id": "46156",
+        "label": "裁判官C",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/47/46156_crt_gKXmx.jpg?r=1473870597",
+        "link": "https://bgm.tv/character/46156",
+        "categorie": "person"
+      },
+      {
+        "id": "46702",
+        "label": "莱特·英麦曼",
+        "info": "ハヤテの亡き父。新統合軍第77航空団所属の少佐で、アラドのかつての上官。やや変わり者だが情に厚い性格で、周囲の人間たちから慕われていた。諜報員として各方面の惑星に派遣されており、機密上の理由から家族には任務内容と所在を伝えていなかった。価値の分からない奇品・珍品を収集する癖があり、赴任先で手に入れた品を簡潔な手紙を添えてハヤテに贈っていた。ウィンダミアも赴任先の一つで、幼少期のフレイアに地球の歌を伝えた人物でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/01/46702_crt_usl9u.jpg?r=1474689638",
+        "link": "https://bgm.tv/character/46702",
+        "categorie": "person"
+      },
+      {
+        "id": "54",
+        "label": "兰花·李",
+        "info": "身材娇小充满活力，性格明朗天真的少女。S.M.S的王牌机师，オズマ・リー的妹妹，为迎合哥哥的希望在大小姐学园圣マリア女学园就读。后转入美星学院高校，平时在中华料理店「娘々（にゃんにゃん）」打工。从小时候就非常喜欢唱歌，模糊地有了成为歌手的梦想。在第十话以自己的努力和机遇实现了自己歌手的梦想，成就了超时空灰姑娘的传说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/34/54_crt_PTt1P.jpg",
+        "link": "https://bgm.tv/character/54",
+        "categorie": "person"
+      },
+      {
+        "id": "100",
+        "label": "雪露·诺姆",
+        "info": "Macross Galaxy(マクロス·ギャラクシー)移民船团在住之现役偶像歌手。为Galaxy Network排行榜前位的常客。被称为“银河の妖精”。在可爱的外表之下，有着高傲和直言不讳的坦率性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/34/100_crt_RRAjr.jpg",
+        "link": "https://bgm.tv/character/100",
+        "categorie": "person"
+      },
+      {
+        "id": "6654",
+        "label": "林明美",
+        "info": "名前の漢字表記は「鈴 明美」,中国語圏におけるテレビ放送では姓を林（リン）とした「林明美」表記が見られる。アルファベット表記は「Linn Minmei」（ピン音表記では「Ling Mingmei」）。ポスター、アルバムなどでは「Lynn Minmay」表記が多く見られる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/83/6654_crt_e9Pxm.jpg?r=1406412826",
+        "link": "https://bgm.tv/character/6654",
+        "categorie": "person"
+      },
+      {
+        "id": "8554",
+        "label": "马克西米利安·吉纳斯",
+        "info": "「超时空要塞Macross」",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/23/8554_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8554",
+        "categorie": "person"
+      },
+      {
+        "id": "11190",
+        "label": "Fire Bomber",
+        "info": "　　FIRE BOMBER，是出现在超时空要塞MACROSS系列1994年的TV作品《マクロス 7》（MACROSS7，超时空要塞7），剧场版《マクロス 7 银河がオレを呼んでいる!》（超时空要塞7剧场版）及OVA作品《Macross Dynamite 7》（通译《超时空要塞7 宇宙鲸鱼》）中的一支流行乐队",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/29/11190_crt_8z48R.jpg",
+        "link": "https://bgm.tv/character/11190",
+        "categorie": "person"
+      },
+      {
+        "id": "41166",
+        "label": "米莉亚·法莉娜",
+        "info": "「超时空要塞Macross」",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/bb/41166_crt_zgCZv.jpg?r=1462197612",
+        "link": "https://bgm.tv/character/41166",
+        "categorie": "person"
+      },
+      {
+        "id": "42361",
+        "label": "莎朗·埃普",
+        "info": "人工知能によって2039年に生まれ、2040年には銀河系最大の人気となったバーチャルアイドル。ファンの声援に呼応して、その容姿、歌声は幾重にも変化する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/bb/42361_crt_yCcCs.jpg",
+        "link": "https://bgm.tv/character/42361",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

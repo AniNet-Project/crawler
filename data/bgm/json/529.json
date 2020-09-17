@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4420",
+        "label": "松方弘子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/eb/4420_crt_3rpP3.jpg?r=1441392502",
+        "link": "https://bgm.tv/character/4420",
+        "categorie": "person"
+      },
+      {
+        "id": "4421",
+        "label": "小林明久",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/ce/4421_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4421",
+        "categorie": "person"
+      },
+      {
+        "id": "4422",
+        "label": "成田君男",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/1f/4422_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4422",
+        "categorie": "person"
+      },
+      {
+        "id": "4423",
+        "label": "菅原文哉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/df/4423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4423",
+        "categorie": "person"
+      },
+      {
+        "id": "4424",
+        "label": "梅宮龍彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/45/4424_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4424",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

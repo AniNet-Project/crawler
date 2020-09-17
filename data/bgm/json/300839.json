@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77872",
+        "label": "第二十五夜",
+        "info": "本作の主人公で多くの謎に包まれた少年。微かに光が漏れるくらい洞窟の天井が崩れて、ラヘルが落ちてくるまでは、他の人間や話すことすらも知らず孤独に暮らしていた。突然塔へと立ち去ったラヘルを追い、塔へ入る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/c4/77872_crt_N4RJD.jpg",
+        "link": "https://bgm.tv/character/77872",
+        "categorie": "person"
+      },
+      {
+        "id": "77881",
+        "label": "蕾哈尔",
+        "info": "洞意に落ちた日から夜の「光」になった存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/3e/77881_crt_wcZ5b.jpg",
+        "link": "https://bgm.tv/character/77881",
+        "categorie": "person"
+      },
+      {
+        "id": "77882",
+        "label": "昆·阿圭罗·阿尼亚斯",
+        "info": "名門「10家門」の一である「クン」 ー族の出身。戦闘力が高く、一族内の権力争いによって鍛えられた戦略力と鋭い頭脳を持つ策士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/74/77882_crt_273k5.jpg",
+        "link": "https://bgm.tv/character/77882",
+        "categorie": "person"
+      },
+      {
+        "id": "77883",
+        "label": "雷克·莱科雷斯",
+        "info": "自信に満ちた誇り高き戦士。夜、クンと出会ってすぐにチームを組み、固い絆で結ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/68/77883_crt_6CC3k.jpg",
+        "link": "https://bgm.tv/character/77883",
+        "categorie": "person"
+      },
+      {
+        "id": "77884",
+        "label": "赫·宥莉·吉黑德",
+        "info": "ザハードの姫の1人。トップクラスの実力と経験を兼ね備えてお",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/85/77884_crt_85DiU.jpg",
+        "link": "https://bgm.tv/character/77884",
+        "categorie": "person"
+      },
+      {
+        "id": "77885",
+        "label": "伊文·艾德洛克",
+        "info": "ザハード王家に仕える案内人であり、塔の構造を熟知している。塔の中でもトップクラスの実力を誇る「ハイランカー」と思われるが、謎が多い。ザハードの姫ユリと共に行動しており、彼女の身勝手な言動にいつもぎ労させられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/08/77885_crt_96t6y.jpg",
+        "link": "https://bgm.tv/character/77885",
+        "categorie": "person"
+      },
+      {
+        "id": "77886",
+        "label": "阿娜克·吉黒德",
+        "info": "ザハードの王から選ばれた姫にしか与えられない伝説の武器、「13月シ！ーズ」の一つである「緑の四月」を持っ女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3c/77886_crt_c2Oq2.jpg",
+        "link": "https://bgm.tv/character/77886",
+        "categorie": "person"
+      },
+      {
+        "id": "77887",
+        "label": "安德罗西·吉黑德",
+        "info": "ザハードの姫の1人。「選別者」として塔を登る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/f4/77887_crt_baaOD.jpg",
+        "link": "https://bgm.tv/character/77887",
+        "categorie": "person"
+      },
+      {
+        "id": "77888",
+        "label": "皓",
+        "info": "金髪で頭に赤い一本角を持つ選別者。柔和な外見で、明るくて礼儀正しい人物。「神之水」を操る才能が乏しいため、他の選別者よりも努力を重ねていたが、次第にストレス受け、自身の限界に悩むようになる",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/ad/77888_crt_5c3Cf.jpg",
+        "link": "https://bgm.tv/character/77888",
+        "categorie": "person"
+      },
+      {
+        "id": "77894",
+        "label": "火莲",
+        "info": "登場時はタイトな衣装と仮面で全身を覆い、正体を隠していた謎の人物。クールな外見で狡猾。夜、クン、ラークー",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/2a/77894_crt_KyzDo.jpg",
+        "link": "https://bgm.tv/character/77894",
+        "categorie": "person"
+      },
+      {
+        "id": "77895",
+        "label": "哈驰",
+        "info": "父から武士道を習いながら前った、算然でクールな二刀流剣土。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/7e/77895_crt_trG35.jpg",
+        "link": "https://bgm.tv/character/77895",
+        "categorie": "person"
+      },
+      {
+        "id": "77896",
+        "label": "什伊树",
+        "info": "塔に入った当初から、アナク、ハツとチームを組み「選別者」として塔を登る。戦闘力は低いが、鋭い洞察力を持つ頭脳派で、同じく頭脳派であるクンの戦略を見抜くほどの実力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/73/77896_crt_mYdq7.jpg",
+        "link": "https://bgm.tv/character/77896",
+        "categorie": "person"
+      },
+      {
+        "id": "77897",
+        "label": "雷诺·洛",
+        "info": "選別者が皆に登る資格があるかを判断する試験官の1人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/31/77897_crt_Uhg9g.jpg",
+        "link": "https://bgm.tv/character/77897",
+        "categorie": "person"
+      },
+      {
+        "id": "77898",
+        "label": "坤特·波利驰",
+        "info": "選別試験の試験官の一人。探索者」ボジションの講師でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/be/77898_crt_ryFks.jpg",
+        "link": "https://bgm.tv/character/77898",
+        "categorie": "person"
+      },
+      {
+        "id": "77899",
+        "label": "芬世卡尔·洛雷",
+        "info": "夜たちと一緒に試験を受けている選別者。寝ることが大好きで、周囲に無関心",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/1a/77899_crt_JK888.jpg",
+        "link": "https://bgm.tv/character/77899",
+        "categorie": "person"
+      },
+      {
+        "id": "77900",
+        "label": "海顿",
+        "info": "塔の一階の管理人塔を登る「選別者」を選出する役割も担う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/d0/77900_crt_J9vR2.jpg",
+        "link": "https://bgm.tv/character/77900",
+        "categorie": "person"
+      },
+      {
+        "id": "77901",
+        "label": "黑色三月",
+        "info": "ザハードの王から選ばれた姫にしか与えられない伝説の武器、「13月シリーズ」の中の一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/2c/77901_crt_MgHhN.jpg",
+        "link": "https://bgm.tv/character/77901",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

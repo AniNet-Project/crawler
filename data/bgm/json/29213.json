@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14555",
+        "label": "秋月爱莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/08/14555_crt_4uGsn.jpg",
+        "link": "https://bgm.tv/character/14555",
+        "categorie": "person"
+      },
+      {
+        "id": "31699",
+        "label": "秋月真理奈",
+        "info": "圣枫学园3年生。日法混血儿，秋月爱莉的姐姐。成绩优秀，体育方面却不怎样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/f0/31699_crt_P4fmU.jpg?r=1428378590",
+        "link": "https://bgm.tv/character/31699",
+        "categorie": "person"
+      },
+      {
+        "id": "14558",
+        "label": "秋月孝三",
+        "info": "30多岁。甲北大学生化学研究室的教授、博士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/b8/14558_crt_PWSz6.jpg",
+        "link": "https://bgm.tv/character/14558",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

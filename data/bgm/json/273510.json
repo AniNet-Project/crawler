@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72315",
+        "label": "小白",
+        "info": "野原一家的普通家犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/96/72315_crt_4KZ1Z.jpg",
+        "link": "https://bgm.tv/character/72315",
+        "categorie": "person"
+      },
+      {
+        "id": "72447",
+        "label": "迪卡普",
+        "info": "想成为世界大总统的坏狗狗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/24/72447_crt_uzsj3.jpg",
+        "link": "https://bgm.tv/character/72447",
+        "categorie": "person"
+      },
+      {
+        "id": "7201",
+        "label": "野原新之助",
+        "info": "野原新之助是日本漫画家臼井仪人的漫画作品《蜡笔小新》中的主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/8f/7201_crt_RwG32.jpg",
+        "link": "https://bgm.tv/character/7201",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

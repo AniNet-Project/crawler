@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13313",
+        "label": "雪野ちとせ",
+        "info": "本作のメインヒロイン。主人公の訪れる温泉宿・金峰楼（キンホウロウ）の若女将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/ad/13313_crt_5B7zu.jpg",
+        "link": "https://bgm.tv/character/13313",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

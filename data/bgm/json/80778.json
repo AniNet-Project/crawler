@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21561",
+        "label": "黑白小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4f/21561_crt_JzWqM.jpg?r=1436995149",
+        "link": "https://bgm.tv/character/21561",
+        "categorie": "person"
+      },
+      {
+        "id": "21562",
+        "label": "经纪夫",
+        "info": "メガネで冴えないコンビニのマネージャー。路頭に迷っていたミス・モノクロームにぶつかったせいで、モノクロームの芸能マネージャーを務める羽目になった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/11/21562_crt_w9Zyh.jpg?r=1435952515",
+        "link": "https://bgm.tv/character/21562",
+        "categorie": "person"
+      },
+      {
+        "id": "21563",
+        "label": "喜久子",
+        "info": "永遠の17歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e0/21563_crt_t00xP.jpg?r=1443292129",
+        "link": "https://bgm.tv/character/21563",
+        "categorie": "person"
+      },
+      {
+        "id": "21564",
+        "label": "真奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/03/21564_crt_8ffQU.jpg?r=1438391766",
+        "link": "https://bgm.tv/character/21564",
+        "categorie": "person"
+      },
+      {
+        "id": "22512",
+        "label": "宇宙人",
+        "info": "第3話で、「数億年ぶりに地球にやってきた」「皆殺しだぜ」といって地球にやってきた凶暴な宇宙人。しかし、この時は「EVOLUTA」電池でパワーアップしていたミス・モノクロームが発見し、ルーちゃんと合体し撃墜する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/f4/22512_crt_8Aaha.jpg",
+        "link": "https://bgm.tv/character/22512",
+        "categorie": "person"
+      },
+      {
+        "id": "21565",
+        "label": "露酱",
+        "info": "ロボット掃除機",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/16/21565_crt_bAbCr.jpg",
+        "link": "https://bgm.tv/character/21565",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "17489",
+        "label": "乌瑟",
+        "info": "りんの家に居候している謎の動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/68/17489_crt_JlzQo.jpg",
+        "link": "https://bgm.tv/character/17489",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

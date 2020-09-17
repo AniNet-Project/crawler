@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64460",
+        "label": "Rk-92",
+        "info": "由苏联雅克设计局所研制开发的第二代AS，经历过从Rk-91和Rk-92的强化，是Rk-89 三叶苜蓿（シャムロック，Shamrock）的后继品种。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/0d/64460_crt_Rd757.jpg",
+        "link": "https://bgm.tv/character/64460",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51393",
+        "label": "A106",
+        "info": "天馬とお茶の水が生み出したロボットで第7研究室の研究テーマである「ベヴストザイン・システム」を搭載している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/57/51393_crt_cv1Z5.jpg",
+        "link": "https://bgm.tv/character/51393",
+        "categorie": "person"
+      },
+      {
+        "id": "51395",
+        "label": "お茶の水博志",
+        "info": "天馬と同じく大学院生として練馬大学の第7研究室でロボット研究を行っている。優しく親しみやすい性格で、マイペースで時に暴走しがちな午太郎をいつもフォローしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/2d/51395_crt_d8Snk.jpg",
+        "link": "https://bgm.tv/character/51395",
+        "categorie": "person"
+      },
+      {
+        "id": "51396",
+        "label": "天馬午太郎",
+        "info": "練馬大学の第7研究室でロボット研究を行う大学院生。自分の発想と技術には絶対的な自信を持ち時に傲慢にも見える程。ただ、お茶の水とはなぜか馬が合い、共同で研究を行う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/f3/51396_crt_Vr5kA.jpg",
+        "link": "https://bgm.tv/character/51396",
+        "categorie": "person"
+      },
+      {
+        "id": "51397",
+        "label": "堤茂理也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/ac/51397_crt_x2gx8.jpg",
+        "link": "https://bgm.tv/character/51397",
+        "categorie": "person"
+      },
+      {
+        "id": "51398",
+        "label": "堤茂斗子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/59/51398_crt_3Nly8.jpg",
+        "link": "https://bgm.tv/character/51398",
+        "categorie": "person"
+      },
+      {
+        "id": "51399",
+        "label": "お茶の水蘭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/ae/51399_crt_XssF9.jpg",
+        "link": "https://bgm.tv/character/51399",
+        "categorie": "person"
+      },
+      {
+        "id": "51400",
+        "label": "伴俊作",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/c3/51400_crt_UYuuT.jpg",
+        "link": "https://bgm.tv/character/51400",
+        "categorie": "person"
+      },
+      {
+        "id": "51401",
+        "label": "伴健作",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/72/51401_crt_4Qsv4.jpg",
+        "link": "https://bgm.tv/character/51401",
+        "categorie": "person"
+      },
+      {
+        "id": "51402",
+        "label": "マリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/22/51402_crt_rXlhQ.jpg",
+        "link": "https://bgm.tv/character/51402",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

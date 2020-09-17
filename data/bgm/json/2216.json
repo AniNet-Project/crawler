@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6688",
+        "label": "因特古拉·范布隆克·温盖茨·海辛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/e7/6688_crt_anidb.jpg?r=1491908314",
+        "link": "https://bgm.tv/character/6688",
+        "categorie": "person"
+      },
+      {
+        "id": "6689",
+        "label": "塞拉斯·维克多利亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/25/6689_crt_wqW0T.jpg?r=1475205209",
+        "link": "https://bgm.tv/character/6689",
+        "categorie": "person"
+      },
+      {
+        "id": "15029",
+        "label": "阿卡德",
+        "info": "王立國教騎士團的王牌(垃圾處理員)，過去不詳的吸血鬼，通常使用常人臂力所無法使用的超大口徑手槍「豺狼」（Jackal）和「加斯爾」（caskal）作戰，對於敵人不管是人或超自然生物都是虐殺",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/0b/15029_crt_mKzV7.jpg",
+        "link": "https://bgm.tv/character/15029",
+        "categorie": "person"
+      },
+      {
+        "id": "6691",
+        "label": "ウォルター・C（クム）・ドルネーズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/78/6691_crt_anidb.jpg?r=1491929112",
+        "link": "https://bgm.tv/character/6691",
+        "categorie": "person"
+      },
+      {
+        "id": "6694",
+        "label": "エンリコ・マクスウェル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/db/6694_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6694",
+        "categorie": "person"
+      },
+      {
+        "id": "8182",
+        "label": "ヘレナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/73/8182_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8182",
+        "categorie": "person"
+      },
+      {
+        "id": "6695",
+        "label": "Iscariot Organization",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/6695",
+        "categorie": "person"
+      },
+      {
+        "id": "15433",
+        "label": "大德意志帝国",
+        "info": "二次元出现得最频繁的国家之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/15433_crt_qcrPC.jpg",
+        "link": "https://bgm.tv/character/15433",
+        "categorie": "person"
+      },
+      {
+        "id": "20059",
+        "label": "天主教会",
+        "info": "天主教会，即罗马大公教会，是以罗马主教(教宗)为首的教会，为基督宗教的主要宗派之一，自承其历史从耶稣基督创立以来一脉相承。在大多数场合，天主教会即等同于天主教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b0/20059_crt_sN2R7.jpg",
+        "link": "https://bgm.tv/character/20059",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

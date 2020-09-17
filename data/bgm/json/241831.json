@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60001",
+        "label": "茶虎泽Tapio",
+        "info": "元気と明るさが取り柄の三毛猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/a8/60001_crt_579d8.jpg",
+        "link": "https://bgm.tv/character/60001",
+        "categorie": "person"
+      },
+      {
+        "id": "60002",
+        "label": "Roshi原Kue彦",
+        "info": "冷めた性格のロシアンブルー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/6e/60002_crt_a65kW.jpg",
+        "link": "https://bgm.tv/character/60002",
+        "categorie": "person"
+      },
+      {
+        "id": "60003",
+        "label": "不能叫名字的那个动物",
+        "info": "タピオたちのバイト先に現れる謎の動物。全てが謎に包まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a8/60003_crt_ui1QG.jpg",
+        "link": "https://bgm.tv/character/60003",
+        "categorie": "person"
+      },
+      {
+        "id": "63944",
+        "label": "ググガガ",
+        "info": "自由を愛し自由に生きる無職",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/84/63944_crt_6Y88I.jpg",
+        "link": "https://bgm.tv/character/63944",
+        "categorie": "person"
+      },
+      {
+        "id": "65052",
+        "label": "ハチ谷ルフ太",
+        "info": "働かないことにこだわるタピオとクエ彦の同級生",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/97/65052_crt_H48h9.jpg",
+        "link": "https://bgm.tv/character/65052",
+        "categorie": "person"
+      },
+      {
+        "id": "65053",
+        "label": "ネザ園ウワ春",
+        "info": "謎の余裕を醸し出すタピオとクエ彦の同級生",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/7c/65053_crt_rH3ZE.jpg",
+        "link": "https://bgm.tv/character/65053",
+        "categorie": "person"
+      },
+      {
+        "id": "65624",
+        "label": "Tapio的母亲",
+        "info": "杜氏として酒造を切り盛りするタピオの母親",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/19/65624_crt_7EaTy.jpg",
+        "link": "https://bgm.tv/character/65624",
+        "categorie": "person"
+      },
+      {
+        "id": "65625",
+        "label": "Tapio的姐姐（长女）",
+        "info": "実家で菓子屋を手伝う優しいタピオの姉",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/db/65625_crt_XZ664.jpg",
+        "link": "https://bgm.tv/character/65625",
+        "categorie": "person"
+      },
+      {
+        "id": "65626",
+        "label": "Tapio的姐姐（次女）",
+        "info": "都会に憧れているタピオの姉の女子大生",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/f9/65626_crt_krRDK.jpg",
+        "link": "https://bgm.tv/character/65626",
+        "categorie": "person"
+      },
+      {
+        "id": "65958",
+        "label": "栗户前辈",
+        "info": "ヒーローショーで主役を務めるかっこいい先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/92/65958_crt_NkXk1.jpg",
+        "link": "https://bgm.tv/character/65958",
+        "categorie": "person"
+      },
+      {
+        "id": "63943",
+        "label": "小熊猫田监督",
+        "info": "映像制作会社でアニメを制作している未来の大監督",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/f1/63943_crt_eLPVa.jpg",
+        "link": "https://bgm.tv/character/63943",
+        "categorie": "person"
+      },
+      {
+        "id": "63942",
+        "label": "大袋鼠前辈",
+        "info": "映像制作会社でアニメを制作している未来の大監督",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/c1/63942_crt_zD4Ef.jpg",
+        "link": "https://bgm.tv/character/63942",
+        "categorie": "person"
+      },
+      {
+        "id": "63941",
+        "label": "斯芬神前辈",
+        "info": "百貨店で働くマナーにこだわりがある先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/4a/63941_crt_5zQdd.jpg",
+        "link": "https://bgm.tv/character/63941",
+        "categorie": "person"
+      },
+      {
+        "id": "60690",
+        "label": "蝙蝠盛前辈",
+        "info": "ゲームショップで働くすごくいけてる先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e9/60690_crt_7lk2a.jpg",
+        "link": "https://bgm.tv/character/60690",
+        "categorie": "person"
+      },
+      {
+        "id": "64548",
+        "label": "Tou堂前辈",
+        "info": "プールの監視員をしている泳ぎが得意な先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/4a/64548_crt_E33TP.jpg",
+        "link": "https://bgm.tv/character/64548",
+        "categorie": "person"
+      },
+      {
+        "id": "64549",
+        "label": "ベルヶ峰先輩",
+        "info": "遊園地で働くとってもおしゃべりな先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/2d/64549_crt_ueeAz.jpg",
+        "link": "https://bgm.tv/character/64549",
+        "categorie": "person"
+      },
+      {
+        "id": "64550",
+        "label": "髭羚志田",
+        "info": "酒造場の頭（かしら）として働くお調子者のお兄さん",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b4/64550_crt_ySc03.jpg",
+        "link": "https://bgm.tv/character/64550",
+        "categorie": "person"
+      },
+      {
+        "id": "65233",
+        "label": "野渊兄弟",
+        "info": "建設現場で働くブタの仲良し兄弟",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/b7/65233_crt_RH4BG.jpg",
+        "link": "https://bgm.tv/character/65233",
+        "categorie": "person"
+      },
+      {
+        "id": "65234",
+        "label": "乂之锭前辈",
+        "info": "カギ屋で働く手先がすごく器用な先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/6b/65234_crt_X5Vd8.jpg",
+        "link": "https://bgm.tv/character/65234",
+        "categorie": "person"
+      },
+      {
+        "id": "65235",
+        "label": "デジ浜先輩",
+        "info": "ヒーローショーで悪役を演じる貫禄のある先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/11/65235_crt_iy8iI.jpg",
+        "link": "https://bgm.tv/character/65235",
+        "categorie": "person"
+      },
+      {
+        "id": "65721",
+        "label": "藏砂前辈",
+        "info": "生活のためにカラオケ屋で働く流しの先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/f2/65721_crt_717RC.jpg",
+        "link": "https://bgm.tv/character/65721",
+        "categorie": "person"
+      },
+      {
+        "id": "65722",
+        "label": "白熊前辈",
+        "info": "ピザ屋で働くピザ作りに情熱を燃やす先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/ed/65722_crt_ICJoC.jpg",
+        "link": "https://bgm.tv/character/65722",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

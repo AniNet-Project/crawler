@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38667",
+        "label": "早崎友梨音",
+        "info": "凄まじい人気を誇るグラビアアイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/18/38667_crt_805e8.jpg",
+        "link": "https://bgm.tv/character/38667",
+        "categorie": "person"
+      },
+      {
+        "id": "38668",
+        "label": "早崎実桜",
+        "info": "ミス大学に選ばれるほどのクール系美人な女子大生。 男性人気も高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/ab/38668_crt_wIujP.jpg",
+        "link": "https://bgm.tv/character/38668",
+        "categorie": "person"
+      },
+      {
+        "id": "38666",
+        "label": "早崎乃絵実",
+        "info": "主人公とは母違いの長女。 フランス人とのハーフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/36/38666_crt_vsJdr.jpg",
+        "link": "https://bgm.tv/character/38666",
+        "categorie": "person"
+      },
+      {
+        "id": "38669",
+        "label": "早崎菜留",
+        "info": "学園でも人気のメガネ系文学美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/72/38669_crt_7RgbB.jpg",
+        "link": "https://bgm.tv/character/38669",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

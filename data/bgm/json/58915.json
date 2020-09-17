@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "85770",
+        "label": "驴子",
+        "info": "一头贫嘴的驴，史瑞克的损友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/c0/85770_crt_2kI27.jpg",
+        "link": "https://bgm.tv/character/85770",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51444",
+        "label": "本田ななみ",
+        "info": "秀一の最愛の妻。家庭的で明るく優しい性格の持ち主で、夫である秀一を精一杯の愛情で支えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/68/51444_crt_5pWKn.jpg",
+        "link": "https://bgm.tv/character/51444",
+        "categorie": "person"
+      },
+      {
+        "id": "51445",
+        "label": "白川ちひろ",
+        "info": "ななみの妹で主人公にとっては義理の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/48/51445_crt_RyjRy.jpg",
+        "link": "https://bgm.tv/character/51445",
+        "categorie": "person"
+      },
+      {
+        "id": "51446",
+        "label": "落合美咲",
+        "info": "ななみの学生時代からの親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/6a/51446_crt_nGU1B.jpg",
+        "link": "https://bgm.tv/character/51446",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

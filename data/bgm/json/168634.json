@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41814",
+        "label": "神无希",
+        "info": "本作女主角。连载时的设定是高中3年级，17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a5/41814_crt_5g0BF.jpg?r=1587000411",
+        "link": "https://bgm.tv/character/41814",
+        "categorie": "person"
+      },
+      {
+        "id": "41815",
+        "label": "宫田沙耶香",
+        "info": "本作第二女主角。天才型的柔道少女。与希同样以成为竞女为目标。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/cc/41815_crt_BbvdZ.jpg?r=1587000461",
+        "link": "https://bgm.tv/character/41815",
+        "categorie": "person"
+      },
+      {
+        "id": "41816",
+        "label": "青叶风音",
+        "info": "广岛县出身。18歳。特征是绑着双马尾和娇小的身材。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/85/41816_crt_hq5nN.jpg?r=1587741737",
+        "link": "https://bgm.tv/character/41816",
+        "categorie": "person"
+      },
+      {
+        "id": "41817",
+        "label": "丰口能",
+        "info": "鹿儿岛县出身。18歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/a4/41817_crt_8Tb3i.jpg?r=1587743111",
+        "link": "https://bgm.tv/character/41817",
+        "categorie": "person"
+      },
+      {
+        "id": "46089",
+        "label": "河合花火",
+        "info": "实力顺位排名第3。京都府出身。初登场时为17歳。有担任过垒球投手的经验。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/d4/46089_crt_d255n.jpg?r=1587745410",
+        "link": "https://bgm.tv/character/46089",
+        "categorie": "person"
+      },
+      {
+        "id": "46090",
+        "label": "日下生美樱",
+        "info": "实力顺位排名第1。20歳。母亲为英国混血儿。前日本仰泳比赛的金牌选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/b1/46090_crt_9668a.jpg?r=1588000884",
+        "link": "https://bgm.tv/character/46090",
+        "categorie": "person"
+      },
+      {
+        "id": "46091",
+        "label": "六堂铃",
+        "info": "实力顺位排名第2。兵库县出身。18歳。昵称“铃铃”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/e1/46091_crt_AzL97.jpg?r=1588412999",
+        "link": "https://bgm.tv/character/46091",
+        "categorie": "person"
+      },
+      {
+        "id": "47916",
+        "label": "藤崎琴音",
+        "info": "实力顺位排名第4。广岛县出身。18歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/32/47916_crt_WZ2kq.jpg?r=1588414424",
+        "link": "https://bgm.tv/character/47916",
+        "categorie": "person"
+      },
+      {
+        "id": "47794",
+        "label": "吉田敦子",
+        "info": "实力顺位排名第7。京都府出身。21歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/fa/47794_crt_HyoJj.jpg?r=1588422220",
+        "link": "https://bgm.tv/character/47794",
+        "categorie": "person"
+      },
+      {
+        "id": "49068",
+        "label": "月下兔",
+        "info": "神無のぞみの同期生で、瀬戸内競女養成学校に所属する21歳の女性。競女選手としてのタイプはアウトファイター。前髪を目が隠れそうなほど伸ばし、腰のあたりまで伸ばしたウェーブがかった紫色のロングヘアをツインテールにしている。うさぎの耳のついたフードのある服を好み、いつもフードで顔を隠し、髪の毛もフードの中にしまっていることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/9c/49068_crt_UA1Gt.jpg?r=1481223195",
+        "link": "https://bgm.tv/character/49068",
+        "categorie": "person"
+      },
+      {
+        "id": "48894",
+        "label": "坂城真夜",
+        "info": "于骏河竞女养成学校的实力中排名第2。20岁。特征是头上绑着超长的蝴蝶结。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/af/48894_crt_b1Tap.jpg",
+        "link": "https://bgm.tv/character/48894",
+        "categorie": "person"
+      },
+      {
+        "id": "49069",
+        "label": "七濑奈美",
+        "info": "駿河競女養成学校に所属する若い女性。競女選手としてのタイプはカウンター。前髪を目が隠れそうなほど伸ばし、後頭部の髪の毛だけを腰のあたりまで伸ばしたストレートロングヘアをしている。競女選手であるのに加え、歌って踊れるアイドル的存在を目指している、上昇志向の強いプライドの高い人物。本来は努力家で素直な性格だが、高飛車な発言が原因でトラブルを招くことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/17/49069_crt_c5rC0.jpg?r=1481225610",
+        "link": "https://bgm.tv/character/49069",
+        "categorie": "person"
+      },
+      {
+        "id": "49067",
+        "label": "鳳凰院早苗",
+        "info": "駿河競女養成学校に所属する若い女性。競女選手としてのタイプはアウトファイター。前髪を目が隠れそうなほど伸ばし、腰のあたりまで伸ばしたストレートロングヘアを白いカチューシャでまとめている。同期のなかではナンバー3の実力で、アウトファイターでありながらインファイター並みの爆発力も持つ、スピードとパワーを兼ね備えた優秀な選手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/3c/49067_crt_xt2Dm.jpg?r=1481222833",
+        "link": "https://bgm.tv/character/49067",
+        "categorie": "person"
+      },
+      {
+        "id": "47238",
+        "label": "大岛优子",
+        "info": "兵库县出身。22岁。前女子排球选手，有「播磨滩之壁」的外号。拥有高挑的身材和肌肉发达的体格。有相当高的弹跳力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/ff/47238_crt_EG9xs.jpg?r=1475820704",
+        "link": "https://bgm.tv/character/47238",
+        "categorie": "person"
+      },
+      {
+        "id": "47239",
+        "label": "氏部凪",
+        "info": "于入学测验时初次登场担任主考官，选手时代被称为奖金女王「人鱼赛莲」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/9b/47239_crt_57eWk.jpg?r=1475820971",
+        "link": "https://bgm.tv/character/47239",
+        "categorie": "person"
+      },
+      {
+        "id": "47240",
+        "label": "小早川未来",
+        "info": "于入学测验时初次登场担任考官。前S级选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/95/47240_crt_s7nfK.jpg?r=1476414389",
+        "link": "https://bgm.tv/character/47240",
+        "categorie": "person"
+      },
+      {
+        "id": "47241",
+        "label": "白雪京子",
+        "info": "拥有「京都的白熊Lady」外号的现役A级选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/a2/47241_crt_3SV2Q.jpg",
+        "link": "https://bgm.tv/character/47241",
+        "categorie": "person"
+      },
+      {
+        "id": "47242",
+        "label": "佐佐木润",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/4f/47242_crt_Z4VRK.jpg?r=1475819113",
+        "link": "https://bgm.tv/character/47242",
+        "categorie": "person"
+      },
+      {
+        "id": "47243",
+        "label": "盐见里美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/6b/47243_crt_nW3tD.jpg?r=1475818979",
+        "link": "https://bgm.tv/character/47243",
+        "categorie": "person"
+      },
+      {
+        "id": "47244",
+        "label": "鱼谷小百合",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47244",
+        "categorie": "person"
+      },
+      {
+        "id": "47245",
+        "label": "中泽唯",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47245",
+        "categorie": "person"
+      },
+      {
+        "id": "47246",
+        "label": "桥本美步",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47246",
+        "categorie": "person"
+      },
+      {
+        "id": "47247",
+        "label": "冈本水希",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47247",
+        "categorie": "person"
+      },
+      {
+        "id": "47248",
+        "label": "北川冬子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47248",
+        "categorie": "person"
+      },
+      {
+        "id": "47249",
+        "label": "暗云幸子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/47249",
+        "categorie": "person"
+      },
+      {
+        "id": "47250",
+        "label": "三木梦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/29/47250_crt_NQzcK.jpg?r=1475819899",
+        "link": "https://bgm.tv/character/47250",
+        "categorie": "person"
+      },
+      {
+        "id": "47369",
+        "label": "北斗瞳",
+        "info": "于入学测验时初次登场担任考官。前A级选手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/64/47369_crt_oOeQo.jpg?r=1476413077",
+        "link": "https://bgm.tv/character/47369",
+        "categorie": "person"
+      },
+      {
+        "id": "47792",
+        "label": "堀内桃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d3/47792_crt_9R2MK.jpg?r=1477628670",
+        "link": "https://bgm.tv/character/47792",
+        "categorie": "person"
+      },
+      {
+        "id": "47789",
+        "label": "小西春美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/b7/47789_crt_cL2N2.jpg?r=1477627815",
+        "link": "https://bgm.tv/character/47789",
+        "categorie": "person"
+      },
+      {
+        "id": "47790",
+        "label": "根本久瑠瑠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/d0/47790_crt_62O1J.jpg?r=1477628137",
+        "link": "https://bgm.tv/character/47790",
+        "categorie": "person"
+      },
+      {
+        "id": "47791",
+        "label": "五津井奈奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/76/47791_crt_44F7h.jpg?r=1477628382",
+        "link": "https://bgm.tv/character/47791",
+        "categorie": "person"
+      },
+      {
+        "id": "47793",
+        "label": "岛田哀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/e0/47793_crt_tYDLt.jpg?r=1477628704",
+        "link": "https://bgm.tv/character/47793",
+        "categorie": "person"
+      },
+      {
+        "id": "47941",
+        "label": "木村静",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/2a/47941_crt_bhtt3.jpg?r=1478227004",
+        "link": "https://bgm.tv/character/47941",
+        "categorie": "person"
+      },
+      {
+        "id": "47942",
+        "label": "美川玲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/1a/47942_crt_bl28x.jpg?r=1478227618",
+        "link": "https://bgm.tv/character/47942",
+        "categorie": "person"
+      },
+      {
+        "id": "47943",
+        "label": "刻耳柏洛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/c4/47943_crt_9KMEo.jpg?r=1478227954",
+        "link": "https://bgm.tv/character/47943",
+        "categorie": "person"
+      },
+      {
+        "id": "49058",
+        "label": "黒霧綾瀬",
+        "info": "駿河競女養成学校に所属する若い女性。競女選手としてのタイプはインファイター。前髪を右寄りの位置で斜めに分けて目が隠れそうなほど伸ばし、ストレートロングヘアを後頭部でまとめている。強力な自己暗示により、「精霊は実在する」「精霊によって自分は守られている」と思い込むことで筋肉強化を行い、自分のお尻を極端に硬くする「精霊尻」という能力を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/81/49058_crt_497Cp.jpg",
+        "link": "https://bgm.tv/character/49058",
+        "categorie": "person"
+      },
+      {
+        "id": "49246",
+        "label": "小刀沙弥",
+        "info": "瀬戸内養成学校時代、実力No.6で現在A級。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/13/49246_crt_wrvao.jpg",
+        "link": "https://bgm.tv/character/49246",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

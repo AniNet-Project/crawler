@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53890",
+        "label": "高野彩花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/1f/53890_crt_0Aa07.jpg",
+        "link": "https://bgm.tv/character/53890",
+        "categorie": "person"
+      },
+      {
+        "id": "53891",
+        "label": "大泉真衣奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ac/53891_crt_jvXXS.jpg",
+        "link": "https://bgm.tv/character/53891",
+        "categorie": "person"
+      },
+      {
+        "id": "53892",
+        "label": "神井麻纪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c4/53892_crt_hPVkD.jpg",
+        "link": "https://bgm.tv/character/53892",
+        "categorie": "person"
+      },
+      {
+        "id": "53893",
+        "label": "彩花的哥哥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/18/53893_crt_bttXW.jpg",
+        "link": "https://bgm.tv/character/53893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

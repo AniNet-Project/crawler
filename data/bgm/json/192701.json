@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41810",
+        "label": "猎空",
+        "info": "“不用担心，交给我吧！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/94/41810_crt_63268.jpg?r=1488018577",
+        "link": "https://bgm.tv/character/41810",
+        "categorie": "person"
+      },
+      {
+        "id": "45986",
+        "label": "黑百合",
+        "info": "“一枪，一个。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ed/45986_crt_e48w4.jpg?r=1488020994",
+        "link": "https://bgm.tv/character/45986",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

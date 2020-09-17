@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55880",
+        "label": "反田野良",
+        "info": "本編の主人公。パトリシアを助けたことにより好意をもたれ、彼女の眷属にされてしまう。眷属になったときの姿はネコ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/d7/55880_crt_IZMO0.jpg",
+        "link": "https://bgm.tv/character/55880",
+        "categorie": "person"
+      },
+      {
+        "id": "37183",
+        "label": "帕特里夏·奥夫·恩德",
+        "info": "冥界の皇女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/b9/37183_crt_43GCS.jpg",
+        "link": "https://bgm.tv/character/37183",
+        "categorie": "person"
+      },
+      {
+        "id": "37184",
+        "label": "黑木未知",
+        "info": "主人公・ノラの幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/89/37184_crt_17uf5.jpg",
+        "link": "https://bgm.tv/character/37184",
+        "categorie": "person"
+      },
+      {
+        "id": "37185",
+        "label": "夕莉 夏琪",
+        "info": "心穏やかな女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/52/37185_crt_2rxrx.jpg",
+        "link": "https://bgm.tv/character/37185",
+        "categorie": "person"
+      },
+      {
+        "id": "37186",
+        "label": "明日原 优纪",
+        "info": "誰とでも分け隔てなく接する明るい女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/c4/37186_crt_T9beQ.jpg",
+        "link": "https://bgm.tv/character/37186",
+        "categorie": "person"
+      },
+      {
+        "id": "37187",
+        "label": "高田信千奈",
+        "info": "ノラのクラスメイト。 地元で有名なヤクザの娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/6f/37187_crt_HH3TN.jpg",
+        "link": "https://bgm.tv/character/37187",
+        "categorie": "person"
+      },
+      {
+        "id": "37189",
+        "label": "露西亚·奥夫·恩德",
+        "info": "冥界三姉妹の長女。 パトリシアとユウラシアの姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/01/37189_crt_m91S8.jpg",
+        "link": "https://bgm.tv/character/37189",
+        "categorie": "person"
+      },
+      {
+        "id": "37188",
+        "label": "尤菈夏·奥夫·恩德",
+        "info": "地上を滅ぼしに来たパトリシアの妹。 屈託ない明るい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/6e/37188_crt_jsoiO.jpg",
+        "link": "https://bgm.tv/character/37188",
+        "categorie": "person"
+      },
+      {
+        "id": "39310",
+        "label": "田中酱",
+        "info": "ノラのクラスメイト。 心優しい女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/52/39310_crt_86pYB.jpg",
+        "link": "https://bgm.tv/character/39310",
+        "categorie": "person"
+      },
+      {
+        "id": "39311",
+        "label": "井田",
+        "info": "ノラのクラスメイト。 不良。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ee/39311_crt_FO4nG.jpg",
+        "link": "https://bgm.tv/character/39311",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

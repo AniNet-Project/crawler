@@ -1,0 +1,397 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "396",
+        "label": "成步堂龙一",
+        "info": "　　《逆转裁判》系列的主角，在绫里千寻的影响下成为了一名律师，并且由于先后击败御剑怜侍、狩魔豪、狩魔冥等天才检察官而声名鹊起。为人正义、善良，有着出色的逻辑分析能力和优秀的辩护口才，还有一颗相信委托人的心。在真敷扎克案受到陷害而被吊销律师徽章，之后成为一个钢琴师，有个养女成步堂美贯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/78/396_crt_Mm8D4.jpg?r=1550299696",
+        "link": "https://bgm.tv/character/396",
+        "categorie": "person"
+      },
+      {
+        "id": "398",
+        "label": "绫里真宵",
+        "info": "绫里千寻的妹妹，初登场时17岁。现任仓院流灵媒道掌门绫里舞子的女儿，但由于绫里舞子失踪，成为了代理掌门。在其姐过世后留在事务所帮助成步堂龙一。曾多次陷入危机当中。在成步堂龙一遇上困难时，会以灵力召唤已死去的死者帮助破案。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/47/398_crt_OxeeQ.jpg?r=1467823084",
+        "link": "https://bgm.tv/character/398",
+        "categorie": "person"
+      },
+      {
+        "id": "402",
+        "label": "御剑怜侍",
+        "info": "　　御剑怜侍是由日本CAPCOM 推出的法庭游戏《逆转裁判》中主角成步堂龙一的儿时好友以及主要检事之一，同时也是同公司出版的游戏《逆转检事》的主角，有着出色的逻辑分析能力，一丝不苟的性格以及帅气绅士的外表，拥有天才检事的称号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/3f/402_crt_C4EHe.jpg?r=1467823520",
+        "link": "https://bgm.tv/character/402",
+        "categorie": "person"
+      },
+      {
+        "id": "397",
+        "label": "绫里千寻",
+        "info": "初登场时27岁。成步堂龙一的师傅，绫里法律事务所所长，在法律界有一定的名气，2012年2月16日第一次上庭，但受到不小的挫折。在其第二次上庭（2013.4.11）时为成步堂龙一辩护。名句是：“律师无论是在怎样的困境，都要在别人面前展露微笑。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/72/397_crt_JZlGc.jpg?r=1467823152",
+        "link": "https://bgm.tv/character/397",
+        "categorie": "person"
+      },
+      {
+        "id": "401",
+        "label": "丝锯圭介",
+        "info": "派出所的可怜刑警，常常负责杀人案的初步调查。没有什么推理头脑，有点健忘，但“调查”案件时却又很有干劲，是个对于刑警工作很有热诚的人物。曾经被狩魔冥装上追踪器，但仍然懵然不知。口头禅传染给了曾是警队后辈的须须木真子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/8e/401_crt_Nhji0.jpg?r=1532846972",
+        "link": "https://bgm.tv/character/401",
+        "categorie": "person"
+      },
+      {
+        "id": "400",
+        "label": "矢张政志",
+        "info": "成步堂龙一与御剑怜侍的儿时好友，小学同学，经常转职，给人轻浮和脚不踏实地的感觉，不知为何经常被牵扯到案件中。人称麻烦制造者。“矢张(Yahari)”的日文发音同“果然（yahari——\"yabbari\"的弱式/古式）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/92/400_crt_L5VzB.jpg?r=1467823482",
+        "link": "https://bgm.tv/character/400",
+        "categorie": "person"
+      },
+      {
+        "id": "20783",
+        "label": "戈德",
+        "info": "《逆转裁判3》登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/c3/20783_crt_2iFG4.jpg?r=1532846956",
+        "link": "https://bgm.tv/character/20783",
+        "categorie": "person"
+      },
+      {
+        "id": "399",
+        "label": "绫里春美",
+        "info": "《逆转裁判2》首次登场，绫里千寻与真宵的表妹，分家的女儿。见习灵媒师，拥有比真宵更强大的灵力，赋予勾玉破解“心灵枷锁”的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/22/399_crt_5R8iJ.jpg?r=1532847064",
+        "link": "https://bgm.tv/character/399",
+        "categorie": "person"
+      },
+      {
+        "id": "20315",
+        "label": "审判长",
+        "info": "全シリーズに登場する地方裁判所の裁判長。本名、年齢共に不明。スキンヘッドと灰色の髭が特徴で、シリーズを通して外見に一切の変化が見られない。『2』の第1話に成り行きで成歩堂に名刺を渡したが、草書風であまりの達筆のために読めなかった。他人の意見に左右されやすく、審理の迷走を引き起こす人物だが、最終的には必ず正しい判決を導き出す。かなりの天然ボケで、『蘇る』ではID番号を1桁目から読み間違えるほどである。気が強いほうとは言えず、検事の横柄な態度や強面の証人に尻込みすることもある。同じ地方裁判所で裁判官を務める弟がおり、たまに話題に上る孫は後述の「マキシミリアン・ギャラクティカ」および「ガリューウエーブ」のファンで、妻は赤いマニキュアを付けているとの事。また、趣味がサーフィンであることが漫画版で明らかになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/3f/20315_crt_3S3e6.jpg?r=1550319364",
+        "link": "https://bgm.tv/character/20315",
+        "categorie": "person"
+      },
+      {
+        "id": "42896",
+        "label": "须须木真子",
+        "info": "《逆转裁判2》第1话《失去的逆转》的被告，女警，丝锯圭介刑警的后辈，初登场时22岁，人称“不幸女神”“堕天使”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/8e/42896_crt_2A7BS.jpg",
+        "link": "https://bgm.tv/character/42896",
+        "categorie": "person"
+      },
+      {
+        "id": "42898",
+        "label": "诸平野贵雅",
+        "info": "《逆转裁判2》第一话《失去的逆转》的目击者，在公园里游荡的“准大学生”，22岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/59/42898_crt_16b8n.jpg?r=1538911963",
+        "link": "https://bgm.tv/character/42898",
+        "categorie": "person"
+      },
+      {
+        "id": "405",
+        "label": "亚内武文",
+        "info": "初登场时52岁。被称为“新人杀手”的检察官，极度自信，对于新晋律师绝不手下留情。成步堂第一次上庭的对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/83/405_crt_aEMAa.jpg",
+        "link": "https://bgm.tv/character/405",
+        "categorie": "person"
+      },
+      {
+        "id": "42897",
+        "label": "町尾守",
+        "info": "《逆转裁判2》第一话《失去的逆转》的被害人，派出所工作的警察官，享年30岁。喜欢棒球，喜欢黄色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/0f/42897_crt_9Yy99.jpg",
+        "link": "https://bgm.tv/character/42897",
+        "categorie": "person"
+      },
+      {
+        "id": "44548",
+        "label": "星威岳哀牙",
+        "info": "《逆转裁判3》第2话《被盗的逆转》登场，私人侦探，星威岳侦探事务所的负责人，自称是名侦探，假面Mask的对手。34岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/79/44548_crt_m44xc.jpg",
+        "link": "https://bgm.tv/character/44548",
+        "categorie": "person"
+      },
+      {
+        "id": "44551",
+        "label": "天杉优作",
+        "info": "《逆转裁判3》第2话《被盗的逆转》的被告，希华的丈夫。自称是假面Mask，性格消极，23岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/9f/44551_crt_25o4M.jpg",
+        "link": "https://bgm.tv/character/44551",
+        "categorie": "person"
+      },
+      {
+        "id": "44552",
+        "label": "天杉希华",
+        "info": "《逆转裁判3》第2话《被盗的逆转》登场，天杉优作的妻子，坚定认为优作并非怪人假面Mask。23岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/ac/44552_crt_5n5K6.jpg",
+        "link": "https://bgm.tv/character/44552",
+        "categorie": "person"
+      },
+      {
+        "id": "42914",
+        "label": "华宫雾绪",
+        "info": "《逆转裁判2》第四话《再见，逆转》出场的目击者，王都楼真悟的经纪人。初登场时23岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/64/42914_crt_MQGRv.jpg",
+        "link": "https://bgm.tv/character/42914",
+        "categorie": "person"
+      },
+      {
+        "id": "44554",
+        "label": "毒岛黒兵卫",
+        "info": "《逆转裁判3》第2话《被盗的逆转》的被害者，KB保安公司的社长。享年48。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/b8/44554_crt_Ur974.jpg",
+        "link": "https://bgm.tv/character/44554",
+        "categorie": "person"
+      },
+      {
+        "id": "404",
+        "label": "狩魔冥",
+        "info": "狩魔豪的女儿，在《逆转裁判2》第2章《再会，然后逆转》中初登场时18岁。年仅13岁就在美国当上检察官，未曾尝过败绩得天才，受父亲影响对“完美”二字也是非常执着。爱带皮鞭上庭，无论审判官、证人或是律师，一言不合就拿皮鞭乱抽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/43/404_crt_B9MbJ.jpg?r=1467823640",
+        "link": "https://bgm.tv/character/404",
+        "categorie": "person"
+      },
+      {
+        "id": "403",
+        "label": "狩魔豪",
+        "info": "检察官，御剑怜侍的师父，狩魔冥的父亲。初登场时65岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/4c/403_crt_IZvX6.jpg?r=1467823461",
+        "link": "https://bgm.tv/character/403",
+        "categorie": "person"
+      },
+      {
+        "id": "41917",
+        "label": "御剑信",
+        "info": "故人，“DL6号事件”的死者，御剑怜侍的父亲，生前是律师。享年35。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/31/41917_crt_ZvP9A.jpg?r=1541243394",
+        "link": "https://bgm.tv/character/41917",
+        "categorie": "person"
+      },
+      {
+        "id": "67159",
+        "label": "城楼须腹美",
+        "info": "中学生の御剣がショッピングモールで遭遇した貴婦人。迷子になっていた犬・ナパームを御剣が発見した際に飼い主だと名乗るが、実際はラジオでナパームに50万円の懸賞金が懸けられた事を知り捕まえようとしただけであり、そこから本当の飼い主ではない事を御剣に見抜かれる。その後、本性を現し武力行使に出ようとするも、駆けつけた豪に諌められ、泣きながらその場を立ち去った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/45/67159_crt_ZUlVu.jpg",
+        "link": "https://bgm.tv/character/67159",
+        "categorie": "person"
+      },
+      {
+        "id": "67160",
+        "label": "电台DJ 友利奈",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67160",
+        "categorie": "person"
+      },
+      {
+        "id": "67161",
+        "label": "娜帕姆",
+        "info": "ショッピングモールで迷子になっていたポメラニアン犬。飼い主から50万の懸賞金が懸けられている。お腹のハートマークのような模様が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/70/67161_crt_2s83s.jpg",
+        "link": "https://bgm.tv/character/67161",
+        "categorie": "person"
+      },
+      {
+        "id": "44558",
+        "label": "本土坊薰",
+        "info": "《逆转裁判3》第3话《逆转的食谱》的目击者。法式餐厅“吐丽美庵”的店长，39岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/7d/44558_crt_c2C97.jpg",
+        "link": "https://bgm.tv/character/44558",
+        "categorie": "person"
+      },
+      {
+        "id": "44559",
+        "label": "五十岚将兵",
+        "info": "《逆转裁判3》第3话《逆转的食谱》登场，因为喜欢女招待的制服而成为吐丽美庵的常客，异常顽固且暴躁，68岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/02/44559_crt_Idfob.jpg",
+        "link": "https://bgm.tv/character/44559",
+        "categorie": "person"
+      },
+      {
+        "id": "44562",
+        "label": "鹿羽恨",
+        "info": "《逆转裁判3》第3话《逆转的食谱》登场，借贷公司“铿银斋”（「カリヨーゼ」，又译卡琉哲）的社员，鹿羽权太的孙女，爱慕芝九蔵虎之助。25岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/bb/44562_crt_PFrpI.jpg",
+        "link": "https://bgm.tv/character/44562",
+        "categorie": "person"
+      },
+      {
+        "id": "44561",
+        "label": "芝九蔵虎之助",
+        "info": "《逆转裁判3》第3话《逆转的食谱》登场，借贷公司“铿银斋”（「カリヨーゼ」，又译卡琉哲）的社长，被称作“难波的钱老虎”，42岁。发型与成步堂想同，信条是“三日坊主”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/e3/44561_crt_P0PyB.jpg",
+        "link": "https://bgm.tv/character/44561",
+        "categorie": "person"
+      },
+      {
+        "id": "44557",
+        "label": "冈高夫",
+        "info": "《逆转裁判3》第3话《逆转的食谱》的被害者，“巴古达斯”公司的优秀程序员，嗜好各类赌博。享年28。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/f5/44557_crt_JdJS5.jpg",
+        "link": "https://bgm.tv/character/44557",
+        "categorie": "person"
+      },
+      {
+        "id": "67622",
+        "label": "裁牙由三郎",
+        "info": "アメリカ司法参謀本部局の検事。リッチナンデの指名によって、再審理の裁判の検察席に立つことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/04/67622_crt_7WXC2.jpg",
+        "link": "https://bgm.tv/character/67622",
+        "categorie": "person"
+      },
+      {
+        "id": "67623",
+        "label": "哈布里·利奇南德",
+        "info": "ナーリキン共和国の大富豪で《銀星号》のオーナー。１年前、ある殺人事件で有罪判決を受け、移送中に脱走して《銀星号》を占拠。無実を主張して再審理を要求する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/6b/67623_crt_6l4Mm.jpg",
+        "link": "https://bgm.tv/character/67623",
+        "categorie": "person"
+      },
+      {
+        "id": "67624",
+        "label": "莱吉娜·罗柯莫提",
+        "info": "《銀星号》の乗務員。ナーリキン共和国の人間で、客室まわりをとりしきっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/7d/67624_crt_ob7OO.jpg",
+        "link": "https://bgm.tv/character/67624",
+        "categorie": "person"
+      },
+      {
+        "id": "67625",
+        "label": "里克·斯蒂姆",
+        "info": "《銀星号》の乗務員。レジーナと同じナーリキン共和国の人間で、乗務員のリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/a7/67625_crt_XbSNN.jpg",
+        "link": "https://bgm.tv/character/67625",
+        "categorie": "person"
+      },
+      {
+        "id": "67626",
+        "label": "贾努特·潘塔贝诺",
+        "info": "《銀星号》１号車の招待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/a2/67626_crt_AKWV0.jpg",
+        "link": "https://bgm.tv/character/67626",
+        "categorie": "person"
+      },
+      {
+        "id": "67627",
+        "label": "巴塔黛·潘塔贝诺",
+        "info": "《銀星号》１号車の招待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/1e/67627_crt_h3A3b.jpg",
+        "link": "https://bgm.tv/character/67627",
+        "categorie": "person"
+      },
+      {
+        "id": "67628",
+        "label": "埃德加·皮斯顿",
+        "info": "《銀星号》１号車の招待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/6a/67628_crt_907RD.jpg",
+        "link": "https://bgm.tv/character/67628",
+        "categorie": "person"
+      },
+      {
+        "id": "67629",
+        "label": "阿兰·西林德",
+        "info": "《銀星号》１号車の招待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/27/67629_crt_Bc1Np.jpg",
+        "link": "https://bgm.tv/character/67629",
+        "categorie": "person"
+      },
+      {
+        "id": "67630",
+        "label": "盖尔·盖里克",
+        "info": "《銀星号》１号車の招待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/7a/67630_crt_GZfz2.jpg",
+        "link": "https://bgm.tv/character/67630",
+        "categorie": "person"
+      },
+      {
+        "id": "67631",
+        "label": "エンドルー・カネスキー",
+        "info": "１年前、アメリカで起こった殺人事件の被害者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/ae/67631_crt_Zds4K.jpg",
+        "link": "https://bgm.tv/character/67631",
+        "categorie": "person"
+      },
+      {
+        "id": "40588",
+        "label": "星影宇宙之介",
+        "info": "《逆转裁判》第2话《逆转姐妹》与第4话《逆转，然后再见》登场，当时64岁；《逆转裁判3》第1话《回忆的逆转》中作为千寻职业生涯第二次出庭辩护的助手登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/23/40588_crt_fW21S.jpg",
+        "link": "https://bgm.tv/character/40588",
+        "categorie": "person"
+      },
+      {
+        "id": "43823",
+        "label": "吞田菊三",
+        "info": "《逆转裁判3》第1话《回忆中的逆转》的被害者，勇盟大学药学部药科学专业四年级在读，千奈美的前男友。享年22。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/65/43823_crt_7h33T.jpg",
+        "link": "https://bgm.tv/character/43823",
+        "categorie": "person"
+      },
+      {
+        "id": "43824",
+        "label": "美柳千奈美",
+        "info": "《逆转裁判3》登场，五年前是勇盟大学文学部3年级的在读大学生，当时20岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/95/43824_crt_AGv1R.jpg",
+        "link": "https://bgm.tv/character/43824",
+        "categorie": "person"
+      },
+      {
+        "id": "42900",
+        "label": "绫里贵美子",
+        "info": "《逆转裁判2》第二话《再会，然后逆转》出场，绫里春美的母亲，绫里舞子的姐姐。年龄不详。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/e4/42900_crt_OW09B.jpg",
+        "link": "https://bgm.tv/character/42900",
+        "categorie": "person"
+      },
+      {
+        "id": "44567",
+        "label": "尾并田美散",
+        "info": "《逆转裁判3》第4话《初始的逆转》的被告，绫里千寻首次辩护的对象，逃狱的死囚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/5b/44567_crt_WU41F.jpg",
+        "link": "https://bgm.tv/character/44567",
+        "categorie": "person"
+      },
+      {
+        "id": "44569",
+        "label": "美柳勇希",
+        "info": "《逆转裁判3》第4话《初始的逆转》的被害者。女警，巡查部长，美柳千奈美的姐姐。五年前（即《逆转裁判3》时点的十一年前）作为决定性的证人使尾并田美散因绑架杀人案被判处死刑。享年23。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/21/44569_crt_77MiV.jpg",
+        "link": "https://bgm.tv/character/44569",
+        "categorie": "person"
+      },
+      {
+        "id": "43826",
+        "label": "彩芽",
+        "info": "《逆转裁判3》第5话《华丽的逆转》的被告，深山寺院“叶樱院”的尼姑。25岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/88/43826_crt_4ls20.jpg",
+        "link": "https://bgm.tv/character/43826",
+        "categorie": "person"
+      },
+      {
+        "id": "44571",
+        "label": "毗忌尼",
+        "info": "《逆转裁判3》第5话《华丽的逆转》的目击者，灵行道场“叶樱院”的住持，仓流院灵媒道的分家，名字是作为尼姑的法名。48岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/46/44571_crt_D7dNu.jpg",
+        "link": "https://bgm.tv/character/44571",
+        "categorie": "person"
+      },
+      {
+        "id": "77213",
+        "label": "天流斋绘里守",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/ce/77213_crt_jqrJG.jpg",
+        "link": "https://bgm.tv/character/77213",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

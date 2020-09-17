@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64643",
+        "label": "翠川诚",
+        "info": "警視庁の嘱託特殊捜査官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/22/64643_crt_j8cJs.jpg",
+        "link": "https://bgm.tv/character/64643",
+        "categorie": "person"
+      },
+      {
+        "id": "64644",
+        "label": "莎拉·科波拉",
+        "info": "記憶をなくした女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/46/64644_crt_x3xuX.jpg",
+        "link": "https://bgm.tv/character/64644",
+        "categorie": "person"
+      },
+      {
+        "id": "64645",
+        "label": "杰克·诺曼",
+        "info": "元傭兵でエージェント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/e0/64645_crt_8RIXZ.jpg",
+        "link": "https://bgm.tv/character/64645",
+        "categorie": "person"
+      },
+      {
+        "id": "66097",
+        "label": "克里斯托弗·布兰特",
+        "info": "物理学・工学・コンピューターサイエンス等、膨大な知識を持つ『総合科学者』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/ff/66097_crt_699jf.jpg",
+        "link": "https://bgm.tv/character/66097",
+        "categorie": "person"
+      },
+      {
+        "id": "66098",
+        "label": "刘天华",
+        "info": "ヒューロン幹部社員（セキュリティーオフィサー=警備部門責任者）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/b6/66098_crt_3010S.jpg",
+        "link": "https://bgm.tv/character/66098",
+        "categorie": "person"
+      },
+      {
+        "id": "66099",
+        "label": "国木田慈恩",
+        "info": "マコトのハッカー時代からの仲間。公文書の偽造などを生業とする『偽造屋』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/5f/66099_crt_Mt526.jpg",
+        "link": "https://bgm.tv/character/66099",
+        "categorie": "person"
+      },
+      {
+        "id": "66096",
+        "label": "汉克·约翰逊",
+        "info": "元Speck Ops（米国特殊部隊）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/d0/66096_crt_p3HKl.jpg",
+        "link": "https://bgm.tv/character/66096",
+        "categorie": "person"
+      },
+      {
+        "id": "64646",
+        "label": "人工知能ADA",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/20/64646_crt_H2qT9.jpg",
+        "link": "https://bgm.tv/character/64646",
+        "categorie": "person"
+      },
+      {
+        "id": "53208",
+        "label": "绊爱",
+        "info": "はじめまして！バーチャルYouTuberのキズナアイです(o・v・o)♪",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/6a/53208_crt_47wB0.jpg?r=1519108462",
+        "link": "https://bgm.tv/character/53208",
+        "categorie": "person"
+      },
+      {
+        "id": "19137",
+        "label": "欧洲核子研究组织",
+        "info": "欧洲核子研究组织，通常被简称为CERN ，是世界上最大型的粒子物理学实验室，也是万维网的发祥地。它整个机构位于瑞士日内瓦西部接壤法国的边境。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/76/19137_crt_J2ork.jpg",
+        "link": "https://bgm.tv/character/19137",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

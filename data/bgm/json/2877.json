@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25176",
+        "label": "兰堂梨乃",
+        "info": "本作的主角，登场时14岁，宫神学园第5期，中二生。自从母亲在一年前去世后，举目无亲的她因为积蓄耗尽，逼于无奈接受神秘笔友“波比特”的帮助，转到宫神学园读书。她在转校首天就离奇地被选为班长，并且成为学生会的书记。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/a2/25176_crt_3Yp3m.jpg?r=1400874735",
+        "link": "https://bgm.tv/character/25176",
+        "categorie": "person"
+      },
+      {
+        "id": "4740",
+        "label": "銀河久遠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/30/4740_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4740",
+        "categorie": "person"
+      },
+      {
+        "id": "4741",
+        "label": "プッチャン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/58/4741_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4741",
+        "categorie": "person"
+      },
+      {
+        "id": "4742",
+        "label": "金城奈々穂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/20/4742_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4742",
+        "categorie": "person"
+      },
+      {
+        "id": "4743",
+        "label": "飛田小百合",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/9e/4743_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4743",
+        "categorie": "person"
+      },
+      {
+        "id": "4744",
+        "label": "矩継琴葉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/77/4744_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4744",
+        "categorie": "person"
+      },
+      {
+        "id": "4746",
+        "label": "シンディ真鍋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/90/4746_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4746",
+        "categorie": "person"
+      },
+      {
+        "id": "4747",
+        "label": "平田わかな",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/45/4747_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4747",
+        "categorie": "person"
+      },
+      {
+        "id": "4745",
+        "label": "和泉香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/b6/4745_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4745",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

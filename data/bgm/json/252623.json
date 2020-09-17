@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58648",
+        "label": "熊仓夜明",
+        "info": "主人公のクラスメイトで、２年A組の「SSRキャラ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/8b/58648_crt_N3Mmh.jpg",
+        "link": "https://bgm.tv/character/58648",
+        "categorie": "person"
+      },
+      {
+        "id": "58649",
+        "label": "片桐つばめ",
+        "info": "夜明に従い、かいがいしく世話を焼く上級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/60/58649_crt_wxQH8.jpg",
+        "link": "https://bgm.tv/character/58649",
+        "categorie": "person"
+      },
+      {
+        "id": "58651",
+        "label": "千雪灯子",
+        "info": "保健室を仮眠所にする常習犯。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/40/58651_crt_5R544.jpg",
+        "link": "https://bgm.tv/character/58651",
+        "categorie": "person"
+      },
+      {
+        "id": "58652",
+        "label": "小鳥谷凛空",
+        "info": "しっかり者で面倒見のよい出来た妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/e7/58652_crt_gP147.jpg",
+        "link": "https://bgm.tv/character/58652",
+        "categorie": "person"
+      },
+      {
+        "id": "58650",
+        "label": "花塚藍果",
+        "info": "主人公の従妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/14/58650_crt_UIUR9.jpg",
+        "link": "https://bgm.tv/character/58650",
+        "categorie": "person"
+      },
+      {
+        "id": "58653",
+        "label": "船生紫子",
+        "info": "生真面目でくそまじめで融通のきかない性格の生徒会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/32/58653_crt_VO777.jpg",
+        "link": "https://bgm.tv/character/58653",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

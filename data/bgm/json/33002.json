@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1137",
+        "label": "早坂日和",
+        "info": "和主角青梅竹马的同级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/1c/1137_IYX2h.jpg",
+        "link": "https://bgm.tv/character/1137",
+        "categorie": "person"
+      },
+      {
+        "id": "1138",
+        "label": "片瀬雪希",
+        "info": "比主角小一岁的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/e0/1138_3kQiF.jpg",
+        "link": "https://bgm.tv/character/1138",
+        "categorie": "person"
+      },
+      {
+        "id": "1139",
+        "label": "小野崎清香",
+        "info": "主角的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/42/1139_84UGk.jpg",
+        "link": "https://bgm.tv/character/1139",
+        "categorie": "person"
+      },
+      {
+        "id": "1140",
+        "label": "进藤睦月",
+        "info": "与妹妹雪希同班的学妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/48/1140_9ebw0.jpg",
+        "link": "https://bgm.tv/character/1140",
+        "categorie": "person"
+      },
+      {
+        "id": "1141",
+        "label": "神津麻美",
+        "info": "比主角年长的学姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/f5/1141_XW9e0.jpg",
+        "link": "https://bgm.tv/character/1141",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58840",
+        "label": "犬の飼い主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/b1/58840_crt_KqBkL.jpg",
+        "link": "https://bgm.tv/character/58840",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

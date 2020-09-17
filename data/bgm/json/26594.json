@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10143",
+        "label": "アレックス・ライガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/8b/10143_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10143",
+        "categorie": "person"
+      },
+      {
+        "id": "10142",
+        "label": "シュン・ノノムラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/6f/10142_crt_dzv6G.jpg",
+        "link": "https://bgm.tv/character/10142",
+        "categorie": "person"
+      },
+      {
+        "id": "10144",
+        "label": "レイチェル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/47/10144_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10144",
+        "categorie": "person"
+      },
+      {
+        "id": "10145",
+        "label": "メリンダ・ハースト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/20/10145_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10145",
+        "categorie": "person"
+      },
+      {
+        "id": "10146",
+        "label": "ドグ・マッコイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/2a/10146_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10146",
+        "categorie": "person"
+      },
+      {
+        "id": "10147",
+        "label": "タイゾー・ノノムラ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/10147",
+        "categorie": "person"
+      },
+      {
+        "id": "10148",
+        "label": "マックス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/45/10148_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10148",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

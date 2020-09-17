@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21410",
+        "label": "七濑恋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/74/21410_crt_zx4Qh.jpg?r=1379494202",
+        "link": "https://bgm.tv/character/21410",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

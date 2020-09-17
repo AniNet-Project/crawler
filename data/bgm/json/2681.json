@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2497",
+        "label": "白河小鸟",
+        "info": "誰にでも優しく歌が上手くその上美人で成績も優秀な学園のアイドル。風見学園付属と本校の両方の学生から人気があり、非公式ファンクラブの存在さえ仄めかされる。近づきにくいように見えて話して見ると実は初対面の相手にも気さくに接するさわやかな少女である。チャームポイントである帽子は親からの薦めで所属している聖歌隊のものであり、帽子集めが趣味である。好きなものは甘い物全般、桜の花、オレンジジュース。人混み、犬、辛い物全般が苦手である。4人家族であり、純一のクラス3年1組の担任白河暦は義姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/fc/2497_crt_anidb.jpg?r=1496766736",
+        "link": "https://bgm.tv/character/2497",
+        "categorie": "person"
+      },
+      {
+        "id": "2500",
+        "label": "朝仓纯一",
+        "info": "ゲーム本編およびアニメ一作目（俗称ファーストシーズン）では風見学園付属の3年1組在籍（出席番号は常に1番）。両親は海外へ赴任中で、血の繋がらない妹（誕生日が同じなので表向きは似ていない双子で通している）朝倉音夢と共に初音島で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/69/2500_crt_z3393.jpg",
+        "link": "https://bgm.tv/character/2500",
+        "categorie": "person"
+      },
+      {
+        "id": "2498",
+        "label": "水越真子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/f7/2498_crt_anidb.jpg?r=1496766821",
+        "link": "https://bgm.tv/character/2498",
+        "categorie": "person"
+      },
+      {
+        "id": "2499",
+        "label": "天枷美春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/10/2499_crt_anidb.jpg?r=1496766852",
+        "link": "https://bgm.tv/character/2499",
+        "categorie": "person"
+      },
+      {
+        "id": "20250",
+        "label": "朝仓音梦",
+        "info": "父母早年因车祸丧生，之后被朝仓家收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/d5/20250_crt_wYB98.jpg?r=1496766642",
+        "link": "https://bgm.tv/character/20250",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

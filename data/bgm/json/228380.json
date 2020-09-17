@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9810",
+        "label": "一之濑海",
+        "info": "男主角，昵称“阿海”。天才钢琴少年。 小时候透过弹奏一台位于森林的废弃特殊钢琴、因而锻炼出他对于钢琴的天赋。小学5年级时（故事开始时）不但遇见同为走上钢琴之路的同学——雨宫修平，也偶然遇见废弃钢琴的原主人阿字野壮介、并因此而参与钢琴大赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/94/9810_crt_5o4BB.jpg",
+        "link": "https://bgm.tv/character/9810",
+        "categorie": "person"
+      },
+      {
+        "id": "26630",
+        "label": "雨宫修平",
+        "info": "阿海的好友和对手，出生于钢琴世家，是名钢琴家雨宫洋一郎之子，从小即接受钢琴的英才教育，个性温和敦厚。小时候因家庭因素转学到阿海就读的学校而结识阿海。在第56次全日本钢琴比赛・中南部地区预选中取得满分而进入全国大赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/be/26630_crt_BMEKg.jpg?r=1459178100",
+        "link": "https://bgm.tv/character/26630",
+        "categorie": "person"
+      },
+      {
+        "id": "60638",
+        "label": "阿字野壮介",
+        "info": "カイの小学校の音楽教師。かつての天才ピアニスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/95/60638_crt_J9PTk.jpg",
+        "link": "https://bgm.tv/character/60638",
+        "categorie": "person"
+      },
+      {
+        "id": "27014",
+        "label": "丸山誉子",
+        "info": "钢琴大赛上海结识的女孩，贵族家的孩子，心高气傲，但一遇比赛就紧张，（把无法取胜的原因归咎于雨宫的参赛）只有在她家的厕所里抚摸她的宠物狗心情才能平静，她把海当作她家的狗狗温蒂借以平复紧张的心情，被海称为“厕所公主”。在海的帮助下，克服了紧张的心理，弹出了自己认为最完美的曲子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ab/27014_crt_JBH42.jpg?r=1411638259",
+        "link": "https://bgm.tv/character/27014",
+        "categorie": "person"
+      },
+      {
+        "id": "62056",
+        "label": "庞威",
+        "info": "ショパン・コンクール参加者。中国人のピアニスト。幼い頃に阿字野の演奏を見てから彼を目標にして這い上がってきた為、自分でも意識してないが阿字野の弟子のカイにライバル心を抱くことになる。ショパン・コンクールのファイナルステージで初めて尊敬する阿字野と会話し自分の抱えていたわだかまりがとけて自身本来のピアノを弾くことができた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/46/62056_crt_ztIPK.jpg?r=1528736812",
+        "link": "https://bgm.tv/character/62056",
+        "categorie": "person"
+      },
+      {
+        "id": "62057",
+        "label": "雷夫·斯曼诺夫斯基",
+        "info": "ショパンコンクールの参加者。ポーランド人のピアニスト。祖父はかつて偉大なピアニストだったディミトリ・シマノフスキ。ひとつ上の姉のエミリア・シマノフスカもピアニストだったが数年前の事故で寝たきりになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/9e/62057_crt_fLrl2.jpg",
+        "link": "https://bgm.tv/character/62057",
+        "categorie": "person"
+      },
+      {
+        "id": "62058",
+        "label": "索菲·奥梅索",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/48/62058_crt_gG9FA.jpg?r=1528736949",
+        "link": "https://bgm.tv/character/62058",
+        "categorie": "person"
+      },
+      {
+        "id": "62059",
+        "label": "卡罗尔·亚当斯基",
+        "info": "ショパンコンクールの参加者。ポーランド人のピアニスト。「ショパンの生まれ変わり」と称されている。作中では予想に反して第一次予選で落ちてしまうものの、その直後の修平との会話で、修平が覚醒するきっかけを作った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/89/62059_crt_Rh878.jpg",
+        "link": "https://bgm.tv/character/62059",
+        "categorie": "person"
+      },
+      {
+        "id": "62060",
+        "label": "平田光生",
+        "info": "ショパン・コンクール参加者。カイや雨宮と年齢は一緒。ポーランドに留学している。最年少入賞を狙っていたが、予備選であがってしまい、まともな演奏もできなかった。その後は何故かカイと一緒に行動している。悪い人間ではないものの、度々無神経な発言をする悪癖がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/81/62060_crt_zj00B.jpg",
+        "link": "https://bgm.tv/character/62060",
+        "categorie": "person"
+      },
+      {
+        "id": "62061",
+        "label": "佐贺武士",
+        "info": "浪花音楽大学学長代理。少年時代、阿字野に憧れていた。彼自身も若いときにはピアニストを目指したが、指を痛め断念したいきさつを持つ。第56回全日本ピアノコンクール・中部南地区でカイの演奏を聞いて驚愕したが、審査基準に従い0点と採点した。しかし本選で丸山誉子の特別賞受賞を提案して、「一線を越えた音楽家」に理解を示している。ショパンコンクール予選で誉子の腱鞘炎を見抜き、指導者である司馬に本選の辞退を進言するなど、物語上の役割はとても大きい。自分の心には非常に素直で歯に衣着せぬ言動で他人を苛立たせることも多いが、逆に気に入った人物には熱狂的ともいえるファンになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/f2/62061_crt_dnQld.jpg",
+        "link": "https://bgm.tv/character/62061",
+        "categorie": "person"
+      },
+      {
+        "id": "62062",
+        "label": "司马高太郎",
+        "info": "ハヤマ音楽大学附属ハヤマ音楽高等学院ピアノ科教諭。彼もまた、第56回全日本ピアノコンクール・中部南地区におけるカイの演奏に取り付かれた一人。同じようにカイを探していた誉子と出会い、彼女に音楽を教えていくことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/2d/62062_crt_U0Tx4.jpg",
+        "link": "https://bgm.tv/character/62062",
+        "categorie": "person"
+      },
+      {
+        "id": "62063",
+        "label": "雨宫奈美恵",
+        "info": "教育熱心な修平の母親。カイに対して特に偏見があるわけではないが親バカな所があるのか、必要以上にカイよりも修平の方が上であることを強調している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/14/62063_crt_5o5zb.jpg",
+        "link": "https://bgm.tv/character/62063",
+        "categorie": "person"
+      },
+      {
+        "id": "62064",
+        "label": "亚理沙",
+        "info": "森の端で働く母親の居ない少女。軽度の知的発達遅滞がありながらも、森のピアノを最後まで守ろうとした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/57/62064_crt_cu6Z6.jpg",
+        "link": "https://bgm.tv/character/62064",
+        "categorie": "person"
+      },
+      {
+        "id": "62065",
+        "label": "金平大学",
+        "info": "カイの小学校時代のクラスのイジメっ子。カイとは犬猿の仲で、彼の事を「淫売の息子」と呼んでいた。あだ名はキンピラ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f4/62065_crt_kEhJ7.jpg",
+        "link": "https://bgm.tv/character/62065",
+        "categorie": "person"
+      },
+      {
+        "id": "62066",
+        "label": "一之濑怜子",
+        "info": "カイの母親。生まれた時からの森の端の住人であり、水商売で生計を立てている。15歳の時にカイを産む。父親不詳ということもあり、その事実は周囲（森の端の外の一般人）からは淫売だと揶揄されているが、カイと本人の間には深い愛情と信頼関係がある。出身に関わらず純粋にカイの資質を評価する阿字野を信頼し、カイを任せることになる。カイのショパンコンクール優勝後は、警察の摘発を免れた一部の良識的な森の端の住民達と共に喫茶店を経営している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/cb/62066_crt_vmRO5.jpg",
+        "link": "https://bgm.tv/character/62066",
+        "categorie": "person"
+      },
+      {
+        "id": "62068",
+        "label": "雨宫洋一郎",
+        "info": "修平の父親。国内でも有名なピアニストであり、その演奏は「癒しのピアノ」と呼ばれ一般に高い評価を受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/05/62068_crt_z9Yvn.jpg",
+        "link": "https://bgm.tv/character/62068",
+        "categorie": "person"
+      },
+      {
+        "id": "62071",
+        "label": "J·J·塞罗",
+        "info": "25年前のショパン・コンクールで阿字野の演奏を唯一評価したピアニスト（それがジャンとショパンコンクールの間に確執を生んでいた）。事故後、心を閉ざした阿字野を慰めるため日本語を覚えた。カイとは大分で開催された「JAPANソリスト・コンクール」で指揮者として共演した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/ae/62071_crt_uXkY9.jpg",
+        "link": "https://bgm.tv/character/62071",
+        "categorie": "person"
+      },
+      {
+        "id": "62927",
+        "label": "莫扎特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/7a/62927_crt_drRLr.jpg",
+        "link": "https://bgm.tv/character/62927",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

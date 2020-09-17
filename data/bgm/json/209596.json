@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35241",
+        "label": "中岛敦",
+        "info": "　　本作的主角，个性单纯耿直，但却因为无法控制自身异能而暴走，变成巨虎到处伤人，后来在武装侦探社成员的太宰治帮助下，以“人间失格”能力解除暴走，并且被邀请加入异能侦探社。因为不明的原因，被港口黑手党与海外异能组织Guild追捕中，目前和从港口黑手党脱离的泉镜花同居中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/16/35241_crt_QjBQE.jpg?r=1446950805",
+        "link": "https://bgm.tv/character/35241",
+        "categorie": "person"
+      },
+      {
+        "id": "35238",
+        "label": "太宰治",
+        "info": "　　前港口黑手党成员，现在则是武装异能侦探社成员。与港口黑手党的中原中也过去并称为“双黑”的实力派角色，并且受到现任港口黑手党首领森鸥外的信任。毒舌、讨厌麻烦、总是喊着想要自杀跟美女殉情，看似性格扭曲的烂人，但实际上是个温柔的好人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/25/35238_crt_vs2vv.jpg?r=1446950816",
+        "link": "https://bgm.tv/character/35238",
+        "categorie": "person"
+      },
+      {
+        "id": "35888",
+        "label": "泉镜花",
+        "info": "　　前港口黑手党成员，现在加入武装侦探社，总是身着和服的娇小少女，个性善良、并不喜欢杀生，但因能力的缘故总是不由自主。奉命暗杀主角失败后，被带回武装侦探社保护起来，与主角同居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/9d/35888_crt_n3chV.jpg?r=1454497818",
+        "link": "https://bgm.tv/character/35888",
+        "categorie": "person"
+      },
+      {
+        "id": "35886",
+        "label": "芥川龙之介",
+        "info": "　　港口黑手党的成员，原本是太宰治的弟子，因此对于太宰治脱离港口黑手党一事相当不谅解。性格虽然凶暴，但是很体贴部下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/62/35886_crt_h5i39.jpg?r=1446950952",
+        "link": "https://bgm.tv/character/35886",
+        "categorie": "person"
+      },
+      {
+        "id": "35887",
+        "label": "中原中也",
+        "info": "　　黑手党成员，过去在太宰治还没脱离黑手党之前的搭档，两人的组合被世人称为“双黑”，极其恶劣。虽然是搭档，但是跟太宰治的关系一直很不好。在海外组织Guild攻入横滨后，与太宰治再度合作出击，救出被敌方利用了的诅咒能力者“Q”(梦野久作)，并且击破史坦贝克、以及洛夫克拉夫特两人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/b8/35887_crt_22Nw2.jpg?r=1450971369",
+        "link": "https://bgm.tv/character/35887",
+        "categorie": "person"
+      },
+      {
+        "id": "49540",
+        "label": "费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基",
+        "info": "异能：罪与罚",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/0f/49540_crt_0aAE0.jpg?r=1509707434",
+        "link": "https://bgm.tv/character/49540",
+        "categorie": "person"
+      },
+      {
+        "id": "58900",
+        "label": "涩泽龙彦",
+        "info": "6年前在橫浜发生的惨剧——龙头抗争的主谋，在那之后行踪不明、销声匿迹了。而现在又有他是在世界各国发生的异能力者连续自杀事件的嫌犯的风声。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/04/58900_crt_Wjml4.jpg?r=1509707137",
+        "link": "https://bgm.tv/character/58900",
+        "categorie": "person"
+      },
+      {
+        "id": "35239",
+        "label": "国木田独步",
+        "info": "　　个性认真、喜欢作笔记的侦探社社长左右手，有着一副无论何时看起来都很生气的眼神。原本是在学校教书的数学老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/d0/35239_crt_G9b58.jpg?r=1448896185",
+        "link": "https://bgm.tv/character/35239",
+        "categorie": "person"
+      },
+      {
+        "id": "35243",
+        "label": "江户川乱步",
+        "info": "　　穿着披风、戴着侦探帽，个性吊儿郎当的少年，武装异能侦探社中真正负责侦探推理的智能人物，全社除事务员外唯一并非异能者的普通人，但本人很坚持自己是异能者。有一副社长福泽谕吉送他的眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/a4/35243_crt_H2dG1.jpg?r=1448896228",
+        "link": "https://bgm.tv/character/35243",
+        "categorie": "person"
+      },
+      {
+        "id": "35883",
+        "label": "谷崎润一郎",
+        "info": "　　武装异能侦探社成员，与其妹谷崎直美一同，妹妹有着异常的恋兄癖。两人都还是学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/e0/35883_crt_pF6p6.jpg?r=1448896309",
+        "link": "https://bgm.tv/character/35883",
+        "categorie": "person"
+      },
+      {
+        "id": "35240",
+        "label": "宫泽贤治",
+        "info": "　　武装异能侦探社的成员，原本只是一个小村庄的农家子弟，在故事开始前两个月，才刚被社长福泽谕吉请来加入侦探社。个性憨厚，总是戴着草帽穿着农夫的工作服，受到街坊邻居们的喜爱。家训是“如果牛不乖就拿身边的东西打它”",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e4/35240_crt_3413Q.jpg?r=1448896266",
+        "link": "https://bgm.tv/character/35240",
+        "categorie": "person"
+      },
+      {
+        "id": "35242",
+        "label": "与谢野晶子",
+        "info": "　　武装异能侦探社的医生，非常讨厌不尊重生命的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/c3/35242_crt_ttyEi.jpg?r=1450266998",
+        "link": "https://bgm.tv/character/35242",
+        "categorie": "person"
+      },
+      {
+        "id": "35884",
+        "label": "谷崎直美",
+        "info": "　　武装异能侦探社的事务员，有着严重恋兄癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/12/35884_crt_qJ1AL.jpg?r=1450267388",
+        "link": "https://bgm.tv/character/35884",
+        "categorie": "person"
+      },
+      {
+        "id": "35885",
+        "label": "福泽谕吉",
+        "info": "　　武装异能侦探社的社长，与森鸥外的港口黑手党并称横滨的两大组织。在对主角进行入社测验后，同意了主角的加入，但也随即因为海外异能组织Guild、以及港口黑手党对主角的追捕，而卷入一连串麻烦。有着孤剑客“银狼”的别称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/e3/35885_crt_aHa2j.jpg?r=1450267688",
+        "link": "https://bgm.tv/character/35885",
+        "categorie": "person"
+      },
+      {
+        "id": "42831",
+        "label": "森鸥外",
+        "info": "能力名：Vita Sexualis(ヰタ・セクスアリス)",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/f7/42831_crt_Dg999.jpg?r=1467716978",
+        "link": "https://bgm.tv/character/42831",
+        "categorie": "person"
+      },
+      {
+        "id": "42832",
+        "label": "爱丽丝",
+        "info": "鷗外と共に過ごす、金髪で可愛らしい幼女。鷗外のことを「リンタロウ」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/49/42832_crt_v99SJ.jpg?r=1466656067",
+        "link": "https://bgm.tv/character/42832",
+        "categorie": "person"
+      },
+      {
+        "id": "47226",
+        "label": "织田作之助",
+        "info": "ポートマフィアの最下級構成員。太宰も一目置く凄腕ながら「何があろうと人を殺さない」という信条を持ち、組織の「何でも屋」的な存在に甘んじている奇特な男。抗争で親を失った孤児を養っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/cb/47226_crt_8O5ir.jpg?r=1475753053",
+        "link": "https://bgm.tv/character/47226",
+        "categorie": "person"
+      },
+      {
+        "id": "47228",
+        "label": "坂口安吾",
+        "info": "ポートマフィアの秘密情報員。丸眼鏡を掛けたインテリな風貌だが、その頭の中には黄金よりも貴重なポート・マフィア内部情報が詰まっており、どんな拷問にも耐えうる強靭さを持つと推測される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/fd/47228_crt_ocXA5.jpg?r=1475752893",
+        "link": "https://bgm.tv/character/47228",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

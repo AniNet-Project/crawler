@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50167",
+        "label": "土方岁三",
+        "info": "仲間のためなら命を張れる真っ直ぐな性格。強さを求め、つねに強者との闘いを欲している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/9c/50167_crt_7fwsC.jpg",
+        "link": "https://bgm.tv/character/50167",
+        "categorie": "person"
+      },
+      {
+        "id": "50168",
+        "label": "永仓新八",
+        "info": "新撰組一の常識人。才能よりもひたむき努力で強くなるタイプである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/2d/50168_crt_viw8b.jpg",
+        "link": "https://bgm.tv/character/50168",
+        "categorie": "person"
+      },
+      {
+        "id": "50169",
+        "label": "齐藤一",
+        "info": "新撰組一のサディスト。容赦のない攻撃で相手を追い詰める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/fd/50169_crt_13m66.jpg",
+        "link": "https://bgm.tv/character/50169",
+        "categorie": "person"
+      },
+      {
+        "id": "50170",
+        "label": "冲田总司",
+        "info": "愛嬌のある性格と幼い容姿で慕われているが、ひとたび剣を抜くと最速最強の鬼子と化す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/7d/50170_crt_Gx1qC.jpg",
+        "link": "https://bgm.tv/character/50170",
+        "categorie": "person"
+      },
+      {
+        "id": "50171",
+        "label": "原田左之助",
+        "info": "無口で基本的にはしゃべらない。新撰組一の槍使いてで大食漢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/16/50171_crt_MkbkA.jpg",
+        "link": "https://bgm.tv/character/50171",
+        "categorie": "person"
+      },
+      {
+        "id": "50172",
+        "label": "近藤勇",
+        "info": "周りからオヤジと慕われていて、いかなる場でも冷静に大局を見定める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/7e/50172_crt_N9CbK.jpg",
+        "link": "https://bgm.tv/character/50172",
+        "categorie": "person"
+      },
+      {
+        "id": "50173",
+        "label": "藤堂平助",
+        "info": "新撰組の最年少。感情表現豊かな、素直で明るい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/4a/50173_crt_1M1ag.jpg",
+        "link": "https://bgm.tv/character/50173",
+        "categorie": "person"
+      },
+      {
+        "id": "50174",
+        "label": "山南敬助",
+        "info": "新撰組一の理論派。真面目な性格で心配性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/0d/50174_crt_56NtA.jpg",
+        "link": "https://bgm.tv/character/50174",
+        "categorie": "person"
+      },
+      {
+        "id": "50175",
+        "label": "岛田魁",
+        "info": "片手で岩を持ち上げるほどの怪力だが、気弱な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/6f/50175_crt_Czv83.jpg",
+        "link": "https://bgm.tv/character/50175",
+        "categorie": "person"
+      },
+      {
+        "id": "50176",
+        "label": "芹泽鸭",
+        "info": "圧倒的な武のちからを誇る、天上天下唯我独尊男。戦いこそが人生の全て。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/b3/50176_crt_x2RNq.jpg",
+        "link": "https://bgm.tv/character/50176",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

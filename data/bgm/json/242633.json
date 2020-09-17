@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65368",
+        "label": "贝尔哲布布",
+        "info": "天界から堕とされ、悪魔となった元・天使たちが働く万魔殿（パンデモニウム）の主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/13/65368_crt_ogXJk.jpg?r=1533829179",
+        "link": "https://bgm.tv/character/65368",
+        "categorie": "person"
+      },
+      {
+        "id": "65369",
+        "label": "缪林",
+        "info": "万魔殿の新人職員で、ベルゼブブの近侍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/0e/65369_crt_97Lwc.jpg?r=1533829351",
+        "link": "https://bgm.tv/character/65369",
+        "categorie": "person"
+      },
+      {
+        "id": "65370",
+        "label": "ベルフェゴール",
+        "info": "かなりのあがり症で、緊張すると尿意を催す頻尿残念ガール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/f2/65370_crt_PnZWd.jpg?r=1533829519",
+        "link": "https://bgm.tv/character/65370",
+        "categorie": "person"
+      },
+      {
+        "id": "65371",
+        "label": "アザゼル",
+        "info": "見た目は強面だが、とても優しくてシャイな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ac/65371_crt_2TS49.jpg?r=1533829636",
+        "link": "https://bgm.tv/character/65371",
+        "categorie": "person"
+      },
+      {
+        "id": "65373",
+        "label": "サルガタナス",
+        "info": "アスタロトの超ドS近侍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/0e/65373_crt_YLTBf.jpg?r=1533829876",
+        "link": "https://bgm.tv/character/65373",
+        "categorie": "person"
+      },
+      {
+        "id": "65372",
+        "label": "アスタロト",
+        "info": "ベルゼブブの（自称）お兄ちゃん的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/57/65372_crt_7L6X5.jpg?r=1533829767",
+        "link": "https://bgm.tv/character/65372",
+        "categorie": "person"
+      },
+      {
+        "id": "65374",
+        "label": "エウリノーム",
+        "info": "美少年以外を目にすると、苦い顔になる残念な眼鏡美人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/e3/65374_crt_O5kJN.jpg?r=1533830021",
+        "link": "https://bgm.tv/character/65374",
+        "categorie": "person"
+      },
+      {
+        "id": "65375",
+        "label": "ダンタリオン",
+        "info": "万魔殿の図書館長で、活字中毒の悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/f5/65375_crt_hohjP.jpg?r=1533830148",
+        "link": "https://bgm.tv/character/65375",
+        "categorie": "person"
+      },
+      {
+        "id": "65376",
+        "label": "モレク",
+        "info": "常に大声で話す自由奔放なおバカさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/1b/65376_crt_xGPi1.jpg?r=1533830295",
+        "link": "https://bgm.tv/character/65376",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

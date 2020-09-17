@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44423",
+        "label": "飯井原なお",
+        "info": "学園の女学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/47/44423_crt_Nj75Z.jpg",
+        "link": "https://bgm.tv/character/44423",
+        "categorie": "person"
+      },
+      {
+        "id": "44424",
+        "label": "衣更透子",
+        "info": "学園の女教師。なお・みつぐらの学年の主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/6d/44424_crt_t9o8W.jpg",
+        "link": "https://bgm.tv/character/44424",
+        "categorie": "person"
+      },
+      {
+        "id": "44425",
+        "label": "筑紫野みつぐ",
+        "info": "学園の女学生。なおのクラスメートで大の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a7/44425_crt_26269.jpg",
+        "link": "https://bgm.tv/character/44425",
+        "categorie": "person"
+      },
+      {
+        "id": "44426",
+        "label": "一条大介",
+        "info": "主人公。私立衣更学園の新任教師。実家は病院を経営している。祖母と透子に無理矢理、「職業適性診断」の担当者に任命される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/44426",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

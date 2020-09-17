@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4263",
+        "label": "モルテ・アーシェラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/6a/4263_crt_4Wp4U.jpg",
+        "link": "https://bgm.tv/character/4263",
+        "categorie": "person"
+      },
+      {
+        "id": "4264",
+        "label": "キリエ・イルニス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/eb/4264_crt_OOKMh.jpg",
+        "link": "https://bgm.tv/character/4264",
+        "categorie": "person"
+      },
+      {
+        "id": "4265",
+        "label": "チビクマ族",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/4265",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

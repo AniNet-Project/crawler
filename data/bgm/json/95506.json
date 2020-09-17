@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18645",
+        "label": "蝙蝠侠",
+        "info": "蝙蝠侠是在1939年5月美国《侦探漫画》第27期中诞生的一个虚拟人物，由鲍勃·凯恩与比尔·芬格（Bill Finger）共同创造（但是只有肯恩获得官方注名为作者）。他是个伸张正义打击犯罪的超级英雄，也是第一个没有超能力的超级英雄。虽然一开始蝙蝠侠只是数个同时被创造出来的虚拟角色之一，但后来他成了其他连载漫画中超级英雄的领袖人物。蝙蝠侠跟超人是英雄漫画中最广为人知也最受欢迎的两个角色，并被多次拍成电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d2/18645_crt_3h356.jpg?r=1425372096",
+        "link": "https://bgm.tv/character/18645",
+        "categorie": "person"
+      },
+      {
+        "id": "22383",
+        "label": "闪电侠",
+        "info": "闪电侠（The Flash）由DC漫画出版，是一个名字包括了四个人的超级英雄，由加德纳·福克斯和哈里·兰伯特首创，第一代的闪电侠在1940年的闪电侠漫画第一期首次出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/f1/22383_crt_8c979.jpg?r=1589870587",
+        "link": "https://bgm.tv/character/22383",
+        "categorie": "person"
+      },
+      {
+        "id": "41974",
+        "label": "超人",
+        "info": "Superman is a superhero published by DC Comics since 1938. An alien named Kal-El from the destroyed planet Krypton. he was sent to Earth and raised as Clark Kent by human foster parents, Martha and Jonathan Kent. As an adult, Superman became the protector of Earth, working at the Daily Planet as Clark Kent alongside his partner and wife Lois Lane.",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/85/41974_crt_yy53h.jpg?r=1496411358",
+        "link": "https://bgm.tv/character/41974",
+        "categorie": "person"
+      },
+      {
+        "id": "43963",
+        "label": "神奇女侠",
+        "info": "本名为戴安娜·普林斯（Diana Prince），源自罗马神话中月亮女神的名字。在很多改编版本之中，神奇女侠是亚马逊新米西亚（又称“天堂岛”，为DC漫画世界中的亚马逊，并不是真实世界的亚马逊）一个传说中只有女性和善于战斗的民族公主。故事是因一个美国空军人员史蒂夫·特雷沃（Steve Trevor）因事故而昏迷，被戴安娜公主所发现，而她以这个部落大使的身份把该名军人送回到现代城市，在出发前，她获赠由奥林匹斯诸神送的礼物“使人诚实说出真话的绳套”和“刀枪不入的手镯”。回到城市后和史蒂夫产生感情，在得到母后和族人认同后，戴安娜决定居住于城市，并以“神奇女侠”名义保护人们，成为一个超级英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/bc/43963_crt_fNJI5.jpg",
+        "link": "https://bgm.tv/character/43963",
+        "categorie": "person"
+      },
+      {
+        "id": "43965",
+        "label": "绿灯侠",
+        "info": "绿灯侠（英语：Green Lantern）是DC漫画所出版的美国漫画中，一群超级英雄们的总称。其中最广为人知的绿灯侠是哈尔·乔丹，1959年10月于《陈列橱》第22期首次登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/61/43965_crt_vE32E.jpg",
+        "link": "https://bgm.tv/character/43965",
+        "categorie": "person"
+      },
+      {
+        "id": "70627",
+        "label": "钢骨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/da/70627_crt_4N5N4.jpg",
+        "link": "https://bgm.tv/character/70627",
+        "categorie": "person"
+      },
+      {
+        "id": "43964",
+        "label": "海王",
+        "info": "水行侠的本名亚瑟·库瑞（Arthur Curry）亚瑟的父亲在著名的海底中探险，亚瑟的母亲去世时，他还是个婴儿，此时父亲已在探索海洋的奥秘。亚瑟的父亲最伟大的发现是一个古老的城市，是没有其他潜水员能侵入的深处，亚瑟的父亲很快地认出是失落的亚特兰蒂斯王国。他将那里当作是自己的家，并在那里生活，学习记录、设备和种族奇妙的智慧。从纪录中，他学会了如何教亚瑟生活在海洋，并从水中使用大海的力量，成就他奇妙又强大、迅速的力量。现是美国正义联盟的成员之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/8d/43964_crt_blUlH.jpg",
+        "link": "https://bgm.tv/character/43964",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

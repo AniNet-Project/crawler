@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31904",
+        "label": "丈枪由纪",
+        "info": "巡之丘学园高中3年级生。个性天真活泼，是学园的气氛制造者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/0a/31904_crt_XHaHz.jpg?r=1437081563",
+        "link": "https://bgm.tv/character/31904",
+        "categorie": "person"
+      },
+      {
+        "id": "31888",
+        "label": "惠飞须泽胡桃",
+        "info": "巡之丘学园高中3年级生。由纪的好友，活力充沛的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b5/31888_crt_dUpR7.jpg?r=1437081477",
+        "link": "https://bgm.tv/character/31888",
+        "categorie": "person"
+      },
+      {
+        "id": "33880",
+        "label": "若狭悠里",
+        "info": "巡之丘学园高三学生。爱称是「りーさん」。担当料理以及扫除的家庭系少女。大家的调停者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/db/33880_crt_1dkPz.jpg?r=1437765110",
+        "link": "https://bgm.tv/character/33880",
+        "categorie": "person"
+      },
+      {
+        "id": "31905",
+        "label": "直树美纪",
+        "info": "巡之丘学园高中2年级生。原本在购物商场避难，之后被学园生活社救出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/22/31905_crt_Y5F5B.jpg?r=1438385557",
+        "link": "https://bgm.tv/character/31905",
+        "categorie": "person"
+      },
+      {
+        "id": "33881",
+        "label": "佐仓慈",
+        "info": "巡之丘学园高校的现代国文教师。爱称是「めぐ姉(慈姐)」。学问生活部的稳重的顾问老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/27/33881_crt_W606F.jpg?r=1440280973",
+        "link": "https://bgm.tv/character/33881",
+        "categorie": "person"
+      },
+      {
+        "id": "33882",
+        "label": "太郎丸",
+        "info": "学院生活部饲养的小柴犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/cf/33882_crt_Ovf49.jpg?r=1436031706",
+        "link": "https://bgm.tv/character/33882",
+        "categorie": "person"
+      },
+      {
+        "id": "33883",
+        "label": "祠堂圭",
+        "info": "みーくん(美君)的亲友，同样是高二学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/47/33883_crt_p3SzM.jpg?r=1440706658",
+        "link": "https://bgm.tv/character/33883",
+        "categorie": "person"
+      },
+      {
+        "id": "47223",
+        "label": "柚村贵依",
+        "info": "由纪的同班同学",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/4e/47223_crt_K3Psw.jpg?r=1475758031",
+        "link": "https://bgm.tv/character/47223",
+        "categorie": "person"
+      },
+      {
+        "id": "47224",
+        "label": "神山昭子",
+        "info": "由纪班里的英语教师，与佐仓慈关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/5f/47224_crt_Jss3l.jpg?r=1475758065",
+        "link": "https://bgm.tv/character/47224",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "34143",
+        "label": "女学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34143",
+        "categorie": "person"
+      },
+      {
+        "id": "35639",
+        "label": "男学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35639",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

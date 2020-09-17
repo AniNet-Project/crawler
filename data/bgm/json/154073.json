@@ -1,0 +1,453 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29712",
+        "label": "秋秋",
+        "info": "誕生日：6月18日　身長：159cm　B/W/H： 86/55/85　好きなもの：激情・努力・勝利　嫌いなもの、苦手なもの： おまじない・占い・他力本願　楽器名：アンティークバットマン",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/bc/29712_crt_t1Ft0.jpg?r=1464910769",
+        "link": "https://bgm.tv/character/29712",
+        "categorie": "person"
+      },
+      {
+        "id": "29713",
+        "label": "希安 / 圣川诗杏",
+        "info": "シアン:",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/da/29713_crt_g455n.jpg?r=1464910828",
+        "link": "https://bgm.tv/character/29713",
+        "categorie": "person"
+      },
+      {
+        "id": "29714",
+        "label": "摩亚",
+        "info": "好きなもの：珍味・珍品・珍獣・珍しいものなんでも",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/ea/29714_crt_5TBLk.jpg?r=1466105952",
+        "link": "https://bgm.tv/character/29714",
+        "categorie": "person"
+      },
+      {
+        "id": "29715",
+        "label": "莱托莉",
+        "info": "好きなもの：ネット・ゲーム・通販・シアン",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/23/29715_crt_9q696.jpg?r=1466806816",
+        "link": "https://bgm.tv/character/29715",
+        "categorie": "person"
+      },
+      {
+        "id": "31665",
+        "label": "克劳",
+        "info": "好きなもの：牛乳・家畜",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/85/31665_crt_25SHL.jpg",
+        "link": "https://bgm.tv/character/31665",
+        "categorie": "person"
+      },
+      {
+        "id": "31666",
+        "label": "艾恩",
+        "info": "好きなもの：黒・闇・神",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/4c/31666_crt_WNklK.jpg",
+        "link": "https://bgm.tv/character/31666",
+        "categorie": "person"
+      },
+      {
+        "id": "31667",
+        "label": "刃",
+        "info": "好きなもの：龍剣伝・故に",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/84/31667_crt_5LEzt.jpg",
+        "link": "https://bgm.tv/character/31667",
+        "categorie": "person"
+      },
+      {
+        "id": "31668",
+        "label": "罗姆",
+        "info": "好きなもの：ライブ・バンド",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/6f/31668_crt_728bk.jpg",
+        "link": "https://bgm.tv/character/31668",
+        "categorie": "person"
+      },
+      {
+        "id": "31669",
+        "label": "阿",
+        "info": "好きなもの：修行",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/72/31669_crt_B3YZR.jpg",
+        "link": "https://bgm.tv/character/31669",
+        "categorie": "person"
+      },
+      {
+        "id": "31670",
+        "label": "吽",
+        "info": "好きなもの：楽器のお手入れ",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/df/31670_crt_za22e.jpg",
+        "link": "https://bgm.tv/character/31670",
+        "categorie": "person"
+      },
+      {
+        "id": "31671",
+        "label": "不倒太夫",
+        "info": "好きなもの：旅",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ee/31671_crt_7cEo5.jpg",
+        "link": "https://bgm.tv/character/31671",
+        "categorie": "person"
+      },
+      {
+        "id": "31672",
+        "label": "修☆造",
+        "info": "好きなもの：夢銀河ツーリスト達がもっともプレシャスさっ☆",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/1c/31672_crt_H1bQZ.jpg?r=1480483542",
+        "link": "https://bgm.tv/character/31672",
+        "categorie": "person"
+      },
+      {
+        "id": "32007",
+        "label": "陆",
+        "info": "喜欢的东西：读书、乐队的练习",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/5c/32007_crt_tOi71.jpg?r=1480483486",
+        "link": "https://bgm.tv/character/32007",
+        "categorie": "person"
+      },
+      {
+        "id": "32008",
+        "label": "海",
+        "info": "喜欢的东西：修☆造君、跳舞",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/cf/32008_crt_7pRFQ.jpg?r=1480483421",
+        "link": "https://bgm.tv/character/32008",
+        "categorie": "person"
+      },
+      {
+        "id": "32010",
+        "label": "アンゼリカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/e2/32010_crt_ch3zX.jpg?r=1428933835",
+        "link": "https://bgm.tv/character/32010",
+        "categorie": "person"
+      },
+      {
+        "id": "32011",
+        "label": "罗琦亚",
+        "info": "喜欢的东西：唱歌、跳舞",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/5e/32011_crt_918Id.jpg?r=1428935495",
+        "link": "https://bgm.tv/character/32011",
+        "categorie": "person"
+      },
+      {
+        "id": "32012",
+        "label": "月乃",
+        "info": "喜欢的东西：好吃的",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c4/32012_crt_FOV0X.jpg?r=1428934889",
+        "link": "https://bgm.tv/character/32012",
+        "categorie": "person"
+      },
+      {
+        "id": "32013",
+        "label": "霍尔米",
+        "info": "喜欢的东西：努力",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ca/32013_crt_vO2As.jpg?r=1428935211",
+        "link": "https://bgm.tv/character/32013",
+        "categorie": "person"
+      },
+      {
+        "id": "32014",
+        "label": "杰奎琳",
+        "info": "喜欢的东西：在卡拉OK合唱",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/9f/32014_crt_H43IY.jpg?r=1428935503",
+        "link": "https://bgm.tv/character/32014",
+        "categorie": "person"
+      },
+      {
+        "id": "42464",
+        "label": "有栖川メイプル",
+        "info": "MIDICITYに本拠を構える弱小音楽事務所「BANDED ROCKING RECORDS (BRR)」（バンデッドロッキングレコーズ）の代表。卵に細い手足が付いたような容姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/48/42464_crt_Lfnho.jpg",
+        "link": "https://bgm.tv/character/42464",
+        "categorie": "person"
+      },
+      {
+        "id": "44099",
+        "label": "チタン",
+        "info": "メイン・ヴォーカル、ピアノ担当。両親は有名な音楽家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a4/44099_crt_sH0OP.jpg",
+        "link": "https://bgm.tv/character/44099",
+        "categorie": "person"
+      },
+      {
+        "id": "44100",
+        "label": "オリオン",
+        "info": "ヴァイオリン担当。由緒正しい財閥家系の嫡男で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/d4/44100_crt_9Gtce.jpg",
+        "link": "https://bgm.tv/character/44100",
+        "categorie": "person"
+      },
+      {
+        "id": "44101",
+        "label": "セレン",
+        "info": "ベース担当。宇宙系超大手レーベルグループ会長の息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/74/44101_crt_tl8s8.jpg",
+        "link": "https://bgm.tv/character/44101",
+        "categorie": "person"
+      },
+      {
+        "id": "44102",
+        "label": "アルゴン",
+        "info": "ドラム担当。事務所入り前から起業しており、",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/6e/44102_crt_rGFbt.jpg",
+        "link": "https://bgm.tv/character/44102",
+        "categorie": "person"
+      },
+      {
+        "id": "45535",
+        "label": "アイレーン",
+        "info": "ヴォーカル、ギター担当。誰に対しても上から目線な王ライオン族の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/2b/45535_crt_X338g.jpg",
+        "link": "https://bgm.tv/character/45535",
+        "categorie": "person"
+      },
+      {
+        "id": "45536",
+        "label": "ペイペイン",
+        "info": "ベース担当。稀少な種族、闇麒麟族のベーシスト女子。幼い頃、謎の財団に引き取られ、メイドとしてアイレーンに仕えている。いつも真顔で彼女を見守り、おっとりした性格で何事にも動じず、よく気が利くしっかり者。スカートの中に大量の武器を隠し持っている。怒ると怖いらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/c0/45536_crt_HIzyx.jpg",
+        "link": "https://bgm.tv/character/45536",
+        "categorie": "person"
+      },
+      {
+        "id": "45537",
+        "label": "ハンドレッコ",
+        "info": "ドラム担当。謎の財団施設で秘密裏に開発された、ミューモロイドっ娘。アイレーンが遊び相手として連れ出した事がきっかけで、BVLに加入。高周波ブレード付の双剣型ドラムスティックを自在に操り演奏する。無愛想だが、ときどき微妙に思い出し笑いをしている。充電が日課。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/03/45537_crt_5ZvzD.jpg",
+        "link": "https://bgm.tv/character/45537",
+        "categorie": "person"
+      },
+      {
+        "id": "47142",
+        "label": "岚",
+        "info": "読みは「あらし」。シバイヌ族の未来忍者。一人称は「拙者」。主人に忠実で義理堅い性格。ライトニングシュリケンで、ライブ終了後の会場を一瞬にして消去する事ができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/e0/47142_crt_t8uMh.jpg?r=1475504713",
+        "link": "https://bgm.tv/character/47142",
+        "categorie": "person"
+      },
+      {
+        "id": "47145",
+        "label": "神威",
+        "info": "読みは「かむい」。未来から来た、忍マシーン。普段からほとんど喋らないが、人の話をすべてメモリーに記憶して、サウンドライブラリーを電脳内で構築している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/c9/47145_crt_0aaoZ.jpg?r=1475504958",
+        "link": "https://bgm.tv/character/47145",
+        "categorie": "person"
+      },
+      {
+        "id": "47457",
+        "label": "しばりん",
+        "info": "シバイヌ族。一人称は「わだす」。明るく活動的なツッコミ役。バンドメンバーは全員しばりんによってスカウトされた。バンドのリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/af/47457_crt_c9C00.jpg?r=1476703068",
+        "link": "https://bgm.tv/character/47457",
+        "categorie": "person"
+      },
+      {
+        "id": "47458",
+        "label": "ぽこえ",
+        "info": "タヌキ族。一人称は「私」。内気な恥ずかしがり屋だが、眼鏡を取るとかなりの美少女らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/8f/47458_crt_2n2Xn.jpg?r=1476703189",
+        "link": "https://bgm.tv/character/47458",
+        "categorie": "person"
+      },
+      {
+        "id": "47459",
+        "label": "きっつん",
+        "info": "キツネ族。一人称は「アタシ」。ギャルだが実は情に厚い。記念日好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/0c/47459_crt_z9EOE.jpg?r=1476704017",
+        "link": "https://bgm.tv/character/47459",
+        "categorie": "person"
+      },
+      {
+        "id": "47143",
+        "label": "胧",
+        "info": "読みは「おぼろ」。寡黙で冷静沈着なオニ族の未来忍者。一人称は「俺」。嵐とは未来にいた時からのライバル。バンドのリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/fc/47143_crt_I2T3G.jpg?r=1475504917",
+        "link": "https://bgm.tv/character/47143",
+        "categorie": "person"
+      },
+      {
+        "id": "47144",
+        "label": "燐",
+        "info": "読みは「りん」。キツネ族の未来くのいち。一人称は「私」。 最強のライトニングベースの使い手。ハードなライブの後にアロマテラピーとネイルサロンに行くのが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/12/47144_crt_sK0OK.jpg?r=1475504930",
+        "link": "https://bgm.tv/character/47144",
+        "categorie": "person"
+      },
+      {
+        "id": "32203",
+        "label": "ダガー・モールス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/95/32203_crt_Nu31n.jpg",
+        "link": "https://bgm.tv/character/32203",
+        "categorie": "person"
+      },
+      {
+        "id": "32204",
+        "label": "グレイトフルキング",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/20/32204_crt_HoL12.jpg",
+        "link": "https://bgm.tv/character/32204",
+        "categorie": "person"
+      },
+      {
+        "id": "32216",
+        "label": "ヴィクトリアス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/64/32216_crt_I7k8r.jpg?r=1475504267",
+        "link": "https://bgm.tv/character/32216",
+        "categorie": "person"
+      },
+      {
+        "id": "47462",
+        "label": "老爷子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/74/47462_crt_Hjpbj.jpg?r=1476679708",
+        "link": "https://bgm.tv/character/47462",
+        "categorie": "person"
+      },
+      {
+        "id": "47464",
+        "label": "糖果兔",
+        "info": "スイーツウサギ族。一人称は「あたし」。独自のテンポと世界観を持つ。「カワイイ〜」が口癖。バンドのリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/68/47464_crt_zK1we.jpg?r=1476691306",
+        "link": "https://bgm.tv/character/47464",
+        "categorie": "person"
+      },
+      {
+        "id": "47465",
+        "label": "马卡龙猪",
+        "info": "スイーツブタ族。一人称は「ミー」。おしゃれと恋愛が大好きでイケメンに弱いが、フリーでなければNGであったり、ライナのようなイケメンであれば女子でもOKなど、独自のこだわりを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/47/47465_crt_AvZQf.jpg?r=1476691783",
+        "link": "https://bgm.tv/character/47465",
+        "categorie": "person"
+      },
+      {
+        "id": "47472",
+        "label": "つぎはぎ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/df/47472_crt_nyPo1.jpg?r=1476698161",
+        "link": "https://bgm.tv/character/47472",
+        "categorie": "person"
+      },
+      {
+        "id": "47473",
+        "label": "まりまり",
+        "info": "座敷童族。一人称は「私」。和服を着て、頭にネコのララさんを乗せている。妖怪である故、ララさんが頭を齧って時々脳漿が出てしまう。博多弁で話す。タイアップアーティストの植田真梨恵がモデル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/96/47473_crt_ZKVTy.jpg?r=1476698958",
+        "link": "https://bgm.tv/character/47473",
+        "categorie": "person"
+      },
+      {
+        "id": "47481",
+        "label": "はっくん",
+        "info": "ハクビシン族。一人称は「俺」。しばりんとは幼馴染み。女子にモテたくてメンバー入りしたが、しばりんやぽこえのことが気になっている。ロムに憧れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/c1/47481_crt_44zi2.jpg?r=1476704430",
+        "link": "https://bgm.tv/character/47481",
+        "categorie": "person"
+      },
+      {
+        "id": "47482",
+        "label": "温蒂",
+        "info": "水精霊族。一人称は「私」。URでは人魚姿。マメな性格。透明感のある歌声を持つ。元はオペラ歌手志望だったが、学生時代にバンドに興味を持って現在に至る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/83/47482_crt_NLnlo.jpg?r=1476705353",
+        "link": "https://bgm.tv/character/47482",
+        "categorie": "person"
+      },
+      {
+        "id": "47483",
+        "label": "コリエンテ",
+        "info": "水ウサギ族。一人称は「アタシ」。大雑把な性格。水泳が好き、いつでも泳げるように上着の下にスクール水着を着ている。アルバイトではエリアNo.1の売り上げを誇る。意思を持つ液体帽子「シルきゃぷ」をいつもかぶっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/7f/47483_crt_C2rSa.jpg?r=1476705710",
+        "link": "https://bgm.tv/character/47483",
+        "categorie": "person"
+      },
+      {
+        "id": "47670",
+        "label": "泡沫沫",
+        "info": "アワ族。一人称は「わたし」。水の都ヴェニシリンの奥地にある「バブルストリート」出身。普段はぼーっとしているがドラムを叩く時は凄いスピードを出すことが出来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/da/47670_crt_g77By.jpg?r=1477314582",
+        "link": "https://bgm.tv/character/47670",
+        "categorie": "person"
+      },
+      {
+        "id": "47864",
+        "label": "巴尔特",
+        "info": "チタンの弟。チタンのことを「お兄様」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/cc/47864_crt_3IRBz.jpg?r=1477885856",
+        "link": "https://bgm.tv/character/47864",
+        "categorie": "person"
+      },
+      {
+        "id": "47865",
+        "label": "尼凯尔",
+        "info": "チタンの弟。チタンのことを「お兄たま」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/4c/47865_crt_Ey0dH.jpg",
+        "link": "https://bgm.tv/character/47865",
+        "categorie": "person"
+      },
+      {
+        "id": "47474",
+        "label": "バイレッド",
+        "info": "一人称は「オレ」。「レボリューション楽器」の新入社員。性格は熱血。ギター売場で働いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/5f/47474_crt_zJDit.jpg?r=1476699831",
+        "link": "https://bgm.tv/character/47474",
+        "categorie": "person"
+      },
+      {
+        "id": "47463",
+        "label": "巧克力松鼠",
+        "info": "スイーツリス族。一人称は「アタチ」。身体は小さいが一番のしっかり者でまとめ役。実は資格マニア。語尾に「でちゅ」がつく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/c0/47463_crt_J1Mdx.jpg?r=1476690550",
+        "link": "https://bgm.tv/character/47463",
+        "categorie": "person"
+      },
+      {
+        "id": "47466",
+        "label": "奶油泰迪",
+        "info": "スイーツクマ族。一人称は「わたし」。いつも眠そうにしていてライブ中に寝ることもある。夢の中に友達がいるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/13/47466_crt_6IIg9.jpg?r=1476692030",
+        "link": "https://bgm.tv/character/47466",
+        "categorie": "person"
+      },
+      {
+        "id": "47475",
+        "label": "バイイエロー",
+        "info": "ヒョウ族。一人称は「私」。「レボリューション楽器」の社員。営業1課でバツグンの売上成績を上げている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5c/47475_crt_38vtH.jpg?r=1476701455",
+        "link": "https://bgm.tv/character/47475",
+        "categorie": "person"
+      },
+      {
+        "id": "47478",
+        "label": "バイブルー",
+        "info": "一人称は「俺」。「レボリューション楽器」の営業マン。成績優秀なトップセールスマンである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/64/47478_crt_u8V7B.jpg?r=1476701536",
+        "link": "https://bgm.tv/character/47478",
+        "categorie": "person"
+      },
+      {
+        "id": "47479",
+        "label": "バイピンク",
+        "info": "一人称は「わたし」。「レボリューション楽器」のアルバイト店員。キーボード・ピアノ売場で働いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/3a/47479_crt_42kNq.jpg?r=1476701739",
+        "link": "https://bgm.tv/character/47479",
+        "categorie": "person"
+      },
+      {
+        "id": "47480",
+        "label": "バイグリーン",
+        "info": "一人称は「俺」。「レボリューション楽器」のベテラン社員。40代。楽器のメンテナンスが大得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/f8/47480_crt_1RKga.jpg?r=1476701937",
+        "link": "https://bgm.tv/character/47480",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

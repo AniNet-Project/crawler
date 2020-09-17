@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24162",
+        "label": "克雷斯·亚尔贝因",
+        "info": "本作的主角，出身于托堤斯村由其父开设的剑术道场。当托堤斯村被毁父母被杀害后，与挚友切斯塔一同踏上复仇之旅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/e6/24162_crt_JjYCl.jpg?r=1396191230",
+        "link": "https://bgm.tv/character/24162",
+        "categorie": "person"
+      },
+      {
+        "id": "24174",
+        "label": "敏特·亚德涅特",
+        "info": "年轻的法术师，心地纯洁善良性格温顺。因其家族担负起了对抗达奥斯的使命。敏特的母亲是封印达奥斯的四战士之一，这令其遭杀身之祸，也令敏特遭牢狱之苦。而将她救出的克雷斯也占据了这少女的芳心。不过由于羞涩的缘故，她总是不敢向对方说出自己的心意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/11/24174_crt_gXrG3.jpg?r=1594787257",
+        "link": "https://bgm.tv/character/24174",
+        "categorie": "person"
+      },
+      {
+        "id": "24177",
+        "label": "达奥斯",
+        "info": "本作BOSS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/97/24177_crt_r0hFB.jpg?r=1594787337",
+        "link": "https://bgm.tv/character/24177",
+        "categorie": "person"
+      },
+      {
+        "id": "6866",
+        "label": "库拉斯·F·雷斯塔",
+        "info": "为了寻找能够让人类使用魔法的方法，而从事精灵研究的学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/00/6866_crt_anidb.jpg?r=1594787308",
+        "link": "https://bgm.tv/character/6866",
+        "categorie": "person"
+      },
+      {
+        "id": "24176",
+        "label": "亚切·克莱茵",
+        "info": "与父亲巴特一同居住在隆瓦雷戈山谷的半妖精，是队内唯一能使用魔法的角色，同时也是队内最活泼开朗的成员，喜怒哀乐都会直接表露在脸上，而他与切斯塔的拌嘴也总是能令人露出会心的笑容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/35/24176_crt_4646a.jpg?r=1594787281",
+        "link": "https://bgm.tv/character/24176",
+        "categorie": "person"
+      },
+      {
+        "id": "24175",
+        "label": "切斯塔·巴克莱特",
+        "info": "与克雷斯自小一同长大的好友。切斯塔的父母很早以前就已经去世了，从那时起他便与妹妹艾米相依为命，而妹妹也成为了他生命中最重要的人。当妹妹在那起惨剧中不幸身亡后，向凶手复仇变成了他最坚定的信念。切斯塔的箭术非常高超，而且自尊心非常强，从不轻言放弃。艾米的死对他的打击很大，也正因此才使他对造成这一切的源泉——达奥斯，异常愤怒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/41/24175_crt_NJMBP.jpg?r=1594787272",
+        "link": "https://bgm.tv/character/24175",
+        "categorie": "person"
+      },
+      {
+        "id": "40079",
+        "label": "藤林玲",
+        "info": "忍者一族首领乱藏的孙女，由于她的父母——铜藏和冲代，被达奥斯控制而成为他的手下，因此她才会加入克雷斯的队伍。从很小时起，玲就开始接受忍者的特训。虽然她只有11岁，但在其脸上却已看不出任何感情的存在，因为对于忍者来说，完成任务才是最重要的，而感情则是不需要的东西，因此，就连父母死在自己面前时，她也没有流下过一滴眼泪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/9e/40079_crt_agMac.jpg?r=1594787324",
+        "link": "https://bgm.tv/character/40079",
+        "categorie": "person"
+      },
+      {
+        "id": "6868",
+        "label": "マーテル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/12/6868_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6868",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

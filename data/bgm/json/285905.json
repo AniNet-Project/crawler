@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74069",
+        "label": "影森满",
+        "info": "とある秘密を抱えてアニマシティへ逃げ込んできた女子高生のタヌキ獣人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/d1/74069_crt_CyyyC.jpg?r=1576658633",
+        "link": "https://bgm.tv/character/74069",
+        "categorie": "person"
+      },
+      {
+        "id": "74070",
+        "label": "大神士郎",
+        "info": "人間嫌いのオオカミ獣人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/2d/74070_crt_B0oTr.jpg?r=1576658611",
+        "link": "https://bgm.tv/character/74070",
+        "categorie": "person"
+      },
+      {
+        "id": "74071",
+        "label": "日渡荠",
+        "info": "みちるの親友で、アイドル志望の美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/4b/74071_crt_53C27.jpg?r=1589818151",
+        "link": "https://bgm.tv/character/74071",
+        "categorie": "person"
+      },
+      {
+        "id": "74072",
+        "label": "阿兰·西尔瓦斯塔",
+        "info": "財閥グループの御曹司であり、シルヴァスタ製薬の若きCEO。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/dd/74072_crt_zKdnp.jpg?r=1576658668",
+        "link": "https://bgm.tv/character/74072",
+        "categorie": "person"
+      },
+      {
+        "id": "76788",
+        "label": "克利夫·波利斯",
+        "info": "引领荠成为教祖“银狼”的面具人士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/05/76788_crt_N5y0X.jpg",
+        "link": "https://bgm.tv/character/76788",
+        "categorie": "person"
+      },
+      {
+        "id": "77058",
+        "label": "グラン グランマ",
+        "info": "女ギャングのボスでアメリカンファジーロップ獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/ca/77058_crt_p4LWN.jpg?r=1589126020",
+        "link": "https://bgm.tv/character/77058",
+        "categorie": "person"
+      },
+      {
+        "id": "77059",
+        "label": "艾尔莎",
+        "info": "グラングランマの部下でライオン獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6f/77059_crt_THw7Q.jpg?r=1589126057",
+        "link": "https://bgm.tv/character/77059",
+        "categorie": "person"
+      },
+      {
+        "id": "77060",
+        "label": "日下部胜",
+        "info": "ジュリアーノ・フリップの部下でブチハイエナ獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/44/77060_crt_4leCV.jpg?r=1589126085",
+        "link": "https://bgm.tv/character/77060",
+        "categorie": "person"
+      },
+      {
+        "id": "77061",
+        "label": "矢场广务",
+        "info": "メディカルセンター所長のインドサイ獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/1b/77061_crt_9rQpp.jpg?r=1589126108",
+        "link": "https://bgm.tv/character/77061",
+        "categorie": "person"
+      },
+      {
+        "id": "77062",
+        "label": "三村文雄",
+        "info": "メディカルセンター所員のカメレオン獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/8a/77062_crt_P8zYP.jpg",
+        "link": "https://bgm.tv/character/77062",
+        "categorie": "person"
+      },
+      {
+        "id": "77063",
+        "label": "妮娜",
+        "info": "イルカ獣人の中学生。フリップの娘であり、アニマシティから出たことがない。人間嫌いの父に反して、人間の世界や文化に憧れを抱いている。自分の趣味を唯一理解してくれるみちると友だちになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/98/77063_crt_8L1cH.jpg",
+        "link": "https://bgm.tv/character/77063",
+        "categorie": "person"
+      },
+      {
+        "id": "77064",
+        "label": "丽莎",
+        "info": "ニナのＳＮＳ仲間である人間の女の子",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/10/77064_crt_VU4IY.jpg",
+        "link": "https://bgm.tv/character/77064",
+        "categorie": "person"
+      },
+      {
+        "id": "77065",
+        "label": "杰基",
+        "info": "アニマシティの最貧困地区に住むクマ獣人。野球チーム『べアーズ』の選手として試合をしている。なんでも食べるし金に汚い。底抜けにバカだが、明るく元気で、毎日とても楽しそう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/ff/77065_crt_SPPSz.jpg",
+        "link": "https://bgm.tv/character/77065",
+        "categorie": "person"
+      },
+      {
+        "id": "77067",
+        "label": "早乙女",
+        "info": "野球賭博の胴元でクワッカワラビー獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/d3/77067_crt_hEECi.jpg",
+        "link": "https://bgm.tv/character/77067",
+        "categorie": "person"
+      },
+      {
+        "id": "77068",
+        "label": "但丁",
+        "info": "ベアーズの監督でアイアイ獣人",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/8f/77068_crt_P92QK.jpg",
+        "link": "https://bgm.tv/character/77068",
+        "categorie": "person"
+      },
+      {
+        "id": "78162",
+        "label": "平哥",
+        "info": "空を愛するワタリアホウドリ獣人。ワタリドリの特性で先祖代々海や陸を越えて移動しており、飛行用ゴーグルと通信用ヘッドセットを身につけている。飄々とした性格で、ワタリドリであることに誇りを持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/74/78162_crt_6ggT5.jpg",
+        "link": "https://bgm.tv/character/78162",
+        "categorie": "person"
+      },
+      {
+        "id": "78163",
+        "label": "メテオール",
+        "info": "ハヤブサ獣人。金さえもらえば何でもする殺し屋。闇の世界で『メテオール』と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/3b/78163_crt_Q6MZH.jpg",
+        "link": "https://bgm.tv/character/78163",
+        "categorie": "person"
+      },
+      {
+        "id": "77066",
+        "label": "熊",
+        "info": "クマ獣人たちの弱小野球チーム",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b5/77066_crt_4vxj3.jpg",
+        "link": "https://bgm.tv/character/77066",
+        "categorie": "person"
+      },
+      {
+        "id": "76150",
+        "label": "巴尔巴雷·罗瑟",
+        "info": "アニマシティの市長であり、ハダカデバネズミ獣人。学者でもあり、聡明で温和な性格。みちるが人間であることを知り、監視下に置くとともに身を案じてくれてもいる。士郎とは旧知の仲で、誰も彼女の年齢は知らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/38/76150_crt_xu76V.jpg?r=1583974562",
+        "link": "https://bgm.tv/character/76150",
+        "categorie": "person"
+      },
+      {
+        "id": "76151",
+        "label": "玛丽伊丹",
+        "info": "アニマシティを熟知しており、みちるを助けてくれたりくれなかったりする世渡り上手。イタチに見えるがミンクらしい。自分ためなら平気でスリや詐欺も働くが、悪びれない性格でどこか憎めない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/8d/76151_crt_SiQGn.jpg?r=1583974789",
+        "link": "https://bgm.tv/character/76151",
+        "categorie": "person"
+      },
+      {
+        "id": "76158",
+        "label": "石崎浩一",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76158",
+        "categorie": "person"
+      },
+      {
+        "id": "76152",
+        "label": "立木勇次",
+        "info": "アニマシティ市警の警部・イヌ獣人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/dd/76152_crt_ZXpRT.jpg?r=1583975133",
+        "link": "https://bgm.tv/character/76152",
+        "categorie": "person"
+      },
+      {
+        "id": "76153",
+        "label": "杰姆·霍纳",
+        "info": "獣人生活協同組合、通称・獣協の組合長のニワトリ獣人。獣協のビルに居候する士郎とみちるの世話も見てくれている。温厚かつおおざっぱな性格で、滅多に怒らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/86/76153_crt_F34uN.jpg?r=1583975536",
+        "link": "https://bgm.tv/character/76153",
+        "categorie": "person"
+      },
+      {
+        "id": "76154",
+        "label": "梅莉莎·霍纳",
+        "info": "獣協の副組合長のウォンバット獣人。明るく面倒見の良い性格で、士郎やみちるのために食事を作ってくれることも。夫のジェムの雑さにたまに腹を立てているが、仲はとても良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/60/76154_crt_baxaE.jpg?r=1583975755",
+        "link": "https://bgm.tv/character/76154",
+        "categorie": "person"
+      },
+      {
+        "id": "76155",
+        "label": "朱利亚诺·弗利普",
+        "info": "アニマシティを牛耳るマフィア『ザ・ファミリー』のボスであるイルカ獣人。冷酷で残忍だが、身内思いな面も持っており、ひとり娘にだけは甘くて過保護。士郎のことを厄介な相手だと思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/ea/76155_crt_zdd2x.jpg?r=1583975962",
+        "link": "https://bgm.tv/character/76155",
+        "categorie": "person"
+      },
+      {
+        "id": "76156",
+        "label": "白水总理",
+        "info": "日本の総理大臣。獣人特区『アニマシティ』を認めているが、内心どう思っているかは、誰にも分からない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/ff/76156_crt_DZ1Ed.jpg?r=1583976155",
+        "link": "https://bgm.tv/character/76156",
+        "categorie": "person"
+      },
+      {
+        "id": "76157",
+        "label": "小黑",
+        "info": "士郎の飼っているカラス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/f1/76157_crt_Do3RD.jpg?r=1583976280",
+        "link": "https://bgm.tv/character/76157",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

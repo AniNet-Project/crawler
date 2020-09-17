@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45913",
+        "label": "クリス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/21/45913_crt_m6486.jpg",
+        "link": "https://bgm.tv/character/45913",
+        "categorie": "person"
+      },
+      {
+        "id": "45914",
+        "label": "クレハ",
+        "info": "防卫队总队长代理",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/1e/45914_crt_ea0Aj.jpg",
+        "link": "https://bgm.tv/character/45914",
+        "categorie": "person"
+      },
+      {
+        "id": "45915",
+        "label": "マーシャ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/2e/45915_crt_5GaG4.jpg",
+        "link": "https://bgm.tv/character/45915",
+        "categorie": "person"
+      },
+      {
+        "id": "45917",
+        "label": "ナナカ",
+        "info": "工房助手",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/77/45917_crt_lXFkk.jpg",
+        "link": "https://bgm.tv/character/45917",
+        "categorie": "person"
+      },
+      {
+        "id": "45918",
+        "label": "カコ",
+        "info": "防卫队员",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/98/45918_crt_e003E.jpg",
+        "link": "https://bgm.tv/character/45918",
+        "categorie": "person"
+      },
+      {
+        "id": "45919",
+        "label": "カジカ",
+        "info": "防卫队员",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/72/45919_crt_HIZiT.jpg",
+        "link": "https://bgm.tv/character/45919",
+        "categorie": "person"
+      },
+      {
+        "id": "45920",
+        "label": "ヤナギ",
+        "info": "防卫队员",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/4a/45920_crt_ZWnNe.jpg",
+        "link": "https://bgm.tv/character/45920",
+        "categorie": "person"
+      },
+      {
+        "id": "45921",
+        "label": "ハンゾウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/74/45921_crt_Oh7CH.jpg",
+        "link": "https://bgm.tv/character/45921",
+        "categorie": "person"
+      },
+      {
+        "id": "45922",
+        "label": "ツバキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/75/45922_crt_AtCL2.jpg",
+        "link": "https://bgm.tv/character/45922",
+        "categorie": "person"
+      },
+      {
+        "id": "22835",
+        "label": "结月缘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/b4/22835_crt_yzYRq.jpg?r=1388763822",
+        "link": "https://bgm.tv/character/22835",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

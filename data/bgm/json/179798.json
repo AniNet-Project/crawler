@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41835",
+        "label": "森川心羽",
+        "info": "岡山で父親と二人暮らしの女子高生。昼寝をしては不思議な夢をみている。勉強は苦手だけど父親思いの活発な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/a2/41835_crt_AkvPX.jpg?r=1488007348",
+        "link": "https://bgm.tv/character/41835",
+        "categorie": "person"
+      },
+      {
+        "id": "51754",
+        "label": "エンシェン・ト・ハート",
+        "info": "機械づくりの国、ハートランドの姫君。ハートランド王の娘でモノや機械を命を与える魔法を使える。魔法の力で鬼を倒そうと考える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/7c/51754_crt_jGh3c.jpg?r=1488007766",
+        "link": "https://bgm.tv/character/51754",
+        "categorie": "person"
+      },
+      {
+        "id": "48693",
+        "label": "佐渡守男",
+        "info": "ココネよりも２歳年上の幼馴染。現在は東工大の２年生。SNSのアプリを自作でプログラムしたりもできる理系オタク。素数が好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/04/48693_crt_T9oE3.jpg?r=1488007331",
+        "link": "https://bgm.tv/character/48693",
+        "categorie": "person"
+      },
+      {
+        "id": "48699",
+        "label": "森川桃太郎",
+        "info": "ココネの父親。男気のある元ヤンキー。早くに妻を亡くしており、ココネとはほとんど会話がない。岡山県倉敷市の児島・下津井で、小さな自動車修理工場を営んでいるが、商売はそっちのけで毎日車の改造ばかり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/36/48699_crt_X2cLs.jpg?r=1488008624",
+        "link": "https://bgm.tv/character/48699",
+        "categorie": "person"
+      },
+      {
+        "id": "48700",
+        "label": "ジョイ",
+        "info": "ココネが肌身離さず持ち歩く、柴犬のぬいぐるみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/37/48700_crt_Xa2Bw.jpg",
+        "link": "https://bgm.tv/character/48700",
+        "categorie": "person"
+      },
+      {
+        "id": "48695",
+        "label": "渡边一郎",
+        "info": "志島自動車の取締役。志島自動車を乗っ取ろうと企み、モモタローが隠したタブレットを奪おうを躍起になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/a6/48695_crt_Igdrh.jpg?r=1488009746",
+        "link": "https://bgm.tv/character/48695",
+        "categorie": "person"
+      },
+      {
+        "id": "48697",
+        "label": "志岛一心",
+        "info": "巨大自動車会社「志島自動車」の会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/f2/48697_crt_33Hpf.jpg?r=1488009850",
+        "link": "https://bgm.tv/character/48697",
+        "categorie": "person"
+      },
+      {
+        "id": "48696",
+        "label": "雉田",
+        "info": "地元の警察官。モモタローの親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/f9/48696_crt_WdDlW.jpg?r=1488010149",
+        "link": "https://bgm.tv/character/48696",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18105",
+        "label": "黑木智子",
+        "info": "本作主角，为一名高中一年级的女学生。常以带着撩乱长发，疲倦黑眼袋的模样见人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/f7/18105_crt_8GR44.jpg",
+        "link": "https://bgm.tv/character/18105",
+        "categorie": "person"
+      },
+      {
+        "id": "18106",
+        "label": "黑木智贵",
+        "info": "黑木智子的弟弟，为一名国二生，在学校是足球社的社员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/d0/18106_crt_q3e3h.jpg",
+        "link": "https://bgm.tv/character/18106",
+        "categorie": "person"
+      },
+      {
+        "id": "20070",
+        "label": "成濑优",
+        "info": "黑木智子就读中学时的同学，就读与智子不同的高校，是少数仍与智子联系的友人。 上高校时成为较懂得打扮的少女，并有一名男友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ba/20070_crt_gMu4O.jpg",
+        "link": "https://bgm.tv/character/20070",
+        "categorie": "person"
+      },
+      {
+        "id": "28074",
+        "label": "今江惠美",
+        "info": "智子学校的学生会长，在学校的文化祭上与智子有过一些互动，是性格体贴的高年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/75/28074_crt_wDMGm.jpg?r=1436516757",
+        "link": "https://bgm.tv/character/28074",
+        "categorie": "person"
+      },
+      {
+        "id": "50008",
+        "label": "里崎希心",
+        "info": "智子の従妹。初登場時、中学1年生。遠方の田舎に住んでおり、お盆・年末年始は黒木家に遊びに来る。家族は母親が登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/15/50008_crt_Ttk82.jpg",
+        "link": "https://bgm.tv/character/50008",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

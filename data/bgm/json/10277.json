@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10374",
+        "label": "参太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/48/10374_crt_BBt04.jpg",
+        "link": "https://bgm.tv/character/10374",
+        "categorie": "person"
+      },
+      {
+        "id": "10378",
+        "label": "マイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/77/10378_crt_9P2zs.jpg",
+        "link": "https://bgm.tv/character/10378",
+        "categorie": "person"
+      },
+      {
+        "id": "10375",
+        "label": "シャリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/0f/10375_crt_Tp8F0.jpg",
+        "link": "https://bgm.tv/character/10375",
+        "categorie": "person"
+      },
+      {
+        "id": "10376",
+        "label": "ノエル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/b6/10376_crt_V1qcH.jpg",
+        "link": "https://bgm.tv/character/10376",
+        "categorie": "person"
+      },
+      {
+        "id": "14730",
+        "label": "マイマイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/1f/14730_crt_uiese.jpg",
+        "link": "https://bgm.tv/character/14730",
+        "categorie": "person"
+      },
+      {
+        "id": "14731",
+        "label": "斎藤美奈子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a8/14731_crt_Oq4MQ.jpg",
+        "link": "https://bgm.tv/character/14731",
+        "categorie": "person"
+      },
+      {
+        "id": "10377",
+        "label": "ペドロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/4e/10377_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10377",
+        "categorie": "person"
+      },
+      {
+        "id": "10381",
+        "label": "ママ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/1f/10381_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10381",
+        "categorie": "person"
+      },
+      {
+        "id": "10382",
+        "label": "団長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/27/10382_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10382",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

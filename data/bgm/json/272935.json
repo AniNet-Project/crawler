@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50632",
+        "label": "小鸟游汐栞",
+        "info": "主人公・望の幼なじみの女の子。 一見地味で物静かだが、明るい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ee/50632_crt_2r8KP.jpg",
+        "link": "https://bgm.tv/character/50632",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

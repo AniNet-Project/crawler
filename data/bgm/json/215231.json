@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64760",
+        "label": "小训",
+        "info": "甘えん坊の男の子(4歳)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/94/64760_crt_j3i4k.jpg?r=1531648237",
+        "link": "https://bgm.tv/character/64760",
+        "categorie": "person"
+      },
+      {
+        "id": "64761",
+        "label": "未来",
+        "info": "くんちゃんのことを「お兄ちゃん」と呼ぶ、未来からやってきた不思議な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/ea/64761_crt_MJqnq.jpg?r=1531660916",
+        "link": "https://bgm.tv/character/64761",
+        "categorie": "person"
+      },
+      {
+        "id": "64762",
+        "label": "爸爸",
+        "info": "フリーの建築家でくんちゃんのお父さん。自宅で仕事と育児の両立を目指すが、いつも失敗ばかり。抱っこが苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/53/64762_crt_9A332.jpg?r=1531661032",
+        "link": "https://bgm.tv/character/64762",
+        "categorie": "person"
+      },
+      {
+        "id": "64763",
+        "label": "妈妈",
+        "info": "くんちゃんのお母さん。子育てに仕事にと大忙しだが、いつもベストを尽くそうとしている。片付けが苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/2f/64763_crt_FRtHT.jpg?r=1531661100",
+        "link": "https://bgm.tv/character/64763",
+        "categorie": "person"
+      },
+      {
+        "id": "64764",
+        "label": "迷之男子",
+        "info": "かつてこの家の王子だったと名乗る謎の男。なぜか愛情を渇望し、くんちゃんに問いかける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/66/64764_crt_p8ieW.jpg?r=1531661161",
+        "link": "https://bgm.tv/character/64764",
+        "categorie": "person"
+      },
+      {
+        "id": "64765",
+        "label": "奶奶",
+        "info": "くんちゃんの祖母。二人目の孫が生まれるにあたって、くんちゃんや犬のゆっこの世話を手伝う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/42/64765_crt_vohVZ.jpg?r=1531661411",
+        "link": "https://bgm.tv/character/64765",
+        "categorie": "person"
+      },
+      {
+        "id": "64766",
+        "label": "爷爷",
+        "info": "くんちゃんの祖父。ひなまつりの日に、孫に会いにくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/e1/64766_crt_weYGR.jpg?r=1531661716",
+        "link": "https://bgm.tv/character/64766",
+        "categorie": "person"
+      },
+      {
+        "id": "64767",
+        "label": "青年",
+        "info": "くんちゃんが時をこえた先で出会う青年。父親の面影を宿している。くんちゃんに大きな影響を与えることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/6f/64767_crt_6vXNM.jpg?r=1531661791",
+        "link": "https://bgm.tv/character/64767",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9211",
+        "label": "苍井水面",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/62/9211_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9211",
+        "categorie": "person"
+      },
+      {
+        "id": "19648",
+        "label": "波留真理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/8d/19648_crt_awH0C.jpg",
+        "link": "https://bgm.tv/character/19648",
+        "categorie": "person"
+      },
+      {
+        "id": "38169",
+        "label": "久岛永一朗",
+        "info": "波留の旧友であり、彼に対し様々なサポートを計らっている。メタリアル・ネットワークの開発者でもある。脳以外全身義体化しているため、外見は49年前とほとんど変わらないが、実年齢は波留の1歳上の82歳である。ミナモの祖母・洋子とも昔から親交がある。また、書記長の次期候補に名を連ねている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/c5/38169_crt_JZI55.jpg?r=1452695784",
+        "link": "https://bgm.tv/character/38169",
+        "categorie": "person"
+      },
+      {
+        "id": "9212",
+        "label": "Holon",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/86/9212_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9212",
+        "categorie": "person"
+      },
+      {
+        "id": "12575",
+        "label": "苍井惣太",
+        "info": "　　在人工岛出生的电脑研实习医师。水面的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/9b/12575_crt_SrH9W.jpg",
+        "link": "https://bgm.tv/character/12575",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

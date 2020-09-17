@@ -1,0 +1,413 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32771",
+        "label": "宫之下五月",
+        "info": "本作の主人公で小学5年生。元気良く、相手が誰（妖怪含む）であろうと真正面を向いて接しており機転もきくが、怖がりな面もある。母親を亡くしているため家事全般をこなしているしっかり者。料理は亡き母親の直伝で餃子が得意。また、毎朝新聞の折込チラシをチェックしている（本人曰く「主婦として当然」）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/bc/32771_crt_YNv33.jpg?r=1432099480",
+        "link": "https://bgm.tv/character/32771",
+        "categorie": "person"
+      },
+      {
+        "id": "32772",
+        "label": "宮之下敬一郎",
+        "info": "さつきの弟で小学1年生。りんごジュースが好きで、ピーマンが嫌い。母である佳耶子への思いは幼い分だけさつきより引きずっているが、第12話にて成長した。主要キャラクターの中で最も怖だが、最も純粋な心の持ち主でもあり、第5話ではだっとを改心させた。黒猫カーヤを誰にもまして可愛がっており、天の邪鬼が乗り移った後もそれは変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/5c/32772_crt_xLVJD.jpg?r=1432099338",
+        "link": "https://bgm.tv/character/32772",
+        "categorie": "person"
+      },
+      {
+        "id": "32773",
+        "label": "青山一",
+        "info": "宮ノ下家の隣に住むさつきと同じクラスの少年で小学5年生。スケベであり、ほぼ毎回さつきのスカートをめくっては反撃を食らっている。本人曰く「根性だけならだれにも負けない」とのこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/34/32773_crt_nYk36.jpg?r=1432099659",
+        "link": "https://bgm.tv/character/32773",
+        "categorie": "person"
+      },
+      {
+        "id": "32774",
+        "label": "柿之木雷欧",
+        "info": "地味な顔だちの少年でさつきと同じクラスの小学5年生で、自称「校内一の心霊研究家」。カメラマンである父親（声：中嶋聡彦）の影響でカメラ（父親の影響）、特撮技術、サイト運営など多様な趣味を持つ。自分の研究には自信があり、その点についてはとても負けず嫌いで努力家。常に理論理工系のしゃべり方をし、使用マシンは色違いなれどVAIOのデスクトップマシン、PHSも所有しており、本作品登場キャラクター中もっともIT系（当時は小学生がPHSなどを持つことはまれであったため）。ハジメのスカートめくりの癖に関して「その癖だけは直したほうがいい」と指摘しているものの、一度ハジメと結託してさつきのスカートの中をカメラで撮ったことがある（その時、さつきは見えパンを穿いていたが）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/3b/32774_crt_7gd6d.jpg?r=1432099818",
+        "link": "https://bgm.tv/character/32774",
+        "categorie": "person"
+      },
+      {
+        "id": "32775",
+        "label": "恋之洼桃子",
+        "info": "小学6年生。体が弱い美人なお嬢様。作品開始の1年前、転校と病気入院（聖ロザリオ病院に1年間。留年はしていない）が重なったため、同学年に友達が少なく、一学年下のさつき達と一緒に行動することが多い。なお、佳耶子および敬一郎とは入院中に聖ロザリオ病院で会っている。少々天然でおっとりした性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/1f/32775_crt_T4cux.jpg?r=1432100005",
+        "link": "https://bgm.tv/character/32775",
+        "categorie": "person"
+      },
+      {
+        "id": "32776",
+        "label": "卡亚",
+        "info": "宮ノ下家で飼われている黒猫で、右目が黄色・左目が水色のオッドアイ。母・佳耶子の葬式の時に宮ノ下家にまぎれてきて家族となったという経緯があり、特に敬一郎からは溺愛されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/e2/32776_crt_esBv0.jpg",
+        "link": "https://bgm.tv/character/32776",
+        "categorie": "person"
+      },
+      {
+        "id": "32778",
+        "label": "宮之下礼一郎",
+        "info": "声 - 室園丈裕、阪口大助（少年時代）",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/07/32778_crt_FgMpW.jpg",
+        "link": "https://bgm.tv/character/32778",
+        "categorie": "person"
+      },
+      {
+        "id": "32796",
+        "label": "坂田",
+        "info": "さつき達のいる5年3組の担任の先生。オバケの類は信じていないようで、赤紙青紙にトイレに引きずりこまれても生徒の悪戯だと思い込んでいる。だが、メリー人形に対するさつきと敬一郎の気持ちを否定することなく、メリーさんを人形寺に連れていった事もある。松嶋先生に気があるのかどうかは不明だが、美人には弱い。なお、校舎が壊れると校長先生に叱られているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/52/32796_crt_AXPzp.jpg",
+        "link": "https://bgm.tv/character/32796",
+        "categorie": "person"
+      },
+      {
+        "id": "32798",
+        "label": "松岛",
+        "info": "敬一郎のいる1年2組担任の先生。性格は温厚だが、やる時にはハンマーを振り回すパワーを秘めている。放送委員の顧問。作品中、さつきたちの周りの大人で唯一オバケの存在を認めた人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b2/32798_crt_TFIiw.jpg?r=1432696354",
+        "link": "https://bgm.tv/character/32798",
+        "categorie": "person"
+      },
+      {
+        "id": "32800",
+        "label": "厕所的花子",
+        "info": "第1話などに登場。学校の怪談の中ではポピュラーな、トイレに現れる少女の霊。本作では人を驚かせて遊んでいる程度で、実害を加えることはない。オバケとしてはあまり強い立場にはないようで、赤紙青紙にねぐらとしていたトイレを追われ、トイレに入ったさつきたちには｢入っちゃダメ…｣と呟いている。普段は無表情だが、赤紙青紙事件が解決した後は喜んで微笑んだ。ダビンチの話では、人面犬、二宮金次郎と共にさつきたちに協力した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/b6/32800_crt_eUdGP.jpg",
+        "link": "https://bgm.tv/character/32800",
+        "categorie": "person"
+      },
+      {
+        "id": "32777",
+        "label": "宮之下佳耶子",
+        "info": "礼一郎の妻でさつき、敬一郎の母親。旧姓：神山。桃子曰く「強い人」。桃子と同様に霊感が強い。さつきたちの通っている小学校の卒業生で、礼一郎とは元同級生。作中に登場するオバケ日記は彼女が小学生の時に書いたものである。 亡くなってからすでに2年が経過しているが、いまだに成仏しきっていないようで桃子の体を借りて何度もさつき達を助けた。ちなみに、さつきの料理は佳耶子の直伝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/64/32777_crt_lfwKd.jpg?r=1432201694",
+        "link": "https://bgm.tv/character/32777",
+        "categorie": "person"
+      },
+      {
+        "id": "32797",
+        "label": "校长",
+        "info": "喋りが豪快で、レオを片手でヒョイと持ち上げることのできるパワフルな校長。生徒の主張にきちんと耳を傾けてくれる人物。学校のどこかが壊れると、坂田先生を叱るらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/0e/32797_crt_Om91H.jpg",
+        "link": "https://bgm.tv/character/32797",
+        "categorie": "person"
+      },
+      {
+        "id": "32801",
+        "label": "二宫金次郎像",
+        "info": "第1話などに登場。学校の怪談や都市伝説ではポピュラーな霊。実際さつき達に危害を及ぼしたことはない。像になっても読書が好きで、旧校舎の図書室で本を借りる場面があった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/bd/32801_crt_QSKSy.jpg",
+        "link": "https://bgm.tv/character/32801",
+        "categorie": "person"
+      },
+      {
+        "id": "32802",
+        "label": "赤纸青纸",
+        "info": "第2話。旧校舎の便器に潜み「赤い紙」か「青い紙」かを問い、どちらを答えた場合も悲惨な目に遭い、答えない場合はトイレに引きずり込まれ、それ以外の色を答えた場合は異世界に連れて行かれ、2度と戻れない。このオバケにトイレの花子さんも悩まされているらしく、助けを求めていた。一度はさつきに霊眠させられるが、最終話で逢魔の力で復活する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/0a/32802_crt_1p28K.jpg",
+        "link": "https://bgm.tv/character/32802",
+        "categorie": "person"
+      },
+      {
+        "id": "32803",
+        "label": "ピアノお化け",
+        "info": "第4話。ベートーヴェンの「エリーゼのために」を対象者に聴かせ、4回目を聴き終えた者を死に至らしめるオバケ。ピアノお化けという名前であるが、本体はピアノではなくベートーヴェンの肖像画であり、姿もベートーヴェンを真似た姿をしている。ピアノに限らず、テレビ、ラジカセなど音が出る物ならどこからでも演奏する事が可能。さつきに3回目まで聞かせたが、4回目の最後の1音の所で、桃子に憑依した佳耶子によりメトロノームに霊眠させられた。なお、佳耶子が子供の頃は居なかったらしく、オバケ日記にその存在や霊眠方法は書かれていなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/eb/32803_crt_LysA1.jpg",
+        "link": "https://bgm.tv/character/32803",
+        "categorie": "person"
+      },
+      {
+        "id": "32804",
+        "label": "だっと",
+        "info": "第5話に登場。運動会の直前に事故死した少年の霊が強い無念から妖怪化したもの。走る者を憎み、生前の「速く走りたい」という想いから、巨大な鎌を用いて人間の足を狩ろうとする。最初に現れた時は生前のものと思しき少年の姿をしていたが、敬一郎に襲い掛かろうとした際に黒い兎のような正体を現した。だが、敬一郎の純粋さに触れ、最後には自ら霊眠した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/ab/32804_crt_wIX4c.jpg",
+        "link": "https://bgm.tv/character/32804",
+        "categorie": "person"
+      },
+      {
+        "id": "32805",
+        "label": "黄泉路の鬼",
+        "info": "声 - 西村知道、菊池志穂（少女の姿）",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/a8/32805_crt_1OZ1B.jpg",
+        "link": "https://bgm.tv/character/32805",
+        "categorie": "person"
+      },
+      {
+        "id": "32806",
+        "label": "タクシー運転手の霊",
+        "info": "第10話に登場。トンネル事故で死んだ霊で、娘の誕生日が命日。娘を残して死んでしまった申し訳なさから、この世に留まり穴まねきの一部と化していた。しかし、本来は決して悪い霊ではなく、トンネルに迷い込んださつき達をトンネルから脱出させた。彼がいなければさつき達は穴まねきに取込まれてしまうところだった。天の川タクシーの元社員で1970年代式のブルーバード（410型前期型）を運転していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/0a/32806_crt_NNhOI.jpg",
+        "link": "https://bgm.tv/character/32806",
+        "categorie": "person"
+      },
+      {
+        "id": "32807",
+        "label": "圭太",
+        "info": "第三话出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b2/32807_crt_oR5WT.jpg",
+        "link": "https://bgm.tv/character/32807",
+        "categorie": "person"
+      },
+      {
+        "id": "32809",
+        "label": "メリーさん",
+        "info": "第11話に登場。ゴミ捨て場に捨てられていた人形。捨てろと言ったさつきに恨みを持って何度も電話をかけ、捨てた本人である礼一郎にも危害を加えた。坂田先生に人形寺に預けられるが、同じく預けられていた他の人形達[3]の影を操って全員でさつきを襲う。しかし、本来は決して悪いオバケではないらしく、さつきがハンカチで自分の顔の汚れをふき取ってくれたことを思い出し、そのハンカチを引き換えにさつきには実害を加えず、どこかへ去っていった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/54/32809_crt_Hz73B.jpg",
+        "link": "https://bgm.tv/character/32809",
+        "categorie": "person"
+      },
+      {
+        "id": "32810",
+        "label": "ダビンチ",
+        "info": "第13話に登場。レオナルド・ダ・ヴィンチに憧れた美術教師が自殺し、悪霊と化したもの。ベレー帽を被った骸骨の姿をしている。「美しいもの」（特に美少女）を何よりも愛し、それを絵に描くことを喜びとする。ダビンチの絵のモデルにされた者は、絵が完成すると絵に魂を吸い込まれ、二度と戻ってくることは出来ない。それは人間のみならず、オバケにもいえることだという。それゆえに、オバケたちからも恐れられている存在。絵を通して時代を越える能力を持ち、さつきの絵を通して28年前（佳耶子がダビンチを霊眠させた時代）へと逃げ込んだが、さつきに事情を聞かされた佳耶子によって再び霊眠させられる。炎や煙が弱点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/48/32810_crt_XZp20.jpg",
+        "link": "https://bgm.tv/character/32810",
+        "categorie": "person"
+      },
+      {
+        "id": "32811",
+        "label": "しづ子",
+        "info": "第14話に登場。3年前に轢き逃げ事故で死亡した女性の地縛霊。レオが桃子を撮った写真に写り、桃子を道連れにしようとしていた。事故の衝撃で紛失した婚約指輪が未練となっていたが、レオの必死の呼びかけとさつき達がその指輪を発見したことで桃子から手を引き、その代わりに自分を轢き殺した天の川タクシーの運転手の滝沢（声：立木文彦）を襲い、タクシー諸共何処かへと消えていった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/3b/32811_crt_27a7y.jpg",
+        "link": "https://bgm.tv/character/32811",
+        "categorie": "person"
+      },
+      {
+        "id": "32812",
+        "label": "暗目",
+        "info": "第15話に登場。厳密にはオバケではなく異世界の魔物である。作中で28年前、6年4組の「松田忍」という女子生徒が、おまじないで闇目を呼び出し憑依されてしまったのが事の発端である。一度憑依された人間は二度と元に戻す事はできない。当時の28年前の彼女の姿でさつき達に近づき、願いを叶えるおまじないと偽って闇の儀式である「血の契約」を結ばせる。儀式の呪文には、光を忌み闇を称える内容が含まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/67/32812_crt_w616O.jpg",
+        "link": "https://bgm.tv/character/32812",
+        "categorie": "person"
+      },
+      {
+        "id": "32813",
+        "label": "オバケ団地にいた男性",
+        "info": "第16話でオバケ団地に入ろうとしていたさつき達を制止した、作業服を着た中年男性。後にオバケ団地に入ったさつき達の前に現れ、この団地の正体が巣魔であることをさつき達に教えた。実はオバケ団地を建てた張本人で彼もまた巣魔の犠牲となった者の一人だった。最後は巣魔を霊眠させるために自ら依り代となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/e8/32813_crt_23g9G.jpg",
+        "link": "https://bgm.tv/character/32813",
+        "categorie": "person"
+      },
+      {
+        "id": "32814",
+        "label": "オバケ団地にいた老人",
+        "info": "第16話のオバケ団地の一室に居た老人で、巣魔の一部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/23/32814_crt_u0uk6.jpg",
+        "link": "https://bgm.tv/character/32814",
+        "categorie": "person"
+      },
+      {
+        "id": "32815",
+        "label": "白金ゆき",
+        "info": "第17話に登場。さつきの遠い親戚の旅館で出会った少女の幽霊。実は40年前に血染め湖に落ちて溺死した旅館の仲居の娘。さつき達には旅館の娘・美雪の妹と名乗り、美雪を幽霊に仕立て上げるが、ハジメが見た新聞記事で当時10歳の姿のままのゆきの正体を見破る。自己中心的な性格で寂しさのあまり彼女は悪霊（雪女）と化し、美雪を道連れにしようとするが、さつき達が霊眠させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/2d/32815_crt_cszH6.jpg",
+        "link": "https://bgm.tv/character/32815",
+        "categorie": "person"
+      },
+      {
+        "id": "32816",
+        "label": "放送室の茜さん",
+        "info": "第18話に登場。旧校舎の放送室で心臓発作で死亡した茜という女生徒が悪霊と化したもの。放送を最後まで遂げられなかったことが未練で道連れを求めていた。茜の放送を聞いてしまった人は日没と共に死んでしまう。旧校舎の放送室にあるマイクに霊眠させられていたが、マイクが腐って折れてしまい霊眠が解けた。霊眠が解けた直後には実力を発揮できなかったため放送係は高熱程度で済んだが、完全に復活した時に放送を臨時で行なっていたさつきとその放送を聞いた全員を殺そうとした。さつきが初めて自力で霊眠させた霊。「4」つまり「死」という言葉を嫌い、カウントダウンでも「4」のつく数字は口にしていない。だが、それが原因でさつきは霊眠方法を見つける事が出来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ef/32816_crt_1eaq8.jpg",
+        "link": "https://bgm.tv/character/32816",
+        "categorie": "person"
+      },
+      {
+        "id": "32817",
+        "label": "逢魔",
+        "info": "最終話に登場する、強大な力を持つ怨霊。前述のように、通常のオバケは依り代が破壊されない限り霊眠が解けることはないが、逢魔だけは例外で、霊眠させられた状態でも力を蓄え、自ら復活することができる。また、周囲の人間のみならず、霊眠させられたオバケを復活させるなど、周りの物を自在に操る能力に長けている。逢魔との戦いは、神山家に先祖代々引き継がれる「最大の試練」とされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/85/32817_crt_Q1a61.jpg",
+        "link": "https://bgm.tv/character/32817",
+        "categorie": "person"
+      },
+      {
+        "id": "32818",
+        "label": "首なしライダー",
+        "info": "旧校舎をバイクで徘徊する特攻服の首なしライダーで、13年前に海に落ちて亡くなった暴走族が悪霊と化したもの。第1話でゲスト出演し、特番の回でさつき達と敵対する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/a4/32818_crt_vHkho.jpg",
+        "link": "https://bgm.tv/character/32818",
+        "categorie": "person"
+      },
+      {
+        "id": "32819",
+        "label": "口裂け女",
+        "info": "(未放送)",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32819",
+        "categorie": "person"
+      },
+      {
+        "id": "32820",
+        "label": "レオの父",
+        "info": "カメラマン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/db/32820_crt_3Y0J6.jpg",
+        "link": "https://bgm.tv/character/32820",
+        "categorie": "person"
+      },
+      {
+        "id": "32821",
+        "label": "レオの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/e9/32821_crt_k1k49.jpg",
+        "link": "https://bgm.tv/character/32821",
+        "categorie": "person"
+      },
+      {
+        "id": "32830",
+        "label": "冈部",
+        "info": "音楽担当の先生。「死者からの鎮魂歌 エリーゼ」の回では、さつきがハジメを廊下を走って追いかけていたところを呼び止めて注意していた。その際、ハジメがすきを見て逃げたため、さつきが旧校舎の音楽室への荷物運びを手伝わされる事になった。その後、旧校舎前の中庭でバケツを蹴って遊んでいた男子生徒たちを追いかけて注意するため、さつきに先に音楽室に行くように指示していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/2b/32830_crt_j6QlX.jpg",
+        "link": "https://bgm.tv/character/32830",
+        "categorie": "person"
+      },
+      {
+        "id": "32831",
+        "label": "今井ミオ",
+        "info": "さつき達のクラスメイトの一人。校内の飼育委員でうさぎの面倒を見ていた。内気な性格で友人がおらず、唯一の友達だったうさぎのシロタビが死んだ時は後追い自殺まで考えたと述べている。第9話において死者復活の儀式でシロタビを蘇らせてしまうが、凶暴化したために、シロタビを霊眠させる。後に、坂田が新たに連れてきたシロタビの子供達の世話をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/2e/32831_crt_8lT4C.jpg?r=1432521195",
+        "link": "https://bgm.tv/character/32831",
+        "categorie": "person"
+      },
+      {
+        "id": "32832",
+        "label": "清原美园",
+        "info": "さつき達のクラスメイトの一人。胸に「CA」とかかれた服を着ているおかっぱ頭の少女。自分で試してもいないお呪いを友達に薦め、成功してから試すなどちゃっかりした性格。しかし、あやが消えた後しのぶにつっかかっており、芯はしっかりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/87/32832_crt_atUhs.jpg",
+        "link": "https://bgm.tv/character/32832",
+        "categorie": "person"
+      },
+      {
+        "id": "32833",
+        "label": "高橋ともみ",
+        "info": "さつき達のクラスメイトの一人。ポニーテールで、胸にチューリップらしき絵が画かれた服を着ている少女。美園とあやの友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/48/32833_crt_Iyt99.jpg",
+        "link": "https://bgm.tv/character/32833",
+        "categorie": "person"
+      },
+      {
+        "id": "32834",
+        "label": "江藤あや",
+        "info": "さつき達のクラスメイトの一人。ピンクのストライプの服を着ている少女（第2話以外）。学級委員。学芸会の時には衣装を着て、舞台袖にいたり、劇終了後には坂田と共に舞台真中に来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/4c/32834_crt_fA01w.jpg",
+        "link": "https://bgm.tv/character/32834",
+        "categorie": "person"
+      },
+      {
+        "id": "32835",
+        "label": "松田忍",
+        "info": "さつき達のクラスメイトで占いやお呪いに詳しい少女。冷たい雰囲気の怪しい容姿をしている。28年前、同姓同名の生徒が旧校舎の教室で目撃されたのを最後に行方不明になっていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/3f/32835_crt_yru6U.jpg",
+        "link": "https://bgm.tv/character/32835",
+        "categorie": "person"
+      },
+      {
+        "id": "32836",
+        "label": "渡辺みゆき",
+        "info": "さつきの従姉妹。雪国の田舎で両親と共に旅館を経営している。さつき達は、白金ゆき（血染め湖の亡霊）に騙され、彼女が死んで亡霊になったと思いこまされていた。ちなみに、ゆきはその際、彼女の妹と名乗っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/76/32836_crt_lZH4l.jpg?r=1433238921",
+        "link": "https://bgm.tv/character/32836",
+        "categorie": "person"
+      },
+      {
+        "id": "32837",
+        "label": "さつき、敬一郎の祖父",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32837",
+        "categorie": "person"
+      },
+      {
+        "id": "32838",
+        "label": "ハジメの母",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32838",
+        "categorie": "person"
+      },
+      {
+        "id": "32839",
+        "label": "桃子の父",
+        "info": "レストラン経営者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/8f/32839_crt_q9doY.jpg",
+        "link": "https://bgm.tv/character/32839",
+        "categorie": "person"
+      },
+      {
+        "id": "32840",
+        "label": "桃子の母",
+        "info": "弁護士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/f7/32840_crt_SwYG3.jpg?r=1432870177",
+        "link": "https://bgm.tv/character/32840",
+        "categorie": "person"
+      },
+      {
+        "id": "32841",
+        "label": "ドライバー",
+        "info": "首なしライダーの命日にドライブしていた男性。不運にも首なしライダーと遭遇してしまい、山の上にあった鉄板がカッターのように落下。その時点では車の屋根が破損しただけで済んだが、恐怖のあまり完全に錯乱状態となり、「首を隠さなければ」と何度も叫んだ後自分の首をナイフで切り裂き意識不明の重体となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/30/32841_crt_cFx5X.jpg",
+        "link": "https://bgm.tv/character/32841",
+        "categorie": "person"
+      },
+      {
+        "id": "33023",
+        "label": "滝沢運転手",
+        "info": "ep.14",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/4f/33023_crt_47gtq.jpg?r=1432882210",
+        "link": "https://bgm.tv/character/33023",
+        "categorie": "person"
+      },
+      {
+        "id": "33024",
+        "label": "しづ子の母",
+        "info": "ep.14",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/29/33024_crt_DgbOd.jpg?r=1432882602",
+        "link": "https://bgm.tv/character/33024",
+        "categorie": "person"
+      },
+      {
+        "id": "33025",
+        "label": "学生",
+        "info": "ep.02",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/95/33025_crt_999v4.jpg",
+        "link": "https://bgm.tv/character/33025",
+        "categorie": "person"
+      },
+      {
+        "id": "33091",
+        "label": "女将",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/17/33091_crt_XPH8C.jpg",
+        "link": "https://bgm.tv/character/33091",
+        "categorie": "person"
+      },
+      {
+        "id": "33092",
+        "label": "バスの運転手",
+        "info": "ep.17",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/1b/33092_crt_HxBho.jpg",
+        "link": "https://bgm.tv/character/33092",
+        "categorie": "person"
+      },
+      {
+        "id": "33100",
+        "label": "マキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/0c/33100_crt_5v5iu.jpg?r=1433323394",
+        "link": "https://bgm.tv/character/33100",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

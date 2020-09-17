@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6523",
+        "label": "悠玛",
+        "info": "本作品のヒロイン。ではあるが、子供っぽく無気力さが目立つヒロインらしからぬヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/19/6523_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6523",
+        "categorie": "person"
+      },
+      {
+        "id": "6522",
+        "label": "帕克拉",
+        "info": "ツインテールが特徴的なヴァンパイアの少女。高飛車な性格だが、好きな人の前では性格がガラリと変わる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/00/6522_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6522",
+        "categorie": "person"
+      },
+      {
+        "id": "22203",
+        "label": "莉露",
+        "info": "元気で食欲旺盛なオオカミ少女。4人のうちでもっとも胸が大きく、褐色の肌と犬耳が特徴的である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ce/22203_crt_AneKz.jpg",
+        "link": "https://bgm.tv/character/22203",
+        "categorie": "person"
+      },
+      {
+        "id": "22204",
+        "label": "铁子",
+        "info": "体重300kgを超えるアンドロイド。その体重にコンプレックスを抱き、人間の身体に憧れを持っている。その志は、アンドロメダ銀河までわざわざ出向いて人間の身体に変えようとしたほど。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/06/22204_crt_2JYsW.jpg",
+        "link": "https://bgm.tv/character/22204",
+        "categorie": "person"
+      },
+      {
+        "id": "76113",
+        "label": "凯米",
+        "info": "透明人間。作中では基本的にナレーター役で、そのかたわら4人のプリンセスに語りかけるなどしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/2d/76113_crt_Wuf46.jpg?r=1583856250",
+        "link": "https://bgm.tv/character/76113",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

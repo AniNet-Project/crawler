@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35286",
+        "label": "骇客娃娃一号",
+        "info": "本アプリでのメインナビゲーターを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/6a/35286_crt_uvjB8.jpg?r=1443882790",
+        "link": "https://bgm.tv/character/35286",
+        "categorie": "person"
+      },
+      {
+        "id": "35287",
+        "label": "骇客娃娃二号",
+        "info": "アニメ・漫画担当。業界や産業構造上の問題を含め、アニメに関する造詣が深い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/71/35287_crt_gF152.jpg?r=1444438475",
+        "link": "https://bgm.tv/character/35287",
+        "categorie": "person"
+      },
+      {
+        "id": "35288",
+        "label": "骇客娃娃三号",
+        "info": "声優・アニメソング担当。1号、2号より深く広い知識を持つ。前述の東京ゲームショウで、男の娘である旨が明かされた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/f6/35288_crt_Nnd87.jpg?r=1445139496",
+        "link": "https://bgm.tv/character/35288",
+        "categorie": "person"
+      },
+      {
+        "id": "35953",
+        "label": "骇客娃娃零号",
+        "info": "ハッカドールたちのポンコツっぷりにストレスMAXなオラオラ系お姉様!?",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/ee/35953_crt_3EZ9a.jpg?r=1445707657",
+        "link": "https://bgm.tv/character/35953",
+        "categorie": "person"
+      },
+      {
+        "id": "35954",
+        "label": "骇客娃娃四号",
+        "info": "常識ハズレな言動がちょとアレなお調子者な天然娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/af/35954_crt_ir6hN.jpg?r=1446304738",
+        "link": "https://bgm.tv/character/35954",
+        "categorie": "person"
+      },
+      {
+        "id": "35955",
+        "label": "彩芽",
+        "info": "地上に降り立ったハッカドールたちに翻弄される女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/c3/35955_crt_tTz9Q.jpg?r=1446996235",
+        "link": "https://bgm.tv/character/35955",
+        "categorie": "person"
+      },
+      {
+        "id": "22958",
+        "label": "七濑佳乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/86/22958_crt_EpQsI.jpg?r=1500916273",
+        "link": "https://bgm.tv/character/22958",
+        "categorie": "person"
+      },
+      {
+        "id": "35978",
+        "label": "店員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/26/35978_crt_Y1f6G.jpg",
+        "link": "https://bgm.tv/character/35978",
+        "categorie": "person"
+      },
+      {
+        "id": "37191",
+        "label": "王女煌罗",
+        "info": "外星公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/59/37191_crt_57CUZ.jpg?r=1449417967",
+        "link": "https://bgm.tv/character/37191",
+        "categorie": "person"
+      },
+      {
+        "id": "38383",
+        "label": "竹内雅人",
+        "info": "#11登场 声优粉",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/09/38383_crt_C0PAa.jpg?r=1453642972",
+        "link": "https://bgm.tv/character/38383",
+        "categorie": "person"
+      },
+      {
+        "id": "38406",
+        "label": "弄内郁夫",
+        "info": "#4登场 普通的otaku",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/98/38406_crt_Ldq3Q.jpg?r=1453699777",
+        "link": "https://bgm.tv/character/38406",
+        "categorie": "person"
+      },
+      {
+        "id": "38407",
+        "label": "郁夫的母亲",
+        "info": "#4登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/33/38407_crt_S7VK7.jpg?r=1453700391",
+        "link": "https://bgm.tv/character/38407",
+        "categorie": "person"
+      },
+      {
+        "id": "38413",
+        "label": "发小",
+        "info": "#4登场 游戏内角色",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/b5/38413_crt_Aph2H.jpg?r=1453701414",
+        "link": "https://bgm.tv/character/38413",
+        "categorie": "person"
+      },
+      {
+        "id": "38415",
+        "label": "Mobami",
+        "info": "#7登场 动画内角色",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/47/38415_crt_Oqtfp.jpg?r=1453704697",
+        "link": "https://bgm.tv/character/38415",
+        "categorie": "person"
+      },
+      {
+        "id": "38416",
+        "label": "悠斗",
+        "info": "#9登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/ee/38416_crt_e3ROk.jpg",
+        "link": "https://bgm.tv/character/38416",
+        "categorie": "person"
+      },
+      {
+        "id": "38417",
+        "label": "哲也（兄长）",
+        "info": "#9登场 ユート的哥哥",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/25/38417_crt_OgB6P.jpg?r=1453708024",
+        "link": "https://bgm.tv/character/38417",
+        "categorie": "person"
+      },
+      {
+        "id": "38423",
+        "label": "老板娘",
+        "info": "#10登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/a3/38423_crt_PBxbD.jpg",
+        "link": "https://bgm.tv/character/38423",
+        "categorie": "person"
+      },
+      {
+        "id": "38426",
+        "label": "Lovely Pink",
+        "info": "#12登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/db/38426_crt_d7a77.jpg",
+        "link": "https://bgm.tv/character/38426",
+        "categorie": "person"
+      },
+      {
+        "id": "38427",
+        "label": "Lovely Blue",
+        "info": "#12登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/6a/38427_crt_22QGQ.jpg",
+        "link": "https://bgm.tv/character/38427",
+        "categorie": "person"
+      },
+      {
+        "id": "38428",
+        "label": "Lovely Yellow",
+        "info": "#12登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/64/38428_crt_7O9NG.jpg?r=1453709577",
+        "link": "https://bgm.tv/character/38428",
+        "categorie": "person"
+      },
+      {
+        "id": "38429",
+        "label": "大佐",
+        "info": "#12登场",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/a1/38429_crt_bAoc1.jpg?r=1453711417",
+        "link": "https://bgm.tv/character/38429",
+        "categorie": "person"
+      },
+      {
+        "id": "38430",
+        "label": "会长",
+        "info": "#13 Comiket会长",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/77/38430_crt_A79aa.jpg?r=1453711429",
+        "link": "https://bgm.tv/character/38430",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

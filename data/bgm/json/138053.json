@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37486",
+        "label": "花小泉杏",
+        "info": "本作の主人公。通称「はなこ」。一人称は「わたし」。出席番号29番。身長151cm。立位体前屈8cm。髪型は金色のショートヘアに、後頭部をお団子結っている。瞳の色は赤色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/01/37486_crt_OK0Ky.jpg?r=1460065520",
+        "link": "https://bgm.tv/character/37486",
+        "categorie": "person"
+      },
+      {
+        "id": "37487",
+        "label": "云雀丘瑠璃",
+        "info": "本作の語り手。通称「ヒバリ」。一人称は「あたし」。出席番号30番。身長160cm。髪型は紺色のストレートロングヘア。瞳の色は緑色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/5d/37487_crt_o5Xz0.jpg?r=1460665057",
+        "link": "https://bgm.tv/character/37487",
+        "categorie": "person"
+      },
+      {
+        "id": "37488",
+        "label": "久米川牡丹",
+        "info": "通称「ぼたん」。一人称は「私」。出席番号22番。身長165cm。立位体前屈-35cm。髪型は桃色がかった白色の三つ編みスタイル。瞳の色は紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/6b/37488_crt_vV23h.jpg?r=1461275488",
+        "link": "https://bgm.tv/character/37488",
+        "categorie": "person"
+      },
+      {
+        "id": "37489",
+        "label": "萩生响",
+        "info": "通称「ヒビキ」。一人称は「響」。身長152cm。髪型は茶色の癖のあるセミロングヘア。瞳の色は黄色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ea/37489_crt_w6681.jpg?r=1462038660",
+        "link": "https://bgm.tv/character/37489",
+        "categorie": "person"
+      },
+      {
+        "id": "37491",
+        "label": "江古田莲",
+        "info": "通称「レン」。出席番号21番。身長167cm。髪型は紫色がかった白色のショートヘア。瞳の色は青色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/5d/37491_crt_k6PKP.jpg?r=1462492583",
+        "link": "https://bgm.tv/character/37491",
+        "categorie": "person"
+      },
+      {
+        "id": "39534",
+        "label": "小平老师",
+        "info": "1年7組担任の先生。普段は穏やかで優しい先生だが、悪い生徒には容赦をしない。普通に銃などの物騒な物を所持している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/ab/39534_crt_vD7dh.jpg",
+        "link": "https://bgm.tv/character/39534",
+        "categorie": "person"
+      },
+      {
+        "id": "40531",
+        "label": "猫尾草",
+        "info": "ウサギ型学園案内ロボット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/67/40531_crt_0JYcD.jpg",
+        "link": "https://bgm.tv/character/40531",
+        "categorie": "person"
+      },
+      {
+        "id": "42390",
+        "label": "狭山椿",
+        "info": "諸事情で二学期の途中から1年7組に登校し始めた少女。一人称は「ボク」。髪型は金髪のツインテール。瞳の色は青色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/6d/42390_crt_LTwAs.jpg",
+        "link": "https://bgm.tv/character/42390",
+        "categorie": "person"
+      },
+      {
+        "id": "42249",
+        "label": "鹭宮老师",
+        "info": "「勉学クラス」の中でも最高位の1年1組の担任の先生。白衣を着用している。真面目で融通がきかない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/21/42249_crt_9xBMs.jpg?r=1464920685",
+        "link": "https://bgm.tv/character/42249",
+        "categorie": "person"
+      },
+      {
+        "id": "41012",
+        "label": "花小泉樱",
+        "info": "杏の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b8/41012_crt_44KZw.jpg?r=1464282108",
+        "link": "https://bgm.tv/character/41012",
+        "categorie": "person"
+      },
+      {
+        "id": "41237",
+        "label": "响的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/e0/41237_crt_hVVC3.jpg",
+        "link": "https://bgm.tv/character/41237",
+        "categorie": "person"
+      },
+      {
+        "id": "41238",
+        "label": "莲的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/9d/41238_crt_667d9.jpg?r=1462467913",
+        "link": "https://bgm.tv/character/41238",
+        "categorie": "person"
+      },
+      {
+        "id": "41017",
+        "label": "梅婆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/c0/41017_crt_9933c.jpg",
+        "link": "https://bgm.tv/character/41017",
+        "categorie": "person"
+      },
+      {
+        "id": "41240",
+        "label": "保育士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/9b/41240_crt_mmlJG.jpg",
+        "link": "https://bgm.tv/character/41240",
+        "categorie": "person"
+      },
+      {
+        "id": "41241",
+        "label": "女児",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/41241",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

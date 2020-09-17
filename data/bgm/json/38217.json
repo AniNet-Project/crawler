@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4360",
+        "label": "日高梦见",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/40/4360_crt_anidb.jpg?r=1574262886",
+        "link": "https://bgm.tv/character/4360",
+        "categorie": "person"
+      },
+      {
+        "id": "4361",
+        "label": "穆恩特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/72/4361_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4361",
+        "categorie": "person"
+      },
+      {
+        "id": "4362",
+        "label": "小野以知子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/c6/4362_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4362",
+        "categorie": "person"
+      },
+      {
+        "id": "4407",
+        "label": "今村凉芽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/07/4407_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4407",
+        "categorie": "person"
+      },
+      {
+        "id": "4409",
+        "label": "户部贵志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/f4/4409_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4409",
+        "categorie": "person"
+      },
+      {
+        "id": "4413",
+        "label": "昆塔鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/36/4413_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4413",
+        "categorie": "person"
+      },
+      {
+        "id": "4415",
+        "label": "琉绘理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/f5/4415_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4415",
+        "categorie": "person"
+      },
+      {
+        "id": "4419",
+        "label": "路伊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a9/4419_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4419",
+        "categorie": "person"
+      },
+      {
+        "id": "4408",
+        "label": "高森和也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/93/4408_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4408",
+        "categorie": "person"
+      },
+      {
+        "id": "4412",
+        "label": "日高力",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/f8/4412_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4412",
+        "categorie": "person"
+      },
+      {
+        "id": "6855",
+        "label": "以知子的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/ee/6855_crt_1Lwe7.jpg",
+        "link": "https://bgm.tv/character/6855",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

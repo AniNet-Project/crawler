@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16150",
+        "label": "大原龙之界",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/d3/16150_crt_p7WaV.jpg",
+        "link": "https://bgm.tv/character/16150",
+        "categorie": "person"
+      },
+      {
+        "id": "16151",
+        "label": "里谷直树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/7a/16151_crt_BfuUb.jpg",
+        "link": "https://bgm.tv/character/16151",
+        "categorie": "person"
+      },
+      {
+        "id": "16152",
+        "label": "テツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/3d/16152_crt_ja40B.jpg",
+        "link": "https://bgm.tv/character/16152",
+        "categorie": "person"
+      },
+      {
+        "id": "16153",
+        "label": "橘健介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/77/16153_crt_9H28A.jpg",
+        "link": "https://bgm.tv/character/16153",
+        "categorie": "person"
+      },
+      {
+        "id": "16154",
+        "label": "西岛圭吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/fe/16154_crt_xrBJ1.jpg",
+        "link": "https://bgm.tv/character/16154",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

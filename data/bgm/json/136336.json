@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33172",
+        "label": "哈克",
+        "info": "本作品の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/f0/33172_crt_bRFDV.jpg?r=1470750989",
+        "link": "https://bgm.tv/character/33172",
+        "categorie": "person"
+      },
+      {
+        "id": "33173",
+        "label": "久远",
+        "info": "主人公を助け、「ハク」と名付けた美しい少女。活発で賢いが、どこか超然としたところがある。薬師をしており、若いながらその腕は確か。成り行き上ハクと共に帝都に上京した後、「オシュトル」の配下として働く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/80/33173_crt_6JnZq.jpg?r=1472740912",
+        "link": "https://bgm.tv/character/33173",
+        "categorie": "person"
+      },
+      {
+        "id": "2881",
+        "label": "阿露露",
+        "info": "艾露露的妹妹。非常害羞且怕生的女孩，但是很会在熟人面前撒娇，非常可爱。她的名字也是来自一种传说中的花。据说艾露露和阿露露着两种花总长在一起。在森林之主被杀死后，阿露露收养了它的孩子，并且给它取名为穆克鲁。一直称呼哈克奥罗为“爸爸”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/04/2881_crt_nQL5l.jpg?r=1565106842",
+        "link": "https://bgm.tv/character/2881",
+        "categorie": "person"
+      },
+      {
+        "id": "2883",
+        "label": "多利、古拉",
+        "info": "胧部下的一对双子神箭手，两人分别担任图斯库尔弓箭队青组与红组的组长。游戏原设定为男性，动画并未表示性别，外表以及性格都很女性化。称呼胧“少主”，对他忠心耿耿。在动画第六集中，他们把玩女性装饰品及商人的言词，几乎可以证明动画设定为女性。(但在DVD特典中有提到多利、古拉为男性。)",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/71/2883_crt_aEMwp.jpg?r=1515329639",
+        "link": "https://bgm.tv/character/2883",
+        "categorie": "person"
+      },
+      {
+        "id": "2884",
+        "label": "贝纳威",
+        "info": "坎纳西科乌鲁贝的侍大将，精通枪术，统领骑兵队，非常冷静的男人。对国家有非常强烈的责任感。后来辅佐哈克奥罗处理国政，是他不可或缺的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/c7/2884_crt_g7zBg.jpg?r=1470751462",
+        "link": "https://bgm.tv/character/2884",
+        "categorie": "person"
+      },
+      {
+        "id": "2885",
+        "label": "克罗",
+        "info": "坎纳西科乌鲁贝的骑兵队副长。贝纳威的忠诚部下，骑兵队副队长。浑身引以为豪的肌肉。性格粗暴但却很可靠的男人。武器是刀。和贝纳威一起投入哈克奥罗地麾下。很喜欢开胧的玩笑，两人的争吵总是给大家带来乐趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/ee/2885_crt_vaOZ5.jpg?r=1470751556",
+        "link": "https://bgm.tv/character/2885",
+        "categorie": "person"
+      },
+      {
+        "id": "2886",
+        "label": "藤香",
+        "info": "艾文库鲁加族的少女，非常重义的女武士。开始由于误会作为哈克奥罗的敌人出现，后来为了弥补过失，成为其贴身护卫。擅长拔刀术。据说艾文库鲁加族的人都是为正义而战的强大战士。平常很冷酷，但只要看到可爱的东西就会露出本性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/76/2886_crt_32n80.jpg?r=1564752586",
+        "link": "https://bgm.tv/character/2886",
+        "categorie": "person"
+      },
+      {
+        "id": "2887",
+        "label": "卡露拉",
+        "info": "帝都で評判の旅籠屋、白楼閣の主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/34/2887_crt_6m2A1.jpg?r=1470751405",
+        "link": "https://bgm.tv/character/2887",
+        "categorie": "person"
+      },
+      {
+        "id": "2890",
+        "label": "乌露托利",
+        "info": "欧卡米亚凯国的长公主，卡缪的姐姐。充满善良和慈爱的心灵，被称为公主中的公主。对哈克奥罗一行很有兴趣，以国师的身份来到图斯库尔，在撒哈兰岛救回沃贝后，出任贤大僧正。之后以〝解放者〞之名将反库涅卡门的势力集中起来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/94/2890_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2890",
+        "categorie": "person"
+      },
+      {
+        "id": "2891",
+        "label": "卡谬",
+        "info": "欧卡米亚凯的公主，乌露托利的妹妹。作为国师辅佐正式来到图斯库尔。称呼哈克奥罗为“大叔”朝气蓬勃但又充满迷团的女孩，和阿露露及柚叶非常要好。进攻库涅卡门皇都时突然被德伊召唤，使得体内潜在的睦美人格觉醒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/fc/2891_crt_AHT0t.jpg?r=1470751395",
+        "link": "https://bgm.tv/character/2891",
+        "categorie": "person"
+      },
+      {
+        "id": "35097",
+        "label": "右近",
+        "info": "「ハク」と「クオン」が旅籠屋で知り合った任侠者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/2d/35097_crt_rRYj1.jpg?r=1470750022",
+        "link": "https://bgm.tv/character/35097",
+        "categorie": "person"
+      },
+      {
+        "id": "35098",
+        "label": "猫音",
+        "info": "「オシュトル」の妹。まだ幼さの残る可愛らしい容貌で、責任感の強い理知的な少女。最難関である殿試に歴代最年少で合格した秀才であり、太古の事柄を調べるのが趣味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/88/35098_crt_YpWeV.jpg?r=1470749462",
+        "link": "https://bgm.tv/character/35098",
+        "categorie": "person"
+      },
+      {
+        "id": "35099",
+        "label": "露露缇耶",
+        "info": "辺境の國クジュウリの皇（オゥルォ）である「オーゼン」の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/78/35099_crt_Zc5fF.jpg?r=1470749372",
+        "link": "https://bgm.tv/character/35099",
+        "categorie": "person"
+      },
+      {
+        "id": "35100",
+        "label": "阿托伊",
+        "info": "海洋国シャッホロの皇（オゥルォ）である「ソヤンケクル」の愛娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/92/35100_crt_34Hc4.jpg?r=1470749290",
+        "link": "https://bgm.tv/character/35100",
+        "categorie": "person"
+      },
+      {
+        "id": "35101",
+        "label": "诺斯莉",
+        "info": "豪快にして裏表が無い気風の少女。弓の名手であると同時に、一見して豊かな胸が特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/4d/35101_crt_eaCNW.jpg?r=1470748922",
+        "link": "https://bgm.tv/character/35101",
+        "categorie": "person"
+      },
+      {
+        "id": "35102",
+        "label": "扇",
+        "info": "「ノスリ」の弟で姉の補佐役。まだ若いが切れ者であり、諜報と腹芸が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/04/35102_crt_86d5k.jpg?r=1470750868",
+        "link": "https://bgm.tv/character/35102",
+        "categorie": "person"
+      },
+      {
+        "id": "35590",
+        "label": "乌露露 / 萨拉娜",
+        "info": "「ハク」が帝から賜った双子。顔は見分けがつかないほどにそっくりだが、「ウルゥル」は肌の色が白く、ややぶっきらぼうな喋り方をし、「サラァナ」は肌の色が浅い褐色、やや丁寧な喋り方をする。主であるハクに絶対の忠誠を誓い、その熱情的な献身ぶりがいつも周囲を混乱に陥らせる。戦の場では、力を合わせた呪術により、頼もしい戦力となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/b4/35590_crt_WA9a5.jpg?r=1472138177",
+        "link": "https://bgm.tv/character/35590",
+        "categorie": "person"
+      },
+      {
+        "id": "35962",
+        "label": "麻吕吕",
+        "info": "「ウコン」の連れの男で、殿学士を名乗る。貴人らしく派手な装束に白塗りの厚化粧をしており、公家様のような独特の言葉遣いをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/de/35962_crt_BiHF9.jpg?r=1470751050",
+        "link": "https://bgm.tv/character/35962",
+        "categorie": "person"
+      },
+      {
+        "id": "35963",
+        "label": "奥修托尔",
+        "info": "平素から仮面をしており素顔は覗えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/94/35963_crt_l7z77.jpg?r=1471497510",
+        "link": "https://bgm.tv/character/35963",
+        "categorie": "person"
+      },
+      {
+        "id": "35964",
+        "label": "亚库托瓦尔特",
+        "info": "その剛徹な太刀さばきから、『陽炎のヤクトワルト』の異名を持つ剣豪。飄々とした風体と言葉遣いが特徴的で、養女である「シノノン」を連れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/fa/35964_crt_NBM52.jpg?r=1472740960",
+        "link": "https://bgm.tv/character/35964",
+        "categorie": "person"
+      },
+      {
+        "id": "35965",
+        "label": "诗诺农",
+        "info": "「ヤクトワルト」の養女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/e9/35965_crt_nZ9Ii.jpg?r=1470751161",
+        "link": "https://bgm.tv/character/35965",
+        "categorie": "person"
+      },
+      {
+        "id": "35966",
+        "label": "御雷",
+        "info": "ヤマトの左近衛大将で仮面の者（アクルトゥルカ）。戦いの技量は「オシュトル」と互角であり、共にヤマトの双璧と呼ばれているが、対象的に荒々しい雰囲気と、歴戦の勇士らしい圧倒的な威圧感を放つ。兄は八柱将である「ライコウ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/3e/35966_crt_AsDSq.jpg?r=1470751194",
+        "link": "https://bgm.tv/character/35966",
+        "categorie": "person"
+      },
+      {
+        "id": "35967",
+        "label": "雷光",
+        "info": "ヤマト八柱将の一人。『聖賢のライコウ』の二つ名を持つ。武力に依るのではなく、ただ知略によりどんな難攻不落の砦も落とせるとまで言われる、ヤマト随一の智将。左近衛大将「ミカヅチ」の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/6a/35967_crt_aRba4.jpg?r=1470751226",
+        "link": "https://bgm.tv/character/35967",
+        "categorie": "person"
+      },
+      {
+        "id": "35968",
+        "label": "裘鲁",
+        "info": "エンナカムイの皇子で、小柄で人当たりの良い少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/3e/35968_crt_CEffF.jpg?r=1472741049",
+        "link": "https://bgm.tv/character/35968",
+        "categorie": "person"
+      },
+      {
+        "id": "35969",
+        "label": "安洁",
+        "info": "大國ヤマトのまだ幼い皇女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/23/35969_crt_OTwvn.jpg?r=1470749837",
+        "link": "https://bgm.tv/character/35969",
+        "categorie": "person"
+      },
+      {
+        "id": "35970",
+        "label": "宗近",
+        "info": "ヤマト八柱将の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/aa/35970_crt_3K0gl.jpg?r=1472138001",
+        "link": "https://bgm.tv/character/35970",
+        "categorie": "person"
+      },
+      {
+        "id": "36232",
+        "label": "可可波",
+        "info": "「ルルティエ」が乗用としている巨大なホロロン鳥。好奇心旺盛でやんちゃな性質。主であるルルティエによく懐いているが。「ハク」に対しては親愛の情ゆえ逆に始末に負えないことも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/d0/36232_crt_52tO7.jpg?r=1446914916",
+        "link": "https://bgm.tv/character/36232",
+        "categorie": "person"
+      },
+      {
+        "id": "36557",
+        "label": "莫兹努",
+        "info": "下品で粗野な、いかにもチンピラという風情の男。「ノスリ」とは別の盗賊団の頭をしている。何やらノスリ旅団と行動を共にしているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/80/36557_crt_CPZgf.jpg?r=1447026614",
+        "link": "https://bgm.tv/character/36557",
+        "categorie": "person"
+      },
+      {
+        "id": "36982",
+        "label": "穗乃香",
+        "info": "清楚でたおやかな女性。謎の二人組に誘われてハクが出会った老人ミトに付き添っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/d5/36982_crt_7088m.jpg?r=1451063403",
+        "link": "https://bgm.tv/character/36982",
+        "categorie": "person"
+      },
+      {
+        "id": "36983",
+        "label": "帝",
+        "info": "ヤマトの皇帝。帝都を一人で拓き、戦では超常の力をもって戦った全知全能の存在であり、ヤマト樹立以来数百年の間生き続けていると言われる。痩身の老人で、体が不自由らしく移動には車椅子を用いている。顔を簾で隠しており表情は伺えない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/f1/36983_crt_kFSZz.jpg?r=1451063475",
+        "link": "https://bgm.tv/character/36983",
+        "categorie": "person"
+      },
+      {
+        "id": "36984",
+        "label": "武赖",
+        "info": "ヤマト八柱将の一人。『剛腕のヴライ』の二つ名を持つ。八柱将の中でも狂信的と言えるほどの「帝」の崇拝者であり、帝の信も篤い。戦場においては比類無き腕力を誇る豪傑。その武勇から帝より仮面（アクルカ）を賜ってる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/f5/36984_crt_r6Dd8.jpg?r=1451063826",
+        "link": "https://bgm.tv/character/36984",
+        "categorie": "person"
+      },
+      {
+        "id": "36985",
+        "label": "索杨克库尔",
+        "info": "「アトゥイ」の父で、八柱将の一人。帝からヤマト全領海の統治を任じられており、『溟海のソヤンケクル』の異名を持つ。海戦の達人であり、海賊たちにも恐れられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/db/36985_crt_C68az.jpg?r=1455967461",
+        "link": "https://bgm.tv/character/36985",
+        "categorie": "person"
+      },
+      {
+        "id": "36987",
+        "label": "迪科嘭嘭",
+        "info": "八柱将の一人。でっぷりと太った小柄な男で、豪勢な屋敷で財宝と側女に囲まれ暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/e7/36987_crt_D4N0M.jpg?r=1448729060",
+        "link": "https://bgm.tv/character/36987",
+        "categorie": "person"
+      },
+      {
+        "id": "36988",
+        "label": "欧西斯",
+        "info": "八柱将の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/0b/36988_crt_QkDLA.jpg?r=1451063865",
+        "link": "https://bgm.tv/character/36988",
+        "categorie": "person"
+      },
+      {
+        "id": "36989",
+        "label": "时房",
+        "info": "八柱将の一人で『調弦のトキフサ』の二つ名を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/dd/36989_crt_9vurO.jpg?r=1452348239",
+        "link": "https://bgm.tv/character/36989",
+        "categorie": "person"
+      },
+      {
+        "id": "37034",
+        "label": "波克伊南德",
+        "info": "「デコポンポ」の重臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/72/37034_crt_Wwl3k.jpg?r=1448729124",
+        "link": "https://bgm.tv/character/37034",
+        "categorie": "person"
+      },
+      {
+        "id": "37170",
+        "label": "穆库鲁",
+        "info": "「アルルゥ」が連れているムティカバ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/de/37170_crt_031QR.jpg?r=1449287851",
+        "link": "https://bgm.tv/character/37170",
+        "categorie": "person"
+      },
+      {
+        "id": "37883",
+        "label": "恩托娃",
+        "info": "ウズールッシャの誇り高き女戦士で、千人長「ゼグニ」の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/cc/37883_crt_zUrSI.jpg?r=1452348593",
+        "link": "https://bgm.tv/character/37883",
+        "categorie": "person"
+      },
+      {
+        "id": "37884",
+        "label": "ゼグニ",
+        "info": "ウズールッシャの軍団を統括する千人長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/34/37884_crt_V5ULv.jpg?r=1452348455",
+        "link": "https://bgm.tv/character/37884",
+        "categorie": "person"
+      },
+      {
+        "id": "38066",
+        "label": "衮多努阿",
+        "info": "ウズールッシャの王。一代で百以上に及ぶ部族をまとめ、一大強國とした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/aa/38066_crt_3bPm3.jpg?r=1452348355",
+        "link": "https://bgm.tv/character/38066",
+        "categorie": "person"
+      },
+      {
+        "id": "38327",
+        "label": "七理夜",
+        "info": "「ライコウ」の副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/b1/38327_crt_6I1iS.jpg?r=1453542067",
+        "link": "https://bgm.tv/character/38327",
+        "categorie": "person"
+      },
+      {
+        "id": "36986",
+        "label": "沃金",
+        "info": "「ルルティエ」の父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/d0/36986_crt_d3Fqd.jpg?r=1473864360",
+        "link": "https://bgm.tv/character/36986",
+        "categorie": "person"
+      },
+      {
+        "id": "2882",
+        "label": "胧",
+        "info": "一个城寨的年轻首领，后来成为哈克奥罗的左右手，因哈克奥罗曾2度救过他的性命，敬仰的称呼其“大哥”。血气方刚的青年，单方面地把贝纳威视为宿敌。动作迅速的二刀流尤其得意，是图斯库尔步兵队队长。非常关心体弱多病的妹妹柚叶。有时候会做一些非常滑稽的事（一般来说总和柚叶有关）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f0/2882_crt_Dw2yK.jpg?r=1515329592",
+        "link": "https://bgm.tv/character/2882",
+        "categorie": "person"
+      },
+      {
+        "id": "14756",
+        "label": "哈克奥罗",
+        "info": "戴着一个无法摘除的面具。身受重伤而且失去过去记忆的他被艾露露所救，并且成为了她们家的新的一名成员。似乎在这个有点怪异的世界中感到一些困惑。由于想不起来自己的本名，图斯库尔给他起名为哈克奥罗（艾露露和阿露露父亲的名字）。他的武器是图斯库尔给他的一把铁做的折扇。哈克奥罗在阿伊努语中意为“白皇”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/34/14756_crt_qKigx.jpg?r=1515329417",
+        "link": "https://bgm.tv/character/14756",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

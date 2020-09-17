@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5132",
+        "label": "吉永双叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/bb/5132_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5132",
+        "categorie": "person"
+      },
+      {
+        "id": "5133",
+        "label": "吉永和己",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/06/5133_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5133",
+        "categorie": "person"
+      },
+      {
+        "id": "5134",
+        "label": "怪盗百色",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ef/5134_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5134",
+        "categorie": "person"
+      },
+      {
+        "id": "5135",
+        "label": "ママ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/c2/5135_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5135",
+        "categorie": "person"
+      },
+      {
+        "id": "5136",
+        "label": "梨々ハミルトン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/79/5136_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5136",
+        "categorie": "person"
+      },
+      {
+        "id": "5137",
+        "label": "菊一文字",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/03/5137_crt_anidb.jpg?r=1413565300",
+        "link": "https://bgm.tv/character/5137",
+        "categorie": "person"
+      },
+      {
+        "id": "5138",
+        "label": "ヌマタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/bd/5138_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5138",
+        "categorie": "person"
+      },
+      {
+        "id": "5139",
+        "label": "リム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/f6/5139_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5139",
+        "categorie": "person"
+      },
+      {
+        "id": "5140",
+        "label": "リン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f9/5140_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5140",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

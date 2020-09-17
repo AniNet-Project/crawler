@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52",
+        "label": "国崎往人",
+        "info": "Kunisaki Yukito",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/11/52_fYX72.jpg",
+        "link": "https://bgm.tv/character/52",
+        "categorie": "person"
+      },
+      {
+        "id": "53",
+        "label": "神尾观铃",
+        "info": "故事的女主角，国崎往人在海边小镇的堤防上遇到的第一位女孩。和母亲晴子两人一起生活。性格很坚强，天真可爱也很喜欢帮助别人，可奇怪的是她没有一个朋友，很喜欢吃武田商店的自动贩卖机售的「粘稠浓厚桃子味」果汁，家务方面则非常擅长，酷爱恐龙,小时候曾把小鸡当成恐龙的孩子，口头禅是喜欢学恐龙叫：“嘎（GAO）…嘎哦（GAO）…！”有时会有的V字手势配上声音也是她的一大萌点所在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/89/53_crt_x0x0c.jpg?r=1488788739",
+        "link": "https://bgm.tv/character/53",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

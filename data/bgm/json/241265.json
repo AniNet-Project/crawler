@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62000",
+        "label": "东谷准太",
+        "info": "芸歴3年の若手俳優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/09/62000_crt_v6tov.jpg?r=1521958235",
+        "link": "https://bgm.tv/character/62000",
+        "categorie": "person"
+      },
+      {
+        "id": "61999",
+        "label": "西条高人",
+        "info": "芸歴20年の演技派俳優で、趣味は若手俳優を潰すこと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c4/61999_crt_hzSW2.jpg?r=1521958218",
+        "link": "https://bgm.tv/character/61999",
+        "categorie": "person"
+      },
+      {
+        "id": "62001",
+        "label": "绫木千广",
+        "info": "女専門の枕営業でのし上がってきたチャラ男俳優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/fa/62001_crt_EaS06.jpg?r=1531287214",
+        "link": "https://bgm.tv/character/62001",
+        "categorie": "person"
+      },
+      {
+        "id": "62002",
+        "label": "成宫凉",
+        "info": "元気と笑顔が取り柄のアイドル系俳優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/df/62002_crt_1su5u.jpg?r=1531287231",
+        "link": "https://bgm.tv/character/62002",
+        "categorie": "person"
+      },
+      {
+        "id": "62003",
+        "label": "卯坂和臣",
+        "info": "局のゼネラルプロデューサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ae/62003_crt_Y54et.jpg",
+        "link": "https://bgm.tv/character/62003",
+        "categorie": "person"
+      },
+      {
+        "id": "66683",
+        "label": "在须清崇",
+        "info": "神出鬼没の謎多き男。卯坂と過去に何かあったようで…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/b7/66683_crt_o9r7z.jpg",
+        "link": "https://bgm.tv/character/66683",
+        "categorie": "person"
+      },
+      {
+        "id": "67217",
+        "label": "小光",
+        "info": "成宮の友達",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/6b/67217_crt_MYMYd.jpg",
+        "link": "https://bgm.tv/character/67217",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

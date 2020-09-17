@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8722",
+        "label": "安藤素雅子",
+        "info": "単行本おまけ漫画「限定少女。」の主人公。通称「はいてない娘」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/40/8722_crt_anidb.jpg?r=1547382122",
+        "link": "https://bgm.tv/character/8722",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

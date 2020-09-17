@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55543",
+        "label": "莉欧妮丝·艾利斯多莱特瓦",
+        "info": "(ひなろじ)の主人公。1か月遅れで学園に入学した天真爛漫なお姫様。ニーナの事はテレビで知って憧れていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/41/55543_crt_7zdcZ.jpg?r=1499008139",
+        "link": "https://bgm.tv/character/55543",
+        "categorie": "person"
+      },
+      {
+        "id": "55544",
+        "label": "妮娜·亚历山德罗芙那",
+        "info": "ALCAの命令で学園に通っている天才少女。実戦経験を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/0b/55544_crt_gF9FR.jpg?r=1499025484",
+        "link": "https://bgm.tv/character/55544",
+        "categorie": "person"
+      },
+      {
+        "id": "55545",
+        "label": "京桥万博",
+        "info": "ロジカリストよりも使者が大好きで、使者用のメカなどを作るもののよく爆発させている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b1/55545_crt_PpAjA.jpg?r=1499911315",
+        "link": "https://bgm.tv/character/55545",
+        "categorie": "person"
+      },
+      {
+        "id": "55546",
+        "label": "橘弥生",
+        "info": "クラス委員。面倒見がいい橘家のお嬢様。口調は「ですわ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/23/55546_crt_4v4Kp.jpg?r=1500218089",
+        "link": "https://bgm.tv/character/55546",
+        "categorie": "person"
+      },
+      {
+        "id": "55547",
+        "label": "森谷夕子",
+        "info": "白樺寮の寮長で生徒会副会長。6年Sクラス所属。綺麗好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/1e/55547_crt_T67kY.jpg?r=1500815633",
+        "link": "https://bgm.tv/character/55547",
+        "categorie": "person"
+      },
+      {
+        "id": "55548",
+        "label": "桐谷华凛",
+        "info": "橘家の仕えている双子の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/57/55548_crt_S0k05.jpg?r=1501436820",
+        "link": "https://bgm.tv/character/55548",
+        "categorie": "person"
+      },
+      {
+        "id": "55549",
+        "label": "桐谷华恋",
+        "info": "橘家の仕えている双子の妹。のんびり屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/11/55549_crt_QdagQ.jpg?r=1501946156",
+        "link": "https://bgm.tv/character/55549",
+        "categorie": "person"
+      },
+      {
+        "id": "55550",
+        "label": "贝鲁",
+        "info": "リオンと幼い頃からいる使者らしき生物。「きゅー」と鳴く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/95/55550_crt_DT2Dx.jpg",
+        "link": "https://bgm.tv/character/55550",
+        "categorie": "person"
+      },
+      {
+        "id": "55551",
+        "label": "洛莎",
+        "info": "モノリウムの使者。植物を操る能力を持つ。一人称は「わらわ」。10年前、リオンが2歳の頃に盟約を交わしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/c4/55551_crt_50tI5.jpg?r=1505395730",
+        "link": "https://bgm.tv/character/55551",
+        "categorie": "person"
+      },
+      {
+        "id": "55552",
+        "label": "アモル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f2/55552_crt_1bBzT.jpg",
+        "link": "https://bgm.tv/character/55552",
+        "categorie": "person"
+      },
+      {
+        "id": "55553",
+        "label": "セレン・リサーチャー013",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/66/55553_crt_WcYIH.jpg",
+        "link": "https://bgm.tv/character/55553",
+        "categorie": "person"
+      },
+      {
+        "id": "55554",
+        "label": "七宝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/35/55554_crt_zMtU6.jpg",
+        "link": "https://bgm.tv/character/55554",
+        "categorie": "person"
+      },
+      {
+        "id": "55555",
+        "label": "ウェスタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/23/55555_crt_7H8Ee.jpg",
+        "link": "https://bgm.tv/character/55555",
+        "categorie": "person"
+      },
+      {
+        "id": "55556",
+        "label": "东瑞希",
+        "info": "生徒会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/88/55556_crt_tK4YT.jpg",
+        "link": "https://bgm.tv/character/55556",
+        "categorie": "person"
+      },
+      {
+        "id": "55557",
+        "label": "五六八葵",
+        "info": "生徒会会計。編入組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/32/55557_crt_8R44z.jpg",
+        "link": "https://bgm.tv/character/55557",
+        "categorie": "person"
+      },
+      {
+        "id": "55558",
+        "label": "アシュリー・ブラッドベリ",
+        "info": "生徒会書記。編入組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/a9/55558_crt_sskZu.jpg",
+        "link": "https://bgm.tv/character/55558",
+        "categorie": "person"
+      },
+      {
+        "id": "55559",
+        "label": "神乐静叶",
+        "info": "クラス担任。25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/c0/55559_crt_3fKWc.jpg",
+        "link": "https://bgm.tv/character/55559",
+        "categorie": "person"
+      },
+      {
+        "id": "55560",
+        "label": "藤崎梨乃",
+        "info": "クラス副担任。24歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/9b/55560_crt_w9ObW.jpg",
+        "link": "https://bgm.tv/character/55560",
+        "categorie": "person"
+      },
+      {
+        "id": "55561",
+        "label": "学园长",
+        "info": "いつもハープを奏でている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a8/55561_crt_YE9Yp.jpg",
+        "link": "https://bgm.tv/character/55561",
+        "categorie": "person"
+      },
+      {
+        "id": "55562",
+        "label": "天原梢",
+        "info": "副学園長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a1/55562_crt_35M5m.jpg",
+        "link": "https://bgm.tv/character/55562",
+        "categorie": "person"
+      },
+      {
+        "id": "55563",
+        "label": "リオンのお父さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/64/55563_crt_eRQRQ.jpg",
+        "link": "https://bgm.tv/character/55563",
+        "categorie": "person"
+      },
+      {
+        "id": "36883",
+        "label": "柯罗艾·马克斯韦尔",
+        "info": "ブロンドの美少女で、リボンとポニーテールがチャームポイント。スポーティな明るい性格で、誰に対してもフレンドリー。パートナーはヴァルキリー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/12/36883_crt_tTwBy.jpg?r=1447768442",
+        "link": "https://bgm.tv/character/36883",
+        "categorie": "person"
+      },
+      {
+        "id": "36885",
+        "label": "明日叶学",
+        "info": "寡黙で目つきが鋭く、他人との関わりをあまり持たない。常にヘッドフォンで音楽を聴いていることもあり、独りでいることが多い。パートナーはアルテミス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/32/36885_crt_2L0Tj.jpg?r=1447768664",
+        "link": "https://bgm.tv/character/36885",
+        "categorie": "person"
+      },
+      {
+        "id": "36887",
+        "label": "维萝妮卡·阿南科",
+        "info": "ALCAのナイエン支局長。ロジカリストの指導役を務め、自らも戦場に出ることもある。ある事件をきっかけに、異世界の使者に対し、復讐心を抱く。パートナーはネメシス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/d8/36887_crt_FH3K1.jpg?r=1447768868",
+        "link": "https://bgm.tv/character/36887",
+        "categorie": "person"
+      },
+      {
+        "id": "36889",
+        "label": "七星缘",
+        "info": "元･女子サッカー部のマネージャ。しかし、強制召集により新人ロジカリストになる。世話好きでメンバーのサポート役を引き受けるが、ドジなところもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/3b/36889_crt_m7zvf.jpg?r=1447769098",
+        "link": "https://bgm.tv/character/36889",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22513",
+        "label": "姫川絢美",
+        "info": "クラスでも人気の明朗快活な美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/09/22513_crt_ZzLlG.jpg",
+        "link": "https://bgm.tv/character/22513",
+        "categorie": "person"
+      },
+      {
+        "id": "22514",
+        "label": "響七瀬",
+        "info": "1学年上のお姉さんタイプの美女。 『知的文化学研究同好会』 に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/3d/22514_crt_nmQII.jpg",
+        "link": "https://bgm.tv/character/22514",
+        "categorie": "person"
+      },
+      {
+        "id": "22515",
+        "label": "楠木末梨",
+        "info": "1学年下のロリ美少女。 『知的文化学研究同好会』 に今年入ってきた期待の新人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/79/22515_crt_2EoVW.jpg",
+        "link": "https://bgm.tv/character/22515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

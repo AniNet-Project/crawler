@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17352",
+        "label": "轰驱流",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/f0/17352_crt_6Q646.jpg",
+        "link": "https://bgm.tv/character/17352",
+        "categorie": "person"
+      },
+      {
+        "id": "17353",
+        "label": "稻叶凜音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d6/17353_crt_x7PR1.jpg",
+        "link": "https://bgm.tv/character/17353",
+        "categorie": "person"
+      },
+      {
+        "id": "17354",
+        "label": "速水俊介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/d8/17354_crt_DIl9D.jpg",
+        "link": "https://bgm.tv/character/17354",
+        "categorie": "person"
+      },
+      {
+        "id": "17355",
+        "label": "赤名 累",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/4b/17355_crt_QLkZ9.jpg",
+        "link": "https://bgm.tv/character/17355",
+        "categorie": "person"
+      },
+      {
+        "id": "17356",
+        "label": "久石 总司令",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/26/17356_crt_J5Uo8.jpg",
+        "link": "https://bgm.tv/character/17356",
+        "categorie": "person"
+      },
+      {
+        "id": "17357",
+        "label": "克洛德 博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/fd/17357_crt_ubExX.jpg",
+        "link": "https://bgm.tv/character/17357",
+        "categorie": "person"
+      },
+      {
+        "id": "17358",
+        "label": "托马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/3c/17358_crt_UT6Bz.jpg",
+        "link": "https://bgm.tv/character/17358",
+        "categorie": "person"
+      },
+      {
+        "id": "17359",
+        "label": "葛特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/fa/17359_crt_XyFXr.jpg",
+        "link": "https://bgm.tv/character/17359",
+        "categorie": "person"
+      },
+      {
+        "id": "17360",
+        "label": "麦霸 关",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/fa/17360_crt_e4OU1.jpg",
+        "link": "https://bgm.tv/character/17360",
+        "categorie": "person"
+      },
+      {
+        "id": "17361",
+        "label": "铃川枫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/be/17361_crt_KKO0D.jpg",
+        "link": "https://bgm.tv/character/17361",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

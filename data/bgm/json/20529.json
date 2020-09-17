@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8513",
+        "label": "篠山利明",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/ba/8513_crt_1jf1r.jpg",
+        "link": "https://bgm.tv/character/8513",
+        "categorie": "person"
+      },
+      {
+        "id": "8515",
+        "label": "沢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/8f/8515_crt_X92bB.jpg",
+        "link": "https://bgm.tv/character/8515",
+        "categorie": "person"
+      },
+      {
+        "id": "8516",
+        "label": "堀内すみれ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/2f/8516_crt_h0Ya9.jpg",
+        "link": "https://bgm.tv/character/8516",
+        "categorie": "person"
+      },
+      {
+        "id": "8517",
+        "label": "コーイチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/f6/8517_crt_R2q5Q.jpg",
+        "link": "https://bgm.tv/character/8517",
+        "categorie": "person"
+      },
+      {
+        "id": "8529",
+        "label": "利江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/09/8529_crt_7wYYO.jpg",
+        "link": "https://bgm.tv/character/8529",
+        "categorie": "person"
+      },
+      {
+        "id": "20651",
+        "label": "黑杰克",
+        "info": "《怪医黑杰克》的主角。 实习时因为不满医界的生态而成了无照的外科密医。医术高明，收费却极为高昂，从数千万至数百亿不等。虽然如此，他却时常对穷苦病人分文不取或仅收少许费用，有时甚至会暗中资助对方，或许目的并非是为了钱。他走到哪穿到哪的黑色防弹大衣，内部藏有陶瓷制的手术刀（避免遇到无法使用金属道具的状况）与其他医疗用具，必要时可投掷退敌。他脸上有很明显的手术后疤痕，有一部份的皮肤是从一位黑人朋友高志移植的。而黑杰克脸上的黑色疤痕从不移除是为了纪念当时唯一鼓励他，但却意外死亡的黑人朋友高志。另外黑杰克手握的手术刀，则是本间医师当年抢救年幼黑杰克时、一时大意不小心遗留在黑杰克的体内，几年之后重新开刀，从黑杰克体内将当年遗留的手术刀取出。何以手术刀在黑杰克体内多年，却从未对黑杰克造成生命危险，原因在于黑杰克体内分泌一种类似钙化的物质包覆住手术刀阻隔手术刀对器官的伤害。当黑杰克的恩师将被钙化物质包覆的手术刀取出时不禁讶异人体神奇的奥妙之处，并且将这把手术刀交给黑杰克（不过在特别版中黑杰克把手术刀连同包住手术刀的钙化物质一起丢进海里）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/46/20651_crt_77elT.jpg?r=1374267545",
+        "link": "https://bgm.tv/character/20651",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

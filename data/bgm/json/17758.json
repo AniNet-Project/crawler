@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32989",
+        "label": "本·巴巴利",
+        "info": "第44机械化混合连队军官",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/83/32989_crt_52w2w.jpg",
+        "link": "https://bgm.tv/character/32989",
+        "categorie": "person"
+      },
+      {
+        "id": "32993",
+        "label": "哈曼·严德尔",
+        "info": "第44机械化混合连队 第301战车中队 第一小队指挥官。绰号死神",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/c1/32993_crt_LonlP.jpg",
+        "link": "https://bgm.tv/character/32993",
+        "categorie": "person"
+      },
+      {
+        "id": "32994",
+        "label": "雷班·修中士",
+        "info": "所属第301战车中队 第一小队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/fb/32994_crt_3s33O.jpg",
+        "link": "https://bgm.tv/character/32994",
+        "categorie": "person"
+      },
+      {
+        "id": "32990",
+        "label": "死神",
+        "info": "ジオン軍と共に重力の底へ降り立った謎の女性。本編の狂言回し的存在で、ガンダムシリーズ初の人外の存在。各話の主人公に取りつき、戦いへの恐怖や衝動、敵への恨みを甘くささやきながら、やがて取りついた相手を死に誘う。まれに取りついた人物以外にも見えることがあるが、正気を失ってしまう場合もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/54/32990_crt_peLiZ.jpg",
+        "link": "https://bgm.tv/character/32990",
+        "categorie": "person"
+      },
+      {
+        "id": "32991",
+        "label": "帕帕·希尼·刘易斯",
+        "info": "対MS特技兵小隊第1分隊射手。階級は対MS特技曹長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/fb/32991_crt_84nol.jpg",
+        "link": "https://bgm.tv/character/32991",
+        "categorie": "person"
+      },
+      {
+        "id": "32992",
+        "label": "迈克尔·考尔玛塔少校",
+        "info": "巴巴利中尉所属的第44机械化混合连队大队指挥官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/6c/32992_crt_a6v5N.jpg",
+        "link": "https://bgm.tv/character/32992",
+        "categorie": "person"
+      },
+      {
+        "id": "32995",
+        "label": "艾尔玛·斯内尔上尉",
+        "info": "吉翁王牌扎古机师，绰号“白色食人魔”",
+        "image": "https:",
+        "link": "https://bgm.tv/character/32995",
+        "categorie": "person"
+      },
+      {
+        "id": "8852",
+        "label": "基西莉亚·扎比",
+        "info": "吉恩公国突击机动军司令，军衔为少将。德金公王的长女。旗舰为格瓦金级宇宙战舰“格瓦金号”、契贝级宇宙中巡洋舰“紫寡妇号”（Purple Widow）以及地球上使用的桑吉巴尔级机动巡洋舰“基迈拉”号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/a5/8852_crt_anidb.jpg?r=1469107727",
+        "link": "https://bgm.tv/character/8852",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

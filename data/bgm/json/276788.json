@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59332",
+        "label": "梅茵",
+        "info": "本作的主人公，爱书如命，女主转生后附体的5岁女孩，有着宛如夜空的蓝发与犹如接受了光之女神祝福的金色眼瞳的外表，和令人惊叹的虚弱体质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/59/59332_crt_Mz3Tc.jpg?r=1570324583",
+        "link": "https://bgm.tv/character/59332",
+        "categorie": "person"
+      },
+      {
+        "id": "59333",
+        "label": "鲁兹",
+        "info": "与梅茵同年的少年，非常的照顾梅茵，在梅茵外出时必备的陪伴监管人员，在梅茵想做任何事事都会帮把手，志向是成为旅行商人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/ef/59333_crt_2A9z3.jpg?r=1583307806",
+        "link": "https://bgm.tv/character/59333",
+        "categorie": "person"
+      },
+      {
+        "id": "59334",
+        "label": "君特",
+        "info": "梅茵的生父，非常的爱家人，是埃伦费斯特领地北门的门卫班长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/9a/59334_crt_d80E4.jpg?r=1583309287",
+        "link": "https://bgm.tv/character/59334",
+        "categorie": "person"
+      },
+      {
+        "id": "59335",
+        "label": "伊娃",
+        "info": "梅茵的生母，被称为配君特非常浪费的美人。手艺了得，是被周遭公认的裁缝美人。在染色工房工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b9/59335_crt_34aX2.jpg?r=1583313554",
+        "link": "https://bgm.tv/character/59335",
+        "categorie": "person"
+      },
+      {
+        "id": "71560",
+        "label": "斐迪南",
+        "info": "神官長。第一部終盤から登場する神殿でのマインの庇護者兼教育係。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/ab/71560_crt_WJGRj.jpg?r=1567295206",
+        "link": "https://bgm.tv/character/71560",
+        "categorie": "person"
+      },
+      {
+        "id": "71561",
+        "label": "多莉",
+        "info": "マインの姉。面倒見がよく、誰からも慕われる下町の人気者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/67/71561_crt_gFwTU.jpg?r=1567295220",
+        "link": "https://bgm.tv/character/71561",
+        "categorie": "person"
+      },
+      {
+        "id": "71565",
+        "label": "班诺",
+        "info": "服飾や装飾を扱うギルベルタ商会の店主。独身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/a7/71565_crt_YmD77.jpg?r=1584811437",
+        "link": "https://bgm.tv/character/71565",
+        "categorie": "person"
+      },
+      {
+        "id": "71566",
+        "label": "欧托",
+        "info": "南門の兵士。ギュンターの部下。主に会計を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/c8/71566_crt_pN9og.jpg?r=1567294886",
+        "link": "https://bgm.tv/character/71566",
+        "categorie": "person"
+      },
+      {
+        "id": "71567",
+        "label": "马克",
+        "info": "ギルベルタ商会におけるベンノの右腕的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/05/71567_crt_2Pd7M.jpg?r=1585917793",
+        "link": "https://bgm.tv/character/71567",
+        "categorie": "person"
+      },
+      {
+        "id": "71568",
+        "label": "芙丽妲",
+        "info": "グスタフの孫娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/95/71568_crt_d8DDt.jpg?r=1567295270",
+        "link": "https://bgm.tv/character/71568",
+        "categorie": "person"
+      },
+      {
+        "id": "71569",
+        "label": "谷斯塔夫",
+        "info": "商業ギルド（商業組合）のギルド長。オトマール商会の大旦那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/9c/71569_crt_Z5J1m.jpg?r=1567295192",
+        "link": "https://bgm.tv/character/71569",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

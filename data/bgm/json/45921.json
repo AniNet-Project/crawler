@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14649",
+        "label": "本城艾丽娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/d1/14649_crt_tTA3M.jpg",
+        "link": "https://bgm.tv/character/14649",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

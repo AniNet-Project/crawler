@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38706",
+        "label": "天云郁",
+        "info": "性格",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/a3/38706_crt_8Y9tw.jpg",
+        "link": "https://bgm.tv/character/38706",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

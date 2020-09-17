@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12470",
+        "label": "玉依希娜",
+        "info": "本作品の主人公。初登場の際は小学6年生で、スポーツチャンバラの教室に通い、料理が得意な明るい性格の少女。大事な物は腹巻とペキンナベで、本人は「どんな料理もこれ一個」で作れると豪語している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/76/12470_crt_51ccQ.jpg?r=1397132742",
+        "link": "https://bgm.tv/character/12470",
+        "categorie": "person"
+      },
+      {
+        "id": "12472",
+        "label": "鹤丸丈夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/93/12472_crt_vGZqT.jpg",
+        "link": "https://bgm.tv/character/12472",
+        "categorie": "person"
+      },
+      {
+        "id": "12471",
+        "label": "佐仓 明",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/12471",
+        "categorie": "person"
+      },
+      {
+        "id": "12473",
+        "label": "涅见子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/12473",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

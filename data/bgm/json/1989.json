@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4889",
+        "label": "黒城舞夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/63/4889_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4889",
+        "categorie": "person"
+      },
+      {
+        "id": "4890",
+        "label": "篁蛍子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/0a/4890_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4890",
+        "categorie": "person"
+      },
+      {
+        "id": "4891",
+        "label": "藤堂誓唯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/25/4891_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4891",
+        "categorie": "person"
+      },
+      {
+        "id": "4892",
+        "label": "木暮沙耶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/07/4892_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4892",
+        "categorie": "person"
+      },
+      {
+        "id": "4893",
+        "label": "橘泉水",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/d3/4893_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

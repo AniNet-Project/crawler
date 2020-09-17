@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37550",
+        "label": "伊库塔·索罗克",
+        "info": "本书主角，初登场时为17岁，军衔为准尉。第三集晋升中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/ba/37550_crt_gmq49.jpg",
+        "link": "https://bgm.tv/character/37550",
+        "categorie": "person"
+      },
+      {
+        "id": "37551",
+        "label": "雅特丽希诺·伊格塞姆",
+        "info": "女主角之一，昵称为雅特丽，17岁，军衔为准尉。与伊库塔同在第三集晋升为中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/c6/37551_crt_rcDWp.jpg",
+        "link": "https://bgm.tv/character/37551",
+        "categorie": "person"
+      },
+      {
+        "id": "37555",
+        "label": "夏米优·奇朵拉·卡托沃马尼尼克",
+        "info": "本作的女主角之一，卡托瓦纳帝国的第三公主，12岁。皇族中少有的对帝国腐朽的现况十分清楚的人，并想改革但有心无力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/b0/37555_crt_o5nqZ.jpg",
+        "link": "https://bgm.tv/character/37555",
+        "categorie": "person"
+      },
+      {
+        "id": "37552",
+        "label": "托尔威·雷米翁",
+        "info": "17岁，军衔为准尉。第三集晋升少尉，并于第四集晋升为中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/e4/37552_crt_sL6Xb.jpg",
+        "link": "https://bgm.tv/character/37552",
+        "categorie": "person"
+      },
+      {
+        "id": "37553",
+        "label": "马修·泰德基利奇",
+        "info": "17岁，军衔为准尉。与托尔威和哈洛玛于第三集晋升少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/6c/37553_crt_BVHUv.jpg",
+        "link": "https://bgm.tv/character/37553",
+        "categorie": "person"
+      },
+      {
+        "id": "37554",
+        "label": "哈洛玛·贝凯尔",
+        "info": "19岁，昵称为哈洛，军衔为准尉。与马修和托尔威于第三集晋升少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/bd/37554_crt_lBeLa.jpg",
+        "link": "https://bgm.tv/character/37554",
+        "categorie": "person"
+      },
+      {
+        "id": "43266",
+        "label": "库斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/1d/43266_crt_VqatU.jpg",
+        "link": "https://bgm.tv/character/43266",
+        "categorie": "person"
+      },
+      {
+        "id": "43634",
+        "label": "苏雅·米特卡莉夫",
+        "info": "二十歳前後の女性軍人で、イクタの受け持つ小隊の副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/86/43634_crt_b0PQq.jpg?r=1469434487",
+        "link": "https://bgm.tv/character/43634",
+        "categorie": "person"
+      },
+      {
+        "id": "44338",
+        "label": "塔姆兹库兹库·萨费达",
+        "info": "卡托瓦纳帝国军中将，北域镇台的司令官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/c7/44338_crt_U5K7a.jpg?r=1471361930",
+        "link": "https://bgm.tv/character/44338",
+        "categorie": "person"
+      },
+      {
+        "id": "44339",
+        "label": "由斯库西拉姆·特瓦克",
+        "info": "卡托瓦纳帝国军少校，塔姆兹库兹库中将的副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/36/44339_crt_5p0JY.jpg?r=1471361275",
+        "link": "https://bgm.tv/character/44339",
+        "categorie": "person"
+      },
+      {
+        "id": "44340",
+        "label": "嘉娜·特马里",
+        "info": "卡托瓦纳帝国一等兵，二十岁，搭档是风精灵塔布。隶属于北域镇台第一团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ec/44340_crt_NtZD7.jpg?r=1471362814",
+        "link": "https://bgm.tv/character/44340",
+        "categorie": "person"
+      },
+      {
+        "id": "44341",
+        "label": "暹帕·萨扎路夫",
+        "info": "卡托瓦纳帝国军中尉，搭档是光精灵契。隶属于北域镇台第一团，担任第九光照兵连连长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a9/44341_crt_BBPVP.jpg?r=1471361890",
+        "link": "https://bgm.tv/character/44341",
+        "categorie": "person"
+      },
+      {
+        "id": "44342",
+        "label": "丁昆·哈尔群斯卡",
+        "info": "卡托瓦纳帝国军准尉，搭档是水精灵尼基。隶属于北域镇台第一团，担任第二十二胸甲骑兵排排长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/3a/44342_crt_UTx5C.jpg?r=1471361943",
+        "link": "https://bgm.tv/character/44342",
+        "categorie": "person"
+      },
+      {
+        "id": "44343",
+        "label": "娜娜克·鞑尔",
+        "info": "山岳民族シナーク族の族長",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/cf/44343_crt_U5SZs.jpg?r=1473007416",
+        "link": "https://bgm.tv/character/44343",
+        "categorie": "person"
+      },
+      {
+        "id": "44451",
+        "label": "梅莱杰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/62/44451_crt_RUrJC.jpg?r=1471362773",
+        "link": "https://bgm.tv/character/44451",
+        "categorie": "person"
+      },
+      {
+        "id": "45734",
+        "label": "尼尔瓦·基恩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/4a/45734_crt_k5Slk.jpg?r=1473009708",
+        "link": "https://bgm.tv/character/45734",
+        "categorie": "person"
+      },
+      {
+        "id": "45987",
+        "label": "约翰·亚尔奇涅库斯",
+        "info": "キオカ共和国陸軍少佐→大佐→少将（8巻）アルデラ神軍客員将校。初登場時（3巻）21歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/1f/45987_crt_3YzZx.jpg?r=1473608083",
+        "link": "https://bgm.tv/character/45987",
+        "categorie": "person"
+      },
+      {
+        "id": "45988",
+        "label": "米雅拉·银",
+        "info": "キオカ共和国陸軍大尉。初登場時（3巻）32歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/7c/45988_crt_5eieD.jpg?r=1473608095",
+        "link": "https://bgm.tv/character/45988",
+        "categorie": "person"
+      },
+      {
+        "id": "45989",
+        "label": "亚库嘉尔帕·萨·杜梅夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/d9/45989_crt_bZ9rS.jpg?r=1473608246",
+        "link": "https://bgm.tv/character/45989",
+        "categorie": "person"
+      },
+      {
+        "id": "45990",
+        "label": "米修里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/ea/45990_crt_cpJW7.jpg?r=1473608298",
+        "link": "https://bgm.tv/character/45990",
+        "categorie": "person"
+      },
+      {
+        "id": "46853",
+        "label": "塔兹尼亚德·哈朗",
+        "info": "キオカ共和国陸軍大尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/28/46853_crt_62IK7.jpg?r=1474897508",
+        "link": "https://bgm.tv/character/46853",
+        "categorie": "person"
+      },
+      {
+        "id": "46854",
+        "label": "米塔·肯席",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/e0/46854_crt_39vQN.jpg?r=1474897576",
+        "link": "https://bgm.tv/character/46854",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "43436",
+        "label": "涅吉夫·哈路路姆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/32/43436_crt_jQDJd.jpg?r=1468732057",
+        "link": "https://bgm.tv/character/43436",
+        "categorie": "person"
+      },
+      {
+        "id": "43437",
+        "label": "哈萨夫·利坎",
+        "info": "東域鎮台司令長官。陸軍中将。名将と謳われ、数多くの部下から慕われていたが、東域の戦争において殉職する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/f1/43437_crt_x5Yw9.jpg?r=1468732353",
+        "link": "https://bgm.tv/character/43437",
+        "categorie": "person"
+      },
+      {
+        "id": "43438",
+        "label": "阿尔夏库尔特·奇朵拉·卡托沃玛尼尼克",
+        "info": "カトヴァーナ帝国皇帝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e9/43438_crt_IInW8.jpg?r=1468735073",
+        "link": "https://bgm.tv/character/43438",
+        "categorie": "person"
+      },
+      {
+        "id": "43632",
+        "label": "萨利哈史拉格·雷米翁",
+        "info": "トルウェイの長兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/f7/43632_crt_fg1nv.jpg?r=1469434368",
+        "link": "https://bgm.tv/character/43632",
+        "categorie": "person"
+      },
+      {
+        "id": "43633",
+        "label": "斯修拉夫·雷米翁",
+        "info": "トルウェイの次兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b5/43633_crt_aFaCn.jpg?r=1469434386",
+        "link": "https://bgm.tv/character/43633",
+        "categorie": "person"
+      },
+      {
+        "id": "43635",
+        "label": "杰森·豪",
+        "info": "陸軍大尉。シャミーユ親衛隊隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/cd/43635_crt_bGCEB.jpg?r=1469433783",
+        "link": "https://bgm.tv/character/43635",
+        "categorie": "person"
+      },
+      {
+        "id": "44105",
+        "label": "阿纳莱·卡恩",
+        "info": "科学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/77/44105_crt_tVXdV.jpg?r=1470585717",
+        "link": "https://bgm.tv/character/44105",
+        "categorie": "person"
+      },
+      {
+        "id": "44106",
+        "label": "巴达·桑克雷",
+        "info": "故カトヴァーナ帝国軍大将。『日輪（にちりん）』とあだ名されたイクタの実父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/5c/44106_crt_Beyiy.jpg?r=1470585861",
+        "link": "https://bgm.tv/character/44106",
+        "categorie": "person"
+      },
+      {
+        "id": "44107",
+        "label": "玛丽班·苏萨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/cb/44107_crt_7RtF5.jpg?r=1470586323",
+        "link": "https://bgm.tv/character/44107",
+        "categorie": "person"
+      },
+      {
+        "id": "44108",
+        "label": "古伊汉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/83/44108_crt_q5sys.jpg?r=1470586451",
+        "link": "https://bgm.tv/character/44108",
+        "categorie": "person"
+      },
+      {
+        "id": "44110",
+        "label": "希亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/51/44110_crt_R5Q5u.jpg?r=1470587424",
+        "link": "https://bgm.tv/character/44110",
+        "categorie": "person"
+      },
+      {
+        "id": "44111",
+        "label": "优嘉·桑克雷",
+        "info": "イクタの実母。故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/65/44111_crt_lvZhU.jpg?r=1470587571",
+        "link": "https://bgm.tv/character/44111",
+        "categorie": "person"
+      },
+      {
+        "id": "44112",
+        "label": "索尔维纳雷斯·伊格塞姆",
+        "info": "ヤトリシノの父親。愛称はソル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/e7/44112_crt_sI9WN.jpg?r=1470587671",
+        "link": "https://bgm.tv/character/44112",
+        "categorie": "person"
+      },
+      {
+        "id": "44113",
+        "label": "奈兹纳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/ff/44113_crt_wecS6.jpg?r=1470588030",
+        "link": "https://bgm.tv/character/44113",
+        "categorie": "person"
+      },
+      {
+        "id": "44114",
+        "label": "巴靖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/68/44114_crt_3c8FE.jpg?r=1470588157",
+        "link": "https://bgm.tv/character/44114",
+        "categorie": "person"
+      },
+      {
+        "id": "44452",
+        "label": "塔卢卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/2a/44452_crt_EwmpS.jpg?r=1471362946",
+        "link": "https://bgm.tv/character/44452",
+        "categorie": "person"
+      },
+      {
+        "id": "45729",
+        "label": "亚桑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/c5/45729_crt_rkt3T.jpg?r=1473004916",
+        "link": "https://bgm.tv/character/45729",
+        "categorie": "person"
+      },
+      {
+        "id": "45730",
+        "label": "亚姆塞·斯尔卡塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/29/45730_crt_yhzh4.jpg?r=1473004903",
+        "link": "https://bgm.tv/character/45730",
+        "categorie": "person"
+      },
+      {
+        "id": "45731",
+        "label": "希尔米修·尼卡弗马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/31/45731_crt_JOLVO.jpg?r=1473005029",
+        "link": "https://bgm.tv/character/45731",
+        "categorie": "person"
+      },
+      {
+        "id": "45732",
+        "label": "玛努班斯·纳吉尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/0d/45732_crt_YBxfj.jpg?r=1473004932",
+        "link": "https://bgm.tv/character/45732",
+        "categorie": "person"
+      },
+      {
+        "id": "45733",
+        "label": "希夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e7/45733_crt_mH13R.jpg",
+        "link": "https://bgm.tv/character/45733",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65165",
+        "label": "久远爱",
+        "info": "時瀬箏曲部の部員になった高校１年生。不良と認識され、上級生にすら恐れられているが、仲間思いの優しさを持っている。亡き祖父・源は箏の職人で、部の創立者でもある。現在は叔母・衣咲の家に居候しているが、部屋の隅に仕切りを立てて寝泊りしている程度の扱い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/d3/65165_crt_nJKN0.jpg?r=1543897560",
+        "link": "https://bgm.tv/character/65165",
+        "categorie": "person"
+      },
+      {
+        "id": "65166",
+        "label": "仓田武藏",
+        "info": "時瀬高校の箏曲部部長。真面目だが、やや臆病で本番に弱い面も。受験に失敗し自暴自棄になりかけていた頃、先輩のヘタながらも一生懸命な箏の演奏に感動。箏曲部に入部し、部と創立時から代々伝わる曲を受け継いだ。以来、部を守るという強い思いを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/39/65166_crt_Z66cc.jpg?r=1543897562",
+        "link": "https://bgm.tv/character/65166",
+        "categorie": "person"
+      },
+      {
+        "id": "65167",
+        "label": "凤月里和",
+        "info": "時瀬箏曲部の１年生にして、巨大な箏の家元・鳳月会のお嬢様だったが、現在は破門されている。箏の演奏は天才的で、コンクールの賞を総ナメにした。入部の理由は｢弱小箏曲部を全国一位に導いた天才箏少女｣としてプロデビューの際に話題性を得るため。箏に対する強い愛着を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/2f/65167_crt_6zkHp.jpg?r=1543897565",
+        "link": "https://bgm.tv/character/65167",
+        "categorie": "person"
+      },
+      {
+        "id": "65168",
+        "label": "高冈哲生",
+        "info": "中学生時代からの愛の同級生。愛の事情を知っており、彼のことを気にかけている。一見大人しく見えるが、かなりケンカ強く｢黒い｣一面を持つ。父親は大きな病院の院長で、金持ちな上に頭もいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6e/65168_crt_fhaeF.jpg?r=1553139094",
+        "link": "https://bgm.tv/character/65168",
+        "categorie": "person"
+      },
+      {
+        "id": "65171",
+        "label": "足立实康",
+        "info": "愛と哲生の友人。通孝や光太と一緒に時瀬筝曲部に入部した。中学生時代、３人でいるところを不良に絡まれピンチに陥り、愛に助けられた過去を持つ。以後、彼に借りを返そうと心に決めている。ギターの経験あり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/c2/65171_crt_jiJ00.jpg?r=1553139082",
+        "link": "https://bgm.tv/character/65171",
+        "categorie": "person"
+      },
+      {
+        "id": "65172",
+        "label": "堺通孝",
+        "info": "愛と哲生の友人で、実康や光太とよくつるんでいる。その２人と同じく、猫をかぶったさとわに誘われ入部したが、愛のため真剣に箏の練習をすることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/8d/65172_crt_XRsbd.jpg?r=1553139072",
+        "link": "https://bgm.tv/character/65172",
+        "categorie": "person"
+      },
+      {
+        "id": "65173",
+        "label": "水原光太",
+        "info": "実康､通孝と同様、愛と哲生の友人。明るく、愛に出会いがしら抱きつくなどの行動を見せる。初めは不真面目だった部活動も、今では真摯に取り組んでいる。リズムを合わせることが苦手で、部内でやや遅れ始める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/57/65173_crt_3oIhc.jpg?r=1553139068",
+        "link": "https://bgm.tv/character/65173",
+        "categorie": "person"
+      },
+      {
+        "id": "65174",
+        "label": "来栖妃吕",
+        "info": "武蔵の同級生。人間関係というものの脆さを憎み、時瀬筝曲部の絆を壊すために入部したが、彼らの友情を受け入れ心を入れ替えた。祖母の影響で、少しだが箏の経験がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8f/65174_crt_oopbt.jpg",
+        "link": "https://bgm.tv/character/65174",
+        "categorie": "person"
+      },
+      {
+        "id": "65183",
+        "label": "泷浪凉香",
+        "info": "時瀬箏曲部の顧問だが部活動に対するやる気はなく、武蔵の掲げる｢全国大会出場｣を無謀と断じていた。だが本気で夢を叶えようとする武蔵達を認め始め、彼らの力になってくれるように。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/b9/65183_crt_wXXUc.jpg",
+        "link": "https://bgm.tv/character/65183",
+        "categorie": "person"
+      },
+      {
+        "id": "67421",
+        "label": "神崎澪",
+        "info": "神奈川県にある県立高校・珀音高校の男子生徒で、箏曲部の部員。学年は愛と同じ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/4f/67421_crt_cCjMC.jpg",
+        "link": "https://bgm.tv/character/67421",
+        "categorie": "person"
+      },
+      {
+        "id": "65169",
+        "label": "久远源",
+        "info": "箏をつくる職人をしていた愛の祖父。不良のため親に見捨てられた愛を引き取り、箏を通じて更生させたが、その後亡くなった。時瀬高校の箏曲部をつくった人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/23/65169_crt_W8wEE.jpg",
+        "link": "https://bgm.tv/character/65169",
+        "categorie": "person"
+      },
+      {
+        "id": "65178",
+        "label": "仓田武流",
+        "info": "武蔵の弟で、武蔵が志望していたが落ちてしまった明陵高校に通っている。武蔵が筝曲部に所属していることを｢男のくせに恥ずかしい｣とバカにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/da/65178_crt_uXYLl.jpg",
+        "link": "https://bgm.tv/character/65178",
+        "categorie": "person"
+      },
+      {
+        "id": "68004",
+        "label": "真白",
+        "info": "時瀬筝曲部のＯＢで、武蔵の先輩。自分達の卒業により、一人残してしまった武蔵を気にかけていたが、筝曲部の現状を知り安心する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d9/68004_crt_QJ7VV.jpg",
+        "link": "https://bgm.tv/character/68004",
+        "categorie": "person"
+      },
+      {
+        "id": "65175",
+        "label": "久远衣咲",
+        "info": "愛の叔母であり、源の娘。職業などは謎だが、高級マンションに住んでいる。ガサツで、愛をアゴで使うなどかなり尊大な性格。源から、自分の身に何かあったら愛を頼むと言われていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/18/65175_crt_6D2ct.jpg",
+        "link": "https://bgm.tv/character/65175",
+        "categorie": "person"
+      },
+      {
+        "id": "65170",
+        "label": "仁科静音",
+        "info": "源の友人で箏の修理、販売などをしている楽器店のおばあちゃん。愛や実康に対し厳しくあたるが、彼らの熱意を認め、部活後の練習を手伝うなど面倒を見てくれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/ce/65170_crt_tcHPn.jpg",
+        "link": "https://bgm.tv/character/65170",
+        "categorie": "person"
+      },
+      {
+        "id": "68005",
+        "label": "凤月千春",
+        "info": "鳳月会の家元で、さとわの母親。夫を亡くしてから“家元”という重圧に押し潰され、思い通りに育ってくれないさとわに心を閉ざしてしまったが、県予選大会がきっかけとなり、和解。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/90/68005_crt_hk85W.jpg",
+        "link": "https://bgm.tv/character/68005",
+        "categorie": "person"
+      },
+      {
+        "id": "65176",
+        "label": "凰和纱",
+        "info": "鳳月会に並ぶ大きな会・華凰会の跡取りにして姫坂女学院筝曲部の一年生。小さい頃からさとわに憧れている。男を毛嫌いし、男だらけな上に実力もさとわにつり合わない時瀬筝曲部を敵視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/e0/65176_crt_558Xv.jpg",
+        "link": "https://bgm.tv/character/65176",
+        "categorie": "person"
+      },
+      {
+        "id": "65179",
+        "label": "桐生樱介",
+        "info": "明陵筝曲部の１年生。明るく調子のいい性格で、明陵に男子部員が少ないこともあり実康らと意気投合する。幼い頃、身体が弱く周囲と上手く溶け込めずにいたが、その頃知り合った朝乃により、箏の世界を知る。孤独になりたくない一心で、｢人に合わせる｣高い能力を身につけた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/a0/65179_crt_hAW6Y.jpg",
+        "link": "https://bgm.tv/character/65179",
+        "categorie": "person"
+      },
+      {
+        "id": "65177",
+        "label": "花村史",
+        "info": "姫坂女学院の筝曲部に所属する、かずさの友達。思い込みの激しいかずさのツッコミ役になることが多い。姫坂は今年の全国大会において神奈川の代表となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/6c/65177_crt_aLcmE.jpg",
+        "link": "https://bgm.tv/character/65177",
+        "categorie": "person"
+      },
+      {
+        "id": "70626",
+        "label": "泉朝乃",
+        "info": "明陵高校筝曲部の２年生。桜介の隣に住む幼馴染。桜介を箏の教室に連れていき、共に練習を重ねてきた。身体の弱い桜介を気遣っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/ad/70626_crt_8T17Q.jpg?r=1561204994",
+        "link": "https://bgm.tv/character/70626",
+        "categorie": "person"
+      },
+      {
+        "id": "65181",
+        "label": "宫千太朗",
+        "info": "永大付属高校筝曲部の１年生。ケンカっ早く、小柄な体格のことになるとすぐにキレてしまう。以前永大付属で筝を教えていた祖母を持つが、今では病に臥せっている。祖母のために全国大会出場を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/c8/65181_crt_dtOOi.jpg",
+        "link": "https://bgm.tv/character/65181",
+        "categorie": "person"
+      },
+      {
+        "id": "65182",
+        "label": "春日井晴",
+        "info": "千太朗の相棒。気が弱く、問題を起こしがちな千太朗にあたふたしている。千太朗の腕についていくだけの実力を持つが、気迫の違いで足を引っ張ってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/07/65182_crt_4FfDe.jpg",
+        "link": "https://bgm.tv/character/65182",
+        "categorie": "person"
+      },
+      {
+        "id": "68006",
+        "label": "堂岛",
+        "info": "さとわが出て行った後、千春の内弟子に入った女性。孫の晶を鳳月会の跡継ぎにしようと目論み、さとわを疎ましく思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/50/68006_crt_ABG3C.jpg",
+        "link": "https://bgm.tv/character/68006",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

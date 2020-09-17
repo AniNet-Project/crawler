@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14537",
+        "label": "健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/bd/14537_crt_d5bj9.jpg",
+        "link": "https://bgm.tv/character/14537",
+        "categorie": "person"
+      },
+      {
+        "id": "14538",
+        "label": "玛莉娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/d9/14538_crt_oAA8U.jpg",
+        "link": "https://bgm.tv/character/14538",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

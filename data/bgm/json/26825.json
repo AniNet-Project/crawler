@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15505",
+        "label": "逢泽夏海",
+        "info": "中学2年级生，生长于单亲家庭。网球社社员。弟弟的名字是大树。和纱季是邻居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/38/15505_crt_Rl11p.jpg",
+        "link": "https://bgm.tv/character/15505",
+        "categorie": "person"
+      },
+      {
+        "id": "15506",
+        "label": "水越纱季",
+        "info": "夏海打网球的双打伙伴，于暑假搬离下田市。擅长运动和学习。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/39/15506_crt_S5F4O.jpg",
+        "link": "https://bgm.tv/character/15506",
+        "categorie": "person"
+      },
+      {
+        "id": "15507",
+        "label": "花木优香",
+        "info": "旅馆“花木屋”的女儿。时常显得活泼，喜欢偶像。有一名姐姐。体力非常差，与夏海三人不同，只要一跑步马上就气喘吁吁的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/9e/15507_crt_Pj0zp.jpg",
+        "link": "https://bgm.tv/character/15507",
+        "categorie": "person"
+      },
+      {
+        "id": "15508",
+        "label": "环凛子",
+        "info": "姬石神社的女儿。喜欢音乐的无口系少女，非常喜欢音乐。只要发烧，就会看见鲸鱼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/5a/15508_crt_BbYny.jpg",
+        "link": "https://bgm.tv/character/15508",
+        "categorie": "person"
+      },
+      {
+        "id": "39546",
+        "label": "夏海の母",
+        "info": "夏海的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/ee/39546_crt_t17zN.jpg?r=1458220427",
+        "link": "https://bgm.tv/character/39546",
+        "categorie": "person"
+      },
+      {
+        "id": "39548",
+        "label": "紗季の母",
+        "info": "纱季的母亲，护士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c7/39548_crt_mzQm3.jpg?r=1458220617",
+        "link": "https://bgm.tv/character/39548",
+        "categorie": "person"
+      },
+      {
+        "id": "39550",
+        "label": "凛子の母",
+        "info": "凛子的母亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/f9/39550_crt_e9RW2.jpg?r=1458220710",
+        "link": "https://bgm.tv/character/39550",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

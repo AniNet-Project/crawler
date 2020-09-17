@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16489",
+        "label": "桐人／桐谷和人",
+        "info": "主人公。开始玩SAO时是14岁，2年后的故事本篇是16岁。生日日期为10月7号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/4e/16489_crt_mHSx3.jpg?r=1505068032",
+        "link": "https://bgm.tv/character/16489",
+        "categorie": "person"
+      },
+      {
+        "id": "16490",
+        "label": "亚丝娜／结城明日奈",
+        "info": "女主角，开始玩SAO时是15岁，2年后的故事本篇是17岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/bd/16490_crt_s5s5C.jpg",
+        "link": "https://bgm.tv/character/16490",
+        "categorie": "person"
+      },
+      {
+        "id": "17647",
+        "label": "结衣",
+        "info": "倒在桐人和亚丝娜过新婚生活的艾恩葛朗特22层森林里的小女孩。除了记忆错乱，身边还有许多不可解的Bug现象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/19/17647_crt_x346a.jpg",
+        "link": "https://bgm.tv/character/17647",
+        "categorie": "person"
+      },
+      {
+        "id": "25240",
+        "label": "诗乃／朝田诗乃",
+        "info": "幽灵子弹篇的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/16/25240_crt_5QNP1.jpg",
+        "link": "https://bgm.tv/character/25240",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

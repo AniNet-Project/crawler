@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50036",
+        "label": "武坂律香",
+        "info": "武坂家の長女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ea/50036_crt_li4ul.jpg",
+        "link": "https://bgm.tv/character/50036",
+        "categorie": "person"
+      },
+      {
+        "id": "50037",
+        "label": "武坂和奏",
+        "info": "武坂家の次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/48/50037_crt_mvhtf.jpg",
+        "link": "https://bgm.tv/character/50037",
+        "categorie": "person"
+      },
+      {
+        "id": "50039",
+        "label": "桃谷真白",
+        "info": "主人公の従姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/94/50039_crt_Z6966.jpg",
+        "link": "https://bgm.tv/character/50039",
+        "categorie": "person"
+      },
+      {
+        "id": "50040",
+        "label": "桐生深蘭",
+        "info": "主人公の彼女で、大学の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/21/50040_crt_DD3N9.jpg",
+        "link": "https://bgm.tv/character/50040",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

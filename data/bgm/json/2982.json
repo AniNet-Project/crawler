@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17990",
+        "label": "伊庭树",
+        "info": "「阿斯特拉尔」现任社长，平时看起来很软弱的样子，但其实是特殊能力「妖精眼」的持有者。「妖精眼」所在的右眼平时是用眼罩遮住封闭起来的，「妖精眼」揭开之后，性格会发生很大变化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/41/17990_crt_j0dld.jpg",
+        "link": "https://bgm.tv/character/17990",
+        "categorie": "person"
+      },
+      {
+        "id": "17991",
+        "label": "穗波·高瀬·安布勒",
+        "info": "「阿斯特拉尔」公司正式员工，树青梅竹马的玩伴，知道「妖精眼」的秘密，成功复活了曾经失传的凯尔特魔法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/89/17991_crt_LLl9r.jpg",
+        "link": "https://bgm.tv/character/17991",
+        "categorie": "person"
+      },
+      {
+        "id": "3767",
+        "label": "安缇莉西亚·雷·梅札斯",
+        "info": "「阿斯特拉尔」竞争对手，魔法组织「盖提亚」的首领，持有「阿斯特拉尔」20%股份的股东，高中二年级学生，英国魔法师，能够使用所罗门王的秘术召唤72柱魔神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/bd/3767_crt_oNdLD.jpg",
+        "link": "https://bgm.tv/character/3767",
+        "categorie": "person"
+      },
+      {
+        "id": "3768",
+        "label": "葛城美贯",
+        "info": "「阿斯特拉尔」的合同员工，葛城家的女儿，日本神道教法术的传人，使用「祓」的力量发动「绝对」的结界，是神道课契约社员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/e1/3768_crt_Rn7XU.jpg",
+        "link": "https://bgm.tv/character/3768",
+        "categorie": "person"
+      },
+      {
+        "id": "3769",
+        "label": "黑羽真奈美",
+        "info": "「阿斯特拉尔」的幽灵员工见习生，负责端茶倒水打扫卫生的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/cc/3769_crt_9d2Pt.jpg",
+        "link": "https://bgm.tv/character/3769",
+        "categorie": "person"
+      },
+      {
+        "id": "17992",
+        "label": "猫屋敷莲",
+        "info": "「阿斯特拉尔」专务，公司创建时就加入的元老员工，阴阳师，爱猫如命，在杂志上有个人占卜专栏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/43/17992_crt_g3l3I.jpg",
+        "link": "https://bgm.tv/character/17992",
+        "categorie": "person"
+      },
+      {
+        "id": "17994",
+        "label": "拉碧丝",
+        "info": "“魔法师VS炼金术师”初豋场，外表为12岁左右的东欧系少女，赤发碧眼，有着雪白的不可思议的肌肤，和看似缺乏感情的表情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/17/17994_crt_CFCcK.jpg",
+        "link": "https://bgm.tv/character/17994",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

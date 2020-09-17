@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28762",
+        "label": "东城刃更",
+        "info": "父親と暮らす男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/60/28762_crt_ClM3O.jpg?r=1428501415",
+        "link": "https://bgm.tv/character/28762",
+        "categorie": "person"
+      },
+      {
+        "id": "28764",
+        "label": "成濑澪",
+        "info": "刃更の義妹になった、",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/cf/28764_crt_1s8yx.jpg?r=1420728461",
+        "link": "https://bgm.tv/character/28764",
+        "categorie": "person"
+      },
+      {
+        "id": "28766",
+        "label": "成濑万理亚",
+        "info": "刃更の義理の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/10/28766_crt_q0cQH.jpg?r=1420728995",
+        "link": "https://bgm.tv/character/28766",
+        "categorie": "person"
+      },
+      {
+        "id": "28767",
+        "label": "野中柚希",
+        "info": "刃更の幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/9b/28767_crt_9f11j.jpg?r=1438666044",
+        "link": "https://bgm.tv/character/28767",
+        "categorie": "person"
+      },
+      {
+        "id": "28769",
+        "label": "长谷川千里",
+        "info": "刃更達が通う、",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/2c/28769_crt_TT2AZ.jpg?r=1420730812",
+        "link": "https://bgm.tv/character/28769",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

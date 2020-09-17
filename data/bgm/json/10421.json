@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32372",
+        "label": "蕾·弥",
+        "info": "《机兽起源》人物之一",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/8f/32372_crt_8FUIn.jpg?r=1573042899",
+        "link": "https://bgm.tv/character/32372",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

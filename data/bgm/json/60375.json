@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49722",
+        "label": "高城宽子",
+        "info": "学園の美術教師。水無瀬と伊万里の所属する美術部の顧問を務めている。その容姿と良い性格から、女子からも男子からも人望が厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/31/49722_crt_zznE7.jpg",
+        "link": "https://bgm.tv/character/49722",
+        "categorie": "person"
+      },
+      {
+        "id": "49723",
+        "label": "北见丽华",
+        "info": "学園の保健医。水無瀬が苦手とする教師。その経歴には謎が多い。その妖しい色気からか、あまり良い噂は聞こえてこない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/55/49723_crt_FtwMf.jpg",
+        "link": "https://bgm.tv/character/49723",
+        "categorie": "person"
+      },
+      {
+        "id": "81322",
+        "label": "小園ナミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/5b/81322_crt_T6W1Z.jpg",
+        "link": "https://bgm.tv/character/81322",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

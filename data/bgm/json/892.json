@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3517",
+        "label": "尾形琳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b0/3517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3517",
+        "categorie": "person"
+      },
+      {
+        "id": "64409",
+        "label": "岡倉天司郎",
+        "info": "37岁，かつて海外でライドバックのスペシャリストとして活躍したとの噂があるが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/85/64409_crt_p9oY4.jpg",
+        "link": "https://bgm.tv/character/64409",
+        "categorie": "person"
+      },
+      {
+        "id": "64410",
+        "label": "基法",
+        "info": "37歳。BMAの兵士で、自治会デモ行進時に命を狙われた琳を助けた。その後、変装してGGFに潜入し、ロマン・カチャノフと名乗ってGGFのライドバック部隊の教官となり、琳と再会する。当初は味方のBMA兵でさえ銃殺するその行動から琳に嫌われるが、GGF、BMAとも脱退することを決めたあと、琳と恋に落ちて何度かライドバックを運転しながらキスするシーンが描かれた。アニメ版では一貫してBMA兵士という設定であり、琳とのキスシーンは無い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/f0/64410_crt_z5E74.jpg",
+        "link": "https://bgm.tv/character/64410",
+        "categorie": "person"
+      },
+      {
+        "id": "6301",
+        "label": "依田恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/ff/6301_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6301",
+        "categorie": "person"
+      },
+      {
+        "id": "6304",
+        "label": "佐藤彰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/f0/6304_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6304",
+        "categorie": "person"
+      },
+      {
+        "id": "6303",
+        "label": "片冈南风",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/16/6303_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6303",
+        "categorie": "person"
+      },
+      {
+        "id": "6302",
+        "label": "ロマノフ・カレンバーク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/81/6302_crt_L2Oie.jpg",
+        "link": "https://bgm.tv/character/6302",
+        "categorie": "person"
+      },
+      {
+        "id": "6300",
+        "label": "河合堂太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/d0/6300_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6300",
+        "categorie": "person"
+      },
+      {
+        "id": "3878",
+        "label": "上村しょう子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/54/3878_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3878",
+        "categorie": "person"
+      },
+      {
+        "id": "3877",
+        "label": "菱田春树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/9a/3877_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3877",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

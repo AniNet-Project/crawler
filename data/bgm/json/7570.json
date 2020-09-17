@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8746",
+        "label": "不动珍",
+        "info": "漫画版",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/f5/8746_crt_VYlr7.jpg?r=1590338255",
+        "link": "https://bgm.tv/character/8746",
+        "categorie": "person"
+      },
+      {
+        "id": "77332",
+        "label": "飞鸟兰",
+        "info": "漫画",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/16/77332_crt_34JNZ.jpg?r=1590338922",
+        "link": "https://bgm.tv/character/77332",
+        "categorie": "person"
+      },
+      {
+        "id": "77333",
+        "label": "泷浦和美",
+        "info": "読者モデル出身のモデルの卵で、18歳の女子高生。モデル事務所「オフィスフィーメ」所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/76/77333_crt_JyDYx.jpg?r=1590341608",
+        "link": "https://bgm.tv/character/77333",
+        "categorie": "person"
+      },
+      {
+        "id": "77334",
+        "label": "织田律子",
+        "info": "OLにして、植物型ビースト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/81/77334_crt_53n3H.jpg?r=1590342426",
+        "link": "https://bgm.tv/character/77334",
+        "categorie": "person"
+      },
+      {
+        "id": "77520",
+        "label": "黑崎碧",
+        "info": "22歳。スポーツジムで水泳のインストラクターをしている女性。サメ型ビースト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/01/77520_crt_zx742.jpg?r=1591450941",
+        "link": "https://bgm.tv/character/77520",
+        "categorie": "person"
+      },
+      {
+        "id": "77970",
+        "label": "园部真名子",
+        "info": "第13話のみ登場。人気画家園部音也の義姉で、着物に身を包んだ中年の美女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/74/77970_crt_xyifP.jpg?r=1593464310",
+        "link": "https://bgm.tv/character/77970",
+        "categorie": "person"
+      },
+      {
+        "id": "78623",
+        "label": "浅川惠理",
+        "info": "第17話のみ登場。市ヶ谷駐屯地に拘禁されたジュンの健康管理を担当することとなった若い看護師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/66/78623_crt_pYsdy.jpg?r=1595875460",
+        "link": "https://bgm.tv/character/78623",
+        "categorie": "person"
+      },
+      {
+        "id": "85751",
+        "label": "汤浅真由",
+        "info": "湯浅の娘。両親の不和に気づいており、心を痛めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/f3/85751_crt_bQlM3.jpg?r=1600083240",
+        "link": "https://bgm.tv/character/85751",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18645",
+        "label": "蝙蝠侠",
+        "info": "蝙蝠侠是在1939年5月美国《侦探漫画》第27期中诞生的一个虚拟人物，由鲍勃·凯恩与比尔·芬格（Bill Finger）共同创造（但是只有肯恩获得官方注名为作者）。他是个伸张正义打击犯罪的超级英雄，也是第一个没有超能力的超级英雄。虽然一开始蝙蝠侠只是数个同时被创造出来的虚拟角色之一，但后来他成了其他连载漫画中超级英雄的领袖人物。蝙蝠侠跟超人是英雄漫画中最广为人知也最受欢迎的两个角色，并被多次拍成电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d2/18645_crt_3h356.jpg?r=1425372096",
+        "link": "https://bgm.tv/character/18645",
+        "categorie": "person"
+      },
+      {
+        "id": "30109",
+        "label": "小丑",
+        "info": "小丑是出现于由DC漫画初版的漫画系列《蝙蝠侠》中的一个主要反派角色。他也直接地造成蝙蝠侠人生中的一些悲剧，像是Barbara Gordon（蝙蝠女）的瘫痪、Jason Todd（第二代罗宾）的死亡。小丑这个角色是由Jerry Robinson，Bill Finger和Bob Kane所共同创造的。第一次登场是在《蝙蝠侠》第一期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/7c/30109_crt_ULil8.jpg?r=1425372155",
+        "link": "https://bgm.tv/character/30109",
+        "categorie": "person"
+      },
+      {
+        "id": "64267",
+        "label": "达米安·韦恩",
+        "info": "达米安·韦恩（英语：Damian Wayne）或达米安·奥·古（英语：Damian al Ghul）（Arabic: داميان الغول）是一名出现于DC漫画的虚构超级英雄角色，他是蝙蝠侠布鲁斯·韦恩与刺客联盟首领之女塔莉娅·阿勒古尔所生的儿子，后来成为蝙蝠侠的助手、第五代的罗宾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/9e/64267_crt_5uB6b.jpg?r=1554100754",
+        "link": "https://bgm.tv/character/64267",
+        "categorie": "person"
+      },
+      {
+        "id": "30119",
+        "label": "猫女",
+        "info": "猫女是DC漫画公司的《蝙蝠侠》系列的一个虚拟人物，由比尔·芬格和鲍勃·凯恩创作，灵感来源于凯恩的亲戚露丝·斯蒂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/26/30119_crt_SUZ7H.jpg?r=1425391891",
+        "link": "https://bgm.tv/character/30119",
+        "categorie": "person"
+      },
+      {
+        "id": "35252",
+        "label": "哈莉·奎茵",
+        "info": "DC漫画公司旗下的超级反派，首次出现在1992年的蝙蝠侠电视动画，因人气极高，被引入到漫画里，并初次登场于哈莉·奎茵#1（1999年10月），蝙蝠侠的主要死敌之一，本名哈琳·奎泽尔（Harleen Quinzel）一开始是指定来治疗小丑的心理医生，却变成痴迷于他的病人，相信自己爱上了小丑，她帮助小丑解除了监禁，自己变成犯罪分子”哈莉·奎茵“。她是一个暴力的、捉摸不透的重犯，其唯一的犯罪动机就是实现小丑的假释。因为小丑残酷和反复无常的天性，从某种意义上使奎茵成为他的又一个受害人，尽管她也是危险的犯罪分子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/89/35252_crt_48VnJ.jpg?r=1529999697",
+        "link": "https://bgm.tv/character/35252",
+        "categorie": "person"
+      },
+      {
+        "id": "30110",
+        "label": "阿尔弗莱德·潘尼沃斯",
+        "info": "阿尔弗莱德·潘尼沃斯是一个存在于整个DC宇宙的虚构人物。这个角色第一次出现在蝙蝠侠漫画第# 16期，是由专栏作家鲍勃·凯恩和艺术家杰里·罗宾逊创建的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/da/30110_crt_cOZ11.jpg?r=1425372117",
+        "link": "https://bgm.tv/character/30110",
+        "categorie": "person"
+      },
+      {
+        "id": "64265",
+        "label": "大猩猩古鲁德",
+        "info": "大猩猩古鲁德（英语：Gorilla Grodd）是DC漫画旗下的超级反派，闪电侠的主要宿敌之一，他是拥有心灵控制能力的大猩猩。由John Broome和卡迈恩·因凡蒂诺创作，首次登场于《闪电侠》#106（1959年5月）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/c9/64265_crt_ZP1u3.jpg?r=1529998861",
+        "link": "https://bgm.tv/character/64265",
+        "categorie": "person"
+      },
+      {
+        "id": "31690",
+        "label": "夜翼",
+        "info": "罗宾这个人物原由编剧鲍勃·凯恩及比尔·芬格在侦探漫画第三十八期，他的出现是为了让蝙蝠侠的存在更有正面性。金童罗宾的创作灵感是源自于中世纪传奇人物罗宾汉和美国红胸知更鸟，以对应黑翼的蝙蝠侠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/d4/31690_crt_gZesF.jpg?r=1428328757",
+        "link": "https://bgm.tv/character/31690",
+        "categorie": "person"
+      },
+      {
+        "id": "34253",
+        "label": "红头罩",
+        "info": "杰森·陶德（Jason Todd）是DC漫画公司旗下的反英雄角色。首次登场于《蝙蝠侠》#357（1983年3月），设定为姜红（ginger）发色的马戏团成员，双亲因帮助蝙蝠侠而遇害，后由蝙蝠侠收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/ab/34253_crt_eQ8h9.jpg",
+        "link": "https://bgm.tv/character/34253",
+        "categorie": "person"
+      },
+      {
+        "id": "64266",
+        "label": "红罗宾",
+        "info": "提莫西·杰克森·“提姆”·德雷克（英语：Timothy Jackson \"Tim\" Drake），是DC漫画出版的漫画中登场的一名超级英雄，是蝙蝠侠的助手、第三代的罗宾，之后因蝙蝠侠被达克赛德的欧米茄光束“杀死”，在其他人都以为蝙蝠侠已死后仍坚信对方还活着，于是改用红罗宾（英语：Red Robin）身份去寻找其下落。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/56/64266_crt_dBTpf.jpg?r=1529999160",
+        "link": "https://bgm.tv/character/64266",
+        "categorie": "person"
+      },
+      {
+        "id": "35251",
+        "label": "丧钟",
+        "info": "DC漫画公司旗下的超级反派，初次登场于《The New Teen Titans （vol.1） #2》（1980年），原名斯莱德·威尔逊（Slade Wilson），本是一名雇佣兵，身体经基因改造后，成为各项体能都远超于常人的超级战士，他残忍而狡猾，可以说是世界上最伟大的战术家和刺客。曾单挑过正义联盟成员蝙蝠侠、绿箭侠、闪电侠等人，而且是少年泰坦的头号死敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/0c/35251_crt_K40mb.jpg?r=1512281028",
+        "link": "https://bgm.tv/character/35251",
+        "categorie": "person"
+      },
+      {
+        "id": "30121",
+        "label": "毒藤女",
+        "info": "毒藤女是DC漫画中的一个超级反派角色，又译为“毒青藤”、“植物女”、“毒药”，是虚构人物。登场时为帕梅拉·莉莲·爱丝莉博士（Dr. Pamela Lillian Isley），在实验中意外中毒，变身为具有超能力的毒藤女，可以操控植物和毒素，蝙蝠侠的死敌之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/dd/30121_crt_Bz8kk.jpg?r=1425392061",
+        "link": "https://bgm.tv/character/30121",
+        "categorie": "person"
+      },
+      {
+        "id": "30113",
+        "label": "双面人",
+        "info": "双面人是一位出现在DC漫画中的超级反派，蝙蝠侠的敌人。人物首次登场于《侦探漫画》#66，由鲍勃·凯恩与比尔·芬格创作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/60/30113_crt_ZrAmv.jpg?r=1425372622",
+        "link": "https://bgm.tv/character/30113",
+        "categorie": "person"
+      },
+      {
+        "id": "30112",
+        "label": "企鹅人",
+        "info": "企鹅人是美国DC漫画公司著名漫画《蝙蝠侠》当中反派人物，蝙蝠侠最早的敌人之一。他是个古怪的犯罪大亨，以热爱鸟类和用雨伞作为其黑道交易的象征而出名。科波特在哥谭市中颇受欢迎的“冰山餐厅”其实是他用来掩盖一系列为地下世界洗钱的非法金融活动的幌子。尽管身材矮小肥胖，企鹅人却是个诡计多端的敌人，他所用的雨伞中藏有各种各样的致命武器和装备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/25/30112_crt_R8UGD.jpg?r=1425372384",
+        "link": "https://bgm.tv/character/30112",
+        "categorie": "person"
+      },
+      {
+        "id": "64268",
+        "label": "贝恩",
+        "info": "贝恩（英语：Bane）是一位出现在DC漫画中的超级反派，蝙蝠侠的敌人之一。首次登场于蝙蝠侠的外传漫画《蝙蝠侠：贝恩的复仇》（Batman: Vengeance of Bane）#1 （1993年1月），为Chuck Dixon、Doug Moench和Graham Nolan所创作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/a9/64268_crt_YBy1J.jpg?r=1529999677",
+        "link": "https://bgm.tv/character/64268",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

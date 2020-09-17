@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35133",
+        "label": "星麻美",
+        "info": "16歳，高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/a6/35133_crt_HlH5P.jpg?r=1478457093",
+        "link": "https://bgm.tv/character/35133",
+        "categorie": "person"
+      },
+      {
+        "id": "35134",
+        "label": "樋口绘里",
+        "info": "14歳，中学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/67/35134_crt_C52C7.jpg?r=1478457128",
+        "link": "https://bgm.tv/character/35134",
+        "categorie": "person"
+      },
+      {
+        "id": "35135",
+        "label": "早乙女静乃",
+        "info": "17歳，高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/7b/35135_crt_R4hmR.jpg?r=1478459028",
+        "link": "https://bgm.tv/character/35135",
+        "categorie": "person"
+      },
+      {
+        "id": "35136",
+        "label": "橘紫苑",
+        "info": "16歳，高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/21/35136_crt_HPN02.jpg?r=1478459723",
+        "link": "https://bgm.tv/character/35136",
+        "categorie": "person"
+      },
+      {
+        "id": "35137",
+        "label": "平冈优",
+        "info": "15歳，中学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/f2/35137_crt_P4ndC.jpg?r=1478460626",
+        "link": "https://bgm.tv/character/35137",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

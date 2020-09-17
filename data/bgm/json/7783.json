@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25172",
+        "label": "葵苍空",
+        "info": "主人公。漢字での全表記は、葵 蒼空。同じ学校に通う姉・アキと双子の妹・ナミ、そして母親の4人で共にマンションの一室で暮らしている。クラスは1年D組に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/50/25172_crt_Ix7gS.jpg?r=1420469639",
+        "link": "https://bgm.tv/character/25172",
+        "categorie": "person"
+      },
+      {
+        "id": "25173",
+        "label": "葵亚希",
+        "info": "メインヒロイン。漢字での全表記は、葵 亜希。ソラの姉。ソラには「アキ姉ちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/15/25173_crt_CWfRr.jpg?r=1420455589",
+        "link": "https://bgm.tv/character/25173",
+        "categorie": "person"
+      },
+      {
+        "id": "25174",
+        "label": "葵奈美",
+        "info": "ソラの双子の妹。漢字での全表記は不明。ソラのことは「ソラ兄」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/f7/25174_crt_WOWBt.jpg?r=1420455824",
+        "link": "https://bgm.tv/character/25174",
+        "categorie": "person"
+      },
+      {
+        "id": "25175",
+        "label": "澄弥可奈",
+        "info": "ソラの級友で、ナミの親友の少女。眼鏡を掛けたおとなしい少女で、常に丁寧語で話す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ed/25175_crt_4Jkkg.jpg?r=1420464535",
+        "link": "https://bgm.tv/character/25175",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

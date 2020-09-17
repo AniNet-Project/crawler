@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67485",
+        "label": "八十龟最中",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/dc/67485_crt_TMVT7.jpg",
+        "link": "https://bgm.tv/character/67485",
+        "categorie": "person"
+      },
+      {
+        "id": "69613",
+        "label": "阵界斗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/5a/69613_crt_42wKx.jpg",
+        "link": "https://bgm.tv/character/69613",
+        "categorie": "person"
+      },
+      {
+        "id": "69614",
+        "label": "只草舞衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/d4/69614_crt_WP1YR.jpg",
+        "link": "https://bgm.tv/character/69614",
+        "categorie": "person"
+      },
+      {
+        "id": "69615",
+        "label": "笹津矢菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/05/69615_crt_00080.jpg",
+        "link": "https://bgm.tv/character/69615",
+        "categorie": "person"
+      },
+      {
+        "id": "69616",
+        "label": "阵繁华",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/66/69616_crt_2zE0z.jpg",
+        "link": "https://bgm.tv/character/69616",
+        "categorie": "person"
+      },
+      {
+        "id": "77182",
+        "label": "初内ララ",
+        "info": "地元に愛はあるが悲観的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/7c/77182_crt_7kScK.jpg",
+        "link": "https://bgm.tv/character/77182",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

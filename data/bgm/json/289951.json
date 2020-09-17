@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71825",
+        "label": "藤户千雪",
+        "info": "パリコレモデルを目指す、身長158cmの女子高生。スタイル自体は良いが、身長は10歳の頃から全く伸びていない。父が社長を務めるモデル事務所「ミルネージュ」から、モデル平均身長約179cmのパリ・コレクションへ出演することを目指している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/94/71825_crt_yVzVz.jpg?r=1568637589",
+        "link": "https://bgm.tv/character/71825",
+        "categorie": "person"
+      },
+      {
+        "id": "71826",
+        "label": "都村育人",
+        "info": "ファッションデザイナー志望の男子高校生。母子家庭の長男で、3人の妹がいる。家庭が経済的に困窮しており、学校に白米ともやしの弁当を持参することも。心優しい性格で、家計を支えるべく、ファッションデザイナーの夢を諦め就職することを考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/1e/71826_crt_Aca7j.jpg?r=1568637808",
+        "link": "https://bgm.tv/character/71826",
+        "categorie": "person"
+      },
+      {
+        "id": "73315",
+        "label": "长谷川心",
+        "info": "服飾芸華大学・服装科１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/39/73315_crt_7uBma.jpg?r=1574376967",
+        "link": "https://bgm.tv/character/73315",
+        "categorie": "person"
+      },
+      {
+        "id": "73316",
+        "label": "绫野远",
+        "info": "服飾芸華大学・服装科４年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/43/73316_crt_d4byq.jpg?r=1574376982",
+        "link": "https://bgm.tv/character/73316",
+        "categorie": "person"
+      },
+      {
+        "id": "74515",
+        "label": "柳田一",
+        "info": "ブランド「HAZIME YANAGIDA」を主宰している新進気鋭のファッションデザイナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/9d/74515_crt_dAajj.jpg?r=1578141749",
+        "link": "https://bgm.tv/character/74515",
+        "categorie": "person"
+      },
+      {
+        "id": "74516",
+        "label": "セイラ",
+        "info": "容姿と実力を併せ持つ人気ショーモデル。大物・若手関係なくズバズバ発言するマイペースさも支持を集めている。天然キャラとしてバラエティ番組に出演するなど、活躍の場を拡げている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/fe/74516_crt_4pU7m.jpg?r=1578141935",
+        "link": "https://bgm.tv/character/74516",
+        "categorie": "person"
+      },
+      {
+        "id": "73317",
+        "label": "都村穗乃果",
+        "info": "都村家の長女で、高校生。成績優秀で、学校の先生からはどこの大学でも目指せると言われているが、育人が夢を諦めて就職しようとしていることを知り、進学を悩んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/b5/73317_crt_r67u6.jpg?r=1574376992",
+        "link": "https://bgm.tv/character/73317",
+        "categorie": "person"
+      },
+      {
+        "id": "73318",
+        "label": "都村葵",
+        "info": "都村家の次女で、中学生。バレー部に所属しており運動が得意だが、強豪校からの誘いを遠征費を理由に断っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/a7/73318_crt_enNEp.jpg?r=1574377002",
+        "link": "https://bgm.tv/character/73318",
+        "categorie": "person"
+      },
+      {
+        "id": "73319",
+        "label": "都村一花",
+        "info": "都村家の三女で、保育園に通っている。とにかく天真爛漫な５歳児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/9d/73319_crt_Vl544.jpg?r=1574377012",
+        "link": "https://bgm.tv/character/73319",
+        "categorie": "person"
+      },
+      {
+        "id": "74517",
+        "label": "木崎香留",
+        "info": "服飾芸華大学・服装科２年生。東京コレクションにフィッターの学生ボランティアとして参加している。柳田一のファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/e1/74517_crt_b22I7.jpg?r=1578142089",
+        "link": "https://bgm.tv/character/74517",
+        "categorie": "person"
+      },
+      {
+        "id": "74518",
+        "label": "江田龙之介",
+        "info": "服飾芸華大学・服装科２年生。香留の幼馴染。メンズファッションを専攻している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/2b/74518_crt_94d99.jpg?r=1578142295",
+        "link": "https://bgm.tv/character/74518",
+        "categorie": "person"
+      },
+      {
+        "id": "74519",
+        "label": "高冈祥子",
+        "info": "服飾芸華大学の学園長。ファッション業界において、幅広い人脈を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/74/74519_crt_0pa76.jpg?r=1578142427",
+        "link": "https://bgm.tv/character/74519",
+        "categorie": "person"
+      },
+      {
+        "id": "74520",
+        "label": "绫野麻衣",
+        "info": "有名ブランド「Aphro I dite」の代表取締役・兼デザイナー。世界にその名を知られる日本のトップデザイナーの１人で、綾野 遠の義母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/71/74520_crt_g6pPu.jpg?r=1578142562",
+        "link": "https://bgm.tv/character/74520",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

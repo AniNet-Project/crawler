@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25131",
+        "label": "吉冈双叶",
+        "info": "对初恋对象“田中”无法忘怀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/c6/25131_crt_c3TIi.jpg?r=1473063466",
+        "link": "https://bgm.tv/character/25131",
+        "categorie": "person"
+      },
+      {
+        "id": "25132",
+        "label": "马渕洸",
+        "info": "旧姓田中，因为双亲离婚而在国中一年级的暑假转学，双叶的初恋对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/95/25132_crt_ozs07.jpg?r=1473063390",
+        "link": "https://bgm.tv/character/25132",
+        "categorie": "person"
+      },
+      {
+        "id": "25900",
+        "label": "槙田悠里",
+        "info": "9月10日生まれ、おとめ座B型。身長155センチメートル、体重44キログラム。得意科目は国語、苦手科目は体育。好きな食べ物はラザニア、嫌いな食べ物はレーズン。好きなミュージシャンはねごと。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/cf/25900_crt_hbh8R.jpg?r=1404941029",
+        "link": "https://bgm.tv/character/25900",
+        "categorie": "person"
+      },
+      {
+        "id": "26065",
+        "label": "村尾修子",
+        "info": "11月20日生。A型。身高167cm，体重49kg。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/64/26065_crt_wO000.jpg?r=1473063570",
+        "link": "https://bgm.tv/character/26065",
+        "categorie": "person"
+      },
+      {
+        "id": "26220",
+        "label": "小凑亚耶",
+        "info": "12月3日生まれ、いて座A型、身長178センチメートル 63キログラム。得意科目は数学、苦手科目は美術。好きな食べ物は焼肉、嫌いな食べ物は高野豆腐。好きなミュージシャンはONE OK ROCK、フランス人とのクォーター、エロ本をよく持ってくる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/73/26220_crt_EUbB1.jpg?r=1473063670",
+        "link": "https://bgm.tv/character/26220",
+        "categorie": "person"
+      },
+      {
+        "id": "26949",
+        "label": "菊池冬马",
+        "info": "就读其他班的男生，乐团一份子，会弹贝斯，因为与双叶在图书馆发生“事故”而相识，是个很会为他人着想和害羞的男生，经常脸红，但也极度缺乏安全感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/87/26949_crt_Dk47S.jpg?r=1473063290",
+        "link": "https://bgm.tv/character/26949",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

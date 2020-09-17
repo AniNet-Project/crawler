@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8505",
+        "label": "三岛塔子",
+        "info": "夢使い（日曜星）",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/1a/8505_crt_6I7n6.jpg?r=1407302179",
+        "link": "https://bgm.tv/character/8505",
+        "categorie": "person"
+      },
+      {
+        "id": "8506",
+        "label": "橘一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/61/8506_crt_7ZrgL.jpg",
+        "link": "https://bgm.tv/character/8506",
+        "categorie": "person"
+      },
+      {
+        "id": "8507",
+        "label": "三岛美砂子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/7b/8507_crt_ST449.jpg",
+        "link": "https://bgm.tv/character/8507",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

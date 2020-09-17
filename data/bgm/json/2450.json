@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1212",
+        "label": "七濑成惠",
+        "info": "ある雨の日に和人が一目惚れした、同じ中学校に通う十四歳の女の子で宇宙人と地球人のハーフ。宇宙人テロリストをバットでぶっ飛ばすほどたくましいが、貧乏性で愛読書は女性週刊誌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/d5/1212_crt_E7GfM.jpg",
+        "link": "https://bgm.tv/character/1212",
+        "categorie": "person"
+      },
+      {
+        "id": "1213",
+        "label": "饭塚和人",
+        "info": "気弱でお人好しな性格だが、一途に成恵を想う心優しい少年。相手が宇宙人であろうと気にしない柔軟な心を持ち、成恵と交際することに。アニメ「魔砲少女四号ちゃん」の大ファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e5/1213_crt_6jJec.jpg",
+        "link": "https://bgm.tv/character/1213",
+        "categorie": "person"
+      },
+      {
+        "id": "1214",
+        "label": "丸尾正树",
+        "info": "和人の同級生にして最も仲のよい友である。いろいろなネタで周りを笑わせてくれる。八木とは幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/bd/1214_crt_pBEmC.jpg",
+        "link": "https://bgm.tv/character/1214",
+        "categorie": "person"
+      },
+      {
+        "id": "1215",
+        "label": "八木初",
+        "info": "丸尾と幼なじみで、成恵と同じクラスに在籍する女の子。クラスでも有名なSFオタクで、成恵のことをニセ宇宙人だと思っている。出張することが多い母と二人暮し。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/e7/1215_crt_qd7HT.jpg",
+        "link": "https://bgm.tv/character/1215",
+        "categorie": "person"
+      },
+      {
+        "id": "1216",
+        "label": "七濑香奈花",
+        "info": "ウラシマ効果で成恵より年下になってしまった成恵の姉。成恵とは母親が違い、純粋な銀河系人。気が強く気性の荒い性格だが、姉らしい優しい一面もある。十二歳で中学一年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/ff/1216_crt_oft0z.jpg",
+        "link": "https://bgm.tv/character/1216",
+        "categorie": "person"
+      },
+      {
+        "id": "1217",
+        "label": "七濑正",
+        "info": "成恵、香奈花の父であり銀河系連盟の地球調査員。惑星日本にいた時は外務省のエリートだったが、地球に来てからは安月給でダメ親父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/df/1217_crt_XVOTK.jpg",
+        "link": "https://bgm.tv/character/1217",
+        "categorie": "person"
+      },
+      {
+        "id": "17651",
+        "label": "罚襟卷",
+        "info": "香奈花の世話役であり、実は深次元護衛艦。時に厳しく、そして時に優しく、香奈花をいつも見守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/bd/17651_crt_KvF3P.jpg",
+        "link": "https://bgm.tv/character/17651",
+        "categorie": "person"
+      },
+      {
+        "id": "17652",
+        "label": "テイルメッサー",
+        "info": "惑星日本監察庁の監察官で、常に成恵たちを監視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/0d/17652_crt_ss8s2.jpg",
+        "link": "https://bgm.tv/character/17652",
+        "categorie": "person"
+      },
+      {
+        "id": "17653",
+        "label": "朝仓铃",
+        "info": "ある朝、和人の妹と名乗り現れる少女。実は監察庁から成恵と和人を引き離すべく送り込まれた機族。精神コントロール能力によって人の心を操ることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/bd/17653_crt_bYH2o.jpg",
+        "link": "https://bgm.tv/character/17653",
+        "categorie": "person"
+      },
+      {
+        "id": "17654",
+        "label": "天堂兰",
+        "info": "監察庁の機族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/ae/17654_crt_hyc5t.jpg",
+        "link": "https://bgm.tv/character/17654",
+        "categorie": "person"
+      },
+      {
+        "id": "17655",
+        "label": "音无丽",
+        "info": "監察庁の機族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/6b/17655_crt_gx4n7.jpg",
+        "link": "https://bgm.tv/character/17655",
+        "categorie": "person"
+      },
+      {
+        "id": "17656",
+        "label": "ハルナ",
+        "info": "星船である自分がいやになり、前線から逃げ出して地球で暮らしている。浜茶屋のオーナーに助けられ、その店で働いている。オーナーとは相思相愛である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/d9/17656_crt_X9w6d.jpg",
+        "link": "https://bgm.tv/character/17656",
+        "categorie": "person"
+      },
+      {
+        "id": "17657",
+        "label": "七濑成美",
+        "info": "川で溺れていた正を助けた、成恵の母となる女性。正が宇宙人であることにも動じない、サバサバしていてたくましい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/90/17657_crt_oGbB7.jpg",
+        "link": "https://bgm.tv/character/17657",
+        "categorie": "person"
+      },
+      {
+        "id": "17658",
+        "label": "大当真名花",
+        "info": "和人がこよなく愛するアニメの主人公。変身シーンでの「あなたの胸に直撃よ！」が決めゼリフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/e2/17658_crt_eNsJf.jpg",
+        "link": "https://bgm.tv/character/17658",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

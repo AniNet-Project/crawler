@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66315",
+        "label": "アイコ",
+        "info": "おとなしくて人見知りな17歳の女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/18/66315_crt_tTwmO.jpg",
+        "link": "https://bgm.tv/character/66315",
+        "categorie": "person"
+      },
+      {
+        "id": "66316",
+        "label": "モエ",
+        "info": "20歳のツンデレな女子大生。普段はクールを装っているが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/89/66316_crt_e3S1g.jpg",
+        "link": "https://bgm.tv/character/66316",
+        "categorie": "person"
+      },
+      {
+        "id": "66317",
+        "label": "ユカリ",
+        "info": "23歳の新卒OL。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/92/66317_crt_tCa3G.jpg",
+        "link": "https://bgm.tv/character/66317",
+        "categorie": "person"
+      },
+      {
+        "id": "66318",
+        "label": "ミワコ",
+        "info": "27歳のしっかり者OL。マジメで几帳面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/b8/66318_crt_HtpxX.jpg",
+        "link": "https://bgm.tv/character/66318",
+        "categorie": "person"
+      },
+      {
+        "id": "66319",
+        "label": "ユウタ",
+        "info": "17歳の高校生。軽音楽部所属、音楽が大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/55/66319_crt_avJm8.jpg",
+        "link": "https://bgm.tv/character/66319",
+        "categorie": "person"
+      },
+      {
+        "id": "66320",
+        "label": "トモノリ",
+        "info": "21歳の大学生。成績優秀な理系メガネ男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/3b/66320_crt_HxTsr.jpg",
+        "link": "https://bgm.tv/character/66320",
+        "categorie": "person"
+      },
+      {
+        "id": "66321",
+        "label": "コウスケ",
+        "info": "32歳の会社員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/79/66321_crt_62296.jpg",
+        "link": "https://bgm.tv/character/66321",
+        "categorie": "person"
+      },
+      {
+        "id": "66322",
+        "label": "テッチャン",
+        "info": "27歳の未来を夢見る役者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/04/66322_crt_U1qe6.jpg",
+        "link": "https://bgm.tv/character/66322",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

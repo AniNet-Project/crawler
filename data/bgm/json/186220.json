@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43016",
+        "label": "天月めぐる / エンジェルローズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/fd/43016_crt_YCqaO.jpg?r=1469414548",
+        "link": "https://bgm.tv/character/43016",
+        "categorie": "person"
+      },
+      {
+        "id": "43017",
+        "label": "如月すみれ / エンジェルサファイア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/9b/43017_crt_TXqZ5.jpg?r=1469414510",
+        "link": "https://bgm.tv/character/43017",
+        "categorie": "person"
+      },
+      {
+        "id": "61185",
+        "label": "川流美优希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/33/61185_crt_2VW6y.jpg?r=1519225938",
+        "link": "https://bgm.tv/character/61185",
+        "categorie": "person"
+      },
+      {
+        "id": "50201",
+        "label": "みるくちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/47/50201_crt_N0019.jpg?r=1492799377",
+        "link": "https://bgm.tv/character/50201",
+        "categorie": "person"
+      },
+      {
+        "id": "13926",
+        "label": "如月唯人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/19/13926_crt_XB3YG.jpg?r=1493159764",
+        "link": "https://bgm.tv/character/13926",
+        "categorie": "person"
+      },
+      {
+        "id": "13318",
+        "label": "水无月遥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/46/13318_crt_r3jXD.jpg?r=1492538853",
+        "link": "https://bgm.tv/character/13318",
+        "categorie": "person"
+      },
+      {
+        "id": "13319",
+        "label": "神无月葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/29/13319_crt_eUfZf.jpg?r=1492538806",
+        "link": "https://bgm.tv/character/13319",
+        "categorie": "person"
+      },
+      {
+        "id": "13320",
+        "label": "叶月胡桃",
+        "info": "「2」で加入したツインエンジェルの新メンバー。11歳で8月3日生まれ（しし座）、身長142cm、体重33kg、スリーサイズB69/W52/H73、血液型B型。イメージカラーは白。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/c1/13320_crt_twatW.jpg?r=1492538493",
+        "link": "https://bgm.tv/character/13320",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55120",
+        "label": "方单单",
+        "info": "研究双旋翼无人机“KAKA”的省港科技大学大一学生。和小爱是青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/be/55120_crt_2MEie.jpg",
+        "link": "https://bgm.tv/character/55120",
+        "categorie": "person"
+      },
+      {
+        "id": "55121",
+        "label": "郑准",
+        "info": "清水湾工作室的部长。和萧若涵是同级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/e3/55121_crt_9v9ky.jpg",
+        "link": "https://bgm.tv/character/55121",
+        "categorie": "person"
+      },
+      {
+        "id": "55122",
+        "label": "萧若涵",
+        "info": "清水湾工作室的经理和项目管理。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/dc/55122_crt_55D3w.jpg",
+        "link": "https://bgm.tv/character/55122",
+        "categorie": "person"
+      },
+      {
+        "id": "55123",
+        "label": "小爱",
+        "info": "比方单单小一岁。是他的青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/f0/55123_crt_gWbFU.jpg",
+        "link": "https://bgm.tv/character/55123",
+        "categorie": "person"
+      },
+      {
+        "id": "55124",
+        "label": "王俊",
+        "info": "方单单的室友。和他一样是省港科技大学的大一学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/da/55124_crt_S32SJ.jpg",
+        "link": "https://bgm.tv/character/55124",
+        "categorie": "person"
+      },
+      {
+        "id": "55125",
+        "label": "孟一奇",
+        "info": "机械设计达人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/09/55125_crt_TdB6C.jpg",
+        "link": "https://bgm.tv/character/55125",
+        "categorie": "person"
+      },
+      {
+        "id": "55126",
+        "label": "卡特琳娜",
+        "info": "酷爱网络游戏的大二女生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/4c/55126_crt_5Zu9n.jpg",
+        "link": "https://bgm.tv/character/55126",
+        "categorie": "person"
+      },
+      {
+        "id": "55127",
+        "label": "李云腾",
+        "info": "省港科技大学机器人协会的成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/b2/55127_crt_1UH1O.jpg",
+        "link": "https://bgm.tv/character/55127",
+        "categorie": "person"
+      },
+      {
+        "id": "55128",
+        "label": "老王",
+        "info": "认可郑准才能的省港科技大学机器人协会一把手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/20/55128_crt_O6BgW.jpg",
+        "link": "https://bgm.tv/character/55128",
+        "categorie": "person"
+      },
+      {
+        "id": "55129",
+        "label": "乔叔",
+        "info": "小爱的爸爸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/dc/55129_crt_WcwrJ.jpg",
+        "link": "https://bgm.tv/character/55129",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68908",
+        "label": "日奈森冬乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/35/68908_crt_jjpaz.jpg?r=1550686019",
+        "link": "https://bgm.tv/character/68908",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

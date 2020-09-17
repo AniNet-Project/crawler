@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72309",
+        "label": "森谷美铃",
+        "info": "3分間だけ時間を停止させられる高校生の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/42/72309_crt_mZOlE.jpg",
+        "link": "https://bgm.tv/character/72309",
+        "categorie": "person"
+      },
+      {
+        "id": "72310",
+        "label": "村上遥",
+        "info": "森谷のクラスメイトの美少女で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/78/72310_crt_t4ZT3.jpg",
+        "link": "https://bgm.tv/character/72310",
+        "categorie": "person"
+      },
+      {
+        "id": "72311",
+        "label": "小林由香利",
+        "info": "森谷と村上のクラスメイトの女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/bd/72311_crt_z6q8u.jpg",
+        "link": "https://bgm.tv/character/72311",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

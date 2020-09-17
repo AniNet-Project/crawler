@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65339",
+        "label": "萨博",
+        "info": "路飞与艾斯幼时的结义兄弟。出身贵族但向往自由，幼时与路飞、艾斯相识并结拜为兄弟。后在首次出海时遭到天龙人的袭击而失踪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/bd/65339_crt_G98X9.jpg?r=1533807271",
+        "link": "https://bgm.tv/character/65339",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

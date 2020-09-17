@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12328",
+        "label": "爱丽丝菲尔·冯·爱因兹贝伦",
+        "info": "Fate/Zero中Saber的代理Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/b2/12328_crt_LadeA.jpg?r=1421388043",
+        "link": "https://bgm.tv/character/12328",
+        "categorie": "person"
+      },
+      {
+        "id": "15075",
+        "label": "藤村大河",
+        "info": "月世界最强的三人之一，具有制造圣杯并发动圣杯战争的力量。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/7d/15075_crt_tCJww.jpg?r=1410079521",
+        "link": "https://bgm.tv/character/15075",
+        "categorie": "person"
+      },
+      {
+        "id": "15123",
+        "label": "百貌的哈桑",
+        "info": "出典：中東、山の老翁",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/75/15123_crt_jXHQh.jpg",
+        "link": "https://bgm.tv/character/15123",
+        "categorie": "person"
+      },
+      {
+        "id": "15077",
+        "label": "吉尔·德·雷",
+        "info": "15世纪法国的贵族。在自己的领地反复实施着将附近的少年接二连三地绑架并加以凌辱、残杀的恶行，作为后世的童话“蓝胡子”的原型而为人所知。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c7/15077_crt_7ia30.jpg?r=1498933149",
+        "link": "https://bgm.tv/character/15077",
+        "categorie": "person"
+      },
+      {
+        "id": "15072",
+        "label": "迪尔姆德·奥迪那",
+        "info": "真实身份为爱尔兰神话英雄迪尔姆德·奥迪那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/e2/15072_crt_beWB2.jpg?r=1421291401",
+        "link": "https://bgm.tv/character/15072",
+        "categorie": "person"
+      },
+      {
+        "id": "15076",
+        "label": "兰斯洛特",
+        "info": "被讴歌为圆桌骑士中最强者的“湖之骑士”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/82/15076_crt_J9jCW.jpg?r=1568190509",
+        "link": "https://bgm.tv/character/15076",
+        "categorie": "person"
+      },
+      {
+        "id": "1227",
+        "label": "吉尔伽美什",
+        "info": "号称拥有最强宝具的Servant，将其他所有人都蔑称为“杂种”的傲慢的王者。其真身乃是人类最古老的英灵——英雄王吉尔伽美什。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ca/1227_crt_Dq9kZ.jpg?r=1498989532",
+        "link": "https://bgm.tv/character/1227",
+        "categorie": "person"
+      },
+      {
+        "id": "3221",
+        "label": "卫宫切嗣",
+        "info": "Fate/Zero 中Saber的Master。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/8e/3221_crt_Rz66r.jpg?r=1499148483",
+        "link": "https://bgm.tv/character/3221",
+        "categorie": "person"
+      },
+      {
+        "id": "273",
+        "label": "阿尔托莉雅·潘德拉贡",
+        "info": "身長150cm程と一見して小柄だが、最も優れたサーヴァントと言われる「セイバー」の名にふさわしい能力を備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/58/273_crt_IMrqS.jpg?r=1559445536",
+        "link": "https://bgm.tv/character/273",
+        "categorie": "person"
+      },
+      {
+        "id": "3220",
+        "label": "言峰绮礼",
+        "info": "此次的圣杯战争担任监督的神父，也是教会的“代行者（Executer）”，有着言行复杂常人不能理解的地方。曾参加过上次（第四次）的圣杯战争。远坂凛的监护人及师兄，爱吃麻婆豆腐，虽是代行者，本作中并未使用过圣典（于HF线中绮礼曾提到若想与从者对战取得胜利，必须配备代行者专用武器-圣典，关于圣典使用者，可参照月姬中埋葬机关的代行者－希耶尔（Ciel（シエル））。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/3220_crt_0bm1O.jpg?r=1514751314",
+        "link": "https://bgm.tv/character/3220",
+        "categorie": "person"
+      },
+      {
+        "id": "15131",
+        "label": "间桐雁夜",
+        "info": "Berserker的Master，『Fate/stay night』中间桐慎二的叔父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/c3/15131_crt_FBiDS.jpg?r=1498990345",
+        "link": "https://bgm.tv/character/15131",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

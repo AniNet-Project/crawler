@@ -1,0 +1,277 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49925",
+        "label": "宇佐美一花／奶油天使",
+        "info": "スイーツが大好きな、明るくお調子者の中学2年生。感受性豊かで、うれしいと跳びはねるクセがあるところはまるで「うさぎ」のよう。いつも失敗ばかりだが…スイーツデコレーションには自信あり！？直感とひらめきを活かしたアニマルスイーツを次々に生み出す！うさぎショートケーキのプリキュア「キュアホイップ」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/11/49925_crt_Ef6FA.jpg?r=1492648292",
+        "link": "https://bgm.tv/character/49925",
+        "categorie": "person"
+      },
+      {
+        "id": "49926",
+        "label": "有栖川向阳／奶黄天使",
+        "info": "努力家で頭のよい中学2年生。小柄で足の速いところはまるで「りす」のよう。普段はおくびょうだけど、大好きなスイーツのことを話しだしたら止まらない！スイーツのことなら何でも知っているスイーツ博士として、いちかたちから頼りにされている。りすプリンのプリキュア「キュアカスタード」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/6e/49926_crt_huxln.jpg?r=1492648253",
+        "link": "https://bgm.tv/character/49926",
+        "categorie": "person"
+      },
+      {
+        "id": "49927",
+        "label": "立神葵／冰淇淋天使",
+        "info": "自由奔放で情熱的な中学2年生。勇敢で気が強いところは「ライオン」のよう。歌が好きで、ロックバンドのボーカルをしている。スイーツ作りでは腕力を活かしたパートを担当し、いちかたちを支える。ライオンアイスのプリキュア「キュアジェラート」に変身する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a7/49927_crt_JpYsy.jpg?r=1492648330",
+        "link": "https://bgm.tv/character/49927",
+        "categorie": "person"
+      },
+      {
+        "id": "49928",
+        "label": "琴爪缘／马卡龙天使",
+        "info": "美しく気高い高校2年生。上品で気まぐれなところは「ねこ」のよう。器用で何でもこなしてしまうため退屈な日々を過ごしていたが、風変わりないちかに出会ってからは毎日を楽しむようになった。ねこマカロンのプリキュア「キュアマカロン」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/f4/49928_crt_NBZHL.jpg?r=1492648402",
+        "link": "https://bgm.tv/character/49928",
+        "categorie": "person"
+      },
+      {
+        "id": "49929",
+        "label": "剑城晶／巧克力天使",
+        "info": "やさしくボーイッシュな高校2年生。仲間思いなところはまるで「いぬ」のよう。めんどうみがよく周りから頼りにされている。はなれて暮らす体の弱い妹に、よくチョコレートをプレゼントしている。いぬチョコレートのプリキュア「キュアショコラ」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/51/49929_crt_z8UMz.jpg?r=1492648386",
+        "link": "https://bgm.tv/character/49929",
+        "categorie": "person"
+      },
+      {
+        "id": "60311",
+        "label": "煌星夏尔／芭菲天使",
+        "info": "フランスからやってきた天才パティシエだが、その正体はいちご山に住んでいた妖精・キラリン。プリキュアとなり、スイーツでみんなを幸せにするという夢を追い、はばたく姿はまるで「ペガサス」のよう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/9d/60311_crt_JfNLD.jpg?r=1516282626",
+        "link": "https://bgm.tv/character/60311",
+        "categorie": "person"
+      },
+      {
+        "id": "49930",
+        "label": "佩科琳",
+        "info": "スイーツが大好きなぽっちゃり系の妖精。甘えんぼうでいつもお腹を空かしている。気分によって耳の色が変わり、スイーツに宿るエネルギー「キラキラル」を感じることができる。伝説のパティシエ・プリキュアに憧れており、よく敵に立ち向かおうとするがポヨン!と弾き飛ばされてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/5f/49930_crt_TmzdG.jpg",
+        "link": "https://bgm.tv/character/49930",
+        "categorie": "person"
+      },
+      {
+        "id": "53457",
+        "label": "长老",
+        "info": "いちご山に住む妖精たちの長老。みんなを喜ばせるため弟子たちとともにスイーツ作りの修行をしていたが、クリーム爆発にまきこまれてからは、体がおばけのように透けてしまうように。キラキラルを狙う者たちからスイーツを守るよう、プリキュアに助けを求める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/d0/53457_crt_kkUFD.jpg?r=1492647877",
+        "link": "https://bgm.tv/character/53457",
+        "categorie": "person"
+      },
+      {
+        "id": "53458",
+        "label": "宇佐美源一郎",
+        "info": "いちかの父。空手家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/f4/53458_crt_ZdXX0.jpg?r=1492648204",
+        "link": "https://bgm.tv/character/53458",
+        "categorie": "person"
+      },
+      {
+        "id": "53459",
+        "label": "宇佐美聪美",
+        "info": "いちかの母。世界中の小さな村を回る医者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/5e/53459_crt_9mzLF.jpg?r=1492648657",
+        "link": "https://bgm.tv/character/53459",
+        "categorie": "person"
+      },
+      {
+        "id": "60716",
+        "label": "剑城未来",
+        "info": "あきらの妹。からだが弱く、ふだんは入院をしている。しっかり者で心やさしいところは、あきらによくにている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/89/60716_crt_ibDEC.jpg",
+        "link": "https://bgm.tv/character/60716",
+        "categorie": "person"
+      },
+      {
+        "id": "60717",
+        "label": "琴爪志乃",
+        "info": "ゆかりの祖母。茶道家。はんなりと京ことばを話す。ゆかりに茶道の基本を教えた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/6f/60717_crt_n1R54.jpg",
+        "link": "https://bgm.tv/character/60717",
+        "categorie": "person"
+      },
+      {
+        "id": "60733",
+        "label": "剑城登美",
+        "info": "あきらの祖母。いちかの家のとなりに住んでいる。いつも優しく剣城姉妹を見守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/67/60733_crt_xj5fJ.jpg",
+        "link": "https://bgm.tv/character/60733",
+        "categorie": "person"
+      },
+      {
+        "id": "60734",
+        "label": "立神雷樱",
+        "info": "あおいの父。大企業「立神コンツェルン」のトップ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/88/60734_crt_IkyWy.jpg",
+        "link": "https://bgm.tv/character/60734",
+        "categorie": "person"
+      },
+      {
+        "id": "60735",
+        "label": "立神蓝子",
+        "info": "あおいの母。あおいのことをやさしく見守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/3e/60735_crt_i0L62.jpg?r=1517834364",
+        "link": "https://bgm.tv/character/60735",
+        "categorie": "person"
+      },
+      {
+        "id": "53460",
+        "label": "和泉渡",
+        "info": "いちかのクラスメイト。スポーツが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/ea/53460_crt_5NETA.jpg?r=1492648865",
+        "link": "https://bgm.tv/character/53460",
+        "categorie": "person"
+      },
+      {
+        "id": "53461",
+        "label": "中野浩树",
+        "info": "いちかのクラスメイト。にぎやかなムードメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/ed/53461_crt_6nzoj.jpg?r=1492654503",
+        "link": "https://bgm.tv/character/53461",
+        "categorie": "person"
+      },
+      {
+        "id": "53462",
+        "label": "神乐坂里沙",
+        "info": "いちかのクラスメイト。明るくミーハーな女の子",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/96/53462_crt_yOKvj.jpg?r=1492654748",
+        "link": "https://bgm.tv/character/53462",
+        "categorie": "person"
+      },
+      {
+        "id": "53463",
+        "label": "光冈淳子",
+        "info": "いちかのクラスメイト。のんびり屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/cb/53463_crt_fP3Yf.jpg?r=1492655581",
+        "link": "https://bgm.tv/character/53463",
+        "categorie": "person"
+      },
+      {
+        "id": "53464",
+        "label": "园部圭",
+        "info": "あおいのバンド「ワイルドアジュール」のリーダー。ベースを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/8b/53464_crt_iAFv5.jpg?r=1492656208",
+        "link": "https://bgm.tv/character/53464",
+        "categorie": "person"
+      },
+      {
+        "id": "53465",
+        "label": "横川隆太",
+        "info": "あおいのバンド「ワイルドアジュール」のメンバー。ギターを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/49/53465_crt_6glgZ.jpg?r=1492656656",
+        "link": "https://bgm.tv/character/53465",
+        "categorie": "person"
+      },
+      {
+        "id": "53466",
+        "label": "浅香沙良",
+        "info": "あおいのバンド「ワイルドアジュール」のメンバー。ドラムを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/02/53466_crt_Jq4Xk.jpg?r=1492657604",
+        "link": "https://bgm.tv/character/53466",
+        "categorie": "person"
+      },
+      {
+        "id": "53467",
+        "label": "岬彩音",
+        "info": "あおいの憧れの人。ロックバンド「ガナッシュ」のボーカル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/d0/53467_crt_a8J8J.jpg?r=1492658762",
+        "link": "https://bgm.tv/character/53467",
+        "categorie": "person"
+      },
+      {
+        "id": "53468",
+        "label": "日向麻里子",
+        "info": "スイーツショップ「シュガー」の店主の娘。バレリーナとして活躍しており、いちご坂商店街のマドンナでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/2d/53468_crt_k0z1h.jpg?r=1492681431",
+        "link": "https://bgm.tv/character/53468",
+        "categorie": "person"
+      },
+      {
+        "id": "53469",
+        "label": "三星喵",
+        "info": "おいしいスイーツを出すお店の近くに現れるねこ。三ツ星にゃんこが現れると、お店が大繁盛するといわれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/69/53469_crt_VG0fr.jpg",
+        "link": "https://bgm.tv/character/53469",
+        "categorie": "person"
+      },
+      {
+        "id": "53470",
+        "label": "儿玉绘美留",
+        "info": "いちご坂に住む小学生。 キラキラパティスリーの最初のお客さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/9b/53470_crt_GgGMM.jpg?r=1492682805",
+        "link": "https://bgm.tv/character/53470",
+        "categorie": "person"
+      },
+      {
+        "id": "53471",
+        "label": "辰巳大介",
+        "info": "みどりに気持ちを伝えるため、キラキラパティスリーを訪れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/07/53471_crt_Ns8Ks.jpg?r=1492682905",
+        "link": "https://bgm.tv/character/53471",
+        "categorie": "person"
+      },
+      {
+        "id": "53472",
+        "label": "中村绿",
+        "info": "いちご坂で保育士をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/d5/53472_crt_ncyoI.jpg",
+        "link": "https://bgm.tv/character/53472",
+        "categorie": "person"
+      },
+      {
+        "id": "60715",
+        "label": "露米艾",
+        "info": "昔のいちご坂にいた古のプリキュア。人を笑顔にするためにパティシエとして活躍していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/bd/60715_crt_XBeC1.jpg?r=1517837148",
+        "link": "https://bgm.tv/character/60715",
+        "categorie": "person"
+      },
+      {
+        "id": "53473",
+        "label": "伽米",
+        "info": "力を求めて、キラキラルを奪おうとする妖精。キラキラルを吸収すると、大きな怪物に姿を変える。ケーキに含まれているキラキラルが好物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/5c/53473_crt_qtBbX.jpg",
+        "link": "https://bgm.tv/character/53473",
+        "categorie": "person"
+      },
+      {
+        "id": "53474",
+        "label": "朱里奥",
+        "info": "プリキュアの前に立ちはだかる仮面をつけた少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/b0/53474_crt_xLLWx.jpg?r=1492683386",
+        "link": "https://bgm.tv/character/53474",
+        "categorie": "person"
+      },
+      {
+        "id": "60737",
+        "label": "友梨",
+        "info": "ひまりと同じスイーツ番組アシスタントオーディションに参加する女の子",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a4/60737_crt_jVaLj.jpg?r=1517836454",
+        "link": "https://bgm.tv/character/60737",
+        "categorie": "person"
+      },
+      {
+        "id": "60738",
+        "label": "佳那子",
+        "info": "ひまりと同じスイーツ番組アシスタントオーディションに参加する女の子",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/fa/60738_crt_u6100.jpg?r=1517836601",
+        "link": "https://bgm.tv/character/60738",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

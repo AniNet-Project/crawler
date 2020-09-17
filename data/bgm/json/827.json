@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "422",
+        "label": "伊藤诚",
+        "info": "主角。榊野学园1年3班。双亲离婚，现在和当护士的母亲同住在高级公寓。穿插在世界和言叶2位女主角之间，性格优柔寡断。太过没用的个性，加上和玩家选择的选项采取相反的行动这样烦死人的行为，结果诱致悲惨的结局，因此诚与“白色相簿”的藤井冬弥，“愿此刻永恒”的鸣海孝之并列，得到“アダルトゲームにおける最悪のヘタレ主人公(十八禁游戏中最差的愚笨主角)”这样不誉的评价。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/6a/422_crt_13Cbo.jpg?r=1564727287",
+        "link": "https://bgm.tv/character/422",
+        "categorie": "person"
+      },
+      {
+        "id": "423",
+        "label": "西园寺世界",
+        "info": "与母亲同住在家庭公寓。和刹那则是青梅竹马且是异母姐妹。是主要女主角之一。因其明亮的性格所以是气氛制造者。在男性之间拥有极高人气，但拒绝所有人的告白，且十分直截了当。对诚有秘密的感情，为了得到接近诚的借口而和他人调位坐在诚的旁边（原本是刹那的座位）。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e9/423_crt_mAz0p.jpg?r=1459666783",
+        "link": "https://bgm.tv/character/423",
+        "categorie": "person"
+      },
+      {
+        "id": "424",
+        "label": "桂言叶",
+        "info": "“我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/1b/424_crt_Szj50.jpg?r=1459666835",
+        "link": "https://bgm.tv/character/424",
+        "categorie": "person"
+      },
+      {
+        "id": "425",
+        "label": "清浦刹那",
+        "info": "榊野学园1年3组。班委员。由于小个子，经常被误会是初中学生。是世界青梅竹马且异母姐妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/92/425_crt_9tqEl.jpg?r=1459666699",
+        "link": "https://bgm.tv/character/425",
+        "categorie": "person"
+      },
+      {
+        "id": "426",
+        "label": "甘露寺七海",
+        "info": "榊野学园1年3组。女子篮部所属，是榊野学园的体育特待生。世界的友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/d6/426_crt_Qqhzk.jpg",
+        "link": "https://bgm.tv/character/426",
+        "categorie": "person"
+      },
+      {
+        "id": "427",
+        "label": "黑田光",
+        "info": "榊野学园1年3组。西饼屋的女孩。世界的朋友。深信世界与诚在交往著，但没有认真考虑过言叶与诚距离不断缩短的事实。很喜欢泰介，并根据故事进程与泰介交往。在‘Summer Days’登场。为全部女主角中唯一拥有诚诞下孩子的个别结局。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/9c/427_crt_D1sBG.jpg?r=1459666974",
+        "link": "https://bgm.tv/character/427",
+        "categorie": "person"
+      },
+      {
+        "id": "428",
+        "label": "加藤乙女",
+        "info": "榊野学园1年4组。与诚是中学时代的友人。与七海同是女子篮部所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/00/428_crt_sCfgq.jpg?r=1459667018",
+        "link": "https://bgm.tv/character/428",
+        "categorie": "person"
+      },
+      {
+        "id": "3503",
+        "label": "桂心",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/d5/3503_crt_9sd9H.jpg?r=1459667082",
+        "link": "https://bgm.tv/character/3503",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

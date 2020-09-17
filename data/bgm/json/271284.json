@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66552",
+        "label": "凛",
+        "info": "物語の中心的人物で",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/d8/66552_crt_55Rfn.jpg",
+        "link": "https://bgm.tv/character/66552",
+        "categorie": "person"
+      },
+      {
+        "id": "66554",
+        "label": "鸣",
+        "info": "メイド調の服に身を包む",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/a5/66554_crt_bkibY.jpg",
+        "link": "https://bgm.tv/character/66554",
+        "categorie": "person"
+      },
+      {
+        "id": "66553",
+        "label": "律",
+        "info": "おっとりしたお姉さんキャラで",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/df/66553_crt_i6PPk.jpg",
+        "link": "https://bgm.tv/character/66553",
+        "categorie": "person"
+      },
+      {
+        "id": "68249",
+        "label": "若叶",
+        "info": "突如、凛達の住む村に紛れ込んでしまった人間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/6e/68249_crt_tX2w5.jpg",
+        "link": "https://bgm.tv/character/68249",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

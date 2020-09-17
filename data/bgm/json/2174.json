@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2892",
+        "label": "结崎雏乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/e1/2892_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2892",
+        "categorie": "person"
+      },
+      {
+        "id": "10907",
+        "label": "鸣海步",
+        "info": "月臣学園一年生。普段はマイペースだが、いざという時は抜群の推理力と判断力を発揮する。「ブレード・チルドレンの謎を追う」と言い残し消えた鳴海清隆の弟。兄の失踪の謎を追っているが、かつて警視庁で「神の頭脳」と謳われた偉大な兄に対しての大きな劣等感に今も苦しんでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/0c/10907_crt_1CP0p.jpg",
+        "link": "https://bgm.tv/character/10907",
+        "categorie": "person"
+      },
+      {
+        "id": "2893",
+        "label": "浅月香介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/19/2893_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2893",
+        "categorie": "person"
+      },
+      {
+        "id": "2894",
+        "label": "高町亮子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/41/2894_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2894",
+        "categorie": "person"
+      },
+      {
+        "id": "2896",
+        "label": "鳴海まどか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/f2/2896_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2896",
+        "categorie": "person"
+      },
+      {
+        "id": "2899",
+        "label": "鈴木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/26/2899_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2899",
+        "categorie": "person"
+      },
+      {
+        "id": "2895",
+        "label": "白長谷小夜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/8b/2895_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2895",
+        "categorie": "person"
+      },
+      {
+        "id": "2898",
+        "label": "足立高子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/ef/2898_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2898",
+        "categorie": "person"
+      },
+      {
+        "id": "2900",
+        "label": "ハンターA",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/fd/2900_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2900",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "2897",
+        "label": "白長谷圭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/31/2897_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2897",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

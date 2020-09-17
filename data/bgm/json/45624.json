@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54",
+        "label": "兰花·李",
+        "info": "身材娇小充满活力，性格明朗天真的少女。S.M.S的王牌机师，オズマ・リー的妹妹，为迎合哥哥的希望在大小姐学园圣マリア女学园就读。后转入美星学院高校，平时在中华料理店「娘々（にゃんにゃん）」打工。从小时候就非常喜欢唱歌，模糊地有了成为歌手的梦想。在第十话以自己的努力和机遇实现了自己歌手的梦想，成就了超时空灰姑娘的传说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/34/54_crt_PTt1P.jpg",
+        "link": "https://bgm.tv/character/54",
+        "categorie": "person"
+      },
+      {
+        "id": "100",
+        "label": "雪露·诺姆",
+        "info": "Macross Galaxy(マクロス·ギャラクシー)移民船团在住之现役偶像歌手。为Galaxy Network排行榜前位的常客。被称为“银河の妖精”。在可爱的外表之下，有着高傲和直言不讳的坦率性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/34/100_crt_RRAjr.jpg",
+        "link": "https://bgm.tv/character/100",
+        "categorie": "person"
+      },
+      {
+        "id": "8879",
+        "label": "热气·巴萨拉",
+        "info": "マクロス 7男主角，吉他手，是乐团Fire Bomber的主唱之一。初登场时21岁，擅长驾驶Valkyrie，并且试图用歌声来感动巴洛塔人（又译为“原始恶魔”），座机为VF-19改热气巴萨拉专用机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/8d/8879_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8879",
+        "categorie": "person"
+      },
+      {
+        "id": "3389",
+        "label": "卡纳莉亚·贝尔斯汀",
+        "info": "S.M.S所属。階級は中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/43/3389_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3389",
+        "categorie": "person"
+      },
+      {
+        "id": "49957",
+        "label": "卢卡·安杰洛",
+        "info": "美星学園パイロット養成コースの高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/02/49957_crt_Fq8La.jpg",
+        "link": "https://bgm.tv/character/49957",
+        "categorie": "person"
+      },
+      {
+        "id": "49958",
+        "label": "奥兹马·李",
+        "info": "私設特務軍事機関、S.M.Sスカル小隊リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2f/49958_crt_DfAaa.jpg",
+        "link": "https://bgm.tv/character/49958",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

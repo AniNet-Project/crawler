@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69068",
+        "label": "鬼岛誉",
+        "info": "父の教えで身に付けたサバイバル術を駆使して、",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/50/69068_crt_05NQm.jpg?r=1562108140",
+        "link": "https://bgm.tv/character/69068",
+        "categorie": "person"
+      },
+      {
+        "id": "69069",
+        "label": "铃森明日香",
+        "info": "ほまれ達と一緒に遭難したC組の生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/30/69069_crt_AH4Dt.jpg?r=1562745621",
+        "link": "https://bgm.tv/character/69069",
+        "categorie": "person"
+      },
+      {
+        "id": "69070",
+        "label": "天谷睦",
+        "info": "ほまれ達と一緒に遭難したA組の生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/9d/69070_crt_4IOki.jpg?r=1563601987",
+        "link": "https://bgm.tv/character/69070",
+        "categorie": "person"
+      },
+      {
+        "id": "69071",
+        "label": "九条紫音",
+        "info": "ほまれ達と一緒に遭難したB組の生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/3f/69071_crt_n4K74.jpg?r=1564554510",
+        "link": "https://bgm.tv/character/69071",
+        "categorie": "person"
+      },
+      {
+        "id": "70733",
+        "label": "鬼岛丈一",
+        "info": "ほまれの父。髭面の中年男性で、元軍人。ほまれからはパパと呼ばれ、彼女によれば顔立ちはシルバーバックに似ているらしい。幼いほまれを連れて世界中を回った過去があり、彼女に各種サバイバル技術を教え込んだ。飛行機事故後は単独でほまれの救助に出て累と宗二を救助するが、乗っていたモーターボートを事故で失い、3人とも別の島に遭難してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/b7/70733_crt_M55Ml.jpg?r=1564554614",
+        "link": "https://bgm.tv/character/70733",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

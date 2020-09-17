@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25755",
+        "label": "小野寺理央",
+        "info": "虽然有点马虎，但是态度端正教学认真的语文老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/46/25755_crt_p9khn.jpg",
+        "link": "https://bgm.tv/character/25755",
+        "categorie": "person"
+      },
+      {
+        "id": "25756",
+        "label": "汐乃渚",
+        "info": "未觉察自己火辣身材，十分平易近人的数学老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/f1/25756_crt_86eRO.jpg",
+        "link": "https://bgm.tv/character/25756",
+        "categorie": "person"
+      },
+      {
+        "id": "25757",
+        "label": "雨宮天音",
+        "info": "言行尖刻，但是为人却很规规矩矩的生物老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/0f/25757_crt_yK1Sf.jpg",
+        "link": "https://bgm.tv/character/25757",
+        "categorie": "person"
+      },
+      {
+        "id": "25758",
+        "label": "秋月沙良",
+        "info": "十分好色且非常温柔，性感迷人的天然系英语教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/49/25758_crt_4H2j2.jpg",
+        "link": "https://bgm.tv/character/25758",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

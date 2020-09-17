@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3515",
+        "label": "天野美紗緒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/ef/3515_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3515",
+        "categorie": "person"
+      },
+      {
+        "id": "3516",
+        "label": "本木紗英",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/1c/3516_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3516",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

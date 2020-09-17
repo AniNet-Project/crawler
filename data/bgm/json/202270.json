@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37456",
+        "label": "生驹",
+        "info": "蒸汽锻冶少年，居住于以制铁与蒸汽机关的生产为产业的显金站。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/2b/37456_crt_P97Dy.jpg?r=1450372221",
+        "link": "https://bgm.tv/character/37456",
+        "categorie": "person"
+      },
+      {
+        "id": "37455",
+        "label": "无名",
+        "info": "乘坐甲铁城来到显金站的谜之少女。被武士们恭恭敬敬地特别对待着，她的真实身份是——？",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/7b/37455_crt_0VMvn.jpg?r=1558009323",
+        "link": "https://bgm.tv/character/37455",
+        "categorie": "person"
+      },
+      {
+        "id": "37457",
+        "label": "四方川菖蒲",
+        "info": "治理显金站的家族——四方川家的惣领(长女)。虽说终会是代替父亲治理显金站的立场，但至今仍旧无法清楚地表达自己的意见。有着随波逐流的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/c5/37457_crt_ufFU1.jpg?r=1450372285",
+        "link": "https://bgm.tv/character/37457",
+        "categorie": "person"
+      },
+      {
+        "id": "37458",
+        "label": "来栖",
+        "info": "侍奉四方川家的年轻武士。菖蒲的贴身护卫，剑术手腕在武士们之中数一数二地强。性格严谨耿直，十分看重、并行动着去维护武士的荣誉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/16/37458_crt_nkZ7f.jpg?r=1450372327",
+        "link": "https://bgm.tv/character/37458",
+        "categorie": "person"
+      },
+      {
+        "id": "37460",
+        "label": "鳅",
+        "info": "居住于显金站的蒸汽锻冶少女。生驹与逞生的工作同伴，家庭性的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/fc/37460_crt_9R6HV.jpg?r=1450372427",
+        "link": "https://bgm.tv/character/37460",
+        "categorie": "person"
+      },
+      {
+        "id": "37461",
+        "label": "侑那",
+        "info": "在日之本各地运输着物资的骏城——“甲铁城”的乘务员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/25/37461_crt_7fXm6.jpg?r=1450372470",
+        "link": "https://bgm.tv/character/37461",
+        "categorie": "person"
+      },
+      {
+        "id": "37462",
+        "label": "巢刈",
+        "info": "居住于显金站的蒸汽锻造少年。嘴很坏爱挖苦，也有着冷静的判断力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/b4/37462_crt_s1Dl4.jpg?r=1450372503",
+        "link": "https://bgm.tv/character/37462",
+        "categorie": "person"
+      },
+      {
+        "id": "37463",
+        "label": "吉备土",
+        "info": "侍奉四方川家的武士。作为武士很通情理，面对身份上有区别的人，能够不摆着身份的架子来相待。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/fc/37463_crt_SenyF.jpg?r=1450372553",
+        "link": "https://bgm.tv/character/37463",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

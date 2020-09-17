@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52802",
+        "label": "丸山彩",
+        "info": "因为憧憬“偶像”而进入艺能界，但是由于怯场的关系对于现场的即兴发挥不是很拿手，偶像事业的发展似乎并不太顺利。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/24/52802_crt_ko5VJ.jpg?r=1566234024",
+        "link": "https://bgm.tv/character/52802",
+        "categorie": "person"
+      },
+      {
+        "id": "52803",
+        "label": "冰川日菜",
+        "info": "见过一次的东西就能马上记住并且活用的天才少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/ff/52803_crt_MTGTr.jpg?r=1566234051",
+        "link": "https://bgm.tv/character/52803",
+        "categorie": "person"
+      },
+      {
+        "id": "52819",
+        "label": "白鹭千圣",
+        "info": "从小时候开始就以童星的身份活跃的年轻有为的女演员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/90/52819_crt_0nqgH.jpg?r=1566234083",
+        "link": "https://bgm.tv/character/52819",
+        "categorie": "person"
+      },
+      {
+        "id": "52820",
+        "label": "大和麻弥",
+        "info": "宣称“被器材包围的时候最幸福”的真正的器材宅，聊起器材的话题便会滔滔不绝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/fd/52820_crt_4RD3T.jpg?r=1566234117",
+        "link": "https://bgm.tv/character/52820",
+        "categorie": "person"
+      },
+      {
+        "id": "52821",
+        "label": "若宫伊芙",
+        "info": "父亲是日本人，母亲是芬兰人。混血儿归国子女。性格率直对谁都很温柔。对于“武士道”文化抱有强烈的憧憬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/36/52821_crt_3HaIc.jpg?r=1566234165",
+        "link": "https://bgm.tv/character/52821",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

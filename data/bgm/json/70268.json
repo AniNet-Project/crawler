@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13977",
+        "label": "小日向未卯",
+        "info": "3姐妹中的次女。是个文静的女孩，不爱说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/c5/13977_crt_r2W0s.jpg?r=1444626133",
+        "link": "https://bgm.tv/character/13977",
+        "categorie": "person"
+      },
+      {
+        "id": "13975",
+        "label": "小日向晶",
+        "info": "需要用3个妹妹的汁液将瓶子收集满才能解开诅咒。但由于最终的失败，诅咒把他的性别进行了转换。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/f9/13975_crt_zNBw0.jpg?r=1440368347",
+        "link": "https://bgm.tv/character/13975",
+        "categorie": "person"
+      },
+      {
+        "id": "13976",
+        "label": "小日向结希",
+        "info": "3姐妹中的长女。是个活泼开朗的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/31/13976_crt_qvLHH.jpg",
+        "link": "https://bgm.tv/character/13976",
+        "categorie": "person"
+      },
+      {
+        "id": "13978",
+        "label": "小日向菜菜",
+        "info": "3姐妹中的么女。无论什么时候都很有干劲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/1f/13978_crt_F5kv4.jpg",
+        "link": "https://bgm.tv/character/13978",
+        "categorie": "person"
+      },
+      {
+        "id": "13979",
+        "label": "小日向幸惠",
+        "info": "3姐妹的母亲。与主人公的父亲再婚。是个漂亮的成年女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/c8/13979_crt_MmL81.jpg",
+        "link": "https://bgm.tv/character/13979",
+        "categorie": "person"
+      },
+      {
+        "id": "13980",
+        "label": "须藤梓",
+        "info": "结希的朋友，体育系的不良少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/0f/13980_crt_Df66F.jpg",
+        "link": "https://bgm.tv/character/13980",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

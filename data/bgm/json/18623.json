@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11457",
+        "label": "雪村千鹤",
+        "info": "为了寻找父亲雪村纲道而来到京都的少女，途中遇到失控的队士而被新选组收留。实为是东方雪村家纯血的鬼族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/29/11457_crt_GTeDZ.jpg",
+        "link": "https://bgm.tv/character/11457",
+        "categorie": "person"
+      },
+      {
+        "id": "11458",
+        "label": "土方岁三",
+        "info": "新选组副长。被称为“鬼之副长”，个性十分严谨，新选组的事物几乎由他处理。为了与风间战斗而饮下变若水让自己获得可以相抗的力量，被风间称为“薄樱鬼”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/a9/11458_crt_KY8dx.jpg",
+        "link": "https://bgm.tv/character/11458",
+        "categorie": "person"
+      },
+      {
+        "id": "11459",
+        "label": "藤堂平助",
+        "info": "八番组组长。最年轻的干部。身材娇小，与千鹤年纪相仿，对于政治理想有自己一套思维，对新选组的改变感到不认同，后随伊东甲子太郎脱离新选组，得知伊东要策划暗杀近藤的事情后在有油小路事件后回归新选组并加入山南创立之罗刹队行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/78/11459_crt_i6033.jpg",
+        "link": "https://bgm.tv/character/11459",
+        "categorie": "person"
+      },
+      {
+        "id": "11463",
+        "label": "风间千景",
+        "info": "与主人公和新选组有关的剑士，西边的鬼族首领。萨摩藩所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/15/11463_crt_JmFf5.jpg",
+        "link": "https://bgm.tv/character/11463",
+        "categorie": "person"
+      },
+      {
+        "id": "12345",
+        "label": "冲田总司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d6/12345_crt_l7r5C.jpg",
+        "link": "https://bgm.tv/character/12345",
+        "categorie": "person"
+      },
+      {
+        "id": "12346",
+        "label": "斋藤一",
+        "info": "新选组三番队队长，性格沉默寡言，为人处事非常冷静，剑术高超。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/05/12346_crt_zG20G.jpg",
+        "link": "https://bgm.tv/character/12346",
+        "categorie": "person"
+      },
+      {
+        "id": "11460",
+        "label": "原田左之助",
+        "info": "十番组组长。善于用长枪。重情重义，稳重温柔，梦想是能与妻子一起平稳生活。动画版中与不之火经常对上每次都难分上下，为了阻止罗刹攻击百姓在会津杀人吸血与不之火在山路上迎击纲道带领的罗刹队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/df/11460_crt_SE9G6.jpg",
+        "link": "https://bgm.tv/character/11460",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

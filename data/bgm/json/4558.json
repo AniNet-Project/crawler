@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47425",
+        "label": "苏菲亚",
+        "info": "人鱼族的公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/23/47425_crt_EIb9H.jpg",
+        "link": "https://bgm.tv/character/47425",
+        "categorie": "person"
+      },
+      {
+        "id": "9670",
+        "label": "哆啦美",
+        "info": "哆啦美（香港旧译叮美或叮铃，台湾旧译小叮铃，日文名为ドラミ），是漫画及动画《哆啦A梦》中哆啦A梦的妹妹。是野比家在22世纪的机器人。最喜欢吃蜜瓜包，特别厌恶蟑螂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/74/9670_crt_anidb.jpg?r=1450317387",
+        "link": "https://bgm.tv/character/9670",
+        "categorie": "person"
+      },
+      {
+        "id": "29741",
+        "label": "出木杉英才",
+        "info": "出木杉出生于1964年4月。他是大雄班级里的班长，也是学校里的帅哥。除了功课好以外，也擅长体育，多次帮助胖虎的棒球队扭转败局，还很会做菜。有想要的东西时，他不依赖父母，而是给别的小孩做家庭教师赚钱。此外，他也看漫画，玩游戏，还会变魔术。虽然是小学生，但是却与外国笔友史密斯长期通信联络。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/0b/29741_crt_hH74U.jpg",
+        "link": "https://bgm.tv/character/29741",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

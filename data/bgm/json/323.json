@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "104",
+        "label": "莉娜·因巴斯",
+        "info": "Lina.Inverse（リナ·インバ－ス）  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/a6/104_crt_DHH1D.jpg?r=1587932893",
+        "link": "https://bgm.tv/character/104",
+        "categorie": "person"
+      },
+      {
+        "id": "105",
+        "label": "高里·杰布列夫",
+        "info": "Gourry.Gabriev （ガウリイ．ガブリエフ）  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/c0/105_crt_Z8Iak.jpg?r=1587933354",
+        "link": "https://bgm.tv/character/105",
+        "categorie": "person"
+      },
+      {
+        "id": "106",
+        "label": "杰路刚帝士·克雷依威斯",
+        "info": "Zelgadiss·Graywords（ゼルガテイス．グレイワズ）  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/93/106_e4cd5920aa6c7c996a5ee53a70f_s0x6I.jpg",
+        "link": "https://bgm.tv/character/106",
+        "categorie": "person"
+      },
+      {
+        "id": "107",
+        "label": "加梅莉亚·威尔·迪斯拉·赛伦",
+        "info": "Ameria·Wil·Tesla·Saillune  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/99/107_crt_v790P.jpg?r=1587937786",
+        "link": "https://bgm.tv/character/107",
+        "categorie": "person"
+      },
+      {
+        "id": "7162",
+        "label": "ポコタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d3/7162_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7162",
+        "categorie": "person"
+      },
+      {
+        "id": "6838",
+        "label": "希尔菲儿·那鲁斯·莱塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/a8/6838_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6838",
+        "categorie": "person"
+      },
+      {
+        "id": "6839",
+        "label": "赤法師レゾ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/dc/6839_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6839",
+        "categorie": "person"
+      },
+      {
+        "id": "7161",
+        "label": "ズーマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/60/7161_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7161",
+        "categorie": "person"
+      },
+      {
+        "id": "23957",
+        "label": "兽神官杰洛士",
+        "info": "兽王的神官，由于兽王并没有将军，因此杰洛士等于拥有兽将军与兽神官的双重力量，在魔族中实力只仅次于赤眼魔王的五心腹，在降魔战争只需划一下手指便能歼灭无数的龙族。典型的腹黑角色，但是绝不说谎，当遇到无法透露的情况时就会以“这是秘密”这句话直接带过去。帮助莉娜只是利害关系一致而已。必要时可以背叛莉娜。弱点是精神攻击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/3e/23957_crt_6ZB6v.jpg",
+        "link": "https://bgm.tv/character/23957",
+        "categorie": "person"
+      },
+      {
+        "id": "6846",
+        "label": "白蛇娜卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/9a/6846_crt_E8q9O.jpg?r=1587933698",
+        "link": "https://bgm.tv/character/6846",
+        "categorie": "person"
+      },
+      {
+        "id": "7163",
+        "label": "ポセル＝コルバ＝タフォーラシア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/49/7163_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7163",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

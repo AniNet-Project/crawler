@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67313",
+        "label": "可美克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/5d/67313_crt_iuvp7.jpg?r=1542622029",
+        "link": "https://bgm.tv/character/67313",
+        "categorie": "person"
+      },
+      {
+        "id": "7810",
+        "label": "MM",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/ac/7810_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7810",
+        "categorie": "person"
+      },
+      {
+        "id": "67315",
+        "label": "小林三平太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/99/67315_crt_zrjdk.jpg?r=1542622158",
+        "link": "https://bgm.tv/character/67315",
+        "categorie": "person"
+      },
+      {
+        "id": "67316",
+        "label": "牧原泉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/d0/67316_crt_RLGV1.jpg?r=1542622000",
+        "link": "https://bgm.tv/character/67316",
+        "categorie": "person"
+      },
+      {
+        "id": "67314",
+        "label": "早川美咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/32/67314_crt_ib7P9.jpg?r=1542622089",
+        "link": "https://bgm.tv/character/67314",
+        "categorie": "person"
+      },
+      {
+        "id": "67319",
+        "label": "黑崎凉子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/b0/67319_crt_9ccc7.jpg?r=1542622185",
+        "link": "https://bgm.tv/character/67319",
+        "categorie": "person"
+      },
+      {
+        "id": "67317",
+        "label": "小林富美子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/4f/67317_crt_LHzAK.jpg?r=1542622110",
+        "link": "https://bgm.tv/character/67317",
+        "categorie": "person"
+      },
+      {
+        "id": "67320",
+        "label": "小林玉子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/9e/67320_crt_dk2Y3.jpg?r=1567236122",
+        "link": "https://bgm.tv/character/67320",
+        "categorie": "person"
+      },
+      {
+        "id": "67318",
+        "label": "葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/70/67318_crt_GO6Ao.jpg?r=1542622130",
+        "link": "https://bgm.tv/character/67318",
+        "categorie": "person"
+      },
+      {
+        "id": "67321",
+        "label": "南野良太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/11/67321_crt_2HDOu.jpg?r=1542622167",
+        "link": "https://bgm.tv/character/67321",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "5998",
+        "label": "糸色望",
+        "info": "「絶望した！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/8a/5998_crt_anidb.jpg?r=1528548222",
+        "link": "https://bgm.tv/character/5998",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

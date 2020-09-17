@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "754",
+        "label": "兰斯",
+        "info": "戦士にして冒険家にして史上最低のエロ男！",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/1d/754_crt_1h1Hp.jpg",
+        "link": "https://bgm.tv/character/754",
+        "categorie": "person"
+      },
+      {
+        "id": "755",
+        "label": "希露·普莱因",
+        "info": "このゲームのヒロイン、職業は魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/8b/755_crt_1iINv.jpg?r=1471358476",
+        "link": "https://bgm.tv/character/755",
+        "categorie": "person"
+      },
+      {
+        "id": "36338",
+        "label": "等级神薇莉丝",
+        "info": "「うーら　めーた　ぱーら　ほらほら",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/fe/36338_crt_vPE2e.jpg?r=1448694641",
+        "link": "https://bgm.tv/character/36338",
+        "categorie": "person"
+      },
+      {
+        "id": "36446",
+        "label": "哈尼",
+        "info": "迷之生物，分布在世界各地。在历史上比人类更早出现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/c1/36446_crt_jtX8H.jpg",
+        "link": "https://bgm.tv/character/36446",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

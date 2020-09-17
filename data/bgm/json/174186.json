@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9592",
+        "label": "格雷·佛尔帕斯塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/03/9592_crt_QZRzc.jpg",
+        "link": "https://bgm.tv/character/9592",
+        "categorie": "person"
+      },
+      {
+        "id": "11604",
+        "label": "露西·哈特菲利亚",
+        "info": "《妖精的尾巴》中的女主角。是魔导师公会妖精尾巴的星灵魔导士。擅长吐槽，性格活泼开朗、非常重视伙伴和公会成员关系，在与同伴的冒险中成为一名十分优秀的星灵魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/71/11604_crt_018Zm.jpg?r=1493876788",
+        "link": "https://bgm.tv/character/11604",
+        "categorie": "person"
+      },
+      {
+        "id": "9325",
+        "label": "哈比",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4f/9325_crt_1zX1v.jpg",
+        "link": "https://bgm.tv/character/9325",
+        "categorie": "person"
+      },
+      {
+        "id": "9591",
+        "label": "艾尔莎·史卡雷特",
+        "info": "「妖精の尻尾」の中でも数少ない、S級の仕事を請け負うことのできるS級魔導士。「妖精女王（ティターニア）」の異名を持つ。19歳で、左腕に青い紋章がある。好きなものは武具・鎧、嫌いなものは悪。好きな食べ物はチーズケーキとスフレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/14/9591_crt_x1X3k.jpg",
+        "link": "https://bgm.tv/character/9591",
+        "categorie": "person"
+      },
+      {
+        "id": "11589",
+        "label": "纳兹·多拉格尼尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a4/11589_crt_4XdeV.jpg",
+        "link": "https://bgm.tv/character/11589",
+        "categorie": "person"
+      },
+      {
+        "id": "13621",
+        "label": "温蒂·玛贝尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/49/13621_crt_fQVvm.jpg",
+        "link": "https://bgm.tv/character/13621",
+        "categorie": "person"
+      },
+      {
+        "id": "13622",
+        "label": "夏璐璐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/da/13622_crt_bQZuB.jpg",
+        "link": "https://bgm.tv/character/13622",
+        "categorie": "person"
+      },
+      {
+        "id": "53794",
+        "label": "艾尔夫曼·斯特劳斯",
+        "info": "“妖精的尾巴”公会成员之一，是米拉珍的弟弟，丽莎娜的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/8d/53794_crt_pPAyc.jpg",
+        "link": "https://bgm.tv/character/53794",
+        "categorie": "person"
+      },
+      {
+        "id": "36851",
+        "label": "瑟雷夫・多拉格尼尔",
+        "info": "號稱魔法界史上最兇暴、最強、最邪惡、傳說中的黑魔導士，可以輕描淡寫地製造出可怕的惡魔，魔力十分強大。這個男人降臨在遠古大陸，掌握著黑魔法，世上成千上萬惡魔都是其傑作，使全世界陷入大混亂中。憤怒時眼睛會變成紅色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/81/36851_crt_M9F4m.jpg",
+        "link": "https://bgm.tv/character/36851",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

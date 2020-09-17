@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49272",
+        "label": "小曼",
+        "info": "友子の猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/c5/49272_crt_PNmz6.jpg?r=1484179881",
+        "link": "https://bgm.tv/character/49272",
+        "categorie": "person"
+      },
+      {
+        "id": "49273",
+        "label": "小新",
+        "info": "友子の猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/61/49273_crt_0BgWB.jpg?r=1487083803",
+        "link": "https://bgm.tv/character/49273",
+        "categorie": "person"
+      },
+      {
+        "id": "49274",
+        "label": "小露",
+        "info": "友子の猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/5e/49274_crt_ZSYHA.jpg?r=1487084166",
+        "link": "https://bgm.tv/character/49274",
+        "categorie": "person"
+      },
+      {
+        "id": "49275",
+        "label": "小长井友子",
+        "info": "人見知りの女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/21/49275_crt_3334e.jpg?r=1487083486",
+        "link": "https://bgm.tv/character/49275",
+        "categorie": "person"
+      },
+      {
+        "id": "49276",
+        "label": "白鸟杏美",
+        "info": "お金持ちで才色兼備。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/72/49276_crt_30ALM.jpg?r=1487084553",
+        "link": "https://bgm.tv/character/49276",
+        "categorie": "person"
+      },
+      {
+        "id": "49277",
+        "label": "艾尔莎",
+        "info": "あづみの猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/9b/49277_crt_36E5D.jpg?r=1487085207",
+        "link": "https://bgm.tv/character/49277",
+        "categorie": "person"
+      },
+      {
+        "id": "49278",
+        "label": "池谷岚",
+        "info": "あづみをライバル視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/28/49278_crt_N655K.jpg?r=1489410907",
+        "link": "https://bgm.tv/character/49278",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7119",
+        "label": "源光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/00/7119_crt_p3S0p.jpg",
+        "link": "https://bgm.tv/character/7119",
+        "categorie": "person"
+      },
+      {
+        "id": "7121",
+        "label": "渡辺綱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/33/7121_crt_87n48.jpg",
+        "link": "https://bgm.tv/character/7121",
+        "categorie": "person"
+      },
+      {
+        "id": "7122",
+        "label": "碓井貞光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/07/7122_crt_TPEej.jpg",
+        "link": "https://bgm.tv/character/7122",
+        "categorie": "person"
+      },
+      {
+        "id": "7120",
+        "label": "源頼光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/8c/7120_crt_ZxN26.jpg",
+        "link": "https://bgm.tv/character/7120",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2350",
+        "label": "超梦",
+        "info": "超梦是使用梦幻的细胞人工制造出的传说的宝可梦，但体形与梦幻相去甚远：其形象类似于双足猫科动物，通体银灰，尾巴和腹部呈现紫色，由背部中心伸出的体外神经束一直延伸到后脖颈。身高和人类相当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/c8/2350_crt_C3hsH.jpg?r=1555424323",
+        "link": "https://bgm.tv/character/2350",
+        "categorie": "person"
+      },
+      {
+        "id": "43873",
+        "label": "竹兰",
+        "info": "竹兰是神奥地方的冠军，首次登场于精灵宝可梦钻石珍珠版。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a1/43873_crt_Wl6lC.jpg",
+        "link": "https://bgm.tv/character/43873",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

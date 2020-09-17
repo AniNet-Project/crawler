@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22796",
+        "label": "关俊成",
+        "info": "授業をまったく聞かずに遊んでばかりいる不真面目な男子生徒。しかし常にオリジナルの遊びを開発し、黙々と遊びに打ち込む姿は真面目そのもの。サボリを先生に発見されない技も超一流。本名は関俊成（としなり）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/87/22796_crt_rFgx9.jpg",
+        "link": "https://bgm.tv/character/22796",
+        "categorie": "person"
+      },
+      {
+        "id": "22797",
+        "label": "横井留美",
+        "info": "関くんの隣の席の女子生徒。真面目に授業を受けたいと思っているが、つい関くんの遊びが気になってしまう。関くんの遊びを妨害することもあるが、ときには遊びに本気で参加してしまうことも。本名は横井るみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/92/22797_crt_2ic26.jpg",
+        "link": "https://bgm.tv/character/22797",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

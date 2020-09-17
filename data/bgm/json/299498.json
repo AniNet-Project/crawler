@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "75065",
+        "label": "宇崎花",
+        "info": "19歳の大学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/2a/75065_crt_Q9U98.jpg",
+        "link": "https://bgm.tv/character/75065",
+        "categorie": "person"
+      },
+      {
+        "id": "75066",
+        "label": "樱井真一",
+        "info": "20歳の大学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/47/75066_crt_THTmm.jpg",
+        "link": "https://bgm.tv/character/75066",
+        "categorie": "person"
+      },
+      {
+        "id": "78715",
+        "label": "亚细亚实",
+        "info": "21歳の大学４年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/c2/78715_crt_yQuZL.jpg?r=1596349493",
+        "link": "https://bgm.tv/character/78715",
+        "categorie": "person"
+      },
+      {
+        "id": "78716",
+        "label": "榊逸仁",
+        "info": "20歳の大学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/3f/78716_crt_9a9XE.jpg?r=1596352046",
+        "link": "https://bgm.tv/character/78716",
+        "categorie": "person"
+      },
+      {
+        "id": "78717",
+        "label": "亚细亚纪彦",
+        "info": "桜井のバイト先「喫茶アジア」のマスター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e2/78717_crt_8wVWW.jpg?r=1596352608",
+        "link": "https://bgm.tv/character/78717",
+        "categorie": "person"
+      },
+      {
+        "id": "78718",
+        "label": "宇崎月",
+        "info": "宇崎花の母親。43歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/15/78718_crt_HLH3c.jpg?r=1596352887",
+        "link": "https://bgm.tv/character/78718",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

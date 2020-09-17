@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28217",
+        "label": "葵丝·帕拉雅",
+        "info": "生于U.C.0080. 联邦政府副外相亚迪那瓦·帕拉雅的女儿。出生地不明。青发蓝瞳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/95/28217_crt_sguqT.jpg?r=1566022651",
+        "link": "https://bgm.tv/character/28217",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

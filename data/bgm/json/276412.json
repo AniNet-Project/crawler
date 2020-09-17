@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69544",
+        "label": "小日向满月",
+        "info": "哪里都有的非常普通的高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/d6/69544_crt_L6I5p.jpg?r=1562475789",
+        "link": "https://bgm.tv/character/69544",
+        "categorie": "person"
+      },
+      {
+        "id": "69545",
+        "label": "新月艾尔涅丝塔深海",
+        "info": "年幼时在日本生活，最近又从德国再次移住日本的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/3b/69545_crt_X4zX1.jpg?r=1563084835",
+        "link": "https://bgm.tv/character/69545",
+        "categorie": "person"
+      },
+      {
+        "id": "69546",
+        "label": "安娜·胡戈",
+        "info": "身为名门胡戈家的继承人，接受英才教育的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/6a/69546_crt_ZsvYL.jpg?r=1563730563",
+        "link": "https://bgm.tv/character/69546",
+        "categorie": "person"
+      },
+      {
+        "id": "69547",
+        "label": "林宁宁",
+        "info": "和满月的妹妹希望上同所中学的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/05/69547_crt_7wPBt.jpg?r=1564291771",
+        "link": "https://bgm.tv/character/69547",
+        "categorie": "person"
+      },
+      {
+        "id": "69817",
+        "label": "袴田水晶",
+        "info": "フーゴの家に仕えるアンナの弟子のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/00/69817_crt_rNsS1.jpg?r=1565011046",
+        "link": "https://bgm.tv/character/69817",
+        "categorie": "person"
+      },
+      {
+        "id": "69818",
+        "label": "罗莎",
+        "info": "フーゴの家に仕えるアンナの弟子のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/bc/69818_crt_MwZ89.jpg?r=1565694633",
+        "link": "https://bgm.tv/character/69818",
+        "categorie": "person"
+      },
+      {
+        "id": "70116",
+        "label": "土御门九音",
+        "info": "物静かな印象を受ける中学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/88/70116_crt_1qtzX.jpg?r=1566741308",
+        "link": "https://bgm.tv/character/70116",
+        "categorie": "person"
+      },
+      {
+        "id": "69819",
+        "label": "小日向希望",
+        "info": "満月の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/17/69819_crt_7buLX.jpg?r=1566484059",
+        "link": "https://bgm.tv/character/69819",
+        "categorie": "person"
+      },
+      {
+        "id": "70196",
+        "label": "林菜菜",
+        "info": "宁宁的妹妹，蓬松的波浪状头发和眯眯眼是她的特征。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/f0/70196_crt_U29LR.jpg?r=1567277144",
+        "link": "https://bgm.tv/character/70196",
+        "categorie": "person"
+      },
+      {
+        "id": "70197",
+        "label": "林美美",
+        "info": "宁宁的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/1e/70197_crt_TRc6F.jpg?r=1558696741",
+        "link": "https://bgm.tv/character/70197",
+        "categorie": "person"
+      },
+      {
+        "id": "70198",
+        "label": "土御门四翠",
+        "info": "九音の姉であり、本来は土御門家の後継者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/1c/70198_crt_pabam.jpg?r=1558696871",
+        "link": "https://bgm.tv/character/70198",
+        "categorie": "person"
+      },
+      {
+        "id": "70199",
+        "label": "莎夏",
+        "info": "フーゴの家に仕える使用人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/ee/70199_crt_Ld2L3.jpg?r=1558696935",
+        "link": "https://bgm.tv/character/70199",
+        "categorie": "person"
+      },
+      {
+        "id": "70200",
+        "label": "克蕾尔·胡戈",
+        "info": "アンナの妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/60/70200_crt_kPXWe.jpg?r=1558697014",
+        "link": "https://bgm.tv/character/70200",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

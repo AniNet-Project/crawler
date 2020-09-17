@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6439",
+        "label": "莲音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/81/6439_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6439",
+        "categorie": "person"
+      },
+      {
+        "id": "48481",
+        "label": "布莱德",
+        "info": "宝石の国のプリンス。爽やかな印象を強く与える好青年。ふしぎ星のプリンセスたちの憧れの的である[6]。レインに好かれているが、ファインに想いを寄せている。しかし、生来の性格が空回りしローマン（元月の国の大臣）に唆され、闇の力に取り込まれてしまう。以後は黒い服装に身を包み、ふしぎ星の王になろうとして様々な国で悪事を働く。自分の考えを分かってもらえないことに一人、思い悩むがふたご姫たちのおかげで闇を振り払った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/72/48481_crt_I19f3.jpg",
+        "link": "https://bgm.tv/character/48481",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

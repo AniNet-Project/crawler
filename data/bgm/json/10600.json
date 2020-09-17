@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69055",
+        "label": "X教授",
+        "info": "Professor Charles Xavier (colloquial: Professor X) is a fictional character appearing in American comic books published by Marvel Comics. The character is depicted as the founder and sometimes leader of the X-Men. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #1 (September 1963).",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e9/69055_crt_ysZ0R.jpg",
+        "link": "https://bgm.tv/character/69055",
+        "categorie": "person"
+      },
+      {
+        "id": "77966",
+        "label": "金刚狼",
+        "info": "Wolverine (born James \"Jimmy\" Howlett), also known as Logan, was a mutant born with retractable forearm claws, enhanced physical parameters, and a powerful healing factor. The co-leader of the X-Men, he was also a famous hero and warrior being a veteran of multiple wars.",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/d2/77966_crt_5Y9yy.jpg",
+        "link": "https://bgm.tv/character/77966",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

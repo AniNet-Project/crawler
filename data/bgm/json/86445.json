@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10699",
+        "label": "樱井智树",
+        "info": "自称座右铭为“和平第一”的普通高中生，",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/c8/10699_crt_Ww99L.jpg",
+        "link": "https://bgm.tv/character/10699",
+        "categorie": "person"
+      },
+      {
+        "id": "8320",
+        "label": "伊卡洛斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/fa/8320_crt_8dg6j.jpg",
+        "link": "https://bgm.tv/character/8320",
+        "categorie": "person"
+      },
+      {
+        "id": "8322",
+        "label": "妮姆芙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/96/8322_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8322",
+        "categorie": "person"
+      },
+      {
+        "id": "10693",
+        "label": "阿斯特雷亚",
+        "info": "局地战斗用万能天使，有压倒性的近战能力，",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/7e/10693_crt_C6iIB.jpg?r=1389840704",
+        "link": "https://bgm.tv/character/10693",
+        "categorie": "person"
+      },
+      {
+        "id": "8321",
+        "label": "守形英四郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/28/8321_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8321",
+        "categorie": "person"
+      },
+      {
+        "id": "10695",
+        "label": "五月田根美香子",
+        "info": "智树学校的学生会长，在会长室挂著世界征服匾额，",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/10/10695_crt_8kz22.jpg",
+        "link": "https://bgm.tv/character/10695",
+        "categorie": "person"
+      },
+      {
+        "id": "11326",
+        "label": "风音日和",
+        "info": "守形英四郎在侵入西纳普斯的巨蛋建筑物时，所见到的冬眠中西纳普斯少女。在梦中为空美中学的学生，并说出喜欢智树。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/29/11326_crt_C1VU3.jpg",
+        "link": "https://bgm.tv/character/11326",
+        "categorie": "person"
+      },
+      {
+        "id": "10696",
+        "label": "卡奥斯",
+        "info": "第二世代万能天使，空之主创造出的不可控制的产物，",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/f5/10696_crt_xPQ7V.jpg",
+        "link": "https://bgm.tv/character/10696",
+        "categorie": "person"
+      },
+      {
+        "id": "11327",
+        "label": "代达罗斯",
+        "info": "在智树梦中出现，长著两对翅膀，面容不明，在梦中对智树说“被天空捉走了”的女子，第一世代人造天使的制造者，原先将伊卡洛斯托付的目的似乎是因为希望智树拯救她，后来因为“天使们似乎都很高兴”而开始放弃这个愿望，在守形入侵西那普斯时曾提供救援。漫画中被尊称为科学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/f7/11327_crt_g12vs.jpg",
+        "link": "https://bgm.tv/character/11327",
+        "categorie": "person"
+      },
+      {
+        "id": "10694",
+        "label": "见月楚原",
+        "info": "智树的邻居兼青梅竹马，喜欢智树，但不喜欢智树太色情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/08/10694_crt_1ie41.jpg",
+        "link": "https://bgm.tv/character/10694",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47254",
+        "label": "喵子",
+        "info": "喵太的姐姐，5岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/50/47254_crt_Jy2gz.jpg",
+        "link": "https://bgm.tv/character/47254",
+        "categorie": "person"
+      },
+      {
+        "id": "47255",
+        "label": "喵太",
+        "info": "喵子的弟弟，3岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ff/47255_crt_9OUqK.jpg",
+        "link": "https://bgm.tv/character/47255",
+        "categorie": "person"
+      },
+      {
+        "id": "57764",
+        "label": "喵五郎",
+        "info": "にゃーことにゃっ太の父親で、アルコール中毒。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/2e/57764_crt_Tzm5T.jpg",
+        "link": "https://bgm.tv/character/57764",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

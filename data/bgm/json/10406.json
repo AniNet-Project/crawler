@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6793",
+        "label": "めろこ・ユイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/ae/6793_crt_3nQFd.jpg",
+        "link": "https://bgm.tv/character/6793",
+        "categorie": "person"
+      },
+      {
+        "id": "23117",
+        "label": "神山满月",
+        "info": "5月12日生まれ。（アニメ版では4月4日生まれ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/c5/23117_crt_A31RA.jpg",
+        "link": "https://bgm.tv/character/23117",
+        "categorie": "person"
+      },
+      {
+        "id": "6792",
+        "label": "神山文月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/98/6792_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6792",
+        "categorie": "person"
+      },
+      {
+        "id": "8115",
+        "label": "若松圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/dd/8115_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

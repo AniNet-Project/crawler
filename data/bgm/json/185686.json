@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50717",
+        "label": "阿莉塔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/4c/50717_crt_8cu9U.jpg?r=1485785995",
+        "link": "https://bgm.tv/character/50717",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

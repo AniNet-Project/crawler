@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11921",
+        "label": "青柳柑奈",
+        "info": "高岛南高校1年3班，田径部成员，擅于中、长距离。处女，无男朋友。于16岁生日时被姐姐弥生拜托担任H-Game声优。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/d6/11921_crt_jlEjJ.jpg",
+        "link": "https://bgm.tv/character/11921",
+        "categorie": "person"
+      },
+      {
+        "id": "22874",
+        "label": "日置长俊",
+        "info": "游戏编剧，弥生的青梅竹马，有如柑奈的哥哥一样。柑奈对其存在好感(不是恋爱的那种)",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/15/22874_crt_exEEk.jpg?r=1421589130",
+        "link": "https://bgm.tv/character/22874",
+        "categorie": "person"
+      },
+      {
+        "id": "22873",
+        "label": "青柳弥生",
+        "info": "柑奈的姐姐，BlueMarch的社长，在公司负责监督、程式、宣传等事项。公司名称取自于自已的名“青”与“弥生”。在刚踏入业界时，与柑奈一样担任声优（名义不明）。当时打工的地方就是海津家的公司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/6d/22873_crt_5UooT.jpg?r=1571387272",
+        "link": "https://bgm.tv/character/22873",
+        "categorie": "person"
+      },
+      {
+        "id": "22871",
+        "label": "能家叶月",
+        "info": "おっとりとした関西弁と、文花に負けず劣らずの豊満なバストが特徴的な柑奈のクラスメイト。明るく、おおらかな性格で、大概の事は笑って受け止める（受け流す？）のだが、もしかしたら深く考えていないだけかもしれない……。そんな彼女も成績は大変優秀で常に学年上位をキープしている。でも同じクラスの海津元樹には勝てたことが無いらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/8a/22871_crt_415AU.jpg?r=1571387286",
+        "link": "https://bgm.tv/character/22871",
+        "categorie": "person"
+      },
+      {
+        "id": "17741",
+        "label": "牧野小鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/cf/17741_crt_2kRoK.jpg?r=1421587581",
+        "link": "https://bgm.tv/character/17741",
+        "categorie": "person"
+      },
+      {
+        "id": "22870",
+        "label": "海津元树",
+        "info": "柑奈的同班同学，父亲是H-Game公司社长，成绩优异的学生。在初一时开始于父亲的公司打工。从弥生口中得知其妹妹的存在，并得知其将来也会担任声优时开始学习成为声优。认识柑奈后开始留意其存在，关注她的一举一动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/a8/22870_crt_NF885.jpg?r=1571387278",
+        "link": "https://bgm.tv/character/22870",
+        "categorie": "person"
+      },
+      {
+        "id": "22872",
+        "label": "藁园文花",
+        "info": "Production游戏制作公司所属的专业声优，为女大学生，主要作为糟糕游戏的声优而活跃着。 本人性格比较文静，演技出类拔萃。作为公司的前辈给了柑奈很多指导。其实本人表示比起糟糕游戏的声优更想要加入动画界成为一名动画声优。别看她有着出色的演技，竟然和柑奈一样是没有恋爱经验的人，本人对此也是相当的苦恼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/13/22872_crt_eSLPj.jpg?r=1571387265",
+        "link": "https://bgm.tv/character/22872",
+        "categorie": "person"
+      },
+      {
+        "id": "22869",
+        "label": "酒波重一",
+        "info": "31岁。文花的声优前辈。在声优界中是正所属。虽然经常说出露骨的话，但却不会对人作出实质上的性骚扰。为H-Game配音的名义是“马并重一”，曾为《樱色课程》的“野口浩辅”配音。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/94/22869_crt_66oK0.jpg?r=1421583327",
+        "link": "https://bgm.tv/character/22869",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

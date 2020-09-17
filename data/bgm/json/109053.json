@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2162",
+        "label": "漩涡鸣人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/f5/2162_crt_u5Z59.jpg?r=1532380992",
+        "link": "https://bgm.tv/character/2162",
+        "categorie": "person"
+      },
+      {
+        "id": "6540",
+        "label": "日向雏田",
+        "info": "木叶名门“日向一族”宗家的成员，妹妹日向花火。很喜欢漩涡鸣人，在鸣人的面前经常会害羞。原本是个性格柔弱的女孩，但是在鸣人的影响下逐渐变得坚强，并逐渐成长为一名优秀的忍者。拥有能看穿一切事物的“白眼”，并擅长使用日向家流传的名为“柔拳”的体术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/33/6540_crt_BCPF7.jpg?r=1421298921",
+        "link": "https://bgm.tv/character/6540",
+        "categorie": "person"
+      },
+      {
+        "id": "6536",
+        "label": "旗木卡卡西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/79/6536_crt_anidb.jpg?r=1365091619",
+        "link": "https://bgm.tv/character/6536",
+        "categorie": "person"
+      },
+      {
+        "id": "6827",
+        "label": "春野樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8f/6827_crt_jhQZP.jpg",
+        "link": "https://bgm.tv/character/6827",
+        "categorie": "person"
+      },
+      {
+        "id": "7357",
+        "label": "佐井",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/65/7357_crt_anidb.jpg?r=1456221476",
+        "link": "https://bgm.tv/character/7357",
+        "categorie": "person"
+      },
+      {
+        "id": "7364",
+        "label": "奈良鹿丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/2f/7364_crt_anidb.jpg?r=1421299037",
+        "link": "https://bgm.tv/character/7364",
+        "categorie": "person"
+      },
+      {
+        "id": "63209",
+        "label": "日向花火",
+        "info": "虽然是日足的次女，但相比起雏田，更受其父亲重视。年纪虽小、但实力及潜质绝对不低，故此日足期望她能成为宗家继承人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/cd/63209_crt_4o1e2.jpg",
+        "link": "https://bgm.tv/character/63209",
+        "categorie": "person"
+      },
+      {
+        "id": "67201",
+        "label": "大筒木舍人",
+        "info": "《THE LAST -NARUTO THE MOVIE-》中的主要反派。大筒木羽村的后代，率领傀儡队出现在鸣人等人面前，以雏田为自己的目标。误认为六道仙人创造的世界是失败的，故计划觉醒转生眼，控制月球陨石毁灭地球，后被漩涡鸣人打败，理解祖先羽村的真意，回到月球。是现世中拥有最正宗的大筒木血统。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/07/67201_crt_uEU1l.jpg?r=1542192476",
+        "link": "https://bgm.tv/character/67201",
+        "categorie": "person"
+      },
+      {
+        "id": "6500",
+        "label": "宇智波佐助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/a3/6500_crt_Fzb24.jpg?r=1419948585",
+        "link": "https://bgm.tv/character/6500",
+        "categorie": "person"
+      },
+      {
+        "id": "39115",
+        "label": "漩涡博人",
+        "info": "うずまきボルトとは、七代目火影に就任したうずまきナルトと彼の妻となった日向ヒナタの息子である。妹にヒマワリが居る。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/1a/39115_crt_LaZlL.jpg?r=1456220512",
+        "link": "https://bgm.tv/character/39115",
+        "categorie": "person"
+      },
+      {
+        "id": "55337",
+        "label": "漩涡向日葵",
+        "info": "向日葵出生在火影世家，父亲和祖父都是火影。尽管还年幼却十分懂事，从来不会埋怨自己的父亲。但除此之外，向日葵还有着连自己也不知道的隐藏着的暴力倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/3d/55337_crt_Bv5rh.jpg?r=1528197760",
+        "link": "https://bgm.tv/character/55337",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

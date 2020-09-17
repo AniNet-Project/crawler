@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8188",
+        "label": "洞院リナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/33/8188_crt_K68yh.jpg",
+        "link": "https://bgm.tv/character/8188",
+        "categorie": "person"
+      },
+      {
+        "id": "20872",
+        "label": "七海露西亚",
+        "info": "北太平洋国的美人鱼公主，所属珍珠为粉红色。在七岁那年遇上了海斗，而且把珍珠送给了他，但由于没有珍珠的美人鱼会五音不全，因而后来到了人类世界找回珍珠，并在找回珍珠后(14岁)时才举行人鱼的成年仪式(人鱼的成年仪式是在13岁时才举行，恋爱会解放)。个性天真浪漫又有点傻傻的，因为暗恋海斗。也非常鲁莽，不过内心里藏着很深厚的美人鱼公主自觉性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/59/20872_crt_SZJ76.jpg",
+        "link": "https://bgm.tv/character/20872",
+        "categorie": "person"
+      },
+      {
+        "id": "24753",
+        "label": "宝生波音",
+        "info": "生日：1989年5月24日",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/0b/24753_crt_26G5R.jpg?r=1399036705",
+        "link": "https://bgm.tv/character/24753",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50202",
+        "label": "美寻",
+        "info": "老舗質屋の看板娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/b5/50202_crt_dPjQJ.jpg",
+        "link": "https://bgm.tv/character/50202",
+        "categorie": "person"
+      },
+      {
+        "id": "50203",
+        "label": "店长",
+        "info": "動物世界の質屋の雇われ店長。イケメンらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/67/50203_crt_wz3iL.jpg",
+        "link": "https://bgm.tv/character/50203",
+        "categorie": "person"
+      },
+      {
+        "id": "50204",
+        "label": "にゃました",
+        "info": "動物世界での質屋の先輩従業員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/cc/50204_crt_sSXZ7.jpg",
+        "link": "https://bgm.tv/character/50204",
+        "categorie": "person"
+      },
+      {
+        "id": "50205",
+        "label": "たま会長",
+        "info": "動物世界のドン。カリスマにして敏腕経営者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/e2/50205_crt_VLoON.jpg",
+        "link": "https://bgm.tv/character/50205",
+        "categorie": "person"
+      },
+      {
+        "id": "50206",
+        "label": "シロクマ会長",
+        "info": "一代で財をなしたシロクマグループ総裁にしてシロクマ質店のオーナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/2a/50206_crt_iX9aV.jpg",
+        "link": "https://bgm.tv/character/50206",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

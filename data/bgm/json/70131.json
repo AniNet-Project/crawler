@@ -1,0 +1,317 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19706",
+        "label": "时缟遥人",
+        "info": "迪欧尔国的咲森学园的高中二年级学生。不擅长纷争，心地和善的少年。比较在意翔子的事，不过一直都没能说出口。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/00/19706_crt_27XL8.jpg",
+        "link": "https://bgm.tv/character/19706",
+        "categorie": "person"
+      },
+      {
+        "id": "19707",
+        "label": "艾鲁艾尔弗",
+        "info": "隶属于多尔希亚军的特务机关，年仅17岁的超级特工。头脑明晰，战斗能力相当高，为达目的会不择手段。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/42/19707_crt_Vvnta.jpg",
+        "link": "https://bgm.tv/character/19707",
+        "categorie": "person"
+      },
+      {
+        "id": "19708",
+        "label": "指南照子",
+        "info": "咲森学园二年级学生。性格开朗，无论男女都拥有很多朋友。与晴人是青梅竹马，关系很好的吵架朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/ec/19708_crt_kKG0H.jpg",
+        "link": "https://bgm.tv/character/19708",
+        "categorie": "person"
+      },
+      {
+        "id": "19709",
+        "label": "流木野咲",
+        "info": "咲森学园一年级学生。人气偶像，不过她的艺能活动休止中。性格冷淡，讨厌与别人接触，在学校里总是孤立着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/09/19709_crt_DS103.jpg",
+        "link": "https://bgm.tv/character/19709",
+        "categorie": "person"
+      },
+      {
+        "id": "19711",
+        "label": "犬冢究真",
+        "info": "咲森学园三年级学生。对晴人他们来说是十分值得依靠的前辈。除了赚钱以外就没有其他杂念，将来想成为大富翁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ff/19711_crt_Jr7rv.jpg",
+        "link": "https://bgm.tv/character/19711",
+        "categorie": "person"
+      },
+      {
+        "id": "19716",
+        "label": "山田雷藏",
+        "info": "咲森学园二年级学生。不良团体的领导者，被称为“Thunder(雷声)”。热血男儿，将友情看得很重。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/57/19716_crt_rqlBc.jpg",
+        "link": "https://bgm.tv/character/19716",
+        "categorie": "person"
+      },
+      {
+        "id": "19719",
+        "label": "连坊小路晶",
+        "info": "咲森学园二年级学生。在学校里设置纸板房闭居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/d0/19719_crt_qHsqw.jpg",
+        "link": "https://bgm.tv/character/19719",
+        "categorie": "person"
+      },
+      {
+        "id": "19713",
+        "label": "野火真鞠惠",
+        "info": "咲森学园二年级学生。翔子的好友。与外表相反是充满精神的大人，会用最少的话语说出最关键的内容。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/be/19713_crt_H2nwk.jpg",
+        "link": "https://bgm.tv/character/19713",
+        "categorie": "person"
+      },
+      {
+        "id": "19714",
+        "label": "灵屋佑介",
+        "info": "咲森学园二年级学生。男子文化部的精英，机械相关的知识十分丰富。有着狂热的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/23/19714_crt_n3NOn.jpg",
+        "link": "https://bgm.tv/character/19714",
+        "categorie": "person"
+      },
+      {
+        "id": "19717",
+        "label": "连坊小路聪实",
+        "info": "咲森学园二年级学生。担任学生会长。虽然有着精英的气质，但是在危急关头却很弱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/99/19717_crt_F8zN2.jpg",
+        "link": "https://bgm.tv/character/19717",
+        "categorie": "person"
+      },
+      {
+        "id": "19718",
+        "label": "二宫贵姬",
+        "info": "咲森学园三年级学生。隶属于芭蕾舞部，女子运动部的精英。连续两年错失了咲森的光辉，有点高傲的大小姐系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/b4/19718_crt_kb55l.jpg",
+        "link": "https://bgm.tv/character/19718",
+        "categorie": "person"
+      },
+      {
+        "id": "19720",
+        "label": "贵生川巧",
+        "info": "咲森学园的物理教师。31岁。为人轻浮，与教师形象不符的言行相当引人注目。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/2e/19720_crt_l3gm2.jpg",
+        "link": "https://bgm.tv/character/19720",
+        "categorie": "person"
+      },
+      {
+        "id": "19721",
+        "label": "七海璃音",
+        "info": "在咲森学园担任保健体育的实习老师。22岁。有点天然，巨乳。在男学生当中人气很高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/01/19721_crt_AK4M9.jpg",
+        "link": "https://bgm.tv/character/19721",
+        "categorie": "person"
+      },
+      {
+        "id": "19722",
+        "label": "阿德莱伊",
+        "info": "多尔希亚军大尉，和艾尔艾尔弗一起在特务机关进行受训。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/cb/19722_crt_3HTP5.jpg",
+        "link": "https://bgm.tv/character/19722",
+        "categorie": "person"
+      },
+      {
+        "id": "19723",
+        "label": "哈诺因",
+        "info": "多尔希亚军大尉，阳光开朗能鼓舞人心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/de/19723_crt_Git2E.jpg",
+        "link": "https://bgm.tv/character/19723",
+        "categorie": "person"
+      },
+      {
+        "id": "19724",
+        "label": "伊克斯艾伊",
+        "info": "多尔希亚军大尉，能在战斗冷静分析敌人的弱点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/82/19724_crt_9Rx2x.jpg",
+        "link": "https://bgm.tv/character/19724",
+        "categorie": "person"
+      },
+      {
+        "id": "19726",
+        "label": "古菲亚",
+        "info": "多尔希亚军大尉，容易被激怒，有敏锐的战斗感觉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/04/19726_crt_Pv05H.jpg",
+        "link": "https://bgm.tv/character/19726",
+        "categorie": "person"
+      },
+      {
+        "id": "19727",
+        "label": "凯恩",
+        "info": "多尔希亚军大佐，特务机关教官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/d1/19727_crt_7P6Il.jpg",
+        "link": "https://bgm.tv/character/19727",
+        "categorie": "person"
+      },
+      {
+        "id": "19728",
+        "label": "克琳希德",
+        "info": "多尔希亚军少佐，凯恩的副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/1e/19728_crt_b3B0A.jpg",
+        "link": "https://bgm.tv/character/19728",
+        "categorie": "person"
+      },
+      {
+        "id": "21791",
+        "label": "莉泽露蒂",
+        "info": "多尔希亚的公主。被逃避追杀的艾尔艾尔弗挟为人质，后来以“我把生命分一半给你”为由，把头发割下给艾尔艾尔弗，救了艾尔艾尔弗一命。因为被卷入政变，成为囚禁之身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/1d/21791_crt_S9Fx1.jpg?r=1381796631",
+        "link": "https://bgm.tv/character/21791",
+        "categorie": "person"
+      },
+      {
+        "id": "27007",
+        "label": "ピノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/72/27007_crt_Tr31z.jpg?r=1411539192",
+        "link": "https://bgm.tv/character/27007",
+        "categorie": "person"
+      },
+      {
+        "id": "56246",
+        "label": "プルー",
+        "info": "凯恩身边绿晶石内的生物，在第12集一度成为Valvrave II的驱动者，被Pino称呼为“哥哥”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/6a/56246_crt_b9g5b.jpg",
+        "link": "https://bgm.tv/character/56246",
+        "categorie": "person"
+      },
+      {
+        "id": "56240",
+        "label": "阿玛迪斯·K·多尔西亚",
+        "info": "第68代多尔西亚总统及最高指挥官。靠“红色星期四”政变得到现今地位，非常信任凯恩。知晓“101评议会”的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/40/56240_crt_E5qSE.jpg",
+        "link": "https://bgm.tv/character/56240",
+        "categorie": "person"
+      },
+      {
+        "id": "56242",
+        "label": "杰弗里·安德森",
+        "info": "动画中一直自称为“ARUS的总统”，姓名出处为官方小说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/33/56242_crt_1q0Q9.jpg",
+        "link": "https://bgm.tv/character/56242",
+        "categorie": "person"
+      },
+      {
+        "id": "56247",
+        "label": "北川伊织",
+        "info": "咲森学园高中2年级生，学生会副会长，倾慕会长聪实。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56247",
+        "categorie": "person"
+      },
+      {
+        "id": "56255",
+        "label": "赤石绿",
+        "info": "咲森学园高中2年级生，学生会会计。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56255",
+        "categorie": "person"
+      },
+      {
+        "id": "56251",
+        "label": "上杉圣也",
+        "info": "咲森学园高中2年级生。颈子上总挂着副耳机。灵屋的朋友。流木野咲的歌迷。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56251",
+        "categorie": "person"
+      },
+      {
+        "id": "56252",
+        "label": "宫町透",
+        "info": "咲森学园高中2年级生。头上一直戴着个帽子。灵屋的朋友。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56252",
+        "categorie": "person"
+      },
+      {
+        "id": "56256",
+        "label": "卡茨威尔夫",
+        "info": "第15话被流木野咲劫控的卡尔斯坦机关训练生。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56256",
+        "categorie": "person"
+      },
+      {
+        "id": "56249",
+        "label": "山元莉莉",
+        "info": "无重力芭蕾部成员。二宫贵姬的跟班。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56249",
+        "categorie": "person"
+      },
+      {
+        "id": "56250",
+        "label": "亘理绘里",
+        "info": "无重力芭蕾部成员。二宫贵姬的跟班。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56250",
+        "categorie": "person"
+      },
+      {
+        "id": "39701",
+        "label": "时缟聪一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/da/39701_crt_kd9PS.jpg?r=1458810437",
+        "link": "https://bgm.tv/character/39701",
+        "categorie": "person"
+      },
+      {
+        "id": "56257",
+        "label": "伯内特",
+        "info": "“ARUS黄金新闻（ARUS GOLDEN NEWS）”节目的记者。20话对咲森学园进行采访。21话潜入Module 77机库，将“Phantom”指认为吉奥尔的船，并对抽取符文的场面进行曝光。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56257",
+        "categorie": "person"
+      },
+      {
+        "id": "56248",
+        "label": "女井洋平",
+        "info": "咲森学园高中1年级生，学生会书记。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56248",
+        "categorie": "person"
+      },
+      {
+        "id": "56258",
+        "label": "艾琳",
+        "info": "伯内特的女助手。21话中与北川伊织的父亲一同被抽取符文而死亡。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56258",
+        "categorie": "person"
+      },
+      {
+        "id": "56259",
+        "label": "皇子",
+        "info": "在200年后登场的银发少年，是个外观约七八岁的小孩。流木野咲和连坊小路称呼其为“皇子”。样貌酷似艾尔埃尔夫，眼睛颜色与遥人相同，详情不明。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56259",
+        "categorie": "person"
+      },
+      {
+        "id": "56253",
+        "label": "番匠拾斗",
+        "info": "咲森学园高中3年级生，男子运动部部长。梦想是参加高中联赛。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/56253",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

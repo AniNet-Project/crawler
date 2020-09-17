@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11210",
+        "label": "相川步",
+        "info": "本作主角，僵尸兼魔装少女。还是人类的时候在晚上遇到优，让他的命运大大改变，被连续杀人魔杀害。死后被优复活成僵尸，充当优的保镳，并让她寄住家里。变成僵尸后，得到肌肉操作、自我再生与接近不死身的能力。透过肌肉操作，可以将力量提高到800%，超过上限身体会无法负荷而崩解。故事开始时遇到春奈，夺走了她的魔力，被迫代替她讨伐米加罗。僵尸已经死过一次，身体剩下些许痛觉，就算身体被大卸八块也不会感到不快。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/80/11210_crt_mmZmm.jpg",
+        "link": "https://bgm.tv/character/11210",
+        "categorie": "person"
+      },
+      {
+        "id": "11229",
+        "label": "春奈",
+        "info": "从天而降的魔装少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/d5/11229_crt_0bC1p.jpg",
+        "link": "https://bgm.tv/character/11229",
+        "categorie": "person"
+      },
+      {
+        "id": "11230",
+        "label": "优克莉伍德·海尔赛兹",
+        "info": "本名はユークリウッド・ヘルサイズ。歩はユーと呼んでいる。ユウでも可。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/09/11230_crt_RcCZZ.jpg?r=1462091461",
+        "link": "https://bgm.tv/character/11230",
+        "categorie": "person"
+      },
+      {
+        "id": "11231",
+        "label": "瑟拉芬",
+        "info": "发言辛辣，身材高窕且容貌秀丽少女。平时将长发束成马尾。口头禅是：“很恶心”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/b5/11231_crt_303mF.jpg",
+        "link": "https://bgm.tv/character/11231",
+        "categorie": "person"
+      },
+      {
+        "id": "11232",
+        "label": "吉田友纪",
+        "info": "本名は吉田友紀（よしだゆき）だが、冬でも短パンで遊んでいる少年の様な性格から『トモノリ』と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/d3/11232_crt_jibZ8.jpg",
+        "link": "https://bgm.tv/character/11232",
+        "categorie": "person"
+      },
+      {
+        "id": "11233",
+        "label": "织户",
+        "info": "歩と幼稚園からの腐れ縁だが、彼には相当、ウザがられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/9c/11233_crt_JCA3z.jpg",
+        "link": "https://bgm.tv/character/11233",
+        "categorie": "person"
+      },
+      {
+        "id": "11234",
+        "label": "平松妙子",
+        "info": "歩のクラスメイトで。学年トップの成績を誇る優等生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/9e/11234_crt_h7hHp.jpg",
+        "link": "https://bgm.tv/character/11234",
+        "categorie": "person"
+      },
+      {
+        "id": "11235",
+        "label": "三原加奈美",
+        "info": "平松の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/95/11235_crt_xR7ZP.jpg",
+        "link": "https://bgm.tv/character/11235",
+        "categorie": "person"
+      },
+      {
+        "id": "11236",
+        "label": "下村",
+        "info": "歩と同じクラス。長身で、綺麗な顔と青い目をした男子バスケ部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/d0/11236_crt_5SBaL.jpg",
+        "link": "https://bgm.tv/character/11236",
+        "categorie": "person"
+      },
+      {
+        "id": "12966",
+        "label": "萨拉斯巴迪",
+        "info": "　　萨拉斯巴迪和塞拉一样是吸血忍者。创游学园2年C班。身高170厘米。稍微有点飞机场。貌似是塞拉的直接上司。所以说对人对事都是非常的高姿态。表面上是非常严格和固执，但实际上她有在网络上做偶像，还非常喜欢男人的臀部。能力是把水变成武器，实力比塞拉还强。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/43/12966_crt_0P5zJ.jpg",
+        "link": "https://bgm.tv/character/12966",
+        "categorie": "person"
+      },
+      {
+        "id": "48845",
+        "label": "艾丽艾尔",
+        "info": "玛特莱兹魔法学校的揠苗年助长班的班主任。是在魔法世界韦莉耶中唯一的一个拿着两把",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/cc/48845_crt_8PKud.jpg",
+        "link": "https://bgm.tv/character/48845",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

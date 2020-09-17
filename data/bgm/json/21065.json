@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2994",
+        "label": "プラント",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/cf/2994_crt_LAmjj.jpg",
+        "link": "https://bgm.tv/character/2994",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

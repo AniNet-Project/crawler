@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74786",
+        "label": "木藤",
+        "info": "人の住む場所よりも虫籠の多い地獄『極東』で駆除屋をしていたが、流れてE-05でマリオに拾われる。凄腕の駆除屋だが無愛想な17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/e9/74786_crt_i4LQi.jpg?r=1580892664",
+        "link": "https://bgm.tv/character/74786",
+        "categorie": "person"
+      },
+      {
+        "id": "74785",
+        "label": "伊莉",
+        "info": "田舎で父と二人で羊飼いをしていたが母に会いにいく道中、カガステルに襲われ父は死亡。マリオの店でウェイトレスとして働く明るい14歳の少女。キドウに恋をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/fb/74785_crt_C7maA.jpg?r=1580892904",
+        "link": "https://bgm.tv/character/74785",
+        "categorie": "person"
+      },
+      {
+        "id": "75101",
+        "label": "阿特",
+        "info": "E-05で駆除屋ばかりを狙う謎の男",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/95/75101_crt_8eeLL.jpg?r=1580893203",
+        "link": "https://bgm.tv/character/75101",
+        "categorie": "person"
+      },
+      {
+        "id": "75102",
+        "label": "弗朗茨",
+        "info": "カガステル研究の第一人者エメト・キーリオの息子",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/0f/75102_crt_leSz9.jpg?r=1580893418",
+        "link": "https://bgm.tv/character/75102",
+        "categorie": "person"
+      },
+      {
+        "id": "75104",
+        "label": "格里菲斯",
+        "info": "羊飼いをして暮らしていたイリの父親",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/ac/75104_crt_7StRg.jpg?r=1580893650",
+        "link": "https://bgm.tv/character/75104",
+        "categorie": "person"
+      },
+      {
+        "id": "75106",
+        "label": "马里奥",
+        "info": "下宿兼飲食屋「ガーデンマリオ」のオーナー",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/df/75106_crt_lRkl7.jpg?r=1580893878",
+        "link": "https://bgm.tv/character/75106",
+        "categorie": "person"
+      },
+      {
+        "id": "75107",
+        "label": "阿仁",
+        "info": "東世界を飛び回る商人",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/fb/75107_crt_UfyAV.jpg?r=1580894050",
+        "link": "https://bgm.tv/character/75107",
+        "categorie": "person"
+      },
+      {
+        "id": "75109",
+        "label": "卡西姆",
+        "info": "東方連合軍E-05対虫戦車隊員、駆除屋が嫌い",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/f1/75109_crt_BU4U4.jpg?r=1580894262",
+        "link": "https://bgm.tv/character/75109",
+        "categorie": "person"
+      },
+      {
+        "id": "75110",
+        "label": "哈迪",
+        "info": "東方連合軍E-05対虫戦車隊員、カシムの相棒",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/1f/75110_crt_zJaDD.jpg?r=1580894439",
+        "link": "https://bgm.tv/character/75110",
+        "categorie": "person"
+      },
+      {
+        "id": "75111",
+        "label": "爱莎",
+        "info": "東方連合軍E-05対虫戦車隊員、カシム達と同期",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/38/75111_crt_H09no.jpg?r=1580896184",
+        "link": "https://bgm.tv/character/75111",
+        "categorie": "person"
+      },
+      {
+        "id": "75113",
+        "label": "商区长",
+        "info": "E-05の最高責任者",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/49/75113_crt_CqG5q.jpg?r=1580896452",
+        "link": "https://bgm.tv/character/75113",
+        "categorie": "person"
+      },
+      {
+        "id": "75114",
+        "label": "阿达哈姆",
+        "info": "東方連合軍E-01総監、Eナンバー区の総責任者",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/37/75114_crt_5aS4X.jpg?r=1580896632",
+        "link": "https://bgm.tv/character/75114",
+        "categorie": "person"
+      },
+      {
+        "id": "75115",
+        "label": "纳滋",
+        "info": "崩壊した西ゲートに祖父と住む少年",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/a5/75115_crt_9ytH9.jpg?r=1580896832",
+        "link": "https://bgm.tv/character/75115",
+        "categorie": "person"
+      },
+      {
+        "id": "75116",
+        "label": "利滋",
+        "info": "西ゲートのスラムに暮らす子どもたちの親分",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1a/75116_crt_2C12K.jpg?r=1580896988",
+        "link": "https://bgm.tv/character/75116",
+        "categorie": "person"
+      },
+      {
+        "id": "75117",
+        "label": "拉扎罗",
+        "info": "駆除屋の祖であり、キドウの養父",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/65/75117_crt_3Doxa.jpg?r=1580897182",
+        "link": "https://bgm.tv/character/75117",
+        "categorie": "person"
+      },
+      {
+        "id": "75118",
+        "label": "卡拉",
+        "info": "極東の花形娼婦",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/c3/75118_crt_Hxx00.jpg?r=1580897339",
+        "link": "https://bgm.tv/character/75118",
+        "categorie": "person"
+      },
+      {
+        "id": "75119",
+        "label": "佩特罗夫",
+        "info": "東方連合極東司令部の大尉、ラザロの旧友",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/69/75119_crt_NaqaU.jpg?r=1580897471",
+        "link": "https://bgm.tv/character/75119",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

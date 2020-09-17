@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6305",
+        "label": "海龟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/e6/6305_crt_anidb.jpg?r=1543638811",
+        "link": "https://bgm.tv/character/6305",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

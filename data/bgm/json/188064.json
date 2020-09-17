@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43763",
+        "label": "ユーリ",
+        "info": "黒の軍勢から、人々を救うために義勇軍を立ち上げた若き隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/0b/43763_crt_7zOwj.jpg?r=1469978406",
+        "link": "https://bgm.tv/character/43763",
+        "categorie": "person"
+      },
+      {
+        "id": "43764",
+        "label": "フィーナ",
+        "info": "強大な力を持つ謎の書物「チェインクロニクル」を所持する少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/92/43764_crt_GS6zB.jpg?r=1469978427",
+        "link": "https://bgm.tv/character/43764",
+        "categorie": "person"
+      },
+      {
+        "id": "49287",
+        "label": "アラム",
+        "info": "ユーリと出会い、義勇軍の一員となる少年。孤児であり、たった一人で生き抜いてきたため、仲間というものが義勇軍に入るまでいなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/fa/49287_crt_9z1zM.jpg?r=1481935701",
+        "link": "https://bgm.tv/character/49287",
+        "categorie": "person"
+      },
+      {
+        "id": "43765",
+        "label": "ピリカ",
+        "info": "ユーリの相棒である妖精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/ab/43765_crt_AF053.jpg?r=1469978460",
+        "link": "https://bgm.tv/character/43765",
+        "categorie": "person"
+      },
+      {
+        "id": "49288",
+        "label": "カイン",
+        "info": "義勇軍初期からのメンバーであり、右腕として友人として、ユーリを支える青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/79/49288_crt_CGDDA.jpg?r=1481935827",
+        "link": "https://bgm.tv/character/49288",
+        "categorie": "person"
+      },
+      {
+        "id": "49289",
+        "label": "マリナ",
+        "info": "義勇軍初期からのメンバーで、癒しの魔法を操る少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/cb/49289_crt_afL5d.jpg?r=1481936140",
+        "link": "https://bgm.tv/character/49289",
+        "categorie": "person"
+      },
+      {
+        "id": "49291",
+        "label": "ミシディア",
+        "info": "義勇軍初期からのメンバーで、弓使いの女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/36/49291_crt_36USM.jpg?r=1481936237",
+        "link": "https://bgm.tv/character/49291",
+        "categorie": "person"
+      },
+      {
+        "id": "49294",
+        "label": "ユリアナ",
+        "info": "黒の軍勢によって王都が陥落した際に戦死した聖王の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/38/49294_crt_pdAVR.jpg?r=1481936369",
+        "link": "https://bgm.tv/character/49294",
+        "categorie": "person"
+      },
+      {
+        "id": "49295",
+        "label": "ブルクハルト",
+        "info": "聖王国を守護する聖騎士の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/fb/49295_crt_Af9A9.jpg?r=1481937099",
+        "link": "https://bgm.tv/character/49295",
+        "categorie": "person"
+      },
+      {
+        "id": "49296",
+        "label": "アインスロット",
+        "info": "聖王の親衛隊である“聖剣”騎士団の騎士団長で、聖王国を守護する十七聖騎士団の総帥を務める騎士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/2e/49296_crt_M3Llm.jpg?r=1481937116",
+        "link": "https://bgm.tv/character/49296",
+        "categorie": "person"
+      },
+      {
+        "id": "49297",
+        "label": "エイレヌス",
+        "info": "黒の軍勢の中でも、強大な力を持つ「魔神」と呼ばれる存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/a3/49297_crt_87Fye.jpg?r=1481937065",
+        "link": "https://bgm.tv/character/49297",
+        "categorie": "person"
+      },
+      {
+        "id": "49298",
+        "label": "黒の王",
+        "info": "黒の軍勢を従える王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/bf/49298_crt_c0ulC.jpg?r=1481937611",
+        "link": "https://bgm.tv/character/49298",
+        "categorie": "person"
+      },
+      {
+        "id": "49299",
+        "label": "シュザ",
+        "info": "鬼族の土地「九領」の筆頭領主。第一領を治めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/cf/49299_crt_p02Zq.jpg?r=1481937585",
+        "link": "https://bgm.tv/character/49299",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

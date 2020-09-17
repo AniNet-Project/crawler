@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36025",
+        "label": "ムーコ",
+        "info": "飼い主のこまつさんのことがだーいすき！な愛犬（メス）。ご自慢のつやっつやなお鼻を輝かせ、いつも元気で笑顔いっぱい♪そんなムーコの夢は「こまつさんがいつか犬になること」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/ed/36025_crt_N2H7I.jpg",
+        "link": "https://bgm.tv/character/36025",
+        "categorie": "person"
+      },
+      {
+        "id": "36245",
+        "label": "小松先生",
+        "info": "大自然の中でガラス工房「GLASS STUDIO amato」を構える吹きガラス職人。ムーコと二人で暮らしています。吹きガラスの腕前は確かだけど、お客さんがあまり来ないのが悩みのタネ。フルネームは小松誠二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/29/36245_crt_70mvF.jpg",
+        "link": "https://bgm.tv/character/36245",
+        "categorie": "person"
+      },
+      {
+        "id": "35957",
+        "label": "筱原",
+        "info": "東京から引っ越してきたキレイなおねえさん。amatoに来訪してムーコたちとお知り合いに。うしこうさんがドッキドキのお相手です。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/ca/35957_crt_7LlrW.jpg",
+        "link": "https://bgm.tv/character/35957",
+        "categorie": "person"
+      },
+      {
+        "id": "36599",
+        "label": "武藤医生",
+        "info": "ムーコが連れて行かれる、「むとう動物病院」の獣医さん。ムーコもタジタジだけど、好意以上の愛情を寄せられてるこまつさんもタジタジ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/0b/36599_crt_2nL1g.jpg",
+        "link": "https://bgm.tv/character/36599",
+        "categorie": "person"
+      },
+      {
+        "id": "37334",
+        "label": "玲奈",
+        "info": "いつも元気！元気！な棒田さんのおじょうさん。とーっても明るくて、ムーコはもちろん、こまつさんも、うしこうさんも、みんな振り回されっぱなし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/a1/37334_crt_tqiwP.jpg",
+        "link": "https://bgm.tv/character/37334",
+        "categorie": "person"
+      },
+      {
+        "id": "39642",
+        "label": "牛岛先生",
+        "info": "こまつさんの友だちでウェブデザイナーさん。見た目はとってもこわいけど、お留守番をしてくれたり、おみやげを持ってきてくれたり、とやさしい性格でムーコもだいすき！フルネームは牛島厚平。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/b0/39642_crt_CrCd7.jpg",
+        "link": "https://bgm.tv/character/39642",
+        "categorie": "person"
+      },
+      {
+        "id": "42341",
+        "label": "环",
+        "info": "篠原さんの弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/3b/42341_crt_0di7f.jpg",
+        "link": "https://bgm.tv/character/42341",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

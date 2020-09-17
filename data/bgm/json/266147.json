@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25982",
+        "label": "须藤要",
+        "info": "原是一名普通的高中生，因为朋友京田临死前发的求救邮件，被从手机中出现的蛇咬中后卷入游戏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/a8/25982_crt_fRavp.jpg?r=1405360411",
+        "link": "https://bgm.tv/character/25982",
+        "categorie": "person"
+      },
+      {
+        "id": "25983",
+        "label": "狩野朱歌",
+        "info": "在须藤被熊猫君追杀时，发来信息询问其是否要帮忙，帮助男主角熟悉游戏规则。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/38/25983_crt_Ri6CA.jpg?r=1578101003",
+        "link": "https://bgm.tv/character/25983",
+        "categorie": "person"
+      },
+      {
+        "id": "25984",
+        "label": "柏木铃音",
+        "info": "【サンセットレーベンズ】のメンバー。中学1年生のボブカットの少女。13歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/53/25984_crt_x6X8u.jpg?r=1405361777",
+        "link": "https://bgm.tv/character/25984",
+        "categorie": "person"
+      },
+      {
+        "id": "72695",
+        "label": "前坂隆二",
+        "info": "【サンセットレーベンズ】のメンバー。茶髪の青年。年齢は21歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/92/72695_crt_0I0e1.jpg?r=1574734250",
+        "link": "https://bgm.tv/character/72695",
+        "categorie": "person"
+      },
+      {
+        "id": "72696",
+        "label": "スイ / ソータ",
+        "info": "【サンセットレーベンズ】のメンバー。二重人格の少女（少年）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/9d/72696_crt_qs4Ie.jpg?r=1574734486",
+        "link": "https://bgm.tv/character/72696",
+        "categorie": "person"
+      },
+      {
+        "id": "77116",
+        "label": "刘雪兰",
+        "info": "ダーウィンズゲーム、日本ランキング1位の実力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/64/77116_crt_8viZ2.jpg",
+        "link": "https://bgm.tv/character/77116",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

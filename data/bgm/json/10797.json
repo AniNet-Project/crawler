@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45518",
+        "label": "伊礼晴",
+        "info": "本作的主角。以与起始钢弹的邂逅为契机，成为了制作模型的“钢弹模型制作家”。之后遇见了强大的对手并逐渐成长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/b3/45518_crt_eTE0B.jpg",
+        "link": "https://bgm.tv/character/45518",
+        "categorie": "person"
+      },
+      {
+        "id": "45519",
+        "label": "坂崎健太",
+        "info": "晴的朋友，是个喜欢GUNDAM模型的少年。会对晴提供制作GUNDAM模型的建议。经常光顾可以进行GUNDAM模型大战的模型店。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/19/45519_crt_55ogd.jpg",
+        "link": "https://bgm.tv/character/45519",
+        "categorie": "person"
+      },
+      {
+        "id": "45520",
+        "label": "野山里奈",
+        "info": "晴的朋友，是位个性活泼的女孩。同样也对GUNDAM模型有兴趣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/2f/45520_crt_CHsKZ.jpg",
+        "link": "https://bgm.tv/character/45520",
+        "categorie": "person"
+      },
+      {
+        "id": "45521",
+        "label": "松本康司",
+        "info": "是位偶像的钢弹模型制作家。小晴的对手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/cd/45521_crt_301r2.jpg",
+        "link": "https://bgm.tv/character/45521",
+        "categorie": "person"
+      },
+      {
+        "id": "45522",
+        "label": "鲍里斯·舒亚",
+        "info": "神秘的钢弹模型制作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/f3/45522_crt_Bf0EP.jpg",
+        "link": "https://bgm.tv/character/45522",
+        "categorie": "person"
+      },
+      {
+        "id": "45523",
+        "label": "タツ・シマノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/1e/45523_crt_N9Uq1.jpg",
+        "link": "https://bgm.tv/character/45523",
+        "categorie": "person"
+      },
+      {
+        "id": "45524",
+        "label": "店长",
+        "info": "ホビーショップ「AXIS」の店長で、店舗に併設されたガンプラバトル施設の管理者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/cf/45524_crt_f4Mtm.jpg",
+        "link": "https://bgm.tv/character/45524",
+        "categorie": "person"
+      },
+      {
+        "id": "64376",
+        "label": "熊霸",
+        "info": "熊霸，动画《模型战士》中的正面角色，是驾驶员野山丽娜驾驶的机体，由龟霸模型改装而来。武器有光线炮笛子 两只BEAM眼睛 两爪子 6发书包跟踪导弹 12发前爪导弹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/93/64376_crt_ok3hl.jpg",
+        "link": "https://bgm.tv/character/64376",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

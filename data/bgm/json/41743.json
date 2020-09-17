@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3550",
+        "label": "コジマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/8d/3550_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3550",
+        "categorie": "person"
+      },
+      {
+        "id": "31657",
+        "label": "卡莲·约书亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/7f/31657_crt_SOByH.jpg",
+        "link": "https://bgm.tv/character/31657",
+        "categorie": "person"
+      },
+      {
+        "id": "3561",
+        "label": "デル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/4a/3561_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3561",
+        "categorie": "person"
+      },
+      {
+        "id": "3565",
+        "label": "アプサラス I",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/b9/3565_crt_eyQUo.jpg",
+        "link": "https://bgm.tv/character/3565",
+        "categorie": "person"
+      },
+      {
+        "id": "3571",
+        "label": "コジマ大隊",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3571",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

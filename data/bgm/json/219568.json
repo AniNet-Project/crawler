@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56767",
+        "label": "马场善治",
+        "info": "博多で「馬場探偵事務所」を営む探偵。生まれも育ちも博多の九州男児。豚骨ラーメンと明太子と野球が好き。いつも猫背。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/07/56767_crt_u1NkK.jpg",
+        "link": "https://bgm.tv/character/56767",
+        "categorie": "person"
+      },
+      {
+        "id": "56768",
+        "label": "林宪明",
+        "info": "新興マフィア「華九会」に雇われていた殺し屋。九歳から殺人訓練を受ける。仕事時は女装。専門は刃物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/8c/56768_crt_EkOHk.jpg",
+        "link": "https://bgm.tv/character/56768",
+        "categorie": "person"
+      },
+      {
+        "id": "56769",
+        "label": "齐藤",
+        "info": "殺人請負会社「マーダー・インク」新人社員。入社半年で、東京本社から福岡支店へ左遷され博多へやってきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/3d/56769_crt_f4bBq.jpg",
+        "link": "https://bgm.tv/character/56769",
+        "categorie": "person"
+      },
+      {
+        "id": "58170",
+        "label": "榎田",
+        "info": "情報屋。かつて海外のハッカー集団に所属していた。白金のマッシュルーム頭に派手な服装が特徴。根城は福岡市内のネットカフェ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/6b/58170_crt_0szB6.jpg",
+        "link": "https://bgm.tv/character/58170",
+        "categorie": "person"
+      },
+      {
+        "id": "58171",
+        "label": "次郎",
+        "info": "復讐屋。美容師だったが恋人を殺し屋に殺されて以来、転身。見た目に反しオカマキャラ。助手のミサキ（小学生女子）と行動を共にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/9e/58171_crt_4c31q.jpg",
+        "link": "https://bgm.tv/character/58171",
+        "categorie": "person"
+      },
+      {
+        "id": "58172",
+        "label": "美咲",
+        "info": "小学生にして、復讐屋の助手。ワケありな過去の出来事からジローに引き取られて以来、常に一緒にいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/1b/58172_crt_7FMRm.jpg",
+        "link": "https://bgm.tv/character/58172",
+        "categorie": "person"
+      },
+      {
+        "id": "58173",
+        "label": "猿渡俊助",
+        "info": "殺人請負会社「マーダー・インク」の元エース。血に飢えた危険人物。馬場を敵視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/40/58173_crt_Me75S.jpg",
+        "link": "https://bgm.tv/character/58173",
+        "categorie": "person"
+      },
+      {
+        "id": "60234",
+        "label": "何塞·马丁内斯",
+        "info": "ドミニカ共和国出身。表向きは整体師、本業は生かすも殺すも自由自在な拷問師。ゲイ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/b8/60234_crt_L2e32.jpg",
+        "link": "https://bgm.tv/character/60234",
+        "categorie": "person"
+      },
+      {
+        "id": "60235",
+        "label": "大和",
+        "info": "ホストクラブ「Adam」の売れっ子ホスト。とにかくチャラいが、スリの腕は天下一品。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/3f/60235_crt_5V215.jpg",
+        "link": "https://bgm.tv/character/60235",
+        "categorie": "person"
+      },
+      {
+        "id": "60236",
+        "label": "佐伯",
+        "info": "美容外科クリニック院長。高い外科技術を持ち、死体の処理・調達をこなす闇の掃除人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/61/60236_crt_b4Bzr.jpg",
+        "link": "https://bgm.tv/character/60236",
+        "categorie": "person"
+      },
+      {
+        "id": "60237",
+        "label": "重松",
+        "info": "馬場たちと懇意な、裏社会に詳しいベテラン刑事。法で裁けない事件を扱うことも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/e4/60237_crt_4xtXf.jpg",
+        "link": "https://bgm.tv/character/60237",
+        "categorie": "person"
+      },
+      {
+        "id": "60238",
+        "label": "刚田源造",
+        "info": "中州にある馬場のいきつけの屋台「源ちゃん」店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/b2/60238_crt_CTwzc.jpg",
+        "link": "https://bgm.tv/character/60238",
+        "categorie": "person"
+      },
+      {
+        "id": "60239",
+        "label": "新田巨也",
+        "info": "売れっ子殺し屋を抱える敏腕コンサルタント。高校時代、猿渡とバッテリーを組んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/51/60239_crt_AzXaS.jpg",
+        "link": "https://bgm.tv/character/60239",
+        "categorie": "person"
+      },
+      {
+        "id": "60841",
+        "label": "チェガル",
+        "info": "多国籍マフィアの一員で、海外駐在工作員。シヴァと井良沢をまとめるリーダー",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/72/60841_crt_cULV5.jpg",
+        "link": "https://bgm.tv/character/60841",
+        "categorie": "person"
+      },
+      {
+        "id": "60842",
+        "label": "シヴァ",
+        "info": "サイバーテロ組織に協力する世界一のクラッキング技術を持つハッカー",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/9a/60842_crt_BoVRv.jpg",
+        "link": "https://bgm.tv/character/60842",
+        "categorie": "person"
+      },
+      {
+        "id": "60843",
+        "label": "井良泽",
+        "info": "人を殴ることで快感を得るボクサー崩れの殺し屋",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f5/60843_crt_D4I22.jpg",
+        "link": "https://bgm.tv/character/60843",
+        "categorie": "person"
+      },
+      {
+        "id": "60844",
+        "label": "绯狼",
+        "info": "大陸からやってきた殺し屋。林と浅からぬ因縁を持つ",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/87/60844_crt_6141Y.jpg",
+        "link": "https://bgm.tv/character/60844",
+        "categorie": "person"
+      },
+      {
+        "id": "60984",
+        "label": "宗方",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/36/60984_crt_QJGyL.jpg",
+        "link": "https://bgm.tv/character/60984",
+        "categorie": "person"
+      },
+      {
+        "id": "60985",
+        "label": "麗子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f4/60985_crt_n8nen.jpg",
+        "link": "https://bgm.tv/character/60985",
+        "categorie": "person"
+      },
+      {
+        "id": "60983",
+        "label": "紫乃原",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/9f/60983_crt_Tn9If.jpg",
+        "link": "https://bgm.tv/character/60983",
+        "categorie": "person"
+      },
+      {
+        "id": "60986",
+        "label": "イワノフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/35/60986_crt_whBS8.jpg",
+        "link": "https://bgm.tv/character/60986",
+        "categorie": "person"
+      },
+      {
+        "id": "60987",
+        "label": "原田正太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/7b/60987_crt_dJ5MY.jpg",
+        "link": "https://bgm.tv/character/60987",
+        "categorie": "person"
+      },
+      {
+        "id": "60988",
+        "label": "原田ユウスケ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/98/60988_crt_5NI00.jpg",
+        "link": "https://bgm.tv/character/60988",
+        "categorie": "person"
+      },
+      {
+        "id": "60989",
+        "label": "張",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/17/60989_crt_87327.jpg",
+        "link": "https://bgm.tv/character/60989",
+        "categorie": "person"
+      },
+      {
+        "id": "60990",
+        "label": "グエン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60990",
+        "categorie": "person"
+      },
+      {
+        "id": "60991",
+        "label": "僑梅",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60991",
+        "categorie": "person"
+      },
+      {
+        "id": "60992",
+        "label": "王龍芳",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60992",
+        "categorie": "person"
+      },
+      {
+        "id": "60993",
+        "label": "李瑞希",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60993",
+        "categorie": "person"
+      },
+      {
+        "id": "60994",
+        "label": "安倍",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60994",
+        "categorie": "person"
+      },
+      {
+        "id": "60995",
+        "label": "山本",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/60995",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

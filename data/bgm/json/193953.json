@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33391",
+        "label": "安兹·乌尔·恭",
+        "info": "职位：至高无上的四十一位至尊",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/36/33391_crt_Oi6SM.jpg",
+        "link": "https://bgm.tv/character/33391",
+        "categorie": "person"
+      },
+      {
+        "id": "33392",
+        "label": "雅儿贝德",
+        "info": "职位：纳萨力克地下大坟墓的守护者总管",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/33392_crt_R3scr.jpg?r=1515551210",
+        "link": "https://bgm.tv/character/33392",
+        "categorie": "person"
+      },
+      {
+        "id": "34010",
+        "label": "由莉·阿尔法",
+        "info": "種族レベル：首無し騎士（デュラハン）Lv1ほか[3]",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/16/34010_crt_3xkuN.jpg?r=1438708332",
+        "link": "https://bgm.tv/character/34010",
+        "categorie": "person"
+      },
+      {
+        "id": "34011",
+        "label": "娜贝拉尔·迦玛",
+        "info": "種族レベル：二重の影（ドッペルゲンガー）Lv1[4]",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/54/34011_crt_IT0I3.jpg",
+        "link": "https://bgm.tv/character/34011",
+        "categorie": "person"
+      },
+      {
+        "id": "34012",
+        "label": "希姿·德尔塔",
+        "info": "種族レベル：自動人形（オートマトン）Lv5ほか[3]",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/47/34012_crt_BJB5G.jpg?r=1438709709",
+        "link": "https://bgm.tv/character/34012",
+        "categorie": "person"
+      },
+      {
+        "id": "34013",
+        "label": "索留香·艾普西隆",
+        "info": "種族レベル：不定形の粘液（ショゴス）Lv10ほか[6]",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/24/34013_crt_EeR6U.jpg?r=1438709994",
+        "link": "https://bgm.tv/character/34013",
+        "categorie": "person"
+      },
+      {
+        "id": "34014",
+        "label": "艾多玛·巴西丽莎·泽塔",
+        "info": "種族レベル：蜘蛛人（アラクノイド）Lv10ほか[5]",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/b5/34014_crt_9Z8FK.jpg",
+        "link": "https://bgm.tv/character/34014",
+        "categorie": "person"
+      },
+      {
+        "id": "34693",
+        "label": "露普斯蕾琪娜·贝塔",
+        "info": "種族レベル：人狼（ワーウルフ）Lv5[8]",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/83/34693_crt_H0Gkr.jpg?r=1438711898",
+        "link": "https://bgm.tv/character/34693",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

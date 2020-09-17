@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6516",
+        "label": "浦饭幽助",
+        "info": "故事主角，就读皿屋敷中学二年级，是有名的不良少年，性格冲动、粗暴野蛮、没有耐性、正义、单纯、心地善良。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/5f/6516_crt_q46HE.jpg",
+        "link": "https://bgm.tv/character/6516",
+        "categorie": "person"
+      },
+      {
+        "id": "6517",
+        "label": "桑原和真",
+        "info": "幽助的朋友、同学兼对手，一头橙褐色的飞机头为其特征。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/46/6517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6517",
+        "categorie": "person"
+      },
+      {
+        "id": "6520",
+        "label": "飞影",
+        "info": "“忌子飞影”，雪女与火炎系妖怪的混血儿，是雪菜双胞胎的哥哥。（雪女借由百年一轮的分裂期产下一子，不借外力，孩子有如分身，因此全是女孩，除非与男子私通。）因男婴会为雪之国带来灾难，村人迫使母亲舍弃飞影，被母亲冰菜的好友泪抛落悬崖。可是当时飞影已听得懂他们的话，一直都想回雪之国报仇、把村民杀光，出生短短五年便成为Ａ级妖怪，在魔界第十三层东北部闯出名号，后来变成盗贼来到了人间界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/fe/6520_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6520",
+        "categorie": "person"
+      },
+      {
+        "id": "11302",
+        "label": "藏马",
+        "info": "红色中长发，深绿色双眼，外表俊朗的青年，本身是妖狐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/6f/11302_crt_pOpP1.jpg?r=1577971969",
+        "link": "https://bgm.tv/character/11302",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

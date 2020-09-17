@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17362",
+        "label": "小鸟游六花",
+        "info": "メインヒロイン。現役中二病患者で、自称「邪王真眼の使い手」。理数系は壊滅的なほどできないが、中二病の影響で国語や社会および英語はそこそこできる。裁縫は得意だが料理はできない。作者あとがきによると最終的にお馬鹿でまったく面影もなくなってしまったが涼宮ハルヒシリーズの長門有希がモデルの模様。アニメ公式HPのトップでもっている銃はモーゼルC96(モーゼルミリタリー)である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/6c/17362_crt_arOme.jpg?r=1361630021",
+        "link": "https://bgm.tv/character/17362",
+        "categorie": "person"
+      },
+      {
+        "id": "17369",
+        "label": "凸守早苗",
+        "info": "現役中二病患者で、六花の唯一無二な「サーヴァント」という設定。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/04/17369_crt_Zt1b8.jpg",
+        "link": "https://bgm.tv/character/17369",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

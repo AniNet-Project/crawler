@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70481",
+        "label": "高町恭也",
+        "info": "《魔法少女奈叶》：19岁。大学一年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/b2/70481_crt_rrc6I.jpg?r=1560040714",
+        "link": "https://bgm.tv/character/70481",
+        "categorie": "person"
+      },
+      {
+        "id": "70482",
+        "label": "高町美由希",
+        "info": "《魔法少女奈叶》：17岁。私立風芽丘学園二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/74/70482_crt_KKk6B.jpg?r=1560040723",
+        "link": "https://bgm.tv/character/70482",
+        "categorie": "person"
+      },
+      {
+        "id": "70500",
+        "label": "艾莉思·马克凯琳",
+        "info": "英国马克凯琳保安服务社的专业保镖，也是菲娅丝的青梅竹马的朋友之一。三年前曾进入保安公司后，一直为演唱会中的学生和歌手提供保安服务。不过由于性格严格，有点偏向独行侠主义思想，特别反对菲娅丝与外行保镖在一起，就连自己青梅竹马的恭也和美由希也不放在她眼里。但只要是菲娅丝的朋友，她才愿意一同保护。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/1f/70500_crt_kP5Gz.jpg?r=1560084404",
+        "link": "https://bgm.tv/character/70500",
+        "categorie": "person"
+      },
+      {
+        "id": "70497",
+        "label": "菲娅丝·克莉丝泰勒",
+        "info": "英国出身的恭也等人的青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/2e/70497_crt_6l6GJ.jpg?r=1560083117",
+        "link": "https://bgm.tv/character/70497",
+        "categorie": "person"
+      },
+      {
+        "id": "70499",
+        "label": "城鸟晶",
+        "info": "和風芽丘在同一地基内的私立海鳴中央的二年生。住在高町家附近的活泼的空手女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/e4/70499_crt_jif0L.jpg?r=1560083601",
+        "link": "https://bgm.tv/character/70499",
+        "categorie": "person"
+      },
+      {
+        "id": "70498",
+        "label": "凤莲飞",
+        "info": "CV：岩城由奈",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/bc/70498_crt_YdDVn.jpg?r=1560083451",
+        "link": "https://bgm.tv/character/70498",
+        "categorie": "person"
+      },
+      {
+        "id": "70496",
+        "label": "神咲那美",
+        "info": "風芽丘二年生，在附近的神社打工的巫女。《三角心2》的女主角「神咲薫」的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/99/70496_crt_650d6.jpg?r=1560083019",
+        "link": "https://bgm.tv/character/70496",
+        "categorie": "person"
+      },
+      {
+        "id": "70479",
+        "label": "月村忍",
+        "info": "《魔法少女奈叶》18岁。恭也の恋人で、メカ好きの女子大生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/f9/70479_crt_1LNkN.jpg?r=1560080749",
+        "link": "https://bgm.tv/character/70479",
+        "categorie": "person"
+      },
+      {
+        "id": "70494",
+        "label": "诺爱尔·绮堂·艾尔莉希凯特",
+        "info": "《魔法少女奈叶》：24岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/5d/70494_crt_2Y2vJ.jpg?r=1560082576",
+        "link": "https://bgm.tv/character/70494",
+        "categorie": "person"
+      },
+      {
+        "id": "70483",
+        "label": "高町士郎",
+        "info": "《魔法少女奈叶》声：一条和矢",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/eb/70483_crt_KWK7m.jpg?r=1560041958",
+        "link": "https://bgm.tv/character/70483",
+        "categorie": "person"
+      },
+      {
+        "id": "70484",
+        "label": "高町桃子",
+        "info": "《魔法少女奈叶》声：天野エリカ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/34/70484_crt_gUgg8.jpg?r=1560043810",
+        "link": "https://bgm.tv/character/70484",
+        "categorie": "person"
+      },
+      {
+        "id": "2782",
+        "label": "高町奈叶",
+        "info": "无印（TV第一期）与A's（TV第二期）中的奈叶",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/52/2782_crt_9fAi0.jpg?r=1472814152",
+        "link": "https://bgm.tv/character/2782",
+        "categorie": "person"
+      },
+      {
+        "id": "70485",
+        "label": "御神美沙斗",
+        "info": "声：佐藤亜美・佐藤まこと（おまけシナリオ『とらハ外伝3』）・斎賀みつき（サウンドステージ・OVA）",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/4f/70485_crt_A4j4k.jpg?r=1560045742",
+        "link": "https://bgm.tv/character/70485",
+        "categorie": "person"
+      },
+      {
+        "id": "70501",
+        "label": "久远",
+        "info": "声：音乃菜摘",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/f5/70501_crt_xey8A.jpg?r=1560086744",
+        "link": "https://bgm.tv/character/70501",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

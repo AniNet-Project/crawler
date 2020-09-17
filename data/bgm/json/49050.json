@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8535",
+        "label": "赤ずきん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/23/8535_crt_8CWX6.jpg",
+        "link": "https://bgm.tv/character/8535",
+        "categorie": "person"
+      },
+      {
+        "id": "65696",
+        "label": "白雪公主",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/f1/65696_crt_L3B3P.jpg",
+        "link": "https://bgm.tv/character/65696",
+        "categorie": "person"
+      },
+      {
+        "id": "8536",
+        "label": "木ノ下りんご",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/8d/8536_crt_z7BEU.jpg",
+        "link": "https://bgm.tv/character/8536",
+        "categorie": "person"
+      },
+      {
+        "id": "8538",
+        "label": "いばら姫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/cf/8538_crt_i07En.jpg",
+        "link": "https://bgm.tv/character/8538",
+        "categorie": "person"
+      },
+      {
+        "id": "8551",
+        "label": "ランダージョ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/72/8551_crt_0N751.jpg",
+        "link": "https://bgm.tv/character/8551",
+        "categorie": "person"
+      },
+      {
+        "id": "8564",
+        "label": "フェレナンド王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e3/8564_crt_L2Tfz.jpg",
+        "link": "https://bgm.tv/character/8564",
+        "categorie": "person"
+      },
+      {
+        "id": "8656",
+        "label": "ハーメルン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/07/8656_crt_1Htct.jpg",
+        "link": "https://bgm.tv/character/8656",
+        "categorie": "person"
+      },
+      {
+        "id": "8537",
+        "label": "三銃士",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/8537",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

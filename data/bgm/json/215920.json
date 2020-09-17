@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60300",
+        "label": "王富贵",
+        "info": "一气道盟中的王家少爷，自称“泡妹王”，以有钱为傲。王富贵起初负责监管白月初，也是白月初的死对头；之后因白月初不归一气道盟管，便宣告他自由。此外，王富贵是王权富贵的转世，而王权富贵与清瞳有再续前缘之约；于是王富贵与清瞳也有感情纠葛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/a4/60300_crt_bobCP.jpg",
+        "link": "https://bgm.tv/character/60300",
+        "categorie": "person"
+      },
+      {
+        "id": "54361",
+        "label": "白月初",
+        "info": "《狐妖小红娘》的男主角，被一气道盟严格控制的普通中学生。在被控制的时间里，默默隐藏实力，最终从一气道盟逃脱，在躲避王富贵等人追捕的时候与涂山苏苏相遇并联手完成红线仙任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/30/54361_crt_bxsll.jpg",
+        "link": "https://bgm.tv/character/54361",
+        "categorie": "person"
+      },
+      {
+        "id": "39102",
+        "label": "涂山苏苏",
+        "info": "女主角，涂山狐族的呆萌小狐狸一只。总是携带各种零食（以此收买吃货男主）法力低微。其实就是涂山红红本人，因为失去妖力而从御姐变成萝莉。也因为以记忆作为转世续缘的代价而遗忘了一切。只有与白月初接吻（必须带有白月初的血以及让苏苏自己回想起续缘前的事情）能暂变为涂山红红。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/22/39102_crt_7VtSt.jpg?r=1495796830",
+        "link": "https://bgm.tv/character/39102",
+        "categorie": "person"
+      },
+      {
+        "id": "40257",
+        "label": "清瞳",
+        "info": "真身是蜘蛛精，身份是王家少奶奶，与王权富贵签订转世续缘，实力强大，但妖力不高。小时候被王权富贵的师妹虐待，被王权富贵解救种下情根。名字来源王权富贵称其“清我瞳眸”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/fa/40257_crt_p1FIA.jpg?r=1460187342",
+        "link": "https://bgm.tv/character/40257",
+        "categorie": "person"
+      },
+      {
+        "id": "80141",
+        "label": "欢都落兰",
+        "info": "欢都落兰是南国毒皇的女儿，南国的公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/fe/80141_crt_3sqZX.jpg?r=1597380897",
+        "link": "https://bgm.tv/character/80141",
+        "categorie": "person"
+      },
+      {
+        "id": "40258",
+        "label": "涂山雅雅",
+        "info": "九尾天狐，妖盟盟主，为涂山容容，涂山苏苏的姐姐，涂山红红的妹妹，目前为涂山“最强战力”。之前由于对涂山苏苏就是涂山红红的观点持怀疑态度所以对涂山苏苏并不友善，十分思念涂山红红。腰间有一个无尽酒壶，喝了酒之后妖力会大增。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/0f/40258_crt_ThtZl.jpg?r=1460187502",
+        "link": "https://bgm.tv/character/40258",
+        "categorie": "person"
+      },
+      {
+        "id": "40261",
+        "label": "涂山容容",
+        "info": "涂山容容，是《狐妖小红娘》的登场角色之一，目前涂山的二小姐（涂山红红在时是三小姐），温柔腹黑的千面狐妖，具有极高的智商，属于军师一类的角色，被称为“算无遗策的涂山二当家”，并有“千面妖容”的称号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/54/40261_crt_WWPUI.jpg",
+        "link": "https://bgm.tv/character/40261",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36423",
+        "label": "黑骑猛",
+        "info": "東京都江東区出身。警部補。空手の有段者であり、ウィルウェアは近接戦闘特化タイプのストライクインターセプターを着用する。性格は良くも悪くもマイペース。粗忽でデリカシーに欠け、細かい事は気にしない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/b3/36423_crt_aA4Dw.jpg?r=1453206723",
+        "link": "https://bgm.tv/character/36423",
+        "categorie": "person"
+      },
+      {
+        "id": "36424",
+        "label": "濑名飒一郎",
+        "info": "神奈川県横浜市出身。警部補。ゴミの分別を守ることをモットーとするなど、細かいルールにこだわる几帳面な性格の持ち主で、同僚の黒騎とは好対照。ウィルウェアは遠距離射撃特化タイプのエルフΣを着用する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/95/36424_crt_jP7bH.jpg?r=1453206777",
+        "link": "https://bgm.tv/character/36424",
+        "categorie": "person"
+      },
+      {
+        "id": "36425",
+        "label": "花咲里麻美",
+        "info": "19歳にして警部補という天才で、特例として研修期間を終了、その実態を調査報告する密命を帯びて第八係に配属された。ウィルウェアは最新型多機能タイプのファインファミリア。自尊心が強く、やや高飛車だが意外にテンパりやすい一面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/de/36425_crt_aYrde.jpg?r=1453206845",
+        "link": "https://bgm.tv/character/36425",
+        "categorie": "person"
+      },
+      {
+        "id": "42367",
+        "label": "艾米莉亚·埃德尔曼",
+        "info": "2nd中新加入\"第八\"的新人，波兰人，日语非常流利。代号Oscar7，Will Wear名\"Foundation Ω\"。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/65/42367_crt_i444P.jpg?r=1468080606",
+        "link": "https://bgm.tv/character/42367",
+        "categorie": "person"
+      },
+      {
+        "id": "36426",
+        "label": "星宫遥",
+        "info": "巡査部長。普段はオペレーターを務めているが、マルチタスク搭載の情報処理特化タイプのウィルウェアを着用し、現場に出向く場合もある。科学や医学に加えてバス、鉄道、自販機など特定の分野に異様に詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/8f/36426_crt_fX7s6.jpg?r=1453206892",
+        "link": "https://bgm.tv/character/36426",
+        "categorie": "person"
+      },
+      {
+        "id": "36427",
+        "label": "山吹凛",
+        "info": "警視正。小柄ながら第五特別公安課第三機動強襲室第八係室長。小柄な見た目に似合わず頭が切れて弁も立ち、正義や人情よりも職務を重んじる冷徹さを持つ。一方、私生活は極めてずぼらで、家事は同居する妹に依存している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/e6/36427_crt_PFx0D.jpg?r=1453207049",
+        "link": "https://bgm.tv/character/36427",
+        "categorie": "person"
+      },
+      {
+        "id": "42370",
+        "label": "镝木真理藻",
+        "info": "2nd中新加入\"第八\"的新人，极端的视线恐惧症，无法面对面与人交流。只好戴着能够自动遮挡住对话人的眼部的眼镜与人对话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/78/42370_crt_028dQ.jpg?r=1468080471",
+        "link": "https://bgm.tv/character/42370",
+        "categorie": "person"
+      },
+      {
+        "id": "36432",
+        "label": "舩坂康晴",
+        "info": "警部。第五特別公安課第三機動強襲室第八係係長にして最年長。温和で人当たりが良く、室長をはじめとするメンバー全員の過激な言動に対するフォロー役。と同時に、各方面に強力なコネを持つ、頼れるネゴシエイターでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/39/36432_crt_XDW5J.jpg?r=1453207276",
+        "link": "https://bgm.tv/character/36432",
+        "categorie": "person"
+      },
+      {
+        "id": "36429",
+        "label": "协会桑",
+        "info": "運用の平等を図るべく、業務提携する日本外骨格協議会から派遣された民間の技術者。一同からは「協会さん」と呼ばれている。ウィルウェアの整備や調整を担当し、技術的観点からの意見を求められることも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/17/36429_crt_2NxEW.jpg?r=1453207144",
+        "link": "https://bgm.tv/character/36429",
+        "categorie": "person"
+      },
+      {
+        "id": "42372",
+        "label": "阿比盖尔·马丁内斯",
+        "info": "2nd新人物。濑名辞去第八的职务后，在名古屋就职的公司的总务。说着一口奇怪的日语。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/27/42372_crt_o494b.jpg?r=1468080308",
+        "link": "https://bgm.tv/character/42372",
+        "categorie": "person"
+      },
+      {
+        "id": "42374",
+        "label": "协会大人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/f0/42374_crt_DtF3D.jpg?r=1468080690",
+        "link": "https://bgm.tv/character/42374",
+        "categorie": "person"
+      },
+      {
+        "id": "36428",
+        "label": "天野圆",
+        "info": "巡査。オペレーター。地味で無口で目立たない図書委員タイプで、必要最低限のことしか口にせず、プライベートは謎に包まれている。辛いものが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/3f/36428_crt_yorpr.jpg?r=1453207097",
+        "link": "https://bgm.tv/character/36428",
+        "categorie": "person"
+      },
+      {
+        "id": "36434",
+        "label": "神话",
+        "info": "超高層マンションのペントハウスで、モニターと駄菓子と少女たちに囲まれ暮らす正体不明の美少年。犯罪ネットワーク・ロゴスを名乗り、ウィルウェアを操って人と街に混乱をもたらす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/1e/36434_crt_A66Fs.jpg?r=1453207382",
+        "link": "https://bgm.tv/character/36434",
+        "categorie": "person"
+      },
+      {
+        "id": "38227",
+        "label": "稻城光太郎",
+        "info": "议员秘书。第二季成为东京都知事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/3a/38227_crt_o8W7P.jpg",
+        "link": "https://bgm.tv/character/38227",
+        "categorie": "person"
+      },
+      {
+        "id": "38325",
+        "label": "小凑惠里子",
+        "info": "新闻主播",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/c2/38325_crt_zJ9So.jpg?r=1453474498",
+        "link": "https://bgm.tv/character/38325",
+        "categorie": "person"
+      },
+      {
+        "id": "36430",
+        "label": "山吹阳",
+        "info": "室長・山吹凛と同居する、歳の離れた妹で、ごく一部を除き顔も髪型も背格好も凛とウリ二つ。光貴教育学園に通い、生徒会役員も務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/24/36430_crt_bDddF.jpg?r=1453207209",
+        "link": "https://bgm.tv/character/36430",
+        "categorie": "person"
+      },
+      {
+        "id": "36433",
+        "label": "八条司稀",
+        "info": "光貴教育学園の生徒会会長で、陽との接触も多い。部活で大学院レベルの論文を書き上げてしまうほどの頭脳の持ち主でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/72/36433_crt_5G4r9.jpg?r=1453207324",
+        "link": "https://bgm.tv/character/36433",
+        "categorie": "person"
+      },
+      {
+        "id": "36431",
+        "label": "理子",
+        "info": "スマホやＰＣをはじめ、あらゆるデジタルデバイスにインストール可能なメイドさんキャラクター。スケジュールや体調の管理、各種情報のレコメンドなど多彩な機能を持ち、急速にユーザーを増やしつつある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/67/36431_crt_DLLZr.jpg?r=1453206999",
+        "link": "https://bgm.tv/character/36431",
+        "categorie": "person"
+      },
+      {
+        "id": "43694",
+        "label": "鸟越宗助",
+        "info": "\"第九\"所属，集体代号\"Fingers\"其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/84/43694_crt_l86LH.jpg?r=1469704225",
+        "link": "https://bgm.tv/character/43694",
+        "categorie": "person"
+      },
+      {
+        "id": "43692",
+        "label": "丰见城亚树",
+        "info": "\"第九\"所属，集体代号\"Fingers\"其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/40/43692_crt_34L00.jpg?r=1469702488",
+        "link": "https://bgm.tv/character/43692",
+        "categorie": "person"
+      },
+      {
+        "id": "43691",
+        "label": "岛樱由由子",
+        "info": "\"第九\"所属，集体代号\"Fingers\"其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/d4/43691_crt_RSS36.jpg?r=1469702286",
+        "link": "https://bgm.tv/character/43691",
+        "categorie": "person"
+      },
+      {
+        "id": "43693",
+        "label": "三好环奈",
+        "info": "\"第九\"所属，集体代号\"Fingers\"其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/19/43693_crt_27T7j.jpg?r=1469702785",
+        "link": "https://bgm.tv/character/43693",
+        "categorie": "person"
+      },
+      {
+        "id": "43695",
+        "label": "名和大河",
+        "info": "\"第九\"所属，集体代号\"Fingers\"其中一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/f8/43695_crt_m79Zv.jpg?r=1469704249",
+        "link": "https://bgm.tv/character/43695",
+        "categorie": "person"
+      },
+      {
+        "id": "43282",
+        "label": "原口优里亚",
+        "info": "女高中生，被不明人物以1000万日元为诱惑而受了骗装着了带有炸弹的强化装甲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/a7/43282_crt_8J6ME.jpg",
+        "link": "https://bgm.tv/character/43282",
+        "categorie": "person"
+      },
+      {
+        "id": "43284",
+        "label": "子弹蚁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/26/43284_crt_a00wm.jpg",
+        "link": "https://bgm.tv/character/43284",
+        "categorie": "person"
+      },
+      {
+        "id": "43287",
+        "label": "镇守",
+        "info": "新任都知事·稻城光太郎的秘书",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/38/43287_crt_n5JzJ.jpg?r=1473079305",
+        "link": "https://bgm.tv/character/43287",
+        "categorie": "person"
+      },
+      {
+        "id": "43478",
+        "label": "局长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/67/43478_crt_0r4Ua.jpg",
+        "link": "https://bgm.tv/character/43478",
+        "categorie": "person"
+      },
+      {
+        "id": "43479",
+        "label": "雷同",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/03/43479_crt_B5qtW.jpg",
+        "link": "https://bgm.tv/character/43479",
+        "categorie": "person"
+      },
+      {
+        "id": "43480",
+        "label": "白根",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/4d/43480_crt_Sr6Q2.jpg",
+        "link": "https://bgm.tv/character/43480",
+        "categorie": "person"
+      },
+      {
+        "id": "43481",
+        "label": "浅沼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/5e/43481_crt_XU6qK.jpg?r=1468853837",
+        "link": "https://bgm.tv/character/43481",
+        "categorie": "person"
+      },
+      {
+        "id": "43690",
+        "label": "海堂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/fd/43690_crt_5isz7.jpg?r=1469701754",
+        "link": "https://bgm.tv/character/43690",
+        "categorie": "person"
+      },
+      {
+        "id": "39753",
+        "label": "神明天梦",
+        "info": "当红偶像，这么可爱但是是男孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/da/39753_crt_7D2GB.jpg?r=1458921375",
+        "link": "https://bgm.tv/character/39753",
+        "categorie": "person"
+      },
+      {
+        "id": "38513",
+        "label": "A子",
+        "info": "#01时偷了花咲里麻美的警察手册后，被黑骑猛抓获。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/c4/38513_crt_bpNK7.jpg?r=1454062623",
+        "link": "https://bgm.tv/character/38513",
+        "categorie": "person"
+      },
+      {
+        "id": "46871",
+        "label": "林田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/b1/46871_crt_bNMS9.jpg?r=1474912839",
+        "link": "https://bgm.tv/character/46871",
+        "categorie": "person"
+      },
+      {
+        "id": "44160",
+        "label": "Mivv",
+        "info": "山吹阳的同级生，同时做着地下偶像",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/7a/44160_crt_66xw0.jpg?r=1470650138",
+        "link": "https://bgm.tv/character/44160",
+        "categorie": "person"
+      },
+      {
+        "id": "44161",
+        "label": "秋",
+        "info": "山吹阳的朋友",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/2c/44161_crt_kL5Q3.jpg?r=1470650375",
+        "link": "https://bgm.tv/character/44161",
+        "categorie": "person"
+      },
+      {
+        "id": "44164",
+        "label": "近藤",
+        "info": "Mivv的经纪人",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/d0/44164_crt_3555Y.jpg",
+        "link": "https://bgm.tv/character/44164",
+        "categorie": "person"
+      },
+      {
+        "id": "38510",
+        "label": "凡河内美帆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/2f/38510_crt_n2kVP.jpg?r=1454060434",
+        "link": "https://bgm.tv/character/38510",
+        "categorie": "person"
+      },
+      {
+        "id": "44413",
+        "label": "角山博满",
+        "info": "特摄导演",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/46/44413_crt_Dd0DX.jpg?r=1471254244",
+        "link": "https://bgm.tv/character/44413",
+        "categorie": "person"
+      },
+      {
+        "id": "44414",
+        "label": "毛利毅郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/25/44414_crt_xNXx3.jpg?r=1471254542",
+        "link": "https://bgm.tv/character/44414",
+        "categorie": "person"
+      },
+      {
+        "id": "45691",
+        "label": "亚丁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a9/45691_crt_KyeA1.jpg?r=1473080481",
+        "link": "https://bgm.tv/character/45691",
+        "categorie": "person"
+      },
+      {
+        "id": "39120",
+        "label": "小针真孝",
+        "info": "40岁，铁道模型制作者，单身父亲，第七话的犯人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/0e/39120_crt_42aXP.jpg",
+        "link": "https://bgm.tv/character/39120",
+        "categorie": "person"
+      },
+      {
+        "id": "38512",
+        "label": "鸟",
+        "info": "Logos成员之一",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/3f/38512_crt_64IRI.jpg",
+        "link": "https://bgm.tv/character/38512",
+        "categorie": "person"
+      },
+      {
+        "id": "38511",
+        "label": "贝努鸟",
+        "info": "Logos成员之一",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/88/38511_crt_OSsSi.jpg",
+        "link": "https://bgm.tv/character/38511",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

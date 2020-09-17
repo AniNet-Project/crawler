@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8124",
+        "label": "吉妮",
+        "info": "身材高大手持大剑的战士，是李维冒险的伙伴之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/65/8124_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8124",
+        "categorie": "person"
+      },
+      {
+        "id": "11995",
+        "label": "李维",
+        "info": "《魔法战士李维》主角。魔术师基尔德养育的青年。新王国历501年的夏天出生。有强轫的肉体、野性性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/32/11995_crt_A0tMm.jpg",
+        "link": "https://bgm.tv/character/11995",
+        "categorie": "person"
+      },
+      {
+        "id": "11996",
+        "label": "梅莉莎",
+        "info": "战神马伊力的神官，听从马伊力的神喻，虽然非本人所愿意，成为李维的侍从，是李维冒险的伙伴之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/0f/11996_crt_W5xuU.jpg",
+        "link": "https://bgm.tv/character/11996",
+        "categorie": "person"
+      },
+      {
+        "id": "11997",
+        "label": "米蕾儿",
+        "info": "体型娇小的盗贼，是李维冒险的伙伴之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/49/11997_crt_KLlA9.jpg",
+        "link": "https://bgm.tv/character/11997",
+        "categorie": "person"
+      },
+      {
+        "id": "11999",
+        "label": "雷纳得",
+        "info": "リジャールの長男でオーファンの皇太子（つまり、リウイの異母兄弟）。温和な好人物であるが、それがゆえに父王からは物足りなく感じられており、極めて辛い評価を受けている。また覇気のない態度から旧ファン王国貴族を中心とする側近を抑えきれずその暴走を招いてしまうこともあり、物語の一エピソードの背景となっている。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/4d/11999_crt_Fu1jM.jpg",
+        "link": "https://bgm.tv/character/11999",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

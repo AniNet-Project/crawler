@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1805",
+        "label": "天野远子",
+        "info": "圣条学园文艺社社长，井上心叶的学姊。自称‘文学少女’，是把文学书籍一页一页吃下肚子的美食家，因为此行为被井上心叶当作妖怪。但心叶一将远子当成妖怪，远子会立刻反驳：‘我才不是妖怪！我只是个很普通的‘文学少女’啦！’虽然能够吃下一般食物，对本人而言不过是没有味道的无机物罢了。比图书馆委员还熟悉图书馆，且精通文学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/40/1805_crt_c6ogY.jpg?r=1450316962",
+        "link": "https://bgm.tv/character/1805",
+        "categorie": "person"
+      },
+      {
+        "id": "1806",
+        "label": "井上心叶",
+        "info": "本作叙事者。就读于圣条学园二年级。国中三年级时第一次以‘井上美羽’（井上 心叶+朝仓 美羽）为笔名撰写的小说得到文艺杂志大赏，以十四岁的蒙面神秘美少女作家身分出道。因得赏作一炮而红，不只电影、电视剧化，甚至成为社会现象。然而因为某个事件受到过大压力，曾一度成为茧居族。受到此事件的影响，成为与他人的关系能免则免的消极性格，但与天野远子相遇后逐渐回复。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/34/1806_crt_0dlT5.jpg?r=1450316932",
+        "link": "https://bgm.tv/character/1806",
+        "categorie": "person"
+      },
+      {
+        "id": "1807",
+        "label": "琴吹七濑",
+        "info": "心叶的同班同学，担任图书馆委员。爱慕心叶，对其隐藏本心的行为感到愤怒。相当尊敬远子学姊。是拥有茶色头发与超群身材的美人，在班上男同学之间相当受欢迎。极度的傲娇，在心叶面前总是会不自然地说些反话，可见很不擅长恋爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/9a/1807_crt_SLlY3.jpg",
+        "link": "https://bgm.tv/character/1807",
+        "categorie": "person"
+      },
+      {
+        "id": "1811",
+        "label": "芥川一诗",
+        "info": "心叶的同班同学。弓道社社员。身材高大，沉默寡言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/37/1811_crt_83QxZ.jpg",
+        "link": "https://bgm.tv/character/1811",
+        "categorie": "person"
+      },
+      {
+        "id": "1812",
+        "label": "朝仓美羽",
+        "info": "心叶过去的心上人，国中三年级时跳楼自杀。喜欢红茶口味的布丁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/05/1812_crt_E6pO8.jpg",
+        "link": "https://bgm.tv/character/1812",
+        "categorie": "person"
+      },
+      {
+        "id": "1808",
+        "label": "姬仓麻贵",
+        "info": "圣条学园理事长的孙女。管弦乐社社长。被周围的人称作“公主”，拥有欧亚混血儿的美貌。虽然比较喜欢提笔作画，却因为身为理事长孙女的理由被加入管乐社，以担任指挥为交换条件在学校中有作画的专属空间。有许多不知是否为真心的奇特行为。由于位于拥有大量毕业学长的管乐社，是个情报通。远子与心叶向她以某些代价来交换情报，但似乎这样的生活不是她所要的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/aa/1808_crt_8Uizo.jpg?r=1450316974",
+        "link": "https://bgm.tv/character/1808",
+        "categorie": "person"
+      },
+      {
+        "id": "1809",
+        "label": "竹田千爱",
+        "info": "来文艺社寻求情书代笔的少女。就读圣条学园一年级，担任图书馆委员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/cf/1809_crt_awdl0.jpg",
+        "link": "https://bgm.tv/character/1809",
+        "categorie": "person"
+      },
+      {
+        "id": "1810",
+        "label": "樱井流人",
+        "info": "远子寄宿家庭的儿子，对远子来说有如弟弟一般的存在。目前就读高中一年级。喜欢爱恨交织的病态爱情。相当受欢迎，脚踏多条船为家常便饭，不过对雨宫相当执著。在第五集中喜欢上竹田千爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/eb/1810_crt_xvmyH.jpg",
+        "link": "https://bgm.tv/character/1810",
+        "categorie": "person"
+      },
+      {
+        "id": "55675",
+        "label": "森红乐乐",
+        "info": "井上心叶和琴吹七濑的同班同学，是琴吹七濑的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/ba/55675_crt_TY6TQ.jpg",
+        "link": "https://bgm.tv/character/55675",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

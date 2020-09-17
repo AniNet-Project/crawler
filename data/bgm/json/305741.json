@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "78120",
+        "label": "初藤明璃",
+        "info": "専業主婦の36歳。バツイチで、現在の夫である初藤達暢とは10年前に再婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/0f/78120_crt_5979t.jpg",
+        "link": "https://bgm.tv/character/78120",
+        "categorie": "person"
+      },
+      {
+        "id": "78121",
+        "label": "初藤静玖",
+        "info": "明璃の連れ子。偏差値的には中の上程度の女子校に通う3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/a6/78121_crt_uhzpd.jpg",
+        "link": "https://bgm.tv/character/78121",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

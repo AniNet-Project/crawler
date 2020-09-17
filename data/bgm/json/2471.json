@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62299",
+        "label": "凩",
+        "info": "炊事洗濯から近接戦闘、変装術までを自在に操り、オハヨウからオヤスミまでご主人の生活と安全を強引に守り通す無敵のスーパーメイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/42/62299_crt_6Y0xD.jpg",
+        "link": "https://bgm.tv/character/62299",
+        "categorie": "person"
+      },
+      {
+        "id": "4043",
+        "label": "富士原苗香",
+        "info": "私立秀峰制覇学園高校２年Ｃ組に在籍。剣道の腕前はなかなかで女子剣道部副主将を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/9d/4043_crt_228kl.jpg",
+        "link": "https://bgm.tv/character/4043",
+        "categorie": "person"
+      },
+      {
+        "id": "4044",
+        "label": "吹雪",
+        "info": "コガラシと共に派遣された彼の上司にあたるメイドガイテイマー。「氷の微笑」と呼ばれる切れ者メイドだが、富士原家ではすっかりドジッ娘メイド扱いされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/c0/4044_crt_3QwD3.jpg",
+        "link": "https://bgm.tv/character/4044",
+        "categorie": "person"
+      },
+      {
+        "id": "62301",
+        "label": "富士原幸助",
+        "info": "なえかの弟。メイド大好き、美少女フィギュア＆美少女ゲーム大好きな高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/c1/62301_crt_0gy29.jpg",
+        "link": "https://bgm.tv/character/62301",
+        "categorie": "person"
+      },
+      {
+        "id": "4045",
+        "label": "大富士原全重郎",
+        "info": "孫のなえかと幸助を溺愛する大富士原財閥の総帥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/d3/4045_crt_0gSGI.jpg",
+        "link": "https://bgm.tv/character/4045",
+        "categorie": "person"
+      },
+      {
+        "id": "4046",
+        "label": "平野美和",
+        "info": "私立秀峰制覇学園高校２年Ｃ組在籍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/84/4046_crt_f3C9c.jpg",
+        "link": "https://bgm.tv/character/4046",
+        "categorie": "person"
+      },
+      {
+        "id": "4047",
+        "label": "雫",
+        "info": "ツララの妹で、リズに仕えるメイド忍者。リズのお抱えメイド歴はシズクの方が長い。だが忍者としての腕前は、まだまだ未熟である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/44/4047_crt_34yFF.jpg",
+        "link": "https://bgm.tv/character/4047",
+        "categorie": "person"
+      },
+      {
+        "id": "62300",
+        "label": "和泉英子",
+        "info": "私立秀峰制覇学園高校２年Ｃ組在籍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d6/62300_crt_5zz12.jpg",
+        "link": "https://bgm.tv/character/62300",
+        "categorie": "person"
+      },
+      {
+        "id": "62302",
+        "label": "伊丽莎白·K·斯特罗贝利菲尔德",
+        "info": "13歳だが、飛び級でなえかと同じクラスに編入してきた帰国子女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/29/62302_crt_U4FHq.jpg",
+        "link": "https://bgm.tv/character/62302",
+        "categorie": "person"
+      },
+      {
+        "id": "62303",
+        "label": "冰柱",
+        "info": "リズに仕えるくメイド忍者。シズクの双子の姉で、その腕前はシズクの比ではないほどに秀でている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/e9/62303_crt_htM5v.jpg",
+        "link": "https://bgm.tv/character/62303",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

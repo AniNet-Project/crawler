@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4943",
+        "label": "陸奥笑穂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/c0/4943_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4943",
+        "categorie": "person"
+      },
+      {
+        "id": "4944",
+        "label": "芽生百合佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/44/4944_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4944",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57860",
+        "label": "水泽千里",
+        "info": "長野県出身。父は純日本人、母はフランスと日本のハーフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/cd/57860_crt_rLAa2.jpg?r=1507088105",
+        "link": "https://bgm.tv/character/57860",
+        "categorie": "person"
+      },
+      {
+        "id": "57861",
+        "label": "水泽壮良",
+        "info": "東京都出身。優しくて穏やかな性格だが、ここぞという時は男らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/d1/57861_crt_TH7ee.jpg?r=1507729818",
+        "link": "https://bgm.tv/character/57861",
+        "categorie": "person"
+      },
+      {
+        "id": "57862",
+        "label": "白石结",
+        "info": "群馬県出身。妹が2人いる。千里の同期であり、良きライバルでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/6a/57862_crt_ZIZxc.jpg",
+        "link": "https://bgm.tv/character/57862",
+        "categorie": "person"
+      },
+      {
+        "id": "57863",
+        "label": "樱井小春",
+        "info": "北海道出身。現在実家暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/8a/57863_crt_YypYK.jpg",
+        "link": "https://bgm.tv/character/57863",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

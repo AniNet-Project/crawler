@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1",
+        "label": "鲁路修·兰佩路基",
+        "info": "一年前的东京攻略战中，黑色骑士团因为首领Zero的离开而最终战败。之后一年间，鲁路修的Geass能力被人封印而平静的生活在阿什弗德学园，在第二季开头，鲁路修重新与C.C相遇之后，Geass封印被解开，鲁路修也恢复了记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3a/1_crt_h47Z4.jpg",
+        "link": "https://bgm.tv/character/1",
+        "categorie": "person"
+      },
+      {
+        "id": "2",
+        "label": "枢木朱雀",
+        "info": "在第一季的最后，驾驶兰斯洛特向Zero展开了大报复，于战场上活跃，被柯内莉娅晋升为骑士侯。最后在神根岛和鲁路修对决中。从V.V处得知了Geass能力的实质。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/40/2_crt_08diJ.jpg?r=1581939778",
+        "link": "https://bgm.tv/character/2",
+        "categorie": "person"
+      },
+      {
+        "id": "3",
+        "label": "C.C.",
+        "info": "在鲁路修面临生死关头时，给予他Geass的力量救了鲁路修一命。目前寄住在鲁路修家中。但是在R2中只出没于黑色骑士团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/62/3_crt_7Jhis.jpg?r=1573280268",
+        "link": "https://bgm.tv/character/3",
+        "categorie": "person"
+      },
+      {
+        "id": "2243",
+        "label": "红月华莲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/79/2243_crt_8h0mh.jpg?r=1585447435",
+        "link": "https://bgm.tv/character/2243",
+        "categorie": "person"
+      },
+      {
+        "id": "3272",
+        "label": "娜娜莉·兰佩路基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/22/3272_crt_G05s2.jpg?r=1491126097",
+        "link": "https://bgm.tv/character/3272",
+        "categorie": "person"
+      },
+      {
+        "id": "3437",
+        "label": "夏莉·菲内特",
+        "info": "阿什弗德学园高中部二年级学生，鲁路修的同班同学，暗恋鲁路修。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/0e/3437_crt_7oBRc.jpg",
+        "link": "https://bgm.tv/character/3437",
+        "categorie": "person"
+      },
+      {
+        "id": "33549",
+        "label": "藤堂镜志朗",
+        "info": "７年前の対ブリタニア戦で一度も負けなかった伝説の将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/82/33549_crt_3DA0u.jpg?r=1573783037",
+        "link": "https://bgm.tv/character/33549",
+        "categorie": "person"
+      },
+      {
+        "id": "72153",
+        "label": "玉城真一郎",
+        "info": "皇暦1994年3月3日生まれ(24-25歳)。カレンが所属する小規模レジスタンスグループのメンバーの一人。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ab/72153_crt_dx5BU.jpg?r=1570776044",
+        "link": "https://bgm.tv/character/72153",
+        "categorie": "person"
+      },
+      {
+        "id": "72261",
+        "label": "修奈泽尔·EI·布里塔尼亚",
+        "info": "ブリタニア帝国第二皇子。ブリタニア皇帝に次ぐ帝国の実力者で、故・クロヴィスによれば、ルルーシュの母マリアンヌの暗殺事件の真相を知っている人物の一人だといわれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/82/72261_crt_RXe7B.jpg?r=1571118149",
+        "link": "https://bgm.tv/character/72261",
+        "categorie": "person"
+      },
+      {
+        "id": "72262",
+        "label": "迪特哈鲁特·利特",
+        "info": "TV局のプロデューサー。事件があると好奇心全開で謎に迫ろうとするタイプ。 ブリタニア人であるがゼロに興味を持ち、黒の騎士団に参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/5d/72262_crt_k58JK.jpg?r=1571118438",
+        "link": "https://bgm.tv/character/72262",
+        "categorie": "person"
+      },
+      {
+        "id": "21808",
+        "label": "尤菲米亚·Li·布里塔尼亚",
+        "info": "不列颠帝国的第三皇女。性格温和但可爱外表下有着坚强的意志，是王族中少数不排挤日本人（Elevens）的成员之一，对于不列颠采取的种族歧视政策感到心痛。是学生同时也是11区的副总督，在11区遇见朱雀，简称自己为‘尤菲（ユフィ）’。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/1e/21808_crt_yhoZo.jpg?r=1382022116",
+        "link": "https://bgm.tv/character/21808",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

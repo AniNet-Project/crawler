@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19848",
+        "label": "七濑遥",
+        "info": "岩鸢高中高中二年级生，强势直率，做事果断坚决。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/44/19848_crt_W5S4W.jpg?r=1525687751",
+        "link": "https://bgm.tv/character/19848",
+        "categorie": "person"
+      },
+      {
+        "id": "19849",
+        "label": "松冈凛",
+        "info": "鲛柄学园高中二年级生，专攻自由泳（捷泳）以及蝶泳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/6c/19849_crt_rdwk5.jpg?r=1525687756",
+        "link": "https://bgm.tv/character/19849",
+        "categorie": "person"
+      },
+      {
+        "id": "19850",
+        "label": "橘真琴",
+        "info": "岩鸢高中二年级生，专攻仰泳。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/b5/19850_crt_8PCCJ.jpg?r=1525687753",
+        "link": "https://bgm.tv/character/19850",
+        "categorie": "person"
+      },
+      {
+        "id": "19851",
+        "label": "叶月渚",
+        "info": "岩鸢高中一年级生，遥的后辈，专攻蛙泳。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/6e/19851_crt_II7s9.jpg?r=1527291214",
+        "link": "https://bgm.tv/character/19851",
+        "categorie": "person"
+      },
+      {
+        "id": "19852",
+        "label": "龙崎怜",
+        "info": "岩鸢高中一年级生，渚的同班同学，前田径部成员。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/57/19852_crt_31eXl.jpg?r=1527291003",
+        "link": "https://bgm.tv/character/19852",
+        "categorie": "person"
+      },
+      {
+        "id": "20433",
+        "label": "松冈江",
+        "info": "岩鸢高中一年级生，松冈凛的妹妹。自愿加入游泳部当经理，成为了凑齐能成立游泳部的第四人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/47/20433_crt_APpjt.jpg",
+        "link": "https://bgm.tv/character/20433",
+        "categorie": "person"
+      },
+      {
+        "id": "20434",
+        "label": "天方美帆",
+        "info": "遥和真琴的古文教师。 在东京曾当过白领，详细信息不明。 经常慢吞吞的嘀咕着过去伟人们的名言。有着被依靠就不能拒绝的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/af/20434_crt_UH92e.jpg",
+        "link": "https://bgm.tv/character/20434",
+        "categorie": "person"
+      },
+      {
+        "id": "20560",
+        "label": "御子柴清十郎",
+        "info": "鲛柄学园三年级生，目前为鲛柄学园兼具威严与实力的游泳部部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/29/20560_crt_JkJOR.jpg?r=1373515570",
+        "link": "https://bgm.tv/character/20560",
+        "categorie": "person"
+      },
+      {
+        "id": "21268",
+        "label": "似鸟爱一郎",
+        "info": "鲛柄学园一年级生。鲛柄游泳部部员，凛的室友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e7/21268_crt_GPPdB.jpg?r=1527290939",
+        "link": "https://bgm.tv/character/21268",
+        "categorie": "person"
+      },
+      {
+        "id": "26744",
+        "label": "笹部吾朗",
+        "info": "遙たちが通っていたスイミングクラブのコーチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/28/26744_crt_Gl4KU.jpg?r=1410161007",
+        "link": "https://bgm.tv/character/26744",
+        "categorie": "person"
+      },
+      {
+        "id": "26745",
+        "label": "花村千种",
+        "info": "松岡江の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/bc/26745_crt_J2jg5.jpg?r=1410161198",
+        "link": "https://bgm.tv/character/26745",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

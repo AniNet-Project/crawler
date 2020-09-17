@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4708",
+        "label": "ミハル・セナ・カナカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/18/4708_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4708",
+        "categorie": "person"
+      },
+      {
+        "id": "4707",
+        "label": "佐々木雪成",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/d9/4707_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4707",
+        "categorie": "person"
+      },
+      {
+        "id": "4709",
+        "label": "小島桐絵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/9c/4709_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4709",
+        "categorie": "person"
+      },
+      {
+        "id": "4710",
+        "label": "福山和春",
+        "info": "　佐佐木雪成的同班同学，性格高傲，常常喜欢欺负佐佐木雪成，是一个典型的色狼、花花公子和懦夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/8e/4710_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4710",
+        "categorie": "person"
+      },
+      {
+        "id": "4711",
+        "label": "福山リサ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/23/4711_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4711",
+        "categorie": "person"
+      },
+      {
+        "id": "4712",
+        "label": "コヨミ・ハレ・ナナカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/29/4712_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4712",
+        "categorie": "person"
+      },
+      {
+        "id": "4713",
+        "label": "トモカ・ラナ・ジュード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/7d/4713_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4713",
+        "categorie": "person"
+      },
+      {
+        "id": "4714",
+        "label": "小雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/59/4714_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4714",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

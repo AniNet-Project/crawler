@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60931",
+        "label": "松原霞",
+        "info": "主人公の叔父『松原　寿志』の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/f8/60931_crt_tEMek.jpg",
+        "link": "https://bgm.tv/character/60931",
+        "categorie": "person"
+      },
+      {
+        "id": "60932",
+        "label": "浮島春海",
+        "info": "『松原　霞』の妹。２６歳くらい。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/b2/60932_crt_6C9VF.jpg",
+        "link": "https://bgm.tv/character/60932",
+        "categorie": "person"
+      },
+      {
+        "id": "60933",
+        "label": "松原未央",
+        "info": "主人公の従兄妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/cc/60933_crt_4M45q.jpg",
+        "link": "https://bgm.tv/character/60933",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

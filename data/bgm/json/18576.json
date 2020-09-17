@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4160",
+        "label": "笹川京子",
+        "info": "《家庭教师》的女主角，沢田纲吉暗恋的对象。其哥哥笹川了平为沢田纲吉的晴之守护者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/16/4160_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4160",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

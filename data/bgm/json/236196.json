@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64860",
+        "label": "鸠谷小羽",
+        "info": "人の力になることが大好きで、常にポジティブ。やる気は人一倍あるが不器用で運動神経はよくない。中学の終わりに出会ったチアに魅了されはじめることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/7b/64860_crt_6Zr16.jpg?r=1539075084",
+        "link": "https://bgm.tv/character/64860",
+        "categorie": "person"
+      },
+      {
+        "id": "64861",
+        "label": "有马日诘",
+        "info": "チア経験者。まじめボケ。昔所属していたチアリーディングチームで、競技にストイックな姿勢が原因でチームから浮くことになってしまった。普段は無表情気味だが、演技となるといい笑顔に",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/c2/64861_crt_X6Ynm.jpg?r=1539633005",
+        "link": "https://bgm.tv/character/64861",
+        "categorie": "person"
+      },
+      {
+        "id": "64862",
+        "label": "猿渡宇希",
+        "info": "こはねの幼馴染。ツッコミ役。いつも空回りしがちなこはねをフォローしている。一見サバサバ系だが実はかわいいものが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/90/64862_crt_k4ME3.jpg?r=1540452400",
+        "link": "https://bgm.tv/character/64862",
+        "categorie": "person"
+      },
+      {
+        "id": "64863",
+        "label": "馆岛虎彻",
+        "info": "こはねのクラスメイト。自分にあまり自信がなく引っ込み思案だが、思ったことをズバッと言ってしまう一面も。自分の名前がコンプレックス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/ff/64863_crt_L6Bzz.jpg?r=1542128551",
+        "link": "https://bgm.tv/character/64863",
+        "categorie": "person"
+      },
+      {
+        "id": "64864",
+        "label": "牛久花和",
+        "info": "ひづめの元チームメイト。ひづめのことを「先輩」と慕っているが同学年。普段はクールだがひづめのことになると豹変してしまうことも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/93/64864_crt_X3bun.jpg?r=1540960947",
+        "link": "https://bgm.tv/character/64864",
+        "categorie": "person"
+      },
+      {
+        "id": "66406",
+        "label": "犬养老师",
+        "info": "こはねのクラスの担任。 チア同好会のためにこはねたちに何かと協力してくれている。 担当教科は数学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/49/66406_crt_mmr2r.jpg?r=1542786301",
+        "link": "https://bgm.tv/character/66406",
+        "categorie": "person"
+      },
+      {
+        "id": "66407",
+        "label": "鲸井汐凪",
+        "info": "3年生の先輩でバスケ部の部長。こはねたちに試合の応援依頼をしてくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/02/66407_crt_4Xmmk.jpg?r=1544037677",
+        "link": "https://bgm.tv/character/66407",
+        "categorie": "person"
+      },
+      {
+        "id": "66408",
+        "label": "秋常绀",
+        "info": "こはねたちのクラスメイト。 虎徹の友人でもありこはねたちにとある相談を持ち掛ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/29/66408_crt_huqm4.jpg?r=1544262845",
+        "link": "https://bgm.tv/character/66408",
+        "categorie": "person"
+      },
+      {
+        "id": "66409",
+        "label": "红叶谷鹿乃",
+        "info": "家庭科部の部長。バスケ先輩とは同級生でお友達。料理の腕はかなりのもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/54/66409_crt_EQWQW.jpg?r=1544713423",
+        "link": "https://bgm.tv/character/66409",
+        "categorie": "person"
+      },
+      {
+        "id": "66410",
+        "label": "猿渡晓音",
+        "info": "宇希の弟。最近は女の子っぽいものが嫌いなお年頃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/01/66410_crt_6d4aE.jpg?r=1538128324",
+        "link": "https://bgm.tv/character/66410",
+        "categorie": "person"
+      },
+      {
+        "id": "66411",
+        "label": "根古屋铃子",
+        "info": "ひづめと花和と同じチアチームのメンバーだった。珠子とは双子の姉妹。 双子ならではの息の合ったチアをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/c4/66411_crt_m9ZnO.jpg?r=1538128512",
+        "link": "https://bgm.tv/character/66411",
+        "categorie": "person"
+      },
+      {
+        "id": "66412",
+        "label": "根古屋珠子",
+        "info": "ひづめと花和と同じチアチームのメンバーだった。鈴子とは双子の姉妹。 双子ならではの息の合ったチアをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/bb/66412_crt_v2Nxs.jpg?r=1538128680",
+        "link": "https://bgm.tv/character/66412",
+        "categorie": "person"
+      },
+      {
+        "id": "68318",
+        "label": "芦原向日葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/48/68318_crt_fYkie.jpg",
+        "link": "https://bgm.tv/character/68318",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

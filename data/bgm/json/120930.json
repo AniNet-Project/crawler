@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31993",
+        "label": "入江美雪",
+        "info": "“如果有诱敌以外我能胜任的工作的话，真的很想做呢……”",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/32/31993_crt_XkFiA.jpg?r=1431766894",
+        "link": "https://bgm.tv/character/31993",
+        "categorie": "person"
+      },
+      {
+        "id": "31994",
+        "label": "关根诗织",
+        "info": "“试着强硬地立下了恋爱FLAG！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e0/31994_crt_HTetT.jpg?r=1431766834",
+        "link": "https://bgm.tv/character/31994",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

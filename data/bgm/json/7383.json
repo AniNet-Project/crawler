@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4952",
+        "label": "明石薰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/16/4952_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4952",
+        "categorie": "person"
+      },
+      {
+        "id": "4953",
+        "label": "三宫紫穗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/e1/4953_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4953",
+        "categorie": "person"
+      },
+      {
+        "id": "18589",
+        "label": "野上葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/85/18589_crt_zZHPe.jpg",
+        "link": "https://bgm.tv/character/18589",
+        "categorie": "person"
+      },
+      {
+        "id": "18598",
+        "label": "皆本光一",
+        "info": "超能力支援研究局・通称「B.A.B.E.L.（バベル）」の指揮官。階級は二尉。小学5年の自由研究でフェルマーの最終定理に新解を見つけ、18歳で海外の学位を2つ取得するほどの天才。また武術や射撃などにもたけ、料理も完璧という何でもできる男（ちっ！）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/3a/18598_crt_r7Wre.jpg",
+        "link": "https://bgm.tv/character/18598",
+        "categorie": "person"
+      },
+      {
+        "id": "4954",
+        "label": "桐壺帝三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/ba/4954_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4954",
+        "categorie": "person"
+      },
+      {
+        "id": "4956",
+        "label": "梅枝直美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/0b/4956_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4956",
+        "categorie": "person"
+      },
+      {
+        "id": "4957",
+        "label": "兵部京介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e8/4957_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4957",
+        "categorie": "person"
+      },
+      {
+        "id": "18596",
+        "label": "桃太郎",
+        "info": "エスパーへの改造を施されたモモンガ。自由に空中を滑空し口から空気砲をうつこともできる。ユウギリと友達で大概彼女の頭の上か胸に抱かれており、もじもじ気味な彼女に代わってよく喋る。セリフが文字になったときは平仮名とカタカナが逆になる。「ももたろうダゼ！」的な。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8d/18596_crt_t69l3.jpg",
+        "link": "https://bgm.tv/character/18596",
+        "categorie": "person"
+      },
+      {
+        "id": "18597",
+        "label": "贤木修二",
+        "info": "バベルの医療研究課の医師。兵部からは「ヤブ医者」と皮肉と賞賛がまじった呼ばれ方をしているほどの腕の持ち主。皆本の親友であり、良き理解者。またその一方で皆本からは「下半身の管理がいい加減」と言われている。繰り返すが皆本の親友であり、良き理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/d6/18597_crt_MKz35.jpg",
+        "link": "https://bgm.tv/character/18597",
+        "categorie": "person"
+      },
+      {
+        "id": "4955",
+        "label": "常磐奈津子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/ce/4955_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4955",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

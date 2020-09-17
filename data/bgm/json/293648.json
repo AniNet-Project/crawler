@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73688",
+        "label": "炎城烈人",
+        "info": "エグゼレッドとしてキセイ蟲退治をする高校生。初恋の相手・雲母がキセイ蟲によって心を閉ざしてしまったことが許せず、もう誰にもこんな思いをさせたくない一心から、キセイ蟲退治を始めた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/a6/73688_crt_IMkJG.jpg?r=1588399393",
+        "link": "https://bgm.tv/character/73688",
+        "categorie": "person"
+      },
+      {
+        "id": "73689",
+        "label": "星乃云母",
+        "info": "烈人の幼なじみ。学校では「鋼鉄の処女」と呼ばれ、男嫌いの超潔癖主義者だが、実は常人を超える強いエロスを持つ。その事を気にして心を閉ざしていたが、エグゼイエローとして烈人とキセイ蟲退治をすることに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b9/73689_crt_545O9.jpg?r=1588399180",
+        "link": "https://bgm.tv/character/73689",
+        "categorie": "person"
+      },
+      {
+        "id": "73690",
+        "label": "桃园百花",
+        "info": "モデルの姉への対抗心からヒーローになる。エグゼピンク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/2d/73690_crt_91Nb7.jpg?r=1588399242",
+        "link": "https://bgm.tv/character/73690",
+        "categorie": "person"
+      },
+      {
+        "id": "73691",
+        "label": "天空寺宙",
+        "info": "Hな漫画を描くのが趣味。エグゼブルー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/f3/73691_crt_399XC.jpg?r=1588399300",
+        "link": "https://bgm.tv/character/73691",
+        "categorie": "person"
+      },
+      {
+        "id": "73692",
+        "label": "白雪舞姬",
+        "info": "おっとりした性格で、特技がない事が悩み。エグゼホワイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ab/73692_crt_WiiZ0.jpg?r=1588399313",
+        "link": "https://bgm.tv/character/73692",
+        "categorie": "person"
+      },
+      {
+        "id": "80809",
+        "label": "丛雨紫子",
+        "info": "トーキョー支部のエグゼロス。烈人をHネルギーを溜め合う友達・Hフレにしようとアップローチしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/8f/80809_crt_88LHD.jpg?r=1597497766",
+        "link": "https://bgm.tv/character/80809",
+        "categorie": "person"
+      },
+      {
+        "id": "80810",
+        "label": "若草萌萎",
+        "info": "トーキョー支部のエグゼロス。舌っ足らず。百花とは同じ中学校出身",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/37/80810_crt_KrEKi.jpg?r=1597497883",
+        "link": "https://bgm.tv/character/80810",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

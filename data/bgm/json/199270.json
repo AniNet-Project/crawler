@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39074",
+        "label": "田中",
+        "info": "けだるげな高校１年生。基本動かず、頑張らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/df/39074_crt_P9PeZ.jpg?r=1455765533",
+        "link": "https://bgm.tv/character/39074",
+        "categorie": "person"
+      },
+      {
+        "id": "39075",
+        "label": "太田",
+        "info": "一見コワモテだが、実は気配りもできるおかん系男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/c1/39075_crt_NJyvx.jpg?r=1455765607",
+        "link": "https://bgm.tv/character/39075",
+        "categorie": "person"
+      },
+      {
+        "id": "39076",
+        "label": "宫野",
+        "info": "田中のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c7/39076_crt_E1B4n.jpg?r=1455765675",
+        "link": "https://bgm.tv/character/39076",
+        "categorie": "person"
+      },
+      {
+        "id": "39077",
+        "label": "白石",
+        "info": "田中のクラスの委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/83/39077_crt_Sp7SF.jpg?r=1455765766",
+        "link": "https://bgm.tv/character/39077",
+        "categorie": "person"
+      },
+      {
+        "id": "39078",
+        "label": "越前",
+        "info": "スケバン風の女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/08/39078_crt_Oddys.jpg?r=1455765802",
+        "link": "https://bgm.tv/character/39078",
+        "categorie": "person"
+      },
+      {
+        "id": "39079",
+        "label": "田中莉乃",
+        "info": "田中的妹妹。中学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/22/39079_crt_sSzYt.jpg?r=1455765855",
+        "link": "https://bgm.tv/character/39079",
+        "categorie": "person"
+      },
+      {
+        "id": "39080",
+        "label": "太田早夜",
+        "info": "太田の妹。シャイで内気な女の子で、同級生の莉乃とは仲よし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ba/39080_crt_IC9hA.jpg?r=1455765910",
+        "link": "https://bgm.tv/character/39080",
+        "categorie": "person"
+      },
+      {
+        "id": "39081",
+        "label": "志村",
+        "info": "田中のクラスメイト。クールな頭脳派だけど、女子には弱い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/46/39081_crt_87I9A.jpg?r=1455765972",
+        "link": "https://bgm.tv/character/39081",
+        "categorie": "person"
+      },
+      {
+        "id": "39082",
+        "label": "加藤",
+        "info": "田中のクラスメイト。とってもおおらかな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/67/39082_crt_745nx.jpg?r=1455766029",
+        "link": "https://bgm.tv/character/39082",
+        "categorie": "person"
+      },
+      {
+        "id": "41123",
+        "label": "吉高",
+        "info": "白石の親友の一人。あだ名は「きっちゃん」。長身でボーイッシュな黒髪ショートの女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/c0/41123_crt_CqQZC.jpg",
+        "link": "https://bgm.tv/character/41123",
+        "categorie": "person"
+      },
+      {
+        "id": "41124",
+        "label": "三好",
+        "info": "白石の親友の一人。あだ名は「みよちゃん」。やや小柄で泣きぼくろのある青髪の女子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/4a/41124_crt_6411k.jpg",
+        "link": "https://bgm.tv/character/41124",
+        "categorie": "person"
+      },
+      {
+        "id": "42285",
+        "label": "西園寺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/7b/42285_crt_QM5z5.jpg",
+        "link": "https://bgm.tv/character/42285",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

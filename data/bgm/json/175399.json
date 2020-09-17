@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16967",
+        "label": "春原晴子",
+        "info": "在直太面前突然出现的谜样少女。本名为ハルハ・ラハル。自称19岁的“宇宙人”。个性常常傍若无人。所拿的电贝斯是乐器同时也是武器，还有各式各样的用途。想利用直太来达成自己的愿望。在剧中常装扮成护士、女仆及兔女郎。左撇子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/bc/16967_crt_XnOo9.jpg?r=1379608420",
+        "link": "https://bgm.tv/character/16967",
+        "categorie": "person"
+      },
+      {
+        "id": "61885",
+        "label": "雲雀弄ヒドミ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/31/61885_crt_H73N2.jpg?r=1521687432",
+        "link": "https://bgm.tv/character/61885",
+        "categorie": "person"
+      },
+      {
+        "id": "61886",
+        "label": "井出交",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c8/61886_crt_JBWHi.jpg?r=1532598460",
+        "link": "https://bgm.tv/character/61886",
+        "categorie": "person"
+      },
+      {
+        "id": "61887",
+        "label": "森吾郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/e7/61887_crt_yqQcq.jpg",
+        "link": "https://bgm.tv/character/61887",
+        "categorie": "person"
+      },
+      {
+        "id": "61888",
+        "label": "マルコ野方",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/cc/61888_crt_kpHZr.jpg",
+        "link": "https://bgm.tv/character/61888",
+        "categorie": "person"
+      },
+      {
+        "id": "61889",
+        "label": "アイコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/1f/61889_crt_rDUre.jpg",
+        "link": "https://bgm.tv/character/61889",
+        "categorie": "person"
+      },
+      {
+        "id": "61890",
+        "label": "雲雀弄ヒナエ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a3/61890_crt_eQELx.jpg",
+        "link": "https://bgm.tv/character/61890",
+        "categorie": "person"
+      },
+      {
+        "id": "61891",
+        "label": "マスラオ",
+        "info": "アイコの父。常に帽子を目深にかぶっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/3b/61891_crt_3O3Ay.jpg",
+        "link": "https://bgm.tv/character/61891",
+        "categorie": "person"
+      },
+      {
+        "id": "61892",
+        "label": "アイパッチ",
+        "info": "チャンプおじさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/da/61892_crt_VXyxy.jpg",
+        "link": "https://bgm.tv/character/61892",
+        "categorie": "person"
+      },
+      {
+        "id": "61893",
+        "label": "屯吉",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61893",
+        "categorie": "person"
+      },
+      {
+        "id": "61894",
+        "label": "花枝タミ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61894",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

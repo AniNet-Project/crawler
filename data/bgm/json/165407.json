@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38570",
+        "label": "长谷川花子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/1f/38570_crt_43M43.jpg",
+        "link": "https://bgm.tv/character/38570",
+        "categorie": "person"
+      },
+      {
+        "id": "64264",
+        "label": "贞子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/9f/64264_crt_ALYLp.jpg?r=1529939486",
+        "link": "https://bgm.tv/character/64264",
+        "categorie": "person"
+      },
+      {
+        "id": "48935",
+        "label": "八尺大人",
+        "info": "CV：渦井ゆきの",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/4d/48935_crt_5j54p.jpg?r=1480695975",
+        "link": "https://bgm.tv/character/48935",
+        "categorie": "person"
+      },
+      {
+        "id": "50303",
+        "label": "电话玛丽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/c0/50303_crt_P66fA.jpg?r=1485952702",
+        "link": "https://bgm.tv/character/50303",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

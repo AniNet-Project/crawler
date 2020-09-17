@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72255",
+        "label": "阿诺斯·波鲁迪戈乌多",
+        "info": "泰然にして不敵、絶対の力と自信を備え、《暴虐の魔王》と恐れられた男が転生した姿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/41/72255_crt_mN4nR.jpg?r=1596720337",
+        "link": "https://bgm.tv/character/72255",
+        "categorie": "person"
+      },
+      {
+        "id": "72256",
+        "label": "米夏·涅库罗",
+        "info": "寡黙でおとなしいアノスの同級生で、彼の転生後最初にできた友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/77/72256_crt_W9t66.jpg?r=1596720441",
+        "link": "https://bgm.tv/character/72256",
+        "categorie": "person"
+      },
+      {
+        "id": "72257",
+        "label": "莎夏·涅库罗",
+        "info": "ちょっぴり攻撃的で自信家、でも妹と仲間想いなミーシャの双子の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/cc/72257_crt_BYzNF.jpg?r=1596720542",
+        "link": "https://bgm.tv/character/72257",
+        "categorie": "person"
+      },
+      {
+        "id": "78179",
+        "label": "伊莎贝拉",
+        "info": "アノスの母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/34/78179_crt_kPPtl.jpg?r=1594963757",
+        "link": "https://bgm.tv/character/78179",
+        "categorie": "person"
+      },
+      {
+        "id": "78180",
+        "label": "格斯塔",
+        "info": "アノスの父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/6b/78180_crt_u1W28.jpg?r=1594963911",
+        "link": "https://bgm.tv/character/78180",
+        "categorie": "person"
+      },
+      {
+        "id": "78181",
+        "label": "艾米莉亚·路德威尔",
+        "info": "魔王学院デルゾゲード1回生2組の担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/c9/78181_crt_7Mt6t.jpg?r=1594964060",
+        "link": "https://bgm.tv/character/78181",
+        "categorie": "person"
+      },
+      {
+        "id": "78878",
+        "label": "雷伊·格兰兹多利",
+        "info": "《錬魔の剣聖》と称えられながらも、",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/7f/78878_crt_Acu4Y.jpg?r=1596719922",
+        "link": "https://bgm.tv/character/78878",
+        "categorie": "person"
+      },
+      {
+        "id": "78879",
+        "label": "米莎·伊里欧洛古",
+        "info": "白服だが笑顔を絶やさず真面目に",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/bc/78879_crt_yeEAU.jpg?r=1596720138",
+        "link": "https://bgm.tv/character/78879",
+        "categorie": "person"
+      },
+      {
+        "id": "81297",
+        "label": "艾莲欧诺露·碧安卡",
+        "info": "\"母性に溢れた面倒見の良い、",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/96/81297_crt_Y5Kjl.jpg?r=1598721732",
+        "link": "https://bgm.tv/character/81297",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

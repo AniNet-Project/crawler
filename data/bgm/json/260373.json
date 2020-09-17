@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69627",
+        "label": "诺娜",
+        "info": "TVアニメ『少女⇒惑星探査』のヒロイン。作中では少女型惑星探査機九号として知的生命体の探査の任に就く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/98/69627_crt_w42aa.jpg",
+        "link": "https://bgm.tv/character/69627",
+        "categorie": "person"
+      },
+      {
+        "id": "69628",
+        "label": "房伊田春人",
+        "info": "一人暮らしをはじめた社会人オタク。職業は自宅作業のプログラマー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f9/69628_crt_G2aOH.jpg",
+        "link": "https://bgm.tv/character/69628",
+        "categorie": "person"
+      },
+      {
+        "id": "69629",
+        "label": "蓓儿诺雅",
+        "info": "RPG『ドラグリウス・サーガⅣ』の主人公で、ノーナと同じく春人が購入したフィギュアの一体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/84/69629_crt_gKQVv.jpg",
+        "link": "https://bgm.tv/character/69629",
+        "categorie": "person"
+      },
+      {
+        "id": "69630",
+        "label": "天乃原昴",
+        "info": "2D対戦格闘ゲーム『ストライキング・フィストⅢ』に登場する古流武術使いの少女で、動くフィギュアの一体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/88/69630_crt_6tnd9.jpg",
+        "link": "https://bgm.tv/character/69630",
+        "categorie": "person"
+      },
+      {
+        "id": "69631",
+        "label": "オズマ",
+        "info": "TVアニメ『少女⇒惑星探査』に登場するノーナのサポートメカ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b3/69631_crt_hDOA1.jpg",
+        "link": "https://bgm.tv/character/69631",
+        "categorie": "person"
+      },
+      {
+        "id": "69632",
+        "label": "冠成次郎",
+        "info": "春人の友人。一見クールな男だが春人と同じく熱い頑固なオタクで、春人と会うたびにオタク談義を繰り広げ、激しく衝突する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/cf/69632_crt_60TZR.jpg",
+        "link": "https://bgm.tv/character/69632",
+        "categorie": "person"
+      },
+      {
+        "id": "69633",
+        "label": "房伊田美琴",
+        "info": "春人の妹の女子高生でよき理解者。子供の頃春人と一緒に『少女⇒惑星探査』を観ていて、お気に入りのキャラクターはオズマ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/da/69633_crt_sTTRT.jpg",
+        "link": "https://bgm.tv/character/69633",
+        "categorie": "person"
+      },
+      {
+        "id": "69634",
+        "label": "クサビ",
+        "info": "なつかしのTVアニメ『ジョージのトンデモ大冒険』に登場する、いたずら好きの妖精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/04/69634_crt_UEbYg.jpg",
+        "link": "https://bgm.tv/character/69634",
+        "categorie": "person"
+      },
+      {
+        "id": "69635",
+        "label": "リンドウ",
+        "info": "2D格闘ゲーム『ストライキング・フィスト』シリーズの人気キャラ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/e4/69635_crt_ZnZgU.jpg",
+        "link": "https://bgm.tv/character/69635",
+        "categorie": "person"
+      },
+      {
+        "id": "69636",
+        "label": "比等間ルウ",
+        "info": "ソーシャルゲーム『兵器娘ウォーズ』の登場キャラクターで、動くフィギュアの一体。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/13/69636_crt_AhpAi.jpg",
+        "link": "https://bgm.tv/character/69636",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

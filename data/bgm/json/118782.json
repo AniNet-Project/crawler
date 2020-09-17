@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31684",
+        "label": "伊里达游太",
+        "info": "本作の主人公。ある事件がきっかけで、幽体離脱してしまった少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/62/31684_crt_BFyWz.jpg?r=1433325924",
+        "link": "https://bgm.tv/character/31684",
+        "categorie": "person"
+      },
+      {
+        "id": "31685",
+        "label": "成木野美香丹",
+        "info": "ふんわり系アイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/54/31685_crt_iOOBT.jpg?r=1433325881",
+        "link": "https://bgm.tv/character/31685",
+        "categorie": "person"
+      },
+      {
+        "id": "31686",
+        "label": "曳尾谷爱",
+        "info": "ニート。自宅に引きこもっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/f8/31686_crt_7kRvT.jpg?r=1433325946",
+        "link": "https://bgm.tv/character/31686",
+        "categorie": "person"
+      },
+      {
+        "id": "31687",
+        "label": "台初明香",
+        "info": "天才発明家。祖父のことが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/a1/31687_crt_WgknE.jpg?r=1433325963",
+        "link": "https://bgm.tv/character/31687",
+        "categorie": "person"
+      },
+      {
+        "id": "31688",
+        "label": "秩父拉布拉",
+        "info": "インチキ霊媒師。ギャルの様な格好をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/1b/31688_crt_8K6zL.jpg?r=1433325975",
+        "link": "https://bgm.tv/character/31688",
+        "categorie": "person"
+      },
+      {
+        "id": "31689",
+        "label": "千良之助",
+        "info": "遊太につきまとう不思議な猫",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/d1/31689_crt_HQT72.jpg?r=1433325909",
+        "link": "https://bgm.tv/character/31689",
+        "categorie": "person"
+      },
+      {
+        "id": "32175",
+        "label": "台初天华",
+        "info": "大发明家。古来馆旧主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/ac/32175_crt_ntpsd.jpg",
+        "link": "https://bgm.tv/character/32175",
+        "categorie": "person"
+      },
+      {
+        "id": "47380",
+        "label": "寺冈龙都",
+        "info": "バスジャック事件の首謀者。Q-may会の最高幹部を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/0d/47380_crt_9cdDC.jpg?r=1476453404",
+        "link": "https://bgm.tv/character/47380",
+        "categorie": "person"
+      },
+      {
+        "id": "47381",
+        "label": "伊里达秋奈",
+        "info": "遊太の姉。23歳。103号室の本来の住人であり、現在はアメリカに留学中。103号室に愛着を持っており、帰国後は再び住む事を考えている為にその間、弟の遊太を住まわせている。私生活を晒すことに快感を覚える性癖の持ち主で、自室の様子をニコニコ生放送で配信していた。その過程でラブラと知り合った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/7e/47381_crt_t1TD3.jpg",
+        "link": "https://bgm.tv/character/47381",
+        "categorie": "person"
+      },
+      {
+        "id": "33814",
+        "label": "W1",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33814",
+        "categorie": "person"
+      },
+      {
+        "id": "47377",
+        "label": "派因",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/0f/47377_crt_ksRix.jpg",
+        "link": "https://bgm.tv/character/47377",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      },
+      {
+        "id": "47378",
+        "label": "ちよ子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/0e/47378_crt_d1Opz.jpg?r=1476452576",
+        "link": "https://bgm.tv/character/47378",
+        "categorie": "person"
+      },
+      {
+        "id": "47379",
+        "label": "ぐり子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/0b/47379_crt_5G9Gg.jpg?r=1476452565",
+        "link": "https://bgm.tv/character/47379",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

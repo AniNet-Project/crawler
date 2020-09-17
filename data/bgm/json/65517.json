@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35344",
+        "label": "天野哲雄",
+        "info": "天野哲雄（あまの てつお）",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/7f/35344_crt_4vJuc.jpg",
+        "link": "https://bgm.tv/character/35344",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

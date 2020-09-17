@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69170",
+        "label": "佐藤真冬",
+        "info": "印象的な歌声の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/5d/69170_crt_Lll3A.jpg?r=1569424103",
+        "link": "https://bgm.tv/character/69170",
+        "categorie": "person"
+      },
+      {
+        "id": "69171",
+        "label": "上山立夏",
+        "info": "高校生離れしたギターの腕前を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/a9/69171_crt_11T1s.jpg?r=1569424189",
+        "link": "https://bgm.tv/character/69171",
+        "categorie": "person"
+      },
+      {
+        "id": "69172",
+        "label": "中山春树",
+        "info": "大学院生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/11/69172_crt_dhToY.jpg?r=1569424250",
+        "link": "https://bgm.tv/character/69172",
+        "categorie": "person"
+      },
+      {
+        "id": "69173",
+        "label": "梶秋彦",
+        "info": "大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/5d/69173_crt_dcUP2.jpg?r=1569424303",
+        "link": "https://bgm.tv/character/69173",
+        "categorie": "person"
+      },
+      {
+        "id": "70582",
+        "label": "村田雨月",
+        "info": "大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/a6/70582_crt_Dy7k1.jpg?r=1569424381",
+        "link": "https://bgm.tv/character/70582",
+        "categorie": "person"
+      },
+      {
+        "id": "70583",
+        "label": "鹿岛柊",
+        "info": "高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/9d/70583_crt_804Mp.jpg?r=1569424408",
+        "link": "https://bgm.tv/character/70583",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

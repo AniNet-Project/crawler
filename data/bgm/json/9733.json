@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5030",
+        "label": "海津匠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/80/5030_crt_575G5.jpg",
+        "link": "https://bgm.tv/character/5030",
+        "categorie": "person"
+      },
+      {
+        "id": "36175",
+        "label": "海津沙奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/02/36175_crt_50uFi.jpg",
+        "link": "https://bgm.tv/character/36175",
+        "categorie": "person"
+      },
+      {
+        "id": "36176",
+        "label": "海老塚信乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/22/36176_crt_4zS4u.jpg",
+        "link": "https://bgm.tv/character/36176",
+        "categorie": "person"
+      },
+      {
+        "id": "56149",
+        "label": "波多野小奈美",
+        "info": "女主角，是匠的青梅竹马兼邻居兼同班同学兼“免费保姆”兼朋友以上，恋人未满......每天早上到匠家里做饭，一起吃饭后一起上学，中饭一起吃，下午一起回家，途中一起买东西，晚饭也来匠家里做......总之一天除了睡觉不在一起外，其他时间基本都在一起。家事万能，性格更不用说----大和抚子，只是稍稍有点弱气，对匠可谓死心塌地了。喜欢海鸥，喜欢天空，喜欢海，不过讨厌诸如章鱼类的软体系动物。 很可爱且家务万能，还是气质型美女对匠带有一种无法告知的思念 但是…",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/87/56149_crt_5r7bJ.jpg",
+        "link": "https://bgm.tv/character/56149",
+        "categorie": "person"
+      },
+      {
+        "id": "5028",
+        "label": "天野千輪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/e0/5028_crt_jpC9N.jpg",
+        "link": "https://bgm.tv/character/5028",
+        "categorie": "person"
+      },
+      {
+        "id": "5029",
+        "label": "川上由乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/24/5029_crt_3on4L.jpg",
+        "link": "https://bgm.tv/character/5029",
+        "categorie": "person"
+      },
+      {
+        "id": "5031",
+        "label": "島津若菜",
+        "info": "匠的学姐，家境很好，校内很有名气的纯和风大小姐, 姿容秀丽且养在深闺,在古朴的家风下长大,",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/87/5031_crt_lqsjL.jpg?r=1444976678",
+        "link": "https://bgm.tv/character/5031",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

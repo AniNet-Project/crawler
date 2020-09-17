@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "218",
+        "label": "伊达政宗",
+        "info": "暴走族じみた荒武者揃いの伊達軍を束ね奥州から天下を狙う若きカリスマ。その隻眼の風貌から「独眼竜」と渾名され、また伊達軍の兵士達からは「筆頭」と呼ばれ慕われている。他にも「戦場の蒼い稲妻」「伊達男」などの異名を持ち、小十郎と二人組の時は「双竜」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/88/218_crt_eAzaD.jpg",
+        "link": "https://bgm.tv/character/218",
+        "categorie": "person"
+      },
+      {
+        "id": "5697",
+        "label": "真田幸村",
+        "info": "武田信玄に仕える勇猛果敢な若武者。何事にも真っ直ぐ向かい合う心を持つ熱血漢。主君である武田信玄を人生の師として深く敬愛しており、信玄の天下取りのためにその力を奮う。信玄が「甲斐の虎」と呼ばれていることから、その弟子という意味で「虎の若子（わこ）」「若き虎」と呼ばれることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/94/5697_crt_aXmz5.jpg",
+        "link": "https://bgm.tv/character/5697",
+        "categorie": "person"
+      },
+      {
+        "id": "11023",
+        "label": "德川家康",
+        "info": "葵の葉をモチーフにした金色の甲冑に身をまとった少年として描かれている。太陽のように明るい人懐っこさを持つ部下想いの人情家。戦場では一人も部下を失いたくないという信念を持ちながらも、争いのない平和な世の中を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/b0/11023_crt_OY0t8.jpg",
+        "link": "https://bgm.tv/character/11023",
+        "categorie": "person"
+      },
+      {
+        "id": "11026",
+        "label": "石田三成",
+        "info": "関ヶ原の戦いで西軍を率いる総大将。水鳥の嘴のような特徴的な前髪をしている。主君である秀吉を神の如く崇拝しており、秀吉を倒した家康に狂気的な殺意と憎悪を抱いている。「凶王」とあだ名されており、「凶王三成（きょうおうさんせい）」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/62/11026_crt_ZUZ7M.jpg",
+        "link": "https://bgm.tv/character/11026",
+        "categorie": "person"
+      },
+      {
+        "id": "11033",
+        "label": "大谷吉继",
+        "info": "石田三成の盟友であり、三成の補佐を務め西軍をまとめている。移動は輿に乗って行なうが、担ぎ手はおらず輿自体が宙に浮いている。病に冒されており、全身に包帯を巻きつけた格好をしている。三成を始め周囲からは「刑部（ぎょうぶ）」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/a9/11033_crt_55xLL.jpg",
+        "link": "https://bgm.tv/character/11033",
+        "categorie": "person"
+      },
+      {
+        "id": "11037",
+        "label": "长曾我部元亲",
+        "info": "自身を「鬼ヶ島の鬼」「西海の鬼神」と称する、長曾我部家の当主にして総大将。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/81/11037_crt_GPPoU.jpg",
+        "link": "https://bgm.tv/character/11037",
+        "categorie": "person"
+      },
+      {
+        "id": "11042",
+        "label": "前田庆次",
+        "info": "祭と喧嘩が好きな傾奇者。利家とまつの甥っ子だが前田軍配下ではなく、家出して勢力としては独立している。過去の経験とおしどり夫婦である利家とまつの影響からか、天下統一よりも恋した相手を幸せにすることを何より大切に思い、出会う人々に恋とは何か問いかけながら各国を渡り歩く。夢吉という小さな猿をペットとして連れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/38/11042_crt_77re7.jpg",
+        "link": "https://bgm.tv/character/11042",
+        "categorie": "person"
+      },
+      {
+        "id": "5698",
+        "label": "猿飛佐助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/84/5698_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5698",
+        "categorie": "person"
+      },
+      {
+        "id": "5700",
+        "label": "明智光秀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/f5/5700_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5700",
+        "categorie": "person"
+      },
+      {
+        "id": "5702",
+        "label": "前田利家",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/1e/5702_crt_1aEPE.jpg",
+        "link": "https://bgm.tv/character/5702",
+        "categorie": "person"
+      },
+      {
+        "id": "11040",
+        "label": "毛利元就",
+        "info": "毛利家当主。勝利のためには手段を選ばない冷徹な策略家で、兵士のことを捨て駒と言い放ち、多少の犠牲は厭わない。史実の反映か、日輪を篤く信仰している。端正かつ鋭い容姿が印象的で、翼のような長い甲冑を腕に装着している。また常に長い兜を被っており、ゲーム中で着脱するシーンはない。ただしグッズ等では兜を外した姿も多々見られる。頭髪は濃い茶色で、長さは肩より少し上くらい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/a8/11040_crt_2FBI9.jpg",
+        "link": "https://bgm.tv/character/11040",
+        "categorie": "person"
+      },
+      {
+        "id": "11041",
+        "label": "杂贺孙市",
+        "info": "傭兵集団・雑賀衆を率いる三代目頭領。本作では女性として描かれている。雑賀衆が最強であるという自負を持ち、何にも恥じない誇り高い生き様を貫くことを信条としている。先代の時代、織田信長との戦で雑賀衆は一時壊滅状態になったが、彼女が頭領となり、豊臣秀吉と契約することにより現状まで立て直した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/21/11041_crt_13w18.jpg",
+        "link": "https://bgm.tv/character/11041",
+        "categorie": "person"
+      },
+      {
+        "id": "11043",
+        "label": "黑田官兵卫",
+        "info": "豊臣秀吉の下で堂々と天下の座を狙うも、それを危惧した石田三成に南の地に追放された。東西がぶつかり合い新時代が訪れようとしている時、野望を実現するために懲りずに暗い穴倉から出て動き出す。たまに「穴熊」、「暗(くら)の官兵衛」ともあだ名される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/d7/11043_crt_qQpzf.jpg",
+        "link": "https://bgm.tv/character/11043",
+        "categorie": "person"
+      },
+      {
+        "id": "11044",
+        "label": "岛津义弘",
+        "info": "壮年期に武士としての最盛期を迎えた点を元に、酒好きで豪快な薩摩の老将として描写されている。最終目的として、天下を意識していない訳ではないが、それよりも生涯をかけて戦い抜く強者を求めている硬派な剣豪武将である。口調は九州の方言を組み合わせた独特の訛り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/f2/11044_crt_0882u.jpg",
+        "link": "https://bgm.tv/character/11044",
+        "categorie": "person"
+      },
+      {
+        "id": "11045",
+        "label": "鹤姬",
+        "info": "四国の伊予河野の隠し巫女。世にも稀な「先見の目」を持つ預言者。再び訪れた乱世に故郷の海だけでも守りたいと願い、外界へと踏み出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/ca/11045_crt_QeNY7.jpg",
+        "link": "https://bgm.tv/character/11045",
+        "categorie": "person"
+      },
+      {
+        "id": "11046",
+        "label": "阿市",
+        "info": "織田信長の妹であり、浅井長政の妻。絶世の美女だが「信長の妹」という環境が彼女の人格に大きく影響を与えており、内向的かつ自虐的な性格。「これも市のせい…」が口癖。知らず知らずの内に己が美貌を利用して、部下を裏からコントロールする魔性の女としての側面も持つ。その魔性は半兵衛や松永も評価している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/5a/11046_crt_40RB7.jpg",
+        "link": "https://bgm.tv/character/11046",
+        "categorie": "person"
+      },
+      {
+        "id": "27247",
+        "label": "织田信长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/fd/27247_crt_kwI3s.jpg",
+        "link": "https://bgm.tv/character/27247",
+        "categorie": "person"
+      },
+      {
+        "id": "11035",
+        "label": "本多忠胜",
+        "info": "徳川軍の武将。逸話では「五十七度戦に出て、傷一つ負わなかった」と謳われる猛将で、本作では傷一つ付けられないロボット型武将と化している。登場時の演出の書き文字も「起動」となっている。大胆な解釈によるキャラクター造形だが、外見は一般的な本多忠勝のイメージを維持している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/c0/11035_crt_KLfdF.jpg",
+        "link": "https://bgm.tv/character/11035",
+        "categorie": "person"
+      },
+      {
+        "id": "11047",
+        "label": "疯魔小太郎",
+        "info": "北条氏政に金で雇われた傭兵。伝説の忍と呼ばれる恐ろしく腕の立つ忍。時として「風の悪魔」とも称される。シンボルカラーは白黒。話さないだけか本当に声を発せないのか、非常に無口で全く喋らない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/f9/11047_crt_nHzy9.jpg",
+        "link": "https://bgm.tv/character/11047",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

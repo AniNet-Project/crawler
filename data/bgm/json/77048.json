@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57900",
+        "label": "七色缎带",
+        "info": "主人公。17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/92/57900_crt_mbqVY.jpg",
+        "link": "https://bgm.tv/character/57900",
+        "categorie": "person"
+      },
+      {
+        "id": "57901",
+        "label": "铃",
+        "info": "使い魔のジェットにスカウトされ、本人の了解を得ないまま、有無を言わさず魔法少女にされてしまった女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/23/57901_crt_cBqGc.jpg",
+        "link": "https://bgm.tv/character/57901",
+        "categorie": "person"
+      },
+      {
+        "id": "57902",
+        "label": "石榴子",
+        "info": "屋敷の家庭菜園に仕掛けた罠に引っかかった使い魔のタンクへ、「命が惜しくば私を魔法少女にしなさい」と迫って魔法少女になった女子高生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/29/57902_crt_v514I.jpg",
+        "link": "https://bgm.tv/character/57902",
+        "categorie": "person"
+      },
+      {
+        "id": "57903",
+        "label": "巴尔子",
+        "info": "ひょんなことから魔法少女になって以後、自分を「世界を滅ぼす魔女」と勝手に設定して、",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/bc/57903_crt_9fbRk.jpg",
+        "link": "https://bgm.tv/character/57903",
+        "categorie": "person"
+      },
+      {
+        "id": "57904",
+        "label": "娜德",
+        "info": "アキバブログでアルバイトをしながら、番組へときどき顔を出す女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/03/57904_crt_S0qDl.jpg",
+        "link": "https://bgm.tv/character/57904",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

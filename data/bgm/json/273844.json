@@ -1,0 +1,429 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72366",
+        "label": "铃木入间",
+        "info": "極度のお人よしで心優しい少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/7f/72366_crt_Zq25V.jpg?r=1572096923",
+        "link": "https://bgm.tv/character/72366",
+        "categorie": "person"
+      },
+      {
+        "id": "72367",
+        "label": "アスモデウス・アリス",
+        "info": "火炎系魔術を得意とする、入試首席の優等生悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c5/72367_crt_E6CwS.jpg?r=1572096928",
+        "link": "https://bgm.tv/character/72367",
+        "categorie": "person"
+      },
+      {
+        "id": "72368",
+        "label": "ウァラク・クララ",
+        "info": "元気で明るい女子悪魔。まったく落ち着きがなく騒がしいため、周囲から変人・珍獣扱いされている。入間の優しさに触れて感動し、互いに心を通わせたオトモダチになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/1d/72368_crt_xXQJe.jpg?r=1572096885",
+        "link": "https://bgm.tv/character/72368",
+        "categorie": "person"
+      },
+      {
+        "id": "72369",
+        "label": "アザゼル・アメリ",
+        "info": "気高く美しい悪魔学校（バビルス）の生徒会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/6b/72369_crt_OkobW.jpg?r=1572096935",
+        "link": "https://bgm.tv/character/72369",
+        "categorie": "person"
+      },
+      {
+        "id": "72370",
+        "label": "ナベリウス・カルエゴ",
+        "info": "非常に厳粛な悪魔学校（バビルス）の教師。口癖は「粛に」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/8c/72370_crt_rAsKZ.jpg?r=1572096878",
+        "link": "https://bgm.tv/character/72370",
+        "categorie": "person"
+      },
+      {
+        "id": "72371",
+        "label": "サブノック・サブロ",
+        "info": "魔界で数百年間「空席」となっている魔王の座を狙う熱血漢の悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/74/72371_crt_5K5YC.jpg?r=1572096942",
+        "link": "https://bgm.tv/character/72371",
+        "categorie": "person"
+      },
+      {
+        "id": "72372",
+        "label": "サリバン",
+        "info": "入間を魔界に迎え入れた張本人。ケタ外れの魔力を持つ悪魔学校（バビルス）の理事長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/c7/72372_crt_yN115.jpg?r=1572096946",
+        "link": "https://bgm.tv/character/72372",
+        "categorie": "person"
+      },
+      {
+        "id": "72373",
+        "label": "オペラ",
+        "info": "寡黙で優秀なサリバンの執事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/cf/72373_crt_Clt9y.jpg?r=1572096952",
+        "link": "https://bgm.tv/character/72373",
+        "categorie": "person"
+      },
+      {
+        "id": "72374",
+        "label": "くろむ",
+        "info": "ライブのチケットが即完売する、魔界の人気アクドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/4f/72374_crt_7WdDN.jpg?r=1572096958",
+        "link": "https://bgm.tv/character/72374",
+        "categorie": "person"
+      },
+      {
+        "id": "74357",
+        "label": "アミィ・キリヲ",
+        "info": "魔力も身体も弱い先輩悪魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/12/74357_crt_4zKOw.jpg",
+        "link": "https://bgm.tv/character/74357",
+        "categorie": "person"
+      },
+      {
+        "id": "77256",
+        "label": "ザガン・ジョニー・ウエスタン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/25/77256_crt_PpIal.jpg?r=1590140784",
+        "link": "https://bgm.tv/character/77256",
+        "categorie": "person"
+      },
+      {
+        "id": "77258",
+        "label": "キマリス・キッシュライト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/cf/77258_crt_X0A20.jpg",
+        "link": "https://bgm.tv/character/77258",
+        "categorie": "person"
+      },
+      {
+        "id": "77260",
+        "label": "エイコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/69/77260_crt_5I0NY.jpg",
+        "link": "https://bgm.tv/character/77260",
+        "categorie": "person"
+      },
+      {
+        "id": "77271",
+        "label": "アヅキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/92/77271_crt_dw05B.jpg",
+        "link": "https://bgm.tv/character/77271",
+        "categorie": "person"
+      },
+      {
+        "id": "77272",
+        "label": "ドサンコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/f1/77272_crt_ShGs4.jpg",
+        "link": "https://bgm.tv/character/77272",
+        "categorie": "person"
+      },
+      {
+        "id": "77274",
+        "label": "ハルノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/b6/77274_crt_B8zQk.jpg",
+        "link": "https://bgm.tv/character/77274",
+        "categorie": "person"
+      },
+      {
+        "id": "77275",
+        "label": "ガー子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/d8/77275_crt_Tyy8V.jpg",
+        "link": "https://bgm.tv/character/77275",
+        "categorie": "person"
+      },
+      {
+        "id": "77284",
+        "label": "ダンダリオン・ダリ",
+        "info": "バビルス魔界歴史学教師。口癖は「建前は以上!」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/13/77284_crt_J5n98.jpg",
+        "link": "https://bgm.tv/character/77284",
+        "categorie": "person"
+      },
+      {
+        "id": "77288",
+        "label": "カムカムさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/cd/77288_crt_8qro8.jpg",
+        "link": "https://bgm.tv/character/77288",
+        "categorie": "person"
+      },
+      {
+        "id": "77291",
+        "label": "アガレス・ピケロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/1f/77291_crt_oWW10.jpg",
+        "link": "https://bgm.tv/character/77291",
+        "categorie": "person"
+      },
+      {
+        "id": "77292",
+        "label": "アロケル・シュナイダー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/46/77292_crt_tYtT9.jpg",
+        "link": "https://bgm.tv/character/77292",
+        "categorie": "person"
+      },
+      {
+        "id": "77293",
+        "label": "アンドロ・M・ジャズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/ea/77293_crt_SgQmi.jpg",
+        "link": "https://bgm.tv/character/77293",
+        "categorie": "person"
+      },
+      {
+        "id": "77294",
+        "label": "イクス・エリザベッタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/90/77294_crt_XlqVB.jpg",
+        "link": "https://bgm.tv/character/77294",
+        "categorie": "person"
+      },
+      {
+        "id": "77295",
+        "label": "カイム・カムイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/82/77295_crt_50z5v.jpg",
+        "link": "https://bgm.tv/character/77295",
+        "categorie": "person"
+      },
+      {
+        "id": "77296",
+        "label": "ガープ・ゴエモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/a2/77296_crt_sHk5t.jpg",
+        "link": "https://bgm.tv/character/77296",
+        "categorie": "person"
+      },
+      {
+        "id": "77297",
+        "label": "クロケル・ケロリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/4f/77297_crt_hhQ80.jpg",
+        "link": "https://bgm.tv/character/77297",
+        "categorie": "person"
+      },
+      {
+        "id": "77298",
+        "label": "シャックス・リード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/a6/77298_crt_dW4up.jpg",
+        "link": "https://bgm.tv/character/77298",
+        "categorie": "person"
+      },
+      {
+        "id": "77342",
+        "label": "ストラス・スージー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/46/77342_crt_YSUNN.jpg",
+        "link": "https://bgm.tv/character/77342",
+        "categorie": "person"
+      },
+      {
+        "id": "77343",
+        "label": "バルス・ロビン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/54/77343_crt_Zf663.jpg",
+        "link": "https://bgm.tv/character/77343",
+        "categorie": "person"
+      },
+      {
+        "id": "77344",
+        "label": "コナツ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/37/77344_crt_khF8c.jpg",
+        "link": "https://bgm.tv/character/77344",
+        "categorie": "person"
+      },
+      {
+        "id": "77346",
+        "label": "ライム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/96/77346_crt_uTTPH.jpg",
+        "link": "https://bgm.tv/character/77346",
+        "categorie": "person"
+      },
+      {
+        "id": "77372",
+        "label": "サブノック・シルビア",
+        "info": "サブノック家長女。サブロの妹。語尾に「ス」が特徴の美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/b4/77372_crt_Z9RH6.jpg",
+        "link": "https://bgm.tv/character/77372",
+        "categorie": "person"
+      },
+      {
+        "id": "77373",
+        "label": "マルバス・マーチ",
+        "info": "拷問学教師。時折登場する、黒髪セミロングで額が出ている男。ロビンからは「ジミー先生」と呼ばれた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/14/77373_crt_y0qld.jpg",
+        "link": "https://bgm.tv/character/77373",
+        "categorie": "person"
+      },
+      {
+        "id": "77374",
+        "label": "ダヴィデ",
+        "info": "アスモデウス家執事長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/a8/77374_crt_G2kb1.jpg",
+        "link": "https://bgm.tv/character/77374",
+        "categorie": "person"
+      },
+      {
+        "id": "77375",
+        "label": "ベルゼビュート",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/cf/77375_crt_wX8NV.jpg",
+        "link": "https://bgm.tv/character/77375",
+        "categorie": "person"
+      },
+      {
+        "id": "77377",
+        "label": "アマイモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/59/77377_crt_0m40U.jpg",
+        "link": "https://bgm.tv/character/77377",
+        "categorie": "person"
+      },
+      {
+        "id": "77378",
+        "label": "ベヘモルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/71/77378_crt_r0M81.jpg",
+        "link": "https://bgm.tv/character/77378",
+        "categorie": "person"
+      },
+      {
+        "id": "77379",
+        "label": "パイモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/4d/77379_crt_DMBhR.jpg",
+        "link": "https://bgm.tv/character/77379",
+        "categorie": "person"
+      },
+      {
+        "id": "77380",
+        "label": "バール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/25/77380_crt_fCFLC.jpg",
+        "link": "https://bgm.tv/character/77380",
+        "categorie": "person"
+      },
+      {
+        "id": "77381",
+        "label": "アザゼル・アンリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b9/77381_crt_4cpwG.jpg",
+        "link": "https://bgm.tv/character/77381",
+        "categorie": "person"
+      },
+      {
+        "id": "77382",
+        "label": "ベリアール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/37/77382_crt_81uY8.jpg",
+        "link": "https://bgm.tv/character/77382",
+        "categorie": "person"
+      },
+      {
+        "id": "77383",
+        "label": "レディ・レヴィ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/6f/77383_crt_UU39g.jpg",
+        "link": "https://bgm.tv/character/77383",
+        "categorie": "person"
+      },
+      {
+        "id": "77387",
+        "label": "バディン・バラキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/ee/77387_crt_2bCgB.jpg",
+        "link": "https://bgm.tv/character/77387",
+        "categorie": "person"
+      },
+      {
+        "id": "77402",
+        "label": "アスモデウス・アムリリス",
+        "info": "アスモデウス家現当主。妖艶の美女でアリスの実母。ライムの師匠。一人称は「アムちゃん」。息子のアリスをちゃん付けで呼ぶほど溺愛している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c8/77402_crt_K6kSC.jpg",
+        "link": "https://bgm.tv/character/77402",
+        "categorie": "person"
+      },
+      {
+        "id": "77403",
+        "label": "クララ母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/8d/77403_crt_GeXgz.jpg",
+        "link": "https://bgm.tv/character/77403",
+        "categorie": "person"
+      },
+      {
+        "id": "77404",
+        "label": "マルさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/37/77404_crt_GNgMZ.jpg",
+        "link": "https://bgm.tv/character/77404",
+        "categorie": "person"
+      },
+      {
+        "id": "77405",
+        "label": "ケロリの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/1e/77405_crt_pi7Dv.jpg",
+        "link": "https://bgm.tv/character/77405",
+        "categorie": "person"
+      },
+      {
+        "id": "77406",
+        "label": "ナギ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/70/77406_crt_1R2PR.jpg",
+        "link": "https://bgm.tv/character/77406",
+        "categorie": "person"
+      },
+      {
+        "id": "77299",
+        "label": "プルソン・ソイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/42/77299_crt_tVC8o.jpg",
+        "link": "https://bgm.tv/character/77299",
+        "categorie": "person"
+      },
+      {
+        "id": "77345",
+        "label": "モラクス・モモノキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/9f/77345_crt_o2k3l.jpg",
+        "link": "https://bgm.tv/character/77345",
+        "categorie": "person"
+      },
+      {
+        "id": "77376",
+        "label": "アスタロウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/89/77376_crt_LhVHH.jpg",
+        "link": "https://bgm.tv/character/77376",
+        "categorie": "person"
+      },
+      {
+        "id": "77386",
+        "label": "ガルゥ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/0c/77386_crt_l3h8l.jpg",
+        "link": "https://bgm.tv/character/77386",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

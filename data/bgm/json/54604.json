@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45251",
+        "label": "三条真希",
+        "info": "名門お嬢様学校・私立桜桃女子学園に通う、眉目秀麗・容姿端麗な才女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/78/45251_crt_AweyD.jpg",
+        "link": "https://bgm.tv/character/45251",
+        "categorie": "person"
+      },
+      {
+        "id": "45252",
+        "label": "三条由希",
+        "info": "内向的で人見知りが激しい、引っ込み思案な恥ずかしがり屋さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/c9/45252_crt_mkUs8.jpg",
+        "link": "https://bgm.tv/character/45252",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

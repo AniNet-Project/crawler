@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42536",
+        "label": "坂上步美／回声天使",
+        "info": "『映画プリキュアオールスターズNewStage みらいのともだち』の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/2f/42536_crt_ZCB87.jpg",
+        "link": "https://bgm.tv/character/42536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

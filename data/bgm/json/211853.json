@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5150",
+        "label": "兜甲儿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c0/5150_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5150",
+        "categorie": "person"
+      },
+      {
+        "id": "5500",
+        "label": "弓さやか",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/92/5500_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5500",
+        "categorie": "person"
+      },
+      {
+        "id": "5507",
+        "label": "魔神Z",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/e5/5507_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5507",
+        "categorie": "person"
+      },
+      {
+        "id": "5502",
+        "label": "Dr.ヘル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d4/5502_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5502",
+        "categorie": "person"
+      },
+      {
+        "id": "5517",
+        "label": "ボス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/7c/5517_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5517",
+        "categorie": "person"
+      },
+      {
+        "id": "5518",
+        "label": "せわし",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/5518",
+        "categorie": "person"
+      },
+      {
+        "id": "66066",
+        "label": "リサ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/11/66066_crt_RmsBs.jpg",
+        "link": "https://bgm.tv/character/66066",
+        "categorie": "person"
+      },
+      {
+        "id": "74571",
+        "label": "剑铁也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/15/74571_crt_q99kE.jpg",
+        "link": "https://bgm.tv/character/74571",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13431",
+        "label": "近卫昴",
+        "info": "大小姐（凉月奏）的17岁的管家。以“俺（ore）”自称。从小便是凉月奏的管家，患有刀具恐惧症。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/09/13431_crt_4X7Cr.jpg",
+        "link": "https://bgm.tv/character/13431",
+        "categorie": "person"
+      },
+      {
+        "id": "13432",
+        "label": "坂町近次郎",
+        "info": "主人公，被称作“次郎”，五岁起受到母亲的斯巴达训练，不敢面对女人作为出气筒一样的人。因母亲及其妹妹的行为，对身体产生负面的影响，只要被女生碰到，会心跳加速，最坏的时候鼻子流着血会导致暂时性休克的女生恐惧症。此外，因他的名字-坂町“近”次郎的读音，因此小说也翻译叫“没种男的烦恼（日文chichen桑=没种先生）",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/e1/13432_crt_8jbjA.jpg",
+        "link": "https://bgm.tv/character/13432",
+        "categorie": "person"
+      },
+      {
+        "id": "13434",
+        "label": "凉月奏",
+        "info": "昴的主人。一眼看去就是个大小姐，内心里却喜欢恶作剧，最喜欢使人感到有趣的东西。被知道实质的近次郎称之为“Devil凉月”。是个S。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/72/13434_crt_3T9R3.jpg",
+        "link": "https://bgm.tv/character/13434",
+        "categorie": "person"
+      },
+      {
+        "id": "13433",
+        "label": "坂町红羽",
+        "info": "近次郎的妹妹。很喜欢哥哥，对爱情的表现为嫉妒。很有活力很可爱，继承了母亲的摔跤技颇——每天早上被妹妹作为沙包，这令男主角很困扰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/bb/13433_crt_Rsdpx.jpg",
+        "link": "https://bgm.tv/character/13433",
+        "categorie": "person"
+      },
+      {
+        "id": "13435",
+        "label": "宇佐美政宗",
+        "info": "与主角同年级。和坂町红羽一样在手艺部，S4部员，名字虽叫政宗，性别却是女，被次郎称为“黑心兔子”，被红羽称为“小美美”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/bb/13435_crt_KyAkX.jpg",
+        "link": "https://bgm.tv/character/13435",
+        "categorie": "person"
+      },
+      {
+        "id": "13436",
+        "label": "鸣海奈香流",
+        "info": "“用温暖的目光守望昴大人会”的会长，最喜欢眼镜（所谓的眼镜控）。被红羽称为“奈流奈流”。是“迷路的羔羊”厂家老板的女儿。有个麻烦的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/89/13436_crt_XzNHV.jpg",
+        "link": "https://bgm.tv/character/13436",
+        "categorie": "person"
+      },
+      {
+        "id": "13581",
+        "label": "早乙女苺",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/3d/13581_crt_WUik9.jpg",
+        "link": "https://bgm.tv/character/13581",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      },
+      {
+        "id": "14618",
+        "label": "末永未来",
+        "info": "末永未來（Mirai Suenaga）[末永みらい]是丹尼周和插畫家Azami Yuko一同設計的Culture Japan（dannychoo.com）吉祥人物。未來在2007年開始只是一個在網站角落的插畫，但這幾年來在全球各地累積了一定的人氣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/91/14618_crt_7DHN8.jpg?r=1493677760",
+        "link": "https://bgm.tv/character/14618",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

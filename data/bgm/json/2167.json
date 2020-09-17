@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9593",
+        "label": "ヒカリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/a0/9593_crt_5J49J.jpg",
+        "link": "https://bgm.tv/character/9593",
+        "categorie": "person"
+      },
+      {
+        "id": "9594",
+        "label": "二ノ宮リョウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/fb/9594_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9594",
+        "categorie": "person"
+      },
+      {
+        "id": "9595",
+        "label": "ジェニファー・ポートマン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/90/9595_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9595",
+        "categorie": "person"
+      },
+      {
+        "id": "9596",
+        "label": "紅林浴香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/b4/9596_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9596",
+        "categorie": "person"
+      },
+      {
+        "id": "9597",
+        "label": "浅倉晋一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/87/9597_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9597",
+        "categorie": "person"
+      },
+      {
+        "id": "9598",
+        "label": "西野澄恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/92/9598_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9598",
+        "categorie": "person"
+      },
+      {
+        "id": "9599",
+        "label": "吉田まゆ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/1a/9599_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9599",
+        "categorie": "person"
+      },
+      {
+        "id": "9600",
+        "label": "アイオニオス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/51/9600_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9600",
+        "categorie": "person"
+      },
+      {
+        "id": "9620",
+        "label": "竹本タケル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/5a/9620_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9620",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

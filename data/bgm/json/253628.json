@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64750",
+        "label": "橘瑠衣",
+        "info": "桜川高校に通う高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/8c/64750_crt_ddGJ3.jpg?r=1539251189",
+        "link": "https://bgm.tv/character/64750",
+        "categorie": "person"
+      },
+      {
+        "id": "64751",
+        "label": "橘阳菜",
+        "info": "赤森高校の英語教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a9/64751_crt_JDsVv.jpg?r=1539251192",
+        "link": "https://bgm.tv/character/64751",
+        "categorie": "person"
+      },
+      {
+        "id": "65945",
+        "label": "藤井夏生",
+        "info": "小説家志望の男子高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/7d/65945_crt_B6KME.jpg?r=1539251187",
+        "link": "https://bgm.tv/character/65945",
+        "categorie": "person"
+      },
+      {
+        "id": "68028",
+        "label": "柾冈悠弥",
+        "info": "夏生的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/c6/68028_crt_303jw.jpg?r=1547029922",
+        "link": "https://bgm.tv/character/68028",
+        "categorie": "person"
+      },
+      {
+        "id": "68029",
+        "label": "木根和志",
+        "info": "夏生的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/4a/68029_crt_oA6L4.jpg?r=1547029952",
+        "link": "https://bgm.tv/character/68029",
+        "categorie": "person"
+      },
+      {
+        "id": "66664",
+        "label": "柏原桃",
+        "info": "巨乳で、胸を持ち上げるとほくろがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/58/66664_crt_saaLK.jpg?r=1547029995",
+        "link": "https://bgm.tv/character/66664",
+        "categorie": "person"
+      },
+      {
+        "id": "66665",
+        "label": "苇原美雨",
+        "info": "文芸部の部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/c6/66665_crt_ZNXFF.jpg?r=1547030060",
+        "link": "https://bgm.tv/character/66665",
+        "categorie": "person"
+      },
+      {
+        "id": "66735",
+        "label": "栗本文哉",
+        "info": "夏生从幼儿园起就认识的青梅竹马，是夏生能交心的好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/9b/66735_crt_8H8oh.jpg?r=1547030117",
+        "link": "https://bgm.tv/character/66735",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

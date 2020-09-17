@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "320",
+        "label": "路克·冯·法布雷",
+        "info": "Luke fone Fabre，17岁。（CV：鈴木千尋）",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1d/320_crt_Tdh98.jpg?r=1594787030",
+        "link": "https://bgm.tv/character/320",
+        "categorie": "person"
+      },
+      {
+        "id": "321",
+        "label": "缇雅·古兰茨",
+        "info": "Tear Grants，16岁。（CV：ゆかな）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/f1/321_48fgU.jpg",
+        "link": "https://bgm.tv/character/321",
+        "categorie": "person"
+      },
+      {
+        "id": "322",
+        "label": "杰德·卡提斯",
+        "info": "Jade Curtiss，35岁。（CV：子安武人）",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/9f/322_crt_oqc9C.jpg",
+        "link": "https://bgm.tv/character/322",
+        "categorie": "person"
+      },
+      {
+        "id": "323",
+        "label": "阿妮丝·塔特林",
+        "info": "Anise Tatlin，13岁。（CV：桃井はるこ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/6d/323_jLZU7.jpg",
+        "link": "https://bgm.tv/character/323",
+        "categorie": "person"
+      },
+      {
+        "id": "324",
+        "label": "凯·塞西尔",
+        "info": "Guy Cecil，21岁。（CV：松本保典）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/fc/324_93ewI.jpg",
+        "link": "https://bgm.tv/character/324",
+        "categorie": "person"
+      },
+      {
+        "id": "325",
+        "label": "娜塔莉亚·露茨·吉姆拉斯卡·蓝巴尔迪亚",
+        "info": "Natalia Luzu Kimlasca-Lanvaldear，18岁。（CV：根谷美智子）",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/f0/325_rYyiI.jpg",
+        "link": "https://bgm.tv/character/325",
+        "categorie": "person"
+      },
+      {
+        "id": "413",
+        "label": "咪呜",
+        "info": "Mieu。（CV：丸山美紀）",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/eb/413_EwmT1.jpg",
+        "link": "https://bgm.tv/character/413",
+        "categorie": "person"
+      },
+      {
+        "id": "414",
+        "label": "梵·古兰茨",
+        "info": "Van Grants，27岁。（CV：中田譲治）",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/80/414_AItJX.jpg",
+        "link": "https://bgm.tv/character/414",
+        "categorie": "person"
+      },
+      {
+        "id": "326",
+        "label": "伊昂",
+        "info": "Ion，14岁。（CV：小林由美子）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/66/326_2ysWO.jpg",
+        "link": "https://bgm.tv/character/326",
+        "categorie": "person"
+      },
+      {
+        "id": "6358",
+        "label": "アッシュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/07/6358_crt_44Dvw.jpg",
+        "link": "https://bgm.tv/character/6358",
+        "categorie": "person"
+      },
+      {
+        "id": "6359",
+        "label": "リグレット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/db/6359_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6359",
+        "categorie": "person"
+      },
+      {
+        "id": "6360",
+        "label": "烈風のシンク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/d2/6360_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6360",
+        "categorie": "person"
+      },
+      {
+        "id": "78043",
+        "label": "ディスト",
+        "info": "ローレライ教団の教団兵「神託の盾（オラクル）騎士団」の幹部「六神将」の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/c4/78043_crt_QYBoa.jpg?r=1594117036",
+        "link": "https://bgm.tv/character/78043",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

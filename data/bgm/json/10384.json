@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11576",
+        "label": "今河骏",
+        "info": "30岁，童贞，死板理科男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/0e/11576_crt_Tf6BB.jpg",
+        "link": "https://bgm.tv/character/11576",
+        "categorie": "person"
+      },
+      {
+        "id": "11577",
+        "label": "安藤夏",
+        "info": "30岁，处女，大学图书馆勤务，软绵绵的文科女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/e5/11577_crt_FMvMn.jpg",
+        "link": "https://bgm.tv/character/11577",
+        "categorie": "person"
+      },
+      {
+        "id": "11578",
+        "label": "大五郎",
+        "info": "性爱之神，为使今河骏从童贞毕业而从天界下凡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/60/11578_crt_5gvKB.jpg",
+        "link": "https://bgm.tv/character/11578",
+        "categorie": "person"
+      },
+      {
+        "id": "11579",
+        "label": "马卡龙",
+        "info": "性爱之神，大五郎的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/ad/11579_crt_bxlzj.jpg",
+        "link": "https://bgm.tv/character/11579",
+        "categorie": "person"
+      },
+      {
+        "id": "11580",
+        "label": "小P",
+        "info": "性爱之神，为使安藤摆脱处女而从天界下凡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/12/11580_crt_gZy0B.jpg",
+        "link": "https://bgm.tv/character/11580",
+        "categorie": "person"
+      },
+      {
+        "id": "11581",
+        "label": "小丘",
+        "info": "性爱之神，小P的双胞胎姐姐，无口无表情属性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/d6/11581_crt_wN4m9.jpg",
+        "link": "https://bgm.tv/character/11581",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26466",
+        "label": "龍己",
+        "info": "オレん家の家主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/b0/26466_crt_dbdHz.jpg?r=1420874708",
+        "link": "https://bgm.tv/character/26466",
+        "categorie": "person"
+      },
+      {
+        "id": "26467",
+        "label": "若狭",
+        "info": "龍己に拾われ、",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/4e/26467_crt_Z9OJj.jpg?r=1420874697",
+        "link": "https://bgm.tv/character/26467",
+        "categorie": "person"
+      },
+      {
+        "id": "26468",
+        "label": "鷹巣",
+        "info": "オレん家にときどき現れるタコ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/d9/26468_crt_3BWew.jpg?r=1420874685",
+        "link": "https://bgm.tv/character/26468",
+        "categorie": "person"
+      },
+      {
+        "id": "26469",
+        "label": "霞",
+        "info": "龍己の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/2e/26469_crt_5xJ13.jpg?r=1420874675",
+        "link": "https://bgm.tv/character/26469",
+        "categorie": "person"
+      },
+      {
+        "id": "26470",
+        "label": "三国",
+        "info": "オレん家にふらりと現れるクラゲ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/74/26470_crt_KY4gp.jpg?r=1420874643",
+        "link": "https://bgm.tv/character/26470",
+        "categorie": "person"
+      },
+      {
+        "id": "26471",
+        "label": "真木",
+        "info": "オレん家にひっそりと現れる巻貝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/64/26471_crt_L9XIE.jpg",
+        "link": "https://bgm.tv/character/26471",
+        "categorie": "person"
+      },
+      {
+        "id": "26479",
+        "label": "アヒルちゃん",
+        "info": "日本家庭風呂",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/73/26479_crt_xfAkC.jpg",
+        "link": "https://bgm.tv/character/26479",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

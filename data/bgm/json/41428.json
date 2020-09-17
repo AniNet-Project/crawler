@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14644",
+        "label": "京乃圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/a7/14644_crt_0fd82.jpg",
+        "link": "https://bgm.tv/character/14644",
+        "categorie": "person"
+      },
+      {
+        "id": "14704",
+        "label": "兰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d3/14704_crt_Bs1t0.jpg",
+        "link": "https://bgm.tv/character/14704",
+        "categorie": "person"
+      },
+      {
+        "id": "14794",
+        "label": "麦波",
+        "info": "17岁。转入鸭川女子高中的转校生，并且加入了「Jersey部」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/58/14794_crt_nI9Rx.jpg",
+        "link": "https://bgm.tv/character/14794",
+        "categorie": "person"
+      },
+      {
+        "id": "15352",
+        "label": "一泽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/36/15352_crt_wpg99.jpg",
+        "link": "https://bgm.tv/character/15352",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

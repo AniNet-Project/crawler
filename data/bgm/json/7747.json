@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23630",
+        "label": "傲决",
+        "info": "拜剑山庄掌门之子，当年傲家被皇帝满门抄崭，只有他和师姐逃脱，从此怀恨在心，一心要得到整个天下。为此，他追杀聂风、步惊云，以求两人体内麒麟血，为无敌决剑开封。拥有决剑的傲决武力倍增，与风、云二人展开死战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/c7/23630_crt_zzVVz.jpg",
+        "link": "https://bgm.tv/character/23630",
+        "categorie": "person"
+      },
+      {
+        "id": "23631",
+        "label": "聂风",
+        "info": "曾是天下第一大帮天下会神风堂堂主，功夫了得，仁厚重诺，有情有义。因念及友情三番四次放过作恶多端的断浪，酿下江湖隐患。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/c5/23631_crt_wznD4.jpg",
+        "link": "https://bgm.tv/character/23631",
+        "categorie": "person"
+      },
+      {
+        "id": "23632",
+        "label": "步惊云",
+        "info": "曾是天下第一大帮天下会飞云堂堂主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/1a/23632_crt_Nn7XV.jpg",
+        "link": "https://bgm.tv/character/23632",
+        "categorie": "person"
+      },
+      {
+        "id": "41712",
+        "label": "无名",
+        "info": "《风云》武林神话",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/09/41712_crt_hppYE.jpg?r=1463231813",
+        "link": "https://bgm.tv/character/41712",
+        "categorie": "person"
+      },
+      {
+        "id": "23633",
+        "label": "第二梦",
+        "info": "与天下会有不共戴天之仇，多次阻止旁人对聂风的暗杀，并最终发现聂风是替自己报仇的恩人。在相处中爱上了聂风。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/33/23633_crt_wtk5q.jpg",
+        "link": "https://bgm.tv/character/23633",
+        "categorie": "person"
+      },
+      {
+        "id": "23634",
+        "label": "紫凝",
+        "info": "江湖浪女，心性善良质朴，梦想带着四个流浪儿去蓬莱仙岛过世外桃源般的生活。一次偶然机会，救起了坠落山谷的步惊云，对侠义勇猛的他暗生情愫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/1d/23634_crt_MgXXX.jpg",
+        "link": "https://bgm.tv/character/23634",
+        "categorie": "person"
+      },
+      {
+        "id": "23635",
+        "label": "断浪",
+        "info": "自小与聂风同为天下会弟子，因不被师傅重用，一心想超越风云二人，机关算尽，甚至不惜牺牲最心爱的女人，最终落得惨死下场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/16/23635_crt_G77jv.jpg",
+        "link": "https://bgm.tv/character/23635",
+        "categorie": "person"
+      },
+      {
+        "id": "68189",
+        "label": "雄霸",
+        "info": "《风云》人物，天下会帮主，三绝老人弟子。泥菩萨的四句批言，概括了他一生的命运。前两句 “金麟岂是池中物，一遇风云便化龙”是指前半生雄霸的霸业尽得聂风和步惊云的帮助，因而完成。后两句“九霄龙吟惊天变，风云际会浅水游”则是指雄霸失败，亦是风云所致。成也风云，败也风云。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/67/68189_crt_0cQ7o.jpg",
+        "link": "https://bgm.tv/character/68189",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67526",
+        "label": "ロビー・ヤージ",
+        "info": "ダメンズアラサー。顔も性格も悪くないが残念なおじさん。遊び人だが意外と教養の高いところもある。実家は裕福な家。しかし成金趣味の両親と反りが合わず10代でNEOTOKYOに家出してきた。様々な事で一攫千金を狙うが、騙されたりツイてないことひとしきりで、ついには借金取りに追われる羽目に。とにかく美人に弱い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/78/67526_crt_ct9cl.jpg",
+        "link": "https://bgm.tv/character/67526",
+        "categorie": "person"
+      },
+      {
+        "id": "67527",
+        "label": "ハッチ・キタ",
+        "info": "18歳。学業優秀で身体能力も高いクールな秀才くん。大学には進学せずに「なんか面白いことないかな～」とNEOTOKYOにやって来た。しかし、世の中は予測可能なことばかりでちっとも楽しくない。とりあえず今はバイトで借金取りをしているが、いつか自分に予測不可能な何かが起こるのを期待している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/76/67527_crt_W9Q35.jpg",
+        "link": "https://bgm.tv/character/67527",
+        "categorie": "person"
+      },
+      {
+        "id": "67528",
+        "label": "イック(JPS-19)",
+        "info": "ロビーの家のサポートロボット。正式名称はJPS-19 （ジェーピーエス・ワンナイン）だが、通称イックと呼ばれてる。かわいい見た目に反してとにく毒舌。ロビーのこともバカにしてる？というかあきれてる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/fc/67528_crt_9W8Zm.jpg",
+        "link": "https://bgm.tv/character/67528",
+        "categorie": "person"
+      },
+      {
+        "id": "67529",
+        "label": "杨",
+        "info": "金融業社Yan’s Financeの社長。社長と言えば聞こえはいいが、いわゆる高利貸しの親分。特異な美意識とファッションセンスを持っている。金を貸したロビーになぜか激しい執着があり、追いかけまくる。みるくいちごキャンディが好物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/08/67529_crt_3Mdm8.jpg",
+        "link": "https://bgm.tv/character/67529",
+        "categorie": "person"
+      },
+      {
+        "id": "67530",
+        "label": "アロ",
+        "info": "Yan’s Financeの社員。社員と言えば聞こえはいいが、ただの手下その１。金髪のリーゼントヘアがチャームポイント。ヤンに傾倒しており、尊敬している。「ヤンさんの為ならたとえ火の中水の中っす！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/9b/67530_crt_777RL.jpg",
+        "link": "https://bgm.tv/character/67530",
+        "categorie": "person"
+      },
+      {
+        "id": "67531",
+        "label": "グラ",
+        "info": "同じくYan’s Financeの社員。というか手下その2。ピンクのアフロヘアがチャームポイント。詰めの甘いお馬鹿さん。ついつい、アロの言葉をオウム返ししてしまう。アロ「ヤンさん、やばいっス！」グラ「やばいっス！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/a1/67531_crt_PI082.jpg",
+        "link": "https://bgm.tv/character/67531",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

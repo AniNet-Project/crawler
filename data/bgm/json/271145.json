@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70824",
+        "label": "雪村心夜",
+        "info": "国立彩玉大学の理工学研究科大学院1年生。23歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/2e/70824_crt_aOaGU.jpg?r=1562716685",
+        "link": "https://bgm.tv/character/70824",
+        "categorie": "person"
+      },
+      {
+        "id": "70825",
+        "label": "冰室菖蒲",
+        "info": "国立彩玉大学の理工学研究科大学院1年生。23歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/19/70825_crt_IgNln.jpg?r=1562716691",
+        "link": "https://bgm.tv/character/70825",
+        "categorie": "person"
+      },
+      {
+        "id": "71021",
+        "label": "奏言叶",
+        "info": "国立彩玉大学工学部情報科学科、学部4年生。22歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/f8/71021_crt_YM2JH.jpg?r=1579490347",
+        "link": "https://bgm.tv/character/71021",
+        "categorie": "person"
+      },
+      {
+        "id": "71633",
+        "label": "棘田惠那",
+        "info": "国立彩玉大学理工学研究科大学院2年生。24歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/ba/71633_crt_4fS3p.jpg?r=1579397289",
+        "link": "https://bgm.tv/character/71633",
+        "categorie": "person"
+      },
+      {
+        "id": "71634",
+        "label": "犬饲虎辅",
+        "info": "国立彩玉大学工学部情報科学科、学部4年生。22歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/82/71634_crt_vBalT.jpg?r=1567557488",
+        "link": "https://bgm.tv/character/71634",
+        "categorie": "person"
+      },
+      {
+        "id": "71635",
+        "label": "池田",
+        "info": "彩玉大学理工学研究科、数理科学情報部門教授。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ad/71635_crt_91zY1.jpg",
+        "link": "https://bgm.tv/character/71635",
+        "categorie": "person"
+      },
+      {
+        "id": "70826",
+        "label": "理科熊",
+        "info": "理系用語を解説する毒舌のクマ。知識量は膨大で、その存在の多くは謎に包まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/d5/70826_crt_T30O3.jpg?r=1562720957",
+        "link": "https://bgm.tv/character/70826",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

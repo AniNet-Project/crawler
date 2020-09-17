@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28772",
+        "label": "町子凉",
+        "info": "故事开始为中学二年级生。父母于海外工作，自小由祖母育成，已经去世，独自生活凡事都由阿姨协助。经拜托后毎周星期六让希玲寄居自己的住宅单位。志愿是入读美术系高中，于是特意就读预科学校，结识椎名。后来达成梦想，与希玲和椎名成为同班同学。擅长各种料理煮食。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/b8/28772_crt_hRBub.jpg?r=1420840799",
+        "link": "https://bgm.tv/character/28772",
+        "categorie": "person"
+      },
+      {
+        "id": "28773",
+        "label": "森野麒麟",
+        "info": "与凉同年的女孩子。特别冀望入读东京的美术学校，所以逢星期日参与美术预科学校课程，继而在星期六先寄居于凉的住家，以迁就上学时间。注重待人处事的礼节，但有时亦显露小孩子的一面。身材相对矮小，曾被误认为小学生，但进食能力与外貌有点不成正比，力气也比常人大上数倍。成功入读高中后与凉长期同居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/5d/28773_crt_SeYbx.jpg?r=1420874107",
+        "link": "https://bgm.tv/character/28773",
+        "categorie": "person"
+      },
+      {
+        "id": "28774",
+        "label": "椎名",
+        "info": "在预科学校结识凉和希玲的女学生，名字不明。具有冷酷与神秘的一面，亦不时显得有病虚弱。住在古老的大户人家，家中甚至有着野生动物狩猎场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/d2/28774_crt_sLRn9.jpg?r=1420874113",
+        "link": "https://bgm.tv/character/28774",
+        "categorie": "person"
+      },
+      {
+        "id": "31190",
+        "label": "内木由纪",
+        "info": "住在凉楼下单位的人，后来得悉是美术系高中的新任图书管理员教师。不太懂得用言语表达感情。吃东西时会表现出十分兴奋的画风。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/6d/31190_crt_o5KK4.jpg?r=1426912580",
+        "link": "https://bgm.tv/character/31190",
+        "categorie": "person"
+      },
+      {
+        "id": "29112",
+        "label": "町子明",
+        "info": "リョウの叔母。母（リョウの祖母）の他界後は海外勤務の姉の緑に代わり姪であるリョウの保護者代わりを務めるが、仕事が多忙なためなかなかリョウに接する機会が無く、たまに会った時にはスキンシップ過剰なところがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/1c/29112_crt_e8uz8.jpg?r=1421512090",
+        "link": "https://bgm.tv/character/29112",
+        "categorie": "person"
+      },
+      {
+        "id": "30047",
+        "label": "森野凛",
+        "info": "きりんの母親。緑とは従姉妹でお互い、「緑ちゃん」「凛ちゃん」と呼び合っている仲。料理は苦手であり、きりんには適当と評されている。たくさん食べるきりんのために、リョウ宛に毎週食料を大量に送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/1c/30047_crt_FXL07.jpg?r=1425141378",
+        "link": "https://bgm.tv/character/30047",
+        "categorie": "person"
+      },
+      {
+        "id": "29454",
+        "label": "椎名的母亲",
+        "info": "椎名母亲，看上去好年轻的样子，性格也比椎名活跃，经常下田农作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/b2/29454_crt_JaUO1.jpg?r=1423191587",
+        "link": "https://bgm.tv/character/29454",
+        "categorie": "person"
+      },
+      {
+        "id": "29491",
+        "label": "露子",
+        "info": "椎名家的女佣，姓氏不明。协助忙碌农作的夫人照顾女儿。与椎名有着极为相似的气场。是个家事万能的人，料理能力甚至在三星级厨师之上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/22/29491_crt_KqIZ2.jpg?r=1423336909",
+        "link": "https://bgm.tv/character/29491",
+        "categorie": "person"
+      },
+      {
+        "id": "29376",
+        "label": "渡边小姐",
+        "info": "市立図書館の司書。子供の頃のリョウとリョウの祖母を知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ad/29376_crt_QJpFT.jpg?r=1422661318",
+        "link": "https://bgm.tv/character/29376",
+        "categorie": "person"
+      },
+      {
+        "id": "29490",
+        "label": "便利店店员",
+        "info": "便利店店员",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/fd/29490_crt_rhy03.jpg?r=1423336546",
+        "link": "https://bgm.tv/character/29490",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

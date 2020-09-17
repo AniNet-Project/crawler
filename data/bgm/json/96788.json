@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28078",
+        "label": "小町小吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/ba/28078_crt_GrhZe.jpg",
+        "link": "https://bgm.tv/character/28078",
+        "categorie": "person"
+      },
+      {
+        "id": "28120",
+        "label": "蛭间一郎",
+        "info": "手术基本 嗜眠摇蚊",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/9e/28120_crt_EzCz3.jpg",
+        "link": "https://bgm.tv/character/28120",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

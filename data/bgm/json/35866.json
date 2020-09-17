@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1",
+        "label": "鲁路修·兰佩路基",
+        "info": "一年前的东京攻略战中，黑色骑士团因为首领Zero的离开而最终战败。之后一年间，鲁路修的Geass能力被人封印而平静的生活在阿什弗德学园，在第二季开头，鲁路修重新与C.C相遇之后，Geass封印被解开，鲁路修也恢复了记忆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/3a/1_crt_h47Z4.jpg",
+        "link": "https://bgm.tv/character/1",
+        "categorie": "person"
+      },
+      {
+        "id": "3272",
+        "label": "娜娜莉·兰佩路基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/22/3272_crt_G05s2.jpg?r=1491126097",
+        "link": "https://bgm.tv/character/3272",
+        "categorie": "person"
+      },
+      {
+        "id": "3",
+        "label": "C.C.",
+        "info": "在鲁路修面临生死关头时，给予他Geass的力量救了鲁路修一命。目前寄住在鲁路修家中。但是在R2中只出没于黑色骑士团。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/62/3_crt_7Jhis.jpg?r=1573280268",
+        "link": "https://bgm.tv/character/3",
+        "categorie": "person"
+      },
+      {
+        "id": "22862",
+        "label": "柯内莉亚·Li·布里塔尼亚",
+        "info": "原为布里塔尼亚帝国的第2皇女，第3皇位继承人，11区总督R1东京决战后行踪不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a4/22862_crt_a724f.jpg",
+        "link": "https://bgm.tv/character/22862",
+        "categorie": "person"
+      },
+      {
+        "id": "72261",
+        "label": "修奈泽尔·EI·布里塔尼亚",
+        "info": "ブリタニア帝国第二皇子。ブリタニア皇帝に次ぐ帝国の実力者で、故・クロヴィスによれば、ルルーシュの母マリアンヌの暗殺事件の真相を知っている人物の一人だといわれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/82/72261_crt_RXe7B.jpg?r=1571118149",
+        "link": "https://bgm.tv/character/72261",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

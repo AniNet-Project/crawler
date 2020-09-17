@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56199",
+        "label": "天野草莓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/5b/56199_crt_vRzLI.jpg",
+        "link": "https://bgm.tv/character/56199",
+        "categorie": "person"
+      },
+      {
+        "id": "56201",
+        "label": "樫野真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/48/56201_crt_HllGh.jpg",
+        "link": "https://bgm.tv/character/56201",
+        "categorie": "person"
+      },
+      {
+        "id": "32103",
+        "label": "安堂千乃介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d3/32103_crt_LMPlg.jpg",
+        "link": "https://bgm.tv/character/32103",
+        "categorie": "person"
+      },
+      {
+        "id": "56200",
+        "label": "花房五月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/48/56200_crt_HA6Sd.jpg",
+        "link": "https://bgm.tv/character/56200",
+        "categorie": "person"
+      },
+      {
+        "id": "56202",
+        "label": "咖啡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/cd/56202_crt_Qe1h3.jpg",
+        "link": "https://bgm.tv/character/56202",
+        "categorie": "person"
+      },
+      {
+        "id": "56203",
+        "label": "奶糖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/a4/56203_crt_5S6SW.jpg",
+        "link": "https://bgm.tv/character/56203",
+        "categorie": "person"
+      },
+      {
+        "id": "56204",
+        "label": "香草",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/2f/56204_crt_V7k1s.jpg",
+        "link": "https://bgm.tv/character/56204",
+        "categorie": "person"
+      },
+      {
+        "id": "56205",
+        "label": "巧克力",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/8d/56205_crt_H131E.jpg",
+        "link": "https://bgm.tv/character/56205",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

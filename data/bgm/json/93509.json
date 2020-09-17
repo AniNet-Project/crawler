@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23454",
+        "label": "犬神八千代",
+        "info": "主人公。16歳。1年A組所属。犬似の猫派。ドM。やや天然というより変態的であり、そのため後述の杜松とは気が合う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/69/23454_crt_YZbKJ.jpg?r=1412006614",
+        "link": "https://bgm.tv/character/23454",
+        "categorie": "person"
+      },
+      {
+        "id": "23455",
+        "label": "猫山铃",
+        "info": "もう1人の主人公、またはヒロイン。16歳。1年B組。猫似の犬派。少々内気で恥ずかしがり屋のツンデレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/43/23455_crt_MY43F.jpg?r=1448901355",
+        "link": "https://bgm.tv/character/23455",
+        "categorie": "person"
+      },
+      {
+        "id": "23456",
+        "label": "柊木秋",
+        "info": "1年B組。16歳。剣道部所属。犬神や猫山の友人。犬派でも猫派でもない。犬神とは中学1年からの付き合いであり、また現在の猫山のクラスメイトのため2人とは仲が良く、犬神と猫山の二人の運命的な出会いを果たした際の仲介人である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/9b/23456_crt_Abg1o.jpg?r=1559384776",
+        "link": "https://bgm.tv/character/23456",
+        "categorie": "person"
+      },
+      {
+        "id": "23457",
+        "label": "杜松美希音",
+        "info": "1年A組。小動物系。生物部所属。どちらかと言えば犬派。猫山以上に小柄な、ツインテールの美少女のため、小さくて可愛いものが好きな犬神にとっては猫山に次ぐ萌え対象であり、また秋からも「（猫山とは）ユニットとか組ませたくなる」と言われるほどである。「気をつけてください、なのです。」などぎこちない丁重な口調で話す。猫山とは「ちっちゃいもの同盟」および「大きいのんびりさんに惹かれちゃう同盟」を結ぶ。また犬神とは発想の自由奔放さにおいて仲間（犬神側）であり気が合う。犬神と猫山を生物部に勧誘する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/54/23457_crt_3DcDr.jpg?r=1398193308",
+        "link": "https://bgm.tv/character/23457",
+        "categorie": "person"
+      },
+      {
+        "id": "23458",
+        "label": "牛若雪路",
+        "info": "見ての通りの巨乳。天然エロい人･･･なのか･･･？",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/b4/23458_crt_u55Ti.jpg?r=1403972192",
+        "link": "https://bgm.tv/character/23458",
+        "categorie": "person"
+      },
+      {
+        "id": "23459",
+        "label": "猿飞空",
+        "info": "犬猿という言葉通り、犬神さんにライバル心を燃やす（ぇ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/91/23459_crt_A1v79.jpg?r=1400870839",
+        "link": "https://bgm.tv/character/23459",
+        "categorie": "person"
+      },
+      {
+        "id": "23460",
+        "label": "鸟饲云雀",
+        "info": "病弱、入院がちなレアキャラ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/7b/23460_crt_VX5Vv.jpg?r=1408037676",
+        "link": "https://bgm.tv/character/23460",
+        "categorie": "person"
+      },
+      {
+        "id": "23461",
+        "label": "猫山珠喜",
+        "info": "鈴の姉で大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/54/23461_crt_U1V61.jpg?r=1403357900",
+        "link": "https://bgm.tv/character/23461",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

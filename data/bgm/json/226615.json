@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47415",
+        "label": "晴明",
+        "info": "京都城中极具盛名的天才阴阳师",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/1f/47415_crt_Dm37J.jpg?r=1488553525",
+        "link": "https://bgm.tv/character/47415",
+        "categorie": "person"
+      },
+      {
+        "id": "47416",
+        "label": "神乐",
+        "info": "善良而沉默的神秘少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/49/47416_crt_aM2xq.jpg?r=1488553704",
+        "link": "https://bgm.tv/character/47416",
+        "categorie": "person"
+      },
+      {
+        "id": "47417",
+        "label": "源博雅",
+        "info": "拥有皇室血统的贵族青年",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/d9/47417_crt_zJE3y.jpg?r=1488554110",
+        "link": "https://bgm.tv/character/47417",
+        "categorie": "person"
+      },
+      {
+        "id": "47418",
+        "label": "八百比丘尼",
+        "info": "因误食人鱼肉而不老不死",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/91/47418_crt_AaHd3.jpg?r=1488554084",
+        "link": "https://bgm.tv/character/47418",
+        "categorie": "person"
+      },
+      {
+        "id": "48188",
+        "label": "萤草",
+        "info": "手中拿着蒲公英的可爱少女。看上去十分柔弱、性格也是这样。不过却一直在努力支持自己的同伴，不希望自己成为累赘。同时也一直都在关心和照顾小伙伴们。其实比起「真的能够帮到忙」，「想努力帮大家」的这份心情，已经很棒了哦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/e0/48188_crt_Tt9t1.jpg?r=1478616487",
+        "link": "https://bgm.tv/character/48188",
+        "categorie": "person"
+      },
+      {
+        "id": "59845",
+        "label": "辉夜姬",
+        "info": "沉睡在竹节中的少女。偶然才被人们发现，因为相貌清丽、性格温和，而受到大家的疼爱和照顾。平时有些沉默不语，也常常一个人待在房间里。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/78/59845_crt_X8BF8.jpg?r=1514299001",
+        "link": "https://bgm.tv/character/59845",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17742",
+        "label": "苍月潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/80/17742_crt_F0S74.jpg?r=1460517196",
+        "link": "https://bgm.tv/character/17742",
+        "categorie": "person"
+      },
+      {
+        "id": "17743",
+        "label": "阿虎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e2/17743_crt_o2qel.jpg?r=1437800488",
+        "link": "https://bgm.tv/character/17743",
+        "categorie": "person"
+      },
+      {
+        "id": "17744",
+        "label": "中村麻子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/cd/17744_crt_jJc3M.jpg?r=1442723588",
+        "link": "https://bgm.tv/character/17744",
+        "categorie": "person"
+      },
+      {
+        "id": "17745",
+        "label": "井上真由子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/54/17745_crt_sbFx0.jpg?r=1449894632",
+        "link": "https://bgm.tv/character/17745",
+        "categorie": "person"
+      },
+      {
+        "id": "17746",
+        "label": "蒼月紫暮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/b6/17746_crt_Y6Z6y.jpg",
+        "link": "https://bgm.tv/character/17746",
+        "categorie": "person"
+      },
+      {
+        "id": "17747",
+        "label": "鏢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ce/17747_crt_8Ih75.jpg?r=1444502267",
+        "link": "https://bgm.tv/character/17747",
+        "categorie": "person"
+      },
+      {
+        "id": "17748",
+        "label": "白面者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/c7/17748_crt_6056L.jpg",
+        "link": "https://bgm.tv/character/17748",
+        "categorie": "person"
+      },
+      {
+        "id": "32894",
+        "label": "羽生礼子",
+        "info": "潮の中学の同級生だが、不登校により歳は1つ上。幼馴染に間崎賢一がおり、彼を「賢ちゃん」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/75/32894_crt_BEu91.jpg",
+        "link": "https://bgm.tv/character/32894",
+        "categorie": "person"
+      },
+      {
+        "id": "33240",
+        "label": "桧山勇",
+        "info": "潮が北海道に行くために乗った飛行機にいた女の子。パイロットであった父を失い、その原因が厚沢にあると思い込んでいた。その後搭乗していた飛行機が衾に襲われ父の本当の仇を知り、潮と協力して衾を退治する。そのことがきっかけで潮に好意を持つ。白面の者との最終決戦時終盤にて再び姿を見せ思いがけない重要な役を果たす。SFC版には未登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/1e/33240_crt_hlpRt.jpg",
+        "link": "https://bgm.tv/character/33240",
+        "categorie": "person"
+      },
+      {
+        "id": "33361",
+        "label": "篝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/3d/33361_crt_WPpFH.jpg?r=1434527675",
+        "link": "https://bgm.tv/character/33361",
+        "categorie": "person"
+      },
+      {
+        "id": "33362",
+        "label": "雷信",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/ab/33362_crt_mHYnl.jpg?r=1434527764",
+        "link": "https://bgm.tv/character/33362",
+        "categorie": "person"
+      },
+      {
+        "id": "33363",
+        "label": "十郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/a3/33363_crt_mqJJT.jpg?r=1434527829",
+        "link": "https://bgm.tv/character/33363",
+        "categorie": "person"
+      },
+      {
+        "id": "33364",
+        "label": "鹰取小夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/1e/33364_crt_sEpkS.jpg?r=1434527888",
+        "link": "https://bgm.tv/character/33364",
+        "categorie": "person"
+      },
+      {
+        "id": "35483",
+        "label": "座敷童子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/3c/35483_crt_I5956.jpg?r=1442161259",
+        "link": "https://bgm.tv/character/35483",
+        "categorie": "person"
+      },
+      {
+        "id": "36079",
+        "label": "关守日轮",
+        "info": "獣の槍伝承者候補の一人。女性であり、櫛を使って戦う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/11/36079_crt_m4CCQ.jpg?r=1444498253",
+        "link": "https://bgm.tv/character/36079",
+        "categorie": "person"
+      },
+      {
+        "id": "36080",
+        "label": "日崎御角",
+        "info": "ゆきの400年後の子孫。二代目の「お役目様」として白面の者を長い間封じてきた後、蒼月須磨子と交代してからは光覇明宗の指導者的役割を担うようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/8a/36080_crt_wJ4P3.jpg?r=1448216421",
+        "link": "https://bgm.tv/character/36080",
+        "categorie": "person"
+      },
+      {
+        "id": "36081",
+        "label": "秋叶流",
+        "info": "獣の槍伝承者候補の一人。武器は錫杖と独鈷（どっこ）。特技は独鈷を使った結界術で、気付かれないうちに妖怪の動きを封じたり退路を断ったりする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/5e/36081_crt_8uh8h.jpg?r=1444499190",
+        "link": "https://bgm.tv/character/36081",
+        "categorie": "person"
+      },
+      {
+        "id": "36082",
+        "label": "杜纲悟",
+        "info": "獣の槍伝承者候補の一人。人格・能力共に最も伝承者に近いと言われた男で周囲の人望も厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/39/36082_crt_L1909.jpg?r=1444499486",
+        "link": "https://bgm.tv/character/36082",
+        "categorie": "person"
+      },
+      {
+        "id": "36083",
+        "label": "杜纲纯",
+        "info": "悟の2歳下の妹。兄を慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/eb/36083_crt_wKplY.jpg",
+        "link": "https://bgm.tv/character/36083",
+        "categorie": "person"
+      },
+      {
+        "id": "36086",
+        "label": "云外镜",
+        "info": "一つ目の顔と手足のついた鏡の姿の妖怪。遠野の妖怪からは「雲外鏡のおんじ」と呼ばれる。SFC版ではコマンドキャラとして登場した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/0f/36086_crt_T8Wj7.jpg?r=1444501728",
+        "link": "https://bgm.tv/character/36086",
+        "categorie": "person"
+      },
+      {
+        "id": "36447",
+        "label": "決眉",
+        "info": "ギリョウの妹。溶鉄の中に自ら飛び込むことで獣の槍を誕生させ、その後は霊魂となって白面の者を追う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/7e/36447_crt_SihXo.jpg?r=1445707444",
+        "link": "https://bgm.tv/character/36447",
+        "categorie": "person"
+      },
+      {
+        "id": "36448",
+        "label": "义龙",
+        "info": "獣の槍を打った古代中国の鍛冶師でジエメイの兄。元は優しく温厚な性格だったが、両親を白面の者に殺され、さらに唯一残された妹も死なせてしまったことから、白面への深い憎しみを込めて獣の槍を打ち、その肉体は獣の槍を作成する際に槍の柄と化した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/3e/36448_crt_M053u.jpg?r=1445707825",
+        "link": "https://bgm.tv/character/36448",
+        "categorie": "person"
+      },
+      {
+        "id": "36449",
+        "label": "管狐",
+        "info": "各地に多くの眷属を持つ小妖怪。外見は、イタチに尖った大きな耳と、猫のような大きな目、炎のような大きなシッポを付けた、というところ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/f1/36449_crt_J84Vn.jpg?r=1445708482",
+        "link": "https://bgm.tv/character/36449",
+        "categorie": "person"
+      },
+      {
+        "id": "36823",
+        "label": "苍月须磨子",
+        "info": "ゆきの子孫で、江戸時代に生まれ、現在に至るまで結界を張り続ける三代目の「お役目様」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/99/36823_crt_u4zuf.jpg?r=1447554768",
+        "link": "https://bgm.tv/character/36823",
+        "categorie": "person"
+      },
+      {
+        "id": "36996",
+        "label": "引狭雾雄",
+        "info": "引狭に連れられてきた獣の槍伝承者候補。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/ec/36996_crt_GngEz.jpg?r=1448216672",
+        "link": "https://bgm.tv/character/36996",
+        "categorie": "person"
+      },
+      {
+        "id": "36997",
+        "label": "九印",
+        "info": "引狭が作り上げた最初の成功作にして、完全無欠のホムンクルス。機械のように正確な分析力を持つ頭脳に加えて、伸縮自在の爪の先端から分泌する溶解液、気を固めて肩から発射する「カノン」、あらゆる攻撃を逸らす「黄金の霧（ゴールドミスト）」など、多彩な武器を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/6c/36997_crt_T2533.jpg?r=1448216821",
+        "link": "https://bgm.tv/character/36997",
+        "categorie": "person"
+      },
+      {
+        "id": "36998",
+        "label": "斗和子",
+        "info": "くらぎと同じく、白面の者の九つの尾の一本が変化した分身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/cf/36998_crt_2i3Y5.jpg?r=1448217011",
+        "link": "https://bgm.tv/character/36998",
+        "categorie": "person"
+      },
+      {
+        "id": "36999",
+        "label": "白面者分身",
+        "info": "白面の者の九つの尾の一本が変化したもの。昆虫のような巨大な姿で、体外から加えられた妖力を反射する能力を持つ強大な妖怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/a4/36999_crt_lw868.jpg?r=1448217133",
+        "link": "https://bgm.tv/character/36999",
+        "categorie": "person"
+      },
+      {
+        "id": "37513",
+        "label": "海莲娜·马可夫",
+        "info": "大脳生理学・臨床心理学・精神分析学の専門家。ポールと言う一人息子がいたが、彼が難病（本人曰く「筋肉の病気」）で死んでしまって以来、科学に没頭するようになってしまう。潮ととら、そして麻子の姿に希望を見出し、麻子を庇って傷を負い自身の死期を悟り自爆する研究室に残り潮と麻子への謝罪を残し息子の名前を呟きながら死亡した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/24/37513_crt_lo4Rl.jpg?r=1450492156",
+        "link": "https://bgm.tv/character/37513",
+        "categorie": "person"
+      },
+      {
+        "id": "37514",
+        "label": "尼可拉斯·库斯勒",
+        "info": "医療電子工学、特殊遺伝子解析、キルリアン振動理論の完成者。最初は強引すぎる研究方法で潮と敵対したが後に和解。潮に「石喰いの鎧」を授けた。若い頃はボクシングの経験もあったらしく、決戦の後に潮との勝負を申し込むが、黒炎に襲撃されたハマー本部の崩落に巻き込まれ、マルコと共に生死不明となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/dd/37514_crt_4vq62.jpg",
+        "link": "https://bgm.tv/character/37514",
+        "categorie": "person"
+      },
+      {
+        "id": "37515",
+        "label": "马可·帕布罗提",
+        "info": "思想家にして、心理研究家、超心理学の権威。ヘレナとは幼馴染みで、ニコラスとともにヘレナに想いを寄せていたようである。最終決戦では麻子を通じて潮に渡した小型キルリアン振動器「チェシャキャット」の発動をする活躍を見せるが、ニコラスと共に生死不明となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/7c/37515_crt_anYal.jpg?r=1450492738",
+        "link": "https://bgm.tv/character/37515",
+        "categorie": "person"
+      },
+      {
+        "id": "40014",
+        "label": "时逆/时顺",
+        "info": "ジエメイに仕える2体1組の妖。その名の通り、時逆は時間を遡り、時順は未来へ進む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/51/40014_crt_vhv9M.jpg?r=1459574471",
+        "link": "https://bgm.tv/character/40014",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "33359",
+        "label": "间崎贤一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/f4/33359_crt_40XeX.jpg?r=1434527620",
+        "link": "https://bgm.tv/character/33359",
+        "categorie": "person"
+      },
+      {
+        "id": "33360",
+        "label": "厚泽恭治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/86/33360_crt_QOghc.jpg?r=1434527610",
+        "link": "https://bgm.tv/character/33360",
+        "categorie": "person"
+      },
+      {
+        "id": "34125",
+        "label": "耗石",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/3c/34125_crt_an2oD.jpg",
+        "link": "https://bgm.tv/character/34125",
+        "categorie": "person"
+      },
+      {
+        "id": "34230",
+        "label": "生徒",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34230",
+        "categorie": "person"
+      },
+      {
+        "id": "34631",
+        "label": "羽生 道雄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/a3/34631_crt_77QbG.jpg",
+        "link": "https://bgm.tv/character/34631",
+        "categorie": "person"
+      },
+      {
+        "id": "35355",
+        "label": "和泉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/4c/35355_crt_DguNQ.jpg",
+        "link": "https://bgm.tv/character/35355",
+        "categorie": "person"
+      },
+      {
+        "id": "35356",
+        "label": "衾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/bf/35356_crt_knmXn.jpg",
+        "link": "https://bgm.tv/character/35356",
+        "categorie": "person"
+      },
+      {
+        "id": "35357",
+        "label": "檜山",
+        "info": "檜山勇她爸",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/c5/35357_crt_2rI2i.jpg",
+        "link": "https://bgm.tv/character/35357",
+        "categorie": "person"
+      },
+      {
+        "id": "35484",
+        "label": "鷹取 明代",
+        "info": "小夜她妈",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/f9/35484_crt_UZjuG.jpg",
+        "link": "https://bgm.tv/character/35484",
+        "categorie": "person"
+      },
+      {
+        "id": "35485",
+        "label": "鷹取 武衛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/3b/35485_crt_rrM1l.jpg?r=1444501069",
+        "link": "https://bgm.tv/character/35485",
+        "categorie": "person"
+      },
+      {
+        "id": "35486",
+        "label": "和罗",
+        "info": "光覇明宗を束ねる大僧正。本名はカズオ。元は孤児で、兄の凶羅とともにお役目様（日崎御角）に育てられた。兄弟仲は良かったらしい。顔にある大きな火傷の跡は、凶羅との法力比べの事故によるものである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/09/35486_crt_py3l8.jpg?r=1444498700",
+        "link": "https://bgm.tv/character/35486",
+        "categorie": "person"
+      },
+      {
+        "id": "35487",
+        "label": "祖母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/1d/35487_crt_wEEEX.jpg?r=1444501050",
+        "link": "https://bgm.tv/character/35487",
+        "categorie": "person"
+      },
+      {
+        "id": "35488",
+        "label": "おばさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/39/35488_crt_HJPsc.jpg",
+        "link": "https://bgm.tv/character/35488",
+        "categorie": "person"
+      },
+      {
+        "id": "35489",
+        "label": "お役目様",
+        "info": "強大な結界を張る能力を有している女性。また、その「役目」を果たす者達の総称でもある。訳あって白面の傍で結界を張り続けているが、事情を知らない妖怪たちからは「白面の者に味方する裏切り者」として恨まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/a7/35489_crt_92s57.jpg?r=1444501305",
+        "link": "https://bgm.tv/character/35489",
+        "categorie": "person"
+      },
+      {
+        "id": "35490",
+        "label": "法力僧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/af/35490_crt_FfCkF.jpg?r=1444500068",
+        "link": "https://bgm.tv/character/35490",
+        "categorie": "person"
+      },
+      {
+        "id": "35491",
+        "label": "上の方",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/42/35491_crt_zp5p8.jpg?r=1444500902",
+        "link": "https://bgm.tv/character/35491",
+        "categorie": "person"
+      },
+      {
+        "id": "35492",
+        "label": "坂口",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35492",
+        "categorie": "person"
+      },
+      {
+        "id": "36085",
+        "label": "河童",
+        "info": "遠野の沼に棲む河童。人間にいたずらをして一度懲らしめられて以来、もう悪さはしないという約束を守っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f1/36085_crt_rjsh6.jpg",
+        "link": "https://bgm.tv/character/36085",
+        "categorie": "person"
+      },
+      {
+        "id": "36087",
+        "label": "一鬼",
+        "info": "額に角を持つ修験者の姿をした妖怪。蛇の化身で、複数の蛇の体がより合わさって人型をとっている。東の妖の中でも1、2を争う強者で巨体と怪力を誇り、戦の際には「遠野妖群頭」を名乗り、妖達を統率する。大きな口で相手を飲み込み一瞬で消化してしまうという奥の手も持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/b0/36087_crt_jj7Y1.jpg?r=1444501934",
+        "link": "https://bgm.tv/character/36087",
+        "categorie": "person"
+      },
+      {
+        "id": "36088",
+        "label": "山ン本",
+        "info": "「東の長」と呼ばれ、遠野で東日本の妖をまとめる大妖怪。普段は鼻の長い老人の姿をしているが、本当の姿は大天狗である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ad/36088_crt_9BS98.jpg?r=1444502192",
+        "link": "https://bgm.tv/character/36088",
+        "categorie": "person"
+      },
+      {
+        "id": "36089",
+        "label": "婢妖",
+        "info": "獣の槍を破壊する為に白面の者の尾の一本から生み出される妖怪。耳の生えた目玉の姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/d4/36089_crt_TawBT.jpg?r=1444502497",
+        "link": "https://bgm.tv/character/36089",
+        "categorie": "person"
+      },
+      {
+        "id": "37296",
+        "label": "太由罗",
+        "info": "若い男の姿をした妖怪。正体は処刑場に流れる血を吸って成長した蛇の化身で、自分の影の中に無数の「子供たち」（小さな蛇妖）を住まわせている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/28/37296_crt_eZ50e.jpg?r=1449894747",
+        "link": "https://bgm.tv/character/37296",
+        "categorie": "person"
+      },
+      {
+        "id": "37297",
+        "label": "为何",
+        "info": "老人の姿をした妖怪。正体はガマの化身で、長く伸びる舌を武器とする。質問に答えられなかった人間に対してはこの舌を耳から差し込み、生きたまま脳をすすって殺す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/9b/37297_crt_9v0W9.jpg?r=1449894823",
+        "link": "https://bgm.tv/character/37297",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

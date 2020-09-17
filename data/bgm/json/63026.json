@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28118",
+        "label": "森崎绫女",
+        "info": "咲達の友人の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/0f/28118_crt_5fOf6.jpg?r=1467161887",
+        "link": "https://bgm.tv/character/28118",
+        "categorie": "person"
+      },
+      {
+        "id": "42979",
+        "label": "明姬笑",
+        "info": "本編のヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/a8/42979_crt_Ry10i.jpg?r=1467161398",
+        "link": "https://bgm.tv/character/42979",
+        "categorie": "person"
+      },
+      {
+        "id": "27822",
+        "label": "秋山未来",
+        "info": "明日香的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/76/27822_crt_XxWwf.jpg?r=1415389810",
+        "link": "https://bgm.tv/character/27822",
+        "categorie": "person"
+      },
+      {
+        "id": "28152",
+        "label": "明姬茧",
+        "info": "咲の双子の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/27/28152_crt_P6AJF.jpg?r=1467161685",
+        "link": "https://bgm.tv/character/28152",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

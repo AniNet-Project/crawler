@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53792",
+        "label": "潘瑟力利",
+        "info": "元エドラス王国軍第一魔戦部隊隊長。愛称はリリー。背中に白い紋章がある。好きなものはキウイ、嫌いなものは雷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/85/53792_crt_4Ydu5.jpg",
+        "link": "https://bgm.tv/character/53792",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

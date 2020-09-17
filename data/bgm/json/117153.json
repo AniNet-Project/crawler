@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29007",
+        "label": "刚田猛男",
+        "info": "本作品の主人公。身長2m、体重120kg（推定）の集英高校1年生。純粋で優しい心根を持つが、少し鈍感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/0e/29007_crt_2UdS9.jpg?r=1421107917",
+        "link": "https://bgm.tv/character/29007",
+        "categorie": "person"
+      },
+      {
+        "id": "29008",
+        "label": "砂川诚",
+        "info": "猛男の隣家に住む幼馴染み。集英高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/63/29008_crt_RpBT1.jpg?r=1421107961",
+        "link": "https://bgm.tv/character/29008",
+        "categorie": "person"
+      },
+      {
+        "id": "29009",
+        "label": "大和凛子",
+        "info": "スイーツ作りが得意なピュア少女。小泉女学園高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/8f/29009_crt_lZxbc.jpg?r=1429155078",
+        "link": "https://bgm.tv/character/29009",
+        "categorie": "person"
+      },
+      {
+        "id": "31901",
+        "label": "天海悠纪华",
+        "info": "留着及肩短发并戴着眼镜的女孩子。注重礼仪，与他人交谈时都会使用敬语，是猛男与砂川幼稚园的同学。在幼稚园某次躲避球比赛中被砂川保护后就喜欢上了砂川。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/b1/31901_crt_Y0YN5.jpg?r=1429156296",
+        "link": "https://bgm.tv/character/31901",
+        "categorie": "person"
+      },
+      {
+        "id": "32046",
+        "label": "砂川爱",
+        "info": "诚的姐姐。名古屋咲樱大学一年级。小学时在被同学嘲笑时因为猛男称赞的话语而喜欢猛男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/7b/32046_crt_6Gs14.jpg",
+        "link": "https://bgm.tv/character/32046",
+        "categorie": "person"
+      },
+      {
+        "id": "32291",
+        "label": "栗原修",
+        "info": "猛男与诚的友人。爆炸头为其特征。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/95/32291_crt_90SLO.jpg",
+        "link": "https://bgm.tv/character/32291",
+        "categorie": "person"
+      },
+      {
+        "id": "35475",
+        "label": "一之瀬光基",
+        "info": "大和のバイトする「Les Cerises」のパティシエ。思い込みが激しく、人の話を聞かない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/e0/35475_crt_IQ0qQ.jpg",
+        "link": "https://bgm.tv/character/35475",
+        "categorie": "person"
+      },
+      {
+        "id": "31834",
+        "label": "痴汉",
+        "info": "\"你还好意思说，你穿那么短的裙子就是想被别人摸吧，呃荷荷荷\"",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/68/31834_crt_1nn38.jpg?r=1428594766",
+        "link": "https://bgm.tv/character/31834",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

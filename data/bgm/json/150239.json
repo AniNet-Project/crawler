@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36453",
+        "label": "克拉琳欧",
+        "info": "由乌萨尔制造机器人，自称是“乌萨尔的玩乐用机器人”，但其实战斗力很高。外表为头带猫耳、穿着女仆装的美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/a0/36453_crt_688SN.jpg?r=1452898275",
+        "link": "https://bgm.tv/character/36453",
+        "categorie": "person"
+      },
+      {
+        "id": "36664",
+        "label": "七转福音",
+        "info": "本作主人公，16岁，因远房亲戚拓美而来到“赛楠库尔岛”。本编6年前双亲逝世，自身也因“罗盘综合症”（Pyxis syndrome）而垂危，为保不死而成为除大脑以外全身皆改造为“全身义体”的少女，也是全球不到10人的“适合者”之一。复古游戏的发烧友，并且己达到废人级的程度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/98/36664_crt_YuRy8.jpg?r=1455483416",
+        "link": "https://bgm.tv/character/36664",
+        "categorie": "person"
+      },
+      {
+        "id": "38031",
+        "label": "乌扎尔·德利拉",
+        "info": "福音遇见的女科学家，外表大约25岁。本名萨哈尔·舍赫拉（サハル・セヘラ，Sahar Schehera）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/5f/38031_crt_esGe4.jpg?r=1453517817",
+        "link": "https://bgm.tv/character/38031",
+        "categorie": "person"
+      },
+      {
+        "id": "38032",
+        "label": "布耶尔",
+        "info": "布耶尔的中枢神经控制装置（Central Nervous Unit）与搭载着暗号化智能（Cypher Intelligence）的布耶尔的钥匙。有着狮子头与5只山羊腿的独特外形。在其本体暴走后遭福音和克拉里昂回收，之后与她们生活在一起。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/db/38032_crt_CcxNr.jpg?r=1452280001",
+        "link": "https://bgm.tv/character/38032",
+        "categorie": "person"
+      },
+      {
+        "id": "38033",
+        "label": "布里",
+        "info": "在各话开头时登场，泰坦电视台的新人记者与偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8a/38033_crt_q4Pr5.jpg?r=1454211521",
+        "link": "https://bgm.tv/character/38033",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

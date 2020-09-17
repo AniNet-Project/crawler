@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36194",
+        "label": "近藤",
+        "info": "都市传说中的传奇杀手，实际上是两手收钱的放生者",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36194",
+        "categorie": "person"
+      },
+      {
+        "id": "36195",
+        "label": "水岛香苗",
+        "info": "近藤的未婚妻",
+        "image": "https:",
+        "link": "https://bgm.tv/character/36195",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

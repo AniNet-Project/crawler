@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52322",
+        "label": "今里こよみ",
+        "info": "情熱を秘めた、優等生タイプの新妻候補。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/dc/52322_crt_v9fCE.jpg",
+        "link": "https://bgm.tv/character/52322",
+        "categorie": "person"
+      },
+      {
+        "id": "52323",
+        "label": "羽衣川詩乃",
+        "info": "年上幼なじみの新妻候補。 茶道・羽衣川流 家元の次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/a8/52323_crt_3y3oi.jpg",
+        "link": "https://bgm.tv/character/52323",
+        "categorie": "person"
+      },
+      {
+        "id": "52324",
+        "label": "葛葉",
+        "info": "白髪狐耳の巫女さん。 …と見せかけて、狐娘の異種新妻候補。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/66/52324_crt_sp3u3.jpg",
+        "link": "https://bgm.tv/character/52324",
+        "categorie": "person"
+      },
+      {
+        "id": "52325",
+        "label": "月館環",
+        "info": "女子学生の新妻候補。 主人公が弟子入りした陶芸家の一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/d3/52325_crt_2C1qR.jpg",
+        "link": "https://bgm.tv/character/52325",
+        "categorie": "person"
+      },
+      {
+        "id": "52326",
+        "label": "中丸宗志郎",
+        "info": "主人公。 陶芸家を志す好青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/14/52326_crt_37OSO.jpg",
+        "link": "https://bgm.tv/character/52326",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

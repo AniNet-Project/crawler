@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18140",
+        "label": "雷德",
+        "info": "人類銀河同盟の少尉。戦闘能力は高いが、戦うこと以外を知らずに育った。そのため感情表現が苦手で誤解されることもしばしばある。戦闘中に時空のひずみに飲み込まれ、辺境の惑星・地球に漂着し人工冬眠状態だったところをガルガンティアに救われた。言葉も通じない未知の環境の中、生きるためにガルガンティアの人々と交流することを通じて、次第にその心に変化が訪れる。16才",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/d6/18140_crt_g1J69.jpg",
+        "link": "https://bgm.tv/character/18140",
+        "categorie": "person"
+      },
+      {
+        "id": "19505",
+        "label": "钱伯",
+        "info": "レドが搭乗するマシンキャリバー。パイロットと対話することでより優秀な兵士へと育成していくことを任務とする「パイロット支援啓発インターフェイスシステム」を搭載し、自律して行動できる。レドにとってかけがえのない存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/84/19505_crt_jtZuA.jpg?r=1374569101",
+        "link": "https://bgm.tv/character/19505",
+        "categorie": "person"
+      },
+      {
+        "id": "18141",
+        "label": "艾米",
+        "info": "ガルガンティアでメッセンジャーをしている少女。好奇心旺盛で行動的、いつも元気な笑顔を絶やさない。人工冬眠から目覚めたレドと思わぬ出会いをはたしたのち、積極的に興味を持ち、ガルガンティアの案内役を買って出る。弟ベベルを大切に思っている。15才",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/aa/18141_crt_66rdY.jpg",
+        "link": "https://bgm.tv/character/18141",
+        "categorie": "person"
+      },
+      {
+        "id": "18142",
+        "label": "纱雅",
+        "info": "エイミーと同じくメッセンジャーをしている。メルティとも仲良しでいつも三人で行動している。おっとりした性格だが、お金にはしっかり者の一面も見せる。グラマラスなスタイルは男女みんなの憧れ。15才",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/d5/18142_crt_h1dg4.jpg?r=1461726704",
+        "link": "https://bgm.tv/character/18142",
+        "categorie": "person"
+      },
+      {
+        "id": "18143",
+        "label": "梅露蒂",
+        "info": "エイミーやサーヤと同じくメッセンジャー。ふたりより年下で、幼く見えることもあって背伸びをしたい年頃。イケメン大好きで恋話にも敏感だが、恋愛経験はないらしい。いたずらっ子っぽい表情が特徴。14才",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/25/18143_crt_8q1g8.jpg?r=1461726824",
+        "link": "https://bgm.tv/character/18143",
+        "categorie": "person"
+      },
+      {
+        "id": "18144",
+        "label": "贝洛兹",
+        "info": "海中から旧文明の資材を引き上げるサルベージ業を営む。海底に沈んでいたレドとチェインバーを発見、回収した。作業用機械・ユンボロの操縦に長ける。仕事に厳しい姉御肌で、仲間からの信頼もあつい。18才",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/e0/18144_crt_oMiaa.jpg?r=1461726945",
+        "link": "https://bgm.tv/character/18144",
+        "categorie": "person"
+      },
+      {
+        "id": "18145",
+        "label": "莉吉特",
+        "info": "ガルガンティア船団長・フェアロックの補佐を務める。まじめで冷静、合理的な考えの持ち主で責任感も強い。ただその分、きまじめで窮屈でもあり、敬遠する人間も少なからずいる。22才",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/05/18145_crt_Tpv2w.jpg?r=1461727097",
+        "link": "https://bgm.tv/character/18145",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

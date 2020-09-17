@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65133",
+        "label": "花丸れもん",
+        "info": "誰にでも優しいため、男性からよく誤解される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/c0/65133_crt_JThUu.jpg",
+        "link": "https://bgm.tv/character/65133",
+        "categorie": "person"
+      },
+      {
+        "id": "65134",
+        "label": "花丸りんご",
+        "info": "表の顔は気楽な大学生だが、本質は、",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/69/65134_crt_bV52B.jpg",
+        "link": "https://bgm.tv/character/65134",
+        "categorie": "person"
+      },
+      {
+        "id": "65135",
+        "label": "花丸みかん",
+        "info": "本人は姉っぽく振舞おうともしてるが、失敗が多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/77/65135_crt_sRii2.jpg",
+        "link": "https://bgm.tv/character/65135",
+        "categorie": "person"
+      },
+      {
+        "id": "65136",
+        "label": "花丸ももこ",
+        "info": "結婚し、子供までいながら実家に戻ってきてる姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/87/65136_crt_TRcb4.jpg",
+        "link": "https://bgm.tv/character/65136",
+        "categorie": "person"
+      },
+      {
+        "id": "65138",
+        "label": "花丸餡禰",
+        "info": "キタヨ、関西弁。女だらけの空間で育った為、",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/f7/65138_crt_Pp6rp.jpg",
+        "link": "https://bgm.tv/character/65138",
+        "categorie": "person"
+      },
+      {
+        "id": "65140",
+        "label": "花丸琴菜",
+        "info": "メガネは顔の一部です。常に参考書を片手に持っているタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/f6/65140_crt_kYG6u.jpg",
+        "link": "https://bgm.tv/character/65140",
+        "categorie": "person"
+      },
+      {
+        "id": "65141",
+        "label": "花丸琉璃栖",
+        "info": "女だらけの環境で育った為に「男だらけ」な環境に憧れている姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/4d/65141_crt_9urmS.jpg",
+        "link": "https://bgm.tv/character/65141",
+        "categorie": "person"
+      },
+      {
+        "id": "65142",
+        "label": "花丸時子",
+        "info": "海外に住む父親に付き添っていた「らしい」姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/46/65142_crt_xXakD.jpg",
+        "link": "https://bgm.tv/character/65142",
+        "categorie": "person"
+      },
+      {
+        "id": "65137",
+        "label": "花丸びわ",
+        "info": "女性は清く、正しく、美しく、慎ましく、",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/50/65137_crt_hFpI1.jpg",
+        "link": "https://bgm.tv/character/65137",
+        "categorie": "person"
+      },
+      {
+        "id": "65139",
+        "label": "花丸薫子",
+        "info": "どうしようもないくらい完璧な姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/6d/65139_crt_cP55m.jpg",
+        "link": "https://bgm.tv/character/65139",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

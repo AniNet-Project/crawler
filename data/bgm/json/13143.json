@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8748",
+        "label": "脳噛ネウロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/44/8748_crt_q76Gw.jpg",
+        "link": "https://bgm.tv/character/8748",
+        "categorie": "person"
+      },
+      {
+        "id": "29696",
+        "label": "桂木弥子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/a9/29696_crt_I0zTg.jpg",
+        "link": "https://bgm.tv/character/29696",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

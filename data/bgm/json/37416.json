@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13488",
+        "label": "茧",
+        "info": "忘れられた物と記憶を守護する猫神の少女。ボーイッシュな風貌をしているためか、時々男と間違えられる。神界で問題を起こしたために、母親から神力を剥奪された上に実家の高天原から追放の身となり、現在は柚子の家に居候しているが、毎日ゲームの怠惰な生活を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ae/13488_crt_HHemA.jpg",
+        "link": "https://bgm.tv/character/13488",
+        "categorie": "person"
+      },
+      {
+        "id": "13489",
+        "label": "古宫柚子",
+        "info": "万屋「八百万堂」の若女将。繭の面倒を見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/fa/13489_crt_tLkGc.jpg",
+        "link": "https://bgm.tv/character/13489",
+        "categorie": "person"
+      },
+      {
+        "id": "13490",
+        "label": "正仓院笹鸣",
+        "info": "繭と同じ猫神の少女で、彼女とは幼馴染。幼少の頃、彼女と繭の父親二人が互いの子の性別を「男」と勘違いしたため、勝手に許婚の証文を作ったことにより繭と許婚の関係になってしまっているが笹鳴自身はまんざらでもない様子。メイ子とは繭絡みで何かと張り合う仲。巨大木刀の「めかじき」を武器とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/dc/13490_crt_LoP6O.jpg",
+        "link": "https://bgm.tv/character/13490",
+        "categorie": "person"
+      },
+      {
+        "id": "13491",
+        "label": "芽衣子",
+        "info": "大黒天の孫娘。ツンデレお嬢様で、実は繭が好き。笹鳴とは繭絡みで何かと張り合う仲。「打ち出の小槌」を使って、雷を操ることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/fe/13491_crt_0vYNa.jpg",
+        "link": "https://bgm.tv/character/13491",
+        "categorie": "person"
+      },
+      {
+        "id": "13492",
+        "label": "弓太",
+        "info": "稲荷神の少年。大宮道主命（おおみやみちぬしのみこと）という名前があるらしいが、母親をはじめ周りからは「ゴン太」としか呼ばれていない。柚子に片思いを抱いているが気付いてもらえないなど、割と不遇な扱いを受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/cf/13492_crt_JFLUS.jpg",
+        "link": "https://bgm.tv/character/13492",
+        "categorie": "person"
+      },
+      {
+        "id": "13493",
+        "label": "纱蒙",
+        "info": "貧乏神。本名天之狭霧神紗蒙（あめのさぎりのかみしゃもう）。見た目は少女だが、子ども扱いされることを嫌っている。バブル経済のガス抜きのため、各地を巡回している。その正体は財物部一級査察官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/64/13493_crt_FeXnZ.jpg",
+        "link": "https://bgm.tv/character/13493",
+        "categorie": "person"
+      },
+      {
+        "id": "72258",
+        "label": "芳乃",
+        "info": "春を司る桜神の少女、彼女の持つ壺に入っている灰でさくらを咲かせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/e2/72258_crt_6U7ZO.jpg",
+        "link": "https://bgm.tv/character/72258",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

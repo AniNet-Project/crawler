@@ -1,0 +1,661 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28193",
+        "label": "岛村卯月",
+        "info": "女主角之一，从第一集开始出场。高中二年级生，在训练所不断练习跳舞，虽然在第一次“CINDERELLA PROJECT”的轮选中落败，最终能够通过补选，成为“CINDERELLA PROJECT”的一员。被制作人选上的原因是其笑容，这亦是她个人十分自信的一点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/58/28193_crt_99Aam.jpg?r=1551990373",
+        "link": "https://bgm.tv/character/28193",
+        "categorie": "person"
+      },
+      {
+        "id": "25520",
+        "label": "涩谷凛",
+        "info": "《偶像大師 灰姑娘女孩》作品中人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fd/25520_crt_PZPS9.jpg?r=1551990471",
+        "link": "https://bgm.tv/character/25520",
+        "categorie": "person"
+      },
+      {
+        "id": "28439",
+        "label": "本田未央",
+        "info": "女主角之一。是一名高中一年级生，在第一集末出场，在后补的名额中通过选拔正式成为“CINDERELLA PROJECT”的一员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/01/28439_crt_Ma271.jpg?r=1551990552",
+        "link": "https://bgm.tv/character/28439",
+        "categorie": "person"
+      },
+      {
+        "id": "34660",
+        "label": "相叶夕美",
+        "info": "秋叶原地区的BOSS。黄色短发，在Passion类型中也可以算是正统派的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/a8/34660_crt_wAlVQ.jpg?r=1551990663",
+        "link": "https://bgm.tv/character/34660",
+        "categorie": "person"
+      },
+      {
+        "id": "28580",
+        "label": "赤城米莉亚",
+        "info": "于池袋区域首次出场。黑色中短发，束著短短的双马尾小女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/d8/28580_crt_CvyFO.jpg",
+        "link": "https://bgm.tv/character/28580",
+        "categorie": "person"
+      },
+      {
+        "id": "28579",
+        "label": "安娜斯塔西娅",
+        "info": "于北海道区域的关卡首次出场。银色短发少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/e0/28579_crt_BdObb.jpg",
+        "link": "https://bgm.tv/character/28579",
+        "categorie": "person"
+      },
+      {
+        "id": "34659",
+        "label": "安部菜菜",
+        "info": "以声优偶像为目标努力的偶像。一头红褐色头发，经常以单马尾的发型示人。身高146厘米，就算是对于自称的17岁也过于娇小，外表也和双叶杏的年龄相近，但却拥有天海春香一样傲人的胸围，总而言之属于loli巨乳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/f5/34659_crt_1ExZ4.jpg?r=1530314329",
+        "link": "https://bgm.tv/character/34659",
+        "categorie": "person"
+      },
+      {
+        "id": "36219",
+        "label": "荒木比奈",
+        "info": "20岁的大龄宅女，但是却有着与年龄不符的身高和容颜。眼神无时无刻看起来都显得懒散，头发也总是显得有些蓬乱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/5a/36219_crt_pCI0s.jpg",
+        "link": "https://bgm.tv/character/36219",
+        "categorie": "person"
+      },
+      {
+        "id": "36228",
+        "label": "五十岚响子",
+        "info": "手机社群游戏《偶像大师 灰姑娘女孩》的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/c6/36228_crt_n3jlt.jpg",
+        "link": "https://bgm.tv/character/36228",
+        "categorie": "person"
+      },
+      {
+        "id": "36216",
+        "label": "一之濑志希",
+        "info": "BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列的化学偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ab/36216_crt_TiHVf.jpg",
+        "link": "https://bgm.tv/character/36216",
+        "categorie": "person"
+      },
+      {
+        "id": "34662",
+        "label": "市原仁奈",
+        "info": "喜欢收集布偶服的9岁女孩，橘色长发，是游戏中目前(2013年9月)最年少的角色之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/0c/34662_crt_QN2U6.jpg",
+        "link": "https://bgm.tv/character/34662",
+        "categorie": "person"
+      },
+      {
+        "id": "40293",
+        "label": "上田铃帆",
+        "info": "上田铃帆是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/e4/40293_crt_59cgC.jpg",
+        "link": "https://bgm.tv/character/40293",
+        "categorie": "person"
+      },
+      {
+        "id": "36403",
+        "label": "及川雫",
+        "info": "手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/17/36403_crt_yuUu0.jpg",
+        "link": "https://bgm.tv/character/36403",
+        "categorie": "person"
+      },
+      {
+        "id": "31192",
+        "label": "大槻唯",
+        "info": "金髪のウェーブヘアの少女。「ちゃーっす！」「おはよーっす！」など軽い口調が特徴。キャップを被っていることが多い。キャンディー好きでよくなめている。飴好きの双葉杏に飴を取られたことがある。年齢も性格も異なるが相川千夏と交流があり彼女を「ちなったん」と呼んでいる。またメアリー・コクランから「姉に似ている」という理由で懐かれている。ノーマルの特訓後の衣装は「カナリアサマー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/cf/31192_crt_YTkiw.jpg",
+        "link": "https://bgm.tv/character/31192",
+        "categorie": "person"
+      },
+      {
+        "id": "28575",
+        "label": "绪方智绘里",
+        "info": "于横滨区域首次出场，束著双马尾的红发少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/6a/28575_crt_KsbnN.jpg",
+        "link": "https://bgm.tv/character/28575",
+        "categorie": "person"
+      },
+      {
+        "id": "41648",
+        "label": "乙仓悠贵",
+        "info": "游戏2014年5月28日推出的新区域“冈山”中登场的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/78/41648_crt_I6LIi.jpg",
+        "link": "https://bgm.tv/character/41648",
+        "categorie": "person"
+      },
+      {
+        "id": "36226",
+        "label": "片桐早苗",
+        "info": "28岁的原妇警（公务员），但是外表却显得十分幼小，实际上是Passion组最年长的偶像。胸部非常大，推定胸围为H。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/bb/36226_crt_5t355.jpg",
+        "link": "https://bgm.tv/character/36226",
+        "categorie": "person"
+      },
+      {
+        "id": "36218",
+        "label": "上条春菜",
+        "info": "手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/4f/36218_crt_6S6Hq.jpg",
+        "link": "https://bgm.tv/character/36218",
+        "categorie": "person"
+      },
+      {
+        "id": "34212",
+        "label": "神谷奈绪",
+        "info": "高中二年生。性格很害羞，却也带点傲气，明明是心里对制作人很有好感，刻意为制作人做些事情，口里却不承认。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/55/34212_crt_AH6oH.jpg",
+        "link": "https://bgm.tv/character/34212",
+        "categorie": "person"
+      },
+      {
+        "id": "28879",
+        "label": "川岛瑞树",
+        "info": "于秋叶原区域首次出场。左右中分棕色长曲发女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/91/28879_crt_Nu6sU.jpg",
+        "link": "https://bgm.tv/character/28879",
+        "categorie": "person"
+      },
+      {
+        "id": "28194",
+        "label": "神崎兰子",
+        "info": "拥有红色眼睛，银灰色长发，束著两条卷曲的双马尾的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/90/28194_crt_bglvd.jpg",
+        "link": "https://bgm.tv/character/28194",
+        "categorie": "person"
+      },
+      {
+        "id": "38527",
+        "label": "喜多见柚",
+        "info": "喜多见柚是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/9d/38527_crt_6eaTM.jpg",
+        "link": "https://bgm.tv/character/38527",
+        "categorie": "person"
+      },
+      {
+        "id": "34215",
+        "label": "木村夏树",
+        "info": "喜爱驾车旅行的18岁女孩。热血大姐头角色，语调和装扮很男人，得到她的信赖后也会被她说「我的背后就交给你了」之类的帅气台词。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/fe/34215_crt_8yVYM.jpg",
+        "link": "https://bgm.tv/character/34215",
+        "categorie": "person"
+      },
+      {
+        "id": "31027",
+        "label": "舆水幸子",
+        "info": "一头紫色短发，时常穿着着连衣裙。眼睛一般是吊眼并一直摆着一副欠扁从容的微笑，就算被欺负的时候也一样。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/bf/31027_crt_7vV8i.jpg",
+        "link": "https://bgm.tv/character/31027",
+        "categorie": "person"
+      },
+      {
+        "id": "31028",
+        "label": "小早川纱枝",
+        "info": "留着浅灰色的长头发，平时穿着和服，说话时也是十分优雅，使用京都方言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/74/31028_crt_555tx.jpg",
+        "link": "https://bgm.tv/character/31028",
+        "categorie": "person"
+      },
+      {
+        "id": "34658",
+        "label": "小日向美穗",
+        "info": "CUTE系的偶像，人气一直保持比较高的位置，前期登场机会较多，并最终CD出道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/87/34658_crt_LK0kC.jpg",
+        "link": "https://bgm.tv/character/34658",
+        "categorie": "person"
+      },
+      {
+        "id": "35276",
+        "label": "鹭泽文香",
+        "info": "2013年5月21日追加「愛媛地區」偶像時初登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/2b/35276_crt_2d29W.jpg",
+        "link": "https://bgm.tv/character/35276",
+        "categorie": "person"
+      },
+      {
+        "id": "34214",
+        "label": "佐久间麻由",
+        "info": "在角色塑造上，具有很浓的病娇要素，双眼长年处于无神状态，形态举止皆为标准病娇作风。自从相遇之后，一直认为和制作人拥有命运的羁绊。为了和制作人一起工作，甚至辞去了原本的读者模特工作。被部分玩家称作灰姑娘四大病娇之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/f3/34214_crt_EDGDL.jpg",
+        "link": "https://bgm.tv/character/34214",
+        "categorie": "person"
+      },
+      {
+        "id": "35277",
+        "label": "樱井桃华",
+        "info": "幼女大小姐偶像，于圣诞节活动登场，神户（该游戏第一个以市行政单位为出身地的偶像）出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a9/35277_crt_MR66l.jpg",
+        "link": "https://bgm.tv/character/35277",
+        "categorie": "person"
+      },
+      {
+        "id": "36220",
+        "label": "佐佐木千枝",
+        "info": "11岁，在年龄层普遍偏高的Cool系里面，是珍稀的小学生角色。和同为小学生组的龙崎薫和樱井桃华关系很好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/af/36220_crt_2vVZj.jpg",
+        "link": "https://bgm.tv/character/36220",
+        "categorie": "person"
+      },
+      {
+        "id": "44325",
+        "label": "佐藤心",
+        "info": "BNEI与Cygames开发的手机游戏《偶像大师 灰姑娘女孩》系列的大龄装嫩偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/fd/44325_crt_039J0.jpg",
+        "link": "https://bgm.tv/character/44325",
+        "categorie": "person"
+      },
+      {
+        "id": "31196",
+        "label": "椎名法子",
+        "info": "于涩谷区域首次出场，留着马尾的红发少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/ea/31196_crt_lfAFR.jpg",
+        "link": "https://bgm.tv/character/31196",
+        "categorie": "person"
+      },
+      {
+        "id": "36225",
+        "label": "盐见周子",
+        "info": "BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中登场的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/95/36225_crt_diISj.jpg",
+        "link": "https://bgm.tv/character/36225",
+        "categorie": "person"
+      },
+      {
+        "id": "28692",
+        "label": "城崎美嘉",
+        "info": "粉红长发少女，平常束著单马尾，特训后以双马尾示人。平常是一身时髦少女的打扮，特训后装束较为性感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d2/28692_crt_lkIG3.jpg",
+        "link": "https://bgm.tv/character/28692",
+        "categorie": "person"
+      },
+      {
+        "id": "28577",
+        "label": "城崎莉嘉",
+        "info": "金色长发少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/e3/28577_crt_X2Zll.jpg",
+        "link": "https://bgm.tv/character/28577",
+        "categorie": "person"
+      },
+      {
+        "id": "34216",
+        "label": "白坂小梅",
+        "info": "白坂小梅是一个13岁具有哥特风格的女孩。喜欢看恐怖电影和恐怖的东西，向往一切恐怖的东西，有时总能若无其事的说出一些恐怖的事，把其它偶像吓得不轻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3c/34216_crt_VdxaJ.jpg",
+        "link": "https://bgm.tv/character/34216",
+        "categorie": "person"
+      },
+      {
+        "id": "40291",
+        "label": "关裕美",
+        "info": "关裕美是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/cb/40291_crt_OgzUn.jpg",
+        "link": "https://bgm.tv/character/40291",
+        "categorie": "person"
+      },
+      {
+        "id": "24990",
+        "label": "高垣枫",
+        "info": "身形高挑，及肩浅墨绿色短发的女性，左眼为蓝色、右眼是绿色的异色瞳，和左眼下方的一颗痣是其特征。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/82/24990_crt_eYzy8.jpg",
+        "link": "https://bgm.tv/character/24990",
+        "categorie": "person"
+      },
+      {
+        "id": "28745",
+        "label": "高森蓝子",
+        "info": "「高森藍子」(たかもり あいこ) とは、Mobageにて配信されているバンダイナムコゲームスのソーシャルゲーム『アイドルマスター シンデレラガールズ』の森ガールである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/7e/28745_crt_4AYBK.jpg",
+        "link": "https://bgm.tv/character/28745",
+        "categorie": "person"
+      },
+      {
+        "id": "28576",
+        "label": "多田李衣菜",
+        "info": "热爱摇滚音乐，型象上也是摇滚的打扮，整天头上戴着一个大耳机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/b3/28576_crt_8cqe2.jpg",
+        "link": "https://bgm.tv/character/28576",
+        "categorie": "person"
+      },
+      {
+        "id": "35468",
+        "label": "橘爱丽丝",
+        "info": "「橘…橘ありすです。橘と呼んでください。その…アイドルには興味なかったのですが、将来は歌や音楽を仕事にしたいと思っていました。言われた仕事はしますから、心配しないでください」",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/28/35468_crt_BkIvz.jpg",
+        "link": "https://bgm.tv/character/35468",
+        "categorie": "person"
+      },
+      {
+        "id": "39063",
+        "label": "道明寺歌铃",
+        "info": "道明寺歌铃是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列的巫女偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/d1/39063_crt_yxFbo.jpg",
+        "link": "https://bgm.tv/character/39063",
+        "categorie": "person"
+      },
+      {
+        "id": "31026",
+        "label": "十时爱梨",
+        "info": "十时爱梨是《偶像大师 灰姑娘女孩》系列中的天然偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/9f/31026_crt_uTEtf.jpg",
+        "link": "https://bgm.tv/character/31026",
+        "categorie": "person"
+      },
+      {
+        "id": "31193",
+        "label": "中野有香",
+        "info": "偶像大师灰姑娘女孩游戏初期登场的偶像，有教养，认真，性格温柔的好孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/0d/31193_crt_jJYIY.jpg",
+        "link": "https://bgm.tv/character/31193",
+        "categorie": "person"
+      },
+      {
+        "id": "34663",
+        "label": "难波笑美",
+        "info": "难波笑美是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/b0/34663_crt_wQvXN.jpg",
+        "link": "https://bgm.tv/character/34663",
+        "categorie": "person"
+      },
+      {
+        "id": "28582",
+        "label": "新田美波",
+        "info": "新田美波是《偶像大师 灰姑娘女孩》系列中的女神系偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/01/28582_crt_r3MEb.jpg",
+        "link": "https://bgm.tv/character/28582",
+        "categorie": "person"
+      },
+      {
+        "id": "39217",
+        "label": "二宫飞鸟",
+        "info": "二宫飞鸟是《偶像大师 灰姑娘女孩》系列的中二偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/26/39217_crt_Issne.jpg",
+        "link": "https://bgm.tv/character/39217",
+        "categorie": "person"
+      },
+      {
+        "id": "34664",
+        "label": "滨口菖蒲",
+        "info": "京都登场的喜欢忍者的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/8a/34664_crt_3s077.jpg",
+        "link": "https://bgm.tv/character/34664",
+        "categorie": "person"
+      },
+      {
+        "id": "39214",
+        "label": "早坂美玲",
+        "info": "早坂美玲是手机社群游戏《偶像大师 灰姑娘女孩》系列的中二偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/2f/39214_crt_L5EfE.jpg",
+        "link": "https://bgm.tv/character/39214",
+        "categorie": "person"
+      },
+      {
+        "id": "35470",
+        "label": "速水奏",
+        "info": "经常使用调情的口吻调戏制作人，叫制作人吻她。很难知道她是开玩笑还是认真的，她的想法有些让人捉摸不透。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/d3/35470_crt_mwWES.jpg",
+        "link": "https://bgm.tv/character/35470",
+        "categorie": "person"
+      },
+      {
+        "id": "28881",
+        "label": "日野茜",
+        "info": "日野茜是《偶像大师 灰姑娘女孩》系列中的热血偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/67/28881_crt_i99ia.jpg",
+        "link": "https://bgm.tv/character/28881",
+        "categorie": "person"
+      },
+      {
+        "id": "31029",
+        "label": "姬川友纪",
+        "info": "仕事中にも野球の試合が気になってしまう程の野球好きでプロ野球チームのキャッツ（架空チーム）のファン。キャッツのマスコットキャラクター「ねこっぴー」好きでもある。よく応援をしているため、大声を出すのは得意。実際は野球をするのも好きで夢は始球式に出ること。シャンパンを好む。ノーマルの特訓後の衣装は「カナリアサマー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/a6/31029_crt_5woho.jpg",
+        "link": "https://bgm.tv/character/31029",
+        "categorie": "person"
+      },
+      {
+        "id": "36214",
+        "label": "藤本里奈",
+        "info": "2013年3月12日开放「仙台地区」时初登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/5d/36214_crt_i2ixI.jpg",
+        "link": "https://bgm.tv/character/36214",
+        "categorie": "person"
+      },
+      {
+        "id": "38520",
+        "label": "藤原肇",
+        "info": "藤原肇是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中的登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/98/38520_crt_aXTT8.jpg",
+        "link": "https://bgm.tv/character/38520",
+        "categorie": "person"
+      },
+      {
+        "id": "20391",
+        "label": "双叶杏",
+        "info": "浅土黄色长发，悠闲懒散的乏力系少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/1d/20391_crt_H8wZj.jpg",
+        "link": "https://bgm.tv/character/20391",
+        "categorie": "person"
+      },
+      {
+        "id": "34213",
+        "label": "北条加莲",
+        "info": "橘色长发少女。体弱多病，因此性格内向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/43/34213_crt_izksT.jpg?r=1511273553",
+        "link": "https://bgm.tv/character/34213",
+        "categorie": "person"
+      },
+      {
+        "id": "36224",
+        "label": "星辉子",
+        "info": "蘑菇系偶像，初出于福冈地区的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/4c/36224_crt_AxXxl.jpg",
+        "link": "https://bgm.tv/character/36224",
+        "categorie": "person"
+      },
+      {
+        "id": "36223",
+        "label": "堀裕子",
+        "info": "手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/49/36223_crt_9kvKn.jpg",
+        "link": "https://bgm.tv/character/36223",
+        "categorie": "person"
+      },
+      {
+        "id": "28581",
+        "label": "前川未来",
+        "info": "游戏运营初作为「原宿」地区的BOSS登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/40/28581_crt_j1awG.jpg",
+        "link": "https://bgm.tv/character/28581",
+        "categorie": "person"
+      },
+      {
+        "id": "35469",
+        "label": "松永凉",
+        "info": "东京都出生的18岁少女。喜欢看恐怖电影。和拥有同样爱好的白坂小梅是好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/2a/35469_crt_n14a1.jpg",
+        "link": "https://bgm.tv/character/35469",
+        "categorie": "person"
+      },
+      {
+        "id": "31194",
+        "label": "水本紫",
+        "info": "正统派清纯系偶像。身材娇小，用词礼貌。从小学习长笛，拥有良好的音感，但对跳舞苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/93/31194_crt_P8gWg.jpg",
+        "link": "https://bgm.tv/character/31194",
+        "categorie": "person"
+      },
+      {
+        "id": "38382",
+        "label": "三船美优",
+        "info": "三船美优是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列的登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/bf/38382_crt_ssASc.jpg",
+        "link": "https://bgm.tv/character/38382",
+        "categorie": "person"
+      },
+      {
+        "id": "28578",
+        "label": "三村加奈子",
+        "info": "三村加奈子是手机社群游戏《偶像大师 灰姑娘女孩》系列的吃货偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/fb/28578_crt_OrkDc.jpg",
+        "link": "https://bgm.tv/character/28578",
+        "categorie": "person"
+      },
+      {
+        "id": "34680",
+        "label": "宫本芙蕾德莉卡",
+        "info": "父亲是日本人母亲是法国人的混血儿，天生一头漂亮的金发。不会法语，但是经常使用法国的点心作为必杀技的台词。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/56/34680_crt_v5R1F.jpg",
+        "link": "https://bgm.tv/character/34680",
+        "categorie": "person"
+      },
+      {
+        "id": "34661",
+        "label": "向井拓海",
+        "info": "向井拓海是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中登场的特攻队长偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/1f/34661_crt_NSbgh.jpg",
+        "link": "https://bgm.tv/character/34661",
+        "categorie": "person"
+      },
+      {
+        "id": "39065",
+        "label": "栋方爱海",
+        "info": "栋方爱海是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/cd/39065_crt_V7ovj.jpg",
+        "link": "https://bgm.tv/character/39065",
+        "categorie": "person"
+      },
+      {
+        "id": "39229",
+        "label": "村上巴",
+        "info": "村上巴是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/0f/39229_crt_3OJOo.jpg",
+        "link": "https://bgm.tv/character/39229",
+        "categorie": "person"
+      },
+      {
+        "id": "37181",
+        "label": "森久保乃乃",
+        "info": "森久保乃乃是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/84/37181_crt_GS7lt.jpg",
+        "link": "https://bgm.tv/character/37181",
+        "categorie": "person"
+      },
+      {
+        "id": "28574",
+        "label": "诸星琪拉莉",
+        "info": "《偶像大师 灰姑娘女孩》系列中的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/a7/28574_crt_lL16h.jpg",
+        "link": "https://bgm.tv/character/28574",
+        "categorie": "person"
+      },
+      {
+        "id": "39225",
+        "label": "大和亚季",
+        "info": "大和亚季是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中登场的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/da/39225_crt_IjBPA.jpg",
+        "link": "https://bgm.tv/character/39225",
+        "categorie": "person"
+      },
+      {
+        "id": "39226",
+        "label": "结城晴",
+        "info": "结城晴是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列的登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/21/39226_crt_m4r3Q.jpg",
+        "link": "https://bgm.tv/character/39226",
+        "categorie": "person"
+      },
+      {
+        "id": "38381",
+        "label": "依田芳乃",
+        "info": "BNEI与Cygames开发的手机游戏《偶像大师 灰姑娘女孩》系列的强运偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/b6/38381_crt_0x0bp.jpg",
+        "link": "https://bgm.tv/character/38381",
+        "categorie": "person"
+      },
+      {
+        "id": "36222",
+        "label": "龙崎薰",
+        "info": "手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/0e/36222_crt_mYjJt.jpg",
+        "link": "https://bgm.tv/character/36222",
+        "categorie": "person"
+      },
+      {
+        "id": "39218",
+        "label": "胁山珠美",
+        "info": "胁山珠美是BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中登场的剑道偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/71/39218_crt_juO7T.jpg",
+        "link": "https://bgm.tv/character/39218",
+        "categorie": "person"
+      },
+      {
+        "id": "31212",
+        "label": "千川千寻",
+        "info": "346Production的事务人员。担任着后援和联络的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/31/31212_crt_S40qS.jpg",
+        "link": "https://bgm.tv/character/31212",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "36808",
+        "label": "工藤忍",
+        "info": "工藤忍是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/0d/36808_crt_p2Coo.jpg",
+        "link": "https://bgm.tv/character/36808",
+        "categorie": "person"
+      },
+      {
+        "id": "36230",
+        "label": "绫濑穗乃香",
+        "info": "BNEI手机社群游戏《偶像大师 灰姑娘女孩》系列中的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/bc/36230_crt_zVHfm.jpg",
+        "link": "https://bgm.tv/character/36230",
+        "categorie": "person"
+      },
+      {
+        "id": "36215",
+        "label": "桃井小豆",
+        "info": "游戏初期就出现的Rare偶像。由于老家是开和服店，所以喜欢穿着和服。从最开始的浴衣迷你裙开始，一般以流行x和风的风格登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/55/36215_crt_177f7.jpg",
+        "link": "https://bgm.tv/character/36215",
+        "categorie": "person"
+      },
+      {
+        "id": "38380",
+        "label": "今井加奈",
+        "info": "今井加奈是手机社群游戏《偶像大师 灰姑娘女孩》系列的偶像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/55/38380_crt_BBr23.jpg",
+        "link": "https://bgm.tv/character/38380",
+        "categorie": "person"
+      },
+      {
+        "id": "49339",
+        "label": "间中美里",
+        "info": "BNEI与Cygames开发的手机游戏《偶像大师 灰姑娘女孩》系列的登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a0/49339_crt_0bczx.jpg",
+        "link": "https://bgm.tv/character/49339",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

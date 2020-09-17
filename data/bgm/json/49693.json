@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13966",
+        "label": "大門カイト",
+        "info": "主人公，从英国归国，私立√（Root）学园高一学生，因解开贤者之谜而获得“爱因斯坦的称号”，最大的爱好是解谜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/86/13966_crt_dvcwv.jpg",
+        "link": "https://bgm.tv/character/13966",
+        "categorie": "person"
+      },
+      {
+        "id": "13967",
+        "label": "井藤ノノハ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/fd/13967_crt_Fc5Y7.jpg",
+        "link": "https://bgm.tv/character/13967",
+        "categorie": "person"
+      },
+      {
+        "id": "13968",
+        "label": "逆之上ギャモン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/34/13968_crt_9tqBo.jpg",
+        "link": "https://bgm.tv/character/13968",
+        "categorie": "person"
+      },
+      {
+        "id": "13969",
+        "label": "ルーク・盤城・クロスフィールド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/38/13969_crt_707ZQ.jpg",
+        "link": "https://bgm.tv/character/13969",
+        "categorie": "person"
+      },
+      {
+        "id": "13971",
+        "label": "キュービック・G",
+        "info": "拥有“爱迪生的称号”的少年发明家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/44/13971_crt_2V2tN.jpg",
+        "link": "https://bgm.tv/character/13971",
+        "categorie": "person"
+      },
+      {
+        "id": "13972",
+        "label": "アナ・グラム",
+        "info": "拥有“达芬奇的称号”，艺术才能优秀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9d/13972_crt_hRDGr.jpg",
+        "link": "https://bgm.tv/character/13972",
+        "categorie": "person"
+      },
+      {
+        "id": "13973",
+        "label": "軸川ソウジ",
+        "info": "学生会长兼解谜部部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/13/13973_crt_a7iMm.jpg",
+        "link": "https://bgm.tv/character/13973",
+        "categorie": "person"
+      },
+      {
+        "id": "22197",
+        "label": "フリーセル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/5a/22197_crt_ez1Av.jpg?r=1385920434",
+        "link": "https://bgm.tv/character/22197",
+        "categorie": "person"
+      },
+      {
+        "id": "13974",
+        "label": "解道バロン",
+        "info": "校长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/bc/13974_crt_gCoov.jpg",
+        "link": "https://bgm.tv/character/13974",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

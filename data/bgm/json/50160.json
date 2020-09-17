@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46720",
+        "label": "東雲美晴",
+        "info": "学園2年生。主人公と同学年でクラスは別。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/ee/46720_crt_SRsh7.jpg",
+        "link": "https://bgm.tv/character/46720",
+        "categorie": "person"
+      },
+      {
+        "id": "46721",
+        "label": "東雲双葉",
+        "info": "学園1年生。主人公の1つ下で美晴の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/26/46721_crt_s6NxO.jpg",
+        "link": "https://bgm.tv/character/46721",
+        "categorie": "person"
+      },
+      {
+        "id": "48911",
+        "label": "入船潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/45/48911_crt_1521K.jpg",
+        "link": "https://bgm.tv/character/48911",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38475",
+        "label": "飞鸟凑",
+        "info": "主人公。唯一の身寄りである祖母を亡くして、天涯孤独の身。行くあてもなく困っていたところに現れた風莉に拾われ、女子校に通うことになる。男の子だが、女装してスカートを穿くと胸を盛ったりしなくても全く違和感がない。その美少女っぷりは正体を隠すのには好都合だが、本人的には納得がいかないでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/eb/38475_crt_bH2pa.jpg?r=1498365168",
+        "link": "https://bgm.tv/character/38475",
+        "categorie": "person"
+      },
+      {
+        "id": "38476",
+        "label": "西园寺风莉",
+        "info": "身寄りを亡くした湊の後見人となった大財閥のお嬢様。小さい頃、メイドをしていた湊の祖母に育てられたので、その縁で拾ってきた。学生の身でありながら、実家が経営する女学園の理事長を務めている。拾ってきたのは男の子だけど、面倒なので自分の学園に女装させて通わせることにする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/64/38476_crt_3Visg.jpg?r=1464283063",
+        "link": "https://bgm.tv/character/38476",
+        "categorie": "person"
+      },
+      {
+        "id": "40611",
+        "label": "贵船柚子",
+        "info": "湊や風莉と同じクラスで、住んでいる寮も同じ場所。名家のお嬢様だが愛嬌があって親しみやすく、湊のことも何かと気に掛けてくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/8c/40611_crt_11754.jpg?r=1464283055",
+        "link": "https://bgm.tv/character/40611",
+        "categorie": "person"
+      },
+      {
+        "id": "40612",
+        "label": "大垣日向",
+        "info": "同じ寮に住んでいる、一学年下の下級生。図書委員。実家は新興の企業グループを支配する成金一族、らしいが成金らしい嫌味さは一切無い。むしろ中二病が深刻すぎて、家柄とか性格とかそれどころじゃない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/a3/40612_crt_FfWNz.jpg?r=1464283075",
+        "link": "https://bgm.tv/character/40612",
+        "categorie": "person"
+      },
+      {
+        "id": "55346",
+        "label": "皆见美结",
+        "info": "教室で湊とは隣の席になる同級生。陽気で気さく、初対面からフレンドリーな女の子。しっかり者で面倒見もよく、大抵の相手とはすぐに仲良くなってしまう。柚子とは親友同士で、彼女に誘われ同じ新聞部に所属する部活仲間でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/67/55346_crt_POOsZ.jpg?r=1498365755",
+        "link": "https://bgm.tv/character/55346",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

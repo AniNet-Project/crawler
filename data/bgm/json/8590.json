@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16110",
+        "label": "数码子",
+        "info": "本名Chocola（法文：意指巧克力），Di Gi Charat星（数码星）的公主，有著腹黑的性格。可以从眼睛发射出“目からビーム”（眼睛射线／眼部火焰炮）。因为怀念母星Di Gi Charat而改名为与母星同名。说话时句尾会加上“Nyo”（喵）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/d4/16110_crt_2gjaG.jpg?r=1565742609",
+        "link": "https://bgm.tv/character/16110",
+        "categorie": "person"
+      },
+      {
+        "id": "5986",
+        "label": "布子",
+        "info": "プチ・キャラット / カプチーノ（卡布奇诺）",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/01/5986_crt_16TI5.jpg?r=1565743079",
+        "link": "https://bgm.tv/character/5986",
+        "categorie": "person"
+      },
+      {
+        "id": "71258",
+        "label": "仙波拓郎",
+        "info": "クリスマスの日にでじこと出会った青年。バイトをしながら役者を目指している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/cb/71258_crt_NA3gy.jpg?r=1565441936",
+        "link": "https://bgm.tv/character/71258",
+        "categorie": "person"
+      },
+      {
+        "id": "71259",
+        "label": "爱子",
+        "info": "ている拓郎のアパートに入り浸っている女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/c4/71259_crt_RtV9Q.jpg?r=1565441958",
+        "link": "https://bgm.tv/character/71259",
+        "categorie": "person"
+      },
+      {
+        "id": "5987",
+        "label": "拉比安露丝",
+        "info": "声 - 氷上恭子（初代） / 矢澤りえか（2代目）",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/90/5987_crt_sl4YP.jpg?r=1565521543",
+        "link": "https://bgm.tv/character/5987",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6387",
+        "label": "有马哲平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/7e/6387_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6387",
+        "categorie": "person"
+      },
+      {
+        "id": "6388",
+        "label": "希尔维娅·范·霍森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/ed/6388_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6388",
+        "categorie": "person"
+      },
+      {
+        "id": "6389",
+        "label": "藤仓优",
+        "info": "来自孤儿院。对资助了原本快要倒闭的孤儿院的一心（哲平的外公）内心充满感激。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/ab/6389_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6389",
+        "categorie": "person"
+      },
+      {
+        "id": "8454",
+        "label": "玛利亚·范·霍森",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/82/8454_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8454",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

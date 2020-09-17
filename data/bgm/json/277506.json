@@ -1,0 +1,189 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72130",
+        "label": "ミカ",
+        "info": "普段はぼーっとしているが、龍のことになると饒舌になる。龍の肉を美味しく食べることが何よりも優先で無茶な行動に出ることも多い。料理の腕も確かなようで、知識も多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/a6/72130_crt_e0Tza.jpg",
+        "link": "https://bgm.tv/character/72130",
+        "categorie": "person"
+      },
+      {
+        "id": "72131",
+        "label": "タキタ",
+        "info": "新人の乗組員。好奇心旺盛で何にでも前のめりに挑戦する。新米のため、雑用一切を押し付けられることもしばしば。ヴァナベルを姉のように慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ae/72131_crt_64mt6.jpg",
+        "link": "https://bgm.tv/character/72131",
+        "categorie": "person"
+      },
+      {
+        "id": "72132",
+        "label": "ジロー",
+        "info": "生真面目で冷静な判断力の持ち主。目が良く天測が得意で、船内でも一番の正確さを持つ。たまにタキタに厳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/65/72132_crt_DvPjq.jpg",
+        "link": "https://bgm.tv/character/72132",
+        "categorie": "person"
+      },
+      {
+        "id": "72133",
+        "label": "ヴァナベル",
+        "info": "愛称はヴァニー。ミカだけがヴァナベルと呼ぶ。捕龍の腕は船内でも一、ニを争い、銃を扱うのも上手く、ミカの援護をすることも多い。クールな性格で、かなりの酒豪だが、繊細な一面も持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/fd/72133_crt_PKUJ1.jpg",
+        "link": "https://bgm.tv/character/72133",
+        "categorie": "person"
+      },
+      {
+        "id": "74601",
+        "label": "ギブス",
+        "info": "甲板長であり、乗組員全員をまとめあげる。大銛（アンカー）を撃つ砲手でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/f1/74601_crt_yf050.jpg",
+        "link": "https://bgm.tv/character/74601",
+        "categorie": "person"
+      },
+      {
+        "id": "74602",
+        "label": "クロッコ",
+        "info": "船長代理を務め、クィン・ザザ号に並々ならぬ愛着と誇りを持つ。ヘビースモーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/d9/74602_crt_S4Lov.jpg",
+        "link": "https://bgm.tv/character/74602",
+        "categorie": "person"
+      },
+      {
+        "id": "74603",
+        "label": "ニコ",
+        "info": "常に黒い帽子を被っている。狙撃の名手であり、船員の兄貴的存在で後輩思いな一面もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/89/74603_crt_ruKuR.jpg",
+        "link": "https://bgm.tv/character/74603",
+        "categorie": "person"
+      },
+      {
+        "id": "74604",
+        "label": "バーコ",
+        "info": "クィン・ザザ号の古株の一人。身長が低く、同じく年長者のバダキンと仲が良い。酒好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/43/74604_crt_577EV.jpg",
+        "link": "https://bgm.tv/character/74604",
+        "categorie": "person"
+      },
+      {
+        "id": "74605",
+        "label": "カペラ",
+        "info": "クィン・ザザ号の女性操縦士。高身長で実はスタイルも良い。肩こりと腰痛が悩みのタネ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/08/74605_crt_Neiw6.jpg",
+        "link": "https://bgm.tv/character/74605",
+        "categorie": "person"
+      },
+      {
+        "id": "74606",
+        "label": "ガガ",
+        "info": "身体が大きく力持ちで、坊主頭が特徴的。首にスカーフを巻いていて、おでこが固い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/34/74606_crt_3349L.jpg",
+        "link": "https://bgm.tv/character/74606",
+        "categorie": "person"
+      },
+      {
+        "id": "74607",
+        "label": "フェイ",
+        "info": "ツンツンした金髪頭がチャームポイント。ソラヤと仲が良く、一緒に行動している。趣味は読書。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/8b/74607_crt_axi3m.jpg",
+        "link": "https://bgm.tv/character/74607",
+        "categorie": "person"
+      },
+      {
+        "id": "74608",
+        "label": "バダキン",
+        "info": "クィン・ザザ号の古株の一人。年長者で口ひげが印象的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/ab/74608_crt_6tNIP.jpg",
+        "link": "https://bgm.tv/character/74608",
+        "categorie": "person"
+      },
+      {
+        "id": "74609",
+        "label": "オーケン",
+        "info": "ニコと同年代で仲が良い。面白そうなことには首を突っ込まずにはいられない。喧嘩っ早い性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/26/74609_crt_D2ry3.jpg",
+        "link": "https://bgm.tv/character/74609",
+        "categorie": "person"
+      },
+      {
+        "id": "74610",
+        "label": "ソラヤ",
+        "info": "口を開けば軽口と不平が飛び出すお調子者。タキタをからかうことが多い。フェイと仲が良い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e5/74610_crt_1114C.jpg",
+        "link": "https://bgm.tv/character/74610",
+        "categorie": "person"
+      },
+      {
+        "id": "74611",
+        "label": "メイン",
+        "info": "機械を愛する女性技士。小柄な体格とは裏腹に、男勝りで、物怖じしない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/53/74611_crt_V59eL.jpg",
+        "link": "https://bgm.tv/character/74611",
+        "categorie": "person"
+      },
+      {
+        "id": "74612",
+        "label": "ヒーロ",
+        "info": "技師見習い。クィン・ザザ号の船員の中で最も影が薄い。静かなところを好む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/f7/74612_crt_Olbcx.jpg",
+        "link": "https://bgm.tv/character/74612",
+        "categorie": "person"
+      },
+      {
+        "id": "74613",
+        "label": "ヨシ",
+        "info": "クィン・ザザ号の司厨長（コック）。たった一人で乗組員全員の食事を切り盛りし、船員の健康管理にも気を配る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/84/74613_crt_Z6FkK.jpg",
+        "link": "https://bgm.tv/character/74613",
+        "categorie": "person"
+      },
+      {
+        "id": "74614",
+        "label": "リー",
+        "info": "クィン・ザザ号の会計士で船の金銭面を一人で担う。そろばんを持ち歩き、金食い虫である捕龍船のやりくりに、いつも頭を悩ましている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/e1/74614_crt_5lH7Z.jpg",
+        "link": "https://bgm.tv/character/74614",
+        "categorie": "person"
+      },
+      {
+        "id": "74616",
+        "label": "カーチャ",
+        "info": "捕龍基地であるクオーン市の酒場で幼いころから働く少女で、明るい性格をしている。クオーン市の外に出たことがない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/76/74616_crt_E1189.jpg",
+        "link": "https://bgm.tv/character/74616",
+        "categorie": "person"
+      },
+      {
+        "id": "74617",
+        "label": "ナナミ",
+        "info": "古くから龍を解体・加工して暮らす「千剖士（せんぼうし）」一族の女性。解体した龍の皮を使用して“壁掛け”を作っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/5d/74617_crt_4777n.jpg",
+        "link": "https://bgm.tv/character/74617",
+        "categorie": "person"
+      },
+      {
+        "id": "74618",
+        "label": "アスケラ",
+        "info": "猟師（マタギ）の女性。キン山という山の麓に住んでいる。姉御肌で面倒見が良く、正直者。料理も得意である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a1/74618_crt_cRRuy.jpg",
+        "link": "https://bgm.tv/character/74618",
+        "categorie": "person"
+      },
+      {
+        "id": "74615",
+        "label": "ダグ",
+        "info": "クィン・ザザ号の機関長。船員からは「おやっさん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/96/74615_crt_EP0M2.jpg",
+        "link": "https://bgm.tv/character/74615",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "14222",
+        "label": "艾莉丝",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ba/14222_crt_mMrs4.jpg",
+        "link": "https://bgm.tv/character/14222",
+        "categorie": "person"
+      },
+      {
+        "id": "14223",
+        "label": "天桐",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/90/14223_crt_8iiEl.jpg",
+        "link": "https://bgm.tv/character/14223",
+        "categorie": "person"
+      },
+      {
+        "id": "14550",
+        "label": "大木茂",
+        "info": "小智的劲敌，同是出身于真新镇，是大木博士的孙子，全名为大木茂。动画版小智的对手。原来的目标是成为神奇宝贝大师。小茂之后改变志向，换为成为神奇宝贝研究者，到现在主要在神奥地方进行研究。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/63/14550_crt_a2cDf.jpg",
+        "link": "https://bgm.tv/character/14550",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

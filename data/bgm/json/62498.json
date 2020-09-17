@@ -1,0 +1,301 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10779",
+        "label": "岳画杀",
+        "info": "悪司の叔母(山本一発の娘)で本作における重要キャラの一人(死亡、捕縛、解雇などでいなくなるとゲームオーバーになる)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/16/10779_crt_058Pu.jpg",
+        "link": "https://bgm.tv/character/10779",
+        "categorie": "person"
+      },
+      {
+        "id": "10781",
+        "label": "加贺元子",
+        "info": "わかめ組の幹部でわかめ組の元幹部加賀太郎の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/28/10781_crt_BCjfR.jpg",
+        "link": "https://bgm.tv/character/10781",
+        "categorie": "person"
+      },
+      {
+        "id": "10777",
+        "label": "山本恶司",
+        "info": "本作の主人公でわかめ組の先代組長である山本百発の嫡子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d6/10777_crt_y3Oza.jpg",
+        "link": "https://bgm.tv/character/10777",
+        "categorie": "person"
+      },
+      {
+        "id": "10780",
+        "label": "白民华",
+        "info": "コウベの中華料理屋「水陸両用」で働く少女で悪司の想われ人。悪司のことは好きだがカタギの世界で生きていたためその生き方に納得できない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/2b/10780_crt_1NQ6i.jpg",
+        "link": "https://bgm.tv/character/10780",
+        "categorie": "person"
+      },
+      {
+        "id": "10788",
+        "label": "乃木喜久子",
+        "info": "元日本軍の大将である乃木重彦の孫娘で礼儀正しい大和撫子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/81/10788_crt_122tb.jpg",
+        "link": "https://bgm.tv/character/10788",
+        "categorie": "person"
+      },
+      {
+        "id": "10791",
+        "label": "由女",
+        "info": "敵対勢力「観世那古真燈教」の教祖。自らの血で他者を治療する能力を持つ。過去の記憶を失っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e9/10791_crt_gKbDL.jpg",
+        "link": "https://bgm.tv/character/10791",
+        "categorie": "person"
+      },
+      {
+        "id": "79214",
+        "label": "野山惠",
+        "info": "那古教徒，擅长使用竹枪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/eb/79214_crt_Y8cYp.jpg",
+        "link": "https://bgm.tv/character/79214",
+        "categorie": "person"
+      },
+      {
+        "id": "79217",
+        "label": "青叶曜子",
+        "info": "青年团团长，收留山本恶司，结果被恶司反客为主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/9e/79217_crt_aoe14.jpg",
+        "link": "https://bgm.tv/character/79217",
+        "categorie": "person"
+      },
+      {
+        "id": "79218",
+        "label": "筒井朝颜",
+        "info": "那古教徒，暴露狂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/ce/79218_crt_zS1Tr.jpg",
+        "link": "https://bgm.tv/character/79218",
+        "categorie": "person"
+      },
+      {
+        "id": "79219",
+        "label": "市桥兰",
+        "info": "原为山本一发的情妇，利用女性法律地位提升机会，成为组织首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/9f/79219_crt_5ktOf.jpg",
+        "link": "https://bgm.tv/character/79219",
+        "categorie": "person"
+      },
+      {
+        "id": "79220",
+        "label": "岛本纯",
+        "info": "若命组中忠于山本恶司的人之一，恶司的智囊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/46/79220_crt_Gm19a.jpg",
+        "link": "https://bgm.tv/character/79220",
+        "categorie": "person"
+      },
+      {
+        "id": "79221",
+        "label": "辻家晴子",
+        "info": "若芽组成员，市桥兰的支持者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/f5/79221_crt_P5yRo.jpg",
+        "link": "https://bgm.tv/character/79221",
+        "categorie": "person"
+      },
+      {
+        "id": "79222",
+        "label": "森田爱",
+        "info": "若芽组成员，热衷武士道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ec/79222_crt_H70mW.jpg",
+        "link": "https://bgm.tv/character/79222",
+        "categorie": "person"
+      },
+      {
+        "id": "68624",
+        "label": "伊哈比拉",
+        "info": "WIME的高级科研人员，出于某种目的来到大阪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/df/68624_crt_dshSF.jpg",
+        "link": "https://bgm.tv/character/68624",
+        "categorie": "person"
+      },
+      {
+        "id": "10789",
+        "label": "神原夕子",
+        "info": "悪司の性教育係で本作における重要キャラの一人(死亡、捕縛、解雇などでいなくなるとゲームオーバーになる)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/33/10789_crt_0TA6U.jpg",
+        "link": "https://bgm.tv/character/10789",
+        "categorie": "person"
+      },
+      {
+        "id": "10790",
+        "label": "山本一发",
+        "info": "わかめ組のご隠居で悪司の祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a5/10790_crt_NJg7j.jpg",
+        "link": "https://bgm.tv/character/10790",
+        "categorie": "person"
+      },
+      {
+        "id": "10792",
+        "label": "普里西拉·瓦多露",
+        "info": "ウィミィ人の空軍士官（パイロット）。戦地で悪司と出会い、抱かれた経験が忘れられない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/14/10792_crt_55yuh.jpg",
+        "link": "https://bgm.tv/character/10792",
+        "categorie": "person"
+      },
+      {
+        "id": "79215",
+        "label": "加古未来",
+        "info": "青叶曜子的副手，大胃王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/6f/79215_crt_c2P6M.jpg",
+        "link": "https://bgm.tv/character/79215",
+        "categorie": "person"
+      },
+      {
+        "id": "79216",
+        "label": "衣笠智子",
+        "info": "青叶曜子的副手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/c3/79216_crt_RnUQj.jpg",
+        "link": "https://bgm.tv/character/79216",
+        "categorie": "person"
+      },
+      {
+        "id": "79223",
+        "label": "古宫阳子",
+        "info": "那古教领导者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/15/79223_crt_Ce4Hs.jpg",
+        "link": "https://bgm.tv/character/79223",
+        "categorie": "person"
+      },
+      {
+        "id": "79224",
+        "label": "月濑宁宁",
+        "info": "那古教领导者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/bd/79224_crt_75Z5b.jpg",
+        "link": "https://bgm.tv/character/79224",
+        "categorie": "person"
+      },
+      {
+        "id": "79225",
+        "label": "素敌医师",
+        "info": "市桥兰雇来对付山本恶司的疯狂医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/5c/79225_crt_1OSQi.jpg",
+        "link": "https://bgm.tv/character/79225",
+        "categorie": "person"
+      },
+      {
+        "id": "79226",
+        "label": "デカオ",
+        "info": "疯狂医生的实验品，拥有怪力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/44/79226_crt_ozCyw.jpg",
+        "link": "https://bgm.tv/character/79226",
+        "categorie": "person"
+      },
+      {
+        "id": "79227",
+        "label": "大杉刚",
+        "info": "若芽组成员，山本恶司的武术和兵法导师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/04/79227_crt_FVz3X.jpg",
+        "link": "https://bgm.tv/character/79227",
+        "categorie": "person"
+      },
+      {
+        "id": "79228",
+        "label": "贵神雷赠",
+        "info": "富豪，热衷购买性奴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/c8/79228_crt_DWHqD.jpg",
+        "link": "https://bgm.tv/character/79228",
+        "categorie": "person"
+      },
+      {
+        "id": "79229",
+        "label": "朱迪·卡瓦德",
+        "info": "维米军官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/0f/79229_crt_SIneN.jpg",
+        "link": "https://bgm.tv/character/79229",
+        "categorie": "person"
+      },
+      {
+        "id": "79230",
+        "label": "大谷善继",
+        "info": "乃木家的护卫，武器是铲子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/d2/79230_crt_vrxj1.jpg",
+        "link": "https://bgm.tv/character/79230",
+        "categorie": "person"
+      },
+      {
+        "id": "79231",
+        "label": "野比ひかり",
+        "info": "乃木家的护卫，空手道高手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/cc/79231_crt_4Z8Tp.jpg",
+        "link": "https://bgm.tv/character/79231",
+        "categorie": "person"
+      },
+      {
+        "id": "79232",
+        "label": "セヤダタラ",
+        "info": "神秘的机器人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/09/79232_crt_c4cuP.jpg",
+        "link": "https://bgm.tv/character/79232",
+        "categorie": "person"
+      },
+      {
+        "id": "79233",
+        "label": "小原小春",
+        "info": "洋葱老师的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/ad/79233_crt_8519o.jpg",
+        "link": "https://bgm.tv/character/79233",
+        "categorie": "person"
+      },
+      {
+        "id": "79234",
+        "label": "洋葱老师",
+        "info": "调教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e9/79234_crt_TCeH4.jpg",
+        "link": "https://bgm.tv/character/79234",
+        "categorie": "person"
+      },
+      {
+        "id": "79235",
+        "label": "石原千手",
+        "info": "洋葱老师的助手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/61/79235_crt_VCsDr.jpg?r=1597319522",
+        "link": "https://bgm.tv/character/79235",
+        "categorie": "person"
+      },
+      {
+        "id": "79236",
+        "label": "希奈尔·布拉温",
+        "info": "维米占领军长官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/69/79236_crt_jxyOL.jpg",
+        "link": "https://bgm.tv/character/79236",
+        "categorie": "person"
+      },
+      {
+        "id": "79670",
+        "label": "土岐遥",
+        "info": "那古教徒，剑术高手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/86/79670_crt_CyRC8.jpg",
+        "link": "https://bgm.tv/character/79670",
+        "categorie": "person"
+      },
+      {
+        "id": "79726",
+        "label": "武田望",
+        "info": "贵神的女仆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/60/79726_crt_n44af.jpg",
+        "link": "https://bgm.tv/character/79726",
+        "categorie": "person"
+      },
+      {
+        "id": "79735",
+        "label": "亨利·鲁宾",
+        "info": "维米上层人物，与贵神雷赠臭味相投。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/f0/79735_crt_bmCL2.jpg",
+        "link": "https://bgm.tv/character/79735",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

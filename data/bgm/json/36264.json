@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25729",
+        "label": "麻见隆一",
+        "info": "35歳。高級クラブを何軒も経営している。裏社会の実力者でもあり、政財界ともつながりが深い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/79/25729_crt_2RnF2.jpg",
+        "link": "https://bgm.tv/character/25729",
+        "categorie": "person"
+      },
+      {
+        "id": "25736",
+        "label": "高羽秋仁",
+        "info": "23歳。フリーのカメラマン。ある代議士のスクープをきっかけに麻見と出会う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e5/25736_crt_6JZSZ.jpg",
+        "link": "https://bgm.tv/character/25736",
+        "categorie": "person"
+      },
+      {
+        "id": "25739",
+        "label": "刘飞龙",
+        "info": "28歳。アジアを拠点とする巨大麻薬シンジケート、香港マフィア・白蛇（パイシェ）の頭。長髪の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a2/25739_crt_662P1.jpg",
+        "link": "https://bgm.tv/character/25739",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

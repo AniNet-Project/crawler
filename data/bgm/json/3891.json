@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11205",
+        "label": "巴洛克希德",
+        "info": "亚尔赛德的老朋友，以前是在军中认识的。咖啡色的头发蓝眼睛。生日为8月6日。自称28岁，实际年龄不知。身高181厘米，体重75公斤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e9/11205_crt_jxxjz.jpg",
+        "link": "https://bgm.tv/character/11205",
+        "categorie": "person"
+      },
+      {
+        "id": "21948",
+        "label": "拉瑟尔",
+        "info": "女主角。生日为3月21日。连载一开始的时候是14岁，在连载到第58话的时候因为过生日所以是15岁。原本设定身高152厘米，体重39公斤，后来发现还是太瘦，于是改成48公斤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/59/21948_crt_ooiTo.jpg?r=1383485538",
+        "link": "https://bgm.tv/character/21948",
+        "categorie": "person"
+      },
+      {
+        "id": "21949",
+        "label": "亚尔赛德",
+        "info": "因为父亲被杀，所以出来寻找杀父仇人。24岁。身高为182，体重62公斤。外表是明显的银色头发和红眼睛，白皮肤的白子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/af/21949_crt_seN85.jpg?r=1383485716",
+        "link": "https://bgm.tv/character/21949",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

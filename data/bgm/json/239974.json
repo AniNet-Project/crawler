@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59394",
+        "label": "才贺胜",
+        "info": "サーカス編・からくりサーカス編の主人公。11歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/27/59394_crt_80dgs.jpg",
+        "link": "https://bgm.tv/character/59394",
+        "categorie": "person"
+      },
+      {
+        "id": "59395",
+        "label": "加藤鸣海",
+        "info": "からくり編主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/2b/59395_crt_3h1d3.jpg",
+        "link": "https://bgm.tv/character/59395",
+        "categorie": "person"
+      },
+      {
+        "id": "59396",
+        "label": "才贺爱蕾诺",
+        "info": "本作のメインヒロイン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/1b/59396_crt_i1yX7.jpg",
+        "link": "https://bgm.tv/character/59396",
+        "categorie": "person"
+      },
+      {
+        "id": "59435",
+        "label": "阿紫花英良",
+        "info": "阿紫花家的养子，长男。养父收养了很多孤儿，所以兄弟姐妹全都没有血缘关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/0b/59435_crt_N434R.jpg",
+        "link": "https://bgm.tv/character/59435",
+        "categorie": "person"
+      },
+      {
+        "id": "59397",
+        "label": "奇·克里斯多夫·雷休",
+        "info": "本作品中屈指可数的Trickster。美青年。只有他和才贺正二两人才知道所有跟「法兰西奴傀儡」相关的谜团的真相。在「傀儡篇」和「马戏团篇」合流前，只有他和无脸司令会穿梭两篇之中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/5e/59397_crt_UG5EX.jpg",
+        "link": "https://bgm.tv/character/59397",
+        "categorie": "person"
+      },
+      {
+        "id": "59398",
+        "label": "菲蒂玛",
+        "info": "以撒哈拉为中心活动的女「白银」。在撒哈拉的最终决战中担任特别参谋，并且参加了选拔组。羡慕同样身为「白银」却结婚了的安杰莉娜，对传言中的「白银」鸣海很感兴趣，跟明霞打听他的事，实际上已经爱上了他。为了帮鸣海争取手术时间，操纵古利摩迪只身对付法兰西奴傀儡、庞泰洛和阿尔莱奇。为了守护爱人而奋战，连庞泰洛也对其产生了些许敬意，然而寡不敌众，在被杀前被鸣海所救。不过已经受了致命伤，不想让鸣海看到自己的死状让他快走，就这样跟不能告诉她并没有破坏法兰西奴傀儡而陷入痛苦中的鸣海告别，粉碎而逝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/a3/59398_crt_LWyxl.jpg",
+        "link": "https://bgm.tv/character/59398",
+        "categorie": "person"
+      },
+      {
+        "id": "59421",
+        "label": "塔兰妲·琍婕罗堤·橘",
+        "info": "仲町马戏团的驯兽师。德国人与日本人的混血儿。通称琍婕。原是美国的葛雷德隆马戏团团员，和双胞胎姐姐海伦一起组成「Sister琍婕罗堤」当驯兽师。为了杀掉害死姐姐的老虎「彼斯特」而带着狮子「朵拉姆」来到日本。一开始被冷酷无情看轻自己的姐姐的憎恨所束缚，不过小胜解开了这个心结，之后加入了仲町马戏团。实际上拥有能让对上眼睛的野兽服从自己的「魔眼」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/db/59421_crt_9A1VK.jpg",
+        "link": "https://bgm.tv/character/59421",
+        "categorie": "person"
+      },
+      {
+        "id": "59422",
+        "label": "葳璐玛·索恩",
+        "info": "仲町马戏团的飞刀手。实际上本来是要取小胜性命的杀手，可是在几番波折后洗心革面，跟小胜他们同行了。最爱的弟弟吉姆因患上ZONAPHA症而成了不归人，故此非常憎恨散布ZONAPHA症的自动傀儡。把小胜看成了弟弟。在护送太空梭的途中，跟在美国散布ZONAPHA症的狂野的牛仔珍妮同归于尽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/08/59422_crt_Es2cw.jpg",
+        "link": "https://bgm.tv/character/59422",
+        "categorie": "person"
+      },
+      {
+        "id": "59416",
+        "label": "仲町信夫",
+        "info": "马戏团篇的主要登场角色，仲町马戏团的团长。日本首位吃石头艺人。除了吃石头外还会演奏手风琴等多种才艺。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/a3/59416_crt_d2gWs.jpg",
+        "link": "https://bgm.tv/character/59416",
+        "categorie": "person"
+      },
+      {
+        "id": "59418",
+        "label": "仲町纪之",
+        "info": "可以爬到叠成七张的椅子上。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/67/59418_crt_LTLsZ.jpg",
+        "link": "https://bgm.tv/character/59418",
+        "categorie": "person"
+      },
+      {
+        "id": "59419",
+        "label": "仲町浩男",
+        "info": "擅长走钢索和弹簧垫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/c1/59419_crt_nlNAo.jpg",
+        "link": "https://bgm.tv/character/59419",
+        "categorie": "person"
+      },
+      {
+        "id": "59432",
+        "label": "才贺正二",
+        "info": "小胜的养祖父「白银」。生于长崎。才贺贞义、才贺善治的养父。原名「成濑正二郎」，小时候接受白银的教导，长大后成为医生。不但是医学知识，也有着卓越的剑术和机械技术，更有着助人为乐的热诚。来到现代则使用重机枪、燃烧手榴弹等枪械和日本刀。虽然也会操纵悬丝傀儡，但战斗时专门使用日本刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/28/59432_crt_ZH338.jpg",
+        "link": "https://bgm.tv/character/59432",
+        "categorie": "person"
+      },
+      {
+        "id": "59433",
+        "label": "才贺善治",
+        "info": "打算取小胜性命的才贺家族成员。虽然是户籍上是小胜的叔叔、贞义的弟弟，但实际上是贞义为了掩饰其长生而收养的孤儿。才贺电器和才贺玩具的社长。计划将小胜收为养子以霸占其财产，却由于小胜的反抗而失败，还因此患上小胜恐惧症。自此屈服于小胜之下，虽说是自作自受但今后的人生也非常可怜。喜欢吃可以在嘴巴里滚来滚去的小草莓果冻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/60/59433_crt_DymY8.jpg",
+        "link": "https://bgm.tv/character/59433",
+        "categorie": "person"
+      },
+      {
+        "id": "59405",
+        "label": "路西尔",
+        "info": "身为最早的「白银」，经历过众多战斗的女性。操纵悬丝傀儡「穆金尼」，不过操纵傀儡需要极高的集中力，因为年事已高所以无法长时间战斗。故此在穆金尼被破坏后没有使用新的傀儡，而是改用大口径机关枪、西洋剑、高速回转枪等来战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/29/59405_crt_76P7h.jpg",
+        "link": "https://bgm.tv/character/59405",
+        "categorie": "person"
+      },
+      {
+        "id": "66668",
+        "label": "庞泰洛",
+        "info": "最初期に作られた、「最古の四人」と呼ばれる自動人形の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/69/66668_crt_YnhTk.jpg",
+        "link": "https://bgm.tv/character/66668",
+        "categorie": "person"
+      },
+      {
+        "id": "66669",
+        "label": "可伦比尼",
+        "info": "最初期に作られた、「最古の四人」と呼ばれる自動人形の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/33/66669_crt_2lY5h.jpg",
+        "link": "https://bgm.tv/character/66669",
+        "categorie": "person"
+      },
+      {
+        "id": "66670",
+        "label": "德托雷",
+        "info": "最初期に作られた、「最古の四人」と呼ばれる自動人形の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/65/66670_crt_5YkSO.jpg",
+        "link": "https://bgm.tv/character/66670",
+        "categorie": "person"
+      },
+      {
+        "id": "66671",
+        "label": "阿莱奇诺",
+        "info": "最初期に作られた、「最古の四人」と呼ばれる自動人形の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/22/66671_crt_W3CZC.jpg",
+        "link": "https://bgm.tv/character/66671",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

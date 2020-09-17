@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64964",
+        "label": "直美·埃文斯",
+        "info": "宇宙連邦軍 少佐。 軍憲兵捜査部の捜査官で、リエリ・ビショップの副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/e7/64964_crt_DD3S7.jpg",
+        "link": "https://bgm.tv/character/64964",
+        "categorie": "person"
+      },
+      {
+        "id": "64965",
+        "label": "里耶·毕晓普",
+        "info": "宇宙連邦軍 中佐。 美しさと冷静沈着な判断力をもった美女将校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/8c/64965_crt_hTzxT.jpg",
+        "link": "https://bgm.tv/character/64965",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

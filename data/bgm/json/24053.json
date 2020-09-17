@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33999",
+        "label": "岛村乔",
+        "info": "ゼロゼロナンバーサイボーグの開発で培われた技術を",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/e5/33999_crt_VB0Vk.jpg",
+        "link": "https://bgm.tv/character/33999",
+        "categorie": "person"
+      },
+      {
+        "id": "44851",
+        "label": "イワン・ウイスキー",
+        "info": "生後まもなく父親による頭脳改造手術を受けた事で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/01/44851_crt_q0lAT.jpg",
+        "link": "https://bgm.tv/character/44851",
+        "categorie": "person"
+      },
+      {
+        "id": "44852",
+        "label": "ジェット・リンク",
+        "info": "脚部に埋め込まれた飛行ユニットにより、空中をマッハ5で自在に滑空する能力がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/b9/44852_crt_gF138.jpg",
+        "link": "https://bgm.tv/character/44852",
+        "categorie": "person"
+      },
+      {
+        "id": "44853",
+        "label": "フランソワーズ・アルヌール",
+        "info": "聴覚と視覚を強化されており、索敵能力と情報収集能力に長けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/bb/44853_crt_LPz22.jpg",
+        "link": "https://bgm.tv/character/44853",
+        "categorie": "person"
+      },
+      {
+        "id": "44854",
+        "label": "アルベルト・ハインリヒ",
+        "info": "全身に兵器を装備した戦闘に特化したサイボーグ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/b3/44854_crt_398IY.jpg",
+        "link": "https://bgm.tv/character/44854",
+        "categorie": "person"
+      },
+      {
+        "id": "44855",
+        "label": "ジェロニモ・ジュニア",
+        "info": "強化された皮膚と100万馬力の怪力を持つサイボーグ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/02/44855_crt_8jI1Y.jpg",
+        "link": "https://bgm.tv/character/44855",
+        "categorie": "person"
+      },
+      {
+        "id": "44857",
+        "label": "グレート・ブリテン",
+        "info": "細胞組織を変化させる事で、人間や動物以外の無機物にも変身出来る能力を",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/5a/44857_crt_VdyOD.jpg",
+        "link": "https://bgm.tv/character/44857",
+        "categorie": "person"
+      },
+      {
+        "id": "44858",
+        "label": "ピュンマ",
+        "info": "水中での活動能力を強化されており、1万メートル以上の深海でも活動が出来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/27/44858_crt_cuFw4.jpg",
+        "link": "https://bgm.tv/character/44858",
+        "categorie": "person"
+      },
+      {
+        "id": "44856",
+        "label": "张张湖",
+        "info": "口から高温の火炎や熱線を噴射する事が出来るサイボーグ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/46/44856_crt_yoRRy.jpg",
+        "link": "https://bgm.tv/character/44856",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1898",
+        "label": "草薙京",
+        "info": "とにかく餓狼伝説、龍虎の拳の主人公に負けないようなカッコいいキャラクターを…ということで、デザインに時間のかかったキャラクターです。性格の設定も、ゲーム開発後半になるまで、完全には決定しませんでした。開発初期の段階で、彼は「霧島　翔」という名前でしたが、こちらも開発後半でデザイナーから「草薙　京」にしたいと提案があり急遽変更になりました。京の先祖が八又のオロチを倒したという「オロチ編」に通じる設定もこのとき誕生しました",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/80/1898_crt_1KyNY.jpg?r=1530477209",
+        "link": "https://bgm.tv/character/1898",
+        "categorie": "person"
+      },
+      {
+        "id": "1903",
+        "label": "大门五郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/35/1903_crt_nJ8M7.jpg?r=1588786233",
+        "link": "https://bgm.tv/character/1903",
+        "categorie": "person"
+      },
+      {
+        "id": "64274",
+        "label": "特瑞 博加德",
+        "info": "八极正拳传人",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/d8/64274_crt_RyzlR.jpg?r=1531604022",
+        "link": "https://bgm.tv/character/64274",
+        "categorie": "person"
+      },
+      {
+        "id": "64275",
+        "label": "安迪 博加德",
+        "info": "安迪·博加德，SNK旗下对战型格斗游戏《饿狼传说》系列中登场的架空人物，亦是饿狼传说中的二号主人公，除《饿狼 MARK OF THE WOLVES》外一直全勤，哥哥是特瑞·博加德，与特瑞一样，是杰夫所收养的养子，在杰夫遇害后，前往日本学习不知火流忍术，并有女友不知火舞",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/cc/64275_crt_bQGT0.jpg?r=1588786294",
+        "link": "https://bgm.tv/character/64275",
+        "categorie": "person"
+      },
+      {
+        "id": "1901",
+        "label": "二阶堂红丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/e1/1901_crt_0O9NX.jpg?r=1531252758",
+        "link": "https://bgm.tv/character/1901",
+        "categorie": "person"
+      },
+      {
+        "id": "64355",
+        "label": "吉斯 霍华德",
+        "info": "SNK（现SNKP）的格斗对战游戏《饿狼传说》中登场的架空boss级人物，也是SNK所有对战型格斗游戏中极恶的人物之一.《BORUTO NARUTO NEXT GENERATIONS》中うずまき ナルト的人设参考原型,うずまき ナルト的招式\"螺旋丸\"创意也是来自他的招式\"死亡咆哮\"最后一式的演出.",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/8d/64355_crt_qSUOO.jpg?r=1588565843",
+        "link": "https://bgm.tv/character/64355",
+        "categorie": "person"
+      },
+      {
+        "id": "64372",
+        "label": "卢卡尔·伯恩斯坦",
+        "info": "卢卡尔是一位在整个世界都有着强大影响力的商业联合体的首领，同时也是毒贩以及军火商，他拥有私人航母黑色诺亚（Black Noah），而这个航母上，有着他专门将反对他的人打败后，制作成雕像添加到他的收藏品之中的恐怖收藏室。他曾经和他的弟弟一起搭档，但后来因为利益冲突分道扬镳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/97/64372_crt_LgUL7.jpg?r=1532047214",
+        "link": "https://bgm.tv/character/64372",
+        "categorie": "person"
+      },
+      {
+        "id": "64755",
+        "label": "东丈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/52/64755_crt_kthq5.jpg?r=1588786483",
+        "link": "https://bgm.tv/character/64755",
+        "categorie": "person"
+      },
+      {
+        "id": "39846",
+        "label": "坂崎百合",
+        "info": "龍虎之拳初登場時，還是一個什麼武術都不會的普通女大學生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/8c/39846_crt_fva7k.jpg",
+        "link": "https://bgm.tv/character/39846",
+        "categorie": "person"
+      },
+      {
+        "id": "17262",
+        "label": "不知火舞",
+        "info": "继承不知火流忍术的女忍者，爱上了在其祖父不知火半蔵门下修行的安迪·柏格而在追踪他时投入了战斗中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/f6/17262_crt_a68vW.jpg?r=1531430404",
+        "link": "https://bgm.tv/character/17262",
+        "categorie": "person"
+      },
+      {
+        "id": "22113",
+        "label": "麻宫雅典娜",
+        "info": "麻宫雅典娜，SNK横版过关游戏游戏《超能力战士》中的女主角1P角色（2P是拳崇），形象为飞翼头带,红色比基尼泳装,手持盾剑的掌管智慧、战争、纺织的女神雅典娜.",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/f8/22113_crt_t1B46.jpg?r=1531922221",
+        "link": "https://bgm.tv/character/22113",
+        "categorie": "person"
+      },
+      {
+        "id": "64273",
+        "label": "拉尔夫 琼斯",
+        "info": "初期设计将拉尔夫设计成为上半身裸露的样子，以表现所在队伍“怒”的主题。但是在检查的阶段遭到了“设计的样子过老”的指责，于是便改为了现在大家所熟悉的形象。本来“怒之队”的全体都是可以手榴弹这一必杀的，可是后来开发人员觉得在格斗大会上使用手榴弹比较不太合理便取消了这一设定",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/e2/64273_crt_YasEY.jpg?r=1583780833",
+        "link": "https://bgm.tv/character/64273",
+        "categorie": "person"
+      },
+      {
+        "id": "64388",
+        "label": "金家藩",
+        "info": "韩国跆拳道的宗师，国人对其的评价是“十年内没有人在跆拳道的造诣上可以超过他”。内心充满正义感，认为与其惩处坏人不如通过教育来更正他们，让他们弃恶从善。基于这个理念，金收了陈国汉和蔡宝奇为徒，希望以自己的方式教育他们从而让2人改过自新。为了证明跆拳道是世上最强的武术，金参加了历届的KOF赛事，每次都被卷入KOF幕后的阴谋中，此后铲除邪恶势力也成为金参赛的理由之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/f3/64388_crt_URWNU.jpg?r=1588782686",
+        "link": "https://bgm.tv/character/64388",
+        "categorie": "person"
+      },
+      {
+        "id": "64419",
+        "label": "克拉克 史迪尔",
+        "info": "克拉克·斯提尔（克拉克·史迪尔），是SNK射击游戏《怒》中的2P人物，后活跃于对战格斗游戏《拳皇》，并且是拳皇当中的全勤人物。名字只标注为“克拉克”的情况占多数。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/30/64419_crt_k37Qn.jpg?r=1583780862",
+        "link": "https://bgm.tv/character/64419",
+        "categorie": "person"
+      },
+      {
+        "id": "64420",
+        "label": "哈迪兰",
+        "info": "哈迪兰是SNK制作的著名格斗游戏《拳皇》系列的游戏角色，收养丽安娜的一位军人。初期预备将哈迪伦设计成为冷血的战斗机器，但是由于剧情的需要，开发者将感情注入了这个角色，让其成为富有悲壮色彩的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/7b/64420_crt_t1I5x.jpg?r=1583780105",
+        "link": "https://bgm.tv/character/64420",
+        "categorie": "person"
+      },
+      {
+        "id": "64571",
+        "label": "陈国汉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/7f/64571_crt_32o4Z.jpg?r=1530923607",
+        "link": "https://bgm.tv/character/64571",
+        "categorie": "person"
+      },
+      {
+        "id": "64693",
+        "label": "蔡宝奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/53/64693_crt_iz4qd.jpg?r=1531258037",
+        "link": "https://bgm.tv/character/64693",
+        "categorie": "person"
+      },
+      {
+        "id": "64704",
+        "label": "坂崎亮",
+        "info": "人设参考原型为Street Fighter的Ken Masters,名字参考原型为Street Fighter的Ryu",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/de/64704_crt_k6z9K.jpg?r=1588786417",
+        "link": "https://bgm.tv/character/64704",
+        "categorie": "person"
+      },
+      {
+        "id": "64754",
+        "label": "比利·凯恩",
+        "info": "吉斯忠心的部下",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/e4/64754_crt_qF4v6.jpg?r=1588786583",
+        "link": "https://bgm.tv/character/64754",
+        "categorie": "person"
+      },
+      {
+        "id": "64756",
+        "label": "罗伯特·加西亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/b1/64756_crt_ku5Ho.jpg?r=1531610234",
+        "link": "https://bgm.tv/character/64756",
+        "categorie": "person"
+      },
+      {
+        "id": "76105",
+        "label": "唐福禄",
+        "info": "“八极正拳”的始创者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/68/76105_crt_bKQRQ.jpg?r=1588567324",
+        "link": "https://bgm.tv/character/76105",
+        "categorie": "person"
+      },
+      {
+        "id": "76367",
+        "label": "洛奇·古洛巴",
+        "info": "BASKET+空手道",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/81/76367_crt_PW5Ls.jpg",
+        "link": "https://bgm.tv/character/76367",
+        "categorie": "person"
+      },
+      {
+        "id": "76368",
+        "label": "布莱恩·巴特勒",
+        "info": "职业橄榄球选手",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/aa/76368_crt_dO9EV.jpg",
+        "link": "https://bgm.tv/character/76368",
+        "categorie": "person"
+      },
+      {
+        "id": "64276",
+        "label": "洛克·霍华德",
+        "info": "格斗流派是古武术+マーシャルアーツ（格斗术）。初登场于《饿狼传说》系列最新一作《饿狼 MARK OF THE WOLVES》并且是该作的主人公。在《拳皇格斗之王：极限冲击》系列、《CAPCOM VS SNK2》和《NeoGeo Battle Coliseum》亦有出场。并在《拳皇XIV》中作为DLC人物首次在拳皇正传作品中参战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/0d/64276_crt_S2sSJ.jpg?r=1588571092",
+        "link": "https://bgm.tv/character/64276",
+        "categorie": "person"
+      },
+      {
+        "id": "1900",
+        "label": "八神庵",
+        "info": "KOF第二主角，自‘KOF95’以后的系列都有登场。三神器之一‘八尺琼家’的后裔，因祖先与大蛇一族交易而改姓八神，操纵火焰的能力也因此变成蓝紫色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/82/1900_crt_sNUm2.jpg?r=1530477306",
+        "link": "https://bgm.tv/character/1900",
+        "categorie": "person"
+      },
+      {
+        "id": "64286",
+        "label": "草薙柴舟",
+        "info": "草薙京的父親，上一代草薙流繼承者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/72/64286_crt_Iw0Yk.jpg?r=1585178861",
+        "link": "https://bgm.tv/character/64286",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

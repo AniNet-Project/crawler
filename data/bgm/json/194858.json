@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42679",
+        "label": "绫月芽衣",
+        "info": "本作の主人公。高校生。肉好きで、その中でも牛肉には目がない。チャーリーのマジックによって明治時代で生活を送ることになり、鴎外・春草ルートでは森邸、音二郎・鏡花ルートでは神楽坂の置屋、藤田・八雲ルートでは帝國ホテルを仮住まいとしている。普通の人には見ることの出来ない物の怪が見える魂依である。本来は目立つことがあまり好きではなく、少々気の弱い性格だが、チャーリーに対しては容赦がない。初めは早く現代に帰りたいの一心だったが、明治時代で過ごしていくにつれて心境に変化が現れるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/c2/42679_crt_kTQIT.jpg?r=1551954866",
+        "link": "https://bgm.tv/character/42679",
+        "categorie": "person"
+      },
+      {
+        "id": "29039",
+        "label": "森鸥外",
+        "info": "小説家で医者で官僚なスーパーエリート。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/53/29039_crt_vdgpW.jpg?r=1551955096",
+        "link": "https://bgm.tv/character/29039",
+        "categorie": "person"
+      },
+      {
+        "id": "29040",
+        "label": "菱田春草",
+        "info": "信州長野から上京したての美術学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/6a/29040_crt_oDdrd.jpg?r=1551960311",
+        "link": "https://bgm.tv/character/29040",
+        "categorie": "person"
+      },
+      {
+        "id": "29041",
+        "label": "川上音二郎",
+        "info": "役者で身を立てようと志す青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/23/29041_crt_X1zfy.jpg?r=1551981955",
+        "link": "https://bgm.tv/character/29041",
+        "categorie": "person"
+      },
+      {
+        "id": "29042",
+        "label": "泉镜花",
+        "info": "北陸英和学校を中退し、",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/e7/29042_crt_5ZZLk.jpg?r=1552590195",
+        "link": "https://bgm.tv/character/29042",
+        "categorie": "person"
+      },
+      {
+        "id": "29043",
+        "label": "藤田五郎",
+        "info": "警視庁の妖ら課に勤務の警察官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/be/29043_crt_EwR82.jpg?r=1552752912",
+        "link": "https://bgm.tv/character/29043",
+        "categorie": "person"
+      },
+      {
+        "id": "29044",
+        "label": "小泉八云",
+        "info": "ギリシャ生まれアイルランド育ちの外国人でありながら、日本好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/cf/29044_crt_w0EZx.jpg?r=1552760505",
+        "link": "https://bgm.tv/character/29044",
+        "categorie": "person"
+      },
+      {
+        "id": "42680",
+        "label": "岩崎桃介",
+        "info": "ニューヨークでその素晴らしさに魅了され、",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/a7/42680_crt_Nz8ES.jpg?r=1553449239",
+        "link": "https://bgm.tv/character/42680",
+        "categorie": "person"
+      },
+      {
+        "id": "29045",
+        "label": "查理",
+        "info": "謎だらけの自称、奇術師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/97/29045_crt_8VV2l.jpg?r=1553530293",
+        "link": "https://bgm.tv/character/29045",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

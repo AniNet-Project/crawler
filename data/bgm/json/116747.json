@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51862",
+        "label": "洋二",
+        "info": "心地善良、乐于助人的少年，",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/4d/51862_crt_K5kKA.jpg",
+        "link": "https://bgm.tv/character/51862",
+        "categorie": "person"
+      },
+      {
+        "id": "51863",
+        "label": "庆伊",
+        "info": "喜爱摆弄机械的少女，双手异常灵巧，",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/95/51863_crt_1Zi8F.jpg",
+        "link": "https://bgm.tv/character/51863",
+        "categorie": "person"
+      },
+      {
+        "id": "51865",
+        "label": "安娜",
+        "info": "心性温婉的老妇人，老伴过世后，一直在地处高坡的家中安享晚年，",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/02/51865_crt_3Y2Y4.jpg",
+        "link": "https://bgm.tv/character/51865",
+        "categorie": "person"
+      },
+      {
+        "id": "51866",
+        "label": "奥斯卡",
+        "info": "安娜的亡夫留下的机器小熊，很通人性，",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/7f/51866_crt_C4POH.jpg?r=1575940393",
+        "link": "https://bgm.tv/character/51866",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

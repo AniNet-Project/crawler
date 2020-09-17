@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58422",
+        "label": "柏木空",
+        "info": "普通の高校生だが、自称「冒険家」の父からミーくんを預かり一緒に暮らすことに。父親の影響からか、普通の人とは感覚が少しずれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/5a/58422_crt_mBlOo.jpg?r=1514383782",
+        "link": "https://bgm.tv/character/58422",
+        "categorie": "person"
+      },
+      {
+        "id": "58423",
+        "label": "小伊",
+        "info": "エジプト出身のミイラ。中身不明、年齢不明、性別不明と多くの謎に包まれている。非常に人懐っこい。なぜか「わんっ」と鳴く。包帯の中は、ヒ・ミ・ツ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e7/58423_crt_NOW43.jpg?r=1514383841",
+        "link": "https://bgm.tv/character/58423",
+        "categorie": "person"
+      },
+      {
+        "id": "58424",
+        "label": "神谷他月",
+        "info": "空の親友。ドSな一面もあるが情に厚い。不思議な生き物のことも空の影響からか詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ea/58424_crt_1PtTh.jpg?r=1514383902",
+        "link": "https://bgm.tv/character/58424",
+        "categorie": "person"
+      },
+      {
+        "id": "58425",
+        "label": "茂木朝",
+        "info": "空と他月のクラスメイト。明るく元気な性格で、とても力持ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/b3/58425_crt_P8Q2B.jpg?r=1514383969",
+        "link": "https://bgm.tv/character/58425",
+        "categorie": "person"
+      },
+      {
+        "id": "58426",
+        "label": "柏木枫",
+        "info": "空の伯母。職業は物書きやモデルなどのマルチクリエイター。普段は穏やかな雰囲気だが、メガネをかけると…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/ab/58426_crt_zn52N.jpg?r=1514384025",
+        "link": "https://bgm.tv/character/58426",
+        "categorie": "person"
+      },
+      {
+        "id": "58427",
+        "label": "立秋大地",
+        "info": "空の同級生。ある悩みをかかえているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/3e/58427_crt_rgvHY.jpg?r=1514384096",
+        "link": "https://bgm.tv/character/58427",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16480",
+        "label": "户田山响子",
+        "info": "天悶部を陰日なたに支える天才美少女。性格は慎ましく謙虚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/b6/16480_crt_6HZ36.jpg",
+        "link": "https://bgm.tv/character/16480",
+        "categorie": "person"
+      },
+      {
+        "id": "16481",
+        "label": "伊势田结花",
+        "info": "公立海老栖川高校の生徒会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/f6/16481_crt_3fY4O.jpg",
+        "link": "https://bgm.tv/character/16481",
+        "categorie": "person"
+      },
+      {
+        "id": "16482",
+        "label": "金森羽片",
+        "info": "BLやコスプレが大好きな腐女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/07/16482_crt_y00zL.jpg",
+        "link": "https://bgm.tv/character/16482",
+        "categorie": "person"
+      },
+      {
+        "id": "16483",
+        "label": "大庭莲实",
+        "info": "天悶部の副部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a2/16483_crt_FvwKh.jpg",
+        "link": "https://bgm.tv/character/16483",
+        "categorie": "person"
+      },
+      {
+        "id": "16484",
+        "label": "野矢一树",
+        "info": "公立海老栖川高校に転校してきた、ちっこくて可愛い子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/47/16484_crt_JEfaX.jpg",
+        "link": "https://bgm.tv/character/16484",
+        "categorie": "person"
+      },
+      {
+        "id": "18739",
+        "label": "广松理圭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/31/18739_crt_bDDF6.jpg",
+        "link": "https://bgm.tv/character/18739",
+        "categorie": "person"
+      },
+      {
+        "id": "18740",
+        "label": "户田山泉子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/95/18740_crt_XkIyt.jpg",
+        "link": "https://bgm.tv/character/18740",
+        "categorie": "person"
+      },
+      {
+        "id": "18741",
+        "label": "大森庄子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/f4/18741_crt_ngcuI.jpg",
+        "link": "https://bgm.tv/character/18741",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5391",
+        "label": "阴守 护",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/36/5391_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5391",
+        "categorie": "person"
+      },
+      {
+        "id": "14052",
+        "label": "绀若优奈/绀若夕菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/5a/14052_crt_FvR71.jpg",
+        "link": "https://bgm.tv/character/14052",
+        "categorie": "person"
+      },
+      {
+        "id": "5389",
+        "label": "陰守桜子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/26/5389_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5389",
+        "categorie": "person"
+      },
+      {
+        "id": "5390",
+        "label": "服部山芽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/50/5390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5390",
+        "categorie": "person"
+      },
+      {
+        "id": "5392",
+        "label": "雲隠ホタル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/10/5392_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5392",
+        "categorie": "person"
+      },
+      {
+        "id": "14050",
+        "label": "陰守堅護",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/56/14050_crt_ki7Ii.jpg",
+        "link": "https://bgm.tv/character/14050",
+        "categorie": "person"
+      },
+      {
+        "id": "14051",
+        "label": "ぶる丸",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14051",
+        "categorie": "person"
+      },
+      {
+        "id": "14053",
+        "label": "沢菓愛里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/f7/14053_crt_kaqMa.jpg",
+        "link": "https://bgm.tv/character/14053",
+        "categorie": "person"
+      },
+      {
+        "id": "14054",
+        "label": "真双津椿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/6a/14054_crt_rL883.jpg",
+        "link": "https://bgm.tv/character/14054",
+        "categorie": "person"
+      },
+      {
+        "id": "14055",
+        "label": "陽守タスケ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14055",
+        "categorie": "person"
+      },
+      {
+        "id": "33292",
+        "label": "云隐萤",
+        "info": "甲賀の里から来た、",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/33/33292_crt_Yv3Uy.jpg",
+        "link": "https://bgm.tv/character/33292",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

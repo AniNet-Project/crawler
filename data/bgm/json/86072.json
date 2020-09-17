@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22089",
+        "label": "星宫凯特",
+        "info": "変身後の通り名『ヴィニエイラ様』",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/89/22089_crt_resK0.jpg?r=1390798880",
+        "link": "https://bgm.tv/character/22089",
+        "categorie": "person"
+      },
+      {
+        "id": "23080",
+        "label": "地纹明日汰",
+        "info": "変身後の通り名『ドヴァー』",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/ce/23080_crt_rN1Ha.jpg?r=1390797287",
+        "link": "https://bgm.tv/character/23080",
+        "categorie": "person"
+      },
+      {
+        "id": "22090",
+        "label": "娜塔莎",
+        "info": "ウーム教授:",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/42/22090_crt_2Z0CB.jpg?r=1390798690",
+        "link": "https://bgm.tv/character/22090",
+        "categorie": "person"
+      },
+      {
+        "id": "23232",
+        "label": "萝卜子",
+        "info": "名前と見た目のとおり、",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/b9/23232_crt_mFu5M.jpg?r=1390803279",
+        "link": "https://bgm.tv/character/23232",
+        "categorie": "person"
+      },
+      {
+        "id": "23228",
+        "label": "亚斯",
+        "info": "ズヴィズダーの主任戦闘員で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/23/23228_crt_YhK62.jpg?r=1390798420",
+        "link": "https://bgm.tv/character/23228",
+        "categorie": "person"
+      },
+      {
+        "id": "23230",
+        "label": "鹿羽逸花",
+        "info": "変身後の通り名『プラーミャ様』",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/5e/23230_crt_0fe14.jpg?r=1390798297",
+        "link": "https://bgm.tv/character/23230",
+        "categorie": "person"
+      },
+      {
+        "id": "23231",
+        "label": "鹿羽吾郎",
+        "info": "変身後の通り名『ピェーペル将軍』",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/c5/23231_crt_8yS77.jpg?r=1390798483",
+        "link": "https://bgm.tv/character/23231",
+        "categorie": "person"
+      },
+      {
+        "id": "23233",
+        "label": "驹鸟莲华",
+        "info": "明日汰と同じ学校に通うクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/5a/23233_crt_JMj1M.jpg?r=1390798129",
+        "link": "https://bgm.tv/character/23233",
+        "categorie": "person"
+      },
+      {
+        "id": "23234",
+        "label": "白鹭美酒",
+        "info": "明日汰と同じ学校に通う同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/29/23234_crt_f7f6Q.jpg?r=1390797869",
+        "link": "https://bgm.tv/character/23234",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

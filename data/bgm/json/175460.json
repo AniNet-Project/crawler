@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49318",
+        "label": "杨敬华",
+        "info": "生前23歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/7e/49318_crt_Z33I3.jpg?r=1483873554",
+        "link": "https://bgm.tv/character/49318",
+        "categorie": "person"
+      },
+      {
+        "id": "49325",
+        "label": "端木熙",
+        "info": "18歳。千年続く陽冥司の一族「端木家」の家元。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/dd/49325_crt_YJj1U.jpg?r=1483873571",
+        "link": "https://bgm.tv/character/49325",
+        "categorie": "person"
+      },
+      {
+        "id": "58748",
+        "label": "端木落月",
+        "info": "端木家族的初代阳冥司。被封印在杨家的子孙血脉中，因杨敬华死后杨家再无后人，便被释放出来，落月剑因他而命名。后因为堕入魔道，被杨宁封入落月剑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/4e/58748_crt_Z9AYi.jpg",
+        "link": "https://bgm.tv/character/58748",
+        "categorie": "person"
+      },
+      {
+        "id": "39102",
+        "label": "涂山苏苏",
+        "info": "女主角，涂山狐族的呆萌小狐狸一只。总是携带各种零食（以此收买吃货男主）法力低微。其实就是涂山红红本人，因为失去妖力而从御姐变成萝莉。也因为以记忆作为转世续缘的代价而遗忘了一切。只有与白月初接吻（必须带有白月初的血以及让苏苏自己回想起续缘前的事情）能暂变为涂山红红。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/22/39102_crt_7VtSt.jpg?r=1495796830",
+        "link": "https://bgm.tv/character/39102",
+        "categorie": "person"
+      },
+      {
+        "id": "40258",
+        "label": "涂山雅雅",
+        "info": "九尾天狐，妖盟盟主，为涂山容容，涂山苏苏的姐姐，涂山红红的妹妹，目前为涂山“最强战力”。之前由于对涂山苏苏就是涂山红红的观点持怀疑态度所以对涂山苏苏并不友善，十分思念涂山红红。腰间有一个无尽酒壶，喝了酒之后妖力会大增。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/0f/40258_crt_ThtZl.jpg?r=1460187502",
+        "link": "https://bgm.tv/character/40258",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

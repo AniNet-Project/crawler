@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13551",
+        "label": "エルシア＝ハーヴェンス",
+        "info": "騎士制度の発達したヴィルブルグ王国からの留学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/6c/13551_crt_7124e.jpg",
+        "link": "https://bgm.tv/character/13551",
+        "categorie": "person"
+      },
+      {
+        "id": "13554",
+        "label": "藤守由宇",
+        "info": "主人公の1つ下の妹。飛び級しており主人公と同学年かつクラスメイト、さらにエスクワイアにも所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/88/13554_crt_k7CF7.jpg",
+        "link": "https://bgm.tv/character/13554",
+        "categorie": "person"
+      },
+      {
+        "id": "13552",
+        "label": "狮堂真奈",
+        "info": "白宮学園1年でエスクワイアに所属する主人公のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/1a/13552_crt_VKmvk.jpg",
+        "link": "https://bgm.tv/character/13552",
+        "categorie": "person"
+      },
+      {
+        "id": "13553",
+        "label": "风间明莉",
+        "info": "白宮学園1年でエスクワイアに所属する主人公のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/d6/13553_crt_lxo7j.jpg",
+        "link": "https://bgm.tv/character/13553",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

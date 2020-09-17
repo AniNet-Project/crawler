@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64757",
+        "label": "时分",
+        "info": "男主角。时秒的哥哥。普通中学学生，为篮球社的社员。父母离异，兄妹两人独立生活，虽然和妹妹经常吵架，却是在关键时刻靠得住的好哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/ba/64757_crt_YEU72.jpg",
+        "link": "https://bgm.tv/character/64757",
+        "categorie": "person"
+      },
+      {
+        "id": "64758",
+        "label": "时秒",
+        "info": "女主角。时分的妹妹。与哥哥同校。经常哥哥吵架，兴趣是揍哥哥时分。暗恋开心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/0a/64758_crt_h8Oca.jpg",
+        "link": "https://bgm.tv/character/64758",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

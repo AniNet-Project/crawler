@@ -1,0 +1,381 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33119",
+        "label": "利姆露·坦派斯特",
+        "info": "本作主人公。原名：三上悟。为救被歹徒盯上的后辈被刺中。醒来后转生到异世界成为大魔物（史莱姆）。由在异世界的第一个朋友维鲁多拉命名为莉姆露。从维鲁多拉口中知道世界上还有其他与他一样从异世界来的人后，决定踏上旅途。后来继承了妹子的身体，成为了萌物一样的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a8/33119_crt_LxPLE.jpg?r=1543862993",
+        "link": "https://bgm.tv/character/33119",
+        "categorie": "person"
+      },
+      {
+        "id": "7908",
+        "label": "大贤者",
+        "info": "死亡時に童貞であったため、「30歳まで童貞だったら魔法使いになれる」という俗説から、もうすぐ賢者、大賢者も夢じゃないなどと考えていた結果、修得した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/27/7908_crt_Y5g03.jpg",
+        "link": "https://bgm.tv/character/7908",
+        "categorie": "person"
+      },
+      {
+        "id": "63520",
+        "label": "维鲁多拉·坦派斯特",
+        "info": "リムルが最初にこの世界に出現した洞窟内で最初に言葉を交わした魔物であり、その際は300年前に戦った勇者によって「無限牢獄」に封印されていた。リムルの名を名付け、またリムルに苗字を貰いこの世界で最初のリムルの友達となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/c4/63520_crt_zXPRZ.jpg",
+        "link": "https://bgm.tv/character/63520",
+        "categorie": "person"
+      },
+      {
+        "id": "63521",
+        "label": "井泽静江",
+        "info": "リムルの人型時の姿の元となっている儚げな美少女の姿を持っていた元日本人の女性。劇中ではシズと名乗る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/da/63521_crt_5zbLm.jpg?r=1567481759",
+        "link": "https://bgm.tv/character/63521",
+        "categorie": "person"
+      },
+      {
+        "id": "63814",
+        "label": "红丸",
+        "info": "オークによって滅ぼされた大鬼族（オーガ）族長の息子。真紅の髪と瞳、漆黒の角を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/83/63814_crt_lIM1x.jpg?r=1543863260",
+        "link": "https://bgm.tv/character/63814",
+        "categorie": "person"
+      },
+      {
+        "id": "63815",
+        "label": "朱菜",
+        "info": "ベニマルの妹で大鬼族（オーガ）の姫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/1a/63815_crt_tYMtt.jpg?r=1543863271",
+        "link": "https://bgm.tv/character/63815",
+        "categorie": "person"
+      },
+      {
+        "id": "63816",
+        "label": "紫苑",
+        "info": "紫の髪と黒曜石のような角を持つ大鬼族（オーガ）の一族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/a4/63816_crt_pZzLL.jpg?r=1543863291",
+        "link": "https://bgm.tv/character/63816",
+        "categorie": "person"
+      },
+      {
+        "id": "63817",
+        "label": "苍影",
+        "info": "元オーガ一族の家臣でリムル直属の隠密集団「藍闇衆（クラヤミ）」首領。情報収集に長け戦闘力も高い。性格は冷酷でリムルの「雑魚であっても無闇に殺すな」という命令を徹底的に甚振ったのちに回復薬を与えて放逐するという手順で実行している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/aa/63817_crt_A7A77.jpg?r=1543863312",
+        "link": "https://bgm.tv/character/63817",
+        "categorie": "person"
+      },
+      {
+        "id": "63818",
+        "label": "白老",
+        "info": "ベニマルにつき従う老大鬼族（オーガ）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ab/63818_crt_4DZls.jpg?r=1528432072",
+        "link": "https://bgm.tv/character/63818",
+        "categorie": "person"
+      },
+      {
+        "id": "65042",
+        "label": "黑兵卫",
+        "info": "元オーガ一族の鍛冶師。戦闘能力もあるが基本的には能力の指向は生産方面に向いており、一族の持つ刀は全てクロベエが打ったもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/89/65042_crt_VIHvf.jpg?r=1539100165",
+        "link": "https://bgm.tv/character/65042",
+        "categorie": "person"
+      },
+      {
+        "id": "65860",
+        "label": "利古路多",
+        "info": "最初にリムルに接触したゴブリン一族の村長で、最初にリムルに忠誠を誓い配下となった最古の家臣で最古の幹部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/d9/65860_crt_9e4eI.jpg",
+        "link": "https://bgm.tv/character/65860",
+        "categorie": "person"
+      },
+      {
+        "id": "65861",
+        "label": "利古路",
+        "info": "リグルドの息子で警備隊長。「リグル」は元々牙狼族との戦いで戦死した兄の名で、リムルの名付けによって引き継いだ。ベニマルと共に獣王国への使者も務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/71/65861_crt_2y5l6.jpg",
+        "link": "https://bgm.tv/character/65861",
+        "categorie": "person"
+      },
+      {
+        "id": "65862",
+        "label": "哥布塔",
+        "info": "ゴブリン村に住んでいたゴブリンのひとりで、リムルの名付けの際にホブゴブリンへ進化したが進化後も見た目がさほど変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/35/65862_crt_pZCPA.jpg",
+        "link": "https://bgm.tv/character/65862",
+        "categorie": "person"
+      },
+      {
+        "id": "65043",
+        "label": "岚牙",
+        "info": "リムルのペットとして常にリムルの影の中に潜んでいる強力な魔物の狼。見た目は巨大かつ威圧的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/6c/65043_crt_VbJj5.jpg",
+        "link": "https://bgm.tv/character/65043",
+        "categorie": "person"
+      },
+      {
+        "id": "65863",
+        "label": "凯金",
+        "info": "元武装国家ドワルゴンの鍛冶師であり、制作物は超一級品で人間の国にも名が知れ渡っている鍛冶職人。庶民出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/a4/65863_crt_g2mqt.jpg",
+        "link": "https://bgm.tv/character/65863",
+        "categorie": "person"
+      },
+      {
+        "id": "66230",
+        "label": "盖鲁德",
+        "info": "元オークジェネラルの一人。オークディザスターによる、ジュラの森侵略の際に仲間となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/81/66230_crt_pa3sT.jpg",
+        "link": "https://bgm.tv/character/66230",
+        "categorie": "person"
+      },
+      {
+        "id": "66281",
+        "label": "伽比鲁",
+        "info": "初登場時は「名付き」ながらリムル以下幹部全員を下に見る実力を計れない小物として登場。ジュラの森の水辺に領土を構えるリザードマン王国の首領の息子。同じくリザードマン族のソーカは妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/ad/66281_crt_Tc1mZ.jpg",
+        "link": "https://bgm.tv/character/66281",
+        "categorie": "person"
+      },
+      {
+        "id": "66283",
+        "label": "苍华",
+        "info": "ガビルの妹で元リザードマン王国の首領親衛隊長。ソウエイを敬愛しており、ガビルの監視役として魔物の町へ移住した際に自ら配下になることを希望しソウエイの副官となる。開国祭では武闘大会の実況をノリノリで務めていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/98/66283_crt_86My0.jpg",
+        "link": "https://bgm.tv/character/66283",
+        "categorie": "person"
+      },
+      {
+        "id": "66282",
+        "label": "贾鲁德·缪鲁麦尔",
+        "info": "初登場時はブルムンド王国王都の一角に屋敷を持つ大商人で、後にリムルの作った回復薬を縁に首都リムルへ移住し、テンペストの財務統括部門と広報宣伝責任者として幹部に取り立てられることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/22/66282_crt_UNu86.jpg",
+        "link": "https://bgm.tv/character/66282",
+        "categorie": "person"
+      },
+      {
+        "id": "66289",
+        "label": "伽泽鲁·多瓦贡",
+        "info": "ドワーフ王国「武装国家ドワルゴン」の3代目国王。深層意識まで読み取る読心スキルを有する。当初は心を読まれているとは知らないのに表層意識までしか読めないリムルを「暴風竜のような怪物」と認識して警戒していたが、魔国連邦と最初に国交を結び、以後も最後まで同盟国として全ての面で味方に付きリムルを後押しした。見返りとして回復薬を初めとする魔国連邦の技術力を相互提携する技術交換条約を締結したほか、ドワーフ王国とテンペストを結ぶ街道の整備を、全額テンペスト負担で敷設・整備させている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/34/66289_crt_1xNfu.jpg?r=1545877676",
+        "link": "https://bgm.tv/character/66289",
+        "categorie": "person"
+      },
+      {
+        "id": "66285",
+        "label": "贝斯塔",
+        "info": "英雄王盖札的大臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/ab/66285_crt_44Bfn.jpg",
+        "link": "https://bgm.tv/character/66285",
+        "categorie": "person"
+      },
+      {
+        "id": "65864",
+        "label": "托蕾妮",
+        "info": "树妖精，朱拉大森林的管理者，最上位的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/5a/65864_crt_4325O.jpg?r=1535890670",
+        "link": "https://bgm.tv/character/65864",
+        "categorie": "person"
+      },
+      {
+        "id": "66369",
+        "label": "艾莲",
+        "info": "布尔蒙自由公会的冒险者，与卡巴尔、基多三人一组战斗。职业为持杖法师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ff/66369_crt_g07mO.jpg",
+        "link": "https://bgm.tv/character/66369",
+        "categorie": "person"
+      },
+      {
+        "id": "66370",
+        "label": "基多",
+        "info": "布尔蒙自由公会的冒险者，与艾莲、卡巴尔三人一组战斗。职业为匕首盗贼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/fa/66370_crt_53PlA.jpg",
+        "link": "https://bgm.tv/character/66370",
+        "categorie": "person"
+      },
+      {
+        "id": "66371",
+        "label": "卡巴鲁",
+        "info": "布尔蒙自由公会的冒险者，与艾莲、基多三人一组战斗。职业为持盾战士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/95/66371_crt_Ch4TW.jpg",
+        "link": "https://bgm.tv/character/66371",
+        "categorie": "person"
+      },
+      {
+        "id": "63819",
+        "label": "米莉姆·纳瓦",
+        "info": "第一世代魔王，龙魔人，称号为“破坏的暴君”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/fb/63819_crt_y7kv0.jpg?r=1567481779",
+        "link": "https://bgm.tv/character/63819",
+        "categorie": "person"
+      },
+      {
+        "id": "66226",
+        "label": "拉米莉丝",
+        "info": "居住在迷宫里的妖精，第一世代魔王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/56/66226_crt_G1xFS.jpg?r=1552152244",
+        "link": "https://bgm.tv/character/66226",
+        "categorie": "person"
+      },
+      {
+        "id": "66286",
+        "label": "卡利昂",
+        "info": "魔王ミリムと戦い敗北し、魔王として立つ力量が自分にないことを認め魔王の座を降り、臣下共々魔王ミリムの配下となる道を選んだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/73/66286_crt_G9WRP.jpg",
+        "link": "https://bgm.tv/character/66286",
+        "categorie": "person"
+      },
+      {
+        "id": "66395",
+        "label": "雷昂·克罗姆威尔",
+        "info": "シズを異世界召喚した張本人、かつイーフリートを宿らせた当人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/74/66395_crt_HBFQM.jpg?r=1543863339",
+        "link": "https://bgm.tv/character/66395",
+        "categorie": "person"
+      },
+      {
+        "id": "66288",
+        "label": "克雷曼",
+        "info": "中庸道化連の一人であり元魔王の一人。中庸道化連の面々に対して以外は配下にも冷酷に接する。特に、親代わりであったカザリームに心酔していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/02/66288_crt_2Vc1u.jpg?r=1543863357",
+        "link": "https://bgm.tv/character/66288",
+        "categorie": "person"
+      },
+      {
+        "id": "66902",
+        "label": "拉普拉斯",
+        "info": "中庸道化連の副会長。魔王クレイマンとともに何かを企んでいるようである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/46/66902_crt_JO1kO.jpg",
+        "link": "https://bgm.tv/character/66902",
+        "categorie": "person"
+      },
+      {
+        "id": "66529",
+        "label": "尤姆",
+        "info": "元はしがない冒険者パーティのリーダー。しかし人を惹きつける魅力と確かな統率力を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/f1/66529_crt_dayLz.jpg",
+        "link": "https://bgm.tv/character/66529",
+        "categorie": "person"
+      },
+      {
+        "id": "66372",
+        "label": "费兹",
+        "info": "布尔蒙王国的布鲁姆特自由组合的支部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/df/66372_crt_BDOvZ.jpg",
+        "link": "https://bgm.tv/character/66372",
+        "categorie": "person"
+      },
+      {
+        "id": "66373",
+        "label": "贝尔亚德男爵",
+        "info": "布尔蒙王国里没有领地的低阶贵族，经常在住处和城堡间往来办事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/3b/66373_crt_AP0Ii.jpg",
+        "link": "https://bgm.tv/character/66373",
+        "categorie": "person"
+      },
+      {
+        "id": "66398",
+        "label": "神乐坂优树",
+        "info": "来自异世界的人类，为创建“自由组合”公会的创办者，将冒险者互助组合更名为自由组合，建立起了与国家间的互助关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/bb/66398_crt_yV3YF.jpg",
+        "link": "https://bgm.tv/character/66398",
+        "categorie": "person"
+      },
+      {
+        "id": "66291",
+        "label": "三崎剑也",
+        "info": "小说刚出场时十岁。利姆路的学生。为了抑制庞大的魔素，在身体中寄宿著光之上位精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/8c/66291_crt_Qv8JR.jpg",
+        "link": "https://bgm.tv/character/66291",
+        "categorie": "person"
+      },
+      {
+        "id": "66292",
+        "label": "关口良太",
+        "info": "小说刚出场时十岁。利姆路的学生。为了抑制庞大的魔素，在身体中寄宿著虚拟上位精灵【水风】",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/9c/66292_crt_5qGIs.jpg",
+        "link": "https://bgm.tv/character/66292",
+        "categorie": "person"
+      },
+      {
+        "id": "66294",
+        "label": "盖鲁·吉普森",
+        "info": "小说刚出场时十一岁。利姆路的学生。为了抑制庞大的魔素，在身体中寄宿著虚拟上位精灵【地】。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/f1/66294_crt_e999x.jpg",
+        "link": "https://bgm.tv/character/66294",
+        "categorie": "person"
+      },
+      {
+        "id": "66293",
+        "label": "爱丽丝·伦德",
+        "info": "女性，小说刚出场时九岁。利姆路的学生。为了抑制庞大的魔素，在身体中寄宿著虚拟上位精灵【空】。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/83/66293_crt_Y6DBW.jpg",
+        "link": "https://bgm.tv/character/66293",
+        "categorie": "person"
+      },
+      {
+        "id": "66295",
+        "label": "库洛艾·欧贝鲁",
+        "info": "小说刚出场时十岁。利姆路的学生，喜欢利姆路。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/dc/66295_crt_j0a9j.jpg",
+        "link": "https://bgm.tv/character/66295",
+        "categorie": "person"
+      },
+      {
+        "id": "65084",
+        "label": "迪亚波罗",
+        "info": "魔王ギィ・クリムゾンと同格・同郷の悪魔で、かつては「原初の黒」と呼ばれた悪魔系統の筆頭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/4b/65084_crt_VjzJl.jpg",
+        "link": "https://bgm.tv/character/65084",
+        "categorie": "person"
+      },
+      {
+        "id": "66229",
+        "label": "猪头帝盖鲁德",
+        "info": "本名“盖鲁德”，是原猪头王国欧比克的猪头人，在命危时被魔人喀尔谬德命名而进化为了猪头帝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/55/66229_crt_10772.jpg",
+        "link": "https://bgm.tv/character/66229",
+        "categorie": "person"
+      },
+      {
+        "id": "66284",
+        "label": "阿比鲁",
+        "info": "ガビル、ソーカの父でありリザードマン王国の首領。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/6b/66284_crt_93NlA.jpg",
+        "link": "https://bgm.tv/character/66284",
+        "categorie": "person"
+      },
+      {
+        "id": "66223",
+        "label": "奇伊·克林姆兹",
+        "info": "最古の魔王。ミリムと七日七夜戦った伝説のほか、呼び出された国家の願いを叶えて敵国を滅ぼし、その後呼び出した国家を滅ぼし2国を地上から消し去った、などの伝説も語られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/4d/66223_crt_guppK.jpg",
+        "link": "https://bgm.tv/character/66223",
+        "categorie": "person"
+      },
+      {
+        "id": "66227",
+        "label": "坂口日向",
+        "info": "異世界に呼び出された元日本人。剣技は人間の最高位に近い能力で一度はリムルを死の瀬戸際まで追い込んだ。西方世界最強の剣士と呼ばれ、法皇直属近衛団筆頭騎士と聖騎士団長を兼任している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/1e/66227_crt_1t211.jpg?r=1538485083",
+        "link": "https://bgm.tv/character/66227",
+        "categorie": "person"
+      },
+      {
+        "id": "66287",
+        "label": "芙蕾",
+        "info": "有翼族の女王であり魔王の一人だった。自らの力不足を感じ、リムルの魔王就任を機に魔王の座を返上し、カリオンと共にミリムの配下に入った。ミリムの配下にはなったが国王としての経験は伊達ではなく、仕事を放り出してはテンペストで遊んでいるミリムにとってはリムルとは別の意味で勝てない相手となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/a4/66287_crt_3iFx9.jpg",
+        "link": "https://bgm.tv/character/66287",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

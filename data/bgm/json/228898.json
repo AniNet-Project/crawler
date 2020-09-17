@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66163",
+        "label": "本乡多惠",
+        "info": "紐手家で共同生活をすることになったこころの大学時代の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/95/66163_crt_SZxWs.jpg?r=1539072604",
+        "link": "https://bgm.tv/character/66163",
+        "categorie": "person"
+      },
+      {
+        "id": "66164",
+        "label": "纽手心",
+        "info": "紐手三姉妹の三女。サバサバしたしっかり者で現実主義者、機転が利く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/2a/66164_crt_YlyFV.jpg?r=1539621842",
+        "link": "https://bgm.tv/character/66164",
+        "categorie": "person"
+      },
+      {
+        "id": "66165",
+        "label": "纽手纪奈美",
+        "info": "紐手三姉妹の次女。恋愛体質でもっとも女子っぽいめんどくさい性格。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/a4/66165_crt_3lNcI.jpg?r=1540441359",
+        "link": "https://bgm.tv/character/66165",
+        "categorie": "person"
+      },
+      {
+        "id": "66166",
+        "label": "纽手时世",
+        "info": "紐手三姉妹の長女。落ち着いた性格でミステリアス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/56/66166_crt_9r90Y.jpg?r=1540929820",
+        "link": "https://bgm.tv/character/66166",
+        "categorie": "person"
+      },
+      {
+        "id": "66167",
+        "label": "新井美奈萌",
+        "info": "紐手家に住むこころの中学・高校時代の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/c5/66167_crt_dvM8j.jpg?r=1541606014",
+        "link": "https://bgm.tv/character/66167",
+        "categorie": "person"
+      },
+      {
+        "id": "66168",
+        "label": "缘",
+        "info": "紐手家のペットの猫。人懐っこい性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/41/66168_crt_S7QGs.jpg",
+        "link": "https://bgm.tv/character/66168",
+        "categorie": "person"
+      },
+      {
+        "id": "67689",
+        "label": "喵铃",
+        "info": "一只粉色的猫，和缘是好朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/12/67689_crt_7wnmM.jpg",
+        "link": "https://bgm.tv/character/67689",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

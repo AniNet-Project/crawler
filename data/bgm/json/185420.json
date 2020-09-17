@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44821",
+        "label": "町田佐和子",
+        "info": "本を読まずに読書家ぶりたい女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/38/44821_crt_a7ikL.jpg",
+        "link": "https://bgm.tv/character/44821",
+        "categorie": "person"
+      },
+      {
+        "id": "44822",
+        "label": "神林诗织",
+        "info": "さわ子と違ってガチの読書家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/60/44822_crt_Yl82U.jpg",
+        "link": "https://bgm.tv/character/44822",
+        "categorie": "person"
+      },
+      {
+        "id": "44823",
+        "label": "远藤",
+        "info": "さわ子たちと同じ図書室に通う男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/9e/44823_crt_q1WA7.jpg",
+        "link": "https://bgm.tv/character/44823",
+        "categorie": "person"
+      },
+      {
+        "id": "44824",
+        "label": "长谷川澄香",
+        "info": "遠藤に淡い想いを寄せる、図書委員の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/86/44824_crt_xkIZz.jpg",
+        "link": "https://bgm.tv/character/44824",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14875",
+        "label": "井吹龙之介",
+        "info": "薄樱鬼 黎明录 主人公  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/2c/14875_crt_3WZ2K.jpg",
+        "link": "https://bgm.tv/character/14875",
+        "categorie": "person"
+      },
+      {
+        "id": "11458",
+        "label": "土方岁三",
+        "info": "新选组副长。被称为“鬼之副长”，个性十分严谨，新选组的事物几乎由他处理。为了与风间战斗而饮下变若水让自己获得可以相抗的力量，被风间称为“薄樱鬼”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/a9/11458_crt_KY8dx.jpg",
+        "link": "https://bgm.tv/character/11458",
+        "categorie": "person"
+      },
+      {
+        "id": "11460",
+        "label": "原田左之助",
+        "info": "十番组组长。善于用长枪。重情重义，稳重温柔，梦想是能与妻子一起平稳生活。动画版中与不之火经常对上每次都难分上下，为了阻止罗刹攻击百姓在会津杀人吸血与不之火在山路上迎击纲道带领的罗刹队。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/df/11460_crt_SE9G6.jpg",
+        "link": "https://bgm.tv/character/11460",
+        "categorie": "person"
+      },
+      {
+        "id": "12345",
+        "label": "冲田总司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d6/12345_crt_l7r5C.jpg",
+        "link": "https://bgm.tv/character/12345",
+        "categorie": "person"
+      },
+      {
+        "id": "11459",
+        "label": "藤堂平助",
+        "info": "八番组组长。最年轻的干部。身材娇小，与千鹤年纪相仿，对于政治理想有自己一套思维，对新选组的改变感到不认同，后随伊东甲子太郎脱离新选组，得知伊东要策划暗杀近藤的事情后在有油小路事件后回归新选组并加入山南创立之罗刹队行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/78/11459_crt_i6033.jpg",
+        "link": "https://bgm.tv/character/11459",
+        "categorie": "person"
+      },
+      {
+        "id": "11462",
+        "label": "山南敬助",
+        "info": "新选组总长，个性温柔常带着笑容，但有时也会露出冷酷的一面。因为一次出任务时左手受伤，不能再像以往一样使用剑术，因而开始消沉，最后下定决心选择饮下经过自己改良的“变若水”，成功抵抗药水成为第一个没有失控的“鬼”的实例，由于在白天下行动会有负担因此新选组对外宣称山南以死的事情，只有少数干部知道真相。之后创立“罗刹队”并成为队长以及继续研究变若水的负责人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/36/11462_crt_OPYKZ.jpg",
+        "link": "https://bgm.tv/character/11462",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

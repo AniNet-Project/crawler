@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45370",
+        "label": "浅井さやか",
+        "info": "主人公が働いている「浅井クリーニング」の店長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/24/45370_crt_X586I.jpg",
+        "link": "https://bgm.tv/character/45370",
+        "categorie": "person"
+      },
+      {
+        "id": "45371",
+        "label": "五十嵐ゆうこ",
+        "info": "大型クリーニングチェーン店『ホワイトクリーン』の女社長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f9/45371_crt_rereL.jpg",
+        "link": "https://bgm.tv/character/45371",
+        "categorie": "person"
+      },
+      {
+        "id": "45372",
+        "label": "鵜飼雅代",
+        "info": "いつもにこにこと優しげな笑みを浮かべているが艶のある妖しい女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/2a/45372_crt_14CR0.jpg",
+        "link": "https://bgm.tv/character/45372",
+        "categorie": "person"
+      },
+      {
+        "id": "45373",
+        "label": "江ノ本マリ",
+        "info": "マリはアジア系の外国人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/5b/45373_crt_4Pcaa.jpg",
+        "link": "https://bgm.tv/character/45373",
+        "categorie": "person"
+      },
+      {
+        "id": "45374",
+        "label": "大橋信二",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/b7/45374_crt_3G88c.jpg",
+        "link": "https://bgm.tv/character/45374",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

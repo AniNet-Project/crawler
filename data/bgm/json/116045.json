@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35048",
+        "label": "苏九儿",
+        "info": "苏九儿是糖人家所创作的漫画《妖怪名单》及其衍生作品的登场角色。女主角之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/61/35048_crt_TzMm6.jpg",
+        "link": "https://bgm.tv/character/35048",
+        "categorie": "person"
+      },
+      {
+        "id": "35049",
+        "label": "郭双",
+        "info": "郭双是糖人家工作室所创作的福利漫画《妖怪名单》及其衍生作品的登场角色。女主角之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/8e/35049_crt_KzK29.jpg",
+        "link": "https://bgm.tv/character/35049",
+        "categorie": "person"
+      },
+      {
+        "id": "35050",
+        "label": "封夕",
+        "info": "大学穷屌丝一枚 ，有三个死党——老大、胖子、黄哥。用室友的高倍望远镜偷看对楼女生换衣服，却看见苏九儿真身。与苏九儿正式见面在马哲课上被她缠上，封夕似乎在无数个轮回中与苏九儿有段情缘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/6e/35050_crt_fp2G7.jpg",
+        "link": "https://bgm.tv/character/35050",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54324",
+        "label": "店主",
+        "info": "十年前に祖父から受け継いだ、",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/fd/54324_crt_qJJ0a.jpg",
+        "link": "https://bgm.tv/character/54324",
+        "categorie": "person"
+      },
+      {
+        "id": "54325",
+        "label": "阿蕾塔",
+        "info": "魔族の少女。ある日偶然、「洋食のねこや」に迷い込み、",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/ee/54325_crt_kokJO.jpg",
+        "link": "https://bgm.tv/character/54325",
+        "categorie": "person"
+      },
+      {
+        "id": "54326",
+        "label": "サラ",
+        "info": "有名なトレジャーハンターを祖父に持つ、売り出し中の若手トレジャーハンター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/18/54326_crt_K278Z.jpg",
+        "link": "https://bgm.tv/character/54326",
+        "categorie": "person"
+      },
+      {
+        "id": "54791",
+        "label": "クロ",
+        "info": "アレッタと同じく給仕として「洋食のねこや」で働く竜の化身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/61/54791_crt_fEH5R.jpg",
+        "link": "https://bgm.tv/character/54791",
+        "categorie": "person"
+      },
+      {
+        "id": "55144",
+        "label": "赤之女王",
+        "info": "伝説の魔竜の1人。とある理由により、店の最後の客として他の客が帰ったあとにだけ訪れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/1b/55144_crt_1p4MY.jpg",
+        "link": "https://bgm.tv/character/55144",
+        "categorie": "person"
+      },
+      {
+        "id": "55145",
+        "label": "タツゴロウ",
+        "info": "その武名を轟かせる大剣豪。アルトリウスとも顔なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/ae/55145_crt_8ZnE5.jpg",
+        "link": "https://bgm.tv/character/55145",
+        "categorie": "person"
+      },
+      {
+        "id": "55146",
+        "label": "アルトリウス",
+        "info": "常連客の中では一番の古株で、伝説的な大魔術師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/73/55146_crt_Z53OY.jpg",
+        "link": "https://bgm.tv/character/55146",
+        "categorie": "person"
+      },
+      {
+        "id": "55147",
+        "label": "ハインリヒ=ゼーレマン",
+        "info": "公国に仕える騎士。辺境の砦の隊長として働いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/46/55147_crt_lWp8P.jpg",
+        "link": "https://bgm.tv/character/55147",
+        "categorie": "person"
+      },
+      {
+        "id": "56887",
+        "label": "アーデルハイド",
+        "info": "東大陸にある帝国の第一皇女。病気療養のため、離宮で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/38/56887_crt_YkKvx.jpg",
+        "link": "https://bgm.tv/character/56887",
+        "categorie": "person"
+      },
+      {
+        "id": "56888",
+        "label": "トマス・アルフェイド",
+        "info": "アルフェイド商会の元当主。様々なパスタソースを開発し、「料理発明の天才」と呼ばれた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/d6/56888_crt_5X81m.jpg",
+        "link": "https://bgm.tv/character/56888",
+        "categorie": "person"
+      },
+      {
+        "id": "56889",
+        "label": "シリウス・アルフェイド",
+        "info": "トマスの孫。祖父に連れられて「ねこや」を訪れ、商会のとある秘密を知る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/bb/56889_crt_86z6Z.jpg",
+        "link": "https://bgm.tv/character/56889",
+        "categorie": "person"
+      },
+      {
+        "id": "56890",
+        "label": "ガガンポ",
+        "info": "リザードマン青尻尾一族の若者。部族一の強さを持ち「勇者」と認められる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/eb/56890_crt_t5aT3.jpg",
+        "link": "https://bgm.tv/character/56890",
+        "categorie": "person"
+      },
+      {
+        "id": "56891",
+        "label": "ファルダニア",
+        "info": "エルフの料理研究家。動物由来の食材は一切口にしない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/b8/56891_crt_9q9mJ.jpg",
+        "link": "https://bgm.tv/character/56891",
+        "categorie": "person"
+      },
+      {
+        "id": "56892",
+        "label": "ライオネル",
+        "info": "獅子の頭を持つ魔族。異世界各地で暴れまわっていたが、捕らえられ、剣闘奴隷となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/a4/56892_crt_BauC4.jpg",
+        "link": "https://bgm.tv/character/56892",
+        "categorie": "person"
+      },
+      {
+        "id": "56893",
+        "label": "ヴィクトリア・サマナーク",
+        "info": "公国公王の姉。両親は人間だがハーフエルフとして生まれ、今は魔術の研究に没頭している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/34/56893_crt_zmhXG.jpg",
+        "link": "https://bgm.tv/character/56893",
+        "categorie": "person"
+      },
+      {
+        "id": "56894",
+        "label": "アルフォンス・フリューゲル",
+        "info": "とある海戦で船が沈み、行方不明となった伝説の将軍。無人島で20年以上も遭難生活中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/91/56894_crt_LzyM2.jpg",
+        "link": "https://bgm.tv/character/56894",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

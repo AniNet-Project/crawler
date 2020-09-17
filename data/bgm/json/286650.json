@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74891",
+        "label": "阿尔蒂",
+        "info": "フィレンツェの貧乏貴族の一人娘。猪突猛進で負けん気が強いが、頑張り屋な性格の持ち主。幼少時は両親からいろいろな習い事を受けさせられるが、習い事の一つであった絵を描くことにのめり込み、絵を描くことが何よりも大好きとなる。母親の反対を押し切って、画家になるという夢をかなえるため、レオの元へ弟子入りを志願する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/94/74891_crt_httTw.jpg?r=1586033484",
+        "link": "https://bgm.tv/character/74891",
+        "categorie": "person"
+      },
+      {
+        "id": "74892",
+        "label": "利奥",
+        "info": "アルテが働く画家工房の親方。普段から不愛想で厳しいが、男女の隔てなく、実力主義でアルテに接している。アルテのひたむきな姿に、かつての徒弟時代の自分自身を重ね、彼女を弟子にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/3f/74892_crt_9CY2o.jpg?r=1586710462",
+        "link": "https://bgm.tv/character/74892",
+        "categorie": "person"
+      },
+      {
+        "id": "74893",
+        "label": "安杰洛·帕克",
+        "info": "別の工房で働く徒弟。アルテの徒弟仲間。姉妹がいる環境で育ったためか、女性に優しく世話好きな性格。アルテにも優しく仕事を手伝おうとするが、アルテからは特別扱いされたくないと断られ、彼女に興味を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/c0/74893_crt_8vcCV.jpg?r=1587531690",
+        "link": "https://bgm.tv/character/74893",
+        "categorie": "person"
+      },
+      {
+        "id": "74894",
+        "label": "维罗妮卡",
+        "info": "コルティジャーナ（高級娼婦）。レオの工房のお得意様で、レオに肖像画の依頼をしている。自分と同じく女性でありながらも自立しようと頑張るアルテに興味を持ち、悩めるアルテの良き理解者となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/51/74894_crt_SCHZ3.jpg?r=1579654327",
+        "link": "https://bgm.tv/character/74894",
+        "categorie": "person"
+      },
+      {
+        "id": "74895",
+        "label": "达恰",
+        "info": "お針子。農家の娘で、11歳から針子仕事についている。貴族出身のアルテに嫉妬心を滾らせていたが、頑張るアルテに感銘を受け、文字の読み書きをアルテから教わるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/b1/74895_crt_c6gv3.jpg?r=1588507386",
+        "link": "https://bgm.tv/character/74895",
+        "categorie": "person"
+      },
+      {
+        "id": "74896",
+        "label": "尤里",
+        "info": "ヴェネツィアからやってきた名門貴族ファリエル家当主の弟。姪のカタリーナを溺愛している。フィレンツェでアルテの描いた絵を気に入り、彼女に興味を持ち、カタリーナの家庭教師を依頼する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/73/74896_crt_tLL6M.jpg?r=1589192356",
+        "link": "https://bgm.tv/character/74896",
+        "categorie": "person"
+      },
+      {
+        "id": "74897",
+        "label": "卡塔莉娜",
+        "info": "ヴェネツィアの名門貴族ファリエル家の令嬢。ユーリの姪。叔父のユーリの計らいでアルテが礼儀作法の家庭教師をすることになる。料理を作ることが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/9e/74897_crt_ADA6z.jpg?r=1590160487",
+        "link": "https://bgm.tv/character/74897",
+        "categorie": "person"
+      },
+      {
+        "id": "77331",
+        "label": "达芙妮",
+        "info": "尤里家的使女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/87/77331_crt_clt47.jpg?r=1590322651",
+        "link": "https://bgm.tv/character/77331",
+        "categorie": "person"
+      },
+      {
+        "id": "77569",
+        "label": "苏菲亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/c2/77569_crt_ggt4R.jpg?r=1591801253",
+        "link": "https://bgm.tv/character/77569",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

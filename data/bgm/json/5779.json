@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29398",
+        "label": "齐藤八云",
+        "info": "映画研究同好会に所属する大学生。赤い左目を持ち、その左目は死者の魂を見ることができる。過去の苦い経験から、他人に対して心を開かなかったが、赤い左目を受け入れた小沢晴香に対しては、少しずつ心を開くようになって行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/ac/29398_crt_dM224.jpg",
+        "link": "https://bgm.tv/character/29398",
+        "categorie": "person"
+      },
+      {
+        "id": "29399",
+        "label": "小泽晴香",
+        "info": "八雲と同じ大学に通っている学生。オーケストラサークル所属でフルート担当。八雲の左目の能力によって、過去のじゅ縛から開放される事となる。彼の内面の優しさや苦悩に触れ、八雲を少しづつ理解するようになって行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/c4/29399_crt_wZDYU.jpg",
+        "link": "https://bgm.tv/character/29399",
+        "categorie": "person"
+      },
+      {
+        "id": "29400",
+        "label": "后藤和利",
+        "info": "世田町警察署・未解決事件特別捜査室所属の刑事。現在、妻とは別居中。とある事件の被害者となった幼い頃の八雲を助けた事がある。八雲の事を「バケネコ」と呼んでいるが、内心では八雲を気遣っている。心霊関係の事件では八雲の手をたびたび借りている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/89/29400_crt_ZddDv.jpg",
+        "link": "https://bgm.tv/character/29400",
+        "categorie": "person"
+      },
+      {
+        "id": "29401",
+        "label": "石井雄太郎",
+        "info": "世田町警察署・未解決事件特別捜査室所属の刑事。後藤の部下。子供のころからオカルトや超常現象が大好き。その反面、非常に気が小さく臆病者である。実は、ひそかに晴香に想いを寄せている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/2b/29401_crt_k8DuK.jpg",
+        "link": "https://bgm.tv/character/29401",
+        "categorie": "person"
+      },
+      {
+        "id": "29402",
+        "label": "土方真琴",
+        "info": "北東新聞社勤務の新聞記者。父親は後藤たちが勤務する世田町警察署の署長。警察署長の娘として見られることを嫌がっている。ある事件で幽霊に取り付かれ、八雲たちに助けられる。石井に好意を持っておりアプローチをしているが、気づいてもらえない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/55/29402_crt_vS9mM.jpg",
+        "link": "https://bgm.tv/character/29402",
+        "categorie": "person"
+      },
+      {
+        "id": "29403",
+        "label": "齐藤一心",
+        "info": "お寺の住職で八雲の叔父。八雲の最大の理解者であり、彼の父親代わりで名付け親。赤い左目に苦しむ八雲と同じ苦しみを味わうために左目に赤いコンタクトレンズを入れている。 温厚で慈悲深い人物。世田町郊外の寺に娘の奈緒と暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/95/29403_crt_XDhXO.jpg",
+        "link": "https://bgm.tv/character/29403",
+        "categorie": "person"
+      },
+      {
+        "id": "29404",
+        "label": "齐藤奈绪",
+        "info": "一心の娘で、八雲の従妹。耳が不自由ではあるが、それを感じさせない天真爛漫な明るさを持つ少女。勘がよく家族や親しい人とはコミュニケーションがとれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/40/29404_crt_RXwT4.jpg",
+        "link": "https://bgm.tv/character/29404",
+        "categorie": "person"
+      },
+      {
+        "id": "29405",
+        "label": "畠秀吉",
+        "info": "北東医大の所属の検死官。人の死に純粋な興味を持っており、検死に独特のポリシーを持っているようではあるが、死体解剖を趣味として楽しんでいる節がある。飄々とした性格で後藤たちをからかったりすることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/a6/29405_crt_mVcBj.jpg",
+        "link": "https://bgm.tv/character/29405",
+        "categorie": "person"
+      },
+      {
+        "id": "29406",
+        "label": "齐藤云海",
+        "info": "両目が赤く幽霊が見える。言葉巧みに他人に近づきその心を操る。人の心の弱い部分を刺激し、犯罪へと駆り立てる。七瀬美雪を使い八雲を苦しめようとしている。その目的は不明である。非常に冷酷な人物で、人間の魂の本質を闇だと考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/79/29406_crt_MBSh2.jpg",
+        "link": "https://bgm.tv/character/29406",
+        "categorie": "person"
+      },
+      {
+        "id": "29407",
+        "label": "七濑美雪",
+        "info": "両目の赤い男と行動をともにする謎の女。両目の赤い男に心酔しており、その目的を達成するために実際に行動をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/b1/29407_crt_AOno3.jpg",
+        "link": "https://bgm.tv/character/29407",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

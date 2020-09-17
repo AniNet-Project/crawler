@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1625",
+        "label": "刘备",
+        "info": "字玄德（げんとく）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/50/1625_crt_emaEJ.jpg?r=1502607643",
+        "link": "https://bgm.tv/character/1625",
+        "categorie": "person"
+      },
+      {
+        "id": "11051",
+        "label": "诸葛亮",
+        "info": "字孔明（こうめい）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/16/11051_crt_j309b.jpg?r=1484299637",
+        "link": "https://bgm.tv/character/11051",
+        "categorie": "person"
+      },
+      {
+        "id": "22864",
+        "label": "关羽",
+        "info": "一刀刚来到三国志世界时遇见的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/93/22864_crt_eyeY7.jpg?r=1484248868",
+        "link": "https://bgm.tv/character/22864",
+        "categorie": "person"
+      },
+      {
+        "id": "11050",
+        "label": "张飞",
+        "info": "初代：",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/45/11050_crt_3cC9T.jpg?r=1484304571",
+        "link": "https://bgm.tv/character/11050",
+        "categorie": "person"
+      },
+      {
+        "id": "49783",
+        "label": "程昱",
+        "info": "昱(yù)",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/43/49783_crt_Pifv2.jpg?r=1484256690",
+        "link": "https://bgm.tv/character/49783",
+        "categorie": "person"
+      },
+      {
+        "id": "49784",
+        "label": "袁术",
+        "info": "初次登场于《恋姬无双》系列第二季，是个任性傲娇的萝莉公主，跟她的姐姐丽羽一样，对于治理领地方面也是很无能，曾因这一点而被爱纱吐槽，发型也跟丽羽很像，自称在姐姐面前完全变得没有气势，喜欢在被别人夸奖后说“是啊是啊，继续夸我吧”。对唱歌很有天赋，喜欢唱歌后喝蜂蜜水。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/23/49784_crt_qQZTE.jpg?r=1483504938",
+        "link": "https://bgm.tv/character/49784",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

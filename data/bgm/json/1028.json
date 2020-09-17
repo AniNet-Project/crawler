@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7310",
+        "label": "妮娜·翁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a9/7310_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7310",
+        "categorie": "person"
+      },
+      {
+        "id": "7311",
+        "label": "真白·布兰·杜·温德布伦",
+        "info": "所有GEM：蒼天の青玉（そうてんのせいぎょく）／海神の翠玉（わだつみのすいぎょく）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/b0/7311_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7311",
+        "categorie": "person"
+      },
+      {
+        "id": "22106",
+        "label": "爱莉卡·梦宮",
+        "info": "主人公の少女。ガレリア辺境自治区出身の田舎娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/4f/22106_crt_sn55G.jpg",
+        "link": "https://bgm.tv/character/22106",
+        "categorie": "person"
+      },
+      {
+        "id": "1981",
+        "label": "夏树·库鲁卡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/3b/1981_crt_M7wc7.jpg",
+        "link": "https://bgm.tv/character/1981",
+        "categorie": "person"
+      },
+      {
+        "id": "6438",
+        "label": "诗帆·尤伊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/71/6438_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6438",
+        "categorie": "person"
+      },
+      {
+        "id": "6651",
+        "label": "碧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/cc/6651_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6651",
+        "categorie": "person"
+      },
+      {
+        "id": "7313",
+        "label": "静留·维奥拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/0f/7313_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7313",
+        "categorie": "person"
+      },
+      {
+        "id": "7324",
+        "label": "遥·阿米特吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/40/7324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7324",
+        "categorie": "person"
+      },
+      {
+        "id": "7325",
+        "label": "黎人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/09/7325_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7325",
+        "categorie": "person"
+      },
+      {
+        "id": "11338",
+        "label": "爱尔斯汀·贺",
+        "info": "コーラル17位→30位→シュヴァルツ構成員",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/f1/11338_crt_zDGR9.jpg",
+        "link": "https://bgm.tv/character/11338",
+        "categorie": "person"
+      },
+      {
+        "id": "6437",
+        "label": "罗莎丽·克劳迪尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/8f/6437_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6437",
+        "categorie": "person"
+      },
+      {
+        "id": "7323",
+        "label": "尾久崎晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/24/7323_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7323",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

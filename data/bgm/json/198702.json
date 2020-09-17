@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32025",
+        "label": "姫川穗波",
+        "info": "主人公の隣の席に座っているクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/63/32025_crt_y99pd.jpg",
+        "link": "https://bgm.tv/character/32025",
+        "categorie": "person"
+      },
+      {
+        "id": "32026",
+        "label": "芦屋铃鹿",
+        "info": "主人公がバイトしている “Cafe Lakeside（カフェ レイクサイド）” のウェイトレス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/25/32026_crt_61vcs.jpg",
+        "link": "https://bgm.tv/character/32026",
+        "categorie": "person"
+      },
+      {
+        "id": "32027",
+        "label": "仓敷梓",
+        "info": "主人公が通う学園の下級生。 無口で人付き合いが苦手な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/d4/32027_crt_lHxCo.jpg",
+        "link": "https://bgm.tv/character/32027",
+        "categorie": "person"
+      },
+      {
+        "id": "32028",
+        "label": "早濑千岁",
+        "info": "主人公が通うことになる学園の先生。 生物を担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/40/32028_crt_8Lk8O.jpg",
+        "link": "https://bgm.tv/character/32028",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

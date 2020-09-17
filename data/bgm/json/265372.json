@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68377",
+        "label": "雏罂粟港",
+        "info": "消防士",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/fd/68377_crt_eeblO.jpg",
+        "link": "https://bgm.tv/character/68377",
+        "categorie": "person"
+      },
+      {
+        "id": "68378",
+        "label": "向水日奈子",
+        "info": "大学生",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/f5/68378_crt_o2gWa.jpg",
+        "link": "https://bgm.tv/character/68378",
+        "categorie": "person"
+      },
+      {
+        "id": "68892",
+        "label": "雏罂粟洋子",
+        "info": "港の妹で高校生",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d3/68892_crt_HDm6n.jpg",
+        "link": "https://bgm.tv/character/68892",
+        "categorie": "person"
+      },
+      {
+        "id": "68893",
+        "label": "川村山葵",
+        "info": "新人消防士で港の後輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/ab/68893_crt_G7a47.jpg",
+        "link": "https://bgm.tv/character/68893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74807",
+        "label": "春风明日菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/58/74807_crt_zFsl1.jpg?r=1579341716",
+        "link": "https://bgm.tv/character/74807",
+        "categorie": "person"
+      },
+      {
+        "id": "74809",
+        "label": "泽夏琴音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/c8/74809_crt_cIZFb.jpg?r=1579341678",
+        "link": "https://bgm.tv/character/74809",
+        "categorie": "person"
+      },
+      {
+        "id": "74810",
+        "label": "秋山千岁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/cc/74810_crt_7EYka.jpg?r=1579341647",
+        "link": "https://bgm.tv/character/74810",
+        "categorie": "person"
+      },
+      {
+        "id": "74811",
+        "label": "冬川来栖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/e3/74811_crt_B3qif.jpg?r=1579341596",
+        "link": "https://bgm.tv/character/74811",
+        "categorie": "person"
+      },
+      {
+        "id": "55597",
+        "label": "伊丽莎白·华伦",
+        "info": "三島木に会うためにイギリスから留学して白玉中の女子ソフトテニス部に入部した少女。2年生。清楚で天然ボケな性格だが、部内では常識人の部類である。小学校の頃から硬式テニスをやっており、イギリスの全国大会で優勝した経験もある実力者。三島木とは彼が全日本の合宿でイギリスへと渡っていた時からの知り合いで、その頃から彼に好意を抱いている。日本語は話せるが留学してきたばかりのために日本の常識に関しては乏しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/ac/55597_crt_30GBM.jpg",
+        "link": "https://bgm.tv/character/55597",
+        "categorie": "person"
+      },
+      {
+        "id": "76948",
+        "label": "三岛木洋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/3d/76948_crt_7FPwM.jpg?r=1587905135",
+        "link": "https://bgm.tv/character/76948",
+        "categorie": "person"
+      },
+      {
+        "id": "76960",
+        "label": "平岸弥生",
+        "info": "平岸 やよい（ひらぎし やよい）",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/6b/76960_crt_1ZK5K.jpg?r=1587905702",
+        "link": "https://bgm.tv/character/76960",
+        "categorie": "person"
+      },
+      {
+        "id": "14495",
+        "label": "马赛克君",
+        "info": "重点是让趣味的图片来打码。。。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/f8/14495_crt_lyeym.jpg",
+        "link": "https://bgm.tv/character/14495",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

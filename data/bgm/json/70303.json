@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52110",
+        "label": "怡丽丝・勒贝鲁",
+        "info": "本作の主人公。人間（地球人）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/a9/52110_crt_tX84O.jpg?r=1488845980",
+        "link": "https://bgm.tv/character/52110",
+        "categorie": "person"
+      },
+      {
+        "id": "53455",
+        "label": "莓丽怡・纳塞利",
+        "info": "イリスの相棒。エルフィン人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/e9/53455_crt_npq66.jpg?r=1492613886",
+        "link": "https://bgm.tv/character/53455",
+        "categorie": "person"
+      },
+      {
+        "id": "53633",
+        "label": "B医生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/85/53633_crt_Zz22F.jpg",
+        "link": "https://bgm.tv/character/53633",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

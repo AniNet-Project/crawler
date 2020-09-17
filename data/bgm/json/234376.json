@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50253",
+        "label": "ルーシェ・メネルミア",
+        "info": "主人公を積極的に受け入れる、まじめ気質なエルフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/45/50253_crt_OvAY6.jpg",
+        "link": "https://bgm.tv/character/50253",
+        "categorie": "person"
+      },
+      {
+        "id": "50254",
+        "label": "イヴリン・ケレブリアン",
+        "info": "ダークエルフの少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/58/50254_crt_2SIi6.jpg",
+        "link": "https://bgm.tv/character/50254",
+        "categorie": "person"
+      },
+      {
+        "id": "50255",
+        "label": "フィリス・ハガルヘルム",
+        "info": "エルフの中でも貴族的な位置にあるハイエルフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/7a/50255_crt_KKF1l.jpg",
+        "link": "https://bgm.tv/character/50255",
+        "categorie": "person"
+      },
+      {
+        "id": "50256",
+        "label": "ノル",
+        "info": "エルフ族の長老だが見た目は子供なエルダーエルフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/d7/50256_crt_ZjmzZ.jpg",
+        "link": "https://bgm.tv/character/50256",
+        "categorie": "person"
+      },
+      {
+        "id": "50257",
+        "label": "デルヴァ・ケレブリアン",
+        "info": "冷徹なダークエルフの女将軍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/db/50257_crt_S2f58.jpg",
+        "link": "https://bgm.tv/character/50257",
+        "categorie": "person"
+      },
+      {
+        "id": "50258",
+        "label": "エルダ・バルレッド",
+        "info": "種族存続を一番に考え、主人公を搾り尽くして妊娠したがる肉食系ダークエルフ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/11/50258_crt_uc3KK.jpg",
+        "link": "https://bgm.tv/character/50258",
+        "categorie": "person"
+      },
+      {
+        "id": "50259",
+        "label": "ミズリィ・ステントレーム",
+        "info": "ダークエルフ族の族長で、邪悪な魔法使い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/b1/50259_crt_4y596.jpg",
+        "link": "https://bgm.tv/character/50259",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

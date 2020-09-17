@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23365",
+        "label": "千夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ee/23365_crt_htZ1E.jpg",
+        "link": "https://bgm.tv/character/23365",
+        "categorie": "person"
+      },
+      {
+        "id": "23366",
+        "label": "千代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ca/23366_crt_G3dBE.jpg",
+        "link": "https://bgm.tv/character/23366",
+        "categorie": "person"
+      },
+      {
+        "id": "23367",
+        "label": "ゆうた",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/52/23367_crt_m8BRk.jpg",
+        "link": "https://bgm.tv/character/23367",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

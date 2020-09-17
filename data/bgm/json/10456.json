@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5011",
+        "label": "榊瑞树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/bf/5011_crt_3v4FU.jpg?r=1579339743",
+        "link": "https://bgm.tv/character/5011",
+        "categorie": "person"
+      },
+      {
+        "id": "74803",
+        "label": "藤沢瑠璃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f6/74803_crt_3xo9R.jpg?r=1579338802",
+        "link": "https://bgm.tv/character/74803",
+        "categorie": "person"
+      },
+      {
+        "id": "5012",
+        "label": "野野宫舞",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/87/5012_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5012",
+        "categorie": "person"
+      },
+      {
+        "id": "5013",
+        "label": "北条比奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/40/5013_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5013",
+        "categorie": "person"
+      },
+      {
+        "id": "74804",
+        "label": "桐生琴叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/24/74804_crt_JM7yO.jpg",
+        "link": "https://bgm.tv/character/74804",
+        "categorie": "person"
+      },
+      {
+        "id": "74805",
+        "label": "猫谷海羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/12/74805_crt_yRRdQ.jpg",
+        "link": "https://bgm.tv/character/74805",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

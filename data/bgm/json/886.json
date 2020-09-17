@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3449",
+        "label": "河合穗乃香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/a1/3449_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3449",
+        "categorie": "person"
+      },
+      {
+        "id": "16905",
+        "label": "狮子堂秋叶",
+        "info": "カークウッド6号島私立スール学園2年C組に通う、明るくて前向きな少女。自分にしかできない「何か」を探し求めている。突然のお見合いから逃げ出したところ、レオパルドと出会うのだが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/4a/16905_crt_xHSBU.jpg",
+        "link": "https://bgm.tv/character/16905",
+        "categorie": "person"
+      },
+      {
+        "id": "49774",
+        "label": "神凪いつき",
+        "info": "ICP（インター・コロニー・ポリス）、ディビジョン5、特殊怪奇事例専従捜査課所属。曲がったこと、間違ったことが大嫌いで、融通が利かない性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/8c/49774_crt_8WcEx.jpg",
+        "link": "https://bgm.tv/character/49774",
+        "categorie": "person"
+      },
+      {
+        "id": "3450",
+        "label": "狮子堂风音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/39/3450_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3450",
+        "categorie": "person"
+      },
+      {
+        "id": "3452",
+        "label": "狮子堂奈美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/12/3452_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3452",
+        "categorie": "person"
+      },
+      {
+        "id": "3457",
+        "label": "狮子堂妹子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/fc/3457_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3457",
+        "categorie": "person"
+      },
+      {
+        "id": "3460",
+        "label": "ニーナ・ストラトスキー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/50/3460_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3460",
+        "categorie": "person"
+      },
+      {
+        "id": "3466",
+        "label": "レオパルド頭脳体",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/65/3466_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3466",
+        "categorie": "person"
+      },
+      {
+        "id": "3468",
+        "label": "真宮寺時雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/2f/3468_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3468",
+        "categorie": "person"
+      },
+      {
+        "id": "7270",
+        "label": "ブーゲンビリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/48/7270_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7270",
+        "categorie": "person"
+      },
+      {
+        "id": "7471",
+        "label": "ネルヴァル 人間体",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/59/7471_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7471",
+        "categorie": "person"
+      },
+      {
+        "id": "7472",
+        "label": "ベンケイ頭脳体",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e6/7472_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7472",
+        "categorie": "person"
+      },
+      {
+        "id": "3458",
+        "label": "大倉ネネコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/ea/3458_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3458",
+        "categorie": "person"
+      },
+      {
+        "id": "3459",
+        "label": "メイドロイド獅子堂妹子",
+        "info": "ナビ人の「乗り物」。頭部にイモちゃんの搭乗スペースがあり、秋葉の身の回りの世話をする際に乗り込む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d6/3459_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3459",
+        "categorie": "person"
+      },
+      {
+        "id": "3463",
+        "label": "エリカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/c0/3463_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3463",
+        "categorie": "person"
+      },
+      {
+        "id": "3465",
+        "label": "レオパルド",
+        "info": "コロニー内に設置された人工知能で、自称「紅茶マイスター」。ほのかからは「キング」と呼ばれる。性格は尊大で、プライドが少しでも傷つくと自暴自棄に陥る。また口が悪い。加えて自らに危険が及んだ際に共に行動していた秋葉達を放って自分だけ逃げる義理が無い一面もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/71/3465_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3465",
+        "categorie": "person"
+      },
+      {
+        "id": "7466",
+        "label": "御鏡晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/47/7466_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7466",
+        "categorie": "person"
+      },
+      {
+        "id": "7474",
+        "label": "ゆぴたん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/30/7474_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7474",
+        "categorie": "person"
+      },
+      {
+        "id": "7513",
+        "label": "さっちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/0a/7513_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7513",
+        "categorie": "person"
+      },
+      {
+        "id": "7514",
+        "label": "ミスタークロオビ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/29/7514_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7514",
+        "categorie": "person"
+      },
+      {
+        "id": "3467",
+        "label": "アークツージェイワン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/27/3467_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3467",
+        "categorie": "person"
+      },
+      {
+        "id": "7243",
+        "label": "ウィガール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/68/7243_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7243",
+        "categorie": "person"
+      },
+      {
+        "id": "7271",
+        "label": "アークスリーエー[ブーゲリアン]",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/fc/7271_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7271",
+        "categorie": "person"
+      },
+      {
+        "id": "7467",
+        "label": "ユーリ・サハロフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/aa/7467_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7467",
+        "categorie": "person"
+      },
+      {
+        "id": "7468",
+        "label": "グラブフィッシュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/a2/7468_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7468",
+        "categorie": "person"
+      },
+      {
+        "id": "7473",
+        "label": "クサンチッペ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/d0/7473_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7473",
+        "categorie": "person"
+      },
+      {
+        "id": "7515",
+        "label": "カテドラル・ベンディスカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/c3/7515_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7515",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

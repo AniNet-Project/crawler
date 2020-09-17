@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19895",
+        "label": "藤井",
+        "info": "家庭用女仆人机器人，总是第一个进行尝试，和天气有不解之缘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/95/19895_crt_Qay4q.jpg?r=1472026685",
+        "link": "https://bgm.tv/character/19895",
+        "categorie": "person"
+      },
+      {
+        "id": "19896",
+        "label": "加藤",
+        "info": "国立图书馆的图书管理机器人，每周都能整理搜索出大量有关于搞笑的资料，不防水，易损坏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/d2/19896_crt_ruVOI.jpg",
+        "link": "https://bgm.tv/character/19896",
+        "categorie": "person"
+      },
+      {
+        "id": "19897",
+        "label": "森",
+        "info": "工业用机器人，三个机器人中唯一可以不需步行而在空中悬浮移动的机器人。能够将身体的部件进行任意的组合，也能够对于损坏的机器人进行维修。虽然自己没有意识到，却在三台机器人中脱颖而出，成为了最快领悟到搞笑精髓的吐槽派机器人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/f8/19897_crt_tTPT4.jpg",
+        "link": "https://bgm.tv/character/19897",
+        "categorie": "person"
+      },
+      {
+        "id": "19906",
+        "label": "断钢",
+        "info": "Rebellion联邦使用的主力机体，因卓越的精确性和机动力而适用于各种战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/2d/19906_crt_mdNYT.jpg",
+        "link": "https://bgm.tv/character/19906",
+        "categorie": "person"
+      },
+      {
+        "id": "19918",
+        "label": "迅鸦",
+        "info": "Rebellion联邦使用的机器人，擅于利用高超的机动力进行近距离战斗，常被用于进行特种作战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/4c/19918_crt_0twwn.jpg",
+        "link": "https://bgm.tv/character/19918",
+        "categorie": "person"
+      },
+      {
+        "id": "19919",
+        "label": "严武改",
+        "info": "Rebellion联邦使用的机器人，配备有重装甲和强火力的正面突破用尖兵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/3c/19919_crt_NWXZ1.jpg",
+        "link": "https://bgm.tv/character/19919",
+        "categorie": "person"
+      },
+      {
+        "id": "19920",
+        "label": "速射",
+        "info": "Rebellion联邦使用的炮击用重型机体，装配有强大的火力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/58/19920_crt_1k5NQ.jpg",
+        "link": "https://bgm.tv/character/19920",
+        "categorie": "person"
+      },
+      {
+        "id": "19921",
+        "label": "昆·古尼尔II",
+        "info": "Rebellion联邦制造的王牌机体，适应于各种战斗，性能优异。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/65/19921_crt_TMtnX.jpg",
+        "link": "https://bgm.tv/character/19921",
+        "categorie": "person"
+      },
+      {
+        "id": "19922",
+        "label": "无尽",
+        "info": "Rebellion联邦量产的旧式主力机体，虽然各方面的性能都不够优良，但是在机动力方面拥有自己的优势，并且易于生产。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/ec/19922_crt_OVl40.jpg",
+        "link": "https://bgm.tv/character/19922",
+        "categorie": "person"
+      },
+      {
+        "id": "19923",
+        "label": "魔君",
+        "info": "隶属于Sin公国的数量稀少的精英机器人，在格斗方面进行了特性优化，拥有着超现实的外观和性能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/e5/19923_crt_EhXhM.jpg",
+        "link": "https://bgm.tv/character/19923",
+        "categorie": "person"
+      },
+      {
+        "id": "19938",
+        "label": "决战兵器",
+        "info": "Sin公国生产的终极机器人，拥有其他机体三倍的高度和装甲，持有压倒性的火力，也许可以被视为导致人类灭亡的原因之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/6f/19938_crt_IIk58.jpg",
+        "link": "https://bgm.tv/character/19938",
+        "categorie": "person"
+      },
+      {
+        "id": "19939",
+        "label": "シュツルムゲベ",
+        "info": "Sin公国量产的机械化补兵，除了名字之外基本上没有什么特别之处。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/35/19939_crt_AA53P.jpg",
+        "link": "https://bgm.tv/character/19939",
+        "categorie": "person"
+      },
+      {
+        "id": "19949",
+        "label": "シュツルムゲベ（隊長）",
+        "info": "Sin公国的机械化步兵中下级军官所使用的机器人，性能和量产型的几乎没有区别，只是为了便于指挥而增强了通讯系统。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/18/19949_crt_AqvU1.jpg",
+        "link": "https://bgm.tv/character/19949",
+        "categorie": "person"
+      },
+      {
+        "id": "19951",
+        "label": "殊·坦克",
+        "info": "Sin公国所使用的坦克型机器人，拥有厚重的装甲和强大的火力，既可用于进攻，又可用于防守，是维持阵线的良好保障。缺点是机动力不足。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/d4/19951_crt_8SmYb.jpg?r=1368421307",
+        "link": "https://bgm.tv/character/19951",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "19965",
+        "label": "Sin公国",
+        "info": "人类灭亡前支配地球的两大政权之一，与Rebellion联邦进行了旷日持久的战争。直到人类灭亡后，分属于两个政权的机器人依然在日以继夜地进行着毫无意义的战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/c2/19965_crt_3ckr0.jpg",
+        "link": "https://bgm.tv/character/19965",
+        "categorie": "person"
+      },
+      {
+        "id": "19966",
+        "label": "Rebellion联邦",
+        "info": "人类灭亡前支配地球的二大政权之一，与Sin公国进行着跨日持久的战争。直到人类灭亡后，分属于两个政权的机器人依然在日以继夜地进行着毫无意义的战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/f4/19966_crt_xESsS.jpg?r=1368511127",
+        "link": "https://bgm.tv/character/19966",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

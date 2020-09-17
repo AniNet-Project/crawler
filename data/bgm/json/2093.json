@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5975",
+        "label": "倣立人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/cf/5975_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5975",
+        "categorie": "person"
+      },
+      {
+        "id": "24391",
+        "label": "花鹿・路易莎・陆深・伯斯华斯",
+        "info": "本作主人翁，出场年龄14岁，茶发银瞳的美少女，世界级大财团——伯斯华斯家的独生女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/da/24391_crt_aSObD.jpg",
+        "link": "https://bgm.tv/character/24391",
+        "categorie": "person"
+      },
+      {
+        "id": "48560",
+        "label": "寅之助・V・芳賀",
+        "info": "花鹿のボディガードを務める童顔の日系アメリカ人2世。ボディガードとしての腕は確かだが、素直でやや子供っぽい性格。アクの強い面々に囲まれ、日々気の休まらない常識人。初登場時は17歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9a/48560_crt_8MVBp.jpg?r=1479296633",
+        "link": "https://bgm.tv/character/48560",
+        "categorie": "person"
+      },
+      {
+        "id": "5976",
+        "label": "ルマティ・イヴァン・ダイ・ラギネイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/05/5976_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5976",
+        "categorie": "person"
+      },
+      {
+        "id": "5977",
+        "label": "ハリー・バーンズワース",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/b5/5977_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5977",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

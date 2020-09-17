@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19195",
+        "label": "城户龙彦",
+        "info": "デザインの専門学校に通うため上京し、一人暮らしのアパートで見つけた壁の穴を覗いてしまったことから、隣室の美女・生野えみると“覗き合い”を始めることに！？",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/25/19195_crt_69FNO.jpg?r=1460175760",
+        "link": "https://bgm.tv/character/19195",
+        "categorie": "person"
+      },
+      {
+        "id": "19197",
+        "label": "生野艾米露",
+        "info": "デザイン学校に通う龍彦とは同級生でアパートの隣人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/00/19197_crt_fGQOI.jpg?r=1460175783",
+        "link": "https://bgm.tv/character/19197",
+        "categorie": "person"
+      },
+      {
+        "id": "19196",
+        "label": "琴引友里",
+        "info": "龍彦の同級生であり、その抜群なスタイルで龍彦に積極的なアピールをし恋人関係へと発展したが、本命かどうかは不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/27/19196_crt_xcaTc.jpg?r=1460175827",
+        "link": "https://bgm.tv/character/19196",
+        "categorie": "person"
+      },
+      {
+        "id": "19198",
+        "label": "寺门卷子",
+        "info": "タツヒコには明るくさっぱりした中性的な女の子だが、えみるに対して性別を超えた想いを…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/f3/19198_crt_A54E4.jpg?r=1460175902",
+        "link": "https://bgm.tv/character/19198",
+        "categorie": "person"
+      },
+      {
+        "id": "40194",
+        "label": "本並翔子",
+        "info": "28歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/f3/40194_crt_5JhTT.jpg",
+        "link": "https://bgm.tv/character/40194",
+        "categorie": "person"
+      },
+      {
+        "id": "40195",
+        "label": "米山",
+        "info": "実家暮らしだが、上京したタツヒコとは学校の見学会以来つるむようになった親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/fa/40195_crt_dAPo3.jpg?r=1460176174",
+        "link": "https://bgm.tv/character/40195",
+        "categorie": "person"
+      },
+      {
+        "id": "40196",
+        "label": "堀井真",
+        "info": "イケメンで人当たりがいい反面、心に闇を抱えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/86/40196_crt_UubB0.jpg?r=1460176275",
+        "link": "https://bgm.tv/character/40196",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

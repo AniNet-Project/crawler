@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60170",
+        "label": "橘爱子",
+        "info": "本作の主人公で、明るく元気な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/76/60170_crt_KKN4X.jpg?r=1515598241",
+        "link": "https://bgm.tv/character/60170",
+        "categorie": "person"
+      },
+      {
+        "id": "60171",
+        "label": "神崎雄哉",
+        "info": "アイコの学校へ転校してくる、もう一人の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/cb/60171_crt_5RrYZ.jpg?r=1515598409",
+        "link": "https://bgm.tv/character/60171",
+        "categorie": "person"
+      },
+      {
+        "id": "60182",
+        "label": "筱山大辅",
+        "info": "ダイバーのリーダーで、白石のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/2f/60182_crt_CFRsh.jpg",
+        "link": "https://bgm.tv/character/60182",
+        "categorie": "person"
+      },
+      {
+        "id": "60183",
+        "label": "白石真帆",
+        "info": "ダイバーの一員で、篠山のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/38/60183_crt_wvkI9.jpg",
+        "link": "https://bgm.tv/character/60183",
+        "categorie": "person"
+      },
+      {
+        "id": "60184",
+        "label": "相模芳彦",
+        "info": "ダイバーの一員で、一樹のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/7e/60184_crt_g34rM.jpg",
+        "link": "https://bgm.tv/character/60184",
+        "categorie": "person"
+      },
+      {
+        "id": "60185",
+        "label": "水濑一树",
+        "info": "ダイバーの一員で、相模のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/6e/60185_crt_GT8P3.jpg",
+        "link": "https://bgm.tv/character/60185",
+        "categorie": "person"
+      },
+      {
+        "id": "60186",
+        "label": "芹遥香",
+        "info": "ダイバーの一員で、楓のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/a5/60186_crt_UxaAR.jpg",
+        "link": "https://bgm.tv/character/60186",
+        "categorie": "person"
+      },
+      {
+        "id": "60187",
+        "label": "三泽枫",
+        "info": "ダイバーの一員で、遙香のバディ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/4c/60187_crt_ZA4ES.jpg",
+        "link": "https://bgm.tv/character/60187",
+        "categorie": "person"
+      },
+      {
+        "id": "60188",
+        "label": "黑濑进",
+        "info": "桐生生命工学研究所に所属する、人工生体の開発者の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/8b/60188_crt_0Lpy0.jpg",
+        "link": "https://bgm.tv/character/60188",
+        "categorie": "person"
+      },
+      {
+        "id": "60189",
+        "label": "伊佐津恭介",
+        "info": "桐生病院院長。アイコの担当医。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/b8/60189_crt_J19JS.jpg",
+        "link": "https://bgm.tv/character/60189",
+        "categorie": "person"
+      },
+      {
+        "id": "60190",
+        "label": "南原显子",
+        "info": "人工生体汚染災害対策庁(CAAC)対策局の局長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f3/60190_crt_22t84.jpg",
+        "link": "https://bgm.tv/character/60190",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

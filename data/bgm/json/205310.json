@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49956",
+        "label": "琳",
+        "info": "赤子の頃ダンデラの村の長老に拾われ、",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/69/49956_crt_zV5Qz.jpg?r=1522595325",
+        "link": "https://bgm.tv/character/49956",
+        "categorie": "person"
+      },
+      {
+        "id": "49955",
+        "label": "菲妮丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/60/49955_crt_O4b60.jpg?r=1523102532",
+        "link": "https://bgm.tv/character/49955",
+        "categorie": "person"
+      },
+      {
+        "id": "59622",
+        "label": "阿尔",
+        "info": "リンと一緒に育った発明好きの少年。王都の科学者になることが夢。手先が器用で様々な発明をするが、失敗も多い。何かと理詰めな言動が多く、どんな場面でも自分の知識を使って解説したがる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/bf/59622_crt_78JZj.jpg",
+        "link": "https://bgm.tv/character/59622",
+        "categorie": "person"
+      },
+      {
+        "id": "59623",
+        "label": "波妮·古德莱特",
+        "info": "かつて王都に仕えていた宮廷吟遊詩人。面倒見のよい長身の美女だが、酒とギャンブルが好きという欠点も。婚期や年齢を指摘されるとブチ切れてしまう。（ただし、大抵は本人の勘違い）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e6/59623_crt_raQb9.jpg",
+        "link": "https://bgm.tv/character/59623",
+        "categorie": "person"
+      },
+      {
+        "id": "59621",
+        "label": "亨利·利奥波德",
+        "info": "代々名家として誉れ高いレオボルト家の騎士。剣術大会で優勝する程の腕の持主だが、争いごとは好まない優しい性格。奇跡の力を持つ歌姫を戦争の道具にしようとしている王都軍に反対し、孤独な戦いを挑む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/53/59621_crt_GKaKc.jpg",
+        "link": "https://bgm.tv/character/59621",
+        "categorie": "person"
+      },
+      {
+        "id": "59652",
+        "label": "阿琉·路克斯",
+        "info": "王都の宮廷楽団に入るのが夢だが、理由あって王都軍所属の律動士をしている。喧嘩っ早いくせに人の争いはすぐに止めたがる。情熱家で家族思い。周りのものや人を叩いてリズムをとる癖がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/2c/59652_crt_qCRQ0.jpg",
+        "link": "https://bgm.tv/character/59652",
+        "categorie": "person"
+      },
+      {
+        "id": "59654",
+        "label": "莫妮卡·路克斯",
+        "info": "姉のアリューと正反対の性格で極度の人見知り。不安を感じるとすぐに寝てしまう。音楽の才能は天才的で、一度聴いたものは何でも真似ることができる。特に歌にハーモニーを加えることが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/80/59654_crt_FX453.jpg",
+        "link": "https://bgm.tv/character/59654",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

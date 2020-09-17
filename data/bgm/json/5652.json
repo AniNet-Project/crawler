@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10941",
+        "label": "大神凉子",
+        "info": "本作的女主角，为御伽学园高中部一年F班学生，也是御伽学园学生互助协会的成员。原型角色是《小红帽》当中的大野狼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/3d/10941_crt_cOccP.jpg?r=1382202954",
+        "link": "https://bgm.tv/character/10941",
+        "categorie": "person"
+      },
+      {
+        "id": "10942",
+        "label": "赤井林檎",
+        "info": "御伽学园高中部一年F班学生。原型角色是《小红帽》里的小红帽和《白雪公主》里的“毒苹果”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/8b/10942_crt_cpVIE.jpg?r=1567408767",
+        "link": "https://bgm.tv/character/10942",
+        "categorie": "person"
+      },
+      {
+        "id": "10944",
+        "label": "森野亮士",
+        "info": "本作的主人公，御伽学园高中部一年F班学生。原型角色是《小红帽》当中的猎人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/5d/10944_crt_dgFqr.jpg?r=1382202907",
+        "link": "https://bgm.tv/character/10944",
+        "categorie": "person"
+      },
+      {
+        "id": "10945",
+        "label": "桐木李斯特",
+        "info": "御伽学园高中部三年级生。原型角色是伊索寓言中的《蚂蚁与蟋蟀》的蟋蟀。他是御伽银行的行长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/25/10945_crt_4V68v.jpg?r=1382202757",
+        "link": "https://bgm.tv/character/10945",
+        "categorie": "person"
+      },
+      {
+        "id": "10947",
+        "label": "桐木爱丽丝",
+        "info": "御伽学园高中部三年级生，御伽银行的副行长。原型角色是《蚂蚁与蟋蟀》里的蚂蚁。与李斯特的关系是表堂兄妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/82/10947_crt_3p223.jpg?r=1382202867",
+        "link": "https://bgm.tv/character/10947",
+        "categorie": "person"
+      },
+      {
+        "id": "10948",
+        "label": "鹤谷乙卯",
+        "info": "御伽学园高中部二年级生。原型角色是《白鹤报恩》里的鹤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d8/10948_crt_lvDM9.jpg?r=1382203049",
+        "link": "https://bgm.tv/character/10948",
+        "categorie": "person"
+      },
+      {
+        "id": "10949",
+        "label": "浦岛太郎",
+        "info": "御伽学园高中部1年F班。原型角色来自《浦岛太郎》。对男人毫无兴趣看都不看，严重的喜欢女人，只要对方是女性态度就会产生巨变。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/cd/10949_crt_1tyDB.jpg?r=1382203149",
+        "link": "https://bgm.tv/character/10949",
+        "categorie": "person"
+      },
+      {
+        "id": "10950",
+        "label": "龙宫乙姬",
+        "info": "御伽学园高中部1年级的学生。原型角色来自《浦岛太郎》。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/cb/10950_crt_52f56.jpg",
+        "link": "https://bgm.tv/character/10950",
+        "categorie": "person"
+      },
+      {
+        "id": "10951",
+        "label": "玛琼丽卡·璐·菲",
+        "info": "御伽学园高中二年级生，穿着所谓黑衣单边扣衬衫、尖顶帽子、牛奶瓶底型眼镜等服饰的正统派魔女服的女性；头发是金色的直发，通称为魔女。名字是由亚瑟王传说中的魔女Morgan le Fay而来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/a7/10951_crt_5B6o6.jpg?r=1382203689",
+        "link": "https://bgm.tv/character/10951",
+        "categorie": "person"
+      },
+      {
+        "id": "10952",
+        "label": "宇佐见美美",
+        "info": "御伽学园二年级生，原型角色是《龟兔赛跑》里的兔子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/2e/10952_crt_1W41W.jpg",
+        "link": "https://bgm.tv/character/10952",
+        "categorie": "person"
+      },
+      {
+        "id": "10953",
+        "label": "下桐雀",
+        "info": "原型角色是《舌切り雀》里的麻雀。御伽学园广播部的人员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/b0/10953_crt_Rq5OH.jpg",
+        "link": "https://bgm.tv/character/10953",
+        "categorie": "person"
+      },
+      {
+        "id": "10954",
+        "label": "吉备津桃子",
+        "info": "御伽学园三年级生，原型角色是《桃太郎》里的桃太郎。男女通吃，极度快乐主义者，不论男女只要被她看上都照推不误，从中学开始看上了凉子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/00/10954_crt_LoCoA.jpg",
+        "link": "https://bgm.tv/character/10954",
+        "categorie": "person"
+      },
+      {
+        "id": "10955",
+        "label": "白雪姬乃",
+        "info": "御伽学园三年级生。原型角色是《白雪公主》里的白雪公主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/63/10955_crt_29PrQ.jpg",
+        "link": "https://bgm.tv/character/10955",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

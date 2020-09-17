@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "62964",
+        "label": "高尾纱波",
+        "info": "家出中の女子学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/f6/62964_crt_TDCMw.jpg",
+        "link": "https://bgm.tv/character/62964",
+        "categorie": "person"
+      },
+      {
+        "id": "62965",
+        "label": "美竹由香",
+        "info": "新宿を徘徊している少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/ff/62965_crt_55RrI.jpg",
+        "link": "https://bgm.tv/character/62965",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

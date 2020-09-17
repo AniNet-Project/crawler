@@ -1,0 +1,421 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36275",
+        "label": "三日月·奥格斯",
+        "info": "隶属于火星民间警备公司CGS的少年。性格开朗大方，不拘小节，为了同伴不惧牺牲。在CGS当中擅长机动兵器的操纵技术，被任命为“高达·巴巴托斯”的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/26/36275_crt_b5yPc.jpg?r=1446612071",
+        "link": "https://bgm.tv/character/36275",
+        "categorie": "person"
+      },
+      {
+        "id": "36276",
+        "label": "库迪莉亚·蓝那·伯恩斯坦",
+        "info": "与火星的独立运动有所关联的少女。为了与地球的阿布劳政府独自交涉而前往地球，途中的护卫则委托CGS进行。曾经成功组织了“诺亚基斯七月会议”这一集结了独立运动家的会议，从而受到多方关注。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/df/36276_crt_4MBOd.jpg?r=1446612093",
+        "link": "https://bgm.tv/character/36276",
+        "categorie": "person"
+      },
+      {
+        "id": "36616",
+        "label": "奥尔加·伊兹卡",
+        "info": "CGS少年领袖般的存在。有着优秀的领导才能，受到少年们深厚的信赖，他本人也为了回应这份信赖而努力着。特别是和三日月自幼一起长大，构筑了超越兄弟的信赖关系。为了不再让少年们受到虐待，而决定反叛CGS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/93/36616_crt_Nt7lo.jpg?r=1560714852",
+        "link": "https://bgm.tv/character/36616",
+        "categorie": "person"
+      },
+      {
+        "id": "36277",
+        "label": "阿特拉·密科斯塔",
+        "info": "在克律塞市内杂货店工作的少女。也负责将食材运送到CGS，并与CGS的少年们有所来往。特别是对三日月抱有淡淡的恋心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/06/36277_crt_cociK.jpg?r=1446612110",
+        "link": "https://bgm.tv/character/36277",
+        "categorie": "person"
+      },
+      {
+        "id": "36435",
+        "label": "麦克吉利斯·法里德",
+        "info": "年轻有为的加拉尔霍恩特务三佐。为了进行监查而造访了火星本部。是优秀的驾驶员，拥有施瓦尔贝·格雷兹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/71/36435_crt_Sk85V.jpg?r=1446612055",
+        "link": "https://bgm.tv/character/36435",
+        "categorie": "person"
+      },
+      {
+        "id": "36615",
+        "label": "比斯凯特·格里芬",
+        "info": "支持着奥尔加，处在参谋立场的少年。喜欢读书，性格沉稳。为了给祖母和双胞胎妹妹赚取生活费而志愿加入CGS。曾经上过学，是少年们当中少有的会读书写字的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d0/36615_crt_GDOaP.jpg?r=1446612130",
+        "link": "https://bgm.tv/character/36615",
+        "categorie": "person"
+      },
+      {
+        "id": "36617",
+        "label": "尤金·塞文斯塔克",
+        "info": "CGS所属的少年之一，直到奥尔加入队之前都是少年们的领袖。身体能力优秀，头脑也很聪明，但由于有目光短浅的一面而欠缺领导才能。对于年少组喜欢奥尔加这件事感到不爽，经常反抗奥尔加。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/ba/36617_crt_NjTGz.jpg?r=1446612561",
+        "link": "https://bgm.tv/character/36617",
+        "categorie": "person"
+      },
+      {
+        "id": "36618",
+        "label": "昭弘·阿尔特兰",
+        "info": "与三日月等人不同，是被卖给CGS、被称作Human Debris的少年们的领袖。似乎是由于这一经历，很少亲近其他成员，有着排他的性格。在危险的任务中经常立于最前线。有着次于三日月的操纵技术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/3e/36618_crt_PoSdZ.jpg?r=1446612689",
+        "link": "https://bgm.tv/character/36618",
+        "categorie": "person"
+      },
+      {
+        "id": "36619",
+        "label": "诺尔巴·西诺",
+        "info": "CGS所属的开朗少年。擅长利用其庞大的身躯展开白刃战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/a2/36619_crt_Fj5jQ.jpg?r=1446612886",
+        "link": "https://bgm.tv/character/36619",
+        "categorie": "person"
+      },
+      {
+        "id": "36620",
+        "label": "贵树·宇野",
+        "info": "CGS年少组的领袖。在部队内担当传令、补给等各种杂务。憧憬着操纵高达·巴巴托斯的三日月。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/37/36620_crt_HhIHq.jpg?r=1446613000",
+        "link": "https://bgm.tv/character/36620",
+        "categorie": "person"
+      },
+      {
+        "id": "36621",
+        "label": "亚马基·吉尔马顿",
+        "info": "CGS所属的沉默少年。擅长机械整备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/43/36621_crt_RDXdV.jpg?r=1446613109",
+        "link": "https://bgm.tv/character/36621",
+        "categorie": "person"
+      },
+      {
+        "id": "36622",
+        "label": "莱德·玛斯",
+        "info": "CGS年少组的少年。口无遮拦，不过很关心同伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/38/36622_crt_rg9LR.jpg?r=1446613220",
+        "link": "https://bgm.tv/character/36622",
+        "categorie": "person"
+      },
+      {
+        "id": "36623",
+        "label": "查德·查丹",
+        "info": "与昭弘同样是Human Debris的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/43/36623_crt_PPTNP.jpg?r=1446613299",
+        "link": "https://bgm.tv/character/36623",
+        "categorie": "person"
+      },
+      {
+        "id": "36624",
+        "label": "丹迪·莫格罗",
+        "info": "与昭弘同样是Human Debris的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/e2/36624_crt_sl5LH.jpg?r=1446613388",
+        "link": "https://bgm.tv/character/36624",
+        "categorie": "person"
+      },
+      {
+        "id": "36625",
+        "label": "芙米坦·阿朵莫斯",
+        "info": "バーンスタイン家に仕えるクーデリア付きのメイド。クーデリアの地球行きに同行する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/86/36625_crt_Mkryz.jpg?r=1446613575",
+        "link": "https://bgm.tv/character/36625",
+        "categorie": "person"
+      },
+      {
+        "id": "36626",
+        "label": "库奇·格里芬",
+        "info": "【2nd season】",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/a9/36626_crt_3z3m5.jpg?r=1475424021",
+        "link": "https://bgm.tv/character/36626",
+        "categorie": "person"
+      },
+      {
+        "id": "36627",
+        "label": "加埃利欧·鲍德温",
+        "info": "加拉尔霍恩特务三佐。身为护卫与麦克吉利斯同行。优秀的驾驶员，拥有专门定制的施瓦尔贝·格雷兹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/38/36627_crt_lPX4y.jpg?r=1446613812",
+        "link": "https://bgm.tv/character/36627",
+        "categorie": "person"
+      },
+      {
+        "id": "36628",
+        "label": "纳迪·雪之丞·卡萨巴",
+        "info": "CGS的维修员，本来是专门做机动工兵的维修，是在CGS中唯一对奥尔加和三日月等小孩亲切的大人。其双脚因过去的战伤而丧失，换成了义肢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/55/36628_crt_1rp99.jpg?r=1446643427",
+        "link": "https://bgm.tv/character/36628",
+        "categorie": "person"
+      },
+      {
+        "id": "36633",
+        "label": "艾因·达尔顿",
+        "info": "ギャラルホルン火星支部に所属する若い士官。三尉。グレイズに搭乗する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/31/36633_crt_EtAq1.jpg?r=1446644145",
+        "link": "https://bgm.tv/character/36633",
+        "categorie": "person"
+      },
+      {
+        "id": "36896",
+        "label": "名濑·达宾",
+        "info": "率领着担任迪瓦茲运送部门的附属组织达宾兹的领导。其船员和MS驾驶员几乎都是女性。深受在木星圈广为人知的武斗派代表马克马多·帕里斯顿的信赖，两人关系亲如父子一般。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/cc/36896_crt_4uUX2.jpg?r=1447775380",
+        "link": "https://bgm.tv/character/36896",
+        "categorie": "person"
+      },
+      {
+        "id": "36897",
+        "label": "雅蜜妲·阿尔卡",
+        "info": "善于照顾人，是名瀬的第一夫人。搭乘桃红色专用的百炼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/42/36897_crt_5CGEC.jpg?r=1447775475",
+        "link": "https://bgm.tv/character/36897",
+        "categorie": "person"
+      },
+      {
+        "id": "36898",
+        "label": "拉芙塔·法兰克兰多",
+        "info": "个性开朗，是名瀬的女朋友，亦称呼其为“达令”。主要以拥有高机动力的百里驾驶员之身份活动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/28/36898_crt_a2N2U.jpg?r=1447775576",
+        "link": "https://bgm.tv/character/36898",
+        "categorie": "person"
+      },
+      {
+        "id": "36899",
+        "label": "雅吉·古尔敏",
+        "info": "达宾兹的成员，也是百炼的驾驶员。能够冷静的执行作战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/44/36899_crt_qXx9T.jpg?r=1447775897",
+        "link": "https://bgm.tv/character/36899",
+        "categorie": "person"
+      },
+      {
+        "id": "37103",
+        "label": "梅莉毕德·斯泰普尔顿",
+        "info": "在岁星的酒吧消费的女顾客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/a4/37103_crt_HXYby.jpg?r=1448942956",
+        "link": "https://bgm.tv/character/37103",
+        "categorie": "person"
+      },
+      {
+        "id": "37388",
+        "label": "阿尔米莉亚·鲍德温",
+        "info": "加里奥9岁大的妹妹。虽然是被父母许配给马克基利斯作为未婚妻，但本身也很爱慕马克基利斯而称呼他为“麦奇”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/18/37388_crt_0CCmE.jpg?r=1450261300",
+        "link": "https://bgm.tv/character/37388",
+        "categorie": "person"
+      },
+      {
+        "id": "37391",
+        "label": "昌弘·阿尔特兰",
+        "info": "昭弘的弟弟，被作为绝卖人卖给了布魯瓦斯，担任曼·罗迪的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/3e/37391_crt_T1Qlj.jpg?r=1450261651",
+        "link": "https://bgm.tv/character/37391",
+        "categorie": "person"
+      },
+      {
+        "id": "38761",
+        "label": "假面男",
+        "info": "クーデリアに近づく謎に包まれた仮面の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/a5/38761_crt_szVvv.jpg?r=1455033960",
+        "link": "https://bgm.tv/character/38761",
+        "categorie": "person"
+      },
+      {
+        "id": "38763",
+        "label": "莳苗东护之介",
+        "info": "クーデリアが火星ハーフメタル資源の規制解放に関して交渉を進めていた元アーブラウの代表。贈収賄疑惑をかけられ、代表から退いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/bb/38763_crt_tMC3R.jpg?r=1455034283",
+        "link": "https://bgm.tv/character/38763",
+        "categorie": "person"
+      },
+      {
+        "id": "38959",
+        "label": "卡尔塔·依修",
+        "info": "ギャラルホルン地球外縁軌道統制統合艦隊の司令官。名門セブンスターズのひとつ、イシュー家の人間で、ガエリオやマクギリスとも幼少時から昔馴染み。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/78/38959_crt_7MSXE.jpg?r=1455597726",
+        "link": "https://bgm.tv/character/38959",
+        "categorie": "person"
+      },
+      {
+        "id": "39200",
+        "label": "艾柯·达宾",
+        "info": "达宾兹成员。与协力铁华团的拉芙塔和雅吉一同到达了地球。主要负责漏影的整备。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/f3/39200_crt_0q7i3.jpg?r=1456667427",
+        "link": "https://bgm.tv/character/39200",
+        "categorie": "person"
+      },
+      {
+        "id": "47107",
+        "label": "库拉卡·格里芬",
+        "info": "【2nd season】",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/8e/47107_crt_h5w3p.jpg?r=1475423649",
+        "link": "https://bgm.tv/character/47107",
+        "categorie": "person"
+      },
+      {
+        "id": "36629",
+        "label": "托多·米尔康南",
+        "info": "现实主义的见风转舵性格，令他在主力队里地位低微，在三号队叛乱后，马上便反过来加入他们。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/8a/36629_crt_bbMiM.jpg?r=1446643540",
+        "link": "https://bgm.tv/character/36629",
+        "categorie": "person"
+      },
+      {
+        "id": "36630",
+        "label": "德克斯特·库拉斯特",
+        "info": "原CGS主力队成员，在三号队叛乱后虽然想退出CGS，但因为CGS的会计一直都由他负责，奥尔加与比司凯特遂强求他留下来，继续担任铁华团的会计。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/35/36630_crt_B84ty.jpg?r=1446643641",
+        "link": "https://bgm.tv/character/36630",
+        "categorie": "person"
+      },
+      {
+        "id": "36631",
+        "label": "诺曼·布恩斯坦",
+        "info": "火星のクリュセ独立自治区代表で、クーデリアの父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/36/36631_crt_y2lQU.jpg?r=1446643970",
+        "link": "https://bgm.tv/character/36631",
+        "categorie": "person"
+      },
+      {
+        "id": "36632",
+        "label": "樱·普莱特索",
+        "info": "火星で農場を営むビスケットの祖母。三日月からは「桜ちゃん」と慕われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/c5/36632_crt_9PD9I.jpg?r=1446644059",
+        "link": "https://bgm.tv/character/36632",
+        "categorie": "person"
+      },
+      {
+        "id": "36634",
+        "label": "克朗克·钱特",
+        "info": "ギャラルホルン火星支部に所属する老練な士官。二尉。グレイズのパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/af/36634_crt_FMtPf.jpg?r=1446644242",
+        "link": "https://bgm.tv/character/36634",
+        "categorie": "person"
+      },
+      {
+        "id": "36635",
+        "label": "康纳·康拉德",
+        "info": "ギャラルホルン火星支部の支部長。火星での反社会的活動を抑止するためクーデリア・藍那・バーンスタインの暗殺を計画する。監査官として訪れたマクギリスらを快く思っていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/84/36635_crt_J3Lkw.jpg?r=1446644346",
+        "link": "https://bgm.tv/character/36635",
+        "categorie": "person"
+      },
+      {
+        "id": "36636",
+        "label": "马鲁巴·阿尔凯",
+        "info": "ＣＧＳの社長。危険視されている阿頼耶識システムの施術を所属する少年たちに義務付けている。人望は薄い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/e4/36636_crt_8rm4M.jpg?r=1446644460",
+        "link": "https://bgm.tv/character/36636",
+        "categorie": "person"
+      },
+      {
+        "id": "36637",
+        "label": "沙塞·扬库斯",
+        "info": "ＣＧＳの一軍に所属する兵士。マルバの雑務をこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/b5/36637_crt_s5sfL.jpg?r=1446644563",
+        "link": "https://bgm.tv/character/36637",
+        "categorie": "person"
+      },
+      {
+        "id": "36638",
+        "label": "哈尔达·刚内尔",
+        "info": "ＣＧＳの実行部隊の隊長。マルバに次ぐポジション。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/7d/36638_crt_6yQ3f.jpg?r=1446644680",
+        "link": "https://bgm.tv/character/36638",
+        "categorie": "person"
+      },
+      {
+        "id": "36639",
+        "label": "诺比利斯·戈登",
+        "info": "クーデリアを支援する男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/49/36639_crt_3KWCw.jpg?r=1446644766",
+        "link": "https://bgm.tv/character/36639",
+        "categorie": "person"
+      },
+      {
+        "id": "37104",
+        "label": "马库玛德·巴里斯顿",
+        "info": "迪瓦茲代表，是名濑的义父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/aa/37104_crt_ztog4.jpg?r=1448943079",
+        "link": "https://bgm.tv/character/37104",
+        "categorie": "person"
+      },
+      {
+        "id": "37389",
+        "label": "伊兹纳里欧·法里徳",
+        "info": "地球本部司令官。法里徳家现任当主，同时也是马克基利斯的养父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c9/37389_crt_AJJd8.jpg?r=1450261407",
+        "link": "https://bgm.tv/character/37389",
+        "categorie": "person"
+      },
+      {
+        "id": "37390",
+        "label": "库达尔·卡德尔",
+        "info": "指挥曼·罗迪部队的敢达・古辛的驾驶员，实际上相当于组织的NO.2。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/41/37390_crt_7O3Zi.jpg?r=1450261666",
+        "link": "https://bgm.tv/character/37390",
+        "categorie": "person"
+      },
+      {
+        "id": "37392",
+        "label": "布鲁克·卡巴杨",
+        "info": "布魯瓦斯头领，受某人的委托，为了抓捕古荻莉亚，对铁华团进行袭击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d6/37392_crt_Y8MhZ.jpg?r=1450261637",
+        "link": "https://bgm.tv/character/37392",
+        "categorie": "person"
+      },
+      {
+        "id": "38248",
+        "label": "沙瓦兰·卡奴雷",
+        "info": "比司凯特的哥哥，因双亲意外过世而被分离，好学的他由多特公司高层收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/60/38248_crt_kwwYV.jpg?r=1453033385",
+        "link": "https://bgm.tv/character/38248",
+        "categorie": "person"
+      },
+      {
+        "id": "38762",
+        "label": "亨利·弗勒尔",
+        "info": "アーブラウの女性議員。代表を退いた蒔苗の次期代表と目されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/08/38762_crt_tr798.jpg?r=1455034133",
+        "link": "https://bgm.tv/character/38762",
+        "categorie": "person"
+      },
+      {
+        "id": "39673",
+        "label": "纳伯纳·敏戈",
+        "info": "ドルト２で働く労働者組合のリーダー。労働環境や待遇の改善を訴えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/51/39673_crt_UWowz.jpg?r=1458704219",
+        "link": "https://bgm.tv/character/39673",
+        "categorie": "person"
+      },
+      {
+        "id": "39674",
+        "label": "拉斯卡·阿列席",
+        "info": "発言力のある蒔苗派閥のアーブラウ議員。全体会議で蒔苗を再選させるべく、他の議員へ働きかける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/db/39674_crt_zdkn7.jpg?r=1458707305",
+        "link": "https://bgm.tv/character/39674",
+        "categorie": "person"
+      },
+      {
+        "id": "45167",
+        "label": "阿斯顿·阿尔特兰",
+        "info": "原遭到人口买卖，即“低等阶级”的少年。受奥尔加的邀请成为了铁华团团员，与高木等人一同配属于地球支部。MS的操纵技术在地球支部里数一数二。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/a4/45167_crt_sauXq.jpg?r=1472376296",
+        "link": "https://bgm.tv/character/45167",
+        "categorie": "person"
+      },
+      {
+        "id": "45168",
+        "label": "德尔玛·阿尔特兰",
+        "info": "与阿斯顿相同，曾经是遭受宇宙海盗人口买卖的少年。现加入了铁华团，在实动一号队里操纵MS实行着战斗任务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/02/45168_crt_6sowP.jpg?r=1472377452",
+        "link": "https://bgm.tv/character/45168",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

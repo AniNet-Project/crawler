@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24368",
+        "label": "库露露",
+        "info": "プリンが大好きな、元気いっぱいで好奇心旺盛な妖精さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/75/24368_crt_5V3lG.jpg?r=1527086020",
+        "link": "https://bgm.tv/character/24368",
+        "categorie": "person"
+      },
+      {
+        "id": "63624",
+        "label": "琪莉莉",
+        "info": "辛いモノが大好きな、とても頭の保護を大事にしており礼儀正しい性格の妖精さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/50/63624_crt_ZXZ60.jpg?r=1527086148",
+        "link": "https://bgm.tv/character/63624",
+        "categorie": "person"
+      },
+      {
+        "id": "10393",
+        "label": "莎拉拉",
+        "info": "さららだ。さららにとって大切なものは武士魂だ。武士魂はいいものだぞ。これからも武士魂で、がんばっていくのだ。たくさん、勉強して、はやくりっぱな武士になるのがさららの夢なのだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/6d/10393_crt_tHCFc.jpg",
+        "link": "https://bgm.tv/character/10393",
+        "categorie": "person"
+      },
+      {
+        "id": "10394",
+        "label": "荷洛洛",
+        "info": "ほろろでぇす。ほろろの好きな食べものは、たまごドーフです。たまごドーフさえあればしあわせ～。金ののべぼうも、たまごドーフもきいろくてしかくいけど、たまごドーフのほうがおいしいから好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/d6/10394_crt_8fGAD.jpg",
+        "link": "https://bgm.tv/character/10394",
+        "categorie": "person"
+      },
+      {
+        "id": "63625",
+        "label": "老师",
+        "info": "妖精さんたちが居候している家に住む大学生。本名不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/d9/63625_crt_Yi4aY.jpg",
+        "link": "https://bgm.tv/character/63625",
+        "categorie": "person"
+      },
+      {
+        "id": "10395",
+        "label": "小玉",
+        "info": "ほろろ「たまちゃんは、いろんなことを教えてくれます」",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/de/10395_crt_06AI8.jpg",
+        "link": "https://bgm.tv/character/10395",
+        "categorie": "person"
+      },
+      {
+        "id": "63627",
+        "label": "オボロちゃん",
+        "info": "せんせいさんが当てた景品のフィギュア。その生い立ちに感銘を受けた妖精さん達の魔法で動くようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/7d/63627_crt_r1ty9.jpg",
+        "link": "https://bgm.tv/character/63627",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

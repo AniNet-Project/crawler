@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6697",
+        "label": "泷野智",
+        "info": "通称「とも」。身長154cm。髪型は時期と共に変わり、初期はセミショート、物語中盤はセミロング、3年次はショートヘア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/55/6697_crt_anidb.jpg?r=1405251205",
+        "link": "https://bgm.tv/character/6697",
+        "categorie": "person"
+      },
+      {
+        "id": "6700",
+        "label": "神乐",
+        "info": "身長156cm。髪型は毛先の尖った独特なショートヘアで、後に大阪からシーサーに例えられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/fc/6700_crt_anidb.jpg?r=1405425081",
+        "link": "https://bgm.tv/character/6700",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

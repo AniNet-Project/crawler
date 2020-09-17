@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14644",
+        "label": "京乃圆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/a7/14644_crt_0fd82.jpg",
+        "link": "https://bgm.tv/character/14644",
+        "categorie": "person"
+      },
+      {
+        "id": "14704",
+        "label": "兰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d3/14704_crt_Bs1t0.jpg",
+        "link": "https://bgm.tv/character/14704",
+        "categorie": "person"
+      },
+      {
+        "id": "14794",
+        "label": "麦波",
+        "info": "17岁。转入鸭川女子高中的转校生，并且加入了「Jersey部」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/58/14794_crt_nI9Rx.jpg",
+        "link": "https://bgm.tv/character/14794",
+        "categorie": "person"
+      },
+      {
+        "id": "15348",
+        "label": "アステリア・リーザマリー・ド・ロシュフォール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/e4/15348_crt_b4TG1.jpg",
+        "link": "https://bgm.tv/character/15348",
+        "categorie": "person"
+      },
+      {
+        "id": "15351",
+        "label": "岩淵まちこ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/95/15351_crt_Xnn2X.jpg",
+        "link": "https://bgm.tv/character/15351",
+        "categorie": "person"
+      },
+      {
+        "id": "15352",
+        "label": "一泽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/36/15352_crt_wpg99.jpg",
+        "link": "https://bgm.tv/character/15352",
+        "categorie": "person"
+      },
+      {
+        "id": "15357",
+        "label": "モイド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/c4/15357_crt_6uh86.jpg",
+        "link": "https://bgm.tv/character/15357",
+        "categorie": "person"
+      },
+      {
+        "id": "15358",
+        "label": "中泉浩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/d0/15358_crt_DlsIy.jpg",
+        "link": "https://bgm.tv/character/15358",
+        "categorie": "person"
+      },
+      {
+        "id": "15359",
+        "label": "中泉洋子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/6e/15359_crt_e1K0C.jpg",
+        "link": "https://bgm.tv/character/15359",
+        "categorie": "person"
+      },
+      {
+        "id": "15365",
+        "label": "ヴィラジュリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ed/15365_crt_Z775A.jpg",
+        "link": "https://bgm.tv/character/15365",
+        "categorie": "person"
+      },
+      {
+        "id": "15368",
+        "label": "フィン・エ・ルド・シ・ディセルマイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/e7/15368_crt_XItqT.jpg",
+        "link": "https://bgm.tv/character/15368",
+        "categorie": "person"
+      },
+      {
+        "id": "15370",
+        "label": "グラニア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/7a/15370_crt_8jhH4.jpg",
+        "link": "https://bgm.tv/character/15370",
+        "categorie": "person"
+      },
+      {
+        "id": "15367",
+        "label": "デ・メトリオ・ル・ユリカノ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/9e/15367_crt_7wV17.jpg",
+        "link": "https://bgm.tv/character/15367",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

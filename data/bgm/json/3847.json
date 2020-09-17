@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20141",
+        "label": "楚拉",
+        "info": "ステイフィールドの中で眠っていた300年前の人間の女の子。すこし冷めた感がある。植物に襲われ、人々が細々と生きているという現実を目の当たりにし、大きく落胆した。森を正常に戻すため、シュナックと手を組む。父親は地球緑化プロジェクトの責任者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/b3/20141_crt_rF084.jpg",
+        "link": "https://bgm.tv/character/20141",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

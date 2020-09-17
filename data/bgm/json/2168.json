@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9381",
+        "label": "美甘千津子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/f8/9381_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9381",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

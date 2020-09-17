@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19194",
+        "label": "嵩月奏",
+        "info": "嵩月奏（（たかつき かなで），声優：野中藍）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/f7/19194_crt_m9hco.jpg",
+        "link": "https://bgm.tv/character/19194",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

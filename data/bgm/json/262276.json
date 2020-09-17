@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3325",
+        "label": "孙策伯符",
+        "info": "　　日本人气ACG系列《一骑当千》的主角。人气投票排名第2位；天真烂漫的好战少女，没有性别之分，经常被人称为笨蛋，体内封印着水龙之力，战斗潜力不可限量，是难得的习武天才，后取代袁术成为南阳君主。在觉醒以后开始散发出领主的霸气，拥有可以打破命运诅咒的力量。盐崎雄二（作者）说，以孙策为主人公的理由是“谁都没以孙策为主人公过”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/69/3325_crt_z6wii.jpg",
+        "link": "https://bgm.tv/character/3325",
+        "categorie": "person"
+      },
+      {
+        "id": "3328",
+        "label": "周瑜公瑾",
+        "info": "继承了三国名将周瑜之名的高中生斗士。南阳新四天王之一，擅长以战略家的名义制定战略，有王佐之才的能力，精通少林拳及八卦掌。原来在学校中并不高调，但因周瑜之名已经受到王允子师的留意，在青梅竹马孙策伯符转校以后也被迫登上斗争的舞台，也因此下定了要保护伯符的决心，不想重蹈一千八百年前的覆辙，并以此为动力不断变强。之后在原作的赤壁之战中表现活跃，与诸葛亮孔明一起构造出了赤壁之战的整体战略。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/00/3328_crt_KshhK.jpg",
+        "link": "https://bgm.tv/character/3328",
+        "categorie": "person"
+      },
+      {
+        "id": "3326",
+        "label": "吕蒙子明",
+        "info": "　日本人气热血格斗动漫《一骑当千》中的人物，继承了三国武将吕蒙之魂的B级斗士。初期登场的时候表现狂傲，但相处下来其实是很可爱的女生，性格正经，平时举止拘谨，容易害羞，浅野真澄说“这是一个傲娇角色”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/18/3326_crt_44zlR.jpg?r=1544757276",
+        "link": "https://bgm.tv/character/3326",
+        "categorie": "person"
+      },
+      {
+        "id": "21724",
+        "label": "刘备玄德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/cb/21724_crt_XA65i.jpg?r=1544757336",
+        "link": "https://bgm.tv/character/21724",
+        "categorie": "person"
+      },
+      {
+        "id": "3342",
+        "label": "关羽云长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/49/3342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3342",
+        "categorie": "person"
+      },
+      {
+        "id": "11620",
+        "label": "张飞益德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d4/11620_crt_MjYYa.jpg",
+        "link": "https://bgm.tv/character/11620",
+        "categorie": "person"
+      },
+      {
+        "id": "67696",
+        "label": "诸葛亮孔明",
+        "info": "伏龍（ふくりゅう）と称される闘士。 桃源院（とうげんいん）に住む徐庶（じょしょ）の許に身を寄せている。 闘士としての実力は不明だが、その才は類を見ない逸材。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/f3/67696_crt_6IWV2.jpg?r=1544764888",
+        "link": "https://bgm.tv/character/67696",
+        "categorie": "person"
+      },
+      {
+        "id": "67697",
+        "label": "赵云子龙",
+        "info": "成都学園二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/7f/67697_crt_mjVR2.jpg?r=1544765447",
+        "link": "https://bgm.tv/character/67697",
+        "categorie": "person"
+      },
+      {
+        "id": "3340",
+        "label": "曹操孟徳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/30/3340_crt_7TjTq.jpg",
+        "link": "https://bgm.tv/character/3340",
+        "categorie": "person"
+      },
+      {
+        "id": "3339",
+        "label": "夏侯惇元譲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/df/3339_crt_GKIpo.jpg?r=1561824328",
+        "link": "https://bgm.tv/character/3339",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

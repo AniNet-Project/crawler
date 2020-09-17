@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10915",
+        "label": "妃宮千早",
+        "info": "主人公。在困惑和绝望之际，被母亲强制和侍女史一起送进女校的不幸的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/83/10915_crt_40sx4.jpg",
+        "link": "https://bgm.tv/character/10915",
+        "categorie": "person"
+      },
+      {
+        "id": "10918",
+        "label": "神近香织里",
+        "info": "拥有大人氛围的最高年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/39/10918_crt_gjxk8.jpg",
+        "link": "https://bgm.tv/character/10918",
+        "categorie": "person"
+      },
+      {
+        "id": "10919",
+        "label": "七七原薰子",
+        "info": "另一个主人公，还是女主角的其中之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/03/10919_crt_k42l8.jpg",
+        "link": "https://bgm.tv/character/10919",
+        "categorie": "person"
+      },
+      {
+        "id": "10921",
+        "label": "度会史",
+        "info": "代代侍从千早家的侍从家系度會家的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/1a/10921_crt_4O4IR.jpg",
+        "link": "https://bgm.tv/character/10921",
+        "categorie": "person"
+      },
+      {
+        "id": "10920",
+        "label": "柏木优雨",
+        "info": "体弱的新人学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/57/10920_crt_qSidr.jpg",
+        "link": "https://bgm.tv/character/10920",
+        "categorie": "person"
+      },
+      {
+        "id": "10922",
+        "label": "ケイリ・グランセリウス",
+        "info": "自称「星之公主」的不可思议的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/f1/10922_crt_JYJaU.jpg",
+        "link": "https://bgm.tv/character/10922",
+        "categorie": "person"
+      },
+      {
+        "id": "10925",
+        "label": "皆濑初音",
+        "info": "父亲在大型商社负责重要职务，可谓是深闺的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/21/10925_crt_JXg8K.jpg",
+        "link": "https://bgm.tv/character/10925",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

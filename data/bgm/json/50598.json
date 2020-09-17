@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "78759",
+        "label": "小野田优良",
+        "info": "本作女主，原姓河田，是长女，婚前是旅行社前台，婚后成为主妇，改姓小野田。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/01/78759_crt_6y66k.jpg",
+        "link": "https://bgm.tv/character/78759",
+        "categorie": "person"
+      },
+      {
+        "id": "78760",
+        "label": "小野田真",
+        "info": "本作男主，上班族，通过相亲结识优良并成婚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/0c/78760_crt_LdwDF.jpg",
+        "link": "https://bgm.tv/character/78760",
+        "categorie": "person"
+      },
+      {
+        "id": "78767",
+        "label": "河田梨香",
+        "info": "优良的妹妹，比姐姐小5岁，但和保守的姐姐不同，同时与多名男性交往。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/15/78767_crt_AKw84.jpg",
+        "link": "https://bgm.tv/character/78767",
+        "categorie": "person"
+      },
+      {
+        "id": "78842",
+        "label": "菊池美雪",
+        "info": "小野田真在公司的后辈，真曾是她的家庭教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/5e/78842_crt_LUY1h.jpg",
+        "link": "https://bgm.tv/character/78842",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

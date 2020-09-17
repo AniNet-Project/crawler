@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "922",
+        "label": "六条壬晴",
+        "info": "體內藏有秘術［森羅萬象］的中學生。對周遭的人與事物都漠不關心。常扮出純潔無垢的臉騙人的小惡魔。父母已故，對於年幼的記憶很模糊。在祖母開的煎餅店幫忙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/9a/922_crt_NzN67.jpg?r=1468887406",
+        "link": "https://bgm.tv/character/922",
+        "categorie": "person"
+      },
+      {
+        "id": "923",
+        "label": "宵风",
+        "info": "灰狼眾裏掌握伊賀禁術氣羅的「死神」，實際上只有幾個月的生命了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/18/923_crt_c5tzW.jpg?r=1468887629",
+        "link": "https://bgm.tv/character/923",
+        "categorie": "person"
+      },
+      {
+        "id": "3596",
+        "label": "相泽虹一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/c4/3596_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3596",
+        "categorie": "person"
+      },
+      {
+        "id": "3597",
+        "label": "清水雷鸣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/9c/3597_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3597",
+        "categorie": "person"
+      },
+      {
+        "id": "3598",
+        "label": "南十字",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/45/3598_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3598",
+        "categorie": "person"
+      },
+      {
+        "id": "3599",
+        "label": "目黒俄雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/e6/3599_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3599",
+        "categorie": "person"
+      },
+      {
+        "id": "3600",
+        "label": "雪見和彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/76/3600_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3600",
+        "categorie": "person"
+      },
+      {
+        "id": "3601",
+        "label": "黒岡野しじま",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/e7/3601_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3601",
+        "categorie": "person"
+      },
+      {
+        "id": "23529",
+        "label": "清水雷光",
+        "info": "镰谷悠希的漫画《隐王》中的角色之一。清水雷鸣的哥哥，「灰狼众」的一员。[划掉]妹控。[/划掉]被雷鸣误认为是灭族凶手，背负了家族的一切。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/2d/23529_crt_Vz4W2.jpg",
+        "link": "https://bgm.tv/character/23529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

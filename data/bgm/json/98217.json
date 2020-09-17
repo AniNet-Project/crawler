@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24202",
+        "label": "小童装",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ac/24202_crt_3Sn5z.jpg",
+        "link": "https://bgm.tv/character/24202",
+        "categorie": "person"
+      },
+      {
+        "id": "24203",
+        "label": "监督君",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/b2/24203_crt_1FAgG.jpg",
+        "link": "https://bgm.tv/character/24203",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

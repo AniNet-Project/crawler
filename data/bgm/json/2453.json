@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10560",
+        "label": "黒衣麻陶",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/3b/10560_crt_m0lId.jpg",
+        "link": "https://bgm.tv/character/10560",
+        "categorie": "person"
+      },
+      {
+        "id": "10561",
+        "label": "小鸟游黄泉",
+        "info": "TV",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/7f/10561_crt_NPwPA.jpg",
+        "link": "https://bgm.tv/character/10561",
+        "categorie": "person"
+      },
+      {
+        "id": "10566",
+        "label": "黑岩射手",
+        "info": "身材纤细、皮肤苍白、双马尾（左右长短不一）、着黑色风衣、左眼中跳动着很萌的蓝色冷焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/c5/10566_crt_7CJ9D.jpg",
+        "link": "https://bgm.tv/character/10566",
+        "categorie": "person"
+      },
+      {
+        "id": "10569",
+        "label": "Dead Master",
+        "info": "黑岩的死敌，末日世界的主宰。用铁链囚禁黑岩。  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/e8/10569_crt_Z34W4.jpg?r=1466928252",
+        "link": "https://bgm.tv/character/10569",
+        "categorie": "person"
+      },
+      {
+        "id": "17637",
+        "label": "Black Gold Saw",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/37/17637_crt_kU88S.jpg?r=1466928035",
+        "link": "https://bgm.tv/character/17637",
+        "categorie": "person"
+      },
+      {
+        "id": "17639",
+        "label": "神足由宇",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/99/17639_crt_b553W.jpg?r=1500832796",
+        "link": "https://bgm.tv/character/17639",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12851",
+        "label": "杉山澪",
+        "info": "主人公的妹妹。网球部的一年生，双马尾和贫乳是萌点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/cc/12851_crt_bT01h.jpg",
+        "link": "https://bgm.tv/character/12851",
+        "categorie": "person"
+      },
+      {
+        "id": "12855",
+        "label": "杉山修一",
+        "info": "本作的主人公，网球部的二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/93/12855_crt_W0l0i.jpg",
+        "link": "https://bgm.tv/character/12855",
+        "categorie": "person"
+      },
+      {
+        "id": "12850",
+        "label": "佐伯蓝",
+        "info": "主人公的同学，网球部的二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/bf/12850_crt_i17d1.jpg",
+        "link": "https://bgm.tv/character/12850",
+        "categorie": "person"
+      },
+      {
+        "id": "12852",
+        "label": "伊達・ウィングフィールド・黎子",
+        "info": "担任网球部的部长，唯一的三年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/85/12852_crt_hl5Jb.jpg",
+        "link": "https://bgm.tv/character/12852",
+        "categorie": "person"
+      },
+      {
+        "id": "12853",
+        "label": "羽山璃花",
+        "info": "担任网球部的顾问的新人教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/cb/12853_crt_K7H0B.jpg",
+        "link": "https://bgm.tv/character/12853",
+        "categorie": "person"
+      },
+      {
+        "id": "12854",
+        "label": "松冈萤",
+        "info": "主人公的青梅竹马兼同学，担任网球部副部长的二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/20/12854_crt_JLzR8.jpg",
+        "link": "https://bgm.tv/character/12854",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

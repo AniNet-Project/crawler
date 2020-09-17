@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46916",
+        "label": "温斯顿",
+        "info": "“想象是发现的本质。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/9e/46916_crt_nrcdD.jpg?r=1488025196",
+        "link": "https://bgm.tv/character/46916",
+        "categorie": "person"
+      },
+      {
+        "id": "45982",
+        "label": "死神",
+        "info": "“死神来了。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/40/45982_crt_qms51.jpg?r=1488018050",
+        "link": "https://bgm.tv/character/45982",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

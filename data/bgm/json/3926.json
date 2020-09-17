@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25194",
+        "label": "津崎青叶",
+        "info": "搭乗機：モリビト2号（下操主だったが、後に単独操主になる）→モリビト2号エクステンド",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/0a/25194_crt_dW54f.jpg?r=1401023207",
+        "link": "https://bgm.tv/character/25194",
+        "categorie": "person"
+      },
+      {
+        "id": "11101",
+        "label": "柊赤绪",
+        "info": "柊木台学园二年级学生，住在附近的柊神社里打工的巫女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/23/11101_crt_ux6q0.jpg",
+        "link": "https://bgm.tv/character/11101",
+        "categorie": "person"
+      },
+      {
+        "id": "11102",
+        "label": "黄坂ルイ",
+        "info": "特征是螃蟹型发卡的美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/35/11102_crt_vEzh8.jpg",
+        "link": "https://bgm.tv/character/11102",
+        "categorie": "person"
+      },
+      {
+        "id": "11103",
+        "label": "川本さつき",
+        "info": "附近旅馆的女孩，由于某种原因和赤緒他们一起行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/22/11103_crt_UYi68.jpg",
+        "link": "https://bgm.tv/character/11103",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

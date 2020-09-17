@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "30958",
+        "label": "日向花火",
+        "info": "海人の幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/36/30958_crt_1uuCc.jpg",
+        "link": "https://bgm.tv/character/30958",
+        "categorie": "person"
+      },
+      {
+        "id": "30959",
+        "label": "氷室立夏",
+        "info": "海人が上京し、暮らすことになったアパートのお隣さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/5a/30959_crt_W3325.jpg",
+        "link": "https://bgm.tv/character/30959",
+        "categorie": "person"
+      },
+      {
+        "id": "30960",
+        "label": "葵祭",
+        "info": "海人が上京し、働くことになったBARのバイト仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/a2/30960_crt_cyc66.jpg",
+        "link": "https://bgm.tv/character/30960",
+        "categorie": "person"
+      },
+      {
+        "id": "30961",
+        "label": "水無月泉",
+        "info": "リゾート施設A・LO・HAを経営する会社、水無月興産株式会社社長のひとり娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/b5/30961_crt_KjOOK.jpg",
+        "link": "https://bgm.tv/character/30961",
+        "categorie": "person"
+      },
+      {
+        "id": "30962",
+        "label": "早乙女凪",
+        "info": "A・LO・HAの支配人であり、海人と花火の幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/e4/30962_crt_BA4xX.jpg",
+        "link": "https://bgm.tv/character/30962",
+        "categorie": "person"
+      },
+      {
+        "id": "30963",
+        "label": "涼風蛍",
+        "info": "施設の受付を担当していて、泉と同じ学園に通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/b7/30963_crt_KO33N.jpg",
+        "link": "https://bgm.tv/character/30963",
+        "categorie": "person"
+      },
+      {
+        "id": "30965",
+        "label": "片陰風鈴",
+        "info": "凪の同僚であり、施設のカジノエリアを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/3e/30965_crt_6j5M5.jpg",
+        "link": "https://bgm.tv/character/30965",
+        "categorie": "person"
+      },
+      {
+        "id": "30966",
+        "label": "草刈菜種",
+        "info": "歳の離れた海人の実の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/52/30966_crt_ffl4z.jpg",
+        "link": "https://bgm.tv/character/30966",
+        "categorie": "person"
+      },
+      {
+        "id": "30964",
+        "label": "所天",
+        "info": "A・LO・HAで共に働く仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/a4/30964_crt_Qo6q9.jpg",
+        "link": "https://bgm.tv/character/30964",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

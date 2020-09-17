@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3320",
+        "label": "黑崎一护",
+        "info": "本作の主人公。虚（ホロウ）に襲われた際にルキアから死神の力を譲り受け、以降彼女の代わりに死神の仕事をこなす。白哉に死神の力を消された後は、浦原との修行で自分自身の中にあった死神の力を手に入れた。オレンジ髪（地毛）に茶色の瞳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/56/3320_crt_zMFuH.jpg",
+        "link": "https://bgm.tv/character/3320",
+        "categorie": "person"
+      },
+      {
+        "id": "4363",
+        "label": "朽木露琪亚",
+        "info": "本作の準主人公。護廷十三隊の十三番隊に所属し、現世・空座町を管轄していた女死神。死神の力が戻るまでの間は一護をサポートし、死神の力が戻った後も一護達と共に戦う。死神代行消失篇から副隊長に昇進した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/f6/4363_crt_EdEQq.jpg",
+        "link": "https://bgm.tv/character/4363",
+        "categorie": "person"
+      },
+      {
+        "id": "7423",
+        "label": "阿散井恋次",
+        "info": "護廷十三隊六番隊副隊長。ルキアとは幼馴染。ルキアの処刑を巡る戦いの中で対立した時期を経て一護の戦友となる。ルキアの義兄である自身の上官・朽木白哉を目標に定めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/e0/7423_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7423",
+        "categorie": "person"
+      },
+      {
+        "id": "9512",
+        "label": "しずく",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/9b/9512_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9512",
+        "categorie": "person"
+      },
+      {
+        "id": "6888",
+        "label": "浦原喜助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/c7/6888_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6888",
+        "categorie": "person"
+      },
+      {
+        "id": "7182",
+        "label": "日番谷冬狮郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/70/7182_crt_anidb.jpg?r=1534575675",
+        "link": "https://bgm.tv/character/7182",
+        "categorie": "person"
+      },
+      {
+        "id": "7812",
+        "label": "雀部长次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/fc/7812_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7812",
+        "categorie": "person"
+      },
+      {
+        "id": "7813",
+        "label": "砕蜂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/b0/7813_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7813",
+        "categorie": "person"
+      },
+      {
+        "id": "7814",
+        "label": "大前田希千代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/a9/7814_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7814",
+        "categorie": "person"
+      },
+      {
+        "id": "7833",
+        "label": "檜佐木修兵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/9a/7833_crt_Jer8D.jpg",
+        "link": "https://bgm.tv/character/7833",
+        "categorie": "person"
+      },
+      {
+        "id": "7848",
+        "label": "浮竹十四郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/55/7848_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7848",
+        "categorie": "person"
+      },
+      {
+        "id": "4390",
+        "label": "市丸银",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/c9/4390_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4390",
+        "categorie": "person"
+      },
+      {
+        "id": "7844",
+        "label": "綾瀬川弓親",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/56/7844_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7844",
+        "categorie": "person"
+      },
+      {
+        "id": "7819",
+        "label": "卯ノ花烈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/85/7819_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7819",
+        "categorie": "person"
+      },
+      {
+        "id": "7827",
+        "label": "射場鉄左衛門",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/5c/7827_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7827",
+        "categorie": "person"
+      },
+      {
+        "id": "7840",
+        "label": "松本乱菊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/9f/7840_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7840",
+        "categorie": "person"
+      },
+      {
+        "id": "8202",
+        "label": "壷府リン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/6f/8202_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8202",
+        "categorie": "person"
+      },
+      {
+        "id": "7853",
+        "label": "虎彻清音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/0c/7853_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7853",
+        "categorie": "person"
+      },
+      {
+        "id": "8270",
+        "label": "阿近",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/48/8270_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8270",
+        "categorie": "person"
+      },
+      {
+        "id": "8271",
+        "label": "鵯州",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/d5/8271_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8271",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

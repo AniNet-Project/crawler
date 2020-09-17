@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68901",
+        "label": "拉缇娜",
+        "info": "デイルに森で拾われた魔人族の少女。詳しい生い立ちは不明。素直で優しくとても賢く、「踊る虎猫亭」のアイドル的存在。角を隠すようにリボンを結んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c9/68901_crt_G687g.jpg?r=1562428152",
+        "link": "https://bgm.tv/character/68901",
+        "categorie": "person"
+      },
+      {
+        "id": "68902",
+        "label": "戴尔",
+        "info": "18歳の若き凄腕冒険者。魔獣討伐中に森でラティナを拾い、保護者となった。普段はクールで凄腕の冒険者だが、ラティナの前ではデレデレ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/d6/68902_crt_55akF.jpg",
+        "link": "https://bgm.tv/character/68902",
+        "categorie": "person"
+      },
+      {
+        "id": "69883",
+        "label": "ケニス",
+        "info": "冒険者たちが集まる酒場兼宿屋「踊る虎猫亭」の主人。元冒険者でデイルとは現役時代からの古い付き合いでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ef/69883_crt_sF8lF.jpg",
+        "link": "https://bgm.tv/character/69883",
+        "categorie": "person"
+      },
+      {
+        "id": "69884",
+        "label": "リタ",
+        "info": "ケニスの妻。夫婦で「踊る虎猫亭」を営んでいる。客の荒くれ冒険者たちをあしらったり、情報を司る『緑の神の伝言板』から情報提供も行う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/06/69884_crt_vrS4U.jpg",
+        "link": "https://bgm.tv/character/69884",
+        "categorie": "person"
+      },
+      {
+        "id": "69885",
+        "label": "クロエ",
+        "info": "ラティナの友達。子どもたちのリーダー的存在である男前な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/b7/69885_crt_BQkGG.jpg",
+        "link": "https://bgm.tv/character/69885",
+        "categorie": "person"
+      },
+      {
+        "id": "69886",
+        "label": "シルビア",
+        "info": "ラティナの友達。さっぱりとした性格で、年齢よりもやや大人びている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/50/69886_crt_u7ywq.jpg",
+        "link": "https://bgm.tv/character/69886",
+        "categorie": "person"
+      },
+      {
+        "id": "69887",
+        "label": "ルディ",
+        "info": "ラティナの友達。年齢の割にはやや大柄な少年で、ラティナのことが気になっている……？",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/6e/69887_crt_fW41Z.jpg",
+        "link": "https://bgm.tv/character/69887",
+        "categorie": "person"
+      },
+      {
+        "id": "69888",
+        "label": "マルセル",
+        "info": "ラティナの友達。ぽっちゃりとした小柄な少年で、穏やかな性格をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/7e/69888_crt_cLW07.jpg",
+        "link": "https://bgm.tv/character/69888",
+        "categorie": "person"
+      },
+      {
+        "id": "69889",
+        "label": "アントニー",
+        "info": "ラティナの友達。すらりとした体形で、勉強ができる頭の良い少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/14/69889_crt_1uaWX.jpg",
+        "link": "https://bgm.tv/character/69889",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

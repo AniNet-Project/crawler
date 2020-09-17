@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11430",
+        "label": "葵咲良",
+        "info": "作为幸介、円的监视者一起同居的人妻。円的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/96/11430_crt_G6tn3.jpg",
+        "link": "https://bgm.tv/character/11430",
+        "categorie": "person"
+      },
+      {
+        "id": "11431",
+        "label": "琴月圆",
+        "info": "幸介的相亲对象。咲良的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/9a/11431_crt_78lV6.jpg",
+        "link": "https://bgm.tv/character/11431",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

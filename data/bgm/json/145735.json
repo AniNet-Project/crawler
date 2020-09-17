@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35654",
+        "label": "番场宗介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/12/35654_crt_y80mW.jpg",
+        "link": "https://bgm.tv/character/35654",
+        "categorie": "person"
+      },
+      {
+        "id": "35973",
+        "label": "木村雅贵",
+        "info": "製薬会社のエージェント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/42/35973_crt_AKEp4.jpg?r=1461343916",
+        "link": "https://bgm.tv/character/35973",
+        "categorie": "person"
+      },
+      {
+        "id": "37715",
+        "label": "謎の少女",
+        "info": "大陸から何代にも渡って影鰐を追い続けてきた一族の末裔である謎の女性。冷静沈着な性格で、猟銃と小型の包丁を装備している。とある漁村を訪れ、村長や村人たちに影鰐の話をした後、たった一人で漁に出ようとしていた町蔵に同行する。一度は影鰐に右腕を喰われて取り逃がしてしまうが、町蔵の協力を得て辛うじて討伐に成功する。その後はどこかへと姿を消した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/a1/37715_crt_ubkbA.jpg",
+        "link": "https://bgm.tv/character/37715",
+        "categorie": "person"
+      },
+      {
+        "id": "37786",
+        "label": "シーロン・メイ",
+        "info": "中国雲南省の奥地・メイ族の村の出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/3c/37786_crt_EzXON.jpg?r=1461949925",
+        "link": "https://bgm.tv/character/37786",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "35974",
+        "label": "タケル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/df/35974_crt_SRNnR.jpg",
+        "link": "https://bgm.tv/character/35974",
+        "categorie": "person"
+      },
+      {
+        "id": "35975",
+        "label": "ショウゴ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/ff/35975_crt_b12y8.jpg",
+        "link": "https://bgm.tv/character/35975",
+        "categorie": "person"
+      },
+      {
+        "id": "35976",
+        "label": "ザトシ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/9a/35976_crt_xyCJY.jpg",
+        "link": "https://bgm.tv/character/35976",
+        "categorie": "person"
+      },
+      {
+        "id": "35977",
+        "label": "事務員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c1/35977_crt_EdmFe.jpg",
+        "link": "https://bgm.tv/character/35977",
+        "categorie": "person"
+      },
+      {
+        "id": "37642",
+        "label": "黒田ミカ",
+        "info": "宗介の友人である女性登山家。遭難した父親の手がかりを追って雪山を訪れた際、雪男の襲撃を受け、餌場に連れ去られるが辛うじて生き延びて救助される。現在は低体温症で入院中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/d3/37642_crt_34CAH.jpg",
+        "link": "https://bgm.tv/character/37642",
+        "categorie": "person"
+      },
+      {
+        "id": "37643",
+        "label": "ケンタ",
+        "info": "海の近くに住んでいる高校生。恋人であるハルカを襲った奇獣を激しく憎んでおり、その復讐心から奇獣に臆することなく立ち向かっていく。奇獣化したハルカに連れ去られて姿を消し、その後日に奇獣化した姿でハルカと共に砂浜に打ち上げられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/e3/37643_crt_llavc.jpg",
+        "link": "https://bgm.tv/character/37643",
+        "categorie": "person"
+      },
+      {
+        "id": "37644",
+        "label": "ジュリ",
+        "info": "ケンタの友人。ケンタのことを気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/dc/37644_crt_n5F0a.jpg",
+        "link": "https://bgm.tv/character/37644",
+        "categorie": "person"
+      },
+      {
+        "id": "37645",
+        "label": "ジロウ",
+        "info": "ケンタの友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/12/37645_crt_I764j.jpg",
+        "link": "https://bgm.tv/character/37645",
+        "categorie": "person"
+      },
+      {
+        "id": "37646",
+        "label": "水崎",
+        "info": "宗介の先輩にあたる、海洋学者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/f3/37646_crt_9V79M.jpg",
+        "link": "https://bgm.tv/character/37646",
+        "categorie": "person"
+      },
+      {
+        "id": "37647",
+        "label": "ユウタ",
+        "info": "山岸の村に住んでいる2人の少年。川辺でドローンを飛ばして遊んでいる最中にもみ合いになった際に、ドローンを下水道に落としてしまう。それを拾いに下水道を探索していた途中でカメ奇獣に襲われるが、宗介に助けられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/85/37647_crt_Nw2OU.jpg",
+        "link": "https://bgm.tv/character/37647",
+        "categorie": "person"
+      },
+      {
+        "id": "37648",
+        "label": "シュン",
+        "info": "山岸の村に住んでいる2人の少年。川辺でドローンを飛ばして遊んでいる最中にもみ合いになった際に、ドローンを下水道に落としてしまう。それを拾いに下水道を探索していた途中でカメ奇獣に襲われるが、宗介に助けられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/ec/37648_crt_OZF7G.jpg",
+        "link": "https://bgm.tv/character/37648",
+        "categorie": "person"
+      },
+      {
+        "id": "37653",
+        "label": "レン",
+        "info": "コンビニの奇獣が出没したコンビニで働いていた青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/54/37653_crt_S0OmU.jpg",
+        "link": "https://bgm.tv/character/37653",
+        "categorie": "person"
+      },
+      {
+        "id": "37654",
+        "label": "アユミ",
+        "info": "万引きをしようとしていた女子高生。コンビニの奇獣に襲われかけていたところをレンに助けられる。気弱そうな印象だが、コンビニの奇獣にプリンターをぶつけるといった度胸のある一面を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/d7/37654_crt_ooxK1.jpg",
+        "link": "https://bgm.tv/character/37654",
+        "categorie": "person"
+      },
+      {
+        "id": "37655",
+        "label": "サイトウ",
+        "info": "レンの先輩であるコンビニ店員。コンビニの奇獣に襲われ、丸呑みにされる。「リナ」という女友達がいるが、レン曰く「貢がされているだけ」らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/51/37655_crt_jr646.jpg",
+        "link": "https://bgm.tv/character/37655",
+        "categorie": "person"
+      },
+      {
+        "id": "37677",
+        "label": "小森智",
+        "info": "CV：あろまほっと（M.S.S Project）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/0f/37677_crt_3MXPi.jpg",
+        "link": "https://bgm.tv/character/37677",
+        "categorie": "person"
+      },
+      {
+        "id": "37678",
+        "label": "ダイキ",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/be/37678_crt_iaI8l.jpg",
+        "link": "https://bgm.tv/character/37678",
+        "categorie": "person"
+      },
+      {
+        "id": "37680",
+        "label": "ショウ",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/93/37680_crt_m9Qei.jpg",
+        "link": "https://bgm.tv/character/37680",
+        "categorie": "person"
+      },
+      {
+        "id": "37681",
+        "label": "シゲル",
+        "info": "サトルと共に植物園の奇獣が住み着いていた植物園に肝試しに来ていた青年たち。サトルに対して威圧的な態度で接していた。肝試しの最中に植物園の奇獣（サトル）の襲撃を受け、皆殺しにされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/4c/37681_crt_8b5gb.jpg",
+        "link": "https://bgm.tv/character/37681",
+        "categorie": "person"
+      },
+      {
+        "id": "37689",
+        "label": "刑事",
+        "info": "サトルの事情徴収を行っていた刑事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/5e/37689_crt_8i8tX.jpg",
+        "link": "https://bgm.tv/character/37689",
+        "categorie": "person"
+      },
+      {
+        "id": "37690",
+        "label": "サオリ",
+        "info": "宗介のかつての恋人で地質学者。番場と共に奇獣の調査に向かっていた際にトンネルに擬態した校庭の奇獣に呑み込まれてしまう。校庭の奇獣の体内から脱出した直後に戦闘機の爆撃による崩落に巻き込まれて死亡したように思われたが、それは校庭の奇獣の舌が擬態した偽物であり、本物の彼女は消息不明となっている。EPISODE　12では回想のみ登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/03/37690_crt_pwWb8.jpg",
+        "link": "https://bgm.tv/character/37690",
+        "categorie": "person"
+      },
+      {
+        "id": "37691",
+        "label": "ハルコ",
+        "info": "田舎のとある小学校の女性教師。校庭に取り残されたミノリを危険を顧みずに助けに行くなど生徒想いな女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ed/37691_crt_055X5.jpg",
+        "link": "https://bgm.tv/character/37691",
+        "categorie": "person"
+      },
+      {
+        "id": "37692",
+        "label": "カズト",
+        "info": "小学生。両親の帰りが遅いミノリに付き合って放課後の校庭で遊んでいた際に校庭の奇獣に襲われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/fe/37692_crt_33IYM.jpg",
+        "link": "https://bgm.tv/character/37692",
+        "categorie": "person"
+      },
+      {
+        "id": "37693",
+        "label": "ミノリ",
+        "info": "カズトの友人である小学生。カズトと共に放課後の校庭で遊んでいた際に校庭の奇獣に襲われる。過去に曾祖父からもらった本から校庭の奇獣のことを知っていた模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/9b/37693_crt_o11X3.jpg",
+        "link": "https://bgm.tv/character/37693",
+        "categorie": "person"
+      },
+      {
+        "id": "37694",
+        "label": "ヨウスケ",
+        "info": "南極海で結婚式を挙げていた新郎。潜水艦内での指輪交換の際に南極海の奇獣と遭遇し、気絶した船員の代わりに潜水艦を操縦する羽目になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/aa/37694_crt_Tr5c8.jpg",
+        "link": "https://bgm.tv/character/37694",
+        "categorie": "person"
+      },
+      {
+        "id": "37695",
+        "label": "チアキ",
+        "info": "南極海で結婚式を挙げていた新婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/dd/37695_crt_OoRo1.jpg",
+        "link": "https://bgm.tv/character/37695",
+        "categorie": "person"
+      },
+      {
+        "id": "37696",
+        "label": "船長",
+        "info": "宗介の知り合いである観光船の船長。過去に南極海の奇獣に遭遇している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/2a/37696_crt_wMSy0.jpg",
+        "link": "https://bgm.tv/character/37696",
+        "categorie": "person"
+      },
+      {
+        "id": "37697",
+        "label": "船員",
+        "info": "潜水艦のパイロット。南極海の奇獣と遭遇した際の事故で気絶してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/8c/37697_crt_dZv5L.jpg",
+        "link": "https://bgm.tv/character/37697",
+        "categorie": "person"
+      },
+      {
+        "id": "37716",
+        "label": "町蔵",
+        "info": "とある漁村の漁師。病気を患っている自身の娘・凛のために村を離れると言う村長の提案に反対し、彼女の薬代を稼ぐために謎の少女と共に漁に出たことで、結果として難を逃れる。凛の仇を討つために影鰐退治に協力し、謎の少女から託された包丁で影鰐に止めを刺した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/81/37716_crt_92992.jpg",
+        "link": "https://bgm.tv/character/37716",
+        "categorie": "person"
+      },
+      {
+        "id": "37717",
+        "label": "凜",
+        "info": "町蔵の娘。病気で寝込んでおり、布団から出ることができなかったため、影鰐から逃れようとしていた村民たちに置いて行かれそうになっていた。影鰐の襲撃により食い殺されたように思えたが、実際には廃材の陰に隠れることで難を逃れており、影鰐討伐後に町蔵の前に姿を現す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/4f/37717_crt_JJ4Jj.jpg",
+        "link": "https://bgm.tv/character/37717",
+        "categorie": "person"
+      },
+      {
+        "id": "37718",
+        "label": "老婆",
+        "info": "凛の現在の姿。6.70年前の父・町蔵と謎の少女による影鰐退治の話を宗介に話した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/af/37718_crt_m8tMU.jpg",
+        "link": "https://bgm.tv/character/37718",
+        "categorie": "person"
+      },
+      {
+        "id": "37719",
+        "label": "村長",
+        "info": "とある漁村の村長。謎の少女から影鰐の話を聞いて漁村から離れようとしていたが、影鰐の襲撃により食い殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/b9/37719_crt_kUVbD.jpg",
+        "link": "https://bgm.tv/character/37719",
+        "categorie": "person"
+      },
+      {
+        "id": "37720",
+        "label": "村人",
+        "info": "とある漁村の村人たち。町蔵と凛以外の村人は影鰐の襲撃により食い殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/d8/37720_crt_bQ79b.jpg",
+        "link": "https://bgm.tv/character/37720",
+        "categorie": "person"
+      },
+      {
+        "id": "37721",
+        "label": "海女",
+        "info": "冒頭で漁に出ていた海女。影鰐の襲撃により食い殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/62/37721_crt_PVpPA.jpg",
+        "link": "https://bgm.tv/character/37721",
+        "categorie": "person"
+      },
+      {
+        "id": "37787",
+        "label": "番場眞",
+        "info": "宗介の父親。宗介を家の蔵に閉じ込め、2時間後にそこから出して誕生日プレゼントを渡す予定だったが、影鰐の襲撃により、由美子と共に宗介の目の前で影鰐に食い殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/12/37787_crt_QNkDX.jpg",
+        "link": "https://bgm.tv/character/37787",
+        "categorie": "person"
+      },
+      {
+        "id": "37788",
+        "label": "番場由美子",
+        "info": "宗介の母親。眞と共に宗介の目の前で影鰐に食い殺される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/a6/37788_crt_S7H1o.jpg",
+        "link": "https://bgm.tv/character/37788",
+        "categorie": "person"
+      },
+      {
+        "id": "37789",
+        "label": "研究員",
+        "info": "猿楽製薬の研究員たち。猿楽製薬の地下に存在する巨大な研究施設で奇獣の研究やクローンの影鰐の開発を行っている。カメ奇獣の暴走により大勢が食い殺される。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/37789",
+        "categorie": "person"
+      },
+      {
+        "id": "37791",
+        "label": "看護師",
+        "info": "宗介の世話をしていた看護師。宗介から顕現した影鰐の襲撃を受け、死亡する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/a8/37791_crt_J4E9s.jpg",
+        "link": "https://bgm.tv/character/37791",
+        "categorie": "person"
+      },
+      {
+        "id": "37792",
+        "label": "医師",
+        "info": "重傷を負った宗介の診察を担当した医師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/51/37792_crt_P0PY7.jpg",
+        "link": "https://bgm.tv/character/37792",
+        "categorie": "person"
+      },
+      {
+        "id": "37793",
+        "label": "特別部隊",
+        "info": "猿楽製薬の私設軍隊の特殊部隊に所属する隊員たち。研究スタッフとは異なる衣装に身を包んでいる。作中では、セーフティーゾーンに取り残された木村の救助や影鰐と同化した宗介の確保を行っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/ce/37793_crt_I3Pml.jpg",
+        "link": "https://bgm.tv/character/37793",
+        "categorie": "person"
+      },
+      {
+        "id": "37790",
+        "label": "少年",
+        "info": "物語のラストで宗介とぶつかった少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/21/37790_crt_GDukw.jpg",
+        "link": "https://bgm.tv/character/37790",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13022",
+        "label": "一之宫勘太郎",
+        "info": "さえない民俗学者で妖怪退治屋だが、その目的は妖怪を倒すことではなく、鬼に憑依された彼らを救うことにある。なぜか「鬼喰い天狗」に対して特別な感情を持つその理由とは？",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/74/13022_crt_CHAS2.jpg",
+        "link": "https://bgm.tv/character/13022",
+        "categorie": "person"
+      },
+      {
+        "id": "13023",
+        "label": "春华",
+        "info": "最強と言われる妖怪「鬼喰い天狗」であるが、勘太郎に封印を解かれて以降、なぜか鬼を喰うことができなくなっている。クールな言動とは裏腹に、小汚い茶碗に愛情を注ぐなど不思議な面を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/f5/13023_crt_cxZx0.jpg",
+        "link": "https://bgm.tv/character/13023",
+        "categorie": "person"
+      },
+      {
+        "id": "13024",
+        "label": "妖狐",
+        "info": "一ノ宮家に同居している妖怪「妖狐」。みんなの世話を焼き、家事全般をこなしながら、家計を支えるためアルバイトに励むしっかりもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/8f/13024_crt_KK7IG.jpg",
+        "link": "https://bgm.tv/character/13024",
+        "categorie": "person"
+      },
+      {
+        "id": "13025",
+        "label": "杉野",
+        "info": "修験者だったが天狗道に堕ちて白天狗となった。現在では杉野村の神様である。夫婦だとは見ても判らないがむーちゃんをこよなく愛す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/c0/13025_crt_4j7C2.jpg",
+        "link": "https://bgm.tv/character/13025",
+        "categorie": "person"
+      },
+      {
+        "id": "13026",
+        "label": "小牳",
+        "info": "正体不明だが霊力は相当高いらしい。勘太郎のことが大好きで、いつもスギノがヤキモチを焼いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/7d/13026_crt_Xi48u.jpg",
+        "link": "https://bgm.tv/character/13026",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

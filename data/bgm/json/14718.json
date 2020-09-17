@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15139",
+        "label": "米内特",
+        "info": "从七年的沉睡中苏醒过来的自动人偶。外表与人类无异，天真烂漫，总是微笑着。对于世间的许多事情都不了解，所以对这个世界充满的好奇心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/95/15139_crt_CyxKK.jpg?r=1458221302",
+        "link": "https://bgm.tv/character/15139",
+        "categorie": "person"
+      },
+      {
+        "id": "39554",
+        "label": "阿妮艾斯·布兰洁",
+        "info": "自称世界第一的人偶师。外表看似年轻，有时候言谈却比一般人成熟许多。似乎是因为来自普兰布里斯，而食量极大。特别喜爱吃蛋糕类的甜点。与米内特关系非常良好宛如姐妹般一样；拥有一个叫唐柯的自动人偶，外型是一只白猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/b2/39554_crt_WBoh2.jpg?r=1458221650",
+        "link": "https://bgm.tv/character/39554",
+        "categorie": "person"
+      },
+      {
+        "id": "39555",
+        "label": "卡莉娜·贝鲁利缇",
+        "info": "雷斯特的青梅竹马，埃尔塔利亚大公之女，隶属于Oasia的魔法师。能够使用蒙提亚以及其它物品来使用魔法攻击进行战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/11/39555_crt_LblO3.jpg?r=1458221953",
+        "link": "https://bgm.tv/character/39555",
+        "categorie": "person"
+      },
+      {
+        "id": "39556",
+        "label": "切露西·阿科塔",
+        "info": "神殿骑士团的骑士。外表美丽给人一种神秘的感觉，从以前开始就有着重度路痴的情况，即使目的地就在身处不远的地方也无法察觉，手中持有地图也可以往非常奇怪的方向走去。后期成为了Oasia公会的一员开始与雷斯特等人接触许多的事情，拥有着精湛的剑术成为保护公会成员的重要角色。与雪莉为旧识，从以前关系就非常要好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a4/39556_crt_vnblQ.jpg?r=1458222102",
+        "link": "https://bgm.tv/character/39556",
+        "categorie": "person"
+      },
+      {
+        "id": "39557",
+        "label": "莉特丝・托鲁蒂亚",
+        "info": "“Oasis”事务所对面的公司“トルティアC（カンパニー）”的社长。萨鲁萨的妹妹。北部大陆某国出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/28/39557_crt_C5RYY.jpg?r=1458222324",
+        "link": "https://bgm.tv/character/39557",
+        "categorie": "person"
+      },
+      {
+        "id": "39558",
+        "label": "萨露莎·特尔缇娜",
+        "info": "『Oasis』工会的对手团队『トルティアカンパニー』的轻率的副社长。不擅长事务和思考，相反，擅长使用各种道具和很难的技术。开朗而有活力，举止强气，实际上倾心于雷斯塔的纯情少女。失败的时候就不管三七二十一开始不停吐槽。目标是成为淑女。是莉特丝的姐姐。其实还是很关心妹妹的在TV08集中体现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/97/39558_crt_uGKu3.jpg?r=1458222530",
+        "link": "https://bgm.tv/character/39558",
+        "categorie": "person"
+      },
+      {
+        "id": "39559",
+        "label": "雷斯特·孟克拉夫特",
+        "info": "本作的主人公，职业是Oasis的物品技师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/ae/39559_crt_51MzF.jpg?r=1458222702",
+        "link": "https://bgm.tv/character/39559",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

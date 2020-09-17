@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4938",
+        "label": "依文洁琳·A·K·麦道威尔",
+        "info": "刀太故乡中学（原作未设定校名）的一名教师，金发碧眼、身材高挑的美女，在村中表现的武术相当高强。使用魔法是冰系魔法与黑暗魔法，实力完全不输给菲特·亚维路克斯。真正的身份是《魔法老师》中登场过的依文洁琳·A·K·麦道威尔，在10岁时被邪恶魔法师做实验而成吸血鬼，真正的样子是个10岁小女孩，以年龄诈称药变成大人的外表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/bf/4938_crt_D6Ekw.jpg",
+        "link": "https://bgm.tv/character/4938",
+        "categorie": "person"
+      },
+      {
+        "id": "38281",
+        "label": "近卫刀太",
+        "info": "男主角，是一个天真无邪的黑短发刺猬头国中生，实际上是《魔法老师》男主角涅吉·史普林菲尔德的孙子，不过后来说明有可能是涅吉的克隆人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/6b/38281_crt_GUzL6.jpg?r=1577197994",
+        "link": "https://bgm.tv/character/38281",
+        "categorie": "person"
+      },
+      {
+        "id": "38283",
+        "label": "结城夏凛",
+        "info": "外表年龄与刀太同年的女孩，黑色短发，个性冷酷、无表情。真实姓名为“依修特·卡琳·欧戴”（イシュト・カリン・オーテ，Isht Karin Orte），1492年在南欧的山村遭到猎巫者拷问，但无论怎样被对待也毫发未伤，被人称为“钢铁圣女”（鋼鉄の聖女），后来被依文洁琳所救，此后便跟随依文洁琳。尊称雪姬为“雪姬大人”，嫉妒曾经与雪姬同住的刀太，对雪姬有异常狂热的感情，因此貌似视刀太为情敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a5/38283_crt_tP165.jpg",
+        "link": "https://bgm.tv/character/38283",
+        "categorie": "person"
+      },
+      {
+        "id": "38284",
+        "label": "樱雨桐衣",
+        "info": "外表是年纪比刀太还要小的女孩，却是悠久持有者最大赞助者，资产以千亿元为单元。具备傲娇属性，以调侃刀太为乐。擅长分析当前战况，战斗能力并不强。以设定存档点的方式，在自身身体死亡后拥有时光倒流的能力，能把意识与记忆带回到过去的固有能力“重置OK的人生（Reset & Restart）”。若回溯时间时有接触到他人，也可以把对方的记忆一起带回到过去，且任何伤势或状态都会回溯到当时的情况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/54/38284_crt_gHl0u.jpg",
+        "link": "https://bgm.tv/character/38284",
+        "categorie": "person"
+      },
+      {
+        "id": "38282",
+        "label": "时坂九郎丸",
+        "info": "外表年龄与刀太同年，黑长发，没有特别表示自己的性别，被刀太认为是男人。常常表现得过于女性化，被称呼为女性时会主动反驳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/4d/38282_crt_9X21b.jpg",
+        "link": "https://bgm.tv/character/38282",
+        "categorie": "person"
+      },
+      {
+        "id": "74089",
+        "label": "雪广霙",
+        "info": "绫香的曾孙女，雪广财阀的继承人，跟着绫香来到仙境馆并找上刀太，现在是在仙境馆里打工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/9d/74089_crt_lS7Hc.jpg",
+        "link": "https://bgm.tv/character/74089",
+        "categorie": "person"
+      },
+      {
+        "id": "74090",
+        "label": "结城忍",
+        "info": "刀太在旅程中遇见的少女，黑色短发。想参加人类历史上最大祭典“太阳系奥林匹克”〔太陽系オリンピック，简称“新奥运”（新五輪）〕中的“环绕太阳系竞速大赛”（太陽系一周・グランドレース）。起初因这个梦想过于遥远而被同龄小孩嘲笑，失落时被刀太认同其梦想并与刀太成为朋友。似乎喜欢刀太。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/20/74090_crt_zOc7O.jpg",
+        "link": "https://bgm.tv/character/74090",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

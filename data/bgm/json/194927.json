@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51088",
+        "label": "织田信长",
+        "info": "天下統一という壮大な目標を持つロックな人物。目的のためなら平気で周囲を巻き込み、力技で何とかすることが多く、いろんな意味で恐れられている。外国製品や珍しいものが大好きで、しょっちゅう家臣や知り合いを呼び出しては、手に入れたものを見せびらかすが、すぐに飽きる。女好きだが蘭丸も好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/c0/51088_crt_IoEv2.jpg",
+        "link": "https://bgm.tv/character/51088",
+        "categorie": "person"
+      },
+      {
+        "id": "51089",
+        "label": "丰臣秀吉",
+        "info": "基本的にノリがチャラく、その場の思いつきで行動する適当な性格だが、なんとなく憎めず、人には好かれるタイプ。特に織田信長に気に入られることに関しては天才的な才能を発揮する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/49/51089_crt_6O1ag.jpg",
+        "link": "https://bgm.tv/character/51089",
+        "categorie": "person"
+      },
+      {
+        "id": "51090",
+        "label": "德川家康",
+        "info": "クソ真面目な慎重派で周囲からはヘタレと陰口を叩かれている。理屈から入るタイプで、言っていることは確かに正論だが相手の気持ちを考えずにズケズケ言うことが多く、恨みを買う。自分が嫌なことに巻き込まれないための言い訳ならいくらでも出てくる。織田信長、豊臣秀吉といる時はツッコミ的なポジションとなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/5e/51090_crt_d93L9.jpg",
+        "link": "https://bgm.tv/character/51090",
+        "categorie": "person"
+      },
+      {
+        "id": "51091",
+        "label": "森兰丸",
+        "info": "織田信長のお気に入りの小姓というか、もはや彼女さん的立ち位置。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/d7/51091_crt_446mf.jpg",
+        "link": "https://bgm.tv/character/51091",
+        "categorie": "person"
+      },
+      {
+        "id": "51092",
+        "label": "奥尔甘蒂诺",
+        "info": "織田信長に気に入られチョイチョイ遊びに来る宣教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/f6/51092_crt_A1aMa.jpg",
+        "link": "https://bgm.tv/character/51092",
+        "categorie": "person"
+      },
+      {
+        "id": "51101",
+        "label": "前田利家",
+        "info": "織田信長の舎弟の一人。ケンカっ早く日頃から槍を持って歩いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/05/51101_crt_2uG9m.jpg",
+        "link": "https://bgm.tv/character/51101",
+        "categorie": "person"
+      },
+      {
+        "id": "51106",
+        "label": "明智光秀",
+        "info": "織田信長の家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/9f/51106_crt_K3km3.jpg",
+        "link": "https://bgm.tv/character/51106",
+        "categorie": "person"
+      },
+      {
+        "id": "51115",
+        "label": "黑田官兵卫",
+        "info": "豊臣秀吉の参謀であり遊び仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/95/51115_crt_kr2Rg.jpg",
+        "link": "https://bgm.tv/character/51115",
+        "categorie": "person"
+      },
+      {
+        "id": "51117",
+        "label": "小早川隆景",
+        "info": "秀吉に奇策を提案する良きアドバイザー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/1b/51117_crt_sS40w.jpg",
+        "link": "https://bgm.tv/character/51117",
+        "categorie": "person"
+      },
+      {
+        "id": "51118",
+        "label": "北条氏政",
+        "info": "北条家のリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/bf/51118_crt_FDf1i.jpg",
+        "link": "https://bgm.tv/character/51118",
+        "categorie": "person"
+      },
+      {
+        "id": "51119",
+        "label": "本多忠胜",
+        "info": "徳川家の家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/f8/51119_crt_kdR3G.jpg",
+        "link": "https://bgm.tv/character/51119",
+        "categorie": "person"
+      },
+      {
+        "id": "51120",
+        "label": "本多正信",
+        "info": "徳川家の家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/05/51120_crt_htZBH.jpg",
+        "link": "https://bgm.tv/character/51120",
+        "categorie": "person"
+      },
+      {
+        "id": "51121",
+        "label": "马场信房",
+        "info": "武田信玄を腕っ節の強さのみで過保護なほど支える根っからの武闘派。後輩たちの間では、これまで喧嘩でかすり傷一つ負ったことがないと伝説となっているが、実は怪我をしてもやせ我慢して、怪我と認めないだけという噂もある。読んで字のごとく、名前に馬がつくという単純な理由から“ウマ”として描かれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/2c/51121_crt_k111A.jpg",
+        "link": "https://bgm.tv/character/51121",
+        "categorie": "person"
+      },
+      {
+        "id": "51122",
+        "label": "武田信繁",
+        "info": "何気に兄弟の中で一番の切れ者だが、トップに立つのは色々面倒臭いため常に二番手あたりにいたいタイプの性格。信玄のカリスマ性溢れる発言や行動を影から見ていつもニヤニヤしている。きっと小馬鹿にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/23/51122_crt_BUEi5.jpg",
+        "link": "https://bgm.tv/character/51122",
+        "categorie": "person"
+      },
+      {
+        "id": "51590",
+        "label": "路易斯·弗洛伊斯",
+        "info": "ポルトガルからやってきた宣教師。布教活動をしながら各地で見かけた変わった習慣や人を面白おかしく日記に書くのを日課とし、ある程度たまったら自国に送っているらしい。そんなフロイスの日記を楽しみにしている読者は結構いるとの噂。宣教師独特の剃髪した髪型から〝カッパ〟として描かれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/2c/51590_crt_21xh1.jpg",
+        "link": "https://bgm.tv/character/51590",
+        "categorie": "person"
+      },
+      {
+        "id": "51094",
+        "label": "石田三成",
+        "info": "豊臣秀吉の側近であり秘書的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/21/51094_crt_od0ou.jpg",
+        "link": "https://bgm.tv/character/51094",
+        "categorie": "person"
+      },
+      {
+        "id": "51095",
+        "label": "加藤清正",
+        "info": "豊臣秀吉の子飼いである〝七本槍〟のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/6c/51095_crt_Gg0pz.jpg",
+        "link": "https://bgm.tv/character/51095",
+        "categorie": "person"
+      },
+      {
+        "id": "51096",
+        "label": "福岛正则",
+        "info": "豊臣秀吉の子飼いである〝七本槍〟のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/ed/51096_crt_pWXZZ.jpg",
+        "link": "https://bgm.tv/character/51096",
+        "categorie": "person"
+      },
+      {
+        "id": "51098",
+        "label": "加藤嘉明",
+        "info": "豊臣秀吉の子飼いである〝七本槍〟のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/66/51098_crt_eAabY.jpg",
+        "link": "https://bgm.tv/character/51098",
+        "categorie": "person"
+      },
+      {
+        "id": "51107",
+        "label": "黑田长政",
+        "info": "才能溢れる父親・官兵衛に似て成績優秀だがトップにはなれない、器用貧乏なタイプ。やたらと人と揉めることが多く、一度恨みを買うといつまででも根に持ち続けるねちっこさを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/3a/51107_crt_77X63.jpg",
+        "link": "https://bgm.tv/character/51107",
+        "categorie": "person"
+      },
+      {
+        "id": "51109",
+        "label": "细川忠兴",
+        "info": "藤堂高虎の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/0b/51109_crt_z2PJn.jpg",
+        "link": "https://bgm.tv/character/51109",
+        "categorie": "person"
+      },
+      {
+        "id": "52364",
+        "label": "浅野幸长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/4e/52364_crt_OHOO7.jpg",
+        "link": "https://bgm.tv/character/52364",
+        "categorie": "person"
+      },
+      {
+        "id": "52365",
+        "label": "池田辉政",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/a3/52365_crt_cFL3G.jpg",
+        "link": "https://bgm.tv/character/52365",
+        "categorie": "person"
+      },
+      {
+        "id": "52366",
+        "label": "上杉景胜",
+        "info": "上杉家の2代目当主であり、五大老のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/ac/52366_crt_vFaS4.jpg",
+        "link": "https://bgm.tv/character/52366",
+        "categorie": "person"
+      },
+      {
+        "id": "52367",
+        "label": "宇喜多秀家",
+        "info": "宇喜多家最後の当主であり、五大老のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/60/52367_crt_CXliY.jpg",
+        "link": "https://bgm.tv/character/52367",
+        "categorie": "person"
+      },
+      {
+        "id": "52368",
+        "label": "前田利长",
+        "info": "前田利家亡き後、エスカレーター方式で前田家当主と五大老のメンバーに同時就任。家康からはメンバーと認められていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/94/52368_crt_gTY1t.jpg",
+        "link": "https://bgm.tv/character/52368",
+        "categorie": "person"
+      },
+      {
+        "id": "52369",
+        "label": "毛利辉元",
+        "info": "毛利元就と二頭体制での毛利家当主であり、五大老のメンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/41/52369_crt_E9ZnV.jpg",
+        "link": "https://bgm.tv/character/52369",
+        "categorie": "person"
+      },
+      {
+        "id": "52813",
+        "label": "岛津义久",
+        "info": "島津四兄弟の長男。個性派ぞろいの弟たちをまとめ上げる揺るぎないリーダーであると自分の中では信じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ff/52813_crt_Lsh2F.jpg",
+        "link": "https://bgm.tv/character/52813",
+        "categorie": "person"
+      },
+      {
+        "id": "52814",
+        "label": "岛津义弘",
+        "info": "島津四兄弟の次男。兄弟きっての武闘派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/51/52814_crt_qGSD0.jpg",
+        "link": "https://bgm.tv/character/52814",
+        "categorie": "person"
+      },
+      {
+        "id": "52815",
+        "label": "岛津岁久",
+        "info": "兄弟の中で一番優しく兄弟思いだが酒癖が悪い。基本的に慎重な性格だが酒が入るとタガが外れたかのように大胆になり、しかも兄弟の悪口ばかり言うようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/90/52815_crt_4gmv9.jpg",
+        "link": "https://bgm.tv/character/52815",
+        "categorie": "person"
+      },
+      {
+        "id": "52816",
+        "label": "岛津家久",
+        "info": "島津貴久の四男。初陣で敵将を討ち取るなど、若年より戦の才を周囲に認められていたと言われている。豊臣秀吉の九州平定の際には、島津義久・義弘が降伏する前に4兄弟の中では最も早く豊臣秀長軍と単独講和したとされている。その後、佐土原城で急死。その死には、病死説や豊臣側あるいは島津側による毒殺など、様々な説が残っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/d9/52816_crt_7B910.jpg",
+        "link": "https://bgm.tv/character/52816",
+        "categorie": "person"
+      },
+      {
+        "id": "51105",
+        "label": "上杉谦信",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/63/51105_crt_hjOB3.jpg",
+        "link": "https://bgm.tv/character/51105",
+        "categorie": "person"
+      },
+      {
+        "id": "52964",
+        "label": "直江景纲",
+        "info": "上杉四天王の一人にも数えられる、上杉謙信の良き右腕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/e5/52964_crt_oPxpn.jpg",
+        "link": "https://bgm.tv/character/52964",
+        "categorie": "person"
+      },
+      {
+        "id": "52965",
+        "label": "柿崎景家",
+        "info": "上杉四天王の一人にも数えられる、上杉家の縁の下の力持ち的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/58/52965_crt_43343.jpg",
+        "link": "https://bgm.tv/character/52965",
+        "categorie": "person"
+      },
+      {
+        "id": "53102",
+        "label": "井伊直虎",
+        "info": "家庭の事情にいろいろ振り回される伊井家の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/6b/53102_crt_55q13.jpg",
+        "link": "https://bgm.tv/character/53102",
+        "categorie": "person"
+      },
+      {
+        "id": "53103",
+        "label": "南溪瑞闻",
+        "info": "暇さえあれば井伊家に入り浸る坊さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/2c/53103_crt_o8K4H.jpg",
+        "link": "https://bgm.tv/character/53103",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

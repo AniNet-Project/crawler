@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22229",
+        "label": "小暮健太",
+        "info": "主人公。勇敢さと頭の回転の良さを併せ持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/0c/22229_crt_jS97J.jpg",
+        "link": "https://bgm.tv/character/22229",
+        "categorie": "person"
+      },
+      {
+        "id": "22230",
+        "label": "伊头遗作",
+        "info": "桜蘭学園用務員。悪い噂が絶えない。美由紀の妹が殺された時にも真っ先に疑われた。ボサボサ頭に無精ヒゲ、ジャージ姿という外見。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/22/22230_crt_3V594.jpg",
+        "link": "https://bgm.tv/character/22230",
+        "categorie": "person"
+      },
+      {
+        "id": "22233",
+        "label": "浅川琴未",
+        "info": "健太の憧れの人。お嬢様で宗光とは幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/77/22233_crt_6EGeG.jpg",
+        "link": "https://bgm.tv/character/22233",
+        "categorie": "person"
+      },
+      {
+        "id": "22231",
+        "label": "岛田阵八",
+        "info": "健太の親友。新聞部の部員で、いつもカメラを手放さない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/f9/22231_crt_W15ZA.jpg",
+        "link": "https://bgm.tv/character/22231",
+        "categorie": "person"
+      },
+      {
+        "id": "22232",
+        "label": "苏我宗光",
+        "info": "学園理事長の息子。高飛車な性格で、健太と激しく対立している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/2b/22232_crt_Pt6Pj.jpg",
+        "link": "https://bgm.tv/character/22232",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

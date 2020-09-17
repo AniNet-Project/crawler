@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41696",
+        "label": "城之内姫乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/f1/41696_crt_yfA1G.jpg?r=1463206873",
+        "link": "https://bgm.tv/character/41696",
+        "categorie": "person"
+      },
+      {
+        "id": "41697",
+        "label": "赤巻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/e6/41697_crt_6NT5X.jpg",
+        "link": "https://bgm.tv/character/41697",
+        "categorie": "person"
+      },
+      {
+        "id": "41698",
+        "label": "青卷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/4b/41698_crt_eqQaF.jpg?r=1463206627",
+        "link": "https://bgm.tv/character/41698",
+        "categorie": "person"
+      },
+      {
+        "id": "41699",
+        "label": "黄色巻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/a9/41699_crt_0ytAV.jpg",
+        "link": "https://bgm.tv/character/41699",
+        "categorie": "person"
+      },
+      {
+        "id": "41700",
+        "label": "绿卷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/f8/41700_crt_unzEh.jpg",
+        "link": "https://bgm.tv/character/41700",
+        "categorie": "person"
+      },
+      {
+        "id": "41701",
+        "label": "紫巻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/de/41701_crt_dk27H.jpg",
+        "link": "https://bgm.tv/character/41701",
+        "categorie": "person"
+      },
+      {
+        "id": "41702",
+        "label": "橙巻",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/dc/41702_crt_wzw4T.jpg",
+        "link": "https://bgm.tv/character/41702",
+        "categorie": "person"
+      },
+      {
+        "id": "41703",
+        "label": "お父さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/4d/41703_crt_uTlr6.jpg?r=1463208790",
+        "link": "https://bgm.tv/character/41703",
+        "categorie": "person"
+      },
+      {
+        "id": "41704",
+        "label": "お母さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/2d/41704_crt_ZwW66.jpg?r=1463208795",
+        "link": "https://bgm.tv/character/41704",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18081",
+        "label": "早瀬美奈",
+        "info": "喜爱洋快餐，甜品，咖啡，冷的食物；没有讨厌的食物，不挑食。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/01/18081_crt_VIly4.jpg",
+        "link": "https://bgm.tv/character/18081",
+        "categorie": "person"
+      },
+      {
+        "id": "18082",
+        "label": "高辺智弘",
+        "info": "身体健康，成绩不好的男生，拥有很高的决断力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/e4/18082_crt_n5ZnO.jpg",
+        "link": "https://bgm.tv/character/18082",
+        "categorie": "person"
+      },
+      {
+        "id": "18083",
+        "label": "野々宮華緒梨",
+        "info": "男主人公的后辈，图书委员，喜欢在图书馆出没，有妄想的爱好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/c3/18083_crt_Xadfk.jpg",
+        "link": "https://bgm.tv/character/18083",
+        "categorie": "person"
+      },
+      {
+        "id": "18084",
+        "label": "野野宫妙子",
+        "info": "整天穿着白大褂的保健室的美女老师，性格温和，很受学生欢迎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/77/18084_crt_00qHt.jpg",
+        "link": "https://bgm.tv/character/18084",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

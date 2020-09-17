@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60794",
+        "label": "津场木葵",
+        "info": "祖父譲りのあやかしを見る能力を持つ大学二年生の女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/15/60794_crt_GehYA.jpg?r=1522871557",
+        "link": "https://bgm.tv/character/60794",
+        "categorie": "person"
+      },
+      {
+        "id": "60795",
+        "label": "大旦那",
+        "info": "鬼門の地である天神屋を治める、鬼神（きじん）の大旦那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/b4/60795_crt_rJ3hR.jpg?r=1523376424",
+        "link": "https://bgm.tv/character/60795",
+        "categorie": "person"
+      },
+      {
+        "id": "60796",
+        "label": "银次",
+        "info": "天神屋の招き狐とも呼ばれており、若旦那を務めている、九尾の狐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/94/60796_crt_gGadW.jpg?r=1523973910",
+        "link": "https://bgm.tv/character/60796",
+        "categorie": "person"
+      },
+      {
+        "id": "60798",
+        "label": "晓",
+        "info": "天神屋の番頭を務める、土蜘蛛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/0c/60798_crt_47C9N.jpg?r=1524675407",
+        "link": "https://bgm.tv/character/60798",
+        "categorie": "person"
+      },
+      {
+        "id": "60797",
+        "label": "阿凉",
+        "info": "天神屋の若女将を務める雪女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/8b/60797_crt_2F175.jpg?r=1525145128",
+        "link": "https://bgm.tv/character/60797",
+        "categorie": "person"
+      },
+      {
+        "id": "60799",
+        "label": "白夜",
+        "info": "天神屋でも重鎮と呼ばれている古株で、宿の懐事情の一切を取り仕切るお帳場の長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/44/60799_crt_V6626.jpg?r=1526181282",
+        "link": "https://bgm.tv/character/60799",
+        "categorie": "person"
+      },
+      {
+        "id": "61413",
+        "label": "春日",
+        "info": "天神屋の仲居の一人で、化け狸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/4b/61413_crt_KUQkM.jpg?r=1526744622",
+        "link": "https://bgm.tv/character/61413",
+        "categorie": "person"
+      },
+      {
+        "id": "61414",
+        "label": "佐助",
+        "info": "天神屋の庭掃除から曲者退治、護衛まで行う、お庭番のカマイタチ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/6f/61414_crt_2326s.jpg?r=1527261608",
+        "link": "https://bgm.tv/character/61414",
+        "categorie": "person"
+      },
+      {
+        "id": "61248",
+        "label": "静奈",
+        "info": "温泉の泉質や浴場の管理などを担う、濡れ女。天神屋の女湯の湯守りを務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/36/61248_crt_q7884.jpg?r=1527610335",
+        "link": "https://bgm.tv/character/61248",
+        "categorie": "person"
+      },
+      {
+        "id": "61516",
+        "label": "乱丸",
+        "info": "折尾屋の番頭を務める天狗。元・天神屋の番頭でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/6a/61516_crt_njzNh.jpg?r=1532264839",
+        "link": "https://bgm.tv/character/61516",
+        "categorie": "person"
+      },
+      {
+        "id": "61517",
+        "label": "叶鸟",
+        "info": "折尾屋の番頭を務める天狗。元・天神屋の番頭でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/bf/61517_crt_98ZAE.jpg?r=1532265239",
+        "link": "https://bgm.tv/character/61517",
+        "categorie": "person"
+      },
+      {
+        "id": "61518",
+        "label": "时彦",
+        "info": "折尾屋の筆頭湯守。妖火の中で最高位の不知火というあやかし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/12/61518_crt_CccMc.jpg?r=1532265214",
+        "link": "https://bgm.tv/character/61518",
+        "categorie": "person"
+      },
+      {
+        "id": "60800",
+        "label": "チビ",
+        "info": "自称、葵の眷属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ed/60800_crt_ZA7jS.jpg",
+        "link": "https://bgm.tv/character/60800",
+        "categorie": "person"
+      },
+      {
+        "id": "61247",
+        "label": "津场木史郎",
+        "info": "葵の祖父。故人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/9c/61247_crt_o7220.jpg?r=1528250781",
+        "link": "https://bgm.tv/character/61247",
+        "categorie": "person"
+      },
+      {
+        "id": "62535",
+        "label": "松叶",
+        "info": "八葉の一角を担う、西の地の朱門山に棲む天狗のご隠居。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/af/62535_crt_JpbAH.jpg?r=1528250770",
+        "link": "https://bgm.tv/character/62535",
+        "categorie": "person"
+      },
+      {
+        "id": "62522",
+        "label": "铃兰",
+        "info": "暁の妹で、都で芸妓をしている、女郎蜘蛛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/84/62522_crt_UVV6f.jpg?r=1528250754",
+        "link": "https://bgm.tv/character/62522",
+        "categorie": "person"
+      },
+      {
+        "id": "62536",
+        "label": "反之介",
+        "info": "八葉の一角を担う、八幡屋の一反木綿の若様。老舗の反物屋で甘やかされて育ったボンボンで、女好きの馬鹿息子と有名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/a8/62536_crt_XiW30.jpg?r=1528250742",
+        "link": "https://bgm.tv/character/62536",
+        "categorie": "person"
+      },
+      {
+        "id": "63785",
+        "label": "薄荷坊",
+        "info": "かくりよの人気作家で、入道坊主というあやかし。妖都新聞にコラムなども連載している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/36/63785_crt_00Ea9.jpg?r=1528250730",
+        "link": "https://bgm.tv/character/63785",
+        "categorie": "person"
+      },
+      {
+        "id": "63786",
+        "label": "黄金童子",
+        "info": "葵の前に突如として現れた、金色の髪の座敷童。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/1f/63786_crt_zwY10.jpg?r=1528250714",
+        "link": "https://bgm.tv/character/63786",
+        "categorie": "person"
+      },
+      {
+        "id": "63787",
+        "label": "缝之阴",
+        "info": "妖王家に出自を持つ宮中のあやかしで、奥方に人間である律子を迎えた貴族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/cb/63787_crt_1Evst.jpg?r=1528250942",
+        "link": "https://bgm.tv/character/63787",
+        "categorie": "person"
+      },
+      {
+        "id": "63788",
+        "label": "律子",
+        "info": "隠世に嫁いできた、人間の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/97/63788_crt_Y6L6B.jpg?r=1528251075",
+        "link": "https://bgm.tv/character/63788",
+        "categorie": "person"
+      },
+      {
+        "id": "64202",
+        "label": "千秋",
+        "info": "天神屋の下足番長を務める、化け狸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/37/64202_crt_H5Au7.jpg?r=1529680343",
+        "link": "https://bgm.tv/character/64202",
+        "categorie": "person"
+      },
+      {
+        "id": "64203",
+        "label": "砂乐",
+        "info": "お宿の地下施設を総括する責任者でもある開発部長である、千年土竜の博士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/af/64203_crt_qVzCd.jpg?r=1529680261",
+        "link": "https://bgm.tv/character/64203",
+        "categorie": "person"
+      },
+      {
+        "id": "64204",
+        "label": "信长",
+        "info": "折尾屋創設時から勤めている大御所で大幹部。看板犬であり、宣伝部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/db/64204_crt_xEfr0.jpg",
+        "link": "https://bgm.tv/character/64204",
+        "categorie": "person"
+      },
+      {
+        "id": "64936",
+        "label": "秀吉",
+        "info": "折尾屋の若旦那を務める、二本の尾を持つ化け猿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/24/64936_crt_5FNZ4.jpg?r=1532265353",
+        "link": "https://bgm.tv/character/64936",
+        "categorie": "person"
+      },
+      {
+        "id": "64937",
+        "label": "宁宁",
+        "info": "折尾屋の若女将を務める、火鼠のあやかし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/ab/64937_crt_5CJZ5.jpg?r=1532265441",
+        "link": "https://bgm.tv/character/64937",
+        "categorie": "person"
+      },
+      {
+        "id": "64938",
+        "label": "太一",
+        "info": "折尾屋で雑用の下働きをしている、夜雀の男の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/55/64938_crt_3dd33.jpg?r=1532265541",
+        "link": "https://bgm.tv/character/64938",
+        "categorie": "person"
+      },
+      {
+        "id": "64939",
+        "label": "戒·明",
+        "info": "折尾屋に雇われている双子の板前。男の子とも女の子ともつかない淡麗な容姿で、髪が黒い方が、黒鶴童子の戒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/cd/64939_crt_6g0KI.jpg?r=1532265737",
+        "link": "https://bgm.tv/character/64939",
+        "categorie": "person"
+      },
+      {
+        "id": "64940",
+        "label": "淀子",
+        "info": "南の地と南西の地の山間に巨大な貯水ダムを持つ大富豪の娘。雨女のお嬢様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/62/64940_crt_WsbE8.jpg?r=1532265969",
+        "link": "https://bgm.tv/character/64940",
+        "categorie": "person"
+      },
+      {
+        "id": "64941",
+        "label": "三成",
+        "info": "淀子に仕える従者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/68/64941_crt_6U3VX.jpg?r=1532266119",
+        "link": "https://bgm.tv/character/64941",
+        "categorie": "person"
+      },
+      {
+        "id": "65124",
+        "label": "爱",
+        "info": "元々は大旦那の鬼火。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/82/65124_crt_r71d4.jpg?r=1533048258",
+        "link": "https://bgm.tv/character/65124",
+        "categorie": "person"
+      },
+      {
+        "id": "65125",
+        "label": "雷兽",
+        "info": "気まぐれな遊び人と名高い妖都の大貴族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/dd/65125_crt_ZquXt.jpg?r=1533048415",
+        "link": "https://bgm.tv/character/65125",
+        "categorie": "person"
+      },
+      {
+        "id": "65638",
+        "label": "矶姬",
+        "info": "元・南の地の八葉で、しるべの巫女の異名を持つ神がかり的なあやかし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/50/65638_crt_40EGZ.jpg?r=1534565092",
+        "link": "https://bgm.tv/character/65638",
+        "categorie": "person"
+      },
+      {
+        "id": "65639",
+        "label": "笹良",
+        "info": "松葉の妻であり、葉鳥の母である、鷺のあやかし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/58/65639_crt_ETrfH.jpg?r=1534565216",
+        "link": "https://bgm.tv/character/65639",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

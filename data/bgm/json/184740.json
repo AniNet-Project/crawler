@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51175",
+        "label": "足立甜花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/df/51175_crt_eGqxT.jpg",
+        "link": "https://bgm.tv/character/51175",
+        "categorie": "person"
+      },
+      {
+        "id": "51176",
+        "label": "コマコ・セメノビッチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b9/51176_crt_GGLRg.jpg",
+        "link": "https://bgm.tv/character/51176",
+        "categorie": "person"
+      },
+      {
+        "id": "78735",
+        "label": "狭山千恵",
+        "info": "駄菓子屋近くに昔から住んでいる女の子。 駄菓子屋の常連さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/3b/78735_crt_4qGvV.jpg",
+        "link": "https://bgm.tv/character/78735",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12815",
+        "label": "小遥",
+        "info": "小遥（英文：May，日文：ハルカ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪超世代》的女主角。梦想是成为世界上最伟大的口袋妖怪协调训练家。并拥有火焰鸡、妙蛙花及卡咪龟等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f3/12815_crt_zXUlV.jpg?r=1402295247",
+        "link": "https://bgm.tv/character/12815",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

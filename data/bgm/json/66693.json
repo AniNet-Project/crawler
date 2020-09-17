@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18344",
+        "label": "ラーナ",
+        "info": "喜屋武家の庭に立つガジュマルの木の精。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/5c/18344_crt_V9fAA.jpg",
+        "link": "https://bgm.tv/character/18344",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

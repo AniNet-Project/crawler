@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "53930",
+        "label": "HK416",
+        "info": "404小队的成员，沉默寡言的人形。只有在同伴面前话语会多一些，往往也都是毒舌。和冰冷的性格相反，运动和反射非常出色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/3d/53930_crt_0tlXZ.jpg?r=1500473531",
+        "link": "https://bgm.tv/character/53930",
+        "categorie": "person"
+      },
+      {
+        "id": "77155",
+        "label": "维尔德MkⅡ",
+        "info": "严谨认真，恪于职守，充满军人气质，心中充满传统的正义感，但平日低调死板又我行我素，所以有时会被当成中二病患者。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/77155",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

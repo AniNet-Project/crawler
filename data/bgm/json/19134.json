@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13459",
+        "label": "宇佐美初",
+        "info": "本作の主人公。素直で前向きな性格をした少女で、髪は茶髪のショートカット。15歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/d1/13459_crt_hEqh4.jpg",
+        "link": "https://bgm.tv/character/13459",
+        "categorie": "person"
+      },
+      {
+        "id": "13458",
+        "label": "有马小夜",
+        "info": "はじめの友達の少女。明るく活動的な性格で、言いたいことはハッキリと言うタイプ。髪はピンク色のロングヘアで、片側をリボンで纏めている。劇中では主にツッコミ担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/51/13458_crt_4DDA8.jpg",
+        "link": "https://bgm.tv/character/13458",
+        "categorie": "person"
+      },
+      {
+        "id": "13457",
+        "label": "长宗我部彩",
+        "info": "副部長。優しくおしとやかな性格の少女で、緑がかった黒髪のロングヘアと大人っぽい容姿が特徴。首にほくろがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/31/13457_crt_0Zt8H.jpg",
+        "link": "https://bgm.tv/character/13457",
+        "categorie": "person"
+      },
+      {
+        "id": "13456",
+        "label": "佐佐玛利亚",
+        "info": "小柄で口数の少ない少女で、薄い茶色のロングヘアにリボンを付けている。瞳は半開き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/71/13456_crt_RQe23.jpg?r=1566059755",
+        "link": "https://bgm.tv/character/13456",
+        "categorie": "person"
+      },
+      {
+        "id": "13454",
+        "label": "鸟羽一郎",
+        "info": "部長。男子生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/aa/13454_crt_84oo1.jpg",
+        "link": "https://bgm.tv/character/13454",
+        "categorie": "person"
+      },
+      {
+        "id": "13455",
+        "label": "北条绘马",
+        "info": "眼鏡をかけた少女。髪型は黒髪のロングヘアで、ヘアバンドをつけておでこが見えるようになっている。生真面目で融通の利かない性格ゆえかやや手厳しいツッコミ役となっているが、彼女なりに部の維持と発展を考えている。部費の徴収に厳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/26/13455_crt_ozB8p.jpg",
+        "link": "https://bgm.tv/character/13455",
+        "categorie": "person"
+      },
+      {
+        "id": "14645",
+        "label": "鸟羽优",
+        "info": "鳥羽一郎的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/30/14645_crt_9O9w7.jpg",
+        "link": "https://bgm.tv/character/14645",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

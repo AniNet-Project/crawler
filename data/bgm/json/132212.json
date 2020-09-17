@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37370",
+        "label": "海棠晴",
+        "info": "海棠家長男。8歳までカナダで育った帰国子女であり、クォーター。お人好しかつ面倒見のよい苦労人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/91/37370_crt_Dd09X.jpg?r=1451067159",
+        "link": "https://bgm.tv/character/37370",
+        "categorie": "person"
+      },
+      {
+        "id": "37371",
+        "label": "海棠零",
+        "info": "海棠家四男。晴・亜樹・蒔麻とは全く血が繋がっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/ba/37371_crt_ex0X7.jpg?r=1451067508",
+        "link": "https://bgm.tv/character/37371",
+        "categorie": "person"
+      },
+      {
+        "id": "37372",
+        "label": "海棠亚树",
+        "info": "海棠家次男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/d5/37372_crt_r93QO.jpg?r=1451068847",
+        "link": "https://bgm.tv/character/37372",
+        "categorie": "person"
+      },
+      {
+        "id": "37373",
+        "label": "海棠莳麻",
+        "info": "海棠家三男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/ed/37373_crt_5dY7F.jpg?r=1451068898",
+        "link": "https://bgm.tv/character/37373",
+        "categorie": "person"
+      },
+      {
+        "id": "37634",
+        "label": "佐佐木郁芳",
+        "info": "晴のホスト時代の同僚。源氏名は郁（いく）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/cd/37634_crt_xF7f3.jpg?r=1454422334",
+        "link": "https://bgm.tv/character/37634",
+        "categorie": "person"
+      },
+      {
+        "id": "37635",
+        "label": "黑崎十全",
+        "info": "蒼陵学園での零の同級生で友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/1a/37635_crt_tu7Ob.jpg?r=1454422354",
+        "link": "https://bgm.tv/character/37635",
+        "categorie": "person"
+      },
+      {
+        "id": "38939",
+        "label": "春子·丹妮拉·狄克曼",
+        "info": "晴的母亲，零的养母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/18/38939_crt_1PFFE.jpg?r=1455522394",
+        "link": "https://bgm.tv/character/38939",
+        "categorie": "person"
+      },
+      {
+        "id": "38940",
+        "label": "柏木干子",
+        "info": "春子的友人，律师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/79/38940_crt_D4Q32.jpg?r=1455522836",
+        "link": "https://bgm.tv/character/38940",
+        "categorie": "person"
+      },
+      {
+        "id": "38941",
+        "label": "近藤纪里",
+        "info": "零的友人。海归。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/20/38941_crt_J89u5.jpg?r=1455523212",
+        "link": "https://bgm.tv/character/38941",
+        "categorie": "person"
+      },
+      {
+        "id": "38942",
+        "label": "清华",
+        "info": "与晴共同经营cafe&酒吧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/88/38942_crt_PwwyS.jpg?r=1455523786",
+        "link": "https://bgm.tv/character/38942",
+        "categorie": "person"
+      },
+      {
+        "id": "39726",
+        "label": "篁志朗",
+        "info": "零所就读的学校苍陵学园的保健医生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/7d/39726_crt_VHR7Y.jpg?r=1458826217",
+        "link": "https://bgm.tv/character/39726",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

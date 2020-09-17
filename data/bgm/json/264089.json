@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72349",
+        "label": "卡塔丽娜·克拉斯",
+        "info": "库莱耶思公爵的独生女，魔力属性：土。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/11/72349_crt_5SxZZ.jpg?r=1586098007",
+        "link": "https://bgm.tv/character/72349",
+        "categorie": "person"
+      },
+      {
+        "id": "72350",
+        "label": "吉奥路德·斯图亚特",
+        "info": "第三王子，卡塔莉娜的未婚夫，魔力属性：火。游戏中攻略对象之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/d1/72350_crt_9KY9H.jpg?r=1586708173",
+        "link": "https://bgm.tv/character/72350",
+        "categorie": "person"
+      },
+      {
+        "id": "72352",
+        "label": "基斯·克拉斯",
+        "info": "库莱耶思家养子，魔力属性：土。游戏中攻略对象之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/d4/72352_crt_1p637.jpg?r=1586708226",
+        "link": "https://bgm.tv/character/72352",
+        "categorie": "person"
+      },
+      {
+        "id": "72351",
+        "label": "亚兰·斯图亚特",
+        "info": "第四王子，吉奥多的双胞胎弟弟，魔力属性：水。游戏中攻略对象之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/02/72351_crt_HW1lw.jpg?r=1586708284",
+        "link": "https://bgm.tv/character/72351",
+        "categorie": "person"
+      },
+      {
+        "id": "72353",
+        "label": "尼克鲁·亚斯卡路特",
+        "info": "宰相之子，魔力属性：风。游戏中攻略对象之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e1/72353_crt_9PVnb.jpg?r=1586708343",
+        "link": "https://bgm.tv/character/72353",
+        "categorie": "person"
+      },
+      {
+        "id": "75402",
+        "label": "梅丽·亨特",
+        "info": "侯爵千金，第四王子亚兰的未婚妻。游戏中亚兰线的情敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/71/75402_crt_xo9cq.jpg?r=1582166708",
+        "link": "https://bgm.tv/character/75402",
+        "categorie": "person"
+      },
+      {
+        "id": "75403",
+        "label": "索菲亚·亚斯卡路特",
+        "info": "宰相之女。游戏中尼可线的情敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/4a/75403_crt_I15WI.jpg?r=1589900317",
+        "link": "https://bgm.tv/character/75403",
+        "categorie": "person"
+      },
+      {
+        "id": "75404",
+        "label": "玛丽亚·坎贝尔",
+        "info": "原本游戏的主角。魔力属性：光。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/7c/75404_crt_9Xdsc.jpg?r=1582166961",
+        "link": "https://bgm.tv/character/75404",
+        "categorie": "person"
+      },
+      {
+        "id": "76186",
+        "label": "席利乌斯·迪克",
+        "info": "ディーク侯爵の一人息子で、ニコル達とは遠縁の親戚。優しくお茶を淹れるのが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/85/76186_crt_80Pp1.jpg?r=1584143704",
+        "link": "https://bgm.tv/character/76186",
+        "categorie": "person"
+      },
+      {
+        "id": "76187",
+        "label": "アン・シェリー",
+        "info": "卡塔莉娜的女仆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/df/76187_crt_MUfjl.jpg?r=1584143885",
+        "link": "https://bgm.tv/character/76187",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14579",
+        "label": "海绵宝宝",
+        "info": "年龄10岁（7月14日出生、巨蟹座）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/2c/14579_crt_z919y.jpg",
+        "link": "https://bgm.tv/character/14579",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

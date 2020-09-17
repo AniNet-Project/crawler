@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18140",
+        "label": "雷德",
+        "info": "人類銀河同盟の少尉。戦闘能力は高いが、戦うこと以外を知らずに育った。そのため感情表現が苦手で誤解されることもしばしばある。戦闘中に時空のひずみに飲み込まれ、辺境の惑星・地球に漂着し人工冬眠状態だったところをガルガンティアに救われた。言葉も通じない未知の環境の中、生きるためにガルガンティアの人々と交流することを通じて、次第にその心に変化が訪れる。16才",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/d6/18140_crt_g1J69.jpg",
+        "link": "https://bgm.tv/character/18140",
+        "categorie": "person"
+      },
+      {
+        "id": "18141",
+        "label": "艾米",
+        "info": "ガルガンティアでメッセンジャーをしている少女。好奇心旺盛で行動的、いつも元気な笑顔を絶やさない。人工冬眠から目覚めたレドと思わぬ出会いをはたしたのち、積極的に興味を持ち、ガルガンティアの案内役を買って出る。弟ベベルを大切に思っている。15才",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/aa/18141_crt_66rdY.jpg",
+        "link": "https://bgm.tv/character/18141",
+        "categorie": "person"
+      },
+      {
+        "id": "25181",
+        "label": "莉玛",
+        "info": "クーゲルが支配していた船団からやってきた新米メッセンジャー。エイミーの後輩。13歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/79/25181_crt_9f09m.jpg",
+        "link": "https://bgm.tv/character/25181",
+        "categorie": "person"
+      },
+      {
+        "id": "18142",
+        "label": "纱雅",
+        "info": "エイミーと同じくメッセンジャーをしている。メルティとも仲良しでいつも三人で行動している。おっとりした性格だが、お金にはしっかり者の一面も見せる。グラマラスなスタイルは男女みんなの憧れ。15才",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/d5/18142_crt_h1dg4.jpg?r=1461726704",
+        "link": "https://bgm.tv/character/18142",
+        "categorie": "person"
+      },
+      {
+        "id": "18143",
+        "label": "梅露蒂",
+        "info": "エイミーやサーヤと同じくメッセンジャー。ふたりより年下で、幼く見えることもあって背伸びをしたい年頃。イケメン大好きで恋話にも敏感だが、恋愛経験はないらしい。いたずらっ子っぽい表情が特徴。14才",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/25/18143_crt_8q1g8.jpg?r=1461726824",
+        "link": "https://bgm.tv/character/18143",
+        "categorie": "person"
+      },
+      {
+        "id": "18144",
+        "label": "贝洛兹",
+        "info": "海中から旧文明の資材を引き上げるサルベージ業を営む。海底に沈んでいたレドとチェインバーを発見、回収した。作業用機械・ユンボロの操縦に長ける。仕事に厳しい姉御肌で、仲間からの信頼もあつい。18才",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/e0/18144_crt_oMiaa.jpg?r=1461726945",
+        "link": "https://bgm.tv/character/18144",
+        "categorie": "person"
+      },
+      {
+        "id": "18145",
+        "label": "莉吉特",
+        "info": "ガルガンティア船団長・フェアロックの補佐を務める。まじめで冷静、合理的な考えの持ち主で責任感も強い。ただその分、きまじめで窮屈でもあり、敬遠する人間も少なからずいる。22才",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/05/18145_crt_Tpv2w.jpg?r=1461727097",
+        "link": "https://bgm.tv/character/18145",
+        "categorie": "person"
+      },
+      {
+        "id": "18146",
+        "label": "皮尼欧",
+        "info": "ガルガンティアで機械の修理・整備業を営んでいる青年。お調子者だが、整備の知識や腕前だけは確かで信頼されている。海底に眠るお宝を掘り当て、一攫千金を夢見ている。20才",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/e6/18146_crt_iYOdO.jpg?r=1461727214",
+        "link": "https://bgm.tv/character/18146",
+        "categorie": "person"
+      },
+      {
+        "id": "19505",
+        "label": "钱伯",
+        "info": "レドが搭乗するマシンキャリバー。パイロットと対話することでより優秀な兵士へと育成していくことを任務とする「パイロット支援啓発インターフェイスシステム」を搭載し、自律して行動できる。レドにとってかけがえのない存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/84/19505_crt_jtZuA.jpg?r=1374569101",
+        "link": "https://bgm.tv/character/19505",
+        "categorie": "person"
+      },
+      {
+        "id": "19760",
+        "label": "贝贝尔",
+        "info": "エイミーの弟。病弱のためベッドに横になっていることが多いが、利発で明るい少年。レドやチェインバーにも興味を持つ",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/4f/19760_crt_x4O92.jpg",
+        "link": "https://bgm.tv/character/19760",
+        "categorie": "person"
+      },
+      {
+        "id": "19761",
+        "label": "斐尔洛克",
+        "info": "ガルガンティア船団を率いる船団長。経験豊富で常に落ち着いている。船団の安全を最優先に考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/e3/19761_crt_lsH9n.jpg?r=1461727511",
+        "link": "https://bgm.tv/character/19761",
+        "categorie": "person"
+      },
+      {
+        "id": "19762",
+        "label": "乔",
+        "info": "船どうしの接続や切り離しを専門に行う連結屋の青年。仕事に厳しい職人気質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/de/19762_crt_jlJJJ.jpg?r=1461727591",
+        "link": "https://bgm.tv/character/19762",
+        "categorie": "person"
+      },
+      {
+        "id": "19763",
+        "label": "麦塔",
+        "info": "ピニオンの部下。大きなレンチを手に、熱心に仕事に取り組んでいる",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/2b/19763_crt_xBkkg.jpg",
+        "link": "https://bgm.tv/character/19763",
+        "categorie": "person"
+      },
+      {
+        "id": "19764",
+        "label": "佛朗吉",
+        "info": "ガルガンティア船団を構成する大船主の一人。フェアロックともに船団全体を指導する立場にいる",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/18/19764_crt_YjEqo.jpg",
+        "link": "https://bgm.tv/character/19764",
+        "categorie": "person"
+      },
+      {
+        "id": "19765",
+        "label": "克朗",
+        "info": "フランジに次ぐ大船主の一人で、ガルガンティア船団首脳を構成するメンバーの一人",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/0f/19765_crt_ft9Vf.jpg",
+        "link": "https://bgm.tv/character/19765",
+        "categorie": "person"
+      },
+      {
+        "id": "19766",
+        "label": "沃姆",
+        "info": "ガルガンティア船団を守る護衛船団の長。海賊などの襲撃に対して先頭に立って戦う",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/d4/19766_crt_L6ol2.jpg",
+        "link": "https://bgm.tv/character/19766",
+        "categorie": "person"
+      },
+      {
+        "id": "19767",
+        "label": "欧达姆",
+        "info": "ガルガンティアの老医師。ベベルの主治医を務めている。職業柄博識で、好奇心の旺盛なベベルにも影響を与える。温和な人柄で皆から慕われている",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/79/19767_crt_W2Q2r.jpg?r=1461727988",
+        "link": "https://bgm.tv/character/19767",
+        "categorie": "person"
+      },
+      {
+        "id": "19769",
+        "label": "拉凯奇",
+        "info": "生産手段を持つ船団を襲う海賊集団の一つを率いるリーダー。見る人を圧倒するような派手な衣装を身にまとい、自らも戦闘ユンボロを巧みにあやつる。戦闘指揮や統率力にも優れ、荒くれどもからも｢大海賊ラケージ｣の通り名で恐れられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/78/19769_crt_6bzF4.jpg?r=1461728200",
+        "link": "https://bgm.tv/character/19769",
+        "categorie": "person"
+      },
+      {
+        "id": "19770",
+        "label": "帕拉安",
+        "info": "ラケージの側にはべっている女奴隷。だがひとたび仕事となれば、戦闘服に身を包み戦いに参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/ab/19770_crt_3Jdj3.jpg",
+        "link": "https://bgm.tv/character/19770",
+        "categorie": "person"
+      },
+      {
+        "id": "19771",
+        "label": "帕莉奴莉",
+        "info": "普段は女奴隷だが、海賊仕事が始まると骨や羽で飾られた戦争服を着て、ラケージの側近として戦う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/72/19771_crt_d9sf1.jpg",
+        "link": "https://bgm.tv/character/19771",
+        "categorie": "person"
+      },
+      {
+        "id": "40975",
+        "label": "奥迪莉亚",
+        "info": "リナリアら四姉妹の二女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/17/40975_crt_ywWHs.jpg?r=1470661582",
+        "link": "https://bgm.tv/character/40975",
+        "categorie": "person"
+      },
+      {
+        "id": "40976",
+        "label": "库拉莉亚",
+        "info": "リナリアら四姉妹の三女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/44/40976_crt_3Bhd8.jpg?r=1470661547",
+        "link": "https://bgm.tv/character/40976",
+        "categorie": "person"
+      },
+      {
+        "id": "40983",
+        "label": "弗莱斯",
+        "info": "サーヤの兄。ガルガンティア船団で暮らし、一家の長男として家族を支える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/3f/40983_crt_OJhXh.jpg",
+        "link": "https://bgm.tv/character/40983",
+        "categorie": "person"
+      },
+      {
+        "id": "44178",
+        "label": "马兹尔",
+        "info": "大陆同盟（人类银河同盟军建立前）所制作的量产型兵器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/0d/44178_crt_U4zwj.jpg?r=1470657225",
+        "link": "https://bgm.tv/character/44178",
+        "categorie": "person"
+      },
+      {
+        "id": "19768",
+        "label": "欧达姆的助手",
+        "info": "オルダムの仕事を手伝っている少女。かつて大病した時に、オルダムに救われた。以降、オルダムの身の回りの世話をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/0f/19768_crt_s8EPp.jpg?r=1461730996",
+        "link": "https://bgm.tv/character/19768",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

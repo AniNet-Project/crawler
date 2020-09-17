@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10779",
+        "label": "岳画杀",
+        "info": "悪司の叔母(山本一発の娘)で本作における重要キャラの一人(死亡、捕縛、解雇などでいなくなるとゲームオーバーになる)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/16/10779_crt_058Pu.jpg",
+        "link": "https://bgm.tv/character/10779",
+        "categorie": "person"
+      },
+      {
+        "id": "10777",
+        "label": "山本恶司",
+        "info": "本作の主人公でわかめ組の先代組長である山本百発の嫡子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/d6/10777_crt_y3Oza.jpg",
+        "link": "https://bgm.tv/character/10777",
+        "categorie": "person"
+      },
+      {
+        "id": "79234",
+        "label": "洋葱老师",
+        "info": "调教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e9/79234_crt_TCeH4.jpg",
+        "link": "https://bgm.tv/character/79234",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

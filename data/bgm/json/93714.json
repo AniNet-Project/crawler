@@ -1,0 +1,293 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23732",
+        "label": "金木研",
+        "info": "本作第一部の主人公である青年。12月20日生まれのいて座。血液型AB型。愛称は「カネキ」。上井大学文学部国文科一年生で、20区内のマンションで一人暮らしをしていた。喰種のリゼに捕食されかけ瀕死になるものの、リゼの頭上より鉄骨が落下してきたことにより九死に一生を得る。搬送された病院でリゼの臓器を移植されて生き延びるが、その代償で半喰種となり、喰種の世界に関わることになる。喰種化したことで苦悩していたが、あんていくの店長である芳村に救われ、区内に暮らす喰種の集まる場所でもある同店で働くこととなる。そこで人間と喰種双方の苦悩に触れながら自ら生き方を模索するが、アオギリの樹からの拉致とヤモリの拷問を契機に、忌避していた喰種の本質を受け入れ、大切な人々を守るために戦う道を選ぶ。元来の性格は内向的かつ温厚で、亡き母の影響で自己犠牲を尊ぶ受け身な考え方を持っていたが、アオギリの騒乱による一連の事件を経て敵対者に容赦しない冷徹かつ攻撃的な一面を持つに至った。また、ヤモリの執拗な拷問が彼の思考や人格にパラダイムシフトをもたらしたためか、ヤモリの人格と癖を模倣し強い喰種を喰らうようになった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/14/23732_crt_NnhvK.jpg?r=1442682036",
+        "link": "https://bgm.tv/character/23732",
+        "categorie": "person"
+      },
+      {
+        "id": "25201",
+        "label": "雾岛董香",
+        "info": "本作のヒロイン。清巳高等学校普通科二年生。7月1日生まれのかに座。血液型O型。羽赫。愛称は「トーカ」。右眼を前髪で隠している。あんていくでアルバイトをしており、カネキの先輩店員にあたる。ウサギのマスコットを好み、マスクもそれに合わせていることから、CCGからは「ラビット」の呼称が付けられている。親友である依子の手料理を度々口にしているため戦闘能力を十全に発揮できず、赫子を片方の肩からしか出せない。普段はか弱い者にも気遣いを忘れない心優しさを見せるが、感情的になると激情に駆られ、敵対した人間を躊躇なく殺すなど凶暴な一面を持っている。カネキはこの極端な生命観を喰種としての生き方から来ていると考えている。平穏な暮らしを営める人間を羨んでおり、元が人間であるカネキに対しては複雑な感情を抱いているが、彼の優しさに惹かれている。既に両親はおらず、弟のアヤトと同居していたが音信不通となり、後に敵対関係となる。家族を失ったヒナミを引き取って同居していたが、アオギリの騒乱の後に彼女はカネキについていくことを選んだため、元の一人暮らしに戻った。その後カネキの通っていた上井大学の理学部を目指して受験勉強をしていた。カネキが芳村に面会した際に再会、カネキを激しく叱咤し、そのことが彼が６区での組織を解散を決意する切掛になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/db/25201_crt_bw8XM.jpg?r=1442684155",
+        "link": "https://bgm.tv/character/25201",
+        "categorie": "person"
+      },
+      {
+        "id": "25666",
+        "label": "永近英良",
+        "info": "カネキの親友。上井大学に通う男子学生。愛称は「ヒデ」。カネキが人間としての感情を持つ中で柱となっている人物。カネキとは正反対に活発な性格で、友好関係が幅広くなぜか周囲に喰種が多い。小学生時代にカネキに話しかけたのがきっかけで親友となる。あんていくの常連客で、トーカに興味を抱いている。陽気でおおざっぱな性格であるが他者の微かな機微に気付く鋭い洞察力を持ち、真戸の殉職の件もほぼ完全な推理で事件の本質に辿り着いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/e3/25666_crt_RZ5x5.jpg?r=1494813652",
+        "link": "https://bgm.tv/character/25666",
+        "categorie": "person"
+      },
+      {
+        "id": "25745",
+        "label": "神代利世",
+        "info": "欲望に忠実に振舞う『大喰い』 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/9d/25745_crt_xJkkf.jpg?r=1521563842",
+        "link": "https://bgm.tv/character/25745",
+        "categorie": "person"
+      },
+      {
+        "id": "25746",
+        "label": "西尾锦",
+        "info": "ヒトに裏切られた過去を持つ“喰種” ",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/8b/25746_crt_57a2E.jpg?r=1442682729",
+        "link": "https://bgm.tv/character/25746",
+        "categorie": "person"
+      },
+      {
+        "id": "25747",
+        "label": "芳村功善",
+        "info": "助け合いの精神を持つ「あんていく」の店主 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/d5/25747_crt_FhbBQ.jpg",
+        "link": "https://bgm.tv/character/25747",
+        "categorie": "person"
+      },
+      {
+        "id": "25748",
+        "label": "亚门钢太朗",
+        "info": "己の正義を信じ“喰種”討伐に燃える〔ＣＣＧ〕のホープ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/3e/25748_crt_4pa9d.jpg?r=1424201560",
+        "link": "https://bgm.tv/character/25748",
+        "categorie": "person"
+      },
+      {
+        "id": "26109",
+        "label": "月山习",
+        "info": "己の食に酔いしれる美食家（グルメ） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/16/26109_crt_xcynj.jpg",
+        "link": "https://bgm.tv/character/26109",
+        "categorie": "person"
+      },
+      {
+        "id": "26115",
+        "label": "呗",
+        "info": "新宿にて「HySy ArtMask Studio」という店を営んでいるマスク職人の男性。マイペースな性格で、ピアスとタトゥーの出で立ちが特徴的なパンク・ファッションで装い、攻撃的な外見とは裏腹に対応は穏やかである。常に赫眼状態のため外出時はサングラスを着用している。かつては4区に集う喰種のリーダー格で、ヨモと敵対していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/48/26115_crt_MDYC4.jpg?r=1456322207",
+        "link": "https://bgm.tv/character/26115",
+        "categorie": "person"
+      },
+      {
+        "id": "26116",
+        "label": "四方莲示",
+        "info": "男性。赫子は不明。店長の右腕的な人物。店の業務に関わることはなく、情報収集や自殺者の遺体集めといった実務を担当している。寡黙で無愛想だが誠実な人柄で、周囲からの信頼も厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/b8/26116_crt_iLXp8.jpg?r=1421816026",
+        "link": "https://bgm.tv/character/26116",
+        "categorie": "person"
+      },
+      {
+        "id": "26125",
+        "label": "笛口雏实",
+        "info": "復讐よりも『家族』を望む孤独な少女 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/1d/26125_crt_rrrg4.jpg?r=1442682317",
+        "link": "https://bgm.tv/character/26125",
+        "categorie": "person"
+      },
+      {
+        "id": "27053",
+        "label": "有马贵将",
+        "info": "在新人时期因击退枭而成为局内的风云人物，能够将昆克运用自如的天才，曾经将四方莲示姊姊杀害，在漫画139话时将金木研打至濒死",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2c/27053_crt_3F4un.jpg?r=1421816008",
+        "link": "https://bgm.tv/character/27053",
+        "categorie": "person"
+      },
+      {
+        "id": "27054",
+        "label": "雾岛绚都",
+        "info": "通称：绚都",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/80/27054_crt_54Wih.jpg?r=1456323653",
+        "link": "https://bgm.tv/character/27054",
+        "categorie": "person"
+      },
+      {
+        "id": "27055",
+        "label": "铃屋什造",
+        "info": "6月8日生日，雙子座。AB型。160公分／47公斤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/3c/27055_crt_lBx21.jpg?r=1442684299",
+        "link": "https://bgm.tv/character/27055",
+        "categorie": "person"
+      },
+      {
+        "id": "30945",
+        "label": "和修吉时",
+        "info": "本局局長。総議長の息子。丸手と親交がある。式典で亜門やジューゾーに昇任の辞令書を手渡した。梟討伐作戦では作戦総指揮を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/ad/30945_crt_c1khc.jpg",
+        "link": "https://bgm.tv/character/30945",
+        "categorie": "person"
+      },
+      {
+        "id": "30947",
+        "label": "妮可",
+        "info": "同性愛者の男性（オカマ）。11月2日生まれのさそり座。血液型A型。嗅覚や聴覚が鋭く、きわめて高い再生力を有している。ヤモリに惹かれて一時的にアオギリの樹に参加していた。残忍な性格で、ヤモリの生き方を「クール」だと絶賛しているが、子供殺しを強く諫め、死体を弔うなど母性的な一面を持つ。イトリのことを旧友と呼んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/8c/30947_crt_HCd48.jpg?r=1456323279",
+        "link": "https://bgm.tv/character/30947",
+        "categorie": "person"
+      },
+      {
+        "id": "30948",
+        "label": "系璃",
+        "info": "14区で「Helter Skelter」というバーを営んでいる若い女性。ヨモやウタとは古くからの知人。くだけた性格であり巨乳の持ち主。情報網が広く、喰種の裏情報に通じている。鉄骨事故の情報に興味を持つカネキと情報提供の交換条件として喰種のレストランの調査を依頼した。その後もカネキに情報提供の協力を行っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c0/30948_crt_c477M.jpg?r=1456323077",
+        "link": "https://bgm.tv/character/30948",
+        "categorie": "person"
+      },
+      {
+        "id": "30950",
+        "label": "大守八云",
+        "info": "アオギリの幹部。3月15日生まれのうお座。血液型O型。鱗赫の半赫者。本名は「大守 八雲（おおもり やくも）」。拷問が趣味で「食」より「遊」で殺しをするサディスト。極めて高い格闘センスを持ち、愛用のホッケーマスクと出身地の13区からCCGより「ジェイソン」の呼称で警戒されている。手の人差し指を曲げ、親指で押して鳴らす癖がある。過去に母親を亡くしたことと、喰種収容所で受けた残虐な拷問によって今の人格になったと述懐している。カネキに執拗な拷問を行うが、覚醒したカネキの反撃に遭い瀕死の重傷を負う結果となり、直後に遭遇したジューゾーを捕食しようとしたが返り討ちにあい死亡し、彼のクインケにされた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/fd/30950_crt_JPG4k.jpg?r=1456323347",
+        "link": "https://bgm.tv/character/30950",
+        "categorie": "person"
+      },
+      {
+        "id": "30956",
+        "label": "古间圆儿",
+        "info": "あんていくの男性従業員。尾赫。気さくな性格で、コーヒーを淹れ方では定評を持つ。事あるごとに「魔猿」の二つ名をひけらかしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/72/30956_crt_l3CqC.jpg?r=1456331436",
+        "link": "https://bgm.tv/character/30956",
+        "categorie": "person"
+      },
+      {
+        "id": "30957",
+        "label": "入见佳耶",
+        "info": "あんていくの女性従業員。羽赫。優れた探索能力を備えており、遠隔地の建物内の様子も足音や律動、内部の反響などを聞き分けて様子を窺い知る力をもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/00/30957_crt_kD0D7.jpg?r=1456331372",
+        "link": "https://bgm.tv/character/30957",
+        "categorie": "person"
+      },
+      {
+        "id": "31457",
+        "label": "真户吴绪",
+        "info": "20区担当の男性捜査官。1月24日生まれのみずがめ座。血液型A型。亜門のパートナー。不気味な雰囲気を漂わす中年男性で、常に手袋をはめている。喰種の駆逐を使命とし、妻の仇である隻眼の喰種への復讐を目指していた。少々風変りではあるものの礼儀正しく、部下への気遣いと思いやりや、家族への愛情も深い人物。しかし、喰種が相手になると右目は丸く開かれ、左目は半眼になり、心身へ苦痛を与えるサディストに変貌する。クインケの収集に執着しており、職場内でも変わり者と見られていた。カネキを喰種として目を付け検査ゲートに連れ込むなど非常に勘が鋭く、「捜査で最終的に頼れるのは自身の勘」を信条としている。亜門に捜査官としての基礎を教えた人物でもあり、プロ意識も高い。笛口家全員をクインケにすべくヒナミを追いかけるがヒナミの赫子による反撃に遭い、トーカに止めを刺されて殉職した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/dd/31457_crt_RqSBQ.jpg?r=1427905298",
+        "link": "https://bgm.tv/character/31457",
+        "categorie": "person"
+      },
+      {
+        "id": "39155",
+        "label": "宗太",
+        "info": "喰種のレストランの会員で「PG」と呼ばれる男性。月山とも面識があり、亜美を食材として太らせレストランの解体ショーに誘い込んだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/54/39155_crt_F2w14.jpg",
+        "link": "https://bgm.tv/character/39155",
+        "categorie": "person"
+      },
+      {
+        "id": "39341",
+        "label": "多多良",
+        "info": "青桐树的高级干部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1a/39341_crt_HCCo0.jpg?r=1457484636",
+        "link": "https://bgm.tv/character/39341",
+        "categorie": "person"
+      },
+      {
+        "id": "39342",
+        "label": "筱原幸纪",
+        "info": "20区对策I课搜查指挥官，铃屋什造的搭档。曾担任亚门钢太朗大学时代的教官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/2b/39342_crt_maaxx.jpg?r=1457486130",
+        "link": "https://bgm.tv/character/39342",
+        "categorie": "person"
+      },
+      {
+        "id": "47754",
+        "label": "丸手斋",
+        "info": "対策Ⅱ課所属の男性捜査官。和修 吉時と親交がある。嫌味な性格で、自慢するために職場へハーレーで乗り付けたり、他者を見下す発言や陰口を繰り返すため、局員たちからの印象はあまりよくない。クインケを「オモチャ」と称し嫌っているが、喰種にアサルトライフルで正確な射撃を行うなど戦士としての実力は確かである模様。アオギリの11区襲撃事件に対処する11区特別対策班の指揮官を務めるが、23区の喰種収容所の襲撃を予測できなかった。梟討伐作戦では副指揮を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/4e/47754_crt_ho3hZ.jpg?r=1483521469",
+        "link": "https://bgm.tv/character/47754",
+        "categorie": "person"
+      },
+      {
+        "id": "62408",
+        "label": "笛口凉子",
+        "info": "笛口雏实的母亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/06/62408_crt_6CIKD.jpg",
+        "link": "https://bgm.tv/character/62408",
+        "categorie": "person"
+      },
+      {
+        "id": "62410",
+        "label": "草场一平",
+        "info": "20区所属的三等搜查官，和中岛是搭档",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/62/62410_crt_Ll012.jpg",
+        "link": "https://bgm.tv/character/62410",
+        "categorie": "person"
+      },
+      {
+        "id": "62411",
+        "label": "中岛康智",
+        "info": "20区所属的搜查官，原先和草场是搭档，后来和亚门成为搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/40/62411_crt_c34mp.jpg",
+        "link": "https://bgm.tv/character/62411",
+        "categorie": "person"
+      },
+      {
+        "id": "62414",
+        "label": "西野贵未",
+        "info": "西尾锦的女友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/6f/62414_crt_Zl1b1.jpg",
+        "link": "https://bgm.tv/character/62414",
+        "categorie": "person"
+      },
+      {
+        "id": "62415",
+        "label": "小坂依子",
+        "info": "董香的好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/23/62415_crt_n2Bb6.jpg",
+        "link": "https://bgm.tv/character/62415",
+        "categorie": "person"
+      },
+      {
+        "id": "62418",
+        "label": "万丈数一",
+        "info": "かつてのリゼを知る11区の元リーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/be/62418_crt_Wnw4g.jpg",
+        "link": "https://bgm.tv/character/62418",
+        "categorie": "person"
+      },
+      {
+        "id": "28583",
+        "label": "芳村爱支",
+        "info": "全身に包帯を巻いた外見をしている少女。羽赫の赫者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/48/28583_crt_66h6Q.jpg?r=1456323954",
+        "link": "https://bgm.tv/character/28583",
+        "categorie": "person"
+      },
+      {
+        "id": "62409",
+        "label": "笛口朝木",
+        "info": "笛口雏实的父亲，被真户吴绪杀害并制成武器",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/aa/62409_crt_D1XEo.jpg",
+        "link": "https://bgm.tv/character/62409",
+        "categorie": "person"
+      },
+      {
+        "id": "62416",
+        "label": "锦的姐姐",
+        "info": "西尾锦的姐姐，被打工处的店长举报后被白鸽重伤后死亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/57/62416_crt_xxZ9A.jpg?r=1522889177",
+        "link": "https://bgm.tv/character/62416",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

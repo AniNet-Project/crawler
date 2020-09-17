@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12318",
+        "label": "哈姆太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/fe/12318_crt_fH1JC.jpg",
+        "link": "https://bgm.tv/character/12318",
+        "categorie": "person"
+      },
+      {
+        "id": "17846",
+        "label": "肴肴",
+        "info": "由岩田佳饲养。5月3日出生，身高10厘米。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/2b/17846_crt_abz7G.jpg",
+        "link": "https://bgm.tv/character/17846",
+        "categorie": "person"
+      },
+      {
+        "id": "17847",
+        "label": "大将",
+        "info": "无人饲养。9月21日出生，身高12厘米。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/37/17847_crt_Ju6mE.jpg",
+        "link": "https://bgm.tv/character/17847",
+        "categorie": "person"
+      },
+      {
+        "id": "17845",
+        "label": "丝丝",
+        "info": "丝丝(丽丽)是一只漂亮又爱干净的小黄金鼠，它是来自法国的小公主，哈姆好友们十分喜欢它。尤其是大将，更是偷偷在爱慕它哦！对哈姆有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/9e/17845_crt_vxcdh.jpg",
+        "link": "https://bgm.tv/character/17845",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

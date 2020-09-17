@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73835",
+        "label": "木之下和也",
+        "info": "就读于练马大学经营学专业。因被前女友甩掉而伤心时，遇见了“租借女友”中“理想的女朋友”水原千鹤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/56/73835_crt_aTI7h.jpg",
+        "link": "https://bgm.tv/character/73835",
+        "categorie": "person"
+      },
+      {
+        "id": "73191",
+        "label": "一之濑千鹤",
+        "info": "水原千鹤是由宫岛礼吏创作的漫画《女朋友，借我一下》及其衍生作品的登场角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/b6/73191_crt_aR1a7.jpg?r=1597827317",
+        "link": "https://bgm.tv/character/73191",
+        "categorie": "person"
+      },
+      {
+        "id": "73836",
+        "label": "七海麻美",
+        "info": "就读于练马大学。和也的初恋女友、前女友。与和也分手后一直对他重复着谜一样的贬低。与悠闲软萌的外表相反，也有着腹黑的一面……",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/35/73836_crt_MH774.jpg?r=1597177183",
+        "link": "https://bgm.tv/character/73836",
+        "categorie": "person"
+      },
+      {
+        "id": "73837",
+        "label": "更科瑠夏",
+        "info": "从事租借女友工作。知道和也与水原的“租借关系”。通过强迫，成为了和也的（假）女朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/36/73837_crt_FcRfM.jpg?r=1576841138",
+        "link": "https://bgm.tv/character/73837",
+        "categorie": "person"
+      },
+      {
+        "id": "73838",
+        "label": "樱泽墨",
+        "info": "水原就职的租借女友事务所后辈。大学一年级学生。由于极度的认生，为了适应工作让和也租借了她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/93/73838_crt_sWwGy.jpg",
+        "link": "https://bgm.tv/character/73838",
+        "categorie": "person"
+      },
+      {
+        "id": "81377",
+        "label": "木部芳秋",
+        "info": "（这么好的兄弟不给建个条目吗？）",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/ec/81377_crt_hvVvh.jpg?r=1599283931",
+        "link": "https://bgm.tv/character/81377",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

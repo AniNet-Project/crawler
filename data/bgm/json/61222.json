@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16062",
+        "label": "高千穗千穗",
+        "info": "2年1組の学級委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/d8/16062_crt_P6ziP.jpg",
+        "link": "https://bgm.tv/character/16062",
+        "categorie": "person"
+      },
+      {
+        "id": "16063",
+        "label": "浩史君",
+        "info": "ガッ活はかったるくて大嫌いである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/4f/16063_crt_95Ka1.jpg",
+        "link": "https://bgm.tv/character/16063",
+        "categorie": "person"
+      },
+      {
+        "id": "16064",
+        "label": "黑田君",
+        "info": "クラスきっての秀才。知識が豊富で",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/49/16064_crt_vcmr0.jpg",
+        "link": "https://bgm.tv/character/16064",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

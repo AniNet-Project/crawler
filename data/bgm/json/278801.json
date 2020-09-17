@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72051",
+        "label": "石川啄木",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/60/72051_crt_mFBDd.jpg?r=1581069174",
+        "link": "https://bgm.tv/character/72051",
+        "categorie": "person"
+      },
+      {
+        "id": "72052",
+        "label": "金田一京助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/d2/72052_crt_m64II.jpg?r=1581069264",
+        "link": "https://bgm.tv/character/72052",
+        "categorie": "person"
+      },
+      {
+        "id": "75152",
+        "label": "野村胡堂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/91/75152_crt_s55h1.jpg?r=1581069401",
+        "link": "https://bgm.tv/character/75152",
+        "categorie": "person"
+      },
+      {
+        "id": "75153",
+        "label": "平井太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/e9/75153_crt_Y18XX.jpg?r=1581070752",
+        "link": "https://bgm.tv/character/75153",
+        "categorie": "person"
+      },
+      {
+        "id": "75154",
+        "label": "吉井勇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/9f/75154_crt_GKeYR.jpg?r=1581070882",
+        "link": "https://bgm.tv/character/75154",
+        "categorie": "person"
+      },
+      {
+        "id": "75155",
+        "label": "萩原朔太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/a0/75155_crt_20fRE.jpg?r=1581071013",
+        "link": "https://bgm.tv/character/75155",
+        "categorie": "person"
+      },
+      {
+        "id": "75156",
+        "label": "芥川龙之介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/f8/75156_crt_70Zp7.jpg?r=1581071207",
+        "link": "https://bgm.tv/character/75156",
+        "categorie": "person"
+      },
+      {
+        "id": "75157",
+        "label": "若山牧水",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/da/75157_crt_LDRvi.jpg?r=1581071573",
+        "link": "https://bgm.tv/character/75157",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

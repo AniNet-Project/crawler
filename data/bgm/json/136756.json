@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14486",
+        "label": "麦当",
+        "info": "红魔鬼麦林的儿子，因为年幼时父亲离家前与他的约定，而坚持要前去彩虹海寻找父亲。单细胞的固执性格，天生强烈的正义感使他总是主动揽下各",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/2e/14486_crt_U8Q03.jpg",
+        "link": "https://bgm.tv/character/14486",
+        "categorie": "person"
+      },
+      {
+        "id": "14488",
+        "label": "咕咚萌西",
+        "info": "“国王号”的船长，亚亚罗星球的国王。外表可爱，自大、胆小。他的祖先是勇敢捍卫了亚亚罗星球的国王，是人民心中的英雄，受人民敬仰。由于父母在保",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/71/14488_crt_n88wB.jpg",
+        "link": "https://bgm.tv/character/14488",
+        "categorie": "person"
+      },
+      {
+        "id": "14487",
+        "label": "笛亚",
+        "info": "著名星学家的孙女，星学会唯一的幸存者，守护着银河眼费尽心机寻找的神秘装置——“黄金魔方”。总是带着微笑的笛亚有一段伤",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/be/14487_crt_aGZpD.jpg",
+        "link": "https://bgm.tv/character/14487",
+        "categorie": "person"
+      },
+      {
+        "id": "14489",
+        "label": "红眼",
+        "info": "银河眼最强的五个经理人——五色眼之一。不断追击麦当，立场不明，亦正亦邪的角色。能力名称：影子契约，具有操纵影子作战的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/1f/14489_crt_j7Kus.jpg",
+        "link": "https://bgm.tv/character/14489",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

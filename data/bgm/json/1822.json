@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6274",
+        "label": "中町加奈",
+        "info": "身寄りをなくし、風新新聞専売所に住み込みで働くことになった中学一年生。素直でマジメな頑張り屋さんだが、かなりの天然。年齢の割に子供っぽい。それゆえ個性の強い風新新聞専売所のメンバーに振り回されることも。料理は得意。相撲と時代劇が好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/35/6274_crt_anidb.jpg?r=1550261482",
+        "link": "https://bgm.tv/character/6274",
+        "categorie": "person"
+      },
+      {
+        "id": "34531",
+        "label": "天野咲妃",
+        "info": "風新新聞専売所の所長代理。小学生でありながら、すでにシビアな目で世間を見ているリアリスト。だが、時に小学生らしい一面を見せる事も稀にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/85/34531_crt_s6Xh3.jpg?r=1550261538",
+        "link": "https://bgm.tv/character/34531",
+        "categorie": "person"
+      },
+      {
+        "id": "6275",
+        "label": "北冈优芽",
+        "info": "明るくパワフルな風新新聞専売所のムードメーカー。無邪気で、世間知らずなところがある。激甘党という驚異の舌を活かし（？）、パティシエを目指している。動物と甘いもの、そして何よりゆうきが大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/c4/6275_crt_anidb.jpg?r=1550261567",
+        "link": "https://bgm.tv/character/6275",
+        "categorie": "person"
+      },
+      {
+        "id": "27135",
+        "label": "南优希",
+        "info": "いわゆるクールビューティでスタイル抜群。普段は感情の起伏が乏しいが、ユメ限定で独占欲、嫉妬心が強い。『一見冷静だが、ゆめのこととなると鬼っ娘。』[2]。髪型は前髪を切りそろえた一本結び。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/08/27135_crt_InW1p.jpg?r=1412368065",
+        "link": "https://bgm.tv/character/27135",
+        "categorie": "person"
+      },
+      {
+        "id": "6276",
+        "label": "东日向",
+        "info": "趣味は貯金という、根っからのお金好き。色々なバイトを経験しており、意外な特技を見せることもある。ケチでがめついところはあるものの常識人で、ツッコミ役に回ることが多い。一人称は「僕」。ちなみに二浪中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ae/6276_crt_anidb.jpg?r=1550261617",
+        "link": "https://bgm.tv/character/6276",
+        "categorie": "person"
+      },
+      {
+        "id": "34532",
+        "label": "西田遥",
+        "info": "風新新聞専売所の最年長。7才～15才の女の子とお酒をこよなく愛するダメ人間で、かなや咲妃にセクハラしたり、イケナイ妄想をしてばかりいる。とはいえ仕事は出来、大人の包容力を見せるなど意外な側面を見せることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/7c/34532_crt_oOKa2.jpg?r=1550261596",
+        "link": "https://bgm.tv/character/34532",
+        "categorie": "person"
+      },
+      {
+        "id": "6277",
+        "label": "久地院美华",
+        "info": "かなのクラスメイトで、ワケありの元お嬢様。風新新聞専売所のライバル店花日新聞で働いている。物言いは偉そうだが、かな以上に世間知らずで子供っぽく、すぐムキになるため、よくかなにからかわれている。実は寂しがりやで、優しくされると嬉しいが素直になれず、気持ちとは裏腹の態度をとってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/f4/6277_crt_anidb.jpg?r=1550261643",
+        "link": "https://bgm.tv/character/6277",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

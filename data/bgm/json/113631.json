@@ -1,0 +1,357 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28710",
+        "label": "天城茉莉音",
+        "info": "他の誰も歌えない癒しの歌『奇跡の歌』を歌う天才アイドル。9体のエレメントと共振して実体化されるトイズを持っていたが、何者かによってエレメントとの絆が失われ歌が歌えなくなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/64/28710_crt_MB3dp.jpg?r=1420325005",
+        "link": "https://bgm.tv/character/28710",
+        "categorie": "person"
+      },
+      {
+        "id": "14573",
+        "label": "夏洛克·雪莉福德",
+        "info": "ゲーム版のヒロイン。アニメ版のメイン主人公。ホームズ探偵学院の生徒であり、ミルキィホームズのメンバー。通称は「シャロ」。ミルキィホームズの名付け親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/f7/14573_crt_fA446.jpg",
+        "link": "https://bgm.tv/character/14573",
+        "categorie": "person"
+      },
+      {
+        "id": "14574",
+        "label": "柯蒂莉娅·歌萝卡",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバーで、4人のなかでは最年長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/1d/14574_crt_OZvc5.jpg",
+        "link": "https://bgm.tv/character/14574",
+        "categorie": "person"
+      },
+      {
+        "id": "14575",
+        "label": "艾露克露·伯顿",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバー。通称は「エリー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/70/14575_crt_CMCXP.jpg",
+        "link": "https://bgm.tv/character/14575",
+        "categorie": "person"
+      },
+      {
+        "id": "14576",
+        "label": "让崎妮洛",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバー。ショートカットでボーイッシュな容姿をしており、一人称はボク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/da/14576_crt_IIp0W.jpg",
+        "link": "https://bgm.tv/character/14576",
+        "categorie": "person"
+      },
+      {
+        "id": "14577",
+        "label": "明智小衣",
+        "info": "G4的领导。跳级完成大学学业的超天才。头发颜色是黄色，瞳孔为蓝色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/98/14577_crt_hnO4U.jpg?r=1418083084",
+        "link": "https://bgm.tv/character/14577",
+        "categorie": "person"
+      },
+      {
+        "id": "28367",
+        "label": "常盘和美",
+        "info": "『ふたりはミルキィホームズ』の主人公の1人。12歳。短髪の黒髪が特徴。ホームズ探偵事務学園の指揮クラスに通う中等部1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/ae/28367_crt_ytbEy.jpg?r=1418778732",
+        "link": "https://bgm.tv/character/28367",
+        "categorie": "person"
+      },
+      {
+        "id": "28368",
+        "label": "明神川亚梨子",
+        "info": "『ふたりはミルキィホームズ』の主人公の1人。12歳。長髪の銀髪が特徴。ホームズ探偵事務学園とは違う探偵学園に通う1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/62/28368_crt_9UPvK.jpg?r=1418779015",
+        "link": "https://bgm.tv/character/28368",
+        "categorie": "person"
+      },
+      {
+        "id": "29341",
+        "label": "法条美树",
+        "info": "茉莉音同事务所偶像团体BKT10000中所属的女孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/d2/29341_crt_H38Z3.jpg?r=1422256559",
+        "link": "https://bgm.tv/character/29341",
+        "categorie": "person"
+      },
+      {
+        "id": "29342",
+        "label": "制片人",
+        "info": "茉莉音的制片人",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/eb/29342_crt_fHEkf.jpg?r=1422258148",
+        "link": "https://bgm.tv/character/29342",
+        "categorie": "person"
+      },
+      {
+        "id": "33692",
+        "label": "经理人",
+        "info": "茉莉音のマネージャーで、黄緑色の髪をした女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/f5/33692_crt_gljgL.jpg?r=1435671180",
+        "link": "https://bgm.tv/character/33692",
+        "categorie": "person"
+      },
+      {
+        "id": "33694",
+        "label": "千田元子",
+        "info": "茶髪をした少女で、「BKT10000」のセンターを務めているアイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/e1/33694_crt_453f2.jpg?r=1435673081",
+        "link": "https://bgm.tv/character/33694",
+        "categorie": "person"
+      },
+      {
+        "id": "33696",
+        "label": "ガノターラ国王子",
+        "info": "カレー好きのガノターラの王子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/f1/33696_crt_rIlQ7.jpg?r=1435673373",
+        "link": "https://bgm.tv/character/33696",
+        "categorie": "person"
+      },
+      {
+        "id": "33697",
+        "label": "絹宮サキコ",
+        "info": "ある洋館にいた一発屋芸能人好きの女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/59/33697_crt_mVfV7.jpg?r=1435673609",
+        "link": "https://bgm.tv/character/33697",
+        "categorie": "person"
+      },
+      {
+        "id": "33698",
+        "label": "おりしも政子",
+        "info": "サキコランド一発屋水泳大会の司会者とアシスタント。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/b7/33698_crt_Bo3f3.jpg?r=1435673811",
+        "link": "https://bgm.tv/character/33698",
+        "categorie": "person"
+      },
+      {
+        "id": "33699",
+        "label": "ヤス橋セツ子",
+        "info": "サキコランド一発屋水泳大会の司会者とアシスタント。政子は何の一発屋であるかはサキコ以外知らず、セツ子はヤス橋名人と言われた元ゲーマー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/c9/33699_crt_rttT8.jpg?r=1435674006",
+        "link": "https://bgm.tv/character/33699",
+        "categorie": "person"
+      },
+      {
+        "id": "33700",
+        "label": "キャロル・ドジソン",
+        "info": "映画『スパイ・ガール』出演のハリウッドスター。脅迫状が届いているが、リズミックに憑りつかれたことで大人になりたくないという思いが暴走した自作自演だった。実は茉莉音のファンで出演依頼も自身によるものだったが、暴走により映画出演を辞めさせようとした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/4a/33700_crt_49zg9.jpg?r=1435674203",
+        "link": "https://bgm.tv/character/33700",
+        "categorie": "person"
+      },
+      {
+        "id": "33701",
+        "label": "天空城ネリマ",
+        "info": "天城茉莉音のモノマネを動画投稿サイトにアップしている自称ファン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/dd/33701_crt_lp23Z.jpg?r=1435674448",
+        "link": "https://bgm.tv/character/33701",
+        "categorie": "person"
+      },
+      {
+        "id": "33702",
+        "label": "天馬博子",
+        "info": "吸血鬼ドラマに出演する、10年以上容姿が衰えることがない「永遠の37歳」と言われる大女優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/e5/33702_crt_3GDUz.jpg?r=1435674595",
+        "link": "https://bgm.tv/character/33702",
+        "categorie": "person"
+      },
+      {
+        "id": "33703",
+        "label": "下条マリ",
+        "info": "天馬博子の屋敷のメイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d9/33703_crt_HXwxX.jpg?r=1435674776",
+        "link": "https://bgm.tv/character/33703",
+        "categorie": "person"
+      },
+      {
+        "id": "33704",
+        "label": "オスカー・フランソワ・トワイライト伯爵",
+        "info": "ロンドン貴族の女主人でありトワイライト社のCEO。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/da/33704_crt_d4e6R.jpg?r=1435674952",
+        "link": "https://bgm.tv/character/33704",
+        "categorie": "person"
+      },
+      {
+        "id": "33705",
+        "label": "アンドリュー",
+        "info": "瓶底眼鏡の一見影の薄いオスカーの執事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/3d/33705_crt_2pSYK.jpg?r=1435675103",
+        "link": "https://bgm.tv/character/33705",
+        "categorie": "person"
+      },
+      {
+        "id": "33706",
+        "label": "アン・ガーディ",
+        "info": "突如空から降ってきた紫髪のアンドロイドのような少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/84/33706_crt_9NX2F.jpg?r=1435675634",
+        "link": "https://bgm.tv/character/33706",
+        "categorie": "person"
+      },
+      {
+        "id": "33707",
+        "label": "スカーレット・オハダ",
+        "info": "カジノ島を経営する『赤の女王』と呼ばれる女性経営者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/30/33707_crt_HHYIH.jpg?r=1435675933",
+        "link": "https://bgm.tv/character/33707",
+        "categorie": "person"
+      },
+      {
+        "id": "33708",
+        "label": "ノワール",
+        "info": "『黒のディーラー』を自称するカジノ島No.2のディーラーでスカーレットの娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/5e/33708_crt_t8Z5z.jpg?r=1435676217",
+        "link": "https://bgm.tv/character/33708",
+        "categorie": "person"
+      },
+      {
+        "id": "33710",
+        "label": "メロディア",
+        "info": "マネージャーさんに憑いたエレメント。元気がよく活発な性格で、よく他のエレメントを引っ張って遊んでいる。食べる事(特にお菓子)が大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/75/33710_crt_1QGhH.jpg?r=1435677453",
+        "link": "https://bgm.tv/character/33710",
+        "categorie": "person"
+      },
+      {
+        "id": "33711",
+        "label": "ハーモニー（白）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/ab/33711_crt_744w5.jpg?r=1435677550",
+        "link": "https://bgm.tv/character/33711",
+        "categorie": "person"
+      },
+      {
+        "id": "33712",
+        "label": "ハーモニー（黒）",
+        "info": "ガノターラ国王子に憑いたエレメント。常に白と一緒に行動してるが、離れて行動できないわけではない。ただ、二体にとっては一緒にいることが当たり前すぎて、離れて行動しようと思ったことは一度もない。黒の性格はちょっぴりおませ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/6e/33712_crt_F3j5j.jpg?r=1435677637",
+        "link": "https://bgm.tv/character/33712",
+        "categorie": "person"
+      },
+      {
+        "id": "33713",
+        "label": "シャウト",
+        "info": "絹宮サキコに憑いたエレメント。常にロックである事を追い求めるロックな性格だが、判断基準がわりとずれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/71/33713_crt_2JTn5.jpg?r=1435677739",
+        "link": "https://bgm.tv/character/33713",
+        "categorie": "person"
+      },
+      {
+        "id": "33714",
+        "label": "リズミック",
+        "info": "キャロル・ドジソンに憑いたエレメント。楽しいことが大好きで、よく他のエレメントにちょっとしたイタズラを仕掛けている。しっかりして性格でマイペースなエレメントたちの中でまとめ役になることが多いが、本人はその役回りを少し不満に思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/3c/33714_crt_oW08F.jpg?r=1435677834",
+        "link": "https://bgm.tv/character/33714",
+        "categorie": "person"
+      },
+      {
+        "id": "33715",
+        "label": "ダンシング",
+        "info": "天空城ネリマに憑いたエレメント。ボーイッシュな性格。その名の通り踊ることが大好きで飛べるにもかかわらず、好んでよく歩いたり走ったりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/ea/33715_crt_OT9ud.jpg?r=1435677918",
+        "link": "https://bgm.tv/character/33715",
+        "categorie": "person"
+      },
+      {
+        "id": "33716",
+        "label": "ポエミィ",
+        "info": "譲崎ネロに憑いたエレメント。俳句から、なぞかけやどどいつ等にいたるまで言葉を使った芸術や遊びが大好き。反面、普段は口数が少なく、多く語ることはあまりない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/fc/33716_crt_s68SP.jpg?r=1435678315",
+        "link": "https://bgm.tv/character/33716",
+        "categorie": "person"
+      },
+      {
+        "id": "33717",
+        "label": "デクレッシェンド",
+        "info": "ノワールに憑いたエレメント。ダウナー系な性格だが、自ら他者と関わろうとしないだけで、他者との関係を思ってるわけではない。クレッシェンドとは仲がいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/01/33717_crt_AsSSC.jpg?r=1435678425",
+        "link": "https://bgm.tv/character/33717",
+        "categorie": "person"
+      },
+      {
+        "id": "33718",
+        "label": "クレッシェンド",
+        "info": "スカーレット・オハダに憑いたエレメント。自信家。自らのことを「わらわ」と呼び、語尾に「ぞよ」とつけるなど、外見に反し古風な話し方をする。デクレッシェンドがお気に入りで、おとなしい彼女によく話しかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/6a/33718_crt_gSG6G.jpg?r=1435678544",
+        "link": "https://bgm.tv/character/33718",
+        "categorie": "person"
+      },
+      {
+        "id": "33719",
+        "label": "ノブレス",
+        "info": "オスカーのエレメントで、紅茶に込められたエネルギーを実体化する能力を持つ。高貴な性格で、騎士道精神を重んじている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/a4/33719_crt_Y7mBO.jpg?r=1435678685",
+        "link": "https://bgm.tv/character/33719",
+        "categorie": "person"
+      },
+      {
+        "id": "16892",
+        "label": "小林歌剧",
+        "info": "物語の主人公。かつては名探偵「小林少年」として、数々の難事件を解決してきたが、数年前怪盗「L」との対決の結果、探偵としての「資質」を失ってしまう。探偵であることをやめた小林は、しばらくの間表舞台から姿を消していたが、ある日探偵学院に呼び出され、「ミルキィホームズ」の担当官に指名される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/f5/16892_crt_ixoux.jpg",
+        "link": "https://bgm.tv/character/16892",
+        "categorie": "person"
+      },
+      {
+        "id": "14578",
+        "label": "亚森",
+        "info": "「怪盗帝国」のリーダーである女怪盗。仮面を着け、露出度の高い衣装に身を包んだ巨乳の美女。ハート型のブローチを身につけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/47/14578_crt_rAVJZ.jpg?r=1549555361",
+        "link": "https://bgm.tv/character/14578",
+        "categorie": "person"
+      },
+      {
+        "id": "14593",
+        "label": "钱形次子",
+        "info": "G4的成员。爽朗成熟，外形是个巨乳御姐。短发，头发颜色是绿色，瞳孔为紫色。特技是射击。不管是什么车，到她手里就能跑的很快。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f2/14593_crt_Fe9hh.jpg",
+        "link": "https://bgm.tv/character/14593",
+        "categorie": "person"
+      },
+      {
+        "id": "14594",
+        "label": "长谷川平乃",
+        "info": "G4成员之一。武道的天才。温柔恬静，外形是绝对的美少女。长卷发，头发颜色是灰黑色，外形高贵优雅，拿着一个魔杖。对于礼仪很在意，很容易开始说教。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/1c/14594_crt_rF4c2.jpg",
+        "link": "https://bgm.tv/character/14594",
+        "categorie": "person"
+      },
+      {
+        "id": "14595",
+        "label": "斯通利巴",
+        "info": "盗むことではなく、探偵と勝負することを目的とする、今までにも多くの探偵を返り討ちにしてきた武闘派の怪盗。怪盗としての実力を備えたアルセーヌのことを認め、従っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/e7/14595_crt_ZB7ZM.jpg?r=1427918889",
+        "link": "https://bgm.tv/character/14595",
+        "categorie": "person"
+      },
+      {
+        "id": "14596",
+        "label": "托艾特",
+        "info": "普段は甘いフェイスの変装の達人。幾重もの顔を持つ無貌の怪盗。機械を操ることに長け、多くのメカで怪盗帝国を支援する。プライドが高く、アルセーヌを敬愛しているが、自分こそがアルセーヌの一番の忠臣であると考えている。美しいものが大好きなナルシスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/20/14596_crt_Sn2N5.jpg?r=1418171152",
+        "link": "https://bgm.tv/character/14596",
+        "categorie": "person"
+      },
+      {
+        "id": "14597",
+        "label": "拉特",
+        "info": "火薬を使うことに長け、爆弾を用い、人々が恐れ、とまどうのを見て楽しむ愉快犯。口が悪く、子どものような無邪気さと残忍さをあわせもつ。人が困ることが大好きで、アルセーヌに従っている理由は、単に「面白そうだから」である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/ed/14597_crt_p2n2C.jpg?r=1418339996",
+        "link": "https://bgm.tv/character/14597",
+        "categorie": "person"
+      },
+      {
+        "id": "16893",
+        "label": "远山咲",
+        "info": "一見無気力そうに見えるオシャレにうるさい今時の娘だが、実際にはG4屈指の理論家。パソコンなどの電脳ツールを使いこなし、G4内で情報収集を担う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/3d/16893_crt_a0V5A.jpg?r=1427919162",
+        "link": "https://bgm.tv/character/16893",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

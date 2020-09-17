@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "64637",
+        "label": "加洛·提莫斯",
+        "info": "高机动救命消防队“烈焰救火队(Burning Rescue)”的新人队员，比队中的谁都要主张强烈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a1/64637_crt_6jGT6.jpg?r=1545312253",
+        "link": "https://bgm.tv/character/64637",
+        "categorie": "person"
+      },
+      {
+        "id": "69803",
+        "label": "里欧·弗提亚",
+        "info": "因突然变异而诞生的能够操纵火焰的人种“燃烧者”之中的有着攻击性的集团“疯狂燃烧者”的首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/48/69803_crt_jcBCj.jpg?r=1581686876",
+        "link": "https://bgm.tv/character/69803",
+        "categorie": "person"
+      },
+      {
+        "id": "71801",
+        "label": "西玛",
+        "info": "加洛在第一次参与的救火现场中救下的女孩子。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/71801",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

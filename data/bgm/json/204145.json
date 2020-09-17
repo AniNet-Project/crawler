@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55355",
+        "label": "樱之宫莓香",
+        "info": "抖S角色担当。16岁。性格认真且礼貌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/e5/55355_crt_HWDO8.jpg?r=1507729970",
+        "link": "https://bgm.tv/character/55355",
+        "categorie": "person"
+      },
+      {
+        "id": "55356",
+        "label": "日向夏帆",
+        "info": "傲娇角色担当。17岁。头发是金发双马尾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/f6/55356_crt_nCqo6.jpg?r=1508781775",
+        "link": "https://bgm.tv/character/55356",
+        "categorie": "person"
+      },
+      {
+        "id": "55357",
+        "label": "星川麻冬",
+        "info": "妹妹角色担当。头发是茶色的短发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/57/55357_crt_OylLG.jpg?r=1514279814",
+        "link": "https://bgm.tv/character/55357",
+        "categorie": "person"
+      },
+      {
+        "id": "57400",
+        "label": "天野美雨",
+        "info": "姐姐角色担当。漫画作家，是“花园文件”的社团的主催者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/c7/57400_crt_fRZIa.jpg?r=1507401566",
+        "link": "https://bgm.tv/character/57400",
+        "categorie": "person"
+      },
+      {
+        "id": "57401",
+        "label": "神崎日照",
+        "info": "伪娘偶像角色担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/f7/57401_crt_R52tn.jpg?r=1507401655",
+        "link": "https://bgm.tv/character/57401",
+        "categorie": "person"
+      },
+      {
+        "id": "57402",
+        "label": "迪诺",
+        "info": "店长兼厨房担当。意大利出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/4d/57402_crt_yZOos.jpg?r=1507400878",
+        "link": "https://bgm.tv/character/57402",
+        "categorie": "person"
+      },
+      {
+        "id": "57403",
+        "label": "秋月红叶",
+        "info": "厨房担当。发色是草色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/e6/57403_crt_Yhwya.jpg?r=1507401458",
+        "link": "https://bgm.tv/character/57403",
+        "categorie": "person"
+      },
+      {
+        "id": "59449",
+        "label": "掌柜",
+        "info": "大型犬和哈士奇的混种狗。名字是莓香以店长是它的食客而起名的。氛围和莓香很像，但是其实是雄的。是只莓香捡来带到店里的弃犬，因为莓香的哥哥和姐姐不擅长对狗，绕了一圈之后最后让迪诺去养了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/e9/59449_crt_UEsl1.jpg?r=1511810570",
+        "link": "https://bgm.tv/character/59449",
+        "categorie": "person"
+      },
+      {
+        "id": "66633",
+        "label": "樱之宫爱香",
+        "info": "樱之宫莓香的姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/c4/66633_crt_BzuxJ.jpg?r=1539166595",
+        "link": "https://bgm.tv/character/66633",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

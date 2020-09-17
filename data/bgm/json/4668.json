@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2162",
+        "label": "漩涡鸣人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/f5/2162_crt_u5Z59.jpg?r=1532380992",
+        "link": "https://bgm.tv/character/2162",
+        "categorie": "person"
+      },
+      {
+        "id": "6536",
+        "label": "旗木卡卡西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/79/6536_crt_anidb.jpg?r=1365091619",
+        "link": "https://bgm.tv/character/6536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

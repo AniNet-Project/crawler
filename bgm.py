@@ -154,7 +154,7 @@ def main(pages=[1,2,3,4,5,6,7,8,9,10],
             map_ = e.map
         for infos in map_(process_pid, pages, repeat(out_dir)):
             for id_, name in infos:
-                data_url = f"https://raw.githubusercontent.com/AniNet-Project/crawler/master/data/json/{id_}.json"
+                data_url = f"https://raw.githubusercontent.com/AniNet-Project/crawler/master/data/bgm/json/{id_}.json"
                 index_json['data'].append({
                     'id': id_, 
                     'name': name,

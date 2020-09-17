@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65143",
+        "label": "四ツ葉金美",
+        "info": "主人公と結婚した新妻。尽くしてくれるタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a6/65143_crt_fKrK7.jpg",
+        "link": "https://bgm.tv/character/65143",
+        "categorie": "person"
+      },
+      {
+        "id": "65145",
+        "label": "赤松火穂",
+        "info": "我妻の姉で、子持ち。放任主義で自由奔放に生きている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/96/65145_crt_PkwEe.jpg",
+        "link": "https://bgm.tv/character/65145",
+        "categorie": "person"
+      },
+      {
+        "id": "65150",
+        "label": "四ツ葉地鶴",
+        "info": "主人公の義母。趣味は華道。子供を産んだ経験はない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/45/65150_crt_2uK8l.jpg",
+        "link": "https://bgm.tv/character/65150",
+        "categorie": "person"
+      },
+      {
+        "id": "65151",
+        "label": "四ツ葉木紗絵",
+        "info": "ちょっとあやしい京都弁を喋る兄嫁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/19/65151_crt_266hl.jpg",
+        "link": "https://bgm.tv/character/65151",
+        "categorie": "person"
+      },
+      {
+        "id": "65153",
+        "label": "犬榧土真子",
+        "info": "主人公の部下で、嫌な同僚の妻。子供はいない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/0d/65153_crt_ouSJ5.jpg",
+        "link": "https://bgm.tv/character/65153",
+        "categorie": "person"
+      },
+      {
+        "id": "65154",
+        "label": "山吹天奈",
+        "info": "外見では結婚しているとは全く思えないが、新婚さん。子供はいない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/07/65154_crt_QrZQV.jpg",
+        "link": "https://bgm.tv/character/65154",
+        "categorie": "person"
+      },
+      {
+        "id": "65158",
+        "label": "花水木冥",
+        "info": "全く見ず知らずの赤の他人。子持ちだが、セックスレス夫婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/22/65158_crt_0DT0Z.jpg",
+        "link": "https://bgm.tv/character/65158",
+        "categorie": "person"
+      },
+      {
+        "id": "65159",
+        "label": "芙蓉彗々香",
+        "info": "夫と死別して３年の未亡人で、義父・義息と生活している。主人公の母が通っている、華道教室の先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/c0/65159_crt_HMtzh.jpg",
+        "link": "https://bgm.tv/character/65159",
+        "categorie": "person"
+      },
+      {
+        "id": "65146",
+        "label": "柊水亜",
+        "info": "我妻の妹。学生結婚した後、卒業。子供はいない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/2c/65146_crt_1Rmfa.jpg",
+        "link": "https://bgm.tv/character/65146",
+        "categorie": "person"
+      },
+      {
+        "id": "65156",
+        "label": "椿海鈴",
+        "info": "団地に引っ越してきたキャリア組の働く奥様。子供なし。むしろ邪魔よ！という感じ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/52/65156_crt_5yA5Q.jpg",
+        "link": "https://bgm.tv/character/65156",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

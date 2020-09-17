@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33579",
+        "label": "绫濑裕人",
+        "info": "本作的主角，白城学园高中二年级，3月14日生，身高170cm，血型O型。是位成绩中等、平凡不过的高中生，因为家庭环境和成长过程使他对女性的期待和兴趣本来就不大，但后来因为不小心知道了春香的秘密和她真实的一面之后，彼此开始变得亲昵。因为如此，他也屡次地被其他不知情的学生们给盯上。家族成员有父母亲和姐姐瑠子，但父母亲为了工作而常常不在家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/41/33579_crt_X4ys9.jpg",
+        "link": "https://bgm.tv/character/33579",
+        "categorie": "person"
+      },
+      {
+        "id": "4126",
+        "label": "樱坂叶月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/f7/4126_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4126",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

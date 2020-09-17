@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52268",
+        "label": "海豹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/79/52268_crt_80HQ0.jpg",
+        "link": "https://bgm.tv/character/52268",
+        "categorie": "person"
+      },
+      {
+        "id": "56898",
+        "label": "白熊",
+        "info": "アザラシ君に一目惚れ。種族の壁にもめげずに、一途な想いで猛アタック中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/0c/56898_crt_D677r.jpg",
+        "link": "https://bgm.tv/character/56898",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

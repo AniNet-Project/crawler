@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14404",
+        "label": "藤原爱实",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/15/14404_crt_ttTY5.jpg",
+        "link": "https://bgm.tv/character/14404",
+        "categorie": "person"
+      },
+      {
+        "id": "14405",
+        "label": "立花香织",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/08/14405_crt_9lLR1.jpg",
+        "link": "https://bgm.tv/character/14405",
+        "categorie": "person"
+      },
+      {
+        "id": "14406",
+        "label": "松本笑华",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/27/14406_crt_z4H55.jpg",
+        "link": "https://bgm.tv/character/14406",
+        "categorie": "person"
+      },
+      {
+        "id": "14407",
+        "label": "松本政宗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/3c/14407_crt_iieGj.jpg",
+        "link": "https://bgm.tv/character/14407",
+        "categorie": "person"
+      },
+      {
+        "id": "14408",
+        "label": "增田京介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/80/14408_crt_Pmm8J.jpg",
+        "link": "https://bgm.tv/character/14408",
+        "categorie": "person"
+      },
+      {
+        "id": "14410",
+        "label": "羽柴泉水",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/90/14410_crt_I0fI4.jpg",
+        "link": "https://bgm.tv/character/14410",
+        "categorie": "person"
+      },
+      {
+        "id": "14409",
+        "label": "羽柴岚士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/0b/14409_crt_x9Y89.jpg",
+        "link": "https://bgm.tv/character/14409",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

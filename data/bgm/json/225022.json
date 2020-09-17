@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61199",
+        "label": "斯巴鲁·一之濑",
+        "info": "地球連邦に所属する天才エースパイロット。艦内の集団生活に馴染めず、自身の専用機である最新汎用人型兵器【デュランダル】のコックピットにひきこもってばかりいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/de/61199_crt_9l6Te.jpg",
+        "link": "https://bgm.tv/character/61199",
+        "categorie": "person"
+      },
+      {
+        "id": "61200",
+        "label": "五十铃·一之濑",
+        "info": "スバルの兄。若くして地球連邦軍に入隊し、瞬く間に頭角を現し出世したが、自身の主義との違いによって脱退。現在は、敵対する宇宙移民組織【メトゥスの民】の幹部であり、実の弟・スバルと対立することに…。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/0f/61200_crt_JWfF4.jpg",
+        "link": "https://bgm.tv/character/61200",
+        "categorie": "person"
+      },
+      {
+        "id": "61201",
+        "label": "伏尔加·悍马",
+        "info": "スバルの先輩パイロット。ガサツな性格だが、スバルのことを気にかけてくれる男気あふれる兄貴的存在。だが、スバルは、その熱血ぶりを少々面倒くさく感じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/d5/61201_crt_g2pWS.jpg",
+        "link": "https://bgm.tv/character/61201",
+        "categorie": "person"
+      },
+      {
+        "id": "61202",
+        "label": "斯巴鲁·彼洋德",
+        "info": "【メトゥスの民】によって作られたスバルのコピー生命体の突然変異体。スバルとその専用機【デュランダル】に執着心を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/b4/61202_crt_qqlZ9.jpg",
+        "link": "https://bgm.tv/character/61202",
+        "categorie": "person"
+      },
+      {
+        "id": "61943",
+        "label": "文图瑞·勒罗伊",
+        "info": "【宇宙戦艦ティラミス】の艦長。クルー達を厳しく統率しているが、娘のリージュには甘いところがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/d3/61943_crt_nVCSs.jpg",
+        "link": "https://bgm.tv/character/61943",
+        "categorie": "person"
+      },
+      {
+        "id": "61944",
+        "label": "莉裘·勒罗伊",
+        "info": "【宇宙戦艦ティラミス】のヴェンチュリー艦長の愛娘で、抜群のスタイルの持ち主と容姿。溺愛されて育ったため、少々わがままな性格。時折スバルに見せる眼差しは、まるで弟を見るようである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/ef/61944_crt_1Xu18.jpg",
+        "link": "https://bgm.tv/character/61944",
+        "categorie": "person"
+      },
+      {
+        "id": "61945",
+        "label": "茂子·本田",
+        "info": "【宇宙戦艦ティラミス】のメカニック担当。メカニックらしからぬ容貌だが、ティラミス艦内の兵器全般を扱う頼れる技術者である。スバルのことは母のように気にかけているのだが、やや鬱陶しがられている節がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/52/61945_crt_UqjkQ.jpg",
+        "link": "https://bgm.tv/character/61945",
+        "categorie": "person"
+      },
+      {
+        "id": "61922",
+        "label": "阴毛",
+        "info": "【デュランダル】の発射トリガーに引っかかっていた恥毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/16/61922_crt_SsBdy.jpg?r=1521768025",
+        "link": "https://bgm.tv/character/61922",
+        "categorie": "person"
+      },
+      {
+        "id": "61946",
+        "label": "パッカー",
+        "info": "【宇宙戦艦ティラミス】で、中古で購入されたアシストロボット。艦内のみんなから愛されている感情認識ヒューマノイドロボットだと思っていたが……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/26/61946_crt_nwE76.jpg",
+        "link": "https://bgm.tv/character/61946",
+        "categorie": "person"
+      },
+      {
+        "id": "61947",
+        "label": "デュランダル",
+        "info": "地球連邦軍の最新汎用人型兵器で、スバルの専用機。いついかなる時もスバルと出撃し、運命を共にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/a5/61947_crt_rg7oR.jpg",
+        "link": "https://bgm.tv/character/61947",
+        "categorie": "person"
+      },
+      {
+        "id": "61948",
+        "label": "ケリュケイオン",
+        "info": "5thノートの叡智よって生まれたメトゥスの民の次世代機で、イスズ大佐の隊長機。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/25/61948_crt_eFfAc.jpg",
+        "link": "https://bgm.tv/character/61948",
+        "categorie": "person"
+      },
+      {
+        "id": "61949",
+        "label": "プリマヴェーラδ",
+        "info": "地球連邦軍の汎用人型兵器でリージュの専用機。内装もリージュ仕様にカスタマイズされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/29/61949_crt_qza8C.jpg",
+        "link": "https://bgm.tv/character/61949",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

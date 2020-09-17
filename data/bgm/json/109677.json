@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33575",
+        "label": "李星云",
+        "info": "李星云身世神秘，流落江湖，时年九岁。渝州城一战，李焕身死，拜在阳叔子门下学艺，八年后（乾化二年，912年）出山，携师妹陆林轩行走江湖。因身负龙泉剑，并由于其身世败露，于是引来各方势力追杀。后结识幻音坊侍女姬如雪和通文馆少主张子凡，四人化敌为友共闯江湖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/20/33575_crt_MaSid.jpg?r=1435317006",
+        "link": "https://bgm.tv/character/33575",
+        "categorie": "person"
+      },
+      {
+        "id": "33576",
+        "label": "姬如雪",
+        "info": "幻音坊主女帝的侍女，奉命劫夺李星云所携龙泉剑，后又奉命劫持李星云。事败后反被李星云所救，遂钟情李星云。大多时候神情冷漠，眼神中透露着坚定的神采；脸红害羞时，会流露出少女娇俏任性的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/0b/33576_crt_2yAdX.jpg?r=1435317034",
+        "link": "https://bgm.tv/character/33576",
+        "categorie": "person"
+      },
+      {
+        "id": "33577",
+        "label": "陆林轩",
+        "info": "大侠陆佑劫独女，八岁时，在渝州城一战中丧父。拜在阳叔子门下学艺，八年后出山，与师兄李星云青梅竹马、携手行走江湖。后结识通文馆少主张子凡，暗生情愫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/06/33577_crt_947To.jpg?r=1435316982",
+        "link": "https://bgm.tv/character/33577",
+        "categorie": "person"
+      },
+      {
+        "id": "33578",
+        "label": "张子凡",
+        "info": "通文馆少主，李嗣源养子，私自逃出家门后认识陆林轩，后又奉命劫持李星云。事败后救下陆林轩，钟情陆林轩。身世不明，有可能跟天师派有关。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/c2/33578_crt_kmwMR.jpg?r=1435316952",
+        "link": "https://bgm.tv/character/33578",
+        "categorie": "person"
+      },
+      {
+        "id": "33583",
+        "label": "常昊灵",
+        "info": "朱温手下常进将军，多年前相继收养孤儿两人收为徒弟传授武艺，并以二人随自己的“常姓”，分别取名昊灵、宣灵。后来常将军战死，师兄妹二人被冥帝收编，是为玄冥教黑白无常。此二人直属孟婆，掌中含有致命尸毒，前者阴狠狡诈后者狂傲张扬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/82/33583_crt_gwWUm.jpg?r=1435329106",
+        "link": "https://bgm.tv/character/33583",
+        "categorie": "person"
+      },
+      {
+        "id": "33582",
+        "label": "常宣灵",
+        "info": "朱温手下常进将军，多年前相继收养孤儿两人，收为弟子传授武艺，并以二人随自己的“常姓”，取名宣灵和昊灵。后来常将军战死，随师兄常昊灵被冥帝收编，为玄冥教黑白无常。直属孟婆管辖，掌中含有致命尸毒，颇为张狂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/b5/33582_crt_FYzwU.jpg?r=1435328877",
+        "link": "https://bgm.tv/character/33582",
+        "categorie": "person"
+      },
+      {
+        "id": "33584",
+        "label": "上官云阙",
+        "info": "‘不良人’高手，娘娘腔，外号‘上官云雀’，曾经倾心于阳叔子，后来又移情李星云。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/09/33584_crt_yKazz.jpg?r=1435329294",
+        "link": "https://bgm.tv/character/33584",
+        "categorie": "person"
+      },
+      {
+        "id": "33585",
+        "label": "本人",
+        "info": "扶桑海盗，武功低微，人品低下，小偷小摸浑水摸鱼。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/2a/33585_crt_5bn15.jpg?r=1435329517",
+        "link": "https://bgm.tv/character/33585",
+        "categorie": "person"
+      },
+      {
+        "id": "33586",
+        "label": "温韬",
+        "info": "摸金校尉，人称‘盗圣’，擅长八卦五行，风水定位。实属不良人。现在玄冥教卧底。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/be/33586_crt_NWSyd.jpg?r=1435329609",
+        "link": "https://bgm.tv/character/33586",
+        "categorie": "person"
+      },
+      {
+        "id": "33587",
+        "label": "朱温",
+        "info": "朱温是冥帝朱友珪之父，是五代十国后梁开国皇帝。早年参与黄巢起义，脱离黄巢大齐政权而归唐后被唐廷赐名朱全忠，篡唐建梁后又改名朱晃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/fe/33587_crt_5sVS0.jpg?r=1435329734",
+        "link": "https://bgm.tv/character/33587",
+        "categorie": "person"
+      },
+      {
+        "id": "33588",
+        "label": "梵音天",
+        "info": "幻音坊九天圣姬之一，喜好淫乐，武功居于小天位，其香味能快速使人晕倒。曾劫持李星云，欲夺取龙泉剑，但却差点命丧李星云之手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/da/33588_crt_2cPHE.jpg?r=1435329821",
+        "link": "https://bgm.tv/character/33588",
+        "categorie": "person"
+      },
+      {
+        "id": "33589",
+        "label": "妙成天",
+        "info": "妙成圣姬，九天圣姬之一，被女帝派遣前往服侍李星云。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/73/33589_crt_uN68G.jpg?r=1435329907",
+        "link": "https://bgm.tv/character/33589",
+        "categorie": "person"
+      },
+      {
+        "id": "33590",
+        "label": "玄净天",
+        "info": "玄净圣姬，九天圣姬之一，被女帝派遣前往服侍李星云。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/e8/33590_crt_IEUOI.jpg?r=1435329987",
+        "link": "https://bgm.tv/character/33590",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65558",
+        "label": "琪比猫",
+        "info": "一只被抛弃在湿冷的街角的小波斯猫，后被一名叫须和野时夫的高考补习生捡回家里养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/ac/65558_crt_7G76o.jpg",
+        "link": "https://bgm.tv/character/65558",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

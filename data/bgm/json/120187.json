@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "32675",
+        "label": "土间埋",
+        "info": "本作主角，平时被称为小埋（うまる），亚麻色的长发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/58/32675_crt_c9I1k.jpg",
+        "link": "https://bgm.tv/character/32675",
+        "categorie": "person"
+      },
+      {
+        "id": "32679",
+        "label": "土间大平",
+        "info": "小埋的哥哥。带着眼镜和比较平庸的样子，在一家信息技术运营支援公司工作，平时在家会照顾小埋的起居并因此十分熟练家务，虽然对小埋的在家宅女般生活十分不满，但认为是自己宠成的，仍十分喜欢小埋。对朋友也十分地温柔。有驾照，但没实际驾驶过。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/7b/32679_crt_3vaQZ.jpg",
+        "link": "https://bgm.tv/character/32679",
+        "categorie": "person"
+      },
+      {
+        "id": "32676",
+        "label": "海老名菜菜",
+        "info": "小埋的同班同学和朋友，小埋称呼其为「小海老名（海老名ちゃん）」，其他人则直呼其姓。和土间家住在同一座公寓。秋田县农家出身，巨乳，性格比较害羞没自信。食量很大，当见到食物时会忍不住肚子鸣叫，家里有厨房来自己煮食和两个冰箱来存放食材，感到好吃时会发出秋田口音。也是十分温柔的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/da/32676_crt_54ppa.jpg",
+        "link": "https://bgm.tv/character/32676",
+        "categorie": "person"
+      },
+      {
+        "id": "32678",
+        "label": "本场切绘",
+        "info": "小埋的同学，本场猛的妹妹，由於开学时打过前来参观的哥哥，而且平时眼神看上去很凶狠，所以被同学认为不好相处，但实际是相当怕生笨拙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/82/32678_crt_VeSYk.jpg?r=1509364842",
+        "link": "https://bgm.tv/character/32678",
+        "categorie": "person"
+      },
+      {
+        "id": "32677",
+        "label": "橘·希尔芬福特",
+        "info": "小埋的同学，蓝色长发和闪亮的眼睛。和小埋同样成绩优秀，视小埋为竞争对手，性格十分活跃，喜欢张扬自己，但又有少许的天然，所以缺少交往的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/96/32677_crt_Xv0Zw.jpg",
+        "link": "https://bgm.tv/character/32677",
+        "categorie": "person"
+      },
+      {
+        "id": "33187",
+        "label": "本场猛",
+        "info": "太平的同事，也是以前高中同学，通称「崩巴（ぼんば）」，头发比较蓬乱，有少许的大男人主义，工作邋遢不太认真，甚至怂恿太平一起辞职。面对女孩子时会极度紧张石化。切绘的哥哥，十分关心妹妹但被妹妹有厌恶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/25/33187_crt_h1c1v.jpg",
+        "link": "https://bgm.tv/character/33187",
+        "categorie": "person"
+      },
+      {
+        "id": "33188",
+        "label": "橘·亚力克斯",
+        "info": "太平的同事，但实际上是通过关系进入公司的，工作态度也同样不太认真，暗中也是喜欢ACG文化，希尔芬的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/24/33188_crt_Lvxob.jpg",
+        "link": "https://bgm.tv/character/33188",
+        "categorie": "person"
+      },
+      {
+        "id": "34030",
+        "label": "金刚叶",
+        "info": "金刚叶（xié），太平三人的上司，也是其高中的女同学，和猛也是朋友。长发美女，暗恋太平，但对太平以外的下属则咄咄逼人。职位是课长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/a7/34030_crt_g2NKQ.jpg",
+        "link": "https://bgm.tv/character/34030",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

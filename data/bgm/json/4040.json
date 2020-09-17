@@ -1,0 +1,637 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31214",
+        "label": "橘左近",
+        "info": "本作品的主人公。國寶級人物橘左衛門的孫子，年輕的傀儡師。在原作的年齡設定不明，不過，動畫版從父母結婚的時期開始推定，一般認為是17歲以下。平日話語很少的老實青年，不過，操縱木偶右近時展示出天才的洞察能力，解決殺人事件。從年幼的時候，便與右近培養出深厚的感情。愛吃『不二家飲茶室』的蛋包飯（小說『夢話悲劇的戀愛幻想奇特譚』）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/e9/31214_crt_f2ysX.jpg?r=1426955342",
+        "link": "https://bgm.tv/character/31214",
+        "categorie": "person"
+      },
+      {
+        "id": "33028",
+        "label": "右近",
+        "info": "明治初期に、人形師・三代目小泉卯之助によって作られた傑作童人形。まるで魂がこもったように動き、口下手な左近の言葉を代弁する。左近と全く正反対の性格で、豪放でおしゃべり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/9f/33028_crt_d2D99.jpg?r=1432917113",
+        "link": "https://bgm.tv/character/33028",
+        "categorie": "person"
+      },
+      {
+        "id": "6442",
+        "label": "船崎叶月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d9/6442_crt_B2ohN.jpg?r=1426955417",
+        "link": "https://bgm.tv/character/6442",
+        "categorie": "person"
+      },
+      {
+        "id": "33029",
+        "label": "橘薫子",
+        "info": "左近の叔母だが、年齢が近いために「薫子姉さん」と呼ばせている。警視庁捜査一課の刑事（警部補）だが、おっちょこちょいな性格で「迷推理」ぶりを発揮している。右近とは事あるごとに言い争う、言わば「喧嘩友達」のような関係。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/38/33029_crt_nwsn8.jpg?r=1432917351",
+        "link": "https://bgm.tv/character/33029",
+        "categorie": "person"
+      },
+      {
+        "id": "33030",
+        "label": "橘千鶴",
+        "info": "左近の母。おっとりとした性格だが、かなりの心配性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/5b/33030_crt_f8YJ4.jpg?r=1432917476",
+        "link": "https://bgm.tv/character/33030",
+        "categorie": "person"
+      },
+      {
+        "id": "33031",
+        "label": "橘左卫门",
+        "info": "左近の祖父。人間国宝の文楽人形師。左近の師匠でもある。厳しさと優しさを併せ持った人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/d5/33031_crt_9Nklj.jpg",
+        "link": "https://bgm.tv/character/33031",
+        "categorie": "person"
+      },
+      {
+        "id": "33033",
+        "label": "藤田善吉",
+        "info": "アニメ版の物語後半における主要人物。原作では死亡してしまったが、アニメでは左近の右腕として情報収集のため奔走する。「関西弁を操るカメラマンの卵」という設定は原作と同じ。また、左近とは初登場時点ですでに知り合いである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/3a/33033_crt_223Cl.jpg",
+        "link": "https://bgm.tv/character/33033",
+        "categorie": "person"
+      },
+      {
+        "id": "33034",
+        "label": "樽海刚",
+        "info": "アニメオリジナルの登場人物で、物語後半における主要人物の一人。警視庁捜査一課の刑事で、薫子の部下にあたるが、薫子とのコンビは今一つ噛み合わないでいた。いつもガムを噛んでいることが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/41/33034_crt_8genU.jpg",
+        "link": "https://bgm.tv/character/33034",
+        "categorie": "person"
+      },
+      {
+        "id": "33035",
+        "label": "北村浩二",
+        "info": "販売員。短気な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/53/33035_crt_46494.jpg?r=1432918455",
+        "link": "https://bgm.tv/character/33035",
+        "categorie": "person"
+      },
+      {
+        "id": "33036",
+        "label": "丘洋子",
+        "info": "OL（アニメでは東京の信用金庫に勤めているという設定）。気が強く、少し派手な女性。原作では昔斉藤健一に言い寄られていたものの振っているが、アニメ版では交際しており、彼に対する態度も原作とは異なっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/3d/33036_crt_11Og7.jpg",
+        "link": "https://bgm.tv/character/33036",
+        "categorie": "person"
+      },
+      {
+        "id": "33037",
+        "label": "齐藤健一",
+        "info": "浪人生。昔丘洋子に手ひどく振られ、当時彼女と交際していた北村浩二にも馬鹿にされていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/13/33037_crt_v99VP.jpg",
+        "link": "https://bgm.tv/character/33037",
+        "categorie": "person"
+      },
+      {
+        "id": "33038",
+        "label": "佐伯勉",
+        "info": "美大の2年生。自己中心的な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/c6/33038_crt_dfHBV.jpg",
+        "link": "https://bgm.tv/character/33038",
+        "categorie": "person"
+      },
+      {
+        "id": "33039",
+        "label": "西原摩耶",
+        "info": "アニメオリジナルの登場人物。町の中央病院の外科で看護婦として働いている。冷静で頭の切れる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/3c/33039_crt_D5nN3.jpg",
+        "link": "https://bgm.tv/character/33039",
+        "categorie": "person"
+      },
+      {
+        "id": "33040",
+        "label": "江田巡査",
+        "info": "村の交番に勤務している警察官。交番に奇妙な同窓会の案内状が届いたため、学校にやって来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/75/33040_crt_AyNg5.jpg",
+        "link": "https://bgm.tv/character/33040",
+        "categorie": "person"
+      },
+      {
+        "id": "33678",
+        "label": "河合舞",
+        "info": "人気タレント。「スポーツ界から芸能界へ華麗な転身を遂げたCM界の妖精」と称される美少女で、明るく前向きな性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/38/33678_crt_7s91o.jpg",
+        "link": "https://bgm.tv/character/33678",
+        "categorie": "person"
+      },
+      {
+        "id": "33679",
+        "label": "佐藤百合子",
+        "info": "舞のマネージャー。仕事のできる女性で、舞からは厚い信頼を寄せられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/95/33679_crt_PiV8n.jpg",
+        "link": "https://bgm.tv/character/33679",
+        "categorie": "person"
+      },
+      {
+        "id": "33680",
+        "label": "杉山久志",
+        "info": "舞の同級生。舞とは中学生時代に付き合っていたが、舞がスケートの道を進むことを志したことで別れを告げられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/13/33680_crt_Q1QAD.jpg",
+        "link": "https://bgm.tv/character/33680",
+        "categorie": "person"
+      },
+      {
+        "id": "33681",
+        "label": "香川由纪",
+        "info": "舞の同級生。表では親友として振舞っているが、裏では杉山を振ったことを恨みに思っている。少々わがままな性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/90/33681_crt_7idMR.jpg",
+        "link": "https://bgm.tv/character/33681",
+        "categorie": "person"
+      },
+      {
+        "id": "33682",
+        "label": "森诚一",
+        "info": "舞の同級生。陰気で暗い青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/fc/33682_crt_1jOuu.jpg",
+        "link": "https://bgm.tv/character/33682",
+        "categorie": "person"
+      },
+      {
+        "id": "33683",
+        "label": "高村克彦",
+        "info": "テレビ局のディレクター。普段は比較的フレンドリーだが、視聴率のことばかり気にしており、視聴率のためなら少々汚い手を使うことも厭わない非情な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/91/33683_crt_zKsQQ.jpg",
+        "link": "https://bgm.tv/character/33683",
+        "categorie": "person"
+      },
+      {
+        "id": "33684",
+        "label": "三条静",
+        "info": "傀儡館の女将を務める老婆。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/c5/33684_crt_wJWzL.jpg",
+        "link": "https://bgm.tv/character/33684",
+        "categorie": "person"
+      },
+      {
+        "id": "33685",
+        "label": "式场忠太",
+        "info": "傀儡館に勤める、三条静の補佐役。無口であまり話すことがない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/5a/33685_crt_cDncW.jpg",
+        "link": "https://bgm.tv/character/33685",
+        "categorie": "person"
+      },
+      {
+        "id": "33686",
+        "label": "八木泽悟",
+        "info": "アニメオリジナルの登場人物。舞のスケートのコーチで、彼女が出演する番組のロケ地を変更した高村が何かを企んでいることを嗅ぎ付け、屋敷を訪れた。集団行動を好まない単独主義者だが、舞がスケートを辞めて芸能界へ入った後も彼女を娘のように大切に思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/ef/33686_crt_tHSTA.jpg",
+        "link": "https://bgm.tv/character/33686",
+        "categorie": "person"
+      },
+      {
+        "id": "33687",
+        "label": "龟田浩二",
+        "info": "アニメオリジナルの登場人物で、高村の番組のアシスタント・ディレクターを務める。のんびりした性格から、高村からは「ドン亀」と呼ばれており、視聴率のためなら手段を選ばない彼の行動に振り回されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/61/33687_crt_FSs28.jpg",
+        "link": "https://bgm.tv/character/33687",
+        "categorie": "person"
+      },
+      {
+        "id": "33695",
+        "label": "如月一彻",
+        "info": "左近の小学校時代の先生で、いじめられていた彼に人形遣いであることの自信を持たせ、その道を進むことを後押しした恩師でもある。長年の夢を叶えるべく、教師を退職し、現在は蘭王博物館の事務長を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/f0/33695_crt_RZ9tg.jpg",
+        "link": "https://bgm.tv/character/33695",
+        "categorie": "person"
+      },
+      {
+        "id": "33721",
+        "label": "深见润一郎",
+        "info": "左近の祖父・橘左衛門の古い友人。腕の良い人形細工師だが、年のせいか物忘れが激しくなっている。故障した右近の修理を引き受けていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/62/33721_crt_YKHsU.jpg",
+        "link": "https://bgm.tv/character/33721",
+        "categorie": "person"
+      },
+      {
+        "id": "33722",
+        "label": "深见小夜子",
+        "info": "潤一郎の孫娘。幼い頃に両親を失っているが、元気でお転婆な性格の持ち主。飼い猫のリリスを可愛がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/52/33722_crt_A7c50.jpg",
+        "link": "https://bgm.tv/character/33722",
+        "categorie": "person"
+      },
+      {
+        "id": "33723",
+        "label": "青木秋彦",
+        "info": "潤一郎の秘書で、深見家の雑務もこなしている。顔を包帯で巻いた不気味な容姿をしているが、人当たりの良い、穏やかで優しい男性。火事で一人娘を失った過去を持ち、小夜子を娘のように可愛がっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/77/33723_crt_r8VrF.jpg",
+        "link": "https://bgm.tv/character/33723",
+        "categorie": "person"
+      },
+      {
+        "id": "33724",
+        "label": "岸川肇",
+        "info": "潤一郎の一番弟子。だが、実力は二番弟子の速見には及ばず、彼とは犬猿の仲となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/39/33724_crt_NiT8i.jpg",
+        "link": "https://bgm.tv/character/33724",
+        "categorie": "person"
+      },
+      {
+        "id": "33725",
+        "label": "速见忠雄",
+        "info": "潤一郎の二番弟子。人形細工師としての腕前は高く、潤一郎から蔵を改造した専用の仕事場を与えられているほど。しかしながら、酒癖が悪く、口も悪いため、兄弟子の岸川との仲は悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/8c/33725_crt_PRP5o.jpg",
+        "link": "https://bgm.tv/character/33725",
+        "categorie": "person"
+      },
+      {
+        "id": "33726",
+        "label": "吉田保",
+        "info": "潤一郎の末弟子。岸川や速見とは異なり、おっとりとした性格をしている。一方で、事件に深入りする左近に「好奇心が猫を殺す」という皮肉めいた忠告（アニメでは白石恵子の発言）を残すなど奇妙な一面も持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/60/33726_crt_aNVuD.jpg",
+        "link": "https://bgm.tv/character/33726",
+        "categorie": "person"
+      },
+      {
+        "id": "33727",
+        "label": "白石恵子",
+        "info": "深見家の家政婦。速見忠雄とは恋人関係にある。過去にこの事件が起こるきっかけを持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/a8/33727_crt_41Aqj.jpg",
+        "link": "https://bgm.tv/character/33727",
+        "categorie": "person"
+      },
+      {
+        "id": "33758",
+        "label": "秋月宗史郎",
+        "info": "信州の旧家・秋月家の主である資産家。古典芸能や古美術を道楽としており、趣味でコレクションをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/9a/33758_crt_UC375.jpg",
+        "link": "https://bgm.tv/character/33758",
+        "categorie": "person"
+      },
+      {
+        "id": "33759",
+        "label": "秋月二叶",
+        "info": "秋月家の長女。しっかり者の女性で、妹達の母親代わりも務めている。好きな男性がいたが、菊池久志が親の決めた婚約者となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/cf/33759_crt_99R2j.jpg",
+        "link": "https://bgm.tv/character/33759",
+        "categorie": "person"
+      },
+      {
+        "id": "33760",
+        "label": "秋月三佳",
+        "info": "秋月家の次女。三姉妹の中では派手な外見をしている。少々わがままな性格だが、根は素直。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/f0/33760_crt_BCpum.jpg",
+        "link": "https://bgm.tv/character/33760",
+        "categorie": "person"
+      },
+      {
+        "id": "33761",
+        "label": "秋月四帆",
+        "info": "秋月家の三女。ボーイッシュな風貌をしており、勝気で口が悪いが、純朴な少女。一人称は「オレ」（原作では「あたし」だったが、後の『浪速写真師聖書地獄』では「オレ」に変わっている）。恭一とは兄妹の中では一番仲が良く、よく遊んで貰っていたため、彼の無実を信じ続けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/b3/33761_crt_nOlOn.jpg",
+        "link": "https://bgm.tv/character/33761",
+        "categorie": "person"
+      },
+      {
+        "id": "33762",
+        "label": "冲克己",
+        "info": "宗史郎のコレクションの中の「百狐」を妖刀「村正」と鑑定した古美術商。身体が大きく、男気もあることから、秋月家の人々から信頼されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/8b/33762_crt_3DGWM.jpg",
+        "link": "https://bgm.tv/character/33762",
+        "categorie": "person"
+      },
+      {
+        "id": "33763",
+        "label": "菊池久志",
+        "info": "銀行員を務める二葉の婚約者。しかし、臆病でプライドが高い性格からか、二葉にはあまり相手にされていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/d8/33763_crt_J664h.jpg",
+        "link": "https://bgm.tv/character/33763",
+        "categorie": "person"
+      },
+      {
+        "id": "33764",
+        "label": "吉田憲二",
+        "info": "村の巡査。恭一のことで何かと落ち着かない秋月家を心配している。四帆が見ていたビデオに、彼と思しき男性が二葉と寄り添う姿が映っており、二葉の思い人ではないかとされる描写がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/93/33764_crt_chTTC.jpg",
+        "link": "https://bgm.tv/character/33764",
+        "categorie": "person"
+      },
+      {
+        "id": "33778",
+        "label": "一色星治",
+        "info": "蘭王博物館の副館長で、かつては結城麻里の上司だった。計算高く冷淡な性格で、無神経かつ皮肉めいた言動が多い。そのために、如月との折り合いは悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/fd/33778_crt_O5vMn.jpg",
+        "link": "https://bgm.tv/character/33778",
+        "categorie": "person"
+      },
+      {
+        "id": "33779",
+        "label": "高橋佳恵",
+        "info": "結城麻里に引き抜かれ、蘭王博物館で彼女の秘書として働いている女性。なお、原作とアニメとでは扱いが異なる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/6e/33779_crt_zz4aA.jpg",
+        "link": "https://bgm.tv/character/33779",
+        "categorie": "person"
+      },
+      {
+        "id": "33780",
+        "label": "浜田浩一郎",
+        "info": "蘭王博物館の事務員で、如月と同様に前館長の時から務める古株。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/ec/33780_crt_65Ya9.jpg",
+        "link": "https://bgm.tv/character/33780",
+        "categorie": "person"
+      },
+      {
+        "id": "33781",
+        "label": "田所学",
+        "info": "アニメオリジナルの登場人物で、蘭王博物館の警備主任。結城との間に起こったトラブルで足を怪我している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/bf/33781_crt_ky8p3.jpg",
+        "link": "https://bgm.tv/character/33781",
+        "categorie": "person"
+      },
+      {
+        "id": "33786",
+        "label": "九条秀明",
+        "info": "能楽九条流家元。芸のことには厳しい頑固な性格で、流派を守るためには手段を選ばない。左衛門とは知り合いだが、薫子と直人の見合いのことは知らなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/7b/33786_crt_l755v.jpg",
+        "link": "https://bgm.tv/character/33786",
+        "categorie": "person"
+      },
+      {
+        "id": "33787",
+        "label": "九条直人",
+        "info": "マスコミからの注目も熱い能楽界の若手実力派で、薫子の見合い相手。幼い頃に両親を亡くし、6歳の時に九条家に入った。穏やかで人の良い性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/0e/33787_crt_QOk4L.jpg",
+        "link": "https://bgm.tv/character/33787",
+        "categorie": "person"
+      },
+      {
+        "id": "33788",
+        "label": "九条孝栄",
+        "info": "秀明の長男にして九条流の後継者。しかし、能楽の才能には恵まれず、天才肌の義弟・英名の存在もあって、酒とギャンブルに溺れた生活を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/6e/33788_crt_8je7J.jpg",
+        "link": "https://bgm.tv/character/33788",
+        "categorie": "person"
+      },
+      {
+        "id": "33789",
+        "label": "九条英名",
+        "info": "秀明の次男だが、彼の妻以外の女性との間に生まれた子で、孝栄とは異母兄弟の関係にあたる。父親譲りの天才的な能楽の才能を持ち、その実力は直人に勝るとも劣らないとされるほど。おっとりした控え目な青年。幼少時に、九条流を存続させたい秀明によって母親から無理矢理引き離されている。その後、彼の母親は、理不尽な理由で息子を奪われた抗議として能舞台の上で自殺した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/55/33789_crt_nSJ3u.jpg",
+        "link": "https://bgm.tv/character/33789",
+        "categorie": "person"
+      },
+      {
+        "id": "33790",
+        "label": "九条明紀",
+        "info": "秀明の姪。かつて直人とは、秀明が決めた婚約者の関係にあったが、直人の意思により婚約解消となった。しかし、直人のことが未だに忘れられず、彼の見合い相手としてやって来た薫子を敵視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/00/33790_crt_z5224.jpg",
+        "link": "https://bgm.tv/character/33790",
+        "categorie": "person"
+      },
+      {
+        "id": "33791",
+        "label": "坪田孝明",
+        "info": "九条家に40年仕えている執事。そのため、九条家の内情には詳しい。人当たりの良い性格だが、うっかり口を滑らせてしまうこともしばしばある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/e8/33791_crt_4bUe7.jpg",
+        "link": "https://bgm.tv/character/33791",
+        "categorie": "person"
+      },
+      {
+        "id": "33793",
+        "label": "西村星江",
+        "info": "西村月子の妹。姉思いの優しい女性で、姉の自殺を不審に思っている。月子が起こしたとされる医療ミスの件で、沼田から度々金銭をせびられている。高山祭で猿ぼぼを売る露店を開いている時に左近達と知り合った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/ba/33793_crt_Z47vt.jpg",
+        "link": "https://bgm.tv/character/33793",
+        "categorie": "person"
+      },
+      {
+        "id": "33795",
+        "label": "沼田満",
+        "info": "月子の婚約者。両親を早くに亡くし、姉・京子と2人で苦労して生きてきたが、半年前に医療ミスで京子をも失ってしまう。それ以来、すっかり人が変わってしまい、荒れた生活を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/b7/33795_crt_xXlbl.jpg",
+        "link": "https://bgm.tv/character/33795",
+        "categorie": "person"
+      },
+      {
+        "id": "33924",
+        "label": "橘二衛門",
+        "info": "左衛門の弟。常に厳しい態度を崩さないが、その内には優しさを秘めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/7e/33924_crt_nxAnM.jpg",
+        "link": "https://bgm.tv/character/33924",
+        "categorie": "person"
+      },
+      {
+        "id": "33926",
+        "label": "橘智則",
+        "info": "二衛門の息子。二衛門からは半人前扱いされている。とある事をきっかけに、左近に対しぞんざいな態度をとるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/f7/33926_crt_865b2.jpg",
+        "link": "https://bgm.tv/character/33926",
+        "categorie": "person"
+      },
+      {
+        "id": "33927",
+        "label": "時雨崎綾乃",
+        "info": "人形の髪結いを仕事としている女性。幼い頃に両親を失い、時雨崎家に養子として引き取られた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/55/33927_crt_037Mo.jpg",
+        "link": "https://bgm.tv/character/33927",
+        "categorie": "person"
+      },
+      {
+        "id": "33928",
+        "label": "篠崎琢巳",
+        "info": "左衛門の弟子で、左近とも親しい人形遣い。時雨崎綾乃の婚約者でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/e0/33928_crt_VDCoo.jpg",
+        "link": "https://bgm.tv/character/33928",
+        "categorie": "person"
+      },
+      {
+        "id": "33930",
+        "label": "大岛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/5f/33930_crt_p70DU.jpg",
+        "link": "https://bgm.tv/character/33930",
+        "categorie": "person"
+      },
+      {
+        "id": "33720",
+        "label": "舞的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/09/33720_crt_JkmB5.jpg",
+        "link": "https://bgm.tv/character/33720",
+        "categorie": "person"
+      },
+      {
+        "id": "33765",
+        "label": "秋月恭一",
+        "info": "秋月家の長男で、二葉・三佳・四帆の兄。一年前に「百狐（村正）」を持ち出し、失踪してしまった。そのため、その直後に起こった辻斬り事件の犯人とされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/12/33765_crt_33jsj.jpg",
+        "link": "https://bgm.tv/character/33765",
+        "categorie": "person"
+      },
+      {
+        "id": "33766",
+        "label": "お手伝い",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a9/33766_crt_49n9H.jpg",
+        "link": "https://bgm.tv/character/33766",
+        "categorie": "person"
+      },
+      {
+        "id": "33767",
+        "label": "おじさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/48/33767_crt_YZgZ4.jpg",
+        "link": "https://bgm.tv/character/33767",
+        "categorie": "person"
+      },
+      {
+        "id": "33768",
+        "label": "村长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/78/33768_crt_MCos8.jpg",
+        "link": "https://bgm.tv/character/33768",
+        "categorie": "person"
+      },
+      {
+        "id": "33769",
+        "label": "老人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/43/33769_crt_u3K5z.jpg",
+        "link": "https://bgm.tv/character/33769",
+        "categorie": "person"
+      },
+      {
+        "id": "33777",
+        "label": "结城麻里",
+        "info": "蘭王博物館の現館長。次々と企画を考えては、歴史があっても地味だった博物館を盛り立てていたやり手の才女。しかし、昔からいた職員を辞めさせては、自分の気に入った人間を起用したり、前館長時代にあった古美術を売り払って新しい品物を購入したりと、強引な手段も厭わなかったため、前館長の理念に共感する如月とは事あるごとに対立していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/55/33777_crt_ZLzal.jpg",
+        "link": "https://bgm.tv/character/33777",
+        "categorie": "person"
+      },
+      {
+        "id": "33782",
+        "label": "警官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/56/33782_crt_1zGBG.jpg",
+        "link": "https://bgm.tv/character/33782",
+        "categorie": "person"
+      },
+      {
+        "id": "33783",
+        "label": "少年",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/97/33783_crt_x0K10.jpg",
+        "link": "https://bgm.tv/character/33783",
+        "categorie": "person"
+      },
+      {
+        "id": "33784",
+        "label": "少年",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/f8/33784_crt_T9T59.jpg",
+        "link": "https://bgm.tv/character/33784",
+        "categorie": "person"
+      },
+      {
+        "id": "33785",
+        "label": "管理人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/e7/33785_crt_YR15t.jpg",
+        "link": "https://bgm.tv/character/33785",
+        "categorie": "person"
+      },
+      {
+        "id": "33792",
+        "label": "警察官",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/8a/33792_crt_0KsTt.jpg",
+        "link": "https://bgm.tv/character/33792",
+        "categorie": "person"
+      },
+      {
+        "id": "33794",
+        "label": "西村月子",
+        "info": "星江の姉。寺尾病院で看護婦として働いていたが、看護ミスで婚約者であった沼田の姉を死なせてしまう。その責任をとって谷川で投身自殺をしてしまうが、買い物などでもいちいちメモをとるほど慎重派なしっかり者であるため、星江は彼女の自殺に不審を抱いている。死後、近所の神社では彼女の姿を見た者が続出するなど幽霊騒ぎが起こっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/b4/33794_crt_U9U4E.jpg",
+        "link": "https://bgm.tv/character/33794",
+        "categorie": "person"
+      },
+      {
+        "id": "33798",
+        "label": "农家的主妇A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/fd/33798_crt_nO18u.jpg",
+        "link": "https://bgm.tv/character/33798",
+        "categorie": "person"
+      },
+      {
+        "id": "33799",
+        "label": "农家的主妇B",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/f1/33799_crt_DQC7L.jpg",
+        "link": "https://bgm.tv/character/33799",
+        "categorie": "person"
+      },
+      {
+        "id": "33929",
+        "label": "橘流",
+        "info": "左近の父親で、左衛門の娘婿。左衛門の後を継ぐことになり、その継承演目として「恋花時雨咲乱舞」を演じる予定だったが、10年前に服毒自殺してしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/2f/33929_crt_f5GC1.jpg",
+        "link": "https://bgm.tv/character/33929",
+        "categorie": "person"
+      },
+      {
+        "id": "33931",
+        "label": "高野",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/47/33931_crt_3PU55.jpg",
+        "link": "https://bgm.tv/character/33931",
+        "categorie": "person"
+      },
+      {
+        "id": "33932",
+        "label": "渥美胜敏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/13/33932_crt_tW4G4.jpg",
+        "link": "https://bgm.tv/character/33932",
+        "categorie": "person"
+      },
+      {
+        "id": "33933",
+        "label": "寺尾的妻子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/4d/33933_crt_1w08q.jpg",
+        "link": "https://bgm.tv/character/33933",
+        "categorie": "person"
+      },
+      {
+        "id": "33934",
+        "label": "受付け",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33934",
+        "categorie": "person"
+      },
+      {
+        "id": "33041",
+        "label": "楠木修",
+        "info": "葉月達の同級生で、人形作りが上手な、心優しい少年。しかし、人形作りが趣味の大人しい性格から、同級生からの酷いいじめを受け、小学6年生の春に首吊り自殺してしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/1f/33041_crt_PlO8d.jpg",
+        "link": "https://bgm.tv/character/33041",
+        "categorie": "person"
+      },
+      {
+        "id": "33935",
+        "label": "レポーター",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/04/33935_crt_S9G10.jpg",
+        "link": "https://bgm.tv/character/33935",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26394",
+        "label": "琪亚娜·卡斯兰娜",
+        "info": "　16岁，千羽学园 高中部 一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/be/26394_crt_gbqbQ.jpg?r=1549737619",
+        "link": "https://bgm.tv/character/26394",
+        "categorie": "person"
+      },
+      {
+        "id": "26395",
+        "label": "雷电芽衣",
+        "info": "ME社前社长雷电龙马的独生女，就读于干羽学园，在学园中有着“雷电女王”的称号。但因父亲被捕入狱后周围环境产生的变化而导致情绪失控，引发了第三次崩坏爆发成为律者。在与琪亚娜相遇后被琪亚娜拯救，一同逃离长空市。雷电芽衣内心温柔勇敢，她接受了自己不幸的宿命，开始了与崩坏的战斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/d3/26395_crt_4O7Zt.jpg?r=1549737874",
+        "link": "https://bgm.tv/character/26395",
+        "categorie": "person"
+      },
+      {
+        "id": "70690",
+        "label": "符华",
+        "info": "崩坏3rd中登场的首位中国角色女武神。天命所属A级女武神，琪亚娜等人在圣芙蕾雅学园学习时所属班级的班长。不论是理论学习还是战斗实践都十分优秀，是一个典型的优等生。使用中华武术格斗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/ed/70690_crt_DEpI1.jpg",
+        "link": "https://bgm.tv/character/70690",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

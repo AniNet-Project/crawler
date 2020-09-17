@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9523",
+        "label": "樱野音羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/07/9523_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9523",
+        "categorie": "person"
+      },
+      {
+        "id": "9524",
+        "label": "园宫可怜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/a5/9524_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9524",
+        "categorie": "person"
+      },
+      {
+        "id": "7028",
+        "label": "一条瑛花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/e4/7028_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7028",
+        "categorie": "person"
+      },
+      {
+        "id": "23730",
+        "label": "爱莉洁·冯·迪特里希",
+        "info": "西ヨーロッパ基地より飛行外骨格バッハシュテルツェと共に日本へと派遣された",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/e1/23730_crt_trYFk.jpg",
+        "link": "https://bgm.tv/character/23730",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

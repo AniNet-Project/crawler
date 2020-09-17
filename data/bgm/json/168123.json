@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40519",
+        "label": "香蕉喵",
+        "info": "ノーテンキでポジティブ。甘いお菓子が大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/c8/40519_crt_F1LdB.jpg",
+        "link": "https://bgm.tv/character/40519",
+        "categorie": "person"
+      },
+      {
+        "id": "42218",
+        "label": "香蕉喵子",
+        "info": "ばなにゃ界のマドンナ。メイクとオシャレが大好き",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/d2/42218_crt_tI0xx.jpg",
+        "link": "https://bgm.tv/character/42218",
+        "categorie": "person"
+      },
+      {
+        "id": "42219",
+        "label": "虎斑香蕉喵",
+        "info": "ばなにゃ子さんに片思い中。勝手にばなにゃのことをライバル視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/17/42219_crt_ep6rB.jpg",
+        "link": "https://bgm.tv/character/42219",
+        "categorie": "person"
+      },
+      {
+        "id": "75741",
+        "label": "ばなにゃ研究者",
+        "info": "(ナレーション)",
+        "image": "https:",
+        "link": "https://bgm.tv/character/75741",
+        "categorie": "person"
+      },
+      {
+        "id": "42220",
+        "label": "黑香蕉喵",
+        "info": "なんとなくヨーロッパからやってきた。グルメ家でジェントルマン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/cd/42220_crt_7sFyi.jpg",
+        "link": "https://bgm.tv/character/42220",
+        "categorie": "person"
+      },
+      {
+        "id": "42221",
+        "label": "长毛香蕉喵",
+        "info": "ばなにゃ界のイケメン。毎日2時間手入れしているふさふさの毛並が自慢！",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/41/42221_crt_qfnik.jpg",
+        "link": "https://bgm.tv/character/42221",
+        "categorie": "person"
+      },
+      {
+        "id": "42222",
+        "label": "银虎斑香蕉喵",
+        "info": "とらばなにゃの弟。しっかり者で兄の恋の行方を心配している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/81/42222_crt_oBM8d.jpg",
+        "link": "https://bgm.tv/character/42222",
+        "categorie": "person"
+      },
+      {
+        "id": "42223",
+        "label": "大叔香蕉喵",
+        "info": "ばなにゃ達の中で一番年上。よく新聞を読みながら寝ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/ef/42223_crt_eEnBf.jpg",
+        "link": "https://bgm.tv/character/42223",
+        "categorie": "person"
+      },
+      {
+        "id": "42224",
+        "label": "幼香蕉喵",
+        "info": "ばなにゃ界の赤ちゃん。バナナミルクが大好き。バナナミルクをくれるばなにゃ子に懐いている。なぜかおやじばなにゃと仲良し",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/11/42224_crt_hGHbq.jpg",
+        "link": "https://bgm.tv/character/42224",
+        "categorie": "person"
+      },
+      {
+        "id": "42225",
+        "label": "三色香蕉喵",
+        "info": "隣の家から、時々遊びにくる。いたずらが大好き！よく物を壊す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ac/42225_crt_0b44W.jpg",
+        "link": "https://bgm.tv/character/42225",
+        "categorie": "person"
+      },
+      {
+        "id": "42226",
+        "label": "香蕉喵串",
+        "info": "ばなにゃの兄弟達。1匹だけになると、ばなにゃと見分けがつかない！",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/59/42226_crt_pRSrg.jpg",
+        "link": "https://bgm.tv/character/42226",
+        "categorie": "person"
+      },
+      {
+        "id": "42227",
+        "label": "老鼠",
+        "info": "ばなにゃと同じおうちに住んでいて、いつもお腹をすかせている",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/a3/42227_crt_Z04SB.jpg",
+        "link": "https://bgm.tv/character/42227",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

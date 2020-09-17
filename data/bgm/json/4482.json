@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13525",
+        "label": "西布克·阿诺",
+        "info": "宇宙殖民卫星“边境四”中综合学校的工科学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/73/13525_crt_uN68C.jpg",
+        "link": "https://bgm.tv/character/13525",
+        "categorie": "person"
+      },
+      {
+        "id": "13526",
+        "label": "赛西莉·费亚切尔德",
+        "info": "边境综合学校普通科的女学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/46/13526_crt_bcmzd.jpg",
+        "link": "https://bgm.tv/character/13526",
+        "categorie": "person"
+      },
+      {
+        "id": "3103",
+        "label": "ガンダムF91",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/62/3103_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3103",
+        "categorie": "person"
+      },
+      {
+        "id": "3104",
+        "label": "ビギナ・ギナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/b9/3104_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3104",
+        "categorie": "person"
+      },
+      {
+        "id": "3105",
+        "label": "ダギ・イルス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/e7/3105_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3105",
+        "categorie": "person"
+      },
+      {
+        "id": "3107",
+        "label": "Zamouth Giri",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/fe/3107_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3107",
+        "categorie": "person"
+      },
+      {
+        "id": "3108",
+        "label": "Zamouth Nahda",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/bd/3108_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3108",
+        "categorie": "person"
+      },
+      {
+        "id": "3111",
+        "label": "ブッホ・エアロダイナミック社",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/3111",
+        "categorie": "person"
+      },
+      {
+        "id": "3122",
+        "label": "ベルガ・ダラス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/d1/3122_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3122",
+        "categorie": "person"
+      },
+      {
+        "id": "3127",
+        "label": "ベルガ・ギロス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/1d/3127_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3127",
+        "categorie": "person"
+      },
+      {
+        "id": "3128",
+        "label": "エビル・S",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f8/3128_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3128",
+        "categorie": "person"
+      },
+      {
+        "id": "3129",
+        "label": "デナン・ゲー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/a0/3129_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3129",
+        "categorie": "person"
+      },
+      {
+        "id": "3130",
+        "label": "デナン・ゾン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/22/3130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3130",
+        "categorie": "person"
+      },
+      {
+        "id": "3131",
+        "label": "バグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/fd/3131_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3131",
+        "categorie": "person"
+      },
+      {
+        "id": "15743",
+        "label": "阿纳海姆",
+        "info": "阿纳海姆公司（Anaheim）是作品《机动战士高达》中出现MS（Mobile Suit ）制造公司，立场为中立，向联邦军及吉恩军，这战争双方提供MS资源。因为不论是军方、恐怖份子，只要付款，阿纳海姆就给予相应的货物，因此也被称为“死亡商人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/92/15743_crt_tgu1T.jpg",
+        "link": "https://bgm.tv/character/15743",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

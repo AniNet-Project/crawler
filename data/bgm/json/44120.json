@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18562",
+        "label": "李靖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/88/18562_crt_kd8Rx.jpg",
+        "link": "https://bgm.tv/character/18562",
+        "categorie": "person"
+      },
+      {
+        "id": "18563",
+        "label": "哪吒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/44/18563_crt_b76D7.jpg",
+        "link": "https://bgm.tv/character/18563",
+        "categorie": "person"
+      },
+      {
+        "id": "58749",
+        "label": "福禄小金刚",
+        "info": "福禄小金刚是国产漫画和动画《十万个冷笑话》系列及其衍生作品中登场的主要角色，十冷漫画的总主角，后来改编成动画角色在动漫中出场，为东宇宙的时空管理者。因蛇精错过练丹的最佳时间而使七个福禄娃合体诞生。帅气且能力超群，拥有各福禄娃的能力，并可将六娃分离出来战斗。现已与蛇精结婚生子，过上了幸福快乐的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/67/58749_crt_hHSaa.jpg",
+        "link": "https://bgm.tv/character/58749",
+        "categorie": "person"
+      },
+      {
+        "id": "20133",
+        "label": "太2真人",
+        "info": "元始天尊门下，乾元山金光洞洞主",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ce/20133_crt_18D1T.jpg",
+        "link": "https://bgm.tv/character/20133",
+        "categorie": "person"
+      },
+      {
+        "id": "18564",
+        "label": "王二",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/bc/18564_crt_XM6Mj.jpg",
+        "link": "https://bgm.tv/character/18564",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

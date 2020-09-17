@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9208",
+        "label": "布里夫斯博士",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/c9/9208_crt_X3qxe.jpg",
+        "link": "https://bgm.tv/character/9208",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

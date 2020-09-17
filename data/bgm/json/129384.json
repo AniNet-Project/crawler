@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33952",
+        "label": "村崎ワカコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/96/33952_crt_BoET2.jpg",
+        "link": "https://bgm.tv/character/33952",
+        "categorie": "person"
+      },
+      {
+        "id": "33953",
+        "label": "若い男A",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/56/33953_crt_d32D5.jpg",
+        "link": "https://bgm.tv/character/33953",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

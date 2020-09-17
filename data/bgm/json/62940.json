@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19649",
+        "label": "月岛仁兵卫",
+        "info": "男主",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/aa/19649_crt_H9T1T.jpg",
+        "link": "https://bgm.tv/character/19649",
+        "categorie": "person"
+      },
+      {
+        "id": "19650",
+        "label": "お春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/6f/19650_crt_lg9C6.jpg",
+        "link": "https://bgm.tv/character/19650",
+        "categorie": "person"
+      },
+      {
+        "id": "20954",
+        "label": "虫奉行",
+        "info": "从二品特设老中，看似银发碧眼的少女，但实际年龄似乎破百。因天生带有剧毒而被众人畏惧，极少外出，如要出门必会戴着手套避免与他人碰触。被称为“公主”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/33/20954_crt_5sgFg.jpg",
+        "link": "https://bgm.tv/character/20954",
+        "categorie": "person"
+      },
+      {
+        "id": "19651",
+        "label": "火钵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/5b/19651_crt_UtaCx.jpg",
+        "link": "https://bgm.tv/character/19651",
+        "categorie": "person"
+      },
+      {
+        "id": "19652",
+        "label": "无涯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/a2/19652_crt_RRR7I.jpg",
+        "link": "https://bgm.tv/character/19652",
+        "categorie": "person"
+      },
+      {
+        "id": "19653",
+        "label": "恋川春菊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/96/19653_crt_l84qq.jpg",
+        "link": "https://bgm.tv/character/19653",
+        "categorie": "person"
+      },
+      {
+        "id": "19654",
+        "label": "一乃谷天间",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/43/19654_crt_0T75v.jpg",
+        "link": "https://bgm.tv/character/19654",
+        "categorie": "person"
+      },
+      {
+        "id": "19655",
+        "label": "松之原小鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/99/19655_crt_AFAww.jpg",
+        "link": "https://bgm.tv/character/19655",
+        "categorie": "person"
+      },
+      {
+        "id": "19656",
+        "label": "月岛源十郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/0c/19656_crt_rr9Ig.jpg",
+        "link": "https://bgm.tv/character/19656",
+        "categorie": "person"
+      },
+      {
+        "id": "20672",
+        "label": "叶",
+        "info": "仁兵衛の母親。飛騨高山の出身。故人。 日本一の剣客となるために親と縁を切り武者修行の旅に出た。20年前、江戸の道場破りの最中に、同じく道場破りをしていた源十郎と遭遇、真剣勝負となる。互いの実力が拮抗していたために三日三晩戦っても勝負がつかなかったが、源十郎の腕を認め（どちらが上かはさておき）、「日本一と日本二の剣豪の子であれば健やかで逞しい子になるだろう」と考え、源十郎の子を産むと宣言した。源十郎と二人で子に技を教える日々を楽しみにしていたが、その日が訪れることは終ぞなかった。 仁兵衛出産の際に亡くなったとされているが、「仁兵衛に何度も子守唄を歌っていた」とする描写もあるため詳しい死亡時期は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/f7/20672_crt_RRVQv.jpg",
+        "link": "https://bgm.tv/character/20672",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

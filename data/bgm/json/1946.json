@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7111",
+        "label": "高仓花梨",
+        "info": "16歳（誕生日設定によっては15歳）。身長160cm。象徴物：蒲公英。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/96/7111_crt_zzYqo.jpg?r=1457197271",
+        "link": "https://bgm.tv/character/7111",
+        "categorie": "person"
+      },
+      {
+        "id": "7015",
+        "label": "亚克拉姆",
+        "info": "鬼の一族の首領。主人公を京に召喚した人物で、龍神の力を利用し京を支配しようと企む冷酷な性格。常に仮面をつけており、肩には黒麒麟を乗せている。『八葉抄』で新たに攻略対象となった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/0b/7015_crt_k77FA.jpg?r=1444233696",
+        "link": "https://bgm.tv/character/7015",
+        "categorie": "person"
+      },
+      {
+        "id": "7017",
+        "label": "席琳",
+        "info": "鬼の一族の（作中で確認出来る）唯一の女性。自分の美しさを絶対的に信じ、京の人間を蔑む高慢な性格だが、愛するアクラムのためなら死すら厭わない一途さも持つ。アクラムが（力を利用出来る神子として）執着する主人公に、強い嫉妬心を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/0c/7017_crt_hZ9bk.jpg?r=1427754630",
+        "link": "https://bgm.tv/character/7017",
+        "categorie": "person"
+      },
+      {
+        "id": "7112",
+        "label": "平胜真",
+        "info": "地の青龍。文官（京職少進）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/25/7112_crt_Klxk4.jpg?r=1458785686",
+        "link": "https://bgm.tv/character/7112",
+        "categorie": "person"
+      },
+      {
+        "id": "7114",
+        "label": "彰紋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/d0/7114_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7114",
+        "categorie": "person"
+      },
+      {
+        "id": "7115",
+        "label": "翡翠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/01/7115_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7115",
+        "categorie": "person"
+      },
+      {
+        "id": "7116",
+        "label": "安倍泰継",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/26/7116_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7116",
+        "categorie": "person"
+      },
+      {
+        "id": "7117",
+        "label": "藤原深苑",
+        "info": "年齢よりも大人びており、優秀だが、極めて権威主義的で身分の低い相手には尊大。主人公に対してもあまり協力的ではない。秘密裏にある人物と接点を持つ。大切に思う妹の「姫としての幸福」を最優先に考え、紫のために自分に出来ることを模索している。両親が亡くなって居ないため、妹の為にもしっかりして守らなければならないと思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/0b/7117_crt_2U0z3.jpg?r=1458009059",
+        "link": "https://bgm.tv/character/7117",
+        "categorie": "person"
+      },
+      {
+        "id": "7118",
+        "label": "源時朝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/19/7118_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7118",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

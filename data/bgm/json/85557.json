@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22806",
+        "label": "水原朋也",
+        "info": "13歳の男子中学生。本作の主人公。義姉となった一香に振り回されてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/c4/22806_crt_T0uj0.jpg?r=1394814006",
+        "link": "https://bgm.tv/character/22806",
+        "categorie": "person"
+      },
+      {
+        "id": "22807",
+        "label": "水原一香",
+        "info": "17歳の女子高校生。親の再婚により朋也の姉となるが、一人っ子の彼女にとって「弟ができた」ことがよほど嬉しかったのか、尾行したりいきなり部屋に入ろうとするなどストーカーまがいの行動を無自覚のうちに行なう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/ca/22807_crt_F2g22.jpg",
+        "link": "https://bgm.tv/character/22807",
+        "categorie": "person"
+      },
+      {
+        "id": "22808",
+        "label": "藤咲美奈",
+        "info": "朋也のクラスメイトで、彼の片思いの相手。しかし腹黒いところがあり、朋也にちょっかいを出して一香をヘコませるのが趣味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/89/22808_crt_otC7R.jpg?r=1394814111",
+        "link": "https://bgm.tv/character/22808",
+        "categorie": "person"
+      },
+      {
+        "id": "22809",
+        "label": "早坂琉璃",
+        "info": "特征是抖S蓝毛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/73/22809_crt_Q4Q76.jpg?r=1394814207",
+        "link": "https://bgm.tv/character/22809",
+        "categorie": "person"
+      },
+      {
+        "id": "22810",
+        "label": "望月麻里奈",
+        "info": "一香の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/fe/22810_crt_g6tX6.jpg?r=1394814330",
+        "link": "https://bgm.tv/character/22810",
+        "categorie": "person"
+      },
+      {
+        "id": "22811",
+        "label": "花園美鶴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/47/22811_crt_JY5rJ.jpg?r=1394814411",
+        "link": "https://bgm.tv/character/22811",
+        "categorie": "person"
+      },
+      {
+        "id": "22812",
+        "label": "早坂孝喜",
+        "info": "被姐姐虐的抖M",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/6f/22812_crt_6LsbE.jpg?r=1394814595",
+        "link": "https://bgm.tv/character/22812",
+        "categorie": "person"
+      },
+      {
+        "id": "22813",
+        "label": "水原夕子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/a9/22813_crt_7JIcJ.jpg?r=1394814733",
+        "link": "https://bgm.tv/character/22813",
+        "categorie": "person"
+      },
+      {
+        "id": "22814",
+        "label": "水原正也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/8d/22814_crt_SlAK1.jpg?r=1394815445",
+        "link": "https://bgm.tv/character/22814",
+        "categorie": "person"
+      },
+      {
+        "id": "22815",
+        "label": "藤総一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/d7/22815_crt_RkME4.jpg?r=1418627481",
+        "link": "https://bgm.tv/character/22815",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

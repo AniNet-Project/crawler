@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44780",
+        "label": "柊雛乃",
+        "info": "柊6姉妹を束ねる長女・・・なのだが見た目通りの外見なので迫力に欠ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/ff/44780_crt_h40yr.jpg",
+        "link": "https://bgm.tv/character/44780",
+        "categorie": "person"
+      },
+      {
+        "id": "44781",
+        "label": "柊要芽",
+        "info": "柊6姉妹の次女にしてこのゲームのヒロイン。主人公の初恋の人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/b1/44781_crt_sJQ6R.jpg",
+        "link": "https://bgm.tv/character/44781",
+        "categorie": "person"
+      },
+      {
+        "id": "44782",
+        "label": "柊瀬芦里",
+        "info": "柊家3女で北欧ハーフ。一番グラマーのくせして、精神年齢が一番低いお姉さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/d6/44782_crt_30deE.jpg",
+        "link": "https://bgm.tv/character/44782",
+        "categorie": "person"
+      },
+      {
+        "id": "44783",
+        "label": "柊巴",
+        "info": "柊家の4女。凛とした容姿をしているが、実は6人姉妹の中で一番優しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/2e/44783_crt_09b5y.jpg",
+        "link": "https://bgm.tv/character/44783",
+        "categorie": "person"
+      },
+      {
+        "id": "44784",
+        "label": "柊高嶺",
+        "info": "柊6姉妹の5女で、女子大生。ピアノが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/9c/44784_crt_fzfKF.jpg",
+        "link": "https://bgm.tv/character/44784",
+        "categorie": "person"
+      },
+      {
+        "id": "44785",
+        "label": "柊海",
+        "info": "柊6姉妹のナンバー6。女子学生。主人公と双子のようにして育てられた義姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/64/44785_crt_8zS9X.jpg",
+        "link": "https://bgm.tv/character/44785",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

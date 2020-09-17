@@ -1,0 +1,285 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26280",
+        "label": "安琪",
+        "info": "ミスルギ皇国の第一皇女「アンジュリーゼ」として国民から愛されていたが、ノーマだと発覚し、身分と名前はく奪。ドラゴンと戦う一兵士「アンジュ」へと転落する。皇女として育てられたためプライドが高く、頑固者。基地内ではことあるごとに周りと衝突する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/28/26280_crt_4PX01.jpg?r=1412508264",
+        "link": "https://bgm.tv/character/26280",
+        "categorie": "person"
+      },
+      {
+        "id": "27143",
+        "label": "塔斯克",
+        "info": "アンジュが深い森で出会った青年。ヴィルキスと因縁があるらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/6d/27143_crt_4UuTR.jpg?r=1593920708",
+        "link": "https://bgm.tv/character/27143",
+        "categorie": "person"
+      },
+      {
+        "id": "26281",
+        "label": "萨莉亚",
+        "info": "パラメイル第一中隊の副長。勤勉で真面目な性格。優秀な兵士だが教科書通りの行動しか取れず、咄嗟の状況に対応できずテンパることもしばしば。秘密の趣味を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/e7/26281_crt_Es69b.jpg?r=1413137973",
+        "link": "https://bgm.tv/character/26281",
+        "categorie": "person"
+      },
+      {
+        "id": "26282",
+        "label": "希尔达",
+        "info": "パラメイル第一中隊の突撃兵。ゾーラ隊長のお気に入りで、実力は隊の中でも一、二を争う。皮肉屋で野心家、デキる新入りのアンジュが気に食わず、敵対する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/63/26282_crt_Z41fO.jpg?r=1594394973",
+        "link": "https://bgm.tv/character/26282",
+        "categorie": "person"
+      },
+      {
+        "id": "26283",
+        "label": "薇薇安",
+        "info": "パラメイル第一中隊の突撃兵。戦闘時には驚異的な戦闘テクニックを見せる隊のエースだが、本性は朗らかで明るい少女。くだらないクイズを出しては、相手を勝手に友達認定する。〈趣味〉クイズ",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/95/26283_crt_OyKOf.jpg?r=1594399638",
+        "link": "https://bgm.tv/character/26283",
+        "categorie": "person"
+      },
+      {
+        "id": "26284",
+        "label": "罗莎莉",
+        "info": "パラメイル第一中隊の軽砲兵。大した実力は無いが、力ある者に付き従うことで今までなんとか生き残ってきた。一人で撃墜スコアを伸ばすアンジュが気にくわない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ec/26284_crt_12jdq.jpg?r=1415659265",
+        "link": "https://bgm.tv/character/26284",
+        "categorie": "person"
+      },
+      {
+        "id": "26285",
+        "label": "艾尔莎",
+        "info": "パラメイル第一中隊の重砲兵。戦闘よりも料理が得意で、多くの子供達からも慕われている。第一中隊にとってはおふくろさんの様な人。怒らせると誰よりも怖い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/ac/26285_crt_1XxGj.jpg?r=1416429868",
+        "link": "https://bgm.tv/character/26285",
+        "categorie": "person"
+      },
+      {
+        "id": "26286",
+        "label": "克莉丝",
+        "info": "パラメイル第一中隊の重砲兵。陰気で人見知りで引っ込み思案なネガティブ少女。常にヒルダやロザリーの後ろに隠れ、ひっそりと生きている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/9a/26286_crt_39hHI.jpg?r=1417976426",
+        "link": "https://bgm.tv/character/26286",
+        "categorie": "person"
+      },
+      {
+        "id": "26287",
+        "label": "桃香·荻野目",
+        "info": "皇女アンジュリーゼの筆頭侍女。アンジュリーゼのお世話をすることを無上の喜びとする優秀なメイド。健気で働き者で、時に尋常ならざる行動力を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/ae/26287_crt_VSP7S.jpg?r=1418566211",
+        "link": "https://bgm.tv/character/26287",
+        "categorie": "person"
+      },
+      {
+        "id": "27193",
+        "label": "艾玛",
+        "info": "アルゼナルに送り込まれた監察官で、アルゼナルにいる人間の中で唯一のマナ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/81/27193_crt_4xMxX.jpg?r=1417358535",
+        "link": "https://bgm.tv/character/27193",
+        "categorie": "person"
+      },
+      {
+        "id": "27194",
+        "label": "丽洁·兰多格",
+        "info": "スルギ皇国の近衛長官。ジュリオの腹心でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/a1/27194_crt_3L2X7.jpg?r=1416752387",
+        "link": "https://bgm.tv/character/27194",
+        "categorie": "person"
+      },
+      {
+        "id": "28313",
+        "label": "梅依",
+        "info": "パラメイル第一中隊の整備班長。幼いながらも最高の知識と腕を持つメカニック。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ab/28313_crt_v52B7.jpg?r=1423030515",
+        "link": "https://bgm.tv/character/28313",
+        "categorie": "person"
+      },
+      {
+        "id": "28315",
+        "label": "西尔维娅·斑鸠·御折木",
+        "info": "ミスルギ皇国第二皇女、アンジュの妹。気高く美しい姉を慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/39/28315_crt_51616.jpg?r=1423029907",
+        "link": "https://bgm.tv/character/28315",
+        "categorie": "person"
+      },
+      {
+        "id": "28316",
+        "label": "萨拉 / 萨拉曼蒂妮",
+        "info": "謎のパラメイルに乗る黒髪の乙女。ドラゴンと共に現われ、サリア達を圧倒。アルゼナルを絶望的窮地に陥れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/0d/28316_crt_3841m.jpg?r=1423030313",
+        "link": "https://bgm.tv/character/28316",
+        "categorie": "person"
+      },
+      {
+        "id": "29462",
+        "label": "吉兒",
+        "info": "黑色长发，阿尔泽纳尔的总司令官。右手为义肢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/88/29462_crt_bp0hS.jpg?r=1423246052",
+        "link": "https://bgm.tv/character/29462",
+        "categorie": "person"
+      },
+      {
+        "id": "29463",
+        "label": "美琪",
+        "info": "酒红色头发，阿尔泽纳尔的军医。虽然说话刻薄但技术高超，拯救了很多诺玛的性命。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/08/29463_crt_1XBcP.jpg?r=1423246294",
+        "link": "https://bgm.tv/character/29463",
+        "categorie": "person"
+      },
+      {
+        "id": "29464",
+        "label": "茉莉",
+        "info": "草绿色头发的中年女性，经营著阿尔泽纳尔的巨大市场“雅思敏商场”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/e2/29464_crt_V2z7Y.jpg?r=1423246564",
+        "link": "https://bgm.tv/character/29464",
+        "categorie": "person"
+      },
+      {
+        "id": "29465",
+        "label": "佐拉",
+        "info": "阿尔泽纳尔的第一中队队长。拥有丰富的战场经验，因过去的负伤而使右眼是义眼。女同性恋，金色长发，经常对希尔达等年轻士兵出手，亦无理地夺去安琪的初吻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/b7/29465_crt_7LQJZ.jpg?r=1423246803",
+        "link": "https://bgm.tv/character/29465",
+        "categorie": "person"
+      },
+      {
+        "id": "29466",
+        "label": "朱利奥·飞鸟·御折木",
+        "info": "御折木皇国的皇太子。安琪丽莎的兄长。对诺玛感到厌恶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/31/29466_crt_3rvyS.jpg?r=1423247043",
+        "link": "https://bgm.tv/character/29466",
+        "categorie": "person"
+      },
+      {
+        "id": "29467",
+        "label": "密斯提·罗森布鲁姆",
+        "info": "罗森布鲁姆王国的皇女。和安琪在学生时代就认识。不谙世事的大小姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/24/29467_crt_5Jbb6.jpg?r=1423247218",
+        "link": "https://bgm.tv/character/29467",
+        "categorie": "person"
+      },
+      {
+        "id": "29468",
+        "label": "索菲亚·斑鸠·御折木",
+        "info": "御折木皇国的皇后。安琪丽莎之母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/1d/29468_crt_2eWwN.jpg?r=1423247381",
+        "link": "https://bgm.tv/character/29468",
+        "categorie": "person"
+      },
+      {
+        "id": "29469",
+        "label": "寿来·飞鸟·御折木",
+        "info": "御折木皇国的皇帝。安琪丽莎之父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/66/29469_crt_Uyx88.jpg?r=1423247592",
+        "link": "https://bgm.tv/character/29469",
+        "categorie": "person"
+      },
+      {
+        "id": "29470",
+        "label": "可可／可可·李维",
+        "info": "第一中队的新兵。12岁，蓝色长发，喜欢绘本及布丁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/f3/29470_crt_Ol5x2.jpg?r=1423247835",
+        "link": "https://bgm.tv/character/29470",
+        "categorie": "person"
+      },
+      {
+        "id": "29471",
+        "label": "米兰达／米兰达·坎贝尔",
+        "info": "第一中队的新兵。灰色短发，可可的朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/d6/29471_crt_v0jCG.jpg?r=1423248016",
+        "link": "https://bgm.tv/character/29471",
+        "categorie": "person"
+      },
+      {
+        "id": "29472",
+        "label": "潘梅菈",
+        "info": "阿尔泽纳尔基地的驾驶员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/01/29472_crt_3955A.jpg?r=1423248632",
+        "link": "https://bgm.tv/character/29472",
+        "categorie": "person"
+      },
+      {
+        "id": "29473",
+        "label": "光琉",
+        "info": "阿尔泽纳尔基地的雷达员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/05/29473_crt_eUF18.jpg?r=1423248698",
+        "link": "https://bgm.tv/character/29473",
+        "categorie": "person"
+      },
+      {
+        "id": "29474",
+        "label": "奥利维",
+        "info": "阿尔泽纳尔基地的通讯员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/5e/29474_crt_781fh.jpg?r=1423248904",
+        "link": "https://bgm.tv/character/29474",
+        "categorie": "person"
+      },
+      {
+        "id": "29475",
+        "label": "娜嘉",
+        "info": "萨拉亲信的女剑士。搭乘龙神器·苍龙号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b5/29475_crt_dD7DZ.jpg?r=1423249143",
+        "link": "https://bgm.tv/character/29475",
+        "categorie": "person"
+      },
+      {
+        "id": "29476",
+        "label": "小要",
+        "info": "萨拉亲信的薙刀手。搭乘龙神器·碧龙号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/2a/29476_crt_dGwFd.jpg?r=1423249331",
+        "link": "https://bgm.tv/character/29476",
+        "categorie": "person"
+      },
+      {
+        "id": "29477",
+        "label": "盖考医生",
+        "info": "龙神殿的天才御医，也是遗传工学的权威。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/63/29477_crt_X57Dx.jpg?r=1423249510",
+        "link": "https://bgm.tv/character/29477",
+        "categorie": "person"
+      },
+      {
+        "id": "29478",
+        "label": "拉米亚",
+        "info": "薇薇安分别十年的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/75/29478_crt_8VfK9.jpg?r=1423249686",
+        "link": "https://bgm.tv/character/29478",
+        "categorie": "person"
+      },
+      {
+        "id": "29479",
+        "label": "安布利欧",
+        "info": "全身被谜团所包围的存在。处在比为政者们还要高一个级别的位置傲视著世界，拥有已失传的太古兵器以及技术。被吉尔视作仇敌的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/bf/29479_crt_Usxls.jpg?r=1423250035",
+        "link": "https://bgm.tv/character/29479",
+        "categorie": "person"
+      },
+      {
+        "id": "29480",
+        "label": "大巫女",
+        "info": "在原始地球里是最高统治者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/df/29480_crt_9z79q.jpg?r=1423250231",
+        "link": "https://bgm.tv/character/29480",
+        "categorie": "person"
+      },
+      {
+        "id": "31480",
+        "label": "奥拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/d8/31480_crt_0tNDi.jpg?r=1427993151",
+        "link": "https://bgm.tv/character/31480",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

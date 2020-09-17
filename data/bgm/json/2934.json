@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1727",
+        "label": "源九郎",
+        "info": "主人公。 在被源赖朝追杀后的逃亡中遇到了吸血鬼黑蜜，并成为了吸血鬼。但是在完全成为吸血鬼前被弁庆背叛，被割掉了首级。于是他作为一个不完全体，必须每隔百年就要用新的身体来代替老化的身体。为此，每次换身体的时候还会记忆全失，唯一能够恢复记忆的是在只有首级的状态下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/5a/1727_2zFxX.jpg",
+        "link": "https://bgm.tv/character/1727",
+        "categorie": "person"
+      },
+      {
+        "id": "1728",
+        "label": "黑蜜",
+        "info": "女主人公。从遥远的过去起就是靠袭击人类而得以生存的吸血鬼，血就是她赖以生存的粮食。众多集团为了揭开她的不老不死的秘密而在数百年间不断地对她进行追踪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/37/1728_9Oc9u.jpg",
+        "link": "https://bgm.tv/character/1728",
+        "categorie": "person"
+      },
+      {
+        "id": "1729",
+        "label": "武藏坊弁庆",
+        "info": "作为源九郎的随从而和他一起行动的彪形大汉。由于源义经迷恋黑蜜，似乎让他产生了嫉妒之心，导至他背叛了源义经而重新投向镰仓政府。可是在砍掉源义经的首级的时候，由于意外而吞下了源义经的血，最后成为了一个不死但会衰老的人",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/e2/1729_Lx5SO.jpg",
+        "link": "https://bgm.tv/character/1729",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

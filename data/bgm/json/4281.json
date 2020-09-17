@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3325",
+        "label": "孙策伯符",
+        "info": "　　日本人气ACG系列《一骑当千》的主角。人气投票排名第2位；天真烂漫的好战少女，没有性别之分，经常被人称为笨蛋，体内封印着水龙之力，战斗潜力不可限量，是难得的习武天才，后取代袁术成为南阳君主。在觉醒以后开始散发出领主的霸气，拥有可以打破命运诅咒的力量。盐崎雄二（作者）说，以孙策为主人公的理由是“谁都没以孙策为主人公过”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/69/3325_crt_z6wii.jpg",
+        "link": "https://bgm.tv/character/3325",
+        "categorie": "person"
+      },
+      {
+        "id": "3326",
+        "label": "吕蒙子明",
+        "info": "　日本人气热血格斗动漫《一骑当千》中的人物，继承了三国武将吕蒙之魂的B级斗士。初期登场的时候表现狂傲，但相处下来其实是很可爱的女生，性格正经，平时举止拘谨，容易害羞，浅野真澄说“这是一个傲娇角色”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/18/3326_crt_44zlR.jpg?r=1544757276",
+        "link": "https://bgm.tv/character/3326",
+        "categorie": "person"
+      },
+      {
+        "id": "3342",
+        "label": "关羽云长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/49/3342_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3342",
+        "categorie": "person"
+      },
+      {
+        "id": "11620",
+        "label": "张飞益德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d4/11620_crt_MjYYa.jpg",
+        "link": "https://bgm.tv/character/11620",
+        "categorie": "person"
+      },
+      {
+        "id": "3328",
+        "label": "周瑜公瑾",
+        "info": "继承了三国名将周瑜之名的高中生斗士。南阳新四天王之一，擅长以战略家的名义制定战略，有王佐之才的能力，精通少林拳及八卦掌。原来在学校中并不高调，但因周瑜之名已经受到王允子师的留意，在青梅竹马孙策伯符转校以后也被迫登上斗争的舞台，也因此下定了要保护伯符的决心，不想重蹈一千八百年前的覆辙，并以此为动力不断变强。之后在原作的赤壁之战中表现活跃，与诸葛亮孔明一起构造出了赤壁之战的整体战略。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/00/3328_crt_KshhK.jpg",
+        "link": "https://bgm.tv/character/3328",
+        "categorie": "person"
+      },
+      {
+        "id": "3340",
+        "label": "曹操孟徳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/30/3340_crt_7TjTq.jpg",
+        "link": "https://bgm.tv/character/3340",
+        "categorie": "person"
+      },
+      {
+        "id": "21721",
+        "label": "吴荣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e8/21721_crt_ts0rh.jpg",
+        "link": "https://bgm.tv/character/21721",
+        "categorie": "person"
+      },
+      {
+        "id": "21723",
+        "label": "吕布奉先",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/15/21723_crt_rQRCs.jpg",
+        "link": "https://bgm.tv/character/21723",
+        "categorie": "person"
+      },
+      {
+        "id": "21724",
+        "label": "刘备玄德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/cb/21724_crt_XA65i.jpg?r=1544757336",
+        "link": "https://bgm.tv/character/21724",
+        "categorie": "person"
+      },
+      {
+        "id": "60972",
+        "label": "孙权仲谋",
+        "info": "南陽学院一年。性格はおしとやかなお嬢様で、闘士としての能力は未知数。人前でパンツを見せたりすることをとても恥ずかしいと思っている。周瑜が気になっているようだが……？",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/f9/60972_crt_wxwas.jpg?r=1544757359",
+        "link": "https://bgm.tv/character/60972",
+        "categorie": "person"
+      },
+      {
+        "id": "67696",
+        "label": "诸葛亮孔明",
+        "info": "伏龍（ふくりゅう）と称される闘士。 桃源院（とうげんいん）に住む徐庶（じょしょ）の許に身を寄せている。 闘士としての実力は不明だが、その才は類を見ない逸材。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/f3/67696_crt_6IWV2.jpg?r=1544764888",
+        "link": "https://bgm.tv/character/67696",
+        "categorie": "person"
+      },
+      {
+        "id": "67697",
+        "label": "赵云子龙",
+        "info": "成都学園二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/7f/67697_crt_mjVR2.jpg?r=1544765447",
+        "link": "https://bgm.tv/character/67697",
+        "categorie": "person"
+      },
+      {
+        "id": "3329",
+        "label": "王允子师",
+        "info": "声 - 初代：森久保祥太郎 、『DD』以降：遊佐浩二",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/8c/3329_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3329",
+        "categorie": "person"
+      },
+      {
+        "id": "3330",
+        "label": "楽就",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/96/3330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3330",
+        "categorie": "person"
+      },
+      {
+        "id": "3337",
+        "label": "董卓仲穎",
+        "info": "继承了三国时期的暴君董卓之魂的斗士。洛阳高校的首领，个性孤僻暴戾，做事不择手段。喜欢种西瓜，同时有自残的癖好，所以身上贴满膏贴及缠有绷带。身形瘦小但有着魔王级的实力，仅靠自己一人就称霸于天下，原作中曾连续与张昭子布、吕蒙子明、吕布奉先交战依然悠然对应，但对于三大学院的崛起，董卓表现十分在意。最后被吕布打败，从此巨星陨落，天下三分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/86/3337_crt_K8fiC.jpg",
+        "link": "https://bgm.tv/character/3337",
+        "categorie": "person"
+      },
+      {
+        "id": "3338",
+        "label": "賈詡文和",
+        "info": "继承了三国军师贾诩之魂的计谋型斗士，斗士等级D。经常携带笔记本电脑，戴着眼镜的女子。知识丰富、多谋善断。喜欢趋炎附势，但只要认定了有实力的势力就会忠心耿耿。多次与有权势的男性发生性关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/5a/3338_crt_VEa7v.jpg?r=1544767093",
+        "link": "https://bgm.tv/character/3338",
+        "categorie": "person"
+      },
+      {
+        "id": "3339",
+        "label": "夏侯惇元譲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/df/3339_crt_GKIpo.jpg?r=1561824328",
+        "link": "https://bgm.tv/character/3339",
+        "categorie": "person"
+      },
+      {
+        "id": "3344",
+        "label": "張絋子綱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/a4/3344_crt_q0s7A.jpg",
+        "link": "https://bgm.tv/character/3344",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

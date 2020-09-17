@@ -1,0 +1,389 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20012",
+        "label": "杀老师",
+        "info": "名字来源： “杀不了的老师”， 简称 “杀老师” ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/90/20012_crt_TuBS7.jpg?r=1450119549",
+        "link": "https://bgm.tv/character/20012",
+        "categorie": "person"
+      },
+      {
+        "id": "20013",
+        "label": "潮田渚",
+        "info": "代号为“性别不明”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e0/20013_crt_8gEgb.jpg?r=1450121687",
+        "link": "https://bgm.tv/character/20013",
+        "categorie": "person"
+      },
+      {
+        "id": "20014",
+        "label": "赤羽业",
+        "info": "代号为“中二半”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/45/20014_crt_hZXK9.jpg?r=1450119671",
+        "link": "https://bgm.tv/character/20014",
+        "categorie": "person"
+      },
+      {
+        "id": "28944",
+        "label": "茅野枫",
+        "info": "代号为“永远的0”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/6a/28944_crt_gGTAm.jpg?r=1450121029",
+        "link": "https://bgm.tv/character/28944",
+        "categorie": "person"
+      },
+      {
+        "id": "28941",
+        "label": "矶贝悠马",
+        "info": "3年E班男子学级委员，咖啡色头发上有两根呆毛，斯文爽朗的美少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/0c/28941_crt_W0767.jpg?r=1450119757",
+        "link": "https://bgm.tv/character/28941",
+        "categorie": "person"
+      },
+      {
+        "id": "28939",
+        "label": "前原阳斗",
+        "info": "代号为“玩弄女性的混蛋”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/75/28939_crt_90Bs3.jpg?r=1450123276",
+        "link": "https://bgm.tv/character/28939",
+        "categorie": "person"
+      },
+      {
+        "id": "28966",
+        "label": "中村莉樱",
+        "info": "代号为“辣妹英语”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/b8/28966_crt_DzUZD.jpg?r=1450122625",
+        "link": "https://bgm.tv/character/28966",
+        "categorie": "person"
+      },
+      {
+        "id": "28956",
+        "label": "奥田爱美",
+        "info": "代号为“毒眼镜”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/06/28956_crt_nX7Xm.jpg?r=1450120285",
+        "link": "https://bgm.tv/character/28956",
+        "categorie": "person"
+      },
+      {
+        "id": "28949",
+        "label": "杉野友人",
+        "info": "代号为“棒球笨蛋”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/f0/28949_crt_Z1T1Z.jpg?r=1450121979",
+        "link": "https://bgm.tv/character/28949",
+        "categorie": "person"
+      },
+      {
+        "id": "28952",
+        "label": "神崎有希子",
+        "info": "代号为“神崎名人”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/d6/28952_crt_EIAiF.jpg?r=1450121148",
+        "link": "https://bgm.tv/character/28952",
+        "categorie": "person"
+      },
+      {
+        "id": "28957",
+        "label": "千叶龙之介",
+        "info": "代号为“男性向电玩主角”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/72/28957_crt_FIC6w.jpg?r=1450122332",
+        "link": "https://bgm.tv/character/28957",
+        "categorie": "person"
+      },
+      {
+        "id": "28950",
+        "label": "速水凛香",
+        "info": "代号为“傲娇狙击手”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/02/28950_crt_1BziI.jpg?r=1450122944",
+        "link": "https://bgm.tv/character/28950",
+        "categorie": "person"
+      },
+      {
+        "id": "28940",
+        "label": "冈野日向",
+        "info": "代号为“超强猴子”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/72/28940_crt_r5ZhW.jpg?r=1450120178",
+        "link": "https://bgm.tv/character/28940",
+        "categorie": "person"
+      },
+      {
+        "id": "28938",
+        "label": "片冈惠",
+        "info": "代号为“板着脸说教王”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/d3/28938_crt_ouFGX.jpg?r=1450120429",
+        "link": "https://bgm.tv/character/28938",
+        "categorie": "person"
+      },
+      {
+        "id": "28942",
+        "label": "仓桥阳菜乃",
+        "info": "代号为“空气卷毛锹形虫”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/df/28942_crt_E7594.jpg?r=1450121485",
+        "link": "https://bgm.tv/character/28942",
+        "categorie": "person"
+      },
+      {
+        "id": "28947",
+        "label": "竹林孝太郎",
+        "info": "代号为“眼镜（爆）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/c6/28947_crt_E56G6.jpg?r=1450122160",
+        "link": "https://bgm.tv/character/28947",
+        "categorie": "person"
+      },
+      {
+        "id": "28946",
+        "label": "矢田桃花",
+        "info": "代号为“马尾和胸部”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ae/28946_crt_yruUz.jpg?r=1450123754",
+        "link": "https://bgm.tv/character/28946",
+        "categorie": "person"
+      },
+      {
+        "id": "28943",
+        "label": "木村正义",
+        "info": "代号为“Justice”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/07/28943_crt_1eWVL.jpg?r=1450121284",
+        "link": "https://bgm.tv/character/28943",
+        "categorie": "person"
+      },
+      {
+        "id": "28960",
+        "label": "寺坂龙马",
+        "info": "代号为“模仿鹰冈的”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/ce/28960_crt_MCpZo.jpg?r=1450122468",
+        "link": "https://bgm.tv/character/28960",
+        "categorie": "person"
+      },
+      {
+        "id": "28953",
+        "label": "吉田大成",
+        "info": "代号为“本垒板”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/2c/28953_crt_TyvWf.jpg?r=1450123950",
+        "link": "https://bgm.tv/character/28953",
+        "categorie": "person"
+      },
+      {
+        "id": "28958",
+        "label": "狭间绮罗罗",
+        "info": "代号为“E班之黑暗”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/1e/28958_crt_d6myC.jpg?r=1450122777",
+        "link": "https://bgm.tv/character/28958",
+        "categorie": "person"
+      },
+      {
+        "id": "28959",
+        "label": "村松拓哉",
+        "info": "代号为“丝瓜”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/98/28959_crt_PPSph.jpg?r=1450123538",
+        "link": "https://bgm.tv/character/28959",
+        "categorie": "person"
+      },
+      {
+        "id": "28951",
+        "label": "冈岛大河",
+        "info": "代号为“变态最末期”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/40/28951_crt_3Bmxb.jpg?r=1450120002",
+        "link": "https://bgm.tv/character/28951",
+        "categorie": "person"
+      },
+      {
+        "id": "28954",
+        "label": "原寿美铃",
+        "info": "代号为“椚丘之母”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/e2/28954_crt_G1HA4.jpg?r=1450123049",
+        "link": "https://bgm.tv/character/28954",
+        "categorie": "person"
+      },
+      {
+        "id": "28945",
+        "label": "三村航辉",
+        "info": "代号为“香菇头导演”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/84/28945_crt_1O9Ed.jpg?r=1450123373",
+        "link": "https://bgm.tv/character/28945",
+        "categorie": "person"
+      },
+      {
+        "id": "28948",
+        "label": "不破优月",
+        "info": "代号为“这漫画实在太酷了！！”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/a2/28948_crt_fuG88.jpg?r=1450123169",
+        "link": "https://bgm.tv/character/28948",
+        "categorie": "person"
+      },
+      {
+        "id": "28955",
+        "label": "菅谷创介",
+        "info": "代号为“美术瘦竹竿”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/7d/28955_crt_3lah9.jpg?r=1450121820",
+        "link": "https://bgm.tv/character/28955",
+        "categorie": "person"
+      },
+      {
+        "id": "20015",
+        "label": "乌间惟臣",
+        "info": "代号为“死硬派”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/53/20015_crt_rLRo4.jpg?r=1450119905",
+        "link": "https://bgm.tv/character/20015",
+        "categorie": "person"
+      },
+      {
+        "id": "20016",
+        "label": "伊莉娜·叶拉维琪",
+        "info": "由政府派来的职业杀手。金发碧眼，巨乳。擅长美人计，常常使用美色及话术接近魅惑目标并暗杀。吸烟者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/bd/20016_crt_hhfhh.jpg?r=1450116599",
+        "link": "https://bgm.tv/character/20016",
+        "categorie": "person"
+      },
+      {
+        "id": "32954",
+        "label": "椚丘仔",
+        "info": "椚丘学园吉祥物，单行本每话尾出现，担任解说和吐糟工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/d7/32954_crt_hk6Rr.jpg?r=1455048158",
+        "link": "https://bgm.tv/character/32954",
+        "categorie": "person"
+      },
+      {
+        "id": "20017",
+        "label": "浅野学峯",
+        "info": "椚丘学园的理事长，带有腹黑特质的中年男子，崇尚阶级制度和合理主义。领带夹是橡树叶造型（为补习班时代第一届学生池田、森和永井所赠）。毕业于美国的著名学府哈佛大学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/7b/20017_crt_Yyo5a.jpg?r=1450125573",
+        "link": "https://bgm.tv/character/20017",
+        "categorie": "person"
+      },
+      {
+        "id": "31035",
+        "label": "自律思考固定炮台",
+        "info": "喜欢的科目：数学，讨厌的科目：体育。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/95/31035_crt_nslU5.jpg?r=1450124085",
+        "link": "https://bgm.tv/character/31035",
+        "categorie": "person"
+      },
+      {
+        "id": "31213",
+        "label": "堀部糸成",
+        "info": "代号为“滚滚往上爬”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/5f/31213_crt_3113G.jpg?r=1450124595",
+        "link": "https://bgm.tv/character/31213",
+        "categorie": "person"
+      },
+      {
+        "id": "31414",
+        "label": "白",
+        "info": "自称堀部系成的监护人，一身白衣及蒙面。衣物是“对老师纤维”，为了使自身不被杀老师攻击。指出杀老师与堀部系成是“兄弟”。是将触手细胞植入系成的的身体的神秘人物，知道杀老师的过去（自称被杀老师夺走了他的全部）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/db/31414_crt_vbOoR.jpg?r=1452815905",
+        "link": "https://bgm.tv/character/31414",
+        "categorie": "person"
+      },
+      {
+        "id": "31970",
+        "label": "浅野学秀",
+        "info": "喜欢的科目：所有科目，讨厌的科目：道德。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/16/31970_crt_oi0Iq.jpg?r=1450125828",
+        "link": "https://bgm.tv/character/31970",
+        "categorie": "person"
+      },
+      {
+        "id": "32595",
+        "label": "榊原莲",
+        "info": "“五英杰”之一，第四个登场的“五英杰”。彻底称霸所有人文系竞赛的锐利诗人。学生会书记。受女生欢迎的美男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/91/32595_crt_FFUFc.jpg",
+        "link": "https://bgm.tv/character/32595",
+        "categorie": "person"
+      },
+      {
+        "id": "32597",
+        "label": "濑尾智也",
+        "info": "“五英杰”之一，第二个登场的“五英杰”。黑色短发的少年。学生会议长。曾经在洛杉矶住过一年，英文能力不凡。土屋果穗的劈腿对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/5b/32597_crt_43yA1.jpg",
+        "link": "https://bgm.tv/character/32597",
+        "categorie": "person"
+      },
+      {
+        "id": "32594",
+        "label": "荒木铁平",
+        "info": "“五英杰”之一。第一个登场的“五英杰”。棕发戴眼镜的少年。放送部部长，曾在集会和球技大会嘲笑3年E班。将来打算成为媒体人，有着无人能及的社会知识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/be/32594_crt_779kF.jpg",
+        "link": "https://bgm.tv/character/32594",
+        "categorie": "person"
+      },
+      {
+        "id": "32596",
+        "label": "小山夏彦",
+        "info": "“五英杰”之一。第三个登场的“五英杰”。生物部部长。黑色卷发，戴粗框眼镜，长相狰狞的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/88/32596_crt_4M4ZP.jpg",
+        "link": "https://bgm.tv/character/32596",
+        "categorie": "person"
+      },
+      {
+        "id": "32137",
+        "label": "鹰冈明",
+        "info": "防衛省特務部出身，被政府指派作為烏間惟臣的助手在3-E班訓練學生。與烏間惟臣是空降部隊時的同期戰友。在政府眼中，教官方面的才能在烏間的能力之上。將3-E班的上課時間表由課堂為重，改成訓練為重。自稱像爸爸一樣親近學生，以甜食作為與學生增進感情的手段，再施以家暴父親般的獨裁體制訓練，給予學生9分「恐怖」和1分「慈愛」。對於比自己優秀的烏間十分忌妒，想籍由培養拯救世界的英雄以提高地位來指使烏間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/a5/32137_crt_3hNZn.jpg?r=1429502808",
+        "link": "https://bgm.tv/character/32137",
+        "categorie": "person"
+      },
+      {
+        "id": "33063",
+        "label": "ガストロ",
+        "info": "逆立てた髪が特徴の長身の男性。フランス出身。「銃殺」専門の殺し屋。「その日一番美味い銃が一番手に馴染む」という理由で、実弾入りの銃に色々な食材・調味料を付けて咥えながら味わうという奇妙な趣味を持つ。鷹岡に雇われた殺し屋の中では唯一軍人上がりで、その経験から隠れた敵をその行動まで瞬時に見抜く戦闘の勘を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/94/33063_crt_q3GrT.jpg",
+        "link": "https://bgm.tv/character/33063",
+        "categorie": "person"
+      },
+      {
+        "id": "33062",
+        "label": "グリップ",
+        "info": "セミロングのウェーブヘアの男性。デンマーク出身。素手で窓にヒビを入れる驚異的な握力の持ち主で「素手」専門の殺し屋。「武士の口調になる」という理由で語尾に「ぬ」をつけて話すことから、カルマに「おじさんぬ」というあだ名を付けられる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/c5/33062_crt_0DqjY.jpg",
+        "link": "https://bgm.tv/character/33062",
+        "categorie": "person"
+      },
+      {
+        "id": "33061",
+        "label": "スモッグ",
+        "info": "中年の男性。日本出身。「毒殺」専門の殺し屋。使用する毒はすべて自作であり、洗練された実用性にこだわるあまり、専用の研究室まで作っている。毒を噴射するスプレー型の武器を使った戦法を行う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/10/33061_crt_G5IGc.jpg",
+        "link": "https://bgm.tv/character/33061",
+        "categorie": "person"
+      },
+      {
+        "id": "32603",
+        "label": "雪村亚久里",
+        "info": "在杀老师到来前的前任3-E导师。托付杀老师教导E班的人物。白天在椚丘学园担任教师，晚上则在研究所担任研究员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/29/32603_crt_EQXAX.jpg?r=1461906997",
+        "link": "https://bgm.tv/character/32603",
+        "categorie": "person"
+      },
+      {
+        "id": "38766",
+        "label": "第二代死神",
+        "info": "座右铭为“优秀的杀手万事皆通”，拥有超一流的情报力及变装和暗杀技术。绘画能力也很优秀，能够漂亮地把伊莉娜的全身图画在黑板上。精通电脑技术，能轻易地黑掉终端小律。不同于一般杀手，战斗技术也非常强大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/3b/38766_crt_G26c9.jpg",
+        "link": "https://bgm.tv/character/38766",
+        "categorie": "person"
+      },
+      {
+        "id": "8748",
+        "label": "脳噛ネウロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/44/8748_crt_q76Gw.jpg",
+        "link": "https://bgm.tv/character/8748",
+        "categorie": "person"
+      },
+      {
+        "id": "29696",
+        "label": "桂木弥子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/a9/29696_crt_I0zTg.jpg",
+        "link": "https://bgm.tv/character/29696",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

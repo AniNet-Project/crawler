@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18487",
+        "label": "一色茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f7/18487_crt_3M9K5.jpg?r=1364700156",
+        "link": "https://bgm.tv/character/18487",
+        "categorie": "person"
+      },
+      {
+        "id": "18488",
+        "label": "二叶葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/7a/18488_crt_0NMJ8.jpg?r=1459530761",
+        "link": "https://bgm.tv/character/18488",
+        "categorie": "person"
+      },
+      {
+        "id": "18489",
+        "label": "三枝若叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/50/18489_crt_EbpPv.jpg?r=1360321676",
+        "link": "https://bgm.tv/character/18489",
+        "categorie": "person"
+      },
+      {
+        "id": "18490",
+        "label": "四宫向日葵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/3f/18490_crt_SMfM1.jpg?r=1360321700",
+        "link": "https://bgm.tv/character/18490",
+        "categorie": "person"
+      },
+      {
+        "id": "18492",
+        "label": "黒骑蕾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/24/18492_crt_FNOBZ.jpg?r=1360321720",
+        "link": "https://bgm.tv/character/18492",
+        "categorie": "person"
+      },
+      {
+        "id": "18493",
+        "label": "一色桃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/77/18493_crt_CA0hN.jpg?r=1360321737",
+        "link": "https://bgm.tv/character/18493",
+        "categorie": "person"
+      },
+      {
+        "id": "18495",
+        "label": "一色健次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/22/18495_crt_gZoro.jpg",
+        "link": "https://bgm.tv/character/18495",
+        "categorie": "person"
+      },
+      {
+        "id": "18496",
+        "label": "天城水羽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/66/18496_crt_608bx.jpg",
+        "link": "https://bgm.tv/character/18496",
+        "categorie": "person"
+      },
+      {
+        "id": "18497",
+        "label": "紫条悠里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/63/18497_crt_m5J4P.jpg",
+        "link": "https://bgm.tv/character/18497",
+        "categorie": "person"
+      },
+      {
+        "id": "18808",
+        "label": "Barrett Suits",
+        "info": "ビビットシステムによってあかね達が変身する、対アローン用のパイロットスーツ。変身コードは「イグニッション！テクスチャー・オン！」健次郎から渡された（あかね以外はあかねのスーツから生成された）鍵で変身する。見た目は軽装だが装着者の身体能力や防御力を人間離れしたレベルにまで引き上げ、靴底からの噴射で自由に飛行させる。申し訳程度だが、身元を隠すためのサングラスを作り出すことも可能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/77/18808_crt_Rwl2Z.jpg",
+        "link": "https://bgm.tv/character/18808",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

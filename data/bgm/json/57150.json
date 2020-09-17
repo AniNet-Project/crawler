@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18416",
+        "label": "穆恩股长",
+        "info": "ラインコーポレーション商品企画課係長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/56/18416_crt_77HUh.jpg",
+        "link": "https://bgm.tv/character/18416",
+        "categorie": "person"
+      },
+      {
+        "id": "18618",
+        "label": "可妮",
+        "info": "デザイン課のOL。常にダイエット&リバウンドを繰り返している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/bf/18618_crt_88io1.jpg",
+        "link": "https://bgm.tv/character/18618",
+        "categorie": "person"
+      },
+      {
+        "id": "18620",
+        "label": "部长",
+        "info": "ムーンの上司。多少頼りない。仕事中にソリティアをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/48/18620_crt_f72R9.jpg",
+        "link": "https://bgm.tv/character/18620",
+        "categorie": "person"
+      },
+      {
+        "id": "18622",
+        "label": "杰西卡",
+        "info": "マーチャンダイジング課のOL。コニーと同期でプライベートでも仲がいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/6f/18622_crt_cOCKO.jpg",
+        "link": "https://bgm.tv/character/18622",
+        "categorie": "person"
+      },
+      {
+        "id": "18624",
+        "label": "布朗股长",
+        "info": "商品企画課係長。ムーンが唯一腹を割って話せる相手。無口でメールで答える。受話器を取るのが素早い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/a9/18624_crt_hTiAU.jpg",
+        "link": "https://bgm.tv/character/18624",
+        "categorie": "person"
+      },
+      {
+        "id": "18621",
+        "label": "詹姆斯科长",
+        "info": "マーチャンダイジング課課長で社長の息子。ナルシスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/c5/18621_crt_VY468.jpg",
+        "link": "https://bgm.tv/character/18621",
+        "categorie": "person"
+      },
+      {
+        "id": "18625",
+        "label": "萨莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f6/18625_crt_AmAWW.jpg",
+        "link": "https://bgm.tv/character/18625",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

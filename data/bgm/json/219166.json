@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57689",
+        "label": "末日铁拳",
+        "info": "“不经历冲突怎能不断进化。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/b2/57689_crt_yzPmU.jpg?r=1504774479",
+        "link": "https://bgm.tv/character/57689",
+        "categorie": "person"
+      },
+      {
+        "id": "41810",
+        "label": "猎空",
+        "info": "“不用担心，交给我吧！”",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/94/41810_crt_63268.jpg?r=1488018577",
+        "link": "https://bgm.tv/character/41810",
+        "categorie": "person"
+      },
+      {
+        "id": "43775",
+        "label": "源氏",
+        "info": "“身可死，武士之名不可弃。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e8/43775_crt_Kyo4H.jpg?r=1487967181",
+        "link": "https://bgm.tv/character/43775",
+        "categorie": "person"
+      },
+      {
+        "id": "46916",
+        "label": "温斯顿",
+        "info": "“想象是发现的本质。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/9e/46916_crt_nrcdD.jpg?r=1488025196",
+        "link": "https://bgm.tv/character/46916",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

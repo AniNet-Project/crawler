@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41232",
+        "label": "天野さとみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/77/41232_crt_QYd7S.jpg?r=1462461552",
+        "link": "https://bgm.tv/character/41232",
+        "categorie": "person"
+      },
+      {
+        "id": "41233",
+        "label": "唐沢シオリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/90/41233_crt_15pu1.jpg?r=1462461426",
+        "link": "https://bgm.tv/character/41233",
+        "categorie": "person"
+      },
+      {
+        "id": "41234",
+        "label": "DJ IKENOSUKE",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/7f/41234_crt_3G99E.jpg?r=1462461802",
+        "link": "https://bgm.tv/character/41234",
+        "categorie": "person"
+      },
+      {
+        "id": "41235",
+        "label": "イー・ドンミョン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/9f/41235_crt_kPAeJ.jpg?r=1462461776",
+        "link": "https://bgm.tv/character/41235",
+        "categorie": "person"
+      },
+      {
+        "id": "41942",
+        "label": "藤井赖太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/f0/41942_crt_H7CIo.jpg?r=1463969396",
+        "link": "https://bgm.tv/character/41942",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

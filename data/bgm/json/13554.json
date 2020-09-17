@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2328",
+        "label": "绯村剑心",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/03/2328_crt_rSibq.jpg",
+        "link": "https://bgm.tv/character/2328",
+        "categorie": "person"
+      },
+      {
+        "id": "6108",
+        "label": "明神弥彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/1f/6108_crt_evVzE.jpg?r=1541942731",
+        "link": "https://bgm.tv/character/6108",
+        "categorie": "person"
+      },
+      {
+        "id": "6109",
+        "label": "相乐左之助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/b0/6109_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6109",
+        "categorie": "person"
+      },
+      {
+        "id": "31873",
+        "label": "神谷薰",
+        "info": "神谷薰为《浪客剑心》中的女主角。薰从小就失去了母亲，父亲战死，但她没有因为失去双亲而被击倒，反而更坚强积极面对自己的人生。以「活留口剑术─活人剑」为精神的神谷活心流之代理师父。在城内主持一家道场，有竹剑美少女之外号，可见其剑术之精湛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/fa/31873_crt_W94n4.jpg",
+        "link": "https://bgm.tv/character/31873",
+        "categorie": "person"
+      },
+      {
+        "id": "5829",
+        "label": "斋藤一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/60/5829_crt_vtnRW.jpg?r=1542211130",
+        "link": "https://bgm.tv/character/5829",
+        "categorie": "person"
+      },
+      {
+        "id": "6111",
+        "label": "山县有朋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/1e/6111_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6111",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

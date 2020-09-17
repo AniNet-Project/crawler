@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13947",
+        "label": "长菜奈寺美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/0a/13947_crt_Qrni2.jpg",
+        "link": "https://bgm.tv/character/13947",
+        "categorie": "person"
+      },
+      {
+        "id": "3670",
+        "label": "露理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/ec/3670_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3670",
+        "categorie": "person"
+      },
+      {
+        "id": "3672",
+        "label": "Justice",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/c8/3672_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3672",
+        "categorie": "person"
+      },
+      {
+        "id": "13948",
+        "label": "北野莎拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/51/13948_crt_uqWt8.jpg",
+        "link": "https://bgm.tv/character/13948",
+        "categorie": "person"
+      },
+      {
+        "id": "3671",
+        "label": "二道佳奈露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/eb/3671_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3671",
+        "categorie": "person"
+      },
+      {
+        "id": "13949",
+        "label": "星纯一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/34/13949_crt_36iMS.jpg",
+        "link": "https://bgm.tv/character/13949",
+        "categorie": "person"
+      },
+      {
+        "id": "13950",
+        "label": "星龙一郎",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/13950",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

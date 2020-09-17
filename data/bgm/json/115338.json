@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29451",
+        "label": "官越明日菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/b6/29451_crt_6K34a.jpg",
+        "link": "https://bgm.tv/character/29451",
+        "categorie": "person"
+      },
+      {
+        "id": "29452",
+        "label": "心内疗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ae/29452_crt_tr4T5.jpg",
+        "link": "https://bgm.tv/character/29452",
+        "categorie": "person"
+      },
+      {
+        "id": "30026",
+        "label": "官越好藏",
+        "info": "似乎认知能力有衰退迹象，但在诊断认知的长谷川式标准测试中有着惊人的表现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/b2/30026_crt_hw52L.jpg",
+        "link": "https://bgm.tv/character/30026",
+        "categorie": "person"
+      },
+      {
+        "id": "31031",
+        "label": "官越愈",
+        "info": "あすなの姉で、三姉妹の長女。色の心理テストの回にて初登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/f3/31031_crt_qBaWF.jpg",
+        "link": "https://bgm.tv/character/31031",
+        "categorie": "person"
+      },
+      {
+        "id": "31532",
+        "label": "官越秘",
+        "info": "あすなの姉で、いやしの妹。社会不安障害についての解説の回にて初登場。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/2e/31532_crt_smUeU.jpg",
+        "link": "https://bgm.tv/character/31532",
+        "categorie": "person"
+      },
+      {
+        "id": "34973",
+        "label": "ビアちゃん",
+        "info": "CV.レデイービアード",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/a6/34973_crt_z4kne.jpg",
+        "link": "https://bgm.tv/character/34973",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

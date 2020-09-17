@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48925",
+        "label": "嘉味田正一",
+        "info": "困ってる人は放っておけず、自分自身が",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/7e/48925_crt_EfjT5.jpg?r=1480685163",
+        "link": "https://bgm.tv/character/48925",
+        "categorie": "person"
+      },
+      {
+        "id": "48336",
+        "label": "常木耀",
+        "info": "イマどきのいじり姫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/31/48336_crt_0hwXO.jpg?r=1488622087",
+        "link": "https://bgm.tv/character/48336",
+        "categorie": "person"
+      },
+      {
+        "id": "48891",
+        "label": "宮前透",
+        "info": "クリティカルな先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ae/48891_crt_Lpr33.jpg?r=1488622233",
+        "link": "https://bgm.tv/character/48891",
+        "categorie": "person"
+      },
+      {
+        "id": "48337",
+        "label": "桃乃今日子",
+        "info": "女子中学生のような幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/1c/48337_crt_6B06Z.jpg?r=1488622203",
+        "link": "https://bgm.tv/character/48337",
+        "categorie": "person"
+      },
+      {
+        "id": "48729",
+        "label": "桧山水羽",
+        "info": "エリート女子高の水泳部員",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/20/48729_crt_7424Q.jpg?r=1479622364",
+        "link": "https://bgm.tv/character/48729",
+        "categorie": "person"
+      },
+      {
+        "id": "48728",
+        "label": "上崎真诗",
+        "info": "ミルク仕立てのオーバーグラマラス",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/3d/48728_crt_qKz2k.jpg?r=1479622381",
+        "link": "https://bgm.tv/character/48728",
+        "categorie": "person"
+      },
+      {
+        "id": "48890",
+        "label": "三条瑠依濑",
+        "info": "鬱屈な風紀委員風紀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/cf/48890_crt_X42Qs.jpg?r=1480077745",
+        "link": "https://bgm.tv/character/48890",
+        "categorie": "person"
+      },
+      {
+        "id": "48892",
+        "label": "嘉味田十萌",
+        "info": "弟の成長をうながすミスサンタ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/ab/48892_crt_AQ4Bh.jpg?r=1480078453",
+        "link": "https://bgm.tv/character/48892",
+        "categorie": "person"
+      },
+      {
+        "id": "48926",
+        "label": "七咲郁夫",
+        "info": "面倒見のよいクールな親友",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/a6/48926_crt_2c84A.jpg?r=1480685207",
+        "link": "https://bgm.tv/character/48926",
+        "categorie": "person"
+      },
+      {
+        "id": "49094",
+        "label": "荒木达也",
+        "info": "正一たちのゲーム仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/fc/49094_crt_gZH5L.jpg?r=1481348889",
+        "link": "https://bgm.tv/character/49094",
+        "categorie": "person"
+      },
+      {
+        "id": "49258",
+        "label": "鬼型雅美",
+        "info": "正一たちのクラスの担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/8e/49258_crt_L2CHI.jpg?r=1481887279",
+        "link": "https://bgm.tv/character/49258",
+        "categorie": "person"
+      },
+      {
+        "id": "49575",
+        "label": "高远由贵恵",
+        "info": "恋も勉強もこなす耀の友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/b4/49575_crt_YNJ0m.jpg?r=1482505845",
+        "link": "https://bgm.tv/character/49575",
+        "categorie": "person"
+      },
+      {
+        "id": "49576",
+        "label": "菊池洋子",
+        "info": "自由気ままなクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/60/49576_crt_AFCTt.jpg?r=1482505860",
+        "link": "https://bgm.tv/character/49576",
+        "categorie": "person"
+      },
+      {
+        "id": "49577",
+        "label": "丸石灯花",
+        "info": "水羽のライバルは天才少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e1/49577_crt_9164z.jpg?r=1482505818",
+        "link": "https://bgm.tv/character/49577",
+        "categorie": "person"
+      },
+      {
+        "id": "50051",
+        "label": "吉田麻子",
+        "info": "山奥で出会ったどてら娘",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/f0/50051_crt_SmYYz.jpg?r=1484311171",
+        "link": "https://bgm.tv/character/50051",
+        "categorie": "person"
+      },
+      {
+        "id": "62344",
+        "label": "徒步旅行部长",
+        "info": "辉日东高中2年B班，徒步旅行部的部长，曾追求过十萌。单恋常木耀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/b6/62344_crt_eTZW7.jpg",
+        "link": "https://bgm.tv/character/62344",
+        "categorie": "person"
+      },
+      {
+        "id": "62345",
+        "label": "矶前学",
+        "info": "辉日东高中2年B班，徒步旅行部部长的朋友，和部长一起偷窥常木耀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/93/62345_crt_issrf.jpg",
+        "link": "https://bgm.tv/character/62345",
+        "categorie": "person"
+      },
+      {
+        "id": "50550",
+        "label": "汤木尚武",
+        "info": "常木耀打工的地方老板。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/55/50550_crt_4lN35.jpg",
+        "link": "https://bgm.tv/character/50550",
+        "categorie": "person"
+      },
+      {
+        "id": "50053",
+        "label": "宫前宗太",
+        "info": "中央升学研究会特别讲师。特征为戴太阳眼镜还有带着竹剑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/d2/50053_crt_Pcp1B.jpg",
+        "link": "https://bgm.tv/character/50053",
+        "categorie": "person"
+      },
+      {
+        "id": "51760",
+        "label": "永泽刊",
+        "info": "辉日东高中3年C组。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/83/51760_crt_3Mxj3.jpg",
+        "link": "https://bgm.tv/character/51760",
+        "categorie": "person"
+      },
+      {
+        "id": "62342",
+        "label": "汤木健",
+        "info": "汤木尚武的儿子，三条凛的玩伴，也认识常木耀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/72/62342_crt_LZCE1.jpg",
+        "link": "https://bgm.tv/character/62342",
+        "categorie": "person"
+      },
+      {
+        "id": "62343",
+        "label": "土屋涉",
+        "info": "和汤木健一起出现在游戏中心的小学生。用围巾盖着嘴巴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/8e/62343_crt_eZGB4.jpg",
+        "link": "https://bgm.tv/character/62343",
+        "categorie": "person"
+      },
+      {
+        "id": "62346",
+        "label": "嘉味田理惠",
+        "info": "登场于动画第8话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/e1/62346_crt_PaHGl.jpg",
+        "link": "https://bgm.tv/character/62346",
+        "categorie": "person"
+      },
+      {
+        "id": "62341",
+        "label": "三条凛",
+        "info": "今日子等人在公园遇见的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/32/62341_crt_1g0BZ.jpg",
+        "link": "https://bgm.tv/character/62341",
+        "categorie": "person"
+      },
+      {
+        "id": "62347",
+        "label": "桃乃美奈",
+        "info": "桃乃今日子的母亲。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/62347",
+        "categorie": "person"
+      },
+      {
+        "id": "62348",
+        "label": "嘉味田望",
+        "info": "登场于动画第12话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/14/62348_crt_2rNDs.jpg",
+        "link": "https://bgm.tv/character/62348",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

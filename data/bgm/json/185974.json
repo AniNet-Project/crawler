@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42961",
+        "label": "夏樹海夕里",
+        "info": "明人が想いを寄せている義理の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/83/42961_crt_mPrR7.jpg",
+        "link": "https://bgm.tv/character/42961",
+        "categorie": "person"
+      },
+      {
+        "id": "42962",
+        "label": "朝露砂夜子",
+        "info": "スナック・珊瑚を営む、お色気たっぷりの未亡人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/e6/42962_crt_4MmT0.jpg",
+        "link": "https://bgm.tv/character/42962",
+        "categorie": "person"
+      },
+      {
+        "id": "74488",
+        "label": "夏樹明人",
+        "info": "主人公。普通の会社員。独身。29才。彼女なし。両親は亡くなっており、家族は兄が一人だけ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/ca/74488_crt_1aT0p.jpg",
+        "link": "https://bgm.tv/character/74488",
+        "categorie": "person"
+      },
+      {
+        "id": "42963",
+        "label": "神野藍",
+        "info": "有名な女学園に通う、美少女優等生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/f3/42963_crt_aNTFn.jpg",
+        "link": "https://bgm.tv/character/42963",
+        "categorie": "person"
+      },
+      {
+        "id": "42964",
+        "label": "神野菫",
+        "info": "藍の母親。 実家の近くにある神社の神主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/e2/42964_crt_zD2Y5.jpg",
+        "link": "https://bgm.tv/character/42964",
+        "categorie": "person"
+      },
+      {
+        "id": "74489",
+        "label": "夏樹和人",
+        "info": "非の打ち所がない出来た兄で、海夕里の夫。真面目な仕事人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/63/74489_crt_7J5Tb.jpg",
+        "link": "https://bgm.tv/character/74489",
+        "categorie": "person"
+      },
+      {
+        "id": "74490",
+        "label": "吉沢武雄",
+        "info": "海夕里に一目愡れする、チャラ男。- -応、サラリ一マンで、ちゃんと働いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/43/74490_crt_GaDdg.jpg",
+        "link": "https://bgm.tv/character/74490",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33623",
+        "label": "JOKER",
+        "info": "CODE NAME:JOKER",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/06/33623_crt_q8a3N.jpg?r=1462456887",
+        "link": "https://bgm.tv/character/33623",
+        "categorie": "person"
+      },
+      {
+        "id": "35591",
+        "label": "坂本龙司",
+        "info": "Arcana【VII - 战车】",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/9c/35591_crt_BZWgN.jpg?r=1462456604",
+        "link": "https://bgm.tv/character/35591",
+        "categorie": "person"
+      },
+      {
+        "id": "35592",
+        "label": "高卷杏",
+        "info": "Arcana【VI - 恋人】",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/48/35592_crt_F9Jfj.jpg?r=1462456692",
+        "link": "https://bgm.tv/character/35592",
+        "categorie": "person"
+      },
+      {
+        "id": "35593",
+        "label": "摩尔迦那",
+        "info": "Arcana【I - 魔术师】",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/97/35593_crt_883mc.jpg?r=1462456665",
+        "link": "https://bgm.tv/character/35593",
+        "categorie": "person"
+      },
+      {
+        "id": "41231",
+        "label": "喜多川祐介",
+        "info": "Arcana【IV - 皇帝】",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/63/41231_crt_a3ETc.jpg?r=1462456628",
+        "link": "https://bgm.tv/character/41231",
+        "categorie": "person"
+      },
+      {
+        "id": "41512",
+        "label": "新岛真",
+        "info": "Arcana【II - 女祭司】",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/40/41512_crt_z0Xz0.jpg?r=1463431745",
+        "link": "https://bgm.tv/character/41512",
+        "categorie": "person"
+      },
+      {
+        "id": "41515",
+        "label": "佐仓双叶",
+        "info": "Arcana【IX - 隐者】",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/b4/41515_crt_rCwNU.jpg?r=1463431702",
+        "link": "https://bgm.tv/character/41515",
+        "categorie": "person"
+      },
+      {
+        "id": "41520",
+        "label": "奥村春",
+        "info": "Arcana【III - 皇后】",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/4c/41520_crt_4ihKI.jpg?r=1463432377",
+        "link": "https://bgm.tv/character/41520",
+        "categorie": "person"
+      },
+      {
+        "id": "43477",
+        "label": "明智吾郎",
+        "info": "Arcana【VIII - 正义】",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/a4/43477_crt_aDrdc.jpg?r=1473008743",
+        "link": "https://bgm.tv/character/43477",
+        "categorie": "person"
+      },
+      {
+        "id": "21489",
+        "label": "伊格尔",
+        "info": "Arcana【0 - 愚者】",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c0/21489_crt_hvPy5.jpg",
+        "link": "https://bgm.tv/character/21489",
+        "categorie": "person"
+      },
+      {
+        "id": "41521",
+        "label": "卡露莲",
+        "info": "Arcana【XI - 刚毅】",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/a5/41521_crt_vWbwY.jpg?r=1472451971",
+        "link": "https://bgm.tv/character/41521",
+        "categorie": "person"
+      },
+      {
+        "id": "41522",
+        "label": "瑞斯丁娜",
+        "info": "Arcana【XI - 刚毅】",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/8f/41522_crt_Y3oBP.jpg?r=1472451829",
+        "link": "https://bgm.tv/character/41522",
+        "categorie": "person"
+      },
+      {
+        "id": "43507",
+        "label": "三岛由辉",
+        "info": "Arcana【XVIII - 月亮】",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/9d/43507_crt_8kf28.jpg?r=1468954684",
+        "link": "https://bgm.tv/character/43507",
+        "categorie": "person"
+      },
+      {
+        "id": "42551",
+        "label": "佐仓总治郎",
+        "info": "Arcana【V - 教皇】",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/09/42551_crt_6X3hu.jpg?r=1466009887",
+        "link": "https://bgm.tv/character/42551",
+        "categorie": "person"
+      },
+      {
+        "id": "43508",
+        "label": "川上贞代",
+        "info": "Arcana【XIV - 节制】",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/01/43508_crt_8K8pp.jpg?r=1468954411",
+        "link": "https://bgm.tv/character/43508",
+        "categorie": "person"
+      },
+      {
+        "id": "41523",
+        "label": "新岛冴",
+        "info": "Arcana【XX - 审判】",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/79/41523_crt_asWFz.jpg?r=1485412808",
+        "link": "https://bgm.tv/character/41523",
+        "categorie": "person"
+      },
+      {
+        "id": "42547",
+        "label": "岩井宗久",
+        "info": "Arcana【XII - 吊人】",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/0f/42547_crt_un1Bt.jpg?r=1466009662",
+        "link": "https://bgm.tv/character/42547",
+        "categorie": "person"
+      },
+      {
+        "id": "42555",
+        "label": "武见妙",
+        "info": "Arcana【XIII - 死神】",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/ad/42555_crt_hB4Rx.jpg?r=1466010357",
+        "link": "https://bgm.tv/character/42555",
+        "categorie": "person"
+      },
+      {
+        "id": "43505",
+        "label": "大宅一子",
+        "info": "Arcana【XV - 恶魔】",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/64/43505_crt_C30kp.jpg?r=1468955057",
+        "link": "https://bgm.tv/character/43505",
+        "categorie": "person"
+      },
+      {
+        "id": "43504",
+        "label": "御船千早",
+        "info": "Arcana【X - 命运之轮】",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/5e/43504_crt_mFxM9.jpg?r=1468954148",
+        "link": "https://bgm.tv/character/43504",
+        "categorie": "person"
+      },
+      {
+        "id": "43509",
+        "label": "吉田寅之助",
+        "info": "Arcana【XIX - 太陽】",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/04/43509_crt_MFofo.jpg?r=1468954270",
+        "link": "https://bgm.tv/character/43509",
+        "categorie": "person"
+      },
+      {
+        "id": "43506",
+        "label": "织田信也",
+        "info": "Arcana【XVI - 塔】",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/b8/43506_crt_A6760.jpg?r=1468954841",
+        "link": "https://bgm.tv/character/43506",
+        "categorie": "person"
+      },
+      {
+        "id": "43510",
+        "label": "东乡一二三",
+        "info": "Arcana【XVII - 星星】",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/28/43510_crt_66164.jpg?r=1468954084",
+        "link": "https://bgm.tv/character/43510",
+        "categorie": "person"
+      },
+      {
+        "id": "58432",
+        "label": "鸭志田卓",
+        "info": "秀尽学园的体育教师，排球部顾问教师。曾是奥运会的金牌得主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/13/58432_crt_z7EQu.jpg?r=1507890211",
+        "link": "https://bgm.tv/character/58432",
+        "categorie": "person"
+      },
+      {
+        "id": "58433",
+        "label": "铃井志帆",
+        "info": "杏的挚友，排球部部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/fa/58433_crt_1ZPwz.jpg",
+        "link": "https://bgm.tv/character/58433",
+        "categorie": "person"
+      },
+      {
+        "id": "63259",
+        "label": "狮童正义",
+        "info": "政治家",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/b0/63259_crt_nxaYY.jpg?r=1525536572",
+        "link": "https://bgm.tv/character/63259",
+        "categorie": "person"
+      },
+      {
+        "id": "63477",
+        "label": "斑目一流斋",
+        "info": "祐介的师父，日本画的大家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b8/63477_crt_PN4i4.jpg",
+        "link": "https://bgm.tv/character/63477",
+        "categorie": "person"
+      },
+      {
+        "id": "63478",
+        "label": "中野原夏彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/b2/63478_crt_4KQ9C.jpg",
+        "link": "https://bgm.tv/character/63478",
+        "categorie": "person"
+      },
+      {
+        "id": "63832",
+        "label": "金城润矢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/e1/63832_crt_J05MJ.jpg",
+        "link": "https://bgm.tv/character/63832",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

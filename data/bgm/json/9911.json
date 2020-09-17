@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14463",
+        "label": "渡濑明日菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/5a/14463_crt_mVmfM.jpg",
+        "link": "https://bgm.tv/character/14463",
+        "categorie": "person"
+      },
+      {
+        "id": "59687",
+        "label": "瞬",
+        "info": "アガルタから来た少年。病に侵されながらも地上に憧れ、最期に一目地上を見ようと扉を抜けてきた。明日菜と触れ合うが、間もなく遺体となって見つかる。明日菜がラジオで聴いた歌声の主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/40/59687_crt_92nnL.jpg",
+        "link": "https://bgm.tv/character/59687",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

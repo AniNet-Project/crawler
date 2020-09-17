@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35388",
+        "label": "木幡真琴",
+        "info": "魔女。マイペースでおっとりした性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/73/35388_crt_6TwkR.jpg?r=1455675174",
+        "link": "https://bgm.tv/character/35388",
+        "categorie": "person"
+      },
+      {
+        "id": "35391",
+        "label": "仓本千夏",
+        "info": "好奇心旺盛で活発な小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/d3/35391_crt_nXT04.jpg?r=1455675344",
+        "link": "https://bgm.tv/character/35391",
+        "categorie": "person"
+      },
+      {
+        "id": "39269",
+        "label": "千户",
+        "info": "真琴の使い魔。17年間生きていて真琴よりも年上。頭がよく、冷静で落ち着いているが、 いたずら好き。出不精のため太りやすく、時々ダイエットをすることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/61/39269_crt_to1Ja.jpg?r=1457190642",
+        "link": "https://bgm.tv/character/39269",
+        "categorie": "person"
+      },
+      {
+        "id": "37916",
+        "label": "木幡茜",
+        "info": "自由奔放な真琴の姉。魔術の才能があり、魔女の中ではちょっとした有名人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/a9/37916_crt_3B3wg.jpg?r=1457189626",
+        "link": "https://bgm.tv/character/37916",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

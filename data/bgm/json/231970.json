@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "61472",
+        "label": "拉茹果",
+        "info": "拉茹果是欧里巴市长的女儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/f1/61472_crt_lz66Q.jpg",
+        "link": "https://bgm.tv/character/61472",
+        "categorie": "person"
+      },
+      {
+        "id": "62516",
+        "label": "捷拉奥拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/3e/62516_crt_Q141q.jpg",
+        "link": "https://bgm.tv/character/62516",
+        "categorie": "person"
+      },
+      {
+        "id": "2609",
+        "label": "洛奇亚",
+        "info": "洛奇亚的肚子、眼睛周围像面罩一样的物体、背上的突起是蓝色的,其余部分均为白色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/23/2609_crt_aZVtt.jpg",
+        "link": "https://bgm.tv/character/2609",
+        "categorie": "person"
+      },
+      {
+        "id": "61468",
+        "label": "利莎",
+        "info": "利莎是学校田径社的社员，她曾获得过地区冠军的明星选手，但是却因为脚伤，产生了内心阴影，因此想要结束自己的职业生涯。原本不擅长面对宝可梦的她在因脚伤在医院疗养的弟弟拜托收服一只伊布并参加“风节”，利莎虽然感到为难，到还是不情愿的答应了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/e4/61468_crt_3qF27.jpg",
+        "link": "https://bgm.tv/character/61468",
+        "categorie": "person"
+      },
+      {
+        "id": "61469",
+        "label": "卡戛其",
+        "info": "卡戛其是一位满嘴大话的男子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/13/61469_crt_Apvyt.jpg",
+        "link": "https://bgm.tv/character/61469",
+        "categorie": "person"
+      },
+      {
+        "id": "61470",
+        "label": "托里托",
+        "info": "托里托是一位没有自信的懦弱宝可梦研究家，总是受他的吉利蛋鼓励。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/04/61470_crt_ZGV3j.jpg",
+        "link": "https://bgm.tv/character/61470",
+        "categorie": "person"
+      },
+      {
+        "id": "61471",
+        "label": "翡翠",
+        "info": "翡翠因自己的布鲁被大火烧死而感到自责从此变得讨厌宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/df/61471_crt_XsuoE.jpg",
+        "link": "https://bgm.tv/character/61471",
+        "categorie": "person"
+      },
+      {
+        "id": "62514",
+        "label": "利酷",
+        "info": "利酷是利莎的弟弟，很喜欢宝可梦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/24/62514_crt_B45Vx.jpg",
+        "link": "https://bgm.tv/character/62514",
+        "categorie": "person"
+      },
+      {
+        "id": "62515",
+        "label": "欧里巴市长",
+        "info": "欧里巴是风来城的市长及拉茹果的父亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/3f/62515_crt_do222.jpg",
+        "link": "https://bgm.tv/character/62515",
+        "categorie": "person"
+      },
+      {
+        "id": "2284",
+        "label": "ラッキー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/53/2284_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2284",
+        "categorie": "person"
+      },
+      {
+        "id": "2333",
+        "label": "伊布",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/89/2333_crt_50fss.jpg",
+        "link": "https://bgm.tv/character/2333",
+        "categorie": "person"
+      },
+      {
+        "id": "30723",
+        "label": "胡说树",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/16/30723_crt_UNTWd.jpg",
+        "link": "https://bgm.tv/character/30723",
+        "categorie": "person"
+      },
+      {
+        "id": "3230",
+        "label": "武藏",
+        "info": "火箭队两人一猫组之一，25岁，个性自恋、自大、任性的女人，但有时也会有善良的一面，梦想成为女演员，似乎有段复杂的过去。在《神奇宝贝超世代》及《神奇宝贝 DP 钻石与珍珠》里分别多次用假名和伪装参加华丽大赛与小遥及小光竞争。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/fb/3230_crt_oKJ8j.jpg?r=1472497325",
+        "link": "https://bgm.tv/character/3230",
+        "categorie": "person"
+      },
+      {
+        "id": "3658",
+        "label": "小次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/06/3658_crt_Ce2Gz.jpg?r=1472497255",
+        "link": "https://bgm.tv/character/3658",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2418",
+        "label": "小锯鳄",
+        "info": "小锯鳄是个蓝色双足的小鳄鱼。拥有发达的下颚，上颌有两颗尖牙，下颌两侧各有一排三颗尖牙，肚子上有著浅黄色像V形的条纹，一直延伸到臂部，背部有四个红色的角，手掌长有五爪，脚则有三趾。它眼瞳为红色的，眼睛周围有著黑色的花纹。小锯鳄通常活泼好动，对任何事物都感到好奇，也受许多训练家的喜爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/8e/2418_crt_NvVYG.jpg",
+        "link": "https://bgm.tv/character/2418",
+        "categorie": "person"
+      },
+      {
+        "id": "30668",
+        "label": "小鸭嘴龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/42/30668_crt_EqI1i.jpg",
+        "link": "https://bgm.tv/character/30668",
+        "categorie": "person"
+      },
+      {
+        "id": "30670",
+        "label": "迷唇娃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/60/30670_crt_yKP1d.jpg",
+        "link": "https://bgm.tv/character/30670",
+        "categorie": "person"
+      },
+      {
+        "id": "30725",
+        "label": "玛力露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e3/30725_crt_aw5zj.jpg",
+        "link": "https://bgm.tv/character/30725",
+        "categorie": "person"
+      },
+      {
+        "id": "30733",
+        "label": "波克比",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/60/30733_crt_YYMX6.jpg",
+        "link": "https://bgm.tv/character/30733",
+        "categorie": "person"
+      },
+      {
+        "id": "30765",
+        "label": "豪力",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/a5/30765_crt_XBvno.jpg",
+        "link": "https://bgm.tv/character/30765",
+        "categorie": "person"
+      },
+      {
+        "id": "30772",
+        "label": "蚊香蝌蚪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/e2/30772_crt_K3b0s.jpg",
+        "link": "https://bgm.tv/character/30772",
+        "categorie": "person"
+      },
+      {
+        "id": "30800",
+        "label": "尼多娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/05/30800_crt_8atA3.jpg",
+        "link": "https://bgm.tv/character/30800",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "781",
+        "label": "艾丝蒂尔·布莱特",
+        "info": "游击士协会的正游击士。见习游击士时被卷入了利贝尔一系列的阴谋事件中，最后拯救了利贝尔并且得到了成长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/9e/781_crt_EauaL.jpg?r=1531488270",
+        "link": "https://bgm.tv/character/781",
+        "categorie": "person"
+      },
+      {
+        "id": "14020",
+        "label": "亚特鲁·克里斯汀",
+        "info": "FALCOM社知名ARPG游戏YS系列的主人公。被称为『红发亚特鲁』，出生于艾雷西亚大陆西端的艾坞洛贝。赤焰般的红发燃烧着他那颗勇于追求梦想的心，一个热情与诚实兼具的青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/be/14020_crt_Kkg3e.jpg?r=1392142700",
+        "link": "https://bgm.tv/character/14020",
+        "categorie": "person"
+      },
+      {
+        "id": "16800",
+        "label": "米契尔·德·拉普·海芬",
+        "info": "28歳の魔導師。魔導師としてかなりの力量を持ち、魔法によって誰もなし得なかったガガーブ越えを果たし、ティラスイールからやって来た。『III』ではラップじいさんとして、『V』でもミッシェル・ド・ラップ・ヘブンで登場しており、〈ガガーブトリロジー〉全作に登場している人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/57/16800_crt_6c5yy.jpg",
+        "link": "https://bgm.tv/character/16800",
+        "categorie": "person"
+      },
+      {
+        "id": "22803",
+        "label": "达尔克·法克特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/5d/22803_crt_vjS96.jpg?r=1392142722",
+        "link": "https://bgm.tv/character/22803",
+        "categorie": "person"
+      },
+      {
+        "id": "19065",
+        "label": "亚莉莎·莱恩福尔特",
+        "info": "帝国最大の重工業メーカー、RF（ラインフォルト）グループの令嬢で旧《Ⅶ組》メンバーの一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/91/19065_crt_AfUd5.jpg?r=1499928799",
+        "link": "https://bgm.tv/character/19065",
+        "categorie": "person"
+      },
+      {
+        "id": "787",
+        "label": "约修亚·布莱特",
+        "info": "漆黑色头发,琥珀色眼瞳的夜之少年.",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/85/787_crt_860cN.jpg?r=1531488363",
+        "link": "https://bgm.tv/character/787",
+        "categorie": "person"
+      },
+      {
+        "id": "11763",
+        "label": "罗伊德·班宁斯",
+        "info": "是解决了於克洛斯贝尔自治州里发生的众多艰难事件，拥有火热的正义感与不屈般灵魂的克洛斯贝尔警察『特务支援课』队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/6f/11763_crt_4h2vv.jpg?r=1581854649",
+        "link": "https://bgm.tv/character/11763",
+        "categorie": "person"
+      },
+      {
+        "id": "11764",
+        "label": "兰道夫·奥兰多",
+        "info": "　过去隶属猎兵团『赤色星座』，是克洛斯贝尔警察『特务支援课』里值得仰赖的大哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/3e/11764_crt_68hYa.jpg?r=1581854620",
+        "link": "https://bgm.tv/character/11764",
+        "categorie": "person"
+      },
+      {
+        "id": "11767",
+        "label": "艾莉·麦克道尔",
+        "info": "克洛斯贝尔议长亨利·麦克道尔的孙女，并是个以副队长身分撑起『特务支援课』的才色兼备女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ee/11767_crt_mmN0q.jpg?r=1581854451",
+        "link": "https://bgm.tv/character/11767",
+        "categorie": "person"
+      },
+      {
+        "id": "11768",
+        "label": "缇欧·普拉托",
+        "info": "为『特务支援课』成员，并隶属於爱普斯泰恩财团·克洛斯贝尔支部的年轻研究主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/b5/11768_crt_bu2By.jpg",
+        "link": "https://bgm.tv/character/11768",
+        "categorie": "person"
+      },
+      {
+        "id": "11771",
+        "label": "亚历克斯·达德利",
+        "info": "隶属于克洛斯贝尔警界精英集团“搜查一课”的优秀搜查官（27岁）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/82/11771_crt_DS8nZ.jpg?r=1590830173",
+        "link": "https://bgm.tv/character/11771",
+        "categorie": "person"
+      },
+      {
+        "id": "11772",
+        "label": "莉夏·毛",
+        "info": "劇団「アルカンシェル」に入ったばかりの新米アーティスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/f3/11772_crt_8ew5Q.jpg?r=1392142983",
+        "link": "https://bgm.tv/character/11772",
+        "categorie": "person"
+      },
+      {
+        "id": "11786",
+        "label": "伊莉娅·普拉提耶",
+        "info": "以华丽的演出而闻名的剧团“アルカンシェル”的首席巨星（22岁），她充满热情的舞蹈和压倒性的演技为她赢得了“炎之舞姬”的美名。不光是克洛斯贝尔，就连在周边各国都拥有大量狂热粉丝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/f2/11786_crt_1y8aF.jpg",
+        "link": "https://bgm.tv/character/11786",
+        "categorie": "person"
+      },
+      {
+        "id": "12359",
+        "label": "奥利维特·莱泽·亚诺尔",
+        "info": "エレボニア皇帝、ユーゲントⅢ世の長子にして旧Ⅶ組(特科クラス)の発起人。放蕩皇子とも呼ばれる趣味人だが、庶出のため既に皇位継承権は放棄している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/fa/12359_crt_pHKEu.jpg?r=1495694453",
+        "link": "https://bgm.tv/character/12359",
+        "categorie": "person"
+      },
+      {
+        "id": "12425",
+        "label": "提妲·拉赛尔",
+        "info": "天才導力学者・ラッセル博士の孫娘にして機械には目が無いリベール王国出身の少女。《Ⅸ組・主計科》在籍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/37/12425_crt_z980P.jpg?r=1528879814",
+        "link": "https://bgm.tv/character/12425",
+        "categorie": "person"
+      },
+      {
+        "id": "12426",
+        "label": "阿加特·科洛斯纳",
+        "info": "身の丈を越す巨大な剣を扱うことから《重剣》の異名を持つ、リベール王国出身のＡ級遊撃士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/c4/12426_crt_cgMwc.jpg?r=1528879955",
+        "link": "https://bgm.tv/character/12426",
+        "categorie": "person"
+      },
+      {
+        "id": "12432",
+        "label": "玲·海瓦斯",
+        "info": "玲在空之轨迹SC中初次登场。身份是结社的一名执行者（No.ⅩⅤ），代号“歼灭天使”。身着一身哥特式loli洋装的她拥有取得和分析各方面情报、并操纵周边环境的特异功能，武器是一把和身高差不多的大镰刀，还会操纵战略级巨大人形兵器“帕蒂尔·玛蒂尔（爸爸=妈妈）”（玲也是唯一能够操作十三工房制作的帕蒂尔·玛蒂尔的人）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/7e/12432_crt_ZkS9H.jpg?r=1531488440",
+        "link": "https://bgm.tv/character/12432",
+        "categorie": "person"
+      },
+      {
+        "id": "12434",
+        "label": "莱恩哈特",
+        "info": "哈梅尔悲剧的极少数幸存者之一，约修亚的玩伴，约修亚姐姐的青梅竹马。哈梅尔悲剧中，失去了至爱卡玲，而各个国家对悲剧的造成隐瞒事实。悲愤的莱维堕为修罗，加入了神秘结社[噬身之蛇]，并立誓以沉痛的灾难洗礼人类，以证明隐瞒事实只会导致更惨的悲剧发生。一向以压倒性战剑技和战斗力著称的莱维，最终被拥有强烈守护意念的约修亚击败，后与约修亚和好，并决定脱离[噬身之蛇]。在中枢塔最后的战斗中，为守护身边的人，被与[七至宝]之一的[辉之环]融合的蛇之使徒怀斯曼击中，失去了生命。 　　因曾在某事件中，欠露菲娜（莉丝的姐姐）一个“人情”，所以露菲娜（影之王）让他以《剑帝》这个概念复活，并在影之国中以黑骑士的身份协助她。最终被约修亚等人打败，同众人告别后，在卡琳的陪伴下，彻底消失。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/3e/12434_crt_5F24o.jpg?r=1372617972",
+        "link": "https://bgm.tv/character/12434",
+        "categorie": "person"
+      },
+      {
+        "id": "12436",
+        "label": "穆拉·范德尔",
+        "info": "PC游戏《英雄传说6空之轨迹》FC、SC、3rd中登场人物，穆拉·范德尔，埃雷波尼亚帝国军人，奥利维尔特皇子的“亲密伙伴”——其实是从小就指定要保护王子的护卫（范德尔家族是武术世家），军衔是帝国军第七机甲师团少校。此外两人还是很好的吐槽搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/3c/12436_crt_zx3xx.jpg?r=1392142673",
+        "link": "https://bgm.tv/character/12436",
+        "categorie": "person"
+      },
+      {
+        "id": "12438",
+        "label": "雷克特·亚兰德尔",
+        "info": "帝国軍情報局の特務少佐にしてオズボーン宰相の直属である《鉄血の子供たち》の一員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/eb/12438_crt_44PXg.jpg?r=1503573723",
+        "link": "https://bgm.tv/character/12438",
+        "categorie": "person"
+      },
+      {
+        "id": "14204",
+        "label": "吉利亚斯·奥斯本",
+        "info": "《鉄血宰相》の異名でゼムリア大陸全土にその名が知られている、軍部出身の帝国政府代表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/f3/14204_crt_efvft.jpg?r=1503573624",
+        "link": "https://bgm.tv/character/14204",
+        "categorie": "person"
+      },
+      {
+        "id": "14215",
+        "label": "阿瑞安赫德",
+        "info": "高潔にして至高の武人として知られる、結社《身喰らう蛇》の使徒・第七柱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f8/14215_crt_QB6Iw.jpg?r=1497524698",
+        "link": "https://bgm.tv/character/14215",
+        "categorie": "person"
+      },
+      {
+        "id": "16008",
+        "label": "艾夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/25/16008_crt_Z33NJ.jpg?r=1531489103",
+        "link": "https://bgm.tv/character/16008",
+        "categorie": "person"
+      },
+      {
+        "id": "16009",
+        "label": "盖修",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/44/16009_crt_Y878V.jpg?r=1390212984",
+        "link": "https://bgm.tv/character/16009",
+        "categorie": "person"
+      },
+      {
+        "id": "19064",
+        "label": "黎恩·舒华泽",
+        "info": "托尔兹军官学院特科班“VII班”的学生，来自帝国北部的温泉乡悠米尔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/86/19064_crt_zA6cy.jpg?r=1589277489",
+        "link": "https://bgm.tv/character/19064",
+        "categorie": "person"
+      },
+      {
+        "id": "19066",
+        "label": "艾略特·克雷格",
+        "info": "帝国軍きっての猛将《紅毛のクレイグ》の長男にして、帝国全土を巡業している天才音楽家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/42/19066_crt_yEN43.jpg?r=1499928738",
+        "link": "https://bgm.tv/character/19066",
+        "categorie": "person"
+      },
+      {
+        "id": "19067",
+        "label": "劳拉·S·亚尔赛德",
+        "info": "旧《Ⅶ組》メンバーの一人で剣の道を究めんとする武の名門、アルゼイド子爵家の息女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/b6/19067_crt_xHrMp.jpg?r=1499928700",
+        "link": "https://bgm.tv/character/19067",
+        "categorie": "person"
+      },
+      {
+        "id": "19277",
+        "label": "杰立欧",
+        "info": "フォルティア国のラグピック村に住む14歳の少年。内気で気が弱く、のんびりとした性格をしており、幼馴染みのクリスには子分扱いされている。村の成人の儀式として、クリスと共にティラスイール各地に点在するシャリネを巡る旅へと出る。伝説の海賊「キャプテン・トーマス」に憧れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/c7/19277_crt_o99hi.jpg?r=1392142411",
+        "link": "https://bgm.tv/character/19277",
+        "categorie": "person"
+      },
+      {
+        "id": "19278",
+        "label": "克丽丝",
+        "info": "通称クリス。ヒロインでジュリオの幼馴染み。強気でおてんばであり、明るい性格。ジュリオより1つ年上の15歳で、1年前に病気で旅にでられなかった為にジュリオと共に巡礼に出かける事となった。チャッペル魔法の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/04/19278_crt_7873k.jpg?r=1363327641",
+        "link": "https://bgm.tv/character/19278",
+        "categorie": "person"
+      },
+      {
+        "id": "19418",
+        "label": "马奇亚斯·雷格尼兹",
+        "info": "帝国政府の有力者・レーグニッツ帝都知事の息子で司法監察院に務める秀才肌の努力家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/0b/19418_crt_FuTub.jpg?r=1499927858",
+        "link": "https://bgm.tv/character/19418",
+        "categorie": "person"
+      },
+      {
+        "id": "19419",
+        "label": "尤西斯·艾尔巴雷亚",
+        "info": "四大名門の一つ、アルバレア公爵家次男にして帝国東部クロイツェン州を治める知勇兼備な貴公子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/77/19419_crt_Ngqhg.jpg?r=1499928658",
+        "link": "https://bgm.tv/character/19419",
+        "categorie": "person"
+      },
+      {
+        "id": "19555",
+        "label": "艾玛·米尔斯汀",
+        "info": "古の存在《魔女の眷属》(ヘクセンブリード)の一族にして旧《VII組》で委員長を務めていた才女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/37/19555_crt_RfHWA.jpg?r=1524751268",
+        "link": "https://bgm.tv/character/19555",
+        "categorie": "person"
+      },
+      {
+        "id": "19556",
+        "label": "菲·克劳塞尔",
+        "info": "高度な戦闘技術と驚異的な身体能力を持つ猟兵団《西風の旅団》出身の若手遊撃士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/f2/19556_crt_IcE78.jpg?r=1500532636",
+        "link": "https://bgm.tv/character/19556",
+        "categorie": "person"
+      },
+      {
+        "id": "20265",
+        "label": "盖乌斯·沃泽尔",
+        "info": "帝国の北東に位置するノルド高原出身で、風と女神の信仰に篤い遊牧民「ノルドの民」の青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/20/20265_crt_dG7F5.jpg?r=1500532696",
+        "link": "https://bgm.tv/character/20265",
+        "categorie": "person"
+      },
+      {
+        "id": "20269",
+        "label": "安洁莉卡·罗格纳",
+        "info": "四大名門の一つ、ログナー侯爵家の息女にして東方武術“泰斗流”を使う、女好きの破天荒な麗人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/3d/20269_crt_pXspV.jpg?r=1501135390",
+        "link": "https://bgm.tv/character/20269",
+        "categorie": "person"
+      },
+      {
+        "id": "20645",
+        "label": "克洛·安布斯特",
+        "info": "「お勤めゴクローさん──調子の方はどうよ?」",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/7f/20645_crt_ziwTK.jpg?r=1494515569",
+        "link": "https://bgm.tv/character/20645",
+        "categorie": "person"
+      },
+      {
+        "id": "23990",
+        "label": "莫纳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/42/23990_crt_uE3GS.jpg?r=1394379084",
+        "link": "https://bgm.tv/character/23990",
+        "categorie": "person"
+      },
+      {
+        "id": "24080",
+        "label": "库拉兹",
+        "info": "大剣を得意とする遊撃士。必殺技は「グラッツスペシャル」等、必ず自分の名前が頭についている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/ad/24080_crt_t6177.jpg?r=1395036266",
+        "link": "https://bgm.tv/character/24080",
+        "categorie": "person"
+      },
+      {
+        "id": "24116",
+        "label": "ファン・フレディ",
+        "info": "東方の王国「イルスラン」の第8王子。旅の途中で偶然ロマンシア王国にたどり着いた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/5f/24116_crt_Thi3i.jpg?r=1399624885",
+        "link": "https://bgm.tv/character/24116",
+        "categorie": "person"
+      },
+      {
+        "id": "24157",
+        "label": "超人贾兰杜",
+        "info": "マッチョな謎の超人。ラグナたちの前に姿を現しては、エクササイズと共に役に立つ技を一方的に教えてくれる。イルバードのどこかには、様々な猛者たちが闘いを繰り広げるという彼の闘技場「G-コロッセオ」があるという。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/9d/24157_crt_RsYRX.jpg",
+        "link": "https://bgm.tv/character/24157",
+        "categorie": "person"
+      },
+      {
+        "id": "24158",
+        "label": "布卢布兰",
+        "info": "《怪盗紳士》の異名を持ち、奇術や搦手で相手を翻弄する結社《身喰らう蛇》の執行者No.Ⅹ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/0c/24158_crt_0r7fR.jpg?r=1494551017",
+        "link": "https://bgm.tv/character/24158",
+        "categorie": "person"
+      },
+      {
+        "id": "24642",
+        "label": "托瓦尔·兰德纳",
+        "info": "大陸全土に支部がある、問題解決や調査を請け負う民間組織、《遊撃士協会（ブレイサーギルド）》の帝国支部に所属する遊撃士。遊撃士の活動が制限された帝国において、元同僚のサラなどと協力しつつ地道に活動を続けながら何とかギルドを立て直そうとしている。武術の腕はそれなりだが、戦術オーブメントの裏技的なカスタマイズに長け、圧倒的な早さでアーツ（魔法）を繰り出す使い手として知られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/eb/24642_crt_rBC87.jpg?r=1494515878",
+        "link": "https://bgm.tv/character/24642",
+        "categorie": "person"
+      },
+      {
+        "id": "24651",
+        "label": "爱因·瑟尔纳特",
+        "info": "《紅耀石（カーネリア）》の異名を持つ星杯騎士団の《守護騎士（ドミニオン）》第一位にして総長。ケビンとリースを鍛えた師匠でもあり、リースの姉ルフィナとは友人関係にもあった。作中に登場する娯楽小説『カーネリア』のヒロインのモデルだとされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/89/24651_crt_q2LLQ.jpg?r=1398753532",
+        "link": "https://bgm.tv/character/24651",
+        "categorie": "person"
+      },
+      {
+        "id": "28718",
+        "label": "安达莉",
+        "info": "宇宙船「フェンリル」の全ての機能をコントロールしている人工知能である。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/28718",
+        "categorie": "person"
+      },
+      {
+        "id": "29408",
+        "label": "波琳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/e3/29408_crt_7T36R.jpg",
+        "link": "https://bgm.tv/character/29408",
+        "categorie": "person"
+      },
+      {
+        "id": "29754",
+        "label": "库茨",
+        "info": "23歳の究極の美男子で、シャーラとコンビを組む泥棒。ただし盗みに成功した事はない。軽い性格で暇を見てはナンパをしているが成功率は低い。投げ縄・投石など物を投げるのが得意で百発百中。料理が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c2/29754_crt_1XT6g.jpg",
+        "link": "https://bgm.tv/character/29754",
+        "categorie": "person"
+      },
+      {
+        "id": "29755",
+        "label": "嘉拉",
+        "info": "22歳の絶世の美女で、グースとコンビを組む泥棒。ただし盗みに成功した事はない。姉御肌で面倒見が非常によい。弓の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/ff/29755_crt_am4hg.jpg",
+        "link": "https://bgm.tv/character/29755",
+        "categorie": "person"
+      },
+      {
+        "id": "30060",
+        "label": "梅娅·沃曾",
+        "info": "母。魔法使い(Wizard)。「ウィング」で空を飛ぶことができる。また、「ロッド」でブロックを弾き飛ばすことも、「キー・ステッキ」で鍵を使わずに扉を開けることもできる。武器はファイヤーボール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b4/30060_crt_77aEa.jpg?r=1426497873",
+        "link": "https://bgm.tv/character/30060",
+        "categorie": "person"
+      },
+      {
+        "id": "30061",
+        "label": "罗亚斯·沃曾",
+        "info": "兄。レンジャー(Ranger)。「クラウン」と「ドラゴンスレイヤー」を扱うことができる。ファミリーの中では平均的な能力だが、ディルギオスを倒せるのは彼だけである。武器は短剣で、攻撃力は低いが射程は長い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/cd/30061_crt_5h868.jpg?r=1426497861",
+        "link": "https://bgm.tv/character/30061",
+        "categorie": "person"
+      },
+      {
+        "id": "30063",
+        "label": "波奇",
+        "info": "ペット。モンスター(Monster)。普段は犬だが、ダンジョンに出撃する際はモンスターに変身する。モンスターの姿のため、ダンジョン内の敵キャラクターに触れてもダメージを受けない（ボスは除く）。しかし使用できるアイテムは少ない。武器は口から吐く火の玉で、攻撃力は高いが射程は短い。ジャンプ力は低い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/22/30063_crt_F6G0r.jpg",
+        "link": "https://bgm.tv/character/30063",
+        "categorie": "person"
+      },
+      {
+        "id": "30064",
+        "label": "屠龙勇者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/e2/30064_crt_KkQHp.jpg",
+        "link": "https://bgm.tv/character/30064",
+        "categorie": "person"
+      },
+      {
+        "id": "30840",
+        "label": "约亚西姆·琼塔",
+        "info": "聖ウルスラ医科大学准教授で年齢は30代半ば。眼鏡をかけた優男的な人物だが、どこかひょうひょうとしていてつかみどころがない。レミフェリア公国出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/9f/30840_crt_Ea308.jpg?r=1426497921",
+        "link": "https://bgm.tv/character/30840",
+        "categorie": "person"
+      },
+      {
+        "id": "30059",
+        "label": "泽门·沃曾",
+        "info": "父。戦士(Warrior)。鍛えた筋肉を生かし、「グローブ」でブロックを動かすことができる。ジャンプ力が低い。武器は斧で、攻撃力は高いが射程は短め。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/9a/30059_crt_Q95xY.jpg",
+        "link": "https://bgm.tv/character/30059",
+        "categorie": "person"
+      },
+      {
+        "id": "30062",
+        "label": "莉露露·沃曾",
+        "info": "妹。エルフ(Elf)。ジャンプ力が高く、「ジャンプシューズ」を使えば非常に高く跳躍することができる。「マトック」でブロックを破壊することもできる。武器はファイヤーボールで、攻撃力は低いが射程は長い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/bd/30062_crt_Qhi80.jpg",
+        "link": "https://bgm.tv/character/30062",
+        "categorie": "person"
+      },
+      {
+        "id": "15797",
+        "label": "咪嘻",
+        "info": "「みっしぃ」という鳴き声が特徴の不思議な静物で、そこそこ知能は高いらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/01/15797_crt_fm6kD.jpg",
+        "link": "https://bgm.tv/character/15797",
+        "categorie": "person"
+      },
+      {
+        "id": "853",
+        "label": "亚妮拉丝·艾尔菲德",
+        "info": "雪拉的学妹，以剑道为志向的女性遊擊士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/10/853_crt_8UNNL.jpg",
+        "link": "https://bgm.tv/character/853",
+        "categorie": "person"
+      },
+      {
+        "id": "854",
+        "label": "凯文·格拉汉姆",
+        "info": "七曜教会的巡回神父，轻浮但是乐在工作的性格，因而言词或是服装上都很难把他和神父联想在一起。 他的工作主要是在没有教会的小村庄中讲道，此外还在主日学校中教授孩子们知识，但是似乎还有其他的目的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/29/854_crt_ix8Tx.jpg?r=1531489047",
+        "link": "https://bgm.tv/character/854",
+        "categorie": "person"
+      },
+      {
+        "id": "12427",
+        "label": "科洛蒂娅·冯·奥赛雷丝",
+        "info": "在地方都市卢安的玛西亚孤儿院以杰尼丝王立学院学生的身份登场。留着齐耳的紫色短发，穿着王立学院的校服。还有一只名叫基库的白隼伴随在身边。科洛丝就如同她头发的紫色一般，温柔、善良。其实科洛丝·琳希（Klose Rinz）和杰尼丝王立学院学生都只是为了隐藏她的真实身份而存在。她的真正名字是科洛蒂娅·冯·奥赛雷丝（Klaudia von Auslese），小国利贝尔的公主，王位继承人。科洛丝·琳希是取真名开头结尾所组成的假名。不过就自己本人而言，更愿意别人叫她科洛丝。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/0c/12427_crt_mWWyP.jpg?r=1531488943",
+        "link": "https://bgm.tv/character/12427",
+        "categorie": "person"
+      },
+      {
+        "id": "12429",
+        "label": "莉丝·亚尔珍特",
+        "info": "莉丝·亚尔珍特，女，18岁。《英雄传说6：空之轨迹the 3rd》的女主角。七曜教会修女，星杯骑士团随从骑士。与孤儿凯文在教会的同一间孤儿院中被抚养长大。姐姐露菲娜在5年前的一场事故中身亡。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/8c/12429_crt_XrroX.jpg?r=1531488979",
+        "link": "https://bgm.tv/character/12429",
+        "categorie": "person"
+      },
+      {
+        "id": "16007",
+        "label": "多奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/7a/16007_crt_bb36B.jpg?r=1593057321",
+        "link": "https://bgm.tv/character/16007",
+        "categorie": "person"
+      },
+      {
+        "id": "16973",
+        "label": "莉莉亚",
+        "info": "イースの地へ飛ばされていたアドルを助けた、ランスの村に住んでいる少女。オープニングで、振り向くアニメーションが当時話題を呼んだ。ファルコム主催でミス・リリア・コンテストも開かれている。OVAではスカートが短くなっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/05/16973_crt_wOhEz.jpg?r=1571724329",
+        "link": "https://bgm.tv/character/16973",
+        "categorie": "person"
+      },
+      {
+        "id": "23526",
+        "label": "切斯特·斯多达特",
+        "info": "エレナの兄で、ドギの幼馴染。「III」の時以上に復讐心が強くなっており、ドギに重傷を負わせたり、バレスタイン城を魔物が徘徊する場所に変えてしまうなど、見境いの無い行動を取る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/2a/23526_crt_Zi10X.jpg?r=1392092958",
+        "link": "https://bgm.tv/character/23526",
+        "categorie": "person"
+      },
+      {
+        "id": "23599",
+        "label": "艾伦斯特",
+        "info": "アガレスの副官を務める青年士官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/e0/23599_crt_RRri4.jpg?r=1392627529",
+        "link": "https://bgm.tv/character/23599",
+        "categorie": "person"
+      },
+      {
+        "id": "24160",
+        "label": "布拉奇",
+        "info": "エルフの村の問題児。根性や度胸、常識といったものをまったく持ち合わせておらず、さらにはかなりのトラブルメーカーで、何か困ったことがあったら何かと手製の爆弾を使って解決しようとし、これが元でさらにトラブルを増幅させてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/af/24160_crt_etn7v.jpg?r=1396013109",
+        "link": "https://bgm.tv/character/24160",
+        "categorie": "person"
+      },
+      {
+        "id": "24161",
+        "label": "史黛拉",
+        "info": "「砂漠の黒豹」としてあこぎな悪徳商人などを懲らしめる美女。爆弾とカンド魔法の使い手。当初は正体を隠し、「ナジェ」と名乗っていた。本編ではあまり言及されなかったが、実は『ぽっぷるメイル』のブラッキー同様、何でもかんでも爆弾で解決しようとする傾向があり、一歩間違えばとんでもないトラブルメーカーになっていた（実際、ギドナでやっているのは爆弾テロ以外の何者でもない）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/10/24161_crt_beeqg.jpg?r=1396014368",
+        "link": "https://bgm.tv/character/24161",
+        "categorie": "person"
+      },
+      {
+        "id": "31078",
+        "label": "蒂娜",
+        "info": "15歳。ソルディス王国の王女。セリオスの許嫁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/f6/31078_crt_7vt3R.jpg",
+        "link": "https://bgm.tv/character/31078",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

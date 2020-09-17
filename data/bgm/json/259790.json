@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71555",
+        "label": "武笠美姬",
+        "info": "人付き合いが苦手で、引っ込み思案だけど心優しい高校生。クラスの中で一人溶け込めずにいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/66/71555_crt_vR333.jpg?r=1567293211",
+        "link": "https://bgm.tv/character/71555",
+        "categorie": "person"
+      },
+      {
+        "id": "71522",
+        "label": "高屋敷绫",
+        "info": "天真爛漫なクラスメイト。京都に引っ越してきたばかり。いつも明るく好奇心旺盛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/e0/71522_crt_VXNAN.jpg?r=1567293231",
+        "link": "https://bgm.tv/character/71522",
+        "categorie": "person"
+      },
+      {
+        "id": "71556",
+        "label": "大野翠",
+        "info": "規律が持ち前の美姫と綾のクラス委員長。ボードゲームショップ『さいころ倶楽部』でアルバイトをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/37/71556_crt_AIFIy.jpg?r=1567293254",
+        "link": "https://bgm.tv/character/71556",
+        "categorie": "person"
+      },
+      {
+        "id": "71557",
+        "label": "艾米莉亚",
+        "info": "ボードゲームデザイナーを夢見る、ドイツから来た美少女転校生。父親が、ボードゲームカフェ「ゲシュンク」を経営している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/c3/71557_crt_O4985.jpg?r=1567293274",
+        "link": "https://bgm.tv/character/71557",
+        "categorie": "person"
+      },
+      {
+        "id": "71558",
+        "label": "金城健",
+        "info": "ボードゲームショップ『さいころ倶楽部』の店長。筋骨隆々でコワモテだが、心優しいジェントルマン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/2c/71558_crt_Mkg0C.jpg?r=1567293140",
+        "link": "https://bgm.tv/character/71558",
+        "categorie": "person"
+      },
+      {
+        "id": "71944",
+        "label": "田上翔太",
+        "info": "翠の幼馴染で、お調子者のクラスメイト。隣の席に座ることになった綾のことが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/2e/71944_crt_UmGSS.jpg?r=1569101028",
+        "link": "https://bgm.tv/character/71944",
+        "categorie": "person"
+      },
+      {
+        "id": "71945",
+        "label": "吉冈龙二",
+        "info": "田上とは小学生時代からの友人で、剣道部に所属しているクラスメイト。クールで論理的。美姫の優しさに触れてから、美姫のことが気になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/44/71945_crt_zm8jO.jpg?r=1569101249",
+        "link": "https://bgm.tv/character/71945",
+        "categorie": "person"
+      },
+      {
+        "id": "71946",
+        "label": "青岛悠人",
+        "info": "3年生の生徒会長。事故で入院していたが、学園祭の1ヵ月ほど前に退院。いい加減でお調子者に見えるが、周囲への気配りが出来て、男子からも女子からも人気がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/fb/71946_crt_gNov8.jpg?r=1569101412",
+        "link": "https://bgm.tv/character/71946",
+        "categorie": "person"
+      },
+      {
+        "id": "73169",
+        "label": "牧京子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/87/73169_crt_DxYL4.jpg?r=1573959735",
+        "link": "https://bgm.tv/character/73169",
+        "categorie": "person"
+      },
+      {
+        "id": "73170",
+        "label": "涉泽莲",
+        "info": "学生会副会长，大野翠的初中同学",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/2a/73170_crt_Ucro7.jpg?r=1573959745",
+        "link": "https://bgm.tv/character/73170",
+        "categorie": "person"
+      },
+      {
+        "id": "72977",
+        "label": "乔治・贝雷斯佛德",
+        "info": "美国新兴游戏商bad dwarf的经理兼设计师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7e/72977_crt_NMnNc.jpg",
+        "link": "https://bgm.tv/character/72977",
+        "categorie": "person"
+      },
+      {
+        "id": "73812",
+        "label": "高屋敷健司",
+        "info": "绫的爸爸，常年在外做着动物摄影的工作",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/49/73812_crt_SqJQG.jpg",
+        "link": "https://bgm.tv/character/73812",
+        "categorie": "person"
+      },
+      {
+        "id": "73813",
+        "label": "高屋敷花",
+        "info": "绫的姐姐",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/86/73813_crt_3So28.jpg",
+        "link": "https://bgm.tv/character/73813",
+        "categorie": "person"
+      },
+      {
+        "id": "73930",
+        "label": "坂本",
+        "info": "大野家的公司的大堂经理、内装设计咨询师",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/34/73930_crt_lJJj2.jpg",
+        "link": "https://bgm.tv/character/73930",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

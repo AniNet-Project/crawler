@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15697",
+        "label": "黒神目泷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/6d/15697_crt_J437z.jpg?r=1459506728",
+        "link": "https://bgm.tv/character/15697",
+        "categorie": "person"
+      },
+      {
+        "id": "15698",
+        "label": "人吉善吉",
+        "info": "好人",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/1b/15698_crt_0PEEZ.jpg?r=1459506708",
+        "link": "https://bgm.tv/character/15698",
+        "categorie": "person"
+      },
+      {
+        "id": "15700",
+        "label": "阿久根高贵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/6b/15700_crt_V8T2P.jpg?r=1459506842",
+        "link": "https://bgm.tv/character/15700",
+        "categorie": "person"
+      },
+      {
+        "id": "15901",
+        "label": "喜界岛枫夏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/92/15901_crt_99VPT.jpg?r=1459506820",
+        "link": "https://bgm.tv/character/15901",
+        "categorie": "person"
+      },
+      {
+        "id": "15699",
+        "label": "锅岛猫美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/81/15699_crt_5apnk.jpg?r=1459506796",
+        "link": "https://bgm.tv/character/15699",
+        "categorie": "person"
+      },
+      {
+        "id": "15701",
+        "label": "不知火半袖",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/dc/15701_crt_9FnuW.jpg?r=1459506753",
+        "link": "https://bgm.tv/character/15701",
+        "categorie": "person"
+      },
+      {
+        "id": "15902",
+        "label": "屋久岛",
+        "info": "三年十一組・競泳部部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/04/15902_crt_aCQCl.jpg",
+        "link": "https://bgm.tv/character/15902",
+        "categorie": "person"
+      },
+      {
+        "id": "15903",
+        "label": "种子岛",
+        "info": "二年十一組・競泳部副部長",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/35/15903_crt_n7FAj.jpg",
+        "link": "https://bgm.tv/character/15903",
+        "categorie": "person"
+      },
+      {
+        "id": "15702",
+        "label": "门司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/c0/15702_crt_ARLf3.jpg",
+        "link": "https://bgm.tv/character/15702",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9936",
+        "label": "南沢淳平",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/77/9936_crt_5T1qX.jpg",
+        "link": "https://bgm.tv/character/9936",
+        "categorie": "person"
+      },
+      {
+        "id": "9937",
+        "label": "西崎栄子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/09/9937_crt_3s0nB.jpg",
+        "link": "https://bgm.tv/character/9937",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

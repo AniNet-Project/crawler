@@ -1,0 +1,605 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49026",
+        "label": "木春由乃",
+        "info": "讨厌乡下、憧憬着都市，为了成为“特别的什么”而来到东京闯荡。但结局还是没能够找到自己想要做什么。最终，30个公司就职测试落选、就职活动失败。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/38/49026_crt_6P176.jpg?r=1491438574",
+        "link": "https://bgm.tv/character/49026",
+        "categorie": "person"
+      },
+      {
+        "id": "49027",
+        "label": "四之宫栞",
+        "info": "间野山观光协会职员，由乃来到间野山后的工作伙伴之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/66/49027_crt_b7C48.jpg?r=1492180618",
+        "link": "https://bgm.tv/character/49027",
+        "categorie": "person"
+      },
+      {
+        "id": "49028",
+        "label": "绿川真希",
+        "info": "成为演员的梦想破灭，从东京回到了故乡——间野山。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/09/49028_crt_WWH3S.jpg?r=1492808914",
+        "link": "https://bgm.tv/character/49028",
+        "categorie": "person"
+      },
+      {
+        "id": "49029",
+        "label": "织部凛凛子",
+        "info": "虽然不喜欢乡下小镇的间野山，但是没有离开这里的勇气。高中毕了业也没有找到好好的工作，反而蜗居在家以网络冲浪等度日。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/45/49029_crt_MWrxt.jpg?r=1493384793",
+        "link": "https://bgm.tv/character/49029",
+        "categorie": "person"
+      },
+      {
+        "id": "49030",
+        "label": "香月早苗",
+        "info": "生于东京育于东京，比由乃早了半年下乡来到间野山的豪言壮语系女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ab/49030_crt_9vUmb.jpg?r=1494041833",
+        "link": "https://bgm.tv/character/49030",
+        "categorie": "person"
+      },
+      {
+        "id": "51243",
+        "label": "门田丑松",
+        "info": "卓柏卡布拉王国的初代国王，间野山观光协会的会长。犯了失误把由乃叫来间野山的“罪魁祸首”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/af/51243_crt_M3oBS.jpg?r=1486715629",
+        "link": "https://bgm.tv/character/51243",
+        "categorie": "person"
+      },
+      {
+        "id": "51244",
+        "label": "美浓",
+        "info": "间野山观光协会的职员。和同僚山田是阻止暴走的丑松的缓和剂。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/8a/51244_crt_hHx2W.jpg?r=1486718933",
+        "link": "https://bgm.tv/character/51244",
+        "categorie": "person"
+      },
+      {
+        "id": "51245",
+        "label": "山田孝",
+        "info": "間间野山观光协会的职员。是容易暴走的会长的刹车，关照着奋斗的由乃她们。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/17/51245_crt_1B79x.jpg?r=1486719861",
+        "link": "https://bgm.tv/character/51245",
+        "categorie": "person"
+      },
+      {
+        "id": "51246",
+        "label": "高见泽",
+        "info": "间野山市的路线巴士的司机。常去安洁莉卡的店里吃饭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/b6/51246_crt_3uq8N.jpg?r=1486720674",
+        "link": "https://bgm.tv/character/51246",
+        "categorie": "person"
+      },
+      {
+        "id": "51253",
+        "label": "亚历山大·椎名·戴维斯·切利比达克",
+        "info": "在间野山市中居无定所的谜之外国人。兴趣是乐器演奏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/a9/51253_crt_rhaqA.jpg?r=1486721747",
+        "link": "https://bgm.tv/character/51253",
+        "categorie": "person"
+      },
+      {
+        "id": "51259",
+        "label": "铃木知子",
+        "info": "在间野山经营着餐饮店。店内除了轻食，还有占卜服务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b5/51259_crt_y7YNY.jpg?r=1486722453",
+        "link": "https://bgm.tv/character/51259",
+        "categorie": "person"
+      },
+      {
+        "id": "51260",
+        "label": "铃木艾丽卡",
+        "info": "安洁莉卡的女儿，中学二年级。会帮忙店里待客。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/44/51260_crt_dvV96.jpg?r=1486724283",
+        "link": "https://bgm.tv/character/51260",
+        "categorie": "person"
+      },
+      {
+        "id": "51261",
+        "label": "织部千登势",
+        "info": "间野山商店会会长，凛凛子的祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/8b/51261_crt_BQt56.jpg?r=1486728230",
+        "link": "https://bgm.tv/character/51261",
+        "categorie": "person"
+      },
+      {
+        "id": "54098",
+        "label": "绿川浩介",
+        "info": "绿川真希的弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b8/54098_crt_fv1VB.jpg",
+        "link": "https://bgm.tv/character/54098",
+        "categorie": "person"
+      },
+      {
+        "id": "54099",
+        "label": "金田一",
+        "info": "在间野山派出所工作的警官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/da/54099_crt_8bhxs.jpg",
+        "link": "https://bgm.tv/character/54099",
+        "categorie": "person"
+      },
+      {
+        "id": "54100",
+        "label": "野毛",
+        "info": "间野山商店会书店的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/ee/54100_crt_1902E.jpg",
+        "link": "https://bgm.tv/character/54100",
+        "categorie": "person"
+      },
+      {
+        "id": "54103",
+        "label": "久米朋治",
+        "info": "北陆KITOKITO电视台报道部所属，在节目企划方面很有影响的台内人气报道员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/cb/54103_crt_3Z2nS.jpg",
+        "link": "https://bgm.tv/character/54103",
+        "categorie": "person"
+      },
+      {
+        "id": "54104",
+        "label": "毒岛",
+        "info": "在间野山经营着毒岛制作所，丑松的旧友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/18/54104_crt_5rrMY.jpg",
+        "link": "https://bgm.tv/character/54104",
+        "categorie": "person"
+      },
+      {
+        "id": "54101",
+        "label": "一志",
+        "info": "雕刻师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/ac/54101_crt_u30b3.jpg",
+        "link": "https://bgm.tv/character/54101",
+        "categorie": "person"
+      },
+      {
+        "id": "54102",
+        "label": "辰男",
+        "info": "雕刻师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/e6/54102_crt_Wd3qo.jpg",
+        "link": "https://bgm.tv/character/54102",
+        "categorie": "person"
+      },
+      {
+        "id": "54105",
+        "label": "四之宫贵之",
+        "info": "栞的父亲。作为兼职经营着农家。有着爱哭的一面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/fb/54105_crt_MeMxh.jpg",
+        "link": "https://bgm.tv/character/54105",
+        "categorie": "person"
+      },
+      {
+        "id": "54106",
+        "label": "四之宫千贺子",
+        "info": "しおりの母。おっとりしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/49/54106_crt_I8Sou.jpg",
+        "link": "https://bgm.tv/character/54106",
+        "categorie": "person"
+      },
+      {
+        "id": "54107",
+        "label": "铃木杏志",
+        "info": "アンジェリカの息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/15/54107_crt_7ilYq.jpg",
+        "link": "https://bgm.tv/character/54107",
+        "categorie": "person"
+      },
+      {
+        "id": "54109",
+        "label": "泽野萌",
+        "info": "真希の後輩で、映画「ふたたびの森」のヒロイン役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/bf/54109_crt_U00Dm.jpg",
+        "link": "https://bgm.tv/character/54109",
+        "categorie": "person"
+      },
+      {
+        "id": "54110",
+        "label": "叶山大雅",
+        "info": "映画「ふたたびの森」の主演男優。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/75/54110_crt_G6bIC.jpg",
+        "link": "https://bgm.tv/character/54110",
+        "categorie": "person"
+      },
+      {
+        "id": "54111",
+        "label": "园田",
+        "info": "映画「ふたたびの森」の監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/ec/54111_crt_bA5kW.jpg",
+        "link": "https://bgm.tv/character/54111",
+        "categorie": "person"
+      },
+      {
+        "id": "54112",
+        "label": "藤原",
+        "info": "映画「ふたたびの森」のサード助監督。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ae/54112_crt_1nF8c.jpg",
+        "link": "https://bgm.tv/character/54112",
+        "categorie": "person"
+      },
+      {
+        "id": "54108",
+        "label": "绿川岩",
+        "info": "真希的父亲，担任当地小学的教导主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/e8/54108_crt_F7xsU.jpg",
+        "link": "https://bgm.tv/character/54108",
+        "categorie": "person"
+      },
+      {
+        "id": "54661",
+        "label": "四之宫纱由理",
+        "info": "栞的姐姐，在邻镇综合医院儿科工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/61/54661_crt_F8hfH.jpg",
+        "link": "https://bgm.tv/character/54661",
+        "categorie": "person"
+      },
+      {
+        "id": "54662",
+        "label": "熊野克己",
+        "info": "フランス料理店「ビストロ・ルルス」のオーナーシェフ。さゆりの同級生。高校卒業後にフランスへ渡航して修行した後に帰国、元々蕎麦屋だった父の店を改装して開業した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/cc/54662_crt_8VARG.jpg",
+        "link": "https://bgm.tv/character/54662",
+        "categorie": "person"
+      },
+      {
+        "id": "54663",
+        "label": "四之宫雁十郎",
+        "info": "しおりとさゆりの祖父。妻と共に孫娘の嫁ぎ先を気にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/76/54663_crt_Xsx53.jpg",
+        "link": "https://bgm.tv/character/54663",
+        "categorie": "person"
+      },
+      {
+        "id": "54664",
+        "label": "四之宫千代",
+        "info": "しおりとさゆりの祖母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/ee/54664_crt_idO8Z.jpg",
+        "link": "https://bgm.tv/character/54664",
+        "categorie": "person"
+      },
+      {
+        "id": "54956",
+        "label": "柊圣美",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/ef/54956_crt_8DXDD.jpg",
+        "link": "https://bgm.tv/character/54956",
+        "categorie": "person"
+      },
+      {
+        "id": "54957",
+        "label": "中津川彩菜",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/c9/54957_crt_228Y8.jpg",
+        "link": "https://bgm.tv/character/54957",
+        "categorie": "person"
+      },
+      {
+        "id": "54958",
+        "label": "小山泉",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/44/54958_crt_c2p2p.jpg",
+        "link": "https://bgm.tv/character/54958",
+        "categorie": "person"
+      },
+      {
+        "id": "54959",
+        "label": "涩川",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/08/54959_crt_ESfC7.jpg",
+        "link": "https://bgm.tv/character/54959",
+        "categorie": "person"
+      },
+      {
+        "id": "54960",
+        "label": "柿村",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/86/54960_crt_VjBo3.jpg",
+        "link": "https://bgm.tv/character/54960",
+        "categorie": "person"
+      },
+      {
+        "id": "54961",
+        "label": "平一平",
+        "info": "「どんと恋 間野山」のツアー参加者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/63/54961_crt_UHyHZ.jpg",
+        "link": "https://bgm.tv/character/54961",
+        "categorie": "person"
+      },
+      {
+        "id": "55440",
+        "label": "菅正树",
+        "info": "柊聖美の元カレ。ドジでおっちょこちょい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/11/55440_crt_lLrHR.jpg",
+        "link": "https://bgm.tv/character/55440",
+        "categorie": "person"
+      },
+      {
+        "id": "55441",
+        "label": "雨宫幸也",
+        "info": "北陸きときとテレビ報道部所属、人気番組「放熱山脈」のディレクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/6f/55441_crt_lI5iL.jpg",
+        "link": "https://bgm.tv/character/55441",
+        "categorie": "person"
+      },
+      {
+        "id": "55442",
+        "label": "三浦进",
+        "info": "間野山商店会の時計店の店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/ec/55442_crt_J6Vjs.jpg",
+        "link": "https://bgm.tv/character/55442",
+        "categorie": "person"
+      },
+      {
+        "id": "55443",
+        "label": "布部雅美",
+        "info": "間野山商店会のブティックの店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/33/55443_crt_W5WGO.jpg",
+        "link": "https://bgm.tv/character/55443",
+        "categorie": "person"
+      },
+      {
+        "id": "55444",
+        "label": "岩下孝藏",
+        "info": "間野山商店会の畳店の店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/59/55444_crt_tWKSI.jpg",
+        "link": "https://bgm.tv/character/55444",
+        "categorie": "person"
+      },
+      {
+        "id": "55436",
+        "label": "木下",
+        "info": "人气摇滚乐队Ptolemaios的吉他主唱担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/9f/55436_crt_Yyxyt.jpg",
+        "link": "https://bgm.tv/character/55436",
+        "categorie": "person"
+      },
+      {
+        "id": "55437",
+        "label": "藤吉郎",
+        "info": "人气摇滚乐队Ptolemaios的贝斯担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/de/55437_crt_K0o75.jpg",
+        "link": "https://bgm.tv/character/55437",
+        "categorie": "person"
+      },
+      {
+        "id": "55438",
+        "label": "秀吉",
+        "info": "人气摇滚乐队Ptolemaios的鼓手担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/b0/55438_crt_yyCt2.jpg",
+        "link": "https://bgm.tv/character/55438",
+        "categorie": "person"
+      },
+      {
+        "id": "55439",
+        "label": "北野宁宁",
+        "info": "人气摇滚乐队Ptolemaios的女性经纪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/d0/55439_crt_IniOA.jpg",
+        "link": "https://bgm.tv/character/55439",
+        "categorie": "person"
+      },
+      {
+        "id": "55694",
+        "label": "木春汀",
+        "info": "由乃的妹妹，住在安住浦。高中一年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/fd/55694_crt_MuaaP.jpg",
+        "link": "https://bgm.tv/character/55694",
+        "categorie": "person"
+      },
+      {
+        "id": "55695",
+        "label": "木春八重",
+        "info": "由乃的母亲，住在安住浦。坚实而可靠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/3b/55695_crt_KwK0k.jpg",
+        "link": "https://bgm.tv/character/55695",
+        "categorie": "person"
+      },
+      {
+        "id": "55696",
+        "label": "木春惣一郎",
+        "info": "由乃的父亲，住在安住浦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/2d/55696_crt_0IWWw.jpg",
+        "link": "https://bgm.tv/character/55696",
+        "categorie": "person"
+      },
+      {
+        "id": "55874",
+        "label": "露西亚",
+        "info": "スペインのUMA愛好サークル・クリプティッド12のメンバーのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/5d/55874_crt_IriRU.jpg",
+        "link": "https://bgm.tv/character/55874",
+        "categorie": "person"
+      },
+      {
+        "id": "55875",
+        "label": "コンステンサ",
+        "info": "スペインのUMA愛好サークル・クリプティッド12のメンバーのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/5c/55875_crt_dnNbF.jpg",
+        "link": "https://bgm.tv/character/55875",
+        "categorie": "person"
+      },
+      {
+        "id": "55876",
+        "label": "塞尔吉尼奥",
+        "info": "スペインのUMA愛好サークル・クリプティッド12のリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/67/55876_crt_Y7UNG.jpg",
+        "link": "https://bgm.tv/character/55876",
+        "categorie": "person"
+      },
+      {
+        "id": "55877",
+        "label": "卡洛斯",
+        "info": "スペインのUMA愛好サークル・クリプティッド12のメンバーのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/c3/55877_crt_ZUQa9.jpg",
+        "link": "https://bgm.tv/character/55877",
+        "categorie": "person"
+      },
+      {
+        "id": "56509",
+        "label": "信乐",
+        "info": "間野山観光協会の事務局長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/fd/56509_crt_Saai8.jpg",
+        "link": "https://bgm.tv/character/56509",
+        "categorie": "person"
+      },
+      {
+        "id": "56502",
+        "label": "铃原廉之介",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/9e/56502_crt_v6z3I.jpg",
+        "link": "https://bgm.tv/character/56502",
+        "categorie": "person"
+      },
+      {
+        "id": "56503",
+        "label": "雅爷",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/29/56503_crt_x2fFF.jpg",
+        "link": "https://bgm.tv/character/56503",
+        "categorie": "person"
+      },
+      {
+        "id": "56504",
+        "label": "茂爷",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/8d/56504_crt_nQmk1.jpg",
+        "link": "https://bgm.tv/character/56504",
+        "categorie": "person"
+      },
+      {
+        "id": "56505",
+        "label": "五郎爷",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/2f/56505_crt_7j474.jpg",
+        "link": "https://bgm.tv/character/56505",
+        "categorie": "person"
+      },
+      {
+        "id": "56506",
+        "label": "秀爷",
+        "info": "住在蕨矢集落的独居老人。原本是木匠。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/52/56506_crt_4wY8B.jpg",
+        "link": "https://bgm.tv/character/56506",
+        "categorie": "person"
+      },
+      {
+        "id": "56507",
+        "label": "美智代",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/0c/56507_crt_6j4wl.jpg",
+        "link": "https://bgm.tv/character/56507",
+        "categorie": "person"
+      },
+      {
+        "id": "56508",
+        "label": "清",
+        "info": "住在蕨矢集落的独居老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/3d/56508_crt_0tg0l.jpg",
+        "link": "https://bgm.tv/character/56508",
+        "categorie": "person"
+      },
+      {
+        "id": "56824",
+        "label": "绿川澄子",
+        "info": "真希の母親。よく衝突する夫と娘の仲を取り持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/51/56824_crt_1gkQo.jpg",
+        "link": "https://bgm.tv/character/56824",
+        "categorie": "person"
+      },
+      {
+        "id": "57010",
+        "label": "石川玲香",
+        "info": "真希の高校時代の演劇部の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0a/57010_crt_foFOB.jpg",
+        "link": "https://bgm.tv/character/57010",
+        "categorie": "person"
+      },
+      {
+        "id": "57011",
+        "label": "三好琴美",
+        "info": "真希の高校時代の演劇部の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/94/57011_crt_8WwGZ.jpg",
+        "link": "https://bgm.tv/character/57011",
+        "categorie": "person"
+      },
+      {
+        "id": "57012",
+        "label": "冈田多英",
+        "info": "真希の高校時代の演劇部の先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/96/57012_crt_FUyx7.jpg",
+        "link": "https://bgm.tv/character/57012",
+        "categorie": "person"
+      },
+      {
+        "id": "57269",
+        "label": "八木沼节子",
+        "info": "间野山商店街药局店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/28/57269_crt_y70IG.jpg",
+        "link": "https://bgm.tv/character/57269",
+        "categorie": "person"
+      },
+      {
+        "id": "57676",
+        "label": "秋山",
+        "info": "八百元店的原店主。现在已经关店，居住在町外",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/4d/57676_crt_Kz0E2.jpg",
+        "link": "https://bgm.tv/character/57676",
+        "categorie": "person"
+      },
+      {
+        "id": "58148",
+        "label": "ナウマン市長",
+        "info": "サンダルさんの故郷の市長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/d1/58148_crt_5nTNX.jpg",
+        "link": "https://bgm.tv/character/58148",
+        "categorie": "person"
+      },
+      {
+        "id": "56054",
+        "label": "门田绢",
+        "info": "丑松の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/0d/56054_crt_kIjvL.jpg",
+        "link": "https://bgm.tv/character/56054",
+        "categorie": "person"
+      },
+      {
+        "id": "56055",
+        "label": "榎本朔美",
+        "info": "由乃在老家的朋友，公务员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/eb/56055_crt_2NHI3.jpg",
+        "link": "https://bgm.tv/character/56055",
+        "categorie": "person"
+      },
+      {
+        "id": "56056",
+        "label": "金子绘里",
+        "info": "早苗在东京的朋友，在父亲的大楼里工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/9f/56056_crt_4ZO0b.jpg",
+        "link": "https://bgm.tv/character/56056",
+        "categorie": "person"
+      },
+      {
+        "id": "56057",
+        "label": "有村薰",
+        "info": "早苗在东京的朋友，自己创业，还在起步阶段。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/9e/56057_crt_ytz0z.jpg",
+        "link": "https://bgm.tv/character/56057",
+        "categorie": "person"
+      },
+      {
+        "id": "58152",
+        "label": "工藤将晴",
+        "info": "隣町の富蔵市にある株式会社「アゾレス」の代表取締役。間野山二中のOBで、3店の支店を構える人気洋菓子店「ベレン」を営んでおり、間野山商店街での4店舗目の店舗開業を計画し、観光協会に話を持ち掛ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/73/58152_crt_iiH8h.jpg",
+        "link": "https://bgm.tv/character/58152",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

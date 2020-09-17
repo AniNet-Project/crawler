@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22385",
+        "label": "铃原美咲",
+        "info": "本作主角，对自己个子矮小而感到有些自卑的小女生，有些天生傻乎乎但很老实的，很容易被转移话题，是个路痴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/ac/22385_crt_zQ3q2.jpg",
+        "link": "https://bgm.tv/character/22385",
+        "categorie": "person"
+      },
+      {
+        "id": "5377",
+        "label": "小林鸠子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/42/5377_crt_Wdy9T.jpg",
+        "link": "https://bgm.tv/character/5377",
+        "categorie": "person"
+      },
+      {
+        "id": "5393",
+        "label": "铃原萩子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/9b/5393_crt_MGocA.jpg",
+        "link": "https://bgm.tv/character/5393",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25766",
+        "label": "胜改藏",
+        "info": "漫画男主角，虎马高中二年级学生，科特部成员，相貌英俊，很有女人缘。年幼时被称为神童，天才补习班的一员，但由于名取羽美的缘故受伤，自此变为妄想狂。心直口快，说话办事完全不加思索，因此经常得罪别人。在漫画早期显得性格古怪，妄想成性，后期由于地丹和羽美的性格异化，为求平衡，他的言语立场对应的转变到倾向于正常人一方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/92/25766_crt_CXrbr.jpg",
+        "link": "https://bgm.tv/character/25766",
+        "categorie": "person"
+      },
+      {
+        "id": "25767",
+        "label": "名取羽美",
+        "info": "胜改藏的青梅竹马，同班同学，科特部成员，身材不佳。原本是一名普通的高中女生，对于使胜改藏失去天才一事十分愧疚，而想要补偿他。漫画中期追加“有点怪”、“没有朋友”的设定，后来又以此为基础，连续追加“手机强迫症、会向网友发骚扰短信”，“会对不愿做自己朋友的同学暴力相向”等设定，最终成为精擅咒术的多重人格变态杀人狂，且幼年时代已经有此倾向。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/1a/25767_crt_JeTD7.jpg",
+        "link": "https://bgm.tv/character/25767",
+        "categorie": "person"
+      },
+      {
+        "id": "25768",
+        "label": "坪内地丹",
+        "info": "《かってに改蔵》中的第二男主角（無誤？）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/af/25768_crt_nQpYj.jpg",
+        "link": "https://bgm.tv/character/25768",
+        "categorie": "person"
+      },
+      {
+        "id": "25769",
+        "label": "彩园铃",
+        "info": "高中三年级生，科特部部长，超级大美女。在漫画早期，常常就改藏的妄想而借题发挥以取乐，通过幕后手段攫取社团活动费。漫画中后期变得更加擅长操纵人心，通过各种手段造成金融震荡以从中牟利。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/b0/25769_crt_8QA82.jpg?r=1568962516",
+        "link": "https://bgm.tv/character/25769",
+        "categorie": "person"
+      },
+      {
+        "id": "25770",
+        "label": "山田同学",
+        "info": "“以美貌著称的班级委员山田同学”，身材极佳。漫画早期是天才补习班成员们首要的捉弄对象，后期蜕变为以一人之力支撑着虎马高中运行的幕后英雄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/33/25770_crt_c3zVO.jpg",
+        "link": "https://bgm.tv/character/25770",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55612",
+        "label": "纸芝居艺人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/e5/55612_crt_Gi5t6.jpg",
+        "link": "https://bgm.tv/character/55612",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

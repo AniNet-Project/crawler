@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6394",
+        "label": "雾亥",
+        "info": "人間が再びネットスフィアにアクセスする鍵となる「ネット端末遺伝子」を求め、巨大な階層都市を旅する探索者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/1d/6394_crt_73EZE.jpg?r=1487862582",
+        "link": "https://bgm.tv/character/6394",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

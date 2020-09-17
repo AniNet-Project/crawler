@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11322",
+        "label": "柳生十兵卫三严",
+        "info": "突然全裸着从武应学院上空掉落的迷之美少女。她没有至今的记忆，自称名为“柳生十兵卫”，不知为何居然称宗朗为“哥哥”。性格豪爽明快天真烂漫，不管面对什么人都不会退却。能够在宗朗的“将”之力（即KISS）下觉醒另一个人格，还能发出许多可怕的必杀技。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/44/11322_crt_nN6lu.jpg",
+        "link": "https://bgm.tv/character/11322",
+        "categorie": "person"
+      },
+      {
+        "id": "11323",
+        "label": "柳生宗朗",
+        "info": "武应学院的高中生。他是拥有德川将军家剑术指导历史400年的柳生家下一任当家，同时也是剑术道场“柳生道场”的师范。剑术一流。另外，也具备了一流司令官的才能，在战斗中能做出精妙的指示。性格温柔，平等待人，对不公不正之事抱有绝不屈服的坚强意志。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/a5/11323_crt_ZNIi1.jpg",
+        "link": "https://bgm.tv/character/11323",
+        "categorie": "person"
+      },
+      {
+        "id": "19898",
+        "label": "真田幸村",
+        "info": "历史名将真田幸村的名称拥有者，以铁扇为武器的萝莉型美少女，与後藤又兵卫一同被当作是\"丰臣派\"的反德川势力，智勇兼备的少年军师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/b4/19898_crt_3Pmn7.jpg",
+        "link": "https://bgm.tv/character/19898",
+        "categorie": "person"
+      },
+      {
+        "id": "19899",
+        "label": "徳川千",
+        "info": "\"武应学园私塾\"的学生会长·“德川庆彦”的亲妹妹，担任副会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/44/19899_crt_YYWyN.jpg",
+        "link": "https://bgm.tv/character/19899",
+        "categorie": "person"
+      },
+      {
+        "id": "19900",
+        "label": "直江兼续",
+        "info": "武应学园私塾中等部一年级转校生，相信「爱」，为了「爱」作战，自称爱的战士……不过，稍稍失败突出的情况。脑袋一根筋，脱线，常被打晕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/e3/19900_crt_I3qBG.jpg",
+        "link": "https://bgm.tv/character/19900",
+        "categorie": "person"
+      },
+      {
+        "id": "19901",
+        "label": "服部半蔵",
+        "info": "学生会执行部风纪委员。宗朗的同班同学，啰嗦的班长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/0f/19901_crt_f6EeU.jpg",
+        "link": "https://bgm.tv/character/19901",
+        "categorie": "person"
+      },
+      {
+        "id": "19902",
+        "label": "后藤又兵卫",
+        "info": "跟随着幸村的高个子美女仆人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/8d/19902_crt_d7tD0.jpg",
+        "link": "https://bgm.tv/character/19902",
+        "categorie": "person"
+      },
+      {
+        "id": "19903",
+        "label": "德川庆彦",
+        "info": "“武应学园私塾”的学生会长，现在的大将军·德川义康的嫡子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/e6/19903_crt_9w96F.jpg",
+        "link": "https://bgm.tv/character/19903",
+        "categorie": "person"
+      },
+      {
+        "id": "19904",
+        "label": "柳生义仙",
+        "info": "与十兵卫一样是从天而降的剑姬，被宗朗安顿在柳生道场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/74/19904_crt_QiaXn.jpg",
+        "link": "https://bgm.tv/character/19904",
+        "categorie": "person"
+      },
+      {
+        "id": "19905",
+        "label": "夏尔·戴·达尔坦尼雅",
+        "info": "从法兰西来留学的美少女，很特别的异国武者，巨大的两面刃剑(クレイモア)的双刀流使用者，被学生会会长，德川庆彦半途有预谋地结成主从关系。（尼雅却依然喜欢着他。）被德川庆彦注射基因组成为人造剑姬。后又因为德川庆彦的将相之力觉醒，为了救她，亲吻，使其复活，并成为剑姬。（左手上有作为剑姬的字印。）",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/55/19905_crt_4042C.jpg",
+        "link": "https://bgm.tv/character/19905",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

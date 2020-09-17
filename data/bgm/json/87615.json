@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21870",
+        "label": "雪平富良野",
+        "info": "甘草奏的同班同学，发色略白的冷酷美少女，外表看起来是个时常口出恶言的毒舌女，实际上却是个喜欢可爱东西的文弱女孩，学园“五黑”之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/20/21870_crt_311mS.jpg?r=1421389675",
+        "link": "https://bgm.tv/character/21870",
+        "categorie": "person"
+      },
+      {
+        "id": "21908",
+        "label": "甘草奏",
+        "info": "本作主角，学园“五黑”之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/f5/21908_crt_bs52X.jpg?r=1421389633",
+        "link": "https://bgm.tv/character/21908",
+        "categorie": "person"
+      },
+      {
+        "id": "21912",
+        "label": "游王子讴歌",
+        "info": "学园“五黑”之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/8a/21912_crt_SztIb.jpg?r=1421389614",
+        "link": "https://bgm.tv/character/21912",
+        "categorie": "person"
+      },
+      {
+        "id": "21913",
+        "label": "裘可拉",
+        "info": "神明为了解除诅咒而送到奏身边的金发蓝眼美少女，由于神明设定的关系，思考正面，个性乐天，原本是相当优秀的神之仆人，但在某天因为不明原因而失去记忆后，个性也跟着发生变化，开始过著整天玩耍的懒散生活，另外，具有强烈的腐女属性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/e6/21913_crt_Uiw21.jpg?r=1421389580",
+        "link": "https://bgm.tv/character/21913",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "56330",
+        "label": "片恋望美",
+        "info": "甘草奏が入り込んだ恋愛ゲーム『カタオモイ☆乙女』のメインヒロイン。最初のイベントで奏の選択肢により即フラグを折られる。なお主人公（プレイヤーキャラ）・運野命人（うんの めいと）役は奏が、それぞれのヒロインキャラである毒蝮サキ（どくまむしサキ）役は遊王子謳歌、星空ミルク（ほしぞらミルク）役は雪平ふらの、パルフェ役はショコラが担当した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/fd/56330_crt_iBU8o.jpg?r=1501048744",
+        "link": "https://bgm.tv/character/56330",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

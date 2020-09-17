@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51181",
+        "label": "纱名",
+        "info": "外の世界に憧れ、“研究所”と呼ばれる施設を抜け出してきた少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/5c/51181_crt_D32G2.jpg?r=1491814633",
+        "link": "https://bgm.tv/character/51181",
+        "categorie": "person"
+      },
+      {
+        "id": "51182",
+        "label": "樫村蔵六",
+        "info": "白髪に太い眉、つねにムッとしたような表情を崩さず、",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/30/51182_crt_IGrMN.jpg?r=1491814670",
+        "link": "https://bgm.tv/character/51182",
+        "categorie": "person"
+      },
+      {
+        "id": "52169",
+        "label": "米妮C·立花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/3f/52169_crt_IM79M.jpg?r=1491814693",
+        "link": "https://bgm.tv/character/52169",
+        "categorie": "person"
+      },
+      {
+        "id": "52170",
+        "label": "雏雾朝日",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/72/52170_crt_xlQ5X.jpg?r=1491814713",
+        "link": "https://bgm.tv/character/52170",
+        "categorie": "person"
+      },
+      {
+        "id": "52171",
+        "label": "雏雾夜长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/df/52171_crt_2ZGjr.jpg?r=1491814747",
+        "link": "https://bgm.tv/character/52171",
+        "categorie": "person"
+      },
+      {
+        "id": "52172",
+        "label": "一条雫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/b4/52172_crt_8Z2k4.jpg?r=1491814806",
+        "link": "https://bgm.tv/character/52172",
+        "categorie": "person"
+      },
+      {
+        "id": "52173",
+        "label": "樫村早苗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/e5/52173_crt_iA3Rk.jpg?r=1491814560",
+        "link": "https://bgm.tv/character/52173",
+        "categorie": "person"
+      },
+      {
+        "id": "52174",
+        "label": "鬼头浩一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/77/52174_crt_z938H.jpg?r=1491814765",
+        "link": "https://bgm.tv/character/52174",
+        "categorie": "person"
+      },
+      {
+        "id": "52175",
+        "label": "库雷欧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/be/52175_crt_r83RR.jpg?r=1491814787",
+        "link": "https://bgm.tv/character/52175",
+        "categorie": "person"
+      },
+      {
+        "id": "52176",
+        "label": "内藤龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/c7/52176_crt_F33IB.jpg?r=1491814824",
+        "link": "https://bgm.tv/character/52176",
+        "categorie": "person"
+      },
+      {
+        "id": "52177",
+        "label": "山田则子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/07/52177_crt_VvdEv.jpg?r=1491814874",
+        "link": "https://bgm.tv/character/52177",
+        "categorie": "person"
+      },
+      {
+        "id": "55572",
+        "label": "敷岛羽鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/16/55572_crt_29J4h.jpg",
+        "link": "https://bgm.tv/character/55572",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

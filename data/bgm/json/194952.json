@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47863",
+        "label": "宮本明",
+        "info": "『彼岸島』の主人公。将来の夢は小説家。普通の高校生だったが、吸血鬼と対峙。高校卒業後は親友の斉藤ケンが発案した卒業旅行と称した吸血鬼退治に赴く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/e3/47863_crt_aULCA.jpg",
+        "link": "https://bgm.tv/character/47863",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

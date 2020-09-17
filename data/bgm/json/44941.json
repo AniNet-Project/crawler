@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9098",
+        "label": "餃子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/03/9098_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9098",
+        "categorie": "person"
+      },
+      {
+        "id": "9110",
+        "label": "天津飯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/cb/9110_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9110",
+        "categorie": "person"
+      },
+      {
+        "id": "27111",
+        "label": "则卷宝瓜",
+        "info": "アラレたちが原始時代にタイムスリップした時に持ち帰った卵。から生まれた、2本の触角と羽根の生えた赤ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/34/27111_crt_tv3eT.jpg",
+        "link": "https://bgm.tv/character/27111",
+        "categorie": "person"
+      },
+      {
+        "id": "9095",
+        "label": "巴布鲁斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/fa/9095_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9095",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

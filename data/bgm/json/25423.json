@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33245",
+        "label": "遥大地",
+        "info": "故事的主角，地球人，是个很有朝气的小学五年级生。2089年5月5日生，11岁。家族成员有爸爸“大树”、妈妈“美惠”、弟弟“大空”、爷爷“大河”。个性外向爱冒险，富正义感，在功课方面很糟糕，对机械相当擅长，喷射滑板就是他的杰作，因为时常思念母亲（每集前回提要及总结，都是大地在向母亲讲述他们冒险的经历），因此常常被拉比取笑为“裙脚仔/恋母情结”；他名为“大地与炎之魔动战士”，运用代表力量、攻击的火系魔动力，魔动王“Granzort（グランゾート）”的驾驶者。召唤时使用魔动枪，将魔动襟章射向地面画出魔法阵，必须在广阔平坦的地面上进行召唤，并且要以５秒１００米的速度冲向魔动王，所以喷射滑板亦成为大地进行召唤时必备的道具。最害怕吃的东西是红萝卜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/b7/33245_crt_k68pZ.jpg",
+        "link": "https://bgm.tv/character/33245",
+        "categorie": "person"
+      },
+      {
+        "id": "63178",
+        "label": "拉比",
+        "info": "水の魔動戦士。水を司る魔動王、アクアビートに乗る耳長族の11歳の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/9b/63178_crt_R77oM.jpg",
+        "link": "https://bgm.tv/character/63178",
+        "categorie": "person"
+      },
+      {
+        "id": "63177",
+        "label": "加斯",
+        "info": "風の魔動戦士。風を司る魔動王、ウインザートに乗る11歳の少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/2c/63177_crt_7dA0a.jpg",
+        "link": "https://bgm.tv/character/63177",
+        "categorie": "person"
+      },
+      {
+        "id": "63179",
+        "label": "梅",
+        "info": "３大魔法使いのひとり。邪動族を倒す準備のために月面へと逃れ、そこで魔動戦士を捜していた。物知りでどんな魔法も使いこなすが、メカには弱い。ラビルーナに侵入してからは、ガスやマジカルゴの背負った魔法の壺の中で生活する。何と壺の中には、広い部屋があるのだ。いつでも大地たちを導く。75歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/a6/63179_crt_472nN.jpg",
+        "link": "https://bgm.tv/character/63179",
+        "categorie": "person"
+      },
+      {
+        "id": "63180",
+        "label": "咕哩咕哩",
+        "info": "Ｖ－メイの孫。魔法使いとしてはまだまだ未熟で、使いたいと思った魔法が一発で発動する確立は低い。一番得意な魔法は、ニンジンを出現させること。天真爛漫で裏表がなく、いつも笑顔を絶やさない元気印の5歳の女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/fb/63180_crt_XcKKc.jpg?r=1591025121",
+        "link": "https://bgm.tv/character/63180",
+        "categorie": "person"
+      },
+      {
+        "id": "63182",
+        "label": "小百合",
+        "info": "ラビの母。金次第で邪動族にも手を貸す謎の賞金稼ぎの黒武者として、ヘルメットに仕込んだ変声機で声を男のものに変え、邪動族の目をくらませて倒すチャンスを伺っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/6f/63182_crt_oOFmu.jpg",
+        "link": "https://bgm.tv/character/63182",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

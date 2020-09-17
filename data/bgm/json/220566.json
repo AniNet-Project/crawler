@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61870",
+        "label": "瑞依",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/e3/61870_crt_wbwvN.jpg?r=1531229745",
+        "link": "https://bgm.tv/character/61870",
+        "categorie": "person"
+      },
+      {
+        "id": "61871",
+        "label": "札克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/cc/61871_crt_99ZVs.jpg?r=1530942904",
+        "link": "https://bgm.tv/character/61871",
+        "categorie": "person"
+      },
+      {
+        "id": "63132",
+        "label": "丹尼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/b1/63132_crt_M2zk4.jpg?r=1530943170",
+        "link": "https://bgm.tv/character/63132",
+        "categorie": "person"
+      },
+      {
+        "id": "63133",
+        "label": "艾迪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/27/63133_crt_JZ7QA.jpg?r=1530943317",
+        "link": "https://bgm.tv/character/63133",
+        "categorie": "person"
+      },
+      {
+        "id": "63134",
+        "label": "凯西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/44/63134_crt_V97o6.jpg?r=1530943432",
+        "link": "https://bgm.tv/character/63134",
+        "categorie": "person"
+      },
+      {
+        "id": "64591",
+        "label": "葛雷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/33/64591_crt_Gzo9z.jpg?r=1530943958",
+        "link": "https://bgm.tv/character/64591",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

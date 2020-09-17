@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1743",
+        "label": "土见禀",
+        "info": "十七岁的高中生，主角，就读于巴贝纳学园二年级。成绩普通、运动神经中上。双亲在八年前和枫的母亲一起在一场交通事故中丧生了，因此现在寄住在青梅竹马，同时也是学园偶像的枫家中。如同枫所说的，禀非常善良，这是他最大的优点，而女孩们也因此喜欢他。至于他最大的缺点，如同之后所显示的，是他的优柔寡断以及企图使每个人都快乐（这一点经常在后面反倒伤了他们）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/5a/1743_VP22W.jpg",
+        "link": "https://bgm.tv/character/1743",
+        "categorie": "person"
+      },
+      {
+        "id": "1744",
+        "label": "利希安瑟丝",
+        "info": "生日：7月30日。身高160cm，三围：81/58/83，兴趣是人间界的新闻剪报，喜欢禀的膝枕、掏禀的耳朵、料理，讨厌测验、孤独。人物设定是西又葵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/3b/1744_crt_3k4tP.jpg",
+        "link": "https://bgm.tv/character/1744",
+        "categorie": "person"
+      },
+      {
+        "id": "1745",
+        "label": "奈莉奈",
+        "info": "生日：10月13日。身高154cm，三围：88/59/85，兴趣是手工艺、裁缝、编织，讨厌唱歌。人物设定是铃平ひろ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ca/1745_crt_EEHF6.jpg",
+        "link": "https://bgm.tv/character/1745",
+        "categorie": "person"
+      },
+      {
+        "id": "1746",
+        "label": "芙蓉枫",
+        "info": "生日：11月10日。身高162cm，三围：83/59/84，兴趣是家务，喜欢为禀作各种事，讨厌会让禀觉得烦的事情。人物设定是西又葵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/00/1746_crt_8ktbM.jpg",
+        "link": "https://bgm.tv/character/1746",
+        "categorie": "person"
+      },
+      {
+        "id": "1747",
+        "label": "时雨亚沙",
+        "info": "生日：10月20日。身高163cm，三围：87/60/85，兴趣是作蛋糕，喜欢蛋糕、祭典、努力，讨厌魔法。人物设定是铃平ひろ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/83/1747_crt_FCcGF.jpg",
+        "link": "https://bgm.tv/character/1747",
+        "categorie": "person"
+      },
+      {
+        "id": "1748",
+        "label": "普莉姆拉",
+        "info": "生日：1月25日。身高151cm，三围：78/55/80，没有特别兴趣、喜欢或讨厌的事物，人物设定是西又葵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/5b/1748_crt_mCCCz.jpg",
+        "link": "https://bgm.tv/character/1748",
+        "categorie": "person"
+      },
+      {
+        "id": "3399",
+        "label": "枯叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/f0/3399_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3399",
+        "categorie": "person"
+      },
+      {
+        "id": "28648",
+        "label": "麻弓百里香",
+        "info": "稟とネリネのクラスメートにして悪友にしてトラブルメイカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/0f/28648_crt_qoQ25.jpg",
+        "link": "https://bgm.tv/character/28648",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

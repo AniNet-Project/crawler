@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12553",
+        "label": "七泽由仁",
+        "info": "白鷺学園2年A組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/77/12553_crt_t5kGK.jpg",
+        "link": "https://bgm.tv/character/12553",
+        "categorie": "person"
+      },
+      {
+        "id": "12554",
+        "label": "天ヶ瀬優希",
+        "info": "白鷺学園2年C組。主人公のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/ec/12554_crt_lVlDC.jpg",
+        "link": "https://bgm.tv/character/12554",
+        "categorie": "person"
+      },
+      {
+        "id": "12555",
+        "label": "犬吠埼綾",
+        "info": "人と馴れ合うことが嫌いで、常に他人と一定の距離を置いている女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/74/12555_crt_DBqR9.jpg",
+        "link": "https://bgm.tv/character/12555",
+        "categorie": "person"
+      },
+      {
+        "id": "12556",
+        "label": "月岡三朝",
+        "info": "白鷺学園の新任体育教師。水泳部顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/d4/12556_crt_T27yo.jpg",
+        "link": "https://bgm.tv/character/12556",
+        "categorie": "person"
+      },
+      {
+        "id": "12557",
+        "label": "黒川瀬良",
+        "info": "白鷺学園の保健医。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/a8/12557_crt_bQVK6.jpg",
+        "link": "https://bgm.tv/character/12557",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

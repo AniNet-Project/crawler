@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12347",
+        "label": "七海春歌",
+        "info": "梦想成为作曲家而进入早乙女学园就读，性格天然纯粹的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/c2/12347_crt_5Emvb.jpg?r=1475518966",
+        "link": "https://bgm.tv/character/12347",
+        "categorie": "person"
+      },
+      {
+        "id": "12348",
+        "label": "一十木音也",
+        "info": "有着红色短发以及红色的瞳孔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/71/12348_crt_K9ybM.jpg?r=1426298774",
+        "link": "https://bgm.tv/character/12348",
+        "categorie": "person"
+      },
+      {
+        "id": "12349",
+        "label": "圣川真斗",
+        "info": "有着蓝色直发以及蓝色的瞳孔，以及右颊上有一颗痣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/0b/12349_crt_I4ZuA.jpg?r=1426369669",
+        "link": "https://bgm.tv/character/12349",
+        "categorie": "person"
+      },
+      {
+        "id": "12350",
+        "label": "四之宫那月",
+        "info": "有着黄色卷发以及绿色的瞳孔并戴着眼镜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/f9/12350_crt_8v8uH.jpg?r=1426723489",
+        "link": "https://bgm.tv/character/12350",
+        "categorie": "person"
+      },
+      {
+        "id": "12351",
+        "label": "一之濑时矢",
+        "info": "有著灰藍色短髮以及灰藍色的瞳孔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/38/12351_crt_ZJnOE.jpg?r=1427069706",
+        "link": "https://bgm.tv/character/12351",
+        "categorie": "person"
+      },
+      {
+        "id": "12352",
+        "label": "神宫寺莲",
+        "info": "有着橘色中长发以及宝蓝色的瞳孔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/e6/12352_crt_nNyie.jpg?r=1427240365",
+        "link": "https://bgm.tv/character/12352",
+        "categorie": "person"
+      },
+      {
+        "id": "13535",
+        "label": "来栖翔",
+        "info": "拥有相当时尚可爱的外型，但实际上是个强势且男性化的努力家，非常拥有人情味和情义的少年，擅长相当需要体力的特技舞蹈。不喜欢被说可爱，人生字典里没有诸如“cute”之类的词。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/05/13535_crt_fqJhR.jpg?r=1428100781",
+        "link": "https://bgm.tv/character/13535",
+        "categorie": "person"
+      },
+      {
+        "id": "13536",
+        "label": "月宫林檎",
+        "info": "本体是男人，却是一副女人的打扮，长相也很女性化，性格活泼开朗，人缘好。在早乙女学园当老师，而本身月宫林檎也是演艺界当红的偶像明星。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/28/13536_crt_HwzLq.jpg",
+        "link": "https://bgm.tv/character/13536",
+        "categorie": "person"
+      },
+      {
+        "id": "13537",
+        "label": "日向龙也",
+        "info": "S班的老师。还是演艺界中做幕后的牛人。对自己的教师工作充满热情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/dc/13537_crt_E71Oq.jpg",
+        "link": "https://bgm.tv/character/13537",
+        "categorie": "person"
+      },
+      {
+        "id": "13538",
+        "label": "涩谷友千香",
+        "info": "七海春歌的好朋友&室友，两个人在来到早乙女学园之前就是好朋友。性格开朗活泼，很有正义感，十分能理解七海的心情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/7a/13538_crt_Mc00O.jpg",
+        "link": "https://bgm.tv/character/13538",
+        "categorie": "person"
+      },
+      {
+        "id": "13539",
+        "label": "爱岛塞西尔",
+        "info": "褐色の肌を持つハーフだが、年齢不詳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/42/13539_crt_zRK0j.jpg?r=1430092315",
+        "link": "https://bgm.tv/character/13539",
+        "categorie": "person"
+      },
+      {
+        "id": "13541",
+        "label": "闪耀早乙女",
+        "info": "为了以发掘和培养新时代演艺人才，出资创办了私立艺术学校——早乙女学园。言行诡异的家伙（其实是有点搞笑+神秘），很神秘的学园长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/35/13541_crt_yuuoz.jpg",
+        "link": "https://bgm.tv/character/13541",
+        "categorie": "person"
+      },
+      {
+        "id": "18072",
+        "label": "寿岭二",
+        "info": "25岁，早乙女学院的毕业生，是一十木音也和时矢的老师。性格超级阳光，细心，对任何人都是友好的。总是有种乐观的心态。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/c1/18072_crt_KPv6K.jpg",
+        "link": "https://bgm.tv/character/18072",
+        "categorie": "person"
+      },
+      {
+        "id": "18073",
+        "label": "黑崎兰丸",
+        "info": "22岁，是神宫寺莲与圣川真斗的老师，也是曾经三大财阔之一的黑崎家(现已没落)的长子。为了生计而跑乐团，在乐团解散时被早乙女提拔成为摇滚系偶像。性格较为严肃，但是会和大家玩得很齐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/4d/18073_crt_Pi4j3.jpg",
+        "link": "https://bgm.tv/character/18073",
+        "categorie": "person"
+      },
+      {
+        "id": "18074",
+        "label": "美风蓝",
+        "info": "15岁，说话辛辣的神秘男孩。虽然年龄比谁都小，但是却活跃在第一线的当红偶像。是来栖翔与那月的老师，教导方式很严厉。平时话很少，私生活是个谜。因为某些原因而不太懂“感情”是什么。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/78/18074_crt_PM2d1.jpg",
+        "link": "https://bgm.tv/character/18074",
+        "categorie": "person"
+      },
+      {
+        "id": "18075",
+        "label": "卡缪",
+        "info": "20岁，来自于寒冷的异国国家的伯爵青年只会承认自己国家的女王，并以身为女王的剑而自豪。因某些原因而来到日本成为偶像。爱岛塞西尔的老师。性格冷漠，总是说学生们为愚民。很爱吃甜食，喝咖啡会加上高于饱和度的份量的砂糖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/92/18075_crt_QGlpf.jpg?r=1429306972",
+        "link": "https://bgm.tv/character/18075",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

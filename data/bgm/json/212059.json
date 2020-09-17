@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52807",
+        "label": "晴生·榊",
+        "info": "幼时曾目睹双亲被哥斯拉杀害，对哥斯拉怀着强烈的憎恨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/d6/52807_crt_Qs049.jpg",
+        "link": "https://bgm.tv/character/52807",
+        "categorie": "person"
+      },
+      {
+        "id": "52808",
+        "label": "梅德菲斯",
+        "info": "各种族都十分尊敬的德高望重的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/5e/52808_crt_tTP67.jpg",
+        "link": "https://bgm.tv/character/52808",
+        "categorie": "person"
+      },
+      {
+        "id": "52809",
+        "label": "优子·谷",
+        "info": "在祖父身边和失去双亲的晴生一起长大。上学的时候是晴生的后辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/d6/52809_crt_5xHcK.jpg",
+        "link": "https://bgm.tv/character/52809",
+        "categorie": "person"
+      },
+      {
+        "id": "52810",
+        "label": "马汀·拉扎里",
+        "info": "军属环境生物学者。有着学者专属的旺盛好奇心和乐天派的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/d2/52810_crt_Un1C1.jpg",
+        "link": "https://bgm.tv/character/52810",
+        "categorie": "person"
+      },
+      {
+        "id": "52811",
+        "label": "阿达姆·宾德巴鲁特",
+        "info": "登陆艇的驾驶员，气垫飞船的驾驶手段一流。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/1e/52811_crt_Z4ICa.jpg",
+        "link": "https://bgm.tv/character/52811",
+        "categorie": "person"
+      },
+      {
+        "id": "52812",
+        "label": "姆路艾路·伽鲁古",
+        "info": "拥有在原本就体格强健的毕鲁萨鲁多人中也算是十分强壮的体格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/ba/52812_crt_n9e5H.jpg",
+        "link": "https://bgm.tv/character/52812",
+        "categorie": "person"
+      },
+      {
+        "id": "56931",
+        "label": "リルエル・ベルベ",
+        "info": "ベテラン軍人でハルオたちの軍事教官を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/46/56931_crt_5UG9R.jpg",
+        "link": "https://bgm.tv/character/56931",
+        "categorie": "person"
+      },
+      {
+        "id": "56932",
+        "label": "ウンベルト・モーリ",
+        "info": "移民船アラトラム号の船長で「人間（地球人）」の代表も務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/24/56932_crt_DmeMd.jpg",
+        "link": "https://bgm.tv/character/56932",
+        "categorie": "person"
+      },
+      {
+        "id": "56934",
+        "label": "ハルエル・ドルド",
+        "info": "「ビルサルド」の族長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/f0/56934_crt_n363a.jpg",
+        "link": "https://bgm.tv/character/56934",
+        "categorie": "person"
+      },
+      {
+        "id": "56936",
+        "label": "安道夫",
+        "info": "出任“艾克西夫”族长职务的稳健派圣职者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/c1/56936_crt_69lA9.jpg",
+        "link": "https://bgm.tv/character/56936",
+        "categorie": "person"
+      },
+      {
+        "id": "62687",
+        "label": "ミアナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/6b/62687_crt_NNVHv.jpg",
+        "link": "https://bgm.tv/character/62687",
+        "categorie": "person"
+      },
+      {
+        "id": "62688",
+        "label": "マイナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/d8/62688_crt_dDgdn.jpg",
+        "link": "https://bgm.tv/character/62688",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

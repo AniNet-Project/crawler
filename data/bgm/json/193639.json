@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38315",
+        "label": "高宫菜穗",
+        "info": "本作の主人公の少女。10年後の未来の自分が書いたとされる手紙が届く。翔に好意を寄せる。そして、翔を事故から救うため手紙に記されていた通りに行動しようと努力する。やがて、弘人・あずさ・貴子・朔にも10年後の自分から手紙が届いていたことを知る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/2e/38315_crt_dR9xw.jpg?r=1467567012",
+        "link": "https://bgm.tv/character/38315",
+        "categorie": "person"
+      },
+      {
+        "id": "38316",
+        "label": "成濑翔",
+        "info": "東京から転校してきた少年。菜穂や須和達ともすぐに打ち解け仲良くなるが、どこか他人を寄せ付けない一面がある。転校初日に菜穂達と帰ることを優先し、母親との約束を断ったことがきっかけで母親が自殺したことが自身にとっての最大の心残りとなっている。幼少期に両親が離婚しており、それ以降は母親と暮らしていたが、母親の死後は祖母の自宅に身を寄せていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/21/38316_crt_Q6vZ6.jpg?r=1471819722",
+        "link": "https://bgm.tv/character/38316",
+        "categorie": "person"
+      },
+      {
+        "id": "38317",
+        "label": "须和弘人",
+        "info": "菜穂のクラスメイトの少年。奈穂に想いを寄せている。菜穂と同じく10年後の自分から手紙が届く。転校してきた翔と仲良くなるが、菜穂は翔が好きなことに気付く。明るく推しの強い性格であるが、菜穂への想いとは別に菜穂と翔がより親密になるよう心を砕く心優しい一面がある。サッカー部に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/62/38317_crt_iZNE3.jpg?r=1472772032",
+        "link": "https://bgm.tv/character/38317",
+        "categorie": "person"
+      },
+      {
+        "id": "38318",
+        "label": "村坂梓",
+        "info": "菜穂のクラスメイトの少女。通称「あず」。名前の由来は狩人の『あずさ2号』から。実家はパン屋であり、奈穂や須和達から美味しいと評判である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/6b/38318_crt_dM6Ed.jpg?r=1468346772",
+        "link": "https://bgm.tv/character/38318",
+        "categorie": "person"
+      },
+      {
+        "id": "38319",
+        "label": "茅野贵子",
+        "info": "菜穂のクラスメイトの少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/31/38319_crt_58J5l.jpg?r=1469044725",
+        "link": "https://bgm.tv/character/38319",
+        "categorie": "person"
+      },
+      {
+        "id": "38320",
+        "label": "荻田朔",
+        "info": "菜穂のクラスメイトの少年。眼鏡を着用している。お笑い好きであり、翔にお笑いのルールを教えていた。あずさとはたびたびいがみ合っている仲である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/c9/38320_crt_86vRY.jpg?r=1473466952",
+        "link": "https://bgm.tv/character/38320",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

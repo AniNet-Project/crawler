@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26394",
+        "label": "琪亚娜·卡斯兰娜",
+        "info": "　16岁，千羽学园 高中部 一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/be/26394_crt_gbqbQ.jpg?r=1549737619",
+        "link": "https://bgm.tv/character/26394",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

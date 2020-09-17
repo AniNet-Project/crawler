@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "193",
+        "label": "红真九郎",
+        "info": "星領學園1年1班，16歲，居住於五月雨莊5號房。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/05/193_crt_ez0uR.jpg",
+        "link": "https://bgm.tv/character/193",
+        "categorie": "person"
+      },
+      {
+        "id": "194",
+        "label": "九凤院紫",
+        "info": "九鳳院 紫（くほういん むらさき）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/a3/194_crt_R2mm8.jpg",
+        "link": "https://bgm.tv/character/194",
+        "categorie": "person"
+      },
+      {
+        "id": "195",
+        "label": "崩月夕乃",
+        "info": "崩月 夕乃（ほうづき ゆうの）",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/36/195_cbab05b9d5ad24f4333c7658a0e_twyaT.jpg",
+        "link": "https://bgm.tv/character/195",
+        "categorie": "person"
+      },
+      {
+        "id": "196",
+        "label": "村上银子",
+        "info": "村上銀子（むらかみ ぎんこ）",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/85/196_crt_iFauD.jpg",
+        "link": "https://bgm.tv/character/196",
+        "categorie": "person"
+      },
+      {
+        "id": "12584",
+        "label": "斩岛切彦",
+        "info": "片山宪太郎所写的小说《红》当中的人物，动画则是在《红》OVA中登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/e3/12584_crt_5bS5t.jpg",
+        "link": "https://bgm.tv/character/12584",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21561",
+        "label": "黑白小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4f/21561_crt_JzWqM.jpg?r=1436995149",
+        "link": "https://bgm.tv/character/21561",
+        "categorie": "person"
+      },
+      {
+        "id": "21562",
+        "label": "经纪夫",
+        "info": "メガネで冴えないコンビニのマネージャー。路頭に迷っていたミス・モノクロームにぶつかったせいで、モノクロームの芸能マネージャーを務める羽目になった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/11/21562_crt_w9Zyh.jpg?r=1435952515",
+        "link": "https://bgm.tv/character/21562",
+        "categorie": "person"
+      },
+      {
+        "id": "21565",
+        "label": "露酱",
+        "info": "ロボット掃除機",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/16/21565_crt_bAbCr.jpg",
+        "link": "https://bgm.tv/character/21565",
+        "categorie": "person"
+      },
+      {
+        "id": "9257",
+        "label": "圣诞老人",
+        "info": "圣诞老人，在西方文化与传说中的一位神话人物，在圣诞节前夕会发送礼物给小孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/77/9257_crt_9g5gG.jpg?r=1441869816",
+        "link": "https://bgm.tv/character/9257",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      },
+      {
+        "id": "21563",
+        "label": "喜久子",
+        "info": "永遠の17歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e0/21563_crt_t00xP.jpg?r=1443292129",
+        "link": "https://bgm.tv/character/21563",
+        "categorie": "person"
+      },
+      {
+        "id": "21564",
+        "label": "真奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/03/21564_crt_8ffQU.jpg?r=1438391766",
+        "link": "https://bgm.tv/character/21564",
+        "categorie": "person"
+      },
+      {
+        "id": "34255",
+        "label": "绀野弥生",
+        "info": "へいみんレコードの社員。ストレス発散のため車で峠攻めをしていた。普段はおとなしくまたドジっ子であるが、ハンドルを握ると性格が豹変し博多弁になる。ミス・モノクロームのプロモーターを引き受ける。愛称はやよいたん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/f5/34255_crt_GI3Mg.jpg?r=1438390780",
+        "link": "https://bgm.tv/character/34255",
+        "categorie": "person"
+      },
+      {
+        "id": "35125",
+        "label": "敦子",
+        "info": "キャラメルのメンバー。衣装が緑色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/9f/35125_crt_4LM41.jpg?r=1440710007",
+        "link": "https://bgm.tv/character/35125",
+        "categorie": "person"
+      },
+      {
+        "id": "35432",
+        "label": "由衣",
+        "info": "キャラメルのメンバー。衣装が青色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/7e/35432_crt_UyyY4.jpg?r=1441764112",
+        "link": "https://bgm.tv/character/35432",
+        "categorie": "person"
+      },
+      {
+        "id": "36466",
+        "label": "朱未",
+        "info": "偶像组合Caramel成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/68/36466_crt_1L058.jpg?r=1445799869",
+        "link": "https://bgm.tv/character/36466",
+        "categorie": "person"
+      },
+      {
+        "id": "36467",
+        "label": "佳奈",
+        "info": "偶像组合Caramel成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/df/36467_crt_4JP11.jpg?r=1445799879",
+        "link": "https://bgm.tv/character/36467",
+        "categorie": "person"
+      },
+      {
+        "id": "40995",
+        "label": "荞麦西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/ee/40995_crt_xHzs5.jpg",
+        "link": "https://bgm.tv/character/40995",
+        "categorie": "person"
+      },
+      {
+        "id": "40996",
+        "label": "荞麦美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/24/40996_crt_QRCf2.jpg?r=1461808237",
+        "link": "https://bgm.tv/character/40996",
+        "categorie": "person"
+      },
+      {
+        "id": "40997",
+        "label": "黑白先生",
+        "info": "黑白小姐将五号电池的正负极倒置后的变身效果。与黑白小姐相反，非常害羞，一直想更加往后退一步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/de/40997_crt_5cZ87.jpg",
+        "link": "https://bgm.tv/character/40997",
+        "categorie": "person"
+      },
+      {
+        "id": "40998",
+        "label": "多彩DJ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/e8/40998_crt_Kyak6.jpg",
+        "link": "https://bgm.tv/character/40998",
+        "categorie": "person"
+      },
+      {
+        "id": "41038",
+        "label": "真暮郎",
+        "info": "动画第三季第6话，黑白小姐在冈山市彩排时结识的，从金枪鱼中蹦出的男子。一旦停止动作就会死去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/a7/41038_crt_QAw4P.jpg?r=1462465679",
+        "link": "https://bgm.tv/character/41038",
+        "categorie": "person"
+      },
+      {
+        "id": "41242",
+        "label": "凯特拉",
+        "info": "白猫プロジェクトの登場人物で、ノンプレイアブルキャラクター。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/81/41242_crt_SPAJ7.jpg",
+        "link": "https://bgm.tv/character/41242",
+        "categorie": "person"
+      },
+      {
+        "id": "41243",
+        "label": "北海雄",
+        "info": "黑白小姐在北海道的粉丝之一，有一个叫北海道子的未婚妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/ce/41243_crt_r0q4Z.jpg",
+        "link": "https://bgm.tv/character/41243",
+        "categorie": "person"
+      },
+      {
+        "id": "41245",
+        "label": "北海道子",
+        "info": "黑白小姐在北海道的粉丝之一，有一个叫北海雄的未婚夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/ed/41245_crt_O8Q8p.jpg",
+        "link": "https://bgm.tv/character/41245",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "22512",
+        "label": "宇宙人",
+        "info": "第3話で、「数億年ぶりに地球にやってきた」「皆殺しだぜ」といって地球にやってきた凶暴な宇宙人。しかし、この時は「EVOLUTA」電池でパワーアップしていたミス・モノクロームが発見し、ルーちゃんと合体し撃墜する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/f4/22512_crt_8Aaha.jpg",
+        "link": "https://bgm.tv/character/22512",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "17489",
+        "label": "乌瑟",
+        "info": "りんの家に居候している謎の動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/68/17489_crt_JlzQo.jpg",
+        "link": "https://bgm.tv/character/17489",
+        "categorie": "person"
+      },
+      {
+        "id": "35286",
+        "label": "骇客娃娃一号",
+        "info": "本アプリでのメインナビゲーターを務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/6a/35286_crt_uvjB8.jpg?r=1443882790",
+        "link": "https://bgm.tv/character/35286",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

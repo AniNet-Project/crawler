@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11589",
+        "label": "纳兹·多拉格尼尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/a4/11589_crt_4XdeV.jpg",
+        "link": "https://bgm.tv/character/11589",
+        "categorie": "person"
+      },
+      {
+        "id": "11604",
+        "label": "露西·哈特菲利亚",
+        "info": "《妖精的尾巴》中的女主角。是魔导师公会妖精尾巴的星灵魔导士。擅长吐槽，性格活泼开朗、非常重视伙伴和公会成员关系，在与同伴的冒险中成为一名十分优秀的星灵魔导士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/71/11604_crt_018Zm.jpg?r=1493876788",
+        "link": "https://bgm.tv/character/11604",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

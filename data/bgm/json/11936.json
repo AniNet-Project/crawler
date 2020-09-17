@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21409",
+        "label": "高部绘里",
+        "info": "バイオリン科1年生。恐ろしく勘が鋭く彼女には通常の攻略パターンが存在しない。親は大財閥の総帥というお嬢様の中のお嬢様であるが、本人はそう呼ばれることを嫌がっていて常に普通でありたいと思っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/1f/21409_crt_N69u6.jpg",
+        "link": "https://bgm.tv/character/21409",
+        "categorie": "person"
+      },
+      {
+        "id": "22247",
+        "label": "伊头臭作",
+        "info": "本編の主人公で遺作の弟。粛正音楽学院女子寮管理人に採用予定だった「加藤[2]」に成りすましている。ボサボサ頭に無精ヒゲ、ジャージ姿にタオルという外見。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/57/22247_crt_8DExE.jpg",
+        "link": "https://bgm.tv/character/22247",
+        "categorie": "person"
+      },
+      {
+        "id": "22272",
+        "label": "近藤渚",
+        "info": "ピアノ科3年生。人を騙すことも知らなければ、自分が騙されることも知らない。世間知らずの生粋のお嬢様である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/4e/22272_crt_Faan4.jpg",
+        "link": "https://bgm.tv/character/22272",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

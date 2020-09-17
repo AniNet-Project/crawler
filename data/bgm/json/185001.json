@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38042",
+        "label": "栗原雪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/ca/38042_crt_L2Wxu.jpg",
+        "link": "https://bgm.tv/character/38042",
+        "categorie": "person"
+      },
+      {
+        "id": "38043",
+        "label": "桃月心也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/fa/38043_crt_PywgA.jpg",
+        "link": "https://bgm.tv/character/38043",
+        "categorie": "person"
+      },
+      {
+        "id": "38044",
+        "label": "水山纪香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/d6/38044_crt_YbR4d.jpg",
+        "link": "https://bgm.tv/character/38044",
+        "categorie": "person"
+      },
+      {
+        "id": "38045",
+        "label": "早柿莉央",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a6/38045_crt_43Z4i.jpg",
+        "link": "https://bgm.tv/character/38045",
+        "categorie": "person"
+      },
+      {
+        "id": "38046",
+        "label": "岛田柚姫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/71/38046_crt_2Ewe9.jpg",
+        "link": "https://bgm.tv/character/38046",
+        "categorie": "person"
+      },
+      {
+        "id": "38047",
+        "label": "宇佐美育绘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/55/38047_crt_730Z2.jpg",
+        "link": "https://bgm.tv/character/38047",
+        "categorie": "person"
+      },
+      {
+        "id": "38048",
+        "label": "泽口理人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/fd/38048_crt_s454q.jpg",
+        "link": "https://bgm.tv/character/38048",
+        "categorie": "person"
+      },
+      {
+        "id": "38049",
+        "label": "闲翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/75/38049_crt_lRnKd.jpg",
+        "link": "https://bgm.tv/character/38049",
+        "categorie": "person"
+      },
+      {
+        "id": "42735",
+        "label": "沢口慧真",
+        "info": "泽口理人的哥哥，大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/1d/42735_crt_YE0yn.jpg",
+        "link": "https://bgm.tv/character/42735",
+        "categorie": "person"
+      },
+      {
+        "id": "42737",
+        "label": "宇佐美诚一郎",
+        "info": "宇佐美育绘的哥哥，与妹妹同校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/ae/42737_crt_LC8p1.jpg?r=1466354622",
+        "link": "https://bgm.tv/character/42737",
+        "categorie": "person"
+      },
+      {
+        "id": "43227",
+        "label": "女服务员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/1f/43227_crt_V705w.jpg?r=1468077036",
+        "link": "https://bgm.tv/character/43227",
+        "categorie": "person"
+      },
+      {
+        "id": "45589",
+        "label": "新闻部部长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/48/45589_crt_B9W3B.jpg",
+        "link": "https://bgm.tv/character/45589",
+        "categorie": "person"
+      },
+      {
+        "id": "45991",
+        "label": "女生徒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/56/45991_crt_9vCyS.jpg?r=1473610703",
+        "link": "https://bgm.tv/character/45991",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

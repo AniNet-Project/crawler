@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17728",
+        "label": "小白",
+        "info": "宇宙临时对策本部职员。有川的上司。容姿端丽，头脑明晰，料理的能力无人能及。和有川从高中起就认识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/94/17728_crt_89z94.jpg",
+        "link": "https://bgm.tv/character/17728",
+        "categorie": "person"
+      },
+      {
+        "id": "17729",
+        "label": "稻草人",
+        "info": "本作的主人公。这个世界上唯一能和外星人战斗的高中生。失忆中……",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/26/17729_crt_tBY2Z.jpg",
+        "link": "https://bgm.tv/character/17729",
+        "categorie": "person"
+      },
+      {
+        "id": "17730",
+        "label": "有川",
+        "info": "宇宙临时对策本部职员。小白的部下。被称为冷板凳公务员。是如稻草人的保护人一样的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/c0/17730_crt_wQ8Wo.jpg",
+        "link": "https://bgm.tv/character/17730",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

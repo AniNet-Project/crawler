@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69681",
+        "label": "ユーカ",
+        "info": "ハルカゼ飛行隊の陽気な隊長。困っている人を見ると放っておけない性格で、トラブルに巻き込まれることも多い。もっと広い世界に出ることを夢見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/5c/69681_crt_6AnDv.jpg?r=1554912961",
+        "link": "https://bgm.tv/character/69681",
+        "categorie": "person"
+      },
+      {
+        "id": "69682",
+        "label": "エリカ",
+        "info": "頭脳明晰でいつも冷静なハルカゼ飛行隊の副隊長。人付き合いが苦手で言葉がきつくなりがち。ユーカとは孤児院からの幼馴染で付き合いも一番長い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/f2/69682_crt_ZRfXx.jpg?r=1554918164",
+        "link": "https://bgm.tv/character/69682",
+        "categorie": "person"
+      },
+      {
+        "id": "69683",
+        "label": "ガーベラ",
+        "info": "天真爛漫な性格で見た目も幼いがどんな相手に対しても臆せずに向かっていく強気な姿勢の持ち主。戦闘機の操縦も得意で機体を体の一部のように操ることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/2b/69683_crt_90iq2.jpg",
+        "link": "https://bgm.tv/character/69683",
+        "categorie": "person"
+      },
+      {
+        "id": "69684",
+        "label": "アカリ",
+        "info": "やんちゃな性格のムードメーカー。イタズラ好きでユーカと一緒に仕事をサボることも多いが、一度見たものは忘れない瞬間記憶力の持ち主でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/d4/69684_crt_0X8W0.jpg",
+        "link": "https://bgm.tv/character/69684",
+        "categorie": "person"
+      },
+      {
+        "id": "69685",
+        "label": "达利亚",
+        "info": "気の弱い性格で小心者。反面、見栄っ張りで余計な嘘をついてしまうお調子者でもある。臆病な自分を変えたいと思い、ユーカたちと行動をともにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/07/69685_crt_52oO0.jpg",
+        "link": "https://bgm.tv/character/69685",
+        "categorie": "person"
+      },
+      {
+        "id": "69686",
+        "label": "ベル",
+        "info": "穏やかで包容力のあるハルカゼ飛行隊のお姉さん。問題の多いユーカたちを温かく見守りながら影で支えている。お金の使いみちには厳しく常に節約節制を心がけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/b7/69686_crt_Ez1CJ.jpg",
+        "link": "https://bgm.tv/character/69686",
+        "categorie": "person"
+      },
+      {
+        "id": "66041",
+        "label": "姬莉叶",
+        "info": "正確な操縦技術と空間把握能力に長けたパイロット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/1e/66041_crt_do2re.jpg?r=1548219478",
+        "link": "https://bgm.tv/character/66041",
+        "categorie": "person"
+      },
+      {
+        "id": "66042",
+        "label": "凯特",
+        "info": "理詰めな性格で計算も早い、寡黙な女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/52/66042_crt_1129Y.jpg?r=1548219515",
+        "link": "https://bgm.tv/character/66042",
+        "categorie": "person"
+      },
+      {
+        "id": "66043",
+        "label": "艾玛",
+        "info": "キリエの幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/51/66043_crt_N2CaW.jpg?r=1549675943",
+        "link": "https://bgm.tv/character/66043",
+        "categorie": "person"
+      },
+      {
+        "id": "66044",
+        "label": "扎拉",
+        "info": "一歩引いた視点で皆を見守る副隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f3/66044_crt_BoRJ2.jpg?r=1550242909",
+        "link": "https://bgm.tv/character/66044",
+        "categorie": "person"
+      },
+      {
+        "id": "66045",
+        "label": "蕾欧娜",
+        "info": "経験豊富で冷静沈着な頼れる隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/9d/66045_crt_9iKU1.jpg?r=1550765873",
+        "link": "https://bgm.tv/character/66045",
+        "categorie": "person"
+      },
+      {
+        "id": "66046",
+        "label": "琪卡",
+        "info": "隊の最年少で、考えるより先に手が出る元気っ娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/a5/66046_crt_YXqY4.jpg?r=1551279266",
+        "link": "https://bgm.tv/character/66046",
+        "categorie": "person"
+      },
+      {
+        "id": "66994",
+        "label": "マダム・ルゥルゥ",
+        "info": "物資の輸送を生業とするオウニ商会の女社長。いつも毅然とした立ち振る舞いで周りに指示を出す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/2a/66994_crt_l3zTq.jpg",
+        "link": "https://bgm.tv/character/66994",
+        "categorie": "person"
+      },
+      {
+        "id": "66995",
+        "label": "实笃",
+        "info": "優柔不断でうだつの上がらない現場の指揮官。よく貧乏くじを引いては、周囲から罵られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/d4/66995_crt_yMNLy.jpg",
+        "link": "https://bgm.tv/character/66995",
+        "categorie": "person"
+      },
+      {
+        "id": "67001",
+        "label": "夏生",
+        "info": "戦闘機の整備班長。幼い見た目をしているが立派な大人。言葉遣いは粗暴だが、面倒見のいい姉御肌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/b9/67001_crt_7TOpS.jpg",
+        "link": "https://bgm.tv/character/67001",
+        "categorie": "person"
+      },
+      {
+        "id": "67003",
+        "label": "リリコ",
+        "info": "酒場のウェイトレス。給仕を淡々とこなし、客にも素っ気ない態度をとる。特にジョニーには冷たい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/ef/67003_crt_Gpi12.jpg",
+        "link": "https://bgm.tv/character/67003",
+        "categorie": "person"
+      },
+      {
+        "id": "69495",
+        "label": "尤利娅",
+        "info": "ガドールの評議会議員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/ab/69495_crt_UZx73.jpg",
+        "link": "https://bgm.tv/character/69495",
+        "categorie": "person"
+      },
+      {
+        "id": "69497",
+        "label": "亚伦",
+        "info": "飛行中の事故で歩けなくなり、今は入院生活を送っているケイトの兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/6d/69497_crt_sLNQK.jpg",
+        "link": "https://bgm.tv/character/69497",
+        "categorie": "person"
+      },
+      {
+        "id": "69587",
+        "label": "渡渡船长",
+        "info": "風格が漂う羽衣丸の船長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/07/69587_crt_dYsus.jpg",
+        "link": "https://bgm.tv/character/69587",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

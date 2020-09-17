@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43778",
+        "label": "士兵76",
+        "info": "“现在，我们都只是士兵。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/d1/43778_crt_trBZT.jpg?r=1488018145",
+        "link": "https://bgm.tv/character/43778",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

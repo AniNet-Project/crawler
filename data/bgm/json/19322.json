@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18523",
+        "label": "千岁鹫介",
+        "info": "メインテーマ「Main Theme“EAGLE”」",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/72/18523_crt_OQ2mj.jpg",
+        "link": "https://bgm.tv/character/18523",
+        "categorie": "person"
+      },
+      {
+        "id": "12071",
+        "label": "玉泉日和子",
+        "info": "一本正經規規矩矩但又爽朗的性格。將來的夢想是小說家。打工的地方是以可愛的制服出名的餐館『アレキサンダー』。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/28/12071_crt_jijW6.jpg?r=1571492803",
+        "link": "https://bgm.tv/character/12071",
+        "categorie": "person"
+      },
+      {
+        "id": "12073",
+        "label": "凤鸣",
+        "info": "我行我素的性格和凜然的言行，被周圍評價為沒有把柄可以抓的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/50/12073_crt_qI3qn.jpg",
+        "link": "https://bgm.tv/character/12073",
+        "categorie": "person"
+      },
+      {
+        "id": "69775",
+        "label": "林田美咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/33/69775_crt_Qy9y3.jpg?r=1571492751",
+        "link": "https://bgm.tv/character/69775",
+        "categorie": "person"
+      },
+      {
+        "id": "12084",
+        "label": "吉川晶",
+        "info": "羽田小鳩的好友。名字是「きっかわ」，但绰号是「よしかわ」同学（在一部分人间被认为是本名）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/f1/12084_crt_JK74J.jpg?r=1571492586",
+        "link": "https://bgm.tv/character/12084",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

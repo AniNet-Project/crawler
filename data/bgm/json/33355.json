@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15922",
+        "label": "小恶魔王·织田信长",
+        "info": "プライドが高く、信念を曲げない。見聞きする物を何でも面白がる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/37/15922_crt_t2N1z.jpg",
+        "link": "https://bgm.tv/character/15922",
+        "categorie": "person"
+      },
+      {
+        "id": "15923",
+        "label": "泰平女君·德川家康",
+        "info": "その愛くるしい外見からは想像できないが、忍耐強く根性もある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/4f/15923_crt_9GBv6.jpg",
+        "link": "https://bgm.tv/character/15923",
+        "categorie": "person"
+      },
+      {
+        "id": "15924",
+        "label": "纯爱天使·直江兼续",
+        "info": "謙信に憧れ、謙信とともに戦い、天下を制することを夢見ていたが、そのなかばで現代に飛ばされたため、満たされぬ思いを抱えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/f2/15924_crt_3SGO9.jpg",
+        "link": "https://bgm.tv/character/15924",
+        "categorie": "person"
+      },
+      {
+        "id": "15925",
+        "label": "圣少女·上杉谦信",
+        "info": "戦国の世では軍神と恐れられていたが、本心では平和な世を望んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/50/15925_crt_1HwY4.jpg",
+        "link": "https://bgm.tv/character/15925",
+        "categorie": "person"
+      },
+      {
+        "id": "15926",
+        "label": "独眼龙姬·伊达政宗",
+        "info": "東北の覇者たる隻眼の乙女。家臣からも信頼され、天下人にふさわしい器を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/c2/15926_crt_Cz6gu.jpg",
+        "link": "https://bgm.tv/character/15926",
+        "categorie": "person"
+      },
+      {
+        "id": "15927",
+        "label": "斩神·冢原卜传",
+        "info": "小柄でかわいらしいが、その見た目に反し、実は凄腕の剣士で、意外と頭も切れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/10/15927_crt_schke.jpg",
+        "link": "https://bgm.tv/character/15927",
+        "categorie": "person"
+      },
+      {
+        "id": "15928",
+        "label": "识神·平贺源内",
+        "info": "発明大好きの天才少女。だが、なぜかその扱いには失敗してしまうことが多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/9d/15928_crt_Z46Je.jpg",
+        "link": "https://bgm.tv/character/15928",
+        "categorie": "person"
+      },
+      {
+        "id": "16268",
+        "label": "斩神·柳生石舟斋",
+        "info": "至高の剣術・新陰流の継承者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/82/16268_crt_9QDbt.jpg",
+        "link": "https://bgm.tv/character/16268",
+        "categorie": "person"
+      },
+      {
+        "id": "16270",
+        "label": "剑圣·足利义辉",
+        "info": "戦国世界では、かつて将軍職にあったためか、現代では戦国武将の代表に祭り上げられてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/d0/16270_crt_Fc86v.jpg",
+        "link": "https://bgm.tv/character/16270",
+        "categorie": "person"
+      },
+      {
+        "id": "16271",
+        "label": "风流人·松尾芭蕉",
+        "info": "戦国世界では俳句を詠みながら全国を旅していたが、それは現代に飛ばされても変わらない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/f7/16271_crt_47yhA.jpg",
+        "link": "https://bgm.tv/character/16271",
+        "categorie": "person"
+      },
+      {
+        "id": "16272",
+        "label": "太阁娘·丰臣秀吉",
+        "info": "戦国世界では織田信長配下の下っ端だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/26/16272_crt_0hTtH.jpg",
+        "link": "https://bgm.tv/character/16272",
+        "categorie": "person"
+      },
+      {
+        "id": "16273",
+        "label": "野心姬·北条早云",
+        "info": "元々は将軍に仕えていた乙女武将だが、その後、流浪の旅を続ける中で、今川家の家臣となったことも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/f1/16273_crt_b1395.jpg",
+        "link": "https://bgm.tv/character/16273",
+        "categorie": "person"
+      },
+      {
+        "id": "16274",
+        "label": "元帅姬・今川义元",
+        "info": "かつては“東海一の元帥姫”と名高い乙女武将だったが、ライバルの織田信長に敗れてからは、その評判も下がり気味？",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/64/16274_crt_z3Q6E.jpg",
+        "link": "https://bgm.tv/character/16274",
+        "categorie": "person"
+      },
+      {
+        "id": "16276",
+        "label": "凶恶少女·松永久秀",
+        "info": "戦国世界では一代の梟雄として悪名が高かったが、現代でもそれに恥じぬワルとして、裏の社会で暗躍している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/75/16276_crt_88mmg.jpg",
+        "link": "https://bgm.tv/character/16276",
+        "categorie": "person"
+      },
+      {
+        "id": "16277",
+        "label": "舞樱·前田庆次",
+        "info": "派手好みの傾奇者(かぶきもの)として、その名を広く知られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/d0/16277_crt_yyYQW.jpg",
+        "link": "https://bgm.tv/character/16277",
+        "categorie": "person"
+      },
+      {
+        "id": "16669",
+        "label": "银蜂·杉谷善住坊",
+        "info": "甲賀忍法によって生み出された消音火縄銃の名手にして、凄腕の暗殺者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/d2/16669_crt_D3Opx.jpg",
+        "link": "https://bgm.tv/character/16669",
+        "categorie": "person"
+      },
+      {
+        "id": "16670",
+        "label": "金牡丹·近藤勇",
+        "info": "破天荒で、はた迷惑な行動も多いが、なぜか憎めないタイプ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/72/16670_crt_hSs5o.jpg",
+        "link": "https://bgm.tv/character/16670",
+        "categorie": "person"
+      },
+      {
+        "id": "16671",
+        "label": "黑桔梗·土方岁三",
+        "info": "派手好きで切れ者、近藤勇のよき相棒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/f8/16671_crt_QzlzK.jpg",
+        "link": "https://bgm.tv/character/16671",
+        "categorie": "person"
+      },
+      {
+        "id": "16672",
+        "label": "白莲·冲田总司",
+        "info": "深浅寮（しんせんりょう）に住まう、近藤と土方の可愛い後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/8e/16672_crt_0XL4Z.jpg",
+        "link": "https://bgm.tv/character/16672",
+        "categorie": "person"
+      },
+      {
+        "id": "16673",
+        "label": "歼灭姬·最上义光",
+        "info": "戦国世界では伊達政宗と家督を争う仲であったが、現代では、可憐な女子中学生として年相応の生活を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/fb/16673_crt_174ts.jpg",
+        "link": "https://bgm.tv/character/16673",
+        "categorie": "person"
+      },
+      {
+        "id": "16674",
+        "label": "春阳爱君·刘备",
+        "info": "戦国世界では大陸一の愛嬌で群衆を虜にしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/4e/16674_crt_J7h6g.jpg",
+        "link": "https://bgm.tv/character/16674",
+        "categorie": "person"
+      },
+      {
+        "id": "53601",
+        "label": "四叶·大谷吉继",
+        "info": "消極的な性格で、薄幸を絵に描いたような包帯少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/07/53601_crt_iS0iR.jpg",
+        "link": "https://bgm.tv/character/53601",
+        "categorie": "person"
+      },
+      {
+        "id": "53602",
+        "label": "复仇之牙·明智光秀",
+        "info": "信長の片腕的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/33/53602_crt_9DmQZ.jpg",
+        "link": "https://bgm.tv/character/53602",
+        "categorie": "person"
+      },
+      {
+        "id": "53604",
+        "label": "战骑女王·武田信玄",
+        "info": "戦国世界では最強の名をほしいままにした武田騎馬軍団を率い、上杉謙信とライバル関係にあった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/f3/53604_crt_LlqJB.jpg",
+        "link": "https://bgm.tv/character/53604",
+        "categorie": "person"
+      },
+      {
+        "id": "53605",
+        "label": "华丽·片仓小十郎",
+        "info": "伊達政宗と固い絆で結ばれた家臣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/29/53605_crt_czAan.jpg",
+        "link": "https://bgm.tv/character/53605",
+        "categorie": "person"
+      },
+      {
+        "id": "53606",
+        "label": "御砂场·尼子经久",
+        "info": "弱冠・・・・・・というか、ズバリ幼女な武将ではあるが、知略・度量、ともにずば抜けていて、末恐ろしさを感じさせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/b6/53606_crt_310H0.jpg",
+        "link": "https://bgm.tv/character/53606",
+        "categorie": "person"
+      },
+      {
+        "id": "16269",
+        "label": "斩神·伊东一刀斋",
+        "info": "己の力を試すため強敵との“死合い”を生き甲斐とする修羅の剣豪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/ef/16269_crt_NnV6e.jpg",
+        "link": "https://bgm.tv/character/16269",
+        "categorie": "person"
+      },
+      {
+        "id": "16667",
+        "label": "御茶道·千利休",
+        "info": "戦国世界では信長の庇護下にあった天下の大茶人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/92/16667_crt_3SekB.jpg",
+        "link": "https://bgm.tv/character/16667",
+        "categorie": "person"
+      },
+      {
+        "id": "16275",
+        "label": "女忍·风魔小太郎",
+        "info": "風魔忍軍の若き首領。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/38/16275_crt_ky11j.jpg",
+        "link": "https://bgm.tv/character/16275",
+        "categorie": "person"
+      },
+      {
+        "id": "16668",
+        "label": "女教师·太原雪斋",
+        "info": "全てお見通しの乙女軍師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/d0/16668_crt_GFWhJ.jpg",
+        "link": "https://bgm.tv/character/16668",
+        "categorie": "person"
+      },
+      {
+        "id": "53603",
+        "label": "可爱·森兰丸",
+        "info": "戦国世界では小姓として、信長の側近くに仕えていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/9c/53603_crt_Zgqgi.jpg",
+        "link": "https://bgm.tv/character/53603",
+        "categorie": "person"
+      },
+      {
+        "id": "77596",
+        "label": "响神·贝多芬",
+        "info": "声 - 吉川友",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/07/77596_crt_AGSt7.jpg?r=1591948935",
+        "link": "https://bgm.tv/character/77596",
+        "categorie": "person"
+      },
+      {
+        "id": "15929",
+        "label": "狐巫女",
+        "info": "あらゆる時空に偏在する謎の存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/07/15929_crt_6akMN.jpg",
+        "link": "https://bgm.tv/character/15929",
+        "categorie": "person"
+      },
+      {
+        "id": "15930",
+        "label": "兔巫女",
+        "info": "あらゆる時空に偏在する謎の存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/93/15930_crt_csRnS.jpg",
+        "link": "https://bgm.tv/character/15930",
+        "categorie": "person"
+      },
+      {
+        "id": "15931",
+        "label": "猫巫女",
+        "info": "あらゆる時空に偏在する謎の存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/be/15931_crt_27reL.jpg",
+        "link": "https://bgm.tv/character/15931",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "77597",
+        "label": "Angel",
+        "info": "第18話に登場。大谷吉継が出した手紙に返事を書いたペンフレンド。手紙を通じ「偶然のラッキー」を教え吉継を励まし続けた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/f1/77597_crt_f3FAZ.jpg?r=1591949523",
+        "link": "https://bgm.tv/character/77597",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

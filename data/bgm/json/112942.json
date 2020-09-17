@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45650",
+        "label": "小早川綾乃",
+        "info": "義姉が教えるクラスの子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/40/45650_crt_PPYLe.jpg",
+        "link": "https://bgm.tv/character/45650",
+        "categorie": "person"
+      },
+      {
+        "id": "45651",
+        "label": "澄里凛",
+        "info": "綾乃のクラスメイトでライバル意識を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/ec/45651_crt_D96h2.jpg",
+        "link": "https://bgm.tv/character/45651",
+        "categorie": "person"
+      },
+      {
+        "id": "45654",
+        "label": "新藤美央",
+        "info": "現役教師。主人公の義姉で、筆おろし相手であり、家のボス的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/56/45654_crt_Et537.jpg",
+        "link": "https://bgm.tv/character/45654",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

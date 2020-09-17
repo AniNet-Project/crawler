@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35805",
+        "label": "日下幅広",
+        "info": "マシュマロが大好きな恰幅のいい中年の紳士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/45/35805_crt_W7bd0.jpg?r=1452229708",
+        "link": "https://bgm.tv/character/35805",
+        "categorie": "person"
+      },
+      {
+        "id": "37978",
+        "label": "若林伊織",
+        "info": "日下のことが大好きなOL。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/ba/37978_crt_k2ug8.jpg?r=1452230073",
+        "link": "https://bgm.tv/character/37978",
+        "categorie": "person"
+      },
+      {
+        "id": "37979",
+        "label": "MIO5",
+        "info": "若林の恋のライバル!?日下さんのことがけっこう好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/62/37979_crt_SUmlK.jpg?r=1452230318",
+        "link": "https://bgm.tv/character/37979",
+        "categorie": "person"
+      },
+      {
+        "id": "37980",
+        "label": "若林勇",
+        "info": "姉のことが大好き。いちおうイケメンなのに童貞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/9c/37980_crt_24I73.jpg?r=1452230509",
+        "link": "https://bgm.tv/character/37980",
+        "categorie": "person"
+      },
+      {
+        "id": "38521",
+        "label": "棉花糖工厂的后辈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/40/38521_crt_8jeAb.jpg",
+        "link": "https://bgm.tv/character/38521",
+        "categorie": "person"
+      },
+      {
+        "id": "38522",
+        "label": "向井",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/be/38522_crt_JpYwc.jpg",
+        "link": "https://bgm.tv/character/38522",
+        "categorie": "person"
+      },
+      {
+        "id": "38884",
+        "label": "课长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/28/38884_crt_o06y5.jpg",
+        "link": "https://bgm.tv/character/38884",
+        "categorie": "person"
+      },
+      {
+        "id": "39374",
+        "label": "广子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/68/39374_crt_v2iie.jpg?r=1457655601",
+        "link": "https://bgm.tv/character/39374",
+        "categorie": "person"
+      },
+      {
+        "id": "39373",
+        "label": "广美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/93/39373_crt_DoHu1.jpg?r=1457655720",
+        "link": "https://bgm.tv/character/39373",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

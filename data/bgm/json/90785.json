@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45659",
+        "label": "瀬川朝霞",
+        "info": "母性と優しさに満ちあふれた世話好きな性格の持ち主。 一家の母親的な存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/ad/45659_crt_6d0oZ.jpg",
+        "link": "https://bgm.tv/character/45659",
+        "categorie": "person"
+      },
+      {
+        "id": "45660",
+        "label": "瀬川月乃",
+        "info": "歪んだブラコン。弟にさまざまな悪戯 （肉体的、精神的） を働き、その反応を見るのが趣味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/d1/45660_crt_JhE4p.jpg",
+        "link": "https://bgm.tv/character/45660",
+        "categorie": "person"
+      },
+      {
+        "id": "45662",
+        "label": "富士見野はるか",
+        "info": "実家の裏の家の、一人娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/90/45662_crt_TrR2i.jpg",
+        "link": "https://bgm.tv/character/45662",
+        "categorie": "person"
+      },
+      {
+        "id": "45661",
+        "label": "瀬川夕希",
+        "info": "女子学園に通う三女。 バレー部所属で全国レベル、実業団からも声が掛けられている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/81/45661_crt_idUAv.jpg",
+        "link": "https://bgm.tv/character/45661",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

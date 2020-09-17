@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57672",
+        "label": "千户",
+        "info": "娇小的黑发少女，性格冷静沉着。手指灵巧、擅长机械，借由阅读文献获得过去的知识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/66/57672_crt_8cPpZ.jpg?r=1504755658",
+        "link": "https://bgm.tv/character/57672",
+        "categorie": "person"
+      },
+      {
+        "id": "57673",
+        "label": "尤莉",
+        "info": "个子较高的棕发少女，性格悠闲自在。喜欢吃东西，说话不假思索。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/0b/57673_crt_s7XFl.jpg?r=1513661592",
+        "link": "https://bgm.tv/character/57673",
+        "categorie": "person"
+      },
+      {
+        "id": "58443",
+        "label": "鱼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/f0/58443_crt_1WGad.jpg?r=1508069124",
+        "link": "https://bgm.tv/character/58443",
+        "categorie": "person"
+      },
+      {
+        "id": "57674",
+        "label": "金泽",
+        "info": "视绘制末日世界的地图为生存意义的青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/cb/57674_crt_1v9tS.jpg?r=1508514456",
+        "link": "https://bgm.tv/character/57674",
+        "categorie": "person"
+      },
+      {
+        "id": "57675",
+        "label": "石井",
+        "info": "以曾经的空军基地为居所并根据过去的记录制造飞机的女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/d1/57675_crt_0590V.jpg?r=1510324141",
+        "link": "https://bgm.tv/character/57675",
+        "categorie": "person"
+      },
+      {
+        "id": "59261",
+        "label": "山芋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c3/59261_crt_CpcA4.jpg?r=1511024677",
+        "link": "https://bgm.tv/character/59261",
+        "categorie": "person"
+      },
+      {
+        "id": "59513",
+        "label": "自律机械",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/92/57/59513_crt_PR5je.jpg",
+        "link": "https://bgm.tv/character/59513",
+        "categorie": "person"
+      },
+      {
+        "id": "59585",
+        "label": "锚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/49/59585_crt_zvBa6.jpg",
+        "link": "https://bgm.tv/character/59585",
+        "categorie": "person"
+      },
+      {
+        "id": "59788",
+        "label": "杏鲍菇",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/59788",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

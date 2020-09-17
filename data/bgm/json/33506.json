@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31703",
+        "label": "牧野贤一",
+        "info": "自从妻子去世一直一个人养育女儿们，是其女儿们的学校的教职工，遭遇交通事故头部重伤，开始变态，对女儿们做一切变态行为的鬼父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/10/31703_crt_W0vIF.jpg",
+        "link": "https://bgm.tv/character/31703",
+        "categorie": "person"
+      },
+      {
+        "id": "31704",
+        "label": "牧野遥",
+        "info": "长女。学园3年级学生。明朗的元气少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/64/31704_crt_1ITDQ.jpg",
+        "link": "https://bgm.tv/character/31704",
+        "categorie": "person"
+      },
+      {
+        "id": "31705",
+        "label": "牧野枣",
+        "info": "次女。学园2年级学生。气势强的剑道部部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/a0/31705_crt_mu908.jpg",
+        "link": "https://bgm.tv/character/31705",
+        "categorie": "person"
+      },
+      {
+        "id": "31706",
+        "label": "牧野晶",
+        "info": "性格沉稳、中等身材中等身高，胸部却很大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/a0/31706_crt_DfIXc.jpg",
+        "link": "https://bgm.tv/character/31706",
+        "categorie": "person"
+      },
+      {
+        "id": "31707",
+        "label": "牧野冬",
+        "info": "有着开朗懂事的好性格，但是也有一些缺点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/31/31707_crt_ZMWlp.jpg",
+        "link": "https://bgm.tv/character/31707",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

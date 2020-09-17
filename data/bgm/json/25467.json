@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45884",
+        "label": "白川凉子",
+        "info": "In 『ナースにおまかせ』",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/6e/45884_crt_yDU86.jpg",
+        "link": "https://bgm.tv/character/45884",
+        "categorie": "person"
+      },
+      {
+        "id": "45889",
+        "label": "白川恭子",
+        "info": "In 『恥辱診察室』",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/b9/45889_crt_49sv9.jpg",
+        "link": "https://bgm.tv/character/45889",
+        "categorie": "person"
+      },
+      {
+        "id": "45897",
+        "label": "白川杏子",
+        "info": "真面目でどちらかというと落ち着いた性格のお姉さん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/24/45897_crt_o6NRR.jpg",
+        "link": "https://bgm.tv/character/45897",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

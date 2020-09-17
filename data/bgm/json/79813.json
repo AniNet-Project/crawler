@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65900",
+        "label": "福田宽",
+        "info": "誠凛高校1年生。ポジションはC。背番号は13。景虎から付けられたあだ名は「フク助」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/42/65900_crt_0O0Zr.jpg?r=1536031012",
+        "link": "https://bgm.tv/character/65900",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

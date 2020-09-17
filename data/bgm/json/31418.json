@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13322",
+        "label": "丹童子有马",
+        "info": "セイクリッドセブンの力を持つ主人公。17歳。過去にその力を暴走させてしまい、周囲から避けられるようになってしまう。そのせいで孤独な学園生活を送っているが、突如現れた転校生、藍羽ルリとの出会いをきっかけにセイクリッドセブンの力と向き合うことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/ae/13322_crt_k6tVn.jpg",
+        "link": "https://bgm.tv/character/13322",
+        "categorie": "person"
+      },
+      {
+        "id": "13323",
+        "label": "蓝羽琉璃",
+        "info": "アルマの通う高校に転校してきた謎の美少女。実は藍羽財団の令嬢。17歳。ある事件をきっかけに悪石（アシ）に対抗する組織を作り上げ、殲滅に乗り出す。協力を仰ぐため、セイクリッドセブンの力を持つアルマに接触してきた。彼女の思いがアルマの拳に宿るとき、悪石（アシ）を粉砕する力となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/a7/13323_crt_cD9c5.jpg",
+        "link": "https://bgm.tv/character/13323",
+        "categorie": "person"
+      },
+      {
+        "id": "13325",
+        "label": "辉岛奈特",
+        "info": "同样持有Sacred 7力量的神秘青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/62/13325_crt_zDos3.jpg",
+        "link": "https://bgm.tv/character/13325",
+        "categorie": "person"
+      },
+      {
+        "id": "13324",
+        "label": "镜诚",
+        "info": "蓝羽家的管家，哈佛大学毕业。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/59/13324_crt_7O79O.jpg",
+        "link": "https://bgm.tv/character/13324",
+        "categorie": "person"
+      },
+      {
+        "id": "13328",
+        "label": "刘翡翠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/9a/13328_crt_aCjxb.jpg",
+        "link": "https://bgm.tv/character/13328",
+        "categorie": "person"
+      },
+      {
+        "id": "13329",
+        "label": "研美悠士",
+        "info": "研美研究所的所长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/82/13329_crt_70C0B.jpg",
+        "link": "https://bgm.tv/character/13329",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

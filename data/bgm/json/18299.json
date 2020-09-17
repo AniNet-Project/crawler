@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "668",
+        "label": "时空王宙斯",
+        "info": "掌管所有时间与空间的神，是这次生存游戏的主办者。身型巨大。可以到任何一个时空中，包括人的想像世界。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/2f/668_5BneP.jpg",
+        "link": "https://bgm.tv/character/668",
+        "categorie": "person"
+      },
+      {
+        "id": "669",
+        "label": "姆鲁姆鲁",
+        "info": "Deus的下仆，外貌是一个身材短小的女孩子。出场机会不多，但在书侧的简介中形容自古以来已是一个世袭的部族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/04/669_9G4G4.jpg",
+        "link": "https://bgm.tv/character/669",
+        "categorie": "person"
+      },
+      {
+        "id": "670",
+        "label": "天野雪辉",
+        "info": "所持有的日记：手机记载的“无差别日记”，把自己身边事物钜细无遗记录下来，是所有日记中情报量最高的，偏偏没有记载的是自己的事，故此跟由乃（2nd）联手可以达到“完全预知”的效果。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/c2/670_xHXVd.jpg",
+        "link": "https://bgm.tv/character/670",
+        "categorie": "person"
+      },
+      {
+        "id": "671",
+        "label": "我妻由乃",
+        "info": "所持有的日记：手机记载的“雪辉日记”，日记以十分钟为单位，记载着雪辉（1st）的行动，当中包含少量的美化，可以完全预知雪辉（1st）之后会发生的事，故此跟雪辉（1st）联手可以达到“完全预知”的效果。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/23/671_crt_8xhC2.jpg?r=1581589648",
+        "link": "https://bgm.tv/character/671",
+        "categorie": "person"
+      },
+      {
+        "id": "678",
+        "label": "雨流美弥音",
+        "info": "所持有的日记：手机记载的“逃亡日记”，记载安全的逃亡路线，所以要追捕她是极为困难。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/e8/678_rsoHz.jpg",
+        "link": "https://bgm.tv/character/678",
+        "categorie": "person"
+      },
+      {
+        "id": "684",
+        "label": "高坂王子",
+        "info": "雪辉（1st）和由乃在樱见中学时同学，弥音（9th）事件中最先出卖雪辉（1st）的人之一。后来亦转校到梅里中学，跟雪辉（1st）还是在同一班中。因猎狗袭击事件开始卷进了事件。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/6f/684_60psa.jpg",
+        "link": "https://bgm.tv/character/684",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41218",
+        "label": "俵宗太",
+        "info": "東京在住のウェブデザイナー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/54/41218_crt_SdiNr.jpg",
+        "link": "https://bgm.tv/character/41218",
+        "categorie": "person"
+      },
+      {
+        "id": "41219",
+        "label": "ポコ",
+        "info": "宗太の実家である俵製麺所に現れた、うどんとカエルが大好きな不思議な子ども。好奇心旺盛で、食いしん坊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/bd/41219_crt_FlFFQ.jpg",
+        "link": "https://bgm.tv/character/41219",
+        "categorie": "person"
+      },
+      {
+        "id": "41221",
+        "label": "中岛忍",
+        "info": "宗太の幼馴染み。医者の息子であり、本人も医者であるが、その身なりの派手さや行動の大雑把さからは想像できない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/ec/41221_crt_RKkPW.jpg",
+        "link": "https://bgm.tv/character/41221",
+        "categorie": "person"
+      },
+      {
+        "id": "41222",
+        "label": "大石凛子",
+        "info": "宗太の姉。結婚し家を出て、現在は高知県在住。大のお酒好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/e5/41222_crt_b6tbw.jpg",
+        "link": "https://bgm.tv/character/41222",
+        "categorie": "person"
+      },
+      {
+        "id": "43316",
+        "label": "藤山俊亮",
+        "info": "とあるお寺の僧侶。讃岐の狸伝説に詳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/d6/43316_crt_MSRv2.jpg",
+        "link": "https://bgm.tv/character/43316",
+        "categorie": "person"
+      },
+      {
+        "id": "43317",
+        "label": "藤山紗枝",
+        "info": "俊亮の妹。宗太の実家・俵製麺所の常連客で、食いしん坊。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/c6/43317_crt_WS3HT.jpg",
+        "link": "https://bgm.tv/character/43317",
+        "categorie": "person"
+      },
+      {
+        "id": "43318",
+        "label": "田中舞",
+        "info": "宗太の高校時代の同級生で初恋の相手。旧姓は「真鍋」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/54/43318_crt_634s5.jpg",
+        "link": "https://bgm.tv/character/43318",
+        "categorie": "person"
+      },
+      {
+        "id": "43319",
+        "label": "田中望美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/d3/43319_crt_Hz1iJ.jpg",
+        "link": "https://bgm.tv/character/43319",
+        "categorie": "person"
+      },
+      {
+        "id": "43320",
+        "label": "嘎嗷嘎嗷先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/d0/43320_crt_Zv3Vv.jpg",
+        "link": "https://bgm.tv/character/43320",
+        "categorie": "person"
+      },
+      {
+        "id": "43321",
+        "label": "米米",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/00/43321_crt_TlyLK.jpg",
+        "link": "https://bgm.tv/character/43321",
+        "categorie": "person"
+      },
+      {
+        "id": "43322",
+        "label": "莫莫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/c1/43322_crt_gZDEE.jpg",
+        "link": "https://bgm.tv/character/43322",
+        "categorie": "person"
+      },
+      {
+        "id": "44859",
+        "label": "浜田吾郎",
+        "info": "宗太の東京での勤め先・チームサテライトの社長。頼れる兄貴的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/28/44859_crt_qFlWF.jpg",
+        "link": "https://bgm.tv/character/44859",
+        "categorie": "person"
+      },
+      {
+        "id": "44861",
+        "label": "永妻宏司",
+        "info": "宗太の東京での勤め先・チームサテライトの後輩。宗太のことを慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/99/44861_crt_HDEjN.jpg",
+        "link": "https://bgm.tv/character/44861",
+        "categorie": "person"
+      },
+      {
+        "id": "44868",
+        "label": "冴木学",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/26/44868_crt_1K4v5.jpg",
+        "link": "https://bgm.tv/character/44868",
+        "categorie": "person"
+      },
+      {
+        "id": "44869",
+        "label": "冴木雪枝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/1d/44869_crt_l0vop.jpg",
+        "link": "https://bgm.tv/character/44869",
+        "categorie": "person"
+      },
+      {
+        "id": "44871",
+        "label": "喜冈富美",
+        "info": "宗太の家の近所に住む老婆。毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c7/44871_crt_8mE4E.jpg?r=1476629655",
+        "link": "https://bgm.tv/character/44871",
+        "categorie": "person"
+      },
+      {
+        "id": "44873",
+        "label": "宗太の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/ad/44873_crt_Ln3L3.jpg",
+        "link": "https://bgm.tv/character/44873",
+        "categorie": "person"
+      },
+      {
+        "id": "44875",
+        "label": "宗太の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/f6/44875_crt_fD990.jpg?r=1476629709",
+        "link": "https://bgm.tv/character/44875",
+        "categorie": "person"
+      },
+      {
+        "id": "44877",
+        "label": "中島の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/34/44877_crt_Lgheh.jpg?r=1477411369",
+        "link": "https://bgm.tv/character/44877",
+        "categorie": "person"
+      },
+      {
+        "id": "44878",
+        "label": "カエル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/17/44878_crt_1pDYr.jpg",
+        "link": "https://bgm.tv/character/44878",
+        "categorie": "person"
+      },
+      {
+        "id": "47318",
+        "label": "情侣(男)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/6d/47318_crt_3sZZ2.jpg?r=1476003800",
+        "link": "https://bgm.tv/character/47318",
+        "categorie": "person"
+      },
+      {
+        "id": "47319",
+        "label": "情侣(女)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/b7/47319_crt_Dq9yQ.jpg?r=1476003825",
+        "link": "https://bgm.tv/character/47319",
+        "categorie": "person"
+      },
+      {
+        "id": "47453",
+        "label": "三只小猪店员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/91/47453_crt_8Pmzw.jpg?r=1476629839",
+        "link": "https://bgm.tv/character/47453",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

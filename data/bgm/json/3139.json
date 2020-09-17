@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11875",
+        "label": "神原拓也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/9f/11875_crt_RC817.jpg",
+        "link": "https://bgm.tv/character/11875",
+        "categorie": "person"
+      },
+      {
+        "id": "24258",
+        "label": "源辉二",
+        "info": "与木村辉一是双胞胎，因为父母离婚而分开，自己和爸爸住而哥哥和妈妈住。他是一个冷酷、帅气的五年级男孩。父母的关系造就了他这样的性格，他不知道自己还有一个哥哥，一直以为其他人都是不需要的，甚至父母。但在数码宝贝世界经历过很多事情后，开始重视同伴和友情，并且找到了自己的哥哥。最终在众人的帮助下改变了想法，并且好像开朗了一点。进入数码世界后，得到光战魂，进化成传说野狼兽、银狼兽、战狼兽以及铠甲加鲁鲁兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/d7/24258_crt_Uuau6.jpg",
+        "link": "https://bgm.tv/character/24258",
+        "categorie": "person"
+      },
+      {
+        "id": "24259",
+        "label": "柴山纯平",
+        "info": "被选中的孩子中，年龄最大的一位。极具责任心，认为有些事如果没有把握做好还不如别做，一旦做了就必须做好，也算是有一定的领导能力。擅长变一些小魔术，十分喜欢巧克力。在数码暴龙世界里，明白了要相信人与人之间的友情，友情不是靠送礼物和小把戏可以换来得。在故事中十分喜欢小泉，还自称是小泉FANS俱乐部的第一号成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/e7/24259_crt_kWV6u.jpg?r=1571793599",
+        "link": "https://bgm.tv/character/24259",
+        "categorie": "person"
+      },
+      {
+        "id": "24260",
+        "label": "冰见友树",
+        "info": "六位主角当中年纪最小的一名。因为兄长总不和他一同玩，导致他终日对着计算机和游戏机，所以他的计算机和游戏机技术是主角六人中最好的。进入数码世界后，得到冰战魂，进化成十斗士之中的冰熊兽以及巴撒兽。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/5f/24260_crt_U2afy.jpg",
+        "link": "https://bgm.tv/character/24260",
+        "categorie": "person"
+      },
+      {
+        "id": "24245",
+        "label": "黑大耳兽",
+        "info": "黑大耳兽原为守护数码宝贝神灵的12帝魔之一。 几乎就是大耳兽的翻版，多了两个头角，身上为黑色，领子分了个叉，性格更加温和，不好斗。搭档是李小春。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/2b/24245_crt_gZYi2.jpg",
+        "link": "https://bgm.tv/character/24245",
+        "categorie": "person"
+      },
+      {
+        "id": "24262",
+        "label": "波高兽",
+        "info": "围着腰围的有老爹感觉的突然变异型数码兽。知识渊博的数码兽学者，拿着一本详细记载数码世界的“百晓书”，不怎么让人看。不擅长战斗，一般吵嚷着大闹一番，一到紧要关头就摆出一副认真的表情，变得十分意外与依靠。必杀技是当判断无法获胜后当时就以猛烈的速度逃走的“猛冲刺逃跑”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/2a/24262_crt_T3qGM.jpg",
+        "link": "https://bgm.tv/character/24262",
+        "categorie": "person"
+      },
+      {
+        "id": "24263",
+        "label": "问答兽",
+        "info": "漫不经心的性格碍事造型的兽型数码兽。总是睡眼朦胧，但是紧急时刻逃跑倒挺快。过分吊儿郎当会被急性子的波高兽，狠狠的来下“弹你一下哦”。不管外貌怎样它的知识渊博，不过派上用场的知识没有。喜欢宽大的棉裤，经常穿在身上。擅长技能是“冲刺逃跑”。必杀技是事情大条了就装睡蒙混过关的“装睡”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/31/24263_crt_U4USg.jpg",
+        "link": "https://bgm.tv/character/24263",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

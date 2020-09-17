@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47162",
+        "label": "千矢",
+        "info": "乌菈菈见习生。15岁。为了见母亲而来到迷路町的少女，从小在山里长大。常做露出度高的打扮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/8d/47162_crt_Sy9aS.jpg?r=1515357927",
+        "link": "https://bgm.tv/character/47162",
+        "categorie": "person"
+      },
+      {
+        "id": "47163",
+        "label": "巽绀",
+        "info": "乌菈菈见习生。15歳。名门茶屋巽屋的独生女。成绩优秀且个性认真。不喜欢豆皮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/6e/47163_crt_P1sSN.jpg?r=1515357953",
+        "link": "https://bgm.tv/character/47163",
+        "categorie": "person"
+      },
+      {
+        "id": "47164",
+        "label": "雪见小梅",
+        "info": "乌菈菈见习生。雪见财阀的大小姐。喜欢西洋文化。对自己的名字抱持复杂的情绪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/8d/47164_crt_jsKAA.jpg?r=1514817937",
+        "link": "https://bgm.tv/character/47164",
+        "categorie": "person"
+      },
+      {
+        "id": "47165",
+        "label": "枣乃乃",
+        "info": "乌菈菈见习生。枣屋的女儿。个性怕生，有着一具名为松子的人偶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/8e/47165_crt_hZUoM.jpg?r=1514818118",
+        "link": "https://bgm.tv/character/47165",
+        "categorie": "person"
+      },
+      {
+        "id": "47166",
+        "label": "枣妮娜",
+        "info": "乃乃的姐姐。枣屋的主人，少女们的老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/c3/47166_crt_Qqlsl.jpg?r=1514818182",
+        "link": "https://bgm.tv/character/47166",
+        "categorie": "person"
+      },
+      {
+        "id": "49922",
+        "label": "色井佐久",
+        "info": "迷路镇巡警队十番队队长，为了守护迷路镇的和平经常在镇子里巡逻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/37/49922_crt_ff93R.jpg?r=1488554860",
+        "link": "https://bgm.tv/character/49922",
+        "categorie": "person"
+      },
+      {
+        "id": "49923",
+        "label": "大岛薰",
+        "info": "佐久の部下。佐久を崇拝に等しいほど尊敬かつ溺愛している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/7a/49923_crt_llw07.jpg?r=1514818874",
+        "link": "https://bgm.tv/character/49923",
+        "categorie": "person"
+      },
+      {
+        "id": "49924",
+        "label": "盐泽练子",
+        "info": "佐久の部下。大島同様佐久を溺愛している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/8c/49924_crt_9js6s.jpg?r=1514818998",
+        "link": "https://bgm.tv/character/49924",
+        "categorie": "person"
+      },
+      {
+        "id": "51997",
+        "label": "巽时江",
+        "info": "巽屋的主人，绀的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/77/51997_crt_5nzte.jpg?r=1489188341",
+        "link": "https://bgm.tv/character/51997",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

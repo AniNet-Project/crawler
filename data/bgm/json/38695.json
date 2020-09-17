@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73432",
+        "label": "史迪仔",
+        "info": "史迪奇（Stitch）是《星际宝贝》系列动画中的著名萌星角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/71/73432_crt_xeOiE.jpg?r=1574494173",
+        "link": "https://bgm.tv/character/73432",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

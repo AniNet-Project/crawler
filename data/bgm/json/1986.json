@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3264",
+        "label": "ティズ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/ea/3264_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3264",
+        "categorie": "person"
+      },
+      {
+        "id": "3266",
+        "label": "トール・クライン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/73/3266_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3266",
+        "categorie": "person"
+      },
+      {
+        "id": "18869",
+        "label": "萨德",
+        "info": "茶轮的三副（与其名“萨德‘Third’”同音）。自称“忘记了自己的真名”，随和而充满谜团的青年。拥有成为首领的实力却只选择做三副，本名是席科尔·黑撒，是个少尉，参加了米德伽尔德计划——制造并繁殖巴尔罡型人类的工程，暗中帮助特尔成为兽王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/c0/18869_crt_4THbq.jpg",
+        "link": "https://bgm.tv/character/18869",
+        "categorie": "person"
+      },
+      {
+        "id": "3265",
+        "label": "チェン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/33/3265_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3265",
+        "categorie": "person"
+      },
+      {
+        "id": "3267",
+        "label": "ユウキ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/3b/3267_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3267",
+        "categorie": "person"
+      },
+      {
+        "id": "3268",
+        "label": "カリム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/d9/3268_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3268",
+        "categorie": "person"
+      },
+      {
+        "id": "3269",
+        "label": "ヘイムダル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/1e/3269_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3269",
+        "categorie": "person"
+      },
+      {
+        "id": "3270",
+        "label": "ケビン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/7b/3270_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3270",
+        "categorie": "person"
+      },
+      {
+        "id": "3271",
+        "label": "Gesso",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/bb/3271_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3271",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

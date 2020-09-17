@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29362",
+        "label": "艾拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/6d/29362_crt_A4rOr.jpg?r=1423553804",
+        "link": "https://bgm.tv/character/29362",
+        "categorie": "person"
+      },
+      {
+        "id": "29363",
+        "label": "水柿司",
+        "info": "18岁，大学考试落榜后，在父母利用关系下进入“SAI社”工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/0a/29363_crt_WLWr5.jpg?r=1423554630",
+        "link": "https://bgm.tv/character/29363",
+        "categorie": "person"
+      },
+      {
+        "id": "29544",
+        "label": "绢岛满",
+        "info": "司的前辈，17岁的女性社员。负责指导司的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/67/29544_crt_5bffX.jpg?r=1423554474",
+        "link": "https://bgm.tv/character/29544",
+        "categorie": "person"
+      },
+      {
+        "id": "29545",
+        "label": "札克",
+        "info": "ミチルと組んで業務にあたるギフティア。見た目は少年の様な容姿でお坊ちゃんの様に見えるが、業務を円滑にこなす能力は長けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/f8/29545_crt_j0TPz.jpg?r=1423554928",
+        "link": "https://bgm.tv/character/29545",
+        "categorie": "person"
+      },
+      {
+        "id": "29546",
+        "label": "桑乃实香月",
+        "info": "ツカサの上司の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/1d/29546_crt_W1t12.jpg?r=1423555082",
+        "link": "https://bgm.tv/character/29546",
+        "categorie": "person"
+      },
+      {
+        "id": "29547",
+        "label": "康斯坦斯",
+        "info": "カヅキのパートナーを務める好青年風のギフティア。見た目通りの優しい性格で、何事もスマートにこなすタイプ。カヅキをサポートする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/fe/29547_crt_aqka3.jpg?r=1423555266",
+        "link": "https://bgm.tv/character/29547",
+        "categorie": "person"
+      },
+      {
+        "id": "29548",
+        "label": "缥康孝",
+        "info": "ターミナルサービスに10年以上勤務している古株の社員。勤務年数にしてはノリが軽く、年齢に応じた真面目さは感じられないず、いまいちやる気も感じられない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/21/29548_crt_4Eii8.jpg?r=1423555638",
+        "link": "https://bgm.tv/character/29548",
+        "categorie": "person"
+      },
+      {
+        "id": "29549",
+        "label": "雪莉",
+        "info": "ヤスタカのパートナーとなるキャリアウーマン風のギフティア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/0e/29549_crt_nCj3T.jpg?r=1423555665",
+        "link": "https://bgm.tv/character/29549",
+        "categorie": "person"
+      },
+      {
+        "id": "29550",
+        "label": "海松爱琉",
+        "info": "ギフティアのメンテナンス班に配属されてまだ2年の新米エンジニア。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/b0/29550_crt_R2Ib2.jpg?r=1423555712",
+        "link": "https://bgm.tv/character/29550",
+        "categorie": "person"
+      },
+      {
+        "id": "33158",
+        "label": "莎拉",
+        "info": "安东尼奥·赫利佐持有的女性Giftia，用作其贴身保镖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/5d/33158_crt_2A9wv.jpg",
+        "link": "https://bgm.tv/character/33158",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

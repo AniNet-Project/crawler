@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49663",
+        "label": "山崎鈴子",
+        "info": "林隠学園の美人教師。日本史を担当し、学内でヨガ・サークルを主催する活発な先生で独身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/a5/49663_crt_c5LDd.jpg",
+        "link": "https://bgm.tv/character/49663",
+        "categorie": "person"
+      },
+      {
+        "id": "49664",
+        "label": "田村素子",
+        "info": "林隠学園の三年生。三年間、生徒会活動を熱心に取り込んできた優等生タイプの美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/41/49664_crt_r3kID.jpg",
+        "link": "https://bgm.tv/character/49664",
+        "categorie": "person"
+      },
+      {
+        "id": "49666",
+        "label": "山中知美",
+        "info": "林隠学園の一年生。知美は学園屈指の美人で知られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/06/49666_crt_jToDO.jpg",
+        "link": "https://bgm.tv/character/49666",
+        "categorie": "person"
+      },
+      {
+        "id": "49668",
+        "label": "桂木愛子",
+        "info": "林隠市に唯一ある医院の女医。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/88/49668_crt_33Ll3.jpg",
+        "link": "https://bgm.tv/character/49668",
+        "categorie": "person"
+      },
+      {
+        "id": "49670",
+        "label": "中村詩織",
+        "info": "桂木愛子の娘。長女。林隠学園で英語を教えている女教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/5f/49670_crt_tM9vl.jpg",
+        "link": "https://bgm.tv/character/49670",
+        "categorie": "person"
+      },
+      {
+        "id": "49671",
+        "label": "桂木真紀",
+        "info": "林隠学園の三年生。桂木愛子の娘。次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/06/49671_crt_sTim2.jpg",
+        "link": "https://bgm.tv/character/49671",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

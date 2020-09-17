@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41988",
+        "label": "凌晓雨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/94/41988_crt_XqlJp.jpg",
+        "link": "https://bgm.tv/character/41988",
+        "categorie": "person"
+      },
+      {
+        "id": "15153",
+        "label": "艾丽莎·博斯克诺维奇",
+        "info": "　在茂密的森林深处，有一所戒备森严的研究设施，研究所的所长为其取名为波斯克诺维奇研究所。这里是三岛财阀研究开发战斗型机器人的重要设施，JAKE系列战斗机器人就诞生于此。研究所的最深处是最重要保安区域，其中一间房间中的透明密封舱中静静的睡着以为少女，她的名字叫阿丽莎・波斯克诺维奇……当初，所长DR.波斯克诺维奇制作人肯为三岛财阀卖力制造杀人机器，一个最重要原因就是他想要将死去的女儿复活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/6c/15153_crt_9qRsS.jpg",
+        "link": "https://bgm.tv/character/15153",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

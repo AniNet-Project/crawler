@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76973",
+        "label": "ジン・モリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/21/76973_crt_r10fu.jpg",
+        "link": "https://bgm.tv/character/76973",
+        "categorie": "person"
+      },
+      {
+        "id": "76974",
+        "label": "ハン・デイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/53/76974_crt_BW78c.jpg",
+        "link": "https://bgm.tv/character/76974",
+        "categorie": "person"
+      },
+      {
+        "id": "76975",
+        "label": "ユ・ミラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/30/76975_crt_mX0M5.jpg",
+        "link": "https://bgm.tv/character/76975",
+        "categorie": "person"
+      },
+      {
+        "id": "76976",
+        "label": "パク・ムジン",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76976",
+        "categorie": "person"
+      },
+      {
+        "id": "76977",
+        "label": "カン・マンソク",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76977",
+        "categorie": "person"
+      },
+      {
+        "id": "76978",
+        "label": "审判员O",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76978",
+        "categorie": "person"
+      },
+      {
+        "id": "76979",
+        "label": "审判员P",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76979",
+        "categorie": "person"
+      },
+      {
+        "id": "76980",
+        "label": "审判员Q",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76980",
+        "categorie": "person"
+      },
+      {
+        "id": "76981",
+        "label": "审判员R",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76981",
+        "categorie": "person"
+      },
+      {
+        "id": "76982",
+        "label": "实况T",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/76982",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

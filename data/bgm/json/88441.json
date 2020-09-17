@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22883",
+        "label": "姬路若叶",
+        "info": "小学5年生。霊能力を持っており、悪い霊を引き寄せてしまうため、孤独に過ごしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/0c/22883_crt_J0kIa.jpg",
+        "link": "https://bgm.tv/character/22883",
+        "categorie": "person"
+      },
+      {
+        "id": "22884",
+        "label": "ポーちゃん",
+        "info": "「プピポー！」と鳴く、ピンク色でフカフカの不思議な生き物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/32/22884_crt_Azcfc.jpg",
+        "link": "https://bgm.tv/character/22884",
+        "categorie": "person"
+      },
+      {
+        "id": "22885",
+        "label": "东礼子",
+        "info": "若葉のクラスに転校してきた、オカルト大好きで元気な眼鏡っ娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/22/22885_crt_ZfRP8.jpg",
+        "link": "https://bgm.tv/character/22885",
+        "categorie": "person"
+      },
+      {
+        "id": "22886",
+        "label": "结城直哉",
+        "info": "若葉の同級生。見えるだけでなく、触った霊体の過去が見えてしまう能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/c3/22886_crt_p52B2.jpg",
+        "link": "https://bgm.tv/character/22886",
+        "categorie": "person"
+      },
+      {
+        "id": "33625",
+        "label": "えっちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/a1/33625_crt_3mBPv.jpg",
+        "link": "https://bgm.tv/character/33625",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

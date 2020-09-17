@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33244",
+        "label": "巴尔坦店长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/ac/33244_crt_KkoD0.jpg",
+        "link": "https://bgm.tv/character/33244",
+        "categorie": "person"
+      },
+      {
+        "id": "17489",
+        "label": "乌瑟",
+        "info": "りんの家に居候している謎の動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/68/17489_crt_JlzQo.jpg",
+        "link": "https://bgm.tv/character/17489",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

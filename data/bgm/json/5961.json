@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20769",
+        "label": "内藤桃子",
+        "info": "本作主人公，虽然食量很大，但是腰围纤细。和思信她们同属一个班，担任风纪委员的职务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/ec/20769_crt_Cj88R.jpg",
+        "link": "https://bgm.tv/character/20769",
+        "categorie": "person"
+      },
+      {
+        "id": "20770",
+        "label": "藩田思信",
+        "info": "本篇主人公之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/21/20770_crt_c909T.jpg",
+        "link": "https://bgm.tv/character/20770",
+        "categorie": "person"
+      },
+      {
+        "id": "20772",
+        "label": "狛井时雨",
+        "info": "千鶴の姉。小さい頃から千鶴が好きで、彼女の気持ちを確かめるために一芝居打つ。身長164センチメートル。第一話の時点で高等部3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/dd/20772_crt_4Cy5y.jpg",
+        "link": "https://bgm.tv/character/20772",
+        "categorie": "person"
+      },
+      {
+        "id": "20771",
+        "label": "狛井千鹤",
+        "info": "和桃子她们是同一个年纪，实际上一直在幻想着自己的姐姐时雨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/6d/20771_crt_kqi4i.jpg",
+        "link": "https://bgm.tv/character/20771",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

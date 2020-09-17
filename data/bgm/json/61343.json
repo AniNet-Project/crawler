@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76562",
+        "label": "虹猫",
+        "info": "《虹猫蓝兔》系列中主人公，七剑之首“长虹剑”传人，七剑的灵魂人物。继承了父亲白猫的一身绝艺，武艺超群，坚强勇敢，足智多谋，英俊潇洒，帅气中又透出不可比拟的酷，一袭白衫更衬出他的气质。承担着团结七剑传人，消灭魔教的重任。为了达到自己理想的彼岸而坚持不懈的努力，砥砺意志破除万难。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/3e/76562_crt_VnNcx.jpg",
+        "link": "https://bgm.tv/character/76562",
+        "categorie": "person"
+      },
+      {
+        "id": "76563",
+        "label": "蓝兔",
+        "info": "《虹猫蓝兔》系列中的主角。七剑之冰魄剑传人，玉蟾宫宫主，被誉为武林第一美人、和平使者。她善良、聪明、勇敢，是倾城倾国的绝世佳人，和虹猫等人一同并肩作战，出生入死。感情丰富，有自己的主见，因善良单纯，有时会被人利用。武功高强七剑中仅在虹猫之下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/2a/76563_crt_XCZGp.jpg",
+        "link": "https://bgm.tv/character/76563",
+        "categorie": "person"
+      },
+      {
+        "id": "76565",
+        "label": "莎丽",
+        "info": "七剑之紫云剑传人，武艺高超，虽是女儿身却不失为一名巾帼英雄。因练剑时遭到马三娘的暗算，被马三娘冒充身份。由于中毒而右手不得运功，中途几经周折，几次放弃又几次重拾，可凭借着自身惊人的毅力和聪慧的天赋，练成了一套出色的左手剑法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/32/76565_crt_J6m5j.jpg",
+        "link": "https://bgm.tv/character/76565",
+        "categorie": "person"
+      },
+      {
+        "id": "76566",
+        "label": "大奔",
+        "info": "七剑之奔雷剑传人，七剑团队的中坚战力。侠义豪爽，力大无穷，但也容易被怒气冲昏头脑，做出意料之外的事。大奔嗜酒好赌，后为解救干娘戒酒戒赌，成功继承奔雷剑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/6d/76566_crt_wt8Mj.jpg",
+        "link": "https://bgm.tv/character/76566",
+        "categorie": "person"
+      },
+      {
+        "id": "76567",
+        "label": "逗逗",
+        "info": "七剑之雨花剑传人，出生于刀口岭雨花殿，住在六奇阁道观。医术高超，人称神医逗逗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/d9/76567_crt_w1A1l.jpg",
+        "link": "https://bgm.tv/character/76567",
+        "categorie": "person"
+      },
+      {
+        "id": "76568",
+        "label": "达达",
+        "info": "七剑之旋风剑剑主，十里画廊百草谷谷主，号称竹林居士、白衣秀士，武艺高强，琴棋书画样样精通。感情丰富，与妻子达夫人相亲相爱。他为了妻儿，可以不顾一切后果。但身为七剑传人，他也会履行他的责任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/56/76568_crt_JOZN5.jpg",
+        "link": "https://bgm.tv/character/76568",
+        "categorie": "person"
+      },
+      {
+        "id": "76569",
+        "label": "跳跳",
+        "info": "七剑之“青光剑”传人，父母被黑心虎杀害，为报父母之仇卧底在魔教中担任护法使者，在暗中多次帮助七剑脱险。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/38/76569_crt_z5w8N.jpg",
+        "link": "https://bgm.tv/character/76569",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

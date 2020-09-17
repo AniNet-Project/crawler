@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47323",
+        "label": "小爱",
+        "info": "でかい",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/0c/47323_crt_88424.jpg",
+        "link": "https://bgm.tv/character/47323",
+        "categorie": "person"
+      },
+      {
+        "id": "47324",
+        "label": "大哥哥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/b9/47324_crt_KuZ2z.jpg",
+        "link": "https://bgm.tv/character/47324",
+        "categorie": "person"
+      },
+      {
+        "id": "47460",
+        "label": "後輩ちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/97/47460_crt_jliZF.jpg",
+        "link": "https://bgm.tv/character/47460",
+        "categorie": "person"
+      },
+      {
+        "id": "47461",
+        "label": "先輩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/08/47461_crt_BswBH.jpg?r=1476676171",
+        "link": "https://bgm.tv/character/47461",
+        "categorie": "person"
+      },
+      {
+        "id": "47649",
+        "label": "トレーナーさん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/ee/47649_crt_OkR8C.jpg",
+        "link": "https://bgm.tv/character/47649",
+        "categorie": "person"
+      },
+      {
+        "id": "47650",
+        "label": "課長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/17/47650_crt_9tTT8.jpg",
+        "link": "https://bgm.tv/character/47650",
+        "categorie": "person"
+      },
+      {
+        "id": "48142",
+        "label": "バレー部ちゃん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/12/48142_crt_g93St.jpg?r=1478485583",
+        "link": "https://bgm.tv/character/48142",
+        "categorie": "person"
+      },
+      {
+        "id": "49430",
+        "label": "德森さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/3a/49430_crt_Yd1S8.jpg",
+        "link": "https://bgm.tv/character/49430",
+        "categorie": "person"
+      },
+      {
+        "id": "48467",
+        "label": "女性社員",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/dc/48467_crt_gG0NF.jpg",
+        "link": "https://bgm.tv/character/48467",
+        "categorie": "person"
+      },
+      {
+        "id": "48905",
+        "label": "歯科衛生士さん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/b0/48905_crt_zGhlV.jpg",
+        "link": "https://bgm.tv/character/48905",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "35639",
+        "label": "男学生",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35639",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

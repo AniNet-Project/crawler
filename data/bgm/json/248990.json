@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63820",
+        "label": "三波羅星真",
+        "info": "「ずっと気になってたんだ…」",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/4c/63820_crt_6Kie6.jpg",
+        "link": "https://bgm.tv/character/63820",
+        "categorie": "person"
+      },
+      {
+        "id": "63821",
+        "label": "瀬ノ沢志織",
+        "info": "「私には、帰れない理由があるの」",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/2f/63821_crt_qczhH.jpg?r=1528455441",
+        "link": "https://bgm.tv/character/63821",
+        "categorie": "person"
+      },
+      {
+        "id": "63822",
+        "label": "カンナ",
+        "info": "「進行役を務めるカンナと申します」",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/a9/63822_crt_Ue3Xu.jpg?r=1528455491",
+        "link": "https://bgm.tv/character/63822",
+        "categorie": "person"
+      },
+      {
+        "id": "63823",
+        "label": "藤井淳史",
+        "info": "「また会えて…うれしいよ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/70/63823_crt_b66bm.jpg",
+        "link": "https://bgm.tv/character/63823",
+        "categorie": "person"
+      },
+      {
+        "id": "63824",
+        "label": "瀬ノ沢香織",
+        "info": "「元気そうで、良かった…」",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/59/63824_crt_uM0WG.jpg",
+        "link": "https://bgm.tv/character/63824",
+        "categorie": "person"
+      },
+      {
+        "id": "63825",
+        "label": "湖月姫",
+        "info": "「皆の者、この城は我らの手で守り抜くのだ！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/73/63825_crt_yReQR.jpg?r=1528455532",
+        "link": "https://bgm.tv/character/63825",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71358",
+        "label": "小雪芹",
+        "info": "超ツッコミ気質。英語が苦手。夢は教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/f8/71358_crt_0027z.jpg?r=1566018091",
+        "link": "https://bgm.tv/character/71358",
+        "categorie": "person"
+      },
+      {
+        "id": "71359",
+        "label": "花鸟兜",
+        "info": "中二病。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/fc/71359_crt_43Tuz.jpg?r=1566018175",
+        "link": "https://bgm.tv/character/71359",
+        "categorie": "person"
+      },
+      {
+        "id": "71360",
+        "label": "月宫宇津木",
+        "info": "心が読める（ように芹が感じている）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/57/71360_crt_859CN.jpg",
+        "link": "https://bgm.tv/character/71360",
+        "categorie": "person"
+      },
+      {
+        "id": "71361",
+        "label": "君屋响",
+        "info": "不幸体質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/17/71361_crt_ZWswC.jpg?r=1566018503",
+        "link": "https://bgm.tv/character/71361",
+        "categorie": "person"
+      },
+      {
+        "id": "71362",
+        "label": "最上君影",
+        "info": "刀を所持している芹の幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/8e/71362_crt_53vlu.jpg?r=1566018594",
+        "link": "https://bgm.tv/character/71362",
+        "categorie": "person"
+      },
+      {
+        "id": "71363",
+        "label": "时宗樒",
+        "info": "花鳥の元バンド仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/dc/71363_crt_J4zrk.jpg?r=1566018705",
+        "link": "https://bgm.tv/character/71363",
+        "categorie": "person"
+      },
+      {
+        "id": "71364",
+        "label": "澄楚琴子",
+        "info": "芹が憧れている女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/27/71364_crt_vZs7J.jpg?r=1566018822",
+        "link": "https://bgm.tv/character/71364",
+        "categorie": "person"
+      },
+      {
+        "id": "71365",
+        "label": "最上铃兰",
+        "info": "最上君影の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/a6/71365_crt_50ra0.jpg?r=1566018925",
+        "link": "https://bgm.tv/character/71365",
+        "categorie": "person"
+      },
+      {
+        "id": "71367",
+        "label": "相津",
+        "info": "芹の友人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/02/71367_crt_gIfqj.jpg?r=1566019021",
+        "link": "https://bgm.tv/character/71367",
+        "categorie": "person"
+      },
+      {
+        "id": "71368",
+        "label": "班主任",
+        "info": "芹達のクラスの担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/4c/71368_crt_muHfO.jpg?r=1566019127",
+        "link": "https://bgm.tv/character/71368",
+        "categorie": "person"
+      },
+      {
+        "id": "71369",
+        "label": "刻耳柏洛斯",
+        "info": "捨て犬。花鳥に拾われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/3f/71369_crt_Hr1aY.jpg",
+        "link": "https://bgm.tv/character/71369",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

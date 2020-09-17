@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21412",
+        "label": "伊万里胡桃",
+        "info": "本作のヒロイン。右サイドポニーの髪型が特徴。縞パンを好んで穿く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/3c/21412_crt_n8fg7.jpg?r=1403777281",
+        "link": "https://bgm.tv/character/21412",
+        "categorie": "person"
+      },
+      {
+        "id": "49722",
+        "label": "高城宽子",
+        "info": "学園の美術教師。水無瀬と伊万里の所属する美術部の顧問を務めている。その容姿と良い性格から、女子からも男子からも人望が厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/31/49722_crt_zznE7.jpg",
+        "link": "https://bgm.tv/character/49722",
+        "categorie": "person"
+      },
+      {
+        "id": "81323",
+        "label": "ジョディ・クロウリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/80/81323_crt_0SCvh.jpg",
+        "link": "https://bgm.tv/character/81323",
+        "categorie": "person"
+      },
+      {
+        "id": "81324",
+        "label": "安芸市川",
+        "info": "调查员，伊万里胡桃的后辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/73/81324_crt_zlqZp.jpg",
+        "link": "https://bgm.tv/character/81324",
+        "categorie": "person"
+      },
+      {
+        "id": "81325",
+        "label": "山西直人",
+        "info": "原为警察，辞职后改行成为调查员，伊万里胡桃的后辈，曾是北见所在学校的学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/2f/81325_crt_sms6f.jpg",
+        "link": "https://bgm.tv/character/81325",
+        "categorie": "person"
+      },
+      {
+        "id": "81326",
+        "label": "弓削彻",
+        "info": "超自然犯罪调查机构Tokken负责人，伊万里胡桃等人的上司。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/63/81326_crt_A6hY2.jpg",
+        "link": "https://bgm.tv/character/81326",
+        "categorie": "person"
+      },
+      {
+        "id": "81327",
+        "label": "藤堂由希",
+        "info": "佐伯香织的学生和追随者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/54/81327_crt_aiblb.jpg",
+        "link": "https://bgm.tv/character/81327",
+        "categorie": "person"
+      },
+      {
+        "id": "49724",
+        "label": "佐伯香织",
+        "info": "水無瀬達のクラスメイト。オカルトヲタクで、１２年前の学生達を模したカルトサークルを作り、意欲的な活動をしている。黒魔術にも詳しく、彼女の占いはかなりの評判である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/b0/49724_crt_Qaiha.jpg",
+        "link": "https://bgm.tv/character/49724",
+        "categorie": "person"
+      },
+      {
+        "id": "49725",
+        "label": "白木里香",
+        "info": "学園で生徒会長を務める美少女。男子の人気も高く、水無瀬などには縁の遠い存在。親は大手電子機器メーカーで重役を勤めており、正真正銘のお嬢様である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/8a/49725_crt_ZZXy4.jpg",
+        "link": "https://bgm.tv/character/49725",
+        "categorie": "person"
+      },
+      {
+        "id": "49723",
+        "label": "北见丽华",
+        "info": "学園の保健医。水無瀬が苦手とする教師。その経歴には謎が多い。その妖しい色気からか、あまり良い噂は聞こえてこない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/55/49723_crt_FtwMf.jpg",
+        "link": "https://bgm.tv/character/49723",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

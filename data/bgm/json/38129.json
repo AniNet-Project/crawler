@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7057",
+        "label": "工藤有希子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/5b/7057_crt_LxllL.jpg?r=1444824170",
+        "link": "https://bgm.tv/character/7057",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

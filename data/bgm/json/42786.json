@@ -1,0 +1,309 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13634",
+        "label": "阿拉丁",
+        "info": "10岁左右，身高130cm，出生地:不明，特技：魔法，兴趣：阅读，弱点：大姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/fc/13634_crt_7hwgW.jpg",
+        "link": "https://bgm.tv/character/13634",
+        "categorie": "person"
+      },
+      {
+        "id": "13635",
+        "label": "阿里巴巴·沙尔贾",
+        "info": "17岁，身高168cm，出生地:巴尔巴德，特技:王宫剑术，兴趣：买卖，弱点：容易发胖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/d9/13635_crt_ViFmR.jpg",
+        "link": "https://bgm.tv/character/13635",
+        "categorie": "person"
+      },
+      {
+        "id": "13636",
+        "label": "摩尔迦娜",
+        "info": "14岁，身高148cm，出生地：卡达葛(黑暗大陆)，特技：腿踢，兴趣：锻炼肌肉，弱点：即兴表演。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/92/13636_crt_v5Pmt.jpg?r=1393400206",
+        "link": "https://bgm.tv/character/13636",
+        "categorie": "person"
+      },
+      {
+        "id": "13584",
+        "label": "贾法尔",
+        "info": "辛德利亚八人将之一。是辛德利亚国的政务官，国王不在时暂由他代理处理事务。外表虽然看似文弱，其实是实力强劲的暗杀者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/b5/13584_crt_zVv1m.jpg",
+        "link": "https://bgm.tv/character/13584",
+        "categorie": "person"
+      },
+      {
+        "id": "13637",
+        "label": "辛巴达",
+        "info": "辛德利亚王国国王，身为七位魔神之主，被誉为【七海的霸王】，练玉艳称其为第一特异点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/9c/13637_crt_37D47.jpg?r=1369494604",
+        "link": "https://bgm.tv/character/13637",
+        "categorie": "person"
+      },
+      {
+        "id": "13638",
+        "label": "裘达尔",
+        "info": "18岁，身高173cm，出生地:不明，特技：魔法，兴趣：空中散步，弱点：蔬菜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/c9/13638_crt_B1zpo.jpg",
+        "link": "https://bgm.tv/character/13638",
+        "categorie": "person"
+      },
+      {
+        "id": "13639",
+        "label": "练红玉",
+        "info": "17岁，身高163cm，出生地:煌帝国，特技：剑术，兴趣：打扮，弱点：交朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/56/13639_crt_HX1DJ.jpg",
+        "link": "https://bgm.tv/character/13639",
+        "categorie": "person"
+      },
+      {
+        "id": "13640",
+        "label": "卡西姆",
+        "info": "「雾之团」的干部，实际上是首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/c4/13640_crt_4tnLO.jpg",
+        "link": "https://bgm.tv/character/13640",
+        "categorie": "person"
+      },
+      {
+        "id": "14056",
+        "label": "练白龙",
+        "info": "16岁，身高165cm，出生地:煌帝国，特技：枪术，兴趣：料理，弱点：玩笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/a9/14056_crt_055kx.jpg?r=1414932639",
+        "link": "https://bgm.tv/character/14056",
+        "categorie": "person"
+      },
+      {
+        "id": "17395",
+        "label": "马斯鲁尔",
+        "info": "シンドバッドに忠誠を誓う八人将の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/c3/17395_crt_T04dY.jpg",
+        "link": "https://bgm.tv/character/17395",
+        "categorie": "person"
+      },
+      {
+        "id": "17659",
+        "label": "布德尔",
+        "info": "ブドウ酒造を営む金持ち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/52/17659_crt_3g5BT.jpg",
+        "link": "https://bgm.tv/character/17659",
+        "categorie": "person"
+      },
+      {
+        "id": "17660",
+        "label": "格尔达斯",
+        "info": "ジャミルの奴隷の一人。北方の遊牧民族の末裔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/3a/17660_crt_RWw4W.jpg",
+        "link": "https://bgm.tv/character/17660",
+        "categorie": "person"
+      },
+      {
+        "id": "17661",
+        "label": "加米尔",
+        "info": "オアシス都市チーシャンの領主で、モルジアナを含め、多くの奴隷を抱えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/43/17661_crt_m0vZ9.jpg",
+        "link": "https://bgm.tv/character/17661",
+        "categorie": "person"
+      },
+      {
+        "id": "17662",
+        "label": "阿蒙",
+        "info": "礼節と厳格から作られたジンで、長いあご髭を蓄えた威厳のある老人の姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/92/17662_crt_Cu2Nd.jpg",
+        "link": "https://bgm.tv/character/17662",
+        "categorie": "person"
+      },
+      {
+        "id": "17663",
+        "label": "多尔吉",
+        "info": "黄牙一族の青年で、一族の誇りを大事にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f6/17663_crt_Dd2lA.jpg",
+        "link": "https://bgm.tv/character/17663",
+        "categorie": "person"
+      },
+      {
+        "id": "17664",
+        "label": "托娅",
+        "info": "黄牙一族の長・ババさまの孫娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/ec/17664_crt_6QPdZ.jpg",
+        "link": "https://bgm.tv/character/17664",
+        "categorie": "person"
+      },
+      {
+        "id": "17665",
+        "label": "茶干 萨满",
+        "info": "黄牙一族・第155代大王の孫娘で、一族から尊敬されている長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e8/17665_crt_wwU83.jpg",
+        "link": "https://bgm.tv/character/17665",
+        "categorie": "person"
+      },
+      {
+        "id": "17666",
+        "label": "练白瑛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/54/17666_crt_rK848.jpg",
+        "link": "https://bgm.tv/character/17666",
+        "categorie": "person"
+      },
+      {
+        "id": "17667",
+        "label": "乌戈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/78/17667_crt_8Blq9.jpg",
+        "link": "https://bgm.tv/character/17667",
+        "categorie": "person"
+      },
+      {
+        "id": "17668",
+        "label": "吕斋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/c2/17668_crt_Vvk1d.jpg",
+        "link": "https://bgm.tv/character/17668",
+        "categorie": "person"
+      },
+      {
+        "id": "17703",
+        "label": "派萌",
+        "info": "煌帝国の皇女・練白瑛を「王の器」として認め、王にするべく力を貸しているジン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/82/17703_crt_Qy6Ct.jpg",
+        "link": "https://bgm.tv/character/17703",
+        "categorie": "person"
+      },
+      {
+        "id": "17704",
+        "label": "李青舜",
+        "info": "白瑛の北西中原の侵攻に部下として付き従う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c7/17704_crt_IUsCS.jpg",
+        "link": "https://bgm.tv/character/17704",
+        "categorie": "person"
+      },
+      {
+        "id": "17816",
+        "label": "法提马",
+        "info": "奴隷商人。盗賊団と共謀して奴隷狩りされた異民族や貧困層の人間を売りさばいている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/2f/17816_crt_IIzh0.jpg",
+        "link": "https://bgm.tv/character/17816",
+        "categorie": "person"
+      },
+      {
+        "id": "17817",
+        "label": "莱拉",
+        "info": "砂漠で行き倒れていた所をサアサに助けられ、彼女の所属している隊商（キャラバン）に入った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/76/17817_crt_N99P9.jpg",
+        "link": "https://bgm.tv/character/17817",
+        "categorie": "person"
+      },
+      {
+        "id": "17818",
+        "label": "纱阿沙",
+        "info": "隊商長の娘で、行き倒れていたライラを助けた恩人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/d0/17818_crt_Eyzc5.jpg",
+        "link": "https://bgm.tv/character/17818",
+        "categorie": "person"
+      },
+      {
+        "id": "17819",
+        "label": "M南德",
+        "info": "三男。優男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/d8/17819_crt_cUQOL.jpg",
+        "link": "https://bgm.tv/character/17819",
+        "categorie": "person"
+      },
+      {
+        "id": "17820",
+        "label": "L南德",
+        "info": "次男。巨漢の男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/d1/17820_crt_GYyp7.jpg",
+        "link": "https://bgm.tv/character/17820",
+        "categorie": "person"
+      },
+      {
+        "id": "17821",
+        "label": "S南德",
+        "info": "長男。左目に眼帯をしている小太りな男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/05/17821_crt_6UiQ1.jpg",
+        "link": "https://bgm.tv/character/17821",
+        "categorie": "person"
+      },
+      {
+        "id": "18418",
+        "label": "巴桑",
+        "info": "「霧の団」の幹部の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/5b/18418_crt_xpPpP.jpg",
+        "link": "https://bgm.tv/character/18418",
+        "categorie": "person"
+      },
+      {
+        "id": "18419",
+        "label": "塞纳布",
+        "info": "カシムに従う「霧の団」の女性幹部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/73/18419_crt_7x3oX.jpg",
+        "link": "https://bgm.tv/character/18419",
+        "categorie": "person"
+      },
+      {
+        "id": "18420",
+        "label": "撒布玛多・沙尔贾",
+        "info": "アブマドの弟であり、バルバッドの副王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/4d/18420_crt_GAjRa.jpg",
+        "link": "https://bgm.tv/character/18420",
+        "categorie": "person"
+      },
+      {
+        "id": "18421",
+        "label": "阿部玛多·沙尔贾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/7d/18421_crt_jh2hs.jpg",
+        "link": "https://bgm.tv/character/18421",
+        "categorie": "person"
+      },
+      {
+        "id": "18422",
+        "label": "夏黄文",
+        "info": "煌帝国皇女・練紅玉の付き人で、共に迷宮を攻略した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/7f/18422_crt_IUYJJ.jpg",
+        "link": "https://bgm.tv/character/18422",
+        "categorie": "person"
+      },
+      {
+        "id": "23831",
+        "label": "莎赫扎德",
+        "info": "魔笛Magi中的四个magi之一，名字来源于一千零一夜的女主角。虽然外表上看上去是一个金发萝莉，可真实年龄已经268岁了。用心守护雷姆帝国。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/91/23831_crt_4oKEN.jpg?r=1473068866",
+        "link": "https://bgm.tv/character/23831",
+        "categorie": "person"
+      },
+      {
+        "id": "24493",
+        "label": "多拉公",
+        "info": "辛德利亚八人将之一。辛巴德最初的眷属。原名德拉库尔‧瑙鲁‧赫利乌斯‧戈比亚斯‧梅努迪亚斯‧帕尔努波诺米亚斯‧多米德‧奥乌斯‧克尔塔诺恩。因为名字太长了直接被辛巴德简称为多拉公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/2c/24493_crt_w221j.jpg",
+        "link": "https://bgm.tv/character/24493",
+        "categorie": "person"
+      },
+      {
+        "id": "24508",
+        "label": "雅姆莱哈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/88/24508_crt_JjI8t.jpg",
+        "link": "https://bgm.tv/character/24508",
+        "categorie": "person"
+      },
+      {
+        "id": "18417",
+        "label": "拉吉德·沙尔贾",
+        "info": "第22代バルバッド国王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/b8/18417_crt_TXpvh.jpg",
+        "link": "https://bgm.tv/character/18417",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

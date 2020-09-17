@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35131",
+        "label": "中林义贵",
+        "info": "本作品的主角。14岁，继承死于车祸的双亲所留下的庞大遗产的一个孤伶伶的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/9c/35131_crt_Gygjg.jpg",
+        "link": "https://bgm.tv/character/35131",
+        "categorie": "person"
+      },
+      {
+        "id": "8203",
+        "label": "泽渡泉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/ff/8203_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8203",
+        "categorie": "person"
+      },
+      {
+        "id": "8189",
+        "label": "泽渡美月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/18/8189_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8189",
+        "categorie": "person"
+      },
+      {
+        "id": "35132",
+        "label": "仓内安奈",
+        "info": "因为天生容易误会，所以本身是喜欢上义贵，但是被泉一心阻止，不让义贵有机会向安奈伸出魔爪的这份的心有所动摇，而转移喜欢上泉的女生。现在为了要跟泉在一起而成为中林家的女佣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/8a/35132_crt_9RBMJ.jpg?r=1440740858",
+        "link": "https://bgm.tv/character/35132",
+        "categorie": "person"
+      },
+      {
+        "id": "67226",
+        "label": "波奇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/f0/67226_crt_a8ZAG.jpg",
+        "link": "https://bgm.tv/character/67226",
+        "categorie": "person"
+      },
+      {
+        "id": "8990",
+        "label": "久米伸治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/65/8990_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8990",
+        "categorie": "person"
+      },
+      {
+        "id": "8991",
+        "label": "沢渡かりん",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/ac/8991_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8991",
+        "categorie": "person"
+      },
+      {
+        "id": "8992",
+        "label": "エレン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/ee/8992_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8992",
+        "categorie": "person"
+      },
+      {
+        "id": "10212",
+        "label": "沢渡父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/cd/10212_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10212",
+        "categorie": "person"
+      },
+      {
+        "id": "10213",
+        "label": "中林父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/9c/10213_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/10213",
+        "categorie": "person"
+      },
+      {
+        "id": "67274",
+        "label": "杉田多可美",
+        "info": "富める家の令嬢で尊大なSだが、漫画版に於いてはみつきに（Mの）親衛隊を奪われたばかりか、家自体がみつきによって破産に追いやられ、義貴の家でメイド（事実上の債務奴隷）をしたことがある。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67274",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

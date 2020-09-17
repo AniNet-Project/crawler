@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19451",
+        "label": "並河",
+        "info": "前辈属性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/c7/19451_crt_dPXH6.jpg?r=1364200058",
+        "link": "https://bgm.tv/character/19451",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

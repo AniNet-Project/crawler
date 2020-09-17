@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8092",
+        "label": "柾木天地",
+        "info": "本作の主人公。岡山県立倉敷西高等学校に通うごく平凡な高校生だったが、柾木神社の祠に封印されていたミイラ化した鬼（正体は魎呼）を解放してしまったことがきっかけとなり、超常現象と女難の日々を味わうことに。さまざまな経緯を経て、自らが銀河連合最大規模の勢力を誇る王政国家“樹雷”の四大皇家のひとつ、柾木家の直系（現樹雷皇の曾孫）であることを知る。その後、ある理由で高校を自主退学した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/6a/8092_crt_3yHG3.jpg",
+        "link": "https://bgm.tv/character/8092",
+        "categorie": "person"
+      },
+      {
+        "id": "27363",
+        "label": "川流桃",
+        "info": "順愛学園の生徒会長。正義感が強く、前向きで素直。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2c/27363_crt_rG922.jpg",
+        "link": "https://bgm.tv/character/27363",
+        "categorie": "person"
+      },
+      {
+        "id": "27364",
+        "label": "鬼之城红",
+        "info": "順愛学園科学部の用心棒。無口で豪気で強気な性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/e4/27364_crt_I1UHl.jpg",
+        "link": "https://bgm.tv/character/27364",
+        "categorie": "person"
+      },
+      {
+        "id": "27365",
+        "label": "ハチ子",
+        "info": "生徒会・監査。戦闘力担当。男気があり、覇気があるが、基本的に健気。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/bd/27365_crt_mYBN7.jpg",
+        "link": "https://bgm.tv/character/27365",
+        "categorie": "person"
+      },
+      {
+        "id": "27366",
+        "label": "沙流叶七",
+        "info": "生徒会・会計。司令塔担当。色気たっぷり。浮気な見た目とは裏腹に、実は合気の達人。視野が広く、状況を把握したり、空気を読むのが上手い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/00/27366_crt_w3O27.jpg",
+        "link": "https://bgm.tv/character/27366",
+        "categorie": "person"
+      },
+      {
+        "id": "27367",
+        "label": "笛山塔里",
+        "info": "生徒会・書記。頭脳担当。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/11/27367_crt_VYuTt.jpg",
+        "link": "https://bgm.tv/character/27367",
+        "categorie": "person"
+      },
+      {
+        "id": "7537",
+        "label": "柾木·阿重霞·树雷",
+        "info": "樹雷星の第一皇女。天地の大叔母。生理年齢20歳。実年齢およそ720歳。スリーサイズ、秘密。髪は本来、美砂樹や砂沙美と同じ質と色だが、遙照に気に入られようと現在の髪にした経緯がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/6d/7537_crt_Q9T9s.jpg",
+        "link": "https://bgm.tv/character/7537",
+        "categorie": "person"
+      },
+      {
+        "id": "7538",
+        "label": "魉呼",
+        "info": "元宇宙海賊。生理年齢17才。実年齢約5000歳。趣味 / 朝寝、朝酒、朝湯。鷲羽の卵子を使って作られた人工生命体（鷲羽の遺伝子上の娘であり、九羅密美雲の遺伝子上の妹）であり、鷲羽の（三命の頂神としての）記憶と能力を封印した3個の宝玉を持っていたが、遙照によって700年前に宝玉から切り離され、柾木神社の祠に封印されていた。天地が幼い頃にアストラル体だけ外に出ることができるようになり、それから解放されるまで10年以上の間、天地のことを見守っていた。男勝りで奔放な性格。天地のことが好きで、愛情表現もストレート。阿重霞とは恋敵関係にあり、口論が絶えない。かつて神我人に洗脳されて悪の傀儡となり、破壊と殺戮、略奪の限りを尽くした。そして皇家の樹の始祖「津名魅（つなみ）」奪取のため、樹雷本星を襲う。その結果、遥照に征伐されて地球の柾木神社の祠に封印されていたが、天地によって封印が解かれてしまい、自由の身になった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/c6/7538_crt_Uuw1u.jpg",
+        "link": "https://bgm.tv/character/7538",
+        "categorie": "person"
+      },
+      {
+        "id": "7539",
+        "label": "柾木砂沙美树雷",
+        "info": "樹雷の第二皇女で、阿重霞の妹。天地の大叔母。生理年齢8歳。実年齢多分708歳。スリーサイズ内緒。趣味 / 料理、魎皇鬼と遊ぶこと。天真爛漫な性格にして家事万能。初登場時は年相応の悪戯好きの少女であったが、柾木家に来てからは精神的に急成長を遂げ、明るく素直かつしっかり者になる。魎呼や阿重霞同様天地に思いを寄せている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/f5/7539_crt_8keuK.jpg?r=1471012694",
+        "link": "https://bgm.tv/character/7539",
+        "categorie": "person"
+      },
+      {
+        "id": "8100",
+        "label": "白眉鹫羽",
+        "info": "自称「宇宙一の天才科学者」。哲学士。外見は10代前半の少女と大人の女性の二通り（普段は前者）。「ちゃん」付けで呼ばれることを好み、相手に対しては「殿」を付けて呼ぶ。銀河アカデミーの設立者の一人。年齢は2万歳以上。魎呼と魎皇鬼の製作者（特に魎呼は鷲羽本人の卵子を利用しているため、いわば母親）である。また学生時代に結婚して夫・美醸との間に息子・美雲を産んでおり、その子孫が九羅密一族（美守・美瀾は孫、美兎跳は曾孫、美星・美咲生は玄孫）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/5e/8100_crt_3Wi7R.jpg",
+        "link": "https://bgm.tv/character/8100",
+        "categorie": "person"
+      },
+      {
+        "id": "27368",
+        "label": "布贺油木",
+        "info": "科学部部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/b3/27368_crt_rWlHH.jpg",
+        "link": "https://bgm.tv/character/27368",
+        "categorie": "person"
+      },
+      {
+        "id": "27369",
+        "label": "蓝井泪",
+        "info": "科学部部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/6a/27369_crt_YzwqF.jpg",
+        "link": "https://bgm.tv/character/27369",
+        "categorie": "person"
+      },
+      {
+        "id": "27370",
+        "label": "粟原有汉",
+        "info": "「弐年芝組」担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/d6/27370_crt_16ccg.jpg",
+        "link": "https://bgm.tv/character/27370",
+        "categorie": "person"
+      },
+      {
+        "id": "44350",
+        "label": "九羅密美星",
+        "info": "GP（ギャラクシーポリス）1級刑事。偶然の天才との異名をとり、彼女の周囲では、なぜか普通ならありえないようなことばかり起きる。かなりの天然ボケで、数々のトラブルの原因になることもあり、柾木家の家屋も度々壊している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/70/44350_crt_CJWjD.jpg",
+        "link": "https://bgm.tv/character/44350",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

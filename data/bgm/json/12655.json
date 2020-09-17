@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15905",
+        "label": "相田由瑠目",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/36/15905_crt_b5XWa.jpg",
+        "link": "https://bgm.tv/character/15905",
+        "categorie": "person"
+      },
+      {
+        "id": "15906",
+        "label": "田中久美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/36/15906_crt_g9z9E.jpg",
+        "link": "https://bgm.tv/character/15906",
+        "categorie": "person"
+      },
+      {
+        "id": "15907",
+        "label": "川野纱江",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/ff/15907_crt_InBjJ.jpg",
+        "link": "https://bgm.tv/character/15907",
+        "categorie": "person"
+      },
+      {
+        "id": "15908",
+        "label": "松吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/37/15908_crt_vkZ97.jpg",
+        "link": "https://bgm.tv/character/15908",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

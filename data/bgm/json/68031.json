@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19511",
+        "label": "加贺香子",
+        "info": "法学院法律学科1年生。全身的容姿都是一副完美大小姐的样子。小学一年级时与光央相遇。而她也与光央在小学时下了结婚的约定。与光央进了同一所大学后，一直被光央回避著。因此她就找上身为光央朋友的万里，问他光央的行程、选课、社团等，但万里为了不背叛光央，所以都一律不说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/4b/19511_crt_hpFt7.jpg",
+        "link": "https://bgm.tv/character/19511",
+        "categorie": "person"
+      },
+      {
+        "id": "19521",
+        "label": "多田万里",
+        "info": "东京的私立大学法学院法律学科1年级生。实际上老家在静冈，但只身到东京来就读大学。高中毕业那时掉落住宅附近的桥下，丧失记忆，他也因此晚了一年读大学，现在19岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/d9/19521_crt_QGP7b.jpg",
+        "link": "https://bgm.tv/character/19521",
+        "categorie": "person"
+      },
+      {
+        "id": "20183",
+        "label": "林田奈奈",
+        "info": "自称“琳达”。是祭研（日本祭事文化研究会）社团的一员，二年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/65/20183_crt_o1wPH.jpg",
+        "link": "https://bgm.tv/character/20183",
+        "categorie": "person"
+      },
+      {
+        "id": "19522",
+        "label": "柳泽光央",
+        "info": "法学院法律学科1年级生。大学入学式后，在前往入学说明会的路上迷路，并遇上同为迷路的万里，成为朋友。通称“小柳”。万里则以“柳兄”称呼他。小学到高中，就读的均是东京某所非常有名的私立大学附属学校。但他为了逃离香子的魔掌，报考了其他的大学。与万里在东京的家有三站电车的距离。他的父母对于他不直升大学相当不满，因此仅提供他学费及住宿费（住高级公寓），其余伙食费用等均要光央自己打工支付。偶尔会向万里要一些食物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/4d/19522_crt_0P9v5.jpg",
+        "link": "https://bgm.tv/character/19522",
+        "categorie": "person"
+      },
+      {
+        "id": "19523",
+        "label": "冈千波",
+        "info": "电影研究社的女社员。声音听起来很像美少女动画里的小女孩声音。而表面的个性、娇小的身形也正好符合她的声音，实际上是个腹黑女。与光央的关系良好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/fc/19523_crt_jn220.jpg?r=1431406002",
+        "link": "https://bgm.tv/character/19523",
+        "categorie": "person"
+      },
+      {
+        "id": "21947",
+        "label": "佐藤隆哉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/d3/21947_crt_VZ985.jpg",
+        "link": "https://bgm.tv/character/21947",
+        "categorie": "person"
+      },
+      {
+        "id": "21946",
+        "label": "Nana先輩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/2a/21946_crt_OiIsn.jpg",
+        "link": "https://bgm.tv/character/21946",
+        "categorie": "person"
+      },
+      {
+        "id": "35803",
+        "label": "小沙绪",
+        "info": "茶道部に所属する大学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/66/35803_crt_J3bEn.jpg",
+        "link": "https://bgm.tv/character/35803",
+        "categorie": "person"
+      },
+      {
+        "id": "35802",
+        "label": "小静",
+        "info": "茶道部に所属する大学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/be/35802_crt_21Jgo.jpg",
+        "link": "https://bgm.tv/character/35802",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "21561",
+        "label": "黑白小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4f/21561_crt_JzWqM.jpg?r=1436995149",
+        "link": "https://bgm.tv/character/21561",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

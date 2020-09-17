@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1038",
+        "label": "托雷·哈特涅特",
+        "info": "外号“黑猫”的托雷为地下世界里令人闻风丧胆的传奇性杀手，枪法如神，典型的冷血杀手。十岁时父母被杀，一边学习杀人技巧，一边伺机报仇。而后在卡尔的关系加入克罗诺斯，成为克罗诺斯的杀手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/70/1038_97i94.jpg",
+        "link": "https://bgm.tv/character/1038",
+        "categorie": "person"
+      },
+      {
+        "id": "1039",
+        "label": "史恩·波尔菲德",
+        "info": "托雷的拍挡史恩是一位风度翩翩的绅士，外表温文有礼，谈吐得体，以自己所谓的“绅士道”做为生活原则。手上的公事包为自己特制，内有许多枪械与机关。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ed/1039_8A21T.jpg",
+        "link": "https://bgm.tv/character/1039",
+        "categorie": "person"
+      },
+      {
+        "id": "1040",
+        "label": "琳斯雷特·沃克",
+        "info": "恶名昭彰的小偷中介人，因打算侵入托鲁涅欧的宅邸，初次与史恩和托雷合作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/f3/1040_crt_934f5.jpg",
+        "link": "https://bgm.tv/character/1040",
+        "categorie": "person"
+      },
+      {
+        "id": "1041",
+        "label": "伊芙",
+        "info": "透过奈米技术及复制而成的伊芙，生来就被培养成杀人武器，但直至遇上史恩，意志开始在伊芙的内心萌发，后来在托雷与史恩的活跃下才获得自由，之后因希望能帮上史恩的忙而跟其一同旅行。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/36/1041_Qxmfp.jpg",
+        "link": "https://bgm.tv/character/1041",
+        "categorie": "person"
+      },
+      {
+        "id": "1042",
+        "label": "水无月沙耶",
+        "info": "赏金女猎人，穿着日式和服的年轻少女，也是令托雷退出克罗诺斯的人物，非常喜欢喝牛奶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/86/1042_crt_G8n18.jpg",
+        "link": "https://bgm.tv/character/1042",
+        "categorie": "person"
+      },
+      {
+        "id": "1043",
+        "label": "库利得 迪斯肯特",
+        "info": "星之使徒的首领，能力是“sword”（刀），武器是“幻想虎彻”（Imagine Blade）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/a8/1043_crt_pjPaQ.jpg",
+        "link": "https://bgm.tv/character/1043",
+        "categorie": "person"
+      },
+      {
+        "id": "1117",
+        "label": "赛菲莉亚·亚克斯",
+        "info": "统领时间守护者的年轻主将。对任何人都很好，个性小心谨慎；不过为了达成任务，无论任何牺牲都在所不辞，同时具有冷酷的一面。装备是长刀〝库拉伊斯特〞。动画结局为担任克罗诺斯主导者继续为保护世界和平努力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/55/1117_crt_Aj4Vu.jpg",
+        "link": "https://bgm.tv/character/1117",
+        "categorie": "person"
+      },
+      {
+        "id": "1118",
+        "label": "贝尔杰·罗希福尔",
+        "info": "时间守护者的副队长。外表看似严肃，其实有着替人着想的温柔。对克罗诺斯十分忠诚，但对身为叛徒的托雷毫无敌意。使用的武器为长枪〝滚滚尼尔〞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/49/1118_crt_449J3.jpg",
+        "link": "https://bgm.tv/character/1118",
+        "categorie": "person"
+      },
+      {
+        "id": "1119",
+        "label": "克兰兹·马多克",
+        "info": "从出生就被以守护者的姿态施予战斗教育。虽然在几年前的战斗中失去视力，但是深信唯有战斗才能够证明自己存在的他，开发出借由感受“声音”与“空气”的战术，武器是超音速震动小刀“战神”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/9a/1119_crt_iXKjr.jpg",
+        "link": "https://bgm.tv/character/1119",
+        "categorie": "person"
+      },
+      {
+        "id": "1120",
+        "label": "奈萨·布莱凯玛",
+        "info": "赛伯拉斯的领队。赛伯拉斯是由近距离攻击的奈萨，中距离攻击的杰诺斯、及远距离攻击的贝鲁迦所组成，是重视攻击力‧突破能力的部队。武器是拐子“迪欧斯库洛伊”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/97/1120_crt_GG77t.jpg",
+        "link": "https://bgm.tv/character/1120",
+        "categorie": "person"
+      },
+      {
+        "id": "1121",
+        "label": "杰诺斯·哈萨德",
+        "info": "糸を使う時の番人（クロノ・ナンバーズ）NO.VII。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/75/1121_crt_sjhjr.jpg",
+        "link": "https://bgm.tv/character/1121",
+        "categorie": "person"
+      },
+      {
+        "id": "1122",
+        "label": "巴鲁多利亚斯·S·芬基尼",
+        "info": "「クロノナンバーズ」（時の番人）No.VIII。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/8b/1122_crt_khzky.jpg",
+        "link": "https://bgm.tv/character/1122",
+        "categorie": "person"
+      },
+      {
+        "id": "3555",
+        "label": "雾崎恭子",
+        "info": "星之使徒的成员之一，主要与夏登一同行动。是位17岁的日本女学生。个性十分开朗，想做什么就做什么。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/60/3555_crt_vXa5h.jpg",
+        "link": "https://bgm.tv/character/3555",
+        "categorie": "person"
+      },
+      {
+        "id": "41552",
+        "label": "特比德",
+        "info": "「クロノナンバーズ」（時の番人）ののIX＜ナイン＞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/7e/41552_crt_J81sK.jpg",
+        "link": "https://bgm.tv/character/41552",
+        "categorie": "person"
+      },
+      {
+        "id": "41553",
+        "label": "亚许",
+        "info": "ナイザーと共にクリードの始末にあたる「クロノナンバーズ」（時の番人）のNO.X。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/80/41553_crt_5H54Z.jpg",
+        "link": "https://bgm.tv/character/41553",
+        "categorie": "person"
+      },
+      {
+        "id": "41554",
+        "label": "林·夏欧利",
+        "info": "「クロノナンバーズ」（時の番人）No.X・アッシュの後任としてナンバーズに加わった人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/8c/41554_crt_qFWrR.jpg",
+        "link": "https://bgm.tv/character/41554",
+        "categorie": "person"
+      },
+      {
+        "id": "41555",
+        "label": "贝鲁迦·J·哈特",
+        "info": "赛伯拉斯部队中的炮手。使用武器是火箭筒“乌鲁斯拉古那”。因为携带武器的关系，参加的任务大多是与敌对组织抗争或是国际间的纠纷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b9/41555_crt_KzVw7.jpg",
+        "link": "https://bgm.tv/character/41555",
+        "categorie": "person"
+      },
+      {
+        "id": "41557",
+        "label": "梅索·奥尔特罗索",
+        "info": "クロノナンバーズ（時の番人） No.XIIの老人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/f3/41557_crt_X05Fo.jpg",
+        "link": "https://bgm.tv/character/41557",
+        "categorie": "person"
+      },
+      {
+        "id": "41559",
+        "label": "艾米利欧·罗威",
+        "info": "「クロノナンバーズ」（時の番人）のNo.III＜スリー＞",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/e6/41559_crt_4GFQI.jpg",
+        "link": "https://bgm.tv/character/41559",
+        "categorie": "person"
+      },
+      {
+        "id": "41560",
+        "label": "艾基多娜·帕拉斯",
+        "info": "星之使徒的成员之一，原本是知名的电影女星，后来到库利得·迪斯肯斯的身边，成为他重要的左右手，十分坦护库利得·迪斯肯斯。能力是“空间转移”，能开一个次元洞在空间之中穿梭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/7d/41560_crt_5qNVj.jpg",
+        "link": "https://bgm.tv/character/41560",
+        "categorie": "person"
+      },
+      {
+        "id": "41561",
+        "label": "希奇",
+        "info": "星之使徒的成员之一，原本是异大陆的道之高手，加入星之使徒是为了证明道是最强的战斗术。具有将道能力激发出来的神气汤的精制知识。能力是“insect”操虫术，能将本身的气加以物质化，如傀儡蜂借由叮咬可以操纵对方身体、战斗魔虫\"刹鬼\"则是专长于杀敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/dc/41561_crt_p58m5.jpg",
+        "link": "https://bgm.tv/character/41561",
+        "categorie": "person"
+      },
+      {
+        "id": "41562",
+        "label": "马洛",
+        "info": "星之使徒的成员之一，造型类似日本的相扑选手。与希奇相同是异大陆的道之高手，能力是“Gravity”重力，形成高重力空间，拥有重力壁、重力张手等技巧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/57/41562_crt_N9uGx.jpg?r=1572138066",
+        "link": "https://bgm.tv/character/41562",
+        "categorie": "person"
+      },
+      {
+        "id": "41563",
+        "label": "夏登·法兰贝鲁克",
+        "info": "星之使徒的成员之一，主要与恭子一同行动。头戴着一顶黑色大礼帽、身穿黑色大衣，脸上戴着墨镜，墨镜下的他其实十分帅。喜爱看恐怖小说和电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/e6/41563_crt_66Mz9.jpg",
+        "link": "https://bgm.tv/character/41563",
+        "categorie": "person"
+      },
+      {
+        "id": "41564",
+        "label": "里昂·艾略特",
+        "info": "星の使徒のメンバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/45/41564_crt_82872.jpg",
+        "link": "https://bgm.tv/character/41564",
+        "categorie": "person"
+      },
+      {
+        "id": "41565",
+        "label": "神崎幸助",
+        "info": "原作とアニメ版ではその行動原理が大きく異なるが、人間をゴミとしか見ていない価値観は共通している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/5b/41565_crt_lq1qK.jpg",
+        "link": "https://bgm.tv/character/41565",
+        "categorie": "person"
+      },
+      {
+        "id": "41566",
+        "label": "杜兰·葛拉斯达",
+        "info": "星之使徒的成员之一。独自一人行动。能力是“Shot”射击，能将自己的气打入爱枪，以子弹的形式发射出去。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/62/41566_crt_1B1yB.jpg",
+        "link": "https://bgm.tv/character/41566",
+        "categorie": "person"
+      },
+      {
+        "id": "41568",
+        "label": "普雷塔·古尔",
+        "info": "原为神父，却是个连续杀人魔。具有腐蚀的能力，能将接触到的物体腐蚀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/5d/41568_crt_P278T.jpg",
+        "link": "https://bgm.tv/character/41568",
+        "categorie": "person"
+      },
+      {
+        "id": "41569",
+        "label": "利巴·萨斯托利",
+        "info": "奖金猎人，不管什么事都一定要做到心安理得才肯罢休的人，经常会太过投入而做过头。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/ee/41569_crt_t255v.jpg",
+        "link": "https://bgm.tv/character/41569",
+        "categorie": "person"
+      },
+      {
+        "id": "41572",
+        "label": "席尔菲·迪亚库洛芙特",
+        "info": "参与奖金猎人同盟中除了伊芙外唯一的女性。从事奖金猎人的工作已经6年，由于父亲是奖金猎人，从小就被传授相关技术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/8e/41572_crt_R6k78.jpg",
+        "link": "https://bgm.tv/character/41572",
+        "categorie": "person"
+      },
+      {
+        "id": "41574",
+        "label": "安妮特·皮尔斯",
+        "info": "カフェ「ケット.シー」の女店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ae/41574_crt_RrS88.jpg",
+        "link": "https://bgm.tv/character/41574",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

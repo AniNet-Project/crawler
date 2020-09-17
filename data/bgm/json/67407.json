@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11257",
+        "label": "艾利由西亚·D·鲁德·伊玛",
+        "info": "新恶魔，隶属于地狱的冥界法治省极东支局的“驱魂队”，阶级为三等公务魔。在进入驱魂队之前当了300年的地狱扫除人员，目前是驱魂队的新人。头上戴有骷髅的发饰，这个发饰也是驱魂探测器，身上缠着的羽衣可以变化成各种东西，覆盖自己可以隐藏气息不让他人查觉。总是随身带着一把扫把，因为一旦离开身边会感到不自在。300年的扫除经验让艾鲁西会习惯性的打扫且技术非常完美。有着傻乎乎的性格，既冒失有时候还是个爱哭鬼，令桂马曾对恶魔有很强烈的误解，桂马将她称为“BUG恶魔”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/a2/11257_crt_ZbdIO.jpg?r=1378924067",
+        "link": "https://bgm.tv/character/11257",
+        "categorie": "person"
+      },
+      {
+        "id": "11259",
+        "label": "中川奏音",
+        "info": "　　舞岛学园高中2年B组的女高中生，16岁的现役新人偶像。桂马在现实世界的第三个攻略对象。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/1c/11259_crt_2G1CU.jpg?r=1378924332",
+        "link": "https://bgm.tv/character/11259",
+        "categorie": "person"
+      },
+      {
+        "id": "780",
+        "label": "桂木桂马",
+        "info": "外号“攻陷之神（落とし神）”的Galgame达人高中生。到目前为止已攻下10000名女角，玩的游戏接近5000部。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/33/780_crt_FtRvo.jpg?r=1378924028",
+        "link": "https://bgm.tv/character/780",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

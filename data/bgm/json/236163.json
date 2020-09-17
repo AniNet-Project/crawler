@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5383",
+        "label": "艾莉娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/78/5383_crt_anidb.jpg?r=1447530891",
+        "link": "https://bgm.tv/character/5383",
+        "categorie": "person"
+      },
+      {
+        "id": "5381",
+        "label": "爱莉",
+        "info": "沼地の魔女の手下の一人。OVA（美しき闘士たち）の第3話から第5話では主人公的な役回りとして描かれている。沼地の魔女の手下として悪行を行っていたが、心優しいラナに出会ってからは心に迷いが生じ、沼地の魔女の手下である本来の自分との葛藤に悩む事となる。最終的に沼地の魔女の手下の一員に戻るが、ガイノスでの活動を行っていないためリベリオンには登場しなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/4a/5381_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5381",
+        "categorie": "person"
+      },
+      {
+        "id": "64237",
+        "label": "艾奇多娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/d4/64237_crt_dukU5.jpg",
+        "link": "https://bgm.tv/character/64237",
+        "categorie": "person"
+      },
+      {
+        "id": "20821",
+        "label": "诺瓦",
+        "info": "アレインの一番弟子で、アンネロッテの姉弟子にあたる存在。クイーンズブレイド終了後アレインと暫く一緒に旅をしていたが、師から独立したいという自身の気持ちを打ち明けて別れを告げ、独り旅立った。相棒はルー（声 - 水橋かおり）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/85/20821_crt_wuch9.jpg",
+        "link": "https://bgm.tv/character/20821",
+        "categorie": "person"
+      },
+      {
+        "id": "5469",
+        "label": "梅尔法",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/62/5469_crt_0UaRS.jpg",
+        "link": "https://bgm.tv/character/5469",
+        "categorie": "person"
+      },
+      {
+        "id": "3923",
+        "label": "娜娜艾露",
+        "info": "负责直播“Queen`s Blade”比赛的天使之一，后被天使长派遣与流浪战士 蕾娜一同旅行，并在之后参加“Queen`s Blade”以防比赛被沼地魔女破坏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/f0/3923_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3923",
+        "categorie": "person"
+      },
+      {
+        "id": "3922",
+        "label": "库洛德",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/0e/3922_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3922",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

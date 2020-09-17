@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22106",
+        "label": "爱莉卡·梦宮",
+        "info": "主人公の少女。ガレリア辺境自治区出身の田舎娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/4f/22106_crt_sn55G.jpg",
+        "link": "https://bgm.tv/character/22106",
+        "categorie": "person"
+      },
+      {
+        "id": "6438",
+        "label": "诗帆·尤伊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/71/6438_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6438",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

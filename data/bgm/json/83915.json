@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19978",
+        "label": "菲诺·布拉德斯通",
+        "info": "　　魔王の娘。魔王が倒されたためラウルの勤務するマジックショップ・レオン王都店でアルバイトとして働くことになった。最初はラウルに男だと勘違いされていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/bc/19978_crt_z8ZjQ.jpg",
+        "link": "https://bgm.tv/character/19978",
+        "categorie": "person"
+      },
+      {
+        "id": "19979",
+        "label": "劳尔·切萨",
+        "info": "　　本作の主人公で元勇者志望。そして歴代勇者（勇者試験歴代首席合格者）とその業績を完全暗記し空で言えるほどの勇者オタク。そのハマりっぷりから実は故郷では変人扱いだった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/7e/19979_crt_J9zJY.jpg",
+        "link": "https://bgm.tv/character/19979",
+        "categorie": "person"
+      },
+      {
+        "id": "50979",
+        "label": "ミュリ・チェイサー",
+        "info": "男主妹妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/d9/50979_crt_68nt7.jpg",
+        "link": "https://bgm.tv/character/50979",
+        "categorie": "person"
+      },
+      {
+        "id": "19980",
+        "label": "艾莉·欧尔提尼特",
+        "info": "　　ラウルの勇者予備校時代のライバルの美少女。優秀で「オールA」のアイリと呼ばれていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/c1/19980_crt_ML50W.jpg",
+        "link": "https://bgm.tv/character/19980",
+        "categorie": "person"
+      },
+      {
+        "id": "50978",
+        "label": "拉姆·提米亚德·雅克赛梅梦露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/b2/50978_crt_IH3hZ.jpg",
+        "link": "https://bgm.tv/character/50978",
+        "categorie": "person"
+      },
+      {
+        "id": "50980",
+        "label": "艾尔莎·库尔夏尔",
+        "info": "魔法商店·雷昂王都店隔壁的便利商店店员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/9b/50980_crt_b821b.jpg",
+        "link": "https://bgm.tv/character/50980",
+        "categorie": "person"
+      },
+      {
+        "id": "50981",
+        "label": "萝亚·贝利费拉尔",
+        "info": "雷昂王都店的打工店员，主要负责送货及上门维修，因此平常都不在店里。擅长为硬件维修而非魔法构筑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/3d/50981_crt_htCir.jpg",
+        "link": "https://bgm.tv/character/50981",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24421",
+        "label": "リオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/8b/24421_crt_LGECC.jpg?r=1397692445",
+        "link": "https://bgm.tv/character/24421",
+        "categorie": "person"
+      },
+      {
+        "id": "58330",
+        "label": "マイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/9e/58330_crt_Zl5MV.jpg",
+        "link": "https://bgm.tv/character/58330",
+        "categorie": "person"
+      },
+      {
+        "id": "58331",
+        "label": "ザック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/d7/58331_crt_5dPih.jpg",
+        "link": "https://bgm.tv/character/58331",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

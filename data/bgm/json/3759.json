@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25657",
+        "label": "毛野本茶茶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/ac/25657_crt_9s9yT.jpg",
+        "link": "https://bgm.tv/character/25657",
+        "categorie": "person"
+      },
+      {
+        "id": "25658",
+        "label": "东深冬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/cb/25658_crt_39OO7.jpg",
+        "link": "https://bgm.tv/character/25658",
+        "categorie": "person"
+      },
+      {
+        "id": "25659",
+        "label": "学生会长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/4e/25659_crt_906ls.jpg",
+        "link": "https://bgm.tv/character/25659",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

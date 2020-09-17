@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18197",
+        "label": "石原浪花",
+        "info": "高校1年生。家庭の事情で大阪で暮らしていたが、高校進学をきっかけに兄・京介のいる東京に10年ぶりに戻り、彼と暮らし始める。大阪暮らしが長かったせいか、性格が「大阪おかん（大阪のお母ちゃん）」になっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/03/18197_crt_ug2Ay.jpg",
+        "link": "https://bgm.tv/character/18197",
+        "categorie": "person"
+      },
+      {
+        "id": "18198",
+        "label": "石原京介",
+        "info": "浪花の兄。高校2年生。再会した妹の変わり様に、驚きの色を隠せないでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/bb/18198_crt_9SScD.jpg",
+        "link": "https://bgm.tv/character/18198",
+        "categorie": "person"
+      },
+      {
+        "id": "18199",
+        "label": "楓",
+        "info": "浪花の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/ad/18199_crt_1E9e4.jpg",
+        "link": "https://bgm.tv/character/18199",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

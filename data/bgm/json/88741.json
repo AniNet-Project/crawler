@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27248",
+        "label": "赫尔曼·路易斯",
+        "info": "絶影騎士・ゾロに変身して戦う壮年の男性。暴走しがちなレオンを父としての立場から見守り育てると同時に、魔戒騎士の修行を付けてきた師匠でもある。自身は豪放磊落で女好き。しばしば「破戒」的な行動を取ることもあるが、キメる時はキメる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/4e/27248_crt_TaK75.jpg?r=1413330869",
+        "link": "https://bgm.tv/character/27248",
+        "categorie": "person"
+      },
+      {
+        "id": "27382",
+        "label": "雷恩·路易斯",
+        "info": "黄金騎士・ガロとなって戦う17歳の魔戒騎士。かつて魔戒法師であった母・アンナが炎に焼かれながら産み落とした。「炎の記憶」は生きる原動力であると同時に、怒りと復讐が混じりあった黒い感情の源泉でもある。そのため、時に我を忘れて暴走する危険を常に孕んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/d0/27382_crt_7339j.jpg?r=1413330658",
+        "link": "https://bgm.tv/character/27382",
+        "categorie": "person"
+      },
+      {
+        "id": "27383",
+        "label": "阿方索·圣·瓦里安蒂",
+        "info": "ヴァリアンテの王子だった20歳の青年。メンドーサに祖国を追われたことをきっかけとして、「光の騎士」を捜すことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/0f/27383_crt_8Rii6.jpg?r=1413330536",
+        "link": "https://bgm.tv/character/27383",
+        "categorie": "person"
+      },
+      {
+        "id": "27384",
+        "label": "艾玛·古斯曼",
+        "info": "女魔戒法師。他人にはわからない秘めた理由から常に単独行動を取る。魔戒騎士を嫌気し、レオンやヘルマンと衝突する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/3b/27384_crt_z322N.jpg?r=1413330760",
+        "link": "https://bgm.tv/character/27384",
+        "categorie": "person"
+      },
+      {
+        "id": "28251",
+        "label": "拉斐尔·梵谛拉斯",
+        "info": "堅陣騎士ガイアの称号を持つ。先代の黄金騎士（レオンの祖父）と交流があった。魔戒騎士としての術を鎧と共に弟子となるアルフォンソに継承した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/07/28251_crt_GqV7J.jpg",
+        "link": "https://bgm.tv/character/28251",
+        "categorie": "person"
+      },
+      {
+        "id": "28252",
+        "label": "贝纳多",
+        "info": "元魔戒騎士。１７年前、ある出来事で命を落とすが、メンドーサの術により暗黒騎士となり蘇った。ヘルマンとは因縁があるようだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/86/28252_crt_E9P0h.jpg",
+        "link": "https://bgm.tv/character/28252",
+        "categorie": "person"
+      },
+      {
+        "id": "29512",
+        "label": "拉拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/83/29512_crt_1BrRx.jpg",
+        "link": "https://bgm.tv/character/29512",
+        "categorie": "person"
+      },
+      {
+        "id": "30841",
+        "label": "曼多萨",
+        "info": "国王フェルナンドの側近。国王の病を魔女の呪いと偽り、大規模な魔女狩りを行い魔戒騎士や魔戒法師を虐殺した。ある目的のため、ホラーを操りヴァリアンテの実権を握る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/fc/30841_crt_VAOka.jpg",
+        "link": "https://bgm.tv/character/30841",
+        "categorie": "person"
+      },
+      {
+        "id": "36065",
+        "label": "加姆",
+        "info": "番犬所的神官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/08/36065_crt_V2f2u.jpg",
+        "link": "https://bgm.tv/character/36065",
+        "categorie": "person"
+      },
+      {
+        "id": "40364",
+        "label": "安娜·路易斯",
+        "info": "雷恩·路易斯之母，魔戒法师。因怀着雷恩时被当成魔女烧死于王宫火刑台，为魔戒骑士中的前任黄金骑士‧牙狼之女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/3f/40364_crt_8m6Im.jpg",
+        "link": "https://bgm.tv/character/40364",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

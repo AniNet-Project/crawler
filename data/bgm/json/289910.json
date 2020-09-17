@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "74555",
+        "label": "恐龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/5e/74555_crt_y4LAX.jpg",
+        "link": "https://bgm.tv/character/74555",
+        "categorie": "person"
+      },
+      {
+        "id": "74556",
+        "label": "枫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/53/74556_crt_rzTg6.jpg?r=1586716332",
+        "link": "https://bgm.tv/character/74556",
+        "categorie": "person"
+      },
+      {
+        "id": "74557",
+        "label": "山田",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/5e/74557_crt_gOQPH.jpg?r=1587534771",
+        "link": "https://bgm.tv/character/74557",
+        "categorie": "person"
+      },
+      {
+        "id": "74558",
+        "label": "前辈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/f1/74558_crt_D0RM3.jpg?r=1587902498",
+        "link": "https://bgm.tv/character/74558",
+        "categorie": "person"
+      },
+      {
+        "id": "74559",
+        "label": "翔太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/2e/74559_crt_77ZEk.jpg?r=1588519025",
+        "link": "https://bgm.tv/character/74559",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

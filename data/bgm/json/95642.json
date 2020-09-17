@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46409",
+        "label": "世田谷まり",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/d9/46409_crt_D14R1.jpg?r=1491005666",
+        "link": "https://bgm.tv/character/46409",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

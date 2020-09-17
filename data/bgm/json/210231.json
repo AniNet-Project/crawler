@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "445",
+        "label": "阎魔爱",
+        "info": "物語の主人公。普段はおとなしく目立たない少女だが、地獄少女に変身し、相手を地獄流しにする。普段は主にセーラー服で、地獄少女の時は着物姿になる。 怨みの相手を地獄流しにする“地獄少女”。地獄に流れていったが、人の世界に戻ってくる。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/b6/445_crt_Svvho.jpg?r=1392045953",
+        "link": "https://bgm.tv/character/445",
+        "categorie": "person"
+      },
+      {
+        "id": "448",
+        "label": "轮入道",
+        "info": "本当は車輪の形をした妖怪で、空を駆けるあいの乗り物になる。学校では校務員として働いている。（藁人形時：黒） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/ce/448_crt_vNNQM.jpg?r=1392046204",
+        "link": "https://bgm.tv/character/448",
+        "categorie": "person"
+      },
+      {
+        "id": "447",
+        "label": "骨女",
+        "info": "本来はガイコツの妖怪で、美女の姿をしている。色っぽいしぐさで男を誘惑するのが得意だが、サバサバした性格で、学校では体育教師・曽根アンナとして生徒達と接している。（藁人形時：赤） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/14/447_crt_Y1vAR.jpg?r=1392046052",
+        "link": "https://bgm.tv/character/447",
+        "categorie": "person"
+      },
+      {
+        "id": "446",
+        "label": "一目连",
+        "info": "原形为武士刀付丧神。平时通常化为身穿西装裤与运动夹克，发覆左眼的青年。他亲吻自己颈部的项链后会化为蓝色稻草人。平日遮住的左眼为一隐藏的眼睛，能在任何平面上窥探。听从爱的命令去收集情报。进行调查时，使用“石元连”的假名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/55/446_crt_403C0.jpg?r=1392046014",
+        "link": "https://bgm.tv/character/446",
+        "categorie": "person"
+      },
+      {
+        "id": "23522",
+        "label": "山童",
+        "info": "新しく地獄少女に使える妖怪で、普段はおとなしい少年。素直な性格で、きくりと一緒に行動することが多い。（藁人形時：黄） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/f5/23522_crt_EECzq.jpg",
+        "link": "https://bgm.tv/character/23522",
+        "categorie": "person"
+      },
+      {
+        "id": "4141",
+        "label": "菊里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/30/4141_crt_zKcj6.jpg?r=1392048899",
+        "link": "https://bgm.tv/character/4141",
+        "categorie": "person"
+      },
+      {
+        "id": "51861",
+        "label": "寒河江满",
+        "info": "あいの前に現れた少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/45/51861_crt_cXFX8.jpg",
+        "link": "https://bgm.tv/character/51861",
+        "categorie": "person"
+      },
+      {
+        "id": "6192",
+        "label": "柴田鸫",
+        "info": "一の娘。母親はおらず二人で生活している。そのため大人びた態度や物言いをするが本当は寂しがり屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/f0/6192_crt_w9U3w.jpg?r=1392046390",
+        "link": "https://bgm.tv/character/6192",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

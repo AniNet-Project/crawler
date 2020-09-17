@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48326",
+        "label": "富蔵愛実",
+        "info": "主人公・隆彦の妻。24歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d8/48326_crt_2Z13d.jpg",
+        "link": "https://bgm.tv/character/48326",
+        "categorie": "person"
+      },
+      {
+        "id": "48327",
+        "label": "富蔵彩花",
+        "info": "主人公・隆彦が少年時代に憧れていた女性。33歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/db/48327_crt_nm0ah.jpg",
+        "link": "https://bgm.tv/character/48327",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

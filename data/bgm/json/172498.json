@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22519",
+        "label": "和泉正宗",
+        "info": "一边上高中一边从事着小说家的工作。笔名是「和泉マサムネ」。不喜欢在网络上检索自己的作品或笔名之类的信息。有个家里蹲的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/87/22519_crt_VjsVF.jpg",
+        "link": "https://bgm.tv/character/22519",
+        "categorie": "person"
+      },
+      {
+        "id": "22520",
+        "label": "和泉纱雾",
+        "info": "和泉正宗的没有血缘关系的妹妹。因为一些原因过着基本上只有两人的同居生活。重度家里蹲，只要家里有其他人就不会从房间里出来。是以「エロマンガ先生」为笔名的插画家，喜欢画H的画",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/ec/22520_crt_93Kwl.jpg?r=1482927329",
+        "link": "https://bgm.tv/character/22520",
+        "categorie": "person"
+      },
+      {
+        "id": "22522",
+        "label": "山田妖精",
+        "info": "以山田妖精为笔名的轻小说作家，本名不明。轻小说销量是和泉正宗的10倍，自称大小说家（Greater Novelist）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/fd/22522_crt_X8PvI.jpg?r=1485610254",
+        "link": "https://bgm.tv/character/22522",
+        "categorie": "person"
+      },
+      {
+        "id": "31417",
+        "label": "千寿村征",
+        "info": "五官端正的和服少女。乍看是个凛然冷酷型的成熟女孩子，但实际上不过是天然呆罢了。对色情话题没有抵抗力，那超然的态度只要开个黄腔就会整个崩溃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/ae/31417_crt_wB3Z6.jpg",
+        "link": "https://bgm.tv/character/31417",
+        "categorie": "person"
+      },
+      {
+        "id": "22521",
+        "label": "神野恵",
+        "info": "和泉纱雾的同学。人际关系方面拥有最强实力的超级班长，喜欢交朋友，为此可以不惜劳苦。不管对方是竖起坚壁还是缩在门后，都会将其打破走进去的类型。纱雾的天敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/16/22521_crt_Yt8m8.jpg?r=1510724528",
+        "link": "https://bgm.tv/character/22521",
+        "categorie": "person"
+      },
+      {
+        "id": "32479",
+        "label": "高砂智惠",
+        "info": "正宗的同学。“高砂书店”的看板娘，知道正宗职业的异性朋友。正宗的超级粉丝。爱好轻小说本身，被小看的时候会发怒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/14/32479_crt_035Aa.jpg",
+        "link": "https://bgm.tv/character/32479",
+        "categorie": "person"
+      },
+      {
+        "id": "53271",
+        "label": "神乐坂菖蒲",
+        "info": "正宗やムラマサの担当編集の女性。血液型はO型。多数のヒット作を抱えるが、胡散臭い性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/5c/53271_crt_N36c6.jpg",
+        "link": "https://bgm.tv/character/53271",
+        "categorie": "person"
+      },
+      {
+        "id": "53272",
+        "label": "狮童国光",
+        "info": "正宗と同じ出版社で活動する男性新人作家。20歳。趣味はお菓子作り。ちょっとした誤解から、正宗を同性愛者だと長い間勘違いし、エロマンガ先生のことも「男」だと思い込んでいたが、第6巻の京香の捨て身のパフォーマンスのおかげで誤解は解けた模様。アルコールに弱く、酒に飲まれてしまうのが弱点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/52/53272_crt_eAWSH.jpg",
+        "link": "https://bgm.tv/character/53272",
+        "categorie": "person"
+      },
+      {
+        "id": "55108",
+        "label": "山田克里斯",
+        "info": "山田妖精的哥哥，任职于FULLDRIVE文库编辑部，也是山田妖精的责任编辑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/29/55108_crt_tv27I.jpg",
+        "link": "https://bgm.tv/character/55108",
+        "categorie": "person"
+      },
+      {
+        "id": "65340",
+        "label": "初代·埃罗芒阿老师",
+        "info": "和泉纱雾的生母。本名不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/b9/65340_crt_jBjJF.jpg?r=1533807606",
+        "link": "https://bgm.tv/character/65340",
+        "categorie": "person"
+      },
+      {
+        "id": "10473",
+        "label": "高坂桐乃",
+        "info": "《我的妹妹哪有这么可爱》（俺の妹がこんなに可爱いわけがない）男主角高坂京介的妹妹，出生于1997年,居住于千叶市,目前就读国中二年级。和平凡的哥哥相反，外表出众，在流行杂志担任模特儿赚了不少钱。不知不觉间爱上了萌系动画和美少女游戏（不分是不是限制级），喜欢逛かーずSP和アキバBlog等网志，常因此冲动购物。对旁人的眼光十分在意而不敢公开自己的兴趣而闷在心理，刚好此时装在“梅露露”盒子中的“和妹妹恋爱吧♪”被哥哥发现，虽然不是她的本意，但还是向哥哥商量该怎么办。 在京介的建议和陪同下参加了“宅女集合”的线下聚会。在参加夏Comi后回家时偶遇好友新垣绫濑，并且暴露了自己的兴趣，曾一度绝交。在京介的介入下得以和绫濑恢复关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/7d/10473_crt_8fBqf.jpg",
+        "link": "https://bgm.tv/character/10473",
+        "categorie": "person"
+      },
+      {
+        "id": "10700",
+        "label": "五更琉璃",
+        "info": "和沙织一样只用网络称呼－“黑猫（黒猫（くろねこ））”，而本名则在第五卷得知，但作为本作的旁白的京介，仍然称呼她为黑猫。而在“游戏研究会”时，社员都会叫她“五更”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/1c/10700_crt_cyfVo.jpg?r=1521396421",
+        "link": "https://bgm.tv/character/10700",
+        "categorie": "person"
+      },
+      {
+        "id": "10814",
+        "label": "高坂京介",
+        "info": "男主角，是个长着一张“一看就是日后在某个不知名的可怜企业当小小室长”（加奈子语）的大众脸，喜欢喝麦茶的高中二年级学生。作为本作最接近“现实真实感”的人物，对于观众来说应该是最能引起共鸣的一个角色了，也正如他所说：“做人平凡最好”。其人一个突出的地方就是具有很强大的语言辩论能力（原作中表现为无时无刻的吐槽），甚至还有相当推理的思维出现（与黑猫一起为妹妹解决手机小说被侵权问题）。一直以来莫名其妙的被妹妹藐视，并且两人话少得可怜，自从在门口捡到以“梅露露”为封套实际为18x内容的DVD后，得知妹妹的秘密（当夜就被妹妹桐乃抓去进行“人生商谈”），在后来的日子里便一直为妹妹遮风挡雨奔波劳碌，是个典型口硬心软的好哥哥。经常把H书藏在床底下，被妈妈发现过。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/6d/10814_crt_NYJ04.jpg",
+        "link": "https://bgm.tv/character/10814",
+        "categorie": "person"
+      },
+      {
+        "id": "11591",
+        "label": "槙岛沙织",
+        "info": "在作品中只用网络上的称呼－“沙织·巴吉纳（沙織・バジーナ（さおり・バジーナ））”，而本名则在第六卷得知。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/a1/11591_crt_1Sjtb.jpg?r=1366547529",
+        "link": "https://bgm.tv/character/11591",
+        "categorie": "person"
+      },
+      {
+        "id": "44564",
+        "label": "女仆",
+        "info": "TV版2话登场，秋叶原女仆。称高坂京介为“哥哥”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/d8/44564_crt_66xlZ.jpg",
+        "link": "https://bgm.tv/character/44564",
+        "categorie": "person"
+      },
+      {
+        "id": "44944",
+        "label": "三浦弦之介",
+        "info": "第4巻から登場（アニメでは第4話で初出場）。ゲーム研究会部長。2次元美少女を愛しており、部室には多数のフィギュアや18禁ゲームを持ちこんでいる。路上や教室でアダルトゲームを平然とプレイできる価値観の持ち主で、後輩の真壁からは「奇天烈な変人」「変態」と評されている。また製作したゲームはややクソゲーになる傾向があるが、本人はそれをむしろ肯定している節がある。何度も留年しており、少なくとも2年以上部長職に就いている。年齢不詳だがかなり老け顔。京介からは単に「部長」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/b1/44944_crt_8qb1F.jpg",
+        "link": "https://bgm.tv/character/44944",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1251",
+        "label": "青木大介",
+        "info": "中途来到双桥小学执教的23岁教师。至今恋爱经验稀少。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/85/1251_crt_U1uJe.jpg?r=1391862153",
+        "link": "https://bgm.tv/character/1251",
+        "categorie": "person"
+      },
+      {
+        "id": "1252",
+        "label": "九重凛",
+        "info": "小学三年级的女孩子。双桥小学3年级1班所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/99/1252_crt_K8LKE.jpg?r=1391862227",
+        "link": "https://bgm.tv/character/1252",
+        "categorie": "person"
+      },
+      {
+        "id": "1253",
+        "label": "镜黑",
+        "info": "凛、美美的同班同学及好友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/46/1253_crt_72vHb.jpg?r=1391862189",
+        "link": "https://bgm.tv/character/1253",
+        "categorie": "person"
+      },
+      {
+        "id": "1254",
+        "label": "宇佐美美",
+        "info": "头发很长，扎了两个麻花辫，带着黑框眼睛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/ab/1254_crt_N73v6.jpg?r=1391862168",
+        "link": "https://bgm.tv/character/1254",
+        "categorie": "person"
+      },
+      {
+        "id": "7734",
+        "label": "宝院京子",
+        "info": "青木隔壁3年级2班的教师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/37/7734_crt_anidb.jpg?r=1391862062",
+        "link": "https://bgm.tv/character/7734",
+        "categorie": "person"
+      },
+      {
+        "id": "7735",
+        "label": "九重零次",
+        "info": "与凛的母亲秋是堂弟的关系。父母由于事故去世，被秋领养期间与其成为恋人。秋死后与凛2人生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/14/7735_crt_anidb.jpg?r=1391862128",
+        "link": "https://bgm.tv/character/7735",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

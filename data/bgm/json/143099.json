@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28735",
+        "label": "箱根有基",
+        "info": "眉难高中一年级学生。自家经营着黑玉汤（温泉）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/19/28735_crt_1Piri.jpg?r=1420636632",
+        "link": "https://bgm.tv/character/28735",
+        "categorie": "person"
+      },
+      {
+        "id": "28736",
+        "label": "由布院烟",
+        "info": "眉难高中三年级学生。总是我行我素的邋遢的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/46/28736_crt_1eA55.jpg?r=1420636778",
+        "link": "https://bgm.tv/character/28736",
+        "categorie": "person"
+      },
+      {
+        "id": "28737",
+        "label": "鬼怒川热史",
+        "info": "眉难高中三年级学生。性格认真。由于认真的性格而总是忙于照顾由布院。眼镜男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/9a/28737_crt_Bbr0Z.jpg?r=1420636920",
+        "link": "https://bgm.tv/character/28737",
+        "categorie": "person"
+      },
+      {
+        "id": "28738",
+        "label": "鸣子硫黄",
+        "info": "眉难高中二年级学生。虽然是高中生却赚了不少外汇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/6d/28738_crt_yE589.jpg?r=1420637005",
+        "link": "https://bgm.tv/character/28738",
+        "categorie": "person"
+      },
+      {
+        "id": "28739",
+        "label": "藏王立",
+        "info": "眉难高中二年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/6e/28739_crt_PKPMP.jpg?r=1420637138",
+        "link": "https://bgm.tv/character/28739",
+        "categorie": "person"
+      },
+      {
+        "id": "28740",
+        "label": "翁巴特",
+        "info": "为了守护地球，从遥远的星球而来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/e0/28740_crt_lrb5j.jpg",
+        "link": "https://bgm.tv/character/28740",
+        "categorie": "person"
+      },
+      {
+        "id": "28741",
+        "label": "草津锦史郎",
+        "info": "眉难高中三年级学生。学生会会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/bd/28741_crt_0V80X.jpg?r=1420637379",
+        "link": "https://bgm.tv/character/28741",
+        "categorie": "person"
+      },
+      {
+        "id": "28742",
+        "label": "有马熏",
+        "info": "眉难高中三年级学生。学生会副会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/2b/28742_crt_ZFUAk.jpg?r=1420637538",
+        "link": "https://bgm.tv/character/28742",
+        "categorie": "person"
+      },
+      {
+        "id": "28743",
+        "label": "下吕阿古哉",
+        "info": "眉难高中二年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/e5/28743_crt_5n5o2.jpg?r=1420637676",
+        "link": "https://bgm.tv/character/28743",
+        "categorie": "person"
+      },
+      {
+        "id": "29252",
+        "label": "箱根強羅",
+        "info": "有基の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d0/29252_crt_FfElS.jpg",
+        "link": "https://bgm.tv/character/29252",
+        "categorie": "person"
+      },
+      {
+        "id": "41668",
+        "label": "别府月彦",
+        "info": "眉難高校2年生。謎多き転校生。別府日彦とは双子（兄）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/17/41668_crt_s7fAE.jpg",
+        "link": "https://bgm.tv/character/41668",
+        "categorie": "person"
+      },
+      {
+        "id": "41669",
+        "label": "别府日彦",
+        "info": "眉難高校2年生。謎多き転校生。別府月彦とは双子（弟）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/a5/41669_crt_29CYC.jpg",
+        "link": "https://bgm.tv/character/41669",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

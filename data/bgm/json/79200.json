@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20172",
+        "label": "七瀬桃花",
+        "info": "無自覚に兄を甘やかしてしまう、ひとつ年下の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/19/20172_crt_7KCyr.jpg",
+        "link": "https://bgm.tv/character/20172",
+        "categorie": "person"
+      },
+      {
+        "id": "20173",
+        "label": "七瀬理々奈",
+        "info": "口うるさいけれど面倒見も良い、ひとつ年下の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/cd/20173_crt_6c5II.jpg",
+        "link": "https://bgm.tv/character/20173",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

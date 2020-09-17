@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4894",
+        "label": "火乃香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/3d/4894_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4894",
+        "categorie": "person"
+      },
+      {
+        "id": "4895",
+        "label": "ボギー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/83/4895_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4895",
+        "categorie": "person"
+      },
+      {
+        "id": "4896",
+        "label": "ザンカン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/9a/4896_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4896",
+        "categorie": "person"
+      },
+      {
+        "id": "4897",
+        "label": "フィラ・マリーク",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/1a/4897_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4897",
+        "categorie": "person"
+      },
+      {
+        "id": "4899",
+        "label": "ローナ・ファウナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/44/4899_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4899",
+        "categorie": "person"
+      },
+      {
+        "id": "4900",
+        "label": "ジョーイ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/cf/4900_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4900",
+        "categorie": "person"
+      },
+      {
+        "id": "26351",
+        "label": "伊库斯",
+        "info": "砂漠の真っ只中で火乃香が出会った青年。外見は金髪で碧眼の優男だが、実は人類が初めて接触した（と浄眼機は語ったが、ハデスの生い立ちから疑問の声も上がっている）外宇宙からの知的生命体である。火乃香と最初に接触して以来、彼女と行動を共にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/87/26351_crt_rlJJ7.jpg?r=1407725798",
+        "link": "https://bgm.tv/character/26351",
+        "categorie": "person"
+      },
+      {
+        "id": "4898",
+        "label": "Gravestone",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/70/4898_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4898",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

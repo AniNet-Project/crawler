@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51408",
+        "label": "安琪莉可",
+        "info": "16歲。身高166cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/47/51408_crt_YyvY3.jpg?r=1503134861",
+        "link": "https://bgm.tv/character/51408",
+        "categorie": "person"
+      },
+      {
+        "id": "52761",
+        "label": "莱恩",
+        "info": "18歲。2月14日出生。水瓶座。A型。身高181cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/74/52761_crt_8ezan.jpg?r=1503134998",
+        "link": "https://bgm.tv/character/52761",
+        "categorie": "person"
+      },
+      {
+        "id": "53411",
+        "label": "尼克斯",
+        "info": "いつもおだやかで上品で落ち着いた大人の男性。26歳。篤志家兼自身もオーブハンターとして活動。新聞で主人公の浄化能力を見てオーブハンターに勧誘する。オーブハンターの活動拠点となる「陽だまり邸」の所有者。幼い頃から左目が弱く、モノクルを付けている。篤志家の活動からか街ではちょっとした有名人。戦闘は鞭で戦う。実は本当の年齢は高齢に当たるが、自身の体に宿っている違う存在（エレボス）の呪いによって年をとらない体となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/e2/53411_crt_I6Yiy.jpg?r=1503135124",
+        "link": "https://bgm.tv/character/53411",
+        "categorie": "person"
+      },
+      {
+        "id": "53534",
+        "label": "杰德",
+        "info": "純粋で心優しい青年。20歳。アルカディア中を笑顔にする為旅していたが、とある街で主人公達と出会い仲間になる。その優しさゆえ、しばしば女性に誤解されることも。特技はお菓子作り。戦闘はトンファーで戦う。その正体は、古代遺跡から発掘された唯一の人型のアーティファクト。対タナトス用戦闘ロボット＝ジャスパードール（J.D.）である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/d9/53534_crt_nCgVn.jpg?r=1503135214",
+        "link": "https://bgm.tv/character/53534",
+        "categorie": "person"
+      },
+      {
+        "id": "53676",
+        "label": "修格",
+        "info": "22歲。11月15日出生。天蝎座。O型。身高186cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/ff/53676_crt_wJrm0.jpg?r=1503135307",
+        "link": "https://bgm.tv/character/53676",
+        "categorie": "person"
+      },
+      {
+        "id": "54036",
+        "label": "卢涅",
+        "info": "15歲。10月6日出生。天秤座。AB型。身高165cm。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/53/54036_crt_U7Zm8.jpg?r=1503135452",
+        "link": "https://bgm.tv/character/54036",
+        "categorie": "person"
+      },
+      {
+        "id": "54577",
+        "label": "贝尔纳",
+        "info": "明るく快活な新聞記者。30歳。アルカディアの首都にある新聞社「ウォードン・タイムス」の記者。主人公達がある依頼を請負中に取材を申し込み、オーブハンターと交流を持つようになる。実は幼い頃の主人公が兄のように慕っていた青年で、主人公が身に付けているロケットペンダントを送ったのも彼である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/24/54577_crt_sGagS.jpg?r=1503135488",
+        "link": "https://bgm.tv/character/54577",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

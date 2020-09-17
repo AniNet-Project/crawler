@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14573",
+        "label": "夏洛克·雪莉福德",
+        "info": "ゲーム版のヒロイン。アニメ版のメイン主人公。ホームズ探偵学院の生徒であり、ミルキィホームズのメンバー。通称は「シャロ」。ミルキィホームズの名付け親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/f7/14573_crt_fA446.jpg",
+        "link": "https://bgm.tv/character/14573",
+        "categorie": "person"
+      },
+      {
+        "id": "14574",
+        "label": "柯蒂莉娅·歌萝卡",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバーで、4人のなかでは最年長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/1d/14574_crt_OZvc5.jpg",
+        "link": "https://bgm.tv/character/14574",
+        "categorie": "person"
+      },
+      {
+        "id": "14575",
+        "label": "艾露克露·伯顿",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバー。通称は「エリー」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/70/14575_crt_CMCXP.jpg",
+        "link": "https://bgm.tv/character/14575",
+        "categorie": "person"
+      },
+      {
+        "id": "14576",
+        "label": "让崎妮洛",
+        "info": "ゲーム版のヒロイン。アニメ版の主人公のひとり。ミルキィホームズのメンバー。ショートカットでボーイッシュな容姿をしており、一人称はボク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/da/14576_crt_IIp0W.jpg",
+        "link": "https://bgm.tv/character/14576",
+        "categorie": "person"
+      },
+      {
+        "id": "16892",
+        "label": "小林歌剧",
+        "info": "物語の主人公。かつては名探偵「小林少年」として、数々の難事件を解決してきたが、数年前怪盗「L」との対決の結果、探偵としての「資質」を失ってしまう。探偵であることをやめた小林は、しばらくの間表舞台から姿を消していたが、ある日探偵学院に呼び出され、「ミルキィホームズ」の担当官に指名される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/f5/16892_crt_ixoux.jpg",
+        "link": "https://bgm.tv/character/16892",
+        "categorie": "person"
+      },
+      {
+        "id": "18253",
+        "label": "哈特利 库因",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/33/18253_crt_cPRqj.jpg",
+        "link": "https://bgm.tv/character/18253",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

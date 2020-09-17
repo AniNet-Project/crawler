@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33241",
+        "label": "萝莉・麦丘利",
+        "info": "侍奉死与审判之神俄摩拉的亚神（持有肉体的同时又拥有神力的存在）。敬称是“圣下”。外表看上去像是十多岁的女孩但实际年龄为961岁，不老不死且身穿类似哥德萝莉的神官服，使用需要数个成年人合力才能抬起的斧枪战斗。对伊丹感兴趣也有好感，有时会诱惑他。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/7e/33241_crt_SSoXd.jpg?r=1437939479",
+        "link": "https://bgm.tv/character/33241",
+        "categorie": "person"
+      },
+      {
+        "id": "33406",
+        "label": "伊丹耀司",
+        "info": "主人公。33歳→34歳。自衛隊二等陸尉、元第3偵察部隊隊長、現特地資源状況調査担当。他にも炎龍討伐の成果をもって、エルベ藩王国・帝国両国より卿の爵位を賜り、特地での爵位貴族の肩書も得る（階位は不明）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/fe/33406_crt_9Ye5L.jpg?r=1434536378",
+        "link": "https://bgm.tv/character/33406",
+        "categorie": "person"
+      },
+      {
+        "id": "33407",
+        "label": "杜嘉·露娜·马尔席",
+        "info": "精霊種エルフ(ハイエルフ)の娘、見た目は10代だが年齢は165歳→166歳[注 2]。金髪碧眼。弓と竪琴が得意。音楽の神ルナリューを信仰している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/fa/33407_crt_879gb.jpg?r=1434536477",
+        "link": "https://bgm.tv/character/33407",
+        "categorie": "person"
+      },
+      {
+        "id": "33408",
+        "label": "蕾莱·拉·列娜",
+        "info": "コダ村に住むカトー老師のもとで魔法を学んでいた15歳の少女（3巻以降は16歳）。銃器の原理を独力で理解し、日本語を短期間で習得。ノイマン効果を利用した魔法の開発、自動車運転をマスターするなど頭脳明晰。特地では15歳が成人基準なので、一応「大人」の女性という事になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/ef/33408_crt_HL7KY.jpg?r=1434536573",
+        "link": "https://bgm.tv/character/33408",
+        "categorie": "person"
+      },
+      {
+        "id": "33410",
+        "label": "富田章",
+        "info": "第3偵察隊所属。27歳→28歳[注 2]。二等陸曹。レンジャーと空挺徽章両方を取得している。個性豊かな第3偵察隊面々の中では一般的な良識と規範を持つ自衛官。物語を通じて、伊丹の実質的な右腕として活躍する。後にボーゼスとの結婚の都合上、身分の問題があり、ピニャの配慮で炎龍撃退コダ村村民保護の功績として、帝国爵位貴族の地位も賜り、卿の称号を得る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/59/33410_crt_9QIr7.jpg",
+        "link": "https://bgm.tv/character/33410",
+        "categorie": "person"
+      },
+      {
+        "id": "33411",
+        "label": "倉田武雄",
+        "info": "第3偵察隊所属。21歳→22歳[注 2]。三等陸曹。高機動車ドライバーで高い技術を持つ。北海道名寄駐屯地から招集された。猫耳萌（ケモノ系萌）。先輩である伊丹とはおたく話で盛り上がる仲。帝都に開店したPX支店にも潜り込み、出入りの商人を通じた情報収集を行う。この際には商人自身やその妻ではなく、子供たちへの贈り物を用意して相手の気を引いていた。皇族（ゾルザル）のお忍びパーティーの噂からパーティーの厨房に古田を送り込むよう話を付ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/28/33411_crt_3jK14.jpg",
+        "link": "https://bgm.tv/character/33411",
+        "categorie": "person"
+      },
+      {
+        "id": "33412",
+        "label": "姚·海·蒂修",
+        "info": "外見年齢30歳前後の肉感的な美人ダークエルフ。315歳→316歳[注 2]。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/af/33412_crt_Q0AA8.jpg",
+        "link": "https://bgm.tv/character/33412",
+        "categorie": "person"
+      },
+      {
+        "id": "33413",
+        "label": "碧娘·可·拉达",
+        "info": "｢帝国｣の第三皇女。19歳→20歳[注 2]。赤い髪を持つ美女。モルトの5番目の子供で、第10位の皇位継承権を持つ。イタリカ防衛戦で自衛隊の実力をいち早く認識させられ、和平交渉の仲介役を引き受ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/f8/33413_crt_96lZL.jpg",
+        "link": "https://bgm.tv/character/33413",
+        "categorie": "person"
+      },
+      {
+        "id": "35067",
+        "label": "葵 梨纱",
+        "info": "伊丹的前妻，女性向同人作家，29岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/19/35067_crt_jjHoG.jpg",
+        "link": "https://bgm.tv/character/35067",
+        "categorie": "person"
+      },
+      {
+        "id": "39420",
+        "label": "波赛斯·戈·芭蕾丝蒂",
+        "info": "パレスティー侯爵家の次女。18歳。黄薔薇隊隊長。正式な騎士団結成前は第一部隊隊長。金髪縦巻きロールの髪型が特徴のお嬢様然とした女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/92/39420_crt_ug7M1.jpg",
+        "link": "https://bgm.tv/character/39420",
+        "categorie": "person"
+      },
+      {
+        "id": "39776",
+        "label": "黑川茉莉",
+        "info": "第3偵察隊所属。23歳。女性。二等陸曹。190cm超の長身で、栗林とは40cm以上の身長差があるということなるが、アニメ、コミックともそこまでの長身には表現されていない（それでも偵察隊では一番の長身）。自衛隊中央病院から召集され看護資格を持っており、救出活動における主幹人員である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/5a/39776_crt_lQSOH.jpg?r=1458959341",
+        "link": "https://bgm.tv/character/39776",
+        "categorie": "person"
+      },
+      {
+        "id": "39777",
+        "label": "栗林志乃",
+        "info": "第3偵察隊所属。自衛隊体育学校から召集された。24歳→25歳[注 1]。女性自衛官。二等陸曹。漫画版では伊丹や第三偵察隊のメンバーから「クリ」「クリボー」（アニメ版ではちゃん付け）などと呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/b0/39777_crt_3z6q2.jpg",
+        "link": "https://bgm.tv/character/39777",
+        "categorie": "person"
+      },
+      {
+        "id": "39778",
+        "label": "汉蜜敦·伍诺·荣恩",
+        "info": "17歳。侍従武官・准騎士。仲が良好な婚約者がおり、性的には騎士団の中で一番進んでいた(逸物が何なのかを知っていた)が、騎士団側近はみんな相手がおり、ピニャ本人が例外。外伝漫画『ゲート 帝国の薔薇騎士団 ピニャ・コ・ラーダ14歳』では騎士団設立以前からよくピニャに同行しており、騎士団学校時代はどちらかというと「鈍くさい方」だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/95/39778_crt_tP5yi.jpg?r=1458961523",
+        "link": "https://bgm.tv/character/39778",
+        "categorie": "person"
+      },
+      {
+        "id": "48667",
+        "label": "ノーマ・コ・イグルー",
+        "info": "21歳。侍従武官・騎士。正式な騎士団結成前は第四部隊隊長。調子の良さで男子団員にはそこそこ人望があったが、女性団員からの人気は皆無。貴族としての地位を小々鼻に掛けている風がある青年。元コダ村住人の炎龍撃退の話も全く信じなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/61/48667_crt_p2p2z.jpg",
+        "link": "https://bgm.tv/character/48667",
+        "categorie": "person"
+      },
+      {
+        "id": "39779",
+        "label": "董德愁",
+        "info": "「どこかの国」の国家主席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/1b/39779_crt_k5Y1Z.jpg?r=1458962649",
+        "link": "https://bgm.tv/character/39779",
+        "categorie": "person"
+      },
+      {
+        "id": "39780",
+        "label": "利拉",
+        "info": "アルヌス協同生活組合の食堂で働くヴォーリアバニー。少々蓮っ葉な物言いだが、明るく面倒見も良いため給仕長も務める。漫画版では空薬莢から作った耳飾りをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/cd/39780_crt_1AXuW.jpg",
+        "link": "https://bgm.tv/character/39780",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

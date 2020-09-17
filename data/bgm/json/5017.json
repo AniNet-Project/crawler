@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28910",
+        "label": "川名美咲",
+        "info": "小学生の時に事故で視力を失った主人公の先輩。夕焼けの学校の屋上で主人公と出会う。盲目というハンデを背負うものの、それに由来する他人に対する警戒心はなく、誰とでも打ち解けることができる社交的な性格。高校が自宅の向かいで視力を失う前からの遊び場だったので、白杖を携行せず一人でも学校に行ける。しかし商店街などの外の世界には怖がって行けないでいる。また盲目のハンデで相手を縛りたくがないために、異性と付き合うことを拒絶している。意外に大食いで、一人で何人前分ものカレーを食べている場面もある。親友である深山雪見のヘルプとして演劇部に顔を出している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/d6/28910_crt_eHi3z.jpg?r=1420957598",
+        "link": "https://bgm.tv/character/28910",
+        "categorie": "person"
+      },
+      {
+        "id": "28911",
+        "label": "里村茜",
+        "info": "主人公と同じクラスの無口な少女。雨の日に空き地で一人たたずんでいたところを主人公と出会う。想いを寄せていた幼馴染みの少年が「えいえんの世界」へと消えてから、雨の日には彼の帰りを待ち続けている。自分で弁当を作ったりと料理好き。また、根っからの甘党で甘い物が大好き。周りの人間にあまり心を開かず、主人公が彼女に対して何かをやろうとすると「嫌です」と言う言葉で返してくるが、唯一詩子とのみ普通に話す。長い髪をおさげにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/1c/28911_crt_16jRE.jpg?r=1420957743",
+        "link": "https://bgm.tv/character/28911",
+        "categorie": "person"
+      },
+      {
+        "id": "54113",
+        "label": "长森瑞佳",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/f6/54113_crt_Bzb5q.jpg",
+        "link": "https://bgm.tv/character/54113",
+        "categorie": "person"
+      },
+      {
+        "id": "54114",
+        "label": "七濑留美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/85/54114_crt_oHiCS.jpg",
+        "link": "https://bgm.tv/character/54114",
+        "categorie": "person"
+      },
+      {
+        "id": "54115",
+        "label": "上月澪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/c0/54115_crt_FHGQy.jpg",
+        "link": "https://bgm.tv/character/54115",
+        "categorie": "person"
+      },
+      {
+        "id": "54116",
+        "label": "椎名茧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/d2/54116_crt_UfcIB.jpg",
+        "link": "https://bgm.tv/character/54116",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

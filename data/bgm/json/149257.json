@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36382",
+        "label": "佐仓羽音",
+        "info": "丘乃上女子高２年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/53/36382_crt_WjAEU.jpg?r=1457193407",
+        "link": "https://bgm.tv/character/36382",
+        "categorie": "person"
+      },
+      {
+        "id": "36383",
+        "label": "天野恩纱",
+        "info": "羽音の同級生。実家が中古バイク屋を営んでいるせいか、バイクについて色々と一家言あるらしい。愛車はヤマハSEROW225W。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/ff/36383_crt_707t2.jpg?r=1460403930",
+        "link": "https://bgm.tv/character/36383",
+        "categorie": "person"
+      },
+      {
+        "id": "36384",
+        "label": "铃乃木凛",
+        "info": "長い金髪を小さなベルが付いたヘアゴムでツインテールにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/bd/36384_crt_v366v.jpg?r=1461081263",
+        "link": "https://bgm.tv/character/36384",
+        "categorie": "person"
+      },
+      {
+        "id": "36385",
+        "label": "三之轮圣",
+        "info": "黒髪の長いストレートヘアで、眼鏡を掛けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/6d/36385_crt_mMoFU.jpg?r=1461946533",
+        "link": "https://bgm.tv/character/36385",
+        "categorie": "person"
+      },
+      {
+        "id": "40624",
+        "label": "早川",
+        "info": "OAD故事改編自原作連載第40話「めいど!!」",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/76/40624_crt_477Bt.jpg?r=1588137465",
+        "link": "https://bgm.tv/character/40624",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

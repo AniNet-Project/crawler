@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27335",
+        "label": "Dreamcast",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/88/27335_crt_3sUp5.jpg?r=1413090374",
+        "link": "https://bgm.tv/character/27335",
+        "categorie": "person"
+      },
+      {
+        "id": "27389",
+        "label": "世嘉土星",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/4b/27389_crt_Qcz8Q.jpg?r=1413413654",
+        "link": "https://bgm.tv/character/27389",
+        "categorie": "person"
+      },
+      {
+        "id": "27468",
+        "label": "Mega Drive",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/98/27468_crt_58VCs.jpg?r=1414098797",
+        "link": "https://bgm.tv/character/27468",
+        "categorie": "person"
+      },
+      {
+        "id": "28041",
+        "label": "中心先生",
+        "info": "セハガガ学園の教師で、その姿は「アソビン教授」のビット絵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a8/28041_crt_FbaIh.jpg",
+        "link": "https://bgm.tv/character/28041",
+        "categorie": "person"
+      },
+      {
+        "id": "10647",
+        "label": "真宫寺樱",
+        "info": "1-2,4代樱花大战的女主角，对降魔部队的真宫寺一马（鬼王）之女。北辰一刀流的传人，擅长剑术，战斗能力和舞台上的演技都有待磨练，但做事认真资质甚高。喜怒形于色，并有点感情用事。她是现在找不到的典型日本女人。完全精通北辰一刀流的技术，具有能够将‘邪恶’净化的破邪之力。小时候因为顽皮不听婆婆劝告，所以看到朋友被雷打中，自始之后樱便十分害怕打雷。腰间配戴的为父亲真宫寺一马的遗物灵剑“荒鹰”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/69/10647_crt_P80f6.jpg",
+        "link": "https://bgm.tv/character/10647",
+        "categorie": "person"
+      },
+      {
+        "id": "28071",
+        "label": "丽",
+        "info": "特殊報道チームに所属する、入社2年目の新人リポーター。とぼけた性格だが芯は強く、ギンガ一のレポーターになることを夢見ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/72/28071_crt_OQA6N.jpg?r=1416521832",
+        "link": "https://bgm.tv/character/28071",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

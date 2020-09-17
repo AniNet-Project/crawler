@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17325",
+        "label": "坂本龙太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/4e/17325_crt_DK231.jpg?r=1370786004",
+        "link": "https://bgm.tv/character/17325",
+        "categorie": "person"
+      },
+      {
+        "id": "17326",
+        "label": "卑弥呼",
+        "info": "本作のメインヒロイン。女性、15歳、B型、身長158センチメートル、7月22日生まれ、3サイズ：B90（Hカップ）/W58/H81、東京在住、初期BIMタイプはタイマータイプ。「ゲーム版BTOOOM!」ではHIMIKOの名前でプレイしている[13]。本名はヘミリア。金髪白人の女子高生。ゲーム開始当初に宮本雅志、近藤勇、明智光男の3人と言われるままにチームを組んだが仲違いにより宮本が近藤を殺害し、明智と共に全員分のBIMを持って逃げ出したが明智に肉体目的で襲われかけてしまう。その結果としてBIMによって明智を殺害することになった[14][15][12]。レイプされかけたことから男性を信用せず、特に男の体に強い拒否感をもっている。坂本や平にも嫌悪感をあらわにしており、当初は遭遇しても話もせずに逃げ出したり[16]、いきなり戦闘行動に訴えたり[17]している。仲間になった後も積極的に近寄ろうとはしない。レイプされるぐらいならば自殺することを選んでいる[18][12]。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/a2/17326_crt_8xI1O.jpg",
+        "link": "https://bgm.tv/character/17326",
+        "categorie": "person"
+      },
+      {
+        "id": "17327",
+        "label": "伊达政人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/83/17327_crt_8q938.jpg?r=1497888611",
+        "link": "https://bgm.tv/character/17327",
+        "categorie": "person"
+      },
+      {
+        "id": "17328",
+        "label": "平清",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/c8/17328_crt_cJhgx.jpg?r=1497888647",
+        "link": "https://bgm.tv/character/17328",
+        "categorie": "person"
+      },
+      {
+        "id": "17330",
+        "label": "吉良康介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/c7/17330_crt_tTv6r.jpg?r=1497888794",
+        "link": "https://bgm.tv/character/17330",
+        "categorie": "person"
+      },
+      {
+        "id": "17333",
+        "label": "织田信隆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/d2/17333_crt_2y545.jpg?r=1497888781",
+        "link": "https://bgm.tv/character/17333",
+        "categorie": "person"
+      },
+      {
+        "id": "17335",
+        "label": "鹰嘴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/cd/17335_crt_CfM0g.jpg",
+        "link": "https://bgm.tv/character/17335",
+        "categorie": "person"
+      },
+      {
+        "id": "55161",
+        "label": "木下秀美",
+        "info": "ギャル風の派手な外見で自己主張が強い性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/e1/55161_crt_GwNEK.jpg",
+        "link": "https://bgm.tv/character/55161",
+        "categorie": "person"
+      },
+      {
+        "id": "55162",
+        "label": "柿本人志",
+        "info": "木下と行動を共にしていたが、トカゲの群れに追われ、BIMを使いトカゲを殺そうとするも、自分が投げたクラッカー式のBIMの爆発により吹き飛んだ石で顔を負傷する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/e5/55162_crt_L5n5c.jpg",
+        "link": "https://bgm.tv/character/55162",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

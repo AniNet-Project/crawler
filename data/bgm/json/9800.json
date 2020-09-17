@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10513",
+        "label": "织斑一夏",
+        "info": "世界唯一可以使用IS的男人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/0d/10513_crt_v9zSR.jpg",
+        "link": "https://bgm.tv/character/10513",
+        "categorie": "person"
+      },
+      {
+        "id": "10514",
+        "label": "筱之之帚",
+        "info": "六年不见的一夏的青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/e9/10514_crt_g8PZ1.jpg",
+        "link": "https://bgm.tv/character/10514",
+        "categorie": "person"
+      },
+      {
+        "id": "10521",
+        "label": "塞西莉娅·奥尔科特",
+        "info": "英国的代表候补生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/c1/10521_crt_8UOju.jpg",
+        "link": "https://bgm.tv/character/10521",
+        "categorie": "person"
+      },
+      {
+        "id": "10524",
+        "label": "凰铃音",
+        "info": "中国的代表候补生。一夏的第二个青梅竹马。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/69/10524_crt_mjBnj.jpg?r=1381037864",
+        "link": "https://bgm.tv/character/10524",
+        "categorie": "person"
+      },
+      {
+        "id": "10529",
+        "label": "夏洛特·迪诺亚",
+        "info": "法国代表候补生。继一夏之后第二个能操纵IS的男生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/ab/10529_crt_cN5cw.jpg",
+        "link": "https://bgm.tv/character/10529",
+        "categorie": "person"
+      },
+      {
+        "id": "10531",
+        "label": "拉乌拉·博迪维希",
+        "info": "德国代表候补生。作为战斗工具抚养长大的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/fe/10531_crt_msSYc.jpg",
+        "link": "https://bgm.tv/character/10531",
+        "categorie": "person"
+      },
+      {
+        "id": "10534",
+        "label": "织斑千冬",
+        "info": "一夏的姐姐，班导。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/bb/10534_crt_Uyh5J.jpg?r=1385375518",
+        "link": "https://bgm.tv/character/10534",
+        "categorie": "person"
+      },
+      {
+        "id": "10536",
+        "label": "山田真耶",
+        "info": "一夏班上的副班导。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/2a/10536_crt_qdS35.jpg?r=1416331536",
+        "link": "https://bgm.tv/character/10536",
+        "categorie": "person"
+      },
+      {
+        "id": "11904",
+        "label": "筱之之束",
+        "info": "帚的姊姊，IS的发明者。唯一能制作IS核心的天才科学家，很多事件也是由她引起。正在被国际上很多单位追补。帚似乎很讨厌她，连名字都不愿意提。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/dc/11904_crt_Er6Be.jpg",
+        "link": "https://bgm.tv/character/11904",
+        "categorie": "person"
+      },
+      {
+        "id": "10697",
+        "label": "布佛本音",
+        "info": "IS学園の1年生で、一夏のクラスメイト。生徒会に所属している。彼のことを「おりむー」と呼ぶ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/c3/10697_crt_7rNp3.jpg?r=1385375412",
+        "link": "https://bgm.tv/character/10697",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

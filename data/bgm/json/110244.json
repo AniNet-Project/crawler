@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26482",
+        "label": "少司命",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/b4/26482_crt_YggGX.jpg?r=1529838178",
+        "link": "https://bgm.tv/character/26482",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

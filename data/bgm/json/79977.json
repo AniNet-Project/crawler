@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8374",
+        "label": "Trava",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/01/8374_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8374",
+        "categorie": "person"
+      },
+      {
+        "id": "8381",
+        "label": "Reiter",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/06/8381_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8381",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

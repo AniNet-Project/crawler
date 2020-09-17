@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35578",
+        "label": "森下まゆ",
+        "info": "cv 紘川琴音",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/e0/35578_crt_F44Dj.jpg",
+        "link": "https://bgm.tv/character/35578",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

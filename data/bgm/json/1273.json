@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22211",
+        "label": "若竹玛丽",
+        "info": "テレビアニメ版の主人公で、高校2年生。寝相と料理の腕前はかなり悪い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/90/22211_crt_CMTBB.jpg",
+        "link": "https://bgm.tv/character/22211",
+        "categorie": "person"
+      },
+      {
+        "id": "22212",
+        "label": "千光寺荻乃",
+        "info": "マリと同級生で同じ青海寮に所属。お淑やかで成績優秀、スポーツ万能の優等生。マリを気に掛ける。しかしその正体は、5年前地球にやって来た異星人の地球調査艦隊5番艦ブルーの艦長（コマンダー）エカリルである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/bc/22212_crt_ccRCz.jpg",
+        "link": "https://bgm.tv/character/22212",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

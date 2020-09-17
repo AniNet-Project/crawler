@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51972",
+        "label": "草薙剑儿",
+        "info": "17歳。つばきとは幼馴染。ＨＭＢ（ハイパーモーターバイク）のライダーとして活躍するだけでなく、柔道・剣道・空手・合気道など多くの武道に長けるスーパー高校生。だが、精神面での鍛錬が欠けているのか、同級生からは「バカでスケベ」の一言で片付けられてしまう。現在は一人暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/ab/51972_crt_5FAUA.jpg",
+        "link": "https://bgm.tv/character/51972",
+        "categorie": "person"
+      },
+      {
+        "id": "51978",
+        "label": "珠城椿",
+        "info": "17歳。珠城美和の孫として、麻布都珠勾（まふつす）神社の巫女だけでなく、ビッグシューターのナビゲーター＆シューティングマニピュレーターを担当している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/cc/51978_crt_3qVYa.jpg",
+        "link": "https://bgm.tv/character/51978",
+        "categorie": "person"
+      },
+      {
+        "id": "51980",
+        "label": "美角镜",
+        "info": "17歳。金持ちで秀才で二枚目で少しクール。剣児とは正反対に学校で異性の人気を集めている鏡は、草薙剣児と同じＨＭＢチームに所属しており、どちらがチームのエースなのかいつも争っている。また、つばきとは共にビックシューターを駆るパイロットでもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/98/51980_crt_MMJm7.jpg",
+        "link": "https://bgm.tv/character/51980",
+        "categorie": "person"
+      },
+      {
+        "id": "72869",
+        "label": "司马宙",
+        "info": "本職は自動車整備工場「司馬モータース」の経営だがカーレースに情熱を向け、フォーミュラカーからスポーツカータイプまでカテゴリーを問わず、暇を見つけてはレースに出場している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/67/72869_crt_N1OhU.jpg?r=1572815315",
+        "link": "https://bgm.tv/character/72869",
+        "categorie": "person"
+      },
+      {
+        "id": "72870",
+        "label": "卯月美和",
+        "info": "ビッグシューターのパイロット。幼い頃に両親が行方不明となり、司馬家に引き取られて宙とは兄妹同然に育った。司馬博士の助手を務める。通称・ミッチー（冒険王版では美和っぺ）。格闘能力も高くハニワ兵士程度なら倒すことが出来る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ab/72870_crt_K7URX.jpg?r=1572815704",
+        "link": "https://bgm.tv/character/72870",
+        "categorie": "person"
+      },
+      {
+        "id": "72871",
+        "label": "司马迁次郎",
+        "info": "宙の父。本人は第1話で死亡するが、生前に意識と記憶をコンピュータ「マシーン・ファーザー」に移し替えていた。本来は考古学者であるが、息子の宙をサイボーグにしたり、巨大ロボットを作ったりと才能の幅は広い。マシーン・ファーザーはビルド・ベース全機能を制御できる。宙が持っているペンダントとも通信可能で、ジーグの戦闘時に助言を送る。ネーミングの由来は、司馬遷および司馬遼太郎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/4f/72871_crt_22ZDh.jpg?r=1572816098",
+        "link": "https://bgm.tv/character/72871",
+        "categorie": "person"
+      },
+      {
+        "id": "72872",
+        "label": "大利",
+        "info": "鋼鉄ジーグの基地「ビルド・ベース」の所長。遷次郎の死後に所長に就任した。戦闘指揮も執るが、危機に陥るとマシーン・ファーザーの指示を仰ぐことも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/45/72872_crt_pb0p4.jpg?r=1572817123",
+        "link": "https://bgm.tv/character/72872",
+        "categorie": "person"
+      },
+      {
+        "id": "72873",
+        "label": "司马菊江",
+        "info": "宙の母。夫の死後、留守がちな息子の宙のために家計が火の車となり、その一助にと近所の蕎麦屋に働きに出たりビルド・ベース内の食堂で働いたりするが、宙の反対により家事専門を言いつけられる。主婦としても厳しい家計を気に病んでいる。同時に鋼鉄ジーグの使命に苦しむ宙を誰よりも案じており、マシーン・ファーザーとなった夫に強く意見することもあった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/2c/72873_crt_Z3fQp.jpg?r=1572818032",
+        "link": "https://bgm.tv/character/72873",
+        "categorie": "person"
+      },
+      {
+        "id": "72874",
+        "label": "司马真由美",
+        "info": "宙の妹。幼稚園児。ジーグに亡き父親の面影を重ねており、同時に神のように崇拝している。人質にされることも多く、家族愛が強い宙を苦しめる。最終回まで、宙がジーグであることに気づかなかった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/fa/72874_crt_Ot9Ov.jpg?r=1572819663",
+        "link": "https://bgm.tv/character/72874",
+        "categorie": "person"
+      },
+      {
+        "id": "72878",
+        "label": "妃魅祸",
+        "info": "邪魔大王国の女王。永い眠りから覚めた後、三幹部を従え「ハニワ幻人」「ハニワ兵士」を使い、地上征服に乗り出す。邪魔大王国の秘密が記された銅鐸の争奪を巡り、鋼鉄ジーグと激しい戦いを繰り広げる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/05/72878_crt_W77RA.jpg",
+        "link": "https://bgm.tv/character/72878",
+        "categorie": "person"
+      },
+      {
+        "id": "72879",
+        "label": "壹鬼马",
+        "info": "三大幹部のリーダー格で姿が一番人間に近く、完全に化石化から覚めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/df/72879_crt_9bD1j.jpg",
+        "link": "https://bgm.tv/character/72879",
+        "categorie": "person"
+      },
+      {
+        "id": "72880",
+        "label": "壬魔使",
+        "info": "三大幹部の一人。蘇生に失敗し顔面の半面は人間、もう半面は化石化したままである。力任せの作戦を得意とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/61/72880_crt_u963T.jpg",
+        "link": "https://bgm.tv/character/72880",
+        "categorie": "person"
+      },
+      {
+        "id": "72881",
+        "label": "阿磨疏",
+        "info": "三大幹部の一人。蘇生に失敗し、顔面全体が岩のようになっている。他の幹部に比べ、やや単細胞な性格である。卑怯な作戦が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/6a/72881_crt_B8gVb.jpg",
+        "link": "https://bgm.tv/character/72881",
+        "categorie": "person"
+      },
+      {
+        "id": "72884",
+        "label": "柳生充子",
+        "info": "鋼鉄ジーグの支援を目的とした戦闘機部隊「ビルドエンジェル隊」の隊長を勤める女性パイロット。左目に眼帯をしており柳生十兵衛の血脈を受け継いでいると言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/36/72884_crt_GEy6e.jpg?r=1572824628",
+        "link": "https://bgm.tv/character/72884",
+        "categorie": "person"
+      },
+      {
+        "id": "72885",
+        "label": "早乙女门子",
+        "info": "ビルドエンジェル隊一の大柄な女性。眉間から鼻筋にかけて大きな傷痕があり、早乙女主水之介の血脈を受け継いでいると言われている。力だけなら剣児でも適わないパワフルな性格の持ち主で、その大柄な容姿故に剣児からは常にゴリラと称されていた。なお、面と向かってこう呼ばれると激怒する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/de/72885_crt_t2xQE.jpg?r=1572824884",
+        "link": "https://bgm.tv/character/72885",
+        "categorie": "person"
+      },
+      {
+        "id": "72886",
+        "label": "身堂龙子",
+        "info": "ビルドエンジェル隊の一員。第5話で渦潮の講釈をするなど博識な描写がされているが、同時に物騒な発言をすることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/62/72886_crt_QmKKr.jpg?r=1572825100",
+        "link": "https://bgm.tv/character/72886",
+        "categorie": "person"
+      },
+      {
+        "id": "74568",
+        "label": "司马宙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/9d/74568_crt_5W032.jpg",
+        "link": "https://bgm.tv/character/74568",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "72875",
+        "label": "黑鹫阿顿",
+        "info": "宙を一方的にライバル視する男。宙とは高校の時からの因縁があり、当初は憎悪を抱いていたが、命懸けで戦う鋼鉄ジーグの姿を見て協力するようになる。自動車整備工場を経営し、レースにも出場する。後にメカドンを開発し、自ら操縦者となる。高校時代は相撲部だが、万年補欠だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/15/72875_crt_LcjFV.jpg?r=1572821020",
+        "link": "https://bgm.tv/character/72875",
+        "categorie": "person"
+      },
+      {
+        "id": "72876",
+        "label": "斑鸠",
+        "info": "ドンの子分。メカドンの補助操縦者。食いしん坊で、いつも何かを食べていないと気が済まない。美和に優しくされたことをきっかけに、美和に好意を持つ。大財閥の御曹司に間違われたことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/25/72876_crt_sQSIF.jpg?r=1572821123",
+        "link": "https://bgm.tv/character/72876",
+        "categorie": "person"
+      },
+      {
+        "id": "72877",
+        "label": "小不点",
+        "info": "宙の経営する自動車整備工場「司馬モータース」の従業員。司馬家に居候しており、小柄な体格に似合わず、大食漢である。宙がレースに出場する際には助手席で、ナビゲーターを務めることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/d4/72877_crt_A73LA.jpg?r=1572821739",
+        "link": "https://bgm.tv/character/72877",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

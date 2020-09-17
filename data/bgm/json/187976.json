@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46275",
+        "label": "白龙",
+        "info": "原作並びにOVA版では「ジープ」と呼ばれるが、『幻想魔伝 最遊記』以降のアニメ版では「白竜」と呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/63/46275_crt_300jz.jpg",
+        "link": "https://bgm.tv/character/46275",
+        "categorie": "person"
+      },
+      {
+        "id": "20223",
+        "label": "玄奘三藏",
+        "info": "原是河里漂来的弃儿，被金山寺的光明三藏所救并抚养长大，随后收为弟子。最初取名为“江流”。自幼受僧人歧视，却天赋秉异。众妖攻陷金山寺时师父被杀，三藏带着继承自师傅的“魔天经文”逃离，在江湖流浪多年寻找失去的“圣天经文”，到达长安后辗转成为庆云院的住持。在观世音菩萨与三佛神的指引下，与悟空、悟净与八戒三人前往天竺国阻止牛魔王复活实验。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/16/20223_crt_Q53Vz.jpg?r=1425457885",
+        "link": "https://bgm.tv/character/20223",
+        "categorie": "person"
+      },
+      {
+        "id": "7418",
+        "label": "孙悟空",
+        "info": "五百年前从花果山岩石中诞生的奇异生命体，观音把他交给金蝉童子（三藏前世）抚养，后与哪吒、卷帘大将、天蓬元帅成为好友。由于犯下罪过，天界上级要求观音抹去悟空的所有记忆，但观音自私地违背命令，保留了金蝉为他取的名字——孙悟空。悟空不像其它三人一样有前世，他根本就没有死过，只是在五行山被关押了五百年。五百年后被三藏释放，随后被其收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/80/7418_crt_sUED1.jpg",
+        "link": "https://bgm.tv/character/7418",
+        "categorie": "person"
+      },
+      {
+        "id": "20224",
+        "label": "沙悟净",
+        "info": "悟净是半妖，是妖怪（父）与人类（母）生下的“禁忌之子”。他由父亲的妖怪正妻带大，但是童年却常受她虐待。悟净八岁那年，正妻终因忍受不了而想劈死他。同父异母的哥哥沙慈燕为救悟净杀了自己的亲生母亲，随后失踪。此后悟净一人流浪四处，做过小混混。遇见八戒他们前，一直过着颓废的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/86/20224_crt_zjRv0.jpg",
+        "link": "https://bgm.tv/character/20224",
+        "categorie": "person"
+      },
+      {
+        "id": "9769",
+        "label": "猪八戒",
+        "info": "原名猪悟能，自幼生长在孤儿院，长大后的恋人花喃居然是自己失散多年的的姐姐（二人并不知情）。后来花喃因美貌被百眼魔王抓走做了妻子。为了救她，悟能杀光了百眼魔王府上大大小小全部的妖怪。然而花喃因为受辱怀孕的原因在他面前自尽了。由于淋了一千个妖怪的血，悟能自己也变成了妖怪。重伤的他在雨夜倒在路边，被路过的悟净所救。在逮捕他的三藏帮助下，他的谋杀罪被三佛神赦免，改名“八戒”，开始新的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/4a/9769_crt_nsVl8.jpg",
+        "link": "https://bgm.tv/character/9769",
+        "categorie": "person"
+      },
+      {
+        "id": "20225",
+        "label": "红孩儿",
+        "info": "红发红瞳的妖怪，牛魔王与罗刹女的独生子。因其超凡地位和人格魅力成为妖怪们心中的偶像型人物。500年前与其父牛魔王一同被封印于天竺国吠登城，后被玉面公主解开封印。因一心想救出被封印的母亲罗刹女而甘愿被玉面公主利用，带领手下团队收集四散各地的天地开元经文，期间与三藏一行相识，成为了亦敌亦友的对手。他与自己的团队总是正大光明地与三藏一行决斗，从不不趁人之危，尽管常常不能得手，但他遵循着自己的决斗方式。一度被你建一洗脑，丧失自我，与三藏一行再次交手后恢复神智。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/60/20225_crt_jyOCR.jpg",
+        "link": "https://bgm.tv/character/20225",
+        "categorie": "person"
+      },
+      {
+        "id": "54680",
+        "label": "独角兕",
+        "info": "黑发黑瞳的纯血妖怪，红孩儿的手下直属剑客。原名沙尔燕，是悟净同父异母的兄长。因为长相酷似父亲，所以曾与母亲发生过不伦的关系。为保护弟弟，亲手杀死了自己的亲生母亲。后来被红孩儿收为近身剑客，改名“独角兕”。与八百鼠一样视红孩儿为唯一主人，以性命托付。在生活里把红孩儿看做自己的弟弟，对其爱称为“红”。由于各为其主，不得已与异母弟弟悟净成为对手（但在其心底还是很爱护弟弟的）。最后，为了救红孩儿被哪吒杀死。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/33/54680_crt_G55oE.jpg",
+        "link": "https://bgm.tv/character/54680",
+        "categorie": "person"
+      },
+      {
+        "id": "54681",
+        "label": "赛太岁",
+        "info": "謎の青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/f9/54681_crt_V6666.jpg",
+        "link": "https://bgm.tv/character/54681",
+        "categorie": "person"
+      },
+      {
+        "id": "54682",
+        "label": "タルチエ",
+        "info": "正体不明の謎の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/a8/54682_crt_zMv7f.jpg",
+        "link": "https://bgm.tv/character/54682",
+        "categorie": "person"
+      },
+      {
+        "id": "54683",
+        "label": "观世音菩萨",
+        "info": "天界を司る五大菩薩の一人。慈愛と慈悲の象徴の神であるが、言葉づかいも悪く、思うままに振る舞う唯我独尊的性格。三蔵一行を西へ向かうよう仕向けた張本人。三蔵一行の旅路を楽しんでいるように見えるが、五百年前からずっとその生き様を「見守る」役に徹している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/34/54683_crt_2ggwc.jpg",
+        "link": "https://bgm.tv/character/54683",
+        "categorie": "person"
+      },
+      {
+        "id": "54684",
+        "label": "哪吒太子",
+        "info": "天界で唯一殺生を許された「闘神太子」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/bd/54684_crt_R0207.jpg",
+        "link": "https://bgm.tv/character/54684",
+        "categorie": "person"
+      },
+      {
+        "id": "57195",
+        "label": "纱烙三藏",
+        "info": "第二十八代羅漢紗烙三蔵。玄奘三蔵と同じく桃源郷における最高僧の一人で、ディフェンスを司る恒天経文の所持者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/3e/57195_crt_1Ifo3.jpg",
+        "link": "https://bgm.tv/character/57195",
+        "categorie": "person"
+      },
+      {
+        "id": "57196",
+        "label": "波珊",
+        "info": "紗烙三蔵の右腕的存在。かつて紗烙と共に三蔵法師となる為の修行をしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/2b/57196_crt_U29jC.jpg",
+        "link": "https://bgm.tv/character/57196",
+        "categorie": "person"
+      },
+      {
+        "id": "57197",
+        "label": "二郎神",
+        "info": "観世音菩薩のお目付役。いつも観世音菩薩には振り回されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/03/57197_crt_98m36.jpg",
+        "link": "https://bgm.tv/character/57197",
+        "categorie": "person"
+      },
+      {
+        "id": "57198",
+        "label": "玉面公主",
+        "info": "牛魔王の妾で、桃源郷を狂わせた異変の元凶となる、牛魔王蘇生実験を企てた張本人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/1a/57198_crt_7dPqV.jpg",
+        "link": "https://bgm.tv/character/57198",
+        "categorie": "person"
+      },
+      {
+        "id": "57199",
+        "label": "タムロ",
+        "info": "西方の村に住む少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/4b/57199_crt_mMHM5.jpg",
+        "link": "https://bgm.tv/character/57199",
+        "categorie": "person"
+      },
+      {
+        "id": "57200",
+        "label": "玲",
+        "info": "夫を妖怪に殺され、心を病んでしまった村の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/ff/57200_crt_ZTapd.jpg",
+        "link": "https://bgm.tv/character/57200",
+        "categorie": "person"
+      },
+      {
+        "id": "57201",
+        "label": "淀仁",
+        "info": "村のはずれに住む守り人。鳥たちの世話をして暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/08/57201_crt_01427.jpg",
+        "link": "https://bgm.tv/character/57201",
+        "categorie": "person"
+      },
+      {
+        "id": "57202",
+        "label": "李塔天",
+        "info": "哪吒太子の父。己の出世の道具として哪吒を利用している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/34/57202_crt_81yyG.jpg",
+        "link": "https://bgm.tv/character/57202",
+        "categorie": "person"
+      },
+      {
+        "id": "57203",
+        "label": "天帝",
+        "info": "天界の王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/71/57203_crt_D0TMf.jpg",
+        "link": "https://bgm.tv/character/57203",
+        "categorie": "person"
+      },
+      {
+        "id": "57204",
+        "label": "西海龙王敖润",
+        "info": "天界西方軍の総責任者。天蓬と捲簾の上官であり、規律に厳しく、天界の命を絶対として疑わない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/23/57204_crt_1vaa2.jpg",
+        "link": "https://bgm.tv/character/57204",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

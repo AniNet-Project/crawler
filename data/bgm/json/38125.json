@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8643",
+        "label": "大沢健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/5b/8643_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8643",
+        "categorie": "person"
+      },
+      {
+        "id": "8644",
+        "label": "江坂茧美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/f0/8644_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8644",
+        "categorie": "person"
+      },
+      {
+        "id": "8646",
+        "label": "守口智",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/9f/8646_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8646",
+        "categorie": "person"
+      },
+      {
+        "id": "8647",
+        "label": "前島剛",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/7e/8647_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8647",
+        "categorie": "person"
+      },
+      {
+        "id": "7051",
+        "label": "远山和叶",
+        "info": "服部平次の幼馴染であり、初恋の人。平次と同じく改方学園高等部2年に在籍。大阪府に在住。年齢は17歳。基本的な髪型は大きなリボンで結んだポニーテール（就寝前には髪を下ろす）。一人称は「アタシ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ba/7051_crt_sW1kr.jpg?r=1444821401",
+        "link": "https://bgm.tv/character/7051",
+        "categorie": "person"
+      },
+      {
+        "id": "8648",
+        "label": "守口洋介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/1f/8648_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8648",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66733",
+        "label": "武藤和树",
+        "info": "本作男主角，一名熱血的高中二年級生，多方面的高手（催眠、掃瞄，還有很多……），因為救斗貴子被人造生命體殺死，斗貴子將核鐵放入其心臟，使和樹復活後由好精彩隊長（BRAVO隊長）推薦加入鍊金戰團。之後因體內黑核鐵覺醒，被戰團追殺。之後對斗貴子好感且有接吻的橋段。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/cc/66733_crt_1R11g.jpg",
+        "link": "https://bgm.tv/character/66733",
+        "categorie": "person"
+      },
+      {
+        "id": "66734",
+        "label": "津村斗贵子",
+        "info": "本作女主角，外型是制服美少女的炼金战士，鼻梁上有一道伤疤（人造生命体弄伤的），年纪较和树为年长，7年前人造生命体屠杀中唯一幸存者，之后被照星部队救起，由战团收养，是她给了和树第二次生命，也是她从牛顿苹果女学院偷出了伪70号（黑核铁三号）。为了防止和树被“再杀”并帮助和树抵达牛顿苹果女学院，与和树一起逃亡。之后故事对和树有好感，成为和树的女朋友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/6f/66734_crt_iLEGk.jpg",
+        "link": "https://bgm.tv/character/66734",
+        "categorie": "person"
+      },
+      {
+        "id": "6990",
+        "label": "パピヨン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/f4/6990_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6990",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

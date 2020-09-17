@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16220",
+        "label": "碧安卡·普契尼",
+        "info": "银色の髪の可怜な少女。辺境贵族の娘で、少し知恵遅れぎみ。明るく、屈托なく、よく笑う、阴のない少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/81/16220_crt_KYMeJ.jpg",
+        "link": "https://bgm.tv/character/16220",
+        "categorie": "person"
+      },
+      {
+        "id": "16221",
+        "label": "塞西莉亚·泽菲尼特",
+        "info": "亜麻色（淡い金）髪の気丈な女性。境遇に挫けない母性美人。妹のフローラを守るため、わが身を舍てて生きて来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/13/16221_crt_yrrc0.jpg",
+        "link": "https://bgm.tv/character/16221",
+        "categorie": "person"
+      },
+      {
+        "id": "16222",
+        "label": "ミア・サッバーフ",
+        "info": "黒髪に褐色の肌のおとなしい少女。喉を切られている奴隷。ヒロインの中で最年少でいちばん小柄、髪も黒く、ばっさり切っている上に、体つきも少年っぽく、やせているので男の子のような少女。しかしボーイッシュなイメージではなく、おとなしくて物静かな雰囲気の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/c4/16222_crt_Y7q2O.jpg",
+        "link": "https://bgm.tv/character/16222",
+        "categorie": "person"
+      },
+      {
+        "id": "16223",
+        "label": "加西亚斯·吉尔·帕尔迪斯",
+        "info": "今回の主人公。ヴェネツィア贵族パルヴィス家の次男で、风云急を告げる时代のど真ん中で、今回の物语の主役となる。嫡男の兄ピエトロが家督を継ぎ、共和国元老院议员となったため、彼は军人、そして商人への道を选ぶ。また彼の弟で三男のジュリオがたいへん出来が良く、若くして宗教界に入り出世街道を进んでいるため――主人公、キャシアスには、家のことは全く気にしなくていいという安心感と开放感、そして自由を好む気质が强くなっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/f1/16223_crt_cCy46.jpg",
+        "link": "https://bgm.tv/character/16223",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

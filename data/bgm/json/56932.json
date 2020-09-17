@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39506",
+        "label": "シャムシェルシャハル",
+        "info": "田舎の地ボーアンで騎士たちを襲っている、パイズリ大好きの夢魔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/ce/39506_crt_Jb5is.jpg",
+        "link": "https://bgm.tv/character/39506",
+        "categorie": "person"
+      },
+      {
+        "id": "39508",
+        "label": "ロクサーヌ・ド・デジール",
+        "info": "ボーアンで寂しく退屈な生活を送っている爆乳人妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/ce/39508_crt_5zG45.jpg",
+        "link": "https://bgm.tv/character/39508",
+        "categorie": "person"
+      },
+      {
+        "id": "39509",
+        "label": "アイシス・ペトロヴナ・エレンスカヤ",
+        "info": "主人公とは騎士学校で同期。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/92/39509_crt_jbK8J.jpg",
+        "link": "https://bgm.tv/character/39509",
+        "categorie": "person"
+      },
+      {
+        "id": "39510",
+        "label": "グラディス・フォン・ワッケンハイム",
+        "info": "ヴンダーバルト城の城主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/06/39510_crt_41yhe.jpg",
+        "link": "https://bgm.tv/character/39510",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

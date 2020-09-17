@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11198",
+        "label": "ロベス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/90/11198_crt_XB222.jpg",
+        "link": "https://bgm.tv/character/11198",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

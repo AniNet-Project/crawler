@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41181",
+        "label": "芹沢愛実",
+        "info": "主人公と同じ 2年生で、人気者のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/2a/41181_crt_S0TOT.jpg",
+        "link": "https://bgm.tv/character/41181",
+        "categorie": "person"
+      },
+      {
+        "id": "41182",
+        "label": "柚木ひなた",
+        "info": "主人公より後輩の 1年生で、謎の多いロリ美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/59/41182_crt_N5L54.jpg",
+        "link": "https://bgm.tv/character/41182",
+        "categorie": "person"
+      },
+      {
+        "id": "41183",
+        "label": "高井彩寧",
+        "info": "主人公より先輩の 3年生で、歩くセックスシンボルとも言われる妖艶な美女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/23/41183_crt_QP4pp.jpg",
+        "link": "https://bgm.tv/character/41183",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

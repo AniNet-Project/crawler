@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5968",
+        "label": "桃宫莓",
+        "info": "登场时为中学1年生。稀有动物的记号位于左大腿内侧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/97/5968_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5968",
+        "categorie": "person"
+      },
+      {
+        "id": "5969",
+        "label": "蓝泽薄荷",
+        "info": "登场时为中学1年生。稀有动物的记号位于背部肩夹骨中央。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/1e/5969_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5969",
+        "categorie": "person"
+      },
+      {
+        "id": "5970",
+        "label": "碧川莴苣",
+        "info": "登场时为就读奥村大付属中学校的中学2年生。稀有动物的记号位于胸前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/7c/5970_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5970",
+        "categorie": "person"
+      },
+      {
+        "id": "5971",
+        "label": "黄步铃",
+        "info": "登场时为小学6年生。稀有动物的记号位于前额。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/98/5971_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5971",
+        "categorie": "person"
+      },
+      {
+        "id": "5972",
+        "label": "藤原石榴",
+        "info": "登场时为中学3年生。稀有动物的记号位于肚脐上方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/a3/5972_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5972",
+        "categorie": "person"
+      },
+      {
+        "id": "25544",
+        "label": "青山雅也",
+        "info": "第1部のヒーロー。いちごが命をかけて守りたい存在であり、また雅也にとってもいちごは命をかけて守りたい存在。いちごの好きな男の子。剣道部のエースで女の子にモテていたが、いちごと両思いになってからはいちごにしか目もくれない。優しい性格だが、それでいて気性の激しさと冷淡さを併せ持ち、それゆえにある種の危うさを持つ少年でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/7c/25544_crt_yEPMW.jpg",
+        "link": "https://bgm.tv/character/25544",
+        "categorie": "person"
+      },
+      {
+        "id": "25545",
+        "label": "赤坂圭一郎",
+        "info": "子供だった白金の世話をしていた、白金の父に仕える助手。原作の回想シーンでは後ろ髪を肩の辺りで切り揃えていた。白金と共に白金の父が遺したμプロジェクトを始動させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/cd/25545_crt_qH58V.jpg",
+        "link": "https://bgm.tv/character/25545",
+        "categorie": "person"
+      },
+      {
+        "id": "25546",
+        "label": "白金稜",
+        "info": "ミュウミュウを束ねるリーダー。μプロジェクトを始めた張本人。UMA研究をしていた父の下で、小さい頃から生物科学を学んできたIQ180以上の天才。ただし、序盤でのいちごの問いには「ただの金持ち高校生」と答えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d9/25546_crt_i6sQQ.jpg",
+        "link": "https://bgm.tv/character/25546",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40149",
+        "label": "卑弥呼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/56/40149_crt_873k9.jpg?r=1460077781",
+        "link": "https://bgm.tv/character/40149",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

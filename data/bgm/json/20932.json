@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10646",
+        "label": "大神一郎",
+        "info": "帝国的年轻海军中尉，在士官学校以首名成绩毕业后，加入帝国华击团成为花组的队长，曾带领华击团消灭黑之巢会和黑鬼会，立下保护帝都的功绩，并由少尉被提升为中尉。就如他的说话“保护所有人的笑颜便是我夸耀的事”，他是个率直的热血汉子，拥有优良的指挥力和知人善任、擅于为人解决困难等优点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/3b/10646_crt_BT9cx.jpg",
+        "link": "https://bgm.tv/character/10646",
+        "categorie": "person"
+      },
+      {
+        "id": "10674",
+        "label": "艾莉卡·方婷",
+        "info": "巴里一所修道院的见习修女，和樱一样称大神为大神先生，个性开朗积极，对神有非常虔诚的信仰心，平时爱读圣经和祈祷，另外也在Les Chattes Noires中当表演者。她个性天真纯洁、以助人为自己快乐之本，对弱小一定会伸出援手，应会是人见人爱的。但间中会有粗心大意的行为，例如经常撞倒障碍物，和爱拿着机械手枪在街四处走。作为巴里华击团创始成员之一，她以自己从小就有的灵力和治愈能力，去保护巴黎这城市。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/e1/10674_crt_1qnPv.jpg",
+        "link": "https://bgm.tv/character/10674",
+        "categorie": "person"
+      },
+      {
+        "id": "10675",
+        "label": "库莉希奴·布鲁梅尔",
+        "info": "继承著名门洛鲁马迪公爵血统的贵族千金，布鲁马家的大小姐，自恃贵族的她很在意自己和一般平民的分别。在华丽高贵的外表中流着维京的血脉，故高傲之余也很勇敢。为了继承家族，毅然离开家庭独自到巴里作修行之旅。自小受严厉家教的她处事认真，对人对已都有很高要求因贵族身价而自认为有保卫巴黎的责任，不过也有其少女纤细的一面。祖先是挪威海盗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/10/10675_crt_NA8ei.jpg",
+        "link": "https://bgm.tv/character/10675",
+        "categorie": "person"
+      },
+      {
+        "id": "10676",
+        "label": "寇库莉可",
+        "info": "出生于越南，是巡游马戏团\" Cirque De Europe\"的成员，被马戏团团长虐待，后被大神一郎拯救，称大神为一郎。表演台上演出小巧的手艺和玩魔术，也负责到市场工作和喂饲动物。她是个讨人喜欢的小女孩，常面带笑容虽是华击团中年纪最小但是十分坚强，但凭其在马戏团锻炼的身手足以驾驶光武，而其乐天性格亦可令其他队员士气提升。父母分别是越南和法国的混血儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/88/10676_crt_57c7H.jpg",
+        "link": "https://bgm.tv/character/10676",
+        "categorie": "person"
+      },
+      {
+        "id": "10679",
+        "label": "罗贝莉亚·卡尔里尼",
+        "info": "巴黎著名的大恶人，喜爱偷窃、强盗、放火，甚至曾潜入高官要人的官邸，是个犯罪纪录多得总共可判入狱1000年的危险人物，但也是逃狱能手。为达目的不问任何手段或代价。她的另一专长是赌博，“特殊技能”为地狱之火，华击团灵力最强的成员，她加入华击团，目的是为钱和为缩短刑期，为自己而战，无团队精神可言。但艾莉卡十分喜欢罗贝莉亚，父母分别是意大利和罗马尼亚的混血儿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/95/10679_crt_WBX2w.jpg",
+        "link": "https://bgm.tv/character/10679",
+        "categorie": "person"
+      },
+      {
+        "id": "10681",
+        "label": "北大路花火",
+        "info": "日本北大路男爵的千金，祖母是法国人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/6a/10681_crt_imJAD.jpg",
+        "link": "https://bgm.tv/character/10681",
+        "categorie": "person"
+      },
+      {
+        "id": "10669",
+        "label": "古兰·玛",
+        "info": "剧场Les Chattes Noiresテアトル・シャノワール的主人，在法国社交界很有名，甚至在政界也有影响力。幕后是“巴黎华击团”的总司令。外表冷酷，但实则对花组非常爱护，为了除恶能不迟劳苦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/60/10669_crt_24Q4m.jpg",
+        "link": "https://bgm.tv/character/10669",
+        "categorie": "person"
+      },
+      {
+        "id": "10671",
+        "label": "梅尔·雷森",
+        "info": "古兰玛的秘书之一，也是管理剧场的经理，管理演出日程、舞台内外，为人认真、爱洁净、冷静和对工作十分尽责，是个有能力和可靠的秘书。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/6a/10671_crt_ZcTXF.jpg",
+        "link": "https://bgm.tv/character/10671",
+        "categorie": "person"
+      },
+      {
+        "id": "10673",
+        "label": "茜·卡普利斯",
+        "info": "古兰玛的秘书之一，负责看管小卖店、舞台广播和外务对应。明朗而活泼，比美露更能直接表现自己真性情，好奇心旺盛，喜欢甜食。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/d6/10673_crt_4yN6e.jpg",
+        "link": "https://bgm.tv/character/10673",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

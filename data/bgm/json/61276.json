@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18256",
+        "label": "逆回十六夜",
+        "info": "問題児その１",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/ad/18256_crt_jihfk.jpg",
+        "link": "https://bgm.tv/character/18256",
+        "categorie": "person"
+      },
+      {
+        "id": "18259",
+        "label": "黑兔",
+        "info": "容姿端麗・天真爛漫・強靭不屈で献身的という何処かの誰かの愛玩趣味を詰め込んだような種族である、黒ウサギ。問題児たちを異世界に呼んじゃった張本人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/16/18259_crt_jmknr.jpg",
+        "link": "https://bgm.tv/character/18259",
+        "categorie": "person"
+      },
+      {
+        "id": "18257",
+        "label": "久远飞鸟",
+        "info": "問題児その２",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/a1/18257_crt_oYYAL.jpg",
+        "link": "https://bgm.tv/character/18257",
+        "categorie": "person"
+      },
+      {
+        "id": "18258",
+        "label": "春日部耀",
+        "info": "問題児その３",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a1/18258_crt_g88q1.jpg",
+        "link": "https://bgm.tv/character/18258",
+        "categorie": "person"
+      },
+      {
+        "id": "18511",
+        "label": "白夜叉",
+        "info": "白夜魔王——太阳与白夜的星灵。东区的阶层支配者。常常在‘No Name’陷入危机时伸出援手。五卷时辞掉了东区的阶层支配者的职务取回了封印的力量。未解放力量的情况下外型为和服萝莉但在取回力量后为成熟的美女。性格非常好色，喜欢让黑兔穿各种色色的衣服。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/2b/18511_crt_OMkiM.jpg?r=1373642414",
+        "link": "https://bgm.tv/character/18511",
+        "categorie": "person"
+      },
+      {
+        "id": "18512",
+        "label": "仁·拉塞尔",
+        "info": "No Name’的领导者。11岁。持有恩赐‘精灵役使者’。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/87/18512_crt_Z6Oui.jpg?r=1373642446",
+        "link": "https://bgm.tv/character/18512",
+        "categorie": "person"
+      },
+      {
+        "id": "18514",
+        "label": "蕾蒂西亚·德克雷亚",
+        "info": "纯种吸血鬼。三年前被魔王夺走的同伴之一。外型平时为金发萝莉，在某些场合外表会变成大人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/e4/18514_crt_IgccC.jpg?r=1443979458",
+        "link": "https://bgm.tv/character/18514",
+        "categorie": "person"
+      },
+      {
+        "id": "18510",
+        "label": "莉莉",
+        "info": "代掌管共同体农田家系之狐狸一族。祖先是宇迦之御魂神的眷属，拥有其所赐予的神格。母亲继承了神格，在三年前被魔王夺走。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/78/18510_crt_5FaUf.jpg?r=1373642484",
+        "link": "https://bgm.tv/character/18510",
+        "categorie": "person"
+      },
+      {
+        "id": "20578",
+        "label": "爱夏·伊格尼法特斯",
+        "info": "地精。在地灾中死亡的自缚灵，被维拉·札·伊格尼法特斯收留，成长为大地精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/cf/20578_crt_Bi28A.jpg?r=1373644276",
+        "link": "https://bgm.tv/character/20578",
+        "categorie": "person"
+      },
+      {
+        "id": "20579",
+        "label": "杰克",
+        "info": "由维拉·札·伊格尼法特斯制作，世界最古老的南瓜鬼怪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/9f/20579_crt_pi6jt.jpg",
+        "link": "https://bgm.tv/character/20579",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

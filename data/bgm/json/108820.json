@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "21953",
+        "label": "希特隆",
+        "info": "《神奇宝贝XY》的主角，米亚雷市的道馆馆长。擅长发明，在背着的背包中装备着自豪的长尾怪手手臂。受到小智热爱神奇宝贝的心情而感动，决定带着妹妹尤莉卡和小智一起旅行，但起先没把馆主身分透露给他人知道。虽然有时后发明的东西可以帮助小智他们，但最后总是会爆炸或出问题。造型范本为3DS X、Y版米亚雷市的道馆馆长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/a2/21953_crt_yIDu6.jpg?r=1471929475",
+        "link": "https://bgm.tv/character/21953",
+        "categorie": "person"
+      },
+      {
+        "id": "21954",
+        "label": "柚丽嘉",
+        "info": "《神奇宝贝XY》的主角，希特隆的妹妹。非常喜欢神奇宝贝。也和小智一起旅行。在她成为正式的神奇宝贝训练家之前，西特隆替她保管她的神奇宝贝，目前希特隆替她保管的神奇宝贝只有电电鼠。常对希特隆的发明造成麻烦感到愤怒，也烦恼哥哥未来讨不到新娘。造型范本与3DS X、Y版同为希特隆的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/1d/21954_crt_x1S1O.jpg",
+        "link": "https://bgm.tv/character/21954",
+        "categorie": "person"
+      },
+      {
+        "id": "21955",
+        "label": "莎莉娜",
+        "info": "《神奇宝贝XY》的主角，来自卡洛斯地方、热衷于时尚的长发女孩，佩戴毛毡帽，中期随著剧情的发展将头发剪成了短发并换了套新的服装。自小被要求练习骑铁甲犀牛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/d2/21955_crt_9oQkF.jpg?r=1582456635",
+        "link": "https://bgm.tv/character/21955",
+        "categorie": "person"
+      },
+      {
+        "id": "30189",
+        "label": "胡巴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/e8/30189_crt_M34R9.jpg?r=1429457118",
+        "link": "https://bgm.tv/character/30189",
+        "categorie": "person"
+      },
+      {
+        "id": "45233",
+        "label": "梅雅利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/8e/45233_crt_SIPWp.jpg?r=1472523392",
+        "link": "https://bgm.tv/character/45233",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

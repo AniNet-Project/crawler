@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4262",
+        "label": "司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/0d/4262_crt_q1m2Q.jpg",
+        "link": "https://bgm.tv/character/4262",
+        "categorie": "person"
+      },
+      {
+        "id": "7508",
+        "label": "アウラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/10/7508_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7508",
+        "categorie": "person"
+      },
+      {
+        "id": "8221",
+        "label": "楚良",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/72/8221_crt_5SQTM.jpg",
+        "link": "https://bgm.tv/character/8221",
+        "categorie": "person"
+      },
+      {
+        "id": "8222",
+        "label": "昴",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/bc/8222_crt_sN6Qp.jpg",
+        "link": "https://bgm.tv/character/8222",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

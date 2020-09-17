@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57796",
+        "label": "更科柚季",
+        "info": "漁師の家の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/9a/57796_crt_70syV.jpg",
+        "link": "https://bgm.tv/character/57796",
+        "categorie": "person"
+      },
+      {
+        "id": "57797",
+        "label": "藤咲遥",
+        "info": "家庭的で面倒見の良い女の子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/b3/57797_crt_RHRqM.jpg",
+        "link": "https://bgm.tv/character/57797",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

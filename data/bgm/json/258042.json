@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42247",
+        "label": "宋哈娜",
+        "info": "“玩游戏就是要赢。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/9c/42247_crt_FS6BX.jpg?r=1488024175",
+        "link": "https://bgm.tv/character/42247",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

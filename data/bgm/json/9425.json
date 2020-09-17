@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10152",
+        "label": "四方谷裕史郎",
+        "info": "亨のクラスメイトであり、寮のルームメイトとなる東の姫（D組が東校舎にある為、実琴に対してそう呼ばれている）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/c2/10152_crt_e51qE.jpg",
+        "link": "https://bgm.tv/character/10152",
+        "categorie": "person"
+      },
+      {
+        "id": "48479",
+        "label": "河野亨",
+        "info": "本作の主人公。私立藤森学園高等部1年D組への、時期外れの転入生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/ad/48479_crt_FfwBG.jpg",
+        "link": "https://bgm.tv/character/48479",
+        "categorie": "person"
+      },
+      {
+        "id": "48480",
+        "label": "丰实琴",
+        "info": "西校舎にある特進クラスで学ぶ、優等生な西の姫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/c5/48480_crt_xVoQ1.jpg",
+        "link": "https://bgm.tv/character/48480",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

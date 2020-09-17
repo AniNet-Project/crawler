@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "21601",
+        "label": "加纳慎一",
+        "info": "本作主角，向青梅竹馬告白失敗之後，就在家裡擔任自宅警衛，經過一年這樣的生活後，因為雙親受不了而被逼迫在「回學校、就業、斷絕親子關係」中選擇一項，而結束了家裡蹲的生活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/a4/21601_crt_64XUE.jpg",
+        "link": "https://bgm.tv/character/21601",
+        "categorie": "person"
+      },
+      {
+        "id": "21602",
+        "label": "缪雪儿·弗兰",
+        "info": "半精灵女仆，在异世界是被歧视的种族，学习能力超强，各种家务万能，但是天然呆，待人友善，慎一写了一张五十音表给她后，每晚自己学习，再经过慎一的教导，很快就到达了日常沟通的地步。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/02/21602_crt_voX1g.jpg",
+        "link": "https://bgm.tv/character/21602",
+        "categorie": "person"
+      },
+      {
+        "id": "21603",
+        "label": "佩特菈卡·安·艾尔丹特三世",
+        "info": "神圣艾尔丹特帝国的皇帝，16岁。体型娇小，并有着人偶般的相貌。讨厌“幼女”这个称呼，被初次见面的加纳慎一用这个词称呼时，气得想将慎一斩首。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/93/21603_crt_05YIF.jpg",
+        "link": "https://bgm.tv/character/21603",
+        "categorie": "person"
+      },
+      {
+        "id": "21274",
+        "label": "迦流士·恩·克德巴尔",
+        "info": "ペトラルカの傍についている青年。ペトラルカとは遠縁に当たる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/ba/21274_crt_d2A0A.jpg",
+        "link": "https://bgm.tv/character/21274",
+        "categorie": "person"
+      },
+      {
+        "id": "21604",
+        "label": "古贺沼美埜里",
+        "info": "是陆上自卫队一等陆士，派来保护慎一的安全，本性是个腐女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/a3/21604_crt_3Nuus.jpg",
+        "link": "https://bgm.tv/character/21604",
+        "categorie": "person"
+      },
+      {
+        "id": "21605",
+        "label": "艾儿比娅·哈娜伊蔓",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/47/21605_crt_9Fllz.jpg",
+        "link": "https://bgm.tv/character/21605",
+        "categorie": "person"
+      },
+      {
+        "id": "63519",
+        "label": "的场甚三郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/cc/63519_crt_lge40.jpg",
+        "link": "https://bgm.tv/character/63519",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

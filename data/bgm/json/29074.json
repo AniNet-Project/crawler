@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18482",
+        "label": "月读锁锁美",
+        "info": "桜ノ花咲夜学園1年右組（4巻より2年左組）の生徒。天沼矛町で兄・神臣と2人暮らしをしている。重度の引きこもりで学園には通っていなかったが、1年の2月から通い始める。生活面では兄への依存度が高く、怒ると言葉が下品になるなど性格に二面性がある。引きこもっていた頃は自室から「お兄ちゃん監視ツール」を用いて神臣を中心とした外の世界を覗いていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/04/18482_crt_RVUq8.jpg",
+        "link": "https://bgm.tv/character/18482",
+        "categorie": "person"
+      },
+      {
+        "id": "18483",
+        "label": "月读神臣",
+        "info": "桜ノ花咲夜学園の教員。常に顔を何かで隠している。妹・鎖々美に対し強い愛情を抱き、溺愛している。基本は真面目な人間だが、たまに教師であることが不自然なほど常識に疎い一面や、妹に兄妹として不適切な欲求を抱いていると思わせる一面を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/86/18483_crt_ZU2dP.jpg",
+        "link": "https://bgm.tv/character/18483",
+        "categorie": "person"
+      },
+      {
+        "id": "18484",
+        "label": "邪神剑",
+        "info": "邪神三姉妹の長女。桜ノ花咲夜学園の教員（鎖々美の担任）。31歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b0/18484_crt_m0uar.jpg",
+        "link": "https://bgm.tv/character/18484",
+        "categorie": "person"
+      },
+      {
+        "id": "18485",
+        "label": "邪神镜",
+        "info": "邪神三姉妹の次女。桜ノ花咲夜学園1年右組（4巻より2年左組）の生徒。鎖々美とは当初お互いにぎこちない関係でもあったが、お互いに最初に出来たかけがえのない親友となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/a4/18485_crt_L3E3L.jpg",
+        "link": "https://bgm.tv/character/18485",
+        "categorie": "person"
+      },
+      {
+        "id": "18486",
+        "label": "邪神玉",
+        "info": "邪神三姉妹の三女。小学3年生。9歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/70/18486_crt_FLeLo.jpg",
+        "link": "https://bgm.tv/character/18486",
+        "categorie": "person"
+      },
+      {
+        "id": "19189",
+        "label": "虾怒川情雨",
+        "info": "2年編から登場。鎖々美の宿敵（自称）にして親友。かがみとは鎖々美を巡るライバル。桜ノ花咲夜学園2年左組（3巻より登場）の生徒で鎖々美のクラスメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/a4/19189_crt_a8Fjy.jpg",
+        "link": "https://bgm.tv/character/19189",
+        "categorie": "person"
+      },
+      {
+        "id": "19190",
+        "label": "月读咒咒",
+        "info": "鎖々美の母親であり先代の「月読の巫女」。鎖々美は母を尊敬しており、また呪々自身も不器用ながら娘を愛していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/fe/19190_crt_dNU2z.jpg",
+        "link": "https://bgm.tv/character/19190",
+        "categorie": "person"
+      },
+      {
+        "id": "19191",
+        "label": "玉藻前",
+        "info": "悪徳オカルト結社『アラハバキ』の幹部であり、一万年生きる伝説の金毛白面九尾のきつね。情雨の保護者のような存在でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/46/19191_crt_95NjS.jpg",
+        "link": "https://bgm.tv/character/19191",
+        "categorie": "person"
+      },
+      {
+        "id": "19192",
+        "label": "布津野弥火",
+        "info": "月読神社の巫女さん。月読神社の関係者からは主に「ミッちゃん(仮)」となぜか(仮)をつけて呼ばれる。業務日誌においても自身をミッちゃん(仮)としている。3巻では、ある理由で当主である留座から「ミッさま(仮)」と呼ばれるようになってしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/76/19192_crt_i71Gl.jpg",
+        "link": "https://bgm.tv/character/19192",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

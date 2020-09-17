@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52945",
+        "label": "小泉同学",
+        "info": "本作女主角，转学生，拉面狂热爱好者，一天三餐吃拉面都没问题，长相甜美可爱，性情冷淡，除了拉面，任何事情都不关心。虽然自己无知觉，但总是可以带动身边的人一起吃拉面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/8a/52945_crt_08x2w.jpg?r=1515073963",
+        "link": "https://bgm.tv/character/52945",
+        "categorie": "person"
+      },
+      {
+        "id": "58081",
+        "label": "大泽悠",
+        "info": "小泉同学的狂热追求者，超级黏小泉同学，同时也很有毅力，被拒绝多次仍然不放弃。意外地料理水平一等一的棒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/77/58081_crt_vRFZR.jpg?r=1516388317",
+        "link": "https://bgm.tv/character/58081",
+        "categorie": "person"
+      },
+      {
+        "id": "58083",
+        "label": "中村美沙",
+        "info": "喜爱化妆与逛街的辣妹，因为长得太可爱被许多男生追求，同时又被许多男生认为没有安全感而拒绝。对悠狂热追求小泉同学的行为感到不满。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/52/58083_crt_GWJQD.jpg?r=1516388369",
+        "link": "https://bgm.tv/character/58083",
+        "categorie": "person"
+      },
+      {
+        "id": "58084",
+        "label": "高桥润",
+        "info": "班里的优等生，年级第一，头脑相当好，偶尔会和小泉同学讨论拉面的问题。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/07/58084_crt_ZJlUe.jpg?r=1506509141",
+        "link": "https://bgm.tv/character/58084",
+        "categorie": "person"
+      },
+      {
+        "id": "58082",
+        "label": "大泽修",
+        "info": "悠の実兄。大学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/8b/58082_crt_gg5I5.jpg",
+        "link": "https://bgm.tv/character/58082",
+        "categorie": "person"
+      },
+      {
+        "id": "61792",
+        "label": "大泽绚音",
+        "info": "悠の従姉",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/d0/61792_crt_Ntw6z.jpg",
+        "link": "https://bgm.tv/character/61792",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

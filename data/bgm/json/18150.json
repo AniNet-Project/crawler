@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6130",
+        "label": "中原小麦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/72/6130_crt_6WPQQ.jpg?r=1449103919",
+        "link": "https://bgm.tv/character/6130",
+        "categorie": "person"
+      },
+      {
+        "id": "19516",
+        "label": "国分寺来和",
+        "info": "小麦のクラスメイトで大の仲良し。なおかつ巨乳ロリ顔の新進アイドル。しかしムギまるに追われるあんぐら〜によってまじかる冥土（メイド）と化してしまう。本人に自覚は無い。普段の性格はおっとりしていて小麦にも優しいがウルトラ天然ボケである、まじかる冥土時はあんぐら〜に乗っ取られているため陰険・高飛車・毒舌の三拍子で小麦を攻める。ちなみに小麦もこよりも変身後の姿は素顔のままだが、互いの正体に全く気付いていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/c2/19516_crt_97TA8.jpg?r=1451240548",
+        "link": "https://bgm.tv/character/19516",
+        "categorie": "person"
+      },
+      {
+        "id": "6412",
+        "label": "伊达京介",
+        "info": "歌手・俳優として人気ナンバーワンのアイドル。それでいて驕ったところが無い好青年。小麦の憧れの人であり、小麦がタレントになるきっかけになった人物でもある。小麦に対しても優しく接するが本編（The soul taker）では岬真夜にほのかな思いを寄せていたことに関連してか、小麦をほっといて女神マヤとラストいい感じになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/92/6412_crt_757bS.jpg?r=1452547350",
+        "link": "https://bgm.tv/character/6412",
+        "categorie": "person"
+      },
+      {
+        "id": "6413",
+        "label": "岬真夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/43/6413_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6413",
+        "categorie": "person"
+      },
+      {
+        "id": "19515",
+        "label": "壬生四郎",
+        "info": "キリプロの辣腕マネージャーで小麦の担当。口と態度が悪く、桐原社長との口喧嘩は日常茶飯事。小麦の能天気ぶりに手を焼いており悪態をつきつつも、見守らずにはおれないアニキ的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/98/19515_crt_T32YS.jpg?r=1452138917",
+        "link": "https://bgm.tv/character/19515",
+        "categorie": "person"
+      },
+      {
+        "id": "38228",
+        "label": "桐原夕映",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/42/38228_crt_aEJaU.jpg?r=1452904623",
+        "link": "https://bgm.tv/character/38228",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      },
+      {
+        "id": "20960",
+        "label": "月球",
+        "info": "再....再怎么看我，你也不会变身的！",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/c7/20960_crt_7WnuC.jpg?r=1452729795",
+        "link": "https://bgm.tv/character/20960",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

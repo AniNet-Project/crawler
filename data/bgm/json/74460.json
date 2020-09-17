@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48766",
+        "label": "シルヴィア・ヴェスパー",
+        "info": "自他共に認めるスゴ腕の魔術師。だが、過去の経歴などは一切不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/bf/48766_crt_0fIVB.jpg",
+        "link": "https://bgm.tv/character/48766",
+        "categorie": "person"
+      },
+      {
+        "id": "48767",
+        "label": "アルシア・エルグラント",
+        "info": "この大陸の南方、広大な森林地帯に位置する魔法王国の第二王女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/03/48767_crt_353sO.jpg",
+        "link": "https://bgm.tv/character/48767",
+        "categorie": "person"
+      },
+      {
+        "id": "48768",
+        "label": "シズナ・カドクラ",
+        "info": "学院の位置する大陸の遙か東方の島国からやってきた少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/f7/48768_crt_8zDQE.jpg",
+        "link": "https://bgm.tv/character/48768",
+        "categorie": "person"
+      },
+      {
+        "id": "48770",
+        "label": "ミルフィ・ファスファー",
+        "info": "年齢の割には小柄で幼い体つき。性格は明るくノリがいい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/fe/48770_crt_CqCxn.jpg",
+        "link": "https://bgm.tv/character/48770",
+        "categorie": "person"
+      },
+      {
+        "id": "48771",
+        "label": "エクレール・バーネット",
+        "info": "２人の幼い子を持つ未亡人。夫は過去に戦争で亡くしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/df/48771_crt_m6Ptl.jpg",
+        "link": "https://bgm.tv/character/48771",
+        "categorie": "person"
+      },
+      {
+        "id": "48772",
+        "label": "ツカサ・ストロビラントゥス",
+        "info": "この作品の主人公。外見は細身で華奢、容姿端麗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/07/48772_crt_V4VIc.jpg",
+        "link": "https://bgm.tv/character/48772",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

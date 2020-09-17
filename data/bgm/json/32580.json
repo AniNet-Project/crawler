@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14807",
+        "label": "华龙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/f7/14807_crt_4ee33.jpg",
+        "link": "https://bgm.tv/character/14807",
+        "categorie": "person"
+      },
+      {
+        "id": "14808",
+        "label": "鸦逗女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/36/14808_crt_437u2.jpg",
+        "link": "https://bgm.tv/character/14808",
+        "categorie": "person"
+      },
+      {
+        "id": "14809",
+        "label": "彩贵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/a5/14809_crt_355zg.jpg",
+        "link": "https://bgm.tv/character/14809",
+        "categorie": "person"
+      },
+      {
+        "id": "14810",
+        "label": "乙",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/b5/14810_crt_2nPt5.jpg",
+        "link": "https://bgm.tv/character/14810",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

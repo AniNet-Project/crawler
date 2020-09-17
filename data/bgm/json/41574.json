@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17629",
+        "label": "八草",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/44/17629_crt_eU7FU.jpg",
+        "link": "https://bgm.tv/character/17629",
+        "categorie": "person"
+      },
+      {
+        "id": "17630",
+        "label": "星之丘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/cb/17630_crt_wS906.jpg",
+        "link": "https://bgm.tv/character/17630",
+        "categorie": "person"
+      },
+      {
+        "id": "17631",
+        "label": "本乡",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/5d/17631_crt_9riZ2.jpg",
+        "link": "https://bgm.tv/character/17631",
+        "categorie": "person"
+      },
+      {
+        "id": "17632",
+        "label": "一社",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/fb/17632_crt_oNNJt.jpg",
+        "link": "https://bgm.tv/character/17632",
+        "categorie": "person"
+      },
+      {
+        "id": "17633",
+        "label": "中村新",
+        "info": "アラタ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ea/17633_crt_mYAGo.jpg",
+        "link": "https://bgm.tv/character/17633",
+        "categorie": "person"
+      },
+      {
+        "id": "37472",
+        "label": "桐岛",
+        "info": "世界を救うための適性検査の結果、過去へのタイムトラベルのメンバーに選ばれた少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/03/37472_crt_RSrWm.jpg",
+        "link": "https://bgm.tv/character/37472",
+        "categorie": "person"
+      },
+      {
+        "id": "37473",
+        "label": "松平贵弘",
+        "info": "《昨日》＆《明日》",
+        "image": "https:",
+        "link": "https://bgm.tv/character/37473",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

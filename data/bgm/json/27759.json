@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "1967",
+        "label": "妙蛙种子",
+        "info": "妙蛙种子是爬行动物形态的宝可梦，外表类似蟾蜍或小型恐龙。它的皮肤呈蓝绿色，并附有深绿色的斑纹。它有四条腿，每条腿有三个白色的尖爪子。它有着鲜红色的眼睛，在头顶上长着类似耳朵一样的一对凸起，并且有着一张大嘴，上颚的两颗牙齿清晰可见。这个宝可梦最显著的特点就是它背后那个洋葱状的鳞茎。这个鳞茎与宝可梦有着共生关系，从它出生起，鳞茎就在它的背上开始生长了。鳞茎通过白天的光合作用为妙蛙种子提供能量，同时鳞茎含有的许多能吸取养分的种子使得鳞茎能在夜间保持强劲长势。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/2d/1967_crt_anidb.jpg?r=1507957704",
+        "link": "https://bgm.tv/character/1967",
+        "categorie": "person"
+      },
+      {
+        "id": "1989",
+        "label": "喷火龙",
+        "info": "喷火龙是双足行走的具有西方龙特点的宝可梦。皮肤主要为橙色，颜色比火恐龙要稍浅，从腹部至尾巴尖端以及脚底是奶油色的。它长着短而粗壮的下肢和相对细小的上肢，上肢有着三根锐利的爪子同时脚上也长着三颗尖爪。与它进化之前不同，喷火龙背后长有可以用来飞翔的巨大翅膀。翅膀的内侧呈蓝绿色，第三个关节处长着角状的突起。它有着长长的脖子，蓝色的小眼睛，后脑勺上长着两个角状突起。与它进化前一样，它长长的尾巴末端燃烧着火焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/ba/1989_crt_xoKWB.jpg",
+        "link": "https://bgm.tv/character/1989",
+        "categorie": "person"
+      },
+      {
+        "id": "1990",
+        "label": "杰尼龟",
+        "info": "杰尼龟是以双足行走为主的乌龟外形的宝可梦。其身体呈亮蓝色，圆形的头部可以提高杰尼龟游泳的速度。眼睛是紫色的。前后肢都有是三趾，而且很短。它长有小型波浪状的尾巴。杰尼龟的躯干藏在龟壳里。龟壳的背面是褐色的，腹部的龟壳为淡黄色，两部分之间有着白色的波浪型边缘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/5f/1990_crt_QAGZn.jpg",
+        "link": "https://bgm.tv/character/1990",
+        "categorie": "person"
+      },
+      {
+        "id": "2096",
+        "label": "雷丘",
+        "info": "雷丘是两足啮齿动物外形的宝可梦。雷丘周身皮毛为暗橙色，腹部为白色。和皮卡丘一样，雷丘的背上有两个褐色的条纹。长而细的黑色尾部末端有为电光型，扁平且呈黄色。它不像皮卡丘一样有手指，取而代之的是圆乎乎的褐色小掌。黑色的小眼珠下面，两颊上有着黄色的电气袋。它的脚很大，是褐色的。其分叉的耳朵外侧是褐色的，内侧是黄色的，耳朵的末梢有一个卷曲的部位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/0a/2096_crt_llNr2.jpg",
+        "link": "https://bgm.tv/character/2096",
+        "categorie": "person"
+      },
+      {
+        "id": "2272",
+        "label": "カラカラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/33/2272_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2272",
+        "categorie": "person"
+      },
+      {
+        "id": "30699",
+        "label": "布卢",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/71/30699_crt_8H8J0.jpg",
+        "link": "https://bgm.tv/character/30699",
+        "categorie": "person"
+      },
+      {
+        "id": "30725",
+        "label": "玛力露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e3/30725_crt_aw5zj.jpg",
+        "link": "https://bgm.tv/character/30725",
+        "categorie": "person"
+      },
+      {
+        "id": "30733",
+        "label": "波克比",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/60/30733_crt_YYMX6.jpg",
+        "link": "https://bgm.tv/character/30733",
+        "categorie": "person"
+      },
+      {
+        "id": "2009",
+        "label": "阿柏怪",
+        "info": "阿柏怪外形类似巨大的紫色眼镜蛇。阿柏怪的身体上有黑色的细条纹。阿柏怪的头相比于它的颈部来说很小。眼睛是三角形的。吐出信子的嘴不像阿柏蛇那样大，但是里面长满毒牙。阿柏怪最引人注意的是它颈部的花纹，据考证有6种。但是最常见的只有一种。颈部的花纹类似一张愤怒的人脸：黑色的“眼眶”、红色和黄色的“眼镜”、黑色的“嘴角”向上扬起“嘴”和黑色的向下箭头式的“眉毛”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/32/2009_crt_R7m3Z.jpg",
+        "link": "https://bgm.tv/character/2009",
+        "categorie": "person"
+      },
+      {
+        "id": "2155",
+        "label": "火箭队的喵喵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/5f/2155_crt_Z3h33.jpg?r=1467313950",
+        "link": "https://bgm.tv/character/2155",
+        "categorie": "person"
+      },
+      {
+        "id": "2280",
+        "label": "マタドガス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/16/2280_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/2280",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12814",
+        "label": "小霞",
+        "info": "小霞（英文：Misty，日文：カスミ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪》的女主角。她的梦想是成为世界上最伟大的口袋妖怪水系训练家。她拥有海星星、波克基古及太阳珊瑚等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/29/12814_crt_ARhGn.jpg?r=1582457732",
+        "link": "https://bgm.tv/character/12814",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

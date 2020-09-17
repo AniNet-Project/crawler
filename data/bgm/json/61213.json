@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10845",
+        "label": "德古拉",
+        "info": "德古拉，原型来自外号为“穿刺公”的中世纪人物‧瓦拉几亚大公弗拉德三世，他在1456年至1462年间统治现在的川西凡尼亚地区。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/9f/10845_crt_OGLit.jpg",
+        "link": "https://bgm.tv/character/10845",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

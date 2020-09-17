@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33853",
+        "label": "小桥若叶",
+        "info": "普通の高校に入学した、純真無垢なお嬢様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/27/33853_crt_9qqnZ.jpg?r=1436625874",
+        "link": "https://bgm.tv/character/33853",
+        "categorie": "person"
+      },
+      {
+        "id": "33854",
+        "label": "时田萌子",
+        "info": "ちっちゃな身体と素直な心を持つ高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/70/33854_crt_wf0Cf.jpg?r=1436626045",
+        "link": "https://bgm.tv/character/33854",
+        "categorie": "person"
+      },
+      {
+        "id": "33855",
+        "label": "黑川真鱼",
+        "info": "気まぐれで奔放な高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/89/33855_crt_Temwi.jpg?r=1435942948",
+        "link": "https://bgm.tv/character/33855",
+        "categorie": "person"
+      },
+      {
+        "id": "33856",
+        "label": "真柴直",
+        "info": "中学時代はサッカー部、だけど高校に入ってからは腐女子な帰宅部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/97/33856_crt_4Z8hG.jpg?r=1437766623",
+        "link": "https://bgm.tv/character/33856",
+        "categorie": "person"
+      },
+      {
+        "id": "33895",
+        "label": "小桥柚叶",
+        "info": "若葉の姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/67/33895_crt_C9RQU.jpg?r=1439076382",
+        "link": "https://bgm.tv/character/33895",
+        "categorie": "person"
+      },
+      {
+        "id": "33896",
+        "label": "小桥乙叶",
+        "info": "若葉の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/d5/33896_crt_b31VH.jpg",
+        "link": "https://bgm.tv/character/33896",
+        "categorie": "person"
+      },
+      {
+        "id": "33897",
+        "label": "老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/40/33897_crt_Fb5k1.jpg?r=1438390442",
+        "link": "https://bgm.tv/character/33897",
+        "categorie": "person"
+      },
+      {
+        "id": "33898",
+        "label": "生徒",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/33898",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

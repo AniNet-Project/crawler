@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46202",
+        "label": "緒川香純",
+        "info": "物腰の柔らかい、百貨店勤務の女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/36/46202_crt_b583C.jpg",
+        "link": "https://bgm.tv/character/46202",
+        "categorie": "person"
+      },
+      {
+        "id": "46203",
+        "label": "豊森綾",
+        "info": "主人公の友人が入院している病院の看護師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/19/46203_crt_3AIbB.jpg",
+        "link": "https://bgm.tv/character/46203",
+        "categorie": "person"
+      },
+      {
+        "id": "46205",
+        "label": "徳沢明美",
+        "info": "ムッチリとした肉感的な身体を持つ、癒し系の美人若妻。 専業主婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/95/46205_crt_vdB3M.jpg",
+        "link": "https://bgm.tv/character/46205",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

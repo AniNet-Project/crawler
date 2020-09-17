@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "14222",
+        "label": "艾莉丝",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ba/14222_crt_mMrs4.jpg",
+        "link": "https://bgm.tv/character/14222",
+        "categorie": "person"
+      },
+      {
+        "id": "14223",
+        "label": "天桐",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/90/14223_crt_8iiEl.jpg",
+        "link": "https://bgm.tv/character/14223",
+        "categorie": "person"
+      },
+      {
+        "id": "18614",
+        "label": "N",
+        "info": "ポケモンを「トモダチ」と呼び、その心の声が聞こえるという力を持つ謎の青年。一人称は「ボク」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/6a/18614_crt_eK0rT.jpg",
+        "link": "https://bgm.tv/character/18614",
+        "categorie": "person"
+      },
+      {
+        "id": "18984",
+        "label": "帅哥",
+        "info": "声 - てらそままさき",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/d9/18984_crt_qt9D6.jpg",
+        "link": "https://bgm.tv/character/18984",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

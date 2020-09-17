@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6533",
+        "label": "犬夜叉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/00/6533_crt_9VEjS.jpg?r=1599936724",
+        "link": "https://bgm.tv/character/6533",
+        "categorie": "person"
+      },
+      {
+        "id": "6534",
+        "label": "日暮戈薇",
+        "info": "日暮戈薇是一个来自现代的初中三的学生，她也是战国时代桔梗的转世过来的巫女。在她疏忽之下将四魂之玉射成碎片，散落到每个世界的角落。为了不要让魍魉鬼怪得到四魂碎片，阿篱只好与其他相同命运的伙伴一起踏上收集四魂之玉碎片旅程。奈落被打到后，通往战国与现代的食骨之井就此失去效用三年。三年后再与犬夜叉相见，结婚后就决定留在战国定居下来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/44/6534_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6534",
+        "categorie": "person"
+      },
+      {
+        "id": "8539",
+        "label": "杀生丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/87/8539_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8539",
+        "categorie": "person"
+      },
+      {
+        "id": "9536",
+        "label": "珊瑚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/9a/9536_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9536",
+        "categorie": "person"
+      },
+      {
+        "id": "27626",
+        "label": "梦幻之白夜",
+        "info": "高桥留美子著《犬夜叉》中的反派角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/1f/27626_crt_5vM2m.jpg?r=1414624742",
+        "link": "https://bgm.tv/character/27626",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

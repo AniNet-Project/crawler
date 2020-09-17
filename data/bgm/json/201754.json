@@ -1,0 +1,373 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "54568",
+        "label": "君原姬乃",
+        "info": "おっとりした性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/34/54568_crt_6uOP8.jpg?r=1500994258",
+        "link": "https://bgm.tv/character/54568",
+        "categorie": "person"
+      },
+      {
+        "id": "54569",
+        "label": "狱乐希",
+        "info": "ラフな性格の姫乃の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/5b/54569_crt_4nZgz.jpg?r=1500499435",
+        "link": "https://bgm.tv/character/54569",
+        "categorie": "person"
+      },
+      {
+        "id": "54570",
+        "label": "名乐羌子",
+        "info": "いつもは冷静な姫乃の親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f8/54570_crt_U99Z4.jpg?r=1500994205",
+        "link": "https://bgm.tv/character/54570",
+        "categorie": "person"
+      },
+      {
+        "id": "54571",
+        "label": "御魂真奈美",
+        "info": "生まれながらの委員長気質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/c1/54571_crt_F1BC1.jpg?r=1501637792",
+        "link": "https://bgm.tv/character/54571",
+        "categorie": "person"
+      },
+      {
+        "id": "54572",
+        "label": "羽蛇神·萨斯萨斯索",
+        "info": "南極からの留学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/95/54572_crt_8Vebv.jpg?r=1496226798",
+        "link": "https://bgm.tv/character/54572",
+        "categorie": "person"
+      },
+      {
+        "id": "54573",
+        "label": "紫乃",
+        "info": "姫乃のいとこ。幼稚園に通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/ec/54573_crt_1GjKk.jpg?r=1502921108",
+        "link": "https://bgm.tv/character/54573",
+        "categorie": "person"
+      },
+      {
+        "id": "55669",
+        "label": "御魂千草",
+        "info": "御魂家の三つ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/aa/55669_crt_q44ut.jpg?r=1504947908",
+        "link": "https://bgm.tv/character/55669",
+        "categorie": "person"
+      },
+      {
+        "id": "55667",
+        "label": "御魂千奈美",
+        "info": "御魂家の三つ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/7e/55667_crt_2TwaT.jpg?r=1505576977",
+        "link": "https://bgm.tv/character/55667",
+        "categorie": "person"
+      },
+      {
+        "id": "55666",
+        "label": "御魂千穗",
+        "info": "御魂家の三つ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/dc/55666_crt_xZgvy.jpg?r=1505826449",
+        "link": "https://bgm.tv/character/55666",
+        "categorie": "person"
+      },
+      {
+        "id": "56025",
+        "label": "朱池美津代",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/29/56025_crt_o6W9F.jpg?r=1500260754",
+        "link": "https://bgm.tv/character/56025",
+        "categorie": "person"
+      },
+      {
+        "id": "56026",
+        "label": "犬养未散",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/cb/56026_crt_3034Q.jpg?r=1500260744",
+        "link": "https://bgm.tv/character/56026",
+        "categorie": "person"
+      },
+      {
+        "id": "56027",
+        "label": "小守真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/75/56027_crt_4zuVM.jpg?r=1500260811",
+        "link": "https://bgm.tv/character/56027",
+        "categorie": "person"
+      },
+      {
+        "id": "56028",
+        "label": "百步千鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/7a/56028_crt_0ElGF.jpg?r=1500261021",
+        "link": "https://bgm.tv/character/56028",
+        "categorie": "person"
+      },
+      {
+        "id": "56029",
+        "label": "猫见丰",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/99/56029_crt_zLkjf.jpg?r=1500261346",
+        "link": "https://bgm.tv/character/56029",
+        "categorie": "person"
+      },
+      {
+        "id": "57610",
+        "label": "藤本公作",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/96/57610_crt_iIoDR.jpg",
+        "link": "https://bgm.tv/character/57610",
+        "categorie": "person"
+      },
+      {
+        "id": "57614",
+        "label": "君原理乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/bc/57614_crt_81kYe.jpg",
+        "link": "https://bgm.tv/character/57614",
+        "categorie": "person"
+      },
+      {
+        "id": "57613",
+        "label": "美浦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/53/57613_crt_7dFqx.jpg",
+        "link": "https://bgm.tv/character/57613",
+        "categorie": "person"
+      },
+      {
+        "id": "57611",
+        "label": "小间隆道",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/49/57611_crt_GbUg8.jpg",
+        "link": "https://bgm.tv/character/57611",
+        "categorie": "person"
+      },
+      {
+        "id": "57612",
+        "label": "静浦流流",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/10/57612_crt_nS39T.jpg",
+        "link": "https://bgm.tv/character/57612",
+        "categorie": "person"
+      },
+      {
+        "id": "57615",
+        "label": "碧子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/68/57615_crt_61zKj.jpg",
+        "link": "https://bgm.tv/character/57615",
+        "categorie": "person"
+      },
+      {
+        "id": "57616",
+        "label": "御魂末摘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/c2/57616_crt_mahps.jpg?r=1504518091",
+        "link": "https://bgm.tv/character/57616",
+        "categorie": "person"
+      },
+      {
+        "id": "57617",
+        "label": "真奈美的父亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/37/57617_crt_7Q1QQ.jpg",
+        "link": "https://bgm.tv/character/57617",
+        "categorie": "person"
+      },
+      {
+        "id": "57618",
+        "label": "重时",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/ea/57618_crt_fRo6j.jpg",
+        "link": "https://bgm.tv/character/57618",
+        "categorie": "person"
+      },
+      {
+        "id": "57619",
+        "label": "桂奈绪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/65/57619_crt_18cd2.jpg",
+        "link": "https://bgm.tv/character/57619",
+        "categorie": "person"
+      },
+      {
+        "id": "57621",
+        "label": "八千代田十和子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/ad/57621_crt_PLvLE.jpg",
+        "link": "https://bgm.tv/character/57621",
+        "categorie": "person"
+      },
+      {
+        "id": "57622",
+        "label": "副部长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/2a/57622_crt_hilcN.jpg",
+        "link": "https://bgm.tv/character/57622",
+        "categorie": "person"
+      },
+      {
+        "id": "57620",
+        "label": "狱乐章",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/1d/57620_crt_2ukGt.jpg?r=1504521477",
+        "link": "https://bgm.tv/character/57620",
+        "categorie": "person"
+      },
+      {
+        "id": "57624",
+        "label": "下池抚子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/32/57624_crt_VQ4I3.jpg",
+        "link": "https://bgm.tv/character/57624",
+        "categorie": "person"
+      },
+      {
+        "id": "57623",
+        "label": "御牧真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/20/57623_crt_QfjCP.jpg",
+        "link": "https://bgm.tv/character/57623",
+        "categorie": "person"
+      },
+      {
+        "id": "57625",
+        "label": "小岛直",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/45/57625_crt_17wf1.jpg",
+        "link": "https://bgm.tv/character/57625",
+        "categorie": "person"
+      },
+      {
+        "id": "57626",
+        "label": "君原苍太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/a6/57626_crt_7YbZP.jpg",
+        "link": "https://bgm.tv/character/57626",
+        "categorie": "person"
+      },
+      {
+        "id": "57627",
+        "label": "名乐狄夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/61/57627_crt_1jpz2.jpg",
+        "link": "https://bgm.tv/character/57627",
+        "categorie": "person"
+      },
+      {
+        "id": "57628",
+        "label": "若牧绫香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/db/57628_crt_QvO0C.jpg",
+        "link": "https://bgm.tv/character/57628",
+        "categorie": "person"
+      },
+      {
+        "id": "57630",
+        "label": "小牧",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/06/57630_crt_AAV9t.jpg",
+        "link": "https://bgm.tv/character/57630",
+        "categorie": "person"
+      },
+      {
+        "id": "57629",
+        "label": "エリ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/4b/57629_crt_5ACi7.jpg",
+        "link": "https://bgm.tv/character/57629",
+        "categorie": "person"
+      },
+      {
+        "id": "57633",
+        "label": "长老",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/76/57633_crt_G7LnD.jpg",
+        "link": "https://bgm.tv/character/57633",
+        "categorie": "person"
+      },
+      {
+        "id": "57631",
+        "label": "让·卢梭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/bc/57631_crt_C7Fo8.jpg?r=1504524403",
+        "link": "https://bgm.tv/character/57631",
+        "categorie": "person"
+      },
+      {
+        "id": "57632",
+        "label": "会长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/a7/57632_crt_sVBdr.jpg",
+        "link": "https://bgm.tv/character/57632",
+        "categorie": "person"
+      },
+      {
+        "id": "57759",
+        "label": "中史带人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/98/57759_crt_jG8gZ.jpg",
+        "link": "https://bgm.tv/character/57759",
+        "categorie": "person"
+      },
+      {
+        "id": "57896",
+        "label": "莉莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/aa/57896_crt_Q8zNB.jpg",
+        "link": "https://bgm.tv/character/57896",
+        "categorie": "person"
+      },
+      {
+        "id": "57897",
+        "label": "小美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/f4/57897_crt_bbT69.jpg",
+        "link": "https://bgm.tv/character/57897",
+        "categorie": "person"
+      },
+      {
+        "id": "58026",
+        "label": "爱甲时惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/15/58026_crt_OtFZ1.jpg?r=1506271541",
+        "link": "https://bgm.tv/character/58026",
+        "categorie": "person"
+      },
+      {
+        "id": "58027",
+        "label": "东铁纯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/98/58027_crt_3GyTI.jpg",
+        "link": "https://bgm.tv/character/58027",
+        "categorie": "person"
+      },
+      {
+        "id": "58028",
+        "label": "岛千鸟",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/ba/58028_crt_P24ff.jpg?r=1506272872",
+        "link": "https://bgm.tv/character/58028",
+        "categorie": "person"
+      },
+      {
+        "id": "58029",
+        "label": "佐藤高美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/21/58029_crt_wyOgC.jpg",
+        "link": "https://bgm.tv/character/58029",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

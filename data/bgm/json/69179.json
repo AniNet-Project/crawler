@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46181",
+        "label": "秋野美弥",
+        "info": "主人公・龍也の1つ年上の義姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/3e/46181_crt_o8u1O.jpg",
+        "link": "https://bgm.tv/character/46181",
+        "categorie": "person"
+      },
+      {
+        "id": "46183",
+        "label": "相葉茉莉",
+        "info": "主人公のクラスメイトで、悪友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/40/46183_crt_rQVyN.jpg",
+        "link": "https://bgm.tv/character/46183",
+        "categorie": "person"
+      },
+      {
+        "id": "46182",
+        "label": "久我山奈月",
+        "info": "美弥のクラスメイトにして、親友。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/e4/46182_crt_S80Pt.jpg",
+        "link": "https://bgm.tv/character/46182",
+        "categorie": "person"
+      },
+      {
+        "id": "46185",
+        "label": "槙原理恵子",
+        "info": "化学教師で、龍也や茉莉のクラス担任にして養護教諭。さらに学生会顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/11/46185_crt_4s5tL.jpg",
+        "link": "https://bgm.tv/character/46185",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

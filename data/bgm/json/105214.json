@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22741",
+        "label": "渡濑青叶",
+        "info": "诚应高中1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/36/22741_crt_h5XfZ.jpg?r=1388404100",
+        "link": "https://bgm.tv/character/22741",
+        "categorie": "person"
+      },
+      {
+        "id": "22744",
+        "label": "弓原雛",
+        "info": "16歳で誠應高校に通う1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/7f/22744_crt_7n7k7.jpg?r=1583694470",
+        "link": "https://bgm.tv/character/22744",
+        "categorie": "person"
+      },
+      {
+        "id": "22745",
+        "label": "隼鹰·迪奥·温伯格",
+        "info": "自由条約連合軍少尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/fb/22745_crt_0Je3S.jpg?r=1395073777",
+        "link": "https://bgm.tv/character/22745",
+        "categorie": "person"
+      },
+      {
+        "id": "49770",
+        "label": "ヴィルヘルム・ハーン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/14/49770_crt_7NMWl.jpg",
+        "link": "https://bgm.tv/character/49770",
+        "categorie": "person"
+      },
+      {
+        "id": "22746",
+        "label": "仓光源吾",
+        "info": "38歳で自由条約連合軍に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e7/22746_crt_l9h16.jpg?r=1388403912",
+        "link": "https://bgm.tv/character/22746",
+        "categorie": "person"
+      },
+      {
+        "id": "22747",
+        "label": "丽妮·克莱茵贝克",
+        "info": "自由条約連合軍に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/c0/22747_crt_gwHZt.jpg",
+        "link": "https://bgm.tv/character/22747",
+        "categorie": "person"
+      },
+      {
+        "id": "22748",
+        "label": "李·康拉德",
+        "info": "自由条約連合軍に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/6a/22748_crt_8U0I8.jpg?r=1388404287",
+        "link": "https://bgm.tv/character/22748",
+        "categorie": "person"
+      },
+      {
+        "id": "22750",
+        "label": "艾尔薇拉·希尔",
+        "info": "特務士官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/aa/22750_crt_99Dya.jpg?r=1388404926",
+        "link": "https://bgm.tv/character/22750",
+        "categorie": "person"
+      },
+      {
+        "id": "22753",
+        "label": "アネッサ・ロセッティ",
+        "info": "自由条約連合軍伍長。管制士をしており、新造艦シグナスのヴァリアンサーの管制を担当している。親友のまゆかとは真逆で活発。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ce/22753_crt_3sBci.jpg",
+        "link": "https://bgm.tv/character/22753",
+        "categorie": "person"
+      },
+      {
+        "id": "22760",
+        "label": "比宗·杰拉菲尔",
+        "info": "大ゾギリア共和国国防军中尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/89/22760_crt_6wN2L.jpg",
+        "link": "https://bgm.tv/character/22760",
+        "categorie": "person"
+      },
+      {
+        "id": "49769",
+        "label": "玛格丽塔·奥基弗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/cc/49769_crt_WdcXT.jpg",
+        "link": "https://bgm.tv/character/49769",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

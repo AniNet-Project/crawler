@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7454",
+        "label": "暗游戏 / 亚图姆",
+        "info": "游戏所组合的千年积木中内藏的另一个人格，寄宿于游戏身上而能够于现世中复活。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/19/7454_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7454",
+        "categorie": "person"
+      },
+      {
+        "id": "7638",
+        "label": "城之内克也",
+        "info": "主人公・武藤遊戯の親友。当初は不良として登場。ケンカはとても強く男気に溢れ、親友である遊戯らや実妹の川井静香のためなら、どんな危険も恐れない。一方で頭はあまり良くない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/02/7638_crt_x666U.jpg?r=1577709087",
+        "link": "https://bgm.tv/character/7638",
+        "categorie": "person"
+      },
+      {
+        "id": "18160",
+        "label": "武藤游戏",
+        "info": "普段は穏やかな表情だが、「千年パズル」が発動されると同時に冷徹な性格に変わる。主に悪人に闇のゲームを挑み、敗者には恐ろしい罰ゲームを与える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/57/18160_crt_i0MM0.jpg",
+        "link": "https://bgm.tv/character/18160",
+        "categorie": "person"
+      },
+      {
+        "id": "18161",
+        "label": "海马濑人",
+        "info": "遊戯のライバルで海馬コーポレーションの社長。切り札は青眼の白龍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/4b/18161_crt_k2mz1.jpg",
+        "link": "https://bgm.tv/character/18161",
+        "categorie": "person"
+      },
+      {
+        "id": "7637",
+        "label": "本田广",
+        "info": "武藤游戏的同班同学、是城之内的损友，在原作中、他是男性主要配角中唯一一位没有决斗过、也不是决斗者的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/a9/7637_crt_anidb.jpg?r=1537458568",
+        "link": "https://bgm.tv/character/7637",
+        "categorie": "person"
+      },
+      {
+        "id": "7639",
+        "label": "真崎杏子",
+        "info": "遊戯の幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/fb/7639_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7639",
+        "categorie": "person"
+      },
+      {
+        "id": "36641",
+        "label": "黑魔导女孩",
+        "info": "黑魔导女孩是漫画《游戏王》主人公武藤游戏的代表性怪兽卡之一，也是黑魔导的弟子。在武藤游戏与潘多拉决斗时首次出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/05/36641_crt_Zt9hT.jpg",
+        "link": "https://bgm.tv/character/36641",
+        "categorie": "person"
+      },
+      {
+        "id": "36642",
+        "label": "黑魔导",
+        "info": "介绍：在魔法师之中，攻击力·守备力都是最高级别的。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ce/36642_crt_0Ss6P.jpg",
+        "link": "https://bgm.tv/character/36642",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

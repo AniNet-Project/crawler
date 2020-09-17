@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28735",
+        "label": "箱根有基",
+        "info": "眉难高中一年级学生。自家经营着黑玉汤（温泉）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/19/28735_crt_1Piri.jpg?r=1420636632",
+        "link": "https://bgm.tv/character/28735",
+        "categorie": "person"
+      },
+      {
+        "id": "28736",
+        "label": "由布院烟",
+        "info": "眉难高中三年级学生。总是我行我素的邋遢的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/46/28736_crt_1eA55.jpg?r=1420636778",
+        "link": "https://bgm.tv/character/28736",
+        "categorie": "person"
+      },
+      {
+        "id": "28737",
+        "label": "鬼怒川热史",
+        "info": "眉难高中三年级学生。性格认真。由于认真的性格而总是忙于照顾由布院。眼镜男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/9a/28737_crt_Bbr0Z.jpg?r=1420636920",
+        "link": "https://bgm.tv/character/28737",
+        "categorie": "person"
+      },
+      {
+        "id": "28738",
+        "label": "鸣子硫黄",
+        "info": "眉难高中二年级学生。虽然是高中生却赚了不少外汇。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/6d/28738_crt_yE589.jpg?r=1420637005",
+        "link": "https://bgm.tv/character/28738",
+        "categorie": "person"
+      },
+      {
+        "id": "28739",
+        "label": "藏王立",
+        "info": "眉难高中二年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/6e/28739_crt_PKPMP.jpg?r=1420637138",
+        "link": "https://bgm.tv/character/28739",
+        "categorie": "person"
+      },
+      {
+        "id": "28740",
+        "label": "翁巴特",
+        "info": "为了守护地球，从遥远的星球而来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/e0/28740_crt_lrb5j.jpg",
+        "link": "https://bgm.tv/character/28740",
+        "categorie": "person"
+      },
+      {
+        "id": "28741",
+        "label": "草津锦史郎",
+        "info": "眉难高中三年级学生。学生会会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/bd/28741_crt_0V80X.jpg?r=1420637379",
+        "link": "https://bgm.tv/character/28741",
+        "categorie": "person"
+      },
+      {
+        "id": "28742",
+        "label": "有马熏",
+        "info": "眉难高中三年级学生。学生会副会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/2b/28742_crt_ZFUAk.jpg?r=1420637538",
+        "link": "https://bgm.tv/character/28742",
+        "categorie": "person"
+      },
+      {
+        "id": "28743",
+        "label": "下吕阿古哉",
+        "info": "眉难高中二年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/e5/28743_crt_5n5o2.jpg?r=1420637676",
+        "link": "https://bgm.tv/character/28743",
+        "categorie": "person"
+      },
+      {
+        "id": "28744",
+        "label": "尊达",
+        "info": "为了征服地球，从遥远的星球而来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/32/28744_crt_4b14b.jpg",
+        "link": "https://bgm.tv/character/28744",
+        "categorie": "person"
+      },
+      {
+        "id": "29252",
+        "label": "箱根強羅",
+        "info": "有基の兄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d0/29252_crt_FfElS.jpg",
+        "link": "https://bgm.tv/character/29252",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "30969",
+        "label": "知久和武",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/b1/30969_crt_o6ovi.jpg?r=1426063243",
+        "link": "https://bgm.tv/character/30969",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

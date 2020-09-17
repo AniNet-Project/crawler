@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "47912",
+        "label": "藤丸立香",
+        "info": "人理継続保障機関(カルデア)のマスター候補の1人だが、数合わせとして呼ばれた「素人」。人類史を正すため、英霊召喚システム「フェイト」を使ってサーヴァントを召喚し、7つの聖杯探索(グランドオーダー)を巡ることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/59/47912_crt_645i4.jpg",
+        "link": "https://bgm.tv/character/47912",
+        "categorie": "person"
+      },
+      {
+        "id": "29048",
+        "label": "玛修·基列莱特",
+        "info": "登场于Fate/Grand Order, 源于Fate/stay night最初设定的, 持有巨大盾牌的迷之少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/ac/29048_crt_ZM4FW.jpg?r=1498989510",
+        "link": "https://bgm.tv/character/29048",
+        "categorie": "person"
+      },
+      {
+        "id": "32222",
+        "label": "芙芙",
+        "info": "マシュとともに主人公と出会う、愛らしい動物。カルデアの中を自由に散歩しているようだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/b1/32222_crt_cbjB5.jpg",
+        "link": "https://bgm.tv/character/32222",
+        "categorie": "person"
+      },
+      {
+        "id": "32224",
+        "label": "罗玛尼·阿其曼",
+        "info": "「人理継続保障機関（カルデア）」に所属する青年医師。カルデアの医療担当のトップを預かる人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/06/32224_crt_c8XYX.jpg?r=1533801766",
+        "link": "https://bgm.tv/character/32224",
+        "categorie": "person"
+      },
+      {
+        "id": "35860",
+        "label": "列奥纳多·达·芬奇",
+        "info": "被称作万能的天才。十五~十六世纪欧洲的人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/88/35860_crt_tFHjF.jpg?r=1477826427",
+        "link": "https://bgm.tv/character/35860",
+        "categorie": "person"
+      },
+      {
+        "id": "1227",
+        "label": "吉尔伽美什",
+        "info": "号称拥有最强宝具的Servant，将其他所有人都蔑称为“杂种”的傲慢的王者。其真身乃是人类最古老的英灵——英雄王吉尔伽美什。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/ca/1227_crt_Dq9kZ.jpg?r=1498989532",
+        "link": "https://bgm.tv/character/1227",
+        "categorie": "person"
+      },
+      {
+        "id": "53399",
+        "label": "金固",
+        "info": "メソポタミア神話における神の一人。ティアマト神の息子にして夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/eb/53399_crt_rnFMm.jpg",
+        "link": "https://bgm.tv/character/53399",
+        "categorie": "person"
+      },
+      {
+        "id": "38222",
+        "label": "梅林",
+        "info": "乐园的放浪者。于亚瑟王传说中登场的身兼导师及预言家身份的宫廷魔术师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/23/38222_crt_ZhLI4.jpg?r=1452846916",
+        "link": "https://bgm.tv/character/38222",
+        "categorie": "person"
+      },
+      {
+        "id": "12262",
+        "label": "美杜莎",
+        "info": "骑兵的英灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/a1/12262_crt_Ub110.jpg",
+        "link": "https://bgm.tv/character/12262",
+        "categorie": "person"
+      },
+      {
+        "id": "61511",
+        "label": "伊什塔尔",
+        "info": "在美索不达米亚神话中掌管美与丰收，以及战争的女神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/9b/61511_crt_8ViMi.jpg?r=1520326721",
+        "link": "https://bgm.tv/character/61511",
+        "categorie": "person"
+      },
+      {
+        "id": "53398",
+        "label": "西杜里",
+        "info": "メインシナリオ第七章の登場人物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/81/53398_crt_sDTms.jpg",
+        "link": "https://bgm.tv/character/53398",
+        "categorie": "person"
+      },
+      {
+        "id": "32238",
+        "label": "牛若丸",
+        "info": "鎧兜に身を固めた年若な少女。兄を慕う一途で純真な天才剣士。あまりに優れた才能のため、周囲から迫害されるのが常だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/c8/32238_crt_eR5EJ.jpg?r=1477830029",
+        "link": "https://bgm.tv/character/32238",
+        "categorie": "person"
+      },
+      {
+        "id": "50317",
+        "label": "武藏坊辨庆",
+        "info": "曾与源义经一同大展身手，日本史上最著名的僧兵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/c6/50317_crt_p5gGC.jpg?r=1498989802",
+        "link": "https://bgm.tv/character/50317",
+        "categorie": "person"
+      },
+      {
+        "id": "35847",
+        "label": "列奥尼达一世",
+        "info": "斯巴达教育这一词汇的语源地，斯巴达之王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/f2/35847_crt_a811b.jpg?r=1498989844",
+        "link": "https://bgm.tv/character/35847",
+        "categorie": "person"
+      },
+      {
+        "id": "53400",
+        "label": "埃列什基伽勒",
+        "info": "《Fate/Grand Order》主线第七特异点初登场。美索不达米亚的冥界女神，伊什塔尔的姐姐。另有「アルラトゥ」、「イルカルラ」、「ベリリ」等名字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/76/53400_crt_Oj4J5.jpg",
+        "link": "https://bgm.tv/character/53400",
+        "categorie": "person"
+      },
+      {
+        "id": "50616",
+        "label": "魁札尔科亚特尔",
+        "info": "中南美洲阿兹特克神话中存在的至高一柱神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/49/50616_crt_eEf5H.jpg?r=1485490483",
+        "link": "https://bgm.tv/character/50616",
+        "categorie": "person"
+      },
+      {
+        "id": "72082",
+        "label": "豹人",
+        "info": "中南美传说中的古代神灵之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/4e/72082_crt_7tpkI.jpg",
+        "link": "https://bgm.tv/character/72082",
+        "categorie": "person"
+      },
+      {
+        "id": "50618",
+        "label": "“山中老人”",
+        "info": "以骷髅面具覆面的暗杀者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ac/50618_crt_Wf766.jpg?r=1485941913",
+        "link": "https://bgm.tv/character/50618",
+        "categorie": "person"
+      },
+      {
+        "id": "29849",
+        "label": "恩奇都",
+        "info": "吉尔伽美什唯一的好友兼宿敌，苏美尔天神创造的神造泥人",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/45/29849_crt_ZK416.jpg?r=1520326762",
+        "link": "https://bgm.tv/character/29849",
+        "categorie": "person"
+      },
+      {
+        "id": "53389",
+        "label": "夏洛克·福尔摩斯",
+        "info": "世界最高にして唯一の顧問探偵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/bb/53389_crt_Os633.jpg?r=1502289088",
+        "link": "https://bgm.tv/character/53389",
+        "categorie": "person"
+      },
+      {
+        "id": "35857",
+        "label": "尤瑞艾莉",
+        "info": "希腊神话中的戈耳工三姐妹的次女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/62/35857_crt_Ovgy8.jpg?r=1477828096",
+        "link": "https://bgm.tv/character/35857",
+        "categorie": "person"
+      },
+      {
+        "id": "35927",
+        "label": "斯忒诺",
+        "info": "紫色の髪を持つ、可愛らしい容姿をした少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/44/35927_crt_iPli7.jpg?r=1477827998",
+        "link": "https://bgm.tv/character/35927",
+        "categorie": "person"
+      },
+      {
+        "id": "62923",
+        "label": "人理延续保障机构·迦勒底",
+        "info": "迦勒底是《Fate/Grand Order》中登场的一个架空的研究机构。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/a2/62923_crt_5cyiw.jpg",
+        "link": "https://bgm.tv/character/62923",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

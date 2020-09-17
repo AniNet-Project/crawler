@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29199",
+        "label": "缇娅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/b2/29199_crt_kCiZa.jpg?r=1421623642",
+        "link": "https://bgm.tv/character/29199",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

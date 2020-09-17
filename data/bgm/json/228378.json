@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58754",
+        "label": "鸣宫凑",
+        "info": "风舞高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/fe/58754_crt_NkoxK.jpg?r=1536854358",
+        "link": "https://bgm.tv/character/58754",
+        "categorie": "person"
+      },
+      {
+        "id": "58755",
+        "label": "竹早静弥",
+        "info": "风舞高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/1a/58755_crt_WhFfw.jpg?r=1536854393",
+        "link": "https://bgm.tv/character/58755",
+        "categorie": "person"
+      },
+      {
+        "id": "58756",
+        "label": "山之内辽平",
+        "info": "风舞高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/3d/58756_crt_B52oH.jpg?r=1536854648",
+        "link": "https://bgm.tv/character/58756",
+        "categorie": "person"
+      },
+      {
+        "id": "58758",
+        "label": "如月七绪",
+        "info": "风舞高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/a4/58758_crt_CDbkp.jpg?r=1536854522",
+        "link": "https://bgm.tv/character/58758",
+        "categorie": "person"
+      },
+      {
+        "id": "58757",
+        "label": "小野木海斗",
+        "info": "风舞高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/c6/58757_crt_DpR00.jpg?r=1536854463",
+        "link": "https://bgm.tv/character/58757",
+        "categorie": "person"
+      },
+      {
+        "id": "58759",
+        "label": "泷川雅贵",
+        "info": "湊が「夜多の森弓道場」で出会った、不思議な男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/68/58759_crt_JFv4V.jpg?r=1536854483",
+        "link": "https://bgm.tv/character/58759",
+        "categorie": "person"
+      },
+      {
+        "id": "58760",
+        "label": "藤原愁",
+        "info": "桐先高校弓道部1年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/9b/58760_crt_4kn5R.jpg?r=1543216969",
+        "link": "https://bgm.tv/character/58760",
+        "categorie": "person"
+      },
+      {
+        "id": "66869",
+        "label": "森冈富男",
+        "info": "みんなから慕われているおじいちゃん先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/5c/66869_crt_rmPjP.jpg?r=1543216986",
+        "link": "https://bgm.tv/character/66869",
+        "categorie": "person"
+      },
+      {
+        "id": "66870",
+        "label": "妹尾梨可",
+        "info": "風舞高校弓道部女子部部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/cc/66870_crt_V8wwC.jpg?r=1543216781",
+        "link": "https://bgm.tv/character/66870",
+        "categorie": "person"
+      },
+      {
+        "id": "66871",
+        "label": "花泽优奈",
+        "info": "風舞高校弓道部女子部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/68/66871_crt_NnCTC.jpg?r=1543216757",
+        "link": "https://bgm.tv/character/66871",
+        "categorie": "person"
+      },
+      {
+        "id": "66872",
+        "label": "白菊乃爱",
+        "info": "風舞高校弓道部女子部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/eb/66872_crt_e749N.jpg?r=1543216800",
+        "link": "https://bgm.tv/character/66872",
+        "categorie": "person"
+      },
+      {
+        "id": "66873",
+        "label": "本村宏树",
+        "info": "桐先高校弓道部部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a1/66873_crt_2U2T4.jpg?r=1543216869",
+        "link": "https://bgm.tv/character/66873",
+        "categorie": "person"
+      },
+      {
+        "id": "66874",
+        "label": "佐濑大悟",
+        "info": "桐先高校弓道部副部長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/ec/66874_crt_YgKZg.jpg?r=1543216894",
+        "link": "https://bgm.tv/character/66874",
+        "categorie": "person"
+      },
+      {
+        "id": "66875",
+        "label": "菅原千一",
+        "info": "桐先高校1年生。万次の双子の兄。兄弟揃って早打ちで、その早打ちは敵味方を問わず周囲を混乱させる。不遜な態度から先輩の椛島によく注意を受けているが、弓の腕前は確か。中学時代に見た愁の射に衝撃を受け、桐先高校へ進学した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/52/66875_crt_lt2Z9.jpg?r=1543216841",
+        "link": "https://bgm.tv/character/66875",
+        "categorie": "person"
+      },
+      {
+        "id": "66876",
+        "label": "菅原万次",
+        "info": "桐先高校1年生。千一の双子の弟。兄弟共に桐先高校へ進学。早打ちや態度の悪さで度々周囲を受けるが、後片付けや練習には真面目に取り組んでいる。遠方からの進学になるため、千一と共に寮暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/f4/66876_crt_ag3XW.jpg?r=1543216918",
+        "link": "https://bgm.tv/character/66876",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

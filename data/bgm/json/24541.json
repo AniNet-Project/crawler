@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11093",
+        "label": "中津川初",
+        "info": "和从都市的学校转校而来的一馬，第一个接触的少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/e6/11093_crt_6UdL9.jpg",
+        "link": "https://bgm.tv/character/11093",
+        "categorie": "person"
+      },
+      {
+        "id": "12778",
+        "label": "星野一马",
+        "info": "为了弟弟的身体疗养，从都市来到山比古町的少年。编入到山比古南学园二年级。父亲是著名的作家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/40/12778_crt_6EkNe.jpg",
+        "link": "https://bgm.tv/character/12778",
+        "categorie": "person"
+      },
+      {
+        "id": "11095",
+        "label": "藤堂绸",
+        "info": "比一馬大一岁的前辈。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/9e/11095_crt_G8egv.jpg",
+        "link": "https://bgm.tv/character/11095",
+        "categorie": "person"
+      },
+      {
+        "id": "11094",
+        "label": "日向伊吹",
+        "info": "一馬和初的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ee/11094_crt_B4rEz.jpg",
+        "link": "https://bgm.tv/character/11094",
+        "categorie": "person"
+      },
+      {
+        "id": "11097",
+        "label": "酒井阳菜",
+        "info": "比一馬大一岁的前辈，也是つむぎ的亲友。冷静不怎么为他事动摇的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/c0/11097_crt_jAFHw.jpg",
+        "link": "https://bgm.tv/character/11097",
+        "categorie": "person"
+      },
+      {
+        "id": "11098",
+        "label": "神本圆佳",
+        "info": "当地神社的主祭的女儿。1年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/84/11098_crt_jJmhI.jpg",
+        "link": "https://bgm.tv/character/11098",
+        "categorie": "person"
+      },
+      {
+        "id": "12779",
+        "label": "星野步",
+        "info": "身体虚弱，患有哮喘，为了疗养至山比古町来。行为较女性化，确凿的男孩子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/d7/12779_crt_FNEht.jpg",
+        "link": "https://bgm.tv/character/12779",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

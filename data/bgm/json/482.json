@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "189",
+        "label": "橘圭一郎",
+        "info": "财阀会长的孙子，现在是“Antique”的店主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/55/189_a7b2e94197ff767970b67041697_j2xwk.jpg",
+        "link": "https://bgm.tv/character/189",
+        "categorie": "person"
+      },
+      {
+        "id": "190",
+        "label": "小野裕介",
+        "info": "“Antique”的糕点主厨，魔性GAY男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/ec/190_b276f634854f3ef915e2e980c31_QQYEi.jpg",
+        "link": "https://bgm.tv/character/190",
+        "categorie": "person"
+      },
+      {
+        "id": "191",
+        "label": "神田英治",
+        "info": "“Antique”的号称糕点师助手的学徒，原来是世界拳击冠军。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a1/191_83c6411f7873cb83dacb17b0afc_zyTNx.jpg",
+        "link": "https://bgm.tv/character/191",
+        "categorie": "person"
+      },
+      {
+        "id": "192",
+        "label": "小早川千影",
+        "info": "相当于大号行李般非常不中用的橘的近侍，眼睛有惧光症。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/a2/192_c6ed39fd083f55d4182bf88826d_5Kiri.jpg",
+        "link": "https://bgm.tv/character/192",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

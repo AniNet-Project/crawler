@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20652",
+        "label": "莱卡特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/ec/20652_crt_dAFxV.jpg",
+        "link": "https://bgm.tv/character/20652",
+        "categorie": "person"
+      },
+      {
+        "id": "20653",
+        "label": "西琼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/f7/20653_crt_p9OgV.jpg",
+        "link": "https://bgm.tv/character/20653",
+        "categorie": "person"
+      },
+      {
+        "id": "20654",
+        "label": "ホズル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/c4/20654_crt_qi1m1.jpg",
+        "link": "https://bgm.tv/character/20654",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

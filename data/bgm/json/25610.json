@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5382",
+        "label": "阿莱茵",
+        "info": "ノワとアンネロッテの師匠。沼地の魔女勢によって森のエルフは虐殺されたため、生き残っているのはガイノスからの帰路にあったノワとアレインのみである。ノワと別れて数日経ったある日、女王軍に追われ怪我を負ったアンネロッテを偶然助ける。その後アンネロッテからの弟子入り願いを一度は拒むが、彼女の熱意に負け、弟子として受け入れる（OVA「新たなる師弟、新たなる闘い」）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/5c/5382_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5382",
+        "categorie": "person"
+      },
+      {
+        "id": "16248",
+        "label": "安妮洛特",
+        "info": "第二代的主角，叛军的头领。曾经是克莱茵边境骑士团的一员。由于某些原因，她从小被边境伯爵当成男性抚养，并以阿尔冯斯的名义生活。某天，悲剧发生在她的身上，她所在的城堡被女王克罗蒂特的军队破坏。她为了躲避女王所派遣的刺客而闯入精灵之森。她因为受伤而在森林中倒下，后来被战闘教官艾琳所救，及后更成为艾琳的弟子。从艾琳的指导中，她学习到正统的剑术。经过一连串的训练后，她离开了精灵之森，为了要替牺牲的同伴复仇而展开了向女王报复的旅程。旅程中，她遇上一群与她志同道合的女性斗士。她与同伴们为了要推翻女王克罗蒂特，于是以她为中心的叛军便正式组成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/73/16248_crt_BdDj9.jpg",
+        "link": "https://bgm.tv/character/16248",
+        "categorie": "person"
+      },
+      {
+        "id": "16249",
+        "label": "西琪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/c3/16249_crt_i4vl7.jpg",
+        "link": "https://bgm.tv/character/16249",
+        "categorie": "person"
+      },
+      {
+        "id": "5466",
+        "label": "尤米尔",
+        "info": "闘士にして鋼鉄武器の商人。カトレアとは商売仇であるが、信頼し合う友人関係でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/5e/5466_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5466",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60784",
+        "label": "高峰沙耶",
+        "info": "主人公のクラス担任で数学教師。自分に従わない主人公を目の敵にしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/f8/60784_crt_XVPP9.jpg",
+        "link": "https://bgm.tv/character/60784",
+        "categorie": "person"
+      },
+      {
+        "id": "60789",
+        "label": "槙山理保子",
+        "info": "親しみやすいが、謎の多い美人（自称）の保健医。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/fb/60789_crt_MsT55.jpg",
+        "link": "https://bgm.tv/character/60789",
+        "categorie": "person"
+      },
+      {
+        "id": "60790",
+        "label": "藤堂美雪",
+        "info": "他人を疑うことを知らず、誰にでも優しく接する国語教師。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/89/60790_crt_7nI1F.jpg",
+        "link": "https://bgm.tv/character/60790",
+        "categorie": "person"
+      },
+      {
+        "id": "60791",
+        "label": "葛西麻琴",
+        "info": "ショートカットで勝ち気な体育教師。 バスケットボール・バレーボール兼任顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/cf/60791_crt_900G0.jpg",
+        "link": "https://bgm.tv/character/60791",
+        "categorie": "person"
+      },
+      {
+        "id": "60792",
+        "label": "支倉律子",
+        "info": "端正な美貌と抜群のプロポーションを持つ英語教師。水泳部顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/11/60792_crt_gaAAv.jpg",
+        "link": "https://bgm.tv/character/60792",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

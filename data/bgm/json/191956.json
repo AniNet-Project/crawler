@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45587",
+        "label": "高桥铁男",
+        "info": "柴崎高校に勤務する生物教師。大学時代に生理学的見地で亜人の研究を志した影響で、今でも亜人に対し高い興味を持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/80/45587_crt_svv48.jpg?r=1473516367",
+        "link": "https://bgm.tv/character/45587",
+        "categorie": "person"
+      },
+      {
+        "id": "45588",
+        "label": "小鸟游绯雁",
+        "info": "バンパイア。レバーとトマトジュースが好物。恋愛経験ナシ、恋愛知識は豊富。1年B組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/fb/45588_crt_kgxXA.jpg?r=1473516402",
+        "link": "https://bgm.tv/character/45588",
+        "categorie": "person"
+      },
+      {
+        "id": "45590",
+        "label": "町京子",
+        "info": "デュラハン。頭と胴体が分離している。最長で東京・岡山間まで離れたことがある。頭を抱きしめてもらうのが好き。1年B組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/4e/45590_crt_yY3Op.jpg?r=1473516439",
+        "link": "https://bgm.tv/character/45590",
+        "categorie": "person"
+      },
+      {
+        "id": "45592",
+        "label": "日下部雪",
+        "info": "雪女。身体が冷たいらしい。1年A組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/30/45592_crt_tu2lC.jpg?r=1473516526",
+        "link": "https://bgm.tv/character/45592",
+        "categorie": "person"
+      },
+      {
+        "id": "45591",
+        "label": "佐藤早纪绘",
+        "info": "サキュバス。数学教師。ジャージを着ている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/0c/45591_crt_x9D85.jpg?r=1473516465",
+        "link": "https://bgm.tv/character/45591",
+        "categorie": "person"
+      },
+      {
+        "id": "45971",
+        "label": "小鸟游绯球",
+        "info": "ひかりの双子の妹。彼女は亜人ではなく、普通の人間である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/09/45971_crt_EDcuz.jpg?r=1473516756",
+        "link": "https://bgm.tv/character/45971",
+        "categorie": "person"
+      },
+      {
+        "id": "50025",
+        "label": "佐竹裕介",
+        "info": "男子生徒。初登場は第一話で、熱射病で倒れた日下部を担架で運んでいた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/f5/50025_crt_DRAnY.jpg",
+        "link": "https://bgm.tv/character/50025",
+        "categorie": "person"
+      },
+      {
+        "id": "51349",
+        "label": "小鸟游浩二",
+        "info": "小鳥遊姉妹の父親。専業主夫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/d5/51349_crt_75276.jpg?r=1487224894",
+        "link": "https://bgm.tv/character/51349",
+        "categorie": "person"
+      },
+      {
+        "id": "51350",
+        "label": "小鸟游绿",
+        "info": "小鳥遊姉妹の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/8f/51350_crt_MMzmD.jpg?r=1487225002",
+        "link": "https://bgm.tv/character/51350",
+        "categorie": "person"
+      },
+      {
+        "id": "49920",
+        "label": "宇垣",
+        "info": "佐藤の知り合いの男性刑事。熊みたいな大男と言われるほどがっちりした体格をしている。芝崎高校を訪れた際には訪問の手続きをきちんとしていなかったらしく、ひかりに不審者扱いされてしまった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/98/49920_crt_rRK9K.jpg",
+        "link": "https://bgm.tv/character/49920",
+        "categorie": "person"
+      },
+      {
+        "id": "49919",
+        "label": "クルツ",
+        "info": "宇垣の後輩の刑事。嘘をつくのが下手で、表情にすぐに出るために、会う人すべてに自分のウソがばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/e7/49919_crt_v6VBc.jpg",
+        "link": "https://bgm.tv/character/49919",
+        "categorie": "person"
+      },
+      {
+        "id": "52805",
+        "label": "木村静香",
+        "info": "女子生徒。当初は他人の陰口を言う癖があり、それによって雪を傷つけてしまうがひかりに叱責されたことがきっかけとなり和解する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/85/52805_crt_XJZGE.jpg",
+        "link": "https://bgm.tv/character/52805",
+        "categorie": "person"
+      },
+      {
+        "id": "52806",
+        "label": "井森敦美",
+        "info": "女子生徒。木村と一緒になって他人の陰口を言っていたが、彼女と同様に意識を改めた。この件から亜人に対する差別感情について考えるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/c1/52806_crt_5xC4v.jpg?r=1490469519",
+        "link": "https://bgm.tv/character/52806",
+        "categorie": "person"
+      },
+      {
+        "id": "49921",
+        "label": "相马",
+        "info": "武蔵野理科大学で物理学を専攻する助教。高橋の学友であり、彼からは「天才肌」「変わり者」と評される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/8b/49921_crt_Sz0R7.jpg",
+        "link": "https://bgm.tv/character/49921",
+        "categorie": "person"
+      },
+      {
+        "id": "55969",
+        "label": "长谷川硝子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/55969",
+        "categorie": "person"
+      },
+      {
+        "id": "50102",
+        "label": "校長先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/24/50102_crt_lATJ5.jpg?r=1485058472",
+        "link": "https://bgm.tv/character/50102",
+        "categorie": "person"
+      },
+      {
+        "id": "50982",
+        "label": "加藤先生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/f3/50982_crt_D5cGF.jpg",
+        "link": "https://bgm.tv/character/50982",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

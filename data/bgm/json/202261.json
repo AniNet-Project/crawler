@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49594",
+        "label": "犬鹫将军玛法姆特",
+        "info": "本作主人公，以16岁之龄成为特鲁齐亚历史上最年少的将军。出身于驯养山鹰的部族·图古利鲁族。在13年前将国与帝国的战争中失去了家乡和母亲，被卡里路将军收养。在长者们的帮助下探索着和平之道。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/38/49594_crt_87szz.jpg",
+        "link": "https://bgm.tv/character/49594",
+        "categorie": "person"
+      },
+      {
+        "id": "49595",
+        "label": "毒药将军萨加纳斯",
+        "info": "强硬派，13人将军之一，第一州管理者，19岁时当上将军。密侦网“眼与耳”的首脑。为达目的不择手段，冷酷得近乎毫无人性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/df/49595_crt_oo8EO.jpg",
+        "link": "https://bgm.tv/character/49595",
+        "categorie": "person"
+      },
+      {
+        "id": "49596",
+        "label": "裘洛斯·伊奥斯·阿波罗托洛斯",
+        "info": "灯塔之都波尼基亚市长之子，特鲁齐亚将国密探网的耳役。不良少年一般的存在，在苏雷曼的鼓动下接受了耳役的工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/59/49596_crt_O5SSF.jpg",
+        "link": "https://bgm.tv/character/49596",
+        "categorie": "person"
+      },
+      {
+        "id": "49597",
+        "label": "黑翼长官苏雷曼",
+        "info": "毒药之萨加纳斯直属密探网“眼与耳”的长官。与穆夫穆托同为图古利鲁族遗民，惨剧发生时在花之都游历而逃过一劫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/fb/49597_crt_6yEVo.jpg",
+        "link": "https://bgm.tv/character/49597",
+        "categorie": "person"
+      },
+      {
+        "id": "49598",
+        "label": "毕尔西利欧·路易",
+        "info": "帝国首席大臣（宰相），被赋予了极大的权力，在背后推动着帝国的扩张进程。拥有专属武装集团“赤蛇教团”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/aa/49598_crt_QdWEe.jpg",
+        "link": "https://bgm.tv/character/49598",
+        "categorie": "person"
+      },
+      {
+        "id": "49599",
+        "label": "大都市的卡里路将军",
+        "info": "稳健派，13人将军之一，第七州管理者。将军履历超过20年。13年前与帝国的战争爆发时担任指挥官，一直身怀愧疚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/1b/49599_crt_nWJaw.jpg",
+        "link": "https://bgm.tv/character/49599",
+        "categorie": "person"
+      },
+      {
+        "id": "54351",
+        "label": "アビリガ",
+        "info": "海の都（ヴェネディック）共和国に属するブレガ商会の私兵隊長。常人離れした身のこなしをしており、戦闘時には吹矢を駆使する。ヴェネディック艦隊の船団長（カピタン）であるブレガを親のように慕っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/7b/54351_crt_w125Z.jpg",
+        "link": "https://bgm.tv/character/54351",
+        "categorie": "person"
+      },
+      {
+        "id": "54352",
+        "label": "レレデリク",
+        "info": "バルトライン帝国領エルルバルデスの女公爵。バルトライン帝国皇帝ゴルドバルト11世の姪にあたる。荒々しい性格で、時にはルイの立案した作戦を無視して行動することもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/a9/54352_crt_2UDZL.jpg",
+        "link": "https://bgm.tv/character/54352",
+        "categorie": "person"
+      },
+      {
+        "id": "54353",
+        "label": "グララット・ベルルリック",
+        "info": "レレデリクに仕える側近。故郷のエルルバルデスの未来のためレレデリクと共にルイの策略に加担する。帝国屈指の精鋭と言われるエルル山岳兵を指揮し、また自身の戦闘能力も極めて高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/a7/54353_crt_7zBi4.jpg",
+        "link": "https://bgm.tv/character/54353",
+        "categorie": "person"
+      },
+      {
+        "id": "54354",
+        "label": "シャプカ・イブラヒム・バリ",
+        "info": "ザガノス配下の千人隊長(ビンバシュ)。「砦の町(ヒサール)」の警備にあたる。マフムートとは新兵学校の同期で、シャラとも顔なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/00/54354_crt_FP8Fy.jpg",
+        "link": "https://bgm.tv/character/54354",
+        "categorie": "person"
+      },
+      {
+        "id": "54355",
+        "label": "シャラ",
+        "info": "トルキエの首都「金色の町(アルトゥン)」で一番人気の踊り子。マフムートとイブラヒムは共通の友人。その美しさとはうらはらに大胆な行動力をもつ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/2b/54355_crt_yGNyG.jpg",
+        "link": "https://bgm.tv/character/54355",
+        "categorie": "person"
+      },
+      {
+        "id": "54737",
+        "label": "バラバン",
+        "info": "大トルキエの一国であるムズラク将国の3代目将王（スルタン） 。ひどく攻撃的な性格だが、軍事的才覚に優れる。顔の美醜にこだわりを持ち、自身の側近部隊・、イェニチェリを美形のみで構成している。トルキエ将国の属国という立場しての扱いに不満を感じている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/e6/54737_crt_Ff2Fo.jpg",
+        "link": "https://bgm.tv/character/54737",
+        "categorie": "person"
+      },
+      {
+        "id": "54738",
+        "label": "バヤジット",
+        "info": "大トルキエの一国である ムズラク将国の将王バラバンの弟。親トルキエ派で将弟（ベイオウル）でありながらトルキエ唯一の港町である港の町（リマン）の 耳役（クラック）を務めている。兄のバラバンを尊敬していたが、ある一件を境に袂を分かることになった決別している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/fc/54738_crt_5hn3k.jpg",
+        "link": "https://bgm.tv/character/54738",
+        "categorie": "person"
+      },
+      {
+        "id": "54739",
+        "label": "アイシェ",
+        "info": "大トルキエの一国であるバルタ将国の将王ファトマの娘。バラバンとバヤジットの姪であり、バヤジットのことを幼いころから慕っている。強い意志を持ち、客観的な判断をできるが、時に行き過ぎた大胆な行動を起こすことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/20/54739_crt_C8s0c.jpg",
+        "link": "https://bgm.tv/character/54739",
+        "categorie": "person"
+      },
+      {
+        "id": "54740",
+        "label": "オルハン",
+        "info": "大トルキエの一国であるクルチュ将国の将王セリムの息子で、アイシェの婚約者。明るく人柄はよいが、気弱ですぐに泣くため、アイシェからは泣き虫と言われている。戦争や政治のことに関しては非常に疎い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/73/54740_crt_MB3oW.jpg",
+        "link": "https://bgm.tv/character/54740",
+        "categorie": "person"
+      },
+      {
+        "id": "54741",
+        "label": "イスマイル",
+        "info": "大トルキエの一国であるブチャク将国の将王ウズンの45番目の息子。聡明で利に敏く 、ブチャクで１，２を争う規模のジン商会の後継者でもある。商会では屈強な傭兵集団・オルケスタ を雇い、また高い情報収集力を有している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/82/54741_crt_vzR18.jpg",
+        "link": "https://bgm.tv/character/54741",
+        "categorie": "person"
+      },
+      {
+        "id": "55607",
+        "label": "ルチオ",
+        "info": "央海（セントロ）の交易を取りしきる海の都（ヴェネディック）共和国の元首（ドージェ）。ヴェネディックを愛し、自国の安寧や利益を最優先に考える。国のためであれば非情な行動に徹することもできる合理主義者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/d0/55607_crt_NJAbI.jpg",
+        "link": "https://bgm.tv/character/55607",
+        "categorie": "person"
+      },
+      {
+        "id": "55608",
+        "label": "ブレガ",
+        "info": "海の都（ヴェネディック）艦隊の船団長（カピタン）兼、自身が運営するブレガ商会の船団長。央海（セントロ）での交易において海賊行為などが行われないように取り締まっている。15年前、アビリガを引きとり、自身の子供のように育てた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/fb/55608_crt_h3O3c.jpg",
+        "link": "https://bgm.tv/character/55608",
+        "categorie": "person"
+      },
+      {
+        "id": "57299",
+        "label": "大将軍",
+        "info": "トルキエ将国の最高権力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/1f/57299_crt_kn3Rk.jpg",
+        "link": "https://bgm.tv/character/57299",
+        "categorie": "person"
+      },
+      {
+        "id": "57300",
+        "label": "ゴルドバルト11世",
+        "info": "バルトライン帝国の皇帝。レレデリクの伯父にあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/6f/57300_crt_k0BWU.jpg",
+        "link": "https://bgm.tv/character/57300",
+        "categorie": "person"
+      },
+      {
+        "id": "57301",
+        "label": "コルベール",
+        "info": "ロットウルムの一員。ルイの命令により砦の町（ヒサール）に潜入し、住民を人質にとった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ca/57301_crt_lijTk.jpg",
+        "link": "https://bgm.tv/character/57301",
+        "categorie": "person"
+      },
+      {
+        "id": "57302",
+        "label": "エレノア",
+        "info": "ロットウルムの一員。コルベール同様、ルイの命令で暗躍する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/28/57302_crt_KVqaM.jpg",
+        "link": "https://bgm.tv/character/57302",
+        "categorie": "person"
+      },
+      {
+        "id": "57303",
+        "label": "アポロドロス",
+        "info": "燈台の都（ポイニキア）の市長でキュロスの父親。バルトライン帝国との戦争に反対し、港の割譲を提案した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/bd/57303_crt_I0l0i.jpg",
+        "link": "https://bgm.tv/character/57303",
+        "categorie": "person"
+      },
+      {
+        "id": "57304",
+        "label": "コンスタンティノス",
+        "info": "燈台の都（ポイニキア）の副市長。古代ポイニキア帝国の末裔であることに誇りを持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/ac/57304_crt_ujGUY.jpg",
+        "link": "https://bgm.tv/character/57304",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

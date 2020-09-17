@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68062",
+        "label": "蓝川莲",
+        "info": "春から高校2年生になる普通の女の子。クールを装っているが、実は照れ屋で、頼まれたことは断れない性格。放課後は近所のカフェでバイトをしている。身長162㎝。好みのタイツは60デニール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/b3/68062_crt_V94Gz.jpg?r=1557648923",
+        "link": "https://bgm.tv/character/68062",
+        "categorie": "person"
+      },
+      {
+        "id": "68063",
+        "label": "中红由亚",
+        "info": "勉強もスポーツもこなす優等生。口数は少ないがコミュニケーション能力が高く、ときどきレンをからかったりする。自撮りが趣味で様々な服を着た写真をSNSに上げている。身長168㎝。好みのタイツは30デニール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/19/68063_crt_5wV0q.jpg?r=1558248093",
+        "link": "https://bgm.tv/character/68063",
+        "categorie": "person"
+      },
+      {
+        "id": "68064",
+        "label": "萌黄帆美",
+        "info": "明るく活発なお嬢様。天然なところがあり、周囲を呆れさせることもしばしば……。運転手付きの車で通学しており、中学生の弟がいる。水泳部所属。身長158㎝。好みのタイツは110デニール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/e3/68064_crt_z8pJg.jpg?r=1559022853",
+        "link": "https://bgm.tv/character/68064",
+        "categorie": "person"
+      },
+      {
+        "id": "69986",
+        "label": "奥墨唯子",
+        "info": "生徒からの人気が高い、レンたちのクラスの担任教師。生徒思いで指導に熱心だが、熱心になりすぎてしまうことも。年齢は27歳で、プライベートでは日本酒を好んでいる。身長169cm。好みのタイツは20デニール。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/df/69986_crt_9XGxu.jpg?r=1559486256",
+        "link": "https://bgm.tv/character/69986",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

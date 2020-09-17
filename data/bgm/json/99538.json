@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26204",
+        "label": "安藤寿来",
+        "info": "憧憬异能战斗的他，突然获得了真正的超能力，中二少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/d2/26204_crt_34xkh.jpg",
+        "link": "https://bgm.tv/character/26204",
+        "categorie": "person"
+      },
+      {
+        "id": "26205",
+        "label": "神崎灯代",
+        "info": "拥有操纵时间的异能“永远”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/28/26205_crt_xn36U.jpg",
+        "link": "https://bgm.tv/character/26205",
+        "categorie": "person"
+      },
+      {
+        "id": "26206",
+        "label": "栉川鸠子",
+        "info": "安藤的青梅竹马，爱笑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/3b/26206_crt_eD2EP.jpg",
+        "link": "https://bgm.tv/character/26206",
+        "categorie": "person"
+      },
+      {
+        "id": "26207",
+        "label": "高梨彩弓",
+        "info": "腰肢柔软而且博学的文艺部部长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/41/26207_crt_WV79M.jpg",
+        "link": "https://bgm.tv/character/26207",
+        "categorie": "person"
+      },
+      {
+        "id": "26208",
+        "label": "姬木千冬",
+        "info": "不知为何经常出现在高中生文艺部的小学四年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/23/26208_crt_7EyF3.jpg",
+        "link": "https://bgm.tv/character/26208",
+        "categorie": "person"
+      },
+      {
+        "id": "27361",
+        "label": "工藤美玲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/d2/27361_crt_w70zB.jpg",
+        "link": "https://bgm.tv/character/27361",
+        "categorie": "person"
+      },
+      {
+        "id": "37100",
+        "label": "九鬼圆",
+        "info": "千冬の友達で親友。寿来のことは当初は警戒していたが、接するごとに寿来の内面に触れ打ち解けていく。千冬の身の回りの世話は全て彼女がするほどしっかりしている。千冬のことを「ちーちゃん」と呼び、千冬には「くっきー」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/4e/37100_crt_CE96Z.jpg",
+        "link": "https://bgm.tv/character/37100",
+        "categorie": "person"
+      },
+      {
+        "id": "38552",
+        "label": "桐生一",
+        "info": "神崎灯代的哥哥，曾经是泉光高中文艺社的成员。有着不输给安藤寿来的中二病言行，自称为【雾龙·赫尔德凯撒·路西·法斯特】。现在是异能者集团“黑色十二枚之翼”（形式上）的领导者，异能是操控重力的【堕天使的铁锤向愚者挥下（Lucifer’s Strike）】（自命名）。凭借一人之力击败了【战争管理委员会】需要商讨对策的集团【F】，并且没有动用他自己的奥义（当时【F】的成员具有神的力量）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/9c/38552_crt_xMZ5F.jpg",
+        "link": "https://bgm.tv/character/38552",
+        "categorie": "person"
+      },
+      {
+        "id": "38553",
+        "label": "相模静梦",
+        "info": "安藤寿来从国中起“认识的人”。本来与寿来是好朋友，但在发生了一些事情后开始拒绝和寿来往来，一直保持着“认识的人”的关系。经常被女生告白，不限年级（但二、三年级已经没人告白了），而且被告白后立刻答应。但是由于他已经有了恋人——3DS里的角色，并且即便与女友在一起也会毅然转身去买手办（甚至H GAME）因此次次都是马上就被甩了。由于高一新生不清楚他的为人，因此依旧有上当受骗的。知道F与异能的事。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/22/38553_crt_h5w5i.jpg",
+        "link": "https://bgm.tv/character/38553",
+        "categorie": "person"
+      },
+      {
+        "id": "21278",
+        "label": "满舰饰真子",
+        "info": "流子の転校下先にいる本能字学園２年甲組の生徒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/f6/21278_crt_88Y4K.jpg",
+        "link": "https://bgm.tv/character/21278",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

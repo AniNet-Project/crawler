@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25101",
+        "label": "毛沢東",
+        "info": "ネオ中華ソビエト共和国的主席。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/97/25101_crt_7k7IP.jpg",
+        "link": "https://bgm.tv/character/25101",
+        "categorie": "person"
+      },
+      {
+        "id": "25114",
+        "label": "小泉纯一郎",
+        "info": "第89代日本国内閣総理大臣。護国と世界平和のためなら己の犠牲すら厭わない熱き魂と、豪運（国家首脳クラスの超絶的な強運）をもって、世界の首脳との麻雀勝負を繰り広げる。政界引退後も麻雀外交の先頭に立つ。また今作品内では、空母から艦上戦闘機で発艦できるほどの飛行機操縦スキルも持っている。必殺技は国士無双十三面（ライジングサン）、天地創世（ビギニング・オブ・ザ・コスモス）。その他にも、指先で劣化ウランを削り取る轟盲牌などの超人的な技を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/fb/25114_crt_ha6uu.jpg",
+        "link": "https://bgm.tv/character/25114",
+        "categorie": "person"
+      },
+      {
+        "id": "15420",
+        "label": "美利坚合众国",
+        "info": "在二次元出现得最频繁的国家之一，其统治者有着大总统的头衔，给人以霸气、富有和国力强悍的印象；然而无论作为正义的伙伴还是敌方的幕后，实战起来通常不堪一击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/fd/15420_crt_VeCju.jpg",
+        "link": "https://bgm.tv/character/15420",
+        "categorie": "person"
+      },
+      {
+        "id": "15433",
+        "label": "大德意志帝国",
+        "info": "二次元出现得最频繁的国家之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/22/15433_crt_qcrPC.jpg",
+        "link": "https://bgm.tv/character/15433",
+        "categorie": "person"
+      },
+      {
+        "id": "75296",
+        "label": "大不列颠及北爱尔兰联合王国",
+        "info": "大不列颠及北爱尔兰联合王国，简称联合王国，中文通称“英国”，是本土位于西欧并具有海外领地的主权国家，英国位于欧洲大陆西北面，由大不列颠岛、爱尔兰岛东北部分及一系列较小岛屿组成。英国和另一国家唯一的陆上国境线位于北爱尔兰，和爱尔兰共和国相邻。英国由大西洋所环绕，东为北海，南为英吉利海峡，西南偏南为凯尔特海，与爱尔兰隔爱尔兰海相望。该国总面积达243,610平方千米（94,060平方英里），人口约6636万，其中以英格兰人（盎格鲁-撒克逊人）为主体民族。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/67/75296_crt_vc7Fv.jpg",
+        "link": "https://bgm.tv/character/75296",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

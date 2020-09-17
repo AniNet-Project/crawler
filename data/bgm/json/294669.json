@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "76115",
+        "label": "アイリス・ティア・エーデルリンド",
+        "info": "「ふふっ･･････いえ、勉強に励む場所なのに、",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/fe/76115_crt_QTtvV.jpg?r=1583836623",
+        "link": "https://bgm.tv/character/76115",
+        "categorie": "person"
+      },
+      {
+        "id": "76116",
+        "label": "イージス・ティア・エーデルリンド",
+        "info": "「呆れたな、あれだけやってまだ足りないとは･･････。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/e8/76116_crt_KYQby.jpg?r=1583836593",
+        "link": "https://bgm.tv/character/76116",
+        "categorie": "person"
+      },
+      {
+        "id": "76117",
+        "label": "ウルスラ・ア・ズライグ",
+        "info": "「体は小娘でも知識は一万年分。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/f0/76117_crt_f6j3l.jpg?r=1583836648",
+        "link": "https://bgm.tv/character/76117",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

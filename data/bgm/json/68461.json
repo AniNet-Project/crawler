@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20731",
+        "label": "奴良陆生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/75/20731_crt_e3T3B.jpg",
+        "link": "https://bgm.tv/character/20731",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

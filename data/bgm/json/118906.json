@@ -1,0 +1,165 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23531",
+        "label": "山田龙",
+        "info": "本作の主人公。私立朱雀高校2年。学校きっての問題児（いわゆる不良）で、教師にも生徒にも嫌われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/75/23531_crt_dfuoG.jpg",
+        "link": "https://bgm.tv/character/23531",
+        "categorie": "person"
+      },
+      {
+        "id": "23532",
+        "label": "白石丽",
+        "info": "本作のヒロイン。私立朱雀高校2年。超常現象研究部部長。入れ替わりの魔女。胸のサイズはEカップ。トップクラスの学力を誇るが、勉強一辺倒で周りから避けられている。また、学園においていじめの対象にされており、当初は学校をつまらないものと考え、大学への進学希望もしていなかった。しかし、山田と入れ替わり普段と異なる学園生活を送るにつれ、いじめもなくなり、学校を楽しめるようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/0a/23532_crt_281pV.jpg",
+        "link": "https://bgm.tv/character/23532",
+        "categorie": "person"
+      },
+      {
+        "id": "23534",
+        "label": "宫村虎之介",
+        "info": "私立朱雀高校2年で生徒会副会長兼超常現象研究部副部長。山田と白石が入れ替わっていることを突きとめ、次期生徒会長になるために魔女を捜索すべく2人を引き込み、部員不足で休部状態の「超常現象研究部」を活動拠点として提供した。女子に絶大な人気を誇るが、スケベでいつも女のことばかり考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/0f/23534_crt_VpFV6.jpg",
+        "link": "https://bgm.tv/character/23534",
+        "categorie": "person"
+      },
+      {
+        "id": "25587",
+        "label": "小田切宁宁",
+        "info": "私立朱雀学院高等部二年级生，学生会副会长之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/07/25587_crt_TVQ0V.jpg",
+        "link": "https://bgm.tv/character/25587",
+        "categorie": "person"
+      },
+      {
+        "id": "28407",
+        "label": "山崎春马",
+        "info": "3年。元生徒会長。一見女好きですっとぼけた性格だが、宮村曰く「とんでもないタヌキ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/22/28407_crt_6602g.jpg?r=1431153950",
+        "link": "https://bgm.tv/character/28407",
+        "categorie": "person"
+      },
+      {
+        "id": "29381",
+        "label": "伊藤雅",
+        "info": "私立朱雀学院高等部二年C班。对超自然事件十分着迷，对同学散播自己发现超自然事件而被同学们视为谎话大王。原本因为对“超自然研究部”有兴趣而希望入部，却意外目击正要互换身体的山田和白石，作为遵守秘密和对魔女的研究而被允许留在超自然研究部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/e3/29381_crt_TRkb7.jpg",
+        "link": "https://bgm.tv/character/29381",
+        "categorie": "person"
+      },
+      {
+        "id": "29382",
+        "label": "飞鸟美琴",
+        "info": "私立朱雀学院高等部三年级生，学生会三位副会长之一，山崎的秘书，平时十分文静，但当山崎会长被冒犯时会痛击对方，有虐待狂的个性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/8e/29382_crt_760Bx.jpg?r=1431945604",
+        "link": "https://bgm.tv/character/29382",
+        "categorie": "person"
+      },
+      {
+        "id": "29396",
+        "label": "泷川诺亚",
+        "info": "私立朱雀学院高等部一年C班，令学生会长困扰的问题集团首领。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/e8/29396_crt_1j653.jpg?r=1431945836",
+        "link": "https://bgm.tv/character/29396",
+        "categorie": "person"
+      },
+      {
+        "id": "29413",
+        "label": "大塚芽子",
+        "info": "私立朱雀学院高等部二年C班，成绩与山田龙一样属差强人意类别，个性内性，擅长画图，有点偏于御宅族，漫研社社员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/ad/29413_crt_9898l.jpg?r=1431945573",
+        "link": "https://bgm.tv/character/29413",
+        "categorie": "person"
+      },
+      {
+        "id": "29414",
+        "label": "西园寺理香",
+        "info": "私立朱雀学院高等部三年级生，忠于学生会长山崎，并执其指示。讨厌阳光，总是拿着一把遮阳伞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/5e/29414_crt_4y6Qk.jpg?r=1431945484",
+        "link": "https://bgm.tv/character/29414",
+        "categorie": "person"
+      },
+      {
+        "id": "29415",
+        "label": "猿岛玛利亚",
+        "info": "私立朱雀学院高等部二年F班，个性乐天外向，有一个弟弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/a3/29415_crt_VW0I0.jpg?r=1431945617",
+        "link": "https://bgm.tv/character/29415",
+        "categorie": "person"
+      },
+      {
+        "id": "32160",
+        "label": "五十岚潮",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/97/32160_crt_iCwci.jpg?r=1429635874",
+        "link": "https://bgm.tv/character/32160",
+        "categorie": "person"
+      },
+      {
+        "id": "32417",
+        "label": "いも子",
+        "info": "白石丽的友人，热衷零食。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/a2/32417_crt_GrxXJ.jpg",
+        "link": "https://bgm.tv/character/32417",
+        "categorie": "person"
+      },
+      {
+        "id": "32891",
+        "label": "犬塚老师",
+        "info": "山田龙的数学教师",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/fb/32891_crt_1VvAE.jpg",
+        "link": "https://bgm.tv/character/32891",
+        "categorie": "person"
+      },
+      {
+        "id": "33123",
+        "label": "深泽冴子",
+        "info": "私立朱雀学院高等部一年A班，原泷川诺亚问题学生集团成员，学习成绩优秀，曾经带领学生考试作弊，由于嫉妒白石的学习成绩而希望获得魔女能力，后来山田主导下，只保留希望和泷川保持好友关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/33123_crt_B2qe6.jpg",
+        "link": "https://bgm.tv/character/33123",
+        "categorie": "person"
+      },
+      {
+        "id": "33239",
+        "label": "玉木真一",
+        "info": "私立朱雀学院高等部二年H班。自称魔女杀手，拥有“夺取”的能力，能夺取最近一次与自己接吻的魔女的能力并使用，但同时会失去之前夺取的能力，且被亲吻的魔女将失去能力。与山田一样免疫魔女的能力。拥有从飞鸟美琴夺取的透明能力。会长候补人选之一。起初想乘山田等人的尾知道第七魔女的真相争取会长竞选，结果在山田找出第七魔女后同样被西园寺理花消除了周围人对魔女的记忆，和山田跟小田切联合对抗会长并找出魔女的真相。第一期魔女仪式完成后被宫村安排为下一任学生会会计。在学生会被罢免后竞选学生会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/97/33239_crt_iD1d7.jpg",
+        "link": "https://bgm.tv/character/33239",
+        "categorie": "person"
+      },
+      {
+        "id": "33310",
+        "label": "宫村礼绪奈",
+        "info": "私立朱雀学院高等部三年级生，宫村虎之介的姐姐，前超自然现象研究部成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/ea/33310_crt_H6zuS.jpg",
+        "link": "https://bgm.tv/character/33310",
+        "categorie": "person"
+      },
+      {
+        "id": "48675",
+        "label": "浅野莲",
+        "info": "1年H組。滝川の仲間。山田と五十嵐の同じ中学の後輩で、かつて名の通った不良だった。夏休みに他校の生徒と乱闘したことになっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/1f/48675_crt_WT3t3.jpg",
+        "link": "https://bgm.tv/character/48675",
+        "categorie": "person"
+      },
+      {
+        "id": "33311",
+        "label": "山田巽美",
+        "info": "山田的妹妹，相当漂亮和贤淑，被山田的同伴们认为和其哥哥不像。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/c4/33311_crt_zGOl4.jpg",
+        "link": "https://bgm.tv/character/33311",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

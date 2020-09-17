@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13375",
+        "label": "奈亚拉托提普",
+        "info": "克苏鲁神话里登场的上古邪神，“阿撒托斯的使者”“匍匐蠕动的混沌”“无貌之神”奈亚拉托提普，司诱惑与狡诈，可以自由地变换自身容貌和性别。“奈亚拉托提普”并不是本名，而只是为了迎合地球人的语言所作的转译。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/9c/13375_crt_tk9TR.jpg",
+        "link": "https://bgm.tv/character/13375",
+        "categorie": "person"
+      },
+      {
+        "id": "15544",
+        "label": "八坂真寻",
+        "info": "本作主角，居住于地球的普通高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f7/15544_crt_JSxN7.jpg",
+        "link": "https://bgm.tv/character/15544",
+        "categorie": "person"
+      },
+      {
+        "id": "15542",
+        "label": "克图格亚",
+        "info": "克苏鲁神话中的上古邪神，来自恒星北落师门的“活火焰”“爆燃者”克图格亚，与奈亚拉托提普是誓不两立的死敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/82/15542_crt_fiX6d.jpg",
+        "link": "https://bgm.tv/character/15542",
+        "categorie": "person"
+      },
+      {
+        "id": "15543",
+        "label": "哈斯塔",
+        "info": "克苏鲁神话中的上古邪神，来自恒星昴宿增十六，掌控风之力的“无以名状者”“深空星海之主”哈斯塔；和司水的克苏鲁是死敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/67/15543_crt_w3k4K.jpg",
+        "link": "https://bgm.tv/character/15543",
+        "categorie": "person"
+      },
+      {
+        "id": "48455",
+        "label": "奈亚惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/8c/48455_crt_M1yQL.jpg",
+        "link": "https://bgm.tv/character/48455",
+        "categorie": "person"
+      },
+      {
+        "id": "48456",
+        "label": "阿特子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/bc/48456_crt_MozgW.jpg",
+        "link": "https://bgm.tv/character/48456",
+        "categorie": "person"
+      },
+      {
+        "id": "12929",
+        "label": "地球",
+        "info": "人...人家才不是为了你在转动！",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/6f/12929_crt_LX36c.jpg",
+        "link": "https://bgm.tv/character/12929",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

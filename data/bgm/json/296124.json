@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60568",
+        "label": "女未そら",
+        "info": "優しさと包容力あふれる甘やかし妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/f5/60568_crt_0aabL.jpg",
+        "link": "https://bgm.tv/character/60568",
+        "categorie": "person"
+      },
+      {
+        "id": "60570",
+        "label": "女未こはく",
+        "info": "家事全般は全てお任せ　家庭的しっかり妹",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/7a/60570_crt_e999e.jpg",
+        "link": "https://bgm.tv/character/60570",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

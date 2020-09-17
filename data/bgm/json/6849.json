@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6773",
+        "label": "森山素直",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/aa/6773_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6773",
+        "categorie": "person"
+      },
+      {
+        "id": "10472",
+        "label": "ぽてまよ",
+        "info": "森山家的冰箱里冒出来的不明生物，长着耳朵和尾巴，不会说话。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/a8/10472_crt_SNNI3.jpg",
+        "link": "https://bgm.tv/character/10472",
+        "categorie": "person"
+      },
+      {
+        "id": "6774",
+        "label": "松露子",
+        "info": "追着Potemayo而来，出现在森山家冰箱的神奇生物。手拿镰刀，经常把东西一切两半然后胡乱粘起来算是交差。因为喜欢吃京做的松露点心而得名被取名为松露子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/46/6774_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6774",
+        "categorie": "person"
+      },
+      {
+        "id": "6775",
+        "label": "高見盛京",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/44/6775_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6775",
+        "categorie": "person"
+      },
+      {
+        "id": "6776",
+        "label": "桐原無道",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/ba/6776_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6776",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

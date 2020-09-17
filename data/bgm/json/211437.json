@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3797",
+        "label": "兰顿·萨斯顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/2f/3797_crt_02Z0C.jpg?r=1469283816",
+        "link": "https://bgm.tv/character/3797",
+        "categorie": "person"
+      },
+      {
+        "id": "13282",
+        "label": "优莱卡",
+        "info": "年龄不明，高性能LFO \"Nirvash\"尼尔瓦修 的驾驶员，从外表上看是个留有青色头发的15、16岁少女。优莱卡是由珊瑚岩产生的与人类以同等形态交流的媒介，最初本身并没有任何感情。由于能够良好的驾驭LFO并听从命令，最初被作为军队的杀人工具。但她在与人类的接触中逐渐学习到了情感，在一次屠杀行动中收留了三个家人被自己杀死的孤儿。后脱离军队加入了月光号，偶然认识兰顿后，对自己的存在感产生疑惑，并出现了情绪不稳定的状况。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/f1/13282_crt_K1g56.jpg?r=1469283769",
+        "link": "https://bgm.tv/character/13282",
+        "categorie": "person"
+      },
+      {
+        "id": "3798",
+        "label": "塔荷",
+        "info": "月光号の操舵士。26歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/72/3798_crt_hmMvM.jpg?r=1469283857",
+        "link": "https://bgm.tv/character/3798",
+        "categorie": "person"
+      },
+      {
+        "id": "3819",
+        "label": "霍兰德·诺瓦克",
+        "info": "月光州舰长，29岁。因为成为世界滑空大赛史上最年轻的冠军而一举成名，成为无数年轻人的偶像。同时也是前军队的成员，优秀的LFO驾驶员，驾驶著909，并且在领导能力、战术安排、战斗力上都有着过人的能力。表面上对人对事漫不经心，实际上非常重视船上的每一个成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/96/3819_crt_lfLgL.jpg?r=1469283925",
+        "link": "https://bgm.tv/character/3819",
+        "categorie": "person"
+      },
+      {
+        "id": "3835",
+        "label": "杜伊·诺瓦克",
+        "info": "塔州連邦軍統幕本部情報7課所属。少尉、のちに特務大尉。20歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/66/3835_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3835",
+        "categorie": "person"
+      },
+      {
+        "id": "3839",
+        "label": "查尔斯·比姆斯",
+        "info": "塔州連邦軍遊撃部隊所属フリーランサー。元塔州連邦軍SOF第2機動部隊部隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/2f/3839_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3839",
+        "categorie": "person"
+      },
+      {
+        "id": "37601",
+        "label": "蕾·比姆斯",
+        "info": "チャールズの妻。塔州連邦軍遊撃部隊所属フリーランサー。元塔州連邦軍SOF第2機動部隊隊員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/58/37601_crt_zjrDB.jpg?r=1450848466",
+        "link": "https://bgm.tv/character/37601",
+        "categorie": "person"
+      },
+      {
+        "id": "61786",
+        "label": "阿德洛克·萨斯顿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/a8/61786_crt_s4e4O.jpg",
+        "link": "https://bgm.tv/character/61786",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51184",
+        "label": "北野诚一郎",
+        "info": "主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/71/51184_crt_SkSt9.jpg?r=1486549169",
+        "link": "https://bgm.tv/character/51184",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

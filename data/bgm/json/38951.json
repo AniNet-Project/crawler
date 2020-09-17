@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4987",
+        "label": "岩城友紀",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/bf/4987_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4987",
+        "categorie": "person"
+      },
+      {
+        "id": "4988",
+        "label": "鳳凰院龍之介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/14/4988_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4988",
+        "categorie": "person"
+      },
+      {
+        "id": "4989",
+        "label": "井端菜摘",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/57/4989_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4989",
+        "categorie": "person"
+      },
+      {
+        "id": "4990",
+        "label": "パパB",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/8f/4990_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4990",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

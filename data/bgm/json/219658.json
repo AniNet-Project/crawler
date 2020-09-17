@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38063",
+        "label": "九头龙八一",
+        "info": "获得棋界二大头衔之一“龙王”，为最年少的头衔保有者。顺位战为C级1组。福井县大野市出身，2000年8月1日出生，17岁，段位九段（故事一开始为16岁，八段）。在获得龙王头衔因承受巨大压力而陷入低潮（第一册开始时已在公式对战11连败），却在此时被找上门来的爱要求收她为弟子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/55/38063_crt_UVODe.jpg?r=1517546952",
+        "link": "https://bgm.tv/character/38063",
+        "categorie": "person"
+      },
+      {
+        "id": "38064",
+        "label": "雏鹤爱",
+        "info": "10岁，2007年10月7日出生，就读小学四年级（故事一开始为9岁、小学三年级），女流二级，在石川县和仓温泉经营旅馆“雏鹤”的夫妻的独生女。因祖父的缘故而开始自学将棋，但父母（尤其是母亲）不喜欢将棋而反对。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/39/38064_crt_zcWe2.jpg?r=1516427696",
+        "link": "https://bgm.tv/character/38064",
+        "categorie": "person"
+      },
+      {
+        "id": "55844",
+        "label": "夜叉神天衣",
+        "info": "10岁，2007年12月10日出生，就读小学四年级（故事一开始为9岁、小学三年级），女流二级。九头龙八一的二弟子。擅长一手损换角，棋风是标准的化解将棋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/a9/55844_crt_DdNK7.jpg?r=1517546938",
+        "link": "https://bgm.tv/character/55844",
+        "categorie": "person"
+      },
+      {
+        "id": "38065",
+        "label": "空银子",
+        "info": "八一的师姐，2002年9月9日出生，大阪出身，15岁，奖励会三段（故事一开始为14岁，奖励会二段）。虽然年纪比八一小，但因拜入清泷门下的时间比八一早两个星期，而成为八一的师姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/2a/38065_crt_hjnjV.jpg?r=1517307638",
+        "link": "https://bgm.tv/character/38065",
+        "categorie": "person"
+      },
+      {
+        "id": "55845",
+        "label": "清泷桂香",
+        "info": "清泷钢介的独生女，故事一开始为25岁。第六册时为女流三级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/a6/55845_crt_AuFqg.jpg",
+        "link": "https://bgm.tv/character/55845",
+        "categorie": "person"
+      },
+      {
+        "id": "55846",
+        "label": "水越澪",
+        "info": "あいが初めて棋友となった、元気いっぱいでショートヘアの女の子。あいが大阪に転校してきてからは小学校も同じクラスとなった。JS研ではリーダー格。親が薬品関係の仕事をしているもよう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/7a/55846_crt_tEEUD.jpg?r=1517540249",
+        "link": "https://bgm.tv/character/55846",
+        "categorie": "person"
+      },
+      {
+        "id": "55847",
+        "label": "贞任绫乃",
+        "info": "京都府京都市出身のお嬢様風のキャラでJS研では参謀格。シャルロットの保護者役。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/7b/55847_crt_rmBxv.jpg",
+        "link": "https://bgm.tv/character/55847",
+        "categorie": "person"
+      },
+      {
+        "id": "55848",
+        "label": "夏绿蒂·伊索亚尔",
+        "info": "第1巻時点では6歳。京都のフランス人学校に通っている。漫画『NARUTO』を読んで将棋に興味を持ち、京都市内で加悦奥七段が開く将棋教室に通うようになった。朝食は納豆派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/cb/55848_crt_iTssX.jpg",
+        "link": "https://bgm.tv/character/55848",
+        "categorie": "person"
+      },
+      {
+        "id": "59457",
+        "label": "神锅步梦",
+        "info": "関東所属の将棋棋士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/76/59457_crt_3z2E2.jpg",
+        "link": "https://bgm.tv/character/59457",
+        "categorie": "person"
+      },
+      {
+        "id": "60074",
+        "label": "清泷钢介",
+        "info": "八一・銀子の師匠。第1巻時点では50歳。段位は九段で、順位戦はB級2組、竜王戦は2組。タイトル獲得経験はないが、名人への挑戦が2回ある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/69/60074_crt_w96zw.jpg",
+        "link": "https://bgm.tv/character/60074",
+        "categorie": "person"
+      },
+      {
+        "id": "60075",
+        "label": "供御饭万智",
+        "info": "山城桜花のタイトルを持つ。京都府京都市出身。小学校5年生の時に小学生名人戦で準決勝に進むが、月夜見坂燎に敗れる。直後の決勝戦で八一が見せた独創的な将棋に魅了されるも、正棋士になる才能は自分にはないと自覚したため、女流棋士かつ観戦記者として少しでも八一の近くで彼の将棋を理解できる立場を目指した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/dd/60075_crt_UuFY6.jpg?r=1588482633",
+        "link": "https://bgm.tv/character/60075",
+        "categorie": "person"
+      },
+      {
+        "id": "60076",
+        "label": "月光圣市",
+        "info": "日本将棋連盟会長で、段位は九段。第2巻時点で50歳。史上2人目の中学生棋士。兵庫県神戸市出身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/f8/60076_crt_KiA7t.jpg",
+        "link": "https://bgm.tv/character/60076",
+        "categorie": "person"
+      },
+      {
+        "id": "60077",
+        "label": "雏鹤隆",
+        "info": "あいの父親。『ひな鶴』では板前を務めている。婿養子のため、嫁の亜希奈には頭が上がらない。八一にあいを預ける際には「棋士になれなくてもいい。将棋を学んで人生の名人になりなさい」とあいを諭すなど、性格は温和な常識人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/40/60077_crt_l31e5.jpg",
+        "link": "https://bgm.tv/character/60077",
+        "categorie": "person"
+      },
+      {
+        "id": "60078",
+        "label": "雏鹤亚希奈",
+        "info": "あいの母親で、温泉旅館『ひな鶴』の女将。あいを八一の内弟子とすることに猛反対し、あいが将棋の修業を続ける条件として「研修会の入会試験で、対局に3連勝する」という厳しい条件を突きつけた。最終的に弟子入りを認めた後も、あいが中学卒業までに女流タイトルを取れなかったら「あいが女流棋士になっていても引退させ、女将としての教育を再開」＋「八一が『ひな鶴』に婿入りして旅館の経営を学ぶ」という条件を出すなど、とにかく『ひな鶴』の経営が第一という姿勢を崩さない強気な人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/16/60078_crt_4723t.jpg",
+        "link": "https://bgm.tv/character/60078",
+        "categorie": "person"
+      },
+      {
+        "id": "62307",
+        "label": "名人",
+        "info": "获得了除龙王外的六项头衔的永世称号的职业棋士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/00/62307_crt_P629p.jpg",
+        "link": "https://bgm.tv/character/62307",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

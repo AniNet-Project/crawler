@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13073",
+        "label": "川岛南",
+        "info": "本书中的主人公，棒球部经理，高中二年级。因为某个事件对棒球十分讨厌，但受好朋友宫田夕纪的委托，于7月中旬成为了都立程久保高中（简称“程高”）的棒球部经理。她和夕纪还有担任主垒接球手的柏木次郎是青梅竹马，都是少年棒球队的成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/03/13073_crt_YShU7.jpg",
+        "link": "https://bgm.tv/character/13073",
+        "categorie": "person"
+      },
+      {
+        "id": "13074",
+        "label": "宫田夕纪",
+        "info": "棒球部经理，高中二年级。川岛南的青梅竹马兼好友。见到了小时候南打棒球的英姿，而对棒球产生了强烈的热爱。进入高中后，即加入了程高的棒球队成为经理。二年级的时候，夏季都大赛结束后，因病住院，于是委托南成为棒球部的经理。性情和气，待人平等，深受棒球部后辈文乃的倾慕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/dd/13074_crt_166z0.jpg",
+        "link": "https://bgm.tv/character/13074",
+        "categorie": "person"
+      },
+      {
+        "id": "48553",
+        "label": "浅野庆一郎",
+        "info": "程高野球部８番エースピッチャー。右投げ・右打ち。キレのある速球が武器。練習にはあまり顔を出さないが試合には必ずやってきてエースの責任を果たそうとする。スタミナが切れてくると制球が定まらなくなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/7c/48553_crt_677BR.jpg",
+        "link": "https://bgm.tv/character/48553",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

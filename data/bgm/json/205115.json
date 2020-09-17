@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38492",
+        "label": "谭雅·提古雷查夫",
+        "info": "「帝国」軍魔導士官。少尉任官時9歳。白く透き通った肌と短い金髪を持つ見た目可愛らしい幼女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/de/38492_crt_K040O.jpg?r=1484168673",
+        "link": "https://bgm.tv/character/38492",
+        "categorie": "person"
+      },
+      {
+        "id": "38493",
+        "label": "维夏",
+        "info": "帝国軍伍長（登場時）、ターニャの僚機を務める少女。出身地は「連邦」首都、モスコー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/f9/38493_crt_OO87M.jpg?r=1517677366",
+        "link": "https://bgm.tv/character/38493",
+        "categorie": "person"
+      },
+      {
+        "id": "51281",
+        "label": "马特乌斯·约翰·拜斯",
+        "info": "出身于东部方面军的帝国军魔导中尉，于601大队编制完成后成为二〇三航空魔导大队的副队长暨第二中队长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/bd/51281_crt_PUu00.jpg?r=1597786446",
+        "link": "https://bgm.tv/character/51281",
+        "categorie": "person"
+      },
+      {
+        "id": "51779",
+        "label": "沃伦·格兰兹",
+        "info": "帝国军官学校出身的魔导师，作为其中一员接受培训的新兵魔导师编入二〇三航空魔导大队，并成为中队长之一，曾在莱茵战场领授过铁十字勋章。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/f6/51779_crt_gOYHt.jpg",
+        "link": "https://bgm.tv/character/51779",
+        "categorie": "person"
+      },
+      {
+        "id": "53204",
+        "label": "威利巴尔德·凯尼希",
+        "info": "帝国軍の航空魔導師。ターニャの率いる二〇三大隊に配属される。第三中隊長。戦場においても冷静沈着で、部隊の規律を正し、各員を陰で支える。一見すると冷淡にも見えるが、内面は部下想いの熱い性格であり、共同撃墜数の多さに見られるように、連携を重視する将校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/96/53204_crt_YzQ2a.jpg",
+        "link": "https://bgm.tv/character/53204",
+        "categorie": "person"
+      },
+      {
+        "id": "53205",
+        "label": "莱纳·诺伊曼",
+        "info": "帝国軍の航空魔導師。ターニャの率いる二〇三大隊に配属される。第四中隊長。その見た目通り明るく朗らかな性格で、部隊内の緊張を解すと共に、各員の士気を高める。戦場で軽口を叩くことも多いが、戦闘能力は高く、堅実な撃墜数を誇る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/e7/53205_crt_q66JI.jpg",
+        "link": "https://bgm.tv/character/53205",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

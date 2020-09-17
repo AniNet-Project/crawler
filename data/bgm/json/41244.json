@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20233",
+        "label": "关健二",
+        "info": "鎌倉に住む中学二年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/eb/20233_crt_OllyP.jpg",
+        "link": "https://bgm.tv/character/20233",
+        "categorie": "person"
+      },
+      {
+        "id": "20234",
+        "label": "凉浦夏希",
+        "info": "ケンジの幼なじみで同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/a4/20234_crt_buA43.jpg",
+        "link": "https://bgm.tv/character/20234",
+        "categorie": "person"
+      },
+      {
+        "id": "20235",
+        "label": "京极龙一",
+        "info": "ケンジ、ナツキ、カホリの通う中学に",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/82/20235_crt_W1Od1.jpg",
+        "link": "https://bgm.tv/character/20235",
+        "categorie": "person"
+      },
+      {
+        "id": "20236",
+        "label": "春河佳惠梨",
+        "info": "ケンジ、ナツキと同じ中学に",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ac/20236_crt_zU9ET.jpg",
+        "link": "https://bgm.tv/character/20236",
+        "categorie": "person"
+      },
+      {
+        "id": "20237",
+        "label": "神野宇",
+        "info": "生徒会副会長。３年生。携帯電話問題をめぐり、一般生徒の自主性を尊重する立場から、はるかたちと対立。カホリと共闘しようとするが……。山際の元同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/be/20237_crt_urmkO.jpg",
+        "link": "https://bgm.tv/character/20237",
+        "categorie": "person"
+      },
+      {
+        "id": "20238",
+        "label": "山際ゆりこ",
+        "info": "本来は３年生だが携帯電話絡みの事件が原因で不登校となって留年し、ケンジたちと同級生となった。自殺を試みたところを京極に救われて、彼の仲間として動きはじめる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/c7/20238_crt_t6OTy.jpg",
+        "link": "https://bgm.tv/character/20238",
+        "categorie": "person"
+      },
+      {
+        "id": "20239",
+        "label": "齐藤",
+        "info": "ケンジたちの学級の担任教師。気さくな性格で生徒からの信頼は厚い。また演技の指導には定評がある。あだ名の“さいせん”は実家が神主なことが由来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/19/20239_crt_3Zzy0.jpg",
+        "link": "https://bgm.tv/character/20239",
+        "categorie": "person"
+      },
+      {
+        "id": "20240",
+        "label": "使魔",
+        "info": "京極の行動を監視する不思議な生物。人語を解し、京極とも対等に会話する。京極が計画を実行するためのお目付け役として、“博士”に命じられた何者かが使い魔を地球に派遣。地球と“あちらの世界”の関係について、京極にこと細かく注意を促していている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/e0/20240_crt_6Cza2.jpg",
+        "link": "https://bgm.tv/character/20240",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26381",
+        "label": "美冬",
+        "info": "二郎の恋人。女性若手漫才コンビとして活動。食べ方の違いでたびたび衝突する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/f4/26381_crt_LJgcB.jpg",
+        "link": "https://bgm.tv/character/26381",
+        "categorie": "person"
+      },
+      {
+        "id": "26382",
+        "label": "田宮丸二郎",
+        "info": "料理の食べ方に人一倍拘りを持つ主人公。仕事はゆるキャラ「どくフラワー」のスーツアクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/35/26382_crt_zgNgs.jpg",
+        "link": "https://bgm.tv/character/26382",
+        "categorie": "person"
+      },
+      {
+        "id": "26383",
+        "label": "近藤雄三",
+        "info": "二郎の仕事先のイベントチームリーダー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/65/26383_crt_Cl5ly.jpg",
+        "link": "https://bgm.tv/character/26383",
+        "categorie": "person"
+      },
+      {
+        "id": "26622",
+        "label": "千夏",
+        "info": "みふゆの相方の若手女性芸人「魑魅魍魎」の魑魅。なお、「魑魅魍魎」のキメ台詞は「カオス!」",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/85/26622_crt_QuISF.jpg",
+        "link": "https://bgm.tv/character/26622",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11619",
+        "label": "ヒナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/fb/11619_crt_xnLNl.jpg",
+        "link": "https://bgm.tv/character/11619",
+        "categorie": "person"
+      },
+      {
+        "id": "17698",
+        "label": "安",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ec/17698_crt_bePEN.jpg",
+        "link": "https://bgm.tv/character/17698",
+        "categorie": "person"
+      },
+      {
+        "id": "17699",
+        "label": "艾依涅丝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/19/17699_crt_6HHcA.jpg",
+        "link": "https://bgm.tv/character/17699",
+        "categorie": "person"
+      },
+      {
+        "id": "17700",
+        "label": "莱涅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/14/17700_crt_QB0M0.jpg",
+        "link": "https://bgm.tv/character/17700",
+        "categorie": "person"
+      },
+      {
+        "id": "17697",
+        "label": "泽露露",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/f4/17697_crt_Oan9P.jpg",
+        "link": "https://bgm.tv/character/17697",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

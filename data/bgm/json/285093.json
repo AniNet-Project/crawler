@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72100",
+        "label": "理查德·拉纳辛哈·多瓦尔皮亚",
+        "info": "客人遍布全世界的天才宝石商。拥有超越性别的绝世美貌，用正义的话来说就是“行走的宝石”。操着一口比日本人还纯正的日语，在银座开设了一家珠宝店“Jewelry étranger”，并邀请正义在此打工。超级喜欢皇家奶茶，是公认的甜品大魔王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/6a/72100_crt_vrztx.jpg?r=1572320874",
+        "link": "https://bgm.tv/character/72100",
+        "categorie": "person"
+      },
+      {
+        "id": "72101",
+        "label": "中田正义",
+        "info": "理想是成为公务员，诚实稳重的大学生。就像名字一样拥有强烈的正义感。因为偶然的机会拜托理查德鉴定宝石，并开始在理查德的珠宝店“Jewelry étranger”打工。性格开朗直率，偶尔也会失控暴走。家务全能，最拿手料理是布丁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/f8/72101_crt_T9aE2.jpg?r=1572320868",
+        "link": "https://bgm.tv/character/72101",
+        "categorie": "person"
+      },
+      {
+        "id": "73768",
+        "label": "谷本晶子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/e0/73768_crt_DKj0K.jpg?r=1575518224",
+        "link": "https://bgm.tv/character/73768",
+        "categorie": "person"
+      },
+      {
+        "id": "73769",
+        "label": "下村晴良",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/99/73769_crt_vnX3Y.jpg?r=1575518247",
+        "link": "https://bgm.tv/character/73769",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

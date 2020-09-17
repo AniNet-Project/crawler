@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44768",
+        "label": "虎皮",
+        "info": "マジメで頼もしい妹思いの男の子。夢は宇宙に行くことで、ＵＦＯのカケラ探しに奮闘する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/3d/44768_crt_h8hpc.jpg",
+        "link": "https://bgm.tv/character/44768",
+        "categorie": "person"
+      },
+      {
+        "id": "44769",
+        "label": "小虎皮",
+        "info": "無邪気でかわいいトラの妹。好奇心のかたまりで、元気いっぱいでよく動く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/e9/44769_crt_oBn5n.jpg",
+        "link": "https://bgm.tv/character/44769",
+        "categorie": "person"
+      },
+      {
+        "id": "44770",
+        "label": "白",
+        "info": "おしゃれな女の子。大好きなトラのことになると、ついつい周りがみえなくなることも。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/a9/44770_crt_Wgdc6.jpg",
+        "link": "https://bgm.tv/character/44770",
+        "categorie": "person"
+      },
+      {
+        "id": "44771",
+        "label": "黑",
+        "info": "口数が少なくミステリアス。にゃんぼーたちが苦手なネコも手なづけてしまう特技を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/88/44771_crt_E31dD.jpg",
+        "link": "https://bgm.tv/character/44771",
+        "categorie": "person"
+      },
+      {
+        "id": "44772",
+        "label": "三色",
+        "info": "元気でパワフルな男の子。仲間思いで優しいが、考える前に動いてドジをすることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/3a/44772_crt_p8VsC.jpg",
+        "link": "https://bgm.tv/character/44772",
+        "categorie": "person"
+      },
+      {
+        "id": "50865",
+        "label": "银虎斑",
+        "info": "アイドルをめざす「にゃんぼーエンジェルズ」。トラを取り合って、いつもシロとバトルに。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/e8/50865_crt_hwMN3.jpg",
+        "link": "https://bgm.tv/character/50865",
+        "categorie": "person"
+      },
+      {
+        "id": "50866",
+        "label": "棕虎斑",
+        "info": "アイドルをめざす「にゃんぼーエンジェルズ」。実は、とても照れ屋さんでメガネが手放せない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/dc/50866_crt_2us8T.jpg",
+        "link": "https://bgm.tv/character/50866",
+        "categorie": "person"
+      },
+      {
+        "id": "50867",
+        "label": "黑白",
+        "info": "「ワイルドブラック」。おしゃべりで軽い性格。白地に黒い模様があり「ウシ」とも呼ばれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/0e/50867_crt_89SZI.jpg",
+        "link": "https://bgm.tv/character/50867",
+        "categorie": "person"
+      },
+      {
+        "id": "50868",
+        "label": "八字",
+        "info": "「ワイルドブラック」のリーダー。見た目はコワそうだが情に厚い。クロにあこがれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/09/50868_crt_cvn09.jpg",
+        "link": "https://bgm.tv/character/50868",
+        "categorie": "person"
+      },
+      {
+        "id": "50869",
+        "label": "袜子",
+        "info": "「ワイルドブラック」の暴れん坊。手足が白く靴下をはいているようで「プリチー」があだ名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/6f/50869_crt_7tNEx.jpg",
+        "link": "https://bgm.tv/character/50869",
+        "categorie": "person"
+      },
+      {
+        "id": "50870",
+        "label": "阿尔法",
+        "info": "巨大なUFO「ビッグオメガ」の完成をもくろむ、メカニャンボーたちのボス。いざという時には「グレートアルファ」に変身。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/e1/50870_crt_223tp.jpg",
+        "link": "https://bgm.tv/character/50870",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1758",
+        "label": "上下山虎子",
+        "info": "在思考之前就凭着直觉行动了，是个会到处惹事的活动麻烦制造机。意外地不擅长处理恋情。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/12/1758_Z6j9z.jpg",
+        "link": "https://bgm.tv/character/1758",
+        "categorie": "person"
+      },
+      {
+        "id": "1760",
+        "label": "早乙女雀",
+        "info": "很少说话，是一个不太能被预测下一步行动的怪力少女。从初中时起就与虎子结下了不解之缘= =，在四人组中相当于捧哏的角色。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/2d/1760_i7dso.jpg",
+        "link": "https://bgm.tv/character/1760",
+        "categorie": "person"
+      },
+      {
+        "id": "1828",
+        "label": "风茉莉冬马",
+        "info": "由于喜爱读书，经常泡在图书馆里的女孩子。和虎子经常吵小架。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/96/1828_DHLgU.jpg",
+        "link": "https://bgm.tv/character/1828",
+        "categorie": "person"
+      },
+      {
+        "id": "3359",
+        "label": "上下山狐",
+        "info": "二年级，虎子的哥哥，从小欺负虎子，在同学中以虐待狂闻名，看起来和虎子完全没有相似之处。把步巳也视为折磨的目标，经常做些掀裙子之类的事情，不过有时也做些好事，比如送她狐狸面具或是分她些冰淇淋。据说他经常给雀糖果之类的东西最后把她收买了，结果他欺负虎子时雀也不帮忙。平时总是懒洋洋的，喜欢的科目是现代国语。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/b0/3359_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3359",
+        "categorie": "person"
+      },
+      {
+        "id": "11962",
+        "label": "战国狮狮丸",
+        "info": "二年级，剑道部成员，主将，所谓上园四天王之一。开学时被虎子从二楼跳下的勇猛姿态所吸引，对她相当在意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/7d/11962_crt_WkUWQ.jpg",
+        "link": "https://bgm.tv/character/11962",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

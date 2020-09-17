@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10794",
+        "label": "士官长",
+        "info": "士官长是经过一系列基因强化战士的机密军事计划“斯巴达二号(SPARTAN II)”中唯一幸存者，这就是你将操作的生物与电子各一半的生物体，他是人类对抗星盟最后的寄托。而在游戏里，你将是要作为救世主的角色揭开HALO的秘密，拯救地球。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/d5/10794_crt_3R3Jv.jpg",
+        "link": "https://bgm.tv/character/10794",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

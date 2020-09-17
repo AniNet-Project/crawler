@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67097",
+        "label": "艾什",
+        "info": "艾什是死局帮的首脑，她富有野心、精于算计，在江湖上很是吃得开。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/47/67097_crt_Pr9yN.jpg",
+        "link": "https://bgm.tv/character/67097",
+        "categorie": "person"
+      },
+      {
+        "id": "45981",
+        "label": "麦克雷",
+        "info": "“正义可不会伸张自己。”",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/b9/45981_crt_iTcf0.jpg?r=1487967439",
+        "link": "https://bgm.tv/character/45981",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

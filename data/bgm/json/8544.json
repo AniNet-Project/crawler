@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13631",
+        "label": "哈鲁·葛罗利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/68/13631_crt_ZlLCK.jpg",
+        "link": "https://bgm.tv/character/13631",
+        "categorie": "person"
+      },
+      {
+        "id": "13632",
+        "label": "艾丽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/7a/13632_crt_9XSxH.jpg",
+        "link": "https://bgm.tv/character/13632",
+        "categorie": "person"
+      },
+      {
+        "id": "13633",
+        "label": "普鲁",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/e9/13633_crt_17i39.jpg",
+        "link": "https://bgm.tv/character/13633",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

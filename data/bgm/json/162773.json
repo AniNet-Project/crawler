@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24287",
+        "label": "朝雾希美",
+        "info": "都会で生まれ都会で育った、都会っ娘シスターズの姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/d7/24287_crt_gu88n.jpg",
+        "link": "https://bgm.tv/character/24287",
+        "categorie": "person"
+      },
+      {
+        "id": "24288",
+        "label": "朝雾咲良",
+        "info": "都会で生まれ都会で育った、都会っ娘シスターズの妹。 後輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/36/24288_crt_h2IZ9.jpg",
+        "link": "https://bgm.tv/character/24288",
+        "categorie": "person"
+      },
+      {
+        "id": "24289",
+        "label": "エレクトリーチカ・サプサン",
+        "info": "レーチェという愛称の、ロシアからやってきた留学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/c9/24289_crt_LkphP.jpg",
+        "link": "https://bgm.tv/character/24289",
+        "categorie": "person"
+      },
+      {
+        "id": "24290",
+        "label": "药王寺小町",
+        "info": "大和撫子的奥ゆかしさと、田舎から出てきた少女らしさを持つ、学生たちと近めの視線で接することが出来る現代文の先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/4d/24290_crt_Ym1k0.jpg",
+        "link": "https://bgm.tv/character/24290",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8391",
+        "label": "ようこ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/f6/8391_crt_0kUIL.jpg?r=1398997056",
+        "link": "https://bgm.tv/character/8391",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

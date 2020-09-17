@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17262",
+        "label": "不知火舞",
+        "info": "继承不知火流忍术的女忍者，爱上了在其祖父不知火半蔵门下修行的安迪·柏格而在追踪他时投入了战斗中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/f6/17262_crt_a68vW.jpg?r=1531430404",
+        "link": "https://bgm.tv/character/17262",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

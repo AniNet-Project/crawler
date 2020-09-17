@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39698",
+        "label": "鷺宮香夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/fd/39698_crt_PM2GB.jpg",
+        "link": "https://bgm.tv/character/39698",
+        "categorie": "person"
+      },
+      {
+        "id": "39700",
+        "label": "鷺宮美咲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/ea/39700_crt_3cI3F.jpg",
+        "link": "https://bgm.tv/character/39700",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

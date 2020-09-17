@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61975",
+        "label": "清次",
+        "info": "出雲屋を姉のお紅と共に取り仕切る青年。人情家で頭の回転も速く、町の人々からも可愛がられている。ただ押しが弱く、優しすぎるきらいがあり、店の品物であるつくもがみ達から、からかわれることもしばしば。血の繋がらない姉弟であるお紅の事がとかく気になるようで......。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/f7/61975_crt_tN0Na.jpg?r=1529044256",
+        "link": "https://bgm.tv/character/61975",
+        "categorie": "person"
+      },
+      {
+        "id": "61977",
+        "label": "阿红",
+        "info": "弟の清次と共に店を切り盛りする出雲屋の看板娘。美しい外見と、明るくきっぷのいい性格で老若男女を問わず人気がある。弟の清次に対してはやたらと厳しく振る舞いがち。しかしなんだかんだで、清次の事を頼りにしており、心を許している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/6d/61977_crt_N7S13.jpg?r=1529044681",
+        "link": "https://bgm.tv/character/61977",
+        "categorie": "person"
+      },
+      {
+        "id": "61978",
+        "label": "佐太郎",
+        "info": "有名な商家である飯田屋の若旦那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/74/61978_crt_usRXx.jpg?r=1529044706",
+        "link": "https://bgm.tv/character/61978",
+        "categorie": "person"
+      },
+      {
+        "id": "63888",
+        "label": "野铁",
+        "info": "蝙蝠の形をした根付のつくもがみ。出雲屋のつくもがみたちの中で唯一空を飛べるので、清次やお紅に知られずに自ら飛んで移動し、情報収集をすることも。とある理由により人間に対してはやたら厳しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/d3/63888_crt_G70km.jpg?r=1529044156",
+        "link": "https://bgm.tv/character/63888",
+        "categorie": "person"
+      },
+      {
+        "id": "63889",
+        "label": "月夜见",
+        "info": "闇夜に浮かぶ満月の絵が描かれた掛け軸のつくもがみ。気位が高く、教訓、格言めいたことを言いがちで他のつくもがみから面倒くさがられることも。ただそのプライドの高さには何か理由があるようで……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/ac/63889_crt_YD4O3.jpg",
+        "link": "https://bgm.tv/character/63889",
+        "categorie": "person"
+      },
+      {
+        "id": "63890",
+        "label": "五位",
+        "info": "キセルのつくもがみ。つくもがみ同士が噂話で賑やかにしゃべっているときに話をまとめようとする癖がある。ただまとめられないことも多々あり。出雲屋にやってくる前の持ち主は、艶やかで美しい芸者だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/a6/63890_crt_hNoNn.jpg?r=1529044134",
+        "link": "https://bgm.tv/character/63890",
+        "categorie": "person"
+      },
+      {
+        "id": "63891",
+        "label": "お姫",
+        "info": "姫人形のつくもがみ。現在、出雲屋で貸し出されている道具の中でも特に高価なものだとされている。前の持ち主の元から賊によって盗み出され、流れ流れて出雲屋にたどり着いたという経緯がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/61/63891_crt_oSAZN.jpg?r=1529044113",
+        "link": "https://bgm.tv/character/63891",
+        "categorie": "person"
+      },
+      {
+        "id": "63892",
+        "label": "うさぎ",
+        "info": "うさぎの柄の櫛のつくもがみ。おしゃべり好きがそろう出雲屋のつくもがみの中でも特におしゃべり好きで、ついつい余計な事を言い過ぎてしまう。ただ気持ちは素直で温かく、情に厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/b8/63892_crt_ZLUOX.jpg",
+        "link": "https://bgm.tv/character/63892",
+        "categorie": "person"
+      },
+      {
+        "id": "65886",
+        "label": "幸之助",
+        "info": "粋な遊び人として名の通った両国の呉服屋・近江屋の若旦那。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/ea/65886_crt_xp881.jpg?r=1537146398",
+        "link": "https://bgm.tv/character/65886",
+        "categorie": "person"
+      },
+      {
+        "id": "10956",
+        "label": "旁白",
+        "info": "戏剧角色背着台上其他剧中人对观众说的话。也指影视片中的解说词。说话者不出现在画面上，但直接以语言来介绍影片内容、交待剧情或发表议论，包括对白的使用。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/01/10956_crt_5LR7z.jpg",
+        "link": "https://bgm.tv/character/10956",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

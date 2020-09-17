@@ -1,0 +1,525 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29123",
+        "label": "加州清光",
+        "info": "俺、加州清光。川の下の子、河原の子ってね。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/f0/29123_crt_oV6Q7.jpg?r=1513788429",
+        "link": "https://bgm.tv/character/29123",
+        "categorie": "person"
+      },
+      {
+        "id": "29185",
+        "label": "大和守安定",
+        "info": "僕は大和守安定。沖田総司の愛刀の一つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/ca/29185_crt_2XwZF.jpg?r=1513789359",
+        "link": "https://bgm.tv/character/29185",
+        "categorie": "person"
+      },
+      {
+        "id": "29190",
+        "label": "压切长谷部",
+        "info": "へし切長谷部。･･････変な名前でしょう？",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/e9/29190_crt_jYC9e.jpg?r=1513789500",
+        "link": "https://bgm.tv/character/29190",
+        "categorie": "person"
+      },
+      {
+        "id": "29137",
+        "label": "今剑",
+        "info": "ぼくは、今剣！よしつねこうのまもりがたななんですよ！どうだ、すごいでしょう！",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/c5/29137_crt_FC7FS.jpg?r=1513788686",
+        "link": "https://bgm.tv/character/29137",
+        "categorie": "person"
+      },
+      {
+        "id": "29145",
+        "label": "前田藤四郎",
+        "info": "前田藤四郎と申します藤四郎の眷属の末席に座するものです。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/13/29145_crt_h5vF9.jpg?r=1513789160",
+        "link": "https://bgm.tv/character/29145",
+        "categorie": "person"
+      },
+      {
+        "id": "29138",
+        "label": "笑面青江",
+        "info": "僕はにっかり青江。元は大太刀の大脇差さ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/82/29138_crt_57ouw.jpg?r=1513788705",
+        "link": "https://bgm.tv/character/29138",
+        "categorie": "person"
+      },
+      {
+        "id": "29127",
+        "label": "蜂须贺虎彻",
+        "info": "蜂須賀虎徹だ。蜂須賀家に伝来したことからこう呼ばれているんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/ce/29127_crt_uAZDA.jpg?r=1513788533",
+        "link": "https://bgm.tv/character/29127",
+        "categorie": "person"
+      },
+      {
+        "id": "29128",
+        "label": "陆奥守吉行",
+        "info": "わしは陸奥守吉行じゃ。そうそう、坂本龍馬の佩刀として知られちゅうね。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/26/29128_crt_qq7J9.jpg?r=1513788548",
+        "link": "https://bgm.tv/character/29128",
+        "categorie": "person"
+      },
+      {
+        "id": "29141",
+        "label": "鲶尾藤四郎",
+        "info": "鯰尾藤四郎です。藤四郎の脇差で元は薙刀でした。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/b6/29141_crt_C4C0G.jpg?r=1513788792",
+        "link": "https://bgm.tv/character/29141",
+        "categorie": "person"
+      },
+      {
+        "id": "29125",
+        "label": "歌仙兼定",
+        "info": "僕は歌仙兼定。歴代兼定でも随一と呼ばれる二代目、通称之定の作さ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/93/29125_crt_DzGJD.jpg?r=1513792407",
+        "link": "https://bgm.tv/character/29125",
+        "categorie": "person"
+      },
+      {
+        "id": "29181",
+        "label": "宗三左文字",
+        "info": "……宗三左文字と言います。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/a7/29181_crt_689PH.jpg?r=1513789316",
+        "link": "https://bgm.tv/character/29181",
+        "categorie": "person"
+      },
+      {
+        "id": "29149",
+        "label": "药研藤四郎",
+        "info": "薬研藤四郎だ。名前はこうだが兄弟たちと違って、俺は戦場育ちでな。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/a1/29149_crt_u5Tc4.jpg?r=1589789319",
+        "link": "https://bgm.tv/character/29149",
+        "categorie": "person"
+      },
+      {
+        "id": "29179",
+        "label": "烛台切光忠",
+        "info": "僕は、燭台切光忠。伊達政宗公が使ってた刀なんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/0b/29179_crt_9X9bX.jpg?r=1513789267",
+        "link": "https://bgm.tv/character/29179",
+        "categorie": "person"
+      },
+      {
+        "id": "29148",
+        "label": "五虎退",
+        "info": "僕があの、五虎退です。謙信公へのお土産です。その時、なんというか、調子のいいお話がつけられて、僕、虎をいろいろやっつけたことになったんですけど。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/48/29148_crt_OVr9s.jpg?r=1513789074",
+        "link": "https://bgm.tv/character/29148",
+        "categorie": "person"
+      },
+      {
+        "id": "29126",
+        "label": "山姥切国广",
+        "info": "俺は山姥切国広。足利城主長尾顕長の依頼で打たれた刀だ。･･･山姥切の写しとしてな。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/75/29126_crt_Kx9Vj.jpg?r=1513788520",
+        "link": "https://bgm.tv/character/29126",
+        "categorie": "person"
+      },
+      {
+        "id": "29192",
+        "label": "狮子王",
+        "info": "俺の名は獅子王。格好いいけどじっちゃんが持つ関係で軽く作ってあるんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/4a/29192_crt_N611R.jpg?r=1513789521",
+        "link": "https://bgm.tv/character/29192",
+        "categorie": "person"
+      },
+      {
+        "id": "29130",
+        "label": "石切丸",
+        "info": "石切丸という。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/e8/29130_crt_z0n3n.jpg?r=1513788626",
+        "link": "https://bgm.tv/character/29130",
+        "categorie": "person"
+      },
+      {
+        "id": "29146",
+        "label": "秋田藤四郎",
+        "info": "秋田藤四郎です。藤四郎は兄弟が多いですが、僕を見間違えたりはしませんよね。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/d4/29146_crt_o98bb.jpg?r=1513789136",
+        "link": "https://bgm.tv/character/29146",
+        "categorie": "person"
+      },
+      {
+        "id": "29147",
+        "label": "乱藤四郎",
+        "info": "ボクは乱藤四郎。粟田口吉光の打った短刀だよ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/ac/29147_crt_g2nIy.jpg?r=1513789093",
+        "link": "https://bgm.tv/character/29147",
+        "categorie": "person"
+      },
+      {
+        "id": "29139",
+        "label": "鸣狐",
+        "info": "やあやあこれなる粟田口派、左兵衛尉藤原国吉が打ちたる打刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ff/29139_crt_wW39y.jpg?r=1513788750",
+        "link": "https://bgm.tv/character/29139",
+        "categorie": "person"
+      },
+      {
+        "id": "29177",
+        "label": "爱染国俊",
+        "info": "オレは愛染国俊。来派の二代、通称二字国俊が打った短刀だ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/08/29177_crt_9fJ7s.jpg?r=1513788914",
+        "link": "https://bgm.tv/character/29177",
+        "categorie": "person"
+      },
+      {
+        "id": "29193",
+        "label": "同田贯正国",
+        "info": "俺は、同田貫正国。俺のことを不格好とかいう奴もいるけどさ、刀に何を求めてるんだろうな。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/89/29193_crt_ha7YH.jpg?r=1513789538",
+        "link": "https://bgm.tv/character/29193",
+        "categorie": "person"
+      },
+      {
+        "id": "29194",
+        "label": "鹤丸国永",
+        "info": "鶴丸国永だ。平安時代に打たれてから、主を転々としながら今まで生きてきた。ま、それだけ人気があったってことだなあ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/fd/29194_crt_BTT67.jpg?r=1513789556",
+        "link": "https://bgm.tv/character/29194",
+        "categorie": "person"
+      },
+      {
+        "id": "29143",
+        "label": "平野藤四郎",
+        "info": "平野藤四郎といいます。明治の帝に献上されたこともあるんですよ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/dd/29143_crt_e3xxA.jpg?r=1513789228",
+        "link": "https://bgm.tv/character/29143",
+        "categorie": "person"
+      },
+      {
+        "id": "29142",
+        "label": "骨喰藤四郎",
+        "info": "俺は、骨喰藤四郎。元は薙刀。今は長脇差。記憶は無い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/63/29142_crt_x2o5O.jpg?r=1513788816",
+        "link": "https://bgm.tv/character/29142",
+        "categorie": "person"
+      },
+      {
+        "id": "29144",
+        "label": "厚藤四郎",
+        "info": "よっ……と。オレは、厚藤四郎。刃がまっすぐ、かつ厚いのが特徴で、兄弟の中だと鎧通しに分類されるんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/83/29144_crt_ZUEMh.jpg?r=1513789189",
+        "link": "https://bgm.tv/character/29144",
+        "categorie": "person"
+      },
+      {
+        "id": "29182",
+        "label": "小夜左文字",
+        "info": "僕は小夜左文字。西行法師の歌から名付けられたんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e8/29182_crt_FSFPN.jpg?r=1513789332",
+        "link": "https://bgm.tv/character/29182",
+        "categorie": "person"
+      },
+      {
+        "id": "29175",
+        "label": "莺丸",
+        "info": "俺は鶯丸。大包平とは同じ古備前はで作風を同一にする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/a5/29175_crt_87AQr.jpg?r=1513788974",
+        "link": "https://bgm.tv/character/29175",
+        "categorie": "person"
+      },
+      {
+        "id": "29188",
+        "label": "堀川国广",
+        "info": "僕？堀川国広と言って、和泉守兼定と一緒に、土方歳三が使っていた脇差さ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/9e/29188_crt_f3FqB.jpg?r=1513789460",
+        "link": "https://bgm.tv/character/29188",
+        "categorie": "person"
+      },
+      {
+        "id": "29186",
+        "label": "和泉守兼定",
+        "info": "オレは土方歳三が使ってたってことで有名な、和泉守兼定だ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/99/29186_crt_KxKZ2.jpg?r=1513789384",
+        "link": "https://bgm.tv/character/29186",
+        "categorie": "person"
+      },
+      {
+        "id": "29195",
+        "label": "太郎太刀",
+        "info": "私は太郎太刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/9c/29195_crt_tiqlz.jpg?r=1513789573",
+        "link": "https://bgm.tv/character/29195",
+        "categorie": "person"
+      },
+      {
+        "id": "29196",
+        "label": "次郎太刀",
+        "info": "アタシは次郎太刀。見ての通りの大太刀さ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/e6/29196_crt_O47NG.jpg?r=1513789596",
+        "link": "https://bgm.tv/character/29196",
+        "categorie": "person"
+      },
+      {
+        "id": "29189",
+        "label": "大俱利伽罗",
+        "info": "……大倶利伽羅だ。相州伝の広光作で。前の主は伊達政宗。名前の由来は彫られた倶利伽羅竜。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/9e/29189_crt_9oK7h.jpg?r=1513789479",
+        "link": "https://bgm.tv/character/29189",
+        "categorie": "person"
+      },
+      {
+        "id": "29129",
+        "label": "三日月宗近",
+        "info": "俺の名は三日月宗近。まあ、天下五剣の一つにして、一番美しいともいうな。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/da/29129_crt_G9psI.jpg?r=1513788605",
+        "link": "https://bgm.tv/character/29129",
+        "categorie": "person"
+      },
+      {
+        "id": "33253",
+        "label": "博多藤四郎",
+        "info": "数多いお守りとしても、ステータスとしても人気で大名がこぞって手に入れようとした藤四郎の短刀は、",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/df/33253_crt_3n8aN.jpg?r=1513785653",
+        "link": "https://bgm.tv/character/33253",
+        "categorie": "person"
+      },
+      {
+        "id": "29187",
+        "label": "山伏国广",
+        "info": "カカカカカ！拙僧は山伏国広と申す！",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/d3/29187_crt_1hrX2.jpg?r=1513789431",
+        "link": "https://bgm.tv/character/29187",
+        "categorie": "person"
+      },
+      {
+        "id": "29197",
+        "label": "御手杵",
+        "info": "三名槍が一本。御手杵だ。槍身は他二本よりでかく、重いんだが、機能は刺すことに特化してるんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/bf/29197_crt_999Aj.jpg?r=1513789615",
+        "link": "https://bgm.tv/character/29197",
+        "categorie": "person"
+      },
+      {
+        "id": "29180",
+        "label": "江雪左文字",
+        "info": "･･････江雪左文字と申します。板部岡江雪斎の佩刀だったが故にこう名付けられました。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/2c/29180_crt_0tLQj.jpg?r=1513791321",
+        "link": "https://bgm.tv/character/29180",
+        "categorie": "person"
+      },
+      {
+        "id": "31298",
+        "label": "浦岛虎彻",
+        "info": "俺は浦島虎徹。鳥取藩主の池田家に伝わってた脇差で、浦島太郎が彫られてるんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/f1/31298_crt_UV0j2.jpg?r=1513789681",
+        "link": "https://bgm.tv/character/31298",
+        "categorie": "person"
+      },
+      {
+        "id": "29140",
+        "label": "一期一振",
+        "info": "私は、一期一振。粟田口吉光の手による唯一の太刀でございます。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/c9/29140_crt_Zz8HM.jpg?r=1513788770",
+        "link": "https://bgm.tv/character/29140",
+        "categorie": "person"
+      },
+      {
+        "id": "29178",
+        "label": "蜻蛉切",
+        "info": "……自分は村正作の槍、蜻蛉切と申します。三名槍のひとつとして評価をいただいております。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/92/29178_crt_Vjblj.jpg?r=1513789244",
+        "link": "https://bgm.tv/character/29178",
+        "categorie": "person"
+      },
+      {
+        "id": "34965",
+        "label": "日本号",
+        "info": "天下三名槍が一本にして、日の本一の呼び声も高い、日本号だ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/86/34965_crt_QoLlJ.jpg?r=1513790789",
+        "link": "https://bgm.tv/character/34965",
+        "categorie": "person"
+      },
+      {
+        "id": "29330",
+        "label": "小狐丸",
+        "info": "相槌を打ったのが狐故、小狐丸と申します。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/9e/29330_crt_t4XEz.jpg?r=1513789638",
+        "link": "https://bgm.tv/character/29330",
+        "categorie": "person"
+      },
+      {
+        "id": "29136",
+        "label": "岩融",
+        "info": "がはははは！　俺は岩融！",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/b6/29136_crt_b5BBF.jpg?r=1513788658",
+        "link": "https://bgm.tv/character/29136",
+        "categorie": "person"
+      },
+      {
+        "id": "29176",
+        "label": "萤丸",
+        "info": "来国俊の作、小さな体に大きな大太刀！",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/06/29176_crt_ty5XX.jpg?r=1513788950",
+        "link": "https://bgm.tv/character/29176",
+        "categorie": "person"
+      },
+      {
+        "id": "33252",
+        "label": "明石国行",
+        "info": "どうも、すいまっせん。明石国行言います。どうぞ、よろしゅう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/9e/33252_crt_VI23J.jpg?r=1513789709",
+        "link": "https://bgm.tv/character/33252",
+        "categorie": "person"
+      },
+      {
+        "id": "31297",
+        "label": "长曾祢虎彻",
+        "info": "おれは長曽袮虎徹......の贋作だな。打ったのは虎徹じゃない。源清麿という、",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/2b/31297_crt_X9QRr.jpg?r=1513789654",
+        "link": "https://bgm.tv/character/31297",
+        "categorie": "person"
+      },
+      {
+        "id": "39087",
+        "label": "髭切",
+        "info": "源氏の重宝、髭切さ。試し斬りで罪人の首を斬ったら、髭までスパッと切れたからこの名前になったんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/67/39087_crt_yZo9A.jpg?r=1513792433",
+        "link": "https://bgm.tv/character/39087",
+        "categorie": "person"
+      },
+      {
+        "id": "39088",
+        "label": "膝丸",
+        "info": "「源氏の重宝、膝丸だ。試し斬りで罪人を斬ったら、両膝を一刀で断った事から名付けられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/d2/39088_crt_783Ce.jpg?r=1513792463",
+        "link": "https://bgm.tv/character/39088",
+        "categorie": "person"
+      },
+      {
+        "id": "39641",
+        "label": "数珠丸恒次",
+        "info": "私は、天下五剣の一振り。数珠丸恒次と申します。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/4f/39641_crt_xCZ0S.jpg?r=1513784558",
+        "link": "https://bgm.tv/character/39641",
+        "categorie": "person"
+      },
+      {
+        "id": "43730",
+        "label": "太鼓钟贞宗",
+        "info": "俺は、太鼓鐘貞宗！",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/75/43730_crt_977RR.jpg?r=1513783846",
+        "link": "https://bgm.tv/character/43730",
+        "categorie": "person"
+      },
+      {
+        "id": "39089",
+        "label": "不动行光",
+        "info": "俺は不動行光。不動明王と矜羯羅、制多迦が浮き彫りされてて、織田信長公がたいそう愛した逸品なんだ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/b8/39089_crt_y8w7P.jpg?r=1513784437",
+        "link": "https://bgm.tv/character/39089",
+        "categorie": "person"
+      },
+      {
+        "id": "49441",
+        "label": "小乌丸",
+        "info": "古来、重宝として名高い太刀。一説では日本の刀剣が日本刀と呼ばれる形になる成立過程にある一振り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/d6/49441_crt_GQ96b.jpg?r=1513782522",
+        "link": "https://bgm.tv/character/49441",
+        "categorie": "person"
+      },
+      {
+        "id": "45193",
+        "label": "大典太光世",
+        "info": "……天下五剣が一振り。大典太光世だ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/89/45193_crt_xhlcL.jpg?r=1513783439",
+        "link": "https://bgm.tv/character/45193",
+        "categorie": "person"
+      },
+      {
+        "id": "45194",
+        "label": "骚速之剑",
+        "info": "ソハヤノツルキ　ウツスナリ……。この言葉が俺を示すもの。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/54/45194_crt_gFtgc.jpg?r=1513784669",
+        "link": "https://bgm.tv/character/45194",
+        "categorie": "person"
+      },
+      {
+        "id": "39086",
+        "label": "后藤藤四郎",
+        "info": "後藤藤四郎だ。うちは兄弟がいっぱいいるけど、背が高めなのが俺だ。チビどものことで困ったら言ってくれよな。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b1/39086_crt_FlG07.jpg?r=1513784974",
+        "link": "https://bgm.tv/character/39086",
+        "categorie": "person"
+      },
+      {
+        "id": "41841",
+        "label": "信浓藤四郎",
+        "info": "俺、信濃藤四郎。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/dd/41841_crt_kYZAP.jpg?r=1513791939",
+        "link": "https://bgm.tv/character/41841",
+        "categorie": "person"
+      },
+      {
+        "id": "47495",
+        "label": "包丁藤四郎",
+        "info": "俺は包丁藤四郎！　藤四郎の兄弟で、包丁みたいな形をしてるんだ！",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/07/47495_crt_dyxxT.jpg?r=1513782541",
+        "link": "https://bgm.tv/character/47495",
+        "categorie": "person"
+      },
+      {
+        "id": "36799",
+        "label": "物吉贞宗",
+        "info": "物吉貞宗と言います！無銘のボクですが、ボクを持っていくさに行くと必ず勝てるというので、徳川家康公には大事にしていただきました！",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/ef/36799_crt_YerhI.jpg?r=1513792360",
+        "link": "https://bgm.tv/character/36799",
+        "categorie": "person"
+      },
+      {
+        "id": "45195",
+        "label": "龟甲贞宗",
+        "info": "ぼくは亀甲貞宗。徳川将軍家に伝わる刀だよ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/30/45195_crt_2zsbL.jpg?r=1513792563",
+        "link": "https://bgm.tv/character/45195",
+        "categorie": "person"
+      },
+      {
+        "id": "50785",
+        "label": "千子村正",
+        "info": "初代村正（千子村正）の作で、恐ろしいほどの切れ味を持つ実戦向きの打刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/74/50785_crt_6FleS.jpg?r=1513791983",
+        "link": "https://bgm.tv/character/50785",
+        "categorie": "person"
+      },
+      {
+        "id": "49431",
+        "label": "大包平",
+        "info": "古備前派の刀工包平作の太刀。共に刀剣の横綱といわれながら、天下五剣でもある童子切安綱をライバル視する。歴史的な逸話や伝説にやや乏しく、池田輝政に見出されたという一説は彼の拠り所。同郷の鶯丸に観察されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/d7/49431_crt_8yl8Y.jpg?r=1513791860",
+        "link": "https://bgm.tv/character/49431",
+        "categorie": "person"
+      },
+      {
+        "id": "54364",
+        "label": "狐之助",
+        "info": "『刀剣乱舞』に登場するマスコット兼ナビゲーターである「くだぎつね」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/86/54364_crt_36s4E.jpg",
+        "link": "https://bgm.tv/character/54364",
+        "categorie": "person"
+      },
+      {
+        "id": "49764",
+        "label": "青い鳥",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/0a/49764_crt_kKKHt.jpg",
+        "link": "https://bgm.tv/character/49764",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

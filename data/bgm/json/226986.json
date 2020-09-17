@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61923",
+        "label": "卡托莉艾露·雷顿",
+        "info": "ナゾトキや不思議な出来事が好きな女の子。明るく活発な性格でありながら、父であるレイトン教授より、礼儀正しき淑女教育を受けており、上品にふるまう努力は一応している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/73/61923_crt_gd4gb.jpg?r=1523368818",
+        "link": "https://bgm.tv/character/61923",
+        "categorie": "person"
+      },
+      {
+        "id": "61924",
+        "label": "夏洛",
+        "info": "カトリ一の助手でしゃべる犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/a8/61924_crt_6W5Zj.jpg",
+        "link": "https://bgm.tv/character/61924",
+        "categorie": "person"
+      },
+      {
+        "id": "61925",
+        "label": "诺亚·蒙多尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/9f/61925_crt_Iocqr.jpg?r=1521779258",
+        "link": "https://bgm.tv/character/61925",
+        "categorie": "person"
+      },
+      {
+        "id": "61926",
+        "label": "大吉岭·阿斯波瓦罗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/b5/61926_crt_ZvSJU.jpg",
+        "link": "https://bgm.tv/character/61926",
+        "categorie": "person"
+      },
+      {
+        "id": "61927",
+        "label": "杰拉尔丁·洛亚",
+        "info": "ロンドンで天才分析官と名をはせる",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/c4/61927_crt_u9904.jpg",
+        "link": "https://bgm.tv/character/61927",
+        "categorie": "person"
+      },
+      {
+        "id": "11498",
+        "label": "艾尔夏尔·雷顿",
+        "info": "37岁，一般称作“雷顿”或“雷顿教授”，克蕾娅称呼他“艾尔夏尔”。“格雷森赫拉卡雷治”史上最年轻的教授，平时都会戴着恋人克蕾娅送的山高帽，无论遇到什么情况也不会摘掉。口头禅是“那必须的，因为是英国绅士呢”，这也是跟克蕾娅学来的一句话。学生时代酷爱剑术等体育活动，所以与敌人的战斗也比较拿手。有着感情深藏不露，临危不惧的冷静性格。国际象棋水平相当高。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/a6/11498_crt_T4Osy.jpg",
+        "link": "https://bgm.tv/character/11498",
+        "categorie": "person"
+      },
+      {
+        "id": "11503",
+        "label": "路克·特莱顿",
+        "info": "作为雷顿教授的助手（弟子）贯穿整个系列的人物，第一季（恶、不、最）是13岁，第二季（魔、奇）开始的时候是10岁。拥有与动物对话的能力，贪吃又顽皮的性格，把雷顿教授的爱车称作“破车”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/3b/11503_crt_jm4jG.jpg",
+        "link": "https://bgm.tv/character/11503",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

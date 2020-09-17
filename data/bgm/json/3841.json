@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70035",
+        "label": "怪盗レーニャ",
+        "info": "普段はコンビニエンスストア「ファミニャ」店員。ネコと人間のハーフ。欲望に正直。破天荒。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/2e/70035_crt_08jke.jpg?r=1557542897",
+        "link": "https://bgm.tv/character/70035",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

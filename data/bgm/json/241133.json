@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61928",
+        "label": "黑井宗矢",
+        "info": "記憶喪失の高校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/46/61928_crt_l41V2.jpg",
+        "link": "https://bgm.tv/character/61928",
+        "categorie": "person"
+      },
+      {
+        "id": "61929",
+        "label": "高天原希",
+        "info": "宗矢のクラスの委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/ed/61929_crt_1sZmd.jpg?r=1527844498",
+        "link": "https://bgm.tv/character/61929",
+        "categorie": "person"
+      },
+      {
+        "id": "61930",
+        "label": "黑井银子",
+        "info": "宗矢と暮らすゴスロリ姿の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/6a/61930_crt_eAL55.jpg?r=1527844471",
+        "link": "https://bgm.tv/character/61930",
+        "categorie": "person"
+      },
+      {
+        "id": "63727",
+        "label": "老师",
+        "info": "宗矢・銀子と同居する謎の猫のような姿をした生物。キャベツを貪り二次元美少女を愛でる、ごく普通（？）の生活を送っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/4b/63727_crt_ogyVh.jpg",
+        "link": "https://bgm.tv/character/63727",
+        "categorie": "person"
+      },
+      {
+        "id": "61931",
+        "label": "白石黄金",
+        "info": "竜造寺隆の秘書的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/63/61931_crt_lZ5VS.jpg?r=1527844849",
+        "link": "https://bgm.tv/character/61931",
+        "categorie": "person"
+      },
+      {
+        "id": "61932",
+        "label": "虎居英雄",
+        "info": "グランドパラディンに所属し、その中でもトップクラスの戦闘能力を持つ。普段は真面目な好青年で、以前消防士として働いていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/5a/61932_crt_mRhr7.jpg?r=1527844486",
+        "link": "https://bgm.tv/character/61932",
+        "categorie": "person"
+      },
+      {
+        "id": "61933",
+        "label": "因幡美羽",
+        "info": "グランドパラディンのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b4/61933_crt_GxziL.jpg?r=1527844510",
+        "link": "https://bgm.tv/character/61933",
+        "categorie": "person"
+      },
+      {
+        "id": "61934",
+        "label": "熊代晴海",
+        "info": "グランドパラディンのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/a0/61934_crt_6Exlz.jpg",
+        "link": "https://bgm.tv/character/61934",
+        "categorie": "person"
+      },
+      {
+        "id": "61935",
+        "label": "根津屋正义",
+        "info": "グランドパラディンのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/90/61935_crt_V4mhG.jpg?r=1527844836",
+        "link": "https://bgm.tv/character/61935",
+        "categorie": "person"
+      },
+      {
+        "id": "61936",
+        "label": "鹰取红华",
+        "info": "グランドパラディンのひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/76/61936_crt_xOaoa.jpg",
+        "link": "https://bgm.tv/character/61936",
+        "categorie": "person"
+      },
+      {
+        "id": "61937",
+        "label": "羊谷叶介",
+        "info": "グランドパラディンに所属する青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/60/61937_crt_iX0Wy.jpg?r=1527845375",
+        "link": "https://bgm.tv/character/61937",
+        "categorie": "person"
+      },
+      {
+        "id": "63728",
+        "label": "龙造寺隆",
+        "info": "7人のサイキッカーを束ねる国民安全管理局特殊防衛課、通称「グランドパラディン」のトップ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/b8/63728_crt_eRsU5.jpg?r=1527844650",
+        "link": "https://bgm.tv/character/63728",
+        "categorie": "person"
+      },
+      {
+        "id": "63729",
+        "label": "龙造寺岳藏",
+        "info": "グランドパラディンの最年長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/07/d0/63729_crt_Uj9U6.jpg",
+        "link": "https://bgm.tv/character/63729",
+        "categorie": "person"
+      },
+      {
+        "id": "63730",
+        "label": "阁下",
+        "info": "先生と対立する犬のような姿をした生物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/e0/63730_crt_lTTnX.jpg",
+        "link": "https://bgm.tv/character/63730",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5811",
+        "label": "水无神操绪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/c8/5811_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5811",
+        "categorie": "person"
+      },
+      {
+        "id": "5812",
+        "label": "夏目智春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/d5/5812_crt_2a3dq.jpg?r=1390922076",
+        "link": "https://bgm.tv/character/5812",
+        "categorie": "person"
+      },
+      {
+        "id": "19194",
+        "label": "嵩月奏",
+        "info": "嵩月奏（（たかつき かなで），声優：野中藍）",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/f7/19194_crt_m9hco.jpg",
+        "link": "https://bgm.tv/character/19194",
+        "categorie": "person"
+      },
+      {
+        "id": "5813",
+        "label": "黑崎朱浬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/90/5813_crt_anidb.jpg?r=1390922303",
+        "link": "https://bgm.tv/character/5813",
+        "categorie": "person"
+      },
+      {
+        "id": "9203",
+        "label": "志津间哀音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/7d/9203_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9203",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

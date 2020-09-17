@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65835",
+        "label": "须山凑",
+        "info": "年齢：19歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/ab/65835_crt_rGJbw.jpg",
+        "link": "https://bgm.tv/character/65835",
+        "categorie": "person"
+      },
+      {
+        "id": "65836",
+        "label": "大森千歌子",
+        "info": "年齢：19歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/43/65836_crt_gU94X.jpg",
+        "link": "https://bgm.tv/character/65836",
+        "categorie": "person"
+      },
+      {
+        "id": "66331",
+        "label": "中田凌太",
+        "info": "学科：声優アニソン科　2年生",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/b6/66331_crt_24MMU.jpg",
+        "link": "https://bgm.tv/character/66331",
+        "categorie": "person"
+      },
+      {
+        "id": "66332",
+        "label": "生驹景",
+        "info": "年齢：23歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/6a/66332_crt_68D1e.jpg",
+        "link": "https://bgm.tv/character/66332",
+        "categorie": "person"
+      },
+      {
+        "id": "66333",
+        "label": "具志坚栞",
+        "info": "年齢：18歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/94/66333_crt_wyuz8.jpg",
+        "link": "https://bgm.tv/character/66333",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

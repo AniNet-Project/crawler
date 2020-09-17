@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39991",
+        "label": "绫濑花日",
+        "info": "正義感の強い女の子。子供っぽいところがコンプレックス…！？高尾と交際中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/04/39991_crt_2wRX5.jpg",
+        "link": "https://bgm.tv/character/39991",
+        "categorie": "person"
+      },
+      {
+        "id": "39992",
+        "label": "高尾优斗",
+        "info": "やさしくて面倒見のいいクール男子。イケメンで女の子にモテモテ。花日の彼氏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c5/39992_crt_GsgNW.jpg",
+        "link": "https://bgm.tv/character/39992",
+        "categorie": "person"
+      },
+      {
+        "id": "39993",
+        "label": "苍井结衣",
+        "info": "美人で大人っぽい女の子。花日の親友。母を亡くし、父とふたり暮らし。桧山と交際中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/3e/39993_crt_b4rxr.jpg",
+        "link": "https://bgm.tv/character/39993",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

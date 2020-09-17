@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39573",
+        "label": "仓桥淑美",
+        "info": "軽音楽部員で、ベースを担当している。健一と美帆とは幼馴染ではあるが、学年が1つ上なので姉のような存在である。発掘物を興味本位で見ようと、考古学部の部室に立ち寄った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/3f/39573_crt_MpU66.jpg?r=1458262210",
+        "link": "https://bgm.tv/character/39573",
+        "categorie": "person"
+      },
+      {
+        "id": "39840",
+        "label": "秋山美帆",
+        "info": "軽音楽部員で、ギターを担当している。淑美に付き添う形で、考古学部の部室に立ち寄った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/37/39840_crt_Ew4W2.jpg?r=1459189047",
+        "link": "https://bgm.tv/character/39840",
+        "categorie": "person"
+      },
+      {
+        "id": "40026",
+        "label": "青岛健一",
+        "info": "物語開始当初の主人公。考古学部員。美帆や淑美とは幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/7a/40026_crt_LkN14.jpg?r=1459624934",
+        "link": "https://bgm.tv/character/40026",
+        "categorie": "person"
+      },
+      {
+        "id": "39839",
+        "label": "坂条晶",
+        "info": "考古学部員で、健一の後輩。健一に好意を抱いている。普段はおとなしく、読書好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/38/39839_crt_or2cO.jpg?r=1459181159",
+        "link": "https://bgm.tv/character/39839",
+        "categorie": "person"
+      },
+      {
+        "id": "39851",
+        "label": "尾泽雪乃",
+        "info": "軽音楽部員で、淑美の親友。おっとりとした性格で、成績トップの優等生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/34/39851_crt_BhFPw.jpg?r=1459292363",
+        "link": "https://bgm.tv/character/39851",
+        "categorie": "person"
+      },
+      {
+        "id": "39852",
+        "label": "秋山好珠",
+        "info": "美帆の妹で、附属校の生徒。姉に忘れ物を届けようと、学校に来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/23/39852_crt_R3SR5.jpg?r=1459292626",
+        "link": "https://bgm.tv/character/39852",
+        "categorie": "person"
+      },
+      {
+        "id": "39920",
+        "label": "神村塔子",
+        "info": "考古学部顧問の代理を務めている女性教師。気さくな性格で、生徒からの人気が高い。アダルトアニメ版では考古学部顧問。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/35/39920_crt_a6DR2.jpg?r=1459377327",
+        "link": "https://bgm.tv/character/39920",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

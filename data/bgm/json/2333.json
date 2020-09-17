@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1123",
+        "label": "东方院行人",
+        "info": "由於从小的家庭教育就很严格，他对於父亲以及祖父的反抗心特别强烈。相反的祖父灌输给他的剑术，以及透过修行培养出来的精神力都具有相当的强度。从小祖父就告诉他「男人应该保护女人」，不过在英勇的蓝兰岛女性面前，或许他才是需要保护的人呢！",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/fd/1123_u2z4I.jpg",
+        "link": "https://bgm.tv/character/1123",
+        "categorie": "person"
+      },
+      {
+        "id": "1124",
+        "label": "小铃",
+        "info": "师父小虎真传的格斗技，破坏力格外惊人！小小的身躯，却蕴含著难以想象的强大破坏力，就连东方领主都难以抵挡。不过她似乎……有点不会控制力道呢！对付领主跟绫音倒还没问题，只是对行人嘛~或许要温柔一点比较好哦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/63/1124_xoAfZ.jpg",
+        "link": "https://bgm.tv/character/1124",
+        "categorie": "person"
+      },
+      {
+        "id": "1125",
+        "label": "绫音",
+        "info": "托什麼家事都不做的姊姊之福，不管是什麼家事绫音都能应付自如，不过身为巫女的能力却还早得很。对於自己的平胸相当在意，不过她倒是认为自己的身材、脸蛋都算是出类拔萃。虽然什麼东西都会的确很厉害，行人说的「样样通样样松」或许也是相当贴切呢…！ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/10/1125_iW981.jpg",
+        "link": "https://bgm.tv/character/1125",
+        "categorie": "person"
+      },
+      {
+        "id": "1126",
+        "label": "麻知",
+        "info": "身为一个巫女，本来应该是为了祭拜海龙王才进行修行，然而她从小埋头研究的却是跟咒术有关的书。她本来就是个只做自己想做的事的人，加上天赋异秉，於是就这样精通起咒术跟使唤式神了。就这样子每天戏弄自己的妹妹绫音，她的日子过得轻松又快乐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/ee/1126_83rz8.jpg",
+        "link": "https://bgm.tv/character/1126",
+        "categorie": "person"
+      },
+      {
+        "id": "1127",
+        "label": "玲玲",
+        "info": "以祖母跟母亲为首，玲玲的家里有许多木工师父一起过活。由於祖母跟母亲都已经是个独当一面的木工师父了，因此料理这桩差事就落到玲玲的身上。尽管她因此变得相当会作菜，但是负责吃饭的家人们却似乎不怎麼重视口味？没有人称赞的玲玲，看起来真的有点可怜呢……",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/8a/1127_MHnNN.jpg",
+        "link": "https://bgm.tv/character/1127",
+        "categorie": "person"
+      },
+      {
+        "id": "1128",
+        "label": "雪乃",
+        "info": "雪乃总是跟动物们腻在一块，不管是要出门、要睡觉，就连吃饭的时候也是在一起的。虽然这个岛上的动物们可以跟人类沟通，唯一能够分辨出细微差异的也只有雪乃了。对了，别看小熊那样，她可是「与其说是漂亮型，倒不如说是可爱型的」喔！",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/e7/1128_VTy5s.jpg",
+        "link": "https://bgm.tv/character/1128",
+        "categorie": "person"
+      },
+      {
+        "id": "1129",
+        "label": "千影",
+        "info": "在千影的家里，堆放著蓝兰岛上所有的书，千影平常都是看那些书的。偶尔蓝兰岛的海岸边会有外面世界的书漂来，千影就靠这些书获得外面的知识。不过她知识似乎有点怪怪的……？ ",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/a5/1129_lUuNn.jpg",
+        "link": "https://bgm.tv/character/1129",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "15175",
+        "label": "山姆",
+        "info": "声 - 柿原徹也",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/5a/15175_crt_9GJZc.jpg",
+        "link": "https://bgm.tv/character/15175",
+        "categorie": "person"
+      },
+      {
+        "id": "15176",
+        "label": "ミメイ",
+        "info": "バルノダスのクルー。サムの幼馴染で彼に恋心を抱いているが、その気持ちは届いていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/c7/15176_crt_DMdr8.jpg",
+        "link": "https://bgm.tv/character/15176",
+        "categorie": "person"
+      },
+      {
+        "id": "15177",
+        "label": "玛雅",
+        "info": "「シーシアス」に追われている謎の少女。サムに助けられたことがきっかけでバルダノスに身を寄せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/4d/15177_crt_90Sw6.jpg",
+        "link": "https://bgm.tv/character/15177",
+        "categorie": "person"
+      },
+      {
+        "id": "15178",
+        "label": "バイナス",
+        "info": "バルダノスの船長。サムの兄の恋人だった。的確な判断で船を切り盛りし、クルーには慕われている。タロットカードが趣味であり、熱中すると人の話が耳に入らなくなる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/6e/15178_crt_55SS4.jpg",
+        "link": "https://bgm.tv/character/15178",
+        "categorie": "person"
+      },
+      {
+        "id": "15179",
+        "label": "ボクス・ラフ",
+        "info": "バルダノスのクルー。バイナスの補佐をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/df/15179_crt_9ZZ53.jpg",
+        "link": "https://bgm.tv/character/15179",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

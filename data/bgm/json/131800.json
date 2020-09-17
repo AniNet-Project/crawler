@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41776",
+        "label": "仓田亚美",
+        "info": "大学1年级生，不擅长运动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/84/41776_crt_83UyK.jpg?r=1558013889",
+        "link": "https://bgm.tv/character/41776",
+        "categorie": "person"
+      },
+      {
+        "id": "41780",
+        "label": "新垣葵",
+        "info": "与亚美同年的青梅竹马，运动神经优秀。其实个性十分怕羞、喜欢可爱的东西。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/d0/41780_crt_VrH1V.jpg?r=1558015342",
+        "link": "https://bgm.tv/character/41780",
+        "categorie": "person"
+      },
+      {
+        "id": "41784",
+        "label": "西条雏子",
+        "info": "大学3年级生，亚美与葵的学姐，特征为金发双马尾。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/14/41784_crt_k852w.jpg?r=1558017723",
+        "link": "https://bgm.tv/character/41784",
+        "categorie": "person"
+      },
+      {
+        "id": "41785",
+        "label": "一之濑弥生",
+        "info": "大学3年级生，与雏子是同学，特征为波浪卷发。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/27/41785_crt_gX8tH.jpg?r=1558169301",
+        "link": "https://bgm.tv/character/41785",
+        "categorie": "person"
+      },
+      {
+        "id": "41786",
+        "label": "高宫纱希",
+        "info": "大学3年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/a1/41786_crt_eaAc5.jpg?r=1558187643",
+        "link": "https://bgm.tv/character/41786",
+        "categorie": "person"
+      },
+      {
+        "id": "47296",
+        "label": "仓田惠美",
+        "info": "亜美の妹。サイクリングにのめりこむ姉の（恵美から見て）奇行を度々目撃し、心配している。6巻収録の番外編では、亜美の楽しげな様子に刺激されて自らも始めようと思い立った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/59/47296_crt_IN5BZ.jpg?r=1558189117",
+        "link": "https://bgm.tv/character/47296",
+        "categorie": "person"
+      },
+      {
+        "id": "70173",
+        "label": "亚美的母亲",
+        "info": "仓田亚美的母亲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/eb/70173_crt_00BqS.jpg?r=1558630044",
+        "link": "https://bgm.tv/character/70173",
+        "categorie": "person"
+      },
+      {
+        "id": "70174",
+        "label": "佐伯美弥",
+        "info": "大学で亜美と同じ講義を受けている大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/59/70174_crt_T98X2.jpg?r=1558631757",
+        "link": "https://bgm.tv/character/70174",
+        "categorie": "person"
+      },
+      {
+        "id": "70259",
+        "label": "羊驼单车店长",
+        "info": "亜美たちが普段より利用している自転車店「アルパカサイクル」の店長。頭にアルパカの被り物をしており、語尾に『パカ』を付ける喋り方をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/ed/70259_crt_m7807.jpg?r=1559146912",
+        "link": "https://bgm.tv/character/70259",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

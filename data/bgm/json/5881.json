@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25771",
+        "label": "高桥绘里子",
+        "info": "誕生日：9月20日、血液型：A型、身長：160センチメートル、体重：52キログラム、スリーサイズ：B87/W60/H89",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/84/25771_crt_XA3SI.jpg?r=1404574912",
+        "link": "https://bgm.tv/character/25771",
+        "categorie": "person"
+      },
+      {
+        "id": "56943",
+        "label": "铃木由真",
+        "info": "外部生。絵里子達からは「由真」、綾乃と小川からは「由真ちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d1/56943_crt_Ff44f.jpg?r=1583644840",
+        "link": "https://bgm.tv/character/56943",
+        "categorie": "person"
+      },
+      {
+        "id": "56944",
+        "label": "佐藤绫乃",
+        "info": "外部生。絵里子達からは「綾乃」、小川からは「綾乃ちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/68/56944_crt_mm337.jpg?r=1583644857",
+        "link": "https://bgm.tv/character/56944",
+        "categorie": "person"
+      },
+      {
+        "id": "56945",
+        "label": "香田亚佳莉",
+        "info": "内部生（中学から入学している生徒のこと）。絵里子達からは「香田」、綾乃からは「香田さん」、小川からは「香田っち」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/db/56945_crt_hWVvO.jpg?r=1583644882",
+        "link": "https://bgm.tv/character/56945",
+        "categorie": "person"
+      },
+      {
+        "id": "56946",
+        "label": "姫路京子",
+        "info": "内部生。絵里子達からは「姫路」、綾乃からは「姫路さん」、小川からは「姫ちゃん」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/ef/56946_crt_1jzua.jpg?r=1583644897",
+        "link": "https://bgm.tv/character/56946",
+        "categorie": "person"
+      },
+      {
+        "id": "56947",
+        "label": "小川育惠",
+        "info": "内部生。絵里子や由真からは「小川ちゃん」、綾乃からは「小川さん」、香田や姫路からは「小川」と呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/69/56947_crt_bRy3F.jpg?r=1583644916",
+        "link": "https://bgm.tv/character/56947",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

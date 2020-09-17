@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12695",
+        "label": "长濑凑",
+        "info": "比哥哥长濑准一小一岁的妹妹。家事、体育万能，可说是个完美的女孩子。言行举止很温和，平时也一直带着温柔的笑容，不过在对待孩子气的准一时却经常很严肃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/a6/12695_crt_10tWb.jpg",
+        "link": "https://bgm.tv/character/12695",
+        "categorie": "person"
+      },
+      {
+        "id": "3469",
+        "label": "长濑准一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/85/3469_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3469",
+        "categorie": "person"
+      },
+      {
+        "id": "23541",
+        "label": "片桐优姫",
+        "info": "片桐财阀董事长的女儿。在街上被骚扰时受到准一的帮助。因为突然发生的某件不能原谅的事情，导致和长濑准一之间成了水火不容的地步，实际上是长准一的未婚妻。性格倔强不服输，而且非常的傲娇，虽然不擅长和人交往，容易感情用事，但在那外表和性格之下，也有开朗的一面。这位名门小姐不太知道平民生活，经常会做出些傻傻的事情来，而且是越面对自己喜欢的人越紧张的类型。因为名字和性格的关系，在同学中有“公主”这一称号（是司给她起的），非常受欢迎，睡觉会梦游，梦游的样子很可爱。长濑准一评价她是个“天然呆”，不过好像对长濑准一的感觉没有表面的那么坏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/2d/23541_crt_8Ku8k.jpg",
+        "link": "https://bgm.tv/character/23541",
+        "categorie": "person"
+      },
+      {
+        "id": "3472",
+        "label": "绫小路华恋",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/74/3472_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3472",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

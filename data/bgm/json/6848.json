@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9154",
+        "label": "九头龙桃子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/58/9154_crt_hb3DP.jpg?r=1469127733",
+        "link": "https://bgm.tv/character/9154",
+        "categorie": "person"
+      },
+      {
+        "id": "21484",
+        "label": "巳屋本色羽",
+        "info": "巳屋本 いろは（みやもと いろは）",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/d1/21484_crt_D38hk.jpg?r=1483323075",
+        "link": "https://bgm.tv/character/21484",
+        "categorie": "person"
+      },
+      {
+        "id": "21928",
+        "label": "中慈马早苗",
+        "info": "中慈馬 早苗（なかじま さなえ） ",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/eb/21928_crt_zp2W2.jpg?r=1493010546",
+        "link": "https://bgm.tv/character/21928",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

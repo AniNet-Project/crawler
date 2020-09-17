@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35465",
+        "label": "雾谷希",
+        "info": "「にゃあ」、「にゃ」が口癖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/97/35465_crt_44882.jpg",
+        "link": "https://bgm.tv/character/35465",
+        "categorie": "person"
+      },
+      {
+        "id": "35466",
+        "label": "芹泽文乃",
+        "info": "巧の幼なじみで、教会で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/99/35466_crt_2h66J.jpg",
+        "link": "https://bgm.tv/character/35466",
+        "categorie": "person"
+      },
+      {
+        "id": "38705",
+        "label": "梅之森千世",
+        "info": "梅ノ森学園の支配者の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/9a/38705_crt_5uK3u.jpg",
+        "link": "https://bgm.tv/character/38705",
+        "categorie": "person"
+      },
+      {
+        "id": "46013",
+        "label": "都筑巧",
+        "info": "私立梅ノ森学園1年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/2f/46013_crt_O4oD3.jpg",
+        "link": "https://bgm.tv/character/46013",
+        "categorie": "person"
+      },
+      {
+        "id": "46014",
+        "label": "都筑乙女",
+        "info": "巧の義理の姉にして、実質的な育ての親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/99/46014_crt_DXHvV.jpg?r=1473667470",
+        "link": "https://bgm.tv/character/46014",
+        "categorie": "person"
+      },
+      {
+        "id": "67959",
+        "label": "鸣子叶绘",
+        "info": "文乃の親友であり、巧のクラスの委員長。器用であり、なんでもこなす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/e2/67959_crt_9315Z.jpg?r=1545730218",
+        "link": "https://bgm.tv/character/67959",
+        "categorie": "person"
+      },
+      {
+        "id": "67962",
+        "label": "菊池家康",
+        "info": "典型的オタクにして、中学時代からの巧の悪友。口が悪く、巧曰く「舌禍が服を着て歩いてる様なヤツ」だが根は善良。巧のオタク師匠で基本的には三次元には興味なし、女などJPGかPNGで十分と宣言して憚らない。アニメではレンズを通して見た女性も二次元であるとの認識をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/90/67962_crt_8318o.jpg?r=1545730513",
+        "link": "https://bgm.tv/character/67962",
+        "categorie": "person"
+      },
+      {
+        "id": "67963",
+        "label": "幸谷大吾郎",
+        "info": "武道一本道の日本文化男。人格者だが少しずれている。天然少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/38/67963_crt_oZd35.jpg?r=1545730710",
+        "link": "https://bgm.tv/character/67963",
+        "categorie": "person"
+      },
+      {
+        "id": "67964",
+        "label": "佐藤一美",
+        "info": "千世の専属メイドの1人。学校でも千世の影として、学生として通っている。学年は巧たちと同じ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/bf/67964_crt_5II54.jpg?r=1545730941",
+        "link": "https://bgm.tv/character/67964",
+        "categorie": "person"
+      },
+      {
+        "id": "67965",
+        "label": "铃木裕子",
+        "info": "千世の専属メイドの1人。学校でも千世の影として、学生として通っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/5d/67965_crt_Bzb5g.jpg?r=1545731345",
+        "link": "https://bgm.tv/character/67965",
+        "categorie": "person"
+      },
+      {
+        "id": "67981",
+        "label": "竹马园夏帆",
+        "info": "千世の幼馴染で、純正セレブのお嬢様。一見、清楚でお淑やかな印象を受けるが実際は陰謀や企みが大好きな腹黒少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/c9/67981_crt_SijUH.jpg?r=1545783963",
+        "link": "https://bgm.tv/character/67981",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

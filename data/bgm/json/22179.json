@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10560",
+        "label": "黒衣麻陶",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/3b/10560_crt_m0lId.jpg",
+        "link": "https://bgm.tv/character/10560",
+        "categorie": "person"
+      },
+      {
+        "id": "10561",
+        "label": "小鸟游黄泉",
+        "info": "TV",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/7f/10561_crt_NPwPA.jpg",
+        "link": "https://bgm.tv/character/10561",
+        "categorie": "person"
+      },
+      {
+        "id": "17639",
+        "label": "神足由宇",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/99/17639_crt_b553W.jpg?r=1500832796",
+        "link": "https://bgm.tv/character/17639",
+        "categorie": "person"
+      },
+      {
+        "id": "14957",
+        "label": "纳野沙耶",
+        "info": "在「朝霞對話室」為學生提供日常輔導的老師，負責為學生進行心理指導。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/95/14957_crt_Z8E4F.jpg?r=1500832839",
+        "link": "https://bgm.tv/character/14957",
+        "categorie": "person"
+      },
+      {
+        "id": "14889",
+        "label": "出灰篝",
+        "info": "優美自童年認識的玩伴。非常喜歡馬卡龍。毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/e1/14889_crt_x4NFF.jpg?r=1500832810",
+        "link": "https://bgm.tv/character/14889",
+        "categorie": "person"
+      },
+      {
+        "id": "40657",
+        "label": "小幡矶",
+        "info": "マトとユウが所属するバスケ部のキャプテン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/54/40657_crt_10MZr.jpg",
+        "link": "https://bgm.tv/character/40657",
+        "categorie": "person"
+      },
+      {
+        "id": "10566",
+        "label": "黑岩射手",
+        "info": "身材纤细、皮肤苍白、双马尾（左右长短不一）、着黑色风衣、左眼中跳动着很萌的蓝色冷焰。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/c5/10566_crt_7CJ9D.jpg",
+        "link": "https://bgm.tv/character/10566",
+        "categorie": "person"
+      },
+      {
+        "id": "10569",
+        "label": "Dead Master",
+        "info": "黑岩的死敌，末日世界的主宰。用铁链囚禁黑岩。  ",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/e8/10569_crt_Z34W4.jpg?r=1466928252",
+        "link": "https://bgm.tv/character/10569",
+        "categorie": "person"
+      },
+      {
+        "id": "17636",
+        "label": "Strength",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/f0/17636_crt_915d7.jpg?r=1466927922",
+        "link": "https://bgm.tv/character/17636",
+        "categorie": "person"
+      },
+      {
+        "id": "17637",
+        "label": "Black Gold Saw",
+        "info": "OVA",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/37/17637_crt_kU88S.jpg?r=1466928035",
+        "link": "https://bgm.tv/character/17637",
+        "categorie": "person"
+      },
+      {
+        "id": "17638",
+        "label": "Chariot",
+        "info": "映射加賀里。主色為黃色，裡世界稱為戰輪妖精。雙腿為車輪，頭上穿戴著類似皇冠的飾品，武器為長劍及刺盾，眼神非常冷漠，不停叫BLACK★ROCK SHOOTER「快回去」。有一部蜘蛛型八腳座駕，可以發射各種色彩的馬卡龍炮彈。亦有不少小蜘蛛作為手下。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/f4/17638_crt_bxLXK.jpg",
+        "link": "https://bgm.tv/character/17638",
+        "categorie": "person"
+      },
+      {
+        "id": "40658",
+        "label": "体育部部员",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/40658",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

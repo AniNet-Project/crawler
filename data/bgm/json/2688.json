@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3540",
+        "label": "樱内义之",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/44/3540_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3540",
+        "categorie": "person"
+      },
+      {
+        "id": "1189",
+        "label": "朝仓音姬",
+        "info": "风见学园本部二年三班的学生，也是学生会会长。由梦的姊姊，义之称她为“音姊（おとねえ）”。自小与义之一起生活，故对义之来说有如亲姊一般。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/c2/1189_ppLlP.jpg",
+        "link": "https://bgm.tv/character/1189",
+        "categorie": "person"
+      },
+      {
+        "id": "1190",
+        "label": "朝仓由梦",
+        "info": "风见学园附属中学二年一班学生，为音姬的妹妹，从来没有试过睡梦，因为所谓的“梦”是日后的将来，拥有预知的能力。对于义之也有好感，但是由于自己的个性，所以非常的不坦率，行动模式就有如音梦一样，非常会吃醋，料理的等级跟音梦有过之而无不及，有时也对用暴力解决一切（针对义之），跟音姬算是完全相反的人，称主角义之为“哥哥”（典型的傲娇）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/0c/1190_Fq17j.jpg",
+        "link": "https://bgm.tv/character/1190",
+        "categorie": "person"
+      },
+      {
+        "id": "1191",
+        "label": "雪村杏",
+        "info": "风见学园附属中学三年三班学生，与义之同班，算是天才少女，但是个性上有点腹黑，一直想把小恋与义之的恋情往前推，但是其实自己也对义之有好感。家中因为某些关系导致自己与奶奶住。经常与茜一起行动。记性非常的好，只要认为有趣的事就会想去做。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/2e/1191_crt_cteE4.jpg",
+        "link": "https://bgm.tv/character/1191",
+        "categorie": "person"
+      },
+      {
+        "id": "1208",
+        "label": "白河奈奈佳",
+        "info": "风见学园附属中学三年二班学生，为校园的偶像，也有亲卫队，为轻音乐社的社员，是为主唱，与小恋，涉为了演奏经常在放学后于社团教室练习，因为人手不足而请来义之帮忙，加上一些事故的原因，对义之有了好感。知道小恋喜欢与义之。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/22/1208_crt_29QG1.jpg",
+        "link": "https://bgm.tv/character/1208",
+        "categorie": "person"
+      },
+      {
+        "id": "1210",
+        "label": "月岛小恋",
+        "info": "风见学园附属中学三年三班学生，与义之同班，对义之有好感，为轻音乐社的社员，贝斯手，是把义之暂时拉入轻音乐社的元凶，不坦率，有点胆小，对于义之太过帮助其他女性非常烦恼，不善于表达自己的意见，所以一直跟义之原地踏步。在游戏中除攻略方向外最后选择与涉交往。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/6e/1210_crt_an3nP.jpg",
+        "link": "https://bgm.tv/character/1210",
+        "categorie": "person"
+      },
+      {
+        "id": "2500",
+        "label": "朝仓纯一",
+        "info": "ゲーム本編およびアニメ一作目（俗称ファーストシーズン）では風見学園付属の3年1組在籍（出席番号は常に1番）。両親は海外へ赴任中で、血の繋がらない妹（誕生日が同じなので表向きは似ていない双子で通している）朝倉音夢と共に初音島で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/69/2500_crt_z3393.jpg",
+        "link": "https://bgm.tv/character/2500",
+        "categorie": "person"
+      },
+      {
+        "id": "10717",
+        "label": "芳乃樱",
+        "info": "主人公と音夢の幼馴染。また従姉でもあり、隣の家に住んでいた女の子でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/af/10717_crt_91SNs.jpg",
+        "link": "https://bgm.tv/character/10717",
+        "categorie": "person"
+      },
+      {
+        "id": "18280",
+        "label": "杉并",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/64/18280_crt_e0moe.jpg",
+        "link": "https://bgm.tv/character/18280",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

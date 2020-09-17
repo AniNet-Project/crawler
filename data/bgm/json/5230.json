@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "63847",
+        "label": "樱井美露",
+        "info": "ヒロインで、熱斗の幼なじみ。身長143.7cm。ピアノが得意。危険に飛び込んでゆく熱斗をいつも心配している。熱斗に対して恋心を抱いており。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/b4/63847_crt_SrHrF.jpg?r=1528612378",
+        "link": "https://bgm.tv/character/63847",
+        "categorie": "person"
+      },
+      {
+        "id": "63848",
+        "label": "萝露",
+        "info": "メイルのネットナビ。ロックマンと仲がいい。身長148cm。『4』ではワープでの移動とウイルス召喚を駆使する。装備武器はバトルチップを破壊するロールアロー。HPを回復するハートフラッシュや、ヘアバンドで攻撃するロールウィップなどの技を使用する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/c8/63848_crt_CQSi8.jpg?r=1528613739",
+        "link": "https://bgm.tv/character/63848",
+        "categorie": "person"
+      },
+      {
+        "id": "63849",
+        "label": "光热斗",
+        "info": "現実世界側・人間の主人公。秋原小学校の小学生。6月10日生まれの双子座、B型、身長142.8cm。勉強は不得意だが、ウイルスバスティングで才能を発揮し、ロックマンと共に世界の危機を救うことになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/29/63849_crt_hjLV0.jpg",
+        "link": "https://bgm.tv/character/63849",
+        "categorie": "person"
+      },
+      {
+        "id": "63850",
+        "label": "洛克人",
+        "info": "電脳世界側・ネットナビのもう一人の主人公。正義感が強く生真面目な、熱斗のネットナビ。身長148cm。熱斗のことを「熱斗君」と呼ぶ。熱斗に対しては、やや口うるさい一面もある。熱斗同様正義感が強く、悪人には容赦しないものの、彼に比べると性格は穏やかで口調も柔らかく、他人を気遣うことが多い。基本的に装備している武器は右腕のロックバスターのみで、ゲーム中のイベントではよく連射しているが威力は低い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/19/63850_crt_ZXOsb.jpg",
+        "link": "https://bgm.tv/character/63850",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

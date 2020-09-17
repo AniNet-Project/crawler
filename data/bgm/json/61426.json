@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49403",
+        "label": "白鳥天音",
+        "info": "患者のために、献身的に尽くしてくれる愛情溢れるナース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/c7/49403_crt_t10h0.jpg",
+        "link": "https://bgm.tv/character/49403",
+        "categorie": "person"
+      },
+      {
+        "id": "49404",
+        "label": "赤峰玲",
+        "info": "頼れるお姉さん的存在の、ベテランナース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/af/49404_crt_pHM1V.jpg",
+        "link": "https://bgm.tv/character/49404",
+        "categorie": "person"
+      },
+      {
+        "id": "49405",
+        "label": "小川菜々",
+        "info": "不慣れな事が多く、危なっかしい新人ナース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/a0/49405_crt_clGlw.jpg",
+        "link": "https://bgm.tv/character/49405",
+        "categorie": "person"
+      },
+      {
+        "id": "49406",
+        "label": "綾沼ちとせ",
+        "info": "母性本能にあふれるナース長。おっとりしていて、全てを包み込んでくれるような色香が漂っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/8e/49406_crt_HrHTa.jpg",
+        "link": "https://bgm.tv/character/49406",
+        "categorie": "person"
+      },
+      {
+        "id": "49407",
+        "label": "十文字洋介",
+        "info": "病院の前で意識を失い、気づいたら病院のベッドの上。原因を検査するため、入院する事になった主人公。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/49407",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

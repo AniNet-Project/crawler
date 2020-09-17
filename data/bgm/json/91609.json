@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28359",
+        "label": "二階堂瞳",
+        "info": "二階堂家姉妹の母親、48歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/5c/28359_crt_q7sz8.jpg",
+        "link": "https://bgm.tv/character/28359",
+        "categorie": "person"
+      },
+      {
+        "id": "28356",
+        "label": "伊藤欣一",
+        "info": "名前：伊藤欣一（20）",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/60/28356_crt_8lux1.jpg",
+        "link": "https://bgm.tv/character/28356",
+        "categorie": "person"
+      },
+      {
+        "id": "28357",
+        "label": "二階堂奈央",
+        "info": "二階堂家姉妹の妹の方、19歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/5b/28357_crt_J3kCA.jpg",
+        "link": "https://bgm.tv/character/28357",
+        "categorie": "person"
+      },
+      {
+        "id": "28358",
+        "label": "二階堂愛実",
+        "info": "二階堂家姉妹の姉の方、25歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/ab/28358_crt_K6LKL.jpg",
+        "link": "https://bgm.tv/character/28358",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

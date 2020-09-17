@@ -1,0 +1,253 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24110",
+        "label": "水岛清衣",
+        "info": "苍井晶的LRIG。与其他角色卡片不同，不与晶交谈，完全服从自己的主人，冷酷而无表情的样子让人猜不透她的想法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/c2/24110_crt_qTlUn.jpg?r=1537705774",
+        "link": "https://bgm.tv/character/24110",
+        "categorie": "person"
+      },
+      {
+        "id": "44146",
+        "label": "穗村铃子",
+        "info": "主人公。小学2年生まで池袋で育ったが、その後は父親の転勤に合わせて転校を繰り返していた。高校2年生への進級に際し、北海道から8年ぶりに池袋へ帰って来た。母親は故人で、父親は夜遅く帰宅し早朝に出勤するため家でも顔を合わせることは滅多になく1人で過ごすことが多い。転校続きのため積極的に友達を作ることを避けており、唯一の親友と言える存在はかつて近所に住んでいた森川千夏であったが音信不通となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/6b/44146_crt_6a6XL.jpg?r=1537705960",
+        "link": "https://bgm.tv/character/44146",
+        "categorie": "person"
+      },
+      {
+        "id": "24100",
+        "label": "小凑露子",
+        "info": "主人公の中学2年生。おとなしい性格だが、「WIXOSS」を手にしたことでセレクターバトルに巻き込まれることになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/f0/24100_crt_X9w9N.jpg",
+        "link": "https://bgm.tv/character/24100",
+        "categorie": "person"
+      },
+      {
+        "id": "49251",
+        "label": "桥本亚美加",
+        "info": "水岛清衣作为LRIG时的selector之一，外貌酷似坂口歩美。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/c8/49251_crt_WK2Ia.jpg?r=1525098694",
+        "link": "https://bgm.tv/character/49251",
+        "categorie": "person"
+      },
+      {
+        "id": "44147",
+        "label": "森川千夏",
+        "info": "もう1人の主人公。かつてすず子宅の近所に住んでおり親友同士だったが、父親が務めていた会社の倒産で自宅を手放した後にアパートへ引っ越し両親と3人で暮らしている。家計を助けるため週末もアルバイトに精を出しているが、何気なく流行のTCG『WIXOSS』の構築済みデッキを購入したところルリグの素体を引き当ててセレクターとなり「メル」と命名する。スタート時のコインは3枚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/a2/44147_crt_5qSL6.jpg?r=1507102505",
+        "link": "https://bgm.tv/character/44147",
+        "categorie": "person"
+      },
+      {
+        "id": "44151",
+        "label": "御影阪奈",
+        "info": "すず子が通う高校の1年生。匿名でゲーム雑誌の編集部にライターとして出入りしている情報通。黒のルリグ「ナナシ」を引き連れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/b2/44151_crt_Tn8Rz.jpg?r=1523209857",
+        "link": "https://bgm.tv/character/44151",
+        "categorie": "person"
+      },
+      {
+        "id": "49247",
+        "label": "皮露露可",
+        "info": "水嶋清衣が引き当てた青のルリグ。かつて清衣がルリグだった頃の名前を受け継いでいる。コイン技の「ピーピング」も指定したレベルの手札を全てトラッシュへ送り、対戦相手の願いを暴露すると言う初代ピルルク限定のアーツ「ピーピング・アナライズ」と全く同じ効果がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/7d/49247_crt_RWf8t.jpg?r=1525158578",
+        "link": "https://bgm.tv/character/49247",
+        "categorie": "person"
+      },
+      {
+        "id": "44148",
+        "label": "莉鲁",
+        "info": "穗村铃子的LRIG，根据铃子记忆中的千夏生成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/5c/44148_crt_lbqZq.jpg?r=1522505035",
+        "link": "https://bgm.tv/character/44148",
+        "categorie": "person"
+      },
+      {
+        "id": "44149",
+        "label": "梅鲁",
+        "info": "森川千夏的LRIG，根据千夏的记忆生成。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/d2/44149_crt_Y1y49.jpg?r=1522509016",
+        "link": "https://bgm.tv/character/44149",
+        "categorie": "person"
+      },
+      {
+        "id": "44150",
+        "label": "无名",
+        "info": "御影阪奈的LRIG，属性为黑。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/ba/44150_crt_iqzSZ.jpg?r=1522509054",
+        "link": "https://bgm.tv/character/44150",
+        "categorie": "person"
+      },
+      {
+        "id": "24101",
+        "label": "红林游月",
+        "info": "るう子のクラスメイトで、彼女の最初のセレクターバトルの相手となる。活発な性格。香月という双子の弟（声 - 小林裕介）がいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/8e/24101_crt_3C0Jm.jpg?r=1537706853",
+        "link": "https://bgm.tv/character/24101",
+        "categorie": "person"
+      },
+      {
+        "id": "24102",
+        "label": "植村一衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/5a/24102_crt_n7Ny6.jpg",
+        "link": "https://bgm.tv/character/24102",
+        "categorie": "person"
+      },
+      {
+        "id": "24103",
+        "label": "苍井晶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/2e/24103_crt_j4H4k.jpg",
+        "link": "https://bgm.tv/character/24103",
+        "categorie": "person"
+      },
+      {
+        "id": "24107",
+        "label": "玉依姬",
+        "info": "るう子のルリグ。生まれたてで無邪気だが、バトル中には時に好戦的になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/5c/24107_crt_ff8NM.jpg?r=1419082156",
+        "link": "https://bgm.tv/character/24107",
+        "categorie": "person"
+      },
+      {
+        "id": "24105",
+        "label": "伊绪奈",
+        "info": "人気のファッションモデルの少女。晶とは仕事で共演する機会が多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/ef/24105_crt_GXQG7.jpg?r=1413144074",
+        "link": "https://bgm.tv/character/24105",
+        "categorie": "person"
+      },
+      {
+        "id": "24108",
+        "label": "花代",
+        "info": "红林游月的LRIG。能冷静地给予冲动的游月意见，知晓游月的愿望，以姐姐般的身分给予游月支持。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/e8/24108_crt_f3u3a.jpg?r=1414190810",
+        "link": "https://bgm.tv/character/24108",
+        "categorie": "person"
+      },
+      {
+        "id": "24109",
+        "label": "绿子",
+        "info": "一衣的LRIG。温柔理性，相当明白一衣的心情，愿意为了一衣的愿望而战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/3f/24109_crt_qNEEz.jpg?r=1467393897",
+        "link": "https://bgm.tv/character/24109",
+        "categorie": "person"
+      },
+      {
+        "id": "28098",
+        "label": "米露伦",
+        "info": "晶的新LRIG。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/ec/28098_crt_nOnli.jpg?r=1467393515",
+        "link": "https://bgm.tv/character/28098",
+        "categorie": "person"
+      },
+      {
+        "id": "44163",
+        "label": "里见红",
+        "info": "自称selector对战的Book Maker，与selector们签下契约之后为他们安排两两对战。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/c5/44163_crt_MHB0W.jpg",
+        "link": "https://bgm.tv/character/44163",
+        "categorie": "person"
+      },
+      {
+        "id": "61493",
+        "label": "かえで",
+        "info": "OVAに登場。以前に清衣が対戦したセレクターの1人で、ルリグのレイラに煽られるがまま最後のコインをベットして自滅してしまう。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61493",
+        "categorie": "person"
+      },
+      {
+        "id": "49248",
+        "label": "狂欢节",
+        "info": "里見紅（に使われていた元ルリグ）が引き当てた赤のルリグ。コイン技の「ジョーカー」は場に出したシグニを別のシグニに変換する効果がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/87/49248_crt_XzOYE.jpg",
+        "link": "https://bgm.tv/character/49248",
+        "categorie": "person"
+      },
+      {
+        "id": "61494",
+        "label": "レイラ",
+        "info": "かえでが使用していた赤のルリグ。コイン技の「ドーピング」はルリグアタック（ルリグへの直接攻撃）の威力を強化する反面、自分にもダメージが跳ね返る副作用がある。清衣との対戦でかえでに最後のコインをベットさせて自滅したが、かえでの体を乗っ取った後は最初からそれが目的だったかのような素振りを見せ、清衣に「はじまりのルリグ」の存在を危険視させる契機となった。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/61494",
+        "categorie": "person"
+      },
+      {
+        "id": "49249",
+        "label": "忆",
+        "info": "コミカライズ『selector infected WIXOSS -peeping analyze-』に登場する白のルリグ。カードとしては『ウルトラジャンプ』2014年9月号付録のレベル0 - 4、selector infected WIXOSS -peeping analyze- 第1巻 付録のレベル5が登場した。これらのカードは、ポイント景品として交換、第9弾ブースターにて再録が行われる。カード名は「星占の巫女 リメンバ・○○」となっている。グロウの際に青のコストが要求されるカードがある。レベル1以上のリメンバはピルルクのルリグタイプも持っている。相手のシグニの凍結する戦術を得意等する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/4d/49249_crt_UCx9u.jpg",
+        "link": "https://bgm.tv/character/49249",
+        "categorie": "person"
+      },
+      {
+        "id": "44153",
+        "label": "白井翔平",
+        "info": "白のルリグ「ドーナ」を引き連れている男性セレクター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/65/44153_crt_DFD7i.jpg?r=1524326964",
+        "link": "https://bgm.tv/character/44153",
+        "categorie": "person"
+      },
+      {
+        "id": "44155",
+        "label": "多娜",
+        "info": "白井翔平的LRIG，称呼白井为小翔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/0a/44155_crt_eSf7A.jpg",
+        "link": "https://bgm.tv/character/44155",
+        "categorie": "person"
+      },
+      {
+        "id": "44154",
+        "label": "亚弥",
+        "info": "鳴海的LRIG，屬性是藍。命名的由來是鳴海消失了的妹妹的名字。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/ee/44154_crt_Hphjw.jpg?r=1524327658",
+        "link": "https://bgm.tv/character/44154",
+        "categorie": "person"
+      },
+      {
+        "id": "44156",
+        "label": "迟钝子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/5e/44156_crt_Zzi1E.jpg",
+        "link": "https://bgm.tv/character/44156",
+        "categorie": "person"
+      },
+      {
+        "id": "25521",
+        "label": "小凑初",
+        "info": "露子的祖母。现在作为露子的监护人和她一起生活，是个性格柔和的女性。很喜欢也很擅长游戏，经常和露子一起玩WIXOSS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/e9/25521_crt_R00LI.jpg?r=1414190912",
+        "link": "https://bgm.tv/character/25521",
+        "categorie": "person"
+      },
+      {
+        "id": "49250",
+        "label": "坂口步美",
+        "info": "水岛清衣唯一的朋友，非常喜欢WIXOSS小说。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/c4/49250_crt_vTBvF.jpg",
+        "link": "https://bgm.tv/character/49250",
+        "categorie": "person"
+      },
+      {
+        "id": "25527",
+        "label": "茧",
+        "info": "白色房间里的神秘少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/83/25527_crt_mOlkl.jpg?r=1467393577",
+        "link": "https://bgm.tv/character/25527",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

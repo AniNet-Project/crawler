@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46272",
+        "label": "高圆寺沙由香",
+        "info": "父の源太郎の作ったDDDでエスカレイヤーに変身する、正義のヒロイン。恭平とは幼馴染であるが、その記憶の一部はバイオボディへの意識転送作業の際に消失している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/88/46272_crt_jlmWL.jpg",
+        "link": "https://bgm.tv/character/46272",
+        "categorie": "person"
+      },
+      {
+        "id": "46274",
+        "label": "霧谷遼子",
+        "info": "高円寺家の隣家に住み、身長170、バスト92、ウエスト65、ヒップ88の抜群の容姿と色気を持つ、若く美しい未亡人。かつては亡夫と一緒の職場で責任ある地位に就いていたらしいが、現在は職場での人間関係や仕事が上手く行かずに落ち込むことも。ルートによっては、落ち込んでいた自分を慰めてくれた恭平のことを気に入り、やがてはセックスフレンドの仲にまで至る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/ae/46274_crt_99Rzt.jpg",
+        "link": "https://bgm.tv/character/46274",
+        "categorie": "person"
+      },
+      {
+        "id": "46276",
+        "label": "柳瀬恭平",
+        "info": "本編の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/59/46276_crt_u0gkz.jpg",
+        "link": "https://bgm.tv/character/46276",
+        "categorie": "person"
+      },
+      {
+        "id": "46273",
+        "label": "高円寺マドカ",
+        "info": "エスカレイヤーのサポートアンドロイド。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/be/46273_crt_87EFs.jpg",
+        "link": "https://bgm.tv/character/46273",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

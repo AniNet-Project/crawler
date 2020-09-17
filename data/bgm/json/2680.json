@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2500",
+        "label": "朝仓纯一",
+        "info": "ゲーム本編およびアニメ一作目（俗称ファーストシーズン）では風見学園付属の3年1組在籍（出席番号は常に1番）。両親は海外へ赴任中で、血の繋がらない妹（誕生日が同じなので表向きは似ていない双子で通している）朝倉音夢と共に初音島で暮らしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/69/2500_crt_z3393.jpg",
+        "link": "https://bgm.tv/character/2500",
+        "categorie": "person"
+      },
+      {
+        "id": "20250",
+        "label": "朝仓音梦",
+        "info": "父母早年因车祸丧生，之后被朝仓家收养。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/d5/20250_crt_wYB98.jpg?r=1496766642",
+        "link": "https://bgm.tv/character/20250",
+        "categorie": "person"
+      },
+      {
+        "id": "57442",
+        "label": "艾西亚",
+        "info": "コミック『D.C.S.G.』から登場。北欧から風見学園へ転校してきた少女。アッシュブロンドの髪と緑色の大きなリボンが特徴的。立派な魔法使いになって人々を幸せにするために純一とさくらの祖母に魔法を教わろうと初音島にやって来た。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/32/57442_crt_yYaT4.jpg",
+        "link": "https://bgm.tv/character/57442",
+        "categorie": "person"
+      },
+      {
+        "id": "2497",
+        "label": "白河小鸟",
+        "info": "誰にでも優しく歌が上手くその上美人で成績も優秀な学園のアイドル。風見学園付属と本校の両方の学生から人気があり、非公式ファンクラブの存在さえ仄めかされる。近づきにくいように見えて話して見ると実は初対面の相手にも気さくに接するさわやかな少女である。チャームポイントである帽子は親からの薦めで所属している聖歌隊のものであり、帽子集めが趣味である。好きなものは甘い物全般、桜の花、オレンジジュース。人混み、犬、辛い物全般が苦手である。4人家族であり、純一のクラス3年1組の担任白河暦は義姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/fc/2497_crt_anidb.jpg?r=1496766736",
+        "link": "https://bgm.tv/character/2497",
+        "categorie": "person"
+      },
+      {
+        "id": "2499",
+        "label": "天枷美春",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/10/2499_crt_anidb.jpg?r=1496766852",
+        "link": "https://bgm.tv/character/2499",
+        "categorie": "person"
+      },
+      {
+        "id": "10717",
+        "label": "芳乃樱",
+        "info": "主人公と音夢の幼馴染。また従姉でもあり、隣の家に住んでいた女の子でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/af/10717_crt_91SNs.jpg",
+        "link": "https://bgm.tv/character/10717",
+        "categorie": "person"
+      },
+      {
+        "id": "18280",
+        "label": "杉并",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/64/18280_crt_e0moe.jpg",
+        "link": "https://bgm.tv/character/18280",
+        "categorie": "person"
+      },
+      {
+        "id": "54840",
+        "label": "水越萌",
+        "info": "風見学園本校生で、主人公や音夢たちの先輩にあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/46/54840_crt_i7i84.jpg?r=1496766678",
+        "link": "https://bgm.tv/character/54840",
+        "categorie": "person"
+      },
+      {
+        "id": "54841",
+        "label": "月城爱丽丝",
+        "info": "主人公の１年下の後輩。とても無口で人との接触を避けている様子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/26/54841_crt_rPh15.jpg?r=1496766778",
+        "link": "https://bgm.tv/character/54841",
+        "categorie": "person"
+      },
+      {
+        "id": "54842",
+        "label": "彩珠菜菜子",
+        "info": "主人公の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/c3/54842_crt_gNtgt.jpg?r=1496766755",
+        "link": "https://bgm.tv/character/54842",
+        "categorie": "person"
+      },
+      {
+        "id": "54843",
+        "label": "胡之宫环",
+        "info": "主人公のクラスに転校してくる、長い黒髪が印象的な美少女。凛としていて、古風で丁寧な話し方をする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/54/54843_crt_3cUkF.jpg?r=1496766724",
+        "link": "https://bgm.tv/character/54843",
+        "categorie": "person"
+      },
+      {
+        "id": "67206",
+        "label": "鹭泽美咲",
+        "info": "ヘアスタイルはロングヘアーで、髪の先をリボンで結び、おでこの上にも白いリボンを付けている。 初音島屈指の名家のお嬢様。純一の同級生に当たるが、一年休学していたため、実は純一より一つ年上。水越萌、眞子の姉妹とは幼馴染み。外出が苦手で人と騒いだりすることがあまり好きではない。頼子（よりこ）という三毛猫を飼っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/bc/67206_crt_o0Hcm.jpg",
+        "link": "https://bgm.tv/character/67206",
+        "categorie": "person"
+      },
+      {
+        "id": "67386",
+        "label": "工藤叶",
+        "info": "純一の同級生で、純一や杉並と行動を共にすることが多いが、彼らとは違い常識人。ことりとも親友同士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/49/67386_crt_5j0V0.jpg",
+        "link": "https://bgm.tv/character/67386",
+        "categorie": "person"
+      },
+      {
+        "id": "2498",
+        "label": "水越真子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/f7/2498_crt_anidb.jpg?r=1496766821",
+        "link": "https://bgm.tv/character/2498",
+        "categorie": "person"
+      },
+      {
+        "id": "54844",
+        "label": "紫和泉子",
+        "info": "主人公と同学年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/c6/54844_crt_FlFj7.jpg",
+        "link": "https://bgm.tv/character/54844",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

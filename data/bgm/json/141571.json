@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "45667",
+        "label": "レアイナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/aa/45667_crt_LVGXl.jpg?r=1472913745",
+        "link": "https://bgm.tv/character/45667",
+        "categorie": "person"
+      },
+      {
+        "id": "45668",
+        "label": "ディアナ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/19/45668_crt_YEVZ5.jpg?r=1472913855",
+        "link": "https://bgm.tv/character/45668",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

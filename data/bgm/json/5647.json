@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11565",
+        "label": "毒岛冴子",
+        "info": "18岁。剑道部主将，二年级时曾夺下全国大会的优胜。出身剑道名门，风姿凛然，兼备着强大实力与温柔待人的性格，是一行人的精神支柱。又是主要战斗人员中的最强者，受到极高的尊重，地位只略低小室一点，是位十分可靠的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/6c/11565_crt_Acbac.jpg?r=1409490957",
+        "link": "https://bgm.tv/character/11565",
+        "categorie": "person"
+      },
+      {
+        "id": "26393",
+        "label": "小室孝",
+        "info": "主人公。藤美学園2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/40/26393_crt_rR0kR.jpg",
+        "link": "https://bgm.tv/character/26393",
+        "categorie": "person"
+      },
+      {
+        "id": "31407",
+        "label": "宫本丽",
+        "info": "孝的青梅竹马，私立藤美学园高等部2年级，留级一年，枪术社。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/ea/31407_crt_379Yw.jpg",
+        "link": "https://bgm.tv/character/31407",
+        "categorie": "person"
+      },
+      {
+        "id": "31408",
+        "label": "高城沙耶",
+        "info": "孝的从幼稚园就认识的朋友，性格高傲的少女，自认为是天才，拥有自傲的丰富知识与分析能力，一行人中的头脑和军师角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/63/31408_crt_eFEgW.jpg",
+        "link": "https://bgm.tv/character/31408",
+        "categorie": "person"
+      },
+      {
+        "id": "31409",
+        "label": "平野耕太",
+        "info": "孝的同学，虽然是一个身材肥胖的军武御宅族，但只要是与枪械知识或持枪械战斗就会浑然忘我的投入到甚至有点黑化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/6b/31409_crt_9oree.jpg?r=1427707751",
+        "link": "https://bgm.tv/character/31409",
+        "categorie": "person"
+      },
+      {
+        "id": "31410",
+        "label": "鞠川静香",
+        "info": "藤美学园的校医。身材姣好，胸部超大但是却有点不大可靠，十分的天然呆，常常会搞不清楚状况，还会忘记穿衣服，曾不小心把吉克的前半身牢固的夹在胸口，",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/45/31410_crt_2Jvj5.jpg?r=1427707768",
+        "link": "https://bgm.tv/character/31410",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

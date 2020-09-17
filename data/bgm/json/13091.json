@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43892",
+        "label": "支仓孝平",
+        "info": "主人公。修智館学院の５年生に転入してくる。設計技師をしている父親の仕事の関係で各地を転々とする生活を続けていた。修智館学院のある珠津島には、珠津大橋の建設が行われていた時に住んでいたことがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/ff/43892_crt_xbeXs.jpg?r=1470304282",
+        "link": "https://bgm.tv/character/43892",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

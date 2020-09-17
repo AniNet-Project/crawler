@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60332",
+        "label": "赤木澪",
+        "info": "本作のヒロインで、4年生の看護学校を卒業後、舞台になる大学病院で2年ほど勤務している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/db/60332_crt_Dy88y.jpg",
+        "link": "https://bgm.tv/character/60332",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "56226",
+        "label": "大护法",
+        "info": "“奕卫国”大护法，出生于一个数百年来一直以守护国家为己任的家族。虽然外形是个走路慢吞吞，喜欢碎碎念的小胖子，但内心却有着极为暴力的小宇宙。看似无坚不摧，但心中依然会恐惧。他在孤独中独来独往，陪伴他的是一只不是鸟的鸟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/7d/56226_crt_5pBzm.jpg?r=1500817976",
+        "link": "https://bgm.tv/character/56226",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

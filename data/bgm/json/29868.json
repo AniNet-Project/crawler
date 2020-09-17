@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14646",
+        "label": "柊千早",
+        "info": "故事的女主角，身份复杂，母亲是人类，而父亲却是拥有魔法受人  尊敬和爱戴的强大战士贝尔加莫特。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/6e/14646_crt_dl85l.jpg?r=1400936868",
+        "link": "https://bgm.tv/character/14646",
+        "categorie": "person"
+      },
+      {
+        "id": "25217",
+        "label": "那津树",
+        "info": "ゲーム版の主人公。魔法の国から「種」を取り戻すためにやって来た。ちはやの魔法戦士としての資質を見出し、パートナーに選ぶ。普段は人間の少年の姿をしているが、魔力が不足すると本来の小動物の姿になってしまう。非常にスケベ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/14/25217_crt_MMv30.jpg?r=1401227918",
+        "link": "https://bgm.tv/character/25217",
+        "categorie": "person"
+      },
+      {
+        "id": "25182",
+        "label": "水城沙耶加",
+        "info": "ちはやの同級生。大金持ちのお嬢様であり、学校には車で送り迎えしてもらうほど。ナツキの兄・ハヅナの力によって魔法戦士・セルリアンブルーに変身し、種人間と戦う。変身後は超が付くほど高飛車な性格になり、魔法戦士としての能力はカーマインを凌ぐ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/b1/25182_crt_LtWrl.jpg?r=1400953856",
+        "link": "https://bgm.tv/character/25182",
+        "categorie": "person"
+      },
+      {
+        "id": "25218",
+        "label": "小嶋绘美",
+        "info": "ちはやの通う高校へやってきた転校生。普段は校庭で読書ばかりしていて、無口な性格。その正体は「セプティム」。アダルトアニメ版では敵だったが、テレビアニメ版ではカーマインの味方に近い存在となっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/86/25218_crt_3IAan.jpg?r=1401228194",
+        "link": "https://bgm.tv/character/25218",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

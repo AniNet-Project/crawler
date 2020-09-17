@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46599",
+        "label": "エルネスティ・エチェバルリア",
+        "info": "主人公。前世は“倉田翼”職業プログラマー、享年28歳。前世から続行する極度のメカヲタク趣味を軸に異世界生活満喫中。プログラマーとしての経験を元に異常なほどの魔法処理能力を持ち、また特訓の成果として魔力も高い。見た目相応に体力や純粋な力には不安があり、戦闘能力は完全魔法依存。同様に、ダメージへの耐性が低いため戦闘スタイルは機動性極。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/f8/46599_crt_z3404.jpg?r=1497805070",
+        "link": "https://bgm.tv/character/46599",
+        "categorie": "person"
+      },
+      {
+        "id": "46600",
+        "label": "アーキッド・オルター",
+        "info": "エルの親友兼一番弟子。セラーティ候の庶子。ややガサツな言動。エルとは逆に恵まれた体格を生かしたパワーファイター。そしてエル直伝の高い魔法能力も有している分、一番バランスの良い人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/9c/46600_crt_00006.jpg?r=1497805113",
+        "link": "https://bgm.tv/character/46600",
+        "categorie": "person"
+      },
+      {
+        "id": "46601",
+        "label": "アデルトルート・オルター",
+        "info": "エルの親友兼二番弟子。セラーティ候の庶子。割りと勝気な性格。自由な言動が多く、時折周囲を振り回す。よくエルを抱き枕やぬいぐるみ代わりにしている。可愛いものに目がないが、もしかしたらエルのせいかもしれない。戦闘では双剣による手数をメインにしたり、雷撃系の魔法が得意だったり、ややテクニカルなスタイルをとる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/57/46601_crt_fANAr.jpg?r=1497805199",
+        "link": "https://bgm.tv/character/46601",
+        "categorie": "person"
+      },
+      {
+        "id": "54315",
+        "label": "エドガー・C・ブランシュ",
+        "info": "エルの先輩。学園でもトップクラスの実力者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/f5/54315_crt_9qEqR.jpg?r=1496926019",
+        "link": "https://bgm.tv/character/54315",
+        "categorie": "person"
+      },
+      {
+        "id": "54316",
+        "label": "ディートリヒ・クーニッツ",
+        "info": "エルの先輩。騎士としての実力は上位だが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/1e/54316_crt_w8x0U.jpg?r=1496926032",
+        "link": "https://bgm.tv/character/54316",
+        "categorie": "person"
+      },
+      {
+        "id": "54318",
+        "label": "ヘルヴィ・オーバーリ",
+        "info": "エルの先輩。女性ながら騎士として優れた技量を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/05/54318_crt_0WPhQ.jpg?r=1496926044",
+        "link": "https://bgm.tv/character/54318",
+        "categorie": "person"
+      },
+      {
+        "id": "54865",
+        "label": "バトソン・テルモネン",
+        "info": "ナイトスミスを目指すドワーフの少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/35/54865_crt_bssx5.jpg?r=1496925998",
+        "link": "https://bgm.tv/character/54865",
+        "categorie": "person"
+      },
+      {
+        "id": "54866",
+        "label": "ダーヴィド・ヘプケン",
+        "info": "エルの先輩。ナイトスミスを目指すドワーフの青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/09/54866_crt_Rs1I4.jpg?r=1496926164",
+        "link": "https://bgm.tv/character/54866",
+        "categorie": "person"
+      },
+      {
+        "id": "54867",
+        "label": "ラウリ・エチェバルリア",
+        "info": "エルの祖父。ライヒアラ騎操士学園の学長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/c6/54867_crt_Jhj88.jpg?r=1496926827",
+        "link": "https://bgm.tv/character/54867",
+        "categorie": "person"
+      },
+      {
+        "id": "54868",
+        "label": "マティアス・エチェバルリア",
+        "info": "エルの父。ライヒアラ騎操士学園の戦闘技能教官であり、ナイトランナーを夢見る幼きエルに剣術を指南した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/6a/54868_crt_4GpAh.jpg?r=1496926812",
+        "link": "https://bgm.tv/character/54868",
+        "categorie": "person"
+      },
+      {
+        "id": "54869",
+        "label": "セレスティナ・エチェバルリア",
+        "info": "エルの母。エルの銀色に輝く髪と、美しい容姿は母譲り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f7/54869_crt_9XY62.jpg?r=1496926942",
+        "link": "https://bgm.tv/character/54869",
+        "categorie": "person"
+      },
+      {
+        "id": "54870",
+        "label": "ステファニア・セラーティ",
+        "info": "キッドとアディの異母姉。ライヒアラ騎操士学園の生徒会長を務める才女。賢くてかわいい子が大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/bb/54870_crt_aESSH.jpg?r=1496927075",
+        "link": "https://bgm.tv/character/54870",
+        "categorie": "person"
+      },
+      {
+        "id": "54871",
+        "label": "仓田翼",
+        "info": "凄腕プログラマーにして、重度のロボットヲタク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/95/54871_crt_epR7Z.jpg?r=1496927365",
+        "link": "https://bgm.tv/character/54871",
+        "categorie": "person"
+      },
+      {
+        "id": "56661",
+        "label": "アンブロシウス・タハヴォ・フレメヴィーラ",
+        "info": "フレメヴィーラ王国第10代国王。かつて“獅子王”の異名で呼ばれた武人。エルの新型機開発に理解を示す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/e4/56661_crt_z7OEv.jpg",
+        "link": "https://bgm.tv/character/56661",
+        "categorie": "person"
+      },
+      {
+        "id": "56662",
+        "label": "クヌート・ディクスゴード",
+        "info": "フレメヴィーラ王国公爵。若かりし頃よりアンブロシウスの側近として仕える重鎮。配下に朱兎騎士団を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/83/56662_crt_TzetX.jpg",
+        "link": "https://bgm.tv/character/56662",
+        "categorie": "person"
+      },
+      {
+        "id": "56663",
+        "label": "ヨアキム・セラーティ",
+        "info": "フレメヴィーラ王国侯爵。キッドとアディ、ステファニアの実父。沈着冷静な人物で、エルの動向を監視する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/a2/56663_crt_5sZcc.jpg",
+        "link": "https://bgm.tv/character/56663",
+        "categorie": "person"
+      },
+      {
+        "id": "56664",
+        "label": "ノーラ・フリュクバリ",
+        "info": "ライヒアラ騎操士学園の新入生。その正体は藍鷹騎士団の連絡要員であり、密かに学園内の治安維持にあたる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/a5/56664_crt_fWivL.jpg",
+        "link": "https://bgm.tv/character/56664",
+        "categorie": "person"
+      },
+      {
+        "id": "56665",
+        "label": "エムリス・イェイエル・フレメヴィーラ",
+        "info": "アンブロシウスの孫。王族の生まれながら血気盛んで破天荒な性格。エルの新型機に並々ならぬ興味を抱く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/a0/56665_crt_FOoLE.jpg",
+        "link": "https://bgm.tv/character/56665",
+        "categorie": "person"
+      },
+      {
+        "id": "56666",
+        "label": "ガイスカ・ヨーハンソン",
+        "info": "国立機操開発研究工房の第一開発工房長。ナイトスミスたちを取りまとめ、新型機開発に情熱を燃やす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/c0/56666_crt_ROo1x.jpg",
+        "link": "https://bgm.tv/character/56666",
+        "categorie": "person"
+      },
+      {
+        "id": "56667",
+        "label": "オルヴァー・ブロムダール",
+        "info": "国立機操開発研究工房の所長。見た目にそぐわぬ落ち着いた性格で、ナイトスミスたちをまとめ上げる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/c2/56667_crt_9Ru0R.jpg",
+        "link": "https://bgm.tv/character/56667",
+        "categorie": "person"
+      },
+      {
+        "id": "56668",
+        "label": "ケルヒルト・ヒエタカンナス",
+        "info": "銅牙騎士団の団長。女性ながら凄腕のナイトランナーであり、冷たい雰囲気をまとった美貌の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/ee/56668_crt_zwZQj.jpg",
+        "link": "https://bgm.tv/character/56668",
+        "categorie": "person"
+      },
+      {
+        "id": "57214",
+        "label": "ジニエン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/95/57214_crt_4j7Lh.jpg",
+        "link": "https://bgm.tv/character/57214",
+        "categorie": "person"
+      },
+      {
+        "id": "57456",
+        "label": "マルティナ・オルト・クシェペルカ",
+        "info": "フェルナンドに嫁いだリオタムスの妹。前フレメヴィーラ国王アンブロシウスの娘。エムリスの叔母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/ae/57456_crt_2aA4U.jpg?r=1504234551",
+        "link": "https://bgm.tv/character/57456",
+        "categorie": "person"
+      },
+      {
+        "id": "57457",
+        "label": "イサドラ・アダリナ・クシェペルカ",
+        "info": "マルティナの娘。勝気な性格。従妹のエレオノーラの数少ない同年代の友人として、彼女から色々な相談を受ける立場にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/17/57457_crt_dpLE8.jpg?r=1504234573",
+        "link": "https://bgm.tv/character/57457",
+        "categorie": "person"
+      },
+      {
+        "id": "57458",
+        "label": "エレオノーラ・ミランダ・クシェペルカ",
+        "info": "アウクスティ国王の一人娘。王位継承権第一位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/3c/57458_crt_J8x60.jpg?r=1504234590",
+        "link": "https://bgm.tv/character/57458",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

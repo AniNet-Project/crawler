@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29445",
+        "label": "机密",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/ad/29445_crt_p94Gz.jpg",
+        "link": "https://bgm.tv/character/29445",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "48109",
+        "label": "戦乙女スヴィア",
+        "info": "天界では血統書つきといってもいいほど良家の育ち。幼い頃から剣と魔法を学んでいるがゆえに、その技術は誰にも引けをとらない。また、兵法もみっちりと自ら仕込んでいるために作戦参謀としても超一流。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/bc/48109_crt_cxZPP.jpg",
+        "link": "https://bgm.tv/character/48109",
+        "categorie": "person"
+      },
+      {
+        "id": "48110",
+        "label": "戦乙女シグルド",
+        "info": "通称・紺碧（こんぺき）のヴァルキリー。もともと神ではなく人間だったのだが、その勇気と剣の技をみそめられ、ヴァルキリーとなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/72/48110_crt_fqlis.jpg",
+        "link": "https://bgm.tv/character/48110",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

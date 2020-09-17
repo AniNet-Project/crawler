@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "73148",
+        "label": "远藤爱奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/8d/73148_crt_JjafX.jpg",
+        "link": "https://bgm.tv/character/73148",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "28373",
+        "label": "阿鲁瓶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/f2/28373_crt_DhaSA.jpg?r=1418795415",
+        "link": "https://bgm.tv/character/28373",
+        "categorie": "person"
+      },
+      {
+        "id": "28374",
+        "label": "小茜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/e0/28374_crt_ID4Eo.jpg?r=1418795639",
+        "link": "https://bgm.tv/character/28374",
+        "categorie": "person"
+      },
+      {
+        "id": "28375",
+        "label": "小绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/b6/28375_crt_0gCSz.jpg?r=1418795731",
+        "link": "https://bgm.tv/character/28375",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

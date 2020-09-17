@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "727",
+        "label": "阿波罗",
+        "info": "本作主人公，传说是阿托兰迪亚最强的守护天翅阿波罗尼亚斯转世，从“创世纪”开始便失去了父母，其名字也是由好友巴隆为其取的。为了救回被抓走好友巴隆，加入了对抗神话兽的行列。由于从小在野外生活，嗅觉和视觉高于常人，行为动作有点像动物，不过一登上Vector战机后却又像变了一个人......",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/48/727_crt_Z70m8.jpg",
+        "link": "https://bgm.tv/character/727",
+        "categorie": "person"
+      },
+      {
+        "id": "728",
+        "label": "西尔维亚·德·阿里西亚",
+        "info": "与阿波罗尼亚斯陷入爱河的人类女战士塞丽昂的转世，却固执的认为自己的哥哥才是阿波罗尼亚斯的转世界，对哥哥似乎感情不一般（禁忌的恋爱，残念......）虽然是阿里西阿王国的公主，其超能力却是------蛮力（狂汗！~~~~~~）好胜心很强，经常跟主角阿波罗吵架，可关键时刻却配合默契。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/be/728_crt_vCcSX.jpg",
+        "link": "https://bgm.tv/character/728",
+        "categorie": "person"
+      },
+      {
+        "id": "729",
+        "label": "席利乌斯·德·阿里西亚",
+        "info": "西尔维亚的哥哥，阿里西阿王国的王子，受到良好的教育，擅长剑术，是个十分高傲的人，但却对丽花十分在意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/ea/729_crt_98U9M.jpg",
+        "link": "https://bgm.tv/character/729",
+        "categorie": "person"
+      },
+      {
+        "id": "730",
+        "label": "皮埃尔·维埃拉",
+        "info": "性格开朗，酷爱足球，但感觉上好象是个花心大萝卜......",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/71/730_crt_EN5HJ.jpg",
+        "link": "https://bgm.tv/character/730",
+        "categorie": "person"
+      },
+      {
+        "id": "731",
+        "label": "红丽花",
+        "info": "虽然在练习中学习能力和战斗能力都是非常的优秀，但由于缺乏自信，到了实战中屡屡犯错，期待她在以后的表现。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/1a/731_crt_pGy1h.jpg",
+        "link": "https://bgm.tv/character/731",
+        "categorie": "person"
+      },
+      {
+        "id": "732",
+        "label": "丽娜·卢恩",
+        "info": "成天只能坐在轮椅上而且双目失明的她职业却是预言师？！有着吸血鬼一样的尖牙，是一个非常神秘的人物......",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/fe/732_crt_5djLV.jpg",
+        "link": "https://bgm.tv/character/732",
+        "categorie": "person"
+      },
+      {
+        "id": "733",
+        "label": "鸫·罗森麦亚",
+        "info": "机械修理师，虽然做事慢条斯理但是性格上属于天真浪漫。一个人修好了从德裔祖父那里继承来的车。拥有的元素能力是兴奋的时候会在周围造成爆炸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/93/733_crt_9jmJJ.jpg",
+        "link": "https://bgm.tv/character/733",
+        "categorie": "person"
+      },
+      {
+        "id": "734",
+        "label": "李俊",
+        "info": "新亚细亚第17区出身。头脑聪明，能够突破国家中枢机关的天才黑客。拥有能够直接在胶片或数码画面上投影的“念写能力”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c4/734_crt_LfF9d.jpg",
+        "link": "https://bgm.tv/character/734",
+        "categorie": "person"
+      },
+      {
+        "id": "735",
+        "label": "不动司令",
+        "info": "偶像级人物~，AQ（对堕天使）运用部队司令官兼Vector 驾驶员的教官。被称为神速的魔术师，超会抢镜头！经历，出身一切不明......",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/dc/735_crt_GAGtm.jpg",
+        "link": "https://bgm.tv/character/735",
+        "categorie": "person"
+      },
+      {
+        "id": "736",
+        "label": "苏菲亚·布兰",
+        "info": "担任照护元素人学校学生的心的保健老师。27岁。另外也以教师的身分数次登场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/4a/736_crt_Z6nlB.jpg",
+        "link": "https://bgm.tv/character/736",
+        "categorie": "person"
+      },
+      {
+        "id": "737",
+        "label": "强·杰洛姆·乔鲁巧",
+        "info": "Diva AQ运用部队的副司令官。24岁。拥有关于军事・防卫学等数个博士称号、还会13国语言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/0d/737_crt_w50wM.jpg",
+        "link": "https://bgm.tv/character/737",
+        "categorie": "person"
+      },
+      {
+        "id": "738",
+        "label": "头翅",
+        "info": "堕天翅族的前线指挥官。外表是个年轻的美青年男性，也是12,000年前阿波罗尼斯的未婚妻。但因为相信阿波罗尼斯亲近人类是被人类（赛利安）所笼络、于是对人类相当轻视和憎恨。但在看到机械天使和堕天翅之战，和阿波罗们有关系后、让他的心中产生奇妙的变化。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/0c/738_crt_dgt9Y.jpg?r=1408579287",
+        "link": "https://bgm.tv/character/738",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

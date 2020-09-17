@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "72553",
+        "label": "玛托伊",
+        "info": "プレイヤーが惑星ナベリウスの森林で発見、保護した謎の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/54/72553_crt_sF0cW.jpg",
+        "link": "https://bgm.tv/character/72553",
+        "categorie": "person"
+      },
+      {
+        "id": "72557",
+        "label": "亚修",
+        "info": "新米アークス。幼いころの記憶を失っており、アークスとして戦う中で自分が何者かを見極めようとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/fc/72557_crt_0Xqdh.jpg",
+        "link": "https://bgm.tv/character/72557",
+        "categorie": "person"
+      },
+      {
+        "id": "73815",
+        "label": "アフィン",
+        "info": "アッシュと共に修了研修を受けた同期のアークス。同郷でもあるアッシュのことを「相棒」と呼び慕っている。十年前になくした何かを捜しているらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/01/73815_crt_Y423A.jpg",
+        "link": "https://bgm.tv/character/73815",
+        "categorie": "person"
+      },
+      {
+        "id": "73816",
+        "label": "ティア",
+        "info": "アークスいちの情報屋を名乗る、「パティエンティア」の妹。一応パティが双子の姉だが、姉より妹の方が落ち着いていて冷静で大人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/cd/73816_crt_X32A5.jpg",
+        "link": "https://bgm.tv/character/73816",
+        "categorie": "person"
+      },
+      {
+        "id": "73817",
+        "label": "パティ",
+        "info": "アークスいちの情報屋を名乗る、「パティエンティア」の姉。ティアとは双子だが、性格は正反対。とにかくお喋りで明るく、うるさい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/24/73817_crt_oKom0.jpg",
+        "link": "https://bgm.tv/character/73817",
+        "categorie": "person"
+      },
+      {
+        "id": "73818",
+        "label": "シオン",
+        "info": "アッシュの前にたびたび現れる不思議な存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/06/73818_crt_TNt1O.jpg",
+        "link": "https://bgm.tv/character/73818",
+        "categorie": "person"
+      },
+      {
+        "id": "73819",
+        "label": "エコー",
+        "info": "ゼノの幼なじみで、そのまま一緒にアークスになった女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/c2/73819_crt_mL85F.jpg",
+        "link": "https://bgm.tv/character/73819",
+        "categorie": "person"
+      },
+      {
+        "id": "73820",
+        "label": "メルフォンシーナ",
+        "info": "常にゲッテムハルトの側に付き従っている物静かな少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/9c/73820_crt_25Qu2.jpg",
+        "link": "https://bgm.tv/character/73820",
+        "categorie": "person"
+      },
+      {
+        "id": "73821",
+        "label": "リサ",
+        "info": "銃をこよなく愛し、相手を苦しめることに喜びを見出している、ちょっとおかしな女性アークス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/e3/73821_crt_EWMMz.jpg",
+        "link": "https://bgm.tv/character/73821",
+        "categorie": "person"
+      },
+      {
+        "id": "73822",
+        "label": "サラ",
+        "info": "不意に現れアッシュに助言を与える、アークスと思われる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/6b/73822_crt_LOlBr.jpg",
+        "link": "https://bgm.tv/character/73822",
+        "categorie": "person"
+      },
+      {
+        "id": "73823",
+        "label": "ウルク",
+        "info": "テオドールの幼なじみ。フォトンの才能に恵まれないながらも、アークスを目指して研修生となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/56/73823_crt_g89ei.jpg",
+        "link": "https://bgm.tv/character/73823",
+        "categorie": "person"
+      },
+      {
+        "id": "73824",
+        "label": "クーナ",
+        "info": "アークスたちに絶大な人気を誇る、アークスのイメージアーティスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/a1/73824_crt_Z2441.jpg",
+        "link": "https://bgm.tv/character/73824",
+        "categorie": "person"
+      },
+      {
+        "id": "73825",
+        "label": "マリア",
+        "info": "サラと共にある目的のために行動する、謎の女性キャスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b3/73825_crt_SRlH5.jpg",
+        "link": "https://bgm.tv/character/73825",
+        "categorie": "person"
+      },
+      {
+        "id": "73826",
+        "label": "カスラ",
+        "info": "六芒均衡」の三であり、三英雄のひとり。常にひょうひょうとしていて、つかみどころのない振る舞いの男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/39/73826_crt_6T56Y.jpg",
+        "link": "https://bgm.tv/character/73826",
+        "categorie": "person"
+      },
+      {
+        "id": "73827",
+        "label": "クラリスクレイス",
+        "info": "アークスの中でも他の追随を許さない強さを持つ６人「六芒均衡」の五であり三英雄のひとり。小柄な女の子だが、その力は絶大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/8c/73827_crt_UGBqG.jpg",
+        "link": "https://bgm.tv/character/73827",
+        "categorie": "person"
+      },
+      {
+        "id": "73828",
+        "label": "【双子】（ダブル）",
+        "info": "ダークファルスの一人。二人そろってひとりの【双子】（ダブル）。無垢なようで、もっとも残虐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/db/73828_crt_p9zPY.jpg",
+        "link": "https://bgm.tv/character/73828",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

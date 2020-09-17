@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "2010",
+        "label": "小智的皮卡丘",
+        "info": "小智的第一只神奇宝贝。非常讨厌进入精灵球里，所以平常都是坐在小智的肩膀上或跟在小智身边。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/94/2010_crt_FUZnn.jpg?r=1555427188",
+        "link": "https://bgm.tv/character/2010",
+        "categorie": "person"
+      },
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "12816",
+        "label": "小光",
+        "info": "小光（英文：Dawn，日文：ヒカリ）是一个在动漫口袋妖怪里出现的虚拟角色，同时亦是《口袋妖怪钻石珍珠》的女主角。她的梦想是成为世界上最伟大的口袋妖怪协调训练家。她拥有圆企鹅、帕奇利兹及象牙猪等众多不同的小精灵。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/fe/12816_crt_5S5GE.jpg",
+        "link": "https://bgm.tv/character/12816",
+        "categorie": "person"
+      },
+      {
+        "id": "14547",
+        "label": "小刚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/b6/14547_crt_mRF3a.jpg",
+        "link": "https://bgm.tv/character/14547",
+        "categorie": "person"
+      },
+      {
+        "id": "30659",
+        "label": "时拉比",
+        "info": "时拉比是一种绿色，长相像妖精般的生物。时拉比长有圆形无趾的足和三根手指的手。其头部为圆形，并呈弧线状汇聚在一点。时拉比有淡蓝色的眼睛和浓浓的黑色眼圈，其上长有带蓝色尖端的绿色触角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/b0/30659_crt_eAdWy.jpg",
+        "link": "https://bgm.tv/character/30659",
+        "categorie": "person"
+      },
+      {
+        "id": "43873",
+        "label": "竹兰",
+        "info": "竹兰是神奥地方的冠军，首次登场于精灵宝可梦钻石珍珠版。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/a1/43873_crt_Wl6lC.jpg",
+        "link": "https://bgm.tv/character/43873",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

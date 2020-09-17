@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14295",
+        "label": "神崎人",
+        "info": "通称阿人，左手背生有环状肉瘤的神秘少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/0f/14295_crt_Tbczz.jpg",
+        "link": "https://bgm.tv/character/14295",
+        "categorie": "person"
+      },
+      {
+        "id": "14296",
+        "label": "天城高雅",
+        "info": "天城企业的继承人，容貌端正、成绩优秀、体育万能，表面上以完美的精英贵公子形象示人，但实际上是个英雄迷，梦想成为“正义的伙伴”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/43/14296_crt_dHrf3.jpg",
+        "link": "https://bgm.tv/character/14296",
+        "categorie": "person"
+      },
+      {
+        "id": "15690",
+        "label": "天城小叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/24/15690_crt_s09o9.jpg",
+        "link": "https://bgm.tv/character/15690",
+        "categorie": "person"
+      },
+      {
+        "id": "15686",
+        "label": "川上明美",
+        "info": "再被袭击时候得到少年时期的神崎人的救助，神崎悟郎死后把神崎人当做自己孩子养大。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/d1/15686_crt_GMn9l.jpg",
+        "link": "https://bgm.tv/character/15686",
+        "categorie": "person"
+      },
+      {
+        "id": "15687",
+        "label": "田中花子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/34/15687_crt_jJMJ8.jpg",
+        "link": "https://bgm.tv/character/15687",
+        "categorie": "person"
+      },
+      {
+        "id": "15688",
+        "label": "神崎悟郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/f0/15688_crt_Yn2YE.jpg",
+        "link": "https://bgm.tv/character/15688",
+        "categorie": "person"
+      },
+      {
+        "id": "15689",
+        "label": "天城光铠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/3d/15689_crt_IGhaF.jpg",
+        "link": "https://bgm.tv/character/15689",
+        "categorie": "person"
+      },
+      {
+        "id": "15732",
+        "label": "清扫者",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/a2/15732_crt_46tb2.jpg",
+        "link": "https://bgm.tv/character/15732",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

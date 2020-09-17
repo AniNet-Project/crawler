@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "70585",
+        "label": "岡本タマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/70/70585_crt_NxNx8.jpg?r=1578629496",
+        "link": "https://bgm.tv/character/70585",
+        "categorie": "person"
+      },
+      {
+        "id": "70586",
+        "label": "山田ポチ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/dc/70586_crt_h3T9j.jpg?r=1578629510",
+        "link": "https://bgm.tv/character/70586",
+        "categorie": "person"
+      },
+      {
+        "id": "70587",
+        "label": "木曽トラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/02/70587_crt_tk6hv.jpg?r=1578629536",
+        "link": "https://bgm.tv/character/70587",
+        "categorie": "person"
+      },
+      {
+        "id": "70589",
+        "label": "花咲モモ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/c3/70589_crt_8h0dT.jpg?r=1578629560",
+        "link": "https://bgm.tv/character/70589",
+        "categorie": "person"
+      },
+      {
+        "id": "70588",
+        "label": "河原ベー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/d1/70588_crt_CkBTC.jpg?r=1578629585",
+        "link": "https://bgm.tv/character/70588",
+        "categorie": "person"
+      },
+      {
+        "id": "70590",
+        "label": "桶谷コマ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/db/70590_crt_B3PaH.jpg?r=1578629601",
+        "link": "https://bgm.tv/character/70590",
+        "categorie": "person"
+      },
+      {
+        "id": "70591",
+        "label": "ノラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/bf/70591_crt_AaAdV.jpg?r=1578629620",
+        "link": "https://bgm.tv/character/70591",
+        "categorie": "person"
+      },
+      {
+        "id": "70592",
+        "label": "三河クロ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/02/70592_crt_91mx7.jpg?r=1578629636",
+        "link": "https://bgm.tv/character/70592",
+        "categorie": "person"
+      },
+      {
+        "id": "70593",
+        "label": "野田ゴン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/4e/70593_crt_d3fFN.jpg?r=1578629650",
+        "link": "https://bgm.tv/character/70593",
+        "categorie": "person"
+      },
+      {
+        "id": "70594",
+        "label": "倉持ブル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/6a/70594_crt_9JnDF.jpg?r=1578629665",
+        "link": "https://bgm.tv/character/70594",
+        "categorie": "person"
+      },
+      {
+        "id": "72948",
+        "label": "岡本たけし",
+        "info": "タマの飼い主で小学生。タマが迷子になると手書きのポスターを3丁目に張り出している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/8c/72948_crt_GzNEm.jpg?r=1578629680",
+        "link": "https://bgm.tv/character/72948",
+        "categorie": "person"
+      },
+      {
+        "id": "74649",
+        "label": "仓持君",
+        "info": "ブルの飼い主でたけしの友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/b7/74649_crt_Siwqu.jpg?r=1578629220",
+        "link": "https://bgm.tv/character/74649",
+        "categorie": "person"
+      },
+      {
+        "id": "74650",
+        "label": "花咲惠美",
+        "info": "モモの飼い主で小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/73/74650_crt_HC65Q.jpg?r=1578629330",
+        "link": "https://bgm.tv/character/74650",
+        "categorie": "person"
+      },
+      {
+        "id": "74651",
+        "label": "木曾留吉",
+        "info": "トラの飼い主で、大木工務店の棟梁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/88/74651_crt_It72p.jpg?r=1578629471",
+        "link": "https://bgm.tv/character/74651",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

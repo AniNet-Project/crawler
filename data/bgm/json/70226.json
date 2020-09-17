@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "80817",
+        "label": "エンジェル",
+        "info": "神秘女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/17/80817_crt_QSKF6.jpg",
+        "link": "https://bgm.tv/character/80817",
+        "categorie": "person"
+      },
+      {
+        "id": "80818",
+        "label": "市原正树",
+        "info": "神秘手枪的上一个主人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/fc/80818_crt_BBrBZ.jpg",
+        "link": "https://bgm.tv/character/80818",
+        "categorie": "person"
+      },
+      {
+        "id": "80827",
+        "label": "中本由美",
+        "info": "男主的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/43/80827_crt_NYGYg.jpg",
+        "link": "https://bgm.tv/character/80827",
+        "categorie": "person"
+      },
+      {
+        "id": "80816",
+        "label": "朝仓优",
+        "info": "本作男主，平凡的中学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/09/80816_crt_8COl8.jpg",
+        "link": "https://bgm.tv/character/80816",
+        "categorie": "person"
+      },
+      {
+        "id": "80820",
+        "label": "岬久美",
+        "info": "男主的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/82/80820_crt_42h5c.jpg",
+        "link": "https://bgm.tv/character/80820",
+        "categorie": "person"
+      },
+      {
+        "id": "80821",
+        "label": "朝仓美沙子",
+        "info": "男主的继母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/05/80821_crt_q4SGo.jpg",
+        "link": "https://bgm.tv/character/80821",
+        "categorie": "person"
+      },
+      {
+        "id": "80823",
+        "label": "熊谷那美",
+        "info": "熊谷贤吾的女儿，与男主同校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/5a/80823_crt_Yw0js.jpg",
+        "link": "https://bgm.tv/character/80823",
+        "categorie": "person"
+      },
+      {
+        "id": "80819",
+        "label": "朝仓雅美",
+        "info": "男主的义妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/ff/80819_crt_DBtDj.jpg",
+        "link": "https://bgm.tv/character/80819",
+        "categorie": "person"
+      },
+      {
+        "id": "80824",
+        "label": "熊谷贤吾",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/69/80824_crt_0qF9G.jpg",
+        "link": "https://bgm.tv/character/80824",
+        "categorie": "person"
+      },
+      {
+        "id": "80822",
+        "label": "森川由香里",
+        "info": "调查神秘手枪的女警。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/d6/80822_crt_14TG7.jpg",
+        "link": "https://bgm.tv/character/80822",
+        "categorie": "person"
+      },
+      {
+        "id": "80825",
+        "label": "松井则夫",
+        "info": "男主的死党，枪械爱好者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/7c/80825_crt_XGA16.jpg",
+        "link": "https://bgm.tv/character/80825",
+        "categorie": "person"
+      },
+      {
+        "id": "80826",
+        "label": "水谷",
+        "info": "男主的班主任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/b8/80826_crt_6euoi.jpg",
+        "link": "https://bgm.tv/character/80826",
+        "categorie": "person"
+      },
+      {
+        "id": "81292",
+        "label": "菊地玲子",
+        "info": "男主的同班同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/8f/81292_crt_4krkT.jpg",
+        "link": "https://bgm.tv/character/81292",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1079",
+        "label": "宫小路瑞穗",
+        "info": "拥有美少女面孔的主人公(男)",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/95/1079_crt_P79MP.jpg",
+        "link": "https://bgm.tv/character/1079",
+        "categorie": "person"
+      },
+      {
+        "id": "1082",
+        "label": "御门玛利亚",
+        "info": "瑞穗的青梅竹马借着某人的遗言为盾牌,让瑞穗女装进入女校,并乐在其中所属是田径部.她有时经常为瑞穗乱出主意,搞得瑞穗团团乱转,有时做事甚至不考虑后果但是仍然是瑞穗的好参谋",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/8f/1082_3rfyT.jpg",
+        "link": "https://bgm.tv/character/1082",
+        "categorie": "person"
+      },
+      {
+        "id": "1083",
+        "label": "严岛贵子",
+        "info": "学生会长,人气很高的角色,个性非常认真,因为瑞穗的转学,对于她产生了很大的影响.所以经常因为反驳心理,与瑞穗站在对立的立场上由于家庭问题,很讨厌男人.也许是因为本能感到了瑞穗是男性也不一定有时会产生被害妄想癖,经常突然就会进入\"自我模式\"",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/e6/1083_3rvlg.jpg",
+        "link": "https://bgm.tv/character/1083",
+        "categorie": "person"
+      },
+      {
+        "id": "1080",
+        "label": "十条紫苑",
+        "info": "瑞穂的同班同学,很端庄的女性.元华族的十条家的独生女.沉稳并且很有神秘感……虽然这么说,但是也有时会出语惊人,吓瑞穂一跳,但是在瑞穂危急的时候,总是会出面帮瑞穂解围性格稳重但意外地喜欢恶作剧，经常和玛利亚一起捉弄瑞穗。因为在上学期生病，而重新读一年，其实还是上一年的“姐姐大人”",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/1c/1080_ELl51.jpg",
+        "link": "https://bgm.tv/character/1080",
+        "categorie": "person"
+      },
+      {
+        "id": "1084",
+        "label": "上冈由佳里",
+        "info": "很活泼的孩子玛丽娅的后辈,并且也是所是田径部的,和奏一样都是宿舍的下级生,非常怕鬼。~~家境一般,是从外部编入的凡是看到有人小声议论事情,就会怀疑是在议论自己而疑神疑鬼.其实,在本质上她也许拥有比任何女孩子都更像女孩子的地方,意外的深不可测……",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/36/1084_Sbh0A.jpg",
+        "link": "https://bgm.tv/character/1084",
+        "categorie": "person"
+      },
+      {
+        "id": "1085",
+        "label": "高岛一子",
+        "info": "表情可爱的女孩子，说话速度极快，想象力过剩",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/16/1085_Ts8o3.jpg",
+        "link": "https://bgm.tv/character/1085",
+        "categorie": "person"
+      },
+      {
+        "id": "4321",
+        "label": "周防院奏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/35/4321_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4321",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

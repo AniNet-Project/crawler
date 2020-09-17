@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "23235",
+        "label": "火火里绫火",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/67/da/23235_crt_rPZqL.jpg",
+        "link": "https://bgm.tv/character/23235",
+        "categorie": "person"
+      },
+      {
+        "id": "23236",
+        "label": "多华宫仄",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/bf/23236_crt_U31eL.jpg",
+        "link": "https://bgm.tv/character/23236",
+        "categorie": "person"
+      },
+      {
+        "id": "23237",
+        "label": "多华宫霞",
+        "info": "仄と同じく冬月高校に通う妹。ウェーブヘアにカチューシャが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/0a/23237_crt_HsBN6.jpg",
+        "link": "https://bgm.tv/character/23237",
+        "categorie": "person"
+      },
+      {
+        "id": "23343",
+        "label": "火火里风音",
+        "info": "綾火の母であり、冬月高等学校の理事長。冬月市の工房長でもあり、工房の魔女（主に綾火や霞）が引き起こした事態の収拾などを裏で行っている。白姫を抑えられるほどの力を持つ。邸宅はその高くそびえる佇まいゆえ、同胞から「バベル」と呼ばれていたが、白姫により全壊した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/8b/23343_crt_5Mbpt.jpg?r=1391279227",
+        "link": "https://bgm.tv/character/23343",
+        "categorie": "person"
+      },
+      {
+        "id": "23344",
+        "label": "美杜莎",
+        "info": "塔の魔女であり、KMM団たちの師匠。物だけではなく概念すらも石化させる、神の呪い「石眼石手」を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/69/23344_crt_SX4An.jpg?r=1391279657",
+        "link": "https://bgm.tv/character/23344",
+        "categorie": "person"
+      },
+      {
+        "id": "23345",
+        "label": "克萝诺娃史瓦兹·西库斯",
+        "info": "仄と魔女たちの接触後に冬月市に現れた塔の魔女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/63/23345_crt_sT6ti.jpg?r=1391282310",
+        "link": "https://bgm.tv/character/23345",
+        "categorie": "person"
+      },
+      {
+        "id": "23380",
+        "label": "永恒朱红",
+        "info": "塔の魔女が狙う仄の体内に眠る魔女で、「白いアレ」とも呼ばれている。第8話にてクロノワールシュヴァルツから渡された仄の力を引き出すという飴をなめたところ白姫・エヴァーミリオンが出てきた。5つの封印を施されていたが、現在までに\"1\"の封印が解かれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/3c/23380_crt_610P1.jpg?r=1391431893",
+        "link": "https://bgm.tv/character/23380",
+        "categorie": "person"
+      },
+      {
+        "id": "23381",
+        "label": "鬼灯火苗",
+        "info": "冬月高校の生徒で、火々里綾火親衛隊の隊長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/d4/23381_crt_UXULl.jpg?r=1391432354",
+        "link": "https://bgm.tv/character/23381",
+        "categorie": "person"
+      },
+      {
+        "id": "23382",
+        "label": "仓石蒲公英",
+        "info": "塔の魔女の1人。メデューサの部下でもある。動物の耳（いわゆるケモミミ）に縦長の瞳という身体的特徴を持っており、人間とは異なる種族である。仲間からは「たんぽぽちゃん」、仄からは「耳の人」と呼ばれる（たまに「クライシスさん」または「クレイジーさん」と呼ばれるなど、まともに呼ばれたことの方が少ない）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/eb/23382_crt_5rp5m.jpg?r=1391439367",
+        "link": "https://bgm.tv/character/23382",
+        "categorie": "person"
+      },
+      {
+        "id": "23383",
+        "label": "日野轮冥",
+        "info": "メデューサの部下の塔の魔女。たんぽぽと行動を共にし、黒いスライムを操って空間歪曲魔法を使う。首に巻いているイヌはただのペットである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/b1/23383_crt_ybDp9.jpg?r=1391439457",
+        "link": "https://bgm.tv/character/23383",
+        "categorie": "person"
+      },
+      {
+        "id": "23385",
+        "label": "宇津木环那",
+        "info": "メデューサの部下の塔の魔女。たんぽぽと行動を共にし、大きな呪文書「ブラックヴァイス」を使う。たんぽぽと仲が良く、天然ボケな彼女の突っ込み役でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/d1/23385_crt_Yu4kx.jpg?r=1391439468",
+        "link": "https://bgm.tv/character/23385",
+        "categorie": "person"
+      },
+      {
+        "id": "23386",
+        "label": "饰铃",
+        "info": "メデューサの部下の塔の魔女。愛称はカザリン。たんぽぽと行動を共にし、骨を操る。鼻歌をよく歌っているが、口数は少ない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/ac/23386_crt_fz9Ai.jpg?r=1391438214",
+        "link": "https://bgm.tv/character/23386",
+        "categorie": "person"
+      },
+      {
+        "id": "23387",
+        "label": "桂虎铁",
+        "info": "メデューサの部下の塔の魔女。たんぽぽと行動を共にし、「虎鉄」という刀を扱う。KMM団だけでなく、剣道部にも入部届を出している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/ce/23387_crt_4cCUF.jpg?r=1391438517",
+        "link": "https://bgm.tv/character/23387",
+        "categorie": "person"
+      },
+      {
+        "id": "23388",
+        "label": "薇科恩德",
+        "info": "塔の魔女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/67/23388_crt_Q4kMn.jpg?r=1391438762",
+        "link": "https://bgm.tv/character/23388",
+        "categorie": "person"
+      },
+      {
+        "id": "23389",
+        "label": "冰尾冻子",
+        "info": "氷を操る工房の魔女。仄や綾火と同じく冬月高校の生徒であり、副生徒会長。身に危険が及ぶとその度合いに応じて魔力を発揮するタイプで、街を大寒波で包み込むほどの潜在力を秘めている。校外では、魔女の出入りする喫茶店でアルバイト中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/fb/23389_crt_211gY.jpg?r=1391438995",
+        "link": "https://bgm.tv/character/23389",
+        "categorie": "person"
+      },
+      {
+        "id": "23390",
+        "label": "多华宫小町",
+        "info": "仄と霞の母。職業はOL。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/16/23390_crt_D8gaD.jpg?r=1391439150",
+        "link": "https://bgm.tv/character/23390",
+        "categorie": "person"
+      },
+      {
+        "id": "23391",
+        "label": "田沼佳子",
+        "info": "冬月高校の生徒で、霞の同級生。ツインテールをおだんごにしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/90/23391_crt_0DFPk.jpg",
+        "link": "https://bgm.tv/character/23391",
+        "categorie": "person"
+      },
+      {
+        "id": "44242",
+        "label": "あい",
+        "info": "金髪に赤色が一房混じった少女。普段は迷子に親切に接する優しさを見せる一方、魔女としての目的のためにはそれらを意に介さない「塔の魔女」らしい魔女。大型の剣と2丁の魔法拳銃（グロック17）を使う。使用する弾丸は根の部分が星型になっている。星組であることを誇示して他の塔の魔女を威圧することもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/3a/44242_crt_y2W5N.jpg?r=1470830193",
+        "link": "https://bgm.tv/character/44242",
+        "categorie": "person"
+      },
+      {
+        "id": "44243",
+        "label": "まい",
+        "info": "右側頭部にサイドポニーにして結んだ髪と褐色の肌が特徴の魔女。使用する武器や魔法は不明。星組で飼っているリャマに乗って登校する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/0b/44243_crt_fW048.jpg?r=1470830309",
+        "link": "https://bgm.tv/character/44243",
+        "categorie": "person"
+      },
+      {
+        "id": "44245",
+        "label": "深影恭一郎",
+        "info": "冬月高校の化学教師で、生徒会顧問。理事長直属の魔法使い。深影棗の叔父で、栞の弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/6c/44245_crt_L1M25.jpg?r=1470830588",
+        "link": "https://bgm.tv/character/44245",
+        "categorie": "person"
+      },
+      {
+        "id": "44246",
+        "label": "学生会长",
+        "info": "冬月高校の生徒会長で火々里綾火親衛隊・総指揮官。本名不明。金髪縦ロールが特徴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/c9/44246_crt_5cwws.jpg?r=1470830687",
+        "link": "https://bgm.tv/character/44246",
+        "categorie": "person"
+      },
+      {
+        "id": "44247",
+        "label": "乙女橘凛音",
+        "info": "冬月高校の2年生。冬月市の番長で、通称「熊殺しのりのん」（かつて冬月高校の元生徒会長と共に、動物園から脱走した「熊吉」という名の虎を締め落としたことがあるため）。霞の師匠でもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/b0/44247_crt_bar5B.jpg?r=1470830866",
+        "link": "https://bgm.tv/character/44247",
+        "categorie": "person"
+      },
+      {
+        "id": "44248",
+        "label": "深影枣",
+        "info": "冬月高校の生徒。工房の魔女で街を護る5人の魔女のリーダー。深影恭一郎の姪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/6b/44248_crt_JgOII.jpg?r=1470830984",
+        "link": "https://bgm.tv/character/44248",
+        "categorie": "person"
+      },
+      {
+        "id": "44249",
+        "label": "昏峰天鸟",
+        "info": "冬月高校の生徒で、街を護る5人の魔女の1人。諜報担当。獣耳を持ち、内気で会話は相棒の人形を使った腹話術で行う。相棒は「口が悪くて熱血漢」という設定。大剣「アーロンダイト」と鉄製の「そろばんブレード」を持っている。火々里家に仕えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/c1/44249_crt_EJ7vj.jpg?r=1470831198",
+        "link": "https://bgm.tv/character/44249",
+        "categorie": "person"
+      },
+      {
+        "id": "44244",
+        "label": "みい",
+        "info": "キツネ耳、キツネ尾の魔女。巨大なハサミを武器に戦う。使い魔はお面をつけたキツネで、みいがクロノワールシュヴァルツに洗脳されている間はクラスで飼われていた。原作では口数が少ないが、アニメ版では京言葉で威勢よく話していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/b3/44244_crt_TZZ9u.jpg?r=1470830371",
+        "link": "https://bgm.tv/character/44244",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "11546",
+        "label": "羊驼",
+        "info": "在那荒茫美丽马勒戈壁 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/52/11546_crt_FlzuU.jpg",
+        "link": "https://bgm.tv/character/11546",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

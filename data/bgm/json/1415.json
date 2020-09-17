@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7486",
+        "label": "真中淳平",
+        "info": "　梦想成为电影制片人，一天放学后在学校楼顶遇见一位穿草莓内裤从天而降的美少女，见到她在夕阳下的美丽身影，淳平顿时迷恋上了她。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/54/7486_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7486",
+        "categorie": "person"
+      },
+      {
+        "id": "7487",
+        "label": "东城绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/39/7487_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7487",
+        "categorie": "person"
+      },
+      {
+        "id": "7489",
+        "label": "西野司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/d5/7489_crt_Dkc1F.jpg?r=1572755950",
+        "link": "https://bgm.tv/character/7489",
+        "categorie": "person"
+      },
+      {
+        "id": "7490",
+        "label": "北大路五月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/d3/7490_crt_m1lRV.jpg",
+        "link": "https://bgm.tv/character/7490",
+        "categorie": "person"
+      },
+      {
+        "id": "67271",
+        "label": "南户唯",
+        "info": "真中淳平的幼驯染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/a6/67271_crt_00Y60.jpg?r=1542536274",
+        "link": "https://bgm.tv/character/67271",
+        "categorie": "person"
+      },
+      {
+        "id": "7876",
+        "label": "Ichigo Pantsu Iseijin",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/da/7876_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7876",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

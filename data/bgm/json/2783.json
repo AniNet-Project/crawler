@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3453",
+        "label": "江户川柯南",
+        "info": "柯南（江户川柯南，真名工藤新一），是作品《名侦探柯南》中的主角，被称为“日本警察的救世主”、“平成年代的福尔摩斯”。被黑衣人灌下身体缩小的毒药后，回到发育期的孩童状态。于是新一化名为“江户川柯南”寄住在小兰的家。他自称七岁，并在帝丹小学1年级B班就读。为了隐藏身份，在阿笠博士的安排下，从小学开始读起并寄住在毛利侦探事务所。经常借由阿笠博士所发明的道具，利用小五郎、园子、山村警官等人进行推理，解决许多难题；此外也一直在暗中寻找黑衣人与解药的情报。不擅长的科目是音乐（是个音痴），但拥有绝对音感，善于拉小提琴，最爱的运动是足球，最爱的足球员是雷‧卡提斯，最爱的小说是福尔摩斯探案《四个签名》，最爱的侦探是福尔摩斯，母亲是江户川文代（工藤有希子以柯南的母亲身份出现时使用的化名）。知道其真实身分的人有服部平次(在某事件拿他当推理替身时穿帮)、阿笠博士(因为新一率先向他求救)、苦艾酒、灰原哀(检查使用APTX4869者纪录时推知)、工藤优作、工藤有希子(阿笠博士告知)、本堂瑛祐(用和小兰有关的话题套话得知)、怪盗基德(剧场版中已经发现，TV版则不明)、鲁邦三世(在鲁邦三世vs名侦探柯南里发现)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/f9/3453_crt_836v3.jpg?r=1444795097",
+        "link": "https://bgm.tv/character/3453",
+        "categorie": "person"
+      },
+      {
+        "id": "3499",
+        "label": "毛利兰",
+        "info": "新一のガールフレンド。空手部の女主将で気が強い反面、女の子らしい優しい一面も持っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/51/3499_crt_4kknM.jpg?r=1444795840",
+        "link": "https://bgm.tv/character/3499",
+        "categorie": "person"
+      },
+      {
+        "id": "7041",
+        "label": "毛利小五郎",
+        "info": "蘭の父親。ヘボ探偵だったが、コナンのおかげで世間からは名探偵「眠りの小五郎」として名を響かせている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/09/7041_crt_brb2e.jpg?r=1444806201",
+        "link": "https://bgm.tv/character/7041",
+        "categorie": "person"
+      },
+      {
+        "id": "7043",
+        "label": "灰原哀",
+        "info": "原黑衣组织成员，毒药“APTX4869”的开发者。由于姐姐宫野明美因内部纠纷被组织杀害，为了对抗组织而终止了APTX4869的开发。被组织囚禁后为了自杀吃下了自己开发的毒药，却导致身体缩小而逃脱，在逃跑路上被阿笠博士发现后带回家，隐姓埋名进入帝丹小学，同时在博士家秘密研究APTX4869的解药。是少数几个知道柯南真实身份的人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/85/7043_crt_RHkz2.jpg?r=1444824403",
+        "link": "https://bgm.tv/character/7043",
+        "categorie": "person"
+      },
+      {
+        "id": "7045",
+        "label": "吉田步美",
+        "info": "探偵団の一員。哀が入るまでは探偵団の紅一点であった。コナンとの恋愛関係など、「『ドラえもん』での源静香を意識して書いた」と作者が認めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/8d/7045_crt_7cHj7.jpg?r=1444821809",
+        "link": "https://bgm.tv/character/7045",
+        "categorie": "person"
+      },
+      {
+        "id": "7046",
+        "label": "圆谷光彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ca/7046_crt_YQPnR.jpg?r=1444821865",
+        "link": "https://bgm.tv/character/7046",
+        "categorie": "person"
+      },
+      {
+        "id": "7056",
+        "label": "服部平次",
+        "info": "関西の高校生探偵で、かつては「東の工藤、西の服部」と並び称された。コナンの正体を知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/1d/7056_crt_EfGeG.jpg?r=1444807883",
+        "link": "https://bgm.tv/character/7056",
+        "categorie": "person"
+      },
+      {
+        "id": "7059",
+        "label": "高木涉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/2a/7059_crt_qWEkI.jpg?r=1444810769",
+        "link": "https://bgm.tv/character/7059",
+        "categorie": "person"
+      },
+      {
+        "id": "7061",
+        "label": "目暮十三",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/87/7061_crt_aKJ38.jpg?r=1444825861",
+        "link": "https://bgm.tv/character/7061",
+        "categorie": "person"
+      },
+      {
+        "id": "7066",
+        "label": "松本清長",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/71/7066_crt_FnfF2.jpg?r=1444822073",
+        "link": "https://bgm.tv/character/7066",
+        "categorie": "person"
+      },
+      {
+        "id": "7076",
+        "label": "山村操",
+        "info": "群馬県警の警部。コナン（新一）の母である女優・藤峰有希子の大ファンで、彼女が主演の刑事ドラマを見て刑事になった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/75/7076_crt_mIGoj.jpg?r=1444825909",
+        "link": "https://bgm.tv/character/7076",
+        "categorie": "person"
+      },
+      {
+        "id": "7081",
+        "label": "伏特加",
+        "info": "ジンと行動を共にしている構成員で、ジンへの忠誠心が高い男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/43/7081_crt_Tmof1.jpg?r=1446726685",
+        "link": "https://bgm.tv/character/7081",
+        "categorie": "person"
+      },
+      {
+        "id": "7082",
+        "label": "基安蒂",
+        "info": "腕利きのスナイパー。スナイパー仲間のカルバドスを見捨てたベルモットを嫌っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/50/7082_crt_5GTMM.jpg?r=1446726652",
+        "link": "https://bgm.tv/character/7082",
+        "categorie": "person"
+      },
+      {
+        "id": "7084",
+        "label": "贝尔摩德",
+        "info": "动漫作品《名侦探柯南》中人物。黑衣组织重要成员。擅长易容术与变声术，各方面能力出众。在组织中负责收集重要的情报，是“那位先生”欣赏的人。经常单独行动，被称为“神秘主义者”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/23/7084_crt_K3013.jpg?r=1446726723",
+        "link": "https://bgm.tv/character/7084",
+        "categorie": "person"
+      },
+      {
+        "id": "7085",
+        "label": "琴酒",
+        "info": "ジンは組織の中枢を担い、構成員の実質的な管理も行っている幹部クラスの人物で、工藤新一にAPTX4869を飲ませた張本人。赤井秀一からは「恋人」「宿敵」「本命」などと呼ばれている。本名は不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/a9/7085_crt_151Sq.jpg?r=1446726560",
+        "link": "https://bgm.tv/character/7085",
+        "categorie": "person"
+      },
+      {
+        "id": "7086",
+        "label": "科恩",
+        "info": "腕利きのスナイパー。キャンティと同様に、スナイパー仲間のカルバドスを見捨てたベルモットを嫌っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/2f/7086_crt_xuSah.jpg?r=1446726629",
+        "link": "https://bgm.tv/character/7086",
+        "categorie": "person"
+      },
+      {
+        "id": "7101",
+        "label": "大和敢助",
+        "info": "長野県警の警部。35歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/d7/7101_crt_ObKuo.jpg?r=1444819106",
+        "link": "https://bgm.tv/character/7101",
+        "categorie": "person"
+      },
+      {
+        "id": "7102",
+        "label": "上原由衣",
+        "info": "長野県警の刑事。29歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/4c/7102_crt_7lnw9.jpg?r=1444825167",
+        "link": "https://bgm.tv/character/7102",
+        "categorie": "person"
+      },
+      {
+        "id": "8337",
+        "label": "綾小路文麿",
+        "info": "京都府警の警部。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/12/8337_crt_anidb.jpg?r=1444811953",
+        "link": "https://bgm.tv/character/8337",
+        "categorie": "person"
+      },
+      {
+        "id": "9658",
+        "label": "荻野彩実",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/fb/9658_crt_xRslx.jpg",
+        "link": "https://bgm.tv/character/9658",
+        "categorie": "person"
+      },
+      {
+        "id": "9660",
+        "label": "本上和樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/aa/9660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9660",
+        "categorie": "person"
+      },
+      {
+        "id": "9661",
+        "label": "水谷浩介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/3e/9661_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9661",
+        "categorie": "person"
+      },
+      {
+        "id": "17784",
+        "label": "横溝參悟",
+        "info": "静岡県警の警部。階級は警部だが、登場後しばらくはコナンたちからは「横溝刑事」と呼ばれることが多かった（「刑事」の呼称も正しい）。 初登場時は埼玉県警に所属していたが、後に異動し静岡県警所属となった。キャリア組で推理力にも優れているが、小五郎を純粋に尊敬しており、毎回、名推理に期待を寄せ、さらには的外れな推理を素直に真に受けてしまうこともある。 髪型が名前どおりサンゴの形をしているが、まったく泳げない。口調は丁寧だが、やたらと抑揚を付けて大声でしゃべる。また、取り調べなどで人に話しかける際、異様なほど顔を近付ける癖がある。やや早とちりな傾向がある。 顔自体はよく似ているが性格と髪型がかなり異なる双子の弟・重悟が神奈川県警にいる。兄弟仲は良好のようである。 名前の由来は、横溝は横溝正史から、参悟は前述の髪型がサンゴに似ているため。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/9d/17784_crt_ZjAbt.jpg?r=1444819399",
+        "link": "https://bgm.tv/character/17784",
+        "categorie": "person"
+      },
+      {
+        "id": "36145",
+        "label": "阿笠博士",
+        "info": "風変わりな発明家。コナンの正体を知り、秘密を守っている1人。ユニークな発明品で新一＝コナンを助ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/a9/36145_crt_X8VT1.jpg?r=1444807336",
+        "link": "https://bgm.tv/character/36145",
+        "categorie": "person"
+      },
+      {
+        "id": "3455",
+        "label": "工藤新一",
+        "info": "帝丹高校2年B組。推理オタクとして知られている。特にシャーロック・ホームズの大ファンで、「世界最高の探偵」と評している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/ef/3455_crt_2V5Q1.jpg?r=1444804644",
+        "link": "https://bgm.tv/character/3455",
+        "categorie": "person"
+      },
+      {
+        "id": "7051",
+        "label": "远山和叶",
+        "info": "服部平次の幼馴染であり、初恋の人。平次と同じく改方学園高等部2年に在籍。大阪府に在住。年齢は17歳。基本的な髪型は大きなリボンで結んだポニーテール（就寝前には髪を下ろす）。一人称は「アタシ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ba/7051_crt_sW1kr.jpg?r=1444821401",
+        "link": "https://bgm.tv/character/7051",
+        "categorie": "person"
+      },
+      {
+        "id": "9659",
+        "label": "深瀬稔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/c3/9659_crt_KpkBB.jpg",
+        "link": "https://bgm.tv/character/9659",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

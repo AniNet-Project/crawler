@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60001",
+        "label": "茶虎泽Tapio",
+        "info": "元気と明るさが取り柄の三毛猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/a8/60001_crt_579d8.jpg",
+        "link": "https://bgm.tv/character/60001",
+        "categorie": "person"
+      },
+      {
+        "id": "60002",
+        "label": "Roshi原Kue彦",
+        "info": "冷めた性格のロシアンブルー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/6e/60002_crt_a65kW.jpg",
+        "link": "https://bgm.tv/character/60002",
+        "categorie": "person"
+      },
+      {
+        "id": "60003",
+        "label": "不能叫名字的那个动物",
+        "info": "タピオたちのバイト先に現れる謎の動物。全てが謎に包まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/a8/60003_crt_ui1QG.jpg",
+        "link": "https://bgm.tv/character/60003",
+        "categorie": "person"
+      },
+      {
+        "id": "61151",
+        "label": "Pekko",
+        "info": "好奇心旺盛で明るく元気なクエ彦の妹。カメが好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/1a/61151_crt_DsikQ.jpg?r=1518951288",
+        "link": "https://bgm.tv/character/61151",
+        "categorie": "person"
+      },
+      {
+        "id": "61966",
+        "label": "Kue彦的母亲",
+        "info": "パートで働くクエ彦とペッ子の母親。優しくて家族思い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/12/61966_crt_3Y88M.jpg",
+        "link": "https://bgm.tv/character/61966",
+        "categorie": "person"
+      },
+      {
+        "id": "60004",
+        "label": "Suko山前辈",
+        "info": "配送会社でドライバーとして働く温厚な先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/1a/60004_crt_380hr.jpg",
+        "link": "https://bgm.tv/character/60004",
+        "categorie": "person"
+      },
+      {
+        "id": "60005",
+        "label": "灵猫川前辈",
+        "info": "コンビニで働くちょっと挙動があやしい先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/2f/60005_crt_Ta6tY.jpg",
+        "link": "https://bgm.tv/character/60005",
+        "categorie": "person"
+      },
+      {
+        "id": "60006",
+        "label": "Arupa院前辈",
+        "info": "アパレルショップで働くとってもおしゃれな先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/be/60006_crt_6yzZ5.jpg",
+        "link": "https://bgm.tv/character/60006",
+        "categorie": "person"
+      },
+      {
+        "id": "60279",
+        "label": "象林前辈",
+        "info": "レンタカー屋で働くハードボイルド風な先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/0f/60279_crt_dV41D.jpg",
+        "link": "https://bgm.tv/character/60279",
+        "categorie": "person"
+      },
+      {
+        "id": "60280",
+        "label": "Ora浦前辈",
+        "info": "ガラスクリーニングの仕事をする陽気な先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/0e/60280_crt_44K2k.jpg",
+        "link": "https://bgm.tv/character/60280",
+        "categorie": "person"
+      },
+      {
+        "id": "60281",
+        "label": "安哥拉森前辈",
+        "info": "交通量調査の仕事をするせわしない先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/c3/60281_crt_5jpS0.jpg",
+        "link": "https://bgm.tv/character/60281",
+        "categorie": "person"
+      },
+      {
+        "id": "60688",
+        "label": "海龟田前辈",
+        "info": "水族館で飼育係として働く律儀な先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/06/60688_crt_mdDNW.jpg",
+        "link": "https://bgm.tv/character/60688",
+        "categorie": "person"
+      },
+      {
+        "id": "60689",
+        "label": "鸡彻前辈",
+        "info": "アニメショップで働くにもの忘れが激しい先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/dd/60689_crt_JX0wX.jpg",
+        "link": "https://bgm.tv/character/60689",
+        "categorie": "person"
+      },
+      {
+        "id": "60690",
+        "label": "蝙蝠盛前辈",
+        "info": "ゲームショップで働くすごくいけてる先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/e9/60690_crt_7lk2a.jpg",
+        "link": "https://bgm.tv/character/60690",
+        "categorie": "person"
+      },
+      {
+        "id": "60691",
+        "label": "螃蟹平前辈",
+        "info": "レンタルDVD屋で働く映画に詳しい先輩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/5f/60691_crt_7hfhB.jpg",
+        "link": "https://bgm.tv/character/60691",
+        "categorie": "person"
+      },
+      {
+        "id": "61548",
+        "label": "マツ阪先輩",
+        "info": "焼肉屋で働くエリート意識がすごく強い先輩",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/93/61548_crt_Rjhoj.jpg",
+        "link": "https://bgm.tv/character/61548",
+        "categorie": "person"
+      },
+      {
+        "id": "61549",
+        "label": "トナ飼店長",
+        "info": "ケーキ屋を切り盛りするたたき上げの優しい店長",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/7e/61549_crt_aj8Ur.jpg",
+        "link": "https://bgm.tv/character/61549",
+        "categorie": "person"
+      },
+      {
+        "id": "17489",
+        "label": "乌瑟",
+        "info": "りんの家に居候している謎の動物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/68/17489_crt_JlzQo.jpg",
+        "link": "https://bgm.tv/character/17489",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

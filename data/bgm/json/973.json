@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "317",
+        "label": "叶月",
+        "info": "　　",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/ca/317_crt_M11Cp.jpg",
+        "link": "https://bgm.tv/character/317",
+        "categorie": "person"
+      },
+      {
+        "id": "318",
+        "label": "森丘耕平",
+        "info": "　　灵能力者一族，对幽灵几乎感觉不到的他却能拍摄到灵异照片。性格平和，过于老实甚至有点迟钝。在一次外出去德国的幽灵城堡取材时与叶月相遇，被叶月吸了血。没想到被吸了血后的耕平也没有接受叶月念咒的控制。（吸血鬼的恋人？新的一话又提到，应该是主线）为了和叶月交换条件，帮助叶月打破了城堡的结界。其实体内隐藏着高深的灵力，但是这种灵力在童年时候被封印住了。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/78/318_crt_Q8r1d.jpg",
+        "link": "https://bgm.tv/character/318",
+        "categorie": "person"
+      },
+      {
+        "id": "9130",
+        "label": "灰次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/f0/9130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9130",
+        "categorie": "person"
+      },
+      {
+        "id": "16881",
+        "label": "御堂成儿",
+        "info": "耕平的表兄弟，灵能力者，和祖父竜平一起保护着耕平，性格沉着、兼备冷静的判断力。虽然给人很有能力的感觉，在TV最后由于迷茫和对吸血鬼的恐惧，曾一度被控制，但是最后还是靠自己恢复了意志，帮助族人打退敌人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/8b/16881_crt_7u778.jpg?r=1574760155",
+        "link": "https://bgm.tv/character/16881",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

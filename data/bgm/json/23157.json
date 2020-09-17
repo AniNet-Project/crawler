@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "50705",
+        "label": "河合春人",
+        "info": "本故事的主人公。千羽谷大学文学部二年级学生。是个义无返顾的热血汉，即使化友为敌也在所不辞。和麻寻一样，只要一谈到恋爱方面的事情就会脸红。感觉优于理论的类型。一心想要继承雄介的遗愿，将他失去的东西制作成电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/07/50705_crt_5Ce11.jpg?r=1487355996",
+        "link": "https://bgm.tv/character/50705",
+        "categorie": "person"
+      },
+      {
+        "id": "21952",
+        "label": "仙堂麻寻",
+        "info": "KID社出品的恋爱游戏《Memories Off #5 とぎれたフィルム》 （秋之回忆5中断的胶片）中的女主人公 《Memories Off #5 Encore》(秋之回忆5安可)中的女主人公 《Memories Off 6 Next Relation》（秋之回忆6下一篇章）“嘉神川克罗艾”线中以配角的形式出现",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/e4/21952_crt_3nkmG.jpg",
+        "link": "https://bgm.tv/character/21952",
+        "categorie": "person"
+      },
+      {
+        "id": "50702",
+        "label": "日名明日香",
+        "info": "雄介的妹妹，就读绫园学院三年级，是个超级路痴+机械白痴，在雄介过世的时候曾一度封闭自己的心灵，但在春人和修司的帮助下总算是打开了自己封闭的内心，并认定救了自己的人是春人，自此开始喜欢上了春人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/81/50702_crt_44ELL.jpg?r=1486967104",
+        "link": "https://bgm.tv/character/50702",
+        "categorie": "person"
+      },
+      {
+        "id": "36848",
+        "label": "观岛香月",
+        "info": "KID社出品的恋爱游戏《Memories Off #5 とぎれたフィルム》 （秋之回忆5中断的胶片）中的女主人公，《Memories Off #5 Encore》(秋之回忆5安可)中以配角的形式出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/84/36848_crt_6F2g3.jpg",
+        "link": "https://bgm.tv/character/36848",
+        "categorie": "person"
+      },
+      {
+        "id": "50758",
+        "label": "小津修司",
+        "info": "千羽谷大学理学部2年生。一眼看去很容易错看成女生的外表下隐藏着一棵坚强的心。喜欢把重要的事挂在嘴边，虽然看上去不起眼但确实存在潜在的才能。很喜欢明日香，为了她的话，什么都愿意去做……",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/0e/50758_crt_LOzz9.jpg?r=1485845577",
+        "link": "https://bgm.tv/character/50758",
+        "categorie": "person"
+      },
+      {
+        "id": "50703",
+        "label": "早蕨美海",
+        "info": "绫园学院高中3年级生、明日香的朋友，同时也是春人的表妹。非常怕生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/bf/50703_crt_Cijci.jpg?r=1485772433",
+        "link": "https://bgm.tv/character/50703",
+        "categorie": "person"
+      },
+      {
+        "id": "50704",
+        "label": "雨宫瑞穗",
+        "info": "汉堡连锁店的经理人，貌似很和善，但有时却能说出很苛刻的话来，个性捉摸不定。有时感觉像个成熟的大人，有时却总要寻找借口推卸责任，给人的感觉是个不可思议的御姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/ed/50704_crt_9cfoG.jpg?r=1485772616",
+        "link": "https://bgm.tv/character/50704",
+        "categorie": "person"
+      },
+      {
+        "id": "50757",
+        "label": "日名雄介",
+        "info": "已故之人，春人的童年好友，明日香的哥哥，在电影方面拥有优秀的才能，是CUM研的中心人物。雄介和春人从小就在一起玩耍，两人的感情就好似亲兄弟一般。雄介和春人拥有一个共同的梦想，就是两人一起拍摄出能给人类带来幸福的电影。雄介相信“只要一直抱有梦想，心愿终有实现之时”。遇见麻寻以后，雄介终于完成了长篇剧本《光之阶梯》......",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/d7/50757_crt_255oZ.jpg?r=1487355978",
+        "link": "https://bgm.tv/character/50757",
+        "categorie": "person"
+      },
+      {
+        "id": "14782",
+        "label": "稻穗信",
+        "info": "年龄：23岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/de/14782_crt_3n9SM.jpg?r=1485872045",
+        "link": "https://bgm.tv/character/14782",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

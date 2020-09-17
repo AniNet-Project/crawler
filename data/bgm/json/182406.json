@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25997",
+        "label": "神木世海",
+        "info": "聖鳳学園中等部２年に転入してきた少年で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/27/25997_crt_P9Jyp.jpg?r=1420415588",
+        "link": "https://bgm.tv/character/25997",
+        "categorie": "person"
+      },
+      {
+        "id": "25998",
+        "label": "高坂佑马",
+        "info": "聖鳳学園中等部２年で、コウサカ・チナの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/cf/25998_crt_CbxsQ.jpg?r=1420415601",
+        "link": "https://bgm.tv/character/25998",
+        "categorie": "person"
+      },
+      {
+        "id": "25999",
+        "label": "星野文奈",
+        "info": "聖鳳学園中等部３年。ガンダムとガンプラを",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/47/25999_crt_TOhoz.jpg?r=1420415548",
+        "link": "https://bgm.tv/character/25999",
+        "categorie": "person"
+      },
+      {
+        "id": "26000",
+        "label": "神木未来",
+        "info": "聖鳳学園高等部２年で、セカイの姉。眉目秀麗で、ファッション誌の読者モデルをつとめるほど。ガンプラバトルにのめり込んでいく弟を、あたたかい目で見守る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/85/26000_crt_9iXLb.jpg",
+        "link": "https://bgm.tv/character/26000",
+        "categorie": "person"
+      },
+      {
+        "id": "43299",
+        "label": "佐崎薰子",
+        "info": "聖オデッサ学園、チーム『北宋（ほくそう）の壺』のエース。ギャン系統のガンプラを好んで使用することから『ギャン子』の通称で呼ばれる。前シリーズに登場したサザキ・ススムの実妹で、兄から『盾魂』を色濃く受け継いでいる。フミナとは、良きライバル関係にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/18/43299_crt_KOshL.jpg",
+        "link": "https://bgm.tv/character/43299",
+        "categorie": "person"
+      },
+      {
+        "id": "29047",
+        "label": "木岛 西亚",
+        "info": "私立敢达模型学园队长木岛威弗里德的妹妹，",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/fc/29047_crt_U8xnX.jpg",
+        "link": "https://bgm.tv/character/29047",
+        "categorie": "person"
+      },
+      {
+        "id": "28746",
+        "label": "坂井湊",
+        "info": "大阪生まれ、大阪育ちの中学生ビルダーで、ガンプラ心形流の門下生。関東で名を馳せたビルダー、コウサカ・ユウマをライバル視している。好きな飲み物はレイコー（アイスコーヒー）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/47/28746_crt_2zK2H.jpg",
+        "link": "https://bgm.tv/character/28746",
+        "categorie": "person"
+      },
+      {
+        "id": "44754",
+        "label": "少女",
+        "info": "南の島でセカイたちの前に現れた少女。ガンプラを欲しており、カミキバーニングガンダムを手に入れようとして、セカイを困惑させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/5b/44754_crt_ISPY6.jpg",
+        "link": "https://bgm.tv/character/44754",
+        "categorie": "person"
+      },
+      {
+        "id": "48501",
+        "label": "尼尔斯·尼尔森",
+        "info": "アーリージーニアスの異名を持つ、天才理学少年。ガンプラバトル選手権は初参加ながら、その驚異的な頭脳を駆使して作り上げた「戦国アストレイ頑駄無」で、世界大会出場を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/14/48501_crt_vTMsn.jpg",
+        "link": "https://bgm.tv/character/48501",
+        "categorie": "person"
+      },
+      {
+        "id": "22545",
+        "label": "艾拉·尤姬艾涅",
+        "info": "来自芬兰的女选手，高达模型小队“复仇女神（Nemesis）”的首席斗士。出生于Flana机关，被称为人类中最强的斗士。没有制作高达模型的经验，也没有高达相关知识，然而却持有能够弥补这些欠缺的操纵技术。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/34/22545_crt_O84DI.jpg",
+        "link": "https://bgm.tv/character/22545",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

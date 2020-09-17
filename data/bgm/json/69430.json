@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31041",
+        "label": "吉住冬乃",
+        "info": "典型的な和風娘。 思い込みが激しいところがあり、 考え込みすぎで悩んだり泣いたりしてしまう。 一端こうと決めた事に対しては、 周りの言うことが耳に入らなったりするが、 「大好きなお兄さま」 である主人公の言うことだけは 素直に聞き入れる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/84/31041_crt_4ptmy.jpg",
+        "link": "https://bgm.tv/character/31041",
+        "categorie": "person"
+      },
+      {
+        "id": "31033",
+        "label": "吉住麻由夏",
+        "info": "ちょっと高飛車で傲慢。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/44/31033_crt_fxLf1.jpg",
+        "link": "https://bgm.tv/character/31033",
+        "categorie": "person"
+      },
+      {
+        "id": "31042",
+        "label": "倉橋春瑠",
+        "info": "主人公のクラスメートである「倉橋美織」の妹で、 現在病気で入院中。 一見、人見知りでおとなしい印象だが、 慣れてくると途端に甘えてきたり、 突然わがままを言い出したりして、 相手の反応を楽しむような所があったりする。 ある事件をきっかけに主人公の事を、 「おニイ（兄）」と慕うようになる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/fc/31042_crt_63cc3.jpg",
+        "link": "https://bgm.tv/character/31042",
+        "categorie": "person"
+      },
+      {
+        "id": "31043",
+        "label": "种村秋帆",
+        "info": "何でも力ワザで解決しようとし、 頭を使うことは大の苦手。 食欲も旺盛で、あればあるだけ飯を食べる。 スポーツや体を動かすことが大好きだが、 室内でやるようなゲームなどの遊びは大嫌い。 非常にパワフルで、軽くこづいたつもりでも、 こづかれた方は目を回すこともしばしば。 実は記憶を失っており「自分は吉住家の隠し子」 という事以外は全く思い出せない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/9b/31043_crt_npjCS.jpg",
+        "link": "https://bgm.tv/character/31043",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

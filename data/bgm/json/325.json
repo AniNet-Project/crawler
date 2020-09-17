@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9074",
+        "label": "结",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/8e/9074_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9074",
+        "categorie": "person"
+      },
+      {
+        "id": "9157",
+        "label": "草野",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/42/9157_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9157",
+        "categorie": "person"
+      },
+      {
+        "id": "48912",
+        "label": "佐桥皆人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/83/48912_crt_H1zl9.jpg",
+        "link": "https://bgm.tv/character/48912",
+        "categorie": "person"
+      },
+      {
+        "id": "9155",
+        "label": "篝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/c6/9155_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9155",
+        "categorie": "person"
+      },
+      {
+        "id": "9156",
+        "label": "鈿女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/fa/9156_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9156",
+        "categorie": "person"
+      },
+      {
+        "id": "9181",
+        "label": "風花",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/21/9181_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9181",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

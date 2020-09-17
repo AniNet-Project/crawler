@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66217",
+        "label": "大鸟居明日香",
+        "info": "魔法少女“破裂☆明日香”。在3年前的迪斯托尼亚战争中获胜，存活下来的“传说的五人（Magical Five）”中的一人。在近距离魔法战斗中发挥出无与伦比的强大。在战争中心灵产生创伤，主动与暴力行为保持着距离。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/e1/66217_crt_Pd2HK.jpg?r=1548154908",
+        "link": "https://bgm.tv/character/66217",
+        "categorie": "person"
+      },
+      {
+        "id": "66218",
+        "label": "梦源胡桃",
+        "info": "魔法少女“战争护士☆胡桃”。在3年前的迪斯托尼亚战争中获胜，存活下来的“传说的五人（Magical Five）”中的一人。明日香的好友，很崇拜明日香。负责魔法少女的医疗、审问、拷问。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/d0/66218_crt_Pz1yb.jpg?r=1548154946",
+        "link": "https://bgm.tv/character/66218",
+        "categorie": "person"
+      },
+      {
+        "id": "67079",
+        "label": "米娅·赛勒斯",
+        "info": "魔法少女“正义防御☆米娅”。在3年前的迪斯托尼亚战争中获胜，存活下来的“传说的五人（Magical Five）”中的一人。擅长枪击战。隶属于美军统合特殊作战军。具有强势且毫不犹豫的性格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/10/67079_crt_6Na9J.jpg?r=1548938788",
+        "link": "https://bgm.tv/character/67079",
+        "categorie": "person"
+      },
+      {
+        "id": "67080",
+        "label": "与那岭千里",
+        "info": "眼神阴暗空虚的冲绳少女。因交通事故而失去了母亲以及自己的右腿。曾经练习过空手道，但这一梦想也就此破灭，现在依靠轮椅生活。平常受到父亲的虐待。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/d7/67080_crt_0L5Xk.jpg?r=1550737716",
+        "link": "https://bgm.tv/character/67080",
+        "categorie": "person"
+      },
+      {
+        "id": "67081",
+        "label": "牧野希美",
+        "info": "明日香和胡桃的同班同学。干劲十足的田径部的少女。经常和同班同学纱绫子一起。她是第一个主动向班里被孤立的明日香搭话的。父亲在公安的外事情报部工作。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/fe/67081_crt_y7t66.jpg?r=1550737647",
+        "link": "https://bgm.tv/character/67081",
+        "categorie": "person"
+      },
+      {
+        "id": "67082",
+        "label": "羽田纱绫子",
+        "info": "明日香的同班同学。个性胆小而内向。憧憬着为人类而战斗的魔法少女。文艺部所属的书虫。和同班同学希美的关系非常好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/e1/67082_crt_Jp1j2.jpg?r=1551275653",
+        "link": "https://bgm.tv/character/67082",
+        "categorie": "person"
+      },
+      {
+        "id": "68135",
+        "label": "刘佩佩",
+        "info": "魔法少女“双头龙☆刘佩佩”。在3年前的迪斯托尼亚战争中获胜，存活下来的“传说的五人（Magical Five）”中的一人。擅长使用魔法双节棍进行格斗战。战后行踪不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/51/68135_crt_ZvTeH.jpg?r=1551366479",
+        "link": "https://bgm.tv/character/68135",
+        "categorie": "person"
+      },
+      {
+        "id": "68136",
+        "label": "塔玛拉·波尔科娃",
+        "info": "魔法少女“不死鸟☆塔玛拉”。在3年前的迪斯托尼亚战争中获胜，存活下来的“传说的五人（Magical Five）”中的一人。隶属于俄罗斯军队。举止冷淡，但面对可爱的东西时也会舒缓面容。战斗中擅长使用火焰魔法。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/25/68136_crt_q6X7V.jpg?r=1551638569",
+        "link": "https://bgm.tv/character/68136",
+        "categorie": "person"
+      },
+      {
+        "id": "68303",
+        "label": "萨曲",
+        "info": "精霊環境条約機構から派遣された、ネズミ型の魔法少女分隊支援情報統合ユニット人工生命型妖精。あすか達魔法少女へ分析を中心としたサポートする。喋る際には語尾がかならず「チュー」となる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/40/68303_crt_IViUn.jpg",
+        "link": "https://bgm.tv/character/68303",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

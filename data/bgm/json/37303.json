@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "16373",
+        "label": "浜路",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/35/16373_crt_DDDhx.jpg",
+        "link": "https://bgm.tv/character/16373",
+        "categorie": "person"
+      },
+      {
+        "id": "16374",
+        "label": "信乃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/70/16374_crt_DR9Au.jpg?r=1446634979",
+        "link": "https://bgm.tv/character/16374",
+        "categorie": "person"
+      },
+      {
+        "id": "16375",
+        "label": "冥土",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/aa/16375_crt_57q7d.jpg",
+        "link": "https://bgm.tv/character/16375",
+        "categorie": "person"
+      },
+      {
+        "id": "16376",
+        "label": "道節",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/05/16376_crt_MTWsF.jpg",
+        "link": "https://bgm.tv/character/16376",
+        "categorie": "person"
+      },
+      {
+        "id": "16377",
+        "label": "船虫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/4d/16377_crt_V642K.jpg",
+        "link": "https://bgm.tv/character/16377",
+        "categorie": "person"
+      },
+      {
+        "id": "16378",
+        "label": "马加",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/ab/16378_crt_KzLP8.jpg",
+        "link": "https://bgm.tv/character/16378",
+        "categorie": "person"
+      },
+      {
+        "id": "16379",
+        "label": "徳川家定",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/ea/16379_crt_w9Z0A.jpg",
+        "link": "https://bgm.tv/character/16379",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

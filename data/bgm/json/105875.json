@@ -1,0 +1,357 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25997",
+        "label": "神木世海",
+        "info": "聖鳳学園中等部２年に転入してきた少年で、",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/27/25997_crt_P9Jyp.jpg?r=1420415588",
+        "link": "https://bgm.tv/character/25997",
+        "categorie": "person"
+      },
+      {
+        "id": "25998",
+        "label": "高坂佑马",
+        "info": "聖鳳学園中等部２年で、コウサカ・チナの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/cf/25998_crt_CbxsQ.jpg?r=1420415601",
+        "link": "https://bgm.tv/character/25998",
+        "categorie": "person"
+      },
+      {
+        "id": "25999",
+        "label": "星野文奈",
+        "info": "聖鳳学園中等部３年。ガンダムとガンプラを",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/47/25999_crt_TOhoz.jpg?r=1420415548",
+        "link": "https://bgm.tv/character/25999",
+        "categorie": "person"
+      },
+      {
+        "id": "21848",
+        "label": "拉尔先生",
+        "info": "伊织模型店的常客，非常喜欢机动战士，特别是老虎。本名、家族、职业不明，经常被周嘈的人称为上尉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/e7/21848_crt_TtUki.jpg",
+        "link": "https://bgm.tv/character/21848",
+        "categorie": "person"
+      },
+      {
+        "id": "26000",
+        "label": "神木未来",
+        "info": "聖鳳学園高等部２年で、セカイの姉。眉目秀麗で、ファッション誌の読者モデルをつとめるほど。ガンプラバトルにのめり込んでいく弟を、あたたかい目で見守る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/85/26000_crt_9iXLb.jpg",
+        "link": "https://bgm.tv/character/26000",
+        "categorie": "person"
+      },
+      {
+        "id": "28746",
+        "label": "坂井湊",
+        "info": "大阪生まれ、大阪育ちの中学生ビルダーで、ガンプラ心形流の門下生。関東で名を馳せたビルダー、コウサカ・ユウマをライバル視している。好きな飲み物はレイコー（アイスコーヒー）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/47/28746_crt_2zK2H.jpg",
+        "link": "https://bgm.tv/character/28746",
+        "categorie": "person"
+      },
+      {
+        "id": "29047",
+        "label": "木岛 西亚",
+        "info": "私立敢达模型学园队长木岛威弗里德的妹妹，",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/fc/29047_crt_U8xnX.jpg",
+        "link": "https://bgm.tv/character/29047",
+        "categorie": "person"
+      },
+      {
+        "id": "31245",
+        "label": "井濑纯也",
+        "info": "次元覇王流拳法の使い手で、かつてセカイと共に師匠の元で修行をした、兄弟子とも呼べる存在。宮城県代表、天山学園、チーム『タイタン』のメンバーで、その実力は、ガンプラ学園も一目置くほど。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/7e/31245_crt_Vd9E1.jpg",
+        "link": "https://bgm.tv/character/31245",
+        "categorie": "person"
+      },
+      {
+        "id": "43299",
+        "label": "佐崎薰子",
+        "info": "聖オデッサ学園、チーム『北宋（ほくそう）の壺』のエース。ギャン系統のガンプラを好んで使用することから『ギャン子』の通称で呼ばれる。前シリーズに登場したサザキ・ススムの実妹で、兄から『盾魂』を色濃く受け継いでいる。フミナとは、良きライバル関係にある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/18/43299_crt_KOshL.jpg",
+        "link": "https://bgm.tv/character/43299",
+        "categorie": "person"
+      },
+      {
+        "id": "48500",
+        "label": "亚伦·亚当斯",
+        "info": "プラフスキー粒子発生システムを一社独占するＰＰＳＥ社……その、ＰＰＳＥ・ガンプラワークス部門に所属する若きエンジニア。ガンプラビルダーとして、世界でもトップレベルの実力を誇る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/ec/48500_crt_VSaPk.jpg",
+        "link": "https://bgm.tv/character/48500",
+        "categorie": "person"
+      },
+      {
+        "id": "48501",
+        "label": "尼尔斯·尼尔森",
+        "info": "アーリージーニアスの異名を持つ、天才理学少年。ガンプラバトル選手権は初参加ながら、その驚異的な頭脳を駆使して作り上げた「戦国アストレイ頑駄無」で、世界大会出場を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/14/48501_crt_vTMsn.jpg",
+        "link": "https://bgm.tv/character/48501",
+        "categorie": "person"
+      },
+      {
+        "id": "48518",
+        "label": "宫贺大树",
+        "info": "聖鳳学園高等部３年で、プラモデル部の部長。ガンプラバトル部からホシノ・フミナを引き抜こうと画策する。別名、カマキリ男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/ec/48518_crt_iQGFT.jpg",
+        "link": "https://bgm.tv/character/48518",
+        "categorie": "person"
+      },
+      {
+        "id": "48519",
+        "label": "篠田绘里",
+        "info": "聖鳳学園高等部２年で、プラモデル部の副部長。部長のミヤガに心酔しており、彼のサポートとして献身的な振る舞いをする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/74/48519_crt_ssW11.jpg",
+        "link": "https://bgm.tv/character/48519",
+        "categorie": "person"
+      },
+      {
+        "id": "48521",
+        "label": "佐野启子",
+        "info": "聖オデッサ学園の生徒で、チーム、『北宋（ほくそう）の壺』のメンバー。インターネットをすることが趣味で、言動にネット・スラングを多用してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/ed/48521_crt_UScHH.jpg",
+        "link": "https://bgm.tv/character/48521",
+        "categorie": "person"
+      },
+      {
+        "id": "48522",
+        "label": "拓",
+        "info": "人気絶大なアイドル系ロックバンド、『３代目スゴック』のリーダーで、ボーカル兼リードギターを担当。有名人なら何をしても許されると思っている、残念なイケメン。座右の銘は、色恋は芸の肥やし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/b7/48522_crt_UTx1m.jpg",
+        "link": "https://bgm.tv/character/48522",
+        "categorie": "person"
+      },
+      {
+        "id": "48523",
+        "label": "川口小姐",
+        "info": "ガンプラファンのカリスマ、カワグチの名を受け継いだ女性。将棋や囲碁の世界でいう、女流名人。ホシノ・フミナが、幼い頃に会った少女と似ているらしいが、本人は否定している。理由＝歳がバレるから。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/30/48523_crt_8w6u1.jpg",
+        "link": "https://bgm.tv/character/48523",
+        "categorie": "person"
+      },
+      {
+        "id": "48524",
+        "label": "石桥大吾",
+        "info": "成練高専、科学部の部長で、チームのエース。商船学科の期待の星と呼ばれており、外洋船舶実習で学んだ豊富な経験と鍛え上げた肉体で、全国大会出場を目指す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/e4/48524_crt_00Y6R.jpg",
+        "link": "https://bgm.tv/character/48524",
+        "categorie": "person"
+      },
+      {
+        "id": "48525",
+        "label": "西川翔太",
+        "info": "成練高専、科学部のメンバー。機械、電子工学に精通しており、ガンプラの改造や新規武装の開発等を一手に担っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/7e/48525_crt_lHkuV.jpg",
+        "link": "https://bgm.tv/character/48525",
+        "categorie": "person"
+      },
+      {
+        "id": "48526",
+        "label": "冈本幸雄",
+        "info": "成練高専、科学部のメンバー。情報工学科で学んだ知識を駆使し、対戦相手の情報収集を得意とする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/84/48526_crt_S0PQq.jpg",
+        "link": "https://bgm.tv/character/48526",
+        "categorie": "person"
+      },
+      {
+        "id": "48527",
+        "label": "须藤俊介",
+        "info": "去年の西東京予選で優勝した宮里学院、チーム【Ｇマスター】のリーダー。ガンダム作品とガンプラを愛し、その言動もガンダム作品の軍人風。浪速の凄腕ビルダー、サカイ・ミナトとは旧知の仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/f1/48527_crt_ogADA.jpg",
+        "link": "https://bgm.tv/character/48527",
+        "categorie": "person"
+      },
+      {
+        "id": "48528",
+        "label": "阪下夜未",
+        "info": "宮里学院、チーム【Ｇマスター】の紅一点で、ファイターとしての実力も高い。いつもツンツンしているが、ごくたまにデレる。好きな男性のタイプは、イケメンより男前。",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/68/48528_crt_11fna.jpg",
+        "link": "https://bgm.tv/character/48528",
+        "categorie": "person"
+      },
+      {
+        "id": "48529",
+        "label": "靖惠田",
+        "info": "宮里学院、チーム【Ｇマスター】の最年少メンバー。ガンプラのうんちくに詳しく、ガシャポン戦士を（現時点で）オール・コンプリートしている強者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/15/48529_crt_01Fzz.jpg",
+        "link": "https://bgm.tv/character/48529",
+        "categorie": "person"
+      },
+      {
+        "id": "48530",
+        "label": "须贺明",
+        "info": "チーム【Ｇマスター】がいる宮里学院に、突如として転属（転入）してきたガンプラ・ファイター。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/c7/48530_crt_373Df.jpg",
+        "link": "https://bgm.tv/character/48530",
+        "categorie": "person"
+      },
+      {
+        "id": "48531",
+        "label": "饭纲西门",
+        "info": "大会初出場となる常冬中学、プラモデル部のエース。ボクシングの中学生チャンピオンであった彼が、ボクサーを辞め、ガンプラバトルを始めたのには、ある理由が……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/ae/48531_crt_XV8P0.jpg",
+        "link": "https://bgm.tv/character/48531",
+        "categorie": "person"
+      },
+      {
+        "id": "48532",
+        "label": "益田悟郎",
+        "info": "常冬中学のチーム・メンバー。ボクシング部時代から慕っていたイズナ・シモンのために、ガンプラバトルに参加する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/56/48532_crt_VpZt2.jpg",
+        "link": "https://bgm.tv/character/48532",
+        "categorie": "person"
+      },
+      {
+        "id": "48533",
+        "label": "谷冈浩二",
+        "info": "常冬中学のチーム・メンバー。ゴロウと同じくガンプラの知識はないが、イズナ・シモンのために選手権参加を決意する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/6f/48533_crt_b165V.jpg",
+        "link": "https://bgm.tv/character/48533",
+        "categorie": "person"
+      },
+      {
+        "id": "48534",
+        "label": "饭纲守",
+        "info": "イズナ・シモンの実弟で、兄たちが使用するガンプラを提供している。ビルダーとしての製作能力はまだまだ未熟だが、ガンプラに対する情熱は高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/83/48534_crt_c31g3.jpg",
+        "link": "https://bgm.tv/character/48534",
+        "categorie": "person"
+      },
+      {
+        "id": "48535",
+        "label": "木岛威弗里德",
+        "info": "全日本ガンプラバトル選手権、中高生の部で、全国優勝６連覇をなし遂げている、私立ガンプラ学園のエース・ファイター。その卓越したプラモ製作能力と操縦技術で、公式戦では無敗。その記録は、現在も継続中である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/a5/48535_crt_cVCvd.jpg",
+        "link": "https://bgm.tv/character/48535",
+        "categorie": "person"
+      },
+      {
+        "id": "48536",
+        "label": "阿藤佐贺",
+        "info": "私立ガンプラ学園のレギュラー・メンバー。対戦相手を完膚無きまでに打ち倒すことから、『デッド・エンドのサガ』と呼ばれている。小学時代のユウマと対戦し、彼をガンプラバトルから遠ざけることとなった張本人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/51/48536_crt_3LZ8g.jpg",
+        "link": "https://bgm.tv/character/48536",
+        "categorie": "person"
+      },
+      {
+        "id": "48537",
+        "label": "松永健胜",
+        "info": "４年連続で、全日本ガンプラバトル選手権、全国大会への出場を果たしている強豪、鹿児島県代表、我梅学院、チーム『ホワイトウルフ』のリーダー。血の気の多い仲間たちをまとめ上げる器量を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/d8/48537_crt_Bk0yY.jpg",
+        "link": "https://bgm.tv/character/48537",
+        "categorie": "person"
+      },
+      {
+        "id": "48538",
+        "label": "古桥实",
+        "info": "鹿児島県代表、我梅学院、チーム『ホワイトウルフ』のレギュラー。４大会連続で全国出場を果たしているためか、その言動の端々に傲慢さがにじみ出ている。しかし、ファイターとしての実力は本物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/3c/48538_crt_SF333.jpg",
+        "link": "https://bgm.tv/character/48538",
+        "categorie": "person"
+      },
+      {
+        "id": "48539",
+        "label": "涡木芳树",
+        "info": "鹿児島県代表、我梅学院、チーム『ホワイトウルフ』のレギュラー。不遜な態度とは裏腹に、チーム・フォーメーションや連携攻撃に精通したバトル巧者。打倒ガンプラ学園に闘志を燃やしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/da/48539_crt_NxtD8.jpg",
+        "link": "https://bgm.tv/character/48539",
+        "categorie": "person"
+      },
+      {
+        "id": "48540",
+        "label": "狩真启",
+        "info": "全日本ガンプラバトル選手権、神奈川県代表、本牧学園、チーム『グレート・Ｋ』のリーダーで、全国大会の常連。大型モビルアーマーを製作、その圧倒的な火力で相手を殲滅する戦いを好む。ちなみに、本人は軽め。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d7/48540_crt_TB66w.jpg",
+        "link": "https://bgm.tv/character/48540",
+        "categorie": "person"
+      },
+      {
+        "id": "48541",
+        "label": "志木彻",
+        "info": "新潟県代表、統立学園、チーム『ＳＤ−Ｒ』のリーダーで、シキ３兄弟の長男。兄弟の中で、最もビルダー能力が高い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/d8/48541_crt_mNf14.jpg",
+        "link": "https://bgm.tv/character/48541",
+        "categorie": "person"
+      },
+      {
+        "id": "48542",
+        "label": "志木信哉",
+        "info": "統立学園、チーム『ＳＤ−Ｒ』のメンバーで、シキ３兄弟の次男。血気盛んな一面を持つ、チームのムードメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/d2/48542_crt_5jtNz.jpg",
+        "link": "https://bgm.tv/character/48542",
+        "categorie": "person"
+      },
+      {
+        "id": "48543",
+        "label": "志木和哉",
+        "info": "統立学園、チーム『ＳＤ−Ｒ』のメンバーで、シキ３兄弟の三男。冷静沈着で、情報分析能力に長けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/69/48543_crt_3UMBB.jpg",
+        "link": "https://bgm.tv/character/48543",
+        "categorie": "person"
+      },
+      {
+        "id": "48544",
+        "label": "卢卡斯·涅墨西斯",
+        "info": "フィンランドのガンプラチーム、ネメシスの会長の孫で、同チームの最年少専属ファイター。３年連続で、ヨーロッパ・ジュニア・チャンピオンに輝く。留学先の徳島代表、私立グラナダ学園の選手として全日本ガンプラバトル選手権に出場する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/8a/48544_crt_g3h9o.jpg",
+        "link": "https://bgm.tv/character/48544",
+        "categorie": "person"
+      },
+      {
+        "id": "48546",
+        "label": "佐藤晴人",
+        "info": "天大寺学園、チーム『ビルドバスターズ』のメンバー。短気で皮肉屋だが、情には厚い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/43/48546_crt_DwYMG.jpg",
+        "link": "https://bgm.tv/character/48546",
+        "categorie": "person"
+      },
+      {
+        "id": "48547",
+        "label": "小寺政己",
+        "info": "天大寺学園、チーム『ビルドバスターズ』のメンバー。自ら補欠になることで、サカイ・ミナトをレギュラーに推薦する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/0b/48547_crt_t2dWO.jpg",
+        "link": "https://bgm.tv/character/48547",
+        "categorie": "person"
+      },
+      {
+        "id": "48520",
+        "label": "时雨真昼",
+        "info": "聖オデッサ学園の生徒で、チーム、『北宋（ほくそう）の壺』のメンバー。幼稚園の頃から女子校育ちで、そのせいか、男の子に過剰な期待（妄想？）を抱いている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/04/48520_crt_Nmn5A.jpg",
+        "link": "https://bgm.tv/character/48520",
+        "categorie": "person"
+      },
+      {
+        "id": "48545",
+        "label": "伊坂秀夫",
+        "info": "大阪府代表、天大寺学園、チーム『ビルドバスターズ』のリーダー。プラモデル部の部長で、しっかり者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/54/48545_crt_NzH9B.jpg",
+        "link": "https://bgm.tv/character/48545",
+        "categorie": "person"
+      },
+      {
+        "id": "21839",
+        "label": "高坂千奈",
+        "info": "私立圣凤学园中等部1年级生，班长兼美术部会员。老家为“高坂”餐厅。 受到热衷于制作高达模型的伊织诚感染，逐渐对高达模型战斗产生兴趣。个性谨慎而理性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/d7/21839_crt_7kzk9.jpg",
+        "link": "https://bgm.tv/character/21839",
+        "categorie": "person"
+      },
+      {
+        "id": "21840",
+        "label": "结城达也",
+        "info": "私立圣凤学园高等部3年级生，兼任学生会长及模型部会长的学园偶像。拥有优秀的高达模型制作能力以及对战的操纵技术，在上届高达模型对战锦标赛 的世界大赛中出赛，是一位有经验的实力派玩家。 别名“赤色彗星”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/17/21840_crt_aGyTP.jpg",
+        "link": "https://bgm.tv/character/21840",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

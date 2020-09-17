@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14742",
+        "label": "真中合欢",
+        "info": "性格反复无常，具有蛊惑性的令人难以理解的少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/8b/14742_crt_Zr2nc.jpg",
+        "link": "https://bgm.tv/character/14742",
+        "categorie": "person"
+      },
+      {
+        "id": "14743",
+        "label": "帆刈叶",
+        "info": "善良且坚强的青梅竹马",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/1a/14743_crt_EVWKx.jpg",
+        "link": "https://bgm.tv/character/14743",
+        "categorie": "person"
+      },
+      {
+        "id": "14744",
+        "label": "白夜凛音",
+        "info": "重视纪律、无口无表情的少女",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/47/14744_crt_Sod5P.jpg",
+        "link": "https://bgm.tv/character/14744",
+        "categorie": "person"
+      },
+      {
+        "id": "14748",
+        "label": "高远惠辅",
+        "info": "正义感十足，开朗坚强的少年",
+        "image": "https://lain.bgm.tv/pic/crt/m/73/08/14748_crt_85Uiu.jpg",
+        "link": "https://bgm.tv/character/14748",
+        "categorie": "person"
+      },
+      {
+        "id": "14746",
+        "label": "葵菜月",
+        "info": "性格大方温柔的受欢迎的老师",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/7f/14746_crt_ZlsTk.jpg",
+        "link": "https://bgm.tv/character/14746",
+        "categorie": "person"
+      },
+      {
+        "id": "14745",
+        "label": "莳羽梨香",
+        "info": "喜欢撒娇的爱哭虫后辈",
+        "image": "https://lain.bgm.tv/pic/crt/m/17/03/14745_crt_5Ewd5.jpg",
+        "link": "https://bgm.tv/character/14745",
+        "categorie": "person"
+      },
+      {
+        "id": "14747",
+        "label": "安藤都子",
+        "info": "性格死板的委员长",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/ab/14747_crt_0g1WZ.jpg",
+        "link": "https://bgm.tv/character/14747",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

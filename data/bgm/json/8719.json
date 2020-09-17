@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31216",
+        "label": "太公望",
+        "info": "座騎：四不像",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/7a/31216_crt_2hAW2.jpg?r=1426956075",
+        "link": "https://bgm.tv/character/31216",
+        "categorie": "person"
+      },
+      {
+        "id": "31220",
+        "label": "杨戬",
+        "info": "法寶：三尖刀、哮天犬、六魂幡",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/38/31220_crt_yCfQY.jpg?r=1426957251",
+        "link": "https://bgm.tv/character/31220",
+        "categorie": "person"
+      },
+      {
+        "id": "31221",
+        "label": "哪吒",
+        "info": "法寶：靈珠、乾坤圈、風火輪、混天綾、金磚、火尖槍、九龍神火罩II、金蛟剪",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/3d/31221_crt_GC3Gi.jpg?r=1426957515",
+        "link": "https://bgm.tv/character/31221",
+        "categorie": "person"
+      },
+      {
+        "id": "31222",
+        "label": "黄天化",
+        "info": "法寶：莫邪寶劍(兩把)、鑽心釘、火龍鏢、莫邪寶劍II",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/2f/31222_crt_O4q6H.jpg?r=1426957680",
+        "link": "https://bgm.tv/character/31222",
+        "categorie": "person"
+      },
+      {
+        "id": "58882",
+        "label": "四不象",
+        "info": "一見カバのようだがれっきとした霊獣。太公望の乗り物として、気のいい相棒をつとめる。最初は太公望のいい加減さにあきれていたが、次第にその苦労や心に秘めた決意を知り、尊敬するようになり、太公望のために懸命に働いている。性格はいたってお人好し。語尾に「～っス」とつけてしゃべる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/eb/58882_crt_6oEN7.jpg",
+        "link": "https://bgm.tv/character/58882",
+        "categorie": "person"
+      },
+      {
+        "id": "11944",
+        "label": "申公豹",
+        "info": "太上老君的弟子，最强的道士申公豹，拥有最强的宝贝雷公鞭以及最强的灵兽黑点虎。不属于任何一方，单纯以自己的兴趣在一旁观望着事态及历史的发展。有着自己独特的美学，且十分热衷。唯一能使他愤怒的事情就是违背了他美学的事情。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/66/11944_crt_C4rxZ.jpg",
+        "link": "https://bgm.tv/character/11944",
+        "categorie": "person"
+      },
+      {
+        "id": "31215",
+        "label": "普贤真人",
+        "info": "法寶：太極符印",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/1f/31215_crt_vDF7f.jpg?r=1426955881",
+        "link": "https://bgm.tv/character/31215",
+        "categorie": "person"
+      },
+      {
+        "id": "31218",
+        "label": "太乙真人",
+        "info": "法寶：九龍神火罩、金磚(原持有)、火尖槍(原持有)",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/0a/31218_crt_j4Dbc.jpg?r=1426956602",
+        "link": "https://bgm.tv/character/31218",
+        "categorie": "person"
+      },
+      {
+        "id": "58883",
+        "label": "黄飞虎",
+        "info": "黄家の長子で一族の中心人物。国の軍事を統括する鎮国武成王を務める。棒術の達人で仙人骨があり、大柄な体からくり出す攻撃はすさまじい。仙人にも負けない戦闘能力と、強い精神力を持つ。性格は豪放磊落で、包容力のある人柄から多くの者に慕われる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/1a/58883_crt_t0FfG.jpg",
+        "link": "https://bgm.tv/character/58883",
+        "categorie": "person"
+      },
+      {
+        "id": "58884",
+        "label": "妲己",
+        "info": "金鰲島出身の仙女で、その美貌で歴代の権力者をたぶらかし、殷以前の夏王朝の時代から人々を苦しめてきた妖狐。千年以上生き続け凄まじい力を蓄えているが、最大の武器はすばらしく切れるその頭脳。紂王を意のままにあやつり残虐な行為を繰り返している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/c2/58884_crt_dR6du.jpg",
+        "link": "https://bgm.tv/character/58884",
+        "categorie": "person"
+      },
+      {
+        "id": "58885",
+        "label": "闻仲",
+        "info": "３００年ほど前から太師として殷に仕え、政治・軍事と多方面に渡り国を支えてきた道士。金鰲島で修行を積み、妲己・趙公明と並んで三強と称される実力を持つが、人間の世界ではその力を自ら禁じている節度ある人物。歴代の王に仕えてきた殷を自分の子どものように考え、殷に敵対するものは全力で潰そうとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/cb/58885_crt_B1739.jpg",
+        "link": "https://bgm.tv/character/58885",
+        "categorie": "person"
+      },
+      {
+        "id": "58886",
+        "label": "王天君",
+        "info": "十天君の最終決定権を持つ仙人。まだまだ謎が多い人物である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/8f/58886_crt_2nnx8.jpg",
+        "link": "https://bgm.tv/character/58886",
+        "categorie": "person"
+      },
+      {
+        "id": "59301",
+        "label": "纣王",
+        "info": "殷王朝の第３０代皇帝。文武両道に長け、かつては賢君として民衆から慕われていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/dc/59301_crt_CncNI.jpg",
+        "link": "https://bgm.tv/character/59301",
+        "categorie": "person"
+      },
+      {
+        "id": "61940",
+        "label": "武吉",
+        "info": "元は西岐で木樵をしていた天然道士の少年。自称・太公望の弟子。一人称は「僕」。太公望に憧れ、行動を共にする。天然かつ、純粋で真面目な性格。視力10.0（赤外線を感知できるため暗闇でも目が利く）であり、耳がとても良い上に水の上を走ることまでできるなど、驚異的な身体能力を持っている。また感情が高ぶった時の戦闘能力は高く、趙公明を殴り飛ばしたこともある。膨大かつ意外なバイト遍歴を持ち、それによって習得した数々の技能を披露する。宝貝は使えないが、持つことはできる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/28/61940_crt_Spuk2.jpg",
+        "link": "https://bgm.tv/character/61940",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

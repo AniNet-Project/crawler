@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29174",
+        "label": "风见理沙",
+        "info": "第三章及第四章中登场，风见瞬的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/63/29174_crt_37V3B.jpg",
+        "link": "https://bgm.tv/character/29174",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

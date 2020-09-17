@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61203",
+        "label": "五十岚色叶",
+        "info": "派手でモテモテのリアル美少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/91/61203_crt_A88s8.jpg",
+        "link": "https://bgm.tv/character/61203",
+        "categorie": "person"
+      },
+      {
+        "id": "61204",
+        "label": "筒井光",
+        "info": "愛称つっつん。バーチャル大好き男子高校生。恋愛耐性ナシ。 コミュニケーション能力ゼロ。しかし、色葉と出会い…？",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/71/61204_crt_iiJ9T.jpg",
+        "link": "https://bgm.tv/character/61204",
+        "categorie": "person"
+      },
+      {
+        "id": "61205",
+        "label": "伊东悠人",
+        "info": "筒井のたった一人の友達。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/bb/61205_crt_oRjzw.jpg",
+        "link": "https://bgm.tv/character/61205",
+        "categorie": "person"
+      },
+      {
+        "id": "61206",
+        "label": "石野有纱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/67/61206_crt_01gPp.jpg",
+        "link": "https://bgm.tv/character/61206",
+        "categorie": "person"
+      },
+      {
+        "id": "61207",
+        "label": "高梨光也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/1d/61207_crt_ejZ88.jpg",
+        "link": "https://bgm.tv/character/61207",
+        "categorie": "person"
+      },
+      {
+        "id": "61208",
+        "label": "绫户纯惠",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/7a/61208_crt_8sszB.jpg",
+        "link": "https://bgm.tv/character/61208",
+        "categorie": "person"
+      },
+      {
+        "id": "62381",
+        "label": "虾夷道",
+        "info": "アニメのヒロインの魔法少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/8c/62381_crt_AgYrn.jpg?r=1522733770",
+        "link": "https://bgm.tv/character/62381",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

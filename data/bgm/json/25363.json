@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20641",
+        "label": "左方之地",
+        "info": "“神之右席”的一员。具有“神之药”（拉斐尔）的性质。“Terra”在拉丁文代表“大地”。相貌丑陋的矮个白种人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/de/20641_crt_XCgfD.jpg?r=1538901542",
+        "link": "https://bgm.tv/character/20641",
+        "categorie": "person"
+      },
+      {
+        "id": "20706",
+        "label": "骑士团长",
+        "info": "本名不明，骑士团团长。36岁的金发男子，穿着西装，个性傲慢。武器是柄长1米的处刑用斧和长剑。因为仪典剑而拥有超高的攻击与移动速度。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/d9/20706_crt_6ci62.jpg",
+        "link": "https://bgm.tv/character/20706",
+        "categorie": "person"
+      },
+      {
+        "id": "21607",
+        "label": "御坂妹妹",
+        "info": "以御坂美琴为原型的体细胞克隆体全体的统称。原本是为了超电磁炮量产计划设计，但由于能力不及正版的百分之一，该计划被废弃；之后为了一方通行的能力进化Level 6 Shift计划重新开始量产；后来学园都市高层为抹杀一方通行而开启“第三次克隆人计划”，专门制造出的新的“妹妹”，代号“番外个体”（Misaka Worst）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/45/21607_crt_83zyy.jpg",
+        "link": "https://bgm.tv/character/21607",
+        "categorie": "person"
+      },
+      {
+        "id": "21614",
+        "label": "御坂19090号",
+        "info": "和10032号等一起被冥土追魂收容的妹妹之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/8f/21614_crt_UXlHU.jpg",
+        "link": "https://bgm.tv/character/21614",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

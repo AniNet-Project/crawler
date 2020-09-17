@@ -1,0 +1,157 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "61772",
+        "label": "犬冢露壬雄",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生领袖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/14/61772_crt_bci33.jpg?r=1521015857",
+        "link": "https://bgm.tv/character/61772",
+        "categorie": "person"
+      },
+      {
+        "id": "50802",
+        "label": "朱丽叶·佩尔西亚",
+        "info": "威斯特公国专用公寓·白猫公寓的一年级学生领袖。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/f8/50802_crt_0Jgr1.jpg?r=1521016011",
+        "link": "https://bgm.tv/character/50802",
+        "categorie": "person"
+      },
+      {
+        "id": "50803",
+        "label": "狛井莲季",
+        "info": "黑犬公寓高等部一年级生，学习成绩优异，考前会专门辅导黑犬的学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/63/50803_crt_cfgUf.jpg?r=1535954312",
+        "link": "https://bgm.tv/character/50803",
+        "categorie": "person"
+      },
+      {
+        "id": "50804",
+        "label": "夏尔托琉·威斯提亚",
+        "info": "威斯特公国专用公寓·白猫公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/7e/50804_crt_q6dc9.jpg?r=1535954207",
+        "link": "https://bgm.tv/character/50804",
+        "categorie": "person"
+      },
+      {
+        "id": "51321",
+        "label": "王手李亚",
+        "info": "东和国专用公寓·黑犬公寓的监督生之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/94/51321_crt_lG77g.jpg?r=1535954960",
+        "link": "https://bgm.tv/character/51321",
+        "categorie": "person"
+      },
+      {
+        "id": "65545",
+        "label": "王胡蝶",
+        "info": "东和国专用公寓·黑犬公寓的监督生之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/fa/65545_crt_l980z.jpg?r=1534324556",
+        "link": "https://bgm.tv/character/65545",
+        "categorie": "person"
+      },
+      {
+        "id": "65546",
+        "label": "丸流千鹤",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a7/65546_crt_KyfFm.jpg?r=1534324891",
+        "link": "https://bgm.tv/character/65546",
+        "categorie": "person"
+      },
+      {
+        "id": "65547",
+        "label": "斯科特·佛尔德",
+        "info": "白猫公寓高等部一年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/c3/65547_crt_r6Rhm.jpg?r=1534325079",
+        "link": "https://bgm.tv/character/65547",
+        "categorie": "person"
+      },
+      {
+        "id": "65876",
+        "label": "土佐健斗",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/53/65876_crt_5qx1x.jpg?r=1535953523",
+        "link": "https://bgm.tv/character/65876",
+        "categorie": "person"
+      },
+      {
+        "id": "65877",
+        "label": "古羊英悟",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/c3/65877_crt_vnE7K.jpg?r=1535954003",
+        "link": "https://bgm.tv/character/65877",
+        "categorie": "person"
+      },
+      {
+        "id": "65878",
+        "label": "阿比·希尼亚",
+        "info": "威斯特公国专用公寓·白猫公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/80/65878_crt_7tSk2.jpg?r=1535954732",
+        "link": "https://bgm.tv/character/65878",
+        "categorie": "person"
+      },
+      {
+        "id": "65879",
+        "label": "索玛里·朗格海尔德",
+        "info": "威斯特公国专用公寓·白猫公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/2e/65879_crt_aL1xA.jpg?r=1535955504",
+        "link": "https://bgm.tv/character/65879",
+        "categorie": "person"
+      },
+      {
+        "id": "65880",
+        "label": "凯特·西",
+        "info": "威斯特公国专用公寓·白猫公寓的二年级学生，监督生代表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/01/65880_crt_PkRwK.jpg?r=1535955831",
+        "link": "https://bgm.tv/character/65880",
+        "categorie": "person"
+      },
+      {
+        "id": "65881",
+        "label": "安·赛贝尔",
+        "info": "威斯特公国专用公寓·白猫公寓的二年级学生，监督生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/9e/65881_crt_2IIWe.jpg?r=1535956245",
+        "link": "https://bgm.tv/character/65881",
+        "categorie": "person"
+      },
+      {
+        "id": "65882",
+        "label": "杰尼·雷克斯",
+        "info": "威斯特公国专用公寓·白猫公寓的二年级学生，监督生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/c0/65882_crt_y5hrD.jpg?r=1535956595",
+        "link": "https://bgm.tv/character/65882",
+        "categorie": "person"
+      },
+      {
+        "id": "65994",
+        "label": "狮子静香",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/be/65994_crt_HOPEf.jpg?r=1536567303",
+        "link": "https://bgm.tv/character/65994",
+        "categorie": "person"
+      },
+      {
+        "id": "65995",
+        "label": "步米良仁爱",
+        "info": "东和国专用公寓·黑犬公寓的一年级学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/67/65995_crt_pngu3.jpg?r=1536567418",
+        "link": "https://bgm.tv/character/65995",
+        "categorie": "person"
+      },
+      {
+        "id": "65997",
+        "label": "犬冢蓝瑠",
+        "info": "东和国专用公寓·黑犬公寓的二年级学生，监督生代表。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/cf/65997_crt_Q4v3v.jpg?r=1536567532",
+        "link": "https://bgm.tv/character/65997",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

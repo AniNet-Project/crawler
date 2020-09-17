@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "17731",
+        "label": "川内洲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/06/17731_crt_R8873.jpg",
+        "link": "https://bgm.tv/character/17731",
+        "categorie": "person"
+      },
+      {
+        "id": "17733",
+        "label": "イサキ",
+        "info": "人鱼。年龄不详。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/eb/17733_crt_svSDd.jpg",
+        "link": "https://bgm.tv/character/17733",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

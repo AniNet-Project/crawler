@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33623",
+        "label": "JOKER",
+        "info": "CODE NAME:JOKER",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/06/33623_crt_q8a3N.jpg?r=1462456887",
+        "link": "https://bgm.tv/character/33623",
+        "categorie": "person"
+      },
+      {
+        "id": "35591",
+        "label": "坂本龙司",
+        "info": "Arcana【VII - 战车】",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/9c/35591_crt_BZWgN.jpg?r=1462456604",
+        "link": "https://bgm.tv/character/35591",
+        "categorie": "person"
+      },
+      {
+        "id": "35592",
+        "label": "高卷杏",
+        "info": "Arcana【VI - 恋人】",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/48/35592_crt_F9Jfj.jpg?r=1462456692",
+        "link": "https://bgm.tv/character/35592",
+        "categorie": "person"
+      },
+      {
+        "id": "35593",
+        "label": "摩尔迦那",
+        "info": "Arcana【I - 魔术师】",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/97/35593_crt_883mc.jpg?r=1462456665",
+        "link": "https://bgm.tv/character/35593",
+        "categorie": "person"
+      },
+      {
+        "id": "41231",
+        "label": "喜多川祐介",
+        "info": "Arcana【IV - 皇帝】",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/63/41231_crt_a3ETc.jpg?r=1462456628",
+        "link": "https://bgm.tv/character/41231",
+        "categorie": "person"
+      },
+      {
+        "id": "43477",
+        "label": "明智吾郎",
+        "info": "Arcana【VIII - 正义】",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/a4/43477_crt_aDrdc.jpg?r=1473008743",
+        "link": "https://bgm.tv/character/43477",
+        "categorie": "person"
+      },
+      {
+        "id": "45690",
+        "label": "巻上和也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/4a/45690_crt_iy8pO.jpg",
+        "link": "https://bgm.tv/character/45690",
+        "categorie": "person"
+      },
+      {
+        "id": "45692",
+        "label": "巻上尚也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/f1/45692_crt_SdQ43.jpg",
+        "link": "https://bgm.tv/character/45692",
+        "categorie": "person"
+      },
+      {
+        "id": "21489",
+        "label": "伊格尔",
+        "info": "Arcana【0 - 愚者】",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/c0/21489_crt_hvPy5.jpg",
+        "link": "https://bgm.tv/character/21489",
+        "categorie": "person"
+      },
+      {
+        "id": "41521",
+        "label": "卡露莲",
+        "info": "Arcana【XI - 刚毅】",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/a5/41521_crt_vWbwY.jpg?r=1472451971",
+        "link": "https://bgm.tv/character/41521",
+        "categorie": "person"
+      },
+      {
+        "id": "41522",
+        "label": "瑞斯丁娜",
+        "info": "Arcana【XI - 刚毅】",
+        "image": "https://lain.bgm.tv/pic/crt/m/3a/8f/41522_crt_Y3oBP.jpg?r=1472451829",
+        "link": "https://bgm.tv/character/41522",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

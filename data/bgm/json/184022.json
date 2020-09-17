@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "33437",
+        "label": "星谷悠太",
+        "info": "綾薙学園高等部1年生、身長170cm、血液型O型。幼い頃から歌やダンスが好きで、漠然と歌って踊るスターに憧れていた。どんな困難にも明るく前向きなムードメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/a3/33437_crt_SaHLC.jpg",
+        "link": "https://bgm.tv/character/33437",
+        "categorie": "person"
+      },
+      {
+        "id": "33438",
+        "label": "那雪透",
+        "info": "綾薙学園高等部1年生、身長160cm、血液型A型。誰にでも親切で笑顔を絶やさない。極度のあがり症で本番に弱く、実力を充分に発揮できていない。妹たちにも、よく心配されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/47/33438_crt_b94F5.jpg",
+        "link": "https://bgm.tv/character/33438",
+        "categorie": "person"
+      },
+      {
+        "id": "33439",
+        "label": "月皇海斗",
+        "info": "綾薙学園高等部１年生、身長168cm、血液型B型。音楽一家生まれのエリートだが、若きミュージカルスターの兄と比べられる境遇を苦手としている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/e7/33439_crt_3aF7V.jpg",
+        "link": "https://bgm.tv/character/33439",
+        "categorie": "person"
+      },
+      {
+        "id": "33440",
+        "label": "天花寺翔",
+        "info": "綾薙学園高等部１年生、身長175cm、血液型A型。歌舞伎の一門に生まれた跡取り息子。実力と才能に自信もあるが他人は自分以下と見下しており、同世代との接し方が下手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/2b/33440_crt_uqy6g.jpg",
+        "link": "https://bgm.tv/character/33440",
+        "categorie": "person"
+      },
+      {
+        "id": "33441",
+        "label": "空闲愁",
+        "info": "綾薙学園高等部１年生、身長177cm、血液型AB型。無口で誤解を受けやすいが、物事への関心が薄いだけで他人を傷つけることはない。学費は奨学金、生活費はアルバイトで稼いでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/9b/33441_crt_57677.jpg",
+        "link": "https://bgm.tv/character/33441",
+        "categorie": "person"
+      },
+      {
+        "id": "33442",
+        "label": "凤树",
+        "info": "綾薙学園高等部３年生、身長186cm、血液型O型。≪華桜会≫メンバー。本音を隠すのが得意で周囲からは「変わった先輩」だと思われている。実力はダントツ、天才児にして異端児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/11/33442_crt_pDYCJ.jpg?r=1434546220",
+        "link": "https://bgm.tv/character/33442",
+        "categorie": "person"
+      },
+      {
+        "id": "33443",
+        "label": "柊翼",
+        "info": "綾薙学園高等部３年生、身長184cm、血液型A型。≪華桜会≫メンバー。ミュージカル学科の首席生徒。鳳の才能を誰よりも認めてはいるが、真面目ゆえに融通は利かない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/dc/33443_crt_CPgXp.jpg?r=1434546302",
+        "link": "https://bgm.tv/character/33443",
+        "categorie": "person"
+      },
+      {
+        "id": "33444",
+        "label": "辰己琉唯",
+        "info": "ミュージカルの実力は月皇と並ぶほどで、中等部時代は常に月皇と成績トップを競っていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/cf/33444_crt_C853V.jpg",
+        "link": "https://bgm.tv/character/33444",
+        "categorie": "person"
+      },
+      {
+        "id": "33445",
+        "label": "申渡荣吾",
+        "info": "team柊の参謀的ポジション。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/dc/33445_crt_kK7g6.jpg",
+        "link": "https://bgm.tv/character/33445",
+        "categorie": "person"
+      },
+      {
+        "id": "33446",
+        "label": "戌峰诚士郎",
+        "info": "team柊の大型犬兼ムードメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/1d/33446_crt_lhkth.jpg",
+        "link": "https://bgm.tv/character/33446",
+        "categorie": "person"
+      },
+      {
+        "id": "33447",
+        "label": "虎石和泉",
+        "info": "team柊のチャラ男。顔がよく、女好きであり、非常にモテる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/7c/33447_crt_g424C.jpg",
+        "link": "https://bgm.tv/character/33447",
+        "categorie": "person"
+      },
+      {
+        "id": "33448",
+        "label": "卯川晶",
+        "info": "eam柊の小型犬。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/4f/33448_crt_p3w66.jpg",
+        "link": "https://bgm.tv/character/33448",
+        "categorie": "person"
+      },
+      {
+        "id": "35941",
+        "label": "晓镜司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/c5/35941_crt_pG5fy.jpg?r=1445268298",
+        "link": "https://bgm.tv/character/35941",
+        "categorie": "person"
+      },
+      {
+        "id": "35942",
+        "label": "楪・克里斯蒂安・里昂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/3f/35942_crt_xpn4F.jpg?r=1445268439",
+        "link": "https://bgm.tv/character/35942",
+        "categorie": "person"
+      },
+      {
+        "id": "35943",
+        "label": "涟朔也",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/7c/35943_crt_JVlRR.jpg?r=1445268549",
+        "link": "https://bgm.tv/character/35943",
+        "categorie": "person"
+      },
+      {
+        "id": "35945",
+        "label": "那雪优纪",
+        "info": "那雪の双子の妹のひとり。那雪の妹とは思えないほど強気でしっかり者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/19/35945_crt_6W36i.jpg",
+        "link": "https://bgm.tv/character/35945",
+        "categorie": "person"
+      },
+      {
+        "id": "35946",
+        "label": "那雪紬",
+        "info": "那雪の双子の妹のひとり。那雪に似てぽーっとした雰囲気だが、根性は据わっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/39/35946_crt_0LZw1.jpg",
+        "link": "https://bgm.tv/character/35946",
+        "categorie": "person"
+      },
+      {
+        "id": "48364",
+        "label": "双叶大河",
+        "info": "遥斗と同世代の元華桜会メンバー。可愛い外見だが在学時から4名内で最も大人で、冷静で視野が広いまとめ役。アンシエント在任中は律のマンションに入り浸っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/3c/48364_crt_7fbR7.jpg",
+        "link": "https://bgm.tv/character/48364",
+        "categorie": "person"
+      },
+      {
+        "id": "48365",
+        "label": "早乙女律",
+        "info": "遥斗と同世代の元華桜会メンバー。遥斗のことを「全人類の中で唯一自分と並ぶほど美しい」と称し、骨抜きにされている。高等部時代には「遥斗王子と律姫」と呼ばれるほどで、律自身も美貌を兼ね備えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/4c/48365_crt_YzxfJ.jpg",
+        "link": "https://bgm.tv/character/48365",
+        "categorie": "person"
+      },
+      {
+        "id": "48366",
+        "label": "鱼住朝喜",
+        "info": "遥斗と同世代の元華桜会メンバー。遥斗とは中等部入学からの付き合い。言葉遣いは荒いが、兄貴肌な一面がある。華桜会在任時にスター枠選びで樹を取られて以来、一方的に絶交中である。OVAでも当時のことを根に持っていることが遥斗の口から語られている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/35/48366_crt_xwayO.jpg",
+        "link": "https://bgm.tv/character/48366",
+        "categorie": "person"
+      },
+      {
+        "id": "48367",
+        "label": "扬羽陆",
+        "info": "ミステリアスな雰囲気を持つteam楪トップスター。中学1年の時にミュージカル『Shadow&Lights』に出演していた遥斗に魅了され、それ以来、遥斗を「ボクの神様」と呼んで憧れている。遥斗と兄弟の海斗にも注目している。他者とのコミュニケーションが独特であり、認めた相手には不思議な懐き方をする一方で、興味のない相手にはアウト・オブ・眼中。遥斗が演じた役を勝ち取るために育成枠オーディションには本気で臨んでいる。南條を嫌っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/f3/48367_crt_i8R88.jpg",
+        "link": "https://bgm.tv/character/48367",
+        "categorie": "person"
+      },
+      {
+        "id": "48368",
+        "label": "蜂矢聪",
+        "info": "team楪。トップスターである揚羽を一番に理解し、献身的に支えている優しい性格の持ち主。中等部音楽コース特進クラス出身である実力者でもあるが、日常生活では抜けている一面があり、基本的にドジでドン臭いため、周囲からは「残念なイケメン」と呼ばれることもある。眼鏡をかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/45/48368_crt_ARu7T.jpg",
+        "link": "https://bgm.tv/character/48368",
+        "categorie": "person"
+      },
+      {
+        "id": "48369",
+        "label": "北原廉",
+        "info": "team漣。『やるからには完璧に』が座右の銘。家の方針で芸能活動を行う条件で綾薙学園に入学した過ぎず、ミュージカルに対しては強い思い入れはない。そのため、ほかのオーディション参加者を冷めた目で見ている。が、一方で本気になるきっかけを探している。虎石とは同じクラスでルームメイト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bd/14/48369_crt_W99AI.jpg",
+        "link": "https://bgm.tv/character/48369",
+        "categorie": "person"
+      },
+      {
+        "id": "48370",
+        "label": "南条圣",
+        "info": "team漣。北原と同じく、芸能界入りするためだけに綾薙学園に入ったため、ミュージカルに思い入れはない。自他共に認める器用なタイプで、そこそこなんでもこなせてしまうため、北原同様、オーディションに熱くなる周囲を冷めた目で見ている。のらりくらりとした態度のせいもあり、揚羽が唯一嫌っている人物として挙げられている。感情表現がストレートな北原とは違い、常に穏やかな笑みを称えているが、発言は辛辣なソフトS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/2d/48370_crt_S2obj.jpg",
+        "link": "https://bgm.tv/character/48370",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

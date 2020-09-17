@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6995",
+        "label": "光源氏",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/56/6995_crt_anidb.jpg?r=1414068564",
+        "link": "https://bgm.tv/character/6995",
+        "categorie": "person"
+      },
+      {
+        "id": "7000",
+        "label": "紫の上",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/8b/7000_crt_anidb.jpg?r=1414068532",
+        "link": "https://bgm.tv/character/7000",
+        "categorie": "person"
+      },
+      {
+        "id": "6996",
+        "label": "葵の上",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/70/6996_crt_anidb.jpg?r=1414068666",
+        "link": "https://bgm.tv/character/6996",
+        "categorie": "person"
+      },
+      {
+        "id": "6997",
+        "label": "六条御息所",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c9/04/6997_crt_anidb.jpg?r=1414068653",
+        "link": "https://bgm.tv/character/6997",
+        "categorie": "person"
+      },
+      {
+        "id": "6999",
+        "label": "惟光",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/c2/6999_crt_anidb.jpg?r=1414068621",
+        "link": "https://bgm.tv/character/6999",
+        "categorie": "person"
+      },
+      {
+        "id": "7001",
+        "label": "桐壺帝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/9d/7001_crt_anidb.jpg?r=1414068600",
+        "link": "https://bgm.tv/character/7001",
+        "categorie": "person"
+      },
+      {
+        "id": "7021",
+        "label": "朧月夜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/86/7021_crt_anidb.jpg?r=1414068638",
+        "link": "https://bgm.tv/character/7021",
+        "categorie": "person"
+      },
+      {
+        "id": "7024",
+        "label": "夕顔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/6c/7024_crt_anidb.jpg?r=1414068684",
+        "link": "https://bgm.tv/character/7024",
+        "categorie": "person"
+      },
+      {
+        "id": "7025",
+        "label": "右大臣",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/7025",
+        "categorie": "person"
+      },
+      {
+        "id": "7020",
+        "label": "桐壺更衣",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/a1/7020_crt_anidb.jpg?r=1414068697",
+        "link": "https://bgm.tv/character/7020",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

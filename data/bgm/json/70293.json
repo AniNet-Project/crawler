@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "43038",
+        "label": "シオン・ドール007",
+        "info": "本作のヒロイン。異世界のドールと呼ばれる戦士の女の子。一見して美少女、どこか人形のような硬質な印象を受ける。ドール仲間たちからは、シオン、あるいは製造ナンバーからセブンと呼ばれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/d8/43038_crt_5E5Ed.jpg",
+        "link": "https://bgm.tv/character/43038",
+        "categorie": "person"
+      },
+      {
+        "id": "43039",
+        "label": "美鈴雪子",
+        "info": "北野聖風学園で保険医兼体育教師を兼任する美人先生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/47/43039_crt_MiWKk.jpg",
+        "link": "https://bgm.tv/character/43039",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "41774",
+        "label": "爱咲小花",
+        "info": "魔法芸術の名家、愛ヶ咲家のひとり娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/96/41774_crt_Hy6kx.jpg?r=1475525950",
+        "link": "https://bgm.tv/character/41774",
+        "categorie": "person"
+      },
+      {
+        "id": "41766",
+        "label": "一条寺帝歌",
+        "info": "主人公の同級生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/35/41766_crt_x64NX.jpg?r=1478202070",
+        "link": "https://bgm.tv/character/41766",
+        "categorie": "person"
+      },
+      {
+        "id": "41767",
+        "label": "墨之宫葵",
+        "info": "猫背で無口、独自の世界を持っている天才肌。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/10/41767_crt_glUlE.jpg?r=1478202236",
+        "link": "https://bgm.tv/character/41767",
+        "categorie": "person"
+      },
+      {
+        "id": "41768",
+        "label": "带刀凛太郎",
+        "info": "明るく元気で、気配りもできるクラスの人気者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/ed/41768_crt_imVLh.jpg?r=1478455554",
+        "link": "https://bgm.tv/character/41768",
+        "categorie": "person"
+      },
+      {
+        "id": "41771",
+        "label": "庵条瑠衣",
+        "info": "誰にでも分け隔てなく優しい、みんなのムードメーカー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/fe/41771_crt_aq0Ld.jpg?r=1478455595",
+        "link": "https://bgm.tv/character/41771",
+        "categorie": "person"
+      },
+      {
+        "id": "41772",
+        "label": "土笔茂音",
+        "info": "自信家でちょっと生意気な高校１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/20/41772_crt_iL5u1.jpg?r=1479003829",
+        "link": "https://bgm.tv/character/41772",
+        "categorie": "person"
+      },
+      {
+        "id": "41773",
+        "label": "响奏音",
+        "info": "見た目は怖いが、困っている人を見ると放っておけない、",
+        "image": "https://lain.bgm.tv/pic/crt/m/71/aa/41773_crt_KeEy6.jpg",
+        "link": "https://bgm.tv/character/41773",
+        "categorie": "person"
+      },
+      {
+        "id": "45221",
+        "label": "陶堂千雕",
+        "info": "主人公の担任教師で、専門は陶芸。アンニュイな雰囲気でどこか達観した言動をとる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/eb/45221_crt_0aASX.jpg",
+        "link": "https://bgm.tv/character/45221",
+        "categorie": "person"
+      },
+      {
+        "id": "45222",
+        "label": "校长",
+        "info": "私立星ノ森魔法芸術高校の校長。常に冷静沈着で、穏やかだけれど威厳がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/24/45222_crt_DL5JD.jpg",
+        "link": "https://bgm.tv/character/45222",
+        "categorie": "person"
+      },
+      {
+        "id": "45223",
+        "label": "一条寺雅声",
+        "info": "帝歌の兄で、アルティスタ界を取り仕切る一条寺グループの役員。アルティスタ・プリンスになるよう、帝歌に厳しく接している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/ca/45223_crt_MMmhA.jpg",
+        "link": "https://bgm.tv/character/45223",
+        "categorie": "person"
+      },
+      {
+        "id": "45224",
+        "label": "一条寺神乐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/6f/45224_crt_lU0Hx.jpg",
+        "link": "https://bgm.tv/character/45224",
+        "categorie": "person"
+      },
+      {
+        "id": "45225",
+        "label": "近松珠里",
+        "info": "星芸２年生・専攻は舞台演出。主人公と寮で同室で、明るくしっかり者の友達。悩んだときはそばに寄り添い、いつも励ましてくれる存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/96/45225_crt_NTKo5.jpg",
+        "link": "https://bgm.tv/character/45225",
+        "categorie": "person"
+      },
+      {
+        "id": "45226",
+        "label": "爱咲樱",
+        "info": "小花の母。彼女が幼少の頃に亡くなっている。享年30。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/1e/45226_crt_ko12l.jpg",
+        "link": "https://bgm.tv/character/45226",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

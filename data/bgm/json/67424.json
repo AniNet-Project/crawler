@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "69966",
+        "label": "真辺リカ",
+        "info": "主人公のとなりの家に住む幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/cf/69966_crt_J0z2L.jpg",
+        "link": "https://bgm.tv/character/69966",
+        "categorie": "person"
+      },
+      {
+        "id": "69970",
+        "label": "聖天使ジブリール",
+        "info": "リカが天使の力で変身した姿。決め台詞は「エッチな犯罪許しません!」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/4e/69970_crt_Jc1vV.jpg",
+        "link": "https://bgm.tv/character/69970",
+        "categorie": "person"
+      },
+      {
+        "id": "69973",
+        "label": "神野ひかり",
+        "info": "主人公の妹で海外に留学していたがこの2学期から帰ってきた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/f7/69973_crt_0l8t8.jpg",
+        "link": "https://bgm.tv/character/69973",
+        "categorie": "person"
+      },
+      {
+        "id": "69976",
+        "label": "聖天使ジブリール アリエス",
+        "info": "ひかりが天使の力で変身した姿。名称はひかりが牡羊座生まれである事に由来。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/b4/69976_crt_QPaQg.jpg",
+        "link": "https://bgm.tv/character/69976",
+        "categorie": "person"
+      },
+      {
+        "id": "69968",
+        "label": "音無芽衣美",
+        "info": "主人公のことを好きだが、主人公を前にすると何も喋れなくなってし",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/d1/69968_crt_d76G3.jpg",
+        "link": "https://bgm.tv/character/69968",
+        "categorie": "person"
+      },
+      {
+        "id": "69971",
+        "label": "ミスティメイ",
+        "info": "芽衣美が悪魔の力で変身した姿。とりあえず上司であるはずのアスモも手をつけられないほどのドS。",
+        "image": "https://lain.bgm.tv/pic/crt/m/55/dd/69971_crt_61I6d.jpg",
+        "link": "https://bgm.tv/character/69971",
+        "categorie": "person"
+      },
+      {
+        "id": "69972",
+        "label": "神野直人",
+        "info": "主人公。かなりのスケベ。そのくせツッコミ担当。アッパーパンチでラブリエルを家の天井に食い込ませる。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/69972",
+        "categorie": "person"
+      },
+      {
+        "id": "69974",
+        "label": "ロコ・コ",
+        "info": "何故か女子高生風のブレザースタイルの少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/bb/69974_crt_39Mml.jpg",
+        "link": "https://bgm.tv/character/69974",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

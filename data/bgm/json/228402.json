@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68530",
+        "label": "倾福小姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/5e/68530_crt_FzMc8.jpg?r=1554542522",
+        "link": "https://bgm.tv/character/68530",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

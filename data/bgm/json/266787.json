@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67208",
+        "label": "ジェームズ・ブラッド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/e9/67208_crt_3B8MB.jpg",
+        "link": "https://bgm.tv/character/67208",
+        "categorie": "person"
+      },
+      {
+        "id": "67209",
+        "label": "サラ・シンクレア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/48/67209_crt_1pMQ7.jpg",
+        "link": "https://bgm.tv/character/67209",
+        "categorie": "person"
+      },
+      {
+        "id": "67210",
+        "label": "レノックス・ギャラガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/fe/67210_crt_A52v5.jpg",
+        "link": "https://bgm.tv/character/67210",
+        "categorie": "person"
+      },
+      {
+        "id": "67211",
+        "label": "エドモンド・チャンドラー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/13/67211_crt_DOTSz.jpg",
+        "link": "https://bgm.tv/character/67211",
+        "categorie": "person"
+      },
+      {
+        "id": "67212",
+        "label": "ハリー・クレイトン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/6b/67212_crt_mt0B9.jpg",
+        "link": "https://bgm.tv/character/67212",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3583",
+        "label": "鬼丸美輝",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/eb/3583_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3583",
+        "categorie": "person"
+      },
+      {
+        "id": "3584",
+        "label": "太田明彦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/57/3584_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3584",
+        "categorie": "person"
+      },
+      {
+        "id": "3585",
+        "label": "西山勘九郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/68/3585_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3585",
+        "categorie": "person"
+      },
+      {
+        "id": "3586",
+        "label": "遠藤若菜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/4e/3586_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/3586",
+        "categorie": "person"
+      },
+      {
+        "id": "13982",
+        "label": "鬼丸真紀子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/bd/13982_crt_0J79A.jpg",
+        "link": "https://bgm.tv/character/13982",
+        "categorie": "person"
+      },
+      {
+        "id": "13983",
+        "label": "神無月めぐみ",
+        "info": "将鬼丸美辉看做劲敌，面包店“ユエット”的看板娘，有一头金色的长发，店面跟住处就在鬼丸饭店的正对面。擅长使用暗器(串热狗竹签)，不过却仍然很怕美辉的实力。小时后时常被美辉欺负，奋而练出了暗器投掷的技能，不过后期对美辉无效。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7a/dc/13983_crt_cOVot.jpg",
+        "link": "https://bgm.tv/character/13983",
+        "categorie": "person"
+      },
+      {
+        "id": "13984",
+        "label": "茅原智香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/c1/13984_crt_StdfC.jpg",
+        "link": "https://bgm.tv/character/13984",
+        "categorie": "person"
+      },
+      {
+        "id": "13985",
+        "label": "敏行",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/71/13985_crt_2A4LC.jpg",
+        "link": "https://bgm.tv/character/13985",
+        "categorie": "person"
+      },
+      {
+        "id": "13986",
+        "label": "ヘルズバニー/秋吉冬美",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/13986",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

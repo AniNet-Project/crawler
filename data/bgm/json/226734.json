@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58891",
+        "label": "多田光良",
+        "info": "銀河大学付属恋ノ星高校に通う２年生。写真部に所属。祖父が営む多田珈琲店でアルバイトをしつつ、亡くなった父親と同じカメラマンを目指している。口数は少ないが、真面目で仲間思いの心優しい青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/6a/58891_crt_l53QB.jpg",
+        "link": "https://bgm.tv/character/58891",
+        "categorie": "person"
+      },
+      {
+        "id": "58892",
+        "label": "特蕾莎·瓦格纳",
+        "info": "ヨーロッパのラルセンブルクから日本にやってきた留学生で、金髪に翡翠のような澄んだ緑色の瞳をした美しい少女。明るく素直な性格をしており、キラキラとした笑顔が印象的。「れいん坊将軍」という日本の時代劇が大好き。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/64/58892_crt_28x7G.jpg?r=1525226357",
+        "link": "https://bgm.tv/character/58892",
+        "categorie": "person"
+      },
+      {
+        "id": "58893",
+        "label": "伊集院薰",
+        "info": "多田の幼馴染で、写真部の部員の一人。黙っていれば容姿端麗なイケメンだが、残念ながらいつも大体騒がしい。代々続く銀座の老舗料亭の跡取り息子で、料理が得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/1a/58893_crt_vo0M4.jpg",
+        "link": "https://bgm.tv/character/58893",
+        "categorie": "person"
+      },
+      {
+        "id": "58894",
+        "label": "亚历珊德拉·玛格丽特",
+        "info": "ラルセンブルクからテレサと共に留学してきた転校生で、赤い髪としなやかなスタイルが印象的な美少女。テレサとは幼馴染みで、親友兼保護者のような存在。テレサを守るためならどんなことも厭わない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/8e/58894_crt_6mIh6.jpg",
+        "link": "https://bgm.tv/character/58894",
+        "categorie": "person"
+      },
+      {
+        "id": "58895",
+        "label": "杉本一",
+        "info": "多田や伊集院の先輩で、写真部の部長。部員たちからは「ピン先輩」と呼ばれている。頭脳明晰で成績も良く、写真の腕もかなりのものだが、考えていることが大体口に出てしまう残念な人。将来の夢はヌード写真家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/12/58895_crt_dynOp.jpg",
+        "link": "https://bgm.tv/character/58895",
+        "categorie": "person"
+      },
+      {
+        "id": "58896",
+        "label": "长谷川日向子",
+        "info": "杉本の幼馴染で、写真部の部員の一人。写真部には杉本に部員が足りず廃部になってしまうからと頼まれ、半ば強引に入部させられた経緯がある。いわゆる優等生で、何事もそつなくこなす常識人。長い髪を三つ編みにまとめている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/30/58896_crt_h1Ld8.jpg?r=1525668115",
+        "link": "https://bgm.tv/character/58896",
+        "categorie": "person"
+      },
+      {
+        "id": "58897",
+        "label": "山下研太郎",
+        "info": "多田や伊集院の後輩で、写真部唯一の一年生部員。細身の長身で、ふわふわな猫っ毛をしており、前髪をいつもピンで留めている中性的な美少年。多田とは同じ中学の出身で昔から先輩、後輩の仲だった。多田のことを尊敬している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/ea/58897_crt_qQT9r.jpg",
+        "link": "https://bgm.tv/character/58897",
+        "categorie": "person"
+      },
+      {
+        "id": "58898",
+        "label": "多田唯",
+        "info": "多田の妹で、黒髪おかっぱがよく似合う明るく元気な少女。両親を亡くしてからは兄と祖父を親代わりに、ニャンコビッグとは兄弟のように一緒に育った。推理小説が大好きで、お気に入りは「ひまわり急行 恋する事件簿」シリーズ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/06/58898_crt_FX8B9.jpg",
+        "link": "https://bgm.tv/character/58898",
+        "categorie": "person"
+      },
+      {
+        "id": "61461",
+        "label": "大喵",
+        "info": "多田家の愛猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/ce/61461_crt_m184w.jpg",
+        "link": "https://bgm.tv/character/61461",
+        "categorie": "person"
+      },
+      {
+        "id": "62573",
+        "label": "シャルル・ド・ロワール",
+        "info": "金髪で長身の美青年。フランスの由緒正しい貴族の出大学生でありながら、起業し、社長として会社も経営している。運動神経も抜群で、あらゆるスポーツをこなし、さらに語学も堪能で、フランス語はもちろん 英語、日本語など、あらゆる言語を自在に操ることから動物とも話せるのではと噂されるほど。陽気で優しく思いやりにも溢れた性格で、男女問わずに誰からも好かれているスーパーマンのような人物。テレサとは幼い頃から交流があり、兄のような存在として慕われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/4e/62573_crt_zzeMN.jpg",
+        "link": "https://bgm.tv/character/62573",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

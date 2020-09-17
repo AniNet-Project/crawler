@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19557",
+        "label": "穆恩",
+        "info": "让人无法讨厌的随心所欲的人。喜欢的卫星是月亮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/e2/19557_crt_Q7CH7.jpg",
+        "link": "https://bgm.tv/character/19557",
+        "categorie": "person"
+      },
+      {
+        "id": "19560",
+        "label": "詹姆斯",
+        "info": "金发的自我陶醉者。喜欢的东西是美丽的自己，讨厌的东西是不美丽的自己。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/b0/19560_crt_dZZ3s.jpg",
+        "link": "https://bgm.tv/character/19560",
+        "categorie": "person"
+      },
+      {
+        "id": "19561",
+        "label": "可妮",
+        "info": "兔子。一直都开朗又时髦，喜欢的事情是减肥，实际上比布朗更凶猛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/70/19561_crt_0Vpwu.jpg",
+        "link": "https://bgm.tv/character/19561",
+        "categorie": "person"
+      },
+      {
+        "id": "19562",
+        "label": "杰西卡",
+        "info": "可妮的好朋友，有严重的洁癖，最喜欢的事是打扫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/25/21/19562_crt_1KR12.jpg",
+        "link": "https://bgm.tv/character/19562",
+        "categorie": "person"
+      },
+      {
+        "id": "19563",
+        "label": "萨莉",
+        "info": "最喜欢唱K的小鸡，最拿手的是怀旧金曲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7d/96/19563_crt_ZbN4D.jpg",
+        "link": "https://bgm.tv/character/19563",
+        "categorie": "person"
+      },
+      {
+        "id": "19559",
+        "label": "布朗",
+        "info": "熊。纯真、沉默又没表情，不过生气的时候很可怕。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/c6/19559_crt_22lai.jpg",
+        "link": "https://bgm.tv/character/19559",
+        "categorie": "person"
+      },
+      {
+        "id": "19564",
+        "label": "大叔",
+        "info": "LINE TOWN 的居民，神秘的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/2e/19564_crt_8Bnbx.jpg",
+        "link": "https://bgm.tv/character/19564",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "22136",
+        "label": "塞拉·威莱克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/b7/22136_crt_FET5e.jpg",
+        "link": "https://bgm.tv/character/22136",
+        "categorie": "person"
+      },
+      {
+        "id": "76745",
+        "label": "拉尔夫·威莱克",
+        "info": "セーラの兄。元々ユニオン軍でも指折りのエースで名門ウィーレック家の当主でもあったが、ユニオン軍に捕えられ人体実験に利用されていたエミリィ達異星人の悲惨な経験を受け取ったため、人類への復讐に取りつかれ、人格を変異させる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/ae/76745_crt_ayv9k.jpg",
+        "link": "https://bgm.tv/character/76745",
+        "categorie": "person"
+      },
+      {
+        "id": "4195",
+        "label": "エミリィ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/e3/4195_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4195",
+        "categorie": "person"
+      },
+      {
+        "id": "22137",
+        "label": "艾米莉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/34/22137_crt_4Wtmu.jpg",
+        "link": "https://bgm.tv/character/22137",
+        "categorie": "person"
+      },
+      {
+        "id": "4187",
+        "label": "カリスフォド・ラドフリックス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/cf/4187_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4187",
+        "categorie": "person"
+      },
+      {
+        "id": "4188",
+        "label": "マーサ・シュビーパウエル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/6d/4188_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4188",
+        "categorie": "person"
+      },
+      {
+        "id": "4189",
+        "label": "ラヴィニア・リベルス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/e7/4189_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4189",
+        "categorie": "person"
+      },
+      {
+        "id": "4190",
+        "label": "カアマイクル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/cd/4190_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4190",
+        "categorie": "person"
+      },
+      {
+        "id": "4192",
+        "label": "デュファルジュ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/47/4192_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4192",
+        "categorie": "person"
+      },
+      {
+        "id": "4193",
+        "label": "メアリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/70/4193_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4193",
+        "categorie": "person"
+      },
+      {
+        "id": "4194",
+        "label": "メドロック",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/29/4194_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4194",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

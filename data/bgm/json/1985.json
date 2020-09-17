@@ -1,0 +1,365 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "899",
+        "label": "日野香穗子",
+        "info": "故事中女主角，普通科二年级。身高162 cm，生日2月28日。双鱼座。故事开始时全无音乐感，依赖魔法小提琴出赛。直率的性格，在游戏里名字可由玩家自行转换。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/9a/899_crt_DdBxD.jpg?r=1563809250",
+        "link": "https://bgm.tv/character/899",
+        "categorie": "person"
+      },
+      {
+        "id": "900",
+        "label": "月森莲",
+        "info": "音乐科二年级，4月24日出生，金牛座，身高178 cm，主修小提琴。音乐世家出身，个性冷酷不苟言笑、难以靠近。对自己人生和对音乐都有很高的理想。由于跟女主角一样表演小提琴，表面上二人是竞争对手，但背后他对人其实很温柔，在刻薄的说话中提点指教了香穗子不少。母亲滨井美沙是个著名的钢琴家，而父亲则同样是个小提琴家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/13/900_crt_oi7nY.jpg?r=1583506807",
+        "link": "https://bgm.tv/character/900",
+        "categorie": "person"
+      },
+      {
+        "id": "901",
+        "label": "土浦梁太郎",
+        "info": "普通科二年级，7月25日出生，狮子座，身高181 cm，隶属足球部，个性热情坦率。看似体育系的高大外表，但实际上却有很深的钢琴造诣。除此之外对做家事、烹饪也甚为出色。喜欢香穗子（由漫画得知）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/3e/901_crt_0C4FU.jpg?r=1583506862",
+        "link": "https://bgm.tv/character/901",
+        "categorie": "person"
+      },
+      {
+        "id": "902",
+        "label": "志水桂一",
+        "info": "音乐科一年级，8月26日出生，处女座，身高168 cm，主修大提琴。被称为音乐天才，有着全校最丰富的音乐知识，不过对音乐以外事情完全不感兴趣。非常爱睡觉，表演以外的时间也不大清醒，所以是个文静、少说话的人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/0c/902_crt_jTRF2.jpg",
+        "link": "https://bgm.tv/character/902",
+        "categorie": "person"
+      },
+      {
+        "id": "903",
+        "label": "火原和树",
+        "info": "音乐科三年级，12月12日出生，射手座，身高178 cm，主修小号。个性像小孩子一样十分开朗、率直且纯情。热爱音乐、享受音乐所带来的乐趣。中学时期曾隶属于田径部。乐天的性格经常为香穗子排难解忧。 超级喜欢跟别人聊天，值得一提的是中学小学拿过全勤奖。喜欢香穗子，由TV版动画15话得知。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/49/903_crt_a3hA5.jpg",
+        "link": "https://bgm.tv/character/903",
+        "categorie": "person"
+      },
+      {
+        "id": "904",
+        "label": "柚木梓马",
+        "info": "音乐科三年B班，6月18日出生，双子座，身高172 cm，主修长笛。出身花道名门，为家中老三。气质高贵、举止优雅，是个性格温柔的万人迷，在学校受人爱载，甚至有自己的亲卫队，被火原戏称为柚木教“教主”。但其实他具有为人不知的双重性格，表面上对香穗子照顾有加，但二人独处的时候会直言不满意香穗子加入比赛。每次看到香穗子坚强的一面时，就会想欺负香穗子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/0b/904_crt_iH5yH.jpg",
+        "link": "https://bgm.tv/character/904",
+        "categorie": "person"
+      },
+      {
+        "id": "907",
+        "label": "冬海笙子",
+        "info": "音乐科一年B班，11月3日出生，天蝎座，血型A型，身高158cm，主修单簧管。星奏学院院内音乐比赛的参赛者。个性慎重乖巧，性格温顺，害羞怕生，喜欢艺术。有参加国际比赛的经验才会在一年级就被挑选加入比赛。受到香穗子的影响，为想要变的更加积极而在一点点的努力着。在台湾播出的版本中，香穗子常以“小海”称呼她。专长是听音(音感很好)。喜欢的食物是焗考和焗烤意大利面。害怕男性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/87/907_crt_vVbHF.jpg?r=1444790193",
+        "link": "https://bgm.tv/character/907",
+        "categorie": "person"
+      },
+      {
+        "id": "910",
+        "label": "天羽菜美",
+        "info": "普通科二年一班，2月9日出生，水瓶座，血型B型，身高165cm，隶属于学校新闻部。个性开朗，活泼，直率，充满活力，喜欢探索。透过采访音乐比赛，而进一步与香穗子成为好友。喜欢的食物是披萨和意大利面。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/da/910_crt_Vatt4.jpg?r=1445376839",
+        "link": "https://bgm.tv/character/910",
+        "categorie": "person"
+      },
+      {
+        "id": "908",
+        "label": "金泽纮人",
+        "info": "普通科音乐老师，3月1日出生，双鱼座，身高183 cm，亦是音乐比赛的负责人，原本主修歌剧和声乐。比赛对他而言只是奉命行事，其实不大在意，做事马虎又迷糊，但到真正需要建议时还会帮忙的。大部分的人常以“老金”称呼他（台湾播出的中文版本则称为“小金”）。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/b0/908_crt_DTDYd.jpg",
+        "link": "https://bgm.tv/character/908",
+        "categorie": "person"
+      },
+      {
+        "id": "909",
+        "label": "王崎信武",
+        "info": "星奏学院音乐科的毕业生，现时为星奏学院分属大学三年级学生，10月17日出生，天秤座，身高175 cm，主修小提琴。个性温和沉稳的旧生，常给女主角建议与鼓励。曾是音乐比赛的优胜者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/f4/909_crt_o76oI.jpg",
+        "link": "https://bgm.tv/character/909",
+        "categorie": "person"
+      },
+      {
+        "id": "912",
+        "label": "利利",
+        "info": "音乐的妖精。阶级为银（妖精界的第三顺位）。个性调皮但十分热爱音乐。因为女主角看的到它而将魔法小提琴硬交给她参加比赛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/79/912_crt_xJDAJ.jpg?r=1504386851",
+        "link": "https://bgm.tv/character/912",
+        "categorie": "person"
+      },
+      {
+        "id": "57156",
+        "label": "高远美绪",
+        "info": "2年2組。香穂子の友達。夢見る乙女で、ミーハーな面がある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/ee/57156_crt_3ry6r.jpg",
+        "link": "https://bgm.tv/character/57156",
+        "categorie": "person"
+      },
+      {
+        "id": "57157",
+        "label": "小林直",
+        "info": "2年2組。香穂子の友達。物事をはっきり言うタイプで、友達思い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/83/57157_crt_MGmYR.jpg",
+        "link": "https://bgm.tv/character/57157",
+        "categorie": "person"
+      },
+      {
+        "id": "57158",
+        "label": "近卫十和子",
+        "info": "星奏学院音乐科学生，柚木亲卫队",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/b4/57158_crt_1i0ED.jpg",
+        "link": "https://bgm.tv/character/57158",
+        "categorie": "person"
+      },
+      {
+        "id": "57159",
+        "label": "津川麻衣",
+        "info": "星奏学院音乐科学生",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/13/57159_crt_gqr2A.jpg",
+        "link": "https://bgm.tv/character/57159",
+        "categorie": "person"
+      },
+      {
+        "id": "57160",
+        "label": "新见晶",
+        "info": "星奏学院音乐科学生",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/c5/57160_crt_Cl13N.jpg",
+        "link": "https://bgm.tv/character/57160",
+        "categorie": "person"
+      },
+      {
+        "id": "57411",
+        "label": "校长",
+        "info": "星奏学院高等学校校长。动画第1话中通过广播朗读被选中参加音乐比赛的名单。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7b/24/57411_crt_uB3eU.jpg",
+        "link": "https://bgm.tv/character/57411",
+        "categorie": "person"
+      },
+      {
+        "id": "57434",
+        "label": "岸田",
+        "info": "星奏学院2年2班的老师。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/51/57434_crt_fd0zu.jpg",
+        "link": "https://bgm.tv/character/57434",
+        "categorie": "person"
+      },
+      {
+        "id": "57162",
+        "label": "佐佐木淳之介",
+        "info": "2年2組。土浦のサッカー部仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/8f/57162_crt_1MA12.jpg",
+        "link": "https://bgm.tv/character/57162",
+        "categorie": "person"
+      },
+      {
+        "id": "57163",
+        "label": "南",
+        "info": "南楽器店主。土浦の理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/6f/57163_crt_OcOxD.jpg",
+        "link": "https://bgm.tv/character/57163",
+        "categorie": "person"
+      },
+      {
+        "id": "57165",
+        "label": "庄司惠",
+        "info": "1年生。第1セレクションで香穂子の伴奏をすることになっていたが、実は香穂子のことを快く思っておらず伴奏をドタキャン。アニメ版では最終セレクションで直前に手を怪我した森に代わり、香穂子の伴奏を務めた。月森に憧れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/a5/57165_crt_wzjbY.jpg",
+        "link": "https://bgm.tv/character/57165",
+        "categorie": "person"
+      },
+      {
+        "id": "57431",
+        "label": "香穗子的妈妈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/16/57431_crt_dha3m.jpg",
+        "link": "https://bgm.tv/character/57431",
+        "categorie": "person"
+      },
+      {
+        "id": "57432",
+        "label": "香穗子的姐姐",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/c5/57432_crt_swGvy.jpg",
+        "link": "https://bgm.tv/character/57432",
+        "categorie": "person"
+      },
+      {
+        "id": "57169",
+        "label": "野崎理绘",
+        "info": "星奏学院音乐科1年级，冬海笙子的钢琴伴奏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/c5/57169_crt_p4dLh.jpg",
+        "link": "https://bgm.tv/character/57169",
+        "categorie": "person"
+      },
+      {
+        "id": "57425",
+        "label": "长谷川司",
+        "info": "3年生。火原の伴奏者でオーケストラ部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/69/57425_crt_6mlr7.jpg",
+        "link": "https://bgm.tv/character/57425",
+        "categorie": "person"
+      },
+      {
+        "id": "57167",
+        "label": "森真奈美",
+        "info": "星奏学院音乐科2年A班，专修钢琴，从第二场选拔赛开始为香穗子伴奏。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/3e/57167_crt_rTRcb.jpg",
+        "link": "https://bgm.tv/character/57167",
+        "categorie": "person"
+      },
+      {
+        "id": "57413",
+        "label": "富田",
+        "info": "冬海笙子家别墅的女佣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/f1/57413_crt_ThBg1.jpg",
+        "link": "https://bgm.tv/character/57413",
+        "categorie": "person"
+      },
+      {
+        "id": "57412",
+        "label": "司机",
+        "info": "柚木梓马的私人司机。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/64/57412_crt_s9jj3.jpg",
+        "link": "https://bgm.tv/character/57412",
+        "categorie": "person"
+      },
+      {
+        "id": "57436",
+        "label": "月森的父亲",
+        "info": "钢琴家滨井美沙的丈夫，月森莲的父亲，小提琴家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/c5/57436_crt_EO75A.jpg",
+        "link": "https://bgm.tv/character/57436",
+        "categorie": "person"
+      },
+      {
+        "id": "57173",
+        "label": "滨井美沙",
+        "info": "海外でも活躍する有名なピアニスト。月森の母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/8f/57173_crt_LP9a9.jpg",
+        "link": "https://bgm.tv/character/57173",
+        "categorie": "person"
+      },
+      {
+        "id": "57170",
+        "label": "森宫薰",
+        "info": "星奏学院音楽科2年生。月森のことを快く思わない3人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/7d/57170_crt_osfiV.jpg",
+        "link": "https://bgm.tv/character/57170",
+        "categorie": "person"
+      },
+      {
+        "id": "57172",
+        "label": "岸本正三郎",
+        "info": "星奏学院音楽科2年生。月森のことを快く思わない3人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/78/57172_crt_C1R1p.jpg",
+        "link": "https://bgm.tv/character/57172",
+        "categorie": "person"
+      },
+      {
+        "id": "57171",
+        "label": "杉野藤一郎",
+        "info": "星奏学院音楽科2年生。月森のことを快く思わない3人組。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a8/57171_crt_wxGbQ.jpg",
+        "link": "https://bgm.tv/character/57171",
+        "categorie": "person"
+      },
+      {
+        "id": "57438",
+        "label": "志水の叔母",
+        "info": "志水桂一的叔母，称呼桂一“小桂”（けいちゃん）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/9b/57438_crt_k8q4K.jpg",
+        "link": "https://bgm.tv/character/57438",
+        "categorie": "person"
+      },
+      {
+        "id": "57435",
+        "label": "柚木的祖母",
+        "info": "动画第11话、16话登场，非常严格。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/ca/57435_crt_2m1NI.jpg",
+        "link": "https://bgm.tv/character/57435",
+        "categorie": "person"
+      },
+      {
+        "id": "57430",
+        "label": "杉谷亚矢子",
+        "info": "图书委员，动画第11话帮志水桂一留意他要的书，第13话在图书室捡到封面写着R.T的笔记本。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/1b/57430_crt_Yn906.jpg",
+        "link": "https://bgm.tv/character/57430",
+        "categorie": "person"
+      },
+      {
+        "id": "57433",
+        "label": "小泉麻衣",
+        "info": "星奏学院音乐科一年级，主修小提琴，管弦乐部成员，第12话登场，请求香穗子给自己的独奏一些指导。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/93/57433_crt_vXyv7.jpg",
+        "link": "https://bgm.tv/character/57433",
+        "categorie": "person"
+      },
+      {
+        "id": "57179",
+        "label": "宫内弥生",
+        "info": "火原和树中学时代为他打开小号之门的的学姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/64/57179_crt_Rb18L.jpg",
+        "link": "https://bgm.tv/character/57179",
+        "categorie": "person"
+      },
+      {
+        "id": "57176",
+        "label": "柚木雅",
+        "info": "柚木の妹で、黒髪にウェーブのかかった抜群の美少女。勉強もできて友達も多く、しっかり者。兄弟の中では柚木に1番似ている。礼乃と同じ学校の中等部に通っている。実はブラコン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/a7/57176_crt_zz5Fi.jpg",
+        "link": "https://bgm.tv/character/57176",
+        "categorie": "person"
+      },
+      {
+        "id": "57175",
+        "label": "高阶礼乃",
+        "info": "第16話より登場。高校1年生、柚木の婚約者候補の1人。左目の泣きぼくろが特徴を持の和装の美少女。幼い頃、パーティで心細く一人泣いているところを出会って以来、柚木に熱い想いを寄せている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/ed/57175_crt_3bXLJ.jpg",
+        "link": "https://bgm.tv/character/57175",
+        "categorie": "person"
+      },
+      {
+        "id": "57174",
+        "label": "崎本水枝",
+        "info": "土浦の元彼女。他校に通う高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/fd/57174_crt_di2ae.jpg",
+        "link": "https://bgm.tv/character/57174",
+        "categorie": "person"
+      },
+      {
+        "id": "57177",
+        "label": "火原阳树",
+        "info": "火原の兄。体育大2年生。バスケをしていて目標はプロ入りすること。面倒見がよく後輩から慕われている。高校は地元の公立だった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/28/57177_crt_s5ZK2.jpg",
+        "link": "https://bgm.tv/character/57177",
+        "categorie": "person"
+      },
+      {
+        "id": "57178",
+        "label": "绪形勇",
+        "info": "火原の小・中学生時代の陸上仲間。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6d/20/57178_crt_s5X4h.jpg",
+        "link": "https://bgm.tv/character/57178",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

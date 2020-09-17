@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18001",
+        "label": "佐藤良子",
+        "info": "田中罗密欧原作的AURA～魔竜院光牙最後の闘い～系列作品中的角色。",
+        "image": "https://lain.bgm.tv/pic/crt/m/63/fe/18001_crt_PGPNJ.jpg",
+        "link": "https://bgm.tv/character/18001",
+        "categorie": "person"
+      },
+      {
+        "id": "27087",
+        "label": "佐藤一郎",
+        "info": "本作主角，作品以其第一人称进行。班上同学为了和良子有所区别，给他取了“Men's”这个绰号。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/f3/27087_crt_cR4J5.jpg?r=1427355302",
+        "link": "https://bgm.tv/character/27087",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

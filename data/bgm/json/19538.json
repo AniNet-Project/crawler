@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4165",
+        "label": "花右京太郎",
+        "info": "母亲过世後本打算去投靠爷爷，却意外地得知自己在一天之内继承了爷爷的庄园，以一个普通中学生的身份，成为了「花右京家」的主人。学业运动都不算优秀，为人非常温柔体贴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/f0/4165_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4165",
+        "categorie": "person"
+      },
+      {
+        "id": "4166",
+        "label": "マリエル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/ae/4166_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4166",
+        "categorie": "person"
+      },
+      {
+        "id": "4167",
+        "label": "鈴木イクヨ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/38/4167_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4167",
+        "categorie": "person"
+      },
+      {
+        "id": "4168",
+        "label": "剣コノヱ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/6b/4168_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4168",
+        "categorie": "person"
+      },
+      {
+        "id": "4169",
+        "label": "慈悲王リュウカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/39/4169_crt_m9Nn9.jpg",
+        "link": "https://bgm.tv/character/4169",
+        "categorie": "person"
+      },
+      {
+        "id": "4170",
+        "label": "さんご",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/c8/4170_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4170",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18270",
+        "label": "德拉·摩奇玛兹",
+        "info": "自称由南方国家到来。懂得说人话的鸟。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/5e/18270_crt_GtNfM.jpg",
+        "link": "https://bgm.tv/character/18270",
+        "categorie": "person"
+      },
+      {
+        "id": "18402",
+        "label": "麦洽·摩奇玛兹",
+        "info": "南国岛屿的王子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/7c/18402_crt_1RTot.jpg",
+        "link": "https://bgm.tv/character/18402",
+        "categorie": "person"
+      },
+      {
+        "id": "18403",
+        "label": "乔伊·摩奇玛兹",
+        "info": "王子的侍从。担任鸟占官的职务。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/14/18403_crt_kfuvL.jpg",
+        "link": "https://bgm.tv/character/18403",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65648",
+        "label": "有宮すみれ",
+        "info": "絶対権力を持ちつつも寿命を迎えた大物地方政治家・有宮鴨茂の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/85/65648_crt_6G2eB.jpg",
+        "link": "https://bgm.tv/character/65648",
+        "categorie": "person"
+      },
+      {
+        "id": "65649",
+        "label": "有宮千里",
+        "info": "有宮家の長女。清楚でしとやかな容貌。しかし、口調は穏やかだが、",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/63/65649_crt_j7v3I.jpg",
+        "link": "https://bgm.tv/character/65649",
+        "categorie": "person"
+      },
+      {
+        "id": "65650",
+        "label": "有宮美宙",
+        "info": "有宮家の次女。美人であるものの、容姿もお金の使い方も派手なお嬢様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/85/65650_crt_6UBtU.jpg",
+        "link": "https://bgm.tv/character/65650",
+        "categorie": "person"
+      },
+      {
+        "id": "65651",
+        "label": "有宮詩苑",
+        "info": "有宮家の三女。華美な一族の中にあって、礼儀正しく物静かで優しい女のコ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/5a/65651_crt_f5vD1.jpg",
+        "link": "https://bgm.tv/character/65651",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

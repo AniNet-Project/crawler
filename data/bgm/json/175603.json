@@ -1,0 +1,221 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "30070",
+        "label": "玛琳",
+        "info": "“七大罪”之一，被称为“暴食之罪”(Boar's Sin)。纹身为“野猪”，位于脖子左侧。 外表为穿着暴露的美女。亚瑟王的师傅兼好友。罪状不明。被团长称为“布列塔利亚第一魔术师”，拥有空间转移的能力，还会制作各式各样的魔法道具和药品，例如霍克的“巴洛魔的魔眼”和黛安的变小魔药逆向版。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/03/30070_crt_BeUHH.jpg",
+        "link": "https://bgm.tv/character/30070",
+        "categorie": "person"
+      },
+      {
+        "id": "26306",
+        "label": "梅利奥达斯",
+        "info": "「七つの大罪」の一人にして団長。通称「憤怒の罪（ドラゴン・シン）(Dragon's Sin)のメリオダス」。印となる獣は龍。手配書の人相書きは無精髭をたくわえた男だが、実際には年端もいかない少年の姿をしており、10年前から容姿が変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/4a/26306_crt_iU6Iu.jpg",
+        "link": "https://bgm.tv/character/26306",
+        "categorie": "person"
+      },
+      {
+        "id": "26480",
+        "label": "伊丽莎白·里昂尼丝",
+        "info": "リオネス王国第3王女。聖騎士のクーデターを憂い、王都奪還の助力を七つの大罪に乞うためにメリオダスと同行する。七つの大罪と同行しているため、彼ら共々指名手配にされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/03/26480_crt_DXuAZ.jpg",
+        "link": "https://bgm.tv/character/26480",
+        "categorie": "person"
+      },
+      {
+        "id": "26481",
+        "label": "霍克",
+        "info": "人語を解する豚。メリオダスの友人。残飯処理などを請け負う、酒樽を担いで商売をすることもある。母親の超巨大豚ホークママの頭に「豚の帽子亭」が乗っており、酒場が移動するのは彼女の力のお蔭である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/fc/26481_crt_kSvv6.jpg",
+        "link": "https://bgm.tv/character/26481",
+        "categorie": "person"
+      },
+      {
+        "id": "26572",
+        "label": "黛安",
+        "info": "「嫉妬の罪（サーペント・シン）のディアンヌ」。印となる獣は蛇。刺青の位置は左の太腿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/9c/26572_crt_LJrNq.jpg?r=1426527849",
+        "link": "https://bgm.tv/character/26572",
+        "categorie": "person"
+      },
+      {
+        "id": "26571",
+        "label": "班",
+        "info": "「強欲の罪（フォックス・シン）(Fox's Sin)のバン」。印となる獣は狐。刺青の位置は左の脇腹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/2c/26571_crt_CtmD3.jpg",
+        "link": "https://bgm.tv/character/26571",
+        "categorie": "person"
+      },
+      {
+        "id": "26570",
+        "label": "金",
+        "info": "「怠惰の罪（グリズリー・シン）(Grizzly's Sin)のキング」。印となる獣は熊。刺青の位置は左の脹脛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8d/26570_crt_74u4j.jpg",
+        "link": "https://bgm.tv/character/26570",
+        "categorie": "person"
+      },
+      {
+        "id": "29253",
+        "label": "高瑟",
+        "info": "「色欲の罪（ゴート・シン）(Goat's Sin)のゴウセル」。印となる獣は山羊。刺青の位置は右胸。手配書では巨大な鎧巨人（アーマージャイアント）の姿で描かれるが、本体はメガネをかけた中性的な美少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/87/29253_crt_881N9.jpg",
+        "link": "https://bgm.tv/character/29253",
+        "categorie": "person"
+      },
+      {
+        "id": "28136",
+        "label": "杰莉卡",
+        "info": "「新世代」の一人。元々はバステ監獄の守護を任された聖騎士見習い。体型はグラマーで、男勝りな性格の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/e9/28136_crt_EMJjj.jpg",
+        "link": "https://bgm.tv/character/28136",
+        "categorie": "person"
+      },
+      {
+        "id": "30087",
+        "label": "维罗妮卡·里昂尼丝",
+        "info": "リオネス第二王女にしてエリザベスの義姉。小柄な体型とつり目が特徴。お転婆な性格で剣を振るう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/c2/30087_crt_PrOBB.jpg?r=1425279459",
+        "link": "https://bgm.tv/character/30087",
+        "categorie": "person"
+      },
+      {
+        "id": "63317",
+        "label": "オスロー",
+        "info": "キングが連れている黒妖犬（ブラックハウンド）の僅かな生き残りの一匹。異次元を移動したり飲み込んだ物を別の場所に転送する不思議な力を持っている。聖戦時からゲラードに付き従っており、現在はキングの護衛を命じられている。警戒度によって体のサイズが伸縮するその正体は「どんな姿になってもゲラードを守る」という贖罪のために転生した聖痕の戦士の裏切り者「ロウ」。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/8d/63317_crt_95322.jpg",
+        "link": "https://bgm.tv/character/63317",
+        "categorie": "person"
+      },
+      {
+        "id": "63337",
+        "label": "ペリオ",
+        "info": "オーダン村の村長（声 - 田中進太郎）の息子。〈七つの大罪〉にあこがれており、村の子供達と共に「〈七つの大罪〉ごっこ」をしている。アーマンドを演じていたゴウセルに涙を流して説得を試みるが、「お前の知るアーマンドはこの世に存在していない」といわれ、聖騎士になって捕まえると本人に宣言して別離。後に記憶を取り戻したゴウセルによって魔神族の襲撃から救われ、友誼を深めた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/58/63337_crt_pj38H.jpg",
+        "link": "https://bgm.tv/character/63337",
+        "categorie": "person"
+      },
+      {
+        "id": "30090",
+        "label": "玛格丽特·里昂尼丝",
+        "info": "リオネス第一王女。ベロニカの姉でエリザベスの義姉。穏やかな雰囲気を漂わせる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/60/30090_crt_Fr05k.jpg?r=1493474701",
+        "link": "https://bgm.tv/character/30090",
+        "categorie": "person"
+      },
+      {
+        "id": "26737",
+        "label": "吉尔桑达",
+        "info": "ドレファス派の聖騎士のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/38/26737_crt_awadR.jpg",
+        "link": "https://bgm.tv/character/26737",
+        "categorie": "person"
+      },
+      {
+        "id": "30082",
+        "label": "豪泽尔",
+        "info": "ドレファス派の聖騎士のひとりで、金剛に次ぐ白金（プラチナ）の称号を持つ。螺旋形の剣を持つ青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/87/30082_crt_VxX07.jpg",
+        "link": "https://bgm.tv/character/30082",
+        "categorie": "person"
+      },
+      {
+        "id": "30086",
+        "label": "古里亚莫尔",
+        "info": "父亲是圣骑士长德弗雷斯。作为维尔妮卡的侍卫，现在与幼驯染的吉尔桑达、豪泽尔共同行动。对为了维尔妮卡锻炼的肌肉感到自豪。在伊丝塔尔的修炼窟里，因为某些原因变成了小孩儿体型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f2/30086_crt_Ba4G4.jpg",
+        "link": "https://bgm.tv/character/30086",
+        "categorie": "person"
+      },
+      {
+        "id": "30089",
+        "label": "巴尔托拉·里昂尼丝",
+        "info": "里昂尼丝王国的国王，被亨德里克森软禁在【完美无缺的立方体】内，后被七原罪等人救出。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/af/30089_crt_0NiQe.jpg?r=1425278791",
+        "link": "https://bgm.tv/character/30089",
+        "categorie": "person"
+      },
+      {
+        "id": "30088",
+        "label": "德雷弗斯",
+        "info": "現在の聖騎士たちを取りまとめている二大聖騎士長のひとり。先代聖騎士長ザラトラスの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/3a/30088_crt_toiE1.jpg",
+        "link": "https://bgm.tv/character/30088",
+        "categorie": "person"
+      },
+      {
+        "id": "32422",
+        "label": "史雷达",
+        "info": "生日4月4日，「破曉之咆哮」的隊長。由於巴爾托拉·里歐涅絲國王對其有恩，因此對國王非常盡忠，其名字也是國王取的。武器為一把鋸齒刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/22/32422_crt_k2Mc3.jpg",
+        "link": "https://bgm.tv/character/32422",
+        "categorie": "person"
+      },
+      {
+        "id": "31712",
+        "label": "古斯塔夫",
+        "info": "海爾布萊姆手下的聖騎士，又名「古斯塔夫爵士」，傑莉卡的哥哥。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/77/31712_crt_pr38M.jpg",
+        "link": "https://bgm.tv/character/31712",
+        "categorie": "person"
+      },
+      {
+        "id": "30084",
+        "label": "亨德里克森",
+        "info": "ドレファスと並ぶ二大聖騎士長のひとり。短髪と整えたあごひげが特徴の理知的な男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bc/30084_crt_75cUH.jpg?r=1425279082",
+        "link": "https://bgm.tv/character/30084",
+        "categorie": "person"
+      },
+      {
+        "id": "32421",
+        "label": "薇薇安",
+        "info": "為七大罪暴食之罪瑪琳的徒弟，喜歡吉爾桑達，將長公主瑪格莉特作為人質威脅吉爾桑達聽命於她與韓德利克森。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/17/32421_crt_brFFf.jpg?r=1493439700",
+        "link": "https://bgm.tv/character/32421",
+        "categorie": "person"
+      },
+      {
+        "id": "63244",
+        "label": "サイモン",
+        "info": "長髪の少年聖騎士。身長を超える日本刀を振るう少年。血気盛んな性格をスレイダーに諌められることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/cb/63244_crt_Scj0C.jpg",
+        "link": "https://bgm.tv/character/63244",
+        "categorie": "person"
+      },
+      {
+        "id": "28135",
+        "label": "基娜",
+        "info": "「新世代」の一人。長い黒髪で細目が特徴の少女。平民出身で、父親が反逆行為ののち行方不明となったため周囲から疎んじられていた。弟のジールを守るために聖騎士を目指し、「新世代」となった。魔神の血による破壊衝動によって無辜の民を殺害、冷徹に任務をこなしていたが、本来は情に厚い性格。そこをゴウセルに付け込まれて操られてしまったこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f8/28135_crt_C98I0.jpg",
+        "link": "https://bgm.tv/character/28135",
+        "categorie": "person"
+      },
+      {
+        "id": "28138",
+        "label": "霍克妈妈",
+        "info": "霍克的妈妈，一头浑身绿色的大猪，体型巨大。背上驮着猪帽子亭，酒馆营业时钻入地下休息，酒馆地点转移时才会出现。不会说话，但能理解人类语言。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/68/28138_crt_vIUAQ.jpg",
+        "link": "https://bgm.tv/character/28138",
+        "categorie": "person"
+      },
+      {
+        "id": "58779",
+        "label": "艾斯卡诺",
+        "info": "斗级：15（夜晚，魔力5・武力5・气力5）→50060（黎明时）→114000(可在上升)（逼近正中午时）→无法量测（到达正午瞬间，进入无敌状态1分钟）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/f2/58779_crt_c7mtv.jpg?r=1517807254",
+        "link": "https://bgm.tv/character/58779",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

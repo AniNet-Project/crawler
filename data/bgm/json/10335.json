@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14599",
+        "label": "チャプラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/8b/14599_crt_EnrmM.jpg",
+        "link": "https://bgm.tv/character/14599",
+        "categorie": "person"
+      },
+      {
+        "id": "14601",
+        "label": "シッダールタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/b1/14601_crt_16dqm.jpg?r=1431778104",
+        "link": "https://bgm.tv/character/14601",
+        "categorie": "person"
+      },
+      {
+        "id": "14598",
+        "label": "チャプラの母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/ea/14598_crt_4y8GD.jpg",
+        "link": "https://bgm.tv/character/14598",
+        "categorie": "person"
+      },
+      {
+        "id": "14602",
+        "label": "アシタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/08/14602_crt_Frf3v.jpg",
+        "link": "https://bgm.tv/character/14602",
+        "categorie": "person"
+      },
+      {
+        "id": "14603",
+        "label": "ブダイ将軍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/b3/14603_crt_ONvhT.jpg",
+        "link": "https://bgm.tv/character/14603",
+        "categorie": "person"
+      },
+      {
+        "id": "14604",
+        "label": "パンダカ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14604",
+        "categorie": "person"
+      },
+      {
+        "id": "14605",
+        "label": "タッタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/8b/14605_crt_n2hj0.jpg",
+        "link": "https://bgm.tv/character/14605",
+        "categorie": "person"
+      },
+      {
+        "id": "14606",
+        "label": "ミゲーラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1f/df/14606_crt_eCk44.jpg",
+        "link": "https://bgm.tv/character/14606",
+        "categorie": "person"
+      },
+      {
+        "id": "14607",
+        "label": "ナラダッタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/f0/14607_crt_4D2Q4.jpg?r=1416839012",
+        "link": "https://bgm.tv/character/14607",
+        "categorie": "person"
+      },
+      {
+        "id": "14600",
+        "label": "スッドーダナ王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/0a/14600_crt_jOrrz.jpg",
+        "link": "https://bgm.tv/character/14600",
+        "categorie": "person"
+      },
+      {
+        "id": "14608",
+        "label": "ジョーテカ",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14608",
+        "categorie": "person"
+      },
+      {
+        "id": "14609",
+        "label": "マリッカ姫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/c3/14609_crt_En1JY.jpg",
+        "link": "https://bgm.tv/character/14609",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

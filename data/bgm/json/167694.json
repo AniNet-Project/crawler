@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "44697",
+        "label": "月川紗紀",
+        "info": "主人公である佳佑の義理の妹。しかしてその正体はサキュバス。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/c5/44697_crt_3R835.jpg",
+        "link": "https://bgm.tv/character/44697",
+        "categorie": "person"
+      },
+      {
+        "id": "44698",
+        "label": "サキ",
+        "info": "普段は眠っているサキの第二人格──サキュバスの本性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/11/44698_crt_R98tO.jpg",
+        "link": "https://bgm.tv/character/44698",
+        "categorie": "person"
+      },
+      {
+        "id": "44699",
+        "label": "真鍋理璃",
+        "info": "佳佑のクラスメイトで、隣の席に座っており、おまけに佳佑と同じ民俗学研究会に所属している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/36/44699_crt_nbB5N.jpg",
+        "link": "https://bgm.tv/character/44699",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

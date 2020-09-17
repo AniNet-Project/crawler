@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6154",
+        "label": "小智",
+        "info": "小智是精灵宝可梦动画的主角。设计以神奇宝贝红绿蓝版、神奇宝贝皮卡丘版和神奇宝贝火红叶绿版的主角为蓝本。小智的名字来自于神奇宝贝的创始者田尻智。英文姓氏（Ketchum）源于神奇宝贝的英文原本的标语：“Gotta catch 'em all”。动画中小智的日配配音演员为松本梨香，国语（台湾）当前的配音为汪世玮。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/f0/6154_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6154",
+        "categorie": "person"
+      },
+      {
+        "id": "14222",
+        "label": "艾莉丝",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/ba/14222_crt_mMrs4.jpg",
+        "link": "https://bgm.tv/character/14222",
+        "categorie": "person"
+      },
+      {
+        "id": "14223",
+        "label": "天桐",
+        "info": "游戏中",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/90/14223_crt_8iiEl.jpg",
+        "link": "https://bgm.tv/character/14223",
+        "categorie": "person"
+      },
+      {
+        "id": "14536",
+        "label": "比克提尼",
+        "info": "比克提尼是一种长得有点小，有些像老鼠的宝可梦。它巨大而又尖锐的耳朵构成了字母V的样子。比克提尼有着蓝色的大眼睛，占据了头部很多的空间。与身体不相衬的大脑袋使它的身体看起来要比正常的更小一些。它的身体颜色与奶油十分相近，耳朵顶部、头顶和四肢都是橙色。它的四肢末端是圆形的，但是在末端稍上的位置上长出类似于“爪子”的三指小手。比克提尼的两个像翅膀一样的尾巴使它拥有了飞翔的能力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/a8/14536_crt_FrXXX.jpg",
+        "link": "https://bgm.tv/character/14536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

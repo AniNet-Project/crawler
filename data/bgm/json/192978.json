@@ -1,0 +1,437 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26306",
+        "label": "梅利奥达斯",
+        "info": "「七つの大罪」の一人にして団長。通称「憤怒の罪（ドラゴン・シン）(Dragon's Sin)のメリオダス」。印となる獣は龍。手配書の人相書きは無精髭をたくわえた男だが、実際には年端もいかない少年の姿をしており、10年前から容姿が変わっていない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/4a/26306_crt_iU6Iu.jpg",
+        "link": "https://bgm.tv/character/26306",
+        "categorie": "person"
+      },
+      {
+        "id": "26480",
+        "label": "伊丽莎白·里昂尼丝",
+        "info": "リオネス王国第3王女。聖騎士のクーデターを憂い、王都奪還の助力を七つの大罪に乞うためにメリオダスと同行する。七つの大罪と同行しているため、彼ら共々指名手配にされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/03/26480_crt_DXuAZ.jpg",
+        "link": "https://bgm.tv/character/26480",
+        "categorie": "person"
+      },
+      {
+        "id": "26481",
+        "label": "霍克",
+        "info": "人語を解する豚。メリオダスの友人。残飯処理などを請け負う、酒樽を担いで商売をすることもある。母親の超巨大豚ホークママの頭に「豚の帽子亭」が乗っており、酒場が移動するのは彼女の力のお蔭である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/fc/26481_crt_kSvv6.jpg",
+        "link": "https://bgm.tv/character/26481",
+        "categorie": "person"
+      },
+      {
+        "id": "26570",
+        "label": "金",
+        "info": "「怠惰の罪（グリズリー・シン）(Grizzly's Sin)のキング」。印となる獣は熊。刺青の位置は左の脹脛。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/8d/26570_crt_74u4j.jpg",
+        "link": "https://bgm.tv/character/26570",
+        "categorie": "person"
+      },
+      {
+        "id": "26571",
+        "label": "班",
+        "info": "「強欲の罪（フォックス・シン）(Fox's Sin)のバン」。印となる獣は狐。刺青の位置は左の脇腹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/2c/26571_crt_CtmD3.jpg",
+        "link": "https://bgm.tv/character/26571",
+        "categorie": "person"
+      },
+      {
+        "id": "26572",
+        "label": "黛安",
+        "info": "「嫉妬の罪（サーペント・シン）のディアンヌ」。印となる獣は蛇。刺青の位置は左の太腿。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/9c/26572_crt_LJrNq.jpg?r=1426527849",
+        "link": "https://bgm.tv/character/26572",
+        "categorie": "person"
+      },
+      {
+        "id": "29253",
+        "label": "高瑟",
+        "info": "「色欲の罪（ゴート・シン）(Goat's Sin)のゴウセル」。印となる獣は山羊。刺青の位置は右胸。手配書では巨大な鎧巨人（アーマージャイアント）の姿で描かれるが、本体はメガネをかけた中性的な美少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/87/29253_crt_881N9.jpg",
+        "link": "https://bgm.tv/character/29253",
+        "categorie": "person"
+      },
+      {
+        "id": "26737",
+        "label": "吉尔桑达",
+        "info": "ドレファス派の聖騎士のひとり。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/38/26737_crt_awadR.jpg",
+        "link": "https://bgm.tv/character/26737",
+        "categorie": "person"
+      },
+      {
+        "id": "28135",
+        "label": "基娜",
+        "info": "「新世代」の一人。長い黒髪で細目が特徴の少女。平民出身で、父親が反逆行為ののち行方不明となったため周囲から疎んじられていた。弟のジールを守るために聖騎士を目指し、「新世代」となった。魔神の血による破壊衝動によって無辜の民を殺害、冷徹に任務をこなしていたが、本来は情に厚い性格。そこをゴウセルに付け込まれて操られてしまったこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/02/f8/28135_crt_C98I0.jpg",
+        "link": "https://bgm.tv/character/28135",
+        "categorie": "person"
+      },
+      {
+        "id": "28136",
+        "label": "杰莉卡",
+        "info": "「新世代」の一人。元々はバステ監獄の守護を任された聖騎士見習い。体型はグラマーで、男勝りな性格の少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/e9/28136_crt_EMJjj.jpg",
+        "link": "https://bgm.tv/character/28136",
+        "categorie": "person"
+      },
+      {
+        "id": "28137",
+        "label": "伊莱恩",
+        "info": "妖精族の姫で、キングことハーレクインの妹。生命の泉の番人を任されていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/fc/28137_crt_kxxZc.jpg",
+        "link": "https://bgm.tv/character/28137",
+        "categorie": "person"
+      },
+      {
+        "id": "30070",
+        "label": "玛琳",
+        "info": "“七大罪”之一，被称为“暴食之罪”(Boar's Sin)。纹身为“野猪”，位于脖子左侧。 外表为穿着暴露的美女。亚瑟王的师傅兼好友。罪状不明。被团长称为“布列塔利亚第一魔术师”，拥有空间转移的能力，还会制作各式各样的魔法道具和药品，例如霍克的“巴洛魔的魔眼”和黛安的变小魔药逆向版。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/03/30070_crt_BeUHH.jpg",
+        "link": "https://bgm.tv/character/30070",
+        "categorie": "person"
+      },
+      {
+        "id": "30082",
+        "label": "豪泽尔",
+        "info": "ドレファス派の聖騎士のひとりで、金剛に次ぐ白金（プラチナ）の称号を持つ。螺旋形の剣を持つ青年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/87/30082_crt_VxX07.jpg",
+        "link": "https://bgm.tv/character/30082",
+        "categorie": "person"
+      },
+      {
+        "id": "30084",
+        "label": "亨德里克森",
+        "info": "ドレファスと並ぶ二大聖騎士長のひとり。短髪と整えたあごひげが特徴の理知的な男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/bc/30084_crt_75cUH.jpg?r=1425279082",
+        "link": "https://bgm.tv/character/30084",
+        "categorie": "person"
+      },
+      {
+        "id": "30086",
+        "label": "古里亚莫尔",
+        "info": "父亲是圣骑士长德弗雷斯。作为维尔妮卡的侍卫，现在与幼驯染的吉尔桑达、豪泽尔共同行动。对为了维尔妮卡锻炼的肌肉感到自豪。在伊丝塔尔的修炼窟里，因为某些原因变成了小孩儿体型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/f2/30086_crt_Ba4G4.jpg",
+        "link": "https://bgm.tv/character/30086",
+        "categorie": "person"
+      },
+      {
+        "id": "30087",
+        "label": "维罗妮卡·里昂尼丝",
+        "info": "リオネス第二王女にしてエリザベスの義姉。小柄な体型とつり目が特徴。お転婆な性格で剣を振るう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/c2/30087_crt_PrOBB.jpg?r=1425279459",
+        "link": "https://bgm.tv/character/30087",
+        "categorie": "person"
+      },
+      {
+        "id": "30088",
+        "label": "德雷弗斯",
+        "info": "現在の聖騎士たちを取りまとめている二大聖騎士長のひとり。先代聖騎士長ザラトラスの実弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/3a/30088_crt_toiE1.jpg",
+        "link": "https://bgm.tv/character/30088",
+        "categorie": "person"
+      },
+      {
+        "id": "30090",
+        "label": "玛格丽特·里昂尼丝",
+        "info": "リオネス第一王女。ベロニカの姉でエリザベスの義姉。穏やかな雰囲気を漂わせる女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/60/30090_crt_Fr05k.jpg?r=1493474701",
+        "link": "https://bgm.tv/character/30090",
+        "categorie": "person"
+      },
+      {
+        "id": "30091",
+        "label": "亚瑟·潘德拉刚",
+        "info": "新興国キャメロットにおいて、突如出現した大岩に刺さっていた剣を引き抜いたことから王座に就いた新王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/08/30091_crt_MPy20.jpg",
+        "link": "https://bgm.tv/character/30091",
+        "categorie": "person"
+      },
+      {
+        "id": "32419",
+        "label": "萨拉特拉斯",
+        "info": "生日7月14日，前代聖騎士長。為森林賢者(德魯伊)的後代。吉爾桑達的父親。10年前疑為被七大罪殺害，導致七大罪被定下了顛覆王國的反叛罪名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/d1/32419_crt_0QGwq.jpg",
+        "link": "https://bgm.tv/character/32419",
+        "categorie": "person"
+      },
+      {
+        "id": "58779",
+        "label": "艾斯卡诺",
+        "info": "斗级：15（夜晚，魔力5・武力5・气力5）→50060（黎明时）→114000(可在上升)（逼近正中午时）→无法量测（到达正午瞬间，进入无敌状态1分钟）",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/f2/58779_crt_c7mtv.jpg?r=1517807254",
+        "link": "https://bgm.tv/character/58779",
+        "categorie": "person"
+      },
+      {
+        "id": "58780",
+        "label": "玛托罗那",
+        "info": "巨人族部落“大地之牙（メガドーザ）”的战士长，戴安娜的师傅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/cb/58780_crt_A6665.jpg",
+        "link": "https://bgm.tv/character/58780",
+        "categorie": "person"
+      },
+      {
+        "id": "58781",
+        "label": "赛多里斯",
+        "info": "外表为黑发的少年，拥有与梅里奥达斯相似的容貌。根据外传描述，魔力与梅里奥达斯非常相似。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/a1/58781_crt_QMMFt.jpg",
+        "link": "https://bgm.tv/character/58781",
+        "categorie": "person"
+      },
+      {
+        "id": "58782",
+        "label": "艾斯塔洛萨",
+        "info": "容貌与通缉令上所描绘的梅里奥达斯的画像一样。被赛多里斯称为“兄长”。能轻易抵挡梅里奥达斯的复仇反击。三千年前的容貌与梅里奥达斯一样，曾非常崇拜梅里奥达斯。后来与艾斯卡诺展开激战，最终被对方“无慈悲的太阳”打飞，陷入昏迷。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/d6/58782_crt_777A9.jpg",
+        "link": "https://bgm.tv/character/58782",
+        "categorie": "person"
+      },
+      {
+        "id": "58783",
+        "label": "迦兰",
+        "info": "好战且容易得意忘形。完全没魔力状态下的斗级是26000。拥有惊人的跳跃力，从爱丁堡跳到卡梅洛王国只需要72步，移动速度则是快到如瞬间移动，甚至力气比身为巨人族的戴安娜还要大。可以在魔力见底的状态下彻底击败三名金刚级圣骑士并毫发无伤。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/58/58783_crt_SZYIS.jpg",
+        "link": "https://bgm.tv/character/58783",
+        "categorie": "person"
+      },
+      {
+        "id": "58784",
+        "label": "梅拉斯丘拉",
+        "info": "斗级：34000（魔力31500・武力500・气力2000）",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/b0/58784_crt_6U46o.jpg",
+        "link": "https://bgm.tv/character/58784",
+        "categorie": "person"
+      },
+      {
+        "id": "58785",
+        "label": "多罗尔",
+        "info": "巨人一族始祖。对于人类对他的称呼“巴罗尔（バロール）”反感。和梅里奥达斯是三千年前圣战的伙伴，后被赛多里斯打败，在战败的屈辱面前选择了成为十诫之一。和葛罗西基尼亚一起帮助金和戴安娜特训希望能超越自己。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/01/58785_crt_qF22n.jpg",
+        "link": "https://bgm.tv/character/58785",
+        "categorie": "person"
+      },
+      {
+        "id": "58786",
+        "label": "葛罗西基尼亚",
+        "info": "外表为有着章鱼触须的中性小孩，而章鱼触须实为其灵枪。真身为初代妖精王。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/01/58786_crt_eYf3N.jpg",
+        "link": "https://bgm.tv/character/58786",
+        "categorie": "person"
+      },
+      {
+        "id": "58787",
+        "label": "蒙斯皮托",
+        "info": "外表为留有小胡子的中年男性。使用狱炎鸟，聚集魔力以火焰来对敌人进行追尾攻击。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/97/58787_crt_sans2.jpg",
+        "link": "https://bgm.tv/character/58787",
+        "categorie": "person"
+      },
+      {
+        "id": "58788",
+        "label": "德里艾利",
+        "info": "外表为长曲发少女，并以黑色团块遮着身体。说话简约，除了蒙斯皮托外无人能理解明白。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/8b/58788_crt_CS125.jpg",
+        "link": "https://bgm.tv/character/58788",
+        "categorie": "person"
+      },
+      {
+        "id": "58789",
+        "label": "古雷罗德",
+        "info": "外表为多个灰色魔神的脸覆盖全身的黑色团状物体。是在无性别的下位魔神中突变而产生的稀有女王种上位魔神，假扮成多格特与戴尔多勒等三人调班，偷走了解开完美无缺立方体的咒言之玉，救了被苍天的六连星抓住的弗劳德林。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/e9/58789_crt_Z0E50.jpg",
+        "link": "https://bgm.tv/character/58789",
+        "categorie": "person"
+      },
+      {
+        "id": "58790",
+        "label": "弗劳德林",
+        "info": "十六年前杀死梅里奥达斯的恋人丽兹，和梅里奥达斯死斗后败北，但是仍苟延残喘的活着，十年前遇到至达那弗尔王国调查的韩德利克森与德雷法斯，为夺回力量而寄宿在德雷法斯体内，并控制了韩德利克森的意志。回到王国后开始策划解开魔神族的封印，和韩德利克森一起杀死构成威胁的萨拉托拉斯，并嫁祸给七大罪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/cc/58790_crt_8sDm8.jpg?r=1517808090",
+        "link": "https://bgm.tv/character/58790",
+        "categorie": "person"
+      },
+      {
+        "id": "60625",
+        "label": "杰拉德",
+        "info": "侍奉历代妖精王的女性妖精。只认可哈勒昆为妖精王，对班采取过敌对的行动。就连三千年前的魔神族兵器阿尔比恩也有所了解，十分的长寿。以妖精王的辅佐为己任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/ba/60625_crt_3Cbi3.jpg",
+        "link": "https://bgm.tv/character/60625",
+        "categorie": "person"
+      },
+      {
+        "id": "60626",
+        "label": "ジール",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/d2/60626_crt_G3vQZ.jpg?r=1519635805",
+        "link": "https://bgm.tv/character/60626",
+        "categorie": "person"
+      },
+      {
+        "id": "60627",
+        "label": "恩特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/a7/60627_crt_8YFIG.jpg?r=1517807963",
+        "link": "https://bgm.tv/character/60627",
+        "categorie": "person"
+      },
+      {
+        "id": "61388",
+        "label": "多洛蕾斯",
+        "info": "讨厌战斗，温柔的巨人族小姑娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/32/61388_crt_uRNzz.jpg",
+        "link": "https://bgm.tv/character/61388",
+        "categorie": "person"
+      },
+      {
+        "id": "63240",
+        "label": "丹泽尔",
+        "info": "「苍天的六芒星 团长」",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/23/63240_crt_Rc0kT.jpg",
+        "link": "https://bgm.tv/character/63240",
+        "categorie": "person"
+      },
+      {
+        "id": "63244",
+        "label": "サイモン",
+        "info": "長髪の少年聖騎士。身長を超える日本刀を振るう少年。血気盛んな性格をスレイダーに諌められることもある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/cb/63244_crt_Scj0C.jpg",
+        "link": "https://bgm.tv/character/63244",
+        "categorie": "person"
+      },
+      {
+        "id": "63248",
+        "label": "德斯皮亚斯",
+        "info": "「苍天的六芒星」",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/32/63248_crt_h368Q.jpg",
+        "link": "https://bgm.tv/character/63248",
+        "categorie": "person"
+      },
+      {
+        "id": "63249",
+        "label": "瓦伊酉",
+        "info": "「苍天的六芒星」",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/9a/63249_crt_5j8RU.jpg",
+        "link": "https://bgm.tv/character/63249",
+        "categorie": "person"
+      },
+      {
+        "id": "63309",
+        "label": "多格特",
+        "info": "「苍天的六芒星」",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/17/63309_crt_w4CcW.jpg",
+        "link": "https://bgm.tv/character/63309",
+        "categorie": "person"
+      },
+      {
+        "id": "63310",
+        "label": "黛尔多勒",
+        "info": "蠱惑的な女性聖騎士。ハート型の杖を持っている。ワイーヨとアーデンによく悪態をついている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/48/63310_crt_8u8OI.jpg",
+        "link": "https://bgm.tv/character/63310",
+        "categorie": "person"
+      },
+      {
+        "id": "63311",
+        "label": "阿登",
+        "info": "「苍天的六芒星」",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/76/63311_crt_3Gmfz.jpg",
+        "link": "https://bgm.tv/character/63311",
+        "categorie": "person"
+      },
+      {
+        "id": "63315",
+        "label": "无名",
+        "info": "腰间佩刀的异国剑士。和亚瑟一同行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/3a/63315_crt_7YYiS.jpg",
+        "link": "https://bgm.tv/character/63315",
+        "categorie": "person"
+      },
+      {
+        "id": "63316",
+        "label": "利兹",
+        "info": "利兹，《七大罪》中的角色。梅利奥达斯的前女友。利兹只是爱称，原名叫做伊丽莎白。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/76/63316_crt_rWvyD.jpg",
+        "link": "https://bgm.tv/character/63316",
+        "categorie": "person"
+      },
+      {
+        "id": "63317",
+        "label": "オスロー",
+        "info": "キングが連れている黒妖犬（ブラックハウンド）の僅かな生き残りの一匹。異次元を移動したり飲み込んだ物を別の場所に転送する不思議な力を持っている。聖戦時からゲラードに付き従っており、現在はキングの護衛を命じられている。警戒度によって体のサイズが伸縮するその正体は「どんな姿になってもゲラードを守る」という贖罪のために転生した聖痕の戦士の裏切り者「ロウ」。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/8d/63317_crt_95322.jpg",
+        "link": "https://bgm.tv/character/63317",
+        "categorie": "person"
+      },
+      {
+        "id": "63326",
+        "label": "婕娜",
+        "info": "德鲁伊首领",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/ff/63326_crt_hTth2.jpg",
+        "link": "https://bgm.tv/character/63326",
+        "categorie": "person"
+      },
+      {
+        "id": "63327",
+        "label": "莎奈莉",
+        "info": "德鲁伊首领",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/99/63327_crt_H43hP.jpg",
+        "link": "https://bgm.tv/character/63327",
+        "categorie": "person"
+      },
+      {
+        "id": "63328",
+        "label": "提奥",
+        "info": "德鲁伊的祭司",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/20/63328_crt_YypSG.jpg",
+        "link": "https://bgm.tv/character/63328",
+        "categorie": "person"
+      },
+      {
+        "id": "63334",
+        "label": "タイズー",
+        "info": "元盗賊にして豪商。バイゼル喧嘩祭りの主催者でもある。第三回まで主催の大会で連覇していた腕っ節の持ち主だが、魔力を扱わないハウザーと抗戦した末に敗北している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/4b/63334_crt_GjrEJ.jpg",
+        "link": "https://bgm.tv/character/63334",
+        "categorie": "person"
+      },
+      {
+        "id": "63338",
+        "label": "ジバゴ",
+        "info": "スリを行っていた狐の獣人。セリオンの父親。バンに盗みを教えた育ての親でもある。普段は人間の姿に擬して市井に紛れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ca/63338_crt_6rLIe.jpg",
+        "link": "https://bgm.tv/character/63338",
+        "categorie": "person"
+      },
+      {
+        "id": "31260",
+        "label": "弗利吉亞",
+        "info": "「怪誕之牙」一員，唯一女性，手持雙頭鞭，魔力是能控制蟲子。被黛安擊敗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/37/31260_crt_i8yDS.jpg?r=1427039871",
+        "link": "https://bgm.tv/character/31260",
+        "categorie": "person"
+      },
+      {
+        "id": "63313",
+        "label": "ギャノン",
+        "info": "16年前、ディアンヌとマトローナの二人を殺そうとした聖騎士。しかしマトローナにより、部下とともに殺された。 魔力「幻聴（ホロウサウンド）」この魔力を受けた者に幻聴を聞かせる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/56/ee/63313_crt_k82RX.jpg",
+        "link": "https://bgm.tv/character/63313",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

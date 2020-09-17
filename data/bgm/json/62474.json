@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67069",
+        "label": "新田七海",
+        "info": "主人公と同じ専門学校に通う一年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ec/33/67069_crt_s901F.jpg",
+        "link": "https://bgm.tv/character/67069",
+        "categorie": "person"
+      },
+      {
+        "id": "67070",
+        "label": "南くるみ",
+        "info": "主人公と同じ専門学校に通う一年生。『七海』と同じ学科を専攻している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/cf/67070_crt_wWoyv.jpg",
+        "link": "https://bgm.tv/character/67070",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

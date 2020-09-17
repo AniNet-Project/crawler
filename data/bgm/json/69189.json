@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49837",
+        "label": "槙村 涼子",
+        "info": "新薬開発チームの総責任者で、特別",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/87/49837_crt_Xc47t.jpg",
+        "link": "https://bgm.tv/character/49837",
+        "categorie": "person"
+      },
+      {
+        "id": "49838",
+        "label": "成瀬 瞳",
+        "info": "特別病棟に勤務する看護婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/ba/49838_crt_2A3PQ.jpg",
+        "link": "https://bgm.tv/character/49838",
+        "categorie": "person"
+      },
+      {
+        "id": "49840",
+        "label": "篠原かなめ",
+        "info": "特別病棟に配属された看護婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/23/49840_crt_9KjjK.jpg",
+        "link": "https://bgm.tv/character/49840",
+        "categorie": "person"
+      },
+      {
+        "id": "49839",
+        "label": "成瀬 知佳",
+        "info": "特別病棟に配属された看護婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/ed/49839_crt_V5IvZ.jpg",
+        "link": "https://bgm.tv/character/49839",
+        "categorie": "person"
+      },
+      {
+        "id": "49841",
+        "label": "高山 和美",
+        "info": "特別病棟に配属された看護婦。",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/c5/49841_crt_38v30.jpg",
+        "link": "https://bgm.tv/character/49841",
+        "categorie": "person"
+      },
+      {
+        "id": "49842",
+        "label": "榊木 裕子",
+        "info": "特別病棟売店に勤務する店員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/1f/49842_crt_ri5CF.jpg",
+        "link": "https://bgm.tv/character/49842",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

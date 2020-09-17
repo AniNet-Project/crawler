@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14705",
+        "label": "濑川祐太",
+        "info": "特別な取り柄もない、普通の大学一年生。友達を作るのも苦手な方。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/19/14705_crt_9e4gf.jpg",
+        "link": "https://bgm.tv/character/14705",
+        "categorie": "person"
+      },
+      {
+        "id": "14706",
+        "label": "小鸟游空",
+        "info": "小鳥遊三姉妹の長女で、茶色味がかったセミロングの髪にリボンを結んだ美少女。物語開始当時14歳。中学2年生（1 - 10巻）→3年生（11 - 15巻）→高校1年生（16巻）→2年生（17巻）→3年生（18巻） 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/5a/14706_crt_Kntk9.jpg",
+        "link": "https://bgm.tv/character/14706",
+        "categorie": "person"
+      },
+      {
+        "id": "14817",
+        "label": "小鸟游美羽",
+        "info": "小鳥遊三姉妹の次女で、金髪ツインテールの美少女小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/f2/14817_crt_cGmQR.jpg",
+        "link": "https://bgm.tv/character/14817",
+        "categorie": "person"
+      },
+      {
+        "id": "14818",
+        "label": "小鸟游雏",
+        "info": "小鳥遊家三姉妹の三女。人懐っこくて可愛い三歳の保育園児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/9b/14818_crt_4izrP.jpg",
+        "link": "https://bgm.tv/character/14818",
+        "categorie": "person"
+      },
+      {
+        "id": "14819",
+        "label": "织田莱香",
+        "info": "多摩文学院大学文学部人文学科2年生（1 - 10巻）→3年生（11 - 15巻）→4年生（16巻）→社会人（17 - 18巻）。路上観察研究会の紅一点。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/02/14819_crt_DqZYn.jpg",
+        "link": "https://bgm.tv/character/14819",
+        "categorie": "person"
+      },
+      {
+        "id": "31850",
+        "label": "小鸟游祐理",
+        "info": "祐太的姐姐、小雏的生母，旧姓“濑川”。独自一人把祐太供养到大学的监护人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ca/97/31850_crt_eVvQ5.jpg",
+        "link": "https://bgm.tv/character/31850",
+        "categorie": "person"
+      },
+      {
+        "id": "31851",
+        "label": "小鸟游信吾",
+        "info": "现今是祐太的姐夫（即祐理的丈夫）。从事有关采购稀土的工作，有三段婚姻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/88/31851_crt_3891w.jpg",
+        "link": "https://bgm.tv/character/31851",
+        "categorie": "person"
+      },
+      {
+        "id": "31855",
+        "label": "仁村浩一",
+        "info": "多摩文学院大学文学系日本文学学科一年级（小说第11卷升为二年级）。老家位于仙台，是个制造味噌的农家，在家中排行第三，有一个妹妹和两个姐姐。是祐太在大学第一个交到的朋友，也是一个喜欢美女的美少年，擅于搭讪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/5c/31855_crt_e0rcY.jpg",
+        "link": "https://bgm.tv/character/31855",
+        "categorie": "person"
+      },
+      {
+        "id": "31856",
+        "label": "佐古俊太郎",
+        "info": "多摩文学院大学三年级。路上观察研究会的会长。但是，在莱香入学时俊太郎就自称是大学三年级，所以实际入学年份尚且未明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/7e/31856_crt_fk5WU.jpg",
+        "link": "https://bgm.tv/character/31856",
+        "categorie": "person"
+      },
+      {
+        "id": "31852",
+        "label": "沙夏·伊莉妮琪娜·加加利纳",
+        "info": "美羽的生母，信吾的前妻。拥有俄罗斯系血统，是大约二十多岁、身形高挑的美女。现时是一名服装设计师。对于书写日文并不擅长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/b2/31852_crt_kUxyU.jpg",
+        "link": "https://bgm.tv/character/31852",
+        "categorie": "person"
+      },
+      {
+        "id": "31857",
+        "label": "北原栞",
+        "info": "16岁，住在小鸟游家正对面的高中二年级学生。性格固执和富正义感，非常容易胡思乱想且容易冲动。和小鸟游三姐妹关系不错。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/df/31857_crt_CUbUX.jpg",
+        "link": "https://bgm.tv/character/31857",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

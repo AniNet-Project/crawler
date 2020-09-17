@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27053",
+        "label": "有马贵将",
+        "info": "在新人时期因击退枭而成为局内的风云人物，能够将昆克运用自如的天才，曾经将四方莲示姊姊杀害，在漫画139话时将金木研打至濒死",
+        "image": "https://lain.bgm.tv/pic/crt/m/6e/2c/27053_crt_3F4un.jpg?r=1421816008",
+        "link": "https://bgm.tv/character/27053",
+        "categorie": "person"
+      },
+      {
+        "id": "36006",
+        "label": "富良太志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/2a/36006_crt_NVuaQ.jpg",
+        "link": "https://bgm.tv/character/36006",
+        "categorie": "person"
+      },
+      {
+        "id": "36007",
+        "label": "三波丽花",
+        "info": "[JACK]登场。富良太志的高中同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9e/28/36007_crt_DOOkK.jpg",
+        "link": "https://bgm.tv/character/36007",
+        "categorie": "person"
+      },
+      {
+        "id": "30950",
+        "label": "大守八云",
+        "info": "アオギリの幹部。3月15日生まれのうお座。血液型O型。鱗赫の半赫者。本名は「大守 八雲（おおもり やくも）」。拷問が趣味で「食」より「遊」で殺しをするサディスト。極めて高い格闘センスを持ち、愛用のホッケーマスクと出身地の13区からCCGより「ジェイソン」の呼称で警戒されている。手の人差し指を曲げ、親指で押して鳴らす癖がある。過去に母親を亡くしたことと、喰種収容所で受けた残虐な拷問によって今の人格になったと述懐している。カネキに執拗な拷問を行うが、覚醒したカネキの反撃に遭い瀕死の重傷を負う結果となり、直後に遭遇したジューゾーを捕食しようとしたが返り討ちにあい死亡し、彼のクインケにされた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/fd/30950_crt_JPG4k.jpg?r=1456323347",
+        "link": "https://bgm.tv/character/30950",
+        "categorie": "person"
+      },
+      {
+        "id": "36008",
+        "label": "笹田秋",
+        "info": "[JACK]登场，富良太志少年起的伙伴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/33/36008_crt_YO53f.jpg",
+        "link": "https://bgm.tv/character/36008",
+        "categorie": "person"
+      },
+      {
+        "id": "36009",
+        "label": "凉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/3d/36009_crt_7lVJp.jpg",
+        "link": "https://bgm.tv/character/36009",
+        "categorie": "person"
+      },
+      {
+        "id": "47754",
+        "label": "丸手斋",
+        "info": "対策Ⅱ課所属の男性捜査官。和修 吉時と親交がある。嫌味な性格で、自慢するために職場へハーレーで乗り付けたり、他者を見下す発言や陰口を繰り返すため、局員たちからの印象はあまりよくない。クインケを「オモチャ」と称し嫌っているが、喰種にアサルトライフルで正確な射撃を行うなど戦士としての実力は確かである模様。アオギリの11区襲撃事件に対処する11区特別対策班の指揮官を務めるが、23区の喰種収容所の襲撃を予測できなかった。梟討伐作戦では副指揮を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/4e/47754_crt_ho3hZ.jpg?r=1483521469",
+        "link": "https://bgm.tv/character/47754",
+        "categorie": "person"
+      },
+      {
+        "id": "47755",
+        "label": "加藤澄晴",
+        "info": "[JACK]に登場。美容師。羽赫。店の常連客である三波を襲撃するが、富良と共闘した有馬の手によって討伐される。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/80/47755_crt_HAz71.jpg",
+        "link": "https://bgm.tv/character/47755",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

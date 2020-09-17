@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "71991",
+        "label": "阿零",
+        "info": "天才発明家の小学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/7f/71991_crt_cP9xZ.jpg?r=1569576285",
+        "link": "https://bgm.tv/character/71991",
+        "categorie": "person"
+      },
+      {
+        "id": "71992",
+        "label": "拍塔",
+        "info": "他界したぬるの姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/16/71992_crt_Vwr2W.jpg?r=1569576440",
+        "link": "https://bgm.tv/character/71992",
+        "categorie": "person"
+      },
+      {
+        "id": "71996",
+        "label": "拍塔机器人",
+        "info": "ぬるが開発した「お姉ちゃんロボ」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/8e/71996_crt_aq3bv.jpg?r=1569591779",
+        "link": "https://bgm.tv/character/71996",
+        "categorie": "person"
+      },
+      {
+        "id": "77477",
+        "label": "かき",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/36/77477_crt_7QdZB.jpg?r=1591349493",
+        "link": "https://bgm.tv/character/77477",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

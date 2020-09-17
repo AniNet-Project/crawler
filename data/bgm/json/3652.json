@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26268",
+        "label": "菲莉叶·戴伊",
+        "info": "本作の主人公。「消えた第二王女」エディリーンとディー博士の娘。磨いた銅のような赤金色の髪に琥珀色の瞳。髪の色から「あかがね色の髪の乙女」と呼ばれる。2歳で母をなくし、以降15歳までディー博士の隣人であるホーリー夫妻に育てられた。女王聖誕祭の祝日にロウランド家の舞踏会に出席した際、身につけていた青い宝石がきっかけとなり、従姉妹であるアデイルから自分の出自を知らされる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/60/26268_crt_P9D66.jpg?r=1406950841",
+        "link": "https://bgm.tv/character/26268",
+        "categorie": "person"
+      },
+      {
+        "id": "9603",
+        "label": "アデイル·ロウランド",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/55/9603_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9603",
+        "categorie": "person"
+      },
+      {
+        "id": "9604",
+        "label": "イグレイン・バーネット",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/23/9604_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9604",
+        "categorie": "person"
+      },
+      {
+        "id": "9605",
+        "label": "ロット・クリスバード",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/34/9605_crt_r7DEX.jpg",
+        "link": "https://bgm.tv/character/9605",
+        "categorie": "person"
+      },
+      {
+        "id": "9606",
+        "label": "シザリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/81/9606_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9606",
+        "categorie": "person"
+      },
+      {
+        "id": "9607",
+        "label": "ヴィンセント・クレメンシア・ダキテーヌ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/da/9607_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9607",
+        "categorie": "person"
+      },
+      {
+        "id": "9608",
+        "label": "シスター・レイン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/72/9608_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9608",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

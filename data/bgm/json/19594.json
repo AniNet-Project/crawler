@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4945",
+        "label": "鷹栖絢子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/09/4945_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4945",
+        "categorie": "person"
+      },
+      {
+        "id": "58918",
+        "label": "吉村護",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/d8/58918_crt_CFL2U.jpg?r=1509978865",
+        "link": "https://bgm.tv/character/58918",
+        "categorie": "person"
+      },
+      {
+        "id": "58919",
+        "label": "エメレンツィア＝ベアトリクス・リューディガー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/31/58919_crt_VUs7p.jpg?r=1509979027",
+        "link": "https://bgm.tv/character/58919",
+        "categorie": "person"
+      },
+      {
+        "id": "4946",
+        "label": "周藤摩耶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/0c/4946_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4946",
+        "categorie": "person"
+      },
+      {
+        "id": "4947",
+        "label": "須藤汐音",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/42/9e/4947_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4947",
+        "categorie": "person"
+      },
+      {
+        "id": "58920",
+        "label": "藤田美月",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cf/8d/58920_crt_5HxrR.jpg?r=1509979197",
+        "link": "https://bgm.tv/character/58920",
+        "categorie": "person"
+      },
+      {
+        "id": "58921",
+        "label": "長谷杏奈",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/20/58921_crt_orgLw.jpg?r=1509980421",
+        "link": "https://bgm.tv/character/58921",
+        "categorie": "person"
+      },
+      {
+        "id": "58922",
+        "label": "桐島瑤子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/7c/58922_crt_xyYfW.jpg?r=1509980433",
+        "link": "https://bgm.tv/character/58922",
+        "categorie": "person"
+      },
+      {
+        "id": "58923",
+        "label": "丸山友香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/47/58923_crt_qXJQS.jpg?r=1509980451",
+        "link": "https://bgm.tv/character/58923",
+        "categorie": "person"
+      },
+      {
+        "id": "58924",
+        "label": "八木浩介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/95/58924_crt_1O80U.jpg?r=1509980476",
+        "link": "https://bgm.tv/character/58924",
+        "categorie": "person"
+      },
+      {
+        "id": "58925",
+        "label": "吉村逸美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/3b/58925_crt_dMEDF.jpg?r=1509980499",
+        "link": "https://bgm.tv/character/58925",
+        "categorie": "person"
+      },
+      {
+        "id": "58926",
+        "label": "吉村静恵",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/9b/58926_crt_7P72N.jpg?r=1509980516",
+        "link": "https://bgm.tv/character/58926",
+        "categorie": "person"
+      },
+      {
+        "id": "58927",
+        "label": "菊川宗司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/94/58927_crt_r389w.jpg?r=1509980536",
+        "link": "https://bgm.tv/character/58927",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

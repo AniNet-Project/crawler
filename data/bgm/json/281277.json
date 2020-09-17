@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "79195",
+        "label": "律笺文",
+        "info": "律笺文，中国漫画《狐妖小红娘》及其衍生作品中的角色之一，也是漫画中《颜如玉》篇的女主角。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/75/79195_crt_hF6ze.jpg?r=1597243282",
+        "link": "https://bgm.tv/character/79195",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

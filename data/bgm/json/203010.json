@@ -1,0 +1,205 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "51848",
+        "label": "越山识",
+        "info": "文蔵高校1年生。引っ込み思案の本の虫で、知識量は底知れず。得意分野は文学・歴史など。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/70/51848_crt_Hehh4.jpg?r=1492713435",
+        "link": "https://bgm.tv/character/51848",
+        "categorie": "person"
+      },
+      {
+        "id": "51849",
+        "label": "深见真理",
+        "info": "文蔵高校１年生。識のクラスメートで、競技クイズ経験者。定番問題、いわゆる“ベタ問”の早押しを得意とする。見かけによらず、クイズの事になると周りが見えなくなる残念女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/55/51849_crt_pmhS5.jpg",
+        "link": "https://bgm.tv/character/51849",
+        "categorie": "person"
+      },
+      {
+        "id": "51856",
+        "label": "御来屋千智",
+        "info": "文蔵の隣町にある宮浦高校の１年生。無愛想で大人気ない性格。新入生らしからぬ実力を誇るクイズプレーヤーだが、初心者の識に一目置いている。得意ジャンルは理系分野全般。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/95/51856_crt_5DWxd.jpg?r=1492713401",
+        "link": "https://bgm.tv/character/51856",
+        "categorie": "person"
+      },
+      {
+        "id": "52711",
+        "label": "笹岛学人",
+        "info": "文蔵高校２年生で、クイズ研究会の会長。超名門高校の開城学園から転入してきた変わり者だが、その実力は超高校級。時に優しく時に厳しく、識たちを導いていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/aa/52711_crt_rp0lp.jpg?r=1492713381",
+        "link": "https://bgm.tv/character/52711",
+        "categorie": "person"
+      },
+      {
+        "id": "53486",
+        "label": "井上大将",
+        "info": "文蔵高校1年生。クイズ研究会所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/9c/53486_crt_MDST5.jpg?r=1498103248",
+        "link": "https://bgm.tv/character/53486",
+        "categorie": "person"
+      },
+      {
+        "id": "53645",
+        "label": "笹岛迅子",
+        "info": "文蔵高校1年生。クイズ研究会技術顧問だが、正式な会員かどうかは不明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/ca/53645_crt_irTV2.jpg?r=1498103364",
+        "link": "https://bgm.tv/character/53645",
+        "categorie": "person"
+      },
+      {
+        "id": "53487",
+        "label": "苑原明良",
+        "info": "赤河田中学校3年生。苑原千明の弟。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/99/53487_crt_9jghJ.jpg?r=1498103309",
+        "link": "https://bgm.tv/character/53487",
+        "categorie": "person"
+      },
+      {
+        "id": "55213",
+        "label": "上月由贵",
+        "info": "私立麻ヶ丘女子高校の１年生。真理とは中学生の時から一緒にクイズをやっており、「真理りん」「由貴っち」と呼び合うほどの仲。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/50/55213_crt_Nh29h.jpg?r=1498103857",
+        "link": "https://bgm.tv/character/55213",
+        "categorie": "person"
+      },
+      {
+        "id": "55047",
+        "label": "芦屋洋介",
+        "info": "宮浦高校3年生。クイズ研究部部長。赤河田高校の新名と親しい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/82/55047_crt_01L6v.jpg?r=1498103437",
+        "link": "https://bgm.tv/character/55047",
+        "categorie": "person"
+      },
+      {
+        "id": "55212",
+        "label": "新名匠",
+        "info": "赤河田高校の３年生で、クイ研の部長。温厚で面倒見のいいお兄ちゃん気質だが、マイクを持つと急にテンションが上がる。ここぞという時には開眼する……？",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/53/55212_crt_S9OR0.jpg?r=1498103752",
+        "link": "https://bgm.tv/character/55212",
+        "categorie": "person"
+      },
+      {
+        "id": "55214",
+        "label": "苑原千明",
+        "info": "私立麻ヶ丘女子高校の３年生で、クイ研の部長。話し方や所作からも分かるように、育ちの良いお嬢さんらしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/b9/55214_crt_j99ZK.jpg?r=1498104014",
+        "link": "https://bgm.tv/character/55214",
+        "categorie": "person"
+      },
+      {
+        "id": "55215",
+        "label": "大藏邦光",
+        "info": "私立開城学園の高等部で、クイ研の部長。どっしりとした頼もしい佇まいから高校２年生とは思えない貫録を放っている。が、少し天然な側面も。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/08/55215_crt_7lc78.jpg?r=1498104210",
+        "link": "https://bgm.tv/character/55215",
+        "categorie": "person"
+      },
+      {
+        "id": "55655",
+        "label": "丸山亘",
+        "info": "宮浦高校１年生。真理の絶対領域に目がくらんでしまった美少女オタ。井上とは趣味が合うかも……。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/52/55655_crt_ve2Xx.jpg",
+        "link": "https://bgm.tv/character/55655",
+        "categorie": "person"
+      },
+      {
+        "id": "55656",
+        "label": "向井亮太",
+        "info": "宮浦高校１年生。タレ目で穏やかそうな風貌だが、口を開けば意外と毒舌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/8e/55656_crt_1zH91.jpg",
+        "link": "https://bgm.tv/character/55656",
+        "categorie": "person"
+      },
+      {
+        "id": "55657",
+        "label": "中泽藤一郎",
+        "info": "赤河田高校の問い読み番長。縁の下の力持ち的ポジションで、新名のよき理解者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/82/55657_crt_G271p.jpg",
+        "link": "https://bgm.tv/character/55657",
+        "categorie": "person"
+      },
+      {
+        "id": "55658",
+        "label": "佐佐木一",
+        "info": "赤河田中学１年生。明良とはそりが合わない様子。ベタ問の早押しが得意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/03/55658_crt_WJJrr.jpg",
+        "link": "https://bgm.tv/character/55658",
+        "categorie": "person"
+      },
+      {
+        "id": "55659",
+        "label": "剑持文伽",
+        "info": "私立麻ヶ丘女子高校1年生。すました顔をしているが、実は腐女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/c8/55659_crt_IQ6ML.jpg",
+        "link": "https://bgm.tv/character/55659",
+        "categorie": "person"
+      },
+      {
+        "id": "55660",
+        "label": "古河珠美",
+        "info": "私立麻ヶ丘女子高校２年生。手先が器用で、例会の企画書も手がける。剣持と同じく腐女子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/dc/55660_crt_oBzeX.jpg",
+        "link": "https://bgm.tv/character/55660",
+        "categorie": "person"
+      },
+      {
+        "id": "55662",
+        "label": "近卫晴臣",
+        "info": "開城学園高等部2年生のチャラ男だが、実力は確か。得意ジャンルは古典芸能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/31/55662_crt_Z8u9e.jpg",
+        "link": "https://bgm.tv/character/55662",
+        "categorie": "person"
+      },
+      {
+        "id": "55663",
+        "label": "柴田胜",
+        "info": "開城学園の高等部2年生。誠司の陰に隠れてはいたが、かなりの実力者。得意ジャンルは社会経済。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/d1/55663_crt_EfEw8.jpg",
+        "link": "https://bgm.tv/character/55663",
+        "categorie": "person"
+      },
+      {
+        "id": "55654",
+        "label": "黑田良胜",
+        "info": "バスケ部に所属する文蔵高校１年生。気さくな性格で、クラスメートの識たちとも打ち解けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/64/55654_crt_7dOZ2.jpg",
+        "link": "https://bgm.tv/character/55654",
+        "categorie": "person"
+      },
+      {
+        "id": "55664",
+        "label": "花房ミノル",
+        "info": "横浜にある神南大付属高校の3年生。一見チャラそうだが、スピードスターの異名を持つ早押し巧者。クイ研の部長を務めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/39/55664_crt_QxI66.jpg",
+        "link": "https://bgm.tv/character/55664",
+        "categorie": "person"
+      },
+      {
+        "id": "55665",
+        "label": "户塚光太郎",
+        "info": "千葉県にあるレオニール高校の3年生。クイ研の部長で、真面目を絵に描いたような性格。神南大付属高校にライバル心を燃やす。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dc/0a/55665_crt_141Qp.jpg",
+        "link": "https://bgm.tv/character/55665",
+        "categorie": "person"
+      },
+      {
+        "id": "55661",
+        "label": "深见诚司",
+        "info": "私立開城学園の高等部２年生。自分に絶対的自信を持つ全ジャンル死角無しのオ　ールラウンダーだったが、訳あって今はクイズから離れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/6a/55661_crt_p7WUI.jpg",
+        "link": "https://bgm.tv/character/55661",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

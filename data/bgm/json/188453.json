@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35133",
+        "label": "星麻美",
+        "info": "16歳，高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/a6/35133_crt_HlH5P.jpg?r=1478457093",
+        "link": "https://bgm.tv/character/35133",
+        "categorie": "person"
+      },
+      {
+        "id": "35134",
+        "label": "樋口绘里",
+        "info": "14歳，中学2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/67/35134_crt_C52C7.jpg?r=1478457128",
+        "link": "https://bgm.tv/character/35134",
+        "categorie": "person"
+      },
+      {
+        "id": "35135",
+        "label": "早乙女静乃",
+        "info": "17歳，高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/7b/35135_crt_R4hmR.jpg?r=1478459028",
+        "link": "https://bgm.tv/character/35135",
+        "categorie": "person"
+      },
+      {
+        "id": "35136",
+        "label": "橘紫苑",
+        "info": "16歳，高校1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/21/35136_crt_HPN02.jpg?r=1478459723",
+        "link": "https://bgm.tv/character/35136",
+        "categorie": "person"
+      },
+      {
+        "id": "35137",
+        "label": "平冈优",
+        "info": "15歳，中学3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/f2/35137_crt_P4ndC.jpg?r=1478460626",
+        "link": "https://bgm.tv/character/35137",
+        "categorie": "person"
+      },
+      {
+        "id": "43731",
+        "label": "出海樱",
+        "info": "14歲，初中2年級生。第2季登場，具有甜美可愛的氣質。",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/f0/43731_crt_8m0aP.jpg?r=1483638731",
+        "link": "https://bgm.tv/character/43731",
+        "categorie": "person"
+      },
+      {
+        "id": "47350",
+        "label": "女学生",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/82/47350_crt_eHkRK.jpg",
+        "link": "https://bgm.tv/character/47350",
+        "categorie": "person"
+      },
+      {
+        "id": "47351",
+        "label": "女性客(卖场)",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/99/47351_crt_7QKzk.jpg",
+        "link": "https://bgm.tv/character/47351",
+        "categorie": "person"
+      },
+      {
+        "id": "47753",
+        "label": "紫苑的母亲",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/19/47753_crt_ssJc2.jpg",
+        "link": "https://bgm.tv/character/47753",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

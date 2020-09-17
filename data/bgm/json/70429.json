@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "58959",
+        "label": "藤沢あい",
+        "info": "現役女子短大生。学業の傍ら、宅配ピザ屋でバイトをしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/76/58959_crt_yeP26.jpg",
+        "link": "https://bgm.tv/character/58959",
+        "categorie": "person"
+      },
+      {
+        "id": "58966",
+        "label": "涩谷雄一",
+        "info": "誠二が入院した病院で、隣のベッドに入院していた男。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a9/58966_crt_SDuj8.jpg",
+        "link": "https://bgm.tv/character/58966",
+        "categorie": "person"
+      },
+      {
+        "id": "58967",
+        "label": "中村誠二",
+        "info": "宅配ピザ屋バイト暦3年のフリーター。（フリーターの前は専門学校生）",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/84/58967_crt_2XDPd.jpg",
+        "link": "https://bgm.tv/character/58967",
+        "categorie": "person"
+      },
+      {
+        "id": "58960",
+        "label": "小阪晶子",
+        "info": "誠二が入院することとなった病院のナース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/21/58960_crt_Fe0B2.jpg",
+        "link": "https://bgm.tv/character/58960",
+        "categorie": "person"
+      },
+      {
+        "id": "58961",
+        "label": "藤沢こころ",
+        "info": "あいの妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/b1/58961_crt_Zki5L.jpg",
+        "link": "https://bgm.tv/character/58961",
+        "categorie": "person"
+      },
+      {
+        "id": "58962",
+        "label": "富岡雪乃",
+        "info": "富岡の妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/25/58962_crt_q8L9q.jpg",
+        "link": "https://bgm.tv/character/58962",
+        "categorie": "person"
+      },
+      {
+        "id": "58963",
+        "label": "木崎努",
+        "info": "誠二の勤めるピザ屋の先輩バイトでチーフを任されている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/8c/58963_crt_454Q4.jpg",
+        "link": "https://bgm.tv/character/58963",
+        "categorie": "person"
+      },
+      {
+        "id": "58964",
+        "label": "富岡鉄雄",
+        "info": "誠二の事故相手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/3f/58964_crt_Djj86.jpg",
+        "link": "https://bgm.tv/character/58964",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "29212",
+        "label": "赫斯缇雅",
+        "info": "本作女主角之一。降临自天界的神仙，是超越人类、亚人的高级人物，也是贝尔隶屣的【赫斯缇雅眷族】之领导者。容貌、体格一如“萝莉神”之名娇小稚嫩，不过却拥有着丰满的上围。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/72/29212_crt_25Ktt.jpg",
+        "link": "https://bgm.tv/character/29212",
+        "categorie": "person"
+      },
+      {
+        "id": "29539",
+        "label": "贝尔·克朗尼",
+        "info": "本作主角。遵从祖父的教诲，梦想着能够“在地下城邂逅迷人女主角”的菜鸟冒险者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/12/29539_crt_2eO3l.jpg?r=1423552200",
+        "link": "https://bgm.tv/character/29539",
+        "categorie": "person"
+      },
+      {
+        "id": "584",
+        "label": "赫米斯",
+        "info": "种族：神",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/74/584_crt_mgFAZ.jpg",
+        "link": "https://bgm.tv/character/584",
+        "categorie": "person"
+      },
+      {
+        "id": "29541",
+        "label": "莉莉露卡·厄德",
+        "info": "地下城里面负责回收掉落道具等物的非战斗人员“支援者”女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/93/29541_crt_NZj47.jpg?r=1423552671",
+        "link": "https://bgm.tv/character/29541",
+        "categorie": "person"
+      },
+      {
+        "id": "31249",
+        "label": "琉·利昂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/29/31249_crt_JkW8l.jpg?r=1428416523",
+        "link": "https://bgm.tv/character/31249",
+        "categorie": "person"
+      },
+      {
+        "id": "33044",
+        "label": "韦尔夫·克洛",
+        "info": "ベルのパーティーメンバー。職人気質で気持ちのいい性格。面倒見もよくベルの兄貴分のような存在。17歳。『戦える鍛冶師』を自称しているだけあり、パーティでも前線を担う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/b4/33044_crt_5Zv58.jpg?r=1432991996",
+        "link": "https://bgm.tv/character/33044",
+        "categorie": "person"
+      },
+      {
+        "id": "49031",
+        "label": "倭·命",
+        "info": "极东出身的女冒险者。原“建御雷眷族”成员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/3c/49031_crt_77hxC.jpg",
+        "link": "https://bgm.tv/character/49031",
+        "categorie": "person"
+      },
+      {
+        "id": "49035",
+        "label": "鹿岛·樱花",
+        "info": "等级：Lv.2",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/08/49035_crt_3RM73.jpg",
+        "link": "https://bgm.tv/character/49035",
+        "categorie": "person"
+      },
+      {
+        "id": "49043",
+        "label": "常陆·千草",
+        "info": "等级：Lv.1→Lv.2（第八卷）",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/92/49043_crt_ZsS5x.jpg",
+        "link": "https://bgm.tv/character/49043",
+        "categorie": "person"
+      },
+      {
+        "id": "49044",
+        "label": "亚丝菲·阿尔·安朵美达",
+        "info": "等级：Lv.4（对外宣称Lv.2）",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/5a/49044_crt_d34Tu.jpg",
+        "link": "https://bgm.tv/character/49044",
+        "categorie": "person"
+      },
+      {
+        "id": "29540",
+        "label": "艾丝·华伦斯坦",
+        "info": "本作女主角之一，外传小说《剑姬神圣谭》的主角。对贝尔有好感。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/05/29540_crt_QHk54.jpg?r=1493479117",
+        "link": "https://bgm.tv/character/29540",
+        "categorie": "person"
+      },
+      {
+        "id": "31246",
+        "label": "洛基",
+        "info": "なぜかエセ関西弁を話す、ロキ・ファミリアの主神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/ae/31246_crt_GIHJ9.jpg?r=1492259589",
+        "link": "https://bgm.tv/character/31246",
+        "categorie": "person"
+      },
+      {
+        "id": "49033",
+        "label": "赫菲斯托丝",
+        "info": "种族：女神",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/17/49033_crt_YrQXT.jpg",
+        "link": "https://bgm.tv/character/49033",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

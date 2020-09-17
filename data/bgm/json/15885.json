@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "78877",
+        "label": "魔神凯撒",
+        "info": "1997年に発売されたTVゲームソフト『スーパーロボット大戦F完結編』において、ゲッターロボシリーズでの真ゲッターロボに位置づけられるゲームオリジナルロボットとして初登場した。基本的なデザインは永井豪自身によって提供されており、マジンガーZ・グレートマジンガーを踏襲、発展させたデザインである。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/f3/78877_crt_3L0KJ.jpg",
+        "link": "https://bgm.tv/character/78877",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

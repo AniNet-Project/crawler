@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39542",
+        "label": "原田巧",
+        "info": "本作主人公。新田东中学一年级学生。有着作为投手的天性才能，同时也不乏于努力，每日慢跑5~6千米来保证身体状况不退化。不太关注他人，故而被周围人认为是性格冷淡的家伙。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/ee/39542_crt_X4rm4.jpg?r=1458219095",
+        "link": "https://bgm.tv/character/39542",
+        "categorie": "person"
+      },
+      {
+        "id": "39543",
+        "label": "永仓豪",
+        "info": "本作的另一位主人公。新田东中学一年级学生。过去就曾被巧的投球触动了心弦，入中学后正式成为了巧的捕手与巧产生了联系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/fb/39543_crt_x6xbu.jpg?r=1458219182",
+        "link": "https://bgm.tv/character/39543",
+        "categorie": "person"
+      },
+      {
+        "id": "41887",
+        "label": "原田青波",
+        "info": "巧的弟弟，原田家小儿子，家中唯一一位用冈山方言日常会话。虽然是身体虚弱的\"药罐子\"，但是因为对兄长的巧的憧憬而也想当一位投手。心思细腻感受性强，一直观察着周围的环境，时而能够比周围人早一步察觉到巧的心境。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/b2/41887_crt_ko1Ov.jpg?r=1463675557",
+        "link": "https://bgm.tv/character/41887",
+        "categorie": "person"
+      },
+      {
+        "id": "41888",
+        "label": "门胁秀吾",
+        "info": "强校·横手二中的第四击球员，性格认真正直。全国皆知其名程度的强手。某一时开始执着于与巧的胜负。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/62/41888_crt_UuW8h.jpg?r=1463675586",
+        "link": "https://bgm.tv/character/41888",
+        "categorie": "person"
+      },
+      {
+        "id": "41889",
+        "label": "瑞垣俊二",
+        "info": "强校·横手二中的游击手。性格轻佻常挂着冷笑，什么事上都是一副事不关己的态度。与门胁是发小，嘲弄门胁所执着的对象·巧并称呼巧为\"公主殿下\"。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/7c/41889_crt_YUKQi.jpg?r=1463675610",
+        "link": "https://bgm.tv/character/41889",
+        "categorie": "person"
+      },
+      {
+        "id": "41890",
+        "label": "海音寺一希",
+        "info": "新田东棒球部队长，4号，游击手。攻守皆可型选手，深受部员们的信赖。第一眼看上去十分朴素木讷，实际上是可以在对方无意识之中找出对方弱点的优秀策士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/56/41890_crt_2GsM4.jpg?r=1463675634",
+        "link": "https://bgm.tv/character/41890",
+        "categorie": "person"
+      },
+      {
+        "id": "42216",
+        "label": "泽口文人",
+        "info": "与巧&豪相同，是新田东中学一年级生，体格不高。与豪是发小，曾经所属于同一个少年棒球队中。虽然有胆小的一面，但是性格上十分重朋友、善良。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/9b/42216_crt_Ar9g7.jpg?r=1464860409",
+        "link": "https://bgm.tv/character/42216",
+        "categorie": "person"
+      },
+      {
+        "id": "42217",
+        "label": "东谷启太",
+        "info": "新田东中学一年级学生。和豪、泽口相处了相当长的时间，常常一同行动。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/8b/42217_crt_cAIJt.jpg?r=1464860426",
+        "link": "https://bgm.tv/character/42217",
+        "categorie": "person"
+      },
+      {
+        "id": "42569",
+        "label": "吉贞伸弘",
+        "info": "新田东中学一年级学生。自信家且性格轻飘飘，常做出恶作剧的言行，饶舌。被瑞垣取了意思是\"狂妄和尚\"的外号：クリノスケ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/22/42569_crt_4P2gy.jpg?r=1466075065",
+        "link": "https://bgm.tv/character/42569",
+        "categorie": "person"
+      },
+      {
+        "id": "42570",
+        "label": "户村真",
+        "info": "担任学生指导的教师，同时是新田东中学棒球部的监督(教练)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6b/6d/42570_crt_bL4ll.jpg?r=1466076603",
+        "link": "https://bgm.tv/character/42570",
+        "categorie": "person"
+      },
+      {
+        "id": "42571",
+        "label": "展西咏司",
+        "info": "新田东中学三年级学生。棒球部副队长。优等生，担任风纪委员一职。似乎看不惯新入部员的巧的态度和实力。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/0c/42571_crt_455Su.jpg?r=1466076445",
+        "link": "https://bgm.tv/character/42571",
+        "categorie": "person"
+      },
+      {
+        "id": "42646",
+        "label": "野野村旭良",
+        "info": "新田东中学棒球部二年级生。捕手。若是剧烈运动会引发肩部炎症恶化。投捕搭档是同为二年级生的高槻。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/42646",
+        "categorie": "person"
+      },
+      {
+        "id": "42648",
+        "label": "井冈洋三",
+        "info": "巧的外祖父。总计带领新田高校10次进入甲子园场地的名教练。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fb/0c/42648_crt_zejxE.jpg?r=1468528767",
+        "link": "https://bgm.tv/character/42648",
+        "categorie": "person"
+      },
+      {
+        "id": "42651",
+        "label": "原田真纪子",
+        "info": "巧与青波的母亲。因为父亲·洋三热心于棒球而不管不顾家庭的原因，所以与洋三的关系并不算好。故而不是十分理解两位儿子对棒球的热爱。",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/68/42651_crt_SB7Ib.jpg?r=1468528658",
+        "link": "https://bgm.tv/character/42651",
+        "categorie": "person"
+      },
+      {
+        "id": "42654",
+        "label": "原田广",
+        "info": "巧与青波的父亲。因为忙于工作搞坏了身体以及为了\"药罐子\"的小儿子·青波的身体调养而举家搬回了妻子·真纪子的老家冈山县新田市。学生时是美术部部员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/d4/42654_crt_oXPGy.jpg?r=1468528777",
+        "link": "https://bgm.tv/character/42654",
+        "categorie": "person"
+      },
+      {
+        "id": "42657",
+        "label": "永仓节子",
+        "info": "豪的母亲。旧姓石冈。与巧和青波的母亲真纪子是发小关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5a/ab/42657_crt_9kmkK.jpg?r=1468528632",
+        "link": "https://bgm.tv/character/42657",
+        "categorie": "person"
+      },
+      {
+        "id": "42658",
+        "label": "校长",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/42658",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "43758",
+        "label": "草薙老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/5f/43758_crt_aTacT.jpg?r=1469956167",
+        "link": "https://bgm.tv/character/43758",
+        "categorie": "person"
+      },
+      {
+        "id": "43916",
+        "label": "绿川",
+        "info": "新田中三年级生，和展西是投捕搭档。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a6/43916_crt_vK22T.jpg?r=1470386263",
+        "link": "https://bgm.tv/character/43916",
+        "categorie": "person"
+      },
+      {
+        "id": "43917",
+        "label": "奥平",
+        "info": "新田中棒球部部员之一，和展西关系比较好。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/49/43917_crt_6cU66.jpg?r=1470386272",
+        "link": "https://bgm.tv/character/43917",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

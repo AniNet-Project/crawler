@@ -1,0 +1,277 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67119",
+        "label": "卡罗尔",
+        "info": "首都・アルバシティで働きながらミュージシャンを目指す少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/35/c3/67119_crt_bpOjB.jpg?r=1554986939",
+        "link": "https://bgm.tv/character/67119",
+        "categorie": "person"
+      },
+      {
+        "id": "67120",
+        "label": "特丝黛",
+        "info": "地方都市・ハーシェルシティの裕福な家に生まれ、ミュージシャンになりたいと願うも誰にも理解されずに過ごす孤独な少女。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c5/54/67120_crt_4PXP4.jpg?r=1555745622",
+        "link": "https://bgm.tv/character/67120",
+        "categorie": "person"
+      },
+      {
+        "id": "68423",
+        "label": "加斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/0d/68423_crt_2nDha.jpg?r=1547630956",
+        "link": "https://bgm.tv/character/68423",
+        "categorie": "person"
+      },
+      {
+        "id": "68425",
+        "label": "罗迪",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/65/68425_crt_FxLHs.jpg?r=1556809149",
+        "link": "https://bgm.tv/character/68425",
+        "categorie": "person"
+      },
+      {
+        "id": "67575",
+        "label": "安吉拉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3c/1a/67575_crt_D03Bf.jpg",
+        "link": "https://bgm.tv/character/67575",
+        "categorie": "person"
+      },
+      {
+        "id": "68424",
+        "label": "塔奥",
+        "info": "現代最高のヒットメイカーである音楽プロデューサーだが、すべてのプロフィールは未公開",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/e0/68424_crt_G34xx.jpg?r=1558609584",
+        "link": "https://bgm.tv/character/68424",
+        "categorie": "person"
+      },
+      {
+        "id": "68426",
+        "label": "艾特根",
+        "info": "年齢：４２歳",
+        "image": "https://lain.bgm.tv/pic/crt/m/40/c3/68426_crt_0gl0X.jpg?r=1547631063",
+        "link": "https://bgm.tv/character/68426",
+        "categorie": "person"
+      },
+      {
+        "id": "69178",
+        "label": "戴利亚",
+        "info": "ステージママとしてアンジェラを幼少時よりマネージメントしてきた火星病の症状により現在、性別不明（現在は男性よりだが、時期によっては女性になることもある）",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/cc/69178_crt_12kBs.jpg",
+        "link": "https://bgm.tv/character/69178",
+        "categorie": "person"
+      },
+      {
+        "id": "69179",
+        "label": "瓦勒莉",
+        "info": "政治家歴１５年辞職して大統領選に立候補するのでは、と噂されている二度離婚しており、現在は独身 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/4f/69179_crt_4OoFn.jpg",
+        "link": "https://bgm.tv/character/69179",
+        "categorie": "person"
+      },
+      {
+        "id": "69180",
+        "label": "斯宾塞",
+        "info": "幼少時よりエリート教育を受けて育つ将来は母の地盤を受け継ぎ政治家になる予定 。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/1e/69180_crt_jiYT8.jpg",
+        "link": "https://bgm.tv/character/69180",
+        "categorie": "person"
+      },
+      {
+        "id": "69426",
+        "label": "克里斯朵",
+        "info": "人気、実力ともに現在、火星を代表するミュージシャンとして君臨している。火星での楽曲ストリーミング回数の最高記録を持つ。ライブパフォーマンスにも定評があり、火星歴46年の「マーズ・ボウル」におけるハーフタイムショー、および48年の「サイドニア・フェス」でのヘッドライナーは歴史的パフォーマンスとの呼び声が高い。近年は社会支援などの活動も多くなっている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/34/69426_crt_vU0bA.jpg",
+        "link": "https://bgm.tv/character/69426",
+        "categorie": "person"
+      },
+      {
+        "id": "69427",
+        "label": "斯奇普",
+        "info": "知る人ぞ知る、高い音楽性を持つミュージシャン。一般的知名度はそれほど高くないが、熱狂的なファンを持ちミュージシャン同士や批評家などの間で評価も高く、通好みのアーティストと言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b3/00/69427_crt_MkXmP.jpg",
+        "link": "https://bgm.tv/character/69427",
+        "categorie": "person"
+      },
+      {
+        "id": "70103",
+        "label": "赫夫纳",
+        "info": "「サイドニア・フェス」などを取り仕切る名物オーガナイザー",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/81/70103_crt_7pUj3.jpg?r=1558011333",
+        "link": "https://bgm.tv/character/70103",
+        "categorie": "person"
+      },
+      {
+        "id": "70104",
+        "label": "施瓦茨",
+        "info": "ヘッジファンドの帝王と呼ばれている大物。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/ab/70104_crt_NnIHs.jpg",
+        "link": "https://bgm.tv/character/70104",
+        "categorie": "person"
+      },
+      {
+        "id": "70105",
+        "label": "约书亚",
+        "info": "スーパーカリスマバンド『オメガ』のヴォーカリスト",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/79/70105_crt_X9jU1.jpg",
+        "link": "https://bgm.tv/character/70105",
+        "categorie": "person"
+      },
+      {
+        "id": "70182",
+        "label": "彼得",
+        "info": "SNS界の有名人",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/35/70182_crt_0Mj9l.jpg",
+        "link": "https://bgm.tv/character/70182",
+        "categorie": "person"
+      },
+      {
+        "id": "70245",
+        "label": "凯蒂·木村",
+        "info": "アンジェラの新マネージャー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/39/70245_crt_X6R1H.jpg",
+        "link": "https://bgm.tv/character/70245",
+        "categorie": "person"
+      },
+      {
+        "id": "70244",
+        "label": "西贝尔",
+        "info": "チューズデイファンのマーズブライテスト挑戦者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/c6/70244_crt_wocN0.jpg",
+        "link": "https://bgm.tv/character/70244",
+        "categorie": "person"
+      },
+      {
+        "id": "70247",
+        "label": "火焰兄弟",
+        "info": "99歳の双子。マーズブライテスト歴代最年長挑戦者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/ac/70247_crt_GSmIx.jpg",
+        "link": "https://bgm.tv/character/70247",
+        "categorie": "person"
+      },
+      {
+        "id": "70248",
+        "label": "斗牛犬警卫",
+        "info": "元ギャング、元ドラッグディーラー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/b4/70248_crt_Y1Z5j.jpg",
+        "link": "https://bgm.tv/character/70248",
+        "categorie": "person"
+      },
+      {
+        "id": "70246",
+        "label": "人鱼姐妹合唱团",
+        "info": "最高のハーモニーを奏でるコーラスグループ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/94/70246_crt_FepFE.jpg",
+        "link": "https://bgm.tv/character/70246",
+        "categorie": "person"
+      },
+      {
+        "id": "70625",
+        "label": "GGK",
+        "info": "宇宙と繋がっている（？）ミステリアスなシンガー",
+        "image": "https://lain.bgm.tv/pic/crt/m/61/96/70625_crt_ms6nn.jpg",
+        "link": "https://bgm.tv/character/70625",
+        "categorie": "person"
+      },
+      {
+        "id": "70249",
+        "label": "凯瑟琳",
+        "info": "マーズブライテストの審査員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/19/70249_crt_geM9s.jpg",
+        "link": "https://bgm.tv/character/70249",
+        "categorie": "person"
+      },
+      {
+        "id": "70250",
+        "label": "贝尼托",
+        "info": "マーズブライテストの審査員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/47/70250_crt_m5Q58.jpg",
+        "link": "https://bgm.tv/character/70250",
+        "categorie": "person"
+      },
+      {
+        "id": "70251",
+        "label": "沙克蒂",
+        "info": "マーズブライテストの審査員、AI。",
+        "image": "https://lain.bgm.tv/pic/crt/m/29/45/70251_crt_Zs0SI.jpg",
+        "link": "https://bgm.tv/character/70251",
+        "categorie": "person"
+      },
+      {
+        "id": "71122",
+        "label": "托比",
+        "info": "かつて数々の名曲を生み出した伝説のプロデューサー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/44/c7/71122_crt_L3u72.jpg",
+        "link": "https://bgm.tv/character/71122",
+        "categorie": "person"
+      },
+      {
+        "id": "71123",
+        "label": "凯尔",
+        "info": "大統領選の行方を取材するジャーナリストヮ",
+        "image": "https://lain.bgm.tv/pic/crt/m/28/2d/71123_crt_6mozk.jpg",
+        "link": "https://bgm.tv/character/71123",
+        "categorie": "person"
+      },
+      {
+        "id": "71124",
+        "label": "杰瑞",
+        "info": "ヴァレリーの政治コンサルタント",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/d4/71124_crt_vekGU.jpg",
+        "link": "https://bgm.tv/character/71124",
+        "categorie": "person"
+      },
+      {
+        "id": "71127",
+        "label": "阿伦",
+        "info": "IT界の風雲児",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/bb/71127_crt_CclXC.jpg",
+        "link": "https://bgm.tv/character/71127",
+        "categorie": "person"
+      },
+      {
+        "id": "71128",
+        "label": "汉密尔顿",
+        "info": "民主党大統領候補",
+        "image": "https://lain.bgm.tv/pic/crt/m/01/c0/71128_crt_oKFjK.jpg",
+        "link": "https://bgm.tv/character/71128",
+        "categorie": "person"
+      },
+      {
+        "id": "71121",
+        "label": "戴斯蒙德",
+        "info": "生ける伝説と称され、あらゆるアーティストにリスペクトされる孤高のアーティスト。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a8/71121_crt_9QioQ.jpg",
+        "link": "https://bgm.tv/character/71121",
+        "categorie": "person"
+      },
+      {
+        "id": "71227",
+        "label": "弗洛拉",
+        "info": "かつて火星を席巻したシンガー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/09/71227_crt_feiKI.jpg",
+        "link": "https://bgm.tv/character/71227",
+        "categorie": "person"
+      },
+      {
+        "id": "71531",
+        "label": "以西结",
+        "info": "ギャング軍団を率いるラッパー",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/d7/71531_crt_kP240.jpg",
+        "link": "https://bgm.tv/character/71531",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

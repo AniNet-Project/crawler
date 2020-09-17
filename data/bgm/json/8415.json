@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "26135",
+        "label": "洛基",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/cc/53/26135_crt_CEBbY.jpg",
+        "link": "https://bgm.tv/character/26135",
+        "categorie": "person"
+      },
+      {
+        "id": "11203",
+        "label": "闇野竜介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/ab/11203_crt_1eCOP.jpg",
+        "link": "https://bgm.tv/character/11203",
+        "categorie": "person"
+      },
+      {
+        "id": "26137",
+        "label": "鸣神",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/1c/26137_crt_oumsB.jpg",
+        "link": "https://bgm.tv/character/26137",
+        "categorie": "person"
+      },
+      {
+        "id": "26139",
+        "label": "海姆达尔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/2c/26139_crt_uIbCe.jpg",
+        "link": "https://bgm.tv/character/26139",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

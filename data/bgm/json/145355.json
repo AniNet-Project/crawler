@@ -1,0 +1,229 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "40081",
+        "label": "小宫千寻",
+        "info": "ある日突然、天涯孤独の身の上に。母・千代の弟である鷹取円に引き取られた。「働かざるもの食うべからず！」がモットーなので、鷹取家に置いてもらう代わりに、家事全般を引き受けている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/87/ce/40081_crt_RfDt0.jpg?r=1459854648",
+        "link": "https://bgm.tv/character/40081",
+        "categorie": "person"
+      },
+      {
+        "id": "40082",
+        "label": "鹰取圆",
+        "info": "千尋の母・千代の弟であり、千尋の叔父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/90/40082_crt_HQBFH.jpg?r=1459854897",
+        "link": "https://bgm.tv/character/40082",
+        "categorie": "person"
+      },
+      {
+        "id": "40083",
+        "label": "篠崎桂一郎",
+        "info": "円の秘書を務める。千尋がくるまでは、円の生活全般の面倒をみていたが、見かけによらず家事が下手なので、家の中はガタガタだった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/76/40083_crt_o6ZOr.jpg?r=1459854976",
+        "link": "https://bgm.tv/character/40083",
+        "categorie": "person"
+      },
+      {
+        "id": "40084",
+        "label": "凤美耶子",
+        "info": "円の祖父と鳳の先代が親友だったため、16歳になったら円と結婚させられる予定だった元フィアンセ。天然系のお嬢様で、家事全般が苦手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/fe/40084_crt_dDuBu.jpg?r=1459855073",
+        "link": "https://bgm.tv/character/40084",
+        "categorie": "person"
+      },
+      {
+        "id": "40085",
+        "label": "日野祐司",
+        "info": "千尋のクラスメイトで、親友。天涯孤独になった千尋を心配していた。子だくさんな日野家で、6人兄弟のど真ん中。ちなみに犬も3匹いる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/7a/40085_crt_1SQT6.jpg?r=1459855142",
+        "link": "https://bgm.tv/character/40085",
+        "categorie": "person"
+      },
+      {
+        "id": "40086",
+        "label": "龙儿",
+        "info": "円が衣装デザインを手がけた縁で知り合いになった人気アイドルグループ。最年少の元気キャラ、竜児。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/48/40086_crt_o5jVA.jpg?r=1459855248",
+        "link": "https://bgm.tv/character/40086",
+        "categorie": "person"
+      },
+      {
+        "id": "40087",
+        "label": "隼人",
+        "info": "円が衣装デザインを手がけた縁で知り合いになった人気アイドルグループ。しっかり者のリーダー、隼人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/3e/40087_crt_OKBP6.jpg?r=1459855346",
+        "link": "https://bgm.tv/character/40087",
+        "categorie": "person"
+      },
+      {
+        "id": "40088",
+        "label": "伊吹",
+        "info": "円が衣装デザインを手がけた縁で知り合いになった人気アイドルグループ。パーフェクトな王子様、伊吹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/bb/40088_crt_jUPJP.jpg?r=1459855402",
+        "link": "https://bgm.tv/character/40088",
+        "categorie": "person"
+      },
+      {
+        "id": "40089",
+        "label": "小宫千代",
+        "info": "千尋の母であり、円の姉。身体を壊して、突然亡くなってしまった。親に反対された結婚で、千尋を産むために家を出奔し、絶縁状態になっていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/c4/40089_crt_hxyjT.jpg?r=1459855498",
+        "link": "https://bgm.tv/character/40089",
+        "categorie": "person"
+      },
+      {
+        "id": "40090",
+        "label": "鹰取一砂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/72/40090_crt_A35U3.jpg?r=1463726817",
+        "link": "https://bgm.tv/character/40090",
+        "categorie": "person"
+      },
+      {
+        "id": "41063",
+        "label": "日野の祖父",
+        "info": "日野造園の棟梁で庭師。千尋がよく懐いており、千尋を引き取ろうかという話をしていた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/6a/41063_crt_kT2wQ.jpg?r=1461993383",
+        "link": "https://bgm.tv/character/41063",
+        "categorie": "person"
+      },
+      {
+        "id": "41067",
+        "label": "天原雪人",
+        "info": "千尋のクラスメイト。元気いっぱいだが成績はあまりよくない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/c7/41067_crt_27485.jpg?r=1461993490",
+        "link": "https://bgm.tv/character/41067",
+        "categorie": "person"
+      },
+      {
+        "id": "41068",
+        "label": "竹井宏",
+        "info": "千尋のクラスメイト。成績が良いが千尋にはかなわない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/ab/41068_crt_Dxp00.jpg?r=1461993602",
+        "link": "https://bgm.tv/character/41068",
+        "categorie": "person"
+      },
+      {
+        "id": "41294",
+        "label": "馅太郎",
+        "info": "元捨て犬。千尋に拾われ円に恐れられ美耶子に引き取られた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/be/41294_crt_d4y7e.jpg",
+        "link": "https://bgm.tv/character/41294",
+        "categorie": "person"
+      },
+      {
+        "id": "42397",
+        "label": "日野花子",
+        "info": "自らを花と呼び、泣きおとしで祐司を説得して千尋に会いに行く。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/7c/42397_crt_bwoR1.jpg",
+        "link": "https://bgm.tv/character/42397",
+        "categorie": "person"
+      },
+      {
+        "id": "42869",
+        "label": "乃村夕",
+        "info": "千尋のクラスメート。掃除のときに千尋に親切にされたことをきっかけにバレンタインチョコを渡そうとする。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/9c/42869_crt_8T8Lh.jpg",
+        "link": "https://bgm.tv/character/42869",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "41060",
+        "label": "男性工作人员",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/bf/6b/41060_crt_piE8N.jpg?r=1461992546",
+        "link": "https://bgm.tv/character/41060",
+        "categorie": "person"
+      },
+      {
+        "id": "41677",
+        "label": "呪殺の幽霊",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/e8/41677_crt_745VC.jpg?r=1463158862",
+        "link": "https://bgm.tv/character/41677",
+        "categorie": "person"
+      },
+      {
+        "id": "41893",
+        "label": "音乐节目主持人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/41/ed/41893_crt_qbG23.jpg?r=1463726997",
+        "link": "https://bgm.tv/character/41893",
+        "categorie": "person"
+      },
+      {
+        "id": "42004",
+        "label": "坂本老师",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/6b/42004_crt_4X43e.jpg?r=1464345684",
+        "link": "https://bgm.tv/character/42004",
+        "categorie": "person"
+      },
+      {
+        "id": "42005",
+        "label": "日野の父",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/4a/42005_crt_1Rfpk.jpg?r=1464348879",
+        "link": "https://bgm.tv/character/42005",
+        "categorie": "person"
+      },
+      {
+        "id": "42006",
+        "label": "日野の母",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/91/42006_crt_vOcT2.jpg",
+        "link": "https://bgm.tv/character/42006",
+        "categorie": "person"
+      },
+      {
+        "id": "42007",
+        "label": "日野耕司",
+        "info": "大学生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/dc/42007_crt_jJjM7.jpg?r=1464348914",
+        "link": "https://bgm.tv/character/42007",
+        "categorie": "person"
+      },
+      {
+        "id": "42008",
+        "label": "日野叶子",
+        "info": "短大生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/ae/42008_crt_4PPnf.jpg?r=1464348923",
+        "link": "https://bgm.tv/character/42008",
+        "categorie": "person"
+      },
+      {
+        "id": "42009",
+        "label": "日野慎司",
+        "info": "1歳。",
+        "image": "https://lain.bgm.tv/pic/crt/m/82/86/42009_crt_Mv3xo.jpg",
+        "link": "https://bgm.tv/character/42009",
+        "categorie": "person"
+      },
+      {
+        "id": "42396",
+        "label": "日野美枝",
+        "info": "高校2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/da/42396_crt_8zD5J.jpg?r=1465542191",
+        "link": "https://bgm.tv/character/42396",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

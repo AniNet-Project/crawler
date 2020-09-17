@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19240",
+        "label": "阿斯库露",
+        "info": "主人公の1人で、ク・フィーユのパートナー。名前の由来はハート型の意味で、数年前に脱出カプセルで漂着した惑星ニエトスで付けられた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/72/8a/19240_crt_m2BMF.jpg?r=1366702516",
+        "link": "https://bgm.tv/character/19240",
+        "categorie": "person"
+      },
+      {
+        "id": "19246",
+        "label": "库·菲儿",
+        "info": "主人公の1人で、アスクールのパートナーである黒髪の少女。「カトル・フィーユ（Quatle‐feuille）」が正式名で、ク・フィーユは愛称。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/84/19246_crt_Utp63.jpg?r=1366702527",
+        "link": "https://bgm.tv/character/19246",
+        "categorie": "person"
+      },
+      {
+        "id": "66103",
+        "label": "蒂亚",
+        "info": "イヴェールの依頼による子守を経てアスクールとク・フィーユがそのまま預かることとなった、金髪の「ESメンバー見習いの見習い」少女。7歳。言動は舌足らずでそそっかしいが、両親の人物像や所在が不明であるなど、謎が多い。好物はホットミルク。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/a7/66103_crt_2HyX7.jpg",
+        "link": "https://bgm.tv/character/66103",
+        "categorie": "person"
+      },
+      {
+        "id": "9919",
+        "label": "エイオウ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/81/9919_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9919",
+        "categorie": "person"
+      },
+      {
+        "id": "9577",
+        "label": "ドヴェルグ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/ae/9577_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/9577",
+        "categorie": "person"
+      },
+      {
+        "id": "6786",
+        "label": "エクリプス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/4f/6786_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6786",
+        "categorie": "person"
+      },
+      {
+        "id": "10225",
+        "label": "シニストラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/a0/10225_crt_2d2dU.jpg",
+        "link": "https://bgm.tv/character/10225",
+        "categorie": "person"
+      },
+      {
+        "id": "10226",
+        "label": "デクステラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/12/10226_crt_aVaUg.jpg",
+        "link": "https://bgm.tv/character/10226",
+        "categorie": "person"
+      },
+      {
+        "id": "10227",
+        "label": "シザーリオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/33/10227_crt_H5UOu.jpg",
+        "link": "https://bgm.tv/character/10227",
+        "categorie": "person"
+      },
+      {
+        "id": "10228",
+        "label": "ヴァイオラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/03/10228_crt_cPpaX.jpg",
+        "link": "https://bgm.tv/character/10228",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

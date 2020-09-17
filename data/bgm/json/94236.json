@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "25749",
+        "label": "小日向缘",
+        "info": "高中二年级生，奈奈子的学姐，与奈奈子一同组成“流川GIRLS”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/e3/25749_crt_r7k9F.jpg?r=1404493196",
+        "link": "https://bgm.tv/character/25749",
+        "categorie": "person"
+      },
+      {
+        "id": "25750",
+        "label": "宇佐美奈奈子",
+        "info": "高中一年级生，被舅舅请求成为当地偶像。小时候就有成为偶像的梦想。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/2f/25750_crt_IqtDa.jpg?r=1404494482",
+        "link": "https://bgm.tv/character/25750",
+        "categorie": "person"
+      },
+      {
+        "id": "25751",
+        "label": "三月唯",
+        "info": "扮演流川市吉祥物“鱼心君”的女性，虽然是高中3年级生，但认为自己“进入演艺圈比较晚”，反而对奈奈子和缘使用敬语。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/2e/25751_crt_000AS.jpg?r=1404495475",
+        "link": "https://bgm.tv/character/25751",
+        "categorie": "person"
+      },
+      {
+        "id": "25752",
+        "label": "名都借未来",
+        "info": "高中1年级生，扮演“鱼心君”的另外一人。与唯是社团活动（演剧社）的前后辈关系。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/d6/25752_crt_Fm3D0.jpg?r=1404495828",
+        "link": "https://bgm.tv/character/25752",
+        "categorie": "person"
+      },
+      {
+        "id": "25753",
+        "label": "西深井沙织",
+        "info": "在流川市役所振兴课工作的女性，奈奈子的舅舅的部下，担任“流川GIRLS”的经纪人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/18/13/25753_crt_9ZLhN.jpg?r=1404496308",
+        "link": "https://bgm.tv/character/25753",
+        "categorie": "person"
+      },
+      {
+        "id": "25930",
+        "label": "太田贡",
+        "info": "奈奈子的舅舅，流川市役所振兴课的课长，“当地偶像”方案的企划者。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/0f/25930_crt_0I705.jpg?r=1405104588",
+        "link": "https://bgm.tv/character/25930",
+        "categorie": "person"
+      },
+      {
+        "id": "26400",
+        "label": "宇佐美智子",
+        "info": "奈々子の母。娘のろこどる活動に大喜びで、新聞記事を切り抜いたりテレビを買い替えたりとやや暴走気味。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/08/26400_crt_esaZ6.jpg?r=1408204857",
+        "link": "https://bgm.tv/character/26400",
+        "categorie": "person"
+      },
+      {
+        "id": "26896",
+        "label": "野田硝子",
+        "info": "奈々子のクラスメイト。やや口が悪いが、奈々子のろこどる活動を生温かく見守っている。みらいとは同じ中学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/4f/26896_crt_4ftUW.jpg?r=1410559581",
+        "link": "https://bgm.tv/character/26896",
+        "categorie": "person"
+      },
+      {
+        "id": "26897",
+        "label": "柏叶五月",
+        "info": "奈々子のクラスメイト。野田より頭1つ長身だが腰は低く、何かと謝る穏健派。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/d8/26897_crt_qVGvg.jpg?r=1410559765",
+        "link": "https://bgm.tv/character/26897",
+        "categorie": "person"
+      },
+      {
+        "id": "37815",
+        "label": "水元美里",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/16/37815_crt_l5SS2.jpg?r=1451641493",
+        "link": "https://bgm.tv/character/37815",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "25754",
+        "label": "鱼心",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ae/d6/25754_crt_2fHm2.jpg?r=1404496554",
+        "link": "https://bgm.tv/character/25754",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

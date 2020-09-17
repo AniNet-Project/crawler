@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "31032",
+        "label": "なぎさ",
+        "info": "主人公のアパートに転がり込んできたメイドさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/de/59/31032_crt_HgqDg.jpg",
+        "link": "https://bgm.tv/character/31032",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

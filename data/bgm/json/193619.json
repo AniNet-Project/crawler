@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19243",
+        "label": "埼玉",
+        "info": "本作主角。25岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/e6/19243_crt_oBuev.jpg?r=1599062038",
+        "link": "https://bgm.tv/character/19243",
+        "categorie": "person"
+      },
+      {
+        "id": "19671",
+        "label": "杰诺斯",
+        "info": "19岁",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/92/19671_crt_T5Iz2.jpg?r=1599062164",
+        "link": "https://bgm.tv/character/19671",
+        "categorie": "person"
+      },
+      {
+        "id": "19678",
+        "label": "音速的索尼克",
+        "info": "名字音同Sonic。来自忍者村的忍者，拥有S级的实力，喜欢杀人和与强者对决速度极快，使用忍者刀。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/aa/19678_crt_TYRX3.jpg?r=1599063569",
+        "link": "https://bgm.tv/character/19678",
+        "categorie": "person"
+      },
+      {
+        "id": "19679",
+        "label": "战栗的龙卷",
+        "info": "S级2位，28岁，B级1位英雄“地狱的吹雪”的亲姐姐。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/f9/19679_crt_43VU3.jpg?r=1599062635",
+        "link": "https://bgm.tv/character/19679",
+        "categorie": "person"
+      },
+      {
+        "id": "19680",
+        "label": "银色獠牙",
+        "info": "S级3位（在S级英雄设立前为B级77位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/9d/19680_crt_thFz2.jpg?r=1599062714",
+        "link": "https://bgm.tv/character/19680",
+        "categorie": "person"
+      },
+      {
+        "id": "19681",
+        "label": "原子武士",
+        "info": "S级4位，37岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/40/19681_crt_fV2rf.jpg?r=1441558803",
+        "link": "https://bgm.tv/character/19681",
+        "categorie": "person"
+      },
+      {
+        "id": "21592",
+        "label": "童帝",
+        "info": "S级5位，10岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/eb/21592_crt_A7KcQ.jpg",
+        "link": "https://bgm.tv/character/21592",
+        "categorie": "person"
+      },
+      {
+        "id": "21593",
+        "label": "金属骑士",
+        "info": "S级7位→S级6位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/3d/21593_crt_fN5Uf.jpg",
+        "link": "https://bgm.tv/character/21593",
+        "categorie": "person"
+      },
+      {
+        "id": "19676",
+        "label": "KING",
+        "info": "S级7位，29岁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/30/19676_crt_I3RVV.jpg?r=1599062400",
+        "link": "https://bgm.tv/character/19676",
+        "categorie": "person"
+      },
+      {
+        "id": "21591",
+        "label": "僵尸男",
+        "info": "S级8位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/78/21591_crt_WCxxo.jpg?r=1441561127",
+        "link": "https://bgm.tv/character/21591",
+        "categorie": "person"
+      },
+      {
+        "id": "21590",
+        "label": "驱动骑士",
+        "info": "S级9位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/c7/21590_crt_yr3e6.jpg",
+        "link": "https://bgm.tv/character/21590",
+        "categorie": "person"
+      },
+      {
+        "id": "19730",
+        "label": "猪神",
+        "info": "S级10位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/24/19730_crt_8s37p.jpg?r=1441561155",
+        "link": "https://bgm.tv/character/19730",
+        "categorie": "person"
+      },
+      {
+        "id": "21589",
+        "label": "超合金黑光",
+        "info": "S级11位（在S级英雄设立前为C级最低位383位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ae/21589_crt_9KkTC.jpg",
+        "link": "https://bgm.tv/character/21589",
+        "categorie": "person"
+      },
+      {
+        "id": "21588",
+        "label": "警犬侠",
+        "info": "S级12位（在S级英雄设立前为C级301位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fa/ef/21588_crt_4NoUk.jpg?r=1441561142",
+        "link": "https://bgm.tv/character/21588",
+        "categorie": "person"
+      },
+      {
+        "id": "19729",
+        "label": "闪光的Flash",
+        "info": "S级13位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/4e/19729_crt_O31N1.jpg",
+        "link": "https://bgm.tv/character/19729",
+        "categorie": "person"
+      },
+      {
+        "id": "19704",
+        "label": "背心大师",
+        "info": "S级14位→S级15位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/79/08/19704_crt_OnKxm.jpg",
+        "link": "https://bgm.tv/character/19704",
+        "categorie": "person"
+      },
+      {
+        "id": "19702",
+        "label": "金属球棒",
+        "info": "S级15位→S级16位（在S级英雄设立前为C级223位）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/cb/78/19702_crt_BRo1j.jpg",
+        "link": "https://bgm.tv/character/19702",
+        "categorie": "person"
+      },
+      {
+        "id": "19701",
+        "label": "性感囚犯",
+        "info": "S级16位→S级17位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/2f/19701_crt_8F9c9.jpg?r=1599062242",
+        "link": "https://bgm.tv/character/19701",
+        "categorie": "person"
+      },
+      {
+        "id": "19682",
+        "label": "假面帅哥甜心假面",
+        "info": "A级1位。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/af/19682_crt_8B75B.jpg",
+        "link": "https://bgm.tv/character/19682",
+        "categorie": "person"
+      },
+      {
+        "id": "19677",
+        "label": "地狱的吹雪",
+        "info": "英雄阶级：B级1位",
+        "image": "https://lain.bgm.tv/pic/crt/m/45/f5/19677_crt_R9MKD.jpg?r=1599063141",
+        "link": "https://bgm.tv/character/19677",
+        "categorie": "person"
+      },
+      {
+        "id": "24855",
+        "label": "无证骑士",
+        "info": "英雄阶级：C级1位",
+        "image": "https://lain.bgm.tv/pic/crt/m/2c/00/24855_crt_77ZvF.jpg",
+        "link": "https://bgm.tv/character/24855",
+        "categorie": "person"
+      },
+      {
+        "id": "19684",
+        "label": "饿狼",
+        "info": "18歳。性格は非常に自信家で、戦闘狂。シルバーファングの元一番弟子で、他の弟子たちを再起不能にした末、破門された。幼少時に受けたいじめの経験から、「最後は必ずヒーローが怪人を倒す」ことに理不尽さを感じており、自らが最強の怪人になってヒーローを倒すという目的のため「ヒーロー狩り」を行った。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/42/19684_crt_wo3Nx.jpg?r=1599062540",
+        "link": "https://bgm.tv/character/19684",
+        "categorie": "person"
+      },
+      {
+        "id": "69499",
+        "label": "水龙",
+        "info": "異種格闘技大会スーパーファイトで、過去に4大会連覇を果たした若きレジェンド。冥躰拳（めいていけん）の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/cf/69499_crt_wZJ45.jpg",
+        "link": "https://bgm.tv/character/69499",
+        "categorie": "person"
+      },
+      {
+        "id": "70831",
+        "label": "黑色精子",
+        "info": "怪人协会出场的怪人，体内总共有11兆4491亿71万2554只单细胞精子，可以把所有身体都融合，变为黄金精子，怪人协会最强战力之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/34/81/70831_crt_wgQ0L.jpg",
+        "link": "https://bgm.tv/character/70831",
+        "categorie": "person"
+      },
+      {
+        "id": "75064",
+        "label": "玲玲",
+        "info": "鈴をつけたチャイナ服の少女で、寡黙だが戦いを好む「掌鈴拳（しょうりんけん）」の使い手。",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/de/75064_crt_pOJKD.jpg",
+        "link": "https://bgm.tv/character/75064",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "60631",
+        "label": "源桃",
+        "info": "高中二年级学生。憧憬着师傅半藏门雪。拥有只要舔一下就知道别人身体状况的特技。相当开朗。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/fd/60631_crt_tGN6b.jpg?r=1539070871",
+        "link": "https://bgm.tv/character/60631",
+        "categorie": "person"
+      },
+      {
+        "id": "60632",
+        "label": "半藏门雪",
+        "info": "源桃的师父。拥有高度间谍意识，致力于工作的高中三年级学生。对自己和他人都很严厉。偶尔会过于认真到过火。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/c2/60632_crt_34Rol.jpg?r=1539620561",
+        "link": "https://bgm.tv/character/60632",
+        "categorie": "person"
+      },
+      {
+        "id": "60633",
+        "label": "相模枫",
+        "info": "师傅是八千代命。从贫穷的家里摆脱出来成为间谍的少女。上进心比谁都要强的高中一年级学生。和命一起合租一间房。",
+        "image": "https://lain.bgm.tv/pic/crt/m/19/30/60633_crt_77mnW.jpg?r=1540226274",
+        "link": "https://bgm.tv/character/60633",
+        "categorie": "person"
+      },
+      {
+        "id": "60634",
+        "label": "八千代命",
+        "info": "相模枫的师父，高中二年级学生。我行我素，悠然自得。非常喜欢以前的间谍电影。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/57/60634_crt_1eQTg.jpg?r=1540924148",
+        "link": "https://bgm.tv/character/60634",
+        "categorie": "person"
+      },
+      {
+        "id": "60635",
+        "label": "石川五惠",
+        "info": "师傅是青叶初芽。跟桃和命是同班同学的高中二年级学生。和外表相反，非常喜欢动物和布偶。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/ef/60635_crt_c06hj.jpg?r=1541604344",
+        "link": "https://bgm.tv/character/60635",
+        "categorie": "person"
+      },
+      {
+        "id": "60636",
+        "label": "青叶初芽",
+        "info": "石川五惠的师傅，跟雪是儿时玩伴兼同班同学的高中三年级生。因友爱主意而向各种各样的人伸出援手。秘密道具多数都由她发明。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/af/60636_crt_DHqp2.jpg?r=1542782379",
+        "link": "https://bgm.tv/character/60636",
+        "categorie": "person"
+      },
+      {
+        "id": "67538",
+        "label": "卡特莉娜·托比",
+        "info": "青叶初芽以前的师父，空崎的咖喱店“wasabi”的店长。原本性格具有美国人风范，但某件事之后变得圆滑了。处在默默支持众人的位置。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/b0/67538_crt_KH1Jk.jpg?r=1544391034",
+        "link": "https://bgm.tv/character/67538",
+        "categorie": "person"
+      },
+      {
+        "id": "66135",
+        "label": "文鸟女",
+        "info": "魍魉的大干部。连相貌都充满谜团的女性。疼爱着文鸟琪琪。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/e4/66135_crt_9ZwA9.jpg?r=1543924479",
+        "link": "https://bgm.tv/character/66135",
+        "categorie": "person"
+      },
+      {
+        "id": "66136",
+        "label": "特蕾西娅·蕾伊",
+        "info": "银发蓝瞳的少女。文鸟女的副官。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/51/66136_crt_E7AWj.jpg?r=1544733203",
+        "link": "https://bgm.tv/character/66136",
+        "categorie": "person"
+      },
+      {
+        "id": "66137",
+        "label": "白虎",
+        "info": "与幼小的外貌相反，具有相当程度的实力。那份强大究竟从何而来？",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/b5/66137_crt_1scwG.jpg?r=1537200067",
+        "link": "https://bgm.tv/character/66137",
+        "categorie": "person"
+      },
+      {
+        "id": "66138",
+        "label": "多尔特",
+        "info": "知名的佣兵。很自恋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/71/66138_crt_N2PdP.jpg?r=1538352744",
+        "link": "https://bgm.tv/character/66138",
+        "categorie": "person"
+      },
+      {
+        "id": "67536",
+        "label": "藤林长穂",
+        "info": "月影的成员，代号为长门。半藏门雪的师傅。平时性格十分我行我素，也十分宠爱弟子，然而一旦进入间谍状态就十分果断。擅长近战，武器是日本刀。在描绘了月影过去故事的插画小说《月影特工 GOLDEN GENESIS》中活跃。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/4c/67536_crt_k2ccP.jpg?r=1543737745",
+        "link": "https://bgm.tv/character/67536",
+        "categorie": "person"
+      },
+      {
+        "id": "67930",
+        "label": "才贺伊智香",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/6e/67930_crt_iNi4U.jpg?r=1545552026",
+        "link": "https://bgm.tv/character/67930",
+        "categorie": "person"
+      },
+      {
+        "id": "67931",
+        "label": "一之濑梅子",
+        "info": "在空崎车站附近的商店街上经营整骨院的婆婆。语气和身体都很硬朗，是商店街的代表人物。很会照顾人，对桃也很关心。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/ac/67931_crt_Yc3d9.jpg?r=1545551065",
+        "link": "https://bgm.tv/character/67931",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

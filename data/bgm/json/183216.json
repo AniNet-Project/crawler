@@ -1,0 +1,445 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42376",
+        "label": "新海春",
+        "info": "１３歳の中学１年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/f6/42376_crt_F1f1h.jpg?r=1465466637",
+        "link": "https://bgm.tv/character/42376",
+        "categorie": "person"
+      },
+      {
+        "id": "42377",
+        "label": "盖奇兽",
+        "info": "ハルのバディアプモン。検索アプリの能力を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/21/f3/42377_crt_r629G.jpg",
+        "link": "https://bgm.tv/character/42377",
+        "categorie": "person"
+      },
+      {
+        "id": "42987",
+        "label": "花岚惠理",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/e2/42987_crt_7TMNc.jpg",
+        "link": "https://bgm.tv/character/42987",
+        "categorie": "person"
+      },
+      {
+        "id": "42988",
+        "label": "多卡兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/39/42988_crt_57c45.jpg",
+        "link": "https://bgm.tv/character/42988",
+        "categorie": "person"
+      },
+      {
+        "id": "43556",
+        "label": "大空勇仁",
+        "info": "13才の中学1年生。ハルの幼い頃からの親友。リーダーシップがあり熱い性格。スポーツマンでサッカーが得意。女子からもモテる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7c/47/43556_crt_z8n12.jpg",
+        "link": "https://bgm.tv/character/43556",
+        "categorie": "person"
+      },
+      {
+        "id": "68439",
+        "label": "离线兽",
+        "info": "勇仁のバディアプモン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e7/df/68439_crt_11Hb8.jpg",
+        "link": "https://bgm.tv/character/68439",
+        "categorie": "person"
+      },
+      {
+        "id": "43141",
+        "label": "飞鸟虎次郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/9d/43141_crt_70zJ9.jpg",
+        "link": "https://bgm.tv/character/43141",
+        "categorie": "person"
+      },
+      {
+        "id": "43142",
+        "label": "音乐兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/dd/43142_crt_9eBj0.jpg",
+        "link": "https://bgm.tv/character/43142",
+        "categorie": "person"
+      },
+      {
+        "id": "43306",
+        "label": "桂零",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/3e/43306_crt_yyDYY.jpg?r=1477564672",
+        "link": "https://bgm.tv/character/43306",
+        "categorie": "person"
+      },
+      {
+        "id": "43307",
+        "label": "黑客兽",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/f5/43307_crt_H7GbK.jpg",
+        "link": "https://bgm.tv/character/43307",
+        "categorie": "person"
+      },
+      {
+        "id": "43557",
+        "label": "樫木亚衣",
+        "info": "13歳の中学1年生。ハルのクラスメイト。優しく穏やかな性格で、クラスでも人気がある。家が本屋を営んでいて、ハルたちがよく訪れている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/8e/43557_crt_1sL32.jpg",
+        "link": "https://bgm.tv/character/43557",
+        "categorie": "person"
+      },
+      {
+        "id": "47392",
+        "label": "导航兽",
+        "info": "ナビゲーションアプリのアプモン。目的地までの道案内をしてくれる。自ら「服部ナビモン」を名乗っているが、忍者か…？！一人称は「拙者」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/14/47392_crt_BsGnq.jpg?r=1476499907",
+        "link": "https://bgm.tv/character/47392",
+        "categorie": "person"
+      },
+      {
+        "id": "47395",
+        "label": "箱机兽",
+        "info": "カメラアプリのアプモン。凄腕のカメラマンで、世の中のカメラを使ってネット世界から相手を監視している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/be/47395_crt_Xz3dz.jpg?r=1476500419",
+        "link": "https://bgm.tv/character/47395",
+        "categorie": "person"
+      },
+      {
+        "id": "43558",
+        "label": "华生",
+        "info": "13歳の中学1年生。ハルのクラスメイト。本名は和戸尊（わとたける）。スマホやゲームなどデジタルなアイテムが好き。アプモンが引き起こす事件に巻き込まれやすい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/aa/27/43558_crt_0R026.jpg",
+        "link": "https://bgm.tv/character/43558",
+        "categorie": "person"
+      },
+      {
+        "id": "68440",
+        "label": "云龙寺奈特",
+        "info": "高校生ＣＥＯ。ＣＥＯってことはまさかあの企業の・・・？",
+        "image": "https://lain.bgm.tv/pic/crt/m/a7/3e/68440_crt_2fd9I.jpg",
+        "link": "https://bgm.tv/character/68440",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      },
+      {
+        "id": "42378",
+        "label": "应用驱动",
+        "info": "アプモンを実体化するための超重要アイテム。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/84/42378_crt_55gpC.jpg",
+        "link": "https://bgm.tv/character/42378",
+        "categorie": "person"
+      },
+      {
+        "id": "47393",
+        "label": "角色扮演兽",
+        "info": "ロールプレイングゲームのアプモン。聖剣を武器に持つ勇者。「つまらないゲーム」と言われるとショックを受ける。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/a8/47393_crt_NBQDi.jpg",
+        "link": "https://bgm.tv/character/47393",
+        "categorie": "person"
+      },
+      {
+        "id": "47394",
+        "label": "邮件兽",
+        "info": "メールアプリのアプモン。ネットを駆け巡る、頼もしいメールの配達人。彼が投げるメールに乗れば、宛先に指定された場所まで一息に飛んでいくこともできる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/fd/47394_crt_6c9g5.jpg?r=1476500032",
+        "link": "https://bgm.tv/character/47394",
+        "categorie": "person"
+      },
+      {
+        "id": "47396",
+        "label": "信息兽",
+        "info": "メッセージアプリのアプモン。メッセージの受信・発信の能力を持つ。喋ったことがフキダシの形となって、相手に向かって攻撃する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/87/47396_crt_MCEfs.jpg?r=1476500429",
+        "link": "https://bgm.tv/character/47396",
+        "categorie": "person"
+      },
+      {
+        "id": "47811",
+        "label": "看不见兽",
+        "info": "諜報活動が得意なアプモン。対象の姿を風景に同化させる能力を持ち、どんなときでも物音ひとつ立てずに行動することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/53/b7/47811_crt_4IDe4.jpg?r=1477706559",
+        "link": "https://bgm.tv/character/47811",
+        "categorie": "person"
+      },
+      {
+        "id": "47812",
+        "label": "瞄准镜兽",
+        "info": "世界中のカメラを自分の目とすることのできる現代の千里眼の持ち主。カメラで捉えたターゲットに一斉射撃を行う。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/26/47812_crt_22dvp.jpg?r=1477707614",
+        "link": "https://bgm.tv/character/47812",
+        "categorie": "person"
+      },
+      {
+        "id": "47813",
+        "label": "黄林艾蕾娜",
+        "info": "アメリカ仕込みのツッコミマシーン。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a6/de/47813_crt_PVsdW.jpg",
+        "link": "https://bgm.tv/character/47813",
+        "categorie": "person"
+      },
+      {
+        "id": "47814",
+        "label": "真白爱丽丝",
+        "info": "不思議の国のメルヘンメガネ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/8e/47814_crt_8tTn1.jpg",
+        "link": "https://bgm.tv/character/47814",
+        "categorie": "person"
+      },
+      {
+        "id": "51722",
+        "label": "洋装兽",
+        "info": "ファッションアプリのアプモン。画面上に表示された服をデータの切れ端で縫い上げ、具現化する能力を持つ。その早縫いの技には誰も敵わない。縫い針と糸を巧みに操り、対象を縫い付けたりぐるぐる巻きにしたりすることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/f6/51722_crt_6StjV.jpg",
+        "link": "https://bgm.tv/character/51722",
+        "categorie": "person"
+      },
+      {
+        "id": "51723",
+        "label": "舔舔兽",
+        "info": "グルメアプリのアプモン。食事の時間を何より愛する食いしん坊。普段はとてものんびり屋だが、空腹時には食べ物を求めて凶暴な性格になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/3e/51723_crt_lEkES.jpg",
+        "link": "https://bgm.tv/character/51723",
+        "categorie": "person"
+      },
+      {
+        "id": "51724",
+        "label": "垃圾兽",
+        "info": "ごみ箱アプリのアプモン。不要なデータを消去してくれる、処分が大好きなアプモン。放っておくと必要なデータまで捨ててしまうため、扱いには注意が必要。",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/9b/51724_crt_JGiES.jpg",
+        "link": "https://bgm.tv/character/51724",
+        "categorie": "person"
+      },
+      {
+        "id": "51725",
+        "label": "手表兽",
+        "info": "時計アプリのアプモン。体内に正確な時計を持っているアプモン。すべての予定を秒刻みで行うなど、時間の話には非常にうるさい性格をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/f2/51725_crt_6ZODh.jpg",
+        "link": "https://bgm.tv/character/51725",
+        "categorie": "person"
+      },
+      {
+        "id": "51726",
+        "label": "动画兽",
+        "info": "動画アプリのアプモン。世界中の映像作品や配信動画を熟知する。腕のリモコンを操作することで、顔の画面に映像を映すことができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/16/51726_crt_nfgEg.jpg",
+        "link": "https://bgm.tv/character/51726",
+        "categorie": "person"
+      },
+      {
+        "id": "51727",
+        "label": "录音兽",
+        "info": "録音アプリのアプモン。対象の出す音や言葉を記録する能力を持つ。非常にマメな性質で、特に重要ではない会話でもすぐに録音してしまう。敵の攻撃をマイクで受け、録音。音波系攻撃であれば吸収してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/c1/51727_crt_h30ba.jpg",
+        "link": "https://bgm.tv/character/51727",
+        "categorie": "person"
+      },
+      {
+        "id": "51728",
+        "label": "主持兽",
+        "info": "実況アプリのアプモン。実況に魂を注ぐ喋りの天才。彼の熱い実況を受けると、どんなにやる気のない対象も普段以上のパワーを発揮できる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d5/96/51728_crt_uB7bz.jpg",
+        "link": "https://bgm.tv/character/51728",
+        "categorie": "person"
+      },
+      {
+        "id": "51729",
+        "label": "解说兽",
+        "info": "解説アプリのアプモン。解説が大好きで物知り。体が小さいためなかなか姿を見つけてもらえず、周囲からは実体のない「謎の声」と思われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/88/51729_crt_66Ut7.jpg",
+        "link": "https://bgm.tv/character/51729",
+        "categorie": "person"
+      },
+      {
+        "id": "51730",
+        "label": "策士兽",
+        "info": "シミュレーションアプリのアプモン。この世の名だたる兵法を修めた、優れた戦術家。綿密に練られた策略で相手の虚をつき、狙った者を確実に追い詰める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/ae/51730_crt_5D1yJ.jpg",
+        "link": "https://bgm.tv/character/51730",
+        "categorie": "person"
+      },
+      {
+        "id": "51731",
+        "label": "烹饪兽",
+        "info": "お料理アプリのアプモン。どんな食通もうならせる料理の鉄人。心身ともに非常にたくましく、時には食材のみならず、敵アプモンすら料理してしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/e2/51731_crt_U4nT2.jpg",
+        "link": "https://bgm.tv/character/51731",
+        "categorie": "person"
+      },
+      {
+        "id": "51732",
+        "label": "嘀咕兽",
+        "info": "裏口コミアプリのアプモン。いつも誰かとコソコソしていて何だかあやしい。「裏事情通」を自称しており、話しかけると秘密の情報を教えてくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/96/51732_crt_hKGkG.jpg",
+        "link": "https://bgm.tv/character/51732",
+        "categorie": "person"
+      },
+      {
+        "id": "51733",
+        "label": "评论兽",
+        "info": "口コミアプリのアプモン。あらゆる物事を見極め、評価をしてくれる辛口レビュアー。彼がほめた商品や店は必ず大人気になると言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/3a/51733_crt_G4OtF.jpg",
+        "link": "https://bgm.tv/character/51733",
+        "categorie": "person"
+      },
+      {
+        "id": "51734",
+        "label": "日历兽",
+        "info": "カレンダーアプリのアプモン。あらゆる予定を管理している。把握している情報は、大事な会議の日程からスーパーのタイムサービスのことまでさまざま。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/ac/51734_crt_ndAx7.jpg",
+        "link": "https://bgm.tv/character/51734",
+        "categorie": "person"
+      },
+      {
+        "id": "51735",
+        "label": "教练兽",
+        "info": "育成の能力を持つアプモン。妥協を許さぬ鬼コーチ。彼の教えを受けた者は、礼儀や戦い方、料理の腕前までも、すべて依頼人の理想通りに叩き直されてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/67/51735_crt_5eAeE.jpg",
+        "link": "https://bgm.tv/character/51735",
+        "categorie": "person"
+      },
+      {
+        "id": "51736",
+        "label": "智迷兽",
+        "info": "パズルアプリのアプモン。3つの体がそれぞれ異なる個性を持つ、少し特殊なアプモン。町中のあらゆる電子機器をパズル化することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/88/51736_crt_60T02.jpg",
+        "link": "https://bgm.tv/character/51736",
+        "categorie": "person"
+      },
+      {
+        "id": "51737",
+        "label": "占卜兽",
+        "info": "占いアプリのアプモン。ミステリアスな予言者であり、アプモンに人気の占い師。データでできた水晶玉を通して、対象の少し未来の姿を見ることができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/44/51737_crt_OHeDx.jpg",
+        "link": "https://bgm.tv/character/51737",
+        "categorie": "person"
+      },
+      {
+        "id": "51738",
+        "label": "时间兽",
+        "info": "タイムスリップの能力を持つアプモン。時の流れや空間を超越した、稀有な移動能力を持つ。自分の時間以外に、拳で殴った相手の時間にも干渉することができる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/39/51738_crt_88njI.jpg",
+        "link": "https://bgm.tv/character/51738",
+        "categorie": "person"
+      },
+      {
+        "id": "51739",
+        "label": "复制粘贴兽",
+        "info": "コピペアプリのアプモン。対象のデータを複製することができる。論文や絵画など、簡単に本物そっくりのコピーを作ってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/d7/51739_crt_00IIp.jpg",
+        "link": "https://bgm.tv/character/51739",
+        "categorie": "person"
+      },
+      {
+        "id": "51740",
+        "label": "病毒兽",
+        "info": "ウィルスアプリのアプモン。体内でオリジナルのウィルスを精製することができる。非常に危険な存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/19/51740_crt_AAFfA.jpg",
+        "link": "https://bgm.tv/character/51740",
+        "categorie": "person"
+      },
+      {
+        "id": "51741",
+        "label": "列车兽",
+        "info": "乗換アプリのアプモン。電車の運行状況に詳しい。より良い乗換情報を教えてくれる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4e/92/51741_crt_522cu.jpg",
+        "link": "https://bgm.tv/character/51741",
+        "categorie": "person"
+      },
+      {
+        "id": "51742",
+        "label": "御梦兽",
+        "info": "夢を操る能力を持つ、バクのような姿をしているアプモン。対象の精神を強制的に夢の世界に落とし、空っぽになった体を操ってしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/bf/51742_crt_6qJeC.jpg",
+        "link": "https://bgm.tv/character/51742",
+        "categorie": "person"
+      },
+      {
+        "id": "51743",
+        "label": "医疗兽",
+        "info": "身に着けた医療機器でバッチリ健康管理をしてくれる。能力を引き出す薬品を調合するほか、万病に効く特効薬で仲間を癒す。",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/7c/51743_crt_xHd6H.jpg",
+        "link": "https://bgm.tv/character/51743",
+        "categorie": "person"
+      },
+      {
+        "id": "51744",
+        "label": "光次郎",
+        "info": "アプチューブという動画投稿サイトで活躍する有名アプチューバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/79/51744_crt_9g54f.jpg",
+        "link": "https://bgm.tv/character/51744",
+        "categorie": "person"
+      },
+      {
+        "id": "51745",
+        "label": "圣次郎",
+        "info": "動画投稿サイト・アプチューブに突如現れた新人アプチューバー。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/be/51745_crt_tb2fB.jpg",
+        "link": "https://bgm.tv/character/51745",
+        "categorie": "person"
+      },
+      {
+        "id": "51746",
+        "label": "桂初",
+        "info": "桂レイの6歳下の弟。母子家庭で育ち、はじめが6歳の時に母親も亡くなった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/e8/51746_crt_oodWe.jpg",
+        "link": "https://bgm.tv/character/51746",
+        "categorie": "person"
+      },
+      {
+        "id": "51747",
+        "label": "新海电卫门",
+        "info": "新海ハルの祖父。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/5d/51747_crt_c45jy.jpg",
+        "link": "https://bgm.tv/character/51747",
+        "categorie": "person"
+      },
+      {
+        "id": "51748",
+        "label": "飞鸟珍妮",
+        "info": "虎次郎の母親。イギリス人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/f8/51748_crt_hCQf5.jpg",
+        "link": "https://bgm.tv/character/51748",
+        "categorie": "person"
+      },
+      {
+        "id": "51962",
+        "label": "神乐坂泉",
+        "info": "アプリ山470不動のセンターで、トップ中のトップアイドル。",
+        "image": "https://lain.bgm.tv/pic/crt/m/00/58/51962_crt_rA18I.jpg",
+        "link": "https://bgm.tv/character/51962",
+        "categorie": "person"
+      },
+      {
+        "id": "51963",
+        "label": "天气龙兽",
+        "info": "拥有自如操控气候的能力的应用兽。他对环境的影响不可估量，如果他有意随时都能引发大灾害。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ea/72/51963_crt_YyR7r.jpg",
+        "link": "https://bgm.tv/character/51963",
+        "categorie": "person"
+      },
+      {
+        "id": "68441",
+        "label": "启动兽",
+        "info": "超起動の能力を持つアプモン。 強制起動用アプリケーションで どんな難解なシステムでも破壊されたプログラムでも たちまち起動させてしまう。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/68/68441_crt_BsS11.jpg",
+        "link": "https://bgm.tv/character/68441",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

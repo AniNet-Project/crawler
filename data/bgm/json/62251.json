@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59326",
+        "label": "葛城舞",
+        "info": "常々主人公に厳しい事を言う兄嫁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/57/ff/59326_crt_7Sd73.jpg",
+        "link": "https://bgm.tv/character/59326",
+        "categorie": "person"
+      },
+      {
+        "id": "59327",
+        "label": "高間梢",
+        "info": "舞の先輩で、バイトに来る人妻。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/95/59327_crt_M5ClR.jpg",
+        "link": "https://bgm.tv/character/59327",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

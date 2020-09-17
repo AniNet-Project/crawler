@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "57825",
+        "label": "黎响",
+        "info": "本作の主人公。中学時代、陸上部でエースとして活躍。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/e5/57825_crt_BP7p4.jpg",
+        "link": "https://bgm.tv/character/57825",
+        "categorie": "person"
+      },
+      {
+        "id": "57826",
+        "label": "孟进",
+        "info": "“エリート再教育学校”で特別待遇を受ける謎の生徒。金持ちの息子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/79/57826_crt_WbIsR.jpg",
+        "link": "https://bgm.tv/character/57826",
+        "categorie": "person"
+      },
+      {
+        "id": "57827",
+        "label": "罗织",
+        "info": "“エリート再教育学校”の生徒会長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/fd/57827_crt_NN0my.jpg",
+        "link": "https://bgm.tv/character/57827",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

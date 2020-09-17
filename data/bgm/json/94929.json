@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "24844",
+        "label": "园川翼",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/30/24844_crt_o8Oh1.jpg?r=1399391431",
+        "link": "https://bgm.tv/character/24844",
+        "categorie": "person"
+      },
+      {
+        "id": "24845",
+        "label": "飞鹰显",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/4a/24845_crt_nW9vn.jpg",
+        "link": "https://bgm.tv/character/24845",
+        "categorie": "person"
+      },
+      {
+        "id": "24846",
+        "label": "鸟羽结真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/32/24846_crt_q0hd0.jpg",
+        "link": "https://bgm.tv/character/24846",
+        "categorie": "person"
+      },
+      {
+        "id": "24847",
+        "label": "乌丸吉成",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/de/24847_crt_L8983.jpg?r=1399392220",
+        "link": "https://bgm.tv/character/24847",
+        "categorie": "person"
+      },
+      {
+        "id": "24848",
+        "label": "友梨",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/c0/24848_crt_wdPPS.jpg?r=1399392476",
+        "link": "https://bgm.tv/character/24848",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

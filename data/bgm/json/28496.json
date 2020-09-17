@@ -1,0 +1,109 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7359",
+        "label": "李洛克",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/0b/7359_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7359",
+        "categorie": "person"
+      },
+      {
+        "id": "7358",
+        "label": "日向宁次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/08/7358_crt_oFI6X.jpg",
+        "link": "https://bgm.tv/character/7358",
+        "categorie": "person"
+      },
+      {
+        "id": "7360",
+        "label": "天天",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/4e/7360_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7360",
+        "categorie": "person"
+      },
+      {
+        "id": "7370",
+        "label": "迈特凯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ad/29/7370_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7370",
+        "categorie": "person"
+      },
+      {
+        "id": "2162",
+        "label": "漩涡鸣人",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/91/f5/2162_crt_u5Z59.jpg?r=1532380992",
+        "link": "https://bgm.tv/character/2162",
+        "categorie": "person"
+      },
+      {
+        "id": "7361",
+        "label": "大和",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/9f/7361_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/7361",
+        "categorie": "person"
+      },
+      {
+        "id": "8840",
+        "label": "猿飞木叶丸",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/7b/8840_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8840",
+        "categorie": "person"
+      },
+      {
+        "id": "6500",
+        "label": "宇智波佐助",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e8/a3/6500_crt_Fzb24.jpg?r=1419948585",
+        "link": "https://bgm.tv/character/6500",
+        "categorie": "person"
+      },
+      {
+        "id": "6536",
+        "label": "旗木卡卡西",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/79/6536_crt_anidb.jpg?r=1365091619",
+        "link": "https://bgm.tv/character/6536",
+        "categorie": "person"
+      },
+      {
+        "id": "6827",
+        "label": "春野樱",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/8f/6827_crt_jhQZP.jpg",
+        "link": "https://bgm.tv/character/6827",
+        "categorie": "person"
+      },
+      {
+        "id": "7357",
+        "label": "佐井",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/65/7357_crt_anidb.jpg?r=1456221476",
+        "link": "https://bgm.tv/character/7357",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

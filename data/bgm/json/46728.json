@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "19228",
+        "label": "铃原泉水子",
+        "info": "凤城学园1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/02/19228_crt_aQzsS.jpg",
+        "link": "https://bgm.tv/character/19228",
+        "categorie": "person"
+      },
+      {
+        "id": "19229",
+        "label": "相乐深行",
+        "info": "泉水子的青梅竹马、同班同学。山伏的家系。曾看过泉水子跳舞。小时候（五岁）拿球反复扔泉水子的背。成绩优异。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/d8/19229_crt_vo958.jpg",
+        "link": "https://bgm.tv/character/19229",
+        "categorie": "person"
+      },
+      {
+        "id": "19829",
+        "label": "宗田真响",
+        "info": "就讀高中部1年A班，宿舍與泉水子同室的女孩。國中時期三年的成績為學年第二，在男女生之間皆有人氣。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a9/5f/19829_crt_Ky7CT.jpg",
+        "link": "https://bgm.tv/character/19829",
+        "categorie": "person"
+      },
+      {
+        "id": "19830",
+        "label": "宗田真夏",
+        "info": "就讀高中部1年C班。真響的弟弟，靠著真響的關係而進鳳城學園就讀。嗜好是流鏑馬。是頗為坦率的少年。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/10/19830_crt_RH7r0.jpg",
+        "link": "https://bgm.tv/character/19830",
+        "categorie": "person"
+      },
+      {
+        "id": "19831",
+        "label": "宗田真澄",
+        "info": "與真響、真夏為三人兄弟，年幼時已過世。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3b/68/19831_crt_ghSHr.jpg",
+        "link": "https://bgm.tv/character/19831",
+        "categorie": "person"
+      },
+      {
+        "id": "19832",
+        "label": "高柳一条",
+        "info": "就讀高中部1年A班。為陰陽師家族的名門子弟，能夠役使式神。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/8b/19832_crt_uQ0Xb.jpg",
+        "link": "https://bgm.tv/character/19832",
+        "categorie": "person"
+      },
+      {
+        "id": "19833",
+        "label": "如月·珍·仄香",
+        "info": "現任學生會會長。總是穿著男生制服。目前在學習日本舞。",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/10/19833_crt_U311m.jpg",
+        "link": "https://bgm.tv/character/19833",
+        "categorie": "person"
+      },
+      {
+        "id": "19834",
+        "label": "村上穗高",
+        "info": "前學生會會長。現被稱為「影子學生會長」。教授仄香日本舞的技巧。",
+        "image": "https://lain.bgm.tv/pic/crt/m/27/64/19834_crt_ENZIl.jpg",
+        "link": "https://bgm.tv/character/19834",
+        "categorie": "person"
+      },
+      {
+        "id": "19265",
+        "label": "相乐雪政",
+        "info": "深行的父親，十分重視作為姬神附身容器的泉水子，並令其兒子深行和泉水子同校。",
+        "image": "https://lain.bgm.tv/pic/crt/m/74/e4/19265_crt_KK0k2.jpg",
+        "link": "https://bgm.tv/character/19265",
+        "categorie": "person"
+      },
+      {
+        "id": "19264",
+        "label": "和宫悟",
+        "info": "存在感稀薄的身材矮小的男子，因由泉水子的愿望而生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/6c/19264_crt_Bedp3.jpg",
+        "link": "https://bgm.tv/character/19264",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

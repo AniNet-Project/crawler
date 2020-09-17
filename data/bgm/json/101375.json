@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13375",
+        "label": "奈亚拉托提普",
+        "info": "克苏鲁神话里登场的上古邪神，“阿撒托斯的使者”“匍匐蠕动的混沌”“无貌之神”奈亚拉托提普，司诱惑与狡诈，可以自由地变换自身容貌和性别。“奈亚拉托提普”并不是本名，而只是为了迎合地球人的语言所作的转译。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/9c/13375_crt_tk9TR.jpg",
+        "link": "https://bgm.tv/character/13375",
+        "categorie": "person"
+      },
+      {
+        "id": "15544",
+        "label": "八坂真寻",
+        "info": "本作主角，居住于地球的普通高中生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/f7/15544_crt_JSxN7.jpg",
+        "link": "https://bgm.tv/character/15544",
+        "categorie": "person"
+      },
+      {
+        "id": "15542",
+        "label": "克图格亚",
+        "info": "克苏鲁神话中的上古邪神，来自恒星北落师门的“活火焰”“爆燃者”克图格亚，与奈亚拉托提普是誓不两立的死敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/96/82/15542_crt_fiX6d.jpg",
+        "link": "https://bgm.tv/character/15542",
+        "categorie": "person"
+      },
+      {
+        "id": "15543",
+        "label": "哈斯塔",
+        "info": "克苏鲁神话中的上古邪神，来自恒星昴宿增十六，掌控风之力的“无以名状者”“深空星海之主”哈斯塔；和司水的克苏鲁是死敌。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/67/15543_crt_w3k4K.jpg",
+        "link": "https://bgm.tv/character/15543",
+        "categorie": "person"
+      },
+      {
+        "id": "15541",
+        "label": "暮井珠绪",
+        "info": "真寻的同学，自称万事通，因十分八卦而被称为“喇叭嘴”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/70/15541_crt_u054m.jpg",
+        "link": "https://bgm.tv/character/15541",
+        "categorie": "person"
+      },
+      {
+        "id": "15545",
+        "label": "八坂赖子",
+        "info": "真寻的母亲，游乐器主机发烧狂、常收集老旧主机回家。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/9b/15545_crt_ROxeE.jpg",
+        "link": "https://bgm.tv/character/15545",
+        "categorie": "person"
+      },
+      {
+        "id": "15546",
+        "label": "露希·吉斯顿",
+        "info": "冷酷而知性的成熟女性，实体是克苏鲁的眷属，星之眷族的一员，与其主君一样敌视哈斯塔。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/06/15546_crt_RSQmk.jpg",
+        "link": "https://bgm.tv/character/15546",
+        "categorie": "person"
+      },
+      {
+        "id": "15547",
+        "label": "余市健彦",
+        "info": "真寻的同学与好朋友，十分善解人意。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8e/1a/15547_crt_8x9fZ.jpg",
+        "link": "https://bgm.tv/character/15547",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

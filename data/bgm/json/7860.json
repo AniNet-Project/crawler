@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13270",
+        "label": "小春野白绢",
+        "info": "二子山学园学生。平时胆小懦弱，但是心爱的人有事就会硬着头皮上战场。白色的战衣，因为胸部的关系，被称之为“贫乳”。与凤薇薇安和诸星 蕾是好朋友，也是好同学。三个中第一个醒来战斗的人。同时喜欢着诸星蕾的哥哥诸星真。",
+        "image": "https://lain.bgm.tv/pic/crt/m/68/f7/13270_crt_j4LQF.jpg?r=1401457658",
+        "link": "https://bgm.tv/character/13270",
+        "categorie": "person"
+      },
+      {
+        "id": "15806",
+        "label": "凤薇薇安",
+        "info": "1987年10月12日生まれ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/e3/15806_crt_4zwBA.jpg?r=1401457838",
+        "link": "https://bgm.tv/character/15806",
+        "categorie": "person"
+      },
+      {
+        "id": "15807",
+        "label": "诸星蕾",
+        "info": "1987年4月23日生まれ[1]。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7f/17/15807_crt_kLg7r.jpg?r=1401458003",
+        "link": "https://bgm.tv/character/15807",
+        "categorie": "person"
+      },
+      {
+        "id": "15808",
+        "label": "UFO人",
+        "info": "謎の巨大ヒーローとして怪獣と戦っていたが、不幸な事故の結果、白絹・ヴィヴィアン・つぼみに自分の魂と身体の一部を分け与えたために小型化してしまった。ヒーローらしからぬエロい性格。普段は白絹の部屋にいて、机の引き出しを寝床にしている。小説版では地球の衛星軌道上に基地があるが、小型後はそこへ飛んでいくことが出来なくなった。3人の変身後の衣装は3分経過でエネルギーが尽きて少しずつ消失する仕組みで、変身中に彼が体調を崩すとエネルギー切れが早まる。なお、白絹・ヴィヴィアン・つぼみが変身するときにはUFOマンも変身後の姿の一部となるため、同時には1人しか変身することができない（漫画版最終回では例外として3人同時に変身。但しごく短時間で、衣装も簡略化）。宇宙警察らしい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e5/a9/15808_crt_zNW8U.jpg?r=1401458085",
+        "link": "https://bgm.tv/character/15808",
+        "categorie": "person"
+      },
+      {
+        "id": "15809",
+        "label": "岡村与作",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/15809",
+        "categorie": "person"
+      },
+      {
+        "id": "15810",
+        "label": "諸星真",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/15810",
+        "categorie": "person"
+      },
+      {
+        "id": "15811",
+        "label": "小春野繭",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/15811",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

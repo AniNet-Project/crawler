@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5582",
+        "label": "アロエ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/36/5582_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5582",
+        "categorie": "person"
+      },
+      {
+        "id": "5585",
+        "label": "アメリア",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/7e/5585_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5585",
+        "categorie": "person"
+      },
+      {
+        "id": "5586",
+        "label": "マラリヤ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/53/5586_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5586",
+        "categorie": "person"
+      },
+      {
+        "id": "5594",
+        "label": "レオン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/b6/5594_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5594",
+        "categorie": "person"
+      },
+      {
+        "id": "5584",
+        "label": "ミランダ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/03/3d/5584_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5584",
+        "categorie": "person"
+      },
+      {
+        "id": "5587",
+        "label": "ガルーダ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/21/5587_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5587",
+        "categorie": "person"
+      },
+      {
+        "id": "5595",
+        "label": "カイル",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f1/50/5595_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5595",
+        "categorie": "person"
+      },
+      {
+        "id": "5596",
+        "label": "莉迪雅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/81/5596_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5596",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5074",
+        "label": "ヒコラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/cd/5074_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5074",
+        "categorie": "person"
+      },
+      {
+        "id": "5075",
+        "label": "ヤイマオ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/68/5075_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5075",
+        "categorie": "person"
+      },
+      {
+        "id": "5076",
+        "label": "タチジ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/64/5076_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5076",
+        "categorie": "person"
+      },
+      {
+        "id": "5077",
+        "label": "インム",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/85/5077_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5077",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

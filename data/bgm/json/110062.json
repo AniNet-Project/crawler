@@ -1,0 +1,213 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18974",
+        "label": "小野田坂道",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/e7/18974_crt_hWv0f.jpg",
+        "link": "https://bgm.tv/character/18974",
+        "categorie": "person"
+      },
+      {
+        "id": "18975",
+        "label": "今泉俊辅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/70/18975_crt_Z8iA3.jpg?r=1381965167",
+        "link": "https://bgm.tv/character/18975",
+        "categorie": "person"
+      },
+      {
+        "id": "18976",
+        "label": "鸣子章吉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f9/ab/18976_crt_Y27zq.jpg",
+        "link": "https://bgm.tv/character/18976",
+        "categorie": "person"
+      },
+      {
+        "id": "18977",
+        "label": "卷岛裕介",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/7f/18977_crt_h42s4.jpg",
+        "link": "https://bgm.tv/character/18977",
+        "categorie": "person"
+      },
+      {
+        "id": "20184",
+        "label": "金城真护",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/78/97/20184_crt_w0dWu.jpg",
+        "link": "https://bgm.tv/character/20184",
+        "categorie": "person"
+      },
+      {
+        "id": "20185",
+        "label": "田所迅",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a1/12/20185_crt_AzDEQ.jpg",
+        "link": "https://bgm.tv/character/20185",
+        "categorie": "person"
+      },
+      {
+        "id": "18978",
+        "label": "御堂筋翔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/5e/18978_crt_1h1Hg.jpg?r=1392014562",
+        "link": "https://bgm.tv/character/18978",
+        "categorie": "person"
+      },
+      {
+        "id": "18979",
+        "label": "真波山岳",
+        "info": "クライマー。愛車は白のLOOK（アニメ版では『LOCK』に変更）。選手層の厚い箱根学園で1年生にしてレギュラーを勝ち取る実力者。風をよみ羽根が生えたかのように加速する特技があるが、風がない時でも山頂に近づけばその羽根を出す（ような加速をする）ことが可能。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/7b/18979_crt_H9Vdj.jpg?r=1381965786",
+        "link": "https://bgm.tv/character/18979",
+        "categorie": "person"
+      },
+      {
+        "id": "18980",
+        "label": "荒北靖友",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/df/9a/18980_crt_4Q6Rl.jpg",
+        "link": "https://bgm.tv/character/18980",
+        "categorie": "person"
+      },
+      {
+        "id": "18981",
+        "label": "东堂尽八",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/73/18981_crt_1G109.jpg?r=1406276707",
+        "link": "https://bgm.tv/character/18981",
+        "categorie": "person"
+      },
+      {
+        "id": "18982",
+        "label": "新开隼人",
+        "info": "箱根学園のエーススプリンター。愛車はサーヴェロ（アニメ版では『cergelo』に変更）。飄々とした雰囲気を漂わせる気のいい好漢だが、猛獣のような殺気漲るスプリントを真骨頂とし「箱根の直線鬼」の異名を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/d1/18982_crt_266M2.jpg?r=1445968082",
+        "link": "https://bgm.tv/character/18982",
+        "categorie": "person"
+      },
+      {
+        "id": "20622",
+        "label": "福富寿一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/81/20622_crt_u1tWu.jpg",
+        "link": "https://bgm.tv/character/20622",
+        "categorie": "person"
+      },
+      {
+        "id": "20623",
+        "label": "泉田塔一郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/b0/20623_crt_j577a.jpg?r=1423661836",
+        "link": "https://bgm.tv/character/20623",
+        "categorie": "person"
+      },
+      {
+        "id": "20624",
+        "label": "手岛纯太",
+        "info": "2年级→3年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/43/46/20624_crt_65eXB.jpg",
+        "link": "https://bgm.tv/character/20624",
+        "categorie": "person"
+      },
+      {
+        "id": "20625",
+        "label": "青八木一",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/d3/20625_crt_86j1I.jpg",
+        "link": "https://bgm.tv/character/20625",
+        "categorie": "person"
+      },
+      {
+        "id": "20626",
+        "label": "寒咲通司",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/6a/d7/20626_crt_94J9V.jpg",
+        "link": "https://bgm.tv/character/20626",
+        "categorie": "person"
+      },
+      {
+        "id": "20627",
+        "label": "寒咲干",
+        "info": "坂道の隣のクラスの女子生徒で、総北高校自転車競技部のマネージャー。1年生 → 2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/59/86/20627_crt_x68w2.jpg",
+        "link": "https://bgm.tv/character/20627",
+        "categorie": "person"
+      },
+      {
+        "id": "20630",
+        "label": "石垣光太郎",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/05/20630_crt_0hfc3.jpg",
+        "link": "https://bgm.tv/character/20630",
+        "categorie": "person"
+      },
+      {
+        "id": "36548",
+        "label": "水田信行",
+        "info": "京都伏见高中队员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/23/c5/36548_crt_vtOV7.jpg?r=1445967594",
+        "link": "https://bgm.tv/character/36548",
+        "categorie": "person"
+      },
+      {
+        "id": "36549",
+        "label": "杉元照文",
+        "info": "1年级→2年级。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/4e/36549_crt_I6QzE.jpg",
+        "link": "https://bgm.tv/character/36549",
+        "categorie": "person"
+      },
+      {
+        "id": "36550",
+        "label": "大粒健士",
+        "info": "奈良县代表，奈良山理学园的冲刺型选手，有着“灼热之冲刺者”之名，IH背号23。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/75/36550_crt_N2IJA.jpg?r=1445966384",
+        "link": "https://bgm.tv/character/36550",
+        "categorie": "person"
+      },
+      {
+        "id": "36551",
+        "label": "馆林元成",
+        "info": "长野县代表，长野中央工业高校的爬坡型选手。有着“阿尔卑斯山护林人”、“铁壁之馆”之名。IH背号61。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/8a/36551_crt_8RD8l.jpg?r=1445966393",
+        "link": "https://bgm.tv/character/36551",
+        "categorie": "person"
+      },
+      {
+        "id": "36552",
+        "label": "田浦良昭",
+        "info": "熊本台一のエース。大柄な選手で身体も声も大きい。インターハイ2日目にチームと離れてしまった坂道をからかうような発言もあったが、3日目で待宮率いる集団に飲み込まれた際、同じく集団に飲み込まれた坂道を勇気づける発言をするなど、悪い性格ではない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/5b/36552_crt_a4DSs.jpg",
+        "link": "https://bgm.tv/character/36552",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      },
+      {
+        "id": "28115",
+        "label": "广播",
+        "info": "各作品通用广播/播音员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/70/d8/28115_crt_vL10O.jpg",
+        "link": "https://bgm.tv/character/28115",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

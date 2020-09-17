@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27254",
+        "label": "花菱桃音",
+        "info": "幼い頃から光輝のことが大好きで、なにかと甘やかしてきたお姉ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/ff/27254_crt_T8Pbb.jpg",
+        "link": "https://bgm.tv/character/27254",
+        "categorie": "person"
+      },
+      {
+        "id": "27255",
+        "label": "花菱由梨奈",
+        "info": "花菱四姉妹の長女で会社員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/47/27255_crt_3ocBW.jpg",
+        "link": "https://bgm.tv/character/27255",
+        "categorie": "person"
+      },
+      {
+        "id": "27256",
+        "label": "花菱樱织",
+        "info": "掃除・洗濯・料理に針仕事まで、何でもこなすパーフェクトメイドお姉ちゃん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/7e/27256_crt_227m7.jpg",
+        "link": "https://bgm.tv/character/27256",
+        "categorie": "person"
+      },
+      {
+        "id": "27264",
+        "label": "花菱杏",
+        "info": "わがまま気ままな四姉妹の末っ子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/8d/27264_crt_A3f3G.jpg",
+        "link": "https://bgm.tv/character/27264",
+        "categorie": "person"
+      },
+      {
+        "id": "35749",
+        "label": "日高光辉",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/35749",
+        "categorie": "person"
+      },
+      {
+        "id": "27267",
+        "label": "ニボシ",
+        "info": "花菱家の飼い猫で、家族のマスコット。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b8/38/27267_crt_0a5Ym.jpg",
+        "link": "https://bgm.tv/character/27267",
+        "categorie": "person"
+      },
+      {
+        "id": "27269",
+        "label": "花菱幹太郎",
+        "info": "花菱四姉妹の父親にして、江戸時代から代々続く地元の名家・花菱家の現当主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/0f/27269_crt_gLyAA.jpg",
+        "link": "https://bgm.tv/character/27269",
+        "categorie": "person"
+      },
+      {
+        "id": "27270",
+        "label": "花菱小梅",
+        "info": "幹太郎の妻で、花菱四姉妹の母親。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e4/aa/27270_crt_KCgKp.jpg",
+        "link": "https://bgm.tv/character/27270",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

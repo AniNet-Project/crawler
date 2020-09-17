@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1143",
+        "label": "仲里光",
+        "info": "主角的表姐。虽然比主角和七海等人大一岁，但看起来却又矮又幼小。",
+        "image": "https://lain.bgm.tv/pic/crt/m/20/8e/1143_FxztM.jpg",
+        "link": "https://bgm.tv/character/1143",
+        "categorie": "person"
+      },
+      {
+        "id": "1146",
+        "label": "佐仓裕美",
+        "info": "比主角小一岁的同校的后辈。原糖果店（现便利店）的女孩。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8a/33/1146_5h7Z1.jpg",
+        "link": "https://bgm.tv/character/1146",
+        "categorie": "person"
+      },
+      {
+        "id": "1147",
+        "label": "鲇川美空",
+        "info": "PS2版的追加角色。从城市驾摩托车到海边来兜风的少女。由于摩托车跌倒故障，为了赚取修理费，虽然不情愿但也只好决定留在友坂家。动画版亦有出场。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/d9/1147_crt_ksOK5.jpg",
+        "link": "https://bgm.tv/character/1147",
+        "categorie": "person"
+      },
+      {
+        "id": "5128",
+        "label": "友坂健次",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/28/5128_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5128",
+        "categorie": "person"
+      },
+      {
+        "id": "11934",
+        "label": "近卫七海",
+        "info": "小さい頃から、主人公の隣の家に住んでいる幼なじみ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/22/19/11934_crt_uanAr.jpg",
+        "link": "https://bgm.tv/character/11934",
+        "categorie": "person"
+      },
+      {
+        "id": "11937",
+        "label": "友坂铃夏",
+        "info": "主人公の妹。素直で活発で無邪気。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/ba/11937_crt_U8E2w.jpg",
+        "link": "https://bgm.tv/character/11937",
+        "categorie": "person"
+      },
+      {
+        "id": "5130",
+        "label": "石和多惠",
+        "info": "比主角大一岁的同校的前辈。从小开始就好为人操劳（当时来说是好管闲事），现在是自治会会长。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/4a/5130_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5130",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

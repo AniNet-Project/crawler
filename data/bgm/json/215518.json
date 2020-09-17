@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "42490",
+        "label": "柚ノ木未緒",
+        "info": "学生会長を務め、テニス部でも活躍している本作の主人公。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/c3/42490_crt_K655X.jpg",
+        "link": "https://bgm.tv/character/42490",
+        "categorie": "person"
+      },
+      {
+        "id": "42492",
+        "label": "生駒結衣",
+        "info": "ご近所に住んでいる未緒の従姉妹。 水泳部員。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5b/af/42492_crt_IK9rI.jpg",
+        "link": "https://bgm.tv/character/42492",
+        "categorie": "person"
+      },
+      {
+        "id": "42491",
+        "label": "鮎川凛香",
+        "info": "未緒の幼なじみで親友。 テニス部のエース。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/65/42491_crt_Hh01H.jpg",
+        "link": "https://bgm.tv/character/42491",
+        "categorie": "person"
+      },
+      {
+        "id": "42493",
+        "label": "朝日奈このみ",
+        "info": "学生会会計で水泳部員。 大手製薬会社の社長の娘。",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/e3/42493_crt_A3I73.jpg",
+        "link": "https://bgm.tv/character/42493",
+        "categorie": "person"
+      },
+      {
+        "id": "42494",
+        "label": "兎夜栞",
+        "info": "柚ノ木家に住み込みで働いているお手伝いさん。",
+        "image": "https://lain.bgm.tv/pic/crt/m/24/94/42494_crt_ooNxv.jpg",
+        "link": "https://bgm.tv/character/42494",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

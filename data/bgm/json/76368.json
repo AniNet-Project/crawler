@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "18948",
+        "label": "约瑟夫·维萨里奥诺维奇·斯大林",
+        "info": "约瑟夫·维萨里奥诺维奇·斯大林，原名约瑟夫·维萨里奥诺维奇·朱加什维利，苏联政治家，国际共产主义运动活动家，执政时间最长（29年）的苏联最高领导人，任苏联共产党中央委员会总书记、苏联部长会议主席，对二十世纪的苏联和世界产生了深远的影响。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d8/9f/18948_crt_8y8IX.jpg?r=1360571258",
+        "link": "https://bgm.tv/character/18948",
+        "categorie": "person"
+      },
+      {
+        "id": "21204",
+        "label": "苏维埃社会主义共和国联盟",
+        "info": "苏维埃社会主义共和国联盟，简称苏联，是一个存在于1922年至1991年的联邦制国家，也是当时世界上土地面积最大的国家，占有东欧的大部分，以及几乎整个中亚和北亚。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fe/67/21204_crt_2484j.jpg",
+        "link": "https://bgm.tv/character/21204",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

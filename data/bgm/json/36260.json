@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "8211",
+        "label": "夜叉王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/d2/8211_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8211",
+        "categorie": "person"
+      },
+      {
+        "id": "8212",
+        "label": "迦楼罗王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/65/8212_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8212",
+        "categorie": "person"
+      },
+      {
+        "id": "8213",
+        "label": "帝釈天",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/3f/8213_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8213",
+        "categorie": "person"
+      },
+      {
+        "id": "8214",
+        "label": "毘沙門天",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8b/04/8214_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8214",
+        "categorie": "person"
+      },
+      {
+        "id": "8215",
+        "label": "蘇摩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/0f/8215_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8215",
+        "categorie": "person"
+      },
+      {
+        "id": "8216",
+        "label": "般羅若",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/f9/8216_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8216",
+        "categorie": "person"
+      },
+      {
+        "id": "8217",
+        "label": "広目天",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/d4/8217_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8217",
+        "categorie": "person"
+      },
+      {
+        "id": "8218",
+        "label": "阿修羅王",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/9a/8218_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8218",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "49391",
+        "label": "楠木巴",
+        "info": "ご近所でも評判（！）になるくらい真面目で厳しく、そして優しさを持った女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/14/a7/49391_crt_9lVxX.jpg",
+        "link": "https://bgm.tv/character/49391",
+        "categorie": "person"
+      },
+      {
+        "id": "49393",
+        "label": "君島夕子",
+        "info": "自宅の隣に住んでいる人妻、幼い頃から主人公を知っている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/54/49393_crt_dNTtG.jpg",
+        "link": "https://bgm.tv/character/49393",
+        "categorie": "person"
+      },
+      {
+        "id": "49392",
+        "label": "楠木茜",
+        "info": "彼女は主人公が生まれて、まもなく姿を消している（ということになっている）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/84/1e/49392_crt_GPtft.jpg",
+        "link": "https://bgm.tv/character/49392",
+        "categorie": "person"
+      },
+      {
+        "id": "49394",
+        "label": "楠木実",
+        "info": "何処にでもいるような普通の青年。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/49394",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

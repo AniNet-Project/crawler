@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34410",
+        "label": "艶間薫",
+        "info": "巨乳で美人な孤高の優等生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/67/34410_crt_fZWms.jpg?r=1450584890",
+        "link": "https://bgm.tv/character/34410",
+        "categorie": "person"
+      },
+      {
+        "id": "34412",
+        "label": "姫野ゆき",
+        "info": "主人公のクラスの学級委員で、主人公の憧れの人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/87/34412_crt_VNYcf.jpg?r=1450584933",
+        "link": "https://bgm.tv/character/34412",
+        "categorie": "person"
+      },
+      {
+        "id": "34415",
+        "label": "相羽栄",
+        "info": "教会に居候している普通の学生。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/34415",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

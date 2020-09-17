@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "761",
+        "label": "天宫小百合",
+        "info": "高中2年生　班长",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/ae/761_mLnMM.jpg",
+        "link": "https://bgm.tv/character/761",
+        "categorie": "person"
+      },
+      {
+        "id": "762",
+        "label": "春日司",
+        "info": "高中2年生　芭蕾部所属",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/99/762_jKTfx.jpg",
+        "link": "https://bgm.tv/character/762",
+        "categorie": "person"
+      },
+      {
+        "id": "763",
+        "label": "弥生水奈",
+        "info": "高校2年生　水泳部",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/8d/763_crt_qePHt.jpg?r=1499190117",
+        "link": "https://bgm.tv/character/763",
+        "categorie": "person"
+      },
+      {
+        "id": "5426",
+        "label": "青叶陆",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/69/5426_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5426",
+        "categorie": "person"
+      },
+      {
+        "id": "14179",
+        "label": "内海小鲇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b0/0e/14179_crt_cZ9pd.jpg",
+        "link": "https://bgm.tv/character/14179",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

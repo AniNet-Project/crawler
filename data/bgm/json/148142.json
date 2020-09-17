@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36029",
+        "label": "小日向光",
+        "info": "物語の主人公その1。15歳。身長148センチメートル、1月31日生まれ、みずがめ座のO型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/bf/36029_crt_rGru2.jpg?r=1468034536",
+        "link": "https://bgm.tv/character/36029",
+        "categorie": "person"
+      },
+      {
+        "id": "36030",
+        "label": "大木双叶",
+        "info": "主人公その2。この物語の主観視点人物でもある。16歳。身長170センチメートル、4月3日生まれ、牡羊座のAB型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/bc/36030_crt_LwRpP.jpg?r=1522598481",
+        "link": "https://bgm.tv/character/36030",
+        "categorie": "person"
+      },
+      {
+        "id": "36031",
+        "label": "二宫爱",
+        "info": "静岡県立夢ヶ丘高校2年3組。ダイビング部部長。16歳。身長160センチメートル、1月7日生まれ、山羊座のA型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/be/8f/36031_crt_n88G1.jpg?r=1522602861",
+        "link": "https://bgm.tv/character/36031",
+        "categorie": "person"
+      },
+      {
+        "id": "36032",
+        "label": "二宫诚",
+        "info": "愛の双子の弟で、通称「弟くん（先輩）」。静岡県立夢ヶ丘高校2年生。ダイビング部部員。16歳。身長178センチメートル、1月7日生まれ、山羊座のA型。",
+        "image": "https://lain.bgm.tv/pic/crt/m/15/3f/36032_crt_V53qe.jpg?r=1461837679",
+        "link": "https://bgm.tv/character/36032",
+        "categorie": "person"
+      },
+      {
+        "id": "36033",
+        "label": "火鸟真斗",
+        "info": "光と同じく、スキューバダイビングが趣味。入学式の登校時の道中で、光と競争を繰り広げたのち、ダイビング仲間と知り意気投合。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c4/4a/36033_crt_GWGVo.jpg?r=1461837774",
+        "link": "https://bgm.tv/character/36033",
+        "categorie": "person"
+      },
+      {
+        "id": "36034",
+        "label": "茶顾问",
+        "info": "高校の校長の飼いネコ。ちょくちょく学校へ連れてくる模様、ダイビング部に居るところを飼い猫と知らなかった光が「ちゃ」と勝手に命名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/13/36034_crt_U9Ama.jpg",
+        "link": "https://bgm.tv/character/36034",
+        "categorie": "person"
+      },
+      {
+        "id": "36035",
+        "label": "小公主",
+        "info": "光と双葉が拾ったメスの子猫。カラスに襲われていたところを二人に助けてもらい、その後校長先生にありあのお嫁さんとして引き取られた。ありあと一緒に部活動に参加している。引き取られた後にリボンをつけてもらった。",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/d9/36035_crt_6NN34.jpg",
+        "link": "https://bgm.tv/character/36035",
+        "categorie": "person"
+      },
+      {
+        "id": "36040",
+        "label": "小日向纪乃",
+        "info": "今現在は海の家とダイビングサービスを営んでいる。真斗も常連のようで顔見知り。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/28/36040_crt_9t3Tf.jpg?r=1461837935",
+        "link": "https://bgm.tv/character/36040",
+        "categorie": "person"
+      },
+      {
+        "id": "36041",
+        "label": "水无茜",
+        "info": "双葉の中学時代の親友。第4巻で登場。夏休みを利用して双葉に会いに来た。観光案内役として光とも知り合う。双葉が伊豆でうまくやっているか心配していたが、双葉の元気そうな姿と光と親しくしている様子を見て安心している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/02/36041_crt_xscXG.jpg",
+        "link": "https://bgm.tv/character/36041",
+        "categorie": "person"
+      },
+      {
+        "id": "45809",
+        "label": "姬野千鹤",
+        "info": "双葉の中学時代の親友。第4巻で登場。夏休みを利用して茜と共に双葉に会いに訪れ、光とも知り合う。茜同様、双葉のことを心配しており、意外と大丈夫そうだったのと、双葉と親しい光を見て嫉妬心を抱いてしまうが、ダイビング体験で光が助けてくれたことで嫉妬心を払拭した。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/a6/45809_crt_od6AD.jpg",
+        "link": "https://bgm.tv/character/45809",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

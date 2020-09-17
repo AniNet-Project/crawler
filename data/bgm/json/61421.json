@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55248",
+        "label": "椎名 香澄",
+        "info": "主人公が一目ぼれする、クラスにやってきた転校生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0c/f3/55248_crt_Sz2Vv.jpg",
+        "link": "https://bgm.tv/character/55248",
+        "categorie": "person"
+      },
+      {
+        "id": "55249",
+        "label": "柚木 南",
+        "info": "主人公の幼馴染でクラスメイト。水泳部と恋愛同好会所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/11/55249_crt_RzhH4.jpg",
+        "link": "https://bgm.tv/character/55249",
+        "categorie": "person"
+      },
+      {
+        "id": "55250",
+        "label": "桜野 美恋",
+        "info": "恋愛同好会の部長。3年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/32/e7/55250_crt_EtZ00.jpg",
+        "link": "https://bgm.tv/character/55250",
+        "categorie": "person"
+      },
+      {
+        "id": "55253",
+        "label": "主人公",
+        "info": "女の子が苦手で、幼馴染の南以外とはまともに口を利く事もできない。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4d/eb/55253_crt_0W43P.jpg",
+        "link": "https://bgm.tv/character/55253",
+        "categorie": "person"
+      },
+      {
+        "id": "55251",
+        "label": "結城 えみり",
+        "info": "理事長の娘で風紀委員長。2年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5f/77/55251_crt_MVX3a.jpg",
+        "link": "https://bgm.tv/character/55251",
+        "categorie": "person"
+      },
+      {
+        "id": "55252",
+        "label": "芹沢 マドカ",
+        "info": "主人公が恋愛クラブに入ったことを知り、恋愛同好会に入った1年生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/be/55252_crt_z3m30.jpg",
+        "link": "https://bgm.tv/character/55252",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34535",
+        "label": "雾慧图安",
+        "info": "世界卫生组织（WHO）螺旋监察官事务局的上级监察官。高中时代曾和同年级的姬安一道受到弥娅哈激进的反生府思想影响一同尝试自杀，最终却获救。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d1/f2/34535_crt_13B53.jpg?r=1457952002",
+        "link": "https://bgm.tv/character/34535",
+        "categorie": "person"
+      },
+      {
+        "id": "34537",
+        "label": "御冷弥娅哈",
+        "info": "图安高中时代的友人。反对把个人身体当作公共财产加以保护、管理的生府，一心将自己磨练成锐利的社会性凶器。她的死给图安之后的人生带来了重要影响。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f8/5d/34537_crt_i2kir.jpg",
+        "link": "https://bgm.tv/character/34537",
+        "categorie": "person"
+      },
+      {
+        "id": "34536",
+        "label": "零下堂姬安",
+        "info": "图安高中时代的友人。性格老实，与图安一样憧憬着弥娅哈而一同自杀。现在成为了模范的生府公民普通地生活着。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/bd/34536_crt_0o9n0.jpg?r=1458283288",
+        "link": "https://bgm.tv/character/34536",
+        "categorie": "person"
+      },
+      {
+        "id": "34538",
+        "label": "欧斯嘉·施陶芬贝格",
+        "info": "总领负责螺旋监察官事务局的首席监察官。在任何局面之下都追求严肃正确。得益于完美的节制和医疗措施，外观上完全看不出已是72岁高龄。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/38/34538_crt_4Fore.jpg?r=1457952320",
+        "link": "https://bgm.tv/character/34538",
+        "categorie": "person"
+      },
+      {
+        "id": "34539",
+        "label": "アサフ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/15/34539_crt_Ay5jw.jpg?r=1457952335",
+        "link": "https://bgm.tv/character/34539",
+        "categorie": "person"
+      },
+      {
+        "id": "34540",
+        "label": "以利亚·瓦希洛夫",
+        "info": "国际刑警组织的搜查官，自称正在调查「次世代人类行动特性记述工作组」并与图安接触。爱好是用老古董名片来跟别人打招呼并观察对方的反应。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/93/34540_crt_K3Thx.jpg?r=1457952353",
+        "link": "https://bgm.tv/character/34540",
+        "categorie": "person"
+      },
+      {
+        "id": "34541",
+        "label": "冴紀ケイタ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/a5/34541_crt_NTRn8.jpg?r=1458130925",
+        "link": "https://bgm.tv/character/34541",
+        "categorie": "person"
+      },
+      {
+        "id": "34542",
+        "label": "雾慧努阿达",
+        "info": "图安的父亲。曾从事医疗分子（Medimole）技术研究，但在13年前消失踪迹。现潜伏在巴格达。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/6a/34542_crt_J7jyY.jpg",
+        "link": "https://bgm.tv/character/34542",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

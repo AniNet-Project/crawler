@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "52178",
+        "label": "源内苍",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e0/60/52178_crt_XPkdp.jpg?r=1491347421",
+        "link": "https://bgm.tv/character/52178",
+        "categorie": "person"
+      },
+      {
+        "id": "52179",
+        "label": "轰雷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1b/1a/52179_crt_ZygNd.jpg?r=1491914910",
+        "link": "https://bgm.tv/character/52179",
+        "categorie": "person"
+      },
+      {
+        "id": "52180",
+        "label": "短剑",
+        "info": "轟雷と戦うためにあおの家に送られてきたFAガール。負けず嫌い。あおからは「スティ子」と呼ばれる。轟雷に負けてからトラウマを持ってしまい、近づくだけで硬直してしまうようになり、更に轟雷にキスされたことで近づくと真っ赤になる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/f0/52180_crt_eEDjR.jpg?r=1491915018",
+        "link": "https://bgm.tv/character/52180",
+        "categorie": "person"
+      },
+      {
+        "id": "52181",
+        "label": "猎刃",
+        "info": "天真爛漫腦筋動得快，知識也相當豐富。麻煩製造機，喜歡將他人捲進麻煩中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/2f/52181_crt_ffMEw.jpg?r=1491915167",
+        "link": "https://bgm.tv/character/52181",
+        "categorie": "person"
+      },
+      {
+        "id": "52182",
+        "label": "素体（白）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/95/52182_crt_qRTqA.jpg?r=1493757451",
+        "link": "https://bgm.tv/character/52182",
+        "categorie": "person"
+      },
+      {
+        "id": "52183",
+        "label": "素体（黑）",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a5/65/52183_crt_c4W2P.jpg?r=1496323496",
+        "link": "https://bgm.tv/character/52183",
+        "categorie": "person"
+      },
+      {
+        "id": "52184",
+        "label": "迅雷",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/de/52184_crt_7JeeS.jpg?r=1495573388",
+        "link": "https://bgm.tv/character/52184",
+        "categorie": "person"
+      },
+      {
+        "id": "52185",
+        "label": "骨架",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c7/42/52185_crt_9ed46.jpg?r=1494357501",
+        "link": "https://bgm.tv/character/52185",
+        "categorie": "person"
+      },
+      {
+        "id": "52186",
+        "label": "魔鹫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/a7/52186_crt_mk9xX.jpg?r=1494976413",
+        "link": "https://bgm.tv/character/52186",
+        "categorie": "person"
+      },
+      {
+        "id": "53989",
+        "label": "尼啪子",
+        "info": "新潟県三条市の工具メーカーゴッドハンドが、同社の主力商品である「アルティメットニッパー」のイメージキャラクターとして2013年6月28日に世に送り出したニッパーの擬人化キャラクター。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/1f/53989_crt_Li0x7.jpg",
+        "link": "https://bgm.tv/character/53989",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

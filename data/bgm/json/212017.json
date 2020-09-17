@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "66879",
+        "label": "狭间真",
+        "info": "幼いころに母親を亡くして以来、心を閉ざしがちな高校三年生。普段はクラスメイトと距離を置いているが、幼馴染の琴莉が関わると感情的になることがある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d9/a6/66879_crt_vidUN.jpg",
+        "link": "https://bgm.tv/character/66879",
+        "categorie": "person"
+      },
+      {
+        "id": "66880",
+        "label": "泉琴莉",
+        "info": "真の幼馴染でありクラスメイト。気取らず人懐っこい性格で、真とは反対に友達も多い。子どもの頃から真のことを気にかけている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/86/66880_crt_cTgzA.jpg",
+        "link": "https://bgm.tv/character/66880",
+        "categorie": "person"
+      },
+      {
+        "id": "66881",
+        "label": "ハザマ ジン",
+        "info": "反日本公民共和国のレジスタンス。幼い頃に母親を処刑されて以来、国と公女を憎んでいる。父親のグンジが開発した遠隔人型兵器アルマと相対空間拡張機を使い、コトコ暗殺を企む。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ac/c7/66881_crt_B9SGF.jpg?r=1564827262",
+        "link": "https://bgm.tv/character/66881",
+        "categorie": "person"
+      },
+      {
+        "id": "66882",
+        "label": "イズミ コトコ",
+        "info": "日本公民共和国の現公女。巨大なドームで民衆を分断し、独裁体制を敷いている。ドーム内の人々からは異常なほどの支持を得る一方、ドーム外の反日本公国勢力からは悪の根源として憎まれている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/e2/66882_crt_gMall.jpg?r=1564827243",
+        "link": "https://bgm.tv/character/66882",
+        "categorie": "person"
+      },
+      {
+        "id": "66883",
+        "label": "ミコ",
+        "info": "コトコが開発した知能搭載遠隔人型兵器マティック。華奢な少女のように見えるが、人間離れしたパワーと鋭利なブレードを生成する能力を持つ。人間と五感共有（フィックス）することで、能力を最大限に発揮可能。リコの姉としてプログラムされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/58/66883_crt_4ynPn.jpg",
+        "link": "https://bgm.tv/character/66883",
+        "categorie": "person"
+      },
+      {
+        "id": "66884",
+        "label": "リコ",
+        "info": "ミコと同時に開発された知能搭載遠隔人型兵器マティック。ミコと同様の能力を持つ。ミコの妹としてプログラムされている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/27/66884_crt_x9CHc.jpg",
+        "link": "https://bgm.tv/character/66884",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

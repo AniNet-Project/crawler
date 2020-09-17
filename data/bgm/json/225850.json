@@ -1,0 +1,133 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "65463",
+        "label": "本田",
+        "info": "書店員。 担当は主に海外コミック・画集。 ガイコツの姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/9c/65463_crt_ntaPb.jpg",
+        "link": "https://bgm.tv/character/65463",
+        "categorie": "person"
+      },
+      {
+        "id": "65464",
+        "label": "纸袋",
+        "info": "4コマ・サブカル担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/e8/65464_crt_M8ivh.jpg",
+        "link": "https://bgm.tv/character/65464",
+        "categorie": "person"
+      },
+      {
+        "id": "65465",
+        "label": "绷带",
+        "info": "少女向けコミック担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/75/65465_crt_7rpF2.jpg",
+        "link": "https://bgm.tv/character/65465",
+        "categorie": "person"
+      },
+      {
+        "id": "65466",
+        "label": "灯笼",
+        "info": "集E社担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/af/65466_crt_y3QwS.jpg",
+        "link": "https://bgm.tv/character/65466",
+        "categorie": "person"
+      },
+      {
+        "id": "65467",
+        "label": "オキツネ",
+        "info": "講D社担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/75/65467_crt_bg3cD.jpg",
+        "link": "https://bgm.tv/character/65467",
+        "categorie": "person"
+      },
+      {
+        "id": "65468",
+        "label": "小面",
+        "info": "BL・TLノベルス担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/83/65468_crt_OSS33.jpg",
+        "link": "https://bgm.tv/character/65468",
+        "categorie": "person"
+      },
+      {
+        "id": "65469",
+        "label": "兔头",
+        "info": "ゲーム本・ムック担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/46/93/65469_crt_7EMOZ.jpg",
+        "link": "https://bgm.tv/character/65469",
+        "categorie": "person"
+      },
+      {
+        "id": "65470",
+        "label": "フルフェイス",
+        "info": "小G館担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/14/65470_crt_4qkNE.jpg",
+        "link": "https://bgm.tv/character/65470",
+        "categorie": "person"
+      },
+      {
+        "id": "65471",
+        "label": "防毒面具",
+        "info": "KADOKAWA男性コミック他担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/dd/65471_crt_QiJP7.jpg",
+        "link": "https://bgm.tv/character/65471",
+        "categorie": "person"
+      },
+      {
+        "id": "65472",
+        "label": "焊接面罩",
+        "info": "ライトノベル担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/e2/f0/65472_crt_Kwb05.jpg",
+        "link": "https://bgm.tv/character/65472",
+        "categorie": "person"
+      },
+      {
+        "id": "65473",
+        "label": "剑道",
+        "info": "雑誌他担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/0b/65473_crt_cZF1h.jpg",
+        "link": "https://bgm.tv/character/65473",
+        "categorie": "person"
+      },
+      {
+        "id": "65474",
+        "label": "盔甲",
+        "info": "BL担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/1e/80/65474_crt_9anId.jpg",
+        "link": "https://bgm.tv/character/65474",
+        "categorie": "person"
+      },
+      {
+        "id": "65475",
+        "label": "鼠疫面具",
+        "info": "白S社男性コミック他担当",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/e4/65475_crt_JaqlJ.jpg",
+        "link": "https://bgm.tv/character/65475",
+        "categorie": "person"
+      },
+      {
+        "id": "66708",
+        "label": "海豹",
+        "info": "本田の担当編集。",
+        "image": "https://lain.bgm.tv/pic/crt/m/30/05/66708_crt_wnXN6.jpg",
+        "link": "https://bgm.tv/character/66708",
+        "categorie": "person"
+      },
+      {
+        "id": "66709",
+        "label": "魔术师",
+        "info": "流通課。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/b0/66709_crt_M7Dbk.jpg",
+        "link": "https://bgm.tv/character/66709",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

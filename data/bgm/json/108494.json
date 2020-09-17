@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20012",
+        "label": "杀老师",
+        "info": "名字来源： “杀不了的老师”， 简称 “杀老师” ",
+        "image": "https://lain.bgm.tv/pic/crt/m/ab/90/20012_crt_TuBS7.jpg?r=1450119549",
+        "link": "https://bgm.tv/character/20012",
+        "categorie": "person"
+      },
+      {
+        "id": "20015",
+        "label": "乌间惟臣",
+        "info": "代号为“死硬派”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/53/20015_crt_rLRo4.jpg?r=1450119905",
+        "link": "https://bgm.tv/character/20015",
+        "categorie": "person"
+      },
+      {
+        "id": "20013",
+        "label": "潮田渚",
+        "info": "代号为“性别不明”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/80/e0/20013_crt_8gEgb.jpg?r=1450121687",
+        "link": "https://bgm.tv/character/20013",
+        "categorie": "person"
+      },
+      {
+        "id": "28944",
+        "label": "茅野枫",
+        "info": "代号为“永远的0”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/6a/28944_crt_gGTAm.jpg?r=1450121029",
+        "link": "https://bgm.tv/character/28944",
+        "categorie": "person"
+      },
+      {
+        "id": "17529",
+        "label": "路人",
+        "info": "闲角，常称作路人，在电视剧、电影等作品中，指戏份薄弱的副角、不相关的小人物、串场的闲杂人等。可能用来表达地方民众的声音，或是充当背景。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1d/85/17529_crt_KaZA0.jpg",
+        "link": "https://bgm.tv/character/17529",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

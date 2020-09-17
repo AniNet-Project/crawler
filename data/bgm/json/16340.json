@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5021",
+        "label": "織屋浪馬",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/d5/5021_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5021",
+        "categorie": "person"
+      },
+      {
+        "id": "29994",
+        "label": "柴门环",
+        "info": "和男主角一块儿长大充满活力的可爱的青梅竹马女孩。在主角的班上担任班长，同时也是主角所在的泰拳俱乐部的经纪人，课余时间会跟主角一起在台球类场地打工。",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/ac/29994_crt_tP7DV.jpg",
+        "link": "https://bgm.tv/character/29994",
+        "categorie": "person"
+      },
+      {
+        "id": "5022",
+        "label": "白井夕璃",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e3/62/5022_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5022",
+        "categorie": "person"
+      },
+      {
+        "id": "5023",
+        "label": "井伏オキエ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/7c/5023_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5023",
+        "categorie": "person"
+      },
+      {
+        "id": "5024",
+        "label": "横溝ふみ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/2b/5024_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5024",
+        "categorie": "person"
+      },
+      {
+        "id": "5025",
+        "label": "堀出実果",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b6/e5/5025_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5025",
+        "categorie": "person"
+      },
+      {
+        "id": "5026",
+        "label": "岸田シュン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/22/5026_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5026",
+        "categorie": "person"
+      },
+      {
+        "id": "5027",
+        "label": "砂吹望",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/3c/5027_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5027",
+        "categorie": "person"
+      },
+      {
+        "id": "74283",
+        "label": "高远七濑",
+        "info": "头戴黑发带的蓝发女孩，最初的她对主角毫无好感且难以沟通",
+        "image": "https://lain.bgm.tv/pic/crt/m/f2/f6/74283_crt_IJrE0.jpg",
+        "link": "https://bgm.tv/character/74283",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

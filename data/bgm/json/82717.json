@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "77114",
+        "label": "花木兰",
+        "info": "Fa Mulan is the titular protagonist of Disney's 1998 animated feature film of the same name. She is the strong-willed and tenacious daughter of a war veteran, who strives to uphold her family's honor. When her father is called back into battle to defend China from Shan Yu, Mulan opts to protect him by taking his place under the guise of a male soldier named Ping.",
+        "image": "https://lain.bgm.tv/pic/crt/m/98/6b/77114_crt_2sCcJ.jpg",
+        "link": "https://bgm.tv/character/77114",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

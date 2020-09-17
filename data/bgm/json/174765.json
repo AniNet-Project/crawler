@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "39921",
+        "label": "佐藤阳菜",
+        "info": "東北の港町に住む13歳の女の子。元気いっぱいだが少しおっちょこちょいで、いつも周りをはらはらさせる。フィギュアスケートの練習に励むものの、最近は壁にぶつかることも・・・",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/31/39921_crt_fj66k.jpg?r=1459679494",
+        "link": "https://bgm.tv/character/39921",
+        "categorie": "person"
+      },
+      {
+        "id": "39922",
+        "label": "阳菜母亲",
+        "info": "いつも優しく見守ってくれていた母。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f0/bd/39922_crt_GVEU1.jpg?r=1459681523",
+        "link": "https://bgm.tv/character/39922",
+        "categorie": "person"
+      },
+      {
+        "id": "39923",
+        "label": "阳菜父亲",
+        "info": "漁師。仮設住宅で娘の陽菜と2人暮らし。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/4e/39923_crt_p8Zz5.jpg",
+        "link": "https://bgm.tv/character/39923",
+        "categorie": "person"
+      },
+      {
+        "id": "39924",
+        "label": "木村美知留",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/db/e4/39924_crt_St2Sp.jpg",
+        "link": "https://bgm.tv/character/39924",
+        "categorie": "person"
+      },
+      {
+        "id": "39925",
+        "label": "教练",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/cc/39925_crt_CGy8q.jpg?r=1459679579",
+        "link": "https://bgm.tv/character/39925",
+        "categorie": "person"
+      },
+      {
+        "id": "39926",
+        "label": "玲奈",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/39926",
+        "categorie": "person"
+      },
+      {
+        "id": "39927",
+        "label": "ちさき",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/39927",
+        "categorie": "person"
+      },
+      {
+        "id": "39928",
+        "label": "杏子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/39928",
+        "categorie": "person"
+      },
+      {
+        "id": "39929",
+        "label": "木村公平",
+        "info": "美知留的父亲",
+        "image": "https://lain.bgm.tv/pic/crt/m/31/27/39929_crt_nO5ft.jpg",
+        "link": "https://bgm.tv/character/39929",
+        "categorie": "person"
+      },
+      {
+        "id": "39930",
+        "label": "渔夫A",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/39930",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

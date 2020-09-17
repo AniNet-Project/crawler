@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13859",
+        "label": "珐莉斯",
+        "info": "第一话最初配音是小清水亚美",
+        "image": "https://lain.bgm.tv/pic/crt/m/b1/ab/13859_crt_fU4Sy.jpg",
+        "link": "https://bgm.tv/character/13859",
+        "categorie": "person"
+      },
+      {
+        "id": "13860",
+        "label": "艾莉塔",
+        "info": "第一话最初配音是朴璐美",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/24/13860_crt_KZ5d3.jpg",
+        "link": "https://bgm.tv/character/13860",
+        "categorie": "person"
+      },
+      {
+        "id": "13861",
+        "label": "多米尼可夫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ef/e3/13861_crt_p6MxM.jpg",
+        "link": "https://bgm.tv/character/13861",
+        "categorie": "person"
+      },
+      {
+        "id": "13862",
+        "label": "皮特·阿姆斯特朗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/fb/13862_crt_trzDT.jpg",
+        "link": "https://bgm.tv/character/13862",
+        "categorie": "person"
+      },
+      {
+        "id": "13863",
+        "label": "乔多·安特拉希亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/13/13863_crt_6QlLh.jpg",
+        "link": "https://bgm.tv/character/13863",
+        "categorie": "person"
+      },
+      {
+        "id": "13864",
+        "label": "赤猿",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/2e/13864_crt_xhz5C.jpg",
+        "link": "https://bgm.tv/character/13864",
+        "categorie": "person"
+      },
+      {
+        "id": "13865",
+        "label": "安娜&尤娜",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/5e/fd/13865_crt_6DJX6.jpg",
+        "link": "https://bgm.tv/character/13865",
+        "categorie": "person"
+      },
+      {
+        "id": "13866",
+        "label": "赛希莉亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/d8/13866_crt_H96Ff.jpg",
+        "link": "https://bgm.tv/character/13866",
+        "categorie": "person"
+      },
+      {
+        "id": "13867",
+        "label": "加特",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/76/08/13867_crt_t1C45.jpg",
+        "link": "https://bgm.tv/character/13867",
+        "categorie": "person"
+      },
+      {
+        "id": "13868",
+        "label": "ゼノス＝フォーランド",
+        "info": "第一话便当的国王",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/ce/13868_crt_2YvJv.jpg",
+        "link": "https://bgm.tv/character/13868",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

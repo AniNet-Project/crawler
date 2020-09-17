@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "55068",
+        "label": "蓝原柚子",
+        "info": "本作の主人公。母の再婚で秋から物語の舞台である学院に転入してきた。1年A組に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/58/c1/55068_crt_pZU01.jpg?r=1515405139",
+        "link": "https://bgm.tv/character/55068",
+        "categorie": "person"
+      },
+      {
+        "id": "55069",
+        "label": "蓝原芽衣",
+        "info": "本作のもう一人の主人公でヒロイン。学院の理事長の孫であり、1年生ながら生徒会長を務め、学院の時期後継者と言われている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/70/55069_crt_JfbA3.jpg?r=1515932750",
+        "link": "https://bgm.tv/character/55069",
+        "categorie": "person"
+      },
+      {
+        "id": "55070",
+        "label": "谷口晴美",
+        "info": "柚子の同級生で、学院には高校から入学した。1年A組所属。通称「はるみん」。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/e6/55070_crt_RN3n9.jpg?r=1515314274",
+        "link": "https://bgm.tv/character/55070",
+        "categorie": "person"
+      },
+      {
+        "id": "55071",
+        "label": "桃木野姬子",
+        "info": "芽衣の幼馴染で1年生ながら生徒会副会長を務める。",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/38/55071_crt_Sh7DR.jpg?r=1517307471",
+        "link": "https://bgm.tv/character/55071",
+        "categorie": "person"
+      },
+      {
+        "id": "55072",
+        "label": "水泽茉莉",
+        "info": "柚子の幼馴染で中学2年生。肩に掛かる程度の髪を明るく染めている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6c/5d/55072_crt_z93Ek.jpg?r=1517720114",
+        "link": "https://bgm.tv/character/55072",
+        "categorie": "person"
+      },
+      {
+        "id": "60052",
+        "label": "蓝原梅",
+        "info": "柚子の実母。柚子の実父とは死別しており、女手一つで柚子を育ててきた。娘との関係は悪くない模様。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d6/d2/60052_crt_7wZVo.jpg?r=1518344679",
+        "link": "https://bgm.tv/character/60052",
+        "categorie": "person"
+      },
+      {
+        "id": "60053",
+        "label": "雨宫",
+        "info": "学院の教諭であり柚子の担任。",
+        "image": "https://lain.bgm.tv/pic/crt/m/10/bb/60053_crt_4M1ar.jpg?r=1519011382",
+        "link": "https://bgm.tv/character/60053",
+        "categorie": "person"
+      },
+      {
+        "id": "60869",
+        "label": "蓝原翔",
+        "info": "藍原芽衣の父親。若い時は藍原家の一員として厳格な雰囲気を持ち、芽衣の憧れの存在だった",
+        "image": "https://lain.bgm.tv/pic/crt/m/c0/48/60869_crt_0d30D.jpg?r=1519632304",
+        "link": "https://bgm.tv/character/60869",
+        "categorie": "person"
+      },
+      {
+        "id": "61513",
+        "label": "橘萨拉",
+        "info": "銀色長髮的女初中學生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/26/f3/61513_crt_IC9T9.jpg?r=1520367434",
+        "link": "https://bgm.tv/character/61513",
+        "categorie": "person"
+      },
+      {
+        "id": "61664",
+        "label": "橘妮娜",
+        "info": "お姉ちゃん大好きな、全然似ていない妹。姉の幸せを一番に考えている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/65/fa/61664_crt_sC8Vz.jpg?r=1521090501",
+        "link": "https://bgm.tv/character/61664",
+        "categorie": "person"
+      },
+      {
+        "id": "61665",
+        "label": "丸田加代",
+        "info": "生徒会役員。芽衣や姫子の先輩として共に活動している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0f/f7/61665_crt_5WWp0.jpg?r=1521090537",
+        "link": "https://bgm.tv/character/61665",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

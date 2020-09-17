@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "20083",
+        "label": "哪吒",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/05/8d/20083_crt_ut0N2.jpg?r=1369574350",
+        "link": "https://bgm.tv/character/20083",
+        "categorie": "person"
+      },
+      {
+        "id": "20084",
+        "label": "小龙女",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/dd/a2/20084_crt_1j0Rb.jpg?r=1369574427",
+        "link": "https://bgm.tv/character/20084",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

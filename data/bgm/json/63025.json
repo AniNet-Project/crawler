@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "27138",
+        "label": "秋山明日香",
+        "info": "主人公。被人以裸照要脅。",
+        "image": "https://lain.bgm.tv/pic/crt/m/89/ce/27138_crt_gG4E9.jpg?r=1467162924",
+        "link": "https://bgm.tv/character/27138",
+        "categorie": "person"
+      },
+      {
+        "id": "27822",
+        "label": "秋山未来",
+        "info": "明日香的妹妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/76/27822_crt_XxWwf.jpg?r=1415389810",
+        "link": "https://bgm.tv/character/27822",
+        "categorie": "person"
+      },
+      {
+        "id": "28066",
+        "label": "结城绫",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/94/66/28066_crt_mDmqv.jpg?r=1416437889",
+        "link": "https://bgm.tv/character/28066",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

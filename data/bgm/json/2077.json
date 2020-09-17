@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "10278",
+        "label": "御影すばる",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/ac/10278_crt_mhC6F.jpg",
+        "link": "https://bgm.tv/character/10278",
+        "categorie": "person"
+      },
+      {
+        "id": "10279",
+        "label": "千堂和樹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2f/9c/10279_crt_1AfJT.jpg",
+        "link": "https://bgm.tv/character/10279",
+        "categorie": "person"
+      },
+      {
+        "id": "4323",
+        "label": "高瀬瑞希",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b5/b1/4323_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4323",
+        "categorie": "person"
+      },
+      {
+        "id": "4324",
+        "label": "牧村南",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f5/69/4324_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4324",
+        "categorie": "person"
+      },
+      {
+        "id": "4325",
+        "label": "大庭詠美",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d3/e8/4325_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4325",
+        "categorie": "person"
+      },
+      {
+        "id": "4326",
+        "label": "長谷部彩",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/33/4326_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4326",
+        "categorie": "person"
+      },
+      {
+        "id": "4327",
+        "label": "猪名川由宇",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/01/4327_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4327",
+        "categorie": "person"
+      },
+      {
+        "id": "4328",
+        "label": "塚本千紗",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/43/4328_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4328",
+        "categorie": "person"
+      },
+      {
+        "id": "4329",
+        "label": "芳賀玲子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/d2/f4/4329_crt_7QJaD.jpg",
+        "link": "https://bgm.tv/character/4329",
+        "categorie": "person"
+      },
+      {
+        "id": "4330",
+        "label": "桜井あさひ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0d/5b/4330_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4330",
+        "categorie": "person"
+      },
+      {
+        "id": "4331",
+        "label": "九品仏大志",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c6/44/4331_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4331",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "38547",
+        "label": "纳沙幸子",
+        "info": "何でも屋。でも現実は見たくない",
+        "image": "https://lain.bgm.tv/pic/crt/m/5d/56/38547_crt_JnfU9.jpg?r=1498931709",
+        "link": "https://bgm.tv/character/38547",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

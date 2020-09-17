@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "11186",
+        "label": "小Q",
+        "info": "14岁，本名「連城究」，本作品的主角。以名侦探为目标的中学三年级男生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/50/11186_crt_9nu8n.jpg",
+        "link": "https://bgm.tv/character/11186",
+        "categorie": "person"
+      },
+      {
+        "id": "11187",
+        "label": "天草流",
+        "info": "14岁，DDS入学考试第一名，推理能力与Q不相上下。是凡事都很冷靜的天才。",
+        "image": "https://lain.bgm.tv/pic/crt/m/9b/b4/11187_crt_1r1K0.jpg",
+        "link": "https://bgm.tv/character/11187",
+        "categorie": "person"
+      },
+      {
+        "id": "13306",
+        "label": "美南惠",
+        "info": "14岁，是拥有“瞬间记忆能力”的女孩，她的能力总能帮助Q等人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/36/ed/13306_crt_eDW8u.jpg",
+        "link": "https://bgm.tv/character/13306",
+        "categorie": "person"
+      },
+      {
+        "id": "25366",
+        "label": "雪平樱子",
+        "info": "DDS A班其中一员，亦是团守彦的侄女。现年17岁。 ",
+        "image": "https://lain.bgm.tv/pic/crt/m/9d/d8/25366_crt_FM1fp.jpg",
+        "link": "https://bgm.tv/character/25366",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

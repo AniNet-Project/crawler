@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "36701",
+        "label": "霧原直人",
+        "info": "拥有超能力“念动力”。因为这个力量，从小就在远离人烟的森林的研究所里过着与世隔绝的生活。唯一的心灵的依靠是弟弟直也。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/48/36701_crt_i5f84.jpg?r=1446987629",
+        "link": "https://bgm.tv/character/36701",
+        "categorie": "person"
+      },
+      {
+        "id": "36702",
+        "label": "霧原直也",
+        "info": "拥有超能力“接触感应能力”。与其他人接触能够感受到对方的思想和记忆，甚至与某些特殊的异能者能产生共鸣（例如直也在与预言师神谷在一起的时候能够使自己也产生预知未来的能力并使神谷的能力加强）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/66/9b/36702_crt_kxZlA.jpg?r=1447921335",
+        "link": "https://bgm.tv/character/36702",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "12605",
+        "label": "松隆奈奈子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/a9/12605_crt_F6h1J.jpg",
+        "link": "https://bgm.tv/character/12605",
+        "categorie": "person"
+      },
+      {
+        "id": "12606",
+        "label": "武藏小麦",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ce/cc/12606_crt_xExkJ.jpg",
+        "link": "https://bgm.tv/character/12606",
+        "categorie": "person"
+      },
+      {
+        "id": "12607",
+        "label": "莳子·格里高利",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/54/c9/12607_crt_rlQr3.jpg",
+        "link": "https://bgm.tv/character/12607",
+        "categorie": "person"
+      },
+      {
+        "id": "12608",
+        "label": "水越美和子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/37/ab/12608_crt_s4QLW.jpg",
+        "link": "https://bgm.tv/character/12608",
+        "categorie": "person"
+      },
+      {
+        "id": "12609",
+        "label": "饭野坚治",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4a/2e/12609_crt_OfACq.jpg",
+        "link": "https://bgm.tv/character/12609",
+        "categorie": "person"
+      },
+      {
+        "id": "13293",
+        "label": "田口Yesterday",
+        "info": "与小麦同学级的男学生。志愿是漫画家，漫画研究会的成员，名称是笔名。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2b/25/13293_crt_j5Q0f.jpg",
+        "link": "https://bgm.tv/character/13293",
+        "categorie": "person"
+      },
+      {
+        "id": "13294",
+        "label": "市河菱靖",
+        "info": "手持摄影机，贯彻旁观者的男学生。电影研究会成员，把他人的变态行为以摄影机拍摄下来就满足。",
+        "image": "https://lain.bgm.tv/pic/crt/m/5c/34/13294_crt_Z16eo.jpg",
+        "link": "https://bgm.tv/character/13294",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

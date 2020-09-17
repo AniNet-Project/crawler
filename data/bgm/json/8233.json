@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "5598",
+        "label": "小日向雄真",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/3f/5598_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5598",
+        "categorie": "person"
+      },
+      {
+        "id": "5600",
+        "label": "式守伊吹",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/4f/b7/5600_crt_7GRSh.jpg",
+        "link": "https://bgm.tv/character/5600",
+        "categorie": "person"
+      },
+      {
+        "id": "5602",
+        "label": "高溝八輔",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/36/5602_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/5602",
+        "categorie": "person"
+      },
+      {
+        "id": "26046",
+        "label": "渡良濑准",
+        "info": "もう長いこと主人公と付き合っている友人。 いわゆる腐れ縁。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/54/26046_crt_R38DL.jpg",
+        "link": "https://bgm.tv/character/26046",
+        "categorie": "person"
+      },
+      {
+        "id": "5601",
+        "label": "上条沙耶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/99/5601_crt_385DZ.jpg",
+        "link": "https://bgm.tv/character/5601",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

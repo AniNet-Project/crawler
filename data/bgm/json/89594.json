@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "3335",
+        "label": "哈洛克船长",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/91/3335_crt_hZswh.jpg",
+        "link": "https://bgm.tv/character/3335",
+        "categorie": "person"
+      },
+      {
+        "id": "29560",
+        "label": "亚马",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/97/8d/29560_crt_qwkQJ.jpg",
+        "link": "https://bgm.tv/character/29560",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

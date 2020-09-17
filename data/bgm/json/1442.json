@@ -1,0 +1,69 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "4659",
+        "label": "コーティカルテ・アパ・ラグランジェス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/85/4659_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4659",
+        "categorie": "person"
+      },
+      {
+        "id": "4660",
+        "label": "タタラ・フォロン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/0b/4660_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4660",
+        "categorie": "person"
+      },
+      {
+        "id": "4661",
+        "label": "ユギリ・ペルセルテ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/21/4661_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4661",
+        "categorie": "person"
+      },
+      {
+        "id": "4662",
+        "label": "ユギリ・プリネシカ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/f6/4b/4662_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4662",
+        "categorie": "person"
+      },
+      {
+        "id": "4663",
+        "label": "ツゲ・ユフィンリー",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/c8/2a/4663_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4663",
+        "categorie": "person"
+      },
+      {
+        "id": "4664",
+        "label": "サイキ・レンバルト",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/45/4664_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4664",
+        "categorie": "person"
+      },
+      {
+        "id": "8263",
+        "label": "シダラ・レイトス",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/4f/8263_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/8263",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

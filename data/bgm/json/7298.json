@@ -1,0 +1,77 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "1730",
+        "label": "星村真姬那",
+        "info": "尸姬，享年15岁。她是继承了光言宗十位开宗之祖的弟子“伟家十圣”的星村家的后人。在家人被尸群袭击时一起被杀。由于拥有成为尸姬的优越条件，为了复仇，她与生前曾有来往的光言宗大僧正田神景世结成了契约后成为尸姬。使用的武器是MAC11短机枪。有着令人恐惧的身体能力，用炽热燃烧的报复心来对付那些令她憎恶的僵尸。",
+        "image": "https://lain.bgm.tv/pic/crt/m/85/13/1730_78t33.jpg",
+        "link": "https://bgm.tv/character/1730",
+        "categorie": "person"
+      },
+      {
+        "id": "1731",
+        "label": "花神旺里",
+        "info": "高中一年级生，16岁。小时被景世捡回去，后来在儿童福利设施的“大麟馆”里长大。对景世抱有“哥哥”那种仰慕之情，两人的关系实际上也就如同兄弟一样。是个相当普通的高中生，不过由于偶然与真姬的相知，得知了关于僵尸与尸姬所处的世界的情况。为人善良，受到“大麟馆”里孩子们的敬爱",
+        "image": "https://lain.bgm.tv/pic/crt/m/b2/9e/1731_mrV2x.jpg",
+        "link": "https://bgm.tv/character/1731",
+        "categorie": "person"
+      },
+      {
+        "id": "4102",
+        "label": "遠岡アキラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9c/a8/4102_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4102",
+        "categorie": "person"
+      },
+      {
+        "id": "4104",
+        "label": "荒神莉花",
+        "info": "天瀬早季之契约僧，在光言宗位列权僧正，也是高峰宗现的副手，二十三岁。伟家十圣荒神家之女。拥有F罩杯的傲人胸围，漫画版里胸前期为D罩杯，与李黎红交手时已经成了F罩杯。自小因为背负着荒神家的使命而过着孤独的修行生活，只有早季主动与她成为朋友。早季意外身亡后，莉花为了救她而将其身体冷冻保存，在十年的修行之后与她订立契约。对于身为师兄的景世抱有好感，即使列位较高也依然对景世用敬语称呼。在景世战死之后对“大群”也抱有强烈的憎恨。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e9/10/4104_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4104",
+        "categorie": "person"
+      },
+      {
+        "id": "4147",
+        "label": "白江鈴千",
+        "info": "地区检察官，两只眼睛一黄一绿，动画化前作者还未决定其性别。是日常负责指导旺里的人之一。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d7/14/4147_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4147",
+        "categorie": "person"
+      },
+      {
+        "id": "4149",
+        "label": "牛島尋維",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2d/19/4149_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4149",
+        "categorie": "person"
+      },
+      {
+        "id": "28585",
+        "label": "山神异月",
+        "info": "契約僧為光言宗少僧正送儀嵩征。平常多以「イツキ」稱呼。以兩把手槍作為武器。",
+        "image": "https://lain.bgm.tv/pic/crt/m/81/2a/28585_crt_1TP4Z.jpg?r=1584374178",
+        "link": "https://bgm.tv/character/28585",
+        "categorie": "person"
+      },
+      {
+        "id": "4151",
+        "label": "雛子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9f/60/4151_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/4151",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

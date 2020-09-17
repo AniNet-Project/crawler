@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "14069",
+        "label": "见崎鸣",
+        "info": "神秘美少女，一只眼睛总是戴著眼罩， 经常独自画画，让人感觉不可思议的存在。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/2f/14069_crt_GZElu.jpg",
+        "link": "https://bgm.tv/character/14069",
+        "categorie": "person"
+      },
+      {
+        "id": "15108",
+        "label": "藤冈未咲",
+        "info": "日本动漫2012年1月新番《Another》中主角见崎鸣的双胞胎妹妹,将于 5月6号发售的《Another》漫画第0卷同捆的OVA中登场.",
+        "image": "https://lain.bgm.tv/pic/crt/m/75/e3/15108_crt_LMR45.jpg",
+        "link": "https://bgm.tv/character/15108",
+        "categorie": "person"
+      },
+      {
+        "id": "14068",
+        "label": "榊原恒一",
+        "info": "榊原家的独生子。15岁。中学时期的3年5月转入了夜见山北中学的3年3班。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3e/fe/14068_crt_D0fF0.jpg",
+        "link": "https://bgm.tv/character/14068",
+        "categorie": "person"
+      },
+      {
+        "id": "14468",
+        "label": "圣光君",
+        "info": "各种既不能列入H动画也不能列入一般向的动画中，当出场角色脱衣或者裸衣时(或者出现了比较血腥猎奇的R-18G场面时)，从天而降，遮挡住关键部位的不明光线。动画迷们戏称之为天之光或者圣光 。例如「圣痕炼金士」中的撕衣高光圣光(和「Total Eclipse」第二话&「BLOOD-C」(TV)最终话中人类被虐杀的暗黑圣光)。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4b/83/14468_crt_bxPKG.jpg",
+        "link": "https://bgm.tv/character/14468",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

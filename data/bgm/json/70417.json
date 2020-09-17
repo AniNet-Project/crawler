@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "67073",
+        "label": "房野文恵",
+        "info": "頌英学園３年Ｄ組担任。友香の実姉。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c2/19/67073_crt_v6pbV.jpg",
+        "link": "https://bgm.tv/character/67073",
+        "categorie": "person"
+      },
+      {
+        "id": "67074",
+        "label": "房野友香",
+        "info": "芦原女子大学に通う大学３年生。文恵の実妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d0/0f/67074_crt_ae7Ey.jpg",
+        "link": "https://bgm.tv/character/67074",
+        "categorie": "person"
+      },
+      {
+        "id": "67075",
+        "label": "桜井渉",
+        "info": "１８歳。主人公。",
+        "image": "https:",
+        "link": "https://bgm.tv/character/67075",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

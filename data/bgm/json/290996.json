@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "68138",
+        "label": "速水綾希",
+        "info": "風見琥太（主人公）の幼馴染。",
+        "image": "https://lain.bgm.tv/pic/crt/m/77/06/68138_crt_7k4lx.jpg",
+        "link": "https://bgm.tv/character/68138",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

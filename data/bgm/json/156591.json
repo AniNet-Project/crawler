@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "34172",
+        "label": "孙浩轩",
+        "info": "平凡的高中生，没有任何的人生目标，在卷入了一系列的事情后，性格开始慢慢的变得有主见，为解开自己的身世之谜而努力中。",
+        "image": "https://lain.bgm.tv/pic/crt/m/13/49/34172_crt_Nhh41.jpg",
+        "link": "https://bgm.tv/character/34172",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "35607",
+        "label": "菜月昴",
+        "info": "無知無能にして無力無謀と四拍子欠けた主人公。突如として異世界に召喚され、訳の分からない状況に翻弄される。物怖じしない性質と持ち前の図々しさで、逆境に弱音を吐きつつも過酷な運命に立ち向かっていく。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f3/e4/35607_crt_zL7e7.jpg?r=1587941914",
+        "link": "https://bgm.tv/character/35607",
+        "categorie": "person"
+      },
+      {
+        "id": "35608",
+        "label": "艾米莉娅",
+        "info": "銀髪に紫紺の瞳を持つ美しい少女。お人好しで面倒見の良い性格だが、当人はなぜかそれを素直に認めようとしない。家族同然の猫精霊であるパックをお供に連れており、彼の前でだけ甘えた表情を見せる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/d4/35608_crt_GmwaE.jpg?r=1596128593",
+        "link": "https://bgm.tv/character/35608",
+        "categorie": "person"
+      },
+      {
+        "id": "35609",
+        "label": "帕克",
+        "info": "エミリアと共に行動している精霊。灰色の体毛、まん丸の瞳にピンク色の鼻をした、手のひらに乗るサイズの二足歩行の小猫の姿をしている。",
+        "image": "https://lain.bgm.tv/pic/crt/m/52/39/35609_crt_BQ5R4.jpg?r=1587942441",
+        "link": "https://bgm.tv/character/35609",
+        "categorie": "person"
+      },
+      {
+        "id": "35610",
+        "label": "菲鲁特",
+        "info": "くすんだ金髪に勝気な赤い目、尖った八重歯がチャームポイントの浮浪女児。王都の貧民街育ちで、幼さに見合わないタフで強かな性格の持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3d/7f/35610_crt_6xF8A.jpg?r=1456401117",
+        "link": "https://bgm.tv/character/35610",
+        "categorie": "person"
+      },
+      {
+        "id": "35614",
+        "label": "拉姆",
+        "info": "怪我をしたスバルが運び込まれた屋敷、ロズワール邸で働く双子メイドの姉。傲岸不遜な毒舌担当。炊事洗濯裁縫掃除、全てにおいて妹に劣るステータスの持ち主。",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/f9/35614_crt_LQH5A.jpg?r=1594395803",
+        "link": "https://bgm.tv/character/35614",
+        "categorie": "person"
+      },
+      {
+        "id": "35615",
+        "label": "蕾姆",
+        "info": "名誉の負傷をしたスバルが担ぎ込まれた屋敷で、雑務全般を一手に担う双子メイドの妹。慇懃無礼な毒舌担当。屋敷の機能が維持されているのは、彼女の有能さが全てといっていい。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b4/42/35615_crt_ygqcq.jpg?r=1594395738",
+        "link": "https://bgm.tv/character/35615",
+        "categorie": "person"
+      },
+      {
+        "id": "35616",
+        "label": "碧翠丝",
+        "info": "ロズワール邸にて『扉渡り』で隠された部屋、禁書庫の司書を務める幼い少女。愛らしい容姿と豪華なドレスで、まるで妖精のような印象を見るものに与える。",
+        "image": "https://lain.bgm.tv/pic/crt/m/48/15/35616_crt_2IIZy.jpg?r=1456401317",
+        "link": "https://bgm.tv/character/35616",
+        "categorie": "person"
+      },
+      {
+        "id": "35617",
+        "label": "普莉希拉·跋利耶尔",
+        "info": "「世界は妾にとって都合の良いようにできておる」",
+        "image": "https://lain.bgm.tv/pic/crt/m/95/3a/35617_crt_X7HCJ.jpg?r=1442639923",
+        "link": "https://bgm.tv/character/35617",
+        "categorie": "person"
+      },
+      {
+        "id": "35618",
+        "label": "库珥修·卡尔斯腾",
+        "info": "「問おう。恥ずかしいとは思わないのかと」",
+        "image": "https://lain.bgm.tv/pic/crt/m/c1/db/35618_crt_yAwiB.jpg?r=1442640009",
+        "link": "https://bgm.tv/character/35618",
+        "categorie": "person"
+      },
+      {
+        "id": "35620",
+        "label": "安娜塔西亚·合辛",
+        "info": "「安心して、ウチのものになってくれてええよ？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/06/6d/35620_crt_f9m9Z.jpg?r=1442640214",
+        "link": "https://bgm.tv/character/35620",
+        "categorie": "person"
+      },
+      {
+        "id": "35611",
+        "label": "莱茵哈鲁特·梵·阿斯特雷亚",
+        "info": "「――そこまでだ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/08/1c/35611_crt_5cc58.jpg?r=1442639065",
+        "link": "https://bgm.tv/character/35611",
+        "categorie": "person"
+      },
+      {
+        "id": "35612",
+        "label": "艾尔莎·葛兰希尔黛",
+        "info": "「ああ、今のはとても、感じたわ」",
+        "image": "https://lain.bgm.tv/pic/crt/m/8c/17/35612_crt_CMZ4Y.jpg?r=1442639231",
+        "link": "https://bgm.tv/character/35612",
+        "categorie": "person"
+      },
+      {
+        "id": "35613",
+        "label": "罗姆爷",
+        "info": "「やっかましいわぁ！　合図と合言葉も知らんで、扉をぶっ壊す気か！！」",
+        "image": "https://lain.bgm.tv/pic/crt/m/88/0e/35613_crt_T7S99.jpg?r=1442639423",
+        "link": "https://bgm.tv/character/35613",
+        "categorie": "person"
+      },
+      {
+        "id": "35619",
+        "label": "菲利克斯·阿盖尔",
+        "info": "「んふー、恥ずかしがっちゃってきゃーわゆい」",
+        "image": "https://lain.bgm.tv/pic/crt/m/04/30/35619_crt_6mfeU.jpg?r=1442640128",
+        "link": "https://bgm.tv/character/35619",
+        "categorie": "person"
+      },
+      {
+        "id": "35622",
+        "label": "威尔海姆·梵·阿斯特雷亚",
+        "info": "外号“剑鬼”，身上有着大量伤痕的老人。将王选使者带往罗兹瓦尔宅邸的老车夫。剑术高超，本人形容自己并不具备相关才能，靠的仅是持续挥剑半辈子。",
+        "image": "https://lain.bgm.tv/pic/crt/m/99/8f/35622_crt_YY580.jpg?r=1442640352",
+        "link": "https://bgm.tv/character/35622",
+        "categorie": "person"
+      },
+      {
+        "id": "35623",
+        "label": "阿尔德巴兰",
+        "info": "“アルデバラン”为金牛座主星毕宿五之名，意为“跟随昴宿者（统星の后星）”。",
+        "image": "https://lain.bgm.tv/pic/crt/m/51/29/35623_crt_I3Nz2.jpg?r=1442640420",
+        "link": "https://bgm.tv/character/35623",
+        "categorie": "person"
+      },
+      {
+        "id": "35624",
+        "label": "罗兹瓦尔·L·梅札斯",
+        "info": "「君は私になーぁにを望むのかな？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/39/65/35624_crt_4P156.jpg?r=1442640590",
+        "link": "https://bgm.tv/character/35624",
+        "categorie": "person"
+      },
+      {
+        "id": "35625",
+        "label": "卡德蒙",
+        "info": "「で、お客さん、リンガは？」",
+        "image": "https://lain.bgm.tv/pic/crt/m/eb/2c/35625_crt_NpSIU.jpg?r=1442640712",
+        "link": "https://bgm.tv/character/35625",
+        "categorie": "person"
+      },
+      {
+        "id": "40565",
+        "label": "チン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/af/52/40565_crt_1Xhi1.jpg?r=1464575680",
+        "link": "https://bgm.tv/character/40565",
+        "categorie": "person"
+      },
+      {
+        "id": "40566",
+        "label": "カン",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/60/00/40566_crt_4t4x3.jpg?r=1464575757",
+        "link": "https://bgm.tv/character/40566",
+        "categorie": "person"
+      },
+      {
+        "id": "40661",
+        "label": "トン",
+        "info": "街中でスバルに絡んだ3人のチンピラたち。",
+        "image": "https://lain.bgm.tv/pic/crt/m/11/c7/40661_crt_2226j.jpg?r=1464575715",
+        "link": "https://bgm.tv/character/40661",
+        "categorie": "person"
+      },
+      {
+        "id": "43047",
+        "label": "奥托·苏文",
+        "info": "灰发的青年行商人，20岁。独自经商四年不太顺利。因想要出清库存的油货而被昴卷入白鲸事件。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e1/2e/43047_crt_rpqii.jpg?r=1503760504",
+        "link": "https://bgm.tv/character/43047",
+        "categorie": "person"
+      },
+      {
+        "id": "43257",
+        "label": "培提尔其乌斯·罗马尼空提",
+        "info": "大罪主教之一，外号“怠惰”，年龄超过400岁，是最早的大罪主教。其说话方式及态度使人认为其是狂人。在众多大罪主教中是最为活跃，亦是最为臭名昭著。兴奋时会咬破自己的手指。",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/fc/43257_crt_tXyYj.jpg?r=1587942313",
+        "link": "https://bgm.tv/character/43257",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

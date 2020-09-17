@@ -1,0 +1,125 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6555",
+        "label": "皇蓝华",
+        "info": "この作品の主人公。26歳。KK（ケーツー）コーポレーション所属の凄腕サルベイジャー。容姿端麗で格闘も強い女性。",
+        "image": "https://lain.bgm.tv/pic/crt/m/6f/ae/6555_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6555",
+        "categorie": "person"
+      },
+      {
+        "id": "22206",
+        "label": "相田里绪",
+        "info": "18岁，KK公司董事长的女儿，海底探险打捞业实习生，活泼的眼镜娘，崇拜蓝华。",
+        "image": "https://lain.bgm.tv/pic/crt/m/7e/cd/22206_crt_95YIm.jpg",
+        "link": "https://bgm.tv/character/22206",
+        "categorie": "person"
+      },
+      {
+        "id": "31529",
+        "label": "加斯特·特比由伦斯",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/8d/ed/31529_crt_C5062.jpg?r=1428037044",
+        "link": "https://bgm.tv/character/31529",
+        "categorie": "person"
+      },
+      {
+        "id": "6814",
+        "label": "相田乡造",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/93/79/6814_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6814",
+        "categorie": "person"
+      },
+      {
+        "id": "6815",
+        "label": "梅碧娅·阿尔基美德里亚",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/da/0d/6815_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6815",
+        "categorie": "person"
+      },
+      {
+        "id": "6816",
+        "label": "バ・バンドラ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/83/6816_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6816",
+        "categorie": "person"
+      },
+      {
+        "id": "6818",
+        "label": "リエ・ペトリヤコワ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a3/84/6818_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6818",
+        "categorie": "person"
+      },
+      {
+        "id": "31471",
+        "label": "哈根博士",
+        "info": "試験管ベビーとして生まれた天才科学者。2003年生まれ。31歳。人類を一旦滅ぼし、優秀な遺伝子を持つ者だけで構成された世界を再生しようと目論んでいる。女好きで、藍華のことを気に入る。",
+        "image": "https://lain.bgm.tv/pic/crt/m/d4/1d/31471_crt_0XKnZ.jpg?r=1428037089",
+        "link": "https://bgm.tv/character/31471",
+        "categorie": "person"
+      },
+      {
+        "id": "31472",
+        "label": "妮娜·哈根",
+        "info": "ルドルフの妹。2006年生まれ。28歳。兄のルドルフに対して兄妹を超えた感情を持っている。サディスト。ルドルフが藍華のことを気に入ったことにより、藍華に嫉妬する。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ba/07/31472_crt_7dX9d.jpg?r=1428037119",
+        "link": "https://bgm.tv/character/31472",
+        "categorie": "person"
+      },
+      {
+        "id": "31533",
+        "label": "白衣舰长",
+        "info": "哈根博士美女军团的总司令，和副官是一对百合",
+        "image": "https://lain.bgm.tv/pic/crt/m/fd/bc/31533_crt_21R8B.jpg",
+        "link": "https://bgm.tv/character/31533",
+        "categorie": "person"
+      },
+      {
+        "id": "31534",
+        "label": "白衣副官",
+        "info": "哈根博士美女军团司令白衣舰长的副官，和舰长是一对百合",
+        "image": "https://lain.bgm.tv/pic/crt/m/1a/a0/31534_crt_Z8J7n.jpg",
+        "link": "https://bgm.tv/character/31534",
+        "categorie": "person"
+      },
+      {
+        "id": "6817",
+        "label": "ミナ・エツコ",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/2a/0c/6817_crt_MZ4i9.jpg",
+        "link": "https://bgm.tv/character/6817",
+        "categorie": "person"
+      },
+      {
+        "id": "31535",
+        "label": "薇安卡",
+        "info": "哈根博士美女军团金衣队首领",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/b8/31535_crt_U9B85.jpg",
+        "link": "https://bgm.tv/character/31535",
+        "categorie": "person"
+      },
+      {
+        "id": "31536",
+        "label": "冬妮娅",
+        "info": "金衣队杀手",
+        "image": "https://lain.bgm.tv/pic/crt/m/86/37/31536_crt_8chD7.jpg",
+        "link": "https://bgm.tv/character/31536",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

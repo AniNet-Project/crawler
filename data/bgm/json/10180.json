@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "6440",
+        "label": "雨水健太",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/a8/60/6440_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6440",
+        "categorie": "person"
+      },
+      {
+        "id": "73851",
+        "label": "真红果林",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0e/46/73851_crt_Uf75D.jpg",
+        "link": "https://bgm.tv/character/73851",
+        "categorie": "person"
+      },
+      {
+        "id": "6441",
+        "label": "真紅煉",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/07/6441_crt_anidb.jpg",
+        "link": "https://bgm.tv/character/6441",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

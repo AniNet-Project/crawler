@@ -1,0 +1,101 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "37150",
+        "label": "里中千惠",
+        "info": "住在101号房，公寓的房东，初中一年级生。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f4/e8/37150_crt_zW9sU.jpg",
+        "link": "https://bgm.tv/character/37150",
+        "categorie": "person"
+      },
+      {
+        "id": "38084",
+        "label": "前田",
+        "info": "住在203号房，上班族，全名不详。23岁。由于就职的因素搬进千惠的公寓。",
+        "image": "https://lain.bgm.tv/pic/crt/m/83/e5/38084_crt_F5jXi.jpg?r=1452446093",
+        "link": "https://bgm.tv/character/38084",
+        "categorie": "person"
+      },
+      {
+        "id": "38086",
+        "label": "白井丽子",
+        "info": "住在204号房，很疼爱千惠的女性，职业是酒吧的女招待。",
+        "image": "https://lain.bgm.tv/pic/crt/m/fc/e8/38086_crt_zyUQy.jpg",
+        "link": "https://bgm.tv/character/38086",
+        "categorie": "person"
+      },
+      {
+        "id": "38090",
+        "label": "森明日香",
+        "info": "田径社、料理同好会成员。运动神经超群且喜欢恋爱话题。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a0/42/38090_crt_mfffF.jpg",
+        "link": "https://bgm.tv/character/38090",
+        "categorie": "person"
+      },
+      {
+        "id": "37151",
+        "label": "植野真由",
+        "info": "跟千惠一起吃便当后，跟千惠交情变好的好友。独生女，体育委员。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0b/4e/37151_crt_04A5A.jpg",
+        "link": "https://bgm.tv/character/37151",
+        "categorie": "person"
+      },
+      {
+        "id": "37152",
+        "label": "宫村雪",
+        "info": "最初邀请总是独自行动的千惠一起吃便当的同学。",
+        "image": "https://lain.bgm.tv/pic/crt/m/c3/24/37152_crt_C7RFZ.jpg",
+        "link": "https://bgm.tv/character/37152",
+        "categorie": "person"
+      },
+      {
+        "id": "38088",
+        "label": "金本樱",
+        "info": "男子排球社的经纪人，并加入料理同好会。擅于绘画。喜欢漫画、照顾人。体形丰腴。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/0f/38088_crt_WLeCL.jpg",
+        "link": "https://bgm.tv/character/38088",
+        "categorie": "person"
+      },
+      {
+        "id": "35541",
+        "label": "小森朱梨",
+        "info": "本作の主人公。中学2年生（連載開始時）→3年生（2巻から）。14歳（連載開始時）→15歳（夏休み前?）。身長180cm。陸上部。3年生の時は清掃委員会に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/8f/4a/35541_crt_rbVVp.jpg?r=1443988496",
+        "link": "https://bgm.tv/character/35541",
+        "categorie": "person"
+      },
+      {
+        "id": "35542",
+        "label": "西鸟惠",
+        "info": "しゅりの親友でクラスメイト。通っている中学校は毎年クラス替えがあるにも関わらずしゅりとは3年間同じクラス。帰宅部。3年生の時は放送委員会に所属。",
+        "image": "https://lain.bgm.tv/pic/crt/m/f7/29/35542_crt_yK17M.jpg?r=1444590492",
+        "link": "https://bgm.tv/character/35542",
+        "categorie": "person"
+      },
+      {
+        "id": "35543",
+        "label": "根岸真子",
+        "info": "しゅりの親友でクラスメイト。やはりしゅりとは3年間同じクラス。2年、3年とも学級委員長。",
+        "image": "https://lain.bgm.tv/pic/crt/m/0a/d9/35543_crt_ywYn9.jpg?r=1445218750",
+        "link": "https://bgm.tv/character/35543",
+        "categorie": "person"
+      },
+      {
+        "id": "35544",
+        "label": "大谷九郎",
+        "info": "3年生になってしゅりと同じクラスになった男子。身長は「向き合うと顔の正面にしゅりの胸がくる」高さ。しゅりと同じ清掃委員会に所属。実家は花屋。",
+        "image": "https://lain.bgm.tv/pic/crt/m/69/a7/35544_crt_1tfqi.jpg?r=1446584490",
+        "link": "https://bgm.tv/character/35544",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

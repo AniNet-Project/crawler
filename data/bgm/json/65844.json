@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "46678",
+        "label": "古橋千夏",
+        "info": "主人公が通う大学の先輩で、下宿人の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/1c/2e/46678_crt_K6EKk.jpg",
+        "link": "https://bgm.tv/character/46678",
+        "categorie": "person"
+      },
+      {
+        "id": "46679",
+        "label": "諸星京子",
+        "info": "主人公の義母。夫とは10年ほど前に結婚し、その後すぐに死別している。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ee/f6/46679_crt_66uu0.jpg",
+        "link": "https://bgm.tv/character/46679",
+        "categorie": "person"
+      },
+      {
+        "id": "46680",
+        "label": "曽我楓",
+        "info": "主人公が通う大学の講師で、下宿人の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/47/08/46680_crt_2G2ko.jpg",
+        "link": "https://bgm.tv/character/46680",
+        "categorie": "person"
+      },
+      {
+        "id": "46681",
+        "label": "天城真奈美",
+        "info": "下宿人の一人。",
+        "image": "https://lain.bgm.tv/pic/crt/m/2e/15/46681_crt_qKNcJ.jpg",
+        "link": "https://bgm.tv/character/46681",
+        "categorie": "person"
+      },
+      {
+        "id": "46682",
+        "label": "友里梨沙",
+        "info": "義母・京子の年の離れた妹（母親が違う異母姉妹）。",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/08/46682_crt_33GPW.jpg",
+        "link": "https://bgm.tv/character/46682",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

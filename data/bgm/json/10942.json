@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "13206",
+        "label": "吸血喵",
+        "info": "收到吸血鬼的血之洗礼而被赐予永远的生命的小猫。",
+        "image": "https://lain.bgm.tv/pic/crt/m/ff/d1/13206_crt_SX0w0.jpg",
+        "link": "https://bgm.tv/character/13206",
+        "categorie": "person"
+      },
+      {
+        "id": "13483",
+        "label": "独眼龙政喵",
+        "info": "崇拜伊达政宗的武士小猫，因妖怪退治而和吸血喵他们结识。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a4/10/13483_crt_32MCV.jpg",
+        "link": "https://bgm.tv/character/13483",
+        "categorie": "person"
+      },
+      {
+        "id": "19283",
+        "label": "茶茶丸",
+        "info": "茶茶丸（茶々丸（ちゃちゃまる），声：後藤邑子）",
+        "image": "https://lain.bgm.tv/pic/crt/m/49/b5/19283_crt_c9C13.jpg",
+        "link": "https://bgm.tv/character/19283",
+        "categorie": "person"
+      },
+      {
+        "id": "19284",
+        "label": "貓天使",
+        "info": "貓天使（にゃてんし，声：福山潤）",
+        "image": "https://lain.bgm.tv/pic/crt/m/cd/9a/19284_crt_0I0PY.jpg",
+        "link": "https://bgm.tv/character/19284",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "7968",
+        "label": "备长炭",
+        "info": "生日是5月7日。没有双亲，独自一人远离人群住在深山里的小女孩。虽然物质环境并不丰裕，却能优闲地享受着大自然生活。不过，因为小时候曾和梅婆婆住在一起，梅婆婆过世后偶尔会感到孤独寂寞。身上穿的和服便是梅婆婆过去亲手做给她的。备长炭最喜欢白米饭了，有时因为没米了而必需得上街找工作。头顶上的备长炭可用于净化水质、放于饭锅内煮饭，或是置于鞋柜中除臭。",
+        "image": "https://lain.bgm.tv/pic/crt/m/38/63/7968_crt_LfgzO.jpg?r=1404158290",
+        "link": "https://bgm.tv/character/7968",
+        "categorie": "person"
+      },
+      {
+        "id": "7971",
+        "label": "练炭",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/90/e4/7971_crt_YXb6f.jpg",
+        "link": "https://bgm.tv/character/7971",
+        "categorie": "person"
+      },
+      {
+        "id": "7970",
+        "label": "竹林",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/62/55/7970_crt_gQmWv.jpg",
+        "link": "https://bgm.tv/character/7970",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

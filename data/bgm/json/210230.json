@@ -1,0 +1,93 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "59841",
+        "label": "宇崎瞳",
+        "info": "「蜜獾（ラーテル）」の名を持つ獣闘士。可愛らしい外見に似合わず、かなり凶暴な性格だが、他人に対する情がない訳ではなく、恩人である祠堂の命令には従い、彼の命令とはいえ野本を手に掛けたことには涙を流していた。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bb/c8/59841_crt_ppVov.jpg",
+        "link": "https://bgm.tv/character/59841",
+        "categorie": "person"
+      },
+      {
+        "id": "59843",
+        "label": "野本裕也",
+        "info": "何ごとにも流されやすい気弱な性格の平凡な大学生だったが、知人の犯罪計画に巻き込まれて瞳と出会ったことで牙闘の存在を知る。半ば強制的に瞳の出資者とされ「牙闘獣獄刹」では瞳のプレイヤーとして参加する。瞳の要求に従った指示を出す形だったが、その中で「自分の決断から逃げない強さ」に気づく。「牙闘獣獄刹」終了後、3億円もの配当を受け取って日常に戻ったものの、瞳に呼び出され初戦で戦った埋立地にて殺害された。",
+        "image": "https://lain.bgm.tv/pic/crt/m/64/0f/59843_crt_0myh8.jpg",
+        "link": "https://bgm.tv/character/59843",
+        "categorie": "person"
+      },
+      {
+        "id": "59844",
+        "label": "中西获座",
+        "info": "八菱財閥に所属する獣闘士で大河の妹。",
+        "image": "https://lain.bgm.tv/pic/crt/m/12/16/59844_crt_46ciy.jpg?r=1520220042",
+        "link": "https://bgm.tv/character/59844",
+        "categorie": "person"
+      },
+      {
+        "id": "59842",
+        "label": "稻叶初",
+        "info": "石田財閥に属している獣闘士。",
+        "image": "https://lain.bgm.tv/pic/crt/m/bc/e8/59842_crt_Klh8b.jpg",
+        "link": "https://bgm.tv/character/59842",
+        "categorie": "person"
+      },
+      {
+        "id": "60763",
+        "label": "祠堂零一",
+        "info": "「牙闘」管理局長で獣人研究の第一人者。元々は遺伝子研究を行う企業を経営していたが、管理局に吸収されている。香港にて生まれ持った獣人である瞳を発見し保護した。研究材料とはいえ、対象の信頼を得るために身体を張る程度の気概は持ち合わせており、そのため瞳は彼に対してだけは従順である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/b9/2c/60763_crt_yynG0.jpg",
+        "link": "https://bgm.tv/character/60763",
+        "categorie": "person"
+      },
+      {
+        "id": "60758",
+        "label": "筱崎舞",
+        "info": "ポニーテールで眼鏡をかけた女性。「牙闘獣獄刹」ではハイテンションなノリで進行役を務めるが、その本来の職務は祠堂の秘書。戦闘能力は高く稲葉を暗殺するために潜ませていた角供財閥の避役暗殺者を生身で叩き伏せる程である。純が獣化手術を受けた際にも祠堂に付きしたがっていたなど柴山同様に古い付き合いで祠堂を「社長」と呼ぶこともある。",
+        "image": "https://lain.bgm.tv/pic/crt/m/3f/f5/60758_crt_5Qq4i.jpg",
+        "link": "https://bgm.tv/character/60758",
+        "categorie": "person"
+      },
+      {
+        "id": "60759",
+        "label": "冈岛壹之助",
+        "info": "石田財閥に所属している獣闘士。身長・189cm。相撲取りのような体格と、九州弁が特徴。獣闘士になることで家族が救われた来歴を持つ。",
+        "image": "https://lain.bgm.tv/pic/crt/m/e6/a7/60759_crt_BI30B.jpg",
+        "link": "https://bgm.tv/character/60759",
+        "categorie": "person"
+      },
+      {
+        "id": "60762",
+        "label": "三门阳湖",
+        "info": "三門財閥の令嬢であり「牙闘獣獄刹」では所属している獣闘士である城戸のプレイヤーとして参加している。生粋のお嬢様故にその考えには独善的なところも多い。",
+        "image": "https://lain.bgm.tv/pic/crt/m/09/8a/60762_crt_buLPO.jpg",
+        "link": "https://bgm.tv/character/60762",
+        "categorie": "person"
+      },
+      {
+        "id": "60760",
+        "label": "中西大河",
+        "info": "身長・180cm。八菱財閥に所属する獣闘士で前回の優勝者。獲座の兄でもある。獅子を宿敵と認めており、対戦を望んでいる。",
+        "image": "https://lain.bgm.tv/pic/crt/m/4c/82/60760_crt_45EKB.jpg",
+        "link": "https://bgm.tv/character/60760",
+        "categorie": "person"
+      },
+      {
+        "id": "60761",
+        "label": "乃埘押絵",
+        "info": "単行本巻末おまけマンガの主人公。学校での瞳のクラスメイトである。少々百合の一面があるショートヘアの眼鏡娘。スイーツを食べる瞳の笑顔が好きで、スイーツのおいしい店を見つけては瞳を連れて行く。名前からラーテルと共生関係にある鳥「ノドグロミツオシエ」を連想させるが、獣人ではない一般人である。",
+        "image": "https://lain.bgm.tv/pic/crt/m/a2/c1/60761_crt_89R30.jpg",
+        "link": "https://bgm.tv/character/60761",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66ccff"
+    }
+  },
+  "data": {
+    "nodes": [
+      {
+        "id": "9885",
+        "label": "高城一砂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/9a/b9/9885_crt_yax3F.jpg?r=1407584352",
+        "link": "https://bgm.tv/character/9885",
+        "categorie": "person"
+      },
+      {
+        "id": "14509",
+        "label": "高城千砂",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/b7/ea/14509_crt_uOOdQ.jpg?r=1407584245",
+        "link": "https://bgm.tv/character/14509",
+        "categorie": "person"
+      },
+      {
+        "id": "9886",
+        "label": "八重樫叶",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/16/25/9886_crt_viSDT.jpg?r=1407584301",
+        "link": "https://bgm.tv/character/9886",
+        "categorie": "person"
+      },
+      {
+        "id": "9887",
+        "label": "江田夏子",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/ed/3b/9887_crt_YmpEA.jpg",
+        "link": "https://bgm.tv/character/9887",
+        "categorie": "person"
+      },
+      {
+        "id": "9888",
+        "label": "木之下",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/50/7a/9888_crt_7VQGH.jpg",
+        "link": "https://bgm.tv/character/9888",
+        "categorie": "person"
+      },
+      {
+        "id": "9900",
+        "label": "护士",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9900",
+        "categorie": "person"
+      },
+      {
+        "id": "14510",
+        "label": "水无濑",
+        "info": "",
+        "image": "https://lain.bgm.tv/pic/crt/m/33/03/14510_crt_vsjaS.jpg",
+        "link": "https://bgm.tv/character/14510",
+        "categorie": "person"
+      },
+      {
+        "id": "14511",
+        "label": "高城百子",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/14511",
+        "categorie": "person"
+      },
+      {
+        "id": "9903",
+        "label": "Chizuna no Haha",
+        "info": "",
+        "image": "https:",
+        "link": "https://bgm.tv/character/9903",
+        "categorie": "person"
+      }
+    ],
+    "edges": []
+  }
+}
